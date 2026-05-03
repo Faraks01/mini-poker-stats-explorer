@@ -1,0 +1,187 @@
+<!DOCTYPE html>
+<html lang="ru" data-theme="dark">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>{% block title %}Обозреватель покерной статистики{% endblock %}</title>
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/@picocss/pico@2/css/pico.min.css">
+    <script src="https://unpkg.com/htmx.org@1.9.10"></script>
+    <style>
+        :root {
+            --pico-font-size: 14px;
+        }
+        .container {
+            max-width: 1400px;
+            padding: 1rem 2rem;
+        }
+        header {
+            margin-bottom: 1.5rem;
+            padding-bottom: 1rem;
+            border-bottom: 1px solid var(--pico-muted-border-color);
+        }
+        header h1 {
+            margin-bottom: 0.25rem;
+        }
+        header p {
+            margin: 0;
+            color: var(--pico-muted-color);
+        }
+        .status-bar {
+            display: flex;
+            gap: 2rem;
+            margin-bottom: 1.5rem;
+            padding: 1rem;
+            background: var(--pico-card-background-color);
+            border-radius: var(--pico-border-radius);
+        }
+        .status-item {
+            display: flex;
+            flex-direction: column;
+            gap: 0.25rem;
+        }
+        .status-item label {
+            font-size: 0.75rem;
+            color: var(--pico-muted-color);
+            text-transform: uppercase;
+        }
+        .status-item .value {
+            font-weight: 600;
+        }
+        .status-item .value.loading {
+            color: var(--pico-primary);
+        }
+        .status-item .value.loaded {
+            color: var(--pico-ins-color);
+        }
+        .status-item .value.error {
+            color: var(--pico-del-color);
+        }
+        .filters {
+            display: flex;
+            gap: 1rem;
+            margin-bottom: 1.5rem;
+            flex-wrap: wrap;
+            align-items: end;
+        }
+        .filters select, .filters input {
+            margin-bottom: 0;
+        }
+        .filters .filter-group {
+            display: flex;
+            flex-direction: column;
+            gap: 0.25rem;
+        }
+        .filters .filter-group label {
+            font-size: 0.75rem;
+            color: var(--pico-muted-color);
+        }
+        table {
+            font-size: 0.875rem;
+        }
+        table th {
+            white-space: nowrap;
+        }
+        .stat-value {
+            font-family: monospace;
+            font-weight: 600;
+        }
+        .stat-value.positive {
+            color: var(--pico-ins-color);
+        }
+        .stat-value.negative {
+            color: var(--pico-del-color);
+        }
+        .stat-value.neutral {
+            color: var(--pico-muted-color);
+        }
+        .badge {
+            display: inline-block;
+            padding: 0.125rem 0.5rem;
+            border-radius: 1rem;
+            font-size: 0.7rem;
+            font-weight: 600;
+            text-transform: uppercase;
+        }
+        .badge.available {
+            background: var(--pico-ins-color);
+            color: var(--pico-background-color);
+        }
+        .badge.low-sample {
+            background: var(--pico-mark-background-color);
+            color: var(--pico-mark-color);
+        }
+        .badge.no-data {
+            background: var(--pico-muted-border-color);
+            color: var(--pico-muted-color);
+        }
+        .badge.no-stat {
+            background: var(--pico-del-color);
+            color: var(--pico-background-color);
+        }
+        .sample-info {
+            font-size: 0.75rem;
+            color: var(--pico-muted-color);
+        }
+        .htmx-indicator {
+            display: none;
+        }
+        .htmx-request .htmx-indicator {
+            display: inline-block;
+        }
+        .htmx-request.htmx-indicator {
+            display: inline-block;
+        }
+        .spinner {
+            display: inline-block;
+            width: 1rem;
+            height: 1rem;
+            border: 2px solid var(--pico-muted-color);
+            border-top-color: var(--pico-primary);
+            border-radius: 50%;
+            animation: spin 0.8s linear infinite;
+        }
+        @keyframes spin {
+            to { transform: rotate(360deg); }
+        }
+        .comparison-grid {
+            display: grid;
+            grid-template-columns: 1fr 1fr;
+            gap: 1rem;
+        }
+        .comparison-card {
+            padding: 1rem;
+            background: var(--pico-card-background-color);
+            border-radius: var(--pico-border-radius);
+        }
+        .comparison-card h4 {
+            margin: 0 0 0.5rem 0;
+            font-size: 0.875rem;
+            color: var(--pico-muted-color);
+        }
+        .comparison-card .big-value {
+            font-size: 2rem;
+            font-weight: 700;
+            font-family: monospace;
+        }
+        .delta-display {
+            text-align: center;
+            padding: 1.5rem;
+        }
+        .delta-display .label {
+            font-size: 0.75rem;
+            color: var(--pico-muted-color);
+            margin-bottom: 0.25rem;
+        }
+        .delta-display .value {
+            font-size: 2.5rem;
+            font-weight: 700;
+            font-family: monospace;
+        }
+    </style>
+</head>
+<body>
+    <main class="container">
+        {% block content %}{% endblock %}
+    </main>
+</body>
+</html>

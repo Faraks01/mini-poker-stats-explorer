@@ -1,0 +1,40 @@
+<div class="status-item">
+    <label>Данные GTO</label>
+    <span class="value {{ 'loaded' if gto.state == 'loaded' else 'loading' if gto.state == 'loading' else 'error' if gto.state == 'error' else '' }}">
+        {% if gto.state == 'loaded' %}
+            ✓ {{ "{:,}".format(gto.hands_count) }} раздач
+        {% elif gto.state == 'loading' %}
+            ⟳ Загрузка {{ gto.files_loaded }}/{{ gto.files_total }} файлов...
+        {% elif gto.state == 'error' %}
+            ✗ Ошибка
+        {% else %}
+            ○ Не загружено
+        {% endif %}
+    </span>
+</div>
+
+<div class="status-item">
+    <label>Данные популяции</label>
+    <span class="value {{ 'loaded' if pop.state == 'loaded' else 'loading' if pop.state == 'loading' else 'error' if pop.state == 'error' else '' }}">
+        {% if pop.state == 'loaded' %}
+            ✓ {{ "{:,}".format(pop.hands_count) }} раздач
+        {% elif pop.state == 'loading' %}
+            ⟳ Загрузка {{ pop.files_loaded }}/{{ pop.files_total }} файлов...
+        {% elif pop.state == 'error' %}
+            ✗ Ошибка
+        {% else %}
+            ○ Не загружено
+        {% endif %}
+    </span>
+</div>
+
+{% if pop.state == 'not_started' %}
+<div class="status-item">
+    <button class="secondary outline" 
+            hx-post="/ui/load-population" 
+            hx-swap="none"
+            style="margin: 0; padding: 0.25rem 0.75rem;">
+        Загрузить популяцию
+    </button>
+</div>
+{% endif %}

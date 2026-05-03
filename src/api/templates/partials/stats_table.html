@@ -1,0 +1,85 @@
+{% from "partials/_macros.html" import state_label %}
+{% if stats %}
+<table>
+    <thead>
+        <tr>
+            <th>Стат</th>
+            <th>Спот</th>
+            <th>Формация</th>
+            <th>Поз.</th>
+            <th>Роль</th>
+            <th>Улица</th>
+            <th>GTO</th>
+            <th>Популяция</th>
+            <th>Дельта</th>
+            <th>Статус</th>
+            <th></th>
+        </tr>
+    </thead>
+    <tbody>
+        {% for stat in stats %}
+        <tr>
+            <td>
+                <strong>{{ stat.label }}</strong>
+                <br><small class="sample-info">{{ stat.id }}</small>
+            </td>
+            <td>{{ stat.spot or '-' }}</td>
+            <td>{{ stat.formation or '-' }}</td>
+            <td>{{ stat.position or '-' }}</td>
+            <td>{{ stat.role or '-' }}</td>
+            <td>{{ stat.street or '-' }}</td>
+            <td class="stat-value">
+                {% if stat.gto_value is not none %}
+                    {{ "%.1f%%"|format(stat.gto_value * 100) }}
+                    <br><small class="sample-info">n={{ stat.gto_sample }}</small>
+                {% else %}
+                    <span class="neutral">-</span>
+                {% endif %}
+            </td>
+            <td class="stat-value">
+                {% if stat.pop_value is not none %}
+                    {{ "%.1f%%"|format(stat.pop_value * 100) }}
+                    <br><small class="sample-info">n={{ stat.pop_sample }}</small>
+                {% else %}
+                    <span class="neutral">-</span>
+                {% endif %}
+            </td>
+            <td class="stat-value {{ 'positive' if stat.delta and stat.delta > 0 else 'negative' if stat.delta and stat.delta < 0 else 'neutral' }}">
+                {% if stat.delta is not none %}
+                    {{ "%+.1f%%"|format(stat.delta * 100) }}
+                {% else %}
+                    -
+                {% endif %}
+            </td>
+            <td>
+                <span class="badge {{ stat.state|lower|replace('_', '-') }}">
+                    {{ state_label(stat.state) }}
+                </span>
+            </td>
+            <td>
+                <button class="outline secondary" 
+                        style="padding: 0.25rem 0.5rem; margin: 0;"
+                        onclick="showComparison('{{ stat.id }}')">
+                    Подробнее
+                </button>
+            </td>
+        </tr>
+        {% endfor %}
+    </tbody>
+</table>
+<p class="sample-info">
+    Показано {{ stats|length }} из {{ total_count }} (смещение {{ offset }})
+</p>
+{% if has_next and next_query %}
+<p>
+    <button type="button" class="secondary"
+            hx-get="/ui/stats-table?{{ next_query }}"
+            hx-target="#stats-table"
+            hx-swap="innerHTML">
+        Следующая страница
+    </button>
+</p>
+{% endif %}
+{% else %}
+<p>Нет статистик, подходящих под текущие фильтры.</p>
+{% endif %}

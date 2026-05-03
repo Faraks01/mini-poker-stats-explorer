@@ -1,0 +1,9 @@
+{% macro state_label(state) -%}
+{%- if state == 'AVAILABLE' -%}Доступно
+{%- elif state == 'NO_DATA' -%}Нет данных
+{%- elif state == 'NO_STAT' -%}Нет стата
+{%- elif state == 'LOW_SAMPLE' -%}Мало выборки
+{%- elif state == 'INVALID_CONTEXT' -%}Некорректный контекст
+{%- else -%}{{ state }}
+{%- endif -%}
+{%- endmacro %}

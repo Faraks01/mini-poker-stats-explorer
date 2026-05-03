@@ -1,0 +1,133 @@
+{% extends "base.html" %}
+
+{% block content %}
+<header>
+    <h1>Mini Poker Stats Explorer</h1>
+    <p>Дашборд: популяция vs GTO</p>
+</header>
+
+<div class="status-bar" 
+     hx-get="/ui/status" 
+     hx-trigger="load, every 3s"
+     hx-swap="innerHTML">
+    <span class="spinner"></span> Загрузка статуса...
+</div>
+
+<div class="filters">
+    <div class="filter-group">
+        <label>Спот</label>
+        <select id="filter-spot" onchange="updateFilters()">
+            <option value="">Все</option>
+            <option value="SRP">SRP</option>
+            <option value="3BP">3BP</option>
+        </select>
+    </div>
+    <div class="filter-group">
+        <label>Формация</label>
+        <select id="filter-formation" onchange="updateFilters()">
+            <option value="">Все</option>
+            <option value="BB_SB">BB_SB</option>
+            <option value="BB_BTN">BB_BTN</option>
+        </select>
+    </div>
+    <div class="filter-group">
+        <label>Позиция</label>
+        <select id="filter-position" onchange="updateFilters()">
+            <option value="">Все</option>
+            <option value="IP">IP</option>
+            <option value="OOP">OOP</option>
+        </select>
+    </div>
+    <div class="filter-group">
+        <label>Роль</label>
+        <select id="filter-role" onchange="updateFilters()">
+            <option value="">Все</option>
+            <option value="PFR">PFR</option>
+            <option value="PFC">PFC</option>
+        </select>
+    </div>
+    <div class="filter-group">
+        <label>Статус</label>
+        <select id="filter-state" onchange="updateFilters()">
+            <option value="" selected>Все</option>
+            <option value="AVAILABLE">Доступно</option>
+            <option value="NO_DATA">Нет данных</option>
+            <option value="NO_STAT">Нет стата</option>
+        </select>
+    </div>
+    <div class="filter-group">
+        <label>Улица (руки)</label>
+        <select id="filter-hand-street" onchange="updateFilters()">
+            <option value="">Все</option>
+            <option value="flop">Flop</option>
+            <option value="turn">Turn</option>
+            <option value="river">River</option>
+        </select>
+    </div>
+    <div class="filter-group">
+        <label>Префикс линии</label>
+        <input type="text" id="filter-line-prefix" placeholder="напр. B" onchange="updateFilters()" style="max-width: 6rem;" />
+    </div>
+    <button class="secondary" onclick="resetFilters()">Сброс</button>
+</div>
+
+<div id="stats-table"
+     hx-get="/ui/stats-table"
+     hx-trigger="load"
+     hx-swap="innerHTML">
+    <span class="spinner"></span> Загрузка статистик...
+</div>
+
+<script>
+function tableFilterParams() {
+    const params = new URLSearchParams();
+    const spot = document.getElementById('filter-spot').value;
+    const formation = document.getElementById('filter-formation').value;
+    const position = document.getElementById('filter-position').value;
+    const role = document.getElementById('filter-role').value;
+    const state = document.getElementById('filter-state').value;
+    const handStreet = document.getElementById('filter-hand-street').value;
+    const linePrefix = document.getElementById('filter-line-prefix').value.trim();
+    if (spot) params.set('spot', spot);
+    if (formation) params.set('formation', formation);
+    if (position) params.set('position', position);
+    if (role) params.set('role', role);
+    if (state) params.set('state', state);
+    if (handStreet) params.set('hand_street', handStreet);
+    if (linePrefix) params.set('hand_line_prefix', linePrefix);
+    params.set('offset', '0');
+    return params;
+}
+
+function updateFilters() {
+    const params = tableFilterParams();
+    htmx.ajax('GET', '/ui/stats-table?' + params.toString(), '#stats-table');
+}
+
+function resetFilters() {
+    document.getElementById('filter-spot').value = '';
+    document.getElementById('filter-formation').value = '';
+    document.getElementById('filter-position').value = '';
+    document.getElementById('filter-role').value = '';
+    document.getElementById('filter-state').value = '';
+    document.getElementById('filter-hand-street').value = '';
+    document.getElementById('filter-line-prefix').value = '';
+    updateFilters();
+}
+
+function showComparison(statId) {
+    const params = tableFilterParams();
+    params.delete('offset');
+    const q = params.toString();
+    const url = q ? '/ui/comparison/' + statId + '?' + q : '/ui/comparison/' + statId;
+    htmx.ajax('GET', url, '#comparison-modal');
+    document.getElementById('comparison-modal').showModal();
+}
+</script>
+
+<dialog id="comparison-modal">
+    <article style="min-width: 600px;">
+        <span class="spinner"></span> Загрузка сравнения...
+    </article>
+</dialog>
+{% endblock %}

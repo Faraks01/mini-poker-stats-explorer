@@ -1,0 +1,79 @@
+{% from "partials/_macros.html" import state_label %}
+<article>
+    <header>
+        <button aria-label="Закрыть" rel="prev" onclick="document.getElementById('comparison-modal').close()"></button>
+        <h3>{{ stat.label }}</h3>
+        <p style="margin: 0; color: var(--pico-muted-color);">{{ stat.description }}</p>
+    </header>
+    
+    <div style="margin-bottom: 1rem;">
+        <span class="badge {{ stat.state|lower|replace('_', '-') }}">{{ state_label(stat.state) }}</span>
+        <span style="margin-left: 0.5rem; font-size: 0.875rem; color: var(--pico-muted-color);">
+            {{ stat.spot }} · {{ stat.formation }} · {{ stat.position }} {{ stat.role }}
+        </span>
+    </div>
+    
+    <div class="comparison-grid">
+        <div class="comparison-card">
+            <h4>Эталон GTO</h4>
+            <div class="big-value">
+                {% if cmp.gto_value is not none %}
+                    {{ "%.1f%%"|format(cmp.gto_value * 100) }}
+                {% else %}
+                    -
+                {% endif %}
+            </div>
+            <div class="sample-info">
+                {{ cmp.gto_numerator }} / {{ cmp.gto_sample }} раздач
+                {% if cmp.gto_sample < stat.min_sample %}
+                    <br><mark>Ниже мин. выборки ({{ stat.min_sample }})</mark>
+                {% endif %}
+            </div>
+        </div>
+        
+        <div class="comparison-card">
+            <h4>Популяция</h4>
+            <div class="big-value">
+                {% if cmp.population_value is not none %}
+                    {{ "%.1f%%"|format(cmp.population_value * 100) }}
+                {% else %}
+                    -
+                {% endif %}
+            </div>
+            <div class="sample-info">
+                {{ cmp.population_numerator }} / {{ cmp.population_sample }} раздач
+                {% if cmp.population_sample < stat.min_sample %}
+                    <br><mark>Ниже мин. выборки ({{ stat.min_sample }})</mark>
+                {% endif %}
+            </div>
+        </div>
+    </div>
+    
+    <div class="delta-display">
+        <div class="label">Дельта (популяция − GTO)</div>
+        <div class="value {{ 'positive' if delta and delta > 0 else 'negative' if delta and delta < 0 else 'neutral' }}">
+            {% if delta is not none %}
+                {{ "%+.2f%%"|format(delta * 100) }}
+            {% else %}
+                н/д
+            {% endif %}
+        </div>
+        {% if delta is not none %}
+        <p style="margin-top: 0.5rem; font-size: 0.875rem; color: var(--pico-muted-color);">
+            {% if delta > 0.05 %}
+                Популяция существенно выше частоты GTO
+            {% elif delta < -0.05 %}
+                Популяция существенно ниже частоты GTO
+            {% else %}
+                Популяция близка к частоте GTO
+            {% endif %}
+        </p>
+        {% endif %}
+    </div>
+    
+    <footer>
+        <small class="sample-info">
+            Контекст: {{ stat.context_filters }}
+        </small>
+    </footer>
+</article>
