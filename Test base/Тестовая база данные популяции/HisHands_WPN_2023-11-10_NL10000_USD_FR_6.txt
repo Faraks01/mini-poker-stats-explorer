@@ -1,0 +1,143 @@
+
+Hand #1925740250 - Holdem(No Limit) - $50/$100 - 2023/11/10 05:53:15 UTC
+7 Day No Rathole 50/100 NLH 9-max Seat #2 is the button
+Seat 1: Sabazius ($1000)
+Seat 2: lmpala_zOrg ($8240.52)
+lmpala_zOrg posts the small blind $50
+Sabazius posts the big blind $100
+*** HOLE CARDS *** 
+lmpala_zOrg calls $50
+Sabazius raises $900 to $1000 and is all-in
+lmpala_zOrg folds
+Uncalled bet ($900) returned to Sabazius
+Sabazius does not show
+*** SUMMARY ***
+Total pot $200
+Seat 1: Sabazius (big blind) did not showed and won $200
+Seat 2: lmpala_zOrg (small blind) folded on the Pre-Flop
+
+
+Hand #1925740490 - Holdem(No Limit) - $50/$100 - 2023/11/10 05:53:51 UTC
+7 Day No Rathole 50/100 NLH 9-max Seat #1 is the button
+Seat 1: Sabazius ($1100)
+Seat 2: lmpala_zOrg ($8140.52)
+Sabazius posts the small blind $50
+lmpala_zOrg posts the big blind $100
+*** HOLE CARDS *** 
+Sabazius calls $50
+lmpala_zOrg raises $8040.52 to $8140.52 and is all-in
+Sabazius folds
+Uncalled bet ($8040.52) returned to lmpala_zOrg
+lmpala_zOrg does not show
+*** SUMMARY ***
+Total pot $200
+Seat 1: Sabazius (small blind) folded on the Pre-Flop
+Seat 2: lmpala_zOrg (big blind) did not showed and won $200
+
+
+Hand #1925741023 - Holdem(No Limit) - $50/$100 - 2023/11/10 05:54:28 UTC
+7 Day No Rathole 50/100 NLH 9-max Seat #2 is the button
+Seat 1: Sabazius ($10000)
+Seat 2: lmpala_zOrg ($8240.52)
+Seat 3: Pr.Lupine ($3485.74)
+lmpala_zOrg posts the small blind $50
+Pr.Lupine posts the big blind $100
+*** HOLE CARDS *** 
+lmpala_zOrg raises $150 to $200
+Pr.Lupine calls $100
+*** FLOP *** [9h 3h 9s]
+Main pot $398.75 | Rake $1.25
+Pr.Lupine checks
+lmpala_zOrg bets $250
+Pr.Lupine folds
+Uncalled bet ($250) returned to lmpala_zOrg
+lmpala_zOrg does not show
+*** SUMMARY ***
+Total pot $398.75 | Rake $1.25
+Seat 2: lmpala_zOrg (small blind) did not showed and won $398.75
+Seat 3: Pr.Lupine (big blind) folded on the Flop
+
+
+Hand #1925741450 - Holdem(No Limit) - $50/$100 - 2023/11/10 05:55:21 UTC
+7 Day No Rathole 50/100 NLH 9-max Seat #3 is the button
+Seat 2: lmpala_zOrg ($8439.27)
+Seat 3: Pr.Lupine ($3285.74)
+Seat 4: FlyingStyle ($10000)
+Pr.Lupine posts the small blind $50
+lmpala_zOrg posts the big blind $100
+*** HOLE CARDS *** 
+Pr.Lupine raises $150 to $200
+lmpala_zOrg calls $100
+*** FLOP *** [Qs 3c 6d]
+Main pot $398.75 | Rake $1.25
+lmpala_zOrg checks
+Pr.Lupine checks
+*** TURN *** [Qs 3c 6d] [3s]
+Main pot $398.75 | Rake $1.25
+lmpala_zOrg checks
+Pr.Lupine checks
+*** RIVER *** [Qs 3c 6d 3s] [9d]
+Main pot $398.75 | Rake $1.25
+lmpala_zOrg bets $200
+Pr.Lupine calls $200
+*** SHOW DOWN ***
+Main pot $398.75 | Rake $1.25
+Pr.Lupine shows [2h Kd]
+Pr.Lupine collected $798.75 from main pot
+*** SUMMARY ***
+Total pot $798.75 | Rake $1.25
+Seat 2: lmpala_zOrg (big blind) did not showed and lost
+Seat 3: Pr.Lupine (small blind) showed [2h Kd] and won $798.75 with OnePair [3s 3c Kd Qs 9d]
+
+
+Hand #1925742013 - Holdem(No Limit) - $50/$100 - 2023/11/10 05:55:36 UTC
+7 Day No Rathole 50/100 NLH 9-max Seat #2 is the button
+Seat 2: lmpala_zOrg ($8039.27)
+Seat 3: Pr.Lupine ($10000)
+Seat 4: FlyingStyle ($2891)
+lmpala_zOrg posts the small blind $50
+FlyingStyle posts the big blind $100
+*** HOLE CARDS *** 
+lmpala_zOrg raises $150 to $200
+FlyingStyle folds
+Uncalled bet ($100) returned to lmpala_zOrg
+lmpala_zOrg does not show
+*** SUMMARY ***
+Total pot $200
+Seat 2: lmpala_zOrg (small blind) did not showed and won $200
+Seat 4: FlyingStyle (big blind) folded on the Pre-Flop
+
+
+Hand #1925742122 - Holdem(No Limit) - $50/$100 - 2023/11/10 05:56:40 UTC
+7 Day No Rathole 50/100 NLH 9-max Seat #4 is the button
+Seat 2: lmpala_zOrg ($8139.27)
+Seat 4: FlyingStyle ($2791)
+FlyingStyle posts the small blind $50
+lmpala_zOrg posts the big blind $100
+*** HOLE CARDS *** 
+FlyingStyle raises $150 to $200
+lmpala_zOrg calls $100
+*** FLOP *** [Qc 7c Ah]
+Main pot $398.75 | Rake $1.25
+lmpala_zOrg checks
+FlyingStyle checks
+*** TURN *** [Qc 7c Ah] [4h]
+Main pot $398.75 | Rake $1.25
+lmpala_zOrg checks
+FlyingStyle checks
+*** RIVER *** [Qc 7c Ah 4h] [Tc]
+Main pot $398.75 | Rake $1.25
+lmpala_zOrg checks
+FlyingStyle checks
+*** SHOW DOWN ***
+Main pot $398.75 | Rake $1.25
+lmpala_zOrg shows [Kh Ts]
+lmpala_zOrg collected $398.75 from main pot
+*** SUMMARY ***
+Total pot $398.75 | Rake $1.25
+Seat 2: lmpala_zOrg (big blind) showed [Kh Ts] and won $398.75 with OnePair [Ts Tc Ah Kh Qc]
+Seat 4: FlyingStyle (small blind) did not showed and lost
+
+
+
+

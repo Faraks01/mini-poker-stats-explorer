@@ -1,0 +1,209 @@
+PokerStars Hand #1519060057:  Hold'em No Limit ($50.00/$100.00 USD) - 2023/01/12 09:30:12 ET
+Table 'WPN_7 Day No Rathole 50/100 NLH' 9-max Seat #7 is the button
+Seat 2: chop-ch0p ($2345.00 in chips)
+Seat 7: moneybyebye ($1998.25 in chips)
+Seat 8: el0el ($3682.72 in chips)
+el0el: posts small blind $50.00
+chop-ch0p: posts big blind $100.00
+*** HOLE CARDS ***
+moneybyebye: raises $100.00 to $200.00
+el0el: folds
+chop-ch0p: folds
+Uncalled bet ($100.00) returned to moneybyebye
+moneybyebye collected $250.00 from pot
+moneybyebye: doesn't show hand
+*** SUMMARY ***
+Total pot $250.00 | Rake $0.00
+Seat 2: chop-ch0p (big blind) folded before Flop
+Seat 7: moneybyebye (button) collected ($250.00)
+Seat 8: el0el (small blind) folded before Flop
+
+PokerStars Hand #1519059843:  Hold'em No Limit ($50.00/$100.00 USD) - 2023/01/12 09:29:43 ET
+Table 'WPN_7 Day No Rathole 50/100 NLH' 9-max Seat #2 is the button
+Seat 2: chop-ch0p ($2345.00 in chips)
+Seat 7: moneybyebye ($1000.00 in chips)
+Seat 8: el0el ($4682.72 in chips)
+moneybyebye: posts small blind $50.00
+el0el: posts big blind $100.00
+*** HOLE CARDS ***
+chop-ch0p: folds
+moneybyebye: calls $50.00
+el0el: raises $950.00 to $1050.00
+moneybyebye: calls $900.00 and is all-in
+Uncalled bet ($50.00) returned to el0el
+*** FLOP *** [6c 4h 5c]
+*** TURN *** [6c 4h 5c] [4c]
+*** RIVER *** [6c 4h 5c 4c] [3h]
+*** SHOW DOWN ***
+moneybyebye: shows [Kh Kc]
+el0el: shows [Qd Jh]
+moneybyebye collected $1998.25 from pot
+*** SUMMARY ***
+Total pot $2000.00 | Rake $1.75
+Board [6c 4h 5c 4c 3h]
+Seat 2: chop-ch0p (button) folded before Flop (didn't bet)
+Seat 7: moneybyebye (small blind) showed [Kh Kc] and won ($1998.25)
+Seat 8: el0el (big blind) showed [Qd Jh] and lost
+
+PokerStars Hand #1519059560:  Hold'em No Limit ($50.00/$100.00 USD) - 2023/01/12 09:29:01 ET
+Table 'WPN_7 Day No Rathole 50/100 NLH' 9-max Seat #2 is the button
+Seat 2: chop-ch0p ($2246.25 in chips)
+Seat 7: moneybyebye ($1100.00 in chips)
+chop-ch0p: posts small blind $50.00
+moneybyebye: posts big blind $100.00
+*** HOLE CARDS ***
+chop-ch0p: calls $50.00
+moneybyebye: checks
+*** FLOP *** [Ad 7d 8c]
+moneybyebye: checks
+chop-ch0p: bets $100.00
+moneybyebye: folds
+Uncalled bet ($100.00) returned to chop-ch0p
+chop-ch0p collected $198.75 from pot
+chop-ch0p: doesn't show hand
+*** SUMMARY ***
+Total pot $200.00 | Rake $1.25
+Board [Ad 7d 8c]
+Seat 2: chop-ch0p (button) (small blind) collected ($198.75)
+Seat 7: moneybyebye (big blind) folded on the Flop
+
+PokerStars Hand #1519057221:  Hold'em No Limit ($50.00/$100.00 USD) - 2023/01/12 09:23:33 ET
+Table 'WPN_7 Day No Rathole 50/100 NLH' 9-max Seat #2 is the button
+Seat 2: chop-ch0p ($1098.75 in chips)
+Seat 7: newreg ($1000.00 in chips)
+chop-ch0p: posts small blind $50.00
+newreg: posts big blind $100.00
+*** HOLE CARDS ***
+chop-ch0p: calls $50.00
+newreg: raises $900.00 to $1000.00 and is all-in
+chop-ch0p: calls $900.00
+*** FLOP *** [6d 5c 5h]
+*** TURN *** [6d 5c 5h] [9s]
+*** RIVER *** [6d 5c 5h 9s] [Jd]
+*** SHOW DOWN ***
+chop-ch0p: shows [Kc Ks]
+newreg: shows [4s Kd]
+chop-ch0p collected $1998.75 from pot
+*** SUMMARY ***
+Total pot $2000.00 | Rake $1.25
+Board [6d 5c 5h 9s Jd]
+Seat 2: chop-ch0p (button) (small blind) showed [Kc Ks] and won ($1998.75)
+Seat 7: newreg (big blind) showed [4s Kd] and lost
+
+PokerStars Hand #1519057433:  Hold'em No Limit ($50.00/$100.00 USD) - 2023/01/12 09:24:03 ET
+Table 'WPN_7 Day No Rathole 50/100 NLH' 9-max Seat #7 is the button
+Seat 2: chop-ch0p ($2147.50 in chips)
+Seat 7: newreg ($1000.00 in chips)
+newreg: posts small blind $50.00
+chop-ch0p: posts big blind $100.00
+*** HOLE CARDS ***
+newreg: raises $900.00 to $1000.00 and is all-in
+chop-ch0p: folds
+Uncalled bet ($900.00) returned to newreg
+newreg collected $200.00 from pot
+newreg: doesn't show hand
+*** SUMMARY ***
+Total pot $200.00 | Rake $0.00
+Seat 2: chop-ch0p (big blind) folded before Flop
+Seat 7: newreg (button) (small blind) collected ($200.00)
+
+PokerStars Hand #1519057537:  Hold'em No Limit ($50.00/$100.00 USD) - 2023/01/12 09:24:16 ET
+Table 'WPN_7 Day No Rathole 50/100 NLH' 9-max Seat #2 is the button
+Seat 2: chop-ch0p ($2047.50 in chips)
+Seat 7: newreg ($1100.00 in chips)
+chop-ch0p: posts small blind $50.00
+newreg: posts big blind $100.00
+*** HOLE CARDS ***
+chop-ch0p: folds
+Uncalled bet ($50.00) returned to newreg
+newreg collected $100.00 from pot
+newreg: doesn't show hand
+*** SUMMARY ***
+Total pot $100.00 | Rake $0.00
+Seat 2: chop-ch0p (button) (small blind) folded before Flop
+Seat 7: newreg (big blind) collected ($100.00)
+
+PokerStars Hand #1519057666:  Hold'em No Limit ($50.00/$100.00 USD) - 2023/01/12 09:24:34 ET
+Table 'WPN_7 Day No Rathole 50/100 NLH' 9-max Seat #7 is the button
+Seat 2: chop-ch0p ($1997.50 in chips)
+Seat 7: newreg ($1150.00 in chips)
+newreg: posts small blind $50.00
+chop-ch0p: posts big blind $100.00
+*** HOLE CARDS ***
+newreg: calls $50.00
+chop-ch0p: raises $150.00 to $250.00
+newreg: calls $150.00
+*** FLOP *** [4c 3c Ah]
+chop-ch0p: bets $125.00
+newreg: folds
+Uncalled bet ($125.00) returned to chop-ch0p
+chop-ch0p collected $498.75 from pot
+chop-ch0p: doesn't show hand
+*** SUMMARY ***
+Total pot $500.00 | Rake $1.25
+Board [4c 3c Ah]
+Seat 2: chop-ch0p (big blind) collected ($498.75)
+Seat 7: newreg (button) (small blind) folded on the Flop
+
+PokerStars Hand #1519050855:  Hold'em No Limit ($50.00/$100.00 USD) - 2023/01/12 09:08:56 ET
+Table 'WPN_7 Day No Rathole 50/100 NLH' 9-max Seat #7 is the button
+Seat 2: chop-ch0p ($1149.37 in chips)
+Seat 7: newreg ($1000.00 in chips)
+newreg: posts small blind $50.00
+chop-ch0p: posts big blind $100.00
+*** HOLE CARDS ***
+newreg: raises $900.00 to $1000.00 and is all-in
+chop-ch0p: calls $900.00
+*** FIRST FLOP *** [4h Jc Js]
+*** FIRST TURN *** [4h Jc Js] [6c]
+*** FIRST RIVER *** [4h Jc Js 6c] [Ac]
+*** SECOND FLOP *** [Kc 2h 8d]
+*** SECOND TURN *** [Kc 2h 8d] [5c]
+*** SECOND RIVER *** [Kc 2h 8d 5c] [4s]
+*** FIRST SHOW DOWN ***
+chop-ch0p: shows [Jh Ad]
+newreg: shows [8h 7h]
+chop-ch0p collected $999.38 from pot
+*** SECOND SHOW DOWN ***
+chop-ch0p: shows [Jh Ad]
+newreg: shows [8h 7h]
+newreg collected $999.37 from pot
+*** SUMMARY ***
+Total pot $2000.00 | Rake $1.25
+Hand was run twice
+FIRST Board [4h Jc Js 6c Ac]
+SECOND Board [Kc 2h 8d 5c 4s]
+Seat 2: chop-ch0p (big blind) showed [Jh Ad] and won ($999.38), and lost
+Seat 7: newreg (button) (small blind) showed [8h 7h] and lost, and won ($999.37)
+
+PokerStars Hand #1518843653:  Hold'em No Limit ($50.00/$100.00 USD) - 2023/01/12 04:38:38 ET
+Table 'WPN_7 Day No Rathole 50/100 NLH' 9-max Seat #6 is the button
+Seat 1: spicymayo ($2479.96 in chips)
+Seat 2: oneplusone ($2447.75 in chips)
+Seat 3: Pr.Lupine ($3561.95 in chips)
+Seat 4: notvrygud ($1250.00 in chips)
+Seat 5: PANDAisEVIL ($3532.75 in chips)
+Seat 6: FreeRakeback ($3376.59 in chips)
+Seat 7: bigsoowoop ($10893.48 in chips)
+Seat 8: CPUrul0r ($1150.00 in chips)
+bigsoowoop: posts small blind $50.00
+oneplusone: posts big blind $100.00
+*** HOLE CARDS ***
+Pr.Lupine: folds
+notvrygud: folds
+PANDAisEVIL: folds
+FreeRakeback: raises $100.00 to $200.00
+bigsoowoop: folds
+oneplusone: folds
+Uncalled bet ($100.00) returned to FreeRakeback
+FreeRakeback collected $250.00 from pot
+FreeRakeback: doesn't show hand
+*** SUMMARY ***
+Total pot $250.00 | Rake $0.00
+Seat 2: oneplusone (big blind) folded before Flop
+Seat 3: Pr.Lupine folded before Flop (didn't bet)
+Seat 4: notvrygud folded before Flop (didn't bet)
+Seat 5: PANDAisEVIL folded before Flop (didn't bet)
+Seat 6: FreeRakeback (button) collected ($250.00)
+Seat 7: bigsoowoop (small blind) folded before Flop
+

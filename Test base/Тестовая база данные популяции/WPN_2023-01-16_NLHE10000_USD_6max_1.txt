@@ -1,0 +1,5260 @@
+PokerStars Hand #1525003749:  Hold'em No Limit ($50.00/$100.00 USD) - 2023/01/16 20:29:12 ET
+Table 'WPN_Hollyvilla' 6-max Seat #6 is the button
+Seat 1: Thelittle200 ($4498.50 in chips)
+Seat 2: xplo1t4bl3 ($13235.94 in chips)
+Seat 3: DoublelegTD ($23628.88 in chips)
+Seat 6: oneplusone ($11471.53 in chips)
+Thelittle200: posts small blind $50.00
+DoublelegTD: posts big blind $100.00
+*** HOLE CARDS ***
+oneplusone: folds
+Thelittle200: raises $200.00 to $300.00
+DoublelegTD: calls $200.00
+*** FLOP *** [6d 2s Qs]
+Thelittle200: checks
+DoublelegTD: checks
+*** TURN *** [6d 2s Qs] [Ts]
+Thelittle200: bets $449.00
+DoublelegTD: calls $449.00
+*** RIVER *** [6d 2s Qs Ts] [Jc]
+Thelittle200: checks
+DoublelegTD: checks
+*** SHOW DOWN ***
+Thelittle200: shows [Jh Kh]
+DoublelegTD: mucks hand
+Thelittle200 collected $1496.25 from pot
+*** SUMMARY ***
+Total pot $1498.00 | Rake $1.75
+Board [6d 2s Qs Ts Jc]
+Seat 1: Thelittle200 (small blind) showed [Jh Kh] and won ($1496.25)
+Seat 3: DoublelegTD (big blind) mucked
+Seat 6: oneplusone (button) folded before Flop (didn't bet)
+
+PokerStars Hand #1525002449:  Hold'em No Limit ($50.00/$100.00 USD) - 2023/01/16 20:28:15 ET
+Table 'WPN_Hollyvilla' 6-max Seat #4 is the button
+Seat 1: Thelittle200 ($4598.50 in chips)
+Seat 2: xplo1t4bl3 ($10250.00 in chips)
+Seat 3: DoublelegTD ($23628.88 in chips)
+Seat 4: MR1990 ($2838.94 in chips)
+Seat 6: oneplusone ($11521.53 in chips)
+oneplusone: posts small blind $50.00
+Thelittle200: posts big blind $100.00
+*** HOLE CARDS ***
+xplo1t4bl3: raises $100.00 to $200.00
+DoublelegTD: folds
+MR1990: calls $200.00
+oneplusone: folds
+Thelittle200: folds
+*** FLOP *** [9h 6d Th]
+xplo1t4bl3: checks
+MR1990: bets $363.00
+xplo1t4bl3: calls $363.00
+*** TURN *** [9h 6d Th] [4h]
+xplo1t4bl3: checks
+MR1990: checks
+*** RIVER *** [9h 6d Th 4h] [4s]
+xplo1t4bl3: bets $2400.00
+MR1990: calls $2275.94 and is all-in
+Uncalled bet ($124.06) returned to xplo1t4bl3
+*** SHOW DOWN ***
+xplo1t4bl3: shows [Qh Ah]
+MR1990: shows [Ad Ts]
+xplo1t4bl3 collected $5824.88 from pot
+*** SUMMARY ***
+Total pot $5827.88 | Rake $3.00
+Board [9h 6d Th 4h 4s]
+Seat 1: Thelittle200 (big blind) folded before Flop
+Seat 2: xplo1t4bl3 showed [Qh Ah] and won ($5824.88)
+Seat 3: DoublelegTD folded before Flop (didn't bet)
+Seat 4: MR1990 (button) showed [Ad Ts] and lost
+Seat 6: oneplusone (small blind) folded before Flop
+
+PokerStars Hand #1525001745:  Hold'em No Limit ($50.00/$100.00 USD) - 2023/01/16 20:27:45 ET
+Table 'WPN_Hollyvilla' 6-max Seat #3 is the button
+Seat 1: Thelittle200 ($4598.50 in chips)
+Seat 2: xplo1t4bl3 ($10250.00 in chips)
+Seat 3: DoublelegTD ($23628.88 in chips)
+Seat 4: MR1990 ($2591.94 in chips)
+Seat 6: oneplusone ($11771.53 in chips)
+MR1990: posts small blind $50.00
+oneplusone: posts big blind $100.00
+*** HOLE CARDS ***
+Thelittle200: folds
+xplo1t4bl3: folds
+DoublelegTD: folds
+MR1990: raises $150.00 to $250.00
+oneplusone: calls $150.00
+*** FLOP *** [Qs 8d 6h]
+MR1990: bets $200.00
+oneplusone: folds
+Uncalled bet ($200.00) returned to MR1990
+MR1990 collected $497.00 from pot
+MR1990: doesn't show hand
+*** SUMMARY ***
+Total pot $500.00 | Rake $3.00
+Board [Qs 8d 6h]
+Seat 1: Thelittle200 folded before Flop (didn't bet)
+Seat 2: xplo1t4bl3 folded before Flop (didn't bet)
+Seat 3: DoublelegTD (button) folded before Flop (didn't bet)
+Seat 4: MR1990 (small blind) collected ($497.00)
+Seat 6: oneplusone (big blind) folded on the Flop
+
+PokerStars Hand #1525001071:  Hold'em No Limit ($50.00/$100.00 USD) - 2023/01/16 20:27:17 ET
+Table 'WPN_Hollyvilla' 6-max Seat #2 is the button
+Seat 1: Thelittle200 ($4598.50 in chips)
+Seat 2: xplo1t4bl3 ($10250.00 in chips)
+Seat 3: DoublelegTD ($23678.88 in chips)
+Seat 4: MR1990 ($1272.47 in chips)
+Seat 6: oneplusone ($13044.00 in chips)
+DoublelegTD: posts small blind $50.00
+MR1990: posts big blind $100.00
+*** HOLE CARDS ***
+oneplusone: raises $150.00 to $250.00
+Thelittle200: folds
+xplo1t4bl3: folds
+DoublelegTD: folds
+MR1990: raises $1022.47 to $1272.47 and is all-in
+oneplusone: calls $1022.47
+*** FLOP *** [5h 9s 9d]
+*** TURN *** [5h 9s 9d] [4d]
+*** RIVER *** [5h 9s 9d 4d] [Kc]
+*** SHOW DOWN ***
+MR1990: shows [Qs Qd]
+oneplusone: shows [3d 3h]
+MR1990 collected $2591.94 from pot
+*** SUMMARY ***
+Total pot $2594.94 | Rake $3.00
+Board [5h 9s 9d 4d Kc]
+Seat 1: Thelittle200 folded before Flop (didn't bet)
+Seat 2: xplo1t4bl3 (button) folded before Flop (didn't bet)
+Seat 3: DoublelegTD (small blind) folded before Flop
+Seat 4: MR1990 (big blind) showed [Qs Qd] and won ($2591.94)
+Seat 6: oneplusone showed [3d 3h] and lost
+
+PokerStars Hand #1525000780:  Hold'em No Limit ($50.00/$100.00 USD) - 2023/01/16 20:27:04 ET
+Table 'WPN_Hollyvilla' 6-max Seat #1 is the button
+Seat 1: Thelittle200 ($4598.50 in chips)
+Seat 2: xplo1t4bl3 ($10300.00 in chips)
+Seat 3: DoublelegTD ($23778.88 in chips)
+Seat 4: MR1990 ($1272.47 in chips)
+Seat 6: oneplusone ($12894.00 in chips)
+xplo1t4bl3: posts small blind $50.00
+DoublelegTD: posts big blind $100.00
+*** HOLE CARDS ***
+MR1990: folds
+oneplusone: raises $150.00 to $250.00
+Thelittle200: folds
+xplo1t4bl3: folds
+DoublelegTD: folds
+Uncalled bet ($150.00) returned to oneplusone
+oneplusone collected $250.00 from pot
+oneplusone: doesn't show hand
+*** SUMMARY ***
+Total pot $250.00 | Rake $0.00
+Seat 1: Thelittle200 (button) folded before Flop (didn't bet)
+Seat 2: xplo1t4bl3 (small blind) folded before Flop
+Seat 3: DoublelegTD (big blind) folded before Flop
+Seat 4: MR1990 folded before Flop (didn't bet)
+Seat 6: oneplusone collected ($250.00)
+
+PokerStars Hand #1525000357:  Hold'em No Limit ($50.00/$100.00 USD) - 2023/01/16 20:26:44 ET
+Table 'WPN_Hollyvilla' 6-max Seat #6 is the button
+Seat 1: Thelittle200 ($4648.50 in chips)
+Seat 2: xplo1t4bl3 ($10400.00 in chips)
+Seat 3: DoublelegTD ($23778.88 in chips)
+Seat 4: MR1990 ($1122.47 in chips)
+Seat 6: oneplusone ($12894.00 in chips)
+Thelittle200: posts small blind $50.00
+xplo1t4bl3: posts big blind $100.00
+*** HOLE CARDS ***
+DoublelegTD: folds
+MR1990: raises $100.00 to $200.00
+oneplusone: folds
+Thelittle200: folds
+xplo1t4bl3: folds
+Uncalled bet ($100.00) returned to MR1990
+MR1990 collected $250.00 from pot
+MR1990: doesn't show hand
+*** SUMMARY ***
+Total pot $250.00 | Rake $0.00
+Seat 1: Thelittle200 (small blind) folded before Flop
+Seat 2: xplo1t4bl3 (big blind) folded before Flop
+Seat 3: DoublelegTD folded before Flop (didn't bet)
+Seat 4: MR1990 collected ($250.00)
+Seat 6: oneplusone (button) folded before Flop (didn't bet)
+
+PokerStars Hand #1525000084:  Hold'em No Limit ($50.00/$100.00 USD) - 2023/01/16 20:26:33 ET
+Table 'WPN_Hollyvilla' 6-max Seat #4 is the button
+Seat 1: Thelittle200 ($4598.50 in chips)
+Seat 2: xplo1t4bl3 ($10400.00 in chips)
+Seat 3: DoublelegTD ($23778.88 in chips)
+Seat 4: MR1990 ($1122.47 in chips)
+Seat 6: oneplusone ($12944.00 in chips)
+oneplusone: posts small blind $50.00
+Thelittle200: posts big blind $100.00
+*** HOLE CARDS ***
+xplo1t4bl3: folds
+DoublelegTD: folds
+MR1990: folds
+oneplusone: folds
+Uncalled bet ($50.00) returned to Thelittle200
+Thelittle200 collected $100.00 from pot
+Thelittle200: doesn't show hand
+*** SUMMARY ***
+Total pot $100.00 | Rake $0.00
+Seat 1: Thelittle200 (big blind) collected ($100.00)
+Seat 2: xplo1t4bl3 folded before Flop (didn't bet)
+Seat 3: DoublelegTD folded before Flop (didn't bet)
+Seat 4: MR1990 (button) folded before Flop (didn't bet)
+Seat 6: oneplusone (small blind) folded before Flop
+
+PokerStars Hand #1524999042:  Hold'em No Limit ($50.00/$100.00 USD) - 2023/01/16 20:25:47 ET
+Table 'WPN_Hollyvilla' 6-max Seat #2 is the button
+Seat 1: Thelittle200 ($4448.50 in chips)
+Seat 2: xplo1t4bl3 ($10000.00 in chips)
+Seat 3: DoublelegTD ($23828.88 in chips)
+Seat 4: MR1990 ($1272.47 in chips)
+Seat 6: oneplusone ($13294.00 in chips)
+DoublelegTD: posts small blind $50.00
+MR1990: posts big blind $100.00
+*** HOLE CARDS ***
+oneplusone: raises $150.00 to $250.00
+Thelittle200: folds
+xplo1t4bl3: raises $550.00 to $800.00
+DoublelegTD: folds
+MR1990: folds
+oneplusone: folds
+Uncalled bet ($550.00) returned to xplo1t4bl3
+xplo1t4bl3 collected $650.00 from pot
+xplo1t4bl3: doesn't show hand
+*** SUMMARY ***
+Total pot $650.00 | Rake $0.00
+Seat 1: Thelittle200 folded before Flop (didn't bet)
+Seat 2: xplo1t4bl3 (button) collected ($650.00)
+Seat 3: DoublelegTD (small blind) folded before Flop
+Seat 4: MR1990 (big blind) folded before Flop
+Seat 6: oneplusone folded before Flop
+
+PokerStars Hand #1524999653:  Hold'em No Limit ($50.00/$100.00 USD) - 2023/01/16 20:26:15 ET
+Table 'WPN_Hollyvilla' 6-max Seat #3 is the button
+Seat 1: Thelittle200 ($4448.50 in chips)
+Seat 2: xplo1t4bl3 ($10400.00 in chips)
+Seat 3: DoublelegTD ($23778.88 in chips)
+Seat 4: MR1990 ($1172.47 in chips)
+Seat 6: oneplusone ($13044.00 in chips)
+MR1990: posts small blind $50.00
+oneplusone: posts big blind $100.00
+*** HOLE CARDS ***
+Thelittle200: raises $100.00 to $200.00
+xplo1t4bl3: folds
+DoublelegTD: folds
+MR1990: folds
+oneplusone: folds
+Uncalled bet ($100.00) returned to Thelittle200
+Thelittle200 collected $250.00 from pot
+Thelittle200: doesn't show hand
+*** SUMMARY ***
+Total pot $250.00 | Rake $0.00
+Seat 1: Thelittle200 collected ($250.00)
+Seat 2: xplo1t4bl3 folded before Flop (didn't bet)
+Seat 3: DoublelegTD (button) folded before Flop (didn't bet)
+Seat 4: MR1990 (small blind) folded before Flop
+Seat 6: oneplusone (big blind) folded before Flop
+
+PokerStars Hand #1524824690:  Hold'em No Limit ($50.00/$100.00 USD) - 2023/01/16 17:57:32 ET
+Table 'WPN_Hollyvilla' 6-max Seat #2 is the button
+Seat 2: JohnMcShen ($11757.50 in chips)
+Seat 5: TIKITAKA11 ($10278.75 in chips)
+JohnMcShen: posts small blind $50.00
+TIKITAKA11: posts big blind $100.00
+*** HOLE CARDS ***
+JohnMcShen: raises $150.00 to $250.00
+TIKITAKA11: calls $150.00
+*** FLOP *** [5d Qs 7s]
+TIKITAKA11: checks
+JohnMcShen: checks
+*** TURN *** [5d Qs 7s] [6h]
+TIKITAKA11: bets $500.00
+JohnMcShen: folds
+Uncalled bet ($500.00) returned to TIKITAKA11
+TIKITAKA11 collected $498.75 from pot
+TIKITAKA11: doesn't show hand
+*** SUMMARY ***
+Total pot $500.00 | Rake $1.25
+Board [5d Qs 7s 6h]
+Seat 2: JohnMcShen (button) (small blind) folded on the Turn
+Seat 5: TIKITAKA11 (big blind) collected ($498.75)
+
+PokerStars Hand #1524824970:  Hold'em No Limit ($50.00/$100.00 USD) - 2023/01/16 17:58:05 ET
+Table 'WPN_Hollyvilla' 6-max Seat #5 is the button
+Seat 2: JohnMcShen ($11507.50 in chips)
+Seat 5: TIKITAKA11 ($10527.50 in chips)
+TIKITAKA11: posts small blind $50.00
+JohnMcShen: posts big blind $100.00
+*** HOLE CARDS ***
+TIKITAKA11: raises $170.00 to $270.00
+JohnMcShen: raises $780.00 to $1050.00
+TIKITAKA11: folds
+Uncalled bet ($780.00) returned to JohnMcShen
+JohnMcShen collected $540.00 from pot
+JohnMcShen: doesn't show hand
+*** SUMMARY ***
+Total pot $540.00 | Rake $0.00
+Seat 2: JohnMcShen (big blind) collected ($540.00)
+Seat 5: TIKITAKA11 (button) (small blind) folded before Flop
+
+PokerStars Hand #1524825092:  Hold'em No Limit ($50.00/$100.00 USD) - 2023/01/16 17:58:21 ET
+Table 'WPN_Hollyvilla' 6-max Seat #2 is the button
+Seat 2: JohnMcShen ($11777.50 in chips)
+Seat 5: TIKITAKA11 ($10257.50 in chips)
+JohnMcShen: posts small blind $50.00
+TIKITAKA11: posts big blind $100.00
+*** HOLE CARDS ***
+JohnMcShen: folds
+Uncalled bet ($50.00) returned to TIKITAKA11
+TIKITAKA11 collected $100.00 from pot
+TIKITAKA11: doesn't show hand
+*** SUMMARY ***
+Total pot $100.00 | Rake $0.00
+Seat 2: JohnMcShen (button) (small blind) folded before Flop
+Seat 5: TIKITAKA11 (big blind) collected ($100.00)
+
+PokerStars Hand #1524825170:  Hold'em No Limit ($50.00/$100.00 USD) - 2023/01/16 17:58:33 ET
+Table 'WPN_Hollyvilla' 6-max Seat #5 is the button
+Seat 2: JohnMcShen ($11727.50 in chips)
+Seat 5: TIKITAKA11 ($10307.50 in chips)
+TIKITAKA11: posts small blind $50.00
+JohnMcShen: posts big blind $100.00
+*** HOLE CARDS ***
+TIKITAKA11: raises $130.00 to $230.00
+JohnMcShen: folds
+Uncalled bet ($130.00) returned to TIKITAKA11
+TIKITAKA11 collected $200.00 from pot
+TIKITAKA11: doesn't show hand
+*** SUMMARY ***
+Total pot $200.00 | Rake $0.00
+Seat 2: JohnMcShen (big blind) folded before Flop
+Seat 5: TIKITAKA11 (button) (small blind) collected ($200.00)
+
+PokerStars Hand #1524825273:  Hold'em No Limit ($50.00/$100.00 USD) - 2023/01/16 17:58:46 ET
+Table 'WPN_Hollyvilla' 6-max Seat #2 is the button
+Seat 2: JohnMcShen ($11627.50 in chips)
+Seat 5: TIKITAKA11 ($10407.50 in chips)
+JohnMcShen: posts small blind $50.00
+TIKITAKA11: posts big blind $100.00
+*** HOLE CARDS ***
+JohnMcShen: folds
+Uncalled bet ($50.00) returned to TIKITAKA11
+TIKITAKA11 collected $100.00 from pot
+TIKITAKA11: doesn't show hand
+*** SUMMARY ***
+Total pot $100.00 | Rake $0.00
+Seat 2: JohnMcShen (button) (small blind) folded before Flop
+Seat 5: TIKITAKA11 (big blind) collected ($100.00)
+
+PokerStars Hand #1524825342:  Hold'em No Limit ($50.00/$100.00 USD) - 2023/01/16 17:58:56 ET
+Table 'WPN_Hollyvilla' 6-max Seat #5 is the button
+Seat 2: JohnMcShen ($11577.50 in chips)
+Seat 5: TIKITAKA11 ($10457.50 in chips)
+TIKITAKA11: posts small blind $50.00
+JohnMcShen: posts big blind $100.00
+*** HOLE CARDS ***
+TIKITAKA11: raises $130.00 to $230.00
+JohnMcShen: raises $820.00 to $1050.00
+TIKITAKA11: folds
+Uncalled bet ($820.00) returned to JohnMcShen
+JohnMcShen collected $460.00 from pot
+JohnMcShen: doesn't show hand
+*** SUMMARY ***
+Total pot $460.00 | Rake $0.00
+Seat 2: JohnMcShen (big blind) collected ($460.00)
+Seat 5: TIKITAKA11 (button) (small blind) folded before Flop
+
+PokerStars Hand #1524826079:  Hold'em No Limit ($50.00/$100.00 USD) - 2023/01/16 18:00:26 ET
+Table 'WPN_Hollyvilla' 6-max Seat #2 is the button
+Seat 2: JohnMcShen ($12421.25 in chips)
+Seat 5: TIKITAKA11 ($9770.00 in chips)
+JohnMcShen: posts small blind $50.00
+TIKITAKA11: posts big blind $100.00
+*** HOLE CARDS ***
+JohnMcShen: raises $150.00 to $250.00
+TIKITAKA11: calls $150.00
+*** FLOP *** [4h 6s 2c]
+TIKITAKA11: checks
+JohnMcShen: bets $375.00
+TIKITAKA11: folds
+Uncalled bet ($375.00) returned to JohnMcShen
+JohnMcShen collected $498.75 from pot
+JohnMcShen: doesn't show hand
+*** SUMMARY ***
+Total pot $500.00 | Rake $1.25
+Board [4h 6s 2c]
+Seat 2: JohnMcShen (button) (small blind) collected ($498.75)
+Seat 5: TIKITAKA11 (big blind) folded on the Flop
+
+PokerStars Hand #1524826289:  Hold'em No Limit ($50.00/$100.00 USD) - 2023/01/16 18:00:50 ET
+Table 'WPN_Hollyvilla' 6-max Seat #5 is the button
+Seat 2: JohnMcShen ($12670.00 in chips)
+Seat 5: TIKITAKA11 ($9750.00 in chips)
+TIKITAKA11: posts small blind $50.00
+JohnMcShen: posts big blind $100.00
+*** HOLE CARDS ***
+TIKITAKA11: raises $130.00 to $230.00
+JohnMcShen: calls $130.00
+*** FLOP *** [3s Ts 8d]
+JohnMcShen: checks
+TIKITAKA11: checks
+*** TURN *** [3s Ts 8d] [5d]
+JohnMcShen: bets $700.00
+TIKITAKA11: calls $700.00
+*** RIVER *** [3s Ts 8d 5d] [5c]
+JohnMcShen: checks
+TIKITAKA11: checks
+*** SHOW DOWN ***
+TIKITAKA11: shows [9d Ac]
+JohnMcShen: mucks hand
+TIKITAKA11 collected $1858.75 from pot
+*** SUMMARY ***
+Total pot $1860.00 | Rake $1.25
+Board [3s Ts 8d 5d 5c]
+Seat 2: JohnMcShen (big blind) mucked
+Seat 5: TIKITAKA11 (button) (small blind) showed [9d Ac] and won ($1858.75)
+
+PokerStars Hand #1524826856:  Hold'em No Limit ($50.00/$100.00 USD) - 2023/01/16 18:01:28 ET
+Table 'WPN_Hollyvilla' 6-max Seat #2 is the button
+Seat 2: JohnMcShen ($11740.00 in chips)
+Seat 5: TIKITAKA11 ($10928.75 in chips)
+JohnMcShen: posts small blind $50.00
+TIKITAKA11: posts big blind $100.00
+*** HOLE CARDS ***
+JohnMcShen: raises $150.00 to $250.00
+TIKITAKA11: calls $150.00
+*** FLOP *** [Qs 5h Kh]
+TIKITAKA11: checks
+JohnMcShen: bets $165.00
+TIKITAKA11: calls $165.00
+*** TURN *** [Qs 5h Kh] [5c]
+TIKITAKA11: checks
+JohnMcShen: checks
+*** RIVER *** [Qs 5h Kh 5c] [2h]
+TIKITAKA11: checks
+JohnMcShen: bets $622.50
+TIKITAKA11: folds
+Uncalled bet ($622.50) returned to JohnMcShen
+JohnMcShen collected $828.75 from pot
+JohnMcShen: doesn't show hand
+*** SUMMARY ***
+Total pot $830.00 | Rake $1.25
+Board [Qs 5h Kh 5c 2h]
+Seat 2: JohnMcShen (button) (small blind) collected ($828.75)
+Seat 5: TIKITAKA11 (big blind) folded on the River
+
+PokerStars Hand #1524827744:  Hold'em No Limit ($50.00/$100.00 USD) - 2023/01/16 18:02:25 ET
+Table 'WPN_Hollyvilla' 6-max Seat #5 is the button
+Seat 2: JohnMcShen ($12153.75 in chips)
+Seat 5: TIKITAKA11 ($10513.75 in chips)
+TIKITAKA11: posts small blind $50.00
+JohnMcShen: posts big blind $100.00
+*** HOLE CARDS ***
+TIKITAKA11: folds
+Uncalled bet ($50.00) returned to JohnMcShen
+JohnMcShen collected $100.00 from pot
+JohnMcShen: doesn't show hand
+*** SUMMARY ***
+Total pot $100.00 | Rake $0.00
+Seat 2: JohnMcShen (big blind) collected ($100.00)
+Seat 5: TIKITAKA11 (button) (small blind) folded before Flop
+
+PokerStars Hand #1524827941:  Hold'em No Limit ($50.00/$100.00 USD) - 2023/01/16 18:02:37 ET
+Table 'WPN_Hollyvilla' 6-max Seat #2 is the button
+Seat 2: JohnMcShen ($12203.75 in chips)
+Seat 5: TIKITAKA11 ($10463.75 in chips)
+JohnMcShen: posts small blind $50.00
+TIKITAKA11: posts big blind $100.00
+*** HOLE CARDS ***
+JohnMcShen: raises $150.00 to $250.00
+TIKITAKA11: calls $150.00
+*** FLOP *** [7c 6c Ac]
+TIKITAKA11: checks
+JohnMcShen: bets $165.00
+TIKITAKA11: calls $165.00
+*** TURN *** [7c 6c Ac] [7h]
+TIKITAKA11: checks
+JohnMcShen: bets $622.50
+TIKITAKA11: calls $622.50
+*** RIVER *** [7c 6c Ac 7h] [8s]
+TIKITAKA11: checks
+JohnMcShen: checks
+*** SHOW DOWN ***
+TIKITAKA11: shows [Kh Tc]
+JohnMcShen: mucks hand
+TIKITAKA11 collected $2073.75 from pot
+*** SUMMARY ***
+Total pot $2075.00 | Rake $1.25
+Board [7c 6c Ac 7h 8s]
+Seat 2: JohnMcShen (button) (small blind) mucked
+Seat 5: TIKITAKA11 (big blind) showed [Kh Tc] and won ($2073.75)
+
+PokerStars Hand #1524828867:  Hold'em No Limit ($50.00/$100.00 USD) - 2023/01/16 18:03:30 ET
+Table 'WPN_Hollyvilla' 6-max Seat #5 is the button
+Seat 2: JohnMcShen ($11166.25 in chips)
+Seat 5: TIKITAKA11 ($11500.00 in chips)
+TIKITAKA11: posts small blind $50.00
+JohnMcShen: posts big blind $100.00
+*** HOLE CARDS ***
+TIKITAKA11: raises $130.00 to $230.00
+JohnMcShen: calls $130.00
+*** FLOP *** [Qh 7h Ks]
+JohnMcShen: checks
+TIKITAKA11: checks
+*** TURN *** [Qh 7h Ks] [Js]
+JohnMcShen: bets $460.00
+TIKITAKA11: folds
+Uncalled bet ($460.00) returned to JohnMcShen
+JohnMcShen collected $458.75 from pot
+JohnMcShen: doesn't show hand
+*** SUMMARY ***
+Total pot $460.00 | Rake $1.25
+Board [Qh 7h Ks Js]
+Seat 2: JohnMcShen (big blind) collected ($458.75)
+Seat 5: TIKITAKA11 (button) (small blind) folded on the Turn
+
+PokerStars Hand #1524829472:  Hold'em No Limit ($50.00/$100.00 USD) - 2023/01/16 18:04:06 ET
+Table 'WPN_Hollyvilla' 6-max Seat #2 is the button
+Seat 2: JohnMcShen ($11395.00 in chips)
+Seat 5: TIKITAKA11 ($11270.00 in chips)
+JohnMcShen: posts small blind $50.00
+TIKITAKA11: posts big blind $100.00
+*** HOLE CARDS ***
+JohnMcShen: raises $150.00 to $250.00
+TIKITAKA11: raises $780.00 to $1030.00
+JohnMcShen: folds
+Uncalled bet ($780.00) returned to TIKITAKA11
+TIKITAKA11 collected $500.00 from pot
+TIKITAKA11: doesn't show hand
+*** SUMMARY ***
+Total pot $500.00 | Rake $0.00
+Seat 2: JohnMcShen (button) (small blind) folded before Flop
+Seat 5: TIKITAKA11 (big blind) collected ($500.00)
+
+PokerStars Hand #1524829807:  Hold'em No Limit ($50.00/$100.00 USD) - 2023/01/16 18:04:25 ET
+Table 'WPN_Hollyvilla' 6-max Seat #5 is the button
+Seat 2: JohnMcShen ($11145.00 in chips)
+Seat 5: TIKITAKA11 ($11520.00 in chips)
+TIKITAKA11: posts small blind $50.00
+JohnMcShen: posts big blind $100.00
+*** HOLE CARDS ***
+TIKITAKA11: raises $130.00 to $230.00
+JohnMcShen: calls $130.00
+*** FLOP *** [9h Jh 3c]
+JohnMcShen: checks
+TIKITAKA11: bets $326.60
+JohnMcShen: calls $326.60
+*** TURN *** [9h Jh 3c] [Ah]
+JohnMcShen: checks
+TIKITAKA11: bets $790.37
+JohnMcShen: folds
+Uncalled bet ($790.37) returned to TIKITAKA11
+TIKITAKA11 collected $1111.95 from pot
+TIKITAKA11: doesn't show hand
+*** SUMMARY ***
+Total pot $1113.20 | Rake $1.25
+Board [9h Jh 3c Ah]
+Seat 2: JohnMcShen (big blind) folded on the Turn
+Seat 5: TIKITAKA11 (button) (small blind) collected ($1111.95)
+
+PokerStars Hand #1524830629:  Hold'em No Limit ($50.00/$100.00 USD) - 2023/01/16 18:05:13 ET
+Table 'WPN_Hollyvilla' 6-max Seat #2 is the button
+Seat 2: JohnMcShen ($10588.40 in chips)
+Seat 5: TIKITAKA11 ($12075.35 in chips)
+JohnMcShen: posts small blind $50.00
+TIKITAKA11: posts big blind $100.00
+*** HOLE CARDS ***
+JohnMcShen: raises $150.00 to $250.00
+TIKITAKA11: calls $150.00
+*** FLOP *** [6d 3h Ad]
+TIKITAKA11: checks
+JohnMcShen: bets $250.00
+TIKITAKA11: raises $710.00 to $960.00
+JohnMcShen: folds
+Uncalled bet ($710.00) returned to TIKITAKA11
+TIKITAKA11 collected $998.75 from pot
+TIKITAKA11: doesn't show hand
+*** SUMMARY ***
+Total pot $1000.00 | Rake $1.25
+Board [6d 3h Ad]
+Seat 2: JohnMcShen (button) (small blind) folded on the Flop
+Seat 5: TIKITAKA11 (big blind) collected ($998.75)
+
+PokerStars Hand #1524831116:  Hold'em No Limit ($50.00/$100.00 USD) - 2023/01/16 18:05:43 ET
+Table 'WPN_Hollyvilla' 6-max Seat #5 is the button
+Seat 2: JohnMcShen ($10088.40 in chips)
+Seat 5: TIKITAKA11 ($12574.10 in chips)
+TIKITAKA11: posts small blind $50.00
+JohnMcShen: posts big blind $100.00
+*** HOLE CARDS ***
+TIKITAKA11: raises $130.00 to $230.00
+JohnMcShen: calls $130.00
+*** FLOP *** [Ac 3c As]
+JohnMcShen: checks
+TIKITAKA11: bets $124.20
+JohnMcShen: calls $124.20
+*** TURN *** [Ac 3c As] [3s]
+JohnMcShen: checks
+TIKITAKA11: checks
+*** RIVER *** [Ac 3c As 3s] [Ah]
+JohnMcShen: bets $1100.00
+TIKITAKA11: calls $1100.00
+*** SHOW DOWN ***
+JohnMcShen: shows [Ad 2h]
+TIKITAKA11: mucks hand
+JohnMcShen collected $2907.15 from pot
+*** SUMMARY ***
+Total pot $2908.40 | Rake $1.25
+Board [Ac 3c As 3s Ah]
+Seat 2: JohnMcShen (big blind) showed [Ad 2h] and won ($2907.15)
+Seat 5: TIKITAKA11 (button) (small blind) mucked
+
+PokerStars Hand #1524832080:  Hold'em No Limit ($50.00/$100.00 USD) - 2023/01/16 18:06:37 ET
+Table 'WPN_Hollyvilla' 6-max Seat #2 is the button
+Seat 2: JohnMcShen ($11541.35 in chips)
+Seat 5: TIKITAKA11 ($11119.90 in chips)
+JohnMcShen: posts small blind $50.00
+TIKITAKA11: posts big blind $100.00
+*** HOLE CARDS ***
+JohnMcShen: folds
+Uncalled bet ($50.00) returned to TIKITAKA11
+TIKITAKA11 collected $100.00 from pot
+TIKITAKA11: doesn't show hand
+*** SUMMARY ***
+Total pot $100.00 | Rake $0.00
+Seat 2: JohnMcShen (button) (small blind) folded before Flop
+Seat 5: TIKITAKA11 (big blind) collected ($100.00)
+
+PokerStars Hand #1524832281:  Hold'em No Limit ($50.00/$100.00 USD) - 2023/01/16 18:06:49 ET
+Table 'WPN_Hollyvilla' 6-max Seat #5 is the button
+Seat 2: JohnMcShen ($11491.35 in chips)
+Seat 5: TIKITAKA11 ($11169.90 in chips)
+TIKITAKA11: posts small blind $50.00
+JohnMcShen: posts big blind $100.00
+*** HOLE CARDS ***
+TIKITAKA11: raises $130.00 to $230.00
+JohnMcShen: raises $820.00 to $1050.00
+TIKITAKA11: raises $1180.00 to $2230.00
+JohnMcShen: calls $1180.00
+*** FLOP *** [8c 7s Qd]
+JohnMcShen: checks
+TIKITAKA11: checks
+*** TURN *** [8c 7s Qd] [Ad]
+JohnMcShen: checks
+TIKITAKA11: bets $1204.20
+JohnMcShen: calls $1204.20
+*** RIVER *** [8c 7s Qd Ad] [5c]
+JohnMcShen: checks
+TIKITAKA11: checks
+*** SHOW DOWN ***
+JohnMcShen: shows [Ac Td]
+TIKITAKA11: mucks hand
+JohnMcShen collected $6867.15 from pot
+*** SUMMARY ***
+Total pot $6868.40 | Rake $1.25
+Board [8c 7s Qd Ad 5c]
+Seat 2: JohnMcShen (big blind) showed [Ac Td] and won ($6867.15)
+Seat 5: TIKITAKA11 (button) (small blind) mucked
+
+PokerStars Hand #1524833736:  Hold'em No Limit ($50.00/$100.00 USD) - 2023/01/16 18:08:11 ET
+Table 'WPN_Hollyvilla' 6-max Seat #2 is the button
+Seat 2: JohnMcShen ($14924.30 in chips)
+Seat 5: TIKITAKA11 ($10000.00 in chips)
+JohnMcShen: posts small blind $50.00
+TIKITAKA11: posts big blind $100.00
+*** HOLE CARDS ***
+JohnMcShen: raises $150.00 to $250.00
+TIKITAKA11: folds
+Uncalled bet ($150.00) returned to JohnMcShen
+JohnMcShen collected $200.00 from pot
+JohnMcShen: doesn't show hand
+*** SUMMARY ***
+Total pot $200.00 | Rake $0.00
+Seat 2: JohnMcShen (button) (small blind) collected ($200.00)
+Seat 5: TIKITAKA11 (big blind) folded before Flop
+
+PokerStars Hand #1524833928:  Hold'em No Limit ($50.00/$100.00 USD) - 2023/01/16 18:08:23 ET
+Table 'WPN_Hollyvilla' 6-max Seat #5 is the button
+Seat 2: JohnMcShen ($15024.30 in chips)
+Seat 5: TIKITAKA11 ($9900.00 in chips)
+TIKITAKA11: posts small blind $50.00
+JohnMcShen: posts big blind $100.00
+*** HOLE CARDS ***
+TIKITAKA11: raises $130.00 to $230.00
+JohnMcShen: calls $130.00
+*** FLOP *** [2s Kh 4d]
+JohnMcShen: checks
+TIKITAKA11: checks
+*** TURN *** [2s Kh 4d] [Js]
+JohnMcShen: checks
+TIKITAKA11: checks
+*** RIVER *** [2s Kh 4d Js] [As]
+JohnMcShen: checks
+TIKITAKA11: checks
+*** SHOW DOWN ***
+JohnMcShen: shows [7s Qh]
+TIKITAKA11: mucks hand
+JohnMcShen collected $458.75 from pot
+*** SUMMARY ***
+Total pot $460.00 | Rake $1.25
+Board [2s Kh 4d Js As]
+Seat 2: JohnMcShen (big blind) showed [7s Qh] and won ($458.75)
+Seat 5: TIKITAKA11 (button) (small blind) mucked
+
+PokerStars Hand #1524834539:  Hold'em No Limit ($50.00/$100.00 USD) - 2023/01/16 18:08:56 ET
+Table 'WPN_Hollyvilla' 6-max Seat #2 is the button
+Seat 2: JohnMcShen ($15253.05 in chips)
+Seat 5: TIKITAKA11 ($10000.00 in chips)
+JohnMcShen: posts small blind $50.00
+TIKITAKA11: posts big blind $100.00
+*** HOLE CARDS ***
+JohnMcShen: raises $150.00 to $250.00
+TIKITAKA11: calls $150.00
+*** FLOP *** [Ks 9s 9c]
+TIKITAKA11: checks
+JohnMcShen: bets $165.00
+TIKITAKA11: raises $415.00 to $580.00
+JohnMcShen: calls $415.00
+*** TURN *** [Ks 9s 9c] [8d]
+TIKITAKA11: checks
+JohnMcShen: checks
+*** RIVER *** [Ks 9s 9c 8d] [3d]
+TIKITAKA11: checks
+JohnMcShen: bets $1245.00
+TIKITAKA11: folds
+Uncalled bet ($1245.00) returned to JohnMcShen
+JohnMcShen collected $1658.75 from pot
+JohnMcShen: doesn't show hand
+*** SUMMARY ***
+Total pot $1660.00 | Rake $1.25
+Board [Ks 9s 9c 8d 3d]
+Seat 2: JohnMcShen (button) (small blind) collected ($1658.75)
+Seat 5: TIKITAKA11 (big blind) folded on the River
+
+PokerStars Hand #1524836017:  Hold'em No Limit ($50.00/$100.00 USD) - 2023/01/16 18:10:19 ET
+Table 'WPN_Hollyvilla' 6-max Seat #5 is the button
+Seat 2: JohnMcShen ($16081.80 in chips)
+Seat 5: TIKITAKA11 ($9170.00 in chips)
+TIKITAKA11: posts small blind $50.00
+JohnMcShen: posts big blind $100.00
+*** HOLE CARDS ***
+TIKITAKA11: folds
+Uncalled bet ($50.00) returned to JohnMcShen
+JohnMcShen collected $100.00 from pot
+JohnMcShen: doesn't show hand
+*** SUMMARY ***
+Total pot $100.00 | Rake $0.00
+Seat 2: JohnMcShen (big blind) collected ($100.00)
+Seat 5: TIKITAKA11 (button) (small blind) folded before Flop
+
+PokerStars Hand #1524836213:  Hold'em No Limit ($50.00/$100.00 USD) - 2023/01/16 18:10:29 ET
+Table 'WPN_Hollyvilla' 6-max Seat #2 is the button
+Seat 2: JohnMcShen ($16131.80 in chips)
+Seat 5: TIKITAKA11 ($9950.00 in chips)
+JohnMcShen: posts small blind $50.00
+TIKITAKA11: posts big blind $100.00
+*** HOLE CARDS ***
+JohnMcShen: raises $150.00 to $250.00
+TIKITAKA11: calls $150.00
+*** FLOP *** [Jc 5c 2d]
+TIKITAKA11: checks
+JohnMcShen: checks
+*** TURN *** [Jc 5c 2d] [Kc]
+TIKITAKA11: checks
+JohnMcShen: checks
+*** RIVER *** [Jc 5c 2d Kc] [5d]
+TIKITAKA11: checks
+JohnMcShen: checks
+*** SHOW DOWN ***
+JohnMcShen: shows [As 7c]
+TIKITAKA11: mucks hand
+JohnMcShen collected $498.75 from pot
+*** SUMMARY ***
+Total pot $500.00 | Rake $1.25
+Board [Jc 5c 2d Kc 5d]
+Seat 2: JohnMcShen (button) (small blind) showed [As 7c] and won ($498.75)
+Seat 5: TIKITAKA11 (big blind) mucked
+
+PokerStars Hand #1524836844:  Hold'em No Limit ($50.00/$100.00 USD) - 2023/01/16 18:11:03 ET
+Table 'WPN_Hollyvilla' 6-max Seat #5 is the button
+Seat 2: JohnMcShen ($16380.55 in chips)
+Seat 5: TIKITAKA11 ($10000.00 in chips)
+TIKITAKA11: posts small blind $50.00
+JohnMcShen: posts big blind $100.00
+*** HOLE CARDS ***
+TIKITAKA11: folds
+Uncalled bet ($50.00) returned to JohnMcShen
+JohnMcShen collected $100.00 from pot
+JohnMcShen: doesn't show hand
+*** SUMMARY ***
+Total pot $100.00 | Rake $0.00
+Seat 2: JohnMcShen (big blind) collected ($100.00)
+Seat 5: TIKITAKA11 (button) (small blind) folded before Flop
+
+PokerStars Hand #1524837043:  Hold'em No Limit ($50.00/$100.00 USD) - 2023/01/16 18:11:15 ET
+Table 'WPN_Hollyvilla' 6-max Seat #2 is the button
+Seat 2: JohnMcShen ($16430.55 in chips)
+Seat 5: TIKITAKA11 ($9950.00 in chips)
+JohnMcShen: posts small blind $50.00
+TIKITAKA11: posts big blind $100.00
+*** HOLE CARDS ***
+JohnMcShen: raises $150.00 to $250.00
+TIKITAKA11: calls $150.00
+*** FLOP *** [Kh Jh Kc]
+TIKITAKA11: checks
+JohnMcShen: bets $165.00
+TIKITAKA11: folds
+Uncalled bet ($165.00) returned to JohnMcShen
+JohnMcShen collected $498.75 from pot
+JohnMcShen: doesn't show hand
+*** SUMMARY ***
+Total pot $500.00 | Rake $1.25
+Board [Kh Jh Kc]
+Seat 2: JohnMcShen (button) (small blind) collected ($498.75)
+Seat 5: TIKITAKA11 (big blind) folded on the Flop
+
+PokerStars Hand #1524837470:  Hold'em No Limit ($50.00/$100.00 USD) - 2023/01/16 18:11:39 ET
+Table 'WPN_Hollyvilla' 6-max Seat #5 is the button
+Seat 2: JohnMcShen ($16679.30 in chips)
+Seat 5: TIKITAKA11 ($9750.00 in chips)
+TIKITAKA11: posts small blind $50.00
+JohnMcShen: posts big blind $100.00
+*** HOLE CARDS ***
+TIKITAKA11: folds
+Uncalled bet ($50.00) returned to JohnMcShen
+JohnMcShen collected $100.00 from pot
+JohnMcShen: doesn't show hand
+*** SUMMARY ***
+Total pot $100.00 | Rake $0.00
+Seat 2: JohnMcShen (big blind) collected ($100.00)
+Seat 5: TIKITAKA11 (button) (small blind) folded before Flop
+
+PokerStars Hand #1524837649:  Hold'em No Limit ($50.00/$100.00 USD) - 2023/01/16 18:11:48 ET
+Table 'WPN_Hollyvilla' 6-max Seat #2 is the button
+Seat 2: JohnMcShen ($16729.30 in chips)
+Seat 5: TIKITAKA11 ($9950.00 in chips)
+JohnMcShen: posts small blind $50.00
+TIKITAKA11: posts big blind $100.00
+*** HOLE CARDS ***
+JohnMcShen: raises $150.00 to $250.00
+TIKITAKA11: raises $780.00 to $1030.00
+JohnMcShen: calls $780.00
+*** FLOP *** [4h 5c 3d]
+TIKITAKA11: bets $406.20
+JohnMcShen: calls $406.20
+*** TURN *** [4h 5c 3d] [7h]
+TIKITAKA11: checks
+JohnMcShen: bets $1436.20
+TIKITAKA11: folds
+Uncalled bet ($1436.20) returned to JohnMcShen
+JohnMcShen collected $2871.15 from pot
+JohnMcShen: doesn't show hand
+*** SUMMARY ***
+Total pot $2872.40 | Rake $1.25
+Board [4h 5c 3d 7h]
+Seat 2: JohnMcShen (button) (small blind) collected ($2871.15)
+Seat 5: TIKITAKA11 (big blind) folded on the Turn
+
+PokerStars Hand #1524838876:  Hold'em No Limit ($50.00/$100.00 USD) - 2023/01/16 18:13:11 ET
+Table 'WPN_Hollyvilla' 6-max Seat #5 is the button
+Seat 2: JohnMcShen ($18164.25 in chips)
+Seat 5: TIKITAKA11 ($8563.80 in chips)
+JohnMcShen: posts the ante $500.00
+TIKITAKA11: posts the ante $500.00
+*** HOLE CARDS ***
+*** FLOP *** [Qc 5h Kc]
+JohnMcShen: checks
+TIKITAKA11: bets $270.00
+JohnMcShen: calls $270.00
+*** TURN *** [Qc 5h Kc] [6c]
+JohnMcShen: checks
+TIKITAKA11: bets $1093.40
+JohnMcShen: folds
+Uncalled bet ($1093.40) returned to TIKITAKA11
+TIKITAKA11 collected $1538.75 from pot
+TIKITAKA11: doesn't show hand
+*** SUMMARY ***
+Total pot $1540.00 | Rake $1.25
+Board [Qc 5h Kc 6c]
+Seat 2: JohnMcShen folded on the Turn
+Seat 5: TIKITAKA11 (button) collected ($1538.75)
+
+PokerStars Hand #1524840041:  Hold'em No Limit ($50.00/$100.00 USD) - 2023/01/16 18:14:01 ET
+Table 'WPN_Hollyvilla' 6-max Seat #5 is the button
+Seat 2: JohnMcShen ($17394.25 in chips)
+Seat 5: TIKITAKA11 ($10768.75 in chips)
+TIKITAKA11: posts small blind $50.00
+JohnMcShen: posts big blind $100.00
+*** HOLE CARDS ***
+TIKITAKA11: raises $130.00 to $230.00
+JohnMcShen: calls $130.00
+*** FLOP *** [4c 9d Th]
+JohnMcShen: checks
+TIKITAKA11: bets $460.00
+JohnMcShen: calls $460.00
+*** TURN *** [4c 9d Th] [Ad]
+JohnMcShen: checks
+TIKITAKA11: checks
+*** RIVER *** [4c 9d Th Ad] [Qc]
+JohnMcShen: checks
+TIKITAKA11: bets $979.80
+JohnMcShen: folds
+Uncalled bet ($979.80) returned to TIKITAKA11
+TIKITAKA11 collected $1378.75 from pot
+TIKITAKA11: doesn't show hand
+*** SUMMARY ***
+Total pot $1380.00 | Rake $1.25
+Board [4c 9d Th Ad Qc]
+Seat 2: JohnMcShen (big blind) folded on the River
+Seat 5: TIKITAKA11 (button) (small blind) collected ($1378.75)
+
+PokerStars Hand #1524891520:  Hold'em No Limit ($50.00/$100.00 USD) - 2023/01/16 19:01:26 ET
+Table 'WPN_Hollyvilla' 6-max Seat #2 is the button
+Seat 2: JohnMcShen ($15050.56 in chips)
+Seat 4: MR1990 ($5652.44 in chips)
+JohnMcShen: posts the ante $500.00
+MR1990: posts the ante $500.00
+*** HOLE CARDS ***
+*** FLOP *** [Ks 4d 3c]
+MR1990: bets $270.00
+JohnMcShen: raises $508.20 to $778.20
+MR1990: folds
+Uncalled bet ($508.20) returned to JohnMcShen
+JohnMcShen collected $1538.75 from pot
+JohnMcShen: doesn't show hand
+*** SUMMARY ***
+Total pot $1540.00 | Rake $1.25
+Board [Ks 4d 3c]
+Seat 2: JohnMcShen (button) collected ($1538.75)
+Seat 4: MR1990 folded on the Flop
+
+PokerStars Hand #1524892457:  Hold'em No Limit ($50.00/$100.00 USD) - 2023/01/16 19:02:00 ET
+Table 'WPN_Hollyvilla' 6-max Seat #4 is the button
+Seat 2: JohnMcShen ($15819.31 in chips)
+Seat 4: MR1990 ($4882.44 in chips)
+MR1990: posts small blind $50.00
+JohnMcShen: posts big blind $100.00
+*** HOLE CARDS ***
+MR1990: folds
+Uncalled bet ($50.00) returned to JohnMcShen
+JohnMcShen collected $100.00 from pot
+JohnMcShen: doesn't show hand
+*** SUMMARY ***
+Total pot $100.00 | Rake $0.00
+Seat 2: JohnMcShen (big blind) collected ($100.00)
+Seat 4: MR1990 (button) (small blind) folded before Flop
+
+PokerStars Hand #1524892704:  Hold'em No Limit ($50.00/$100.00 USD) - 2023/01/16 19:02:11 ET
+Table 'WPN_Hollyvilla' 6-max Seat #2 is the button
+Seat 2: JohnMcShen ($15869.31 in chips)
+Seat 4: MR1990 ($4832.44 in chips)
+JohnMcShen: posts small blind $50.00
+MR1990: posts big blind $100.00
+*** HOLE CARDS ***
+JohnMcShen: raises $120.00 to $220.00
+MR1990: raises $320.00 to $540.00
+JohnMcShen: calls $320.00
+*** FLOP *** [Js 3c 8s]
+MR1990: bets $712.80
+JohnMcShen: raises $826.84 to $1539.64
+MR1990: raises $2752.80 to $4292.44 and is all-in
+JohnMcShen: calls $2752.80
+*** TURN *** [Js 3c 8s] [Kh]
+*** RIVER *** [Js 3c 8s Kh] [Kd]
+*** SHOW DOWN ***
+MR1990: shows [Jh Ks]
+JohnMcShen: shows [Qd 8d]
+MR1990 collected $9663.63 from pot
+*** SUMMARY ***
+Total pot $9664.88 | Rake $1.25
+Board [Js 3c 8s Kh Kd]
+Seat 2: JohnMcShen (button) (small blind) showed [Qd 8d] and lost
+Seat 4: MR1990 (big blind) showed [Jh Ks] and won ($9663.63)
+
+PokerStars Hand #1524893739:  Hold'em No Limit ($50.00/$100.00 USD) - 2023/01/16 19:03:01 ET
+Table 'WPN_Hollyvilla' 6-max Seat #4 is the button
+Seat 2: JohnMcShen ($11036.87 in chips)
+Seat 4: MR1990 ($7663.27 in chips)
+MR1990: posts small blind $50.00
+JohnMcShen: posts big blind $100.00
+*** HOLE CARDS ***
+MR1990: folds
+Uncalled bet ($50.00) returned to JohnMcShen
+JohnMcShen collected $100.00 from pot
+JohnMcShen: doesn't show hand
+*** SUMMARY ***
+Total pot $100.00 | Rake $0.00
+Seat 2: JohnMcShen (big blind) collected ($100.00)
+Seat 4: MR1990 (button) (small blind) folded before Flop
+
+PokerStars Hand #1524894077:  Hold'em No Limit ($50.00/$100.00 USD) - 2023/01/16 19:03:15 ET
+Table 'WPN_Hollyvilla' 6-max Seat #2 is the button
+Seat 2: JohnMcShen ($11086.87 in chips)
+Seat 4: MR1990 ($7613.27 in chips)
+JohnMcShen: posts small blind $50.00
+MR1990: posts big blind $100.00
+*** HOLE CARDS ***
+JohnMcShen: raises $150.00 to $250.00
+MR1990: calls $150.00
+*** FLOP *** [2c 7c 8h]
+MR1990: bets $200.00
+JohnMcShen: calls $200.00
+*** TURN *** [2c 7c 8h] [7d]
+MR1990: checks
+JohnMcShen: bets $225.00
+MR1990: calls $225.00
+*** RIVER *** [2c 7c 8h 7d] [Qd]
+MR1990: checks
+JohnMcShen: checks
+*** SHOW DOWN ***
+MR1990: shows [5d 5s]
+JohnMcShen: mucks hand
+MR1990 collected $1348.75 from pot
+*** SUMMARY ***
+Total pot $1350.00 | Rake $1.25
+Board [2c 7c 8h 7d Qd]
+Seat 2: JohnMcShen (button) (small blind) mucked
+Seat 4: MR1990 (big blind) showed [5d 5s] and won ($1348.75)
+
+PokerStars Hand #1524894809:  Hold'em No Limit ($50.00/$100.00 USD) - 2023/01/16 19:03:49 ET
+Table 'WPN_Hollyvilla' 6-max Seat #4 is the button
+Seat 2: JohnMcShen ($10411.87 in chips)
+Seat 4: MR1990 ($8287.02 in chips)
+MR1990: posts small blind $50.00
+JohnMcShen: posts big blind $100.00
+*** HOLE CARDS ***
+MR1990: folds
+Uncalled bet ($50.00) returned to JohnMcShen
+JohnMcShen collected $100.00 from pot
+JohnMcShen: doesn't show hand
+*** SUMMARY ***
+Total pot $100.00 | Rake $0.00
+Seat 2: JohnMcShen (big blind) collected ($100.00)
+Seat 4: MR1990 (button) (small blind) folded before Flop
+
+PokerStars Hand #1524895055:  Hold'em No Limit ($50.00/$100.00 USD) - 2023/01/16 19:03:59 ET
+Table 'WPN_Hollyvilla' 6-max Seat #4 is the button
+Seat 2: JohnMcShen ($10461.87 in chips)
+Seat 3: jrSuited18 ($10000.00 in chips)
+Seat 4: MR1990 ($8237.02 in chips)
+JohnMcShen: posts small blind $50.00
+jrSuited18: posts big blind $100.00
+*** HOLE CARDS ***
+MR1990: folds
+JohnMcShen: raises $200.00 to $300.00
+jrSuited18: calls $200.00
+*** FLOP *** [As Kh Td]
+JohnMcShen: bets $150.00
+jrSuited18: folds
+Uncalled bet ($150.00) returned to JohnMcShen
+JohnMcShen collected $598.25 from pot
+JohnMcShen: doesn't show hand
+*** SUMMARY ***
+Total pot $600.00 | Rake $1.75
+Board [As Kh Td]
+Seat 2: JohnMcShen (small blind) collected ($598.25)
+Seat 3: jrSuited18 (big blind) folded on the Flop
+Seat 4: MR1990 (button) folded before Flop (didn't bet)
+
+PokerStars Hand #1524895704:  Hold'em No Limit ($50.00/$100.00 USD) - 2023/01/16 19:04:28 ET
+Table 'WPN_Hollyvilla' 6-max Seat #2 is the button
+Seat 2: JohnMcShen ($10760.12 in chips)
+Seat 3: jrSuited18 ($9700.00 in chips)
+Seat 4: MR1990 ($8237.02 in chips)
+jrSuited18: posts small blind $50.00
+MR1990: posts big blind $100.00
+*** HOLE CARDS ***
+JohnMcShen: raises $150.00 to $250.00
+jrSuited18: folds
+MR1990: folds
+Uncalled bet ($150.00) returned to JohnMcShen
+JohnMcShen collected $250.00 from pot
+JohnMcShen: doesn't show hand
+*** SUMMARY ***
+Total pot $250.00 | Rake $0.00
+Seat 2: JohnMcShen (button) collected ($250.00)
+Seat 3: jrSuited18 (small blind) folded before Flop
+Seat 4: MR1990 (big blind) folded before Flop
+
+PokerStars Hand #1524896184:  Hold'em No Limit ($50.00/$100.00 USD) - 2023/01/16 19:04:51 ET
+Table 'WPN_Hollyvilla' 6-max Seat #3 is the button
+Seat 2: JohnMcShen ($10910.12 in chips)
+Seat 3: jrSuited18 ($10000.00 in chips)
+Seat 4: MR1990 ($8137.02 in chips)
+MR1990: posts small blind $50.00
+JohnMcShen: posts big blind $100.00
+*** HOLE CARDS ***
+jrSuited18: raises $125.00 to $225.00
+MR1990: folds
+JohnMcShen: calls $125.00
+*** FLOP *** [8d 3c 4c]
+JohnMcShen: checks
+jrSuited18: checks
+*** TURN *** [8d 3c 4c] [Ac]
+JohnMcShen: checks
+jrSuited18: checks
+*** RIVER *** [8d 3c 4c Ac] [Ts]
+JohnMcShen: checks
+jrSuited18: bets $325.00
+JohnMcShen: folds
+Uncalled bet ($325.00) returned to jrSuited18
+jrSuited18 collected $498.25 from pot
+jrSuited18: doesn't show hand
+*** SUMMARY ***
+Total pot $500.00 | Rake $1.75
+Board [8d 3c 4c Ac Ts]
+Seat 2: JohnMcShen (big blind) folded on the River
+Seat 3: jrSuited18 (button) collected ($498.25)
+Seat 4: MR1990 (small blind) folded before Flop
+
+PokerStars Hand #1524897546:  Hold'em No Limit ($50.00/$100.00 USD) - 2023/01/16 19:05:51 ET
+Table 'WPN_Hollyvilla' 6-max Seat #4 is the button
+Seat 2: JohnMcShen ($10685.12 in chips)
+Seat 3: jrSuited18 ($10273.25 in chips)
+Seat 4: MR1990 ($8087.02 in chips)
+Seat 6: CWestmoreland ($10000.00 in chips)
+JohnMcShen: posts small blind $50.00
+jrSuited18: posts big blind $100.00
+*** HOLE CARDS ***
+MR1990: raises $150.00 to $250.00
+JohnMcShen: raises $750.00 to $1000.00
+jrSuited18: folds
+MR1990: calls $750.00
+*** FLOP *** [2h Kc 6c]
+JohnMcShen: bets $525.00
+MR1990: calls $525.00
+*** TURN *** [2h Kc 6c] [5s]
+JohnMcShen: checks
+MR1990: bets $1000.00
+JohnMcShen: raises $3862.50 to $4862.50
+MR1990: raises $1699.52 to $6562.02 and is all-in
+JohnMcShen: calls $1699.52
+*** RIVER *** [2h Kc 6c 5s] [Ah]
+*** SHOW DOWN ***
+MR1990: shows [Jd Kd]
+JohnMcShen: shows [9c 8c]
+MR1990 collected $16272.29 from pot
+*** SUMMARY ***
+Total pot $16274.04 | Rake $1.75
+Board [2h Kc 6c 5s Ah]
+Seat 2: JohnMcShen (small blind) showed [9c 8c] and lost
+Seat 3: jrSuited18 (big blind) folded before Flop
+Seat 4: MR1990 (button) showed [Jd Kd] and won ($16272.29)
+
+PokerStars Hand #1524899360:  Hold'em No Limit ($50.00/$100.00 USD) - 2023/01/16 19:07:11 ET
+Table 'WPN_Hollyvilla' 6-max Seat #2 is the button
+Seat 2: JohnMcShen ($10000.00 in chips)
+Seat 3: jrSuited18 ($10173.25 in chips)
+Seat 4: MR1990 ($11716.06 in chips)
+Seat 6: CWestmoreland ($10000.00 in chips)
+jrSuited18: posts small blind $50.00
+MR1990: posts big blind $100.00
+*** HOLE CARDS ***
+JohnMcShen: folds
+jrSuited18: raises $150.00 to $250.00
+MR1990: calls $150.00
+*** FLOP *** [Ks 2s 4c]
+jrSuited18: checks
+MR1990: bets $330.00
+jrSuited18: calls $330.00
+*** TURN *** [Ks 2s 4c] [Ac]
+jrSuited18: checks
+MR1990: bets $765.60
+jrSuited18: folds
+Uncalled bet ($765.60) returned to MR1990
+MR1990 collected $1158.25 from pot
+MR1990: doesn't show hand
+*** SUMMARY ***
+Total pot $1160.00 | Rake $1.75
+Board [Ks 2s 4c Ac]
+Seat 2: JohnMcShen (button) folded before Flop (didn't bet)
+Seat 3: jrSuited18 (small blind) folded on the Turn
+Seat 4: MR1990 (big blind) collected ($1158.25)
+
+PokerStars Hand #1524900653:  Hold'em No Limit ($50.00/$100.00 USD) - 2023/01/16 19:08:08 ET
+Table 'WPN_Hollyvilla' 6-max Seat #3 is the button
+Seat 2: JohnMcShen ($10000.00 in chips)
+Seat 3: jrSuited18 ($9593.25 in chips)
+Seat 4: MR1990 ($12294.31 in chips)
+Seat 6: CWestmoreland ($10000.00 in chips)
+MR1990: posts small blind $50.00
+CWestmoreland: posts big blind $100.00
+*** HOLE CARDS ***
+JohnMcShen: folds
+jrSuited18: folds
+MR1990: folds
+Uncalled bet ($50.00) returned to CWestmoreland
+CWestmoreland collected $100.00 from pot
+CWestmoreland: doesn't show hand
+*** SUMMARY ***
+Total pot $100.00 | Rake $0.00
+Seat 2: JohnMcShen folded before Flop (didn't bet)
+Seat 3: jrSuited18 (button) folded before Flop (didn't bet)
+Seat 4: MR1990 (small blind) folded before Flop
+Seat 6: CWestmoreland (big blind) collected ($100.00)
+
+PokerStars Hand #1524900921:  Hold'em No Limit ($50.00/$100.00 USD) - 2023/01/16 19:08:20 ET
+Table 'WPN_Hollyvilla' 6-max Seat #4 is the button
+Seat 2: JohnMcShen ($10000.00 in chips)
+Seat 3: jrSuited18 ($9593.25 in chips)
+Seat 4: MR1990 ($12244.31 in chips)
+Seat 6: CWestmoreland ($10050.00 in chips)
+CWestmoreland: posts small blind $50.00
+JohnMcShen: posts big blind $100.00
+*** HOLE CARDS ***
+jrSuited18: folds
+MR1990: folds
+CWestmoreland: raises $200.00 to $300.00
+JohnMcShen: folds
+Uncalled bet ($200.00) returned to CWestmoreland
+CWestmoreland collected $200.00 from pot
+CWestmoreland: doesn't show hand
+*** SUMMARY ***
+Total pot $200.00 | Rake $0.00
+Seat 2: JohnMcShen (big blind) folded before Flop
+Seat 3: jrSuited18 folded before Flop (didn't bet)
+Seat 4: MR1990 (button) folded before Flop (didn't bet)
+Seat 6: CWestmoreland (small blind) collected ($200.00)
+
+PokerStars Hand #1524901353:  Hold'em No Limit ($50.00/$100.00 USD) - 2023/01/16 19:08:38 ET
+Table 'WPN_Hollyvilla' 6-max Seat #6 is the button
+Seat 2: JohnMcShen ($9900.00 in chips)
+Seat 3: jrSuited18 ($9593.25 in chips)
+Seat 4: MR1990 ($12244.31 in chips)
+Seat 5: Trumpette ($4000.00 in chips)
+Seat 6: CWestmoreland ($10150.00 in chips)
+JohnMcShen: posts small blind $50.00
+jrSuited18: posts big blind $100.00
+*** HOLE CARDS ***
+MR1990: raises $100.00 to $200.00
+CWestmoreland: folds
+JohnMcShen: raises $800.00 to $1000.00
+jrSuited18: folds
+MR1990: calls $800.00
+*** FLOP *** [Th 9h 7d]
+JohnMcShen: bets $1050.00
+MR1990: calls $1050.00
+*** TURN *** [Th 9h 7d] [Ks]
+JohnMcShen: checks
+MR1990: checks
+*** RIVER *** [Th 9h 7d Ks] [Qd]
+JohnMcShen: bets $3150.00
+MR1990: calls $3150.00
+*** SHOW DOWN ***
+JohnMcShen: shows [Jd Td]
+MR1990: mucks hand
+JohnMcShen collected $10497.75 from pot
+*** SUMMARY ***
+Total pot $10500.00 | Rake $2.25
+Board [Th 9h 7d Ks Qd]
+Seat 2: JohnMcShen (small blind) showed [Jd Td] and won ($10497.75)
+Seat 3: jrSuited18 (big blind) folded before Flop
+Seat 4: MR1990 mucked
+Seat 6: CWestmoreland (button) folded before Flop (didn't bet)
+
+PokerStars Hand #1524903521:  Hold'em No Limit ($50.00/$100.00 USD) - 2023/01/16 19:10:15 ET
+Table 'WPN_Hollyvilla' 6-max Seat #2 is the button
+Seat 2: JohnMcShen ($15297.75 in chips)
+Seat 3: jrSuited18 ($10000.00 in chips)
+Seat 4: MR1990 ($7044.31 in chips)
+Seat 5: Trumpette ($4000.00 in chips)
+Seat 6: CWestmoreland ($10150.00 in chips)
+jrSuited18: posts small blind $50.00
+MR1990: posts big blind $100.00
+*** HOLE CARDS ***
+CWestmoreland: raises $120.00 to $220.00
+JohnMcShen: folds
+jrSuited18: folds
+MR1990: calls $120.00
+*** FLOP *** [6c 7c 4c]
+MR1990: bets $196.00
+CWestmoreland: folds
+Uncalled bet ($196.00) returned to MR1990
+MR1990 collected $487.75 from pot
+MR1990: doesn't show hand
+*** SUMMARY ***
+Total pot $490.00 | Rake $2.25
+Board [6c 7c 4c]
+Seat 2: JohnMcShen (button) folded before Flop (didn't bet)
+Seat 3: jrSuited18 (small blind) folded before Flop
+Seat 4: MR1990 (big blind) collected ($487.75)
+Seat 6: CWestmoreland folded on the Flop
+
+PokerStars Hand #1524904142:  Hold'em No Limit ($50.00/$100.00 USD) - 2023/01/16 19:10:42 ET
+Table 'WPN_Hollyvilla' 6-max Seat #3 is the button
+Seat 2: JohnMcShen ($15297.75 in chips)
+Seat 3: jrSuited18 ($10000.00 in chips)
+Seat 4: MR1990 ($7312.06 in chips)
+Seat 5: Trumpette ($4000.00 in chips)
+Seat 6: CWestmoreland ($9930.00 in chips)
+MR1990: posts small blind $50.00
+Trumpette: posts big blind $100.00
+*** HOLE CARDS ***
+CWestmoreland: raises $120.00 to $220.00
+JohnMcShen: folds
+jrSuited18: folds
+MR1990: folds
+Trumpette: calls $120.00
+*** FLOP *** [Qs 6h 3s]
+Trumpette: checks
+CWestmoreland: bets $146.10
+Trumpette: folds
+Uncalled bet ($146.10) returned to CWestmoreland
+CWestmoreland collected $487.00 from pot
+CWestmoreland: doesn't show hand
+*** SUMMARY ***
+Total pot $490.00 | Rake $3.00
+Board [Qs 6h 3s]
+Seat 2: JohnMcShen folded before Flop (didn't bet)
+Seat 3: jrSuited18 (button) folded before Flop (didn't bet)
+Seat 4: MR1990 (small blind) folded before Flop
+Seat 5: Trumpette (big blind) folded on the Flop
+Seat 6: CWestmoreland collected ($487.00)
+
+PokerStars Hand #1524904703:  Hold'em No Limit ($50.00/$100.00 USD) - 2023/01/16 19:11:09 ET
+Table 'WPN_Hollyvilla' 6-max Seat #4 is the button
+Seat 2: JohnMcShen ($15297.75 in chips)
+Seat 3: jrSuited18 ($10000.00 in chips)
+Seat 4: MR1990 ($7262.06 in chips)
+Seat 5: Trumpette ($3780.00 in chips)
+Seat 6: CWestmoreland ($10267.00 in chips)
+Trumpette: posts small blind $50.00
+CWestmoreland: posts big blind $100.00
+*** HOLE CARDS ***
+JohnMcShen: raises $120.00 to $220.00
+jrSuited18: folds
+MR1990: folds
+Trumpette: folds
+CWestmoreland: raises $880.00 to $1100.00
+JohnMcShen: calls $880.00
+*** FLOP *** [8s Ah 9c]
+CWestmoreland: bets $674.10
+JohnMcShen: calls $674.10
+*** TURN *** [8s Ah 9c] [Js]
+CWestmoreland: checks
+JohnMcShen: checks
+*** RIVER *** [8s Ah 9c Js] [Jd]
+CWestmoreland: checks
+JohnMcShen: bets $2698.65
+CWestmoreland: folds
+Uncalled bet ($2698.65) returned to JohnMcShen
+JohnMcShen collected $3595.20 from pot
+JohnMcShen: doesn't show hand
+*** SUMMARY ***
+Total pot $3598.20 | Rake $3.00
+Board [8s Ah 9c Js Jd]
+Seat 2: JohnMcShen collected ($3595.20)
+Seat 3: jrSuited18 folded before Flop (didn't bet)
+Seat 4: MR1990 (button) folded before Flop (didn't bet)
+Seat 5: Trumpette (small blind) folded before Flop
+Seat 6: CWestmoreland (big blind) folded on the River
+
+PokerStars Hand #1524907630:  Hold'em No Limit ($50.00/$100.00 USD) - 2023/01/16 19:13:25 ET
+Table 'WPN_Hollyvilla' 6-max Seat #5 is the button
+Seat 2: JohnMcShen ($17118.85 in chips)
+Seat 3: jrSuited18 ($10000.00 in chips)
+Seat 4: MR1990 ($7262.06 in chips)
+Seat 5: Trumpette ($3730.00 in chips)
+Seat 6: CWestmoreland ($8492.90 in chips)
+CWestmoreland: posts small blind $50.00
+JohnMcShen: posts big blind $100.00
+*** HOLE CARDS ***
+jrSuited18: folds
+MR1990: folds
+Trumpette: raises $120.00 to $220.00
+CWestmoreland: folds
+JohnMcShen: calls $120.00
+*** FLOP *** [8h 2h Kc]
+JohnMcShen: checks
+Trumpette: bets $161.00
+JohnMcShen: folds
+Uncalled bet ($161.00) returned to Trumpette
+Trumpette collected $487.00 from pot
+Trumpette: doesn't show hand
+*** SUMMARY ***
+Total pot $490.00 | Rake $3.00
+Board [8h 2h Kc]
+Seat 2: JohnMcShen (big blind) folded on the Flop
+Seat 3: jrSuited18 folded before Flop (didn't bet)
+Seat 4: MR1990 folded before Flop (didn't bet)
+Seat 5: Trumpette (button) collected ($487.00)
+Seat 6: CWestmoreland (small blind) folded before Flop
+
+PokerStars Hand #1524908356:  Hold'em No Limit ($50.00/$100.00 USD) - 2023/01/16 19:13:57 ET
+Table 'WPN_Hollyvilla' 6-max Seat #6 is the button
+Seat 1: Thelittle200 ($4000.00 in chips)
+Seat 2: JohnMcShen ($16898.85 in chips)
+Seat 3: jrSuited18 ($10000.00 in chips)
+Seat 4: MR1990 ($7262.06 in chips)
+Seat 5: Trumpette ($3997.00 in chips)
+Seat 6: CWestmoreland ($10000.00 in chips)
+JohnMcShen: posts small blind $50.00
+jrSuited18: posts big blind $100.00
+*** HOLE CARDS ***
+MR1990: folds
+Trumpette: folds
+CWestmoreland: raises $150.00 to $250.00
+JohnMcShen: folds
+jrSuited18: folds
+Uncalled bet ($150.00) returned to CWestmoreland
+CWestmoreland collected $250.00 from pot
+CWestmoreland: doesn't show hand
+*** SUMMARY ***
+Total pot $250.00 | Rake $0.00
+Seat 2: JohnMcShen (small blind) folded before Flop
+Seat 3: jrSuited18 (big blind) folded before Flop
+Seat 4: MR1990 folded before Flop (didn't bet)
+Seat 5: Trumpette folded before Flop (didn't bet)
+Seat 6: CWestmoreland (button) collected ($250.00)
+
+PokerStars Hand #1524909008:  Hold'em No Limit ($50.00/$100.00 USD) - 2023/01/16 19:14:25 ET
+Table 'WPN_Hollyvilla' 6-max Seat #2 is the button
+Seat 1: Thelittle200 ($4000.00 in chips)
+Seat 2: JohnMcShen ($16848.85 in chips)
+Seat 3: jrSuited18 ($9900.00 in chips)
+Seat 4: MR1990 ($7262.06 in chips)
+Seat 5: Trumpette ($3997.00 in chips)
+Seat 6: CWestmoreland ($10150.00 in chips)
+jrSuited18: posts small blind $50.00
+MR1990: posts big blind $100.00
+*** HOLE CARDS ***
+Trumpette: folds
+CWestmoreland: folds
+JohnMcShen: folds
+jrSuited18: folds
+Uncalled bet ($50.00) returned to MR1990
+MR1990 collected $100.00 from pot
+MR1990: doesn't show hand
+*** SUMMARY ***
+Total pot $100.00 | Rake $0.00
+Seat 2: JohnMcShen (button) folded before Flop (didn't bet)
+Seat 3: jrSuited18 (small blind) folded before Flop
+Seat 4: MR1990 (big blind) collected ($100.00)
+Seat 5: Trumpette folded before Flop (didn't bet)
+Seat 6: CWestmoreland folded before Flop (didn't bet)
+
+PokerStars Hand #1524909298:  Hold'em No Limit ($50.00/$100.00 USD) - 2023/01/16 19:14:39 ET
+Table 'WPN_Hollyvilla' 6-max Seat #3 is the button
+Seat 1: Thelittle200 ($4000.00 in chips)
+Seat 2: JohnMcShen ($16848.85 in chips)
+Seat 3: jrSuited18 ($9950.00 in chips)
+Seat 4: MR1990 ($7312.06 in chips)
+Seat 5: Trumpette ($3997.00 in chips)
+Seat 6: CWestmoreland ($10150.00 in chips)
+MR1990: posts small blind $50.00
+Trumpette: posts big blind $100.00
+*** HOLE CARDS ***
+CWestmoreland: folds
+JohnMcShen: folds
+jrSuited18: folds
+MR1990: raises $150.00 to $250.00
+Trumpette: folds
+Uncalled bet ($150.00) returned to MR1990
+MR1990 collected $200.00 from pot
+MR1990: doesn't show hand
+*** SUMMARY ***
+Total pot $200.00 | Rake $0.00
+Seat 2: JohnMcShen folded before Flop (didn't bet)
+Seat 3: jrSuited18 (button) folded before Flop (didn't bet)
+Seat 4: MR1990 (small blind) collected ($200.00)
+Seat 5: Trumpette (big blind) folded before Flop
+Seat 6: CWestmoreland folded before Flop (didn't bet)
+
+PokerStars Hand #1524909817:  Hold'em No Limit ($50.00/$100.00 USD) - 2023/01/16 19:15:18 ET
+Table 'WPN_Hollyvilla' 6-max Seat #3 is the button
+Seat 1: Thelittle200 ($4000.00 in chips)
+Seat 2: JohnMcShen ($16848.85 in chips)
+Seat 3: jrSuited18 ($9950.00 in chips)
+Seat 4: MR1990 ($7412.06 in chips)
+Seat 5: Trumpette ($3897.00 in chips)
+Seat 6: CWestmoreland ($10150.00 in chips)
+Thelittle200: posts the ante $500.00
+JohnMcShen: posts the ante $500.00
+jrSuited18: posts the ante $500.00
+MR1990: posts the ante $500.00
+Trumpette: posts the ante $500.00
+CWestmoreland: posts the ante $500.00
+*** HOLE CARDS ***
+*** FLOP *** [4d 3s 5s]
+MR1990: checks
+Trumpette: checks
+CWestmoreland: checks
+Thelittle200: bets $749.00
+JohnMcShen: calls $749.00
+jrSuited18: folds
+MR1990: calls $749.00
+Trumpette: folds
+CWestmoreland: folds
+*** TURN *** [4d 3s 5s] [7c]
+MR1990: bets $6163.06 and is all-in
+Thelittle200: calls $2751.00 and is all-in
+JohnMcShen: folds
+Uncalled bet ($3412.06) returned to MR1990
+*** RIVER *** [4d 3s 5s 7c] [Qs]
+*** SHOW DOWN ***
+Thelittle200: shows [8s As]
+MR1990: shows [6h 9s]
+Thelittle200 collected $10746.00 from pot
+*** SUMMARY ***
+Total pot $10749.00 | Rake $3.00
+Board [4d 3s 5s 7c Qs]
+Seat 1: Thelittle200 showed [8s As] and won ($10746.00)
+Seat 2: JohnMcShen folded on the Turn
+Seat 3: jrSuited18 (button) folded on the Flop
+Seat 4: MR1990 showed [6h 9s] and lost
+Seat 5: Trumpette folded on the Flop
+Seat 6: CWestmoreland folded on the Flop
+
+PokerStars Hand #1524912044:  Hold'em No Limit ($50.00/$100.00 USD) - 2023/01/16 19:16:47 ET
+Table 'WPN_Hollyvilla' 6-max Seat #4 is the button
+Seat 1: Thelittle200 ($10746.00 in chips)
+Seat 2: JohnMcShen ($15599.85 in chips)
+Seat 3: jrSuited18 ($10000.00 in chips)
+Seat 4: MR1990 ($3412.06 in chips)
+Seat 5: Trumpette ($3397.00 in chips)
+Seat 6: CWestmoreland ($10000.00 in chips)
+Trumpette: posts small blind $50.00
+CWestmoreland: posts big blind $100.00
+*** HOLE CARDS ***
+JohnMcShen: folds
+jrSuited18: folds
+MR1990: folds
+Trumpette: folds
+Uncalled bet ($50.00) returned to CWestmoreland
+CWestmoreland collected $100.00 from pot
+CWestmoreland: doesn't show hand
+*** SUMMARY ***
+Total pot $100.00 | Rake $0.00
+Seat 2: JohnMcShen folded before Flop (didn't bet)
+Seat 3: jrSuited18 folded before Flop (didn't bet)
+Seat 4: MR1990 (button) folded before Flop (didn't bet)
+Seat 5: Trumpette (small blind) folded before Flop
+Seat 6: CWestmoreland (big blind) collected ($100.00)
+
+PokerStars Hand #1524912311:  Hold'em No Limit ($50.00/$100.00 USD) - 2023/01/16 19:17:00 ET
+Table 'WPN_Hollyvilla' 6-max Seat #5 is the button
+Seat 1: Thelittle200 ($10746.00 in chips)
+Seat 2: JohnMcShen ($15599.85 in chips)
+Seat 3: jrSuited18 ($10000.00 in chips)
+Seat 4: MR1990 ($3412.06 in chips)
+Seat 5: Trumpette ($3347.00 in chips)
+Seat 6: CWestmoreland ($10050.00 in chips)
+CWestmoreland: posts small blind $50.00
+Thelittle200: posts big blind $100.00
+*** HOLE CARDS ***
+JohnMcShen: folds
+jrSuited18: raises $125.00 to $225.00
+MR1990: raises $375.00 to $600.00
+Trumpette: folds
+CWestmoreland: folds
+Thelittle200: folds
+jrSuited18: calls $375.00
+*** FLOP *** [Ts 9c Kc]
+jrSuited18: checks
+MR1990: checks
+*** TURN *** [Ts 9c Kc] [3d]
+jrSuited18: checks
+MR1990: bets $540.00
+jrSuited18: folds
+Uncalled bet ($540.00) returned to MR1990
+MR1990 collected $1347.00 from pot
+MR1990: doesn't show hand
+*** SUMMARY ***
+Total pot $1350.00 | Rake $3.00
+Board [Ts 9c Kc 3d]
+Seat 1: Thelittle200 (big blind) folded before Flop
+Seat 2: JohnMcShen folded before Flop (didn't bet)
+Seat 3: jrSuited18 folded on the Turn
+Seat 4: MR1990 collected ($1347.00)
+Seat 5: Trumpette (button) folded before Flop (didn't bet)
+Seat 6: CWestmoreland (small blind) folded before Flop
+
+PokerStars Hand #1524913560:  Hold'em No Limit ($50.00/$100.00 USD) - 2023/01/16 19:17:58 ET
+Table 'WPN_Hollyvilla' 6-max Seat #6 is the button
+Seat 1: Thelittle200 ($10646.00 in chips)
+Seat 2: JohnMcShen ($15599.85 in chips)
+Seat 3: jrSuited18 ($9400.00 in chips)
+Seat 4: MR1990 ($4159.06 in chips)
+Seat 5: Trumpette ($3347.00 in chips)
+Seat 6: CWestmoreland ($10000.00 in chips)
+Thelittle200: posts small blind $50.00
+JohnMcShen: posts big blind $100.00
+*** HOLE CARDS ***
+jrSuited18: folds
+MR1990: raises $100.00 to $200.00
+Trumpette: folds
+CWestmoreland: folds
+Thelittle200: folds
+JohnMcShen: calls $100.00
+*** FLOP *** [Ac Qh Qc]
+JohnMcShen: checks
+MR1990: checks
+*** TURN *** [Ac Qh Qc] [Kc]
+JohnMcShen: checks
+MR1990: bets $200.00
+JohnMcShen: calls $200.00
+*** RIVER *** [Ac Qh Qc Kc] [Qs]
+JohnMcShen: checks
+MR1990: checks
+*** SHOW DOWN ***
+JohnMcShen: shows [Js Ah]
+MR1990: mucks hand
+JohnMcShen collected $847.00 from pot
+*** SUMMARY ***
+Total pot $850.00 | Rake $3.00
+Board [Ac Qh Qc Kc Qs]
+Seat 1: Thelittle200 (small blind) folded before Flop
+Seat 2: JohnMcShen (big blind) showed [Js Ah] and won ($847.00)
+Seat 3: jrSuited18 folded before Flop (didn't bet)
+Seat 4: MR1990 mucked
+Seat 5: Trumpette folded before Flop (didn't bet)
+Seat 6: CWestmoreland (button) folded before Flop (didn't bet)
+
+PokerStars Hand #1524914998:  Hold'em No Limit ($50.00/$100.00 USD) - 2023/01/16 19:19:05 ET
+Table 'WPN_Hollyvilla' 6-max Seat #1 is the button
+Seat 1: Thelittle200 ($10596.00 in chips)
+Seat 2: JohnMcShen ($16046.85 in chips)
+Seat 3: jrSuited18 ($9400.00 in chips)
+Seat 4: MR1990 ($3759.06 in chips)
+Seat 5: Trumpette ($3347.00 in chips)
+Seat 6: CWestmoreland ($10000.00 in chips)
+JohnMcShen: posts small blind $50.00
+jrSuited18: posts big blind $100.00
+*** HOLE CARDS ***
+MR1990: folds
+Trumpette: folds
+CWestmoreland: folds
+Thelittle200: folds
+JohnMcShen: calls $50.00
+jrSuited18: checks
+*** FLOP *** [7d Qd Js]
+JohnMcShen: bets $100.00
+jrSuited18: calls $100.00
+*** TURN *** [7d Qd Js] [Qs]
+JohnMcShen: bets $300.00
+jrSuited18: calls $300.00
+*** RIVER *** [7d Qd Js Qs] [Ah]
+JohnMcShen: checks
+jrSuited18: checks
+*** SHOW DOWN ***
+jrSuited18: shows [Jc Td]
+JohnMcShen: mucks hand
+jrSuited18 collected $997.00 from pot
+*** SUMMARY ***
+Total pot $1000.00 | Rake $3.00
+Board [7d Qd Js Qs Ah]
+Seat 1: Thelittle200 (button) folded before Flop (didn't bet)
+Seat 2: JohnMcShen (small blind) mucked
+Seat 3: jrSuited18 (big blind) showed [Jc Td] and won ($997.00)
+Seat 4: MR1990 folded before Flop (didn't bet)
+Seat 5: Trumpette folded before Flop (didn't bet)
+Seat 6: CWestmoreland folded before Flop (didn't bet)
+
+PokerStars Hand #1524916391:  Hold'em No Limit ($50.00/$100.00 USD) - 2023/01/16 19:20:10 ET
+Table 'WPN_Hollyvilla' 6-max Seat #2 is the button
+Seat 1: Thelittle200 ($10596.00 in chips)
+Seat 2: JohnMcShen ($15546.85 in chips)
+Seat 3: jrSuited18 ($10497.00 in chips)
+Seat 4: MR1990 ($3759.06 in chips)
+Seat 5: Trumpette ($3347.00 in chips)
+Seat 6: CWestmoreland ($10000.00 in chips)
+jrSuited18: posts small blind $50.00
+MR1990: posts big blind $100.00
+*** HOLE CARDS ***
+Trumpette: raises $120.00 to $220.00
+CWestmoreland: folds
+Thelittle200: folds
+JohnMcShen: folds
+jrSuited18: folds
+MR1990: calls $120.00
+*** FLOP *** [Jc 2h 3d]
+MR1990: bets $200.00
+Trumpette: calls $200.00
+*** TURN *** [Jc 2h 3d] [Th]
+MR1990: checks
+Trumpette: bets $571.00
+MR1990: folds
+Uncalled bet ($571.00) returned to Trumpette
+Trumpette collected $887.00 from pot
+Trumpette: doesn't show hand
+*** SUMMARY ***
+Total pot $890.00 | Rake $3.00
+Board [Jc 2h 3d Th]
+Seat 1: Thelittle200 folded before Flop (didn't bet)
+Seat 2: JohnMcShen (button) folded before Flop (didn't bet)
+Seat 3: jrSuited18 (small blind) folded before Flop
+Seat 4: MR1990 (big blind) folded on the Turn
+Seat 5: Trumpette collected ($887.00)
+Seat 6: CWestmoreland folded before Flop (didn't bet)
+
+PokerStars Hand #1524917742:  Hold'em No Limit ($50.00/$100.00 USD) - 2023/01/16 19:21:13 ET
+Table 'WPN_Hollyvilla' 6-max Seat #3 is the button
+Seat 1: Thelittle200 ($10596.00 in chips)
+Seat 2: JohnMcShen ($15546.85 in chips)
+Seat 3: jrSuited18 ($10447.00 in chips)
+Seat 4: MR1990 ($3339.06 in chips)
+Seat 5: Trumpette ($3814.00 in chips)
+Seat 6: CWestmoreland ($10000.00 in chips)
+MR1990: posts small blind $50.00
+Trumpette: posts big blind $100.00
+*** HOLE CARDS ***
+CWestmoreland: raises $120.00 to $220.00
+Thelittle200: folds
+JohnMcShen: folds
+jrSuited18: folds
+MR1990: folds
+Trumpette: folds
+Uncalled bet ($120.00) returned to CWestmoreland
+CWestmoreland collected $250.00 from pot
+CWestmoreland: doesn't show hand
+*** SUMMARY ***
+Total pot $250.00 | Rake $0.00
+Seat 1: Thelittle200 folded before Flop (didn't bet)
+Seat 2: JohnMcShen folded before Flop (didn't bet)
+Seat 3: jrSuited18 (button) folded before Flop (didn't bet)
+Seat 4: MR1990 (small blind) folded before Flop
+Seat 5: Trumpette (big blind) folded before Flop
+Seat 6: CWestmoreland collected ($250.00)
+
+PokerStars Hand #1524918136:  Hold'em No Limit ($50.00/$100.00 USD) - 2023/01/16 19:21:31 ET
+Table 'WPN_Hollyvilla' 6-max Seat #4 is the button
+Seat 1: Thelittle200 ($10596.00 in chips)
+Seat 2: JohnMcShen ($15546.85 in chips)
+Seat 3: jrSuited18 ($10447.00 in chips)
+Seat 4: MR1990 ($3289.06 in chips)
+Seat 5: Trumpette ($3714.00 in chips)
+Seat 6: CWestmoreland ($10150.00 in chips)
+Trumpette: posts small blind $50.00
+CWestmoreland: posts big blind $100.00
+*** HOLE CARDS ***
+Thelittle200: folds
+JohnMcShen: folds
+jrSuited18: raises $125.00 to $225.00
+MR1990: folds
+Trumpette: folds
+CWestmoreland: folds
+Uncalled bet ($125.00) returned to jrSuited18
+jrSuited18 collected $250.00 from pot
+jrSuited18: doesn't show hand
+*** SUMMARY ***
+Total pot $250.00 | Rake $0.00
+Seat 1: Thelittle200 folded before Flop (didn't bet)
+Seat 2: JohnMcShen folded before Flop (didn't bet)
+Seat 3: jrSuited18 collected ($250.00)
+Seat 4: MR1990 (button) folded before Flop (didn't bet)
+Seat 5: Trumpette (small blind) folded before Flop
+Seat 6: CWestmoreland (big blind) folded before Flop
+
+PokerStars Hand #1524918521:  Hold'em No Limit ($50.00/$100.00 USD) - 2023/01/16 19:21:48 ET
+Table 'WPN_Hollyvilla' 6-max Seat #5 is the button
+Seat 1: Thelittle200 ($10596.00 in chips)
+Seat 2: JohnMcShen ($15546.85 in chips)
+Seat 3: jrSuited18 ($10597.00 in chips)
+Seat 4: MR1990 ($3289.06 in chips)
+Seat 5: Trumpette ($3664.00 in chips)
+Seat 6: CWestmoreland ($10050.00 in chips)
+CWestmoreland: posts small blind $50.00
+Thelittle200: posts big blind $100.00
+*** HOLE CARDS ***
+JohnMcShen: raises $120.00 to $220.00
+jrSuited18: folds
+MR1990: calls $220.00
+Trumpette: folds
+CWestmoreland: folds
+Thelittle200: folds
+*** FLOP *** [Td Ac 6s]
+JohnMcShen: bets $194.70
+MR1990: calls $194.70
+*** TURN *** [Td Ac 6s] [Ad]
+JohnMcShen: bets $323.20
+MR1990: calls $323.20
+*** RIVER *** [Td Ac 6s Ad] [2c]
+JohnMcShen: bets $536.51
+MR1990: calls $536.51
+*** SHOW DOWN ***
+MR1990: shows [As 3s]
+JohnMcShen: mucks hand
+MR1990 collected $2695.82 from pot
+*** SUMMARY ***
+Total pot $2698.82 | Rake $3.00
+Board [Td Ac 6s Ad 2c]
+Seat 1: Thelittle200 (big blind) folded before Flop
+Seat 2: JohnMcShen mucked
+Seat 3: jrSuited18 folded before Flop (didn't bet)
+Seat 4: MR1990 showed [As 3s] and won ($2695.82)
+Seat 5: Trumpette (button) folded before Flop (didn't bet)
+Seat 6: CWestmoreland (small blind) folded before Flop
+
+PokerStars Hand #1524919772:  Hold'em No Limit ($50.00/$100.00 USD) - 2023/01/16 19:22:49 ET
+Table 'WPN_Hollyvilla' 6-max Seat #6 is the button
+Seat 1: Thelittle200 ($10496.00 in chips)
+Seat 2: JohnMcShen ($14272.44 in chips)
+Seat 3: jrSuited18 ($10597.00 in chips)
+Seat 4: MR1990 ($4710.47 in chips)
+Seat 5: Trumpette ($3664.00 in chips)
+Seat 6: CWestmoreland ($10000.00 in chips)
+Thelittle200: posts small blind $50.00
+JohnMcShen: posts big blind $100.00
+*** HOLE CARDS ***
+jrSuited18: folds
+MR1990: raises $120.00 to $220.00
+Trumpette: folds
+CWestmoreland: folds
+Thelittle200: folds
+JohnMcShen: folds
+Uncalled bet ($120.00) returned to MR1990
+MR1990 collected $250.00 from pot
+MR1990: doesn't show hand
+*** SUMMARY ***
+Total pot $250.00 | Rake $0.00
+Seat 1: Thelittle200 (small blind) folded before Flop
+Seat 2: JohnMcShen (big blind) folded before Flop
+Seat 3: jrSuited18 folded before Flop (didn't bet)
+Seat 4: MR1990 collected ($250.00)
+Seat 5: Trumpette folded before Flop (didn't bet)
+Seat 6: CWestmoreland (button) folded before Flop (didn't bet)
+
+PokerStars Hand #1524920105:  Hold'em No Limit ($50.00/$100.00 USD) - 2023/01/16 19:23:05 ET
+Table 'WPN_Hollyvilla' 6-max Seat #1 is the button
+Seat 1: Thelittle200 ($10446.00 in chips)
+Seat 2: JohnMcShen ($14172.44 in chips)
+Seat 3: jrSuited18 ($10597.00 in chips)
+Seat 4: MR1990 ($4860.47 in chips)
+Seat 5: Trumpette ($3664.00 in chips)
+Seat 6: CWestmoreland ($10000.00 in chips)
+JohnMcShen: posts small blind $50.00
+jrSuited18: posts big blind $100.00
+*** HOLE CARDS ***
+MR1990: folds
+Trumpette: folds
+CWestmoreland: raises $120.00 to $220.00
+Thelittle200: folds
+JohnMcShen: folds
+jrSuited18: calls $120.00
+*** FLOP *** [6s Th 8h]
+jrSuited18: checks
+CWestmoreland: bets $243.50
+jrSuited18: calls $243.50
+*** TURN *** [6s Th 8h] [Ks]
+jrSuited18: checks
+CWestmoreland: bets $730.50
+jrSuited18: folds
+Uncalled bet ($730.50) returned to CWestmoreland
+CWestmoreland collected $974.00 from pot
+CWestmoreland: doesn't show hand
+*** SUMMARY ***
+Total pot $977.00 | Rake $3.00
+Board [6s Th 8h Ks]
+Seat 1: Thelittle200 (button) folded before Flop (didn't bet)
+Seat 2: JohnMcShen (small blind) folded before Flop
+Seat 3: jrSuited18 (big blind) folded on the Turn
+Seat 4: MR1990 folded before Flop (didn't bet)
+Seat 5: Trumpette folded before Flop (didn't bet)
+Seat 6: CWestmoreland collected ($974.00)
+
+PokerStars Hand #1524921857:  Hold'em No Limit ($50.00/$100.00 USD) - 2023/01/16 19:24:30 ET
+Table 'WPN_Hollyvilla' 6-max Seat #2 is the button
+Seat 1: Thelittle200 ($10446.00 in chips)
+Seat 2: JohnMcShen ($14122.44 in chips)
+Seat 3: jrSuited18 ($10133.50 in chips)
+Seat 4: MR1990 ($4860.47 in chips)
+Seat 5: Trumpette ($3664.00 in chips)
+Seat 6: CWestmoreland ($10510.50 in chips)
+jrSuited18: posts small blind $50.00
+MR1990: posts big blind $100.00
+*** HOLE CARDS ***
+Trumpette: folds
+CWestmoreland: folds
+Thelittle200: raises $150.00 to $250.00
+JohnMcShen: folds
+jrSuited18: folds
+MR1990: calls $150.00
+*** FLOP *** [Jh 3s 9c]
+MR1990: checks
+Thelittle200: bets $181.00
+MR1990: calls $181.00
+*** TURN *** [Jh 3s 9c] [8d]
+MR1990: bets $364.80
+Thelittle200: calls $364.80
+*** RIVER *** [Jh 3s 9c 8d] [Ah]
+MR1990: bets $1200.00
+Thelittle200: raises $8450.20 to $9650.20 and is all-in
+MR1990: folds
+Uncalled bet ($8450.20) returned to Thelittle200
+Thelittle200 collected $4038.60 from pot
+Thelittle200: doesn't show hand
+*** SUMMARY ***
+Total pot $4041.60 | Rake $3.00
+Board [Jh 3s 9c 8d Ah]
+Seat 1: Thelittle200 collected ($4038.60)
+Seat 2: JohnMcShen (button) folded before Flop (didn't bet)
+Seat 3: jrSuited18 (small blind) folded before Flop
+Seat 4: MR1990 (big blind) folded on the River
+Seat 5: Trumpette folded before Flop (didn't bet)
+Seat 6: CWestmoreland folded before Flop (didn't bet)
+
+PokerStars Hand #1524923517:  Hold'em No Limit ($50.00/$100.00 USD) - 2023/01/16 19:25:49 ET
+Table 'WPN_Hollyvilla' 6-max Seat #3 is the button
+Seat 1: Thelittle200 ($12488.80 in chips)
+Seat 2: JohnMcShen ($14122.44 in chips)
+Seat 3: jrSuited18 ($10083.50 in chips)
+Seat 4: MR1990 ($2864.67 in chips)
+Seat 5: Trumpette ($3664.00 in chips)
+Seat 6: CWestmoreland ($10510.50 in chips)
+MR1990: posts small blind $50.00
+Trumpette: posts big blind $100.00
+*** HOLE CARDS ***
+CWestmoreland: raises $120.00 to $220.00
+Thelittle200: folds
+JohnMcShen: folds
+jrSuited18: folds
+MR1990: folds
+Trumpette: calls $120.00
+*** FLOP *** [6s 9c 8s]
+Trumpette: checks
+CWestmoreland: checks
+*** TURN *** [6s 9c 8s] [9s]
+Trumpette: checks
+CWestmoreland: bets $146.10
+Trumpette: folds
+Uncalled bet ($146.10) returned to CWestmoreland
+CWestmoreland collected $487.00 from pot
+CWestmoreland: doesn't show hand
+*** SUMMARY ***
+Total pot $490.00 | Rake $3.00
+Board [6s 9c 8s 9s]
+Seat 1: Thelittle200 folded before Flop (didn't bet)
+Seat 2: JohnMcShen folded before Flop (didn't bet)
+Seat 3: jrSuited18 (button) folded before Flop (didn't bet)
+Seat 4: MR1990 (small blind) folded before Flop
+Seat 5: Trumpette (big blind) folded on the Turn
+Seat 6: CWestmoreland collected ($487.00)
+
+PokerStars Hand #1524924873:  Hold'em No Limit ($50.00/$100.00 USD) - 2023/01/16 19:26:54 ET
+Table 'WPN_Hollyvilla' 6-max Seat #4 is the button
+Seat 1: Thelittle200 ($12488.80 in chips)
+Seat 2: JohnMcShen ($14122.44 in chips)
+Seat 3: jrSuited18 ($10083.50 in chips)
+Seat 4: MR1990 ($2814.67 in chips)
+Seat 5: Trumpette ($3444.00 in chips)
+Seat 6: CWestmoreland ($10777.50 in chips)
+Trumpette: posts small blind $50.00
+CWestmoreland: posts big blind $100.00
+*** HOLE CARDS ***
+Thelittle200: folds
+JohnMcShen: folds
+jrSuited18: folds
+MR1990: raises $120.00 to $220.00
+Trumpette: folds
+CWestmoreland: raises $880.00 to $1100.00
+MR1990: raises $1714.67 to $2814.67 and is all-in
+CWestmoreland: calls $1714.67
+*** FLOP *** [Qh 3d 2c]
+*** TURN *** [Qh 3d 2c] [Qc]
+*** RIVER *** [Qh 3d 2c Qc] [9h]
+*** SHOW DOWN ***
+CWestmoreland: shows [Qs Ad]
+MR1990: shows [7d 7h]
+CWestmoreland collected $5676.34 from pot
+*** SUMMARY ***
+Total pot $5679.34 | Rake $3.00
+Board [Qh 3d 2c Qc 9h]
+Seat 1: Thelittle200 folded before Flop (didn't bet)
+Seat 2: JohnMcShen folded before Flop (didn't bet)
+Seat 3: jrSuited18 folded before Flop (didn't bet)
+Seat 4: MR1990 (button) showed [7d 7h] and lost
+Seat 5: Trumpette (small blind) folded before Flop
+Seat 6: CWestmoreland (big blind) showed [Qs Ad] and won ($5676.34)
+
+PokerStars Hand #1524925885:  Hold'em No Limit ($50.00/$100.00 USD) - 2023/01/16 19:27:43 ET
+Table 'WPN_Hollyvilla' 6-max Seat #5 is the button
+Seat 1: Thelittle200 ($12488.80 in chips)
+Seat 2: JohnMcShen ($14122.44 in chips)
+Seat 3: jrSuited18 ($10083.50 in chips)
+Seat 5: Trumpette ($3394.00 in chips)
+Seat 6: CWestmoreland ($13639.17 in chips)
+CWestmoreland: posts small blind $50.00
+Thelittle200: posts big blind $100.00
+*** HOLE CARDS ***
+JohnMcShen: folds
+jrSuited18: raises $125.00 to $225.00
+Trumpette: folds
+CWestmoreland: raises $875.00 to $1100.00
+Thelittle200: folds
+jrSuited18: folds
+Uncalled bet ($875.00) returned to CWestmoreland
+CWestmoreland collected $550.00 from pot
+CWestmoreland: doesn't show hand
+*** SUMMARY ***
+Total pot $550.00 | Rake $0.00
+Seat 1: Thelittle200 (big blind) folded before Flop
+Seat 2: JohnMcShen folded before Flop (didn't bet)
+Seat 3: jrSuited18 folded before Flop
+Seat 5: Trumpette (button) folded before Flop (didn't bet)
+Seat 6: CWestmoreland (small blind) collected ($550.00)
+
+PokerStars Hand #1524926630:  Hold'em No Limit ($50.00/$100.00 USD) - 2023/01/16 19:28:18 ET
+Table 'WPN_Hollyvilla' 6-max Seat #6 is the button
+Seat 1: Thelittle200 ($12388.80 in chips)
+Seat 2: JohnMcShen ($14122.44 in chips)
+Seat 3: jrSuited18 ($9858.50 in chips)
+Seat 5: Trumpette ($3394.00 in chips)
+Seat 6: CWestmoreland ($13964.17 in chips)
+Thelittle200: posts small blind $50.00
+JohnMcShen: posts big blind $100.00
+*** HOLE CARDS ***
+jrSuited18: folds
+Trumpette: folds
+CWestmoreland: folds
+Thelittle200: folds
+Uncalled bet ($50.00) returned to JohnMcShen
+JohnMcShen collected $100.00 from pot
+JohnMcShen: doesn't show hand
+*** SUMMARY ***
+Total pot $100.00 | Rake $0.00
+Seat 1: Thelittle200 (small blind) folded before Flop
+Seat 2: JohnMcShen (big blind) collected ($100.00)
+Seat 3: jrSuited18 folded before Flop (didn't bet)
+Seat 5: Trumpette folded before Flop (didn't bet)
+Seat 6: CWestmoreland (button) folded before Flop (didn't bet)
+
+PokerStars Hand #1524926618:  Hold'em No Limit ($50.00/$100.00 USD) - 2023/01/16 19:28:17 ET
+Table 'WPN_Long Point' 6-max Seat #2 is the button
+Seat 2: CWestmoreland ($6250.01 in chips)
+Seat 5: JohnMcShen ($15744.98 in chips)
+CWestmoreland: posts small blind $50.00
+JohnMcShen: posts big blind $100.00
+*** HOLE CARDS ***
+CWestmoreland: raises $150.00 to $250.00
+JohnMcShen: calls $150.00
+*** FLOP *** [8h 5d 8d]
+JohnMcShen: checks
+CWestmoreland: bets $149.62
+JohnMcShen: raises $399.62 to $549.24
+CWestmoreland: calls $399.62
+*** TURN *** [8h 5d 8d] [Ad]
+JohnMcShen: bets $1198.86
+CWestmoreland: folds
+Uncalled bet ($1198.86) returned to JohnMcShen
+JohnMcShen collected $1597.23 from pot
+JohnMcShen: doesn't show hand
+*** SUMMARY ***
+Total pot $1598.48 | Rake $1.25
+Board [8h 5d 8d Ad]
+Seat 2: CWestmoreland (button) (small blind) folded on the Turn
+Seat 5: JohnMcShen (big blind) collected ($1597.23)
+
+PokerStars Hand #1524926990:  Hold'em No Limit ($50.00/$100.00 USD) - 2023/01/16 19:28:36 ET
+Table 'WPN_Hollyvilla' 6-max Seat #1 is the button
+Seat 1: Thelittle200 ($12338.80 in chips)
+Seat 2: JohnMcShen ($14172.44 in chips)
+Seat 3: jrSuited18 ($9858.50 in chips)
+Seat 5: Trumpette ($3394.00 in chips)
+Seat 6: CWestmoreland ($13964.17 in chips)
+JohnMcShen: posts small blind $50.00
+jrSuited18: posts big blind $100.00
+*** HOLE CARDS ***
+Trumpette: folds
+CWestmoreland: folds
+Thelittle200: folds
+JohnMcShen: raises $200.00 to $300.00
+jrSuited18: calls $200.00
+*** FLOP *** [3c Th Ah]
+JohnMcShen: bets $150.00
+jrSuited18: calls $150.00
+*** TURN *** [3c Th Ah] [Js]
+JohnMcShen: bets $675.00
+jrSuited18: folds
+Uncalled bet ($675.00) returned to JohnMcShen
+JohnMcShen collected $897.00 from pot
+JohnMcShen: doesn't show hand
+*** SUMMARY ***
+Total pot $900.00 | Rake $3.00
+Board [3c Th Ah Js]
+Seat 1: Thelittle200 (button) folded before Flop (didn't bet)
+Seat 2: JohnMcShen (small blind) collected ($897.00)
+Seat 3: jrSuited18 (big blind) folded on the Turn
+Seat 5: Trumpette folded before Flop (didn't bet)
+Seat 6: CWestmoreland folded before Flop (didn't bet)
+
+PokerStars Hand #1524927986:  Hold'em No Limit ($50.00/$100.00 USD) - 2023/01/16 19:29:24 ET
+Table 'WPN_Long Point' 6-max Seat #5 is the button
+Seat 2: CWestmoreland ($9200.76 in chips)
+Seat 5: JohnMcShen ($16542.97 in chips)
+JohnMcShen: posts small blind $50.00
+CWestmoreland: posts big blind $100.00
+*** HOLE CARDS ***
+JohnMcShen: raises $150.00 to $250.00
+CWestmoreland: calls $150.00
+*** FLOP *** [8d 3c Kd]
+CWestmoreland: checks
+JohnMcShen: bets $165.00
+CWestmoreland: calls $165.00
+*** TURN *** [8d 3c Kd] [2s]
+CWestmoreland: checks
+JohnMcShen: checks
+*** RIVER *** [8d 3c Kd 2s] [6h]
+CWestmoreland: bets $1243.12
+JohnMcShen: folds
+Uncalled bet ($1243.12) returned to CWestmoreland
+CWestmoreland collected $828.75 from pot
+CWestmoreland: doesn't show hand
+*** SUMMARY ***
+Total pot $830.00 | Rake $1.25
+Board [8d 3c Kd 2s 6h]
+Seat 2: CWestmoreland (big blind) collected ($828.75)
+Seat 5: JohnMcShen (button) (small blind) folded on the River
+
+PokerStars Hand #1524928461:  Hold'em No Limit ($50.00/$100.00 USD) - 2023/01/16 19:29:46 ET
+Table 'WPN_Hollyvilla' 6-max Seat #2 is the button
+Seat 1: Thelittle200 ($12338.80 in chips)
+Seat 2: JohnMcShen ($14619.44 in chips)
+Seat 3: jrSuited18 ($9550.00 in chips)
+Seat 5: Trumpette ($3394.00 in chips)
+Seat 6: CWestmoreland ($13964.17 in chips)
+jrSuited18: posts small blind $50.00
+Trumpette: posts big blind $100.00
+*** HOLE CARDS ***
+CWestmoreland: folds
+Thelittle200: raises $150.00 to $250.00
+JohnMcShen: calls $250.00
+jrSuited18: folds
+Trumpette: folds
+*** FLOP *** [Qd 5d 9s]
+Thelittle200: checks
+JohnMcShen: checks
+*** TURN *** [Qd 5d 9s] [Ah]
+Thelittle200: checks
+JohnMcShen: checks
+*** RIVER *** [Qd 5d 9s Ah] [8h]
+Thelittle200: checks
+JohnMcShen: checks
+*** SHOW DOWN ***
+Thelittle200: shows [7s Qs]
+JohnMcShen: mucks hand
+Thelittle200 collected $647.00 from pot
+*** SUMMARY ***
+Total pot $650.00 | Rake $3.00
+Board [Qd 5d 9s Ah 8h]
+Seat 1: Thelittle200 showed [7s Qs] and won ($647.00)
+Seat 2: JohnMcShen (button) mucked
+Seat 3: jrSuited18 (small blind) folded before Flop
+Seat 5: Trumpette (big blind) folded before Flop
+Seat 6: CWestmoreland folded before Flop (didn't bet)
+
+PokerStars Hand #1524929382:  Hold'em No Limit ($50.00/$100.00 USD) - 2023/01/16 19:30:29 ET
+Table 'WPN_Long Point' 6-max Seat #2 is the button
+Seat 2: CWestmoreland ($10413.75 in chips)
+Seat 5: JohnMcShen ($16127.97 in chips)
+CWestmoreland: posts small blind $50.00
+JohnMcShen: posts big blind $100.00
+*** HOLE CARDS ***
+CWestmoreland: raises $150.00 to $250.00
+JohnMcShen: calls $150.00
+*** FLOP *** [9s 6c 4c]
+JohnMcShen: checks
+CWestmoreland: bets $374.06
+JohnMcShen: folds
+Uncalled bet ($374.06) returned to CWestmoreland
+CWestmoreland collected $498.75 from pot
+CWestmoreland: doesn't show hand
+*** SUMMARY ***
+Total pot $500.00 | Rake $1.25
+Board [9s 6c 4c]
+Seat 2: CWestmoreland (button) (small blind) collected ($498.75)
+Seat 5: JohnMcShen (big blind) folded on the Flop
+
+PokerStars Hand #1524930047:  Hold'em No Limit ($50.00/$100.00 USD) - 2023/01/16 19:31:01 ET
+Table 'WPN_Long Point' 6-max Seat #5 is the button
+Seat 2: CWestmoreland ($10662.50 in chips)
+Seat 5: JohnMcShen ($15877.97 in chips)
+JohnMcShen: posts small blind $50.00
+CWestmoreland: posts big blind $100.00
+*** HOLE CARDS ***
+JohnMcShen: raises $150.00 to $250.00
+CWestmoreland: folds
+Uncalled bet ($150.00) returned to JohnMcShen
+JohnMcShen collected $200.00 from pot
+JohnMcShen: doesn't show hand
+*** SUMMARY ***
+Total pot $200.00 | Rake $0.00
+Seat 2: CWestmoreland (big blind) folded before Flop
+Seat 5: JohnMcShen (button) (small blind) collected ($200.00)
+
+PokerStars Hand #1524929468:  Hold'em No Limit ($50.00/$100.00 USD) - 2023/01/16 19:30:33 ET
+Table 'WPN_Hollyvilla' 6-max Seat #3 is the button
+Seat 1: Thelittle200 ($12735.80 in chips)
+Seat 2: JohnMcShen ($14369.44 in chips)
+Seat 3: jrSuited18 ($10000.00 in chips)
+Seat 5: Trumpette ($3294.00 in chips)
+Seat 6: CWestmoreland ($13964.17 in chips)
+Trumpette: posts small blind $50.00
+CWestmoreland: posts big blind $100.00
+*** HOLE CARDS ***
+Thelittle200: folds
+JohnMcShen: raises $120.00 to $220.00
+jrSuited18: folds
+Trumpette: folds
+CWestmoreland: calls $120.00
+*** FLOP *** [2c 5d Tc]
+CWestmoreland: checks
+JohnMcShen: bets $245.00
+CWestmoreland: calls $245.00
+*** TURN *** [2c 5d Tc] [9d]
+CWestmoreland: checks
+JohnMcShen: bets $1500.00
+CWestmoreland: folds
+Uncalled bet ($1500.00) returned to JohnMcShen
+JohnMcShen collected $977.00 from pot
+JohnMcShen: doesn't show hand
+*** SUMMARY ***
+Total pot $980.00 | Rake $3.00
+Board [2c 5d Tc 9d]
+Seat 1: Thelittle200 folded before Flop (didn't bet)
+Seat 2: JohnMcShen collected ($977.00)
+Seat 3: jrSuited18 (button) folded before Flop (didn't bet)
+Seat 5: Trumpette (small blind) folded before Flop
+Seat 6: CWestmoreland (big blind) folded on the Turn
+
+PokerStars Hand #1524930352:  Hold'em No Limit ($50.00/$100.00 USD) - 2023/01/16 19:31:15 ET
+Table 'WPN_Long Point' 6-max Seat #2 is the button
+Seat 2: CWestmoreland ($10562.50 in chips)
+Seat 5: JohnMcShen ($15977.97 in chips)
+CWestmoreland: posts small blind $50.00
+JohnMcShen: posts big blind $100.00
+*** HOLE CARDS ***
+CWestmoreland: raises $150.00 to $250.00
+JohnMcShen: calls $150.00
+*** FLOP *** [3h 4d Jh]
+JohnMcShen: checks
+CWestmoreland: bets $149.62
+JohnMcShen: calls $149.62
+*** TURN *** [3h 4d Jh] [7s]
+JohnMcShen: checks
+CWestmoreland: bets $1196.98
+JohnMcShen: folds
+Uncalled bet ($1196.98) returned to CWestmoreland
+CWestmoreland collected $797.99 from pot
+CWestmoreland: doesn't show hand
+*** SUMMARY ***
+Total pot $799.24 | Rake $1.25
+Board [3h 4d Jh 7s]
+Seat 2: CWestmoreland (button) (small blind) collected ($797.99)
+Seat 5: JohnMcShen (big blind) folded on the Turn
+
+PokerStars Hand #1524930831:  Hold'em No Limit ($50.00/$100.00 USD) - 2023/01/16 19:31:36 ET
+Table 'WPN_Hollyvilla' 6-max Seat #5 is the button
+Seat 1: Thelittle200 ($12735.80 in chips)
+Seat 2: JohnMcShen ($14881.44 in chips)
+Seat 3: jrSuited18 ($10000.00 in chips)
+Seat 5: Trumpette ($3244.00 in chips)
+Seat 6: CWestmoreland ($13499.17 in chips)
+CWestmoreland: posts small blind $50.00
+JohnMcShen: posts big blind $100.00
+*** HOLE CARDS ***
+jrSuited18: raises $125.00 to $225.00
+Trumpette: folds
+CWestmoreland: folds
+JohnMcShen: calls $125.00
+*** FLOP *** [Ts Qs Td]
+JohnMcShen: checks
+jrSuited18: bets $125.00
+JohnMcShen: folds
+Uncalled bet ($125.00) returned to jrSuited18
+jrSuited18 collected $497.75 from pot
+jrSuited18: doesn't show hand
+*** SUMMARY ***
+Total pot $500.00 | Rake $2.25
+Board [Ts Qs Td]
+Seat 2: JohnMcShen (big blind) folded on the Flop
+Seat 3: jrSuited18 collected ($497.75)
+Seat 5: Trumpette (button) folded before Flop (didn't bet)
+Seat 6: CWestmoreland (small blind) folded before Flop
+
+PokerStars Hand #1524931651:  Hold'em No Limit ($50.00/$100.00 USD) - 2023/01/16 19:32:16 ET
+Table 'WPN_Hollyvilla' 6-max Seat #6 is the button
+Seat 1: Thelittle200 ($12735.80 in chips)
+Seat 2: JohnMcShen ($14656.44 in chips)
+Seat 3: jrSuited18 ($10272.75 in chips)
+Seat 5: Trumpette ($3244.00 in chips)
+Seat 6: CWestmoreland ($13449.17 in chips)
+JohnMcShen: posts small blind $50.00
+jrSuited18: posts big blind $100.00
+*** HOLE CARDS ***
+Trumpette: folds
+CWestmoreland: folds
+JohnMcShen: folds
+Uncalled bet ($50.00) returned to jrSuited18
+jrSuited18 collected $100.00 from pot
+jrSuited18: doesn't show hand
+*** SUMMARY ***
+Total pot $100.00 | Rake $0.00
+Seat 2: JohnMcShen (small blind) folded before Flop
+Seat 3: jrSuited18 (big blind) collected ($100.00)
+Seat 5: Trumpette folded before Flop (didn't bet)
+Seat 6: CWestmoreland (button) folded before Flop (didn't bet)
+
+PokerStars Hand #1524931950:  Hold'em No Limit ($50.00/$100.00 USD) - 2023/01/16 19:32:31 ET
+Table 'WPN_Hollyvilla' 6-max Seat #2 is the button
+Seat 1: Thelittle200 ($12735.80 in chips)
+Seat 2: JohnMcShen ($14606.44 in chips)
+Seat 3: jrSuited18 ($10322.75 in chips)
+Seat 5: Trumpette ($3244.00 in chips)
+Seat 6: CWestmoreland ($13449.17 in chips)
+jrSuited18: posts small blind $50.00
+Trumpette: posts big blind $100.00
+*** HOLE CARDS ***
+CWestmoreland: folds
+JohnMcShen: folds
+jrSuited18: raises $150.00 to $250.00
+Trumpette: calls $150.00
+*** FLOP *** [4c 8d Ks]
+jrSuited18: bets $125.00
+Trumpette: calls $125.00
+*** TURN *** [4c 8d Ks] [5h]
+jrSuited18: checks
+Trumpette: checks
+*** RIVER *** [4c 8d Ks 5h] [6d]
+jrSuited18: checks
+Trumpette: checks
+*** SHOW DOWN ***
+Trumpette: shows [5s 9s]
+jrSuited18: mucks hand
+Trumpette collected $747.75 from pot
+*** SUMMARY ***
+Total pot $750.00 | Rake $2.25
+Board [4c 8d Ks 5h 6d]
+Seat 2: JohnMcShen (button) folded before Flop (didn't bet)
+Seat 3: jrSuited18 (small blind) mucked
+Seat 5: Trumpette (big blind) showed [5s 9s] and won ($747.75)
+Seat 6: CWestmoreland folded before Flop (didn't bet)
+
+PokerStars Hand #1524933236:  Hold'em No Limit ($50.00/$100.00 USD) - 2023/01/16 19:33:33 ET
+Table 'WPN_Hollyvilla' 6-max Seat #3 is the button
+Seat 1: Thelittle200 ($12735.80 in chips)
+Seat 2: JohnMcShen ($14606.44 in chips)
+Seat 3: jrSuited18 ($10000.00 in chips)
+Seat 5: Trumpette ($3616.75 in chips)
+Seat 6: CWestmoreland ($13449.17 in chips)
+Trumpette: posts small blind $50.00
+CWestmoreland: posts big blind $100.00
+*** HOLE CARDS ***
+JohnMcShen: raises $120.00 to $220.00
+jrSuited18: folds
+Trumpette: folds
+CWestmoreland: folds
+Uncalled bet ($120.00) returned to JohnMcShen
+JohnMcShen collected $250.00 from pot
+JohnMcShen: doesn't show hand
+*** SUMMARY ***
+Total pot $250.00 | Rake $0.00
+Seat 2: JohnMcShen collected ($250.00)
+Seat 3: jrSuited18 (button) folded before Flop (didn't bet)
+Seat 5: Trumpette (small blind) folded before Flop
+Seat 6: CWestmoreland (big blind) folded before Flop
+
+PokerStars Hand #1524933690:  Hold'em No Limit ($50.00/$100.00 USD) - 2023/01/16 19:33:55 ET
+Table 'WPN_Hollyvilla' 6-max Seat #5 is the button
+Seat 1: Thelittle200 ($12735.80 in chips)
+Seat 2: JohnMcShen ($14756.44 in chips)
+Seat 3: jrSuited18 ($10000.00 in chips)
+Seat 5: Trumpette ($3566.75 in chips)
+Seat 6: CWestmoreland ($13349.17 in chips)
+CWestmoreland: posts small blind $50.00
+Thelittle200: posts big blind $100.00
+*** HOLE CARDS ***
+JohnMcShen: folds
+jrSuited18: folds
+Trumpette: folds
+CWestmoreland: raises $200.00 to $300.00
+Thelittle200: folds
+Uncalled bet ($200.00) returned to CWestmoreland
+CWestmoreland collected $200.00 from pot
+CWestmoreland: doesn't show hand
+*** SUMMARY ***
+Total pot $200.00 | Rake $0.00
+Seat 1: Thelittle200 (big blind) folded before Flop
+Seat 2: JohnMcShen folded before Flop (didn't bet)
+Seat 3: jrSuited18 folded before Flop (didn't bet)
+Seat 5: Trumpette (button) folded before Flop (didn't bet)
+Seat 6: CWestmoreland (small blind) collected ($200.00)
+
+PokerStars Hand #1524934105:  Hold'em No Limit ($50.00/$100.00 USD) - 2023/01/16 19:34:14 ET
+Table 'WPN_Hollyvilla' 6-max Seat #6 is the button
+Seat 1: Thelittle200 ($12635.80 in chips)
+Seat 2: JohnMcShen ($14756.44 in chips)
+Seat 3: jrSuited18 ($10000.00 in chips)
+Seat 5: Trumpette ($3566.75 in chips)
+Seat 6: CWestmoreland ($13449.17 in chips)
+Thelittle200: posts small blind $50.00
+JohnMcShen: posts big blind $100.00
+*** HOLE CARDS ***
+jrSuited18: folds
+Trumpette: raises $100.00 to $200.00
+CWestmoreland: raises $400.00 to $600.00
+Thelittle200: folds
+JohnMcShen: folds
+Trumpette: raises $2966.75 to $3566.75 and is all-in
+CWestmoreland: folds
+Uncalled bet ($2966.75) returned to Trumpette
+Trumpette collected $1350.00 from pot
+Trumpette: doesn't show hand
+*** SUMMARY ***
+Total pot $1350.00 | Rake $0.00
+Seat 1: Thelittle200 (small blind) folded before Flop
+Seat 2: JohnMcShen (big blind) folded before Flop
+Seat 3: jrSuited18 folded before Flop (didn't bet)
+Seat 5: Trumpette collected ($1350.00)
+Seat 6: CWestmoreland (button) folded before Flop
+
+PokerStars Hand #1524935108:  Hold'em No Limit ($50.00/$100.00 USD) - 2023/01/16 19:35:02 ET
+Table 'WPN_Hollyvilla' 6-max Seat #1 is the button
+Seat 1: Thelittle200 ($12585.80 in chips)
+Seat 2: JohnMcShen ($14656.44 in chips)
+Seat 3: jrSuited18 ($10000.00 in chips)
+Seat 5: Trumpette ($4316.75 in chips)
+Seat 6: CWestmoreland ($12849.17 in chips)
+JohnMcShen: posts small blind $50.00
+jrSuited18: posts big blind $100.00
+*** HOLE CARDS ***
+Trumpette: folds
+CWestmoreland: folds
+Thelittle200: folds
+JohnMcShen: calls $50.00
+jrSuited18: raises $250.00 to $350.00
+JohnMcShen: folds
+Uncalled bet ($250.00) returned to jrSuited18
+jrSuited18 collected $200.00 from pot
+jrSuited18: doesn't show hand
+*** SUMMARY ***
+Total pot $200.00 | Rake $0.00
+Seat 1: Thelittle200 (button) folded before Flop (didn't bet)
+Seat 2: JohnMcShen (small blind) folded before Flop
+Seat 3: jrSuited18 (big blind) collected ($200.00)
+Seat 5: Trumpette folded before Flop (didn't bet)
+Seat 6: CWestmoreland folded before Flop (didn't bet)
+
+PokerStars Hand #1524935732:  Hold'em No Limit ($50.00/$100.00 USD) - 2023/01/16 19:35:34 ET
+Table 'WPN_Hollyvilla' 6-max Seat #2 is the button
+Seat 1: Thelittle200 ($12585.80 in chips)
+Seat 2: JohnMcShen ($14556.44 in chips)
+Seat 3: jrSuited18 ($10100.00 in chips)
+Seat 5: Trumpette ($4316.75 in chips)
+Seat 6: CWestmoreland ($12849.17 in chips)
+jrSuited18: posts small blind $50.00
+Trumpette: posts big blind $100.00
+*** HOLE CARDS ***
+CWestmoreland: folds
+Thelittle200: folds
+JohnMcShen: folds
+jrSuited18: raises $150.00 to $250.00
+Trumpette: calls $150.00
+*** FLOP *** [As 5s 7s]
+jrSuited18: bets $125.00
+Trumpette: calls $125.00
+*** TURN *** [As 5s 7s] [4c]
+jrSuited18: bets $187.50
+Trumpette: calls $187.50
+*** RIVER *** [As 5s 7s 4c] [Qc]
+jrSuited18: bets $562.50
+Trumpette: calls $562.50
+*** SHOW DOWN ***
+Trumpette: shows [Qs Jc]
+jrSuited18: mucks hand
+Trumpette collected $2247.00 from pot
+*** SUMMARY ***
+Total pot $2250.00 | Rake $3.00
+Board [As 5s 7s 4c Qc]
+Seat 1: Thelittle200 folded before Flop (didn't bet)
+Seat 2: JohnMcShen (button) folded before Flop (didn't bet)
+Seat 3: jrSuited18 (small blind) mucked
+Seat 5: Trumpette (big blind) showed [Qs Jc] and won ($2247.00)
+Seat 6: CWestmoreland folded before Flop (didn't bet)
+
+PokerStars Hand #1524937489:  Hold'em No Limit ($50.00/$100.00 USD) - 2023/01/16 19:36:59 ET
+Table 'WPN_Hollyvilla' 6-max Seat #3 is the button
+Seat 1: Thelittle200 ($12585.80 in chips)
+Seat 2: JohnMcShen ($14556.44 in chips)
+Seat 3: jrSuited18 ($10000.00 in chips)
+Seat 4: DoublelegTD ($4000.00 in chips)
+Seat 6: CWestmoreland ($12849.17 in chips)
+CWestmoreland: posts big blind $100.00
+*** HOLE CARDS ***
+Thelittle200: folds
+JohnMcShen: folds
+jrSuited18: folds
+CWestmoreland collected $100.00 from pot
+CWestmoreland: doesn't show hand
+*** SUMMARY ***
+Total pot $100.00 | Rake $0.00
+Seat 1: Thelittle200 folded before Flop (didn't bet)
+Seat 2: JohnMcShen folded before Flop (didn't bet)
+Seat 3: jrSuited18 (button) folded before Flop (didn't bet)
+Seat 6: CWestmoreland (big blind) collected ($100.00)
+
+PokerStars Hand #1524937719:  Hold'em No Limit ($50.00/$100.00 USD) - 2023/01/16 19:37:10 ET
+Table 'WPN_Hollyvilla' 6-max Seat #5 is the button
+Seat 2: JohnMcShen ($14556.44 in chips)
+Seat 3: jrSuited18 ($10000.00 in chips)
+Seat 6: CWestmoreland ($12849.17 in chips)
+CWestmoreland: posts small blind $50.00
+JohnMcShen: posts big blind $100.00
+*** HOLE CARDS ***
+jrSuited18: folds
+CWestmoreland: folds
+Uncalled bet ($50.00) returned to JohnMcShen
+JohnMcShen collected $100.00 from pot
+JohnMcShen: doesn't show hand
+*** SUMMARY ***
+Total pot $100.00 | Rake $0.00
+Seat 2: JohnMcShen (big blind) collected ($100.00)
+Seat 3: jrSuited18 folded before Flop (didn't bet)
+Seat 6: CWestmoreland (small blind) folded before Flop
+
+PokerStars Hand #1524937952:  Hold'em No Limit ($50.00/$100.00 USD) - 2023/01/16 19:37:21 ET
+Table 'WPN_Hollyvilla' 6-max Seat #6 is the button
+Seat 2: JohnMcShen ($14606.44 in chips)
+Seat 3: jrSuited18 ($10000.00 in chips)
+Seat 6: CWestmoreland ($12799.17 in chips)
+JohnMcShen: posts small blind $50.00
+CWestmoreland: posts big blind $100.00
+*** HOLE CARDS ***
+JohnMcShen: raises $200.00 to $300.00
+CWestmoreland: folds
+Uncalled bet ($200.00) returned to JohnMcShen
+JohnMcShen collected $200.00 from pot
+JohnMcShen: doesn't show hand
+*** SUMMARY ***
+Total pot $200.00 | Rake $0.00
+Seat 2: JohnMcShen (small blind) collected ($200.00)
+Seat 6: CWestmoreland (button) (big blind) folded before Flop
+
+PokerStars Hand #1524938228:  Hold'em No Limit ($50.00/$100.00 USD) - 2023/01/16 19:37:35 ET
+Table 'WPN_Hollyvilla' 6-max Seat #6 is the button
+Seat 2: JohnMcShen ($14706.44 in chips)
+Seat 6: CWestmoreland ($12699.17 in chips)
+CWestmoreland: posts small blind $50.00
+JohnMcShen: posts big blind $100.00
+*** HOLE CARDS ***
+CWestmoreland: folds
+Uncalled bet ($50.00) returned to JohnMcShen
+JohnMcShen collected $100.00 from pot
+JohnMcShen: doesn't show hand
+*** SUMMARY ***
+Total pot $100.00 | Rake $0.00
+Seat 2: JohnMcShen (big blind) collected ($100.00)
+Seat 6: CWestmoreland (button) (small blind) folded before Flop
+
+PokerStars Hand #1524945244:  Hold'em No Limit ($50.00/$100.00 USD) - 2023/01/16 19:43:25 ET
+Table 'WPN_Hollyvilla' 6-max Seat #4 is the button
+Seat 2: JohnMcShen ($14756.44 in chips)
+Seat 4: MR1990 ($4000.00 in chips)
+JohnMcShen: posts the ante $500.00
+MR1990: posts the ante $500.00
+*** HOLE CARDS ***
+*** FLOP *** [6s 5s 6d]
+JohnMcShen: checks
+MR1990: bets $660.00
+JohnMcShen: calls $660.00
+*** TURN *** [6s 5s 6d] [9s]
+JohnMcShen: checks
+MR1990: bets $2740.00
+JohnMcShen: folds
+Uncalled bet ($2740.00) returned to MR1990
+MR1990 collected $2318.75 from pot
+MR1990: doesn't show hand
+*** SUMMARY ***
+Total pot $2320.00 | Rake $1.25
+Board [6s 5s 6d 9s]
+Seat 2: JohnMcShen folded on the Turn
+Seat 4: MR1990 (button) collected ($2318.75)
+
+PokerStars Hand #1524946733:  Hold'em No Limit ($50.00/$100.00 USD) - 2023/01/16 19:44:22 ET
+Table 'WPN_Hollyvilla' 6-max Seat #2 is the button
+Seat 1: jrSuited18 ($10000.00 in chips)
+Seat 2: JohnMcShen ($13596.44 in chips)
+Seat 3: DoublelegTD ($4000.00 in chips)
+Seat 6: CWestmoreland ($12649.17 in chips)
+DoublelegTD: posts small blind $50.00
+CWestmoreland: posts big blind $100.00
+*** HOLE CARDS ***
+jrSuited18: folds
+JohnMcShen: folds
+DoublelegTD: raises $200.00 to $300.00
+CWestmoreland: calls $200.00
+*** FLOP *** [7h 5c 2s]
+DoublelegTD: bets $400.00
+CWestmoreland: folds
+Uncalled bet ($400.00) returned to DoublelegTD
+DoublelegTD collected $597.75 from pot
+DoublelegTD: doesn't show hand
+*** SUMMARY ***
+Total pot $600.00 | Rake $2.25
+Board [7h 5c 2s]
+Seat 1: jrSuited18 folded before Flop (didn't bet)
+Seat 2: JohnMcShen (button) folded before Flop (didn't bet)
+Seat 3: DoublelegTD (small blind) collected ($597.75)
+Seat 6: CWestmoreland (big blind) folded on the Flop
+
+PokerStars Hand #1524947695:  Hold'em No Limit ($50.00/$100.00 USD) - 2023/01/16 19:45:07 ET
+Table 'WPN_Hollyvilla' 6-max Seat #3 is the button
+Seat 1: jrSuited18 ($10000.00 in chips)
+Seat 2: JohnMcShen ($13596.44 in chips)
+Seat 3: DoublelegTD ($10000.00 in chips)
+Seat 6: CWestmoreland ($12349.17 in chips)
+CWestmoreland: posts small blind $50.00
+jrSuited18: posts big blind $100.00
+*** HOLE CARDS ***
+JohnMcShen: folds
+DoublelegTD: raises $200.00 to $300.00
+CWestmoreland: folds
+jrSuited18: folds
+Uncalled bet ($200.00) returned to DoublelegTD
+DoublelegTD collected $250.00 from pot
+DoublelegTD: doesn't show hand
+*** SUMMARY ***
+Total pot $250.00 | Rake $0.00
+Seat 1: jrSuited18 (big blind) folded before Flop
+Seat 2: JohnMcShen folded before Flop (didn't bet)
+Seat 3: DoublelegTD (button) collected ($250.00)
+Seat 6: CWestmoreland (small blind) folded before Flop
+
+PokerStars Hand #1524948007:  Hold'em No Limit ($50.00/$100.00 USD) - 2023/01/16 19:45:21 ET
+Table 'WPN_Hollyvilla' 6-max Seat #6 is the button
+Seat 1: jrSuited18 ($9900.00 in chips)
+Seat 2: JohnMcShen ($13596.44 in chips)
+Seat 3: DoublelegTD ($10150.00 in chips)
+Seat 6: CWestmoreland ($12299.17 in chips)
+jrSuited18: posts small blind $50.00
+JohnMcShen: posts big blind $100.00
+*** HOLE CARDS ***
+DoublelegTD: folds
+CWestmoreland: raises $150.00 to $250.00
+jrSuited18: folds
+JohnMcShen: folds
+Uncalled bet ($150.00) returned to CWestmoreland
+CWestmoreland collected $250.00 from pot
+CWestmoreland: doesn't show hand
+*** SUMMARY ***
+Total pot $250.00 | Rake $0.00
+Seat 1: jrSuited18 (small blind) folded before Flop
+Seat 2: JohnMcShen (big blind) folded before Flop
+Seat 3: DoublelegTD folded before Flop (didn't bet)
+Seat 6: CWestmoreland (button) collected ($250.00)
+
+PokerStars Hand #1524948421:  Hold'em No Limit ($50.00/$100.00 USD) - 2023/01/16 19:45:40 ET
+Table 'WPN_Hollyvilla' 6-max Seat #1 is the button
+Seat 1: jrSuited18 ($10000.00 in chips)
+Seat 2: JohnMcShen ($13496.44 in chips)
+Seat 3: DoublelegTD ($10150.00 in chips)
+Seat 6: CWestmoreland ($12449.17 in chips)
+JohnMcShen: posts small blind $50.00
+DoublelegTD: posts big blind $100.00
+*** HOLE CARDS ***
+CWestmoreland: raises $120.00 to $220.00
+jrSuited18: raises $442.50 to $662.50
+JohnMcShen: folds
+DoublelegTD: folds
+CWestmoreland: calls $442.50
+*** FLOP *** [Ac 2d 9c]
+CWestmoreland: checks
+jrSuited18: checks
+*** TURN *** [Ac 2d 9c] [7c]
+CWestmoreland: checks
+jrSuited18: checks
+*** RIVER *** [Ac 2d 9c 7c] [Qh]
+CWestmoreland: checks
+jrSuited18: bets $737.50
+CWestmoreland: folds
+Uncalled bet ($737.50) returned to jrSuited18
+jrSuited18 collected $1472.75 from pot
+jrSuited18: doesn't show hand
+*** SUMMARY ***
+Total pot $1475.00 | Rake $2.25
+Board [Ac 2d 9c 7c Qh]
+Seat 1: jrSuited18 (button) collected ($1472.75)
+Seat 2: JohnMcShen (small blind) folded before Flop
+Seat 3: DoublelegTD (big blind) folded before Flop
+Seat 6: CWestmoreland folded on the River
+
+PokerStars Hand #1524950035:  Hold'em No Limit ($50.00/$100.00 USD) - 2023/01/16 19:46:58 ET
+Table 'WPN_Hollyvilla' 6-max Seat #2 is the button
+Seat 1: jrSuited18 ($10810.25 in chips)
+Seat 2: JohnMcShen ($13446.44 in chips)
+Seat 3: DoublelegTD ($10050.00 in chips)
+Seat 6: CWestmoreland ($11786.67 in chips)
+DoublelegTD: posts small blind $50.00
+CWestmoreland: posts big blind $100.00
+*** HOLE CARDS ***
+jrSuited18: raises $125.00 to $225.00
+JohnMcShen: folds
+DoublelegTD: folds
+CWestmoreland: folds
+Uncalled bet ($125.00) returned to jrSuited18
+jrSuited18 collected $250.00 from pot
+jrSuited18: doesn't show hand
+*** SUMMARY ***
+Total pot $250.00 | Rake $0.00
+Seat 1: jrSuited18 collected ($250.00)
+Seat 2: JohnMcShen (button) folded before Flop (didn't bet)
+Seat 3: DoublelegTD (small blind) folded before Flop
+Seat 6: CWestmoreland (big blind) folded before Flop
+
+PokerStars Hand #1524950467:  Hold'em No Limit ($50.00/$100.00 USD) - 2023/01/16 19:47:18 ET
+Table 'WPN_Hollyvilla' 6-max Seat #3 is the button
+Seat 1: jrSuited18 ($10960.25 in chips)
+Seat 2: JohnMcShen ($13446.44 in chips)
+Seat 3: DoublelegTD ($10000.00 in chips)
+Seat 5: Trumpette ($10000.00 in chips)
+Seat 6: CWestmoreland ($11686.67 in chips)
+CWestmoreland: posts small blind $50.00
+jrSuited18: posts big blind $100.00
+*** HOLE CARDS ***
+JohnMcShen: raises $120.00 to $220.00
+DoublelegTD: folds
+CWestmoreland: folds
+jrSuited18: calls $120.00
+*** FLOP *** [Qs 5d Jh]
+jrSuited18: checks
+JohnMcShen: bets $161.70
+jrSuited18: raises $556.70 to $718.40
+JohnMcShen: folds
+Uncalled bet ($556.70) returned to jrSuited18
+jrSuited18 collected $811.15 from pot
+jrSuited18: doesn't show hand
+*** SUMMARY ***
+Total pot $813.40 | Rake $2.25
+Board [Qs 5d Jh]
+Seat 1: jrSuited18 (big blind) collected ($811.15)
+Seat 2: JohnMcShen folded on the Flop
+Seat 3: DoublelegTD (button) folded before Flop (didn't bet)
+Seat 6: CWestmoreland (small blind) folded before Flop
+
+PokerStars Hand #1524951322:  Hold'em No Limit ($50.00/$100.00 USD) - 2023/01/16 19:48:00 ET
+Table 'WPN_Hollyvilla' 6-max Seat #6 is the button
+Seat 1: jrSuited18 ($11389.70 in chips)
+Seat 2: JohnMcShen ($13064.74 in chips)
+Seat 3: DoublelegTD ($10000.00 in chips)
+Seat 5: Trumpette ($10000.00 in chips)
+Seat 6: CWestmoreland ($11636.67 in chips)
+jrSuited18: posts small blind $50.00
+JohnMcShen: posts big blind $100.00
+*** HOLE CARDS ***
+DoublelegTD: folds
+CWestmoreland: raises $150.00 to $250.00
+jrSuited18: folds
+JohnMcShen: raises $1050.00 to $1300.00
+CWestmoreland: folds
+Uncalled bet ($1050.00) returned to JohnMcShen
+JohnMcShen collected $550.00 from pot
+JohnMcShen: doesn't show hand
+*** SUMMARY ***
+Total pot $550.00 | Rake $0.00
+Seat 1: jrSuited18 (small blind) folded before Flop
+Seat 2: JohnMcShen (big blind) collected ($550.00)
+Seat 3: DoublelegTD folded before Flop (didn't bet)
+Seat 6: CWestmoreland (button) folded before Flop
+
+PokerStars Hand #1524951956:  Hold'em No Limit ($50.00/$100.00 USD) - 2023/01/16 19:48:31 ET
+Table 'WPN_Hollyvilla' 6-max Seat #1 is the button
+Seat 1: jrSuited18 ($11339.70 in chips)
+Seat 2: JohnMcShen ($13364.74 in chips)
+Seat 3: DoublelegTD ($10000.00 in chips)
+Seat 4: MR1990 ($5158.75 in chips)
+Seat 5: Trumpette ($10000.00 in chips)
+Seat 6: CWestmoreland ($11386.67 in chips)
+JohnMcShen: posts small blind $50.00
+DoublelegTD: posts big blind $100.00
+*** HOLE CARDS ***
+CWestmoreland: folds
+jrSuited18: folds
+JohnMcShen: calls $50.00
+DoublelegTD: raises $250.00 to $350.00
+JohnMcShen: calls $250.00
+*** FLOP *** [2h 8s Td]
+JohnMcShen: checks
+DoublelegTD: checks
+*** TURN *** [2h 8s Td] [Jd]
+JohnMcShen: checks
+DoublelegTD: checks
+*** RIVER *** [2h 8s Td Jd] [5s]
+JohnMcShen: bets $1050.00
+DoublelegTD: folds
+Uncalled bet ($1050.00) returned to JohnMcShen
+JohnMcShen collected $697.75 from pot
+JohnMcShen: doesn't show hand
+*** SUMMARY ***
+Total pot $700.00 | Rake $2.25
+Board [2h 8s Td Jd 5s]
+Seat 1: jrSuited18 (button) folded before Flop (didn't bet)
+Seat 2: JohnMcShen (small blind) collected ($697.75)
+Seat 3: DoublelegTD (big blind) folded on the River
+Seat 6: CWestmoreland folded before Flop (didn't bet)
+
+PokerStars Hand #1524954211:  Hold'em No Limit ($50.00/$100.00 USD) - 2023/01/16 19:50:22 ET
+Table 'WPN_Hollyvilla' 6-max Seat #2 is the button
+Seat 1: jrSuited18 ($11339.70 in chips)
+Seat 2: JohnMcShen ($13712.49 in chips)
+Seat 3: DoublelegTD ($9650.00 in chips)
+Seat 4: MR1990 ($5158.75 in chips)
+Seat 5: Trumpette ($10000.00 in chips)
+Seat 6: CWestmoreland ($11386.67 in chips)
+DoublelegTD: posts small blind $50.00
+MR1990: posts big blind $100.00
+*** HOLE CARDS ***
+CWestmoreland: folds
+jrSuited18: raises $125.00 to $225.00
+JohnMcShen: folds
+DoublelegTD: folds
+MR1990: calls $125.00
+*** FLOP *** [9s 7c Jd]
+MR1990: checks
+jrSuited18: checks
+*** TURN *** [9s 7c Jd] [4h]
+MR1990: checks
+jrSuited18: checks
+*** RIVER *** [9s 7c Jd 4h] [9h]
+MR1990: checks
+jrSuited18: checks
+*** SHOW DOWN ***
+jrSuited18: shows [Ac 8s]
+MR1990: mucks hand
+jrSuited18 collected $497.00 from pot
+*** SUMMARY ***
+Total pot $500.00 | Rake $3.00
+Board [9s 7c Jd 4h 9h]
+Seat 1: jrSuited18 showed [Ac 8s] and won ($497.00)
+Seat 2: JohnMcShen (button) folded before Flop (didn't bet)
+Seat 3: DoublelegTD (small blind) folded before Flop
+Seat 4: MR1990 (big blind) mucked
+Seat 6: CWestmoreland folded before Flop (didn't bet)
+
+PokerStars Hand #1524955493:  Hold'em No Limit ($50.00/$100.00 USD) - 2023/01/16 19:51:40 ET
+Table 'WPN_Hollyvilla' 6-max Seat #1 is the button
+Seat 1: jrSuited18 ($11611.70 in chips)
+Seat 2: JohnMcShen ($13712.49 in chips)
+Seat 3: DoublelegTD ($9600.00 in chips)
+Seat 4: MR1990 ($4933.75 in chips)
+Seat 5: Trumpette ($10000.00 in chips)
+Seat 6: CWestmoreland ($11386.67 in chips)
+jrSuited18: posts the ante $500.00
+JohnMcShen: posts the ante $500.00
+DoublelegTD: posts the ante $500.00
+MR1990: posts the ante $500.00
+Trumpette: posts the ante $500.00
+CWestmoreland: posts the ante $500.00
+*** HOLE CARDS ***
+*** FLOP *** [6h Js 7s]
+JohnMcShen: checks
+DoublelegTD: checks
+MR1990: checks
+Trumpette: checks
+CWestmoreland: checks
+jrSuited18: bets $750.00
+JohnMcShen: calls $750.00
+DoublelegTD: folds
+MR1990: folds
+Trumpette: folds
+CWestmoreland: folds
+*** TURN *** [6h Js 7s] [9h]
+JohnMcShen: checks
+jrSuited18: checks
+*** RIVER *** [6h Js 7s 9h] [9s]
+JohnMcShen: checks
+jrSuited18: checks
+*** SHOW DOWN ***
+jrSuited18: shows [7c 2s]
+JohnMcShen: mucks hand
+jrSuited18 collected $4497.00 from pot
+*** SUMMARY ***
+Total pot $4500.00 | Rake $3.00
+Board [6h Js 7s 9h 9s]
+Seat 1: jrSuited18 (button) showed [7c 2s] and won ($4497.00)
+Seat 2: JohnMcShen mucked
+Seat 3: DoublelegTD folded on the Flop
+Seat 4: MR1990 folded on the Flop
+Seat 5: Trumpette folded on the Flop
+Seat 6: CWestmoreland folded on the Flop
+
+PokerStars Hand #1524957912:  Hold'em No Limit ($50.00/$100.00 USD) - 2023/01/16 19:53:20 ET
+Table 'WPN_Hollyvilla' 6-max Seat #3 is the button
+Seat 1: jrSuited18 ($14858.70 in chips)
+Seat 2: JohnMcShen ($12462.49 in chips)
+Seat 3: DoublelegTD ($9100.00 in chips)
+Seat 4: MR1990 ($4433.75 in chips)
+Seat 5: Trumpette ($9500.00 in chips)
+Seat 6: CWestmoreland ($10886.67 in chips)
+MR1990: posts small blind $50.00
+Trumpette: posts big blind $100.00
+*** HOLE CARDS ***
+CWestmoreland: folds
+jrSuited18: raises $125.00 to $225.00
+JohnMcShen: folds
+DoublelegTD: folds
+MR1990: folds
+Trumpette: folds
+Uncalled bet ($125.00) returned to jrSuited18
+jrSuited18 collected $250.00 from pot
+jrSuited18: doesn't show hand
+*** SUMMARY ***
+Total pot $250.00 | Rake $0.00
+Seat 1: jrSuited18 collected ($250.00)
+Seat 2: JohnMcShen folded before Flop (didn't bet)
+Seat 3: DoublelegTD (button) folded before Flop (didn't bet)
+Seat 4: MR1990 (small blind) folded before Flop
+Seat 5: Trumpette (big blind) folded before Flop
+Seat 6: CWestmoreland folded before Flop (didn't bet)
+
+PokerStars Hand #1524958235:  Hold'em No Limit ($50.00/$100.00 USD) - 2023/01/16 19:53:37 ET
+Table 'WPN_Hollyvilla' 6-max Seat #4 is the button
+Seat 1: jrSuited18 ($15008.70 in chips)
+Seat 2: JohnMcShen ($12462.49 in chips)
+Seat 3: DoublelegTD ($9100.00 in chips)
+Seat 4: MR1990 ($4383.75 in chips)
+Seat 5: Trumpette ($9400.00 in chips)
+Seat 6: CWestmoreland ($10886.67 in chips)
+Trumpette: posts small blind $50.00
+jrSuited18: posts big blind $100.00
+*** HOLE CARDS ***
+JohnMcShen: raises $120.00 to $220.00
+DoublelegTD: folds
+MR1990: calls $220.00
+Trumpette: folds
+jrSuited18: folds
+*** FLOP *** [4d 6h Ks]
+JohnMcShen: bets $194.70
+MR1990: folds
+Uncalled bet ($194.70) returned to JohnMcShen
+JohnMcShen collected $587.00 from pot
+JohnMcShen: doesn't show hand
+*** SUMMARY ***
+Total pot $590.00 | Rake $3.00
+Board [4d 6h Ks]
+Seat 1: jrSuited18 (big blind) folded before Flop
+Seat 2: JohnMcShen collected ($587.00)
+Seat 3: DoublelegTD folded before Flop (didn't bet)
+Seat 4: MR1990 (button) folded on the Flop
+Seat 5: Trumpette (small blind) folded before Flop
+
+PokerStars Hand #1524958851:  Hold'em No Limit ($50.00/$100.00 USD) - 2023/01/16 19:54:06 ET
+Table 'WPN_Hollyvilla' 6-max Seat #5 is the button
+Seat 1: jrSuited18 ($14908.70 in chips)
+Seat 2: JohnMcShen ($12829.49 in chips)
+Seat 3: DoublelegTD ($9100.00 in chips)
+Seat 4: MR1990 ($4163.75 in chips)
+Seat 5: Trumpette ($9350.00 in chips)
+jrSuited18: posts small blind $50.00
+DoublelegTD: posts big blind $100.00
+*** HOLE CARDS ***
+MR1990: folds
+Trumpette: folds
+jrSuited18: raises $200.00 to $300.00
+DoublelegTD: raises $600.00 to $900.00
+jrSuited18: folds
+Uncalled bet ($600.00) returned to DoublelegTD
+DoublelegTD collected $600.00 from pot
+DoublelegTD: doesn't show hand
+*** SUMMARY ***
+Total pot $600.00 | Rake $0.00
+Seat 1: jrSuited18 (small blind) folded before Flop
+Seat 3: DoublelegTD (big blind) collected ($600.00)
+Seat 4: MR1990 folded before Flop (didn't bet)
+Seat 5: Trumpette (button) folded before Flop (didn't bet)
+
+PokerStars Hand #1524959368:  Hold'em No Limit ($50.00/$100.00 USD) - 2023/01/16 19:54:32 ET
+Table 'WPN_Hollyvilla' 6-max Seat #1 is the button
+Seat 1: jrSuited18 ($14608.70 in chips)
+Seat 3: DoublelegTD ($9400.00 in chips)
+Seat 4: MR1990 ($4163.75 in chips)
+Seat 5: Trumpette ($9350.00 in chips)
+DoublelegTD: posts small blind $50.00
+MR1990: posts big blind $100.00
+*** HOLE CARDS ***
+Trumpette: folds
+jrSuited18: folds
+DoublelegTD: raises $200.00 to $300.00
+MR1990: folds
+Uncalled bet ($200.00) returned to DoublelegTD
+DoublelegTD collected $200.00 from pot
+DoublelegTD: doesn't show hand
+*** SUMMARY ***
+Total pot $200.00 | Rake $0.00
+Seat 1: jrSuited18 (button) folded before Flop (didn't bet)
+Seat 3: DoublelegTD (small blind) collected ($200.00)
+Seat 4: MR1990 (big blind) folded before Flop
+Seat 5: Trumpette folded before Flop (didn't bet)
+
+PokerStars Hand #1524959707:  Hold'em No Limit ($50.00/$100.00 USD) - 2023/01/16 19:54:49 ET
+Table 'WPN_Hollyvilla' 6-max Seat #3 is the button
+Seat 1: jrSuited18 ($14608.70 in chips)
+Seat 3: DoublelegTD ($10000.00 in chips)
+Seat 4: MR1990 ($4063.75 in chips)
+Seat 5: Trumpette ($9350.00 in chips)
+MR1990: posts small blind $50.00
+Trumpette: posts big blind $100.00
+*** HOLE CARDS ***
+jrSuited18: folds
+DoublelegTD: folds
+MR1990: raises $150.00 to $250.00
+Trumpette: calls $150.00
+*** FLOP *** [7h Qd 8s]
+MR1990: bets $250.00
+Trumpette: calls $250.00
+*** TURN *** [7h Qd 8s] [2d]
+MR1990: bets $300.00
+Trumpette: calls $300.00
+*** RIVER *** [7h Qd 8s 2d] [Ac]
+MR1990: checks
+Trumpette: checks
+*** SHOW DOWN ***
+Trumpette: shows [7c 6h]
+MR1990: mucks hand
+Trumpette collected $1597.75 from pot
+*** SUMMARY ***
+Total pot $1600.00 | Rake $2.25
+Board [7h Qd 8s 2d Ac]
+Seat 1: jrSuited18 folded before Flop (didn't bet)
+Seat 3: DoublelegTD (button) folded before Flop (didn't bet)
+Seat 4: MR1990 (small blind) mucked
+Seat 5: Trumpette (big blind) showed [7c 6h] and won ($1597.75)
+
+PokerStars Hand #1524960304:  Hold'em No Limit ($50.00/$100.00 USD) - 2023/01/16 19:55:39 ET
+Table 'WPN_Hollyvilla' 6-max Seat #4 is the button
+Seat 1: jrSuited18 ($14608.70 in chips)
+Seat 3: DoublelegTD ($10000.00 in chips)
+Seat 4: MR1990 ($3263.75 in chips)
+Seat 5: Trumpette ($10147.75 in chips)
+Trumpette: posts small blind $50.00
+jrSuited18: posts big blind $100.00
+*** HOLE CARDS ***
+DoublelegTD: folds
+MR1990: folds
+Trumpette: raises $200.00 to $300.00
+jrSuited18: raises $600.00 to $900.00
+Trumpette: calls $600.00
+*** FLOP *** [5h Kc Qd]
+Trumpette: checks
+jrSuited18: bets $900.00
+Trumpette: folds
+Uncalled bet ($900.00) returned to jrSuited18
+jrSuited18 collected $1797.75 from pot
+jrSuited18: doesn't show hand
+*** SUMMARY ***
+Total pot $1800.00 | Rake $2.25
+Board [5h Kc Qd]
+Seat 1: jrSuited18 (big blind) collected ($1797.75)
+Seat 3: DoublelegTD folded before Flop (didn't bet)
+Seat 4: MR1990 (button) folded before Flop (didn't bet)
+Seat 5: Trumpette (small blind) folded on the Flop
+
+PokerStars Hand #1524960625:  Hold'em No Limit ($50.00/$100.00 USD) - 2023/01/16 19:56:11 ET
+Table 'WPN_Hollyvilla' 6-max Seat #5 is the button
+Seat 1: jrSuited18 ($15506.45 in chips)
+Seat 3: DoublelegTD ($10000.00 in chips)
+Seat 4: MR1990 ($3263.75 in chips)
+Seat 5: Trumpette ($9247.75 in chips)
+jrSuited18: posts small blind $50.00
+DoublelegTD: posts big blind $100.00
+*** HOLE CARDS ***
+MR1990: raises $150.00 to $250.00
+Trumpette: folds
+jrSuited18: folds
+DoublelegTD: calls $150.00
+*** FLOP *** [4s Ac 4d]
+DoublelegTD: checks
+MR1990: checks
+*** TURN *** [4s Ac 4d] [6d]
+DoublelegTD: checks
+MR1990: bets $363.00
+DoublelegTD: folds
+Uncalled bet ($363.00) returned to MR1990
+MR1990 collected $547.75 from pot
+MR1990: doesn't show hand
+*** SUMMARY ***
+Total pot $550.00 | Rake $2.25
+Board [4s Ac 4d 6d]
+Seat 1: jrSuited18 (small blind) folded before Flop
+Seat 3: DoublelegTD (big blind) folded on the Turn
+Seat 4: MR1990 collected ($547.75)
+Seat 5: Trumpette (button) folded before Flop (didn't bet)
+
+PokerStars Hand #1524961139:  Hold'em No Limit ($50.00/$100.00 USD) - 2023/01/16 19:57:04 ET
+Table 'WPN_Hollyvilla' 6-max Seat #1 is the button
+Seat 1: jrSuited18 ($15456.45 in chips)
+Seat 3: DoublelegTD ($9750.00 in chips)
+Seat 4: MR1990 ($3561.50 in chips)
+Seat 5: Trumpette ($9247.75 in chips)
+DoublelegTD: posts small blind $50.00
+MR1990: posts big blind $100.00
+*** HOLE CARDS ***
+Trumpette: raises $150.00 to $250.00
+jrSuited18: folds
+DoublelegTD: folds
+MR1990: calls $150.00
+*** FLOP *** [8c 2c Ac]
+MR1990: checks
+Trumpette: bets $181.00
+MR1990: calls $181.00
+*** TURN *** [8c 2c Ac] [Kc]
+MR1990: checks
+Trumpette: checks
+*** RIVER *** [8c 2c Ac Kc] [2d]
+MR1990: bets $250.00
+Trumpette: raises $704.87 to $954.87
+MR1990: raises $2175.63 to $3130.50 and is all-in
+Trumpette: folds
+Uncalled bet ($2175.63) returned to MR1990
+MR1990 collected $2819.49 from pot
+MR1990: doesn't show hand
+*** SUMMARY ***
+Total pot $2821.74 | Rake $2.25
+Board [8c 2c Ac Kc 2d]
+Seat 1: jrSuited18 (button) folded before Flop (didn't bet)
+Seat 3: DoublelegTD (small blind) folded before Flop
+Seat 4: MR1990 (big blind) collected ($2819.49)
+Seat 5: Trumpette folded on the River
+
+PokerStars Hand #1524962174:  Hold'em No Limit ($50.00/$100.00 USD) - 2023/01/16 19:58:49 ET
+Table 'WPN_Hollyvilla' 6-max Seat #3 is the button
+Seat 1: jrSuited18 ($15456.45 in chips)
+Seat 3: DoublelegTD ($9700.00 in chips)
+Seat 4: MR1990 ($4995.12 in chips)
+Seat 5: Trumpette ($7861.88 in chips)
+MR1990: posts small blind $50.00
+Trumpette: posts big blind $100.00
+*** HOLE CARDS ***
+jrSuited18: folds
+DoublelegTD: raises $200.00 to $300.00
+MR1990: folds
+Trumpette: folds
+Uncalled bet ($200.00) returned to DoublelegTD
+DoublelegTD collected $250.00 from pot
+DoublelegTD: doesn't show hand
+*** SUMMARY ***
+Total pot $250.00 | Rake $0.00
+Seat 1: jrSuited18 folded before Flop (didn't bet)
+Seat 3: DoublelegTD (button) collected ($250.00)
+Seat 4: MR1990 (small blind) folded before Flop
+Seat 5: Trumpette (big blind) folded before Flop
+
+PokerStars Hand #1524962353:  Hold'em No Limit ($50.00/$100.00 USD) - 2023/01/16 19:59:07 ET
+Table 'WPN_Hollyvilla' 6-max Seat #4 is the button
+Seat 1: jrSuited18 ($15456.45 in chips)
+Seat 3: DoublelegTD ($9850.00 in chips)
+Seat 4: MR1990 ($4945.12 in chips)
+Seat 5: Trumpette ($7761.88 in chips)
+Trumpette: posts small blind $50.00
+jrSuited18: posts big blind $100.00
+*** HOLE CARDS ***
+DoublelegTD: raises $200.00 to $300.00
+MR1990: folds
+Trumpette: folds
+jrSuited18: folds
+Uncalled bet ($200.00) returned to DoublelegTD
+DoublelegTD collected $250.00 from pot
+DoublelegTD: doesn't show hand
+*** SUMMARY ***
+Total pot $250.00 | Rake $0.00
+Seat 1: jrSuited18 (big blind) folded before Flop
+Seat 3: DoublelegTD collected ($250.00)
+Seat 4: MR1990 (button) folded before Flop (didn't bet)
+Seat 5: Trumpette (small blind) folded before Flop
+
+PokerStars Hand #1524962457:  Hold'em No Limit ($50.00/$100.00 USD) - 2023/01/16 19:59:17 ET
+Table 'WPN_Hollyvilla' 6-max Seat #5 is the button
+Seat 1: jrSuited18 ($15356.45 in chips)
+Seat 3: DoublelegTD ($10000.00 in chips)
+Seat 4: MR1990 ($4945.12 in chips)
+Seat 5: Trumpette ($7711.88 in chips)
+jrSuited18: posts small blind $50.00
+DoublelegTD: posts big blind $100.00
+*** HOLE CARDS ***
+MR1990: folds
+Trumpette: raises $150.00 to $250.00
+jrSuited18: folds
+DoublelegTD: calls $150.00
+*** FLOP *** [6s 3d Qs]
+DoublelegTD: checks
+Trumpette: bets $181.00
+DoublelegTD: folds
+Uncalled bet ($181.00) returned to Trumpette
+Trumpette collected $547.75 from pot
+Trumpette: doesn't show hand
+*** SUMMARY ***
+Total pot $550.00 | Rake $2.25
+Board [6s 3d Qs]
+Seat 1: jrSuited18 (small blind) folded before Flop
+Seat 3: DoublelegTD (big blind) folded on the Flop
+Seat 4: MR1990 folded before Flop (didn't bet)
+Seat 5: Trumpette (button) collected ($547.75)
+
+PokerStars Hand #1524963077:  Hold'em No Limit ($50.00/$100.00 USD) - 2023/01/16 20:00:20 ET
+Table 'WPN_Hollyvilla' 6-max Seat #4 is the button
+Seat 1: jrSuited18 ($15081.45 in chips)
+Seat 3: DoublelegTD ($10075.00 in chips)
+Seat 4: MR1990 ($4795.12 in chips)
+Seat 5: Trumpette ($8059.63 in chips)
+Trumpette: posts small blind $50.00
+jrSuited18: posts big blind $100.00
+*** HOLE CARDS ***
+DoublelegTD: folds
+MR1990: folds
+Trumpette: raises $200.00 to $300.00
+jrSuited18: calls $200.00
+*** FLOP *** [Jd Qh 9h]
+Trumpette: checks
+jrSuited18: checks
+*** TURN *** [Jd Qh 9h] [5d]
+Trumpette: bets $418.00
+jrSuited18: calls $418.00
+*** RIVER *** [Jd Qh 9h 5d] [Tc]
+Trumpette: bets $717.00
+jrSuited18: calls $717.00
+*** SHOW DOWN ***
+jrSuited18: shows [Ac Js]
+Trumpette: mucks hand
+jrSuited18 collected $2867.75 from pot
+*** SUMMARY ***
+Total pot $2870.00 | Rake $2.25
+Board [Jd Qh 9h 5d Tc]
+Seat 1: jrSuited18 (big blind) showed [Ac Js] and won ($2867.75)
+Seat 3: DoublelegTD folded before Flop (didn't bet)
+Seat 4: MR1990 (button) folded before Flop (didn't bet)
+Seat 5: Trumpette (small blind) mucked
+
+PokerStars Hand #1524964539:  Hold'em No Limit ($50.00/$100.00 USD) - 2023/01/16 20:01:45 ET
+Table 'WPN_Hollyvilla' 6-max Seat #5 is the button
+Seat 1: jrSuited18 ($16514.20 in chips)
+Seat 3: DoublelegTD ($10075.00 in chips)
+Seat 4: MR1990 ($4795.12 in chips)
+Seat 5: Trumpette ($6624.63 in chips)
+jrSuited18: posts small blind $50.00
+DoublelegTD: posts big blind $100.00
+*** HOLE CARDS ***
+MR1990: folds
+Trumpette: folds
+jrSuited18: folds
+Uncalled bet ($50.00) returned to DoublelegTD
+DoublelegTD collected $100.00 from pot
+DoublelegTD: doesn't show hand
+*** SUMMARY ***
+Total pot $100.00 | Rake $0.00
+Seat 1: jrSuited18 (small blind) folded before Flop
+Seat 3: DoublelegTD (big blind) collected ($100.00)
+Seat 4: MR1990 folded before Flop (didn't bet)
+Seat 5: Trumpette (button) folded before Flop (didn't bet)
+
+PokerStars Hand #1524964905:  Hold'em No Limit ($50.00/$100.00 USD) - 2023/01/16 20:02:00 ET
+Table 'WPN_Hollyvilla' 6-max Seat #1 is the button
+Seat 1: jrSuited18 ($16464.20 in chips)
+Seat 3: DoublelegTD ($10125.00 in chips)
+Seat 4: MR1990 ($4795.12 in chips)
+Seat 5: Trumpette ($6624.63 in chips)
+DoublelegTD: posts small blind $50.00
+MR1990: posts big blind $100.00
+*** HOLE CARDS ***
+Trumpette: folds
+jrSuited18: raises $125.00 to $225.00
+DoublelegTD: folds
+MR1990: calls $125.00
+*** FLOP *** [2d 6d Td]
+MR1990: checks
+jrSuited18: bets $125.00
+MR1990: calls $125.00
+*** TURN *** [2d 6d Td] [4d]
+MR1990: bets $350.00
+jrSuited18: calls $350.00
+*** RIVER *** [2d 6d Td 4d] [Qc]
+MR1990: bets $900.00
+jrSuited18: calls $900.00
+*** SHOW DOWN ***
+jrSuited18: shows [Jd Ts]
+MR1990: mucks hand
+jrSuited18 collected $3247.75 from pot
+*** SUMMARY ***
+Total pot $3250.00 | Rake $2.25
+Board [2d 6d Td 4d Qc]
+Seat 1: jrSuited18 (button) showed [Jd Ts] and won ($3247.75)
+Seat 3: DoublelegTD (small blind) folded before Flop
+Seat 4: MR1990 (big blind) mucked
+Seat 5: Trumpette folded before Flop (didn't bet)
+
+PokerStars Hand #1524966441:  Hold'em No Limit ($50.00/$100.00 USD) - 2023/01/16 20:03:07 ET
+Table 'WPN_Hollyvilla' 6-max Seat #3 is the button
+Seat 1: jrSuited18 ($18111.95 in chips)
+Seat 3: DoublelegTD ($10075.00 in chips)
+Seat 4: MR1990 ($3195.12 in chips)
+Seat 5: Trumpette ($6624.63 in chips)
+MR1990: posts small blind $50.00
+Trumpette: posts big blind $100.00
+*** HOLE CARDS ***
+jrSuited18: raises $125.00 to $225.00
+DoublelegTD: folds
+MR1990: folds
+Trumpette: folds
+Uncalled bet ($125.00) returned to jrSuited18
+jrSuited18 collected $250.00 from pot
+jrSuited18: doesn't show hand
+*** SUMMARY ***
+Total pot $250.00 | Rake $0.00
+Seat 1: jrSuited18 collected ($250.00)
+Seat 3: DoublelegTD (button) folded before Flop (didn't bet)
+Seat 4: MR1990 (small blind) folded before Flop
+Seat 5: Trumpette (big blind) folded before Flop
+
+PokerStars Hand #1524966759:  Hold'em No Limit ($50.00/$100.00 USD) - 2023/01/16 20:03:21 ET
+Table 'WPN_Hollyvilla' 6-max Seat #4 is the button
+Seat 1: jrSuited18 ($18261.95 in chips)
+Seat 3: DoublelegTD ($10075.00 in chips)
+Seat 4: MR1990 ($3145.12 in chips)
+Seat 5: Trumpette ($6524.63 in chips)
+Trumpette: posts small blind $50.00
+jrSuited18: posts big blind $100.00
+*** HOLE CARDS ***
+DoublelegTD: folds
+MR1990: folds
+Trumpette: raises $200.00 to $300.00
+jrSuited18: folds
+Uncalled bet ($200.00) returned to Trumpette
+Trumpette collected $200.00 from pot
+Trumpette: doesn't show hand
+*** SUMMARY ***
+Total pot $200.00 | Rake $0.00
+Seat 1: jrSuited18 (big blind) folded before Flop
+Seat 3: DoublelegTD folded before Flop (didn't bet)
+Seat 4: MR1990 (button) folded before Flop (didn't bet)
+Seat 5: Trumpette (small blind) collected ($200.00)
+
+PokerStars Hand #1524967132:  Hold'em No Limit ($50.00/$100.00 USD) - 2023/01/16 20:03:37 ET
+Table 'WPN_Hollyvilla' 6-max Seat #5 is the button
+Seat 1: jrSuited18 ($18161.95 in chips)
+Seat 3: DoublelegTD ($10075.00 in chips)
+Seat 4: MR1990 ($3145.12 in chips)
+Seat 5: Trumpette ($6624.63 in chips)
+jrSuited18: posts small blind $50.00
+DoublelegTD: posts big blind $100.00
+*** HOLE CARDS ***
+MR1990: raises $120.00 to $220.00
+Trumpette: folds
+jrSuited18: raises $405.00 to $625.00
+DoublelegTD: folds
+MR1990: raises $2520.12 to $3145.12 and is all-in
+jrSuited18: folds
+Uncalled bet ($2520.12) returned to MR1990
+MR1990 collected $1350.00 from pot
+MR1990: doesn't show hand
+*** SUMMARY ***
+Total pot $1350.00 | Rake $0.00
+Seat 1: jrSuited18 (small blind) folded before Flop
+Seat 3: DoublelegTD (big blind) folded before Flop
+Seat 4: MR1990 collected ($1350.00)
+Seat 5: Trumpette (button) folded before Flop (didn't bet)
+
+PokerStars Hand #1524967797:  Hold'em No Limit ($50.00/$100.00 USD) - 2023/01/16 20:04:03 ET
+Table 'WPN_Hollyvilla' 6-max Seat #1 is the button
+Seat 1: jrSuited18 ($17536.95 in chips)
+Seat 2: xplo1t4bl3 ($10000.00 in chips)
+Seat 3: DoublelegTD ($9975.00 in chips)
+Seat 4: MR1990 ($3870.12 in chips)
+Seat 5: Trumpette ($6624.63 in chips)
+DoublelegTD: posts small blind $50.00
+MR1990: posts big blind $100.00
+*** HOLE CARDS ***
+Trumpette: folds
+jrSuited18: raises $125.00 to $225.00
+DoublelegTD: calls $175.00
+MR1990: calls $125.00
+*** FLOP *** [2s Qc Ts]
+DoublelegTD: checks
+MR1990: checks
+jrSuited18: checks
+*** TURN *** [2s Qc Ts] [Td]
+DoublelegTD: checks
+MR1990: checks
+jrSuited18: checks
+*** RIVER *** [2s Qc Ts Td] [9c]
+DoublelegTD: checks
+MR1990: checks
+jrSuited18: bets $506.25
+DoublelegTD: folds
+MR1990: calls $506.25
+*** SHOW DOWN ***
+jrSuited18: shows [Jd Kh]
+MR1990: mucks hand
+jrSuited18 collected $1685.25 from pot
+*** SUMMARY ***
+Total pot $1687.50 | Rake $2.25
+Board [2s Qc Ts Td 9c]
+Seat 1: jrSuited18 (button) showed [Jd Kh] and won ($1685.25)
+Seat 3: DoublelegTD (small blind) folded on the River
+Seat 4: MR1990 (big blind) mucked
+Seat 5: Trumpette folded before Flop (didn't bet)
+
+PokerStars Hand #1524970412:  Hold'em No Limit ($50.00/$100.00 USD) - 2023/01/16 20:05:49 ET
+Table 'WPN_Hollyvilla' 6-max Seat #3 is the button
+Seat 1: jrSuited18 ($18490.95 in chips)
+Seat 2: xplo1t4bl3 ($10000.00 in chips)
+Seat 3: DoublelegTD ($9750.00 in chips)
+Seat 4: MR1990 ($3138.87 in chips)
+Seat 5: Trumpette ($6624.63 in chips)
+MR1990: posts small blind $50.00
+Trumpette: posts big blind $100.00
+*** HOLE CARDS ***
+jrSuited18: folds
+DoublelegTD: raises $120.00 to $220.00
+MR1990: folds
+Trumpette: raises $730.00 to $950.00
+DoublelegTD: folds
+Uncalled bet ($730.00) returned to Trumpette
+Trumpette collected $490.00 from pot
+Trumpette: doesn't show hand
+*** SUMMARY ***
+Total pot $490.00 | Rake $0.00
+Seat 1: jrSuited18 folded before Flop (didn't bet)
+Seat 3: DoublelegTD (button) folded before Flop
+Seat 4: MR1990 (small blind) folded before Flop
+Seat 5: Trumpette (big blind) collected ($490.00)
+
+PokerStars Hand #1524971087:  Hold'em No Limit ($50.00/$100.00 USD) - 2023/01/16 20:06:17 ET
+Table 'WPN_Hollyvilla' 6-max Seat #4 is the button
+Seat 1: jrSuited18 ($18490.95 in chips)
+Seat 2: xplo1t4bl3 ($10000.00 in chips)
+Seat 3: DoublelegTD ($9530.00 in chips)
+Seat 4: MR1990 ($3088.87 in chips)
+Seat 5: Trumpette ($6894.63 in chips)
+Trumpette: posts small blind $50.00
+jrSuited18: posts big blind $100.00
+*** HOLE CARDS ***
+DoublelegTD: folds
+MR1990: folds
+Trumpette: raises $200.00 to $300.00
+jrSuited18: calls $200.00
+*** FLOP *** [Td Ac 6d]
+Trumpette: bets $197.00
+jrSuited18: calls $197.00
+*** TURN *** [Td Ac 6d] [3h]
+Trumpette: bets $694.22
+jrSuited18: folds
+Uncalled bet ($694.22) returned to Trumpette
+Trumpette collected $991.75 from pot
+Trumpette: doesn't show hand
+*** SUMMARY ***
+Total pot $994.00 | Rake $2.25
+Board [Td Ac 6d 3h]
+Seat 1: jrSuited18 (big blind) folded on the Turn
+Seat 3: DoublelegTD folded before Flop (didn't bet)
+Seat 4: MR1990 (button) folded before Flop (didn't bet)
+Seat 5: Trumpette (small blind) collected ($991.75)
+
+PokerStars Hand #1524972788:  Hold'em No Limit ($50.00/$100.00 USD) - 2023/01/16 20:07:25 ET
+Table 'WPN_Hollyvilla' 6-max Seat #5 is the button
+Seat 1: jrSuited18 ($17993.95 in chips)
+Seat 2: xplo1t4bl3 ($10000.00 in chips)
+Seat 3: DoublelegTD ($9530.00 in chips)
+Seat 4: MR1990 ($3088.87 in chips)
+Seat 5: Trumpette ($7389.38 in chips)
+Seat 6: oneplusone ($10000.00 in chips)
+jrSuited18: posts small blind $50.00
+xplo1t4bl3: posts big blind $100.00
+*** HOLE CARDS ***
+DoublelegTD: folds
+MR1990: raises $100.00 to $200.00
+Trumpette: folds
+jrSuited18: folds
+xplo1t4bl3: folds
+Uncalled bet ($100.00) returned to MR1990
+MR1990 collected $250.00 from pot
+MR1990: doesn't show hand
+*** SUMMARY ***
+Total pot $250.00 | Rake $0.00
+Seat 1: jrSuited18 (small blind) folded before Flop
+Seat 2: xplo1t4bl3 (big blind) folded before Flop
+Seat 3: DoublelegTD folded before Flop (didn't bet)
+Seat 4: MR1990 collected ($250.00)
+Seat 5: Trumpette (button) folded before Flop (didn't bet)
+
+PokerStars Hand #1524973243:  Hold'em No Limit ($50.00/$100.00 USD) - 2023/01/16 20:07:43 ET
+Table 'WPN_Hollyvilla' 6-max Seat #1 is the button
+Seat 1: jrSuited18 ($17943.95 in chips)
+Seat 2: xplo1t4bl3 ($9900.00 in chips)
+Seat 3: DoublelegTD ($9530.00 in chips)
+Seat 4: MR1990 ($3238.87 in chips)
+Seat 5: Trumpette ($7389.38 in chips)
+Seat 6: oneplusone ($10000.00 in chips)
+xplo1t4bl3: posts small blind $50.00
+DoublelegTD: posts big blind $100.00
+*** HOLE CARDS ***
+MR1990: folds
+Trumpette: folds
+jrSuited18: raises $150.00 to $250.00
+xplo1t4bl3: folds
+DoublelegTD: folds
+Uncalled bet ($150.00) returned to jrSuited18
+jrSuited18 collected $250.00 from pot
+jrSuited18: doesn't show hand
+*** SUMMARY ***
+Total pot $250.00 | Rake $0.00
+Seat 1: jrSuited18 (button) collected ($250.00)
+Seat 2: xplo1t4bl3 (small blind) folded before Flop
+Seat 3: DoublelegTD (big blind) folded before Flop
+Seat 4: MR1990 folded before Flop (didn't bet)
+Seat 5: Trumpette folded before Flop (didn't bet)
+
+PokerStars Hand #1524973668:  Hold'em No Limit ($50.00/$100.00 USD) - 2023/01/16 20:08:00 ET
+Table 'WPN_Hollyvilla' 6-max Seat #2 is the button
+Seat 1: jrSuited18 ($18093.95 in chips)
+Seat 2: xplo1t4bl3 ($10000.00 in chips)
+Seat 3: DoublelegTD ($9430.00 in chips)
+Seat 4: MR1990 ($3238.87 in chips)
+Seat 5: Trumpette ($7389.38 in chips)
+Seat 6: oneplusone ($10000.00 in chips)
+DoublelegTD: posts small blind $50.00
+MR1990: posts big blind $100.00
+*** HOLE CARDS ***
+Trumpette: folds
+jrSuited18: raises $125.00 to $225.00
+xplo1t4bl3: folds
+DoublelegTD: folds
+MR1990: folds
+Uncalled bet ($125.00) returned to jrSuited18
+jrSuited18 collected $250.00 from pot
+jrSuited18: doesn't show hand
+*** SUMMARY ***
+Total pot $250.00 | Rake $0.00
+Seat 1: jrSuited18 collected ($250.00)
+Seat 2: xplo1t4bl3 (button) folded before Flop (didn't bet)
+Seat 3: DoublelegTD (small blind) folded before Flop
+Seat 4: MR1990 (big blind) folded before Flop
+Seat 5: Trumpette folded before Flop (didn't bet)
+
+PokerStars Hand #1524974106:  Hold'em No Limit ($50.00/$100.00 USD) - 2023/01/16 20:08:18 ET
+Table 'WPN_Hollyvilla' 6-max Seat #3 is the button
+Seat 1: jrSuited18 ($18243.95 in chips)
+Seat 2: xplo1t4bl3 ($10000.00 in chips)
+Seat 3: DoublelegTD ($10000.00 in chips)
+Seat 4: MR1990 ($3138.87 in chips)
+Seat 5: Trumpette ($7389.38 in chips)
+Seat 6: oneplusone ($10000.00 in chips)
+MR1990: posts small blind $50.00
+Trumpette: posts big blind $100.00
+*** HOLE CARDS ***
+jrSuited18: raises $125.00 to $225.00
+xplo1t4bl3: folds
+DoublelegTD: folds
+MR1990: folds
+Trumpette: calls $125.00
+*** FLOP *** [Ts 4d 8s]
+Trumpette: checks
+jrSuited18: bets $250.00
+Trumpette: folds
+Uncalled bet ($250.00) returned to jrSuited18
+jrSuited18 collected $497.00 from pot
+jrSuited18: doesn't show hand
+*** SUMMARY ***
+Total pot $500.00 | Rake $3.00
+Board [Ts 4d 8s]
+Seat 1: jrSuited18 collected ($497.00)
+Seat 2: xplo1t4bl3 folded before Flop (didn't bet)
+Seat 3: DoublelegTD (button) folded before Flop (didn't bet)
+Seat 4: MR1990 (small blind) folded before Flop
+Seat 5: Trumpette (big blind) folded on the Flop
+
+PokerStars Hand #1524975025:  Hold'em No Limit ($50.00/$100.00 USD) - 2023/01/16 20:08:55 ET
+Table 'WPN_Hollyvilla' 6-max Seat #4 is the button
+Seat 1: jrSuited18 ($18515.95 in chips)
+Seat 2: xplo1t4bl3 ($10000.00 in chips)
+Seat 3: DoublelegTD ($10000.00 in chips)
+Seat 4: MR1990 ($3088.87 in chips)
+Seat 5: Trumpette ($7164.38 in chips)
+Seat 6: oneplusone ($10000.00 in chips)
+Trumpette: posts small blind $50.00
+oneplusone: posts big blind $100.00
+*** HOLE CARDS ***
+jrSuited18: folds
+xplo1t4bl3: folds
+DoublelegTD: folds
+MR1990: folds
+Trumpette: folds
+Uncalled bet ($50.00) returned to oneplusone
+oneplusone collected $100.00 from pot
+oneplusone: doesn't show hand
+*** SUMMARY ***
+Total pot $100.00 | Rake $0.00
+Seat 1: jrSuited18 folded before Flop (didn't bet)
+Seat 2: xplo1t4bl3 folded before Flop (didn't bet)
+Seat 3: DoublelegTD folded before Flop (didn't bet)
+Seat 4: MR1990 (button) folded before Flop (didn't bet)
+Seat 5: Trumpette (small blind) folded before Flop
+Seat 6: oneplusone (big blind) collected ($100.00)
+
+PokerStars Hand #1524975335:  Hold'em No Limit ($50.00/$100.00 USD) - 2023/01/16 20:09:08 ET
+Table 'WPN_Hollyvilla' 6-max Seat #5 is the button
+Seat 1: jrSuited18 ($18515.95 in chips)
+Seat 2: xplo1t4bl3 ($10000.00 in chips)
+Seat 3: DoublelegTD ($10000.00 in chips)
+Seat 4: MR1990 ($3088.87 in chips)
+Seat 5: Trumpette ($7114.38 in chips)
+Seat 6: oneplusone ($10050.00 in chips)
+oneplusone: posts small blind $50.00
+xplo1t4bl3: posts big blind $100.00
+*** HOLE CARDS ***
+DoublelegTD: folds
+MR1990: raises $100.00 to $200.00
+Trumpette: folds
+oneplusone: folds
+xplo1t4bl3: calls $100.00
+*** FLOP *** [Ad 8c Qs]
+xplo1t4bl3: checks
+MR1990: checks
+*** TURN *** [Ad 8c Qs] [Jc]
+xplo1t4bl3: checks
+MR1990: bets $180.00
+xplo1t4bl3: folds
+Uncalled bet ($180.00) returned to MR1990
+MR1990 collected $447.00 from pot
+MR1990: doesn't show hand
+*** SUMMARY ***
+Total pot $450.00 | Rake $3.00
+Board [Ad 8c Qs Jc]
+Seat 2: xplo1t4bl3 (big blind) folded on the Turn
+Seat 3: DoublelegTD folded before Flop (didn't bet)
+Seat 4: MR1990 collected ($447.00)
+Seat 5: Trumpette (button) folded before Flop (didn't bet)
+Seat 6: oneplusone (small blind) folded before Flop
+
+PokerStars Hand #1524976188:  Hold'em No Limit ($50.00/$100.00 USD) - 2023/01/16 20:09:44 ET
+Table 'WPN_Hollyvilla' 6-max Seat #6 is the button
+Seat 2: xplo1t4bl3 ($9800.00 in chips)
+Seat 3: DoublelegTD ($10000.00 in chips)
+Seat 4: MR1990 ($3335.87 in chips)
+Seat 5: Trumpette ($7114.38 in chips)
+Seat 6: oneplusone ($10000.00 in chips)
+xplo1t4bl3: posts small blind $50.00
+DoublelegTD: posts big blind $100.00
+*** HOLE CARDS ***
+MR1990: folds
+Trumpette: folds
+oneplusone: folds
+xplo1t4bl3: folds
+Uncalled bet ($50.00) returned to DoublelegTD
+DoublelegTD collected $100.00 from pot
+DoublelegTD: doesn't show hand
+*** SUMMARY ***
+Total pot $100.00 | Rake $0.00
+Seat 2: xplo1t4bl3 (small blind) folded before Flop
+Seat 3: DoublelegTD (big blind) collected ($100.00)
+Seat 4: MR1990 folded before Flop (didn't bet)
+Seat 5: Trumpette folded before Flop (didn't bet)
+Seat 6: oneplusone (button) folded before Flop (didn't bet)
+
+PokerStars Hand #1524976528:  Hold'em No Limit ($50.00/$100.00 USD) - 2023/01/16 20:09:57 ET
+Table 'WPN_Hollyvilla' 6-max Seat #2 is the button
+Seat 2: xplo1t4bl3 ($9950.00 in chips)
+Seat 3: DoublelegTD ($10050.00 in chips)
+Seat 4: MR1990 ($3335.87 in chips)
+Seat 5: Trumpette ($7114.38 in chips)
+Seat 6: oneplusone ($10000.00 in chips)
+DoublelegTD: posts small blind $50.00
+MR1990: posts big blind $100.00
+*** HOLE CARDS ***
+Trumpette: raises $150.00 to $250.00
+oneplusone: folds
+xplo1t4bl3: folds
+DoublelegTD: folds
+MR1990: folds
+Uncalled bet ($150.00) returned to Trumpette
+Trumpette collected $250.00 from pot
+Trumpette: doesn't show hand
+*** SUMMARY ***
+Total pot $250.00 | Rake $0.00
+Seat 2: xplo1t4bl3 (button) folded before Flop (didn't bet)
+Seat 3: DoublelegTD (small blind) folded before Flop
+Seat 4: MR1990 (big blind) folded before Flop
+Seat 5: Trumpette collected ($250.00)
+Seat 6: oneplusone folded before Flop (didn't bet)
+
+PokerStars Hand #1524976876:  Hold'em No Limit ($50.00/$100.00 USD) - 2023/01/16 20:10:11 ET
+Table 'WPN_Hollyvilla' 6-max Seat #3 is the button
+Seat 1: Thelittle200 ($4000.00 in chips)
+Seat 2: xplo1t4bl3 ($9950.00 in chips)
+Seat 3: DoublelegTD ($10000.00 in chips)
+Seat 4: MR1990 ($3235.87 in chips)
+Seat 5: Trumpette ($7264.38 in chips)
+Seat 6: oneplusone ($10000.00 in chips)
+MR1990: posts small blind $50.00
+Trumpette: posts big blind $100.00
+*** HOLE CARDS ***
+oneplusone: folds
+xplo1t4bl3: folds
+DoublelegTD: folds
+MR1990: folds
+Uncalled bet ($50.00) returned to Trumpette
+Trumpette collected $100.00 from pot
+Trumpette: doesn't show hand
+*** SUMMARY ***
+Total pot $100.00 | Rake $0.00
+Seat 2: xplo1t4bl3 folded before Flop (didn't bet)
+Seat 3: DoublelegTD (button) folded before Flop (didn't bet)
+Seat 4: MR1990 (small blind) folded before Flop
+Seat 5: Trumpette (big blind) collected ($100.00)
+Seat 6: oneplusone folded before Flop (didn't bet)
+
+PokerStars Hand #1524977173:  Hold'em No Limit ($50.00/$100.00 USD) - 2023/01/16 20:10:23 ET
+Table 'WPN_Hollyvilla' 6-max Seat #4 is the button
+Seat 1: Thelittle200 ($4000.00 in chips)
+Seat 2: xplo1t4bl3 ($9950.00 in chips)
+Seat 3: DoublelegTD ($10000.00 in chips)
+Seat 4: MR1990 ($3185.87 in chips)
+Seat 5: Trumpette ($7314.38 in chips)
+Seat 6: oneplusone ($10000.00 in chips)
+Trumpette: posts small blind $50.00
+oneplusone: posts big blind $100.00
+*** HOLE CARDS ***
+xplo1t4bl3: folds
+DoublelegTD: raises $120.00 to $220.00
+MR1990: folds
+Trumpette: calls $170.00
+oneplusone: folds
+*** FLOP *** [Qd 4s 3s]
+Trumpette: checks
+DoublelegTD: checks
+*** TURN *** [Qd 4s 3s] [3d]
+Trumpette: checks
+DoublelegTD: bets $405.00
+Trumpette: calls $405.00
+*** RIVER *** [Qd 4s 3s 3d] [Ah]
+Trumpette: checks
+DoublelegTD: bets $1012.50
+Trumpette: calls $1012.50
+*** SHOW DOWN ***
+Trumpette: shows [Kd Qh]
+DoublelegTD: mucks hand
+Trumpette collected $3372.00 from pot
+*** SUMMARY ***
+Total pot $3375.00 | Rake $3.00
+Board [Qd 4s 3s 3d Ah]
+Seat 2: xplo1t4bl3 folded before Flop (didn't bet)
+Seat 3: DoublelegTD mucked
+Seat 4: MR1990 (button) folded before Flop (didn't bet)
+Seat 5: Trumpette (small blind) showed [Kd Qh] and won ($3372.00)
+Seat 6: oneplusone (big blind) folded before Flop
+
+PokerStars Hand #1524979105:  Hold'em No Limit ($50.00/$100.00 USD) - 2023/01/16 20:11:43 ET
+Table 'WPN_Hollyvilla' 6-max Seat #5 is the button
+Seat 1: Thelittle200 ($4000.00 in chips)
+Seat 2: xplo1t4bl3 ($9950.00 in chips)
+Seat 3: DoublelegTD ($8362.50 in chips)
+Seat 4: MR1990 ($3185.87 in chips)
+Seat 5: Trumpette ($9048.88 in chips)
+Seat 6: oneplusone ($10000.00 in chips)
+oneplusone: posts small blind $50.00
+Thelittle200: posts big blind $100.00
+*** HOLE CARDS ***
+xplo1t4bl3: folds
+DoublelegTD: folds
+MR1990: folds
+Trumpette: folds
+oneplusone: raises $200.00 to $300.00
+Thelittle200: calls $200.00
+*** FLOP *** [3s Jc 7c]
+oneplusone: checks
+Thelittle200: bets $197.00
+oneplusone: folds
+Uncalled bet ($197.00) returned to Thelittle200
+Thelittle200 collected $597.00 from pot
+Thelittle200: doesn't show hand
+*** SUMMARY ***
+Total pot $600.00 | Rake $3.00
+Board [3s Jc 7c]
+Seat 1: Thelittle200 (big blind) collected ($597.00)
+Seat 2: xplo1t4bl3 folded before Flop (didn't bet)
+Seat 3: DoublelegTD folded before Flop (didn't bet)
+Seat 4: MR1990 folded before Flop (didn't bet)
+Seat 5: Trumpette (button) folded before Flop (didn't bet)
+Seat 6: oneplusone (small blind) folded on the Flop
+
+PokerStars Hand #1524980024:  Hold'em No Limit ($50.00/$100.00 USD) - 2023/01/16 20:12:20 ET
+Table 'WPN_Hollyvilla' 6-max Seat #6 is the button
+Seat 1: Thelittle200 ($4297.00 in chips)
+Seat 2: xplo1t4bl3 ($9950.00 in chips)
+Seat 3: DoublelegTD ($10000.00 in chips)
+Seat 4: MR1990 ($3185.87 in chips)
+Seat 5: Trumpette ($9048.88 in chips)
+Seat 6: oneplusone ($9700.00 in chips)
+Thelittle200: posts small blind $50.00
+xplo1t4bl3: posts big blind $100.00
+*** HOLE CARDS ***
+DoublelegTD: folds
+MR1990: folds
+Trumpette: folds
+oneplusone: folds
+Thelittle200: folds
+Uncalled bet ($50.00) returned to xplo1t4bl3
+xplo1t4bl3 collected $100.00 from pot
+xplo1t4bl3: doesn't show hand
+*** SUMMARY ***
+Total pot $100.00 | Rake $0.00
+Seat 1: Thelittle200 (small blind) folded before Flop
+Seat 2: xplo1t4bl3 (big blind) collected ($100.00)
+Seat 3: DoublelegTD folded before Flop (didn't bet)
+Seat 4: MR1990 folded before Flop (didn't bet)
+Seat 5: Trumpette folded before Flop (didn't bet)
+Seat 6: oneplusone (button) folded before Flop (didn't bet)
+
+PokerStars Hand #1524980325:  Hold'em No Limit ($50.00/$100.00 USD) - 2023/01/16 20:12:32 ET
+Table 'WPN_Hollyvilla' 6-max Seat #1 is the button
+Seat 1: Thelittle200 ($4247.00 in chips)
+Seat 2: xplo1t4bl3 ($10050.00 in chips)
+Seat 3: DoublelegTD ($10000.00 in chips)
+Seat 4: MR1990 ($3185.87 in chips)
+Seat 5: Trumpette ($9048.88 in chips)
+Seat 6: oneplusone ($9700.00 in chips)
+xplo1t4bl3: posts small blind $50.00
+DoublelegTD: posts big blind $100.00
+*** HOLE CARDS ***
+MR1990: folds
+Trumpette: folds
+oneplusone: folds
+Thelittle200: raises $150.00 to $250.00
+xplo1t4bl3: folds
+DoublelegTD: folds
+Uncalled bet ($150.00) returned to Thelittle200
+Thelittle200 collected $250.00 from pot
+Thelittle200: doesn't show hand
+*** SUMMARY ***
+Total pot $250.00 | Rake $0.00
+Seat 1: Thelittle200 (button) collected ($250.00)
+Seat 2: xplo1t4bl3 (small blind) folded before Flop
+Seat 3: DoublelegTD (big blind) folded before Flop
+Seat 4: MR1990 folded before Flop (didn't bet)
+Seat 5: Trumpette folded before Flop (didn't bet)
+Seat 6: oneplusone folded before Flop (didn't bet)
+
+PokerStars Hand #1524980711:  Hold'em No Limit ($50.00/$100.00 USD) - 2023/01/16 20:12:48 ET
+Table 'WPN_Hollyvilla' 6-max Seat #2 is the button
+Seat 1: Thelittle200 ($4397.00 in chips)
+Seat 2: xplo1t4bl3 ($10000.00 in chips)
+Seat 3: DoublelegTD ($9900.00 in chips)
+Seat 4: MR1990 ($3185.87 in chips)
+Seat 5: Trumpette ($9048.88 in chips)
+Seat 6: oneplusone ($9700.00 in chips)
+DoublelegTD: posts small blind $50.00
+MR1990: posts big blind $100.00
+*** HOLE CARDS ***
+Trumpette: folds
+oneplusone: raises $150.00 to $250.00
+Thelittle200: folds
+xplo1t4bl3: folds
+DoublelegTD: folds
+MR1990: folds
+Uncalled bet ($150.00) returned to oneplusone
+oneplusone collected $250.00 from pot
+oneplusone: doesn't show hand
+*** SUMMARY ***
+Total pot $250.00 | Rake $0.00
+Seat 1: Thelittle200 folded before Flop (didn't bet)
+Seat 2: xplo1t4bl3 (button) folded before Flop (didn't bet)
+Seat 3: DoublelegTD (small blind) folded before Flop
+Seat 4: MR1990 (big blind) folded before Flop
+Seat 5: Trumpette folded before Flop (didn't bet)
+Seat 6: oneplusone collected ($250.00)
+
+PokerStars Hand #1524981120:  Hold'em No Limit ($50.00/$100.00 USD) - 2023/01/16 20:13:05 ET
+Table 'WPN_Hollyvilla' 6-max Seat #3 is the button
+Seat 1: Thelittle200 ($4397.00 in chips)
+Seat 2: xplo1t4bl3 ($10000.00 in chips)
+Seat 3: DoublelegTD ($9850.00 in chips)
+Seat 4: MR1990 ($3085.87 in chips)
+Seat 5: Trumpette ($9048.88 in chips)
+Seat 6: oneplusone ($10150.00 in chips)
+MR1990: posts small blind $50.00
+Trumpette: posts big blind $100.00
+*** HOLE CARDS ***
+oneplusone: folds
+Thelittle200: raises $150.00 to $250.00
+xplo1t4bl3: folds
+DoublelegTD: folds
+MR1990: calls $200.00
+Trumpette: folds
+*** FLOP *** [Ad 6h Ac]
+MR1990: checks
+Thelittle200: bets $197.00
+MR1990: calls $197.00
+*** TURN *** [Ad 6h Ac] [4d]
+MR1990: checks
+Thelittle200: checks
+*** RIVER *** [Ad 6h Ac 4d] [Ah]
+MR1990: checks
+Thelittle200: checks
+*** SHOW DOWN ***
+MR1990: shows [6c 7c]
+Thelittle200: mucks hand
+MR1990 collected $991.00 from pot
+*** SUMMARY ***
+Total pot $994.00 | Rake $3.00
+Board [Ad 6h Ac 4d Ah]
+Seat 1: Thelittle200 mucked
+Seat 2: xplo1t4bl3 folded before Flop (didn't bet)
+Seat 3: DoublelegTD (button) folded before Flop (didn't bet)
+Seat 4: MR1990 (small blind) showed [6c 7c] and won ($991.00)
+Seat 5: Trumpette (big blind) folded before Flop
+Seat 6: oneplusone folded before Flop (didn't bet)
+
+PokerStars Hand #1524982068:  Hold'em No Limit ($50.00/$100.00 USD) - 2023/01/16 20:13:44 ET
+Table 'WPN_Hollyvilla' 6-max Seat #4 is the button
+Seat 1: Thelittle200 ($3950.00 in chips)
+Seat 2: xplo1t4bl3 ($10000.00 in chips)
+Seat 3: DoublelegTD ($9850.00 in chips)
+Seat 4: MR1990 ($3629.87 in chips)
+Seat 5: Trumpette ($8948.88 in chips)
+Seat 6: oneplusone ($10150.00 in chips)
+Trumpette: posts small blind $50.00
+oneplusone: posts big blind $100.00
+*** HOLE CARDS ***
+Thelittle200: folds
+xplo1t4bl3: raises $125.00 to $225.00
+DoublelegTD: folds
+MR1990: calls $225.00
+Trumpette: folds
+oneplusone: folds
+*** FLOP *** [Jd 9c 3c]
+xplo1t4bl3: bets $100.00
+MR1990: calls $100.00
+*** TURN *** [Jd 9c 3c] [Tc]
+xplo1t4bl3: checks
+MR1990: bets $270.00
+xplo1t4bl3: calls $270.00
+*** RIVER *** [Jd 9c 3c Tc] [5h]
+xplo1t4bl3: checks
+MR1990: bets $884.40
+xplo1t4bl3: calls $884.40
+*** SHOW DOWN ***
+xplo1t4bl3: shows [Th Kd]
+MR1990: mucks hand
+xplo1t4bl3 collected $3105.80 from pot
+*** SUMMARY ***
+Total pot $3108.80 | Rake $3.00
+Board [Jd 9c 3c Tc 5h]
+Seat 1: Thelittle200 folded before Flop (didn't bet)
+Seat 2: xplo1t4bl3 showed [Th Kd] and won ($3105.80)
+Seat 3: DoublelegTD folded before Flop (didn't bet)
+Seat 4: MR1990 (button) mucked
+Seat 5: Trumpette (small blind) folded before Flop
+Seat 6: oneplusone (big blind) folded before Flop
+
+PokerStars Hand #1524983757:  Hold'em No Limit ($50.00/$100.00 USD) - 2023/01/16 20:15:11 ET
+Table 'WPN_Hollyvilla' 6-max Seat #6 is the button
+Seat 1: Thelittle200 ($3950.00 in chips)
+Seat 2: xplo1t4bl3 ($11626.40 in chips)
+Seat 3: DoublelegTD ($9850.00 in chips)
+Seat 4: MR1990 ($2150.47 in chips)
+Seat 5: Trumpette ($8898.88 in chips)
+Seat 6: oneplusone ($10050.00 in chips)
+Thelittle200: posts the ante $500.00
+xplo1t4bl3: posts the ante $500.00
+DoublelegTD: posts the ante $500.00
+MR1990: posts the ante $500.00
+Trumpette: posts the ante $500.00
+oneplusone: posts the ante $500.00
+*** HOLE CARDS ***
+*** FLOP *** [Qd 4d 5c]
+Thelittle200: checks
+xplo1t4bl3: checks
+DoublelegTD: checks
+MR1990: checks
+Trumpette: bets $549.00
+oneplusone: calls $549.00
+Thelittle200: folds
+xplo1t4bl3: folds
+DoublelegTD: raises $2323.50 to $2872.50
+MR1990: folds
+Trumpette: raises $5526.38 to $8398.88 and is all-in
+oneplusone: folds
+DoublelegTD: calls $5526.38
+*** TURN *** [Qd 4d 5c] [Jc]
+*** RIVER *** [Qd 4d 5c Jc] [2s]
+*** SHOW DOWN ***
+DoublelegTD: shows [5d Jd]
+Trumpette: shows [Td Ad]
+DoublelegTD collected $20343.76 from pot
+*** SUMMARY ***
+Total pot $20346.76 | Rake $3.00
+Board [Qd 4d 5c Jc 2s]
+Seat 1: Thelittle200 folded on the Flop
+Seat 2: xplo1t4bl3 folded on the Flop
+Seat 3: DoublelegTD showed [5d Jd] and won ($20343.76)
+Seat 4: MR1990 folded on the Flop
+Seat 5: Trumpette showed [Td Ad] and lost
+Seat 6: oneplusone (button) folded on the Flop
+
+PokerStars Hand #1524986319:  Hold'em No Limit ($50.00/$100.00 USD) - 2023/01/16 20:16:44 ET
+Table 'WPN_Hollyvilla' 6-max Seat #5 is the button
+Seat 1: Thelittle200 ($3450.00 in chips)
+Seat 2: xplo1t4bl3 ($11126.40 in chips)
+Seat 3: DoublelegTD ($21294.88 in chips)
+Seat 4: MR1990 ($1650.47 in chips)
+Seat 6: oneplusone ($10000.00 in chips)
+oneplusone: posts small blind $50.00
+Thelittle200: posts big blind $100.00
+*** HOLE CARDS ***
+xplo1t4bl3: folds
+DoublelegTD: folds
+MR1990: folds
+oneplusone: folds
+Uncalled bet ($50.00) returned to Thelittle200
+Thelittle200 collected $100.00 from pot
+Thelittle200: doesn't show hand
+*** SUMMARY ***
+Total pot $100.00 | Rake $0.00
+Seat 1: Thelittle200 (big blind) collected ($100.00)
+Seat 2: xplo1t4bl3 folded before Flop (didn't bet)
+Seat 3: DoublelegTD folded before Flop (didn't bet)
+Seat 4: MR1990 folded before Flop (didn't bet)
+Seat 6: oneplusone (small blind) folded before Flop
+
+PokerStars Hand #1524986633:  Hold'em No Limit ($50.00/$100.00 USD) - 2023/01/16 20:16:58 ET
+Table 'WPN_Hollyvilla' 6-max Seat #6 is the button
+Seat 1: Thelittle200 ($3500.00 in chips)
+Seat 2: xplo1t4bl3 ($11126.40 in chips)
+Seat 3: DoublelegTD ($21294.88 in chips)
+Seat 4: MR1990 ($1650.47 in chips)
+Seat 6: oneplusone ($9950.00 in chips)
+Thelittle200: posts small blind $50.00
+xplo1t4bl3: posts big blind $100.00
+*** HOLE CARDS ***
+DoublelegTD: folds
+MR1990: folds
+oneplusone: folds
+Thelittle200: folds
+Uncalled bet ($50.00) returned to xplo1t4bl3
+xplo1t4bl3 collected $100.00 from pot
+xplo1t4bl3: doesn't show hand
+*** SUMMARY ***
+Total pot $100.00 | Rake $0.00
+Seat 1: Thelittle200 (small blind) folded before Flop
+Seat 2: xplo1t4bl3 (big blind) collected ($100.00)
+Seat 3: DoublelegTD folded before Flop (didn't bet)
+Seat 4: MR1990 folded before Flop (didn't bet)
+Seat 6: oneplusone (button) folded before Flop (didn't bet)
+
+PokerStars Hand #1524986981:  Hold'em No Limit ($50.00/$100.00 USD) - 2023/01/16 20:17:13 ET
+Table 'WPN_Hollyvilla' 6-max Seat #1 is the button
+Seat 1: Thelittle200 ($3450.00 in chips)
+Seat 2: xplo1t4bl3 ($11176.40 in chips)
+Seat 3: DoublelegTD ($21294.88 in chips)
+Seat 4: MR1990 ($1650.47 in chips)
+Seat 6: oneplusone ($9950.00 in chips)
+xplo1t4bl3: posts small blind $50.00
+DoublelegTD: posts big blind $100.00
+*** HOLE CARDS ***
+MR1990: folds
+oneplusone: raises $150.00 to $250.00
+Thelittle200: raises $400.00 to $650.00
+xplo1t4bl3: folds
+DoublelegTD: folds
+oneplusone: calls $400.00
+*** FLOP *** [6h Kd 5c]
+oneplusone: checks
+Thelittle200: bets $362.00
+oneplusone: raises $362.00 to $724.00
+Thelittle200: calls $362.00
+*** TURN *** [6h Kd 5c] [2s]
+oneplusone: checks
+Thelittle200: bets $434.00
+oneplusone: calls $434.00
+*** RIVER *** [6h Kd 5c 2s] [7d]
+oneplusone: checks
+Thelittle200: bets $1642.00 and is all-in
+oneplusone: calls $1642.00
+*** SHOW DOWN ***
+oneplusone: shows [Qd Ks]
+Thelittle200: shows [Qc Jc]
+oneplusone collected $7047.00 from pot
+*** SUMMARY ***
+Total pot $7050.00 | Rake $3.00
+Board [6h Kd 5c 2s 7d]
+Seat 1: Thelittle200 (button) showed [Qc Jc] and lost
+Seat 2: xplo1t4bl3 (small blind) folded before Flop
+Seat 3: DoublelegTD (big blind) folded before Flop
+Seat 4: MR1990 folded before Flop (didn't bet)
+Seat 6: oneplusone showed [Qd Ks] and won ($7047.00)
+
+PokerStars Hand #1524989124:  Hold'em No Limit ($50.00/$100.00 USD) - 2023/01/16 20:18:44 ET
+Table 'WPN_Hollyvilla' 6-max Seat #2 is the button
+Seat 1: Thelittle200 ($4000.00 in chips)
+Seat 2: xplo1t4bl3 ($11126.40 in chips)
+Seat 3: DoublelegTD ($21194.88 in chips)
+Seat 4: MR1990 ($1650.47 in chips)
+Seat 6: oneplusone ($13597.00 in chips)
+DoublelegTD: posts small blind $50.00
+MR1990: posts big blind $100.00
+*** HOLE CARDS ***
+oneplusone: folds
+Thelittle200: folds
+xplo1t4bl3: raises $100.00 to $200.00
+DoublelegTD: folds
+MR1990: calls $100.00
+*** FLOP *** [6h Kh Tc]
+MR1990: bets $1450.47 and is all-in
+xplo1t4bl3: folds
+Uncalled bet ($1450.47) returned to MR1990
+MR1990 collected $447.00 from pot
+MR1990: doesn't show hand
+*** SUMMARY ***
+Total pot $450.00 | Rake $3.00
+Board [6h Kh Tc]
+Seat 1: Thelittle200 folded before Flop (didn't bet)
+Seat 2: xplo1t4bl3 (button) folded on the Flop
+Seat 3: DoublelegTD (small blind) folded before Flop
+Seat 4: MR1990 (big blind) collected ($447.00)
+Seat 6: oneplusone folded before Flop (didn't bet)
+
+PokerStars Hand #1524990566:  Hold'em No Limit ($50.00/$100.00 USD) - 2023/01/16 20:20:00 ET
+Table 'WPN_Hollyvilla' 6-max Seat #3 is the button
+Seat 1: Thelittle200 ($4000.00 in chips)
+Seat 2: xplo1t4bl3 ($10926.40 in chips)
+Seat 3: DoublelegTD ($21144.88 in chips)
+Seat 4: MR1990 ($1897.47 in chips)
+Seat 6: oneplusone ($13597.00 in chips)
+Thelittle200: posts the ante $500.00
+xplo1t4bl3: posts the ante $500.00
+DoublelegTD: posts the ante $500.00
+MR1990: posts the ante $500.00
+oneplusone: posts the ante $500.00
+*** HOLE CARDS ***
+*** FLOP *** [Tc 5s 3h]
+MR1990: bets $100.00
+oneplusone: folds
+Thelittle200: raises $3400.00 to $3500.00 and is all-in
+xplo1t4bl3: calls $3500.00
+DoublelegTD: folds
+MR1990: folds
+*** FIRST TURN *** [Tc 5s 3h] [7h]
+*** FIRST RIVER *** [Tc 5s 3h 7h] [As]
+*** SECOND TURN *** [Tc 5s 3h] [Js]
+*** SECOND RIVER *** [Tc 5s 3h Js] [2c]
+*** FIRST SHOW DOWN ***
+Thelittle200: shows [Ts Jh]
+xplo1t4bl3: shows [Qh Th]
+xplo1t4bl3 collected $4798.50 from pot
+*** SECOND SHOW DOWN ***
+Thelittle200: shows [Ts Jh]
+xplo1t4bl3: shows [Qh Th]
+Thelittle200 collected $4798.50 from pot
+*** SUMMARY ***
+Total pot $9600.00 | Rake $3.00
+Hand was run twice
+FIRST Board [Tc 5s 3h 7h As]
+SECOND Board [Tc 5s 3h Js 2c]
+Seat 1: Thelittle200 showed [Ts Jh] and lost, and won ($4798.50)
+Seat 2: xplo1t4bl3 showed [Qh Th] and won ($4798.50), and lost
+Seat 3: DoublelegTD (button) folded on the Flop
+Seat 4: MR1990 folded on the Flop
+Seat 6: oneplusone folded on the Flop
+
+PokerStars Hand #1524991894:  Hold'em No Limit ($50.00/$100.00 USD) - 2023/01/16 20:20:40 ET
+Table 'WPN_Hollyvilla' 6-max Seat #3 is the button
+Seat 1: Thelittle200 ($4798.50 in chips)
+Seat 2: xplo1t4bl3 ($11724.90 in chips)
+Seat 3: DoublelegTD ($20644.88 in chips)
+Seat 4: MR1990 ($1297.47 in chips)
+Seat 6: oneplusone ($13097.00 in chips)
+MR1990: posts small blind $50.00
+oneplusone: posts big blind $100.00
+*** HOLE CARDS ***
+Thelittle200: folds
+xplo1t4bl3: raises $100.00 to $200.00
+DoublelegTD: folds
+MR1990: raises $1097.47 to $1297.47 and is all-in
+oneplusone: folds
+xplo1t4bl3: folds
+Uncalled bet ($1097.47) returned to MR1990
+MR1990 collected $500.00 from pot
+MR1990: doesn't show hand
+*** SUMMARY ***
+Total pot $500.00 | Rake $0.00
+Seat 1: Thelittle200 folded before Flop (didn't bet)
+Seat 2: xplo1t4bl3 folded before Flop
+Seat 3: DoublelegTD (button) folded before Flop (didn't bet)
+Seat 4: MR1990 (small blind) collected ($500.00)
+Seat 6: oneplusone (big blind) folded before Flop
+
+PokerStars Hand #1524992590:  Hold'em No Limit ($50.00/$100.00 USD) - 2023/01/16 20:21:11 ET
+Table 'WPN_Hollyvilla' 6-max Seat #4 is the button
+Seat 1: Thelittle200 ($4798.50 in chips)
+Seat 2: xplo1t4bl3 ($11524.90 in chips)
+Seat 3: DoublelegTD ($20644.88 in chips)
+Seat 4: MR1990 ($1597.47 in chips)
+Seat 6: oneplusone ($12997.00 in chips)
+oneplusone: posts small blind $50.00
+Thelittle200: posts big blind $100.00
+*** HOLE CARDS ***
+xplo1t4bl3: folds
+DoublelegTD: raises $100.00 to $200.00
+MR1990: calls $200.00
+oneplusone: folds
+Thelittle200: folds
+*** FLOP *** [Jc Qc 4s]
+DoublelegTD: bets $275.00
+MR1990: calls $275.00
+*** TURN *** [Jc Qc 4s] [9c]
+DoublelegTD: checks
+MR1990: checks
+*** RIVER *** [Jc Qc 4s 9c] [5d]
+DoublelegTD: bets $1325.00
+MR1990: folds
+Uncalled bet ($1325.00) returned to DoublelegTD
+DoublelegTD collected $1097.00 from pot
+DoublelegTD: doesn't show hand
+*** SUMMARY ***
+Total pot $1100.00 | Rake $3.00
+Board [Jc Qc 4s 9c 5d]
+Seat 1: Thelittle200 (big blind) folded before Flop
+Seat 2: xplo1t4bl3 folded before Flop (didn't bet)
+Seat 3: DoublelegTD collected ($1097.00)
+Seat 4: MR1990 (button) folded on the River
+Seat 6: oneplusone (small blind) folded before Flop
+
+PokerStars Hand #1524994162:  Hold'em No Limit ($50.00/$100.00 USD) - 2023/01/16 20:22:18 ET
+Table 'WPN_Hollyvilla' 6-max Seat #6 is the button
+Seat 1: Thelittle200 ($4698.50 in chips)
+Seat 2: xplo1t4bl3 ($11524.90 in chips)
+Seat 3: DoublelegTD ($21266.88 in chips)
+Seat 4: MR1990 ($1122.47 in chips)
+Seat 6: oneplusone ($12947.00 in chips)
+Thelittle200: posts small blind $50.00
+xplo1t4bl3: posts big blind $100.00
+*** HOLE CARDS ***
+DoublelegTD: folds
+MR1990: folds
+oneplusone: folds
+Thelittle200: raises $200.00 to $300.00
+xplo1t4bl3: folds
+Uncalled bet ($200.00) returned to Thelittle200
+Thelittle200 collected $200.00 from pot
+Thelittle200: doesn't show hand
+*** SUMMARY ***
+Total pot $200.00 | Rake $0.00
+Seat 1: Thelittle200 (small blind) collected ($200.00)
+Seat 2: xplo1t4bl3 (big blind) folded before Flop
+Seat 3: DoublelegTD folded before Flop (didn't bet)
+Seat 4: MR1990 folded before Flop (didn't bet)
+Seat 6: oneplusone (button) folded before Flop (didn't bet)
+
+PokerStars Hand #1524994591:  Hold'em No Limit ($50.00/$100.00 USD) - 2023/01/16 20:22:36 ET
+Table 'WPN_Hollyvilla' 6-max Seat #1 is the button
+Seat 1: Thelittle200 ($4798.50 in chips)
+Seat 2: xplo1t4bl3 ($11424.90 in chips)
+Seat 3: DoublelegTD ($21266.88 in chips)
+Seat 4: MR1990 ($1122.47 in chips)
+Seat 6: oneplusone ($12947.00 in chips)
+xplo1t4bl3: posts small blind $50.00
+DoublelegTD: posts big blind $100.00
+*** HOLE CARDS ***
+MR1990: folds
+oneplusone: folds
+Thelittle200: folds
+xplo1t4bl3: raises $200.00 to $300.00
+DoublelegTD: raises $600.00 to $900.00
+xplo1t4bl3: raises $1300.00 to $2200.00
+DoublelegTD: raises $19066.88 to $21266.88 and is all-in
+xplo1t4bl3: folds
+Uncalled bet ($19066.88) returned to DoublelegTD
+DoublelegTD collected $4400.00 from pot
+DoublelegTD: doesn't show hand
+*** SUMMARY ***
+Total pot $4400.00 | Rake $0.00
+Seat 1: Thelittle200 (button) folded before Flop (didn't bet)
+Seat 2: xplo1t4bl3 (small blind) folded before Flop
+Seat 3: DoublelegTD (big blind) collected ($4400.00)
+Seat 4: MR1990 folded before Flop (didn't bet)
+Seat 6: oneplusone folded before Flop (didn't bet)
+
+PokerStars Hand #1524995617:  Hold'em No Limit ($50.00/$100.00 USD) - 2023/01/16 20:23:19 ET
+Table 'WPN_Hollyvilla' 6-max Seat #2 is the button
+Seat 1: Thelittle200 ($4798.50 in chips)
+Seat 2: xplo1t4bl3 ($9224.90 in chips)
+Seat 3: DoublelegTD ($23466.88 in chips)
+Seat 4: MR1990 ($1122.47 in chips)
+Seat 6: oneplusone ($12947.00 in chips)
+DoublelegTD: posts small blind $50.00
+MR1990: posts big blind $100.00
+*** HOLE CARDS ***
+oneplusone: folds
+Thelittle200: folds
+xplo1t4bl3: folds
+DoublelegTD: folds
+Uncalled bet ($50.00) returned to MR1990
+MR1990 collected $100.00 from pot
+MR1990: doesn't show hand
+*** SUMMARY ***
+Total pot $100.00 | Rake $0.00
+Seat 1: Thelittle200 folded before Flop (didn't bet)
+Seat 2: xplo1t4bl3 (button) folded before Flop (didn't bet)
+Seat 3: DoublelegTD (small blind) folded before Flop
+Seat 4: MR1990 (big blind) collected ($100.00)
+Seat 6: oneplusone folded before Flop (didn't bet)
+
+PokerStars Hand #1524995949:  Hold'em No Limit ($50.00/$100.00 USD) - 2023/01/16 20:23:34 ET
+Table 'WPN_Hollyvilla' 6-max Seat #3 is the button
+Seat 1: Thelittle200 ($4798.50 in chips)
+Seat 2: xplo1t4bl3 ($9224.90 in chips)
+Seat 3: DoublelegTD ($23416.88 in chips)
+Seat 4: MR1990 ($1172.47 in chips)
+Seat 6: oneplusone ($12947.00 in chips)
+MR1990: posts small blind $50.00
+oneplusone: posts big blind $100.00
+*** HOLE CARDS ***
+Thelittle200: folds
+xplo1t4bl3: folds
+DoublelegTD: folds
+MR1990: folds
+Uncalled bet ($50.00) returned to oneplusone
+oneplusone collected $100.00 from pot
+oneplusone: doesn't show hand
+*** SUMMARY ***
+Total pot $100.00 | Rake $0.00
+Seat 1: Thelittle200 folded before Flop (didn't bet)
+Seat 2: xplo1t4bl3 folded before Flop (didn't bet)
+Seat 3: DoublelegTD (button) folded before Flop (didn't bet)
+Seat 4: MR1990 (small blind) folded before Flop
+Seat 6: oneplusone (big blind) collected ($100.00)
+
+PokerStars Hand #1524996310:  Hold'em No Limit ($50.00/$100.00 USD) - 2023/01/16 20:23:50 ET
+Table 'WPN_Hollyvilla' 6-max Seat #4 is the button
+Seat 1: Thelittle200 ($4798.50 in chips)
+Seat 2: xplo1t4bl3 ($9224.90 in chips)
+Seat 3: DoublelegTD ($23416.88 in chips)
+Seat 4: MR1990 ($1122.47 in chips)
+Seat 6: oneplusone ($12997.00 in chips)
+oneplusone: posts small blind $50.00
+Thelittle200: posts big blind $100.00
+*** HOLE CARDS ***
+xplo1t4bl3: folds
+DoublelegTD: folds
+MR1990: folds
+oneplusone: raises $200.00 to $300.00
+Thelittle200: calls $200.00
+*** FLOP *** [Qh Ad 8s]
+oneplusone: bets $198.00
+Thelittle200: folds
+Uncalled bet ($198.00) returned to oneplusone
+oneplusone collected $597.00 from pot
+oneplusone: doesn't show hand
+*** SUMMARY ***
+Total pot $600.00 | Rake $3.00
+Board [Qh Ad 8s]
+Seat 1: Thelittle200 (big blind) folded on the Flop
+Seat 2: xplo1t4bl3 folded before Flop (didn't bet)
+Seat 3: DoublelegTD folded before Flop (didn't bet)
+Seat 4: MR1990 (button) folded before Flop (didn't bet)
+Seat 6: oneplusone (small blind) collected ($597.00)
+
+PokerStars Hand #1524997014:  Hold'em No Limit ($50.00/$100.00 USD) - 2023/01/16 20:24:20 ET
+Table 'WPN_Hollyvilla' 6-max Seat #6 is the button
+Seat 1: Thelittle200 ($4498.50 in chips)
+Seat 2: xplo1t4bl3 ($9224.90 in chips)
+Seat 3: DoublelegTD ($23416.88 in chips)
+Seat 4: MR1990 ($1122.47 in chips)
+Seat 6: oneplusone ($13294.00 in chips)
+Thelittle200: posts small blind $50.00
+xplo1t4bl3: posts big blind $100.00
+*** HOLE CARDS ***
+DoublelegTD: raises $120.00 to $220.00
+MR1990: folds
+oneplusone: folds
+Thelittle200: folds
+xplo1t4bl3: calls $120.00
+*** FLOP *** [4s 7d 3s]
+xplo1t4bl3: checks
+DoublelegTD: bets $245.00
+xplo1t4bl3: calls $245.00
+*** TURN *** [4s 7d 3s] [9s]
+xplo1t4bl3: checks
+DoublelegTD: bets $735.00
+xplo1t4bl3: folds
+Uncalled bet ($735.00) returned to DoublelegTD
+DoublelegTD collected $977.00 from pot
+DoublelegTD: doesn't show hand
+*** SUMMARY ***
+Total pot $980.00 | Rake $3.00
+Board [4s 7d 3s 9s]
+Seat 1: Thelittle200 (small blind) folded before Flop
+Seat 2: xplo1t4bl3 (big blind) folded on the Turn
+Seat 3: DoublelegTD collected ($977.00)
+Seat 4: MR1990 folded before Flop (didn't bet)
+Seat 6: oneplusone (button) folded before Flop (didn't bet)
+
+PokerStars Hand #1524998304:  Hold'em No Limit ($50.00/$100.00 USD) - 2023/01/16 20:25:16 ET
+Table 'WPN_Hollyvilla' 6-max Seat #1 is the button
+Seat 1: Thelittle200 ($4448.50 in chips)
+Seat 2: xplo1t4bl3 ($9535.00 in chips)
+Seat 3: DoublelegTD ($23928.88 in chips)
+Seat 4: MR1990 ($1122.47 in chips)
+Seat 6: oneplusone ($13294.00 in chips)
+xplo1t4bl3: posts small blind $50.00
+DoublelegTD: posts big blind $100.00
+*** HOLE CARDS ***
+MR1990: raises $100.00 to $200.00
+oneplusone: folds
+Thelittle200: folds
+xplo1t4bl3: folds
+DoublelegTD: folds
+Uncalled bet ($100.00) returned to MR1990
+MR1990 collected $250.00 from pot
+MR1990: doesn't show hand
+*** SUMMARY ***
+Total pot $250.00 | Rake $0.00
+Seat 1: Thelittle200 (button) folded before Flop (didn't bet)
+Seat 2: xplo1t4bl3 (small blind) folded before Flop
+Seat 3: DoublelegTD (big blind) folded before Flop
+Seat 4: MR1990 collected ($250.00)
+Seat 6: oneplusone folded before Flop (didn't bet)
+
+PokerStars Hand #1524824405:  Hold'em No Limit ($50.00/$100.00 USD) - 2023/01/16 17:56:56 ET
+Table 'WPN_Hollyvilla' 6-max Seat #5 is the button
+Seat 2: JohnMcShen ($11987.50 in chips)
+Seat 5: TIKITAKA11 ($10050.00 in chips)
+TIKITAKA11: posts small blind $50.00
+JohnMcShen: posts big blind $100.00
+*** HOLE CARDS ***
+TIKITAKA11: raises $130.00 to $230.00
+JohnMcShen: calls $130.00
+*** FLOP *** [2c 9s Jd]
+JohnMcShen: checks
+TIKITAKA11: checks
+*** TURN *** [2c 9s Jd] [Kc]
+JohnMcShen: checks
+TIKITAKA11: bets $326.60
+JohnMcShen: folds
+Uncalled bet ($326.60) returned to TIKITAKA11
+TIKITAKA11 collected $458.75 from pot
+TIKITAKA11: doesn't show hand
+*** SUMMARY ***
+Total pot $460.00 | Rake $1.25
+Board [2c 9s Jd Kc]
+Seat 2: JohnMcShen (big blind) folded on the Turn
+Seat 5: TIKITAKA11 (button) (small blind) collected ($458.75)
+
+PokerStars Hand #1524824338:  Hold'em No Limit ($50.00/$100.00 USD) - 2023/01/16 17:56:47 ET
+Table 'WPN_Hollyvilla' 6-max Seat #2 is the button
+Seat 2: JohnMcShen ($12037.50 in chips)
+Seat 5: TIKITAKA11 ($9770.00 in chips)
+JohnMcShen: posts small blind $50.00
+TIKITAKA11: posts big blind $100.00
+*** HOLE CARDS ***
+JohnMcShen: folds
+Uncalled bet ($50.00) returned to TIKITAKA11
+TIKITAKA11 collected $100.00 from pot
+TIKITAKA11: doesn't show hand
+*** SUMMARY ***
+Total pot $100.00 | Rake $0.00
+Seat 2: JohnMcShen (button) (small blind) folded before Flop
+Seat 5: TIKITAKA11 (big blind) collected ($100.00)
+
+PokerStars Hand #1524823978:  Hold'em No Limit ($50.00/$100.00 USD) - 2023/01/16 17:55:58 ET
+Table 'WPN_Hollyvilla' 6-max Seat #3 is the button
+Seat 2: JohnMcShen ($11658.75 in chips)
+Seat 3: eldelbar ($10100.00 in chips)
+Seat 5: TIKITAKA11 ($9900.00 in chips)
+TIKITAKA11: posts small blind $50.00
+JohnMcShen: posts big blind $100.00
+*** HOLE CARDS ***
+eldelbar: folds
+TIKITAKA11: folds
+Uncalled bet ($50.00) returned to JohnMcShen
+JohnMcShen collected $100.00 from pot
+JohnMcShen: doesn't show hand
+*** SUMMARY ***
+Total pot $100.00 | Rake $0.00
+Seat 2: JohnMcShen (big blind) collected ($100.00)
+Seat 3: eldelbar (button) folded before Flop (didn't bet)
+Seat 5: TIKITAKA11 (small blind) folded before Flop
+
+PokerStars Hand #1524824058:  Hold'em No Limit ($50.00/$100.00 USD) - 2023/01/16 17:56:09 ET
+Table 'WPN_Hollyvilla' 6-max Seat #5 is the button
+Seat 2: JohnMcShen ($11708.75 in chips)
+Seat 3: eldelbar ($10100.00 in chips)
+Seat 5: TIKITAKA11 ($9950.00 in chips)
+JohnMcShen: posts small blind $50.00
+TIKITAKA11: posts big blind $100.00
+*** HOLE CARDS ***
+JohnMcShen: calls $50.00
+TIKITAKA11: checks
+*** FLOP *** [As Ks Kh]
+JohnMcShen: bets $100.00
+TIKITAKA11: folds
+Uncalled bet ($100.00) returned to JohnMcShen
+JohnMcShen collected $198.75 from pot
+JohnMcShen: doesn't show hand
+*** SUMMARY ***
+Total pot $200.00 | Rake $1.25
+Board [As Ks Kh]
+Seat 2: JohnMcShen (small blind) collected ($198.75)
+Seat 5: TIKITAKA11 (button) (big blind) folded on the Flop
+
+PokerStars Hand #1524824220:  Hold'em No Limit ($50.00/$100.00 USD) - 2023/01/16 17:56:30 ET
+Table 'WPN_Hollyvilla' 6-max Seat #5 is the button
+Seat 2: JohnMcShen ($11807.50 in chips)
+Seat 5: TIKITAKA11 ($9900.00 in chips)
+TIKITAKA11: posts small blind $50.00
+JohnMcShen: posts big blind $100.00
+*** HOLE CARDS ***
+TIKITAKA11: raises $130.00 to $230.00
+JohnMcShen: raises $820.00 to $1050.00
+TIKITAKA11: folds
+Uncalled bet ($820.00) returned to JohnMcShen
+JohnMcShen collected $460.00 from pot
+JohnMcShen: doesn't show hand
+*** SUMMARY ***
+Total pot $460.00 | Rake $0.00
+Seat 2: JohnMcShen (big blind) collected ($460.00)
+Seat 5: TIKITAKA11 (button) (small blind) folded before Flop
+
+PokerStars Hand #1524823878:  Hold'em No Limit ($50.00/$100.00 USD) - 2023/01/16 17:55:45 ET
+Table 'WPN_Hollyvilla' 6-max Seat #2 is the button
+Seat 2: JohnMcShen ($11658.75 in chips)
+Seat 3: eldelbar ($10000.00 in chips)
+Seat 5: TIKITAKA11 ($8340.00 in chips)
+eldelbar: posts small blind $50.00
+TIKITAKA11: posts big blind $100.00
+*** HOLE CARDS ***
+JohnMcShen: folds
+eldelbar: raises $200.00 to $300.00
+TIKITAKA11: folds
+Uncalled bet ($200.00) returned to eldelbar
+eldelbar collected $200.00 from pot
+eldelbar: doesn't show hand
+*** SUMMARY ***
+Total pot $200.00 | Rake $0.00
+Seat 2: JohnMcShen (button) folded before Flop (didn't bet)
+Seat 3: eldelbar (small blind) collected ($200.00)
+Seat 5: TIKITAKA11 (big blind) folded before Flop
+
+PokerStars Hand #1524823116:  Hold'em No Limit ($50.00/$100.00 USD) - 2023/01/16 17:54:50 ET
+Table 'WPN_Hollyvilla' 6-max Seat #2 is the button
+Seat 2: JohnMcShen ($10000.00 in chips)
+Seat 5: TIKITAKA11 ($10000.00 in chips)
+JohnMcShen: posts the ante $500.00
+TIKITAKA11: posts the ante $500.00
+*** HOLE CARDS ***
+*** FLOP *** [2h 3h 4d]
+TIKITAKA11: checks
+JohnMcShen: bets $330.00
+TIKITAKA11: raises $830.00 to $1160.00
+JohnMcShen: calls $830.00
+*** TURN *** [2h 3h 4d] [8d]
+TIKITAKA11: checks
+JohnMcShen: bets $1095.60
+TIKITAKA11: folds
+Uncalled bet ($1095.60) returned to JohnMcShen
+JohnMcShen collected $3318.75 from pot
+JohnMcShen: doesn't show hand
+*** SUMMARY ***
+Total pot $3320.00 | Rake $1.25
+Board [2h 3h 4d 8d]
+Seat 2: JohnMcShen (button) collected ($3318.75)
+Seat 5: TIKITAKA11 folded on the Turn
+
+PokerStars Hand #1524567879:  Hold'em No Limit ($50.00/$100.00 USD) - 2023/01/16 08:59:16 ET
+Table 'WPN_Gumbranch' 6-max Seat #3 is the button
+Seat 2: vesnapisarovic ($9900.00 in chips)
+Seat 3: IdoGoats ($4000.00 in chips)
+Seat 4: _COBKA_PBET_ ($11407.00 in chips)
+Seat 5: zas911 ($8640.00 in chips)
+Seat 6: Meek Bill ($10000.00 in chips)
+_COBKA_PBET_: posts small blind $50.00
+vesnapisarovic: posts big blind $100.00
+*** HOLE CARDS ***
+IdoGoats: folds
+_COBKA_PBET_: folds
+Uncalled bet ($50.00) returned to vesnapisarovic
+vesnapisarovic collected $100.00 from pot
+vesnapisarovic: doesn't show hand
+*** SUMMARY ***
+Total pot $100.00 | Rake $0.00
+Seat 2: vesnapisarovic (big blind) collected ($100.00)
+Seat 3: IdoGoats (button) folded before Flop (didn't bet)
+Seat 4: _COBKA_PBET_ (small blind) folded before Flop
+
+PokerStars Hand #1524567411:  Hold'em No Limit ($50.00/$100.00 USD) - 2023/01/16 08:57:45 ET
+Table 'WPN_Gumbranch' 6-max Seat #2 is the button
+Seat 2: vesnapisarovic ($9900.00 in chips)
+Seat 3: IdoGoats ($4000.00 in chips)
+Seat 4: _COBKA_PBET_ ($10000.00 in chips)
+Seat 5: zas911 ($10000.00 in chips)
+Seat 6: Meek Bill ($10000.00 in chips)
+IdoGoats: posts small blind $50.00
+_COBKA_PBET_: posts big blind $100.00
+*** HOLE CARDS ***
+zas911: raises $120.00 to $220.00
+Meek Bill: folds
+vesnapisarovic: folds
+IdoGoats: folds
+_COBKA_PBET_: calls $120.00
+*** FLOP *** [9s 5h 6h]
+_COBKA_PBET_: checks
+zas911: checks
+*** TURN *** [9s 5h 6h] [2c]
+_COBKA_PBET_: bets $1140.00
+zas911: calls $1140.00
+*** RIVER *** [9s 5h 6h 2c] [Js]
+_COBKA_PBET_: bets $3720.00
+zas911: folds
+Uncalled bet ($3720.00) returned to _COBKA_PBET_
+_COBKA_PBET_ collected $2767.00 from pot
+_COBKA_PBET_: doesn't show hand
+*** SUMMARY ***
+Total pot $2770.00 | Rake $3.00
+Board [9s 5h 6h 2c Js]
+Seat 2: vesnapisarovic (button) folded before Flop (didn't bet)
+Seat 3: IdoGoats (small blind) folded before Flop
+Seat 4: _COBKA_PBET_ (big blind) collected ($2767.00)
+Seat 5: zas911 folded on the River
+Seat 6: Meek Bill folded before Flop (didn't bet)
+
+PokerStars Hand #1524567264:  Hold'em No Limit ($50.00/$100.00 USD) - 2023/01/16 08:57:19 ET
+Table 'WPN_Gumbranch' 6-max Seat #1 is the button
+Seat 1: Chilly Philly ($10748.75 in chips)
+Seat 2: vesnapisarovic ($10000.00 in chips)
+Seat 3: IdoGoats ($4000.00 in chips)
+Seat 4: _COBKA_PBET_ ($10000.00 in chips)
+Seat 5: zas911 ($10000.00 in chips)
+Seat 6: Meek Bill ($10000.00 in chips)
+Chilly Philly: posts small blind $50.00
+vesnapisarovic: posts big blind $100.00
+*** HOLE CARDS ***
+Chilly Philly: raises $150.00 to $250.00
+vesnapisarovic: folds
+Uncalled bet ($150.00) returned to Chilly Philly
+Chilly Philly collected $200.00 from pot
+Chilly Philly: doesn't show hand
+*** SUMMARY ***
+Total pot $200.00 | Rake $0.00
+Seat 1: Chilly Philly (button) (small blind) collected ($200.00)
+Seat 2: vesnapisarovic (big blind) folded before Flop
+
+PokerStars Hand #1524562148:  Hold'em No Limit ($50.00/$100.00 USD) - 2023/01/16 08:45:58 ET
+Table 'WPN_Dongola' 6-max Seat #2 is the button
+Seat 2: vesnapisarovic ($10000.00 in chips)
+Seat 5: borntotilt ($10000.00 in chips)
+vesnapisarovic: posts the ante $500.00
+borntotilt: posts the ante $500.00
+*** HOLE CARDS ***
+*** FLOP *** [7h 8d 3h]
+borntotilt: checks
+vesnapisarovic: bets $290.00
+borntotilt: folds
+Uncalled bet ($290.00) returned to vesnapisarovic
+vesnapisarovic collected $998.75 from pot
+vesnapisarovic: doesn't show hand
+*** SUMMARY ***
+Total pot $1000.00 | Rake $1.25
+Board [7h 8d 3h]
+Seat 2: vesnapisarovic (button) collected ($998.75)
+Seat 5: borntotilt folded on the Flop
+
+PokerStars Hand #1524481955:  Hold'em No Limit ($50.00/$100.00 USD) - 2023/01/16 06:29:14 ET
+Table 'WPN_West Chicago' 6-max Seat #2 is the button
+Seat 2: TIKITAKA11 ($11297.75 in chips)
+Seat 5: orgi69 ($10000.00 in chips)
+TIKITAKA11: posts small blind $50.00
+orgi69: posts big blind $100.00
+*** HOLE CARDS ***
+TIKITAKA11: raises $130.00 to $230.00
+orgi69: calls $130.00
+*** FLOP *** [3h 7c 6h]
+orgi69: checks
+TIKITAKA11: checks
+*** TURN *** [3h 7c 6h] [Qs]
+orgi69: bets $230.00
+TIKITAKA11: calls $230.00
+*** RIVER *** [3h 7c 6h Qs] [2s]
+orgi69: bets $690.00
+TIKITAKA11: folds
+Uncalled bet ($690.00) returned to orgi69
+orgi69 collected $918.75 from pot
+orgi69: doesn't show hand
+*** SUMMARY ***
+Total pot $920.00 | Rake $1.25
+Board [3h 7c 6h Qs 2s]
+Seat 2: TIKITAKA11 (button) (small blind) folded on the River
+Seat 5: orgi69 (big blind) collected ($918.75)
+
+PokerStars Hand #1524482389:  Hold'em No Limit ($50.00/$100.00 USD) - 2023/01/16 06:29:45 ET
+Table 'WPN_West Chicago' 6-max Seat #5 is the button
+Seat 2: TIKITAKA11 ($10837.75 in chips)
+Seat 5: orgi69 ($10458.75 in chips)
+orgi69: posts small blind $50.00
+TIKITAKA11: posts big blind $100.00
+*** HOLE CARDS ***
+orgi69: raises $130.00 to $230.00
+TIKITAKA11: raises $800.00 to $1030.00
+orgi69: folds
+Uncalled bet ($800.00) returned to TIKITAKA11
+TIKITAKA11 collected $460.00 from pot
+TIKITAKA11: doesn't show hand
+*** SUMMARY ***
+Total pot $460.00 | Rake $0.00
+Seat 2: TIKITAKA11 (big blind) collected ($460.00)
+Seat 5: orgi69 (button) (small blind) folded before Flop
+
+PokerStars Hand #1524481108:  Hold'em No Limit ($50.00/$100.00 USD) - 2023/01/16 06:28:11 ET
+Table 'WPN_West Chicago' 6-max Seat #4 is the button
+Seat 2: TIKITAKA11 ($11247.75 in chips)
+Seat 4: THENIGHTKING1 ($3950.00 in chips)
+Seat 5: orgi69 ($9595.00 in chips)
+orgi69: posts small blind $50.00
+TIKITAKA11: posts big blind $100.00
+*** HOLE CARDS ***
+THENIGHTKING1: folds
+orgi69: folds
+Uncalled bet ($50.00) returned to TIKITAKA11
+TIKITAKA11 collected $100.00 from pot
+TIKITAKA11: doesn't show hand
+*** SUMMARY ***
+Total pot $100.00 | Rake $0.00
+Seat 2: TIKITAKA11 (big blind) collected ($100.00)
+Seat 4: THENIGHTKING1 (button) folded before Flop (didn't bet)
+Seat 5: orgi69 (small blind) folded before Flop
+
+PokerStars Hand #1524480344:  Hold'em No Limit ($50.00/$100.00 USD) - 2023/01/16 06:27:13 ET
+Table 'WPN_West Chicago' 6-max Seat #3 is the button
+Seat 1: alanwatts15 ($10000.00 in chips)
+Seat 2: TIKITAKA11 ($11247.75 in chips)
+Seat 3: Burundos254 ($10000.00 in chips)
+Seat 4: THENIGHTKING1 ($4000.00 in chips)
+Seat 5: orgi69 ($9220.00 in chips)
+orgi69: posts small blind $50.00
+TIKITAKA11: posts big blind $100.00
+*** HOLE CARDS ***
+Burundos254: raises $125.00 to $225.00
+orgi69: raises $725.00 to $950.00
+TIKITAKA11: folds
+Burundos254: folds
+Uncalled bet ($725.00) returned to orgi69
+orgi69 collected $550.00 from pot
+orgi69: doesn't show hand
+*** SUMMARY ***
+Total pot $550.00 | Rake $0.00
+Seat 2: TIKITAKA11 (big blind) folded before Flop
+Seat 3: Burundos254 (button) folded before Flop
+Seat 5: orgi69 (small blind) collected ($550.00)
+
+PokerStars Hand #1524480817:  Hold'em No Limit ($50.00/$100.00 USD) - 2023/01/16 06:27:48 ET
+Table 'WPN_West Chicago' 6-max Seat #5 is the button
+Seat 2: TIKITAKA11 ($11147.75 in chips)
+Seat 3: Burundos254 ($9775.00 in chips)
+Seat 4: THENIGHTKING1 ($4000.00 in chips)
+Seat 5: orgi69 ($9545.00 in chips)
+TIKITAKA11: posts small blind $50.00
+THENIGHTKING1: posts big blind $100.00
+*** HOLE CARDS ***
+orgi69: folds
+TIKITAKA11: raises $170.00 to $270.00
+THENIGHTKING1: folds
+Uncalled bet ($170.00) returned to TIKITAKA11
+TIKITAKA11 collected $200.00 from pot
+TIKITAKA11: doesn't show hand
+*** SUMMARY ***
+Total pot $200.00 | Rake $0.00
+Seat 2: TIKITAKA11 (small blind) collected ($200.00)
+Seat 4: THENIGHTKING1 (big blind) folded before Flop
+Seat 5: orgi69 (button) folded before Flop (didn't bet)
+
+PokerStars Hand #1524480991:  Hold'em No Limit ($50.00/$100.00 USD) - 2023/01/16 06:28:01 ET
+Table 'WPN_West Chicago' 6-max Seat #2 is the button
+Seat 2: TIKITAKA11 ($11247.75 in chips)
+Seat 4: THENIGHTKING1 ($3900.00 in chips)
+Seat 5: orgi69 ($9545.00 in chips)
+THENIGHTKING1: posts small blind $50.00
+orgi69: posts big blind $100.00
+*** HOLE CARDS ***
+TIKITAKA11: folds
+THENIGHTKING1: folds
+Uncalled bet ($50.00) returned to orgi69
+orgi69 collected $100.00 from pot
+orgi69: doesn't show hand
+*** SUMMARY ***
+Total pot $100.00 | Rake $0.00
+Seat 2: TIKITAKA11 (button) folded before Flop (didn't bet)
+Seat 4: THENIGHTKING1 (small blind) folded before Flop
+Seat 5: orgi69 (big blind) collected ($100.00)
+
+PokerStars Hand #1524479708:  Hold'em No Limit ($50.00/$100.00 USD) - 2023/01/16 06:26:26 ET
+Table 'WPN_West Chicago' 6-max Seat #2 is the button
+Seat 1: alanwatts15 ($10000.00 in chips)
+Seat 2: TIKITAKA11 ($10970.75 in chips)
+Seat 3: Burundos254 ($10050.00 in chips)
+Seat 5: orgi69 ($9450.00 in chips)
+Seat 6: IdoGoats ($4000.00 in chips)
+Burundos254: posts small blind $50.00
+orgi69: posts big blind $100.00
+*** HOLE CARDS ***
+IdoGoats: folds
+alanwatts15: folds
+TIKITAKA11: raises $130.00 to $230.00
+Burundos254: folds
+orgi69: calls $130.00
+*** FLOP *** [8d 7s 9d]
+orgi69: checks
+TIKITAKA11: checks
+*** TURN *** [8d 7s 9d] [3s]
+orgi69: checks
+TIKITAKA11: bets $362.10
+orgi69: folds
+Uncalled bet ($362.10) returned to TIKITAKA11
+TIKITAKA11 collected $507.00 from pot
+TIKITAKA11: doesn't show hand
+*** SUMMARY ***
+Total pot $510.00 | Rake $3.00
+Board [8d 7s 9d 3s]
+Seat 1: alanwatts15 folded before Flop (didn't bet)
+Seat 2: TIKITAKA11 (button) collected ($507.00)
+Seat 3: Burundos254 (small blind) folded before Flop
+Seat 5: orgi69 (big blind) folded on the Turn
+Seat 6: IdoGoats folded before Flop (didn't bet)
+
+PokerStars Hand #1524479397:  Hold'em No Limit ($50.00/$100.00 USD) - 2023/01/16 06:26:03 ET
+Table 'WPN_West Chicago' 6-max Seat #1 is the button
+Seat 1: alanwatts15 ($10000.00 in chips)
+Seat 2: TIKITAKA11 ($11020.75 in chips)
+Seat 3: Burundos254 ($10000.00 in chips)
+Seat 4: Thelittle200 ($4000.00 in chips)
+Seat 5: orgi69 ($9450.00 in chips)
+Seat 6: IdoGoats ($4000.00 in chips)
+TIKITAKA11: posts small blind $50.00
+Burundos254: posts big blind $100.00
+*** HOLE CARDS ***
+Thelittle200: folds
+orgi69: folds
+IdoGoats: folds
+alanwatts15: folds
+TIKITAKA11: folds
+Uncalled bet ($50.00) returned to Burundos254
+Burundos254 collected $100.00 from pot
+Burundos254: doesn't show hand
+*** SUMMARY ***
+Total pot $100.00 | Rake $0.00
+Seat 1: alanwatts15 (button) folded before Flop (didn't bet)
+Seat 2: TIKITAKA11 (small blind) folded before Flop
+Seat 3: Burundos254 (big blind) collected ($100.00)
+Seat 4: Thelittle200 folded before Flop (didn't bet)
+Seat 5: orgi69 folded before Flop (didn't bet)
+Seat 6: IdoGoats folded before Flop (didn't bet)
+
+PokerStars Hand #1524478545:  Hold'em No Limit ($50.00/$100.00 USD) - 2023/01/16 06:24:58 ET
+Table 'WPN_West Chicago' 6-max Seat #6 is the button
+Seat 1: alanwatts15 ($9900.00 in chips)
+Seat 2: TIKITAKA11 ($10748.75 in chips)
+Seat 3: _COBKA_PBET_ ($10000.00 in chips)
+Seat 4: Thelittle200 ($4000.00 in chips)
+Seat 5: orgi69 ($9450.00 in chips)
+Seat 6: IdoGoats ($4000.00 in chips)
+alanwatts15: posts small blind $50.00
+TIKITAKA11: posts big blind $100.00
+*** HOLE CARDS ***
+_COBKA_PBET_: folds
+Thelittle200: folds
+orgi69: folds
+IdoGoats: raises $125.00 to $225.00
+alanwatts15: folds
+TIKITAKA11: calls $125.00
+*** FLOP *** [2s 9s 4d]
+TIKITAKA11: checks
+IdoGoats: checks
+*** TURN *** [2s 9s 4d] [2c]
+TIKITAKA11: bets $750.00
+IdoGoats: folds
+Uncalled bet ($750.00) returned to TIKITAKA11
+TIKITAKA11 collected $497.00 from pot
+TIKITAKA11: doesn't show hand
+*** SUMMARY ***
+Total pot $500.00 | Rake $3.00
+Board [2s 9s 4d 2c]
+Seat 1: alanwatts15 (small blind) folded before Flop
+Seat 2: TIKITAKA11 (big blind) collected ($497.00)
+Seat 3: _COBKA_PBET_ folded before Flop (didn't bet)
+Seat 4: Thelittle200 folded before Flop (didn't bet)
+Seat 5: orgi69 folded before Flop (didn't bet)
+Seat 6: IdoGoats (button) folded on the Turn
+
+PokerStars Hand #1524478326:  Hold'em No Limit ($50.00/$100.00 USD) - 2023/01/16 06:24:42 ET
+Table 'WPN_West Chicago' 6-max Seat #5 is the button
+Seat 1: alanwatts15 ($10000.00 in chips)
+Seat 2: TIKITAKA11 ($10748.75 in chips)
+Seat 3: _COBKA_PBET_ ($10000.00 in chips)
+Seat 4: Thelittle200 ($4000.00 in chips)
+Seat 5: orgi69 ($9300.00 in chips)
+Seat 6: IdoGoats ($4000.00 in chips)
+IdoGoats: posts small blind $50.00
+alanwatts15: posts big blind $100.00
+*** HOLE CARDS ***
+TIKITAKA11: folds
+_COBKA_PBET_: folds
+Thelittle200: folds
+orgi69: raises $100.00 to $200.00
+IdoGoats: folds
+alanwatts15: folds
+Uncalled bet ($100.00) returned to orgi69
+orgi69 collected $250.00 from pot
+orgi69: doesn't show hand
+*** SUMMARY ***
+Total pot $250.00 | Rake $0.00
+Seat 1: alanwatts15 (big blind) folded before Flop
+Seat 2: TIKITAKA11 folded before Flop (didn't bet)
+Seat 3: _COBKA_PBET_ folded before Flop (didn't bet)
+Seat 4: Thelittle200 folded before Flop (didn't bet)
+Seat 5: orgi69 (button) collected ($250.00)
+Seat 6: IdoGoats (small blind) folded before Flop
+
+PokerStars Hand #1524477801:  Hold'em No Limit ($50.00/$100.00 USD) - 2023/01/16 06:24:19 ET
+Table 'WPN_West Chicago' 6-max Seat #5 is the button
+Seat 1: alanwatts15 ($10000.00 in chips)
+Seat 2: TIKITAKA11 ($10000.00 in chips)
+Seat 5: orgi69 ($10050.00 in chips)
+TIKITAKA11: posts the ante $500.00
+orgi69: posts the ante $500.00
+*** HOLE CARDS ***
+*** FLOP *** [3h 2d Kh]
+TIKITAKA11: checks
+orgi69: bets $250.00
+TIKITAKA11: raises $750.00 to $1000.00
+orgi69: folds
+Uncalled bet ($750.00) returned to TIKITAKA11
+TIKITAKA11 collected $1498.75 from pot
+TIKITAKA11: doesn't show hand
+*** SUMMARY ***
+Total pot $1500.00 | Rake $1.25
+Board [3h 2d Kh]
+Seat 2: TIKITAKA11 collected ($1498.75)
+Seat 5: orgi69 (button) folded on the Flop
+
+PokerStars Hand #1524326228:  Hold'em No Limit ($50.00/$100.00 USD) - 2023/01/16 03:51:15 ET
+Table 'WPN_Tarry' 6-max Seat #1 is the button
+Seat 1: uhhhyesandno ($10000.00 in chips)
+Seat 3: bigsoowoop ($4000.00 in chips)
+Seat 4: Meek Bill ($10000.00 in chips)
+Seat 5: 7SkyAroundMe ($13332.25 in chips)
+bigsoowoop: posts small blind $50.00
+7SkyAroundMe: posts big blind $100.00
+*** HOLE CARDS ***
+uhhhyesandno: raises $150.00 to $250.00
+bigsoowoop: folds
+7SkyAroundMe: calls $150.00
+*** FLOP *** [8d 7d 7s]
+7SkyAroundMe: checks
+uhhhyesandno: checks
+*** TURN *** [8d 7d 7s] [7h]
+7SkyAroundMe: bets $181.50
+uhhhyesandno: calls $181.50
+*** RIVER *** [8d 7d 7s 7h] [2d]
+7SkyAroundMe: bets $450.00
+uhhhyesandno: calls $450.00
+*** SHOW DOWN ***
+uhhhyesandno: shows [3c 3h]
+7SkyAroundMe: mucks hand
+uhhhyesandno collected $1811.25 from pot
+*** SUMMARY ***
+Total pot $1813.00 | Rake $1.75
+Board [8d 7d 7s 7h 2d]
+Seat 1: uhhhyesandno (button) showed [3c 3h] and won ($1811.25)
+Seat 3: bigsoowoop (small blind) folded before Flop
+Seat 5: 7SkyAroundMe (big blind) mucked
+
+PokerStars Hand #1524324101:  Hold'em No Limit ($50.00/$100.00 USD) - 2023/01/16 03:49:38 ET
+Table 'WPN_Tarry' 6-max Seat #5 is the button
+Seat 1: uhhhyesandno ($10050.00 in chips)
+Seat 2: PANDAisEVIL ($10000.00 in chips)
+Seat 3: bigsoowoop ($4000.00 in chips)
+Seat 4: Meek Bill ($10000.00 in chips)
+Seat 5: 7SkyAroundMe ($11747.00 in chips)
+Seat 6: mlchelangelo ($4000.00 in chips)
+uhhhyesandno: posts small blind $50.00
+bigsoowoop: posts big blind $100.00
+*** HOLE CARDS ***
+Meek Bill: folds
+7SkyAroundMe: raises $150.00 to $250.00
+uhhhyesandno: folds
+bigsoowoop: calls $150.00
+*** FLOP *** [2s Th Kd]
+bigsoowoop: checks
+7SkyAroundMe: bets $250.00
+bigsoowoop: calls $250.00
+*** TURN *** [2s Th Kd] [Qs]
+bigsoowoop: checks
+7SkyAroundMe: checks
+*** RIVER *** [2s Th Kd Qs] [7h]
+bigsoowoop: checks
+7SkyAroundMe: bets $1037.50
+bigsoowoop: calls $1037.50
+*** SHOW DOWN ***
+7SkyAroundMe: shows [Ad As]
+bigsoowoop: mucks hand
+7SkyAroundMe collected $3122.75 from pot
+*** SUMMARY ***
+Total pot $3125.00 | Rake $2.25
+Board [2s Th Kd Qs 7h]
+Seat 1: uhhhyesandno (small blind) folded before Flop
+Seat 3: bigsoowoop (big blind) mucked
+Seat 4: Meek Bill folded before Flop (didn't bet)
+Seat 5: 7SkyAroundMe (button) showed [Ad As] and won ($3122.75)
+
+PokerStars Hand #1524323292:  Hold'em No Limit ($50.00/$100.00 USD) - 2023/01/16 03:49:03 ET
+Table 'WPN_Tarry' 6-max Seat #4 is the button
+Seat 1: uhhhyesandno ($10150.00 in chips)
+Seat 2: PANDAisEVIL ($10000.00 in chips)
+Seat 3: bigsoowoop ($4000.00 in chips)
+Seat 4: Meek Bill ($10000.00 in chips)
+Seat 5: 7SkyAroundMe ($11647.00 in chips)
+7SkyAroundMe: posts small blind $50.00
+uhhhyesandno: posts big blind $100.00
+*** HOLE CARDS ***
+PANDAisEVIL: folds
+Meek Bill: folds
+7SkyAroundMe: raises $200.00 to $300.00
+uhhhyesandno: folds
+Uncalled bet ($200.00) returned to 7SkyAroundMe
+7SkyAroundMe collected $200.00 from pot
+7SkyAroundMe: doesn't show hand
+*** SUMMARY ***
+Total pot $200.00 | Rake $0.00
+Seat 1: uhhhyesandno (big blind) folded before Flop
+Seat 2: PANDAisEVIL folded before Flop (didn't bet)
+Seat 4: Meek Bill (button) folded before Flop (didn't bet)
+Seat 5: 7SkyAroundMe (small blind) collected ($200.00)
+
+PokerStars Hand #1524320740:  Hold'em No Limit ($50.00/$100.00 USD) - 2023/01/16 03:47:08 ET
+Table 'WPN_Tarry' 6-max Seat #2 is the button
+Seat 1: uhhhyesandno ($8960.81 in chips)
+Seat 2: PANDAisEVIL ($10000.00 in chips)
+Seat 3: bigsoowoop ($4000.00 in chips)
+Seat 4: Meek Bill ($9900.00 in chips)
+Seat 5: 7SkyAroundMe ($11747.00 in chips)
+Seat 6: THENIGHTKING1 ($3536.19 in chips)
+Meek Bill: posts small blind $50.00
+7SkyAroundMe: posts big blind $100.00
+*** HOLE CARDS ***
+THENIGHTKING1: folds
+uhhhyesandno: raises $120.00 to $220.00
+PANDAisEVIL: folds
+Meek Bill: folds
+7SkyAroundMe: folds
+Uncalled bet ($120.00) returned to uhhhyesandno
+uhhhyesandno collected $250.00 from pot
+uhhhyesandno: doesn't show hand
+*** SUMMARY ***
+Total pot $250.00 | Rake $0.00
+Seat 1: uhhhyesandno collected ($250.00)
+Seat 2: PANDAisEVIL (button) folded before Flop (didn't bet)
+Seat 4: Meek Bill (small blind) folded before Flop
+Seat 5: 7SkyAroundMe (big blind) folded before Flop
+Seat 6: THENIGHTKING1 folded before Flop (didn't bet)
+
+PokerStars Hand #1524317248:  Hold'em No Limit ($50.00/$100.00 USD) - 2023/01/16 03:44:26 ET
+Table 'WPN_Tarry' 6-max Seat #6 is the button
+Seat 1: uhhhyesandno ($10460.81 in chips)
+Seat 2: PANDAisEVIL ($10000.00 in chips)
+Seat 3: honey_badger ($10000.00 in chips)
+Seat 4: Meek Bill ($10000.00 in chips)
+Seat 5: 7SkyAroundMe ($10000.00 in chips)
+Seat 6: THENIGHTKING1 ($3536.19 in chips)
+uhhhyesandno: posts small blind $50.00
+PANDAisEVIL: posts big blind $100.00
+*** HOLE CARDS ***
+honey_badger: folds
+7SkyAroundMe: raises $120.00 to $220.00
+THENIGHTKING1: folds
+uhhhyesandno: raises $780.00 to $1000.00
+PANDAisEVIL: folds
+7SkyAroundMe: calls $780.00
+*** FLOP *** [6h 5h Jh]
+uhhhyesandno: bets $500.00
+7SkyAroundMe: calls $500.00
+*** TURN *** [6h 5h Jh] [6d]
+uhhhyesandno: checks
+7SkyAroundMe: checks
+*** RIVER *** [6h 5h Jh 6d] [2s]
+uhhhyesandno: checks
+7SkyAroundMe: bets $1550.00
+uhhhyesandno: folds
+Uncalled bet ($1550.00) returned to 7SkyAroundMe
+7SkyAroundMe collected $3097.00 from pot
+7SkyAroundMe: doesn't show hand
+*** SUMMARY ***
+Total pot $3100.00 | Rake $3.00
+Board [6h 5h Jh 6d 2s]
+Seat 1: uhhhyesandno (small blind) folded on the River
+Seat 2: PANDAisEVIL (big blind) folded before Flop
+Seat 3: honey_badger folded before Flop (didn't bet)
+Seat 5: 7SkyAroundMe collected ($3097.00)
+Seat 6: THENIGHTKING1 (button) folded before Flop (didn't bet)
+
+PokerStars Hand #1524320270:  Hold'em No Limit ($50.00/$100.00 USD) - 2023/01/16 03:46:46 ET
+Table 'WPN_Tarry' 6-max Seat #1 is the button
+Seat 1: uhhhyesandno ($8960.81 in chips)
+Seat 2: PANDAisEVIL ($10000.00 in chips)
+Seat 3: honey_badger ($10000.00 in chips)
+Seat 4: Meek Bill ($10000.00 in chips)
+Seat 5: 7SkyAroundMe ($11597.00 in chips)
+Seat 6: THENIGHTKING1 ($3536.19 in chips)
+PANDAisEVIL: posts small blind $50.00
+Meek Bill: posts big blind $100.00
+*** HOLE CARDS ***
+7SkyAroundMe: raises $120.00 to $220.00
+THENIGHTKING1: folds
+uhhhyesandno: folds
+PANDAisEVIL: folds
+Meek Bill: folds
+Uncalled bet ($120.00) returned to 7SkyAroundMe
+7SkyAroundMe collected $250.00 from pot
+7SkyAroundMe: doesn't show hand
+*** SUMMARY ***
+Total pot $250.00 | Rake $0.00
+Seat 1: uhhhyesandno (button) folded before Flop (didn't bet)
+Seat 2: PANDAisEVIL (small blind) folded before Flop
+Seat 4: Meek Bill (big blind) folded before Flop
+Seat 5: 7SkyAroundMe collected ($250.00)
+Seat 6: THENIGHTKING1 folded before Flop (didn't bet)
+
+PokerStars Hand #1523977251:  Hold'em No Limit ($50.00/$100.00 USD) - 2023/01/16 00:21:59 ET
+Table 'WPN_Tarry' 6-max Seat #2 is the button
+Seat 2: TIKITAKA11 ($10000.00 in chips)
+Seat 5: 7SkyAroundMe ($10000.00 in chips)
+TIKITAKA11: posts the ante $500.00
+7SkyAroundMe: posts the ante $500.00
+*** HOLE CARDS ***
+*** FLOP *** [7s 4h Qc]
+7SkyAroundMe: checks
+TIKITAKA11: checks
+*** TURN *** [7s 4h Qc] [4s]
+7SkyAroundMe: bets $500.00
+TIKITAKA11: calls $500.00
+*** RIVER *** [7s 4h Qc 4s] [Jd]
+7SkyAroundMe: checks
+TIKITAKA11: bets $1420.00
+7SkyAroundMe: folds
+Uncalled bet ($1420.00) returned to TIKITAKA11
+TIKITAKA11 collected $1998.75 from pot
+TIKITAKA11: doesn't show hand
+*** SUMMARY ***
+Total pot $2000.00 | Rake $1.25
+Board [7s 4h Qc 4s Jd]
+Seat 2: TIKITAKA11 (button) collected ($1998.75)
+Seat 5: 7SkyAroundMe folded on the River
+
+PokerStars Hand #1523979424:  Hold'em No Limit ($50.00/$100.00 USD) - 2023/01/16 00:22:58 ET
+Table 'WPN_Pinckneyville' 6-max Seat #2 is the button
+Seat 2: TIKITAKA11 ($10000.00 in chips)
+Seat 5: 7SkyAroundMe ($10000.00 in chips)
+TIKITAKA11: posts the ante $500.00
+7SkyAroundMe: posts the ante $500.00
+*** HOLE CARDS ***
+*** FLOP *** [8s Tc 7d]
+7SkyAroundMe: checks
+TIKITAKA11: checks
+*** TURN *** [8s Tc 7d] [9h]
+7SkyAroundMe: bets $500.00
+TIKITAKA11: folds
+Uncalled bet ($500.00) returned to 7SkyAroundMe
+7SkyAroundMe collected $998.75 from pot
+7SkyAroundMe: doesn't show hand
+*** SUMMARY ***
+Total pot $1000.00 | Rake $1.25
+Board [8s Tc 7d 9h]
+Seat 2: TIKITAKA11 (button) folded on the Turn
+Seat 5: 7SkyAroundMe collected ($998.75)
+
+PokerStars Hand #1523980532:  Hold'em No Limit ($50.00/$100.00 USD) - 2023/01/16 00:23:13 ET
+Table 'WPN_Tarry' 6-max Seat #5 is the button
+Seat 1: oneplusone ($10000.00 in chips)
+Seat 5: 7SkyAroundMe ($9000.00 in chips)
+Seat 6: alanwatts15 ($10000.00 in chips)
+alanwatts15: posts small blind $50.00
+oneplusone: posts big blind $100.00
+*** HOLE CARDS ***
+7SkyAroundMe: raises $150.00 to $250.00
+alanwatts15: folds
+oneplusone: calls $150.00
+*** FLOP *** [2s Ad 2d]
+oneplusone: checks
+7SkyAroundMe: bets $100.00
+oneplusone: raises $400.00 to $500.00
+7SkyAroundMe: calls $400.00
+*** TURN *** [2s Ad 2d] [9d]
+oneplusone: bets $511.50
+7SkyAroundMe: folds
+Uncalled bet ($511.50) returned to oneplusone
+oneplusone collected $1548.25 from pot
+oneplusone: doesn't show hand
+*** SUMMARY ***
+Total pot $1550.00 | Rake $1.75
+Board [2s Ad 2d 9d]
+Seat 1: oneplusone (big blind) collected ($1548.25)
+Seat 5: 7SkyAroundMe (button) folded on the Turn
+Seat 6: alanwatts15 (small blind) folded before Flop
+
+PokerStars Hand #1523983553:  Hold'em No Limit ($50.00/$100.00 USD) - 2023/01/16 00:24:36 ET
+Table 'WPN_Tarry' 6-max Seat #6 is the button
+Seat 1: oneplusone ($10798.25 in chips)
+Seat 3: bigsoowoop ($4000.00 in chips)
+Seat 5: 7SkyAroundMe ($9250.00 in chips)
+Seat 6: alanwatts15 ($10000.00 in chips)
+oneplusone: posts small blind $50.00
+bigsoowoop: posts big blind $100.00
+*** HOLE CARDS ***
+7SkyAroundMe: folds
+alanwatts15: raises $150.00 to $250.00
+oneplusone: folds
+bigsoowoop: calls $150.00
+*** FLOP *** [Kc Ac Kd]
+bigsoowoop: checks
+alanwatts15: bets $137.50
+bigsoowoop: calls $137.50
+*** TURN *** [Kc Ac Kd] [Ts]
+bigsoowoop: checks
+alanwatts15: checks
+*** RIVER *** [Kc Ac Kd Ts] [As]
+bigsoowoop: checks
+alanwatts15: bets $825.00
+bigsoowoop: folds
+Uncalled bet ($825.00) returned to alanwatts15
+alanwatts15 collected $822.75 from pot
+alanwatts15: doesn't show hand
+*** SUMMARY ***
+Total pot $825.00 | Rake $2.25
+Board [Kc Ac Kd Ts As]
+Seat 1: oneplusone (small blind) folded before Flop
+Seat 3: bigsoowoop (big blind) folded on the River
+Seat 5: 7SkyAroundMe folded before Flop (didn't bet)
+Seat 6: alanwatts15 (button) collected ($822.75)
+
+PokerStars Hand #1523987208:  Hold'em No Limit ($50.00/$100.00 USD) - 2023/01/16 00:26:15 ET
+Table 'WPN_Tarry' 6-max Seat #1 is the button
+Seat 1: oneplusone ($10748.25 in chips)
+Seat 3: bigsoowoop ($3612.50 in chips)
+Seat 5: 7SkyAroundMe ($9250.00 in chips)
+Seat 6: alanwatts15 ($10435.25 in chips)
+bigsoowoop: posts small blind $50.00
+7SkyAroundMe: posts big blind $100.00
+*** HOLE CARDS ***
+alanwatts15: folds
+oneplusone: folds
+bigsoowoop: raises $200.00 to $300.00
+7SkyAroundMe: folds
+Uncalled bet ($200.00) returned to bigsoowoop
+bigsoowoop collected $200.00 from pot
+bigsoowoop: doesn't show hand
+*** SUMMARY ***
+Total pot $200.00 | Rake $0.00
+Seat 1: oneplusone (button) folded before Flop (didn't bet)
+Seat 3: bigsoowoop (small blind) collected ($200.00)
+Seat 5: 7SkyAroundMe (big blind) folded before Flop
+Seat 6: alanwatts15 folded before Flop (didn't bet)
+

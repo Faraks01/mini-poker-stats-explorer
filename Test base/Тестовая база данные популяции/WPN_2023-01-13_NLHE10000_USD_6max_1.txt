@@ -1,0 +1,5468 @@
+PokerStars Hand #1520672595:  Hold'em No Limit ($50.00/$100.00 USD) - 2023/01/13 19:08:40 ET
+Table 'WPN_Jetmore' 6-max Seat #3 is the button
+Seat 1: b00ma ($4000.00 in chips)
+Seat 2: Thelittle200 ($4000.00 in chips)
+Seat 3: TaurusM00n ($13547.00 in chips)
+Seat 4: J0hnMcclean ($8200.00 in chips)
+Seat 6: oneplusone ($10248.75 in chips)
+J0hnMcclean: posts small blind $50.00
+oneplusone: posts big blind $100.00
+*** HOLE CARDS ***
+TaurusM00n: raises $150.00 to $250.00
+J0hnMcclean: folds
+oneplusone: raises $850.00 to $1100.00
+TaurusM00n: calls $850.00
+*** FLOP *** [2h 4d Th]
+oneplusone: bets $562.50
+TaurusM00n: calls $562.50
+*** TURN *** [2h 4d Th] [3h]
+oneplusone: bets $843.75
+TaurusM00n: calls $843.75
+*** RIVER *** [2h 4d Th 3h] [9c]
+oneplusone: bets $1670.62
+TaurusM00n: folds
+Uncalled bet ($1670.62) returned to oneplusone
+oneplusone collected $5060.75 from pot
+oneplusone: doesn't show hand
+*** SUMMARY ***
+Total pot $5062.50 | Rake $1.75
+Board [2h 4d Th 3h 9c]
+Seat 3: TaurusM00n (button) folded on the River
+Seat 4: J0hnMcclean (small blind) folded before Flop
+Seat 6: oneplusone (big blind) collected ($5060.75)
+
+PokerStars Hand #1520674960:  Hold'em No Limit ($50.00/$100.00 USD) - 2023/01/13 19:10:40 ET
+Table 'WPN_Jetmore' 6-max Seat #4 is the button
+Seat 1: b00ma ($4000.00 in chips)
+Seat 2: Thelittle200 ($4000.00 in chips)
+Seat 3: TaurusM00n ($11040.75 in chips)
+Seat 4: J0hnMcclean ($10000.00 in chips)
+Seat 5: nutsforme100 ($10000.00 in chips)
+Seat 6: oneplusone ($12803.25 in chips)
+oneplusone: posts small blind $50.00
+b00ma: posts big blind $100.00
+*** HOLE CARDS ***
+TaurusM00n: folds
+J0hnMcclean: folds
+oneplusone: folds
+Uncalled bet ($50.00) returned to b00ma
+b00ma collected $100.00 from pot
+b00ma: doesn't show hand
+*** SUMMARY ***
+Total pot $100.00 | Rake $0.00
+Seat 1: b00ma (big blind) collected ($100.00)
+Seat 3: TaurusM00n folded before Flop (didn't bet)
+Seat 4: J0hnMcclean (button) folded before Flop (didn't bet)
+Seat 6: oneplusone (small blind) folded before Flop
+
+PokerStars Hand #1520675332:  Hold'em No Limit ($50.00/$100.00 USD) - 2023/01/13 19:11:00 ET
+Table 'WPN_Jetmore' 6-max Seat #6 is the button
+Seat 1: b00ma ($4050.00 in chips)
+Seat 2: Thelittle200 ($4000.00 in chips)
+Seat 3: TaurusM00n ($11040.75 in chips)
+Seat 4: J0hnMcclean ($10000.00 in chips)
+Seat 5: nutsforme100 ($10000.00 in chips)
+Seat 6: oneplusone ($12753.25 in chips)
+b00ma: posts small blind $50.00
+Thelittle200: posts big blind $100.00
+*** HOLE CARDS ***
+TaurusM00n: folds
+J0hnMcclean: folds
+oneplusone: folds
+b00ma: calls $50.00
+Thelittle200: checks
+*** FLOP *** [7c 2h Jc]
+b00ma: checks
+Thelittle200: checks
+*** TURN *** [7c 2h Jc] [2s]
+b00ma: checks
+Thelittle200: bets $148.00
+b00ma: calls $148.00
+*** RIVER *** [7c 2h Jc 2s] [Kh]
+b00ma: checks
+Thelittle200: bets $740.00
+b00ma: calls $740.00
+*** SHOW DOWN ***
+b00ma: shows [7d 8d]
+Thelittle200: mucks hand
+b00ma collected $1973.00 from pot
+*** SUMMARY ***
+Total pot $1976.00 | Rake $3.00
+Board [7c 2h Jc 2s Kh]
+Seat 1: b00ma (small blind) showed [7d 8d] and won ($1973.00)
+Seat 2: Thelittle200 (big blind) mucked
+Seat 3: TaurusM00n folded before Flop (didn't bet)
+Seat 4: J0hnMcclean folded before Flop (didn't bet)
+Seat 6: oneplusone (button) folded before Flop (didn't bet)
+
+PokerStars Hand #1520678315:  Hold'em No Limit ($50.00/$100.00 USD) - 2023/01/13 19:13:42 ET
+Table 'WPN_Jetmore' 6-max Seat #1 is the button
+Seat 1: b00ma ($5035.00 in chips)
+Seat 2: Thelittle200 ($4000.00 in chips)
+Seat 4: J0hnMcclean ($10000.00 in chips)
+Seat 5: nutsforme100 ($10000.00 in chips)
+Seat 6: oneplusone ($12753.25 in chips)
+Thelittle200: posts small blind $50.00
+J0hnMcclean: posts big blind $100.00
+*** HOLE CARDS ***
+oneplusone: raises $150.00 to $250.00
+b00ma: folds
+Thelittle200: folds
+J0hnMcclean: folds
+Uncalled bet ($150.00) returned to oneplusone
+oneplusone collected $250.00 from pot
+oneplusone: doesn't show hand
+*** SUMMARY ***
+Total pot $250.00 | Rake $0.00
+Seat 1: b00ma (button) folded before Flop (didn't bet)
+Seat 2: Thelittle200 (small blind) folded before Flop
+Seat 4: J0hnMcclean (big blind) folded before Flop
+Seat 6: oneplusone collected ($250.00)
+
+PokerStars Hand #1520678519:  Hold'em No Limit ($50.00/$100.00 USD) - 2023/01/13 19:13:53 ET
+Table 'WPN_Jetmore' 6-max Seat #2 is the button
+Seat 1: b00ma ($5035.00 in chips)
+Seat 2: Thelittle200 ($4000.00 in chips)
+Seat 4: J0hnMcclean ($9900.00 in chips)
+Seat 5: nutsforme100 ($10000.00 in chips)
+Seat 6: oneplusone ($12903.25 in chips)
+J0hnMcclean: posts small blind $50.00
+nutsforme100: posts big blind $100.00
+*** HOLE CARDS ***
+oneplusone: folds
+b00ma: folds
+Thelittle200: raises $150.00 to $250.00
+J0hnMcclean: folds
+nutsforme100: folds
+Uncalled bet ($150.00) returned to Thelittle200
+Thelittle200 collected $250.00 from pot
+Thelittle200: doesn't show hand
+*** SUMMARY ***
+Total pot $250.00 | Rake $0.00
+Seat 1: b00ma folded before Flop (didn't bet)
+Seat 2: Thelittle200 (button) collected ($250.00)
+Seat 4: J0hnMcclean (small blind) folded before Flop
+Seat 5: nutsforme100 (big blind) folded before Flop
+Seat 6: oneplusone folded before Flop (didn't bet)
+
+PokerStars Hand #1520678803:  Hold'em No Limit ($50.00/$100.00 USD) - 2023/01/13 19:14:07 ET
+Table 'WPN_Jetmore' 6-max Seat #4 is the button
+Seat 1: b00ma ($5035.00 in chips)
+Seat 2: Thelittle200 ($4150.00 in chips)
+Seat 4: J0hnMcclean ($9850.00 in chips)
+Seat 5: nutsforme100 ($9900.00 in chips)
+Seat 6: oneplusone ($12903.25 in chips)
+nutsforme100: posts small blind $50.00
+oneplusone: posts big blind $100.00
+*** HOLE CARDS ***
+b00ma: folds
+Thelittle200: folds
+J0hnMcclean: folds
+nutsforme100: raises $150.00 to $250.00
+oneplusone: calls $150.00
+*** FLOP *** [3d Tc 8s]
+nutsforme100: bets $250.00
+oneplusone: folds
+Uncalled bet ($250.00) returned to nutsforme100
+nutsforme100 collected $497.00 from pot
+nutsforme100: doesn't show hand
+*** SUMMARY ***
+Total pot $500.00 | Rake $3.00
+Board [3d Tc 8s]
+Seat 1: b00ma folded before Flop (didn't bet)
+Seat 2: Thelittle200 folded before Flop (didn't bet)
+Seat 4: J0hnMcclean (button) folded before Flop (didn't bet)
+Seat 5: nutsforme100 (small blind) collected ($497.00)
+Seat 6: oneplusone (big blind) folded on the Flop
+
+PokerStars Hand #1520679612:  Hold'em No Limit ($50.00/$100.00 USD) - 2023/01/13 19:14:49 ET
+Table 'WPN_Jetmore' 6-max Seat #5 is the button
+Seat 2: Thelittle200 ($4150.00 in chips)
+Seat 4: J0hnMcclean ($9850.00 in chips)
+Seat 5: nutsforme100 ($10247.00 in chips)
+Seat 6: oneplusone ($12653.25 in chips)
+oneplusone: posts small blind $50.00
+J0hnMcclean: posts big blind $100.00
+*** HOLE CARDS ***
+nutsforme100: raises $150.00 to $250.00
+oneplusone: raises $850.00 to $1100.00
+J0hnMcclean: folds
+nutsforme100: calls $850.00
+*** FLOP *** [8s Qd 8c]
+oneplusone: checks
+nutsforme100: checks
+*** TURN *** [8s Qd 8c] [Ks]
+oneplusone: bets $575.00
+nutsforme100: calls $575.00
+*** RIVER *** [8s Qd 8c Ks] [Kh]
+oneplusone: bets $2277.00
+nutsforme100: folds
+Uncalled bet ($2277.00) returned to oneplusone
+oneplusone collected $3448.25 from pot
+oneplusone: doesn't show hand
+*** SUMMARY ***
+Total pot $3450.00 | Rake $1.75
+Board [8s Qd 8c Ks Kh]
+Seat 4: J0hnMcclean (big blind) folded before Flop
+Seat 5: nutsforme100 (button) folded on the River
+Seat 6: oneplusone (small blind) collected ($3448.25)
+
+PokerStars Hand #1520680978:  Hold'em No Limit ($50.00/$100.00 USD) - 2023/01/13 19:16:01 ET
+Table 'WPN_Jetmore' 6-max Seat #4 is the button
+Seat 4: J0hnMcclean ($9750.00 in chips)
+Seat 6: oneplusone ($14426.50 in chips)
+J0hnMcclean: posts small blind $50.00
+oneplusone: posts big blind $100.00
+*** HOLE CARDS ***
+J0hnMcclean: raises $150.00 to $250.00
+oneplusone: calls $150.00
+*** FLOP *** [5h Qd 9c]
+oneplusone: checks
+J0hnMcclean: bets $300.00
+oneplusone: calls $300.00
+*** TURN *** [5h Qd 9c] [9s]
+oneplusone: checks
+J0hnMcclean: bets $1100.00
+oneplusone: folds
+Uncalled bet ($1100.00) returned to J0hnMcclean
+J0hnMcclean collected $1098.75 from pot
+J0hnMcclean: doesn't show hand
+*** SUMMARY ***
+Total pot $1100.00 | Rake $1.25
+Board [5h Qd 9c 9s]
+Seat 4: J0hnMcclean (button) (small blind) collected ($1098.75)
+Seat 6: oneplusone (big blind) folded on the Turn
+
+PokerStars Hand #1520682240:  Hold'em No Limit ($50.00/$100.00 USD) - 2023/01/13 19:17:08 ET
+Table 'WPN_Jetmore' 6-max Seat #6 is the button
+Seat 4: J0hnMcclean ($10298.75 in chips)
+Seat 6: oneplusone ($13876.50 in chips)
+oneplusone: posts small blind $50.00
+J0hnMcclean: posts big blind $100.00
+*** HOLE CARDS ***
+oneplusone: raises $150.00 to $250.00
+J0hnMcclean: calls $150.00
+*** FLOP *** [3s Tc As]
+J0hnMcclean: checks
+oneplusone: bets $165.00
+J0hnMcclean: calls $165.00
+*** TURN *** [3s Tc As] [Qh]
+J0hnMcclean: checks
+oneplusone: checks
+*** RIVER *** [3s Tc As Qh] [Kh]
+J0hnMcclean: checks
+oneplusone: checks
+*** SHOW DOWN ***
+oneplusone: shows [Qc 8h]
+J0hnMcclean: mucks hand
+oneplusone collected $828.75 from pot
+*** SUMMARY ***
+Total pot $830.00 | Rake $1.25
+Board [3s Tc As Qh Kh]
+Seat 4: J0hnMcclean (big blind) mucked
+Seat 6: oneplusone (button) (small blind) showed [Qc 8h] and won ($828.75)
+
+PokerStars Hand #1520683280:  Hold'em No Limit ($50.00/$100.00 USD) - 2023/01/13 19:18:02 ET
+Table 'WPN_Jetmore' 6-max Seat #4 is the button
+Seat 4: J0hnMcclean ($9883.75 in chips)
+Seat 6: oneplusone ($14290.25 in chips)
+J0hnMcclean: posts small blind $50.00
+oneplusone: posts big blind $100.00
+*** HOLE CARDS ***
+J0hnMcclean: raises $150.00 to $250.00
+oneplusone: calls $150.00
+*** FLOP *** [Jc Kh 3s]
+oneplusone: checks
+J0hnMcclean: bets $125.00
+oneplusone: folds
+Uncalled bet ($125.00) returned to J0hnMcclean
+J0hnMcclean collected $498.75 from pot
+J0hnMcclean: doesn't show hand
+*** SUMMARY ***
+Total pot $500.00 | Rake $1.25
+Board [Jc Kh 3s]
+Seat 4: J0hnMcclean (button) (small blind) collected ($498.75)
+Seat 6: oneplusone (big blind) folded on the Flop
+
+PokerStars Hand #1520399767:  Hold'em No Limit ($50.00/$100.00 USD) - 2023/01/13 11:32:35 ET
+Table 'WPN_Westcliffe' 6-max Seat #5 is the button
+Seat 2: 7SkyAroundMe ($13409.18 in chips)
+Seat 5: JohnMcShen ($12610.82 in chips)
+JohnMcShen: posts small blind $50.00
+7SkyAroundMe: posts big blind $100.00
+*** HOLE CARDS ***
+JohnMcShen: raises $150.00 to $250.00
+7SkyAroundMe: folds
+Uncalled bet ($150.00) returned to JohnMcShen
+JohnMcShen collected $200.00 from pot
+JohnMcShen: doesn't show hand
+*** SUMMARY ***
+Total pot $200.00 | Rake $0.00
+Seat 2: 7SkyAroundMe (big blind) folded before Flop
+Seat 5: JohnMcShen (button) (small blind) collected ($200.00)
+
+PokerStars Hand #1520399860:  Hold'em No Limit ($50.00/$100.00 USD) - 2023/01/13 11:32:54 ET
+Table 'WPN_Westcliffe' 6-max Seat #2 is the button
+Seat 2: 7SkyAroundMe ($13309.18 in chips)
+Seat 5: JohnMcShen ($12710.82 in chips)
+7SkyAroundMe: posts small blind $50.00
+JohnMcShen: posts big blind $100.00
+*** HOLE CARDS ***
+7SkyAroundMe: raises $150.00 to $250.00
+JohnMcShen: folds
+Uncalled bet ($150.00) returned to 7SkyAroundMe
+7SkyAroundMe collected $200.00 from pot
+7SkyAroundMe: doesn't show hand
+*** SUMMARY ***
+Total pot $200.00 | Rake $0.00
+Seat 2: 7SkyAroundMe (button) (small blind) collected ($200.00)
+Seat 5: JohnMcShen (big blind) folded before Flop
+
+PokerStars Hand #1520399737:  Hold'em No Limit ($50.00/$100.00 USD) - 2023/01/13 11:32:45 ET
+Table 'WPN_Avon Park' 6-max Seat #5 is the button
+Seat 2: 7SkyAroundMe ($14407.62 in chips)
+Seat 5: JohnMcShen ($10382.72 in chips)
+Seat 6: rigggedeck ($2253.44 in chips)
+7SkyAroundMe: posts the ante $500.00
+JohnMcShen: posts the ante $500.00
+rigggedeck: posts the ante $500.00
+*** HOLE CARDS ***
+*** FLOP *** [Kd 2d 2c]
+rigggedeck: checks
+7SkyAroundMe: checks
+JohnMcShen: bets $375.00
+rigggedeck: folds
+7SkyAroundMe: calls $375.00
+*** TURN *** [Kd 2d 2c] [7c]
+7SkyAroundMe: checks
+JohnMcShen: checks
+*** RIVER *** [Kd 2d 2c 7c] [Tc]
+7SkyAroundMe: checks
+JohnMcShen: checks
+*** SHOW DOWN ***
+7SkyAroundMe: shows [Td 7d]
+JohnMcShen: mucks hand
+7SkyAroundMe collected $2248.25 from pot
+*** SUMMARY ***
+Total pot $2250.00 | Rake $1.75
+Board [Kd 2d 2c 7c Tc]
+Seat 2: 7SkyAroundMe showed [Td 7d] and won ($2248.25)
+Seat 5: JohnMcShen (button) mucked
+Seat 6: rigggedeck folded on the Flop
+
+PokerStars Hand #1520399957:  Hold'em No Limit ($50.00/$100.00 USD) - 2023/01/13 11:33:11 ET
+Table 'WPN_Westcliffe' 6-max Seat #5 is the button
+Seat 2: 7SkyAroundMe ($13409.18 in chips)
+Seat 5: JohnMcShen ($12610.82 in chips)
+JohnMcShen: posts small blind $50.00
+7SkyAroundMe: posts big blind $100.00
+*** HOLE CARDS ***
+JohnMcShen: raises $150.00 to $250.00
+7SkyAroundMe: calls $150.00
+*** FLOP *** [Th Jd 9h]
+7SkyAroundMe: checks
+JohnMcShen: bets $375.00
+7SkyAroundMe: folds
+Uncalled bet ($375.00) returned to JohnMcShen
+JohnMcShen collected $498.75 from pot
+JohnMcShen: doesn't show hand
+*** SUMMARY ***
+Total pot $500.00 | Rake $1.25
+Board [Th Jd 9h]
+Seat 2: 7SkyAroundMe (big blind) folded on the Flop
+Seat 5: JohnMcShen (button) (small blind) collected ($498.75)
+
+PokerStars Hand #1520400150:  Hold'em No Limit ($50.00/$100.00 USD) - 2023/01/13 11:33:49 ET
+Table 'WPN_Avon Park' 6-max Seat #2 is the button
+Seat 2: 7SkyAroundMe ($15780.87 in chips)
+Seat 5: JohnMcShen ($10000.00 in chips)
+Seat 6: rigggedeck ($1753.44 in chips)
+JohnMcShen: posts small blind $50.00
+rigggedeck: posts big blind $100.00
+*** HOLE CARDS ***
+7SkyAroundMe: folds
+JohnMcShen: raises $150.00 to $250.00
+rigggedeck: raises $1503.44 to $1753.44 and is all-in
+JohnMcShen: calls $1503.44
+*** FIRST FLOP *** [5c Js Jh]
+*** FIRST TURN *** [5c Js Jh] [Ks]
+*** FIRST RIVER *** [5c Js Jh Ks] [9h]
+*** SECOND FLOP *** [9d Kh 7h]
+*** SECOND TURN *** [9d Kh 7h] [9c]
+*** SECOND RIVER *** [9d Kh 7h 9c] [9s]
+*** FIRST SHOW DOWN ***
+rigggedeck: shows [8s 8h]
+JohnMcShen: shows [Ad Td]
+rigggedeck collected $1752.57 from pot
+*** SECOND SHOW DOWN ***
+rigggedeck: shows [8s 8h]
+JohnMcShen: shows [Ad Td]
+rigggedeck collected $1752.56 from pot
+*** SUMMARY ***
+Total pot $3506.88 | Rake $1.75
+Hand was run twice
+FIRST Board [5c Js Jh Ks 9h]
+SECOND Board [9d Kh 7h 9c 9s]
+Seat 2: 7SkyAroundMe (button) folded before Flop (didn't bet)
+Seat 5: JohnMcShen (small blind) showed [Ad Td] and lost, and lost
+Seat 6: rigggedeck (big blind) showed [8s 8h] and won ($1752.57), and won ($1752.56)
+
+PokerStars Hand #1520400354:  Hold'em No Limit ($50.00/$100.00 USD) - 2023/01/13 11:34:25 ET
+Table 'WPN_Avon Park' 6-max Seat #5 is the button
+Seat 2: 7SkyAroundMe ($15780.87 in chips)
+Seat 5: JohnMcShen ($10000.00 in chips)
+Seat 6: rigggedeck ($3505.13 in chips)
+rigggedeck: posts small blind $50.00
+7SkyAroundMe: posts big blind $100.00
+*** HOLE CARDS ***
+JohnMcShen: folds
+rigggedeck: raises $150.00 to $250.00
+7SkyAroundMe: raises $550.00 to $800.00
+rigggedeck: raises $2705.13 to $3505.13 and is all-in
+7SkyAroundMe: calls $2705.13
+*** FIRST FLOP *** [3s 7h 4d]
+*** FIRST TURN *** [3s 7h 4d] [2d]
+*** FIRST RIVER *** [3s 7h 4d 2d] [Qh]
+*** SECOND FLOP *** [2s Js Jh]
+*** SECOND TURN *** [2s Js Jh] [6c]
+*** SECOND RIVER *** [2s Js Jh 6c] [4s]
+*** FIRST SHOW DOWN ***
+rigggedeck: shows [Kh Kc]
+7SkyAroundMe: shows [Ad Qs]
+rigggedeck collected $3504.26 from pot
+*** SECOND SHOW DOWN ***
+rigggedeck: shows [Kh Kc]
+7SkyAroundMe: shows [Ad Qs]
+rigggedeck collected $3504.25 from pot
+*** SUMMARY ***
+Total pot $7010.26 | Rake $1.75
+Hand was run twice
+FIRST Board [3s 7h 4d 2d Qh]
+SECOND Board [2s Js Jh 6c 4s]
+Seat 2: 7SkyAroundMe (big blind) showed [Ad Qs] and lost, and lost
+Seat 5: JohnMcShen (button) folded before Flop (didn't bet)
+Seat 6: rigggedeck (small blind) showed [Kh Kc] and won ($3504.26), and won ($3504.25)
+
+PokerStars Hand #1520400612:  Hold'em No Limit ($50.00/$100.00 USD) - 2023/01/13 11:35:11 ET
+Table 'WPN_Avon Park' 6-max Seat #6 is the button
+Seat 2: 7SkyAroundMe ($12275.74 in chips)
+Seat 5: JohnMcShen ($10000.00 in chips)
+Seat 6: rigggedeck ($7008.51 in chips)
+7SkyAroundMe: posts small blind $50.00
+JohnMcShen: posts big blind $100.00
+*** HOLE CARDS ***
+rigggedeck: folds
+7SkyAroundMe: folds
+Uncalled bet ($50.00) returned to JohnMcShen
+JohnMcShen collected $100.00 from pot
+JohnMcShen: doesn't show hand
+*** SUMMARY ***
+Total pot $100.00 | Rake $0.00
+Seat 2: 7SkyAroundMe (small blind) folded before Flop
+Seat 5: JohnMcShen (big blind) collected ($100.00)
+Seat 6: rigggedeck (button) folded before Flop (didn't bet)
+
+PokerStars Hand #1520400169:  Hold'em No Limit ($50.00/$100.00 USD) - 2023/01/13 11:33:51 ET
+Table 'WPN_Westcliffe' 6-max Seat #2 is the button
+Seat 2: 7SkyAroundMe ($13159.18 in chips)
+Seat 5: JohnMcShen ($12859.57 in chips)
+7SkyAroundMe: posts small blind $50.00
+JohnMcShen: posts big blind $100.00
+*** HOLE CARDS ***
+7SkyAroundMe: raises $150.00 to $250.00
+JohnMcShen: calls $150.00
+*** FLOP *** [3s 5h Qc]
+JohnMcShen: checks
+7SkyAroundMe: bets $375.00
+JohnMcShen: calls $375.00
+*** TURN *** [3s 5h Qc] [4h]
+JohnMcShen: checks
+7SkyAroundMe: checks
+*** RIVER *** [3s 5h Qc 4h] [Qd]
+JohnMcShen: checks
+7SkyAroundMe: bets $825.00
+JohnMcShen: raises $3350.00 to $4175.00
+7SkyAroundMe: folds
+Uncalled bet ($3350.00) returned to JohnMcShen
+JohnMcShen collected $2898.75 from pot
+JohnMcShen: doesn't show hand
+*** SUMMARY ***
+Total pot $2900.00 | Rake $1.25
+Board [3s 5h Qc 4h Qd]
+Seat 2: 7SkyAroundMe (button) (small blind) folded on the River
+Seat 5: JohnMcShen (big blind) collected ($2898.75)
+
+PokerStars Hand #1520400694:  Hold'em No Limit ($50.00/$100.00 USD) - 2023/01/13 11:35:28 ET
+Table 'WPN_Avon Park' 6-max Seat #5 is the button
+Seat 2: 7SkyAroundMe ($12225.74 in chips)
+Seat 5: JohnMcShen ($10050.00 in chips)
+JohnMcShen: posts small blind $50.00
+7SkyAroundMe: posts big blind $100.00
+*** HOLE CARDS ***
+JohnMcShen: raises $150.00 to $250.00
+7SkyAroundMe: calls $150.00
+*** FLOP *** [Qc Jc Js]
+7SkyAroundMe: checks
+JohnMcShen: bets $165.00
+7SkyAroundMe: folds
+Uncalled bet ($165.00) returned to JohnMcShen
+JohnMcShen collected $498.75 from pot
+JohnMcShen: doesn't show hand
+*** SUMMARY ***
+Total pot $500.00 | Rake $1.25
+Board [Qc Jc Js]
+Seat 2: 7SkyAroundMe (big blind) folded on the Flop
+Seat 5: JohnMcShen (button) (small blind) collected ($498.75)
+
+PokerStars Hand #1520400715:  Hold'em No Limit ($50.00/$100.00 USD) - 2023/01/13 11:35:31 ET
+Table 'WPN_Westcliffe' 6-max Seat #5 is the button
+Seat 2: 7SkyAroundMe ($11709.18 in chips)
+Seat 5: JohnMcShen ($14308.32 in chips)
+JohnMcShen: posts small blind $50.00
+7SkyAroundMe: posts big blind $100.00
+*** HOLE CARDS ***
+JohnMcShen: raises $150.00 to $250.00
+7SkyAroundMe: calls $150.00
+*** FLOP *** [3s 6c 4c]
+7SkyAroundMe: checks
+JohnMcShen: checks
+*** TURN *** [3s 6c 4c] [5c]
+7SkyAroundMe: bets $125.00
+JohnMcShen: folds
+Uncalled bet ($125.00) returned to 7SkyAroundMe
+7SkyAroundMe collected $498.75 from pot
+7SkyAroundMe: doesn't show hand
+*** SUMMARY ***
+Total pot $500.00 | Rake $1.25
+Board [3s 6c 4c 5c]
+Seat 2: 7SkyAroundMe (big blind) collected ($498.75)
+Seat 5: JohnMcShen (button) (small blind) folded on the Turn
+
+PokerStars Hand #1520400880:  Hold'em No Limit ($50.00/$100.00 USD) - 2023/01/13 11:36:03 ET
+Table 'WPN_Avon Park' 6-max Seat #2 is the button
+Seat 2: 7SkyAroundMe ($11975.74 in chips)
+Seat 5: JohnMcShen ($10298.75 in chips)
+7SkyAroundMe: posts small blind $50.00
+JohnMcShen: posts big blind $100.00
+*** HOLE CARDS ***
+7SkyAroundMe: raises $150.00 to $250.00
+JohnMcShen: calls $150.00
+*** FLOP *** [9s 6c 3c]
+JohnMcShen: checks
+7SkyAroundMe: checks
+*** TURN *** [9s 6c 3c] [6d]
+JohnMcShen: checks
+7SkyAroundMe: checks
+*** RIVER *** [9s 6c 3c 6d] [9c]
+JohnMcShen: bets $750.00
+7SkyAroundMe: folds
+Uncalled bet ($750.00) returned to JohnMcShen
+JohnMcShen collected $498.75 from pot
+JohnMcShen: doesn't show hand
+*** SUMMARY ***
+Total pot $500.00 | Rake $1.25
+Board [9s 6c 3c 6d 9c]
+Seat 2: 7SkyAroundMe (button) (small blind) folded on the River
+Seat 5: JohnMcShen (big blind) collected ($498.75)
+
+PokerStars Hand #1520401262:  Hold'em No Limit ($50.00/$100.00 USD) - 2023/01/13 11:37:16 ET
+Table 'WPN_Avon Park' 6-max Seat #5 is the button
+Seat 2: 7SkyAroundMe ($11725.74 in chips)
+Seat 5: JohnMcShen ($10547.50 in chips)
+JohnMcShen: posts small blind $50.00
+7SkyAroundMe: posts big blind $100.00
+*** HOLE CARDS ***
+JohnMcShen: raises $150.00 to $250.00
+7SkyAroundMe: calls $150.00
+*** FLOP *** [7h 4d Jd]
+7SkyAroundMe: checks
+JohnMcShen: bets $250.00
+7SkyAroundMe: folds
+Uncalled bet ($250.00) returned to JohnMcShen
+JohnMcShen collected $498.75 from pot
+JohnMcShen: doesn't show hand
+*** SUMMARY ***
+Total pot $500.00 | Rake $1.25
+Board [7h 4d Jd]
+Seat 2: 7SkyAroundMe (big blind) folded on the Flop
+Seat 5: JohnMcShen (button) (small blind) collected ($498.75)
+
+PokerStars Hand #1520400921:  Hold'em No Limit ($50.00/$100.00 USD) - 2023/01/13 11:36:11 ET
+Table 'WPN_Westcliffe' 6-max Seat #2 is the button
+Seat 2: 7SkyAroundMe ($11957.93 in chips)
+Seat 5: JohnMcShen ($14058.32 in chips)
+7SkyAroundMe: posts small blind $50.00
+JohnMcShen: posts big blind $100.00
+*** HOLE CARDS ***
+7SkyAroundMe: raises $150.00 to $250.00
+JohnMcShen: calls $150.00
+*** FLOP *** [7h 4c 8s]
+JohnMcShen: checks
+7SkyAroundMe: bets $125.00
+JohnMcShen: calls $125.00
+*** TURN *** [7h 4c 8s] [Ks]
+JohnMcShen: checks
+7SkyAroundMe: checks
+*** RIVER *** [7h 4c 8s Ks] [2c]
+JohnMcShen: checks
+7SkyAroundMe: bets $562.50
+JohnMcShen: raises $2475.00 to $3037.50
+7SkyAroundMe: folds
+Uncalled bet ($2475.00) returned to JohnMcShen
+JohnMcShen collected $1873.75 from pot
+JohnMcShen: doesn't show hand
+*** SUMMARY ***
+Total pot $1875.00 | Rake $1.25
+Board [7h 4c 8s Ks 2c]
+Seat 2: 7SkyAroundMe (button) (small blind) folded on the River
+Seat 5: JohnMcShen (big blind) collected ($1873.75)
+
+PokerStars Hand #1520401459:  Hold'em No Limit ($50.00/$100.00 USD) - 2023/01/13 11:37:49 ET
+Table 'WPN_Avon Park' 6-max Seat #2 is the button
+Seat 2: 7SkyAroundMe ($11475.74 in chips)
+Seat 5: JohnMcShen ($10796.25 in chips)
+7SkyAroundMe: posts small blind $50.00
+JohnMcShen: posts big blind $100.00
+*** HOLE CARDS ***
+7SkyAroundMe: raises $150.00 to $250.00
+JohnMcShen: folds
+Uncalled bet ($150.00) returned to 7SkyAroundMe
+7SkyAroundMe collected $200.00 from pot
+7SkyAroundMe: doesn't show hand
+*** SUMMARY ***
+Total pot $200.00 | Rake $0.00
+Seat 2: 7SkyAroundMe (button) (small blind) collected ($200.00)
+Seat 5: JohnMcShen (big blind) folded before Flop
+
+PokerStars Hand #1520401543:  Hold'em No Limit ($50.00/$100.00 USD) - 2023/01/13 11:38:05 ET
+Table 'WPN_Westcliffe' 6-max Seat #5 is the button
+Seat 2: 7SkyAroundMe ($11020.43 in chips)
+Seat 5: JohnMcShen ($14994.57 in chips)
+JohnMcShen: posts small blind $50.00
+7SkyAroundMe: posts big blind $100.00
+*** HOLE CARDS ***
+JohnMcShen: raises $150.00 to $250.00
+7SkyAroundMe: folds
+Uncalled bet ($150.00) returned to JohnMcShen
+JohnMcShen collected $200.00 from pot
+JohnMcShen: doesn't show hand
+*** SUMMARY ***
+Total pot $200.00 | Rake $0.00
+Seat 2: 7SkyAroundMe (big blind) folded before Flop
+Seat 5: JohnMcShen (button) (small blind) collected ($200.00)
+
+PokerStars Hand #1520401551:  Hold'em No Limit ($50.00/$100.00 USD) - 2023/01/13 11:38:06 ET
+Table 'WPN_Avon Park' 6-max Seat #5 is the button
+Seat 2: 7SkyAroundMe ($11575.74 in chips)
+Seat 5: JohnMcShen ($10696.25 in chips)
+JohnMcShen: posts small blind $50.00
+7SkyAroundMe: posts big blind $100.00
+*** HOLE CARDS ***
+JohnMcShen: raises $150.00 to $250.00
+7SkyAroundMe: calls $150.00
+*** FLOP *** [5c 6d 9c]
+7SkyAroundMe: checks
+JohnMcShen: bets $375.00
+7SkyAroundMe: calls $375.00
+*** TURN *** [5c 6d 9c] [5h]
+7SkyAroundMe: checks
+JohnMcShen: bets $937.50
+7SkyAroundMe: calls $937.50
+*** RIVER *** [5c 6d 9c 5h] [Td]
+7SkyAroundMe: checks
+JohnMcShen: checks
+*** SHOW DOWN ***
+JohnMcShen: shows [9h 7s]
+7SkyAroundMe: mucks hand
+JohnMcShen collected $3123.75 from pot
+*** SUMMARY ***
+Total pot $3125.00 | Rake $1.25
+Board [5c 6d 9c 5h Td]
+Seat 2: 7SkyAroundMe (big blind) mucked
+Seat 5: JohnMcShen (button) (small blind) showed [9h 7s] and won ($3123.75)
+
+PokerStars Hand #1520401898:  Hold'em No Limit ($50.00/$100.00 USD) - 2023/01/13 11:39:11 ET
+Table 'WPN_Avon Park' 6-max Seat #2 is the button
+Seat 2: 7SkyAroundMe ($10013.24 in chips)
+Seat 5: JohnMcShen ($12257.50 in chips)
+7SkyAroundMe: posts small blind $50.00
+JohnMcShen: posts big blind $100.00
+*** HOLE CARDS ***
+7SkyAroundMe: folds
+Uncalled bet ($50.00) returned to JohnMcShen
+JohnMcShen collected $100.00 from pot
+JohnMcShen: doesn't show hand
+*** SUMMARY ***
+Total pot $100.00 | Rake $0.00
+Seat 2: 7SkyAroundMe (button) (small blind) folded before Flop
+Seat 5: JohnMcShen (big blind) collected ($100.00)
+
+PokerStars Hand #1520401634:  Hold'em No Limit ($50.00/$100.00 USD) - 2023/01/13 11:38:20 ET
+Table 'WPN_Westcliffe' 6-max Seat #2 is the button
+Seat 2: 7SkyAroundMe ($10920.43 in chips)
+Seat 5: JohnMcShen ($15094.57 in chips)
+7SkyAroundMe: posts small blind $50.00
+JohnMcShen: posts big blind $100.00
+*** HOLE CARDS ***
+7SkyAroundMe: raises $150.00 to $250.00
+JohnMcShen: calls $150.00
+*** FLOP *** [8h 4c 3s]
+JohnMcShen: checks
+7SkyAroundMe: bets $500.00
+JohnMcShen: calls $500.00
+*** TURN *** [8h 4c 3s] [Qd]
+JohnMcShen: checks
+7SkyAroundMe: checks
+*** RIVER *** [8h 4c 3s Qd] [Ac]
+JohnMcShen: checks
+7SkyAroundMe: checks
+*** SHOW DOWN ***
+7SkyAroundMe: shows [Ts 4s]
+JohnMcShen: mucks hand
+7SkyAroundMe collected $1498.75 from pot
+*** SUMMARY ***
+Total pot $1500.00 | Rake $1.25
+Board [8h 4c 3s Qd Ac]
+Seat 2: 7SkyAroundMe (button) (small blind) showed [Ts 4s] and won ($1498.75)
+Seat 5: JohnMcShen (big blind) mucked
+
+PokerStars Hand #1520401965:  Hold'em No Limit ($50.00/$100.00 USD) - 2023/01/13 11:39:23 ET
+Table 'WPN_Avon Park' 6-max Seat #5 is the button
+Seat 2: 7SkyAroundMe ($9963.24 in chips)
+Seat 5: JohnMcShen ($12307.50 in chips)
+JohnMcShen: posts small blind $50.00
+7SkyAroundMe: posts big blind $100.00
+*** HOLE CARDS ***
+JohnMcShen: raises $150.00 to $250.00
+7SkyAroundMe: calls $150.00
+*** FLOP *** [Ad 4d Ac]
+7SkyAroundMe: checks
+JohnMcShen: bets $165.00
+7SkyAroundMe: folds
+Uncalled bet ($165.00) returned to JohnMcShen
+JohnMcShen collected $498.75 from pot
+JohnMcShen: doesn't show hand
+*** SUMMARY ***
+Total pot $500.00 | Rake $1.25
+Board [Ad 4d Ac]
+Seat 2: 7SkyAroundMe (big blind) folded on the Flop
+Seat 5: JohnMcShen (button) (small blind) collected ($498.75)
+
+PokerStars Hand #1520402144:  Hold'em No Limit ($50.00/$100.00 USD) - 2023/01/13 11:39:57 ET
+Table 'WPN_Avon Park' 6-max Seat #2 is the button
+Seat 2: 7SkyAroundMe ($9750.00 in chips)
+Seat 5: JohnMcShen ($12556.25 in chips)
+7SkyAroundMe: posts small blind $50.00
+JohnMcShen: posts big blind $100.00
+*** HOLE CARDS ***
+7SkyAroundMe: raises $150.00 to $250.00
+JohnMcShen: folds
+Uncalled bet ($150.00) returned to 7SkyAroundMe
+7SkyAroundMe collected $200.00 from pot
+7SkyAroundMe: doesn't show hand
+*** SUMMARY ***
+Total pot $200.00 | Rake $0.00
+Seat 2: 7SkyAroundMe (button) (small blind) collected ($200.00)
+Seat 5: JohnMcShen (big blind) folded before Flop
+
+PokerStars Hand #1520402003:  Hold'em No Limit ($50.00/$100.00 USD) - 2023/01/13 11:39:30 ET
+Table 'WPN_Westcliffe' 6-max Seat #5 is the button
+Seat 2: 7SkyAroundMe ($11669.18 in chips)
+Seat 5: JohnMcShen ($14344.57 in chips)
+JohnMcShen: posts small blind $50.00
+7SkyAroundMe: posts big blind $100.00
+*** HOLE CARDS ***
+JohnMcShen: raises $150.00 to $250.00
+7SkyAroundMe: calls $150.00
+*** FLOP *** [Kc Qs 4c]
+7SkyAroundMe: checks
+JohnMcShen: bets $165.00
+7SkyAroundMe: calls $165.00
+*** TURN *** [Kc Qs 4c] [4h]
+7SkyAroundMe: checks
+JohnMcShen: checks
+*** RIVER *** [Kc Qs 4c 4h] [Ks]
+7SkyAroundMe: checks
+JohnMcShen: checks
+*** SHOW DOWN ***
+7SkyAroundMe: shows [Ad 6c]
+JohnMcShen: mucks hand
+7SkyAroundMe collected $828.75 from pot
+*** SUMMARY ***
+Total pot $830.00 | Rake $1.25
+Board [Kc Qs 4c 4h Ks]
+Seat 2: 7SkyAroundMe (big blind) showed [Ad 6c] and won ($828.75)
+Seat 5: JohnMcShen (button) (small blind) mucked
+
+PokerStars Hand #1520402320:  Hold'em No Limit ($50.00/$100.00 USD) - 2023/01/13 11:40:30 ET
+Table 'WPN_Westcliffe' 6-max Seat #2 is the button
+Seat 2: 7SkyAroundMe ($12082.93 in chips)
+Seat 5: JohnMcShen ($13929.57 in chips)
+7SkyAroundMe: posts small blind $50.00
+JohnMcShen: posts big blind $100.00
+*** HOLE CARDS ***
+7SkyAroundMe: raises $150.00 to $250.00
+JohnMcShen: folds
+Uncalled bet ($150.00) returned to 7SkyAroundMe
+7SkyAroundMe collected $200.00 from pot
+7SkyAroundMe: doesn't show hand
+*** SUMMARY ***
+Total pot $200.00 | Rake $0.00
+Seat 2: 7SkyAroundMe (button) (small blind) collected ($200.00)
+Seat 5: JohnMcShen (big blind) folded before Flop
+
+PokerStars Hand #1520402240:  Hold'em No Limit ($50.00/$100.00 USD) - 2023/01/13 11:40:15 ET
+Table 'WPN_Avon Park' 6-max Seat #5 is the button
+Seat 2: 7SkyAroundMe ($10100.00 in chips)
+Seat 5: JohnMcShen ($12456.25 in chips)
+JohnMcShen: posts small blind $50.00
+7SkyAroundMe: posts big blind $100.00
+*** HOLE CARDS ***
+JohnMcShen: raises $150.00 to $250.00
+7SkyAroundMe: calls $150.00
+*** FLOP *** [6d Qh As]
+7SkyAroundMe: checks
+JohnMcShen: bets $165.00
+7SkyAroundMe: calls $165.00
+*** TURN *** [6d Qh As] [8c]
+7SkyAroundMe: checks
+JohnMcShen: checks
+*** RIVER *** [6d Qh As 8c] [6h]
+7SkyAroundMe: checks
+JohnMcShen: checks
+*** SHOW DOWN ***
+7SkyAroundMe: shows [Ah 4c]
+JohnMcShen: mucks hand
+7SkyAroundMe collected $828.75 from pot
+*** SUMMARY ***
+Total pot $830.00 | Rake $1.25
+Board [6d Qh As 8c 6h]
+Seat 2: 7SkyAroundMe (big blind) showed [Ah 4c] and won ($828.75)
+Seat 5: JohnMcShen (button) (small blind) mucked
+
+PokerStars Hand #1520402410:  Hold'em No Limit ($50.00/$100.00 USD) - 2023/01/13 11:40:45 ET
+Table 'WPN_Westcliffe' 6-max Seat #5 is the button
+Seat 2: 7SkyAroundMe ($12182.93 in chips)
+Seat 5: JohnMcShen ($13829.57 in chips)
+JohnMcShen: posts small blind $50.00
+7SkyAroundMe: posts big blind $100.00
+*** HOLE CARDS ***
+JohnMcShen: raises $150.00 to $250.00
+7SkyAroundMe: calls $150.00
+*** FLOP *** [5h 9c 6h]
+7SkyAroundMe: checks
+JohnMcShen: checks
+*** TURN *** [5h 9c 6h] [7c]
+7SkyAroundMe: checks
+JohnMcShen: checks
+*** RIVER *** [5h 9c 6h 7c] [3h]
+7SkyAroundMe: bets $375.00
+JohnMcShen: calls $375.00
+*** SHOW DOWN ***
+7SkyAroundMe: shows [4s Ah]
+JohnMcShen: mucks hand
+7SkyAroundMe collected $1248.75 from pot
+*** SUMMARY ***
+Total pot $1250.00 | Rake $1.25
+Board [5h 9c 6h 7c 3h]
+Seat 2: 7SkyAroundMe (big blind) showed [4s Ah] and won ($1248.75)
+Seat 5: JohnMcShen (button) (small blind) mucked
+
+PokerStars Hand #1520402740:  Hold'em No Limit ($50.00/$100.00 USD) - 2023/01/13 11:41:45 ET
+Table 'WPN_Westcliffe' 6-max Seat #2 is the button
+Seat 2: 7SkyAroundMe ($12806.68 in chips)
+Seat 5: JohnMcShen ($13204.57 in chips)
+7SkyAroundMe: posts small blind $50.00
+JohnMcShen: posts big blind $100.00
+*** HOLE CARDS ***
+7SkyAroundMe: raises $150.00 to $250.00
+JohnMcShen: folds
+Uncalled bet ($150.00) returned to 7SkyAroundMe
+7SkyAroundMe collected $200.00 from pot
+7SkyAroundMe: doesn't show hand
+*** SUMMARY ***
+Total pot $200.00 | Rake $0.00
+Seat 2: 7SkyAroundMe (button) (small blind) collected ($200.00)
+Seat 5: JohnMcShen (big blind) folded before Flop
+
+PokerStars Hand #1520402568:  Hold'em No Limit ($50.00/$100.00 USD) - 2023/01/13 11:41:16 ET
+Table 'WPN_Avon Park' 6-max Seat #2 is the button
+Seat 2: 7SkyAroundMe ($10513.75 in chips)
+Seat 5: JohnMcShen ($12041.25 in chips)
+7SkyAroundMe: posts small blind $50.00
+JohnMcShen: posts big blind $100.00
+*** HOLE CARDS ***
+7SkyAroundMe: raises $150.00 to $250.00
+JohnMcShen: calls $150.00
+*** FLOP *** [As 8h 7d]
+JohnMcShen: checks
+7SkyAroundMe: bets $375.00
+JohnMcShen: calls $375.00
+*** TURN *** [As 8h 7d] [3h]
+JohnMcShen: checks
+7SkyAroundMe: bets $1248.00
+JohnMcShen: folds
+Uncalled bet ($1248.00) returned to 7SkyAroundMe
+7SkyAroundMe collected $1248.75 from pot
+7SkyAroundMe: doesn't show hand
+*** SUMMARY ***
+Total pot $1250.00 | Rake $1.25
+Board [As 8h 7d 3h]
+Seat 2: 7SkyAroundMe (button) (small blind) collected ($1248.75)
+Seat 5: JohnMcShen (big blind) folded on the Turn
+
+PokerStars Hand #1520402888:  Hold'em No Limit ($50.00/$100.00 USD) - 2023/01/13 11:42:11 ET
+Table 'WPN_Westcliffe' 6-max Seat #5 is the button
+Seat 2: 7SkyAroundMe ($12906.68 in chips)
+Seat 5: JohnMcShen ($13104.57 in chips)
+JohnMcShen: posts small blind $50.00
+7SkyAroundMe: posts big blind $100.00
+*** HOLE CARDS ***
+JohnMcShen: raises $150.00 to $250.00
+7SkyAroundMe: calls $150.00
+*** FLOP *** [2s Kd Tc]
+7SkyAroundMe: checks
+JohnMcShen: bets $165.00
+7SkyAroundMe: folds
+Uncalled bet ($165.00) returned to JohnMcShen
+JohnMcShen collected $498.75 from pot
+JohnMcShen: doesn't show hand
+*** SUMMARY ***
+Total pot $500.00 | Rake $1.25
+Board [2s Kd Tc]
+Seat 2: 7SkyAroundMe (big blind) folded on the Flop
+Seat 5: JohnMcShen (button) (small blind) collected ($498.75)
+
+PokerStars Hand #1520403104:  Hold'em No Limit ($50.00/$100.00 USD) - 2023/01/13 11:42:53 ET
+Table 'WPN_Westcliffe' 6-max Seat #2 is the button
+Seat 2: 7SkyAroundMe ($12656.68 in chips)
+Seat 5: JohnMcShen ($13353.32 in chips)
+7SkyAroundMe: posts small blind $50.00
+JohnMcShen: posts big blind $100.00
+*** HOLE CARDS ***
+7SkyAroundMe: raises $150.00 to $250.00
+JohnMcShen: folds
+Uncalled bet ($150.00) returned to 7SkyAroundMe
+7SkyAroundMe collected $200.00 from pot
+7SkyAroundMe: doesn't show hand
+*** SUMMARY ***
+Total pot $200.00 | Rake $0.00
+Seat 2: 7SkyAroundMe (button) (small blind) collected ($200.00)
+Seat 5: JohnMcShen (big blind) folded before Flop
+
+PokerStars Hand #1520402936:  Hold'em No Limit ($50.00/$100.00 USD) - 2023/01/13 11:42:20 ET
+Table 'WPN_Avon Park' 6-max Seat #5 is the button
+Seat 2: 7SkyAroundMe ($11137.50 in chips)
+Seat 5: JohnMcShen ($11416.25 in chips)
+JohnMcShen: posts small blind $50.00
+7SkyAroundMe: posts big blind $100.00
+*** HOLE CARDS ***
+JohnMcShen: raises $150.00 to $250.00
+7SkyAroundMe: calls $150.00
+*** FLOP *** [5d Kc Jh]
+7SkyAroundMe: checks
+JohnMcShen: bets $165.00
+7SkyAroundMe: raises $419.00 to $584.00
+JohnMcShen: calls $419.00
+*** TURN *** [5d Kc Jh] [2d]
+7SkyAroundMe: bets $1666.00
+JohnMcShen: folds
+Uncalled bet ($1666.00) returned to 7SkyAroundMe
+7SkyAroundMe collected $1666.75 from pot
+7SkyAroundMe: doesn't show hand
+*** SUMMARY ***
+Total pot $1668.00 | Rake $1.25
+Board [5d Kc Jh 2d]
+Seat 2: 7SkyAroundMe (big blind) collected ($1666.75)
+Seat 5: JohnMcShen (button) (small blind) folded on the Turn
+
+PokerStars Hand #1520403208:  Hold'em No Limit ($50.00/$100.00 USD) - 2023/01/13 11:43:13 ET
+Table 'WPN_Westcliffe' 6-max Seat #5 is the button
+Seat 2: 7SkyAroundMe ($12756.68 in chips)
+Seat 5: JohnMcShen ($13253.32 in chips)
+JohnMcShen: posts small blind $50.00
+7SkyAroundMe: posts big blind $100.00
+*** HOLE CARDS ***
+JohnMcShen: raises $150.00 to $250.00
+7SkyAroundMe: folds
+Uncalled bet ($150.00) returned to JohnMcShen
+JohnMcShen collected $200.00 from pot
+JohnMcShen: doesn't show hand
+*** SUMMARY ***
+Total pot $200.00 | Rake $0.00
+Seat 2: 7SkyAroundMe (big blind) folded before Flop
+Seat 5: JohnMcShen (button) (small blind) collected ($200.00)
+
+PokerStars Hand #1520403279:  Hold'em No Limit ($50.00/$100.00 USD) - 2023/01/13 11:43:27 ET
+Table 'WPN_Westcliffe' 6-max Seat #2 is the button
+Seat 2: 7SkyAroundMe ($12656.68 in chips)
+Seat 5: JohnMcShen ($13353.32 in chips)
+7SkyAroundMe: posts small blind $50.00
+JohnMcShen: posts big blind $100.00
+*** HOLE CARDS ***
+7SkyAroundMe: folds
+Uncalled bet ($50.00) returned to JohnMcShen
+JohnMcShen collected $100.00 from pot
+JohnMcShen: doesn't show hand
+*** SUMMARY ***
+Total pot $100.00 | Rake $0.00
+Seat 2: 7SkyAroundMe (button) (small blind) folded before Flop
+Seat 5: JohnMcShen (big blind) collected ($100.00)
+
+PokerStars Hand #1520403276:  Hold'em No Limit ($50.00/$100.00 USD) - 2023/01/13 11:43:26 ET
+Table 'WPN_Avon Park' 6-max Seat #2 is the button
+Seat 2: 7SkyAroundMe ($11970.25 in chips)
+Seat 5: JohnMcShen ($10582.25 in chips)
+7SkyAroundMe: posts small blind $50.00
+JohnMcShen: posts big blind $100.00
+*** HOLE CARDS ***
+7SkyAroundMe: folds
+Uncalled bet ($50.00) returned to JohnMcShen
+JohnMcShen collected $100.00 from pot
+JohnMcShen: doesn't show hand
+*** SUMMARY ***
+Total pot $100.00 | Rake $0.00
+Seat 2: 7SkyAroundMe (button) (small blind) folded before Flop
+Seat 5: JohnMcShen (big blind) collected ($100.00)
+
+PokerStars Hand #1520403362:  Hold'em No Limit ($50.00/$100.00 USD) - 2023/01/13 11:43:42 ET
+Table 'WPN_Avon Park' 6-max Seat #5 is the button
+Seat 2: 7SkyAroundMe ($11920.25 in chips)
+Seat 5: JohnMcShen ($10632.25 in chips)
+JohnMcShen: posts small blind $50.00
+7SkyAroundMe: posts big blind $100.00
+*** HOLE CARDS ***
+JohnMcShen: raises $150.00 to $250.00
+7SkyAroundMe: calls $150.00
+*** FLOP *** [5c 7h 3c]
+7SkyAroundMe: checks
+JohnMcShen: bets $375.00
+7SkyAroundMe: folds
+Uncalled bet ($375.00) returned to JohnMcShen
+JohnMcShen collected $498.75 from pot
+JohnMcShen: doesn't show hand
+*** SUMMARY ***
+Total pot $500.00 | Rake $1.25
+Board [5c 7h 3c]
+Seat 2: 7SkyAroundMe (big blind) folded on the Flop
+Seat 5: JohnMcShen (button) (small blind) collected ($498.75)
+
+PokerStars Hand #1520403604:  Hold'em No Limit ($50.00/$100.00 USD) - 2023/01/13 11:44:26 ET
+Table 'WPN_Avon Park' 6-max Seat #2 is the button
+Seat 2: 7SkyAroundMe ($11670.25 in chips)
+Seat 5: JohnMcShen ($10881.00 in chips)
+7SkyAroundMe: posts small blind $50.00
+JohnMcShen: posts big blind $100.00
+*** HOLE CARDS ***
+7SkyAroundMe: folds
+Uncalled bet ($50.00) returned to JohnMcShen
+JohnMcShen collected $100.00 from pot
+JohnMcShen: doesn't show hand
+*** SUMMARY ***
+Total pot $100.00 | Rake $0.00
+Seat 2: 7SkyAroundMe (button) (small blind) folded before Flop
+Seat 5: JohnMcShen (big blind) collected ($100.00)
+
+PokerStars Hand #1520403347:  Hold'em No Limit ($50.00/$100.00 USD) - 2023/01/13 11:43:39 ET
+Table 'WPN_Westcliffe' 6-max Seat #5 is the button
+Seat 2: 7SkyAroundMe ($12606.68 in chips)
+Seat 5: JohnMcShen ($13403.32 in chips)
+JohnMcShen: posts small blind $50.00
+7SkyAroundMe: posts big blind $100.00
+*** HOLE CARDS ***
+JohnMcShen: raises $150.00 to $250.00
+7SkyAroundMe: raises $950.00 to $1200.00
+JohnMcShen: calls $950.00
+*** FLOP *** [3h 3d 5h]
+7SkyAroundMe: bets $792.00
+JohnMcShen: raises $1514.72 to $2306.72
+7SkyAroundMe: folds
+Uncalled bet ($1514.72) returned to JohnMcShen
+JohnMcShen collected $3982.75 from pot
+JohnMcShen: doesn't show hand
+*** SUMMARY ***
+Total pot $3984.00 | Rake $1.25
+Board [3h 3d 5h]
+Seat 2: 7SkyAroundMe (big blind) folded on the Flop
+Seat 5: JohnMcShen (button) (small blind) collected ($3982.75)
+
+PokerStars Hand #1520403662:  Hold'em No Limit ($50.00/$100.00 USD) - 2023/01/13 11:44:37 ET
+Table 'WPN_Avon Park' 6-max Seat #5 is the button
+Seat 2: 7SkyAroundMe ($11620.25 in chips)
+Seat 5: JohnMcShen ($10931.00 in chips)
+JohnMcShen: posts small blind $50.00
+7SkyAroundMe: posts big blind $100.00
+*** HOLE CARDS ***
+JohnMcShen: raises $150.00 to $250.00
+7SkyAroundMe: calls $150.00
+*** FLOP *** [Qd 7h Js]
+7SkyAroundMe: checks
+JohnMcShen: bets $165.00
+7SkyAroundMe: folds
+Uncalled bet ($165.00) returned to JohnMcShen
+JohnMcShen collected $498.75 from pot
+JohnMcShen: doesn't show hand
+*** SUMMARY ***
+Total pot $500.00 | Rake $1.25
+Board [Qd 7h Js]
+Seat 2: 7SkyAroundMe (big blind) folded on the Flop
+Seat 5: JohnMcShen (button) (small blind) collected ($498.75)
+
+PokerStars Hand #1520403759:  Hold'em No Limit ($50.00/$100.00 USD) - 2023/01/13 11:44:57 ET
+Table 'WPN_Westcliffe' 6-max Seat #2 is the button
+Seat 2: 7SkyAroundMe ($10614.68 in chips)
+Seat 5: JohnMcShen ($15394.07 in chips)
+7SkyAroundMe: posts small blind $50.00
+JohnMcShen: posts big blind $100.00
+*** HOLE CARDS ***
+7SkyAroundMe: raises $150.00 to $250.00
+JohnMcShen: folds
+Uncalled bet ($150.00) returned to 7SkyAroundMe
+7SkyAroundMe collected $200.00 from pot
+7SkyAroundMe: doesn't show hand
+*** SUMMARY ***
+Total pot $200.00 | Rake $0.00
+Seat 2: 7SkyAroundMe (button) (small blind) collected ($200.00)
+Seat 5: JohnMcShen (big blind) folded before Flop
+
+PokerStars Hand #1520403841:  Hold'em No Limit ($50.00/$100.00 USD) - 2023/01/13 11:45:10 ET
+Table 'WPN_Avon Park' 6-max Seat #2 is the button
+Seat 2: 7SkyAroundMe ($11370.25 in chips)
+Seat 5: JohnMcShen ($11179.75 in chips)
+7SkyAroundMe: posts small blind $50.00
+JohnMcShen: posts big blind $100.00
+*** HOLE CARDS ***
+7SkyAroundMe: raises $150.00 to $250.00
+JohnMcShen: folds
+Uncalled bet ($150.00) returned to 7SkyAroundMe
+7SkyAroundMe collected $200.00 from pot
+7SkyAroundMe: doesn't show hand
+*** SUMMARY ***
+Total pot $200.00 | Rake $0.00
+Seat 2: 7SkyAroundMe (button) (small blind) collected ($200.00)
+Seat 5: JohnMcShen (big blind) folded before Flop
+
+PokerStars Hand #1520403930:  Hold'em No Limit ($50.00/$100.00 USD) - 2023/01/13 11:45:26 ET
+Table 'WPN_Avon Park' 6-max Seat #5 is the button
+Seat 2: 7SkyAroundMe ($11470.25 in chips)
+Seat 5: JohnMcShen ($11079.75 in chips)
+JohnMcShen: posts small blind $50.00
+7SkyAroundMe: posts big blind $100.00
+*** HOLE CARDS ***
+JohnMcShen: folds
+Uncalled bet ($50.00) returned to 7SkyAroundMe
+7SkyAroundMe collected $100.00 from pot
+7SkyAroundMe: doesn't show hand
+*** SUMMARY ***
+Total pot $100.00 | Rake $0.00
+Seat 2: 7SkyAroundMe (big blind) collected ($100.00)
+Seat 5: JohnMcShen (button) (small blind) folded before Flop
+
+PokerStars Hand #1520403983:  Hold'em No Limit ($50.00/$100.00 USD) - 2023/01/13 11:45:37 ET
+Table 'WPN_Avon Park' 6-max Seat #2 is the button
+Seat 2: 7SkyAroundMe ($11520.25 in chips)
+Seat 5: JohnMcShen ($11029.75 in chips)
+7SkyAroundMe: posts small blind $50.00
+JohnMcShen: posts big blind $100.00
+*** HOLE CARDS ***
+7SkyAroundMe: raises $150.00 to $250.00
+JohnMcShen: folds
+Uncalled bet ($150.00) returned to 7SkyAroundMe
+7SkyAroundMe collected $200.00 from pot
+7SkyAroundMe: doesn't show hand
+*** SUMMARY ***
+Total pot $200.00 | Rake $0.00
+Seat 2: 7SkyAroundMe (button) (small blind) collected ($200.00)
+Seat 5: JohnMcShen (big blind) folded before Flop
+
+PokerStars Hand #1520403842:  Hold'em No Limit ($50.00/$100.00 USD) - 2023/01/13 11:45:11 ET
+Table 'WPN_Westcliffe' 6-max Seat #5 is the button
+Seat 2: 7SkyAroundMe ($10714.68 in chips)
+Seat 5: JohnMcShen ($15294.07 in chips)
+JohnMcShen: posts small blind $50.00
+7SkyAroundMe: posts big blind $100.00
+*** HOLE CARDS ***
+JohnMcShen: raises $150.00 to $250.00
+7SkyAroundMe: calls $150.00
+*** FLOP *** [2c 8c 3c]
+7SkyAroundMe: checks
+JohnMcShen: checks
+*** TURN *** [2c 8c 3c] [Jh]
+7SkyAroundMe: checks
+JohnMcShen: checks
+*** RIVER *** [2c 8c 3c Jh] [Td]
+7SkyAroundMe: checks
+JohnMcShen: bets $375.00
+7SkyAroundMe: folds
+Uncalled bet ($375.00) returned to JohnMcShen
+JohnMcShen collected $498.75 from pot
+JohnMcShen: doesn't show hand
+*** SUMMARY ***
+Total pot $500.00 | Rake $1.25
+Board [2c 8c 3c Jh Td]
+Seat 2: 7SkyAroundMe (big blind) folded on the River
+Seat 5: JohnMcShen (button) (small blind) collected ($498.75)
+
+PokerStars Hand #1520404108:  Hold'em No Limit ($50.00/$100.00 USD) - 2023/01/13 11:46:02 ET
+Table 'WPN_Westcliffe' 6-max Seat #2 is the button
+Seat 2: 7SkyAroundMe ($10464.68 in chips)
+Seat 5: JohnMcShen ($15542.82 in chips)
+7SkyAroundMe: posts small blind $50.00
+JohnMcShen: posts big blind $100.00
+*** HOLE CARDS ***
+7SkyAroundMe: folds
+Uncalled bet ($50.00) returned to JohnMcShen
+JohnMcShen collected $100.00 from pot
+JohnMcShen: doesn't show hand
+*** SUMMARY ***
+Total pot $100.00 | Rake $0.00
+Seat 2: 7SkyAroundMe (button) (small blind) folded before Flop
+Seat 5: JohnMcShen (big blind) collected ($100.00)
+
+PokerStars Hand #1520404077:  Hold'em No Limit ($50.00/$100.00 USD) - 2023/01/13 11:45:55 ET
+Table 'WPN_Avon Park' 6-max Seat #5 is the button
+Seat 2: 7SkyAroundMe ($11620.25 in chips)
+Seat 5: JohnMcShen ($10929.75 in chips)
+JohnMcShen: posts small blind $50.00
+7SkyAroundMe: posts big blind $100.00
+*** HOLE CARDS ***
+JohnMcShen: raises $150.00 to $250.00
+7SkyAroundMe: raises $850.00 to $1100.00
+JohnMcShen: folds
+Uncalled bet ($850.00) returned to 7SkyAroundMe
+7SkyAroundMe collected $500.00 from pot
+7SkyAroundMe: doesn't show hand
+*** SUMMARY ***
+Total pot $500.00 | Rake $0.00
+Seat 2: 7SkyAroundMe (big blind) collected ($500.00)
+Seat 5: JohnMcShen (button) (small blind) folded before Flop
+
+PokerStars Hand #1520404180:  Hold'em No Limit ($50.00/$100.00 USD) - 2023/01/13 11:46:16 ET
+Table 'WPN_Westcliffe' 6-max Seat #5 is the button
+Seat 2: 7SkyAroundMe ($10414.68 in chips)
+Seat 5: JohnMcShen ($15592.82 in chips)
+JohnMcShen: posts small blind $50.00
+7SkyAroundMe: posts big blind $100.00
+*** HOLE CARDS ***
+JohnMcShen: raises $150.00 to $250.00
+7SkyAroundMe: folds
+Uncalled bet ($150.00) returned to JohnMcShen
+JohnMcShen collected $200.00 from pot
+JohnMcShen: doesn't show hand
+*** SUMMARY ***
+Total pot $200.00 | Rake $0.00
+Seat 2: 7SkyAroundMe (big blind) folded before Flop
+Seat 5: JohnMcShen (button) (small blind) collected ($200.00)
+
+PokerStars Hand #1520404272:  Hold'em No Limit ($50.00/$100.00 USD) - 2023/01/13 11:46:33 ET
+Table 'WPN_Westcliffe' 6-max Seat #2 is the button
+Seat 2: 7SkyAroundMe ($10314.68 in chips)
+Seat 5: JohnMcShen ($15692.82 in chips)
+7SkyAroundMe: posts small blind $50.00
+JohnMcShen: posts big blind $100.00
+*** HOLE CARDS ***
+7SkyAroundMe: raises $150.00 to $250.00
+JohnMcShen: calls $150.00
+*** FLOP *** [5s 2c Tc]
+JohnMcShen: checks
+7SkyAroundMe: bets $500.00
+JohnMcShen: folds
+Uncalled bet ($500.00) returned to 7SkyAroundMe
+7SkyAroundMe collected $498.75 from pot
+7SkyAroundMe: doesn't show hand
+*** SUMMARY ***
+Total pot $500.00 | Rake $1.25
+Board [5s 2c Tc]
+Seat 2: 7SkyAroundMe (button) (small blind) collected ($498.75)
+Seat 5: JohnMcShen (big blind) folded on the Flop
+
+PokerStars Hand #1520404460:  Hold'em No Limit ($50.00/$100.00 USD) - 2023/01/13 11:47:09 ET
+Table 'WPN_Westcliffe' 6-max Seat #5 is the button
+Seat 2: 7SkyAroundMe ($10563.43 in chips)
+Seat 5: JohnMcShen ($15442.82 in chips)
+JohnMcShen: posts small blind $50.00
+7SkyAroundMe: posts big blind $100.00
+*** HOLE CARDS ***
+JohnMcShen: raises $150.00 to $250.00
+7SkyAroundMe: folds
+Uncalled bet ($150.00) returned to JohnMcShen
+JohnMcShen collected $200.00 from pot
+JohnMcShen: doesn't show hand
+*** SUMMARY ***
+Total pot $200.00 | Rake $0.00
+Seat 2: 7SkyAroundMe (big blind) folded before Flop
+Seat 5: JohnMcShen (button) (small blind) collected ($200.00)
+
+PokerStars Hand #1520404198:  Hold'em No Limit ($50.00/$100.00 USD) - 2023/01/13 11:46:18 ET
+Table 'WPN_Avon Park' 6-max Seat #2 is the button
+Seat 2: 7SkyAroundMe ($11870.25 in chips)
+Seat 5: JohnMcShen ($10679.75 in chips)
+7SkyAroundMe: posts small blind $50.00
+JohnMcShen: posts big blind $100.00
+*** HOLE CARDS ***
+7SkyAroundMe: raises $150.00 to $250.00
+JohnMcShen: calls $150.00
+*** FLOP *** [5s 6h 4h]
+JohnMcShen: checks
+7SkyAroundMe: checks
+*** TURN *** [5s 6h 4h] [Th]
+JohnMcShen: checks
+7SkyAroundMe: checks
+*** RIVER *** [5s 6h 4h Th] [Qh]
+JohnMcShen: checks
+7SkyAroundMe: bets $200.00
+JohnMcShen: raises $900.00 to $1100.00
+7SkyAroundMe: calls $900.00
+*** SHOW DOWN ***
+JohnMcShen: shows [Kh 6d]
+7SkyAroundMe: mucks hand
+JohnMcShen collected $2698.75 from pot
+*** SUMMARY ***
+Total pot $2700.00 | Rake $1.25
+Board [5s 6h 4h Th Qh]
+Seat 2: 7SkyAroundMe (button) (small blind) mucked
+Seat 5: JohnMcShen (big blind) showed [Kh 6d] and won ($2698.75)
+
+PokerStars Hand #1520404555:  Hold'em No Limit ($50.00/$100.00 USD) - 2023/01/13 11:47:24 ET
+Table 'WPN_Westcliffe' 6-max Seat #2 is the button
+Seat 2: 7SkyAroundMe ($10463.43 in chips)
+Seat 5: JohnMcShen ($15542.82 in chips)
+7SkyAroundMe: posts small blind $50.00
+JohnMcShen: posts big blind $100.00
+*** HOLE CARDS ***
+7SkyAroundMe: raises $150.00 to $250.00
+JohnMcShen: calls $150.00
+*** FLOP *** [As Ad 9s]
+JohnMcShen: checks
+7SkyAroundMe: checks
+*** TURN *** [As Ad 9s] [Ts]
+JohnMcShen: checks
+7SkyAroundMe: checks
+*** RIVER *** [As Ad 9s Ts] [3d]
+JohnMcShen: bets $375.00
+7SkyAroundMe: calls $375.00
+*** SHOW DOWN ***
+7SkyAroundMe: shows [3s Kd]
+JohnMcShen: mucks hand
+7SkyAroundMe collected $1248.75 from pot
+*** SUMMARY ***
+Total pot $1250.00 | Rake $1.25
+Board [As Ad 9s Ts 3d]
+Seat 2: 7SkyAroundMe (button) (small blind) showed [3s Kd] and won ($1248.75)
+Seat 5: JohnMcShen (big blind) mucked
+
+PokerStars Hand #1520404820:  Hold'em No Limit ($50.00/$100.00 USD) - 2023/01/13 11:48:12 ET
+Table 'WPN_Westcliffe' 6-max Seat #5 is the button
+Seat 2: 7SkyAroundMe ($11087.18 in chips)
+Seat 5: JohnMcShen ($14917.82 in chips)
+JohnMcShen: posts small blind $50.00
+7SkyAroundMe: posts big blind $100.00
+*** HOLE CARDS ***
+JohnMcShen: raises $150.00 to $250.00
+7SkyAroundMe: raises $650.00 to $900.00
+JohnMcShen: calls $650.00
+*** FLOP *** [7d Th 3h]
+7SkyAroundMe: bets $594.00
+JohnMcShen: raises $1494.00 to $2088.00
+7SkyAroundMe: folds
+Uncalled bet ($1494.00) returned to JohnMcShen
+JohnMcShen collected $2986.75 from pot
+JohnMcShen: doesn't show hand
+*** SUMMARY ***
+Total pot $2988.00 | Rake $1.25
+Board [7d Th 3h]
+Seat 2: 7SkyAroundMe (big blind) folded on the Flop
+Seat 5: JohnMcShen (button) (small blind) collected ($2986.75)
+
+PokerStars Hand #1520404632:  Hold'em No Limit ($50.00/$100.00 USD) - 2023/01/13 11:47:37 ET
+Table 'WPN_Avon Park' 6-max Seat #5 is the button
+Seat 2: 7SkyAroundMe ($10520.25 in chips)
+Seat 5: JohnMcShen ($12028.50 in chips)
+JohnMcShen: posts small blind $50.00
+7SkyAroundMe: posts big blind $100.00
+*** HOLE CARDS ***
+JohnMcShen: raises $150.00 to $250.00
+7SkyAroundMe: raises $850.00 to $1100.00
+JohnMcShen: calls $850.00
+*** FLOP *** [4s Tc 8c]
+7SkyAroundMe: checks
+JohnMcShen: checks
+*** TURN *** [4s Tc 8c] [7c]
+7SkyAroundMe: checks
+JohnMcShen: checks
+*** RIVER *** [4s Tc 8c 7c] [3c]
+7SkyAroundMe: checks
+JohnMcShen: bets $1650.00
+7SkyAroundMe: folds
+Uncalled bet ($1650.00) returned to JohnMcShen
+JohnMcShen collected $2198.75 from pot
+JohnMcShen: doesn't show hand
+*** SUMMARY ***
+Total pot $2200.00 | Rake $1.25
+Board [4s Tc 8c 7c 3c]
+Seat 2: 7SkyAroundMe (big blind) folded on the River
+Seat 5: JohnMcShen (button) (small blind) collected ($2198.75)
+
+PokerStars Hand #1520405202:  Hold'em No Limit ($50.00/$100.00 USD) - 2023/01/13 11:49:21 ET
+Table 'WPN_Westcliffe' 6-max Seat #2 is the button
+Seat 2: 7SkyAroundMe ($9593.18 in chips)
+Seat 5: JohnMcShen ($16410.57 in chips)
+7SkyAroundMe: posts small blind $50.00
+JohnMcShen: posts big blind $100.00
+*** HOLE CARDS ***
+7SkyAroundMe: raises $150.00 to $250.00
+JohnMcShen: raises $800.00 to $1050.00
+7SkyAroundMe: folds
+Uncalled bet ($800.00) returned to JohnMcShen
+JohnMcShen collected $500.00 from pot
+JohnMcShen: doesn't show hand
+*** SUMMARY ***
+Total pot $500.00 | Rake $0.00
+Seat 2: 7SkyAroundMe (button) (small blind) folded before Flop
+Seat 5: JohnMcShen (big blind) collected ($500.00)
+
+PokerStars Hand #1520405210:  Hold'em No Limit ($50.00/$100.00 USD) - 2023/01/13 11:49:23 ET
+Table 'WPN_Avon Park' 6-max Seat #2 is the button
+Seat 2: 7SkyAroundMe ($9420.25 in chips)
+Seat 5: JohnMcShen ($13127.25 in chips)
+7SkyAroundMe: posts small blind $50.00
+JohnMcShen: posts big blind $100.00
+*** HOLE CARDS ***
+7SkyAroundMe: raises $150.00 to $250.00
+JohnMcShen: calls $150.00
+*** FLOP *** [4c 5h 8d]
+JohnMcShen: checks
+7SkyAroundMe: checks
+*** TURN *** [4c 5h 8d] [5s]
+JohnMcShen: checks
+7SkyAroundMe: checks
+*** RIVER *** [4c 5h 8d 5s] [6h]
+JohnMcShen: checks
+7SkyAroundMe: checks
+*** SHOW DOWN ***
+JohnMcShen: shows [2h Ad]
+7SkyAroundMe: mucks hand
+JohnMcShen collected $498.75 from pot
+*** SUMMARY ***
+Total pot $500.00 | Rake $1.25
+Board [4c 5h 8d 5s 6h]
+Seat 2: 7SkyAroundMe (button) (small blind) mucked
+Seat 5: JohnMcShen (big blind) showed [2h Ad] and won ($498.75)
+
+PokerStars Hand #1520405392:  Hold'em No Limit ($50.00/$100.00 USD) - 2023/01/13 11:49:56 ET
+Table 'WPN_Westcliffe' 6-max Seat #5 is the button
+Seat 2: 7SkyAroundMe ($9750.00 in chips)
+Seat 5: JohnMcShen ($16660.57 in chips)
+JohnMcShen: posts small blind $50.00
+7SkyAroundMe: posts big blind $100.00
+*** HOLE CARDS ***
+JohnMcShen: raises $150.00 to $250.00
+7SkyAroundMe: calls $150.00
+*** FLOP *** [8s 4s Qc]
+7SkyAroundMe: checks
+JohnMcShen: checks
+*** TURN *** [8s 4s Qc] [2h]
+7SkyAroundMe: bets $750.00
+JohnMcShen: folds
+Uncalled bet ($750.00) returned to 7SkyAroundMe
+7SkyAroundMe collected $498.75 from pot
+7SkyAroundMe: doesn't show hand
+*** SUMMARY ***
+Total pot $500.00 | Rake $1.25
+Board [8s 4s Qc 2h]
+Seat 2: 7SkyAroundMe (big blind) collected ($498.75)
+Seat 5: JohnMcShen (button) (small blind) folded on the Turn
+
+PokerStars Hand #1520405610:  Hold'em No Limit ($50.00/$100.00 USD) - 2023/01/13 11:50:35 ET
+Table 'WPN_Avon Park' 6-max Seat #5 is the button
+Seat 2: 7SkyAroundMe ($10000.00 in chips)
+Seat 5: JohnMcShen ($13376.00 in chips)
+JohnMcShen: posts small blind $50.00
+7SkyAroundMe: posts big blind $100.00
+*** HOLE CARDS ***
+JohnMcShen: raises $150.00 to $250.00
+7SkyAroundMe: calls $150.00
+*** FLOP *** [4c 5s Kc]
+7SkyAroundMe: checks
+JohnMcShen: checks
+*** TURN *** [4c 5s Kc] [4h]
+7SkyAroundMe: checks
+JohnMcShen: bets $250.00
+7SkyAroundMe: folds
+Uncalled bet ($250.00) returned to JohnMcShen
+JohnMcShen collected $498.75 from pot
+JohnMcShen: doesn't show hand
+*** SUMMARY ***
+Total pot $500.00 | Rake $1.25
+Board [4c 5s Kc 4h]
+Seat 2: 7SkyAroundMe (big blind) folded on the Turn
+Seat 5: JohnMcShen (button) (small blind) collected ($498.75)
+
+PokerStars Hand #1520405872:  Hold'em No Limit ($50.00/$100.00 USD) - 2023/01/13 11:51:23 ET
+Table 'WPN_Avon Park' 6-max Seat #2 is the button
+Seat 2: 7SkyAroundMe ($9750.00 in chips)
+Seat 5: JohnMcShen ($13624.75 in chips)
+7SkyAroundMe: posts small blind $50.00
+JohnMcShen: posts big blind $100.00
+*** HOLE CARDS ***
+7SkyAroundMe: raises $150.00 to $250.00
+JohnMcShen: raises $800.00 to $1050.00
+7SkyAroundMe: folds
+Uncalled bet ($800.00) returned to JohnMcShen
+JohnMcShen collected $500.00 from pot
+JohnMcShen: doesn't show hand
+*** SUMMARY ***
+Total pot $500.00 | Rake $0.00
+Seat 2: 7SkyAroundMe (button) (small blind) folded before Flop
+Seat 5: JohnMcShen (big blind) collected ($500.00)
+
+PokerStars Hand #1520405655:  Hold'em No Limit ($50.00/$100.00 USD) - 2023/01/13 11:50:44 ET
+Table 'WPN_Westcliffe' 6-max Seat #2 is the button
+Seat 2: 7SkyAroundMe ($10248.75 in chips)
+Seat 5: JohnMcShen ($16410.57 in chips)
+7SkyAroundMe: posts small blind $50.00
+JohnMcShen: posts big blind $100.00
+*** HOLE CARDS ***
+7SkyAroundMe: raises $150.00 to $250.00
+JohnMcShen: calls $150.00
+*** FLOP *** [2s Qh 3s]
+JohnMcShen: checks
+7SkyAroundMe: bets $375.00
+JohnMcShen: calls $375.00
+*** TURN *** [2s Qh 3s] [Ks]
+JohnMcShen: checks
+7SkyAroundMe: bets $937.50
+JohnMcShen: calls $937.50
+*** RIVER *** [2s Qh 3s Ks] [3d]
+JohnMcShen: checks
+7SkyAroundMe: checks
+*** SHOW DOWN ***
+JohnMcShen: shows [Qs 7d]
+7SkyAroundMe: mucks hand
+JohnMcShen collected $3123.75 from pot
+*** SUMMARY ***
+Total pot $3125.00 | Rake $1.25
+Board [2s Qh 3s Ks 3d]
+Seat 2: 7SkyAroundMe (button) (small blind) mucked
+Seat 5: JohnMcShen (big blind) showed [Qs 7d] and won ($3123.75)
+
+PokerStars Hand #1520405990:  Hold'em No Limit ($50.00/$100.00 USD) - 2023/01/13 11:51:46 ET
+Table 'WPN_Avon Park' 6-max Seat #5 is the button
+Seat 2: 7SkyAroundMe ($9750.00 in chips)
+Seat 5: JohnMcShen ($13874.75 in chips)
+JohnMcShen: posts small blind $50.00
+7SkyAroundMe: posts big blind $100.00
+*** HOLE CARDS ***
+JohnMcShen: raises $150.00 to $250.00
+7SkyAroundMe: folds
+Uncalled bet ($150.00) returned to JohnMcShen
+JohnMcShen collected $200.00 from pot
+JohnMcShen: doesn't show hand
+*** SUMMARY ***
+Total pot $200.00 | Rake $0.00
+Seat 2: 7SkyAroundMe (big blind) folded before Flop
+Seat 5: JohnMcShen (button) (small blind) collected ($200.00)
+
+PokerStars Hand #1520406044:  Hold'em No Limit ($50.00/$100.00 USD) - 2023/01/13 11:51:55 ET
+Table 'WPN_Westcliffe' 6-max Seat #5 is the button
+Seat 2: 7SkyAroundMe ($10000.00 in chips)
+Seat 5: JohnMcShen ($17971.82 in chips)
+JohnMcShen: posts small blind $50.00
+7SkyAroundMe: posts big blind $100.00
+*** HOLE CARDS ***
+JohnMcShen: raises $150.00 to $250.00
+7SkyAroundMe: folds
+Uncalled bet ($150.00) returned to JohnMcShen
+JohnMcShen collected $200.00 from pot
+JohnMcShen: doesn't show hand
+*** SUMMARY ***
+Total pot $200.00 | Rake $0.00
+Seat 2: 7SkyAroundMe (big blind) folded before Flop
+Seat 5: JohnMcShen (button) (small blind) collected ($200.00)
+
+PokerStars Hand #1520406068:  Hold'em No Limit ($50.00/$100.00 USD) - 2023/01/13 11:51:59 ET
+Table 'WPN_Avon Park' 6-max Seat #2 is the button
+Seat 2: 7SkyAroundMe ($9900.00 in chips)
+Seat 5: JohnMcShen ($13974.75 in chips)
+7SkyAroundMe: posts small blind $50.00
+JohnMcShen: posts big blind $100.00
+*** HOLE CARDS ***
+7SkyAroundMe: folds
+Uncalled bet ($50.00) returned to JohnMcShen
+JohnMcShen collected $100.00 from pot
+JohnMcShen: doesn't show hand
+*** SUMMARY ***
+Total pot $100.00 | Rake $0.00
+Seat 2: 7SkyAroundMe (button) (small blind) folded before Flop
+Seat 5: JohnMcShen (big blind) collected ($100.00)
+
+PokerStars Hand #1520406141:  Hold'em No Limit ($50.00/$100.00 USD) - 2023/01/13 11:52:15 ET
+Table 'WPN_Westcliffe' 6-max Seat #2 is the button
+Seat 2: 7SkyAroundMe ($9900.00 in chips)
+Seat 5: JohnMcShen ($18071.82 in chips)
+7SkyAroundMe: posts small blind $50.00
+JohnMcShen: posts big blind $100.00
+*** HOLE CARDS ***
+7SkyAroundMe: folds
+Uncalled bet ($50.00) returned to JohnMcShen
+JohnMcShen collected $100.00 from pot
+JohnMcShen: doesn't show hand
+*** SUMMARY ***
+Total pot $100.00 | Rake $0.00
+Seat 2: 7SkyAroundMe (button) (small blind) folded before Flop
+Seat 5: JohnMcShen (big blind) collected ($100.00)
+
+PokerStars Hand #1520406145:  Hold'em No Limit ($50.00/$100.00 USD) - 2023/01/13 11:52:15 ET
+Table 'WPN_Avon Park' 6-max Seat #5 is the button
+Seat 2: 7SkyAroundMe ($9950.00 in chips)
+Seat 5: JohnMcShen ($14024.75 in chips)
+JohnMcShen: posts small blind $50.00
+7SkyAroundMe: posts big blind $100.00
+*** HOLE CARDS ***
+JohnMcShen: raises $150.00 to $250.00
+7SkyAroundMe: calls $150.00
+*** FLOP *** [5d Qh 7s]
+7SkyAroundMe: checks
+JohnMcShen: checks
+*** TURN *** [5d Qh 7s] [Ac]
+7SkyAroundMe: bets $125.00
+JohnMcShen: calls $125.00
+*** RIVER *** [5d Qh 7s Ac] [2c]
+7SkyAroundMe: checks
+JohnMcShen: checks
+*** SHOW DOWN ***
+JohnMcShen: shows [Kh 6c]
+7SkyAroundMe: mucks hand
+JohnMcShen collected $748.75 from pot
+*** SUMMARY ***
+Total pot $750.00 | Rake $1.25
+Board [5d Qh 7s Ac 2c]
+Seat 2: 7SkyAroundMe (big blind) mucked
+Seat 5: JohnMcShen (button) (small blind) showed [Kh 6c] and won ($748.75)
+
+PokerStars Hand #1520406470:  Hold'em No Limit ($50.00/$100.00 USD) - 2023/01/13 11:53:17 ET
+Table 'WPN_Avon Park' 6-max Seat #2 is the button
+Seat 2: 7SkyAroundMe ($10000.00 in chips)
+Seat 5: JohnMcShen ($14398.50 in chips)
+7SkyAroundMe: posts small blind $50.00
+JohnMcShen: posts big blind $100.00
+*** HOLE CARDS ***
+7SkyAroundMe: raises $150.00 to $250.00
+JohnMcShen: folds
+Uncalled bet ($150.00) returned to 7SkyAroundMe
+7SkyAroundMe collected $200.00 from pot
+7SkyAroundMe: doesn't show hand
+*** SUMMARY ***
+Total pot $200.00 | Rake $0.00
+Seat 2: 7SkyAroundMe (button) (small blind) collected ($200.00)
+Seat 5: JohnMcShen (big blind) folded before Flop
+
+PokerStars Hand #1520406205:  Hold'em No Limit ($50.00/$100.00 USD) - 2023/01/13 11:52:26 ET
+Table 'WPN_Westcliffe' 6-max Seat #5 is the button
+Seat 2: 7SkyAroundMe ($9950.00 in chips)
+Seat 5: JohnMcShen ($18121.82 in chips)
+JohnMcShen: posts small blind $50.00
+7SkyAroundMe: posts big blind $100.00
+*** HOLE CARDS ***
+JohnMcShen: raises $150.00 to $250.00
+7SkyAroundMe: raises $850.00 to $1100.00
+JohnMcShen: calls $850.00
+*** FLOP *** [3c Kd 5h]
+7SkyAroundMe: bets $550.00
+JohnMcShen: calls $550.00
+*** TURN *** [3c Kd 5h] [8h]
+7SkyAroundMe: bets $3300.00
+JohnMcShen: folds
+Uncalled bet ($3300.00) returned to 7SkyAroundMe
+7SkyAroundMe collected $3298.75 from pot
+7SkyAroundMe: doesn't show hand
+*** SUMMARY ***
+Total pot $3300.00 | Rake $1.25
+Board [3c Kd 5h 8h]
+Seat 2: 7SkyAroundMe (big blind) collected ($3298.75)
+Seat 5: JohnMcShen (button) (small blind) folded on the Turn
+
+PokerStars Hand #1520406567:  Hold'em No Limit ($50.00/$100.00 USD) - 2023/01/13 11:53:36 ET
+Table 'WPN_Westcliffe' 6-max Seat #2 is the button
+Seat 2: 7SkyAroundMe ($11648.75 in chips)
+Seat 5: JohnMcShen ($16471.82 in chips)
+7SkyAroundMe: posts small blind $50.00
+JohnMcShen: posts big blind $100.00
+*** HOLE CARDS ***
+7SkyAroundMe: raises $150.00 to $250.00
+JohnMcShen: folds
+Uncalled bet ($150.00) returned to 7SkyAroundMe
+7SkyAroundMe collected $200.00 from pot
+7SkyAroundMe: doesn't show hand
+*** SUMMARY ***
+Total pot $200.00 | Rake $0.00
+Seat 2: 7SkyAroundMe (button) (small blind) collected ($200.00)
+Seat 5: JohnMcShen (big blind) folded before Flop
+
+PokerStars Hand #1520406636:  Hold'em No Limit ($50.00/$100.00 USD) - 2023/01/13 11:53:50 ET
+Table 'WPN_Westcliffe' 6-max Seat #5 is the button
+Seat 2: 7SkyAroundMe ($11748.75 in chips)
+Seat 5: JohnMcShen ($16371.82 in chips)
+JohnMcShen: posts small blind $50.00
+7SkyAroundMe: posts big blind $100.00
+*** HOLE CARDS ***
+JohnMcShen: raises $150.00 to $250.00
+7SkyAroundMe: raises $650.00 to $900.00
+JohnMcShen: calls $650.00
+*** FLOP *** [7c Tc 4d]
+7SkyAroundMe: bets $1800.00
+JohnMcShen: folds
+Uncalled bet ($1800.00) returned to 7SkyAroundMe
+7SkyAroundMe collected $1798.75 from pot
+7SkyAroundMe: doesn't show hand
+*** SUMMARY ***
+Total pot $1800.00 | Rake $1.25
+Board [7c Tc 4d]
+Seat 2: 7SkyAroundMe (big blind) collected ($1798.75)
+Seat 5: JohnMcShen (button) (small blind) folded on the Flop
+
+PokerStars Hand #1520406560:  Hold'em No Limit ($50.00/$100.00 USD) - 2023/01/13 11:53:35 ET
+Table 'WPN_Avon Park' 6-max Seat #5 is the button
+Seat 2: 7SkyAroundMe ($10100.00 in chips)
+Seat 5: JohnMcShen ($14298.50 in chips)
+JohnMcShen: posts small blind $50.00
+7SkyAroundMe: posts big blind $100.00
+*** HOLE CARDS ***
+JohnMcShen: raises $150.00 to $250.00
+7SkyAroundMe: raises $850.00 to $1100.00
+JohnMcShen: calls $850.00
+*** FLOP *** [5c 2s 5s]
+7SkyAroundMe: bets $726.00
+JohnMcShen: calls $726.00
+*** TURN *** [5c 2s 5s] [6s]
+7SkyAroundMe: checks
+JohnMcShen: checks
+*** RIVER *** [5c 2s 5s 6s] [5d]
+7SkyAroundMe: bets $8274.00 and is all-in
+JohnMcShen: folds
+Uncalled bet ($8274.00) returned to 7SkyAroundMe
+7SkyAroundMe collected $3650.75 from pot
+7SkyAroundMe: doesn't show hand
+*** SUMMARY ***
+Total pot $3652.00 | Rake $1.25
+Board [5c 2s 5s 6s 5d]
+Seat 2: 7SkyAroundMe (big blind) collected ($3650.75)
+Seat 5: JohnMcShen (button) (small blind) folded on the River
+
+PokerStars Hand #1520406906:  Hold'em No Limit ($50.00/$100.00 USD) - 2023/01/13 11:54:44 ET
+Table 'WPN_Westcliffe' 6-max Seat #2 is the button
+Seat 2: 7SkyAroundMe ($12647.50 in chips)
+Seat 5: JohnMcShen ($15471.82 in chips)
+7SkyAroundMe: posts small blind $50.00
+JohnMcShen: posts big blind $100.00
+*** HOLE CARDS ***
+7SkyAroundMe: raises $150.00 to $250.00
+JohnMcShen: calls $150.00
+*** FLOP *** [Ac 8c Jd]
+JohnMcShen: checks
+7SkyAroundMe: checks
+*** TURN *** [Ac 8c Jd] [5s]
+JohnMcShen: checks
+7SkyAroundMe: bets $750.00
+JohnMcShen: folds
+Uncalled bet ($750.00) returned to 7SkyAroundMe
+7SkyAroundMe collected $498.75 from pot
+7SkyAroundMe: doesn't show hand
+*** SUMMARY ***
+Total pot $500.00 | Rake $1.25
+Board [Ac 8c Jd 5s]
+Seat 2: 7SkyAroundMe (button) (small blind) collected ($498.75)
+Seat 5: JohnMcShen (big blind) folded on the Turn
+
+PokerStars Hand #1520406995:  Hold'em No Limit ($50.00/$100.00 USD) - 2023/01/13 11:55:18 ET
+Table 'WPN_Avon Park' 6-max Seat #5 is the button
+Seat 2: 7SkyAroundMe ($11924.75 in chips)
+Seat 5: JohnMcShen ($12472.50 in chips)
+7SkyAroundMe: posts the ante $500.00
+JohnMcShen: posts the ante $500.00
+*** HOLE CARDS ***
+*** FLOP *** [5c 7d 3c]
+7SkyAroundMe: checks
+JohnMcShen: checks
+*** TURN *** [5c 7d 3c] [Tc]
+7SkyAroundMe: bets $250.00
+JohnMcShen: raises $1125.00 to $1375.00
+7SkyAroundMe: folds
+Uncalled bet ($1125.00) returned to JohnMcShen
+JohnMcShen collected $1498.75 from pot
+JohnMcShen: doesn't show hand
+*** SUMMARY ***
+Total pot $1500.00 | Rake $1.25
+Board [5c 7d 3c Tc]
+Seat 2: 7SkyAroundMe folded on the Turn
+Seat 5: JohnMcShen (button) collected ($1498.75)
+
+PokerStars Hand #1520407104:  Hold'em No Limit ($50.00/$100.00 USD) - 2023/01/13 11:55:39 ET
+Table 'WPN_Westcliffe' 6-max Seat #5 is the button
+Seat 2: 7SkyAroundMe ($12896.25 in chips)
+Seat 5: JohnMcShen ($15221.82 in chips)
+JohnMcShen: posts small blind $50.00
+7SkyAroundMe: posts big blind $100.00
+*** HOLE CARDS ***
+JohnMcShen: raises $150.00 to $250.00
+7SkyAroundMe: calls $150.00
+*** FLOP *** [6s Jc 2h]
+7SkyAroundMe: checks
+JohnMcShen: bets $250.00
+7SkyAroundMe: calls $250.00
+*** TURN *** [6s Jc 2h] [Td]
+7SkyAroundMe: checks
+JohnMcShen: checks
+*** RIVER *** [6s Jc 2h Td] [8s]
+7SkyAroundMe: bets $750.00
+JohnMcShen: calls $750.00
+*** SHOW DOWN ***
+7SkyAroundMe: shows [8h Js]
+JohnMcShen: mucks hand
+7SkyAroundMe collected $2498.75 from pot
+*** SUMMARY ***
+Total pot $2500.00 | Rake $1.25
+Board [6s Jc 2h Td 8s]
+Seat 2: 7SkyAroundMe (big blind) showed [8h Js] and won ($2498.75)
+Seat 5: JohnMcShen (button) (small blind) mucked
+
+PokerStars Hand #1520407222:  Hold'em No Limit ($50.00/$100.00 USD) - 2023/01/13 11:56:18 ET
+Table 'WPN_Avon Park' 6-max Seat #2 is the button
+Seat 2: 7SkyAroundMe ($11174.75 in chips)
+Seat 5: JohnMcShen ($13221.25 in chips)
+7SkyAroundMe: posts small blind $50.00
+JohnMcShen: posts big blind $100.00
+*** HOLE CARDS ***
+7SkyAroundMe: raises $150.00 to $250.00
+JohnMcShen: calls $150.00
+*** FLOP *** [2s 3s Ad]
+JohnMcShen: checks
+7SkyAroundMe: checks
+*** TURN *** [2s 3s Ad] [3d]
+JohnMcShen: checks
+7SkyAroundMe: checks
+*** RIVER *** [2s 3s Ad 3d] [Th]
+JohnMcShen: bets $165.00
+7SkyAroundMe: calls $165.00
+*** SHOW DOWN ***
+JohnMcShen: shows [Tc 4c]
+7SkyAroundMe: mucks hand
+JohnMcShen collected $828.75 from pot
+*** SUMMARY ***
+Total pot $830.00 | Rake $1.25
+Board [2s 3s Ad 3d Th]
+Seat 2: 7SkyAroundMe (button) (small blind) mucked
+Seat 5: JohnMcShen (big blind) showed [Tc 4c] and won ($828.75)
+
+PokerStars Hand #1520407382:  Hold'em No Limit ($50.00/$100.00 USD) - 2023/01/13 11:57:10 ET
+Table 'WPN_Westcliffe' 6-max Seat #2 is the button
+Seat 2: 7SkyAroundMe ($14145.00 in chips)
+Seat 5: JohnMcShen ($13971.82 in chips)
+7SkyAroundMe: posts small blind $50.00
+JohnMcShen: posts big blind $100.00
+*** HOLE CARDS ***
+7SkyAroundMe: folds
+Uncalled bet ($50.00) returned to JohnMcShen
+JohnMcShen collected $100.00 from pot
+JohnMcShen: doesn't show hand
+*** SUMMARY ***
+Total pot $100.00 | Rake $0.00
+Seat 2: 7SkyAroundMe (button) (small blind) folded before Flop
+Seat 5: JohnMcShen (big blind) collected ($100.00)
+
+PokerStars Hand #1520407430:  Hold'em No Limit ($50.00/$100.00 USD) - 2023/01/13 11:57:27 ET
+Table 'WPN_Westcliffe' 6-max Seat #5 is the button
+Seat 2: 7SkyAroundMe ($14095.00 in chips)
+Seat 5: JohnMcShen ($14021.82 in chips)
+JohnMcShen: posts small blind $50.00
+7SkyAroundMe: posts big blind $100.00
+*** HOLE CARDS ***
+JohnMcShen: raises $150.00 to $250.00
+7SkyAroundMe: raises $650.00 to $900.00
+JohnMcShen: folds
+Uncalled bet ($650.00) returned to 7SkyAroundMe
+7SkyAroundMe collected $500.00 from pot
+7SkyAroundMe: doesn't show hand
+*** SUMMARY ***
+Total pot $500.00 | Rake $0.00
+Seat 2: 7SkyAroundMe (big blind) collected ($500.00)
+Seat 5: JohnMcShen (button) (small blind) folded before Flop
+
+PokerStars Hand #1520407500:  Hold'em No Limit ($50.00/$100.00 USD) - 2023/01/13 11:57:50 ET
+Table 'WPN_Westcliffe' 6-max Seat #2 is the button
+Seat 2: 7SkyAroundMe ($14345.00 in chips)
+Seat 5: JohnMcShen ($13771.82 in chips)
+7SkyAroundMe: posts small blind $50.00
+JohnMcShen: posts big blind $100.00
+*** HOLE CARDS ***
+7SkyAroundMe: raises $150.00 to $250.00
+JohnMcShen: raises $800.00 to $1050.00
+7SkyAroundMe: folds
+Uncalled bet ($800.00) returned to JohnMcShen
+JohnMcShen collected $500.00 from pot
+JohnMcShen: doesn't show hand
+*** SUMMARY ***
+Total pot $500.00 | Rake $0.00
+Seat 2: 7SkyAroundMe (button) (small blind) folded before Flop
+Seat 5: JohnMcShen (big blind) collected ($500.00)
+
+PokerStars Hand #1520407418:  Hold'em No Limit ($50.00/$100.00 USD) - 2023/01/13 11:57:24 ET
+Table 'WPN_Avon Park' 6-max Seat #5 is the button
+Seat 2: 7SkyAroundMe ($10759.75 in chips)
+Seat 5: JohnMcShen ($13635.00 in chips)
+JohnMcShen: posts small blind $50.00
+7SkyAroundMe: posts big blind $100.00
+*** HOLE CARDS ***
+JohnMcShen: raises $150.00 to $250.00
+7SkyAroundMe: calls $150.00
+*** FLOP *** [7h 8c Tc]
+7SkyAroundMe: checks
+JohnMcShen: bets $375.00
+7SkyAroundMe: calls $375.00
+*** TURN *** [7h 8c Tc] [Td]
+7SkyAroundMe: checks
+JohnMcShen: bets $937.50
+7SkyAroundMe: folds
+Uncalled bet ($937.50) returned to JohnMcShen
+JohnMcShen collected $1248.75 from pot
+JohnMcShen: doesn't show hand
+*** SUMMARY ***
+Total pot $1250.00 | Rake $1.25
+Board [7h 8c Tc Td]
+Seat 2: 7SkyAroundMe (big blind) folded on the Turn
+Seat 5: JohnMcShen (button) (small blind) collected ($1248.75)
+
+PokerStars Hand #1520407612:  Hold'em No Limit ($50.00/$100.00 USD) - 2023/01/13 11:58:23 ET
+Table 'WPN_Avon Park' 6-max Seat #2 is the button
+Seat 1: J0hnMcclean ($10000.00 in chips)
+Seat 2: 7SkyAroundMe ($10134.75 in chips)
+Seat 5: JohnMcShen ($14258.75 in chips)
+7SkyAroundMe: posts small blind $50.00
+JohnMcShen: posts big blind $100.00
+*** HOLE CARDS ***
+7SkyAroundMe: folds
+Uncalled bet ($50.00) returned to JohnMcShen
+JohnMcShen collected $100.00 from pot
+JohnMcShen: doesn't show hand
+*** SUMMARY ***
+Total pot $100.00 | Rake $0.00
+Seat 2: 7SkyAroundMe (button) (small blind) folded before Flop
+Seat 5: JohnMcShen (big blind) collected ($100.00)
+
+PokerStars Hand #1520407668:  Hold'em No Limit ($50.00/$100.00 USD) - 2023/01/13 11:58:39 ET
+Table 'WPN_Avon Park' 6-max Seat #2 is the button
+Seat 1: J0hnMcclean ($10000.00 in chips)
+Seat 2: 7SkyAroundMe ($10084.75 in chips)
+Seat 5: JohnMcShen ($14308.75 in chips)
+JohnMcShen: posts small blind $50.00
+J0hnMcclean: posts big blind $100.00
+*** HOLE CARDS ***
+7SkyAroundMe: folds
+JohnMcShen: raises $200.00 to $300.00
+J0hnMcclean: folds
+Uncalled bet ($200.00) returned to JohnMcShen
+JohnMcShen collected $200.00 from pot
+JohnMcShen: doesn't show hand
+*** SUMMARY ***
+Total pot $200.00 | Rake $0.00
+Seat 1: J0hnMcclean (big blind) folded before Flop
+Seat 2: 7SkyAroundMe (button) folded before Flop (didn't bet)
+Seat 5: JohnMcShen (small blind) collected ($200.00)
+
+PokerStars Hand #1520407718:  Hold'em No Limit ($50.00/$100.00 USD) - 2023/01/13 11:58:54 ET
+Table 'WPN_Avon Park' 6-max Seat #5 is the button
+Seat 1: J0hnMcclean ($9900.00 in chips)
+Seat 2: 7SkyAroundMe ($10084.75 in chips)
+Seat 5: JohnMcShen ($14408.75 in chips)
+J0hnMcclean: posts small blind $50.00
+7SkyAroundMe: posts big blind $100.00
+*** HOLE CARDS ***
+JohnMcShen: folds
+J0hnMcclean: folds
+Uncalled bet ($50.00) returned to 7SkyAroundMe
+7SkyAroundMe collected $100.00 from pot
+7SkyAroundMe: doesn't show hand
+*** SUMMARY ***
+Total pot $100.00 | Rake $0.00
+Seat 1: J0hnMcclean (small blind) folded before Flop
+Seat 2: 7SkyAroundMe (big blind) collected ($100.00)
+Seat 5: JohnMcShen (button) folded before Flop (didn't bet)
+
+PokerStars Hand #1520407577:  Hold'em No Limit ($50.00/$100.00 USD) - 2023/01/13 11:58:11 ET
+Table 'WPN_Westcliffe' 6-max Seat #2 is the button
+Seat 1: J0hnMcclean ($10000.00 in chips)
+Seat 2: 7SkyAroundMe ($14095.00 in chips)
+Seat 5: JohnMcShen ($14021.82 in chips)
+JohnMcShen: posts small blind $50.00
+J0hnMcclean: posts big blind $100.00
+*** HOLE CARDS ***
+7SkyAroundMe: raises $150.00 to $250.00
+JohnMcShen: folds
+J0hnMcclean: calls $150.00
+*** FLOP *** [Ts 4h 3s]
+J0hnMcclean: checks
+7SkyAroundMe: checks
+*** TURN *** [Ts 4h 3s] [Jc]
+J0hnMcclean: checks
+7SkyAroundMe: checks
+*** RIVER *** [Ts 4h 3s Jc] [Qc]
+J0hnMcclean: checks
+7SkyAroundMe: checks
+*** SHOW DOWN ***
+7SkyAroundMe: shows [9h Ad]
+J0hnMcclean: mucks hand
+7SkyAroundMe collected $548.25 from pot
+*** SUMMARY ***
+Total pot $550.00 | Rake $1.75
+Board [Ts 4h 3s Jc Qc]
+Seat 1: J0hnMcclean (big blind) mucked
+Seat 2: 7SkyAroundMe (button) showed [9h Ad] and won ($548.25)
+Seat 5: JohnMcShen (small blind) folded before Flop
+
+PokerStars Hand #1520407762:  Hold'em No Limit ($50.00/$100.00 USD) - 2023/01/13 11:59:11 ET
+Table 'WPN_Westcliffe' 6-max Seat #5 is the button
+Seat 1: J0hnMcclean ($9750.00 in chips)
+Seat 2: 7SkyAroundMe ($14393.25 in chips)
+Seat 5: JohnMcShen ($13971.82 in chips)
+J0hnMcclean: posts small blind $50.00
+7SkyAroundMe: posts big blind $100.00
+*** HOLE CARDS ***
+JohnMcShen: folds
+J0hnMcclean: raises $200.00 to $300.00
+7SkyAroundMe: raises $600.00 to $900.00
+J0hnMcclean: folds
+Uncalled bet ($600.00) returned to 7SkyAroundMe
+7SkyAroundMe collected $600.00 from pot
+7SkyAroundMe: doesn't show hand
+*** SUMMARY ***
+Total pot $600.00 | Rake $0.00
+Seat 1: J0hnMcclean (small blind) folded before Flop
+Seat 2: 7SkyAroundMe (big blind) collected ($600.00)
+Seat 5: JohnMcShen (button) folded before Flop (didn't bet)
+
+PokerStars Hand #1520408262:  Hold'em No Limit ($50.00/$100.00 USD) - 2023/01/13 12:01:17 ET
+Table 'WPN_Westcliffe' 6-max Seat #1 is the button
+Seat 1: J0hnMcclean ($9648.25 in chips)
+Seat 5: JohnMcShen ($14070.07 in chips)
+J0hnMcclean: posts small blind $50.00
+JohnMcShen: posts big blind $100.00
+*** HOLE CARDS ***
+J0hnMcclean: raises $150.00 to $250.00
+JohnMcShen: calls $150.00
+*** FLOP *** [5h Qh 9s]
+JohnMcShen: checks
+J0hnMcclean: bets $350.00
+JohnMcShen: folds
+Uncalled bet ($350.00) returned to J0hnMcclean
+J0hnMcclean collected $498.75 from pot
+J0hnMcclean: doesn't show hand
+*** SUMMARY ***
+Total pot $500.00 | Rake $1.25
+Board [5h Qh 9s]
+Seat 1: J0hnMcclean (button) (small blind) collected ($498.75)
+Seat 5: JohnMcShen (big blind) folded on the Flop
+
+PokerStars Hand #1520408019:  Hold'em No Limit ($50.00/$100.00 USD) - 2023/01/13 12:00:37 ET
+Table 'WPN_Avon Park' 6-max Seat #5 is the button
+Seat 1: J0hnMcclean ($10329.75 in chips)
+Seat 2: 7SkyAroundMe ($10084.75 in chips)
+Seat 5: JohnMcShen ($13977.25 in chips)
+J0hnMcclean: posts the ante $500.00
+7SkyAroundMe: posts the ante $500.00
+JohnMcShen: posts the ante $500.00
+*** HOLE CARDS ***
+*** FLOP *** [4d 4h Tc]
+J0hnMcclean: checks
+7SkyAroundMe: checks
+JohnMcShen: bets $375.00
+J0hnMcclean: calls $375.00
+7SkyAroundMe: folds
+*** TURN *** [4d 4h Tc] [7h]
+J0hnMcclean: checks
+JohnMcShen: checks
+*** RIVER *** [4d 4h Tc 7h] [9s]
+J0hnMcclean: bets $1125.00
+JohnMcShen: calls $1125.00
+*** SHOW DOWN ***
+J0hnMcclean: shows [Qd Ts]
+JohnMcShen: mucks hand
+J0hnMcclean collected $4498.25 from pot
+*** SUMMARY ***
+Total pot $4500.00 | Rake $1.75
+Board [4d 4h Tc 7h 9s]
+Seat 1: J0hnMcclean showed [Qd Ts] and won ($4498.25)
+Seat 2: 7SkyAroundMe folded on the Flop
+Seat 5: JohnMcShen (button) mucked
+
+PokerStars Hand #1520408468:  Hold'em No Limit ($50.00/$100.00 USD) - 2023/01/13 12:01:59 ET
+Table 'WPN_Avon Park' 6-max Seat #2 is the button
+Seat 1: J0hnMcclean ($12828.00 in chips)
+Seat 2: 7SkyAroundMe ($10000.00 in chips)
+Seat 5: JohnMcShen ($11977.25 in chips)
+JohnMcShen: posts small blind $50.00
+J0hnMcclean: posts big blind $100.00
+*** HOLE CARDS ***
+7SkyAroundMe: folds
+JohnMcShen: folds
+Uncalled bet ($50.00) returned to J0hnMcclean
+J0hnMcclean collected $100.00 from pot
+J0hnMcclean: doesn't show hand
+*** SUMMARY ***
+Total pot $100.00 | Rake $0.00
+Seat 1: J0hnMcclean (big blind) collected ($100.00)
+Seat 2: 7SkyAroundMe (button) folded before Flop (didn't bet)
+Seat 5: JohnMcShen (small blind) folded before Flop
+
+PokerStars Hand #1520408531:  Hold'em No Limit ($50.00/$100.00 USD) - 2023/01/13 12:02:15 ET
+Table 'WPN_Avon Park' 6-max Seat #5 is the button
+Seat 1: J0hnMcclean ($12878.00 in chips)
+Seat 2: 7SkyAroundMe ($10000.00 in chips)
+Seat 5: JohnMcShen ($11927.25 in chips)
+J0hnMcclean: posts small blind $50.00
+JohnMcShen: posts big blind $100.00
+*** HOLE CARDS ***
+J0hnMcclean: folds
+Uncalled bet ($50.00) returned to JohnMcShen
+JohnMcShen collected $100.00 from pot
+JohnMcShen: doesn't show hand
+*** SUMMARY ***
+Total pot $100.00 | Rake $0.00
+Seat 1: J0hnMcclean (small blind) folded before Flop
+Seat 5: JohnMcShen (button) (big blind) collected ($100.00)
+
+PokerStars Hand #1520408573:  Hold'em No Limit ($50.00/$100.00 USD) - 2023/01/13 12:02:25 ET
+Table 'WPN_Avon Park' 6-max Seat #5 is the button
+Seat 1: J0hnMcclean ($12828.00 in chips)
+Seat 5: JohnMcShen ($11977.25 in chips)
+JohnMcShen: posts small blind $50.00
+J0hnMcclean: posts big blind $100.00
+*** HOLE CARDS ***
+JohnMcShen: raises $150.00 to $250.00
+J0hnMcclean: folds
+Uncalled bet ($150.00) returned to JohnMcShen
+JohnMcShen collected $200.00 from pot
+JohnMcShen: doesn't show hand
+*** SUMMARY ***
+Total pot $200.00 | Rake $0.00
+Seat 1: J0hnMcclean (big blind) folded before Flop
+Seat 5: JohnMcShen (button) (small blind) collected ($200.00)
+
+PokerStars Hand #1520408625:  Hold'em No Limit ($50.00/$100.00 USD) - 2023/01/13 12:02:34 ET
+Table 'WPN_Avon Park' 6-max Seat #1 is the button
+Seat 1: J0hnMcclean ($12728.00 in chips)
+Seat 5: JohnMcShen ($12077.25 in chips)
+J0hnMcclean: posts small blind $50.00
+JohnMcShen: posts big blind $100.00
+*** HOLE CARDS ***
+J0hnMcclean: raises $150.00 to $250.00
+JohnMcShen: calls $150.00
+*** FLOP *** [7c 9c 7d]
+JohnMcShen: checks
+J0hnMcclean: bets $125.00
+JohnMcShen: calls $125.00
+*** TURN *** [7c 9c 7d] [6c]
+JohnMcShen: checks
+J0hnMcclean: checks
+*** RIVER *** [7c 9c 7d 6c] [8c]
+JohnMcShen: checks
+J0hnMcclean: checks
+*** SHOW DOWN ***
+J0hnMcclean: shows [8h 6h]
+JohnMcShen: mucks hand
+J0hnMcclean collected $748.75 from pot
+*** SUMMARY ***
+Total pot $750.00 | Rake $1.25
+Board [7c 9c 7d 6c 8c]
+Seat 1: J0hnMcclean (button) (small blind) showed [8h 6h] and won ($748.75)
+Seat 5: JohnMcShen (big blind) mucked
+
+PokerStars Hand #1520408388:  Hold'em No Limit ($50.00/$100.00 USD) - 2023/01/13 12:01:42 ET
+Table 'WPN_Westcliffe' 6-max Seat #5 is the button
+Seat 1: J0hnMcclean ($9897.00 in chips)
+Seat 5: JohnMcShen ($13820.07 in chips)
+JohnMcShen: posts small blind $50.00
+J0hnMcclean: posts big blind $100.00
+*** HOLE CARDS ***
+JohnMcShen: raises $150.00 to $250.00
+J0hnMcclean: raises $850.00 to $1100.00
+JohnMcShen: calls $850.00
+*** FLOP *** [Qc 5s 3d]
+J0hnMcclean: bets $550.00
+JohnMcShen: calls $550.00
+*** TURN *** [Qc 5s 3d] [Ks]
+J0hnMcclean: bets $2475.00
+JohnMcShen: calls $2475.00
+*** RIVER *** [Qc 5s 3d Ks] [2s]
+J0hnMcclean: bets $5772.00 and is all-in
+JohnMcShen: calls $5772.00
+*** SHOW DOWN ***
+JohnMcShen: shows [Jc Qs]
+J0hnMcclean: shows [9h Js]
+JohnMcShen collected $19792.75 from pot
+*** SUMMARY ***
+Total pot $19794.00 | Rake $1.25
+Board [Qc 5s 3d Ks 2s]
+Seat 1: J0hnMcclean (big blind) showed [9h Js] and lost
+Seat 5: JohnMcShen (button) (small blind) showed [Jc Qs] and won ($19792.75)
+
+PokerStars Hand #1520409071:  Hold'em No Limit ($50.00/$100.00 USD) - 2023/01/13 12:04:04 ET
+Table 'WPN_Westcliffe' 6-max Seat #5 is the button
+Seat 4: rigggedeck ($4000.00 in chips)
+Seat 5: JohnMcShen ($23715.82 in chips)
+JohnMcShen: posts small blind $50.00
+rigggedeck: posts big blind $100.00
+*** HOLE CARDS ***
+JohnMcShen: folds
+Uncalled bet ($50.00) returned to rigggedeck
+rigggedeck collected $100.00 from pot
+rigggedeck: doesn't show hand
+*** SUMMARY ***
+Total pot $100.00 | Rake $0.00
+Seat 4: rigggedeck (big blind) collected ($100.00)
+Seat 5: JohnMcShen (button) (small blind) folded before Flop
+
+PokerStars Hand #1520408897:  Hold'em No Limit ($50.00/$100.00 USD) - 2023/01/13 12:03:29 ET
+Table 'WPN_Avon Park' 6-max Seat #5 is the button
+Seat 1: J0hnMcclean ($13101.75 in chips)
+Seat 5: JohnMcShen ($11702.25 in chips)
+JohnMcShen: posts small blind $50.00
+J0hnMcclean: posts big blind $100.00
+*** HOLE CARDS ***
+JohnMcShen: raises $150.00 to $250.00
+J0hnMcclean: raises $850.00 to $1100.00
+JohnMcShen: calls $850.00
+*** FLOP *** [Jh 9h 8c]
+J0hnMcclean: checks
+JohnMcShen: checks
+*** TURN *** [Jh 9h 8c] [Td]
+J0hnMcclean: checks
+JohnMcShen: bets $1100.00
+J0hnMcclean: calls $1100.00
+*** RIVER *** [Jh 9h 8c Td] [3h]
+J0hnMcclean: checks
+JohnMcShen: bets $3300.00
+J0hnMcclean: calls $3300.00
+*** SHOW DOWN ***
+JohnMcShen: shows [4h 6h]
+J0hnMcclean: mucks hand
+JohnMcShen collected $10998.75 from pot
+*** SUMMARY ***
+Total pot $11000.00 | Rake $1.25
+Board [Jh 9h 8c Td 3h]
+Seat 1: J0hnMcclean (big blind) mucked
+Seat 5: JohnMcShen (button) (small blind) showed [4h 6h] and won ($10998.75)
+
+PokerStars Hand #1520409138:  Hold'em No Limit ($50.00/$100.00 USD) - 2023/01/13 12:04:16 ET
+Table 'WPN_Westcliffe' 6-max Seat #4 is the button
+Seat 1: J0hnMcclean ($10000.00 in chips)
+Seat 4: rigggedeck ($4050.00 in chips)
+Seat 5: JohnMcShen ($23665.82 in chips)
+rigggedeck: posts small blind $50.00
+JohnMcShen: posts big blind $100.00
+*** HOLE CARDS ***
+rigggedeck: raises $130.00 to $230.00
+JohnMcShen: calls $130.00
+*** FLOP *** [3c 6s 3d]
+JohnMcShen: checks
+rigggedeck: bets $179.37
+JohnMcShen: calls $179.37
+*** TURN *** [3c 6s 3d] [Kd]
+JohnMcShen: checks
+rigggedeck: checks
+*** RIVER *** [3c 6s 3d Kd] [4h]
+JohnMcShen: bets $818.74
+rigggedeck: folds
+Uncalled bet ($818.74) returned to JohnMcShen
+JohnMcShen collected $817.49 from pot
+JohnMcShen: doesn't show hand
+*** SUMMARY ***
+Total pot $818.74 | Rake $1.25
+Board [3c 6s 3d Kd 4h]
+Seat 4: rigggedeck (button) (small blind) folded on the River
+Seat 5: JohnMcShen (big blind) collected ($817.49)
+
+PokerStars Hand #1520409397:  Hold'em No Limit ($50.00/$100.00 USD) - 2023/01/13 12:05:10 ET
+Table 'WPN_Westcliffe' 6-max Seat #4 is the button
+Seat 1: J0hnMcclean ($10000.00 in chips)
+Seat 4: rigggedeck ($3640.63 in chips)
+Seat 5: JohnMcShen ($24073.94 in chips)
+JohnMcShen: posts small blind $50.00
+J0hnMcclean: posts big blind $100.00
+*** HOLE CARDS ***
+rigggedeck: folds
+JohnMcShen: raises $200.00 to $300.00
+J0hnMcclean: calls $200.00
+*** FLOP *** [2d 2c 8h]
+JohnMcShen: bets $198.00
+J0hnMcclean: folds
+Uncalled bet ($198.00) returned to JohnMcShen
+JohnMcShen collected $598.25 from pot
+JohnMcShen: doesn't show hand
+*** SUMMARY ***
+Total pot $600.00 | Rake $1.75
+Board [2d 2c 8h]
+Seat 1: J0hnMcclean (big blind) folded on the Flop
+Seat 4: rigggedeck (button) folded before Flop (didn't bet)
+Seat 5: JohnMcShen (small blind) collected ($598.25)
+
+PokerStars Hand #1520409375:  Hold'em No Limit ($50.00/$100.00 USD) - 2023/01/13 12:05:05 ET
+Table 'WPN_Avon Park' 6-max Seat #5 is the button
+Seat 1: J0hnMcclean ($7601.75 in chips)
+Seat 4: rigggedeck ($7008.51 in chips)
+Seat 5: JohnMcShen ($17201.00 in chips)
+J0hnMcclean: posts small blind $50.00
+rigggedeck: posts big blind $100.00
+*** HOLE CARDS ***
+JohnMcShen: raises $150.00 to $250.00
+J0hnMcclean: folds
+rigggedeck: calls $150.00
+*** FLOP *** [Tc 6h Kc]
+rigggedeck: checks
+JohnMcShen: checks
+*** TURN *** [Tc 6h Kc] [9c]
+rigggedeck: checks
+JohnMcShen: checks
+*** RIVER *** [Tc 6h Kc 9c] [Ac]
+rigggedeck: checks
+JohnMcShen: checks
+*** SHOW DOWN ***
+JohnMcShen: shows [Ah 8h]
+rigggedeck: mucks hand
+JohnMcShen collected $548.25 from pot
+*** SUMMARY ***
+Total pot $550.00 | Rake $1.75
+Board [Tc 6h Kc 9c Ac]
+Seat 1: J0hnMcclean (small blind) folded before Flop
+Seat 4: rigggedeck (big blind) mucked
+Seat 5: JohnMcShen (button) showed [Ah 8h] and won ($548.25)
+
+PokerStars Hand #1520409538:  Hold'em No Limit ($50.00/$100.00 USD) - 2023/01/13 12:05:38 ET
+Table 'WPN_Westcliffe' 6-max Seat #5 is the button
+Seat 1: J0hnMcclean ($9700.00 in chips)
+Seat 4: rigggedeck ($3640.63 in chips)
+Seat 5: JohnMcShen ($24372.19 in chips)
+J0hnMcclean: posts small blind $50.00
+rigggedeck: posts big blind $100.00
+*** HOLE CARDS ***
+JohnMcShen: folds
+J0hnMcclean: folds
+Uncalled bet ($50.00) returned to rigggedeck
+rigggedeck collected $100.00 from pot
+rigggedeck: doesn't show hand
+*** SUMMARY ***
+Total pot $100.00 | Rake $0.00
+Seat 1: J0hnMcclean (small blind) folded before Flop
+Seat 4: rigggedeck (big blind) collected ($100.00)
+Seat 5: JohnMcShen (button) folded before Flop (didn't bet)
+
+PokerStars Hand #1520409602:  Hold'em No Limit ($50.00/$100.00 USD) - 2023/01/13 12:05:50 ET
+Table 'WPN_Avon Park' 6-max Seat #1 is the button
+Seat 1: J0hnMcclean ($10000.00 in chips)
+Seat 4: rigggedeck ($6758.51 in chips)
+Seat 5: JohnMcShen ($17499.25 in chips)
+rigggedeck: posts small blind $50.00
+JohnMcShen: posts big blind $100.00
+*** HOLE CARDS ***
+J0hnMcclean: folds
+rigggedeck: folds
+Uncalled bet ($50.00) returned to JohnMcShen
+JohnMcShen collected $100.00 from pot
+JohnMcShen: doesn't show hand
+*** SUMMARY ***
+Total pot $100.00 | Rake $0.00
+Seat 1: J0hnMcclean (button) folded before Flop (didn't bet)
+Seat 4: rigggedeck (small blind) folded before Flop
+Seat 5: JohnMcShen (big blind) collected ($100.00)
+
+PokerStars Hand #1520409691:  Hold'em No Limit ($50.00/$100.00 USD) - 2023/01/13 12:06:06 ET
+Table 'WPN_Avon Park' 6-max Seat #4 is the button
+Seat 1: J0hnMcclean ($10000.00 in chips)
+Seat 4: rigggedeck ($6708.51 in chips)
+Seat 5: JohnMcShen ($17549.25 in chips)
+JohnMcShen: posts small blind $50.00
+rigggedeck: posts big blind $100.00
+*** HOLE CARDS ***
+JohnMcShen: raises $200.00 to $300.00
+rigggedeck: calls $200.00
+*** FLOP *** [4h 6s 7d]
+JohnMcShen: checks
+rigggedeck: bets $299.37
+JohnMcShen: folds
+Uncalled bet ($299.37) returned to rigggedeck
+rigggedeck collected $598.75 from pot
+rigggedeck: doesn't show hand
+*** SUMMARY ***
+Total pot $600.00 | Rake $1.25
+Board [4h 6s 7d]
+Seat 4: rigggedeck (button) (big blind) collected ($598.75)
+Seat 5: JohnMcShen (small blind) folded on the Flop
+
+PokerStars Hand #1520409858:  Hold'em No Limit ($50.00/$100.00 USD) - 2023/01/13 12:06:38 ET
+Table 'WPN_Avon Park' 6-max Seat #4 is the button
+Seat 1: J0hnMcclean ($10000.00 in chips)
+Seat 4: rigggedeck ($6957.26 in chips)
+rigggedeck: posts small blind $50.00
+J0hnMcclean: posts big blind $100.00
+*** HOLE CARDS ***
+rigggedeck: folds
+Uncalled bet ($50.00) returned to J0hnMcclean
+J0hnMcclean collected $100.00 from pot
+J0hnMcclean: doesn't show hand
+*** SUMMARY ***
+Total pot $100.00 | Rake $0.00
+Seat 1: J0hnMcclean (big blind) collected ($100.00)
+Seat 4: rigggedeck (button) (small blind) folded before Flop
+
+PokerStars Hand #1520409596:  Hold'em No Limit ($50.00/$100.00 USD) - 2023/01/13 12:05:49 ET
+Table 'WPN_Westcliffe' 6-max Seat #1 is the button
+Seat 1: J0hnMcclean ($9650.00 in chips)
+Seat 4: rigggedeck ($3690.63 in chips)
+Seat 5: JohnMcShen ($24372.19 in chips)
+rigggedeck: posts small blind $50.00
+J0hnMcclean: posts big blind $100.00
+*** HOLE CARDS ***
+rigggedeck: raises $150.00 to $250.00
+J0hnMcclean: calls $150.00
+*** FLOP *** [Ad 7c 5d]
+rigggedeck: checks
+J0hnMcclean: checks
+*** TURN *** [Ad 7c 5d] [9s]
+rigggedeck: bets $149.62
+J0hnMcclean: raises $499.62 to $649.24
+rigggedeck: calls $499.62
+*** RIVER *** [Ad 7c 5d 9s] [4h]
+rigggedeck: checks
+J0hnMcclean: checks
+*** SHOW DOWN ***
+rigggedeck: shows [8c 9d]
+J0hnMcclean: mucks hand
+rigggedeck collected $1797.23 from pot
+*** SUMMARY ***
+Total pot $1798.48 | Rake $1.25
+Board [Ad 7c 5d 9s 4h]
+Seat 1: J0hnMcclean (button) (big blind) mucked
+Seat 4: rigggedeck (small blind) showed [8c 9d] and won ($1797.23)
+
+PokerStars Hand #1520409916:  Hold'em No Limit ($50.00/$100.00 USD) - 2023/01/13 12:06:50 ET
+Table 'WPN_Westcliffe' 6-max Seat #1 is the button
+Seat 1: J0hnMcclean ($8750.76 in chips)
+Seat 4: rigggedeck ($4588.62 in chips)
+J0hnMcclean: posts small blind $50.00
+rigggedeck: posts big blind $100.00
+*** HOLE CARDS ***
+J0hnMcclean: raises $150.00 to $250.00
+rigggedeck: folds
+Uncalled bet ($150.00) returned to J0hnMcclean
+J0hnMcclean collected $200.00 from pot
+J0hnMcclean: doesn't show hand
+*** SUMMARY ***
+Total pot $200.00 | Rake $0.00
+Seat 1: J0hnMcclean (button) (small blind) collected ($200.00)
+Seat 4: rigggedeck (big blind) folded before Flop
+
+PokerStars Hand #1520409970:  Hold'em No Limit ($50.00/$100.00 USD) - 2023/01/13 12:06:59 ET
+Table 'WPN_Westcliffe' 6-max Seat #4 is the button
+Seat 1: J0hnMcclean ($8850.76 in chips)
+Seat 4: rigggedeck ($4488.62 in chips)
+rigggedeck: posts small blind $50.00
+J0hnMcclean: posts big blind $100.00
+*** HOLE CARDS ***
+rigggedeck: raises $130.00 to $230.00
+J0hnMcclean: folds
+Uncalled bet ($130.00) returned to rigggedeck
+rigggedeck collected $200.00 from pot
+rigggedeck: doesn't show hand
+*** SUMMARY ***
+Total pot $200.00 | Rake $0.00
+Seat 1: J0hnMcclean (big blind) folded before Flop
+Seat 4: rigggedeck (button) (small blind) collected ($200.00)
+
+PokerStars Hand #1520409896:  Hold'em No Limit ($50.00/$100.00 USD) - 2023/01/13 12:06:46 ET
+Table 'WPN_Avon Park' 6-max Seat #1 is the button
+Seat 1: J0hnMcclean ($10050.00 in chips)
+Seat 4: rigggedeck ($6957.26 in chips)
+J0hnMcclean: posts small blind $50.00
+rigggedeck: posts big blind $100.00
+*** HOLE CARDS ***
+J0hnMcclean: raises $150.00 to $250.00
+rigggedeck: calls $150.00
+*** FLOP *** [2h 8s 4d]
+rigggedeck: checks
+J0hnMcclean: checks
+*** TURN *** [2h 8s 4d] [8h]
+rigggedeck: checks
+J0hnMcclean: bets $150.00
+rigggedeck: raises $550.00 to $700.00
+J0hnMcclean: folds
+Uncalled bet ($550.00) returned to rigggedeck
+rigggedeck collected $798.75 from pot
+rigggedeck: doesn't show hand
+*** SUMMARY ***
+Total pot $800.00 | Rake $1.25
+Board [2h 8s 4d 8h]
+Seat 1: J0hnMcclean (button) (small blind) folded on the Turn
+Seat 4: rigggedeck (big blind) collected ($798.75)
+
+PokerStars Hand #1520410095:  Hold'em No Limit ($50.00/$100.00 USD) - 2023/01/13 12:07:27 ET
+Table 'WPN_Avon Park' 6-max Seat #4 is the button
+Seat 1: J0hnMcclean ($9650.00 in chips)
+Seat 4: rigggedeck ($7356.01 in chips)
+rigggedeck: posts small blind $50.00
+J0hnMcclean: posts big blind $100.00
+*** HOLE CARDS ***
+rigggedeck: raises $150.00 to $250.00
+J0hnMcclean: folds
+Uncalled bet ($150.00) returned to rigggedeck
+rigggedeck collected $200.00 from pot
+rigggedeck: doesn't show hand
+*** SUMMARY ***
+Total pot $200.00 | Rake $0.00
+Seat 1: J0hnMcclean (big blind) folded before Flop
+Seat 4: rigggedeck (button) (small blind) collected ($200.00)
+
+PokerStars Hand #1520410050:  Hold'em No Limit ($50.00/$100.00 USD) - 2023/01/13 12:07:17 ET
+Table 'WPN_Westcliffe' 6-max Seat #1 is the button
+Seat 1: J0hnMcclean ($8750.76 in chips)
+Seat 4: rigggedeck ($4588.62 in chips)
+J0hnMcclean: posts small blind $50.00
+rigggedeck: posts big blind $100.00
+*** HOLE CARDS ***
+J0hnMcclean: raises $150.00 to $250.00
+rigggedeck: calls $150.00
+*** FLOP *** [4h 2d 8c]
+rigggedeck: checks
+J0hnMcclean: bets $250.00
+rigggedeck: calls $250.00
+*** TURN *** [4h 2d 8c] [3h]
+rigggedeck: checks
+J0hnMcclean: checks
+*** RIVER *** [4h 2d 8c 3h] [Kh]
+rigggedeck: checks
+J0hnMcclean: checks
+*** SHOW DOWN ***
+J0hnMcclean: shows [4s Ad]
+rigggedeck: mucks hand
+J0hnMcclean collected $998.75 from pot
+*** SUMMARY ***
+Total pot $1000.00 | Rake $1.25
+Board [4h 2d 8c 3h Kh]
+Seat 1: J0hnMcclean (button) (small blind) showed [4s Ad] and won ($998.75)
+Seat 4: rigggedeck (big blind) mucked
+
+PokerStars Hand #1520410303:  Hold'em No Limit ($50.00/$100.00 USD) - 2023/01/13 12:08:05 ET
+Table 'WPN_Westcliffe' 6-max Seat #4 is the button
+Seat 1: J0hnMcclean ($9249.51 in chips)
+Seat 4: rigggedeck ($4088.62 in chips)
+rigggedeck: posts small blind $50.00
+J0hnMcclean: posts big blind $100.00
+*** HOLE CARDS ***
+rigggedeck: raises $130.00 to $230.00
+J0hnMcclean: folds
+Uncalled bet ($130.00) returned to rigggedeck
+rigggedeck collected $200.00 from pot
+rigggedeck: doesn't show hand
+*** SUMMARY ***
+Total pot $200.00 | Rake $0.00
+Seat 1: J0hnMcclean (big blind) folded before Flop
+Seat 4: rigggedeck (button) (small blind) collected ($200.00)
+
+PokerStars Hand #1520410170:  Hold'em No Limit ($50.00/$100.00 USD) - 2023/01/13 12:07:42 ET
+Table 'WPN_Avon Park' 6-max Seat #1 is the button
+Seat 1: J0hnMcclean ($9550.00 in chips)
+Seat 4: rigggedeck ($7456.01 in chips)
+J0hnMcclean: posts small blind $50.00
+rigggedeck: posts big blind $100.00
+*** HOLE CARDS ***
+J0hnMcclean: raises $150.00 to $250.00
+rigggedeck: calls $150.00
+*** FLOP *** [3h Js 4s]
+rigggedeck: checks
+J0hnMcclean: bets $150.00
+rigggedeck: calls $150.00
+*** TURN *** [3h Js 4s] [6d]
+rigggedeck: checks
+J0hnMcclean: checks
+*** RIVER *** [3h Js 4s 6d] [7d]
+rigggedeck: bets $239.62
+J0hnMcclean: calls $239.62
+*** SHOW DOWN ***
+rigggedeck: shows [7h 7c]
+J0hnMcclean: mucks hand
+rigggedeck collected $1277.99 from pot
+*** SUMMARY ***
+Total pot $1279.24 | Rake $1.25
+Board [3h Js 4s 6d 7d]
+Seat 1: J0hnMcclean (button) (small blind) mucked
+Seat 4: rigggedeck (big blind) showed [7h 7c] and won ($1277.99)
+
+PokerStars Hand #1520410444:  Hold'em No Limit ($50.00/$100.00 USD) - 2023/01/13 12:08:37 ET
+Table 'WPN_Avon Park' 6-max Seat #4 is the button
+Seat 1: J0hnMcclean ($8910.38 in chips)
+Seat 4: rigggedeck ($8094.38 in chips)
+rigggedeck: posts small blind $50.00
+J0hnMcclean: posts big blind $100.00
+*** HOLE CARDS ***
+rigggedeck: folds
+Uncalled bet ($50.00) returned to J0hnMcclean
+J0hnMcclean collected $100.00 from pot
+J0hnMcclean: doesn't show hand
+*** SUMMARY ***
+Total pot $100.00 | Rake $0.00
+Seat 1: J0hnMcclean (big blind) collected ($100.00)
+Seat 4: rigggedeck (button) (small blind) folded before Flop
+
+PokerStars Hand #1520410400:  Hold'em No Limit ($50.00/$100.00 USD) - 2023/01/13 12:08:28 ET
+Table 'WPN_Westcliffe' 6-max Seat #1 is the button
+Seat 1: J0hnMcclean ($9149.51 in chips)
+Seat 4: rigggedeck ($4188.62 in chips)
+J0hnMcclean: posts small blind $50.00
+rigggedeck: posts big blind $100.00
+*** HOLE CARDS ***
+J0hnMcclean: raises $150.00 to $250.00
+rigggedeck: calls $150.00
+*** FLOP *** [Qs Kh Th]
+rigggedeck: checks
+J0hnMcclean: bets $250.00
+rigggedeck: folds
+Uncalled bet ($250.00) returned to J0hnMcclean
+J0hnMcclean collected $498.75 from pot
+J0hnMcclean: doesn't show hand
+*** SUMMARY ***
+Total pot $500.00 | Rake $1.25
+Board [Qs Kh Th]
+Seat 1: J0hnMcclean (button) (small blind) collected ($498.75)
+Seat 4: rigggedeck (big blind) folded on the Flop
+
+PokerStars Hand #1520410482:  Hold'em No Limit ($50.00/$100.00 USD) - 2023/01/13 12:08:45 ET
+Table 'WPN_Avon Park' 6-max Seat #1 is the button
+Seat 1: J0hnMcclean ($8960.38 in chips)
+Seat 4: rigggedeck ($8044.38 in chips)
+J0hnMcclean: posts small blind $50.00
+rigggedeck: posts big blind $100.00
+*** HOLE CARDS ***
+J0hnMcclean: folds
+Uncalled bet ($50.00) returned to rigggedeck
+rigggedeck collected $100.00 from pot
+rigggedeck: doesn't show hand
+*** SUMMARY ***
+Total pot $100.00 | Rake $0.00
+Seat 1: J0hnMcclean (button) (small blind) folded before Flop
+Seat 4: rigggedeck (big blind) collected ($100.00)
+
+PokerStars Hand #1520410519:  Hold'em No Limit ($50.00/$100.00 USD) - 2023/01/13 12:08:53 ET
+Table 'WPN_Avon Park' 6-max Seat #4 is the button
+Seat 1: J0hnMcclean ($10000.00 in chips)
+Seat 4: rigggedeck ($8094.38 in chips)
+rigggedeck: posts small blind $50.00
+J0hnMcclean: posts big blind $100.00
+*** HOLE CARDS ***
+rigggedeck: folds
+Uncalled bet ($50.00) returned to J0hnMcclean
+J0hnMcclean collected $100.00 from pot
+J0hnMcclean: doesn't show hand
+*** SUMMARY ***
+Total pot $100.00 | Rake $0.00
+Seat 1: J0hnMcclean (big blind) collected ($100.00)
+Seat 4: rigggedeck (button) (small blind) folded before Flop
+
+PokerStars Hand #1520410517:  Hold'em No Limit ($50.00/$100.00 USD) - 2023/01/13 12:08:53 ET
+Table 'WPN_Westcliffe' 6-max Seat #4 is the button
+Seat 1: J0hnMcclean ($9398.26 in chips)
+Seat 4: rigggedeck ($3938.62 in chips)
+rigggedeck: posts small blind $50.00
+J0hnMcclean: posts big blind $100.00
+*** HOLE CARDS ***
+rigggedeck: raises $130.00 to $230.00
+J0hnMcclean: folds
+Uncalled bet ($130.00) returned to rigggedeck
+rigggedeck collected $200.00 from pot
+rigggedeck: doesn't show hand
+*** SUMMARY ***
+Total pot $200.00 | Rake $0.00
+Seat 1: J0hnMcclean (big blind) folded before Flop
+Seat 4: rigggedeck (button) (small blind) collected ($200.00)
+
+PokerStars Hand #1520410573:  Hold'em No Limit ($50.00/$100.00 USD) - 2023/01/13 12:09:03 ET
+Table 'WPN_Avon Park' 6-max Seat #1 is the button
+Seat 1: J0hnMcclean ($10050.00 in chips)
+Seat 4: rigggedeck ($8044.38 in chips)
+J0hnMcclean: posts small blind $50.00
+rigggedeck: posts big blind $100.00
+*** HOLE CARDS ***
+J0hnMcclean: raises $150.00 to $250.00
+rigggedeck: calls $150.00
+*** FLOP *** [Jh 4h Js]
+rigggedeck: checks
+J0hnMcclean: bets $150.00
+rigggedeck: calls $150.00
+*** TURN *** [Jh 4h Js] [9d]
+rigggedeck: checks
+J0hnMcclean: bets $400.00
+rigggedeck: raises $1100.00 to $1500.00
+J0hnMcclean: folds
+Uncalled bet ($1100.00) returned to rigggedeck
+rigggedeck collected $1598.75 from pot
+rigggedeck: doesn't show hand
+*** SUMMARY ***
+Total pot $1600.00 | Rake $1.25
+Board [Jh 4h Js 9d]
+Seat 1: J0hnMcclean (button) (small blind) folded on the Turn
+Seat 4: rigggedeck (big blind) collected ($1598.75)
+
+PokerStars Hand #1520410574:  Hold'em No Limit ($50.00/$100.00 USD) - 2023/01/13 12:09:03 ET
+Table 'WPN_Westcliffe' 6-max Seat #1 is the button
+Seat 1: J0hnMcclean ($9298.26 in chips)
+Seat 4: rigggedeck ($4038.62 in chips)
+J0hnMcclean: posts small blind $50.00
+rigggedeck: posts big blind $100.00
+*** HOLE CARDS ***
+J0hnMcclean: raises $150.00 to $250.00
+rigggedeck: calls $150.00
+*** FLOP *** [2d As 9h]
+rigggedeck: checks
+J0hnMcclean: bets $150.00
+rigggedeck: calls $150.00
+*** TURN *** [2d As 9h] [Qc]
+rigggedeck: checks
+J0hnMcclean: checks
+*** RIVER *** [2d As 9h Qc] [Qs]
+rigggedeck: checks
+J0hnMcclean: bets $600.00
+rigggedeck: calls $600.00
+*** SHOW DOWN ***
+J0hnMcclean: shows [Ac 5s]
+rigggedeck: mucks hand
+J0hnMcclean collected $1998.75 from pot
+*** SUMMARY ***
+Total pot $2000.00 | Rake $1.25
+Board [2d As 9h Qc Qs]
+Seat 1: J0hnMcclean (button) (small blind) showed [Ac 5s] and won ($1998.75)
+Seat 4: rigggedeck (big blind) mucked
+
+PokerStars Hand #1520410828:  Hold'em No Limit ($50.00/$100.00 USD) - 2023/01/13 12:09:50 ET
+Table 'WPN_Avon Park' 6-max Seat #4 is the button
+Seat 1: J0hnMcclean ($9250.00 in chips)
+Seat 4: rigggedeck ($8843.13 in chips)
+rigggedeck: posts small blind $50.00
+J0hnMcclean: posts big blind $100.00
+*** HOLE CARDS ***
+rigggedeck: raises $150.00 to $250.00
+J0hnMcclean: raises $650.00 to $900.00
+rigggedeck: folds
+Uncalled bet ($650.00) returned to J0hnMcclean
+J0hnMcclean collected $500.00 from pot
+J0hnMcclean: doesn't show hand
+*** SUMMARY ***
+Total pot $500.00 | Rake $0.00
+Seat 1: J0hnMcclean (big blind) collected ($500.00)
+Seat 4: rigggedeck (button) (small blind) folded before Flop
+
+PokerStars Hand #1520410842:  Hold'em No Limit ($50.00/$100.00 USD) - 2023/01/13 12:09:53 ET
+Table 'WPN_Westcliffe' 6-max Seat #4 is the button
+Seat 1: J0hnMcclean ($10297.01 in chips)
+Seat 4: rigggedeck ($3038.62 in chips)
+rigggedeck: posts small blind $50.00
+J0hnMcclean: posts big blind $100.00
+*** HOLE CARDS ***
+rigggedeck: raises $130.00 to $230.00
+J0hnMcclean: calls $130.00
+*** FLOP *** [Ts Qd 4c]
+J0hnMcclean: checks
+rigggedeck: bets $137.62
+J0hnMcclean: folds
+Uncalled bet ($137.62) returned to rigggedeck
+rigggedeck collected $458.75 from pot
+rigggedeck: doesn't show hand
+*** SUMMARY ***
+Total pot $460.00 | Rake $1.25
+Board [Ts Qd 4c]
+Seat 1: J0hnMcclean (big blind) folded on the Flop
+Seat 4: rigggedeck (button) (small blind) collected ($458.75)
+
+PokerStars Hand #1520410908:  Hold'em No Limit ($50.00/$100.00 USD) - 2023/01/13 12:10:05 ET
+Table 'WPN_Avon Park' 6-max Seat #1 is the button
+Seat 1: J0hnMcclean ($9500.00 in chips)
+Seat 4: rigggedeck ($8593.13 in chips)
+J0hnMcclean: posts small blind $50.00
+rigggedeck: posts big blind $100.00
+*** HOLE CARDS ***
+J0hnMcclean: raises $150.00 to $250.00
+rigggedeck: raises $750.00 to $1000.00
+J0hnMcclean: folds
+Uncalled bet ($750.00) returned to rigggedeck
+rigggedeck collected $500.00 from pot
+rigggedeck: doesn't show hand
+*** SUMMARY ***
+Total pot $500.00 | Rake $0.00
+Seat 1: J0hnMcclean (button) (small blind) folded before Flop
+Seat 4: rigggedeck (big blind) collected ($500.00)
+
+PokerStars Hand #1520410986:  Hold'em No Limit ($50.00/$100.00 USD) - 2023/01/13 12:10:20 ET
+Table 'WPN_Avon Park' 6-max Seat #4 is the button
+Seat 1: J0hnMcclean ($9250.00 in chips)
+Seat 4: rigggedeck ($8843.13 in chips)
+rigggedeck: posts small blind $50.00
+J0hnMcclean: posts big blind $100.00
+*** HOLE CARDS ***
+rigggedeck: folds
+Uncalled bet ($50.00) returned to J0hnMcclean
+J0hnMcclean collected $100.00 from pot
+J0hnMcclean: doesn't show hand
+*** SUMMARY ***
+Total pot $100.00 | Rake $0.00
+Seat 1: J0hnMcclean (big blind) collected ($100.00)
+Seat 4: rigggedeck (button) (small blind) folded before Flop
+
+PokerStars Hand #1520410979:  Hold'em No Limit ($50.00/$100.00 USD) - 2023/01/13 12:10:19 ET
+Table 'WPN_Westcliffe' 6-max Seat #1 is the button
+Seat 1: J0hnMcclean ($10067.01 in chips)
+Seat 4: rigggedeck ($3267.37 in chips)
+J0hnMcclean: posts small blind $50.00
+rigggedeck: posts big blind $100.00
+*** HOLE CARDS ***
+J0hnMcclean: raises $150.00 to $250.00
+rigggedeck: folds
+Uncalled bet ($150.00) returned to J0hnMcclean
+J0hnMcclean collected $200.00 from pot
+J0hnMcclean: doesn't show hand
+*** SUMMARY ***
+Total pot $200.00 | Rake $0.00
+Seat 1: J0hnMcclean (button) (small blind) collected ($200.00)
+Seat 4: rigggedeck (big blind) folded before Flop
+
+PokerStars Hand #1520411031:  Hold'em No Limit ($50.00/$100.00 USD) - 2023/01/13 12:10:28 ET
+Table 'WPN_Avon Park' 6-max Seat #1 is the button
+Seat 1: J0hnMcclean ($9300.00 in chips)
+Seat 4: rigggedeck ($8793.13 in chips)
+J0hnMcclean: posts small blind $50.00
+rigggedeck: posts big blind $100.00
+*** HOLE CARDS ***
+J0hnMcclean: raises $150.00 to $250.00
+rigggedeck: folds
+Uncalled bet ($150.00) returned to J0hnMcclean
+J0hnMcclean collected $200.00 from pot
+J0hnMcclean: doesn't show hand
+*** SUMMARY ***
+Total pot $200.00 | Rake $0.00
+Seat 1: J0hnMcclean (button) (small blind) collected ($200.00)
+Seat 4: rigggedeck (big blind) folded before Flop
+
+PokerStars Hand #1520411093:  Hold'em No Limit ($50.00/$100.00 USD) - 2023/01/13 12:10:40 ET
+Table 'WPN_Avon Park' 6-max Seat #4 is the button
+Seat 1: J0hnMcclean ($9400.00 in chips)
+Seat 4: rigggedeck ($8693.13 in chips)
+rigggedeck: posts small blind $50.00
+J0hnMcclean: posts big blind $100.00
+*** HOLE CARDS ***
+rigggedeck: folds
+Uncalled bet ($50.00) returned to J0hnMcclean
+J0hnMcclean collected $100.00 from pot
+J0hnMcclean: doesn't show hand
+*** SUMMARY ***
+Total pot $100.00 | Rake $0.00
+Seat 1: J0hnMcclean (big blind) collected ($100.00)
+Seat 4: rigggedeck (button) (small blind) folded before Flop
+
+PokerStars Hand #1520411037:  Hold'em No Limit ($50.00/$100.00 USD) - 2023/01/13 12:10:29 ET
+Table 'WPN_Westcliffe' 6-max Seat #4 is the button
+Seat 1: J0hnMcclean ($10167.01 in chips)
+Seat 4: rigggedeck ($3167.37 in chips)
+rigggedeck: posts small blind $50.00
+J0hnMcclean: posts big blind $100.00
+*** HOLE CARDS ***
+rigggedeck: raises $130.00 to $230.00
+J0hnMcclean: raises $570.00 to $800.00
+rigggedeck: folds
+Uncalled bet ($570.00) returned to J0hnMcclean
+J0hnMcclean collected $460.00 from pot
+J0hnMcclean: doesn't show hand
+*** SUMMARY ***
+Total pot $460.00 | Rake $0.00
+Seat 1: J0hnMcclean (big blind) collected ($460.00)
+Seat 4: rigggedeck (button) (small blind) folded before Flop
+
+PokerStars Hand #1520411169:  Hold'em No Limit ($50.00/$100.00 USD) - 2023/01/13 12:10:53 ET
+Table 'WPN_Avon Park' 6-max Seat #1 is the button
+Seat 1: J0hnMcclean ($9450.00 in chips)
+Seat 4: rigggedeck ($8643.13 in chips)
+J0hnMcclean: posts small blind $50.00
+rigggedeck: posts big blind $100.00
+*** HOLE CARDS ***
+J0hnMcclean: folds
+Uncalled bet ($50.00) returned to rigggedeck
+rigggedeck collected $100.00 from pot
+rigggedeck: doesn't show hand
+*** SUMMARY ***
+Total pot $100.00 | Rake $0.00
+Seat 1: J0hnMcclean (button) (small blind) folded before Flop
+Seat 4: rigggedeck (big blind) collected ($100.00)
+
+PokerStars Hand #1520411210:  Hold'em No Limit ($50.00/$100.00 USD) - 2023/01/13 12:11:00 ET
+Table 'WPN_Westcliffe' 6-max Seat #1 is the button
+Seat 1: J0hnMcclean ($10397.01 in chips)
+Seat 4: rigggedeck ($2937.37 in chips)
+J0hnMcclean: posts small blind $50.00
+rigggedeck: posts big blind $100.00
+*** HOLE CARDS ***
+J0hnMcclean: raises $100.00 to $200.00
+rigggedeck: folds
+Uncalled bet ($100.00) returned to J0hnMcclean
+J0hnMcclean collected $200.00 from pot
+J0hnMcclean: doesn't show hand
+*** SUMMARY ***
+Total pot $200.00 | Rake $0.00
+Seat 1: J0hnMcclean (button) (small blind) collected ($200.00)
+Seat 4: rigggedeck (big blind) folded before Flop
+
+PokerStars Hand #1520411219:  Hold'em No Limit ($50.00/$100.00 USD) - 2023/01/13 12:11:02 ET
+Table 'WPN_Avon Park' 6-max Seat #4 is the button
+Seat 1: J0hnMcclean ($9400.00 in chips)
+Seat 4: rigggedeck ($8693.13 in chips)
+rigggedeck: posts small blind $50.00
+J0hnMcclean: posts big blind $100.00
+*** HOLE CARDS ***
+rigggedeck: raises $150.00 to $250.00
+J0hnMcclean: folds
+Uncalled bet ($150.00) returned to rigggedeck
+rigggedeck collected $200.00 from pot
+rigggedeck: doesn't show hand
+*** SUMMARY ***
+Total pot $200.00 | Rake $0.00
+Seat 1: J0hnMcclean (big blind) folded before Flop
+Seat 4: rigggedeck (button) (small blind) collected ($200.00)
+
+PokerStars Hand #1520411273:  Hold'em No Limit ($50.00/$100.00 USD) - 2023/01/13 12:11:11 ET
+Table 'WPN_Westcliffe' 6-max Seat #4 is the button
+Seat 1: J0hnMcclean ($10497.01 in chips)
+Seat 4: rigggedeck ($2837.37 in chips)
+rigggedeck: posts small blind $50.00
+J0hnMcclean: posts big blind $100.00
+*** HOLE CARDS ***
+rigggedeck: raises $100.00 to $200.00
+J0hnMcclean: folds
+Uncalled bet ($100.00) returned to rigggedeck
+rigggedeck collected $200.00 from pot
+rigggedeck: doesn't show hand
+*** SUMMARY ***
+Total pot $200.00 | Rake $0.00
+Seat 1: J0hnMcclean (big blind) folded before Flop
+Seat 4: rigggedeck (button) (small blind) collected ($200.00)
+
+PokerStars Hand #1520411297:  Hold'em No Limit ($50.00/$100.00 USD) - 2023/01/13 12:11:16 ET
+Table 'WPN_Avon Park' 6-max Seat #1 is the button
+Seat 1: J0hnMcclean ($9300.00 in chips)
+Seat 4: rigggedeck ($8793.13 in chips)
+J0hnMcclean: posts small blind $50.00
+rigggedeck: posts big blind $100.00
+*** HOLE CARDS ***
+J0hnMcclean: raises $150.00 to $250.00
+rigggedeck: folds
+Uncalled bet ($150.00) returned to J0hnMcclean
+J0hnMcclean collected $200.00 from pot
+J0hnMcclean: doesn't show hand
+*** SUMMARY ***
+Total pot $200.00 | Rake $0.00
+Seat 1: J0hnMcclean (button) (small blind) collected ($200.00)
+Seat 4: rigggedeck (big blind) folded before Flop
+
+PokerStars Hand #1520411337:  Hold'em No Limit ($50.00/$100.00 USD) - 2023/01/13 12:11:22 ET
+Table 'WPN_Westcliffe' 6-max Seat #1 is the button
+Seat 1: J0hnMcclean ($10397.01 in chips)
+Seat 4: rigggedeck ($2937.37 in chips)
+J0hnMcclean: posts small blind $50.00
+rigggedeck: posts big blind $100.00
+*** HOLE CARDS ***
+J0hnMcclean: raises $100.00 to $200.00
+rigggedeck: calls $100.00
+*** FLOP *** [2d 5s 3h]
+rigggedeck: checks
+J0hnMcclean: checks
+*** TURN *** [2d 5s 3h] [Kc]
+rigggedeck: checks
+J0hnMcclean: checks
+*** RIVER *** [2d 5s 3h Kc] [8d]
+rigggedeck: checks
+J0hnMcclean: checks
+*** SHOW DOWN ***
+rigggedeck: shows [Qc 9c]
+J0hnMcclean: mucks hand
+rigggedeck collected $398.75 from pot
+*** SUMMARY ***
+Total pot $400.00 | Rake $1.25
+Board [2d 5s 3h Kc 8d]
+Seat 1: J0hnMcclean (button) (small blind) mucked
+Seat 4: rigggedeck (big blind) showed [Qc 9c] and won ($398.75)
+
+PokerStars Hand #1520411561:  Hold'em No Limit ($50.00/$100.00 USD) - 2023/01/13 12:12:07 ET
+Table 'WPN_Westcliffe' 6-max Seat #4 is the button
+Seat 1: J0hnMcclean ($10197.01 in chips)
+Seat 4: rigggedeck ($3136.12 in chips)
+rigggedeck: posts small blind $50.00
+J0hnMcclean: posts big blind $100.00
+*** HOLE CARDS ***
+rigggedeck: raises $100.00 to $200.00
+J0hnMcclean: calls $100.00
+*** FLOP *** [9h As 6s]
+J0hnMcclean: checks
+rigggedeck: checks
+*** TURN *** [9h As 6s] [Jd]
+J0hnMcclean: bets $400.00
+rigggedeck: calls $400.00
+*** RIVER *** [9h As 6s Jd] [3d]
+J0hnMcclean: checks
+rigggedeck: checks
+*** SHOW DOWN ***
+rigggedeck: shows [Js 4s]
+J0hnMcclean: mucks hand
+rigggedeck collected $1198.75 from pot
+*** SUMMARY ***
+Total pot $1200.00 | Rake $1.25
+Board [9h As 6s Jd 3d]
+Seat 1: J0hnMcclean (big blind) mucked
+Seat 4: rigggedeck (button) (small blind) showed [Js 4s] and won ($1198.75)
+
+PokerStars Hand #1520411496:  Hold'em No Limit ($50.00/$100.00 USD) - 2023/01/13 12:11:54 ET
+Table 'WPN_Avon Park' 6-max Seat #4 is the button
+Seat 1: J0hnMcclean ($9400.00 in chips)
+Seat 4: rigggedeck ($8643.13 in chips)
+rigggedeck: posts small blind $50.00
+J0hnMcclean: posts big blind $100.00
+*** HOLE CARDS ***
+rigggedeck: raises $150.00 to $250.00
+J0hnMcclean: calls $150.00
+*** FLOP *** [6c 7c Ah]
+J0hnMcclean: checks
+rigggedeck: checks
+*** TURN *** [6c 7c Ah] [3h]
+J0hnMcclean: bets $750.00
+rigggedeck: calls $750.00
+*** RIVER *** [6c 7c Ah 3h] [Th]
+J0hnMcclean: checks
+rigggedeck: bets $1499.06
+J0hnMcclean: folds
+Uncalled bet ($1499.06) returned to rigggedeck
+rigggedeck collected $1998.75 from pot
+rigggedeck: doesn't show hand
+*** SUMMARY ***
+Total pot $2000.00 | Rake $1.25
+Board [6c 7c Ah 3h Th]
+Seat 1: J0hnMcclean (big blind) folded on the River
+Seat 4: rigggedeck (button) (small blind) collected ($1998.75)
+
+PokerStars Hand #1520411828:  Hold'em No Limit ($50.00/$100.00 USD) - 2023/01/13 12:13:00 ET
+Table 'WPN_Westcliffe' 6-max Seat #1 is the button
+Seat 1: J0hnMcclean ($9597.01 in chips)
+Seat 4: rigggedeck ($3734.87 in chips)
+J0hnMcclean: posts small blind $50.00
+rigggedeck: posts big blind $100.00
+*** HOLE CARDS ***
+J0hnMcclean: folds
+Uncalled bet ($50.00) returned to rigggedeck
+rigggedeck collected $100.00 from pot
+rigggedeck: doesn't show hand
+*** SUMMARY ***
+Total pot $100.00 | Rake $0.00
+Seat 1: J0hnMcclean (button) (small blind) folded before Flop
+Seat 4: rigggedeck (big blind) collected ($100.00)
+
+PokerStars Hand #1520411869:  Hold'em No Limit ($50.00/$100.00 USD) - 2023/01/13 12:13:08 ET
+Table 'WPN_Westcliffe' 6-max Seat #4 is the button
+Seat 1: J0hnMcclean ($9547.01 in chips)
+Seat 4: rigggedeck ($3784.87 in chips)
+rigggedeck: posts small blind $50.00
+J0hnMcclean: posts big blind $100.00
+*** HOLE CARDS ***
+rigggedeck: raises $130.00 to $230.00
+J0hnMcclean: raises $620.00 to $850.00
+rigggedeck: folds
+Uncalled bet ($620.00) returned to J0hnMcclean
+J0hnMcclean collected $460.00 from pot
+J0hnMcclean: doesn't show hand
+*** SUMMARY ***
+Total pot $460.00 | Rake $0.00
+Seat 1: J0hnMcclean (big blind) collected ($460.00)
+Seat 4: rigggedeck (button) (small blind) folded before Flop
+
+PokerStars Hand #1520411961:  Hold'em No Limit ($50.00/$100.00 USD) - 2023/01/13 12:13:25 ET
+Table 'WPN_Westcliffe' 6-max Seat #1 is the button
+Seat 1: J0hnMcclean ($9777.01 in chips)
+Seat 4: rigggedeck ($3554.87 in chips)
+J0hnMcclean: posts small blind $50.00
+rigggedeck: posts big blind $100.00
+*** HOLE CARDS ***
+J0hnMcclean: raises $100.00 to $200.00
+rigggedeck: calls $100.00
+*** FLOP *** [Th Ks 6c]
+rigggedeck: checks
+J0hnMcclean: bets $120.00
+rigggedeck: raises $319.37 to $439.37
+J0hnMcclean: folds
+Uncalled bet ($319.37) returned to rigggedeck
+rigggedeck collected $638.75 from pot
+rigggedeck: doesn't show hand
+*** SUMMARY ***
+Total pot $640.00 | Rake $1.25
+Board [Th Ks 6c]
+Seat 1: J0hnMcclean (button) (small blind) folded on the Flop
+Seat 4: rigggedeck (big blind) collected ($638.75)
+
+PokerStars Hand #1520411833:  Hold'em No Limit ($50.00/$100.00 USD) - 2023/01/13 12:13:01 ET
+Table 'WPN_Avon Park' 6-max Seat #1 is the button
+Seat 1: J0hnMcclean ($10000.00 in chips)
+Seat 4: rigggedeck ($9691.88 in chips)
+J0hnMcclean: posts small blind $50.00
+rigggedeck: posts big blind $100.00
+*** HOLE CARDS ***
+J0hnMcclean: raises $150.00 to $250.00
+rigggedeck: raises $800.00 to $1050.00
+J0hnMcclean: calls $800.00
+*** FLOP *** [Th 8h 7h]
+rigggedeck: bets $300.00
+J0hnMcclean: calls $300.00
+*** TURN *** [Th 8h 7h] [3h]
+rigggedeck: bets $1950.00
+J0hnMcclean: calls $1950.00
+*** RIVER *** [Th 8h 7h 3h] [2h]
+rigggedeck: bets $6391.88 and is all-in
+J0hnMcclean: calls $6391.88
+*** SHOW DOWN ***
+J0hnMcclean: shows [9h Ah]
+rigggedeck: shows [9c Qc]
+J0hnMcclean collected $19382.51 from pot
+*** SUMMARY ***
+Total pot $19383.76 | Rake $1.25
+Board [Th 8h 7h 3h 2h]
+Seat 1: J0hnMcclean (button) (small blind) showed [9h Ah] and won ($19382.51)
+Seat 4: rigggedeck (big blind) showed [9c Qc] and lost
+
+PokerStars Hand #1520412114:  Hold'em No Limit ($50.00/$100.00 USD) - 2023/01/13 12:13:57 ET
+Table 'WPN_Westcliffe' 6-max Seat #4 is the button
+Seat 1: J0hnMcclean ($9457.01 in chips)
+Seat 4: rigggedeck ($3873.62 in chips)
+rigggedeck: posts small blind $50.00
+J0hnMcclean: posts big blind $100.00
+*** HOLE CARDS ***
+rigggedeck: raises $100.00 to $200.00
+J0hnMcclean: calls $100.00
+*** FLOP *** [Js 2h Ks]
+J0hnMcclean: checks
+rigggedeck: checks
+*** TURN *** [Js 2h Ks] [5h]
+J0hnMcclean: bets $300.00
+rigggedeck: folds
+Uncalled bet ($300.00) returned to J0hnMcclean
+J0hnMcclean collected $398.75 from pot
+J0hnMcclean: doesn't show hand
+*** SUMMARY ***
+Total pot $400.00 | Rake $1.25
+Board [Js 2h Ks 5h]
+Seat 1: J0hnMcclean (big blind) collected ($398.75)
+Seat 4: rigggedeck (button) (small blind) folded on the Turn
+
+PokerStars Hand #1520412346:  Hold'em No Limit ($50.00/$100.00 USD) - 2023/01/13 12:14:42 ET
+Table 'WPN_Westcliffe' 6-max Seat #1 is the button
+Seat 1: J0hnMcclean ($9655.76 in chips)
+Seat 4: rigggedeck ($3673.62 in chips)
+J0hnMcclean: posts small blind $50.00
+rigggedeck: posts big blind $100.00
+*** HOLE CARDS ***
+J0hnMcclean: raises $100.00 to $200.00
+rigggedeck: calls $100.00
+*** FLOP *** [Jh Kd Ks]
+rigggedeck: checks
+J0hnMcclean: bets $100.00
+rigggedeck: calls $100.00
+*** TURN *** [Jh Kd Ks] [9c]
+rigggedeck: checks
+J0hnMcclean: checks
+*** RIVER *** [Jh Kd Ks 9c] [Ts]
+rigggedeck: bets $179.62
+J0hnMcclean: folds
+Uncalled bet ($179.62) returned to rigggedeck
+rigggedeck collected $598.75 from pot
+rigggedeck: doesn't show hand
+*** SUMMARY ***
+Total pot $600.00 | Rake $1.25
+Board [Jh Kd Ks 9c Ts]
+Seat 1: J0hnMcclean (button) (small blind) folded on the River
+Seat 4: rigggedeck (big blind) collected ($598.75)
+
+PokerStars Hand #1520412611:  Hold'em No Limit ($50.00/$100.00 USD) - 2023/01/13 12:15:30 ET
+Table 'WPN_Westcliffe' 6-max Seat #4 is the button
+Seat 1: J0hnMcclean ($9355.76 in chips)
+Seat 4: rigggedeck ($3972.37 in chips)
+rigggedeck: posts small blind $50.00
+J0hnMcclean: posts big blind $100.00
+*** HOLE CARDS ***
+rigggedeck: raises $130.00 to $230.00
+J0hnMcclean: calls $130.00
+*** FLOP *** [8d 4s 3h]
+J0hnMcclean: checks
+rigggedeck: bets $229.37
+J0hnMcclean: calls $229.37
+*** TURN *** [8d 4s 3h] [6h]
+J0hnMcclean: checks
+rigggedeck: bets $688.11
+J0hnMcclean: calls $688.11
+*** RIVER *** [8d 4s 3h 6h] [8h]
+J0hnMcclean: checks
+rigggedeck: bets $2824.89 and is all-in
+J0hnMcclean: calls $2824.89
+*** SHOW DOWN ***
+rigggedeck: shows [Ah 9h]
+J0hnMcclean: shows [8s 9s]
+rigggedeck collected $7943.49 from pot
+*** SUMMARY ***
+Total pot $7944.74 | Rake $1.25
+Board [8d 4s 3h 6h 8h]
+Seat 1: J0hnMcclean (big blind) showed [8s 9s] and lost
+Seat 4: rigggedeck (button) (small blind) showed [Ah 9h] and won ($7943.49)
+
+PokerStars Hand #1520412955:  Hold'em No Limit ($50.00/$100.00 USD) - 2023/01/13 12:16:40 ET
+Table 'WPN_Westcliffe' 6-max Seat #1 is the button
+Seat 1: J0hnMcclean ($5383.39 in chips)
+Seat 4: rigggedeck ($7943.49 in chips)
+J0hnMcclean: posts small blind $50.00
+rigggedeck: posts big blind $100.00
+*** HOLE CARDS ***
+J0hnMcclean: raises $100.00 to $200.00
+rigggedeck: calls $100.00
+*** FLOP *** [7h 6s 7c]
+rigggedeck: checks
+J0hnMcclean: bets $100.00
+rigggedeck: calls $100.00
+*** TURN *** [7h 6s 7c] [Kc]
+rigggedeck: checks
+J0hnMcclean: checks
+*** RIVER *** [7h 6s 7c Kc] [2d]
+rigggedeck: checks
+J0hnMcclean: checks
+*** SHOW DOWN ***
+rigggedeck: shows [5d Qc]
+J0hnMcclean: mucks hand
+rigggedeck collected $598.75 from pot
+*** SUMMARY ***
+Total pot $600.00 | Rake $1.25
+Board [7h 6s 7c Kc 2d]
+Seat 1: J0hnMcclean (button) (small blind) mucked
+Seat 4: rigggedeck (big blind) showed [5d Qc] and won ($598.75)
+
+PokerStars Hand #1520413193:  Hold'em No Limit ($50.00/$100.00 USD) - 2023/01/13 12:17:29 ET
+Table 'WPN_Westcliffe' 6-max Seat #4 is the button
+Seat 1: J0hnMcclean ($10000.00 in chips)
+Seat 4: rigggedeck ($8242.24 in chips)
+rigggedeck: posts small blind $50.00
+J0hnMcclean: posts big blind $100.00
+*** HOLE CARDS ***
+rigggedeck: raises $150.00 to $250.00
+J0hnMcclean: calls $150.00
+*** FLOP *** [Jc 7c Qd]
+J0hnMcclean: checks
+rigggedeck: checks
+*** TURN *** [Jc 7c Qd] [3d]
+J0hnMcclean: bets $400.00
+rigggedeck: folds
+Uncalled bet ($400.00) returned to J0hnMcclean
+J0hnMcclean collected $498.75 from pot
+J0hnMcclean: doesn't show hand
+*** SUMMARY ***
+Total pot $500.00 | Rake $1.25
+Board [Jc 7c Qd 3d]
+Seat 1: J0hnMcclean (big blind) collected ($498.75)
+Seat 4: rigggedeck (button) (small blind) folded on the Turn
+
+PokerStars Hand #1520413376:  Hold'em No Limit ($50.00/$100.00 USD) - 2023/01/13 12:18:05 ET
+Table 'WPN_Westcliffe' 6-max Seat #1 is the button
+Seat 1: J0hnMcclean ($10248.75 in chips)
+Seat 4: rigggedeck ($7992.24 in chips)
+J0hnMcclean: posts small blind $50.00
+rigggedeck: posts big blind $100.00
+*** HOLE CARDS ***
+J0hnMcclean: raises $150.00 to $250.00
+rigggedeck: raises $700.00 to $950.00
+J0hnMcclean: calls $700.00
+*** FLOP *** [Ah 6d Qs]
+rigggedeck: checks
+J0hnMcclean: bets $950.00
+rigggedeck: calls $950.00
+*** TURN *** [Ah 6d Qs] [Ks]
+rigggedeck: checks
+J0hnMcclean: bets $1640.00
+rigggedeck: calls $1640.00
+*** RIVER *** [Ah 6d Qs Ks] [9d]
+rigggedeck: checks
+J0hnMcclean: bets $6708.75 and is all-in
+rigggedeck: calls $4452.24 and is all-in
+Uncalled bet ($2256.51) returned to J0hnMcclean
+*** SHOW DOWN ***
+J0hnMcclean: shows [Jh Th]
+rigggedeck: shows [Jd Ad]
+J0hnMcclean collected $15983.23 from pot
+*** SUMMARY ***
+Total pot $15984.48 | Rake $1.25
+Board [Ah 6d Qs Ks 9d]
+Seat 1: J0hnMcclean (button) (small blind) showed [Jh Th] and won ($15983.23)
+Seat 4: rigggedeck (big blind) showed [Jd Ad] and lost
+
+PokerStars Hand #1520399436:  Hold'em No Limit ($50.00/$100.00 USD) - 2023/01/13 11:31:35 ET
+Table 'WPN_Westcliffe' 6-max Seat #5 is the button
+Seat 2: 7SkyAroundMe ($12895.43 in chips)
+Seat 5: JohnMcShen ($13125.82 in chips)
+JohnMcShen: posts small blind $50.00
+7SkyAroundMe: posts big blind $100.00
+*** HOLE CARDS ***
+JohnMcShen: raises $150.00 to $250.00
+7SkyAroundMe: calls $150.00
+*** FLOP *** [Jd 4d 9d]
+7SkyAroundMe: checks
+JohnMcShen: bets $165.00
+7SkyAroundMe: raises $415.00 to $580.00
+JohnMcShen: folds
+Uncalled bet ($415.00) returned to 7SkyAroundMe
+7SkyAroundMe collected $828.75 from pot
+7SkyAroundMe: doesn't show hand
+*** SUMMARY ***
+Total pot $830.00 | Rake $1.25
+Board [Jd 4d 9d]
+Seat 2: 7SkyAroundMe (big blind) collected ($828.75)
+Seat 5: JohnMcShen (button) (small blind) folded on the Flop
+
+PokerStars Hand #1520399420:  Hold'em No Limit ($50.00/$100.00 USD) - 2023/01/13 11:31:32 ET
+Table 'WPN_Avon Park' 6-max Seat #6 is the button
+Seat 2: 7SkyAroundMe ($14457.62 in chips)
+Seat 5: JohnMcShen ($9544.47 in chips)
+Seat 6: rigggedeck ($2587.91 in chips)
+7SkyAroundMe: posts small blind $50.00
+JohnMcShen: posts big blind $100.00
+*** HOLE CARDS ***
+rigggedeck: raises $100.00 to $200.00
+7SkyAroundMe: folds
+JohnMcShen: calls $100.00
+*** FLOP *** [2d Kd 3s]
+JohnMcShen: checks
+rigggedeck: bets $134.47
+JohnMcShen: calls $134.47
+*** TURN *** [2d Kd 3s] [4s]
+JohnMcShen: checks
+rigggedeck: checks
+*** RIVER *** [2d Kd 3s 4s] [Qh]
+JohnMcShen: bets $237.25
+rigggedeck: folds
+Uncalled bet ($237.25) returned to JohnMcShen
+JohnMcShen collected $717.19 from pot
+JohnMcShen: doesn't show hand
+*** SUMMARY ***
+Total pot $718.94 | Rake $1.75
+Board [2d Kd 3s 4s Qh]
+Seat 2: 7SkyAroundMe (small blind) folded before Flop
+Seat 5: JohnMcShen (big blind) collected ($717.19)
+Seat 6: rigggedeck (button) folded on the River
+
+PokerStars Hand #1520399698:  Hold'em No Limit ($50.00/$100.00 USD) - 2023/01/13 11:32:21 ET
+Table 'WPN_Westcliffe' 6-max Seat #2 is the button
+Seat 2: 7SkyAroundMe ($13309.18 in chips)
+Seat 5: JohnMcShen ($12710.82 in chips)
+7SkyAroundMe: posts small blind $50.00
+JohnMcShen: posts big blind $100.00
+*** HOLE CARDS ***
+7SkyAroundMe: raises $150.00 to $250.00
+JohnMcShen: folds
+Uncalled bet ($150.00) returned to 7SkyAroundMe
+7SkyAroundMe collected $200.00 from pot
+7SkyAroundMe: doesn't show hand
+*** SUMMARY ***
+Total pot $200.00 | Rake $0.00
+Seat 2: 7SkyAroundMe (button) (small blind) collected ($200.00)
+Seat 5: JohnMcShen (big blind) folded before Flop
+
+PokerStars Hand #1520399330:  Hold'em No Limit ($50.00/$100.00 USD) - 2023/01/13 11:31:16 ET
+Table 'WPN_Avon Park' 6-max Seat #5 is the button
+Seat 2: 7SkyAroundMe ($14407.62 in chips)
+Seat 5: JohnMcShen ($9544.47 in chips)
+Seat 6: rigggedeck ($2637.91 in chips)
+rigggedeck: posts small blind $50.00
+7SkyAroundMe: posts big blind $100.00
+*** HOLE CARDS ***
+JohnMcShen: folds
+rigggedeck: folds
+Uncalled bet ($50.00) returned to 7SkyAroundMe
+7SkyAroundMe collected $100.00 from pot
+7SkyAroundMe: doesn't show hand
+*** SUMMARY ***
+Total pot $100.00 | Rake $0.00
+Seat 2: 7SkyAroundMe (big blind) collected ($100.00)
+Seat 5: JohnMcShen (button) folded before Flop (didn't bet)
+Seat 6: rigggedeck (small blind) folded before Flop
+
+PokerStars Hand #1520399320:  Hold'em No Limit ($50.00/$100.00 USD) - 2023/01/13 11:31:14 ET
+Table 'WPN_Westcliffe' 6-max Seat #2 is the button
+Seat 2: 7SkyAroundMe ($13145.43 in chips)
+Seat 5: JohnMcShen ($12875.82 in chips)
+7SkyAroundMe: posts small blind $50.00
+JohnMcShen: posts big blind $100.00
+*** HOLE CARDS ***
+7SkyAroundMe: raises $150.00 to $250.00
+JohnMcShen: raises $800.00 to $1050.00
+7SkyAroundMe: folds
+Uncalled bet ($800.00) returned to JohnMcShen
+JohnMcShen collected $500.00 from pot
+JohnMcShen: doesn't show hand
+*** SUMMARY ***
+Total pot $500.00 | Rake $0.00
+Seat 2: 7SkyAroundMe (button) (small blind) folded before Flop
+Seat 5: JohnMcShen (big blind) collected ($500.00)
+
+PokerStars Hand #1520670985:  Hold'em No Limit ($50.00/$100.00 USD) - 2023/01/13 19:07:17 ET
+Table 'WPN_Jetmore' 6-max Seat #6 is the button
+Seat 1: b00ma ($4000.00 in chips)
+Seat 3: TaurusM00n ($11748.75 in chips)
+Seat 4: J0hnMcclean ($10000.00 in chips)
+Seat 6: oneplusone ($10248.75 in chips)
+TaurusM00n: posts small blind $50.00
+J0hnMcclean: posts big blind $100.00
+*** HOLE CARDS ***
+oneplusone: folds
+TaurusM00n: calls $50.00
+J0hnMcclean: raises $300.00 to $400.00
+TaurusM00n: raises $1400.00 to $1800.00
+J0hnMcclean: calls $1400.00
+*** FLOP *** [8d 3c 5c]
+TaurusM00n: bets $1200.00
+J0hnMcclean: folds
+Uncalled bet ($1200.00) returned to TaurusM00n
+TaurusM00n collected $3598.25 from pot
+TaurusM00n: doesn't show hand
+*** SUMMARY ***
+Total pot $3600.00 | Rake $1.75
+Board [8d 3c 5c]
+Seat 3: TaurusM00n (small blind) collected ($3598.25)
+Seat 4: J0hnMcclean (big blind) folded on the Flop
+Seat 6: oneplusone (button) folded before Flop (didn't bet)
+
+PokerStars Hand #1520670408:  Hold'em No Limit ($50.00/$100.00 USD) - 2023/01/13 19:06:48 ET
+Table 'WPN_Jetmore' 6-max Seat #6 is the button
+Seat 3: TaurusM00n ($11998.75 in chips)
+Seat 6: oneplusone ($8150.00 in chips)
+oneplusone: posts small blind $50.00
+TaurusM00n: posts big blind $100.00
+*** HOLE CARDS ***
+oneplusone: raises $150.00 to $250.00
+TaurusM00n: calls $150.00
+*** FLOP *** [6s Qh 4c]
+TaurusM00n: checks
+oneplusone: bets $250.00
+TaurusM00n: folds
+Uncalled bet ($250.00) returned to oneplusone
+oneplusone collected $498.75 from pot
+oneplusone: doesn't show hand
+*** SUMMARY ***
+Total pot $500.00 | Rake $1.25
+Board [6s Qh 4c]
+Seat 3: TaurusM00n (big blind) folded on the Flop
+Seat 6: oneplusone (button) (small blind) collected ($498.75)
+
+PokerStars Hand #1520668840:  Hold'em No Limit ($50.00/$100.00 USD) - 2023/01/13 19:05:28 ET
+Table 'WPN_Jetmore' 6-max Seat #3 is the button
+Seat 3: TaurusM00n ($10050.00 in chips)
+Seat 6: oneplusone ($10100.00 in chips)
+TaurusM00n: posts small blind $50.00
+oneplusone: posts big blind $100.00
+*** HOLE CARDS ***
+TaurusM00n: raises $150.00 to $250.00
+oneplusone: raises $850.00 to $1100.00
+TaurusM00n: calls $850.00
+*** FLOP *** [2h 5d Tc]
+oneplusone: bets $850.00
+TaurusM00n: calls $850.00
+*** TURN *** [2h 5d Tc] [5c]
+oneplusone: checks
+TaurusM00n: bets $1300.00
+oneplusone: folds
+Uncalled bet ($1300.00) returned to TaurusM00n
+TaurusM00n collected $3898.75 from pot
+TaurusM00n: doesn't show hand
+*** SUMMARY ***
+Total pot $3900.00 | Rake $1.25
+Board [2h 5d Tc 5c]
+Seat 3: TaurusM00n (button) (small blind) collected ($3898.75)
+Seat 6: oneplusone (big blind) folded on the Turn
+
+PokerStars Hand #1520398839:  Hold'em No Limit ($50.00/$100.00 USD) - 2023/01/13 11:29:49 ET
+Table 'WPN_Westcliffe' 6-max Seat #2 is the button
+Seat 2: 7SkyAroundMe ($13845.43 in chips)
+Seat 5: JohnMcShen ($12177.07 in chips)
+7SkyAroundMe: posts small blind $50.00
+JohnMcShen: posts big blind $100.00
+*** HOLE CARDS ***
+7SkyAroundMe: raises $150.00 to $250.00
+JohnMcShen: calls $150.00
+*** FLOP *** [8s 9h Ah]
+JohnMcShen: checks
+7SkyAroundMe: checks
+*** TURN *** [8s 9h Ah] [7d]
+JohnMcShen: checks
+7SkyAroundMe: bets $500.00
+JohnMcShen: raises $1750.00 to $2250.00
+7SkyAroundMe: folds
+Uncalled bet ($1750.00) returned to JohnMcShen
+JohnMcShen collected $1498.75 from pot
+JohnMcShen: doesn't show hand
+*** SUMMARY ***
+Total pot $1500.00 | Rake $1.25
+Board [8s 9h Ah 7d]
+Seat 2: 7SkyAroundMe (button) (small blind) folded on the Turn
+Seat 5: JohnMcShen (big blind) collected ($1498.75)
+
+PokerStars Hand #1520399261:  Hold'em No Limit ($50.00/$100.00 USD) - 2023/01/13 11:31:03 ET
+Table 'WPN_Westcliffe' 6-max Seat #5 is the button
+Seat 2: 7SkyAroundMe ($13095.43 in chips)
+Seat 5: JohnMcShen ($12925.82 in chips)
+JohnMcShen: posts small blind $50.00
+7SkyAroundMe: posts big blind $100.00
+*** HOLE CARDS ***
+JohnMcShen: folds
+Uncalled bet ($50.00) returned to 7SkyAroundMe
+7SkyAroundMe collected $100.00 from pot
+7SkyAroundMe: doesn't show hand
+*** SUMMARY ***
+Total pot $100.00 | Rake $0.00
+Seat 2: 7SkyAroundMe (big blind) collected ($100.00)
+Seat 5: JohnMcShen (button) (small blind) folded before Flop
+
+PokerStars Hand #1520398557:  Hold'em No Limit ($50.00/$100.00 USD) - 2023/01/13 11:28:53 ET
+Table 'WPN_Avon Park' 6-max Seat #2 is the button
+Seat 1: FlyingStyle ($10873.50 in chips)
+Seat 2: 7SkyAroundMe ($10543.87 in chips)
+Seat 5: JohnMcShen ($13310.47 in chips)
+Seat 6: rigggedeck ($2737.91 in chips)
+JohnMcShen: posts small blind $50.00
+rigggedeck: posts big blind $100.00
+*** HOLE CARDS ***
+FlyingStyle: folds
+7SkyAroundMe: raises $150.00 to $250.00
+JohnMcShen: raises $850.00 to $1100.00
+rigggedeck: folds
+7SkyAroundMe: calls $850.00
+*** FLOP *** [7d Kd 9s]
+JohnMcShen: bets $759.00
+7SkyAroundMe: calls $759.00
+*** TURN *** [7d Kd 9s] [3s]
+JohnMcShen: checks
+7SkyAroundMe: bets $1907.00
+JohnMcShen: calls $1907.00
+*** RIVER *** [7d Kd 9s 3s] [7h]
+JohnMcShen: checks
+7SkyAroundMe: bets $6777.87 and is all-in
+JohnMcShen: folds
+Uncalled bet ($6777.87) returned to 7SkyAroundMe
+7SkyAroundMe collected $7629.75 from pot
+7SkyAroundMe: doesn't show hand
+*** SUMMARY ***
+Total pot $7632.00 | Rake $2.25
+Board [7d Kd 9s 3s 7h]
+Seat 1: FlyingStyle folded before Flop (didn't bet)
+Seat 2: 7SkyAroundMe (button) collected ($7629.75)
+Seat 5: JohnMcShen (small blind) folded on the River
+Seat 6: rigggedeck (big blind) folded before Flop
+
+PokerStars Hand #1520398469:  Hold'em No Limit ($50.00/$100.00 USD) - 2023/01/13 11:28:38 ET
+Table 'WPN_Westcliffe' 6-max Seat #5 is the button
+Seat 2: 7SkyAroundMe ($12501.08 in chips)
+Seat 5: JohnMcShen ($13522.67 in chips)
+JohnMcShen: posts small blind $50.00
+7SkyAroundMe: posts big blind $100.00
+*** HOLE CARDS ***
+JohnMcShen: raises $150.00 to $250.00
+7SkyAroundMe: calls $150.00
+*** FLOP *** [5d Jh 2d]
+7SkyAroundMe: checks
+JohnMcShen: checks
+*** TURN *** [5d Jh 2d] [2h]
+7SkyAroundMe: bets $330.00
+JohnMcShen: calls $330.00
+*** RIVER *** [5d Jh 2d 2h] [6h]
+7SkyAroundMe: bets $765.60
+JohnMcShen: calls $765.60
+*** SHOW DOWN ***
+7SkyAroundMe: shows [Ah 3h]
+JohnMcShen: mucks hand
+7SkyAroundMe collected $2689.95 from pot
+*** SUMMARY ***
+Total pot $2691.20 | Rake $1.25
+Board [5d Jh 2d 2h 6h]
+Seat 2: 7SkyAroundMe (big blind) showed [Ah 3h] and won ($2689.95)
+Seat 5: JohnMcShen (button) (small blind) mucked
+
+PokerStars Hand #1520348909:  Hold'em No Limit ($50.00/$100.00 USD) - 2023/01/13 09:12:51 ET
+Table 'WPN_Avon Park' 6-max Seat #2 is the button
+Seat 2: 7SkyAroundMe ($13248.75 in chips)
+Seat 4: FlyingStyle ($10000.00 in chips)
+7SkyAroundMe: posts small blind $50.00
+FlyingStyle: posts big blind $100.00
+*** HOLE CARDS ***
+7SkyAroundMe: raises $150.00 to $250.00
+FlyingStyle: folds
+Uncalled bet ($150.00) returned to 7SkyAroundMe
+7SkyAroundMe collected $200.00 from pot
+7SkyAroundMe: doesn't show hand
+*** SUMMARY ***
+Total pot $200.00 | Rake $0.00
+Seat 2: 7SkyAroundMe (button) (small blind) collected ($200.00)
+Seat 4: FlyingStyle (big blind) folded before Flop
+
+PokerStars Hand #1520348997:  Hold'em No Limit ($50.00/$100.00 USD) - 2023/01/13 09:13:02 ET
+Table 'WPN_Avon Park' 6-max Seat #4 is the button
+Seat 2: 7SkyAroundMe ($13348.75 in chips)
+Seat 4: FlyingStyle ($9900.00 in chips)
+FlyingStyle: posts small blind $50.00
+7SkyAroundMe: posts big blind $100.00
+*** HOLE CARDS ***
+FlyingStyle: raises $150.00 to $250.00
+7SkyAroundMe: calls $150.00
+*** FLOP *** [5d 7h Qd]
+7SkyAroundMe: checks
+FlyingStyle: bets $115.00
+7SkyAroundMe: folds
+Uncalled bet ($115.00) returned to FlyingStyle
+FlyingStyle collected $498.75 from pot
+FlyingStyle: doesn't show hand
+*** SUMMARY ***
+Total pot $500.00 | Rake $1.25
+Board [5d 7h Qd]
+Seat 2: 7SkyAroundMe (big blind) folded on the Flop
+Seat 4: FlyingStyle (button) (small blind) collected ($498.75)
+
+PokerStars Hand #1520365459:  Hold'em No Limit ($50.00/$100.00 USD) - 2023/01/13 09:52:44 ET
+Table 'WPN_Avon Park' 6-max Seat #2 is the button
+Seat 2: 7SkyAroundMe ($13048.75 in chips)
+Seat 3: THENIGHTKING1 ($4000.00 in chips)
+Seat 4: rigggedeck ($4000.00 in chips)
+7SkyAroundMe: posts the ante $500.00
+rigggedeck: posts the ante $500.00
+*** HOLE CARDS ***
+*** FLOP *** [8c 5s 7h]
+rigggedeck: checks
+7SkyAroundMe: bets $250.00
+rigggedeck: calls $250.00
+*** TURN *** [8c 5s 7h] [9d]
+rigggedeck: checks
+7SkyAroundMe: bets $750.00
+rigggedeck: folds
+Uncalled bet ($750.00) returned to 7SkyAroundMe
+7SkyAroundMe collected $1498.75 from pot
+7SkyAroundMe: doesn't show hand
+*** SUMMARY ***
+Total pot $1500.00 | Rake $1.25
+Board [8c 5s 7h 9d]
+Seat 2: 7SkyAroundMe (button) collected ($1498.75)
+Seat 4: rigggedeck folded on the Turn
+
+PokerStars Hand #1520365862:  Hold'em No Limit ($50.00/$100.00 USD) - 2023/01/13 09:53:29 ET
+Table 'WPN_Avon Park' 6-max Seat #2 is the button
+Seat 2: 7SkyAroundMe ($13847.50 in chips)
+Seat 3: THENIGHTKING1 ($4000.00 in chips)
+Seat 4: rigggedeck ($3250.00 in chips)
+Seat 5: Ovalete ($10000.00 in chips)
+Seat 6: zas911 ($10000.00 in chips)
+THENIGHTKING1: posts small blind $50.00
+rigggedeck: posts big blind $100.00
+*** HOLE CARDS ***
+Ovalete: folds
+zas911: folds
+7SkyAroundMe: folds
+THENIGHTKING1: folds
+Uncalled bet ($50.00) returned to rigggedeck
+rigggedeck collected $100.00 from pot
+rigggedeck: doesn't show hand
+*** SUMMARY ***
+Total pot $100.00 | Rake $0.00
+Seat 2: 7SkyAroundMe (button) folded before Flop (didn't bet)
+Seat 3: THENIGHTKING1 (small blind) folded before Flop
+Seat 4: rigggedeck (big blind) collected ($100.00)
+Seat 5: Ovalete folded before Flop (didn't bet)
+Seat 6: zas911 folded before Flop (didn't bet)
+
+PokerStars Hand #1520365994:  Hold'em No Limit ($50.00/$100.00 USD) - 2023/01/13 09:53:46 ET
+Table 'WPN_Avon Park' 6-max Seat #3 is the button
+Seat 2: 7SkyAroundMe ($13847.50 in chips)
+Seat 3: THENIGHTKING1 ($3950.00 in chips)
+Seat 4: rigggedeck ($3300.00 in chips)
+Seat 6: zas911 ($10000.00 in chips)
+rigggedeck: posts small blind $50.00
+zas911: posts big blind $100.00
+*** HOLE CARDS ***
+7SkyAroundMe: folds
+THENIGHTKING1: folds
+rigggedeck: raises $100.00 to $200.00
+zas911: folds
+Uncalled bet ($100.00) returned to rigggedeck
+rigggedeck collected $200.00 from pot
+rigggedeck: doesn't show hand
+*** SUMMARY ***
+Total pot $200.00 | Rake $0.00
+Seat 2: 7SkyAroundMe folded before Flop (didn't bet)
+Seat 3: THENIGHTKING1 (button) folded before Flop (didn't bet)
+Seat 4: rigggedeck (small blind) collected ($200.00)
+Seat 6: zas911 (big blind) folded before Flop
+
+PokerStars Hand #1520366208:  Hold'em No Limit ($50.00/$100.00 USD) - 2023/01/13 09:54:14 ET
+Table 'WPN_Avon Park' 6-max Seat #4 is the button
+Seat 2: 7SkyAroundMe ($13847.50 in chips)
+Seat 3: THENIGHTKING1 ($3950.00 in chips)
+Seat 4: rigggedeck ($3400.00 in chips)
+Seat 6: zas911 ($9900.00 in chips)
+zas911: posts small blind $50.00
+7SkyAroundMe: posts big blind $100.00
+*** HOLE CARDS ***
+THENIGHTKING1: folds
+rigggedeck: folds
+zas911: folds
+Uncalled bet ($50.00) returned to 7SkyAroundMe
+7SkyAroundMe collected $100.00 from pot
+7SkyAroundMe: doesn't show hand
+*** SUMMARY ***
+Total pot $100.00 | Rake $0.00
+Seat 2: 7SkyAroundMe (big blind) collected ($100.00)
+Seat 3: THENIGHTKING1 folded before Flop (didn't bet)
+Seat 4: rigggedeck (button) folded before Flop (didn't bet)
+Seat 6: zas911 (small blind) folded before Flop
+
+PokerStars Hand #1520366290:  Hold'em No Limit ($50.00/$100.00 USD) - 2023/01/13 09:54:29 ET
+Table 'WPN_Avon Park' 6-max Seat #6 is the button
+Seat 2: 7SkyAroundMe ($13897.50 in chips)
+Seat 4: rigggedeck ($3400.00 in chips)
+Seat 6: zas911 ($9950.00 in chips)
+7SkyAroundMe: posts small blind $50.00
+rigggedeck: posts big blind $100.00
+*** HOLE CARDS ***
+zas911: raises $120.00 to $220.00
+7SkyAroundMe: folds
+rigggedeck: folds
+Uncalled bet ($120.00) returned to zas911
+zas911 collected $250.00 from pot
+zas911: doesn't show hand
+*** SUMMARY ***
+Total pot $250.00 | Rake $0.00
+Seat 2: 7SkyAroundMe (small blind) folded before Flop
+Seat 4: rigggedeck (big blind) folded before Flop
+Seat 6: zas911 (button) collected ($250.00)
+
+PokerStars Hand #1520366425:  Hold'em No Limit ($50.00/$100.00 USD) - 2023/01/13 09:54:51 ET
+Table 'WPN_Avon Park' 6-max Seat #4 is the button
+Seat 2: 7SkyAroundMe ($13847.50 in chips)
+Seat 4: rigggedeck ($3300.00 in chips)
+rigggedeck: posts small blind $50.00
+7SkyAroundMe: posts big blind $100.00
+*** HOLE CARDS ***
+rigggedeck: raises $100.00 to $200.00
+7SkyAroundMe: folds
+Uncalled bet ($100.00) returned to rigggedeck
+rigggedeck collected $200.00 from pot
+rigggedeck: doesn't show hand
+*** SUMMARY ***
+Total pot $200.00 | Rake $0.00
+Seat 2: 7SkyAroundMe (big blind) folded before Flop
+Seat 4: rigggedeck (button) (small blind) collected ($200.00)
+
+PokerStars Hand #1520366518:  Hold'em No Limit ($50.00/$100.00 USD) - 2023/01/13 09:55:07 ET
+Table 'WPN_Avon Park' 6-max Seat #2 is the button
+Seat 2: 7SkyAroundMe ($13747.50 in chips)
+Seat 4: rigggedeck ($3400.00 in chips)
+7SkyAroundMe: posts small blind $50.00
+rigggedeck: posts big blind $100.00
+*** HOLE CARDS ***
+7SkyAroundMe: calls $50.00
+rigggedeck: checks
+*** FLOP *** [5h 4d 2h]
+rigggedeck: bets $100.00
+7SkyAroundMe: raises $167.00 to $267.00
+rigggedeck: calls $167.00
+*** TURN *** [5h 4d 2h] [As]
+rigggedeck: checks
+7SkyAroundMe: bets $484.44
+rigggedeck: calls $484.44
+*** RIVER *** [5h 4d 2h As] [8d]
+rigggedeck: checks
+7SkyAroundMe: bets $1123.90
+rigggedeck: raises $1424.66 to $2548.56 and is all-in
+7SkyAroundMe: calls $1424.66
+*** SHOW DOWN ***
+7SkyAroundMe: shows [Td 3h]
+rigggedeck: shows [8h 3d]
+7SkyAroundMe collected $3399.38 from pot
+rigggedeck collected $3399.37 from pot
+*** SUMMARY ***
+Total pot $6800.00 | Rake $1.25
+Board [5h 4d 2h As 8d]
+Seat 2: 7SkyAroundMe (button) (small blind) showed [Td 3h] and won ($3399.38)
+Seat 4: rigggedeck (big blind) showed [8h 3d] and won ($3399.37)
+
+PokerStars Hand #1520366958:  Hold'em No Limit ($50.00/$100.00 USD) - 2023/01/13 09:56:45 ET
+Table 'WPN_Avon Park' 6-max Seat #4 is the button
+Seat 2: 7SkyAroundMe ($13746.88 in chips)
+Seat 4: rigggedeck ($3399.37 in chips)
+rigggedeck: posts small blind $50.00
+7SkyAroundMe: posts big blind $100.00
+*** HOLE CARDS ***
+rigggedeck: raises $100.00 to $200.00
+7SkyAroundMe: raises $600.00 to $800.00
+rigggedeck: raises $2599.37 to $3399.37 and is all-in
+7SkyAroundMe: folds
+Uncalled bet ($2599.37) returned to rigggedeck
+rigggedeck collected $1600.00 from pot
+rigggedeck: doesn't show hand
+*** SUMMARY ***
+Total pot $1600.00 | Rake $0.00
+Seat 2: 7SkyAroundMe (big blind) folded before Flop
+Seat 4: rigggedeck (button) (small blind) collected ($1600.00)
+
+PokerStars Hand #1520367078:  Hold'em No Limit ($50.00/$100.00 USD) - 2023/01/13 09:57:09 ET
+Table 'WPN_Avon Park' 6-max Seat #2 is the button
+Seat 2: 7SkyAroundMe ($12946.88 in chips)
+Seat 4: rigggedeck ($4199.37 in chips)
+7SkyAroundMe: posts small blind $50.00
+rigggedeck: posts big blind $100.00
+*** HOLE CARDS ***
+7SkyAroundMe: calls $50.00
+rigggedeck: checks
+*** FLOP *** [8h 4d 7s]
+rigggedeck: checks
+7SkyAroundMe: bets $150.00
+rigggedeck: folds
+Uncalled bet ($150.00) returned to 7SkyAroundMe
+7SkyAroundMe collected $198.75 from pot
+7SkyAroundMe: doesn't show hand
+*** SUMMARY ***
+Total pot $200.00 | Rake $1.25
+Board [8h 4d 7s]
+Seat 2: 7SkyAroundMe (button) (small blind) collected ($198.75)
+Seat 4: rigggedeck (big blind) folded on the Flop
+
+PokerStars Hand #1520367252:  Hold'em No Limit ($50.00/$100.00 USD) - 2023/01/13 09:57:44 ET
+Table 'WPN_Avon Park' 6-max Seat #4 is the button
+Seat 2: 7SkyAroundMe ($13045.63 in chips)
+Seat 4: rigggedeck ($4099.37 in chips)
+rigggedeck: posts small blind $50.00
+7SkyAroundMe: posts big blind $100.00
+*** HOLE CARDS ***
+rigggedeck: raises $100.00 to $200.00
+7SkyAroundMe: calls $100.00
+*** FLOP *** [6d 3h 2c]
+7SkyAroundMe: checks
+rigggedeck: checks
+*** TURN *** [6d 3h 2c] [Kc]
+7SkyAroundMe: bets $100.00
+rigggedeck: calls $100.00
+*** RIVER *** [6d 3h 2c Kc] [Qs]
+7SkyAroundMe: checks
+rigggedeck: bets $450.00
+7SkyAroundMe: calls $450.00
+*** SHOW DOWN ***
+rigggedeck: shows [Jc Qh]
+7SkyAroundMe: mucks hand
+rigggedeck collected $1498.75 from pot
+*** SUMMARY ***
+Total pot $1500.00 | Rake $1.25
+Board [6d 3h 2c Kc Qs]
+Seat 2: 7SkyAroundMe (big blind) mucked
+Seat 4: rigggedeck (button) (small blind) showed [Jc Qh] and won ($1498.75)
+
+PokerStars Hand #1520368171:  Hold'em No Limit ($50.00/$100.00 USD) - 2023/01/13 10:00:57 ET
+Table 'WPN_Avon Park' 6-max Seat #4 is the button
+Seat 2: 7SkyAroundMe ($10847.82 in chips)
+Seat 4: rigggedeck ($6294.68 in chips)
+rigggedeck: posts small blind $50.00
+7SkyAroundMe: posts big blind $100.00
+*** HOLE CARDS ***
+rigggedeck: raises $130.00 to $230.00
+7SkyAroundMe: raises $670.00 to $900.00
+rigggedeck: folds
+Uncalled bet ($670.00) returned to 7SkyAroundMe
+7SkyAroundMe collected $460.00 from pot
+7SkyAroundMe: doesn't show hand
+*** SUMMARY ***
+Total pot $460.00 | Rake $0.00
+Seat 2: 7SkyAroundMe (big blind) collected ($460.00)
+Seat 4: rigggedeck (button) (small blind) folded before Flop
+
+PokerStars Hand #1520368368:  Hold'em No Limit ($50.00/$100.00 USD) - 2023/01/13 10:01:25 ET
+Table 'WPN_Avon Park' 6-max Seat #2 is the button
+Seat 2: 7SkyAroundMe ($11077.82 in chips)
+Seat 4: rigggedeck ($6064.68 in chips)
+7SkyAroundMe: posts small blind $50.00
+rigggedeck: posts big blind $100.00
+*** HOLE CARDS ***
+7SkyAroundMe: folds
+Uncalled bet ($50.00) returned to rigggedeck
+rigggedeck collected $100.00 from pot
+rigggedeck: doesn't show hand
+*** SUMMARY ***
+Total pot $100.00 | Rake $0.00
+Seat 2: 7SkyAroundMe (button) (small blind) folded before Flop
+Seat 4: rigggedeck (big blind) collected ($100.00)
+
+PokerStars Hand #1520380700:  Hold'em No Limit ($50.00/$100.00 USD) - 2023/01/13 10:33:56 ET
+Table 'WPN_Westcliffe' 6-max Seat #2 is the button
+Seat 2: 7SkyAroundMe ($10000.00 in chips)
+Seat 4: rigggedeck ($4000.00 in chips)
+7SkyAroundMe: posts small blind $50.00
+rigggedeck: posts big blind $100.00
+*** HOLE CARDS ***
+7SkyAroundMe: raises $150.00 to $250.00
+rigggedeck: raises $500.00 to $750.00
+7SkyAroundMe: calls $500.00
+*** FLOP *** [6c 3s Ts]
+rigggedeck: bets $749.37
+7SkyAroundMe: folds
+Uncalled bet ($749.37) returned to rigggedeck
+rigggedeck collected $1498.75 from pot
+rigggedeck: doesn't show hand
+*** SUMMARY ***
+Total pot $1500.00 | Rake $1.25
+Board [6c 3s Ts]
+Seat 2: 7SkyAroundMe (button) (small blind) folded on the Flop
+Seat 4: rigggedeck (big blind) collected ($1498.75)
+
+PokerStars Hand #1520380970:  Hold'em No Limit ($50.00/$100.00 USD) - 2023/01/13 10:34:36 ET
+Table 'WPN_Westcliffe' 6-max Seat #4 is the button
+Seat 2: 7SkyAroundMe ($9250.00 in chips)
+Seat 3: THENIGHTKING1 ($4000.00 in chips)
+Seat 4: rigggedeck ($4748.75 in chips)
+rigggedeck: posts small blind $50.00
+7SkyAroundMe: posts big blind $100.00
+*** HOLE CARDS ***
+rigggedeck: raises $150.00 to $250.00
+7SkyAroundMe: raises $650.00 to $900.00
+rigggedeck: raises $3848.75 to $4748.75 and is all-in
+7SkyAroundMe: folds
+Uncalled bet ($3848.75) returned to rigggedeck
+rigggedeck collected $1800.00 from pot
+rigggedeck: doesn't show hand
+*** SUMMARY ***
+Total pot $1800.00 | Rake $0.00
+Seat 2: 7SkyAroundMe (big blind) folded before Flop
+Seat 4: rigggedeck (button) (small blind) collected ($1800.00)
+
+PokerStars Hand #1520381136:  Hold'em No Limit ($50.00/$100.00 USD) - 2023/01/13 10:35:02 ET
+Table 'WPN_Westcliffe' 6-max Seat #4 is the button
+Seat 2: 7SkyAroundMe ($9100.00 in chips)
+Seat 3: THENIGHTKING1 ($4000.00 in chips)
+Seat 4: rigggedeck ($5648.75 in chips)
+7SkyAroundMe: posts small blind $50.00
+THENIGHTKING1: posts big blind $100.00
+*** HOLE CARDS ***
+rigggedeck: folds
+7SkyAroundMe: calls $50.00
+THENIGHTKING1: raises $250.00 to $350.00
+7SkyAroundMe: folds
+Uncalled bet ($250.00) returned to THENIGHTKING1
+THENIGHTKING1 collected $200.00 from pot
+THENIGHTKING1: doesn't show hand
+*** SUMMARY ***
+Total pot $200.00 | Rake $0.00
+Seat 2: 7SkyAroundMe (small blind) folded before Flop
+Seat 3: THENIGHTKING1 (big blind) collected ($200.00)
+Seat 4: rigggedeck (button) folded before Flop (didn't bet)
+
+PokerStars Hand #1520381298:  Hold'em No Limit ($50.00/$100.00 USD) - 2023/01/13 10:35:28 ET
+Table 'WPN_Westcliffe' 6-max Seat #2 is the button
+Seat 2: 7SkyAroundMe ($9900.00 in chips)
+Seat 3: THENIGHTKING1 ($4100.00 in chips)
+Seat 4: rigggedeck ($5648.75 in chips)
+THENIGHTKING1: posts small blind $50.00
+rigggedeck: posts big blind $100.00
+*** HOLE CARDS ***
+7SkyAroundMe: folds
+THENIGHTKING1: raises $180.00 to $280.00
+rigggedeck: folds
+Uncalled bet ($180.00) returned to THENIGHTKING1
+THENIGHTKING1 collected $200.00 from pot
+THENIGHTKING1: doesn't show hand
+*** SUMMARY ***
+Total pot $200.00 | Rake $0.00
+Seat 2: 7SkyAroundMe (button) folded before Flop (didn't bet)
+Seat 3: THENIGHTKING1 (small blind) collected ($200.00)
+Seat 4: rigggedeck (big blind) folded before Flop
+
+PokerStars Hand #1520381426:  Hold'em No Limit ($50.00/$100.00 USD) - 2023/01/13 10:35:50 ET
+Table 'WPN_Westcliffe' 6-max Seat #3 is the button
+Seat 2: 7SkyAroundMe ($9900.00 in chips)
+Seat 3: THENIGHTKING1 ($4200.00 in chips)
+Seat 4: rigggedeck ($5548.75 in chips)
+Seat 5: FlyingStyle ($10000.00 in chips)
+Seat 6: Ovalete ($10000.00 in chips)
+rigggedeck: posts small blind $50.00
+FlyingStyle: posts big blind $100.00
+*** HOLE CARDS ***
+7SkyAroundMe: folds
+THENIGHTKING1: folds
+rigggedeck: raises $175.00 to $275.00
+FlyingStyle: raises $575.00 to $850.00
+rigggedeck: folds
+Uncalled bet ($575.00) returned to FlyingStyle
+FlyingStyle collected $550.00 from pot
+FlyingStyle: doesn't show hand
+*** SUMMARY ***
+Total pot $550.00 | Rake $0.00
+Seat 2: 7SkyAroundMe folded before Flop (didn't bet)
+Seat 3: THENIGHTKING1 (button) folded before Flop (didn't bet)
+Seat 4: rigggedeck (small blind) folded before Flop
+Seat 5: FlyingStyle (big blind) collected ($550.00)
+
+PokerStars Hand #1520381593:  Hold'em No Limit ($50.00/$100.00 USD) - 2023/01/13 10:36:18 ET
+Table 'WPN_Westcliffe' 6-max Seat #4 is the button
+Seat 1: zas911 ($10000.00 in chips)
+Seat 2: 7SkyAroundMe ($9900.00 in chips)
+Seat 3: THENIGHTKING1 ($4200.00 in chips)
+Seat 4: rigggedeck ($5273.75 in chips)
+Seat 5: FlyingStyle ($10275.00 in chips)
+FlyingStyle: posts small blind $50.00
+zas911: posts big blind $100.00
+*** HOLE CARDS ***
+7SkyAroundMe: raises $120.00 to $220.00
+THENIGHTKING1: folds
+rigggedeck: folds
+FlyingStyle: folds
+zas911: folds
+Uncalled bet ($120.00) returned to 7SkyAroundMe
+7SkyAroundMe collected $250.00 from pot
+7SkyAroundMe: doesn't show hand
+*** SUMMARY ***
+Total pot $250.00 | Rake $0.00
+Seat 1: zas911 (big blind) folded before Flop
+Seat 2: 7SkyAroundMe collected ($250.00)
+Seat 3: THENIGHTKING1 folded before Flop (didn't bet)
+Seat 4: rigggedeck (button) folded before Flop (didn't bet)
+Seat 5: FlyingStyle (small blind) folded before Flop
+
+PokerStars Hand #1520381724:  Hold'em No Limit ($50.00/$100.00 USD) - 2023/01/13 10:36:39 ET
+Table 'WPN_Westcliffe' 6-max Seat #5 is the button
+Seat 1: zas911 ($9900.00 in chips)
+Seat 2: 7SkyAroundMe ($10150.00 in chips)
+Seat 3: THENIGHTKING1 ($4200.00 in chips)
+Seat 4: rigggedeck ($5273.75 in chips)
+Seat 5: FlyingStyle ($10225.00 in chips)
+Seat 6: Ovalete ($10000.00 in chips)
+zas911: posts small blind $50.00
+7SkyAroundMe: posts big blind $100.00
+*** HOLE CARDS ***
+THENIGHTKING1: folds
+rigggedeck: raises $130.00 to $230.00
+FlyingStyle: folds
+zas911: folds
+7SkyAroundMe: folds
+Uncalled bet ($130.00) returned to rigggedeck
+rigggedeck collected $250.00 from pot
+rigggedeck: doesn't show hand
+*** SUMMARY ***
+Total pot $250.00 | Rake $0.00
+Seat 1: zas911 (small blind) folded before Flop
+Seat 2: 7SkyAroundMe (big blind) folded before Flop
+Seat 3: THENIGHTKING1 folded before Flop (didn't bet)
+Seat 4: rigggedeck collected ($250.00)
+Seat 5: FlyingStyle (button) folded before Flop (didn't bet)
+
+PokerStars Hand #1520381881:  Hold'em No Limit ($50.00/$100.00 USD) - 2023/01/13 10:37:04 ET
+Table 'WPN_Westcliffe' 6-max Seat #1 is the button
+Seat 1: zas911 ($10000.00 in chips)
+Seat 2: 7SkyAroundMe ($10050.00 in chips)
+Seat 4: rigggedeck ($5423.75 in chips)
+Seat 5: FlyingStyle ($10225.00 in chips)
+Seat 6: Ovalete ($10000.00 in chips)
+7SkyAroundMe: posts small blind $50.00
+rigggedeck: posts big blind $100.00
+*** HOLE CARDS ***
+FlyingStyle: folds
+zas911: folds
+7SkyAroundMe: raises $200.00 to $300.00
+rigggedeck: calls $200.00
+*** FLOP *** [6h Kc Ac]
+7SkyAroundMe: checks
+rigggedeck: checks
+*** TURN *** [6h Kc Ac] [Jd]
+7SkyAroundMe: checks
+rigggedeck: checks
+*** RIVER *** [6h Kc Ac Jd] [Qd]
+7SkyAroundMe: checks
+rigggedeck: checks
+*** SHOW DOWN ***
+7SkyAroundMe: shows [9c Jh]
+rigggedeck: mucks hand
+7SkyAroundMe collected $597.75 from pot
+*** SUMMARY ***
+Total pot $600.00 | Rake $2.25
+Board [6h Kc Ac Jd Qd]
+Seat 1: zas911 (button) folded before Flop (didn't bet)
+Seat 2: 7SkyAroundMe (small blind) showed [9c Jh] and won ($597.75)
+Seat 4: rigggedeck (big blind) mucked
+Seat 5: FlyingStyle folded before Flop (didn't bet)
+
+PokerStars Hand #1520382348:  Hold'em No Limit ($50.00/$100.00 USD) - 2023/01/13 10:38:16 ET
+Table 'WPN_Westcliffe' 6-max Seat #2 is the button
+Seat 1: zas911 ($10000.00 in chips)
+Seat 2: 7SkyAroundMe ($10347.75 in chips)
+Seat 4: rigggedeck ($5123.75 in chips)
+Seat 5: FlyingStyle ($10225.00 in chips)
+Seat 6: Ovalete ($10000.00 in chips)
+rigggedeck: posts small blind $50.00
+Ovalete: posts big blind $100.00
+*** HOLE CARDS ***
+zas911: folds
+7SkyAroundMe: folds
+rigggedeck: folds
+Uncalled bet ($50.00) returned to Ovalete
+Ovalete collected $100.00 from pot
+Ovalete: doesn't show hand
+*** SUMMARY ***
+Total pot $100.00 | Rake $0.00
+Seat 1: zas911 folded before Flop (didn't bet)
+Seat 2: 7SkyAroundMe (button) folded before Flop (didn't bet)
+Seat 4: rigggedeck (small blind) folded before Flop
+Seat 6: Ovalete (big blind) collected ($100.00)
+
+PokerStars Hand #1520382407:  Hold'em No Limit ($50.00/$100.00 USD) - 2023/01/13 10:38:28 ET
+Table 'WPN_Westcliffe' 6-max Seat #4 is the button
+Seat 2: 7SkyAroundMe ($10347.75 in chips)
+Seat 4: rigggedeck ($5073.75 in chips)
+Seat 6: Ovalete ($10050.00 in chips)
+Ovalete: posts small blind $50.00
+7SkyAroundMe: posts big blind $100.00
+*** HOLE CARDS ***
+rigggedeck: folds
+Ovalete: raises $200.00 to $300.00
+7SkyAroundMe: folds
+Uncalled bet ($200.00) returned to Ovalete
+Ovalete collected $200.00 from pot
+Ovalete: doesn't show hand
+*** SUMMARY ***
+Total pot $200.00 | Rake $0.00
+Seat 2: 7SkyAroundMe (big blind) folded before Flop
+Seat 4: rigggedeck (button) folded before Flop (didn't bet)
+Seat 6: Ovalete (small blind) collected ($200.00)
+
+PokerStars Hand #1520382578:  Hold'em No Limit ($50.00/$100.00 USD) - 2023/01/13 10:38:56 ET
+Table 'WPN_Westcliffe' 6-max Seat #6 is the button
+Seat 2: 7SkyAroundMe ($10247.75 in chips)
+Seat 4: rigggedeck ($5073.75 in chips)
+Seat 6: Ovalete ($10150.00 in chips)
+7SkyAroundMe: posts small blind $50.00
+rigggedeck: posts big blind $100.00
+*** HOLE CARDS ***
+Ovalete: folds
+7SkyAroundMe: folds
+Uncalled bet ($50.00) returned to rigggedeck
+rigggedeck collected $100.00 from pot
+rigggedeck: doesn't show hand
+*** SUMMARY ***
+Total pot $100.00 | Rake $0.00
+Seat 2: 7SkyAroundMe (small blind) folded before Flop
+Seat 4: rigggedeck (big blind) collected ($100.00)
+Seat 6: Ovalete (button) folded before Flop (didn't bet)
+
+PokerStars Hand #1520382653:  Hold'em No Limit ($50.00/$100.00 USD) - 2023/01/13 10:39:08 ET
+Table 'WPN_Westcliffe' 6-max Seat #2 is the button
+Seat 2: 7SkyAroundMe ($10197.75 in chips)
+Seat 4: rigggedeck ($5123.75 in chips)
+Seat 6: Ovalete ($10150.00 in chips)
+rigggedeck: posts small blind $50.00
+7SkyAroundMe: posts big blind $100.00
+*** HOLE CARDS ***
+rigggedeck: folds
+Uncalled bet ($50.00) returned to 7SkyAroundMe
+7SkyAroundMe collected $100.00 from pot
+7SkyAroundMe: doesn't show hand
+*** SUMMARY ***
+Total pot $100.00 | Rake $0.00
+Seat 2: 7SkyAroundMe (button) (big blind) collected ($100.00)
+Seat 4: rigggedeck (small blind) folded before Flop
+
+PokerStars Hand #1520382728:  Hold'em No Limit ($50.00/$100.00 USD) - 2023/01/13 10:39:19 ET
+Table 'WPN_Westcliffe' 6-max Seat #2 is the button
+Seat 2: 7SkyAroundMe ($10247.75 in chips)
+Seat 4: rigggedeck ($5073.75 in chips)
+7SkyAroundMe: posts small blind $50.00
+rigggedeck: posts big blind $100.00
+*** HOLE CARDS ***
+7SkyAroundMe: raises $150.00 to $250.00
+rigggedeck: calls $150.00
+*** FLOP *** [Kh 4h 4c]
+rigggedeck: checks
+7SkyAroundMe: bets $125.00
+rigggedeck: folds
+Uncalled bet ($125.00) returned to 7SkyAroundMe
+7SkyAroundMe collected $498.75 from pot
+7SkyAroundMe: doesn't show hand
+*** SUMMARY ***
+Total pot $500.00 | Rake $1.25
+Board [Kh 4h 4c]
+Seat 2: 7SkyAroundMe (button) (small blind) collected ($498.75)
+Seat 4: rigggedeck (big blind) folded on the Flop
+
+PokerStars Hand #1520382905:  Hold'em No Limit ($50.00/$100.00 USD) - 2023/01/13 10:39:50 ET
+Table 'WPN_Westcliffe' 6-max Seat #4 is the button
+Seat 2: 7SkyAroundMe ($10496.50 in chips)
+Seat 4: rigggedeck ($4823.75 in chips)
+rigggedeck: posts small blind $50.00
+7SkyAroundMe: posts big blind $100.00
+*** HOLE CARDS ***
+rigggedeck: raises $130.00 to $230.00
+7SkyAroundMe: raises $670.00 to $900.00
+rigggedeck: folds
+Uncalled bet ($670.00) returned to 7SkyAroundMe
+7SkyAroundMe collected $460.00 from pot
+7SkyAroundMe: doesn't show hand
+*** SUMMARY ***
+Total pot $460.00 | Rake $0.00
+Seat 2: 7SkyAroundMe (big blind) collected ($460.00)
+Seat 4: rigggedeck (button) (small blind) folded before Flop
+
+PokerStars Hand #1520383015:  Hold'em No Limit ($50.00/$100.00 USD) - 2023/01/13 10:40:08 ET
+Table 'WPN_Westcliffe' 6-max Seat #2 is the button
+Seat 2: 7SkyAroundMe ($10726.50 in chips)
+Seat 4: rigggedeck ($4593.75 in chips)
+7SkyAroundMe: posts small blind $50.00
+rigggedeck: posts big blind $100.00
+*** HOLE CARDS ***
+7SkyAroundMe: raises $150.00 to $250.00
+rigggedeck: folds
+Uncalled bet ($150.00) returned to 7SkyAroundMe
+7SkyAroundMe collected $200.00 from pot
+7SkyAroundMe: doesn't show hand
+*** SUMMARY ***
+Total pot $200.00 | Rake $0.00
+Seat 2: 7SkyAroundMe (button) (small blind) collected ($200.00)
+Seat 4: rigggedeck (big blind) folded before Flop
+
+PokerStars Hand #1520383089:  Hold'em No Limit ($50.00/$100.00 USD) - 2023/01/13 10:40:22 ET
+Table 'WPN_Westcliffe' 6-max Seat #4 is the button
+Seat 2: 7SkyAroundMe ($10826.50 in chips)
+Seat 4: rigggedeck ($4493.75 in chips)
+rigggedeck: posts small blind $50.00
+7SkyAroundMe: posts big blind $100.00
+*** HOLE CARDS ***
+rigggedeck: folds
+Uncalled bet ($50.00) returned to 7SkyAroundMe
+7SkyAroundMe collected $100.00 from pot
+7SkyAroundMe: doesn't show hand
+*** SUMMARY ***
+Total pot $100.00 | Rake $0.00
+Seat 2: 7SkyAroundMe (big blind) collected ($100.00)
+Seat 4: rigggedeck (button) (small blind) folded before Flop
+
+PokerStars Hand #1520383149:  Hold'em No Limit ($50.00/$100.00 USD) - 2023/01/13 10:40:33 ET
+Table 'WPN_Westcliffe' 6-max Seat #2 is the button
+Seat 2: 7SkyAroundMe ($10876.50 in chips)
+Seat 4: rigggedeck ($4443.75 in chips)
+7SkyAroundMe: posts small blind $50.00
+rigggedeck: posts big blind $100.00
+*** HOLE CARDS ***
+7SkyAroundMe: raises $150.00 to $250.00
+rigggedeck: calls $150.00
+*** FLOP *** [Jc 5s 8h]
+rigggedeck: checks
+7SkyAroundMe: bets $250.00
+rigggedeck: calls $250.00
+*** TURN *** [Jc 5s 8h] [9s]
+rigggedeck: checks
+7SkyAroundMe: checks
+*** RIVER *** [Jc 5s 8h 9s] [5h]
+rigggedeck: bets $750.00
+7SkyAroundMe: folds
+Uncalled bet ($750.00) returned to rigggedeck
+rigggedeck collected $998.75 from pot
+rigggedeck: doesn't show hand
+*** SUMMARY ***
+Total pot $1000.00 | Rake $1.25
+Board [Jc 5s 8h 9s 5h]
+Seat 2: 7SkyAroundMe (button) (small blind) folded on the River
+Seat 4: rigggedeck (big blind) collected ($998.75)
+
+PokerStars Hand #1520392802:  Hold'em No Limit ($50.00/$100.00 USD) - 2023/01/13 11:12:09 ET
+Table 'WPN_Avon Park' 6-max Seat #2 is the button
+Seat 2: 7SkyAroundMe ($11027.82 in chips)
+Seat 5: JohnMcShen ($10000.00 in chips)
+7SkyAroundMe: posts the ante $500.00
+JohnMcShen: posts the ante $500.00
+*** HOLE CARDS ***
+*** FLOP *** [8c Qc 5s]
+JohnMcShen: checks
+7SkyAroundMe: bets $250.00
+JohnMcShen: folds
+Uncalled bet ($250.00) returned to 7SkyAroundMe
+7SkyAroundMe collected $998.75 from pot
+7SkyAroundMe: doesn't show hand
+*** SUMMARY ***
+Total pot $1000.00 | Rake $1.25
+Board [8c Qc 5s]
+Seat 2: 7SkyAroundMe (button) collected ($998.75)
+Seat 5: JohnMcShen folded on the Flop
+
+PokerStars Hand #1520393014:  Hold'em No Limit ($50.00/$100.00 USD) - 2023/01/13 11:12:35 ET
+Table 'WPN_Westcliffe' 6-max Seat #5 is the button
+Seat 2: 7SkyAroundMe ($10476.50 in chips)
+Seat 5: JohnMcShen ($9900.00 in chips)
+JohnMcShen: posts small blind $50.00
+7SkyAroundMe: posts big blind $100.00
+*** HOLE CARDS ***
+JohnMcShen: raises $150.00 to $250.00
+7SkyAroundMe: raises $850.00 to $1100.00
+JohnMcShen: folds
+Uncalled bet ($850.00) returned to 7SkyAroundMe
+7SkyAroundMe collected $500.00 from pot
+7SkyAroundMe: doesn't show hand
+*** SUMMARY ***
+Total pot $500.00 | Rake $0.00
+Seat 2: 7SkyAroundMe (big blind) collected ($500.00)
+Seat 5: JohnMcShen (button) (small blind) folded before Flop
+
+PokerStars Hand #1520393024:  Hold'em No Limit ($50.00/$100.00 USD) - 2023/01/13 11:12:35 ET
+Table 'WPN_Avon Park' 6-max Seat #2 is the button
+Seat 2: 7SkyAroundMe ($11526.57 in chips)
+Seat 5: JohnMcShen ($9500.00 in chips)
+7SkyAroundMe: posts small blind $50.00
+JohnMcShen: posts big blind $100.00
+*** HOLE CARDS ***
+7SkyAroundMe: raises $150.00 to $250.00
+JohnMcShen: raises $800.00 to $1050.00
+7SkyAroundMe: folds
+Uncalled bet ($800.00) returned to JohnMcShen
+JohnMcShen collected $500.00 from pot
+JohnMcShen: doesn't show hand
+*** SUMMARY ***
+Total pot $500.00 | Rake $0.00
+Seat 2: 7SkyAroundMe (button) (small blind) folded before Flop
+Seat 5: JohnMcShen (big blind) collected ($500.00)
+
+PokerStars Hand #1520393148:  Hold'em No Limit ($50.00/$100.00 USD) - 2023/01/13 11:12:59 ET
+Table 'WPN_Avon Park' 6-max Seat #5 is the button
+Seat 2: 7SkyAroundMe ($11276.57 in chips)
+Seat 5: JohnMcShen ($10250.00 in chips)
+JohnMcShen: posts small blind $50.00
+7SkyAroundMe: posts big blind $100.00
+*** HOLE CARDS ***
+JohnMcShen: raises $150.00 to $250.00
+7SkyAroundMe: folds
+Uncalled bet ($150.00) returned to JohnMcShen
+JohnMcShen collected $200.00 from pot
+JohnMcShen: doesn't show hand
+*** SUMMARY ***
+Total pot $200.00 | Rake $0.00
+Seat 2: 7SkyAroundMe (big blind) folded before Flop
+Seat 5: JohnMcShen (button) (small blind) collected ($200.00)
+
+PokerStars Hand #1520393124:  Hold'em No Limit ($50.00/$100.00 USD) - 2023/01/13 11:12:54 ET
+Table 'WPN_Westcliffe' 6-max Seat #2 is the button
+Seat 2: 7SkyAroundMe ($10726.50 in chips)
+Seat 5: JohnMcShen ($9750.00 in chips)
+7SkyAroundMe: posts small blind $50.00
+JohnMcShen: posts big blind $100.00
+*** HOLE CARDS ***
+7SkyAroundMe: raises $150.00 to $250.00
+JohnMcShen: raises $800.00 to $1050.00
+7SkyAroundMe: folds
+Uncalled bet ($800.00) returned to JohnMcShen
+JohnMcShen collected $500.00 from pot
+JohnMcShen: doesn't show hand
+*** SUMMARY ***
+Total pot $500.00 | Rake $0.00
+Seat 2: 7SkyAroundMe (button) (small blind) folded before Flop
+Seat 5: JohnMcShen (big blind) collected ($500.00)
+
+PokerStars Hand #1520393246:  Hold'em No Limit ($50.00/$100.00 USD) - 2023/01/13 11:13:15 ET
+Table 'WPN_Westcliffe' 6-max Seat #5 is the button
+Seat 2: 7SkyAroundMe ($10476.50 in chips)
+Seat 5: JohnMcShen ($10250.00 in chips)
+JohnMcShen: posts small blind $50.00
+7SkyAroundMe: posts big blind $100.00
+*** HOLE CARDS ***
+JohnMcShen: raises $150.00 to $250.00
+7SkyAroundMe: calls $150.00
+*** FLOP *** [3h 8d 5h]
+7SkyAroundMe: checks
+JohnMcShen: checks
+*** TURN *** [3h 8d 5h] [Jc]
+7SkyAroundMe: bets $125.00
+JohnMcShen: folds
+Uncalled bet ($125.00) returned to 7SkyAroundMe
+7SkyAroundMe collected $498.75 from pot
+7SkyAroundMe: doesn't show hand
+*** SUMMARY ***
+Total pot $500.00 | Rake $1.25
+Board [3h 8d 5h Jc]
+Seat 2: 7SkyAroundMe (big blind) collected ($498.75)
+Seat 5: JohnMcShen (button) (small blind) folded on the Turn
+
+PokerStars Hand #1520393447:  Hold'em No Limit ($50.00/$100.00 USD) - 2023/01/13 11:13:51 ET
+Table 'WPN_Westcliffe' 6-max Seat #2 is the button
+Seat 2: 7SkyAroundMe ($10725.25 in chips)
+Seat 5: JohnMcShen ($10000.00 in chips)
+7SkyAroundMe: posts small blind $50.00
+JohnMcShen: posts big blind $100.00
+*** HOLE CARDS ***
+7SkyAroundMe: raises $150.00 to $250.00
+JohnMcShen: calls $150.00
+*** FLOP *** [Tc 4s 9h]
+JohnMcShen: checks
+7SkyAroundMe: bets $250.00
+JohnMcShen: folds
+Uncalled bet ($250.00) returned to 7SkyAroundMe
+7SkyAroundMe collected $498.75 from pot
+7SkyAroundMe: doesn't show hand
+*** SUMMARY ***
+Total pot $500.00 | Rake $1.25
+Board [Tc 4s 9h]
+Seat 2: 7SkyAroundMe (button) (small blind) collected ($498.75)
+Seat 5: JohnMcShen (big blind) folded on the Flop
+
+PokerStars Hand #1520393239:  Hold'em No Limit ($50.00/$100.00 USD) - 2023/01/13 11:13:14 ET
+Table 'WPN_Avon Park' 6-max Seat #2 is the button
+Seat 2: 7SkyAroundMe ($11176.57 in chips)
+Seat 5: JohnMcShen ($10350.00 in chips)
+7SkyAroundMe: posts small blind $50.00
+JohnMcShen: posts big blind $100.00
+*** HOLE CARDS ***
+7SkyAroundMe: raises $150.00 to $250.00
+JohnMcShen: calls $150.00
+*** FLOP *** [3h 9s 3d]
+JohnMcShen: checks
+7SkyAroundMe: bets $125.00
+JohnMcShen: raises $297.50 to $422.50
+7SkyAroundMe: calls $297.50
+*** TURN *** [3h 9s 3d] [Tc]
+JohnMcShen: checks
+7SkyAroundMe: checks
+*** RIVER *** [3h 9s 3d Tc] [4s]
+JohnMcShen: bets $1008.75
+7SkyAroundMe: folds
+Uncalled bet ($1008.75) returned to JohnMcShen
+JohnMcShen collected $1343.75 from pot
+JohnMcShen: doesn't show hand
+*** SUMMARY ***
+Total pot $1345.00 | Rake $1.25
+Board [3h 9s 3d Tc 4s]
+Seat 2: 7SkyAroundMe (button) (small blind) folded on the River
+Seat 5: JohnMcShen (big blind) collected ($1343.75)
+
+PokerStars Hand #1520393840:  Hold'em No Limit ($50.00/$100.00 USD) - 2023/01/13 11:15:01 ET
+Table 'WPN_Avon Park' 6-max Seat #5 is the button
+Seat 2: 7SkyAroundMe ($10504.07 in chips)
+Seat 5: JohnMcShen ($11021.25 in chips)
+JohnMcShen: posts small blind $50.00
+7SkyAroundMe: posts big blind $100.00
+*** HOLE CARDS ***
+JohnMcShen: folds
+Uncalled bet ($50.00) returned to 7SkyAroundMe
+7SkyAroundMe collected $100.00 from pot
+7SkyAroundMe: doesn't show hand
+*** SUMMARY ***
+Total pot $100.00 | Rake $0.00
+Seat 2: 7SkyAroundMe (big blind) collected ($100.00)
+Seat 5: JohnMcShen (button) (small blind) folded before Flop
+
+PokerStars Hand #1520393701:  Hold'em No Limit ($50.00/$100.00 USD) - 2023/01/13 11:14:37 ET
+Table 'WPN_Westcliffe' 6-max Seat #5 is the button
+Seat 2: 7SkyAroundMe ($10974.00 in chips)
+Seat 5: JohnMcShen ($9750.00 in chips)
+JohnMcShen: posts small blind $50.00
+7SkyAroundMe: posts big blind $100.00
+*** HOLE CARDS ***
+JohnMcShen: raises $150.00 to $250.00
+7SkyAroundMe: calls $150.00
+*** FLOP *** [4h Jc 4s]
+7SkyAroundMe: checks
+JohnMcShen: bets $165.00
+7SkyAroundMe: folds
+Uncalled bet ($165.00) returned to JohnMcShen
+JohnMcShen collected $498.75 from pot
+JohnMcShen: doesn't show hand
+*** SUMMARY ***
+Total pot $500.00 | Rake $1.25
+Board [4h Jc 4s]
+Seat 2: 7SkyAroundMe (big blind) folded on the Flop
+Seat 5: JohnMcShen (button) (small blind) collected ($498.75)
+
+PokerStars Hand #1520393918:  Hold'em No Limit ($50.00/$100.00 USD) - 2023/01/13 11:15:15 ET
+Table 'WPN_Avon Park' 6-max Seat #2 is the button
+Seat 2: 7SkyAroundMe ($10554.07 in chips)
+Seat 5: JohnMcShen ($10971.25 in chips)
+7SkyAroundMe: posts small blind $50.00
+JohnMcShen: posts big blind $100.00
+*** HOLE CARDS ***
+7SkyAroundMe: folds
+Uncalled bet ($50.00) returned to JohnMcShen
+JohnMcShen collected $100.00 from pot
+JohnMcShen: doesn't show hand
+*** SUMMARY ***
+Total pot $100.00 | Rake $0.00
+Seat 2: 7SkyAroundMe (button) (small blind) folded before Flop
+Seat 5: JohnMcShen (big blind) collected ($100.00)
+
+PokerStars Hand #1520393929:  Hold'em No Limit ($50.00/$100.00 USD) - 2023/01/13 11:15:17 ET
+Table 'WPN_Westcliffe' 6-max Seat #2 is the button
+Seat 2: 7SkyAroundMe ($10724.00 in chips)
+Seat 5: JohnMcShen ($10248.75 in chips)
+7SkyAroundMe: posts small blind $50.00
+JohnMcShen: posts big blind $100.00
+*** HOLE CARDS ***
+7SkyAroundMe: raises $150.00 to $250.00
+JohnMcShen: raises $800.00 to $1050.00
+7SkyAroundMe: folds
+Uncalled bet ($800.00) returned to JohnMcShen
+JohnMcShen collected $500.00 from pot
+JohnMcShen: doesn't show hand
+*** SUMMARY ***
+Total pot $500.00 | Rake $0.00
+Seat 2: 7SkyAroundMe (button) (small blind) folded before Flop
+Seat 5: JohnMcShen (big blind) collected ($500.00)
+
+PokerStars Hand #1520393973:  Hold'em No Limit ($50.00/$100.00 USD) - 2023/01/13 11:15:26 ET
+Table 'WPN_Avon Park' 6-max Seat #5 is the button
+Seat 2: 7SkyAroundMe ($10504.07 in chips)
+Seat 5: JohnMcShen ($11021.25 in chips)
+JohnMcShen: posts small blind $50.00
+7SkyAroundMe: posts big blind $100.00
+*** HOLE CARDS ***
+JohnMcShen: folds
+Uncalled bet ($50.00) returned to 7SkyAroundMe
+7SkyAroundMe collected $100.00 from pot
+7SkyAroundMe: doesn't show hand
+*** SUMMARY ***
+Total pot $100.00 | Rake $0.00
+Seat 2: 7SkyAroundMe (big blind) collected ($100.00)
+Seat 5: JohnMcShen (button) (small blind) folded before Flop
+
+PokerStars Hand #1520394041:  Hold'em No Limit ($50.00/$100.00 USD) - 2023/01/13 11:15:38 ET
+Table 'WPN_Westcliffe' 6-max Seat #5 is the button
+Seat 2: 7SkyAroundMe ($10474.00 in chips)
+Seat 5: JohnMcShen ($10498.75 in chips)
+JohnMcShen: posts small blind $50.00
+7SkyAroundMe: posts big blind $100.00
+*** HOLE CARDS ***
+JohnMcShen: folds
+Uncalled bet ($50.00) returned to 7SkyAroundMe
+7SkyAroundMe collected $100.00 from pot
+7SkyAroundMe: doesn't show hand
+*** SUMMARY ***
+Total pot $100.00 | Rake $0.00
+Seat 2: 7SkyAroundMe (big blind) collected ($100.00)
+Seat 5: JohnMcShen (button) (small blind) folded before Flop
+
+PokerStars Hand #1520394039:  Hold'em No Limit ($50.00/$100.00 USD) - 2023/01/13 11:15:38 ET
+Table 'WPN_Avon Park' 6-max Seat #2 is the button
+Seat 2: 7SkyAroundMe ($10554.07 in chips)
+Seat 5: JohnMcShen ($10971.25 in chips)
+7SkyAroundMe: posts small blind $50.00
+JohnMcShen: posts big blind $100.00
+*** HOLE CARDS ***
+7SkyAroundMe: raises $150.00 to $250.00
+JohnMcShen: calls $150.00
+*** FLOP *** [Jc 7d 4h]
+JohnMcShen: checks
+7SkyAroundMe: checks
+*** TURN *** [Jc 7d 4h] [Kd]
+JohnMcShen: checks
+7SkyAroundMe: checks
+*** RIVER *** [Jc 7d 4h Kd] [6h]
+JohnMcShen: checks
+7SkyAroundMe: bets $375.00
+JohnMcShen: folds
+Uncalled bet ($375.00) returned to 7SkyAroundMe
+7SkyAroundMe collected $498.75 from pot
+7SkyAroundMe: doesn't show hand
+*** SUMMARY ***
+Total pot $500.00 | Rake $1.25
+Board [Jc 7d 4h Kd 6h]
+Seat 2: 7SkyAroundMe (button) (small blind) collected ($498.75)
+Seat 5: JohnMcShen (big blind) folded on the River
+
+PokerStars Hand #1520394108:  Hold'em No Limit ($50.00/$100.00 USD) - 2023/01/13 11:15:50 ET
+Table 'WPN_Westcliffe' 6-max Seat #2 is the button
+Seat 2: 7SkyAroundMe ($10524.00 in chips)
+Seat 5: JohnMcShen ($10448.75 in chips)
+7SkyAroundMe: posts small blind $50.00
+JohnMcShen: posts big blind $100.00
+*** HOLE CARDS ***
+7SkyAroundMe: raises $150.00 to $250.00
+JohnMcShen: calls $150.00
+*** FLOP *** [4s 7h 5s]
+JohnMcShen: checks
+7SkyAroundMe: checks
+*** TURN *** [4s 7h 5s] [Jc]
+JohnMcShen: bets $500.00
+7SkyAroundMe: calls $500.00
+*** RIVER *** [4s 7h 5s Jc] [Ah]
+JohnMcShen: bets $495.00
+7SkyAroundMe: folds
+Uncalled bet ($495.00) returned to JohnMcShen
+JohnMcShen collected $1498.75 from pot
+JohnMcShen: doesn't show hand
+*** SUMMARY ***
+Total pot $1500.00 | Rake $1.25
+Board [4s 7h 5s Jc Ah]
+Seat 2: 7SkyAroundMe (button) (small blind) folded on the River
+Seat 5: JohnMcShen (big blind) collected ($1498.75)
+
+PokerStars Hand #1520394418:  Hold'em No Limit ($50.00/$100.00 USD) - 2023/01/13 11:16:42 ET
+Table 'WPN_Avon Park' 6-max Seat #5 is the button
+Seat 2: 7SkyAroundMe ($10802.82 in chips)
+Seat 5: JohnMcShen ($10721.25 in chips)
+JohnMcShen: posts small blind $50.00
+7SkyAroundMe: posts big blind $100.00
+*** HOLE CARDS ***
+JohnMcShen: folds
+Uncalled bet ($50.00) returned to 7SkyAroundMe
+7SkyAroundMe collected $100.00 from pot
+7SkyAroundMe: doesn't show hand
+*** SUMMARY ***
+Total pot $100.00 | Rake $0.00
+Seat 2: 7SkyAroundMe (big blind) collected ($100.00)
+Seat 5: JohnMcShen (button) (small blind) folded before Flop
+
+PokerStars Hand #1520394495:  Hold'em No Limit ($50.00/$100.00 USD) - 2023/01/13 11:16:54 ET
+Table 'WPN_Avon Park' 6-max Seat #2 is the button
+Seat 2: 7SkyAroundMe ($10852.82 in chips)
+Seat 5: JohnMcShen ($10671.25 in chips)
+7SkyAroundMe: posts small blind $50.00
+JohnMcShen: posts big blind $100.00
+*** HOLE CARDS ***
+7SkyAroundMe: raises $150.00 to $250.00
+JohnMcShen: calls $150.00
+*** FLOP *** [6s 9h Th]
+JohnMcShen: checks
+7SkyAroundMe: checks
+*** TURN *** [6s 9h Th] [Kd]
+JohnMcShen: checks
+7SkyAroundMe: checks
+*** RIVER *** [6s 9h Th Kd] [6h]
+JohnMcShen: bets $375.00
+7SkyAroundMe: folds
+Uncalled bet ($375.00) returned to JohnMcShen
+JohnMcShen collected $498.75 from pot
+JohnMcShen: doesn't show hand
+*** SUMMARY ***
+Total pot $500.00 | Rake $1.25
+Board [6s 9h Th Kd 6h]
+Seat 2: 7SkyAroundMe (button) (small blind) folded on the River
+Seat 5: JohnMcShen (big blind) collected ($498.75)
+
+PokerStars Hand #1520394486:  Hold'em No Limit ($50.00/$100.00 USD) - 2023/01/13 11:16:53 ET
+Table 'WPN_Westcliffe' 6-max Seat #5 is the button
+Seat 2: 7SkyAroundMe ($9774.00 in chips)
+Seat 5: JohnMcShen ($11197.50 in chips)
+JohnMcShen: posts small blind $50.00
+7SkyAroundMe: posts big blind $100.00
+*** HOLE CARDS ***
+JohnMcShen: raises $150.00 to $250.00
+7SkyAroundMe: raises $850.00 to $1100.00
+JohnMcShen: calls $850.00
+*** FLOP *** [Jh Qh 9h]
+7SkyAroundMe: checks
+JohnMcShen: bets $726.00
+7SkyAroundMe: calls $726.00
+*** TURN *** [Jh Qh 9h] [As]
+7SkyAroundMe: checks
+JohnMcShen: bets $2389.00
+7SkyAroundMe: calls $2389.00
+*** RIVER *** [Jh Qh 9h As] [Jc]
+7SkyAroundMe: checks
+JohnMcShen: bets $6982.50 and is all-in
+7SkyAroundMe: folds
+Uncalled bet ($6982.50) returned to JohnMcShen
+JohnMcShen collected $8428.75 from pot
+JohnMcShen: doesn't show hand
+*** SUMMARY ***
+Total pot $8430.00 | Rake $1.25
+Board [Jh Qh 9h As Jc]
+Seat 2: 7SkyAroundMe (big blind) folded on the River
+Seat 5: JohnMcShen (button) (small blind) collected ($8428.75)
+
+PokerStars Hand #1520394883:  Hold'em No Limit ($50.00/$100.00 USD) - 2023/01/13 11:18:18 ET
+Table 'WPN_Avon Park' 6-max Seat #5 is the button
+Seat 2: 7SkyAroundMe ($10602.82 in chips)
+Seat 5: JohnMcShen ($10920.00 in chips)
+Seat 6: rigggedeck ($4000.00 in chips)
+7SkyAroundMe: posts the ante $500.00
+JohnMcShen: posts the ante $500.00
+rigggedeck: posts the ante $500.00
+*** HOLE CARDS ***
+*** FLOP *** [9s 3s 9c]
+rigggedeck: checks
+7SkyAroundMe: checks
+JohnMcShen: bets $375.00
+rigggedeck: folds
+7SkyAroundMe: calls $375.00
+*** TURN *** [9s 3s 9c] [Qc]
+7SkyAroundMe: checks
+JohnMcShen: checks
+*** RIVER *** [9s 3s 9c Qc] [Kh]
+7SkyAroundMe: bets $1687.50
+JohnMcShen: calls $1687.50
+*** SHOW DOWN ***
+JohnMcShen: shows [Ac Kd]
+7SkyAroundMe: mucks hand
+JohnMcShen collected $5623.25 from pot
+*** SUMMARY ***
+Total pot $5625.00 | Rake $1.75
+Board [9s 3s 9c Qc Kh]
+Seat 2: 7SkyAroundMe mucked
+Seat 5: JohnMcShen (button) showed [Ac Kd] and won ($5623.25)
+Seat 6: rigggedeck folded on the Flop
+
+PokerStars Hand #1520395159:  Hold'em No Limit ($50.00/$100.00 USD) - 2023/01/13 11:18:54 ET
+Table 'WPN_Westcliffe' 6-max Seat #2 is the button
+Seat 2: 7SkyAroundMe ($5785.00 in chips)
+Seat 5: JohnMcShen ($15411.25 in chips)
+7SkyAroundMe: posts small blind $50.00
+JohnMcShen: posts big blind $100.00
+*** HOLE CARDS ***
+7SkyAroundMe: raises $150.00 to $250.00
+JohnMcShen: calls $150.00
+*** FLOP *** [Jh 8d Ah]
+JohnMcShen: checks
+7SkyAroundMe: bets $125.00
+JohnMcShen: calls $125.00
+*** TURN *** [Jh 8d Ah] [Jd]
+JohnMcShen: checks
+7SkyAroundMe: checks
+*** RIVER *** [Jh 8d Ah Jd] [6d]
+JohnMcShen: bets $247.50
+7SkyAroundMe: calls $247.50
+*** SHOW DOWN ***
+JohnMcShen: shows [8s Qh]
+7SkyAroundMe: mucks hand
+JohnMcShen collected $1243.75 from pot
+*** SUMMARY ***
+Total pot $1245.00 | Rake $1.25
+Board [Jh 8d Ah Jd 6d]
+Seat 2: 7SkyAroundMe (button) (small blind) mucked
+Seat 5: JohnMcShen (big blind) showed [8s Qh] and won ($1243.75)
+
+PokerStars Hand #1520395518:  Hold'em No Limit ($50.00/$100.00 USD) - 2023/01/13 11:19:56 ET
+Table 'WPN_Avon Park' 6-max Seat #2 is the button
+Seat 2: 7SkyAroundMe ($10000.00 in chips)
+Seat 5: JohnMcShen ($13980.75 in chips)
+Seat 6: rigggedeck ($3500.00 in chips)
+JohnMcShen: posts small blind $50.00
+rigggedeck: posts big blind $100.00
+*** HOLE CARDS ***
+7SkyAroundMe: folds
+JohnMcShen: folds
+Uncalled bet ($50.00) returned to rigggedeck
+rigggedeck collected $100.00 from pot
+rigggedeck: doesn't show hand
+*** SUMMARY ***
+Total pot $100.00 | Rake $0.00
+Seat 2: 7SkyAroundMe (button) folded before Flop (didn't bet)
+Seat 5: JohnMcShen (small blind) folded before Flop
+Seat 6: rigggedeck (big blind) collected ($100.00)
+
+PokerStars Hand #1520395651:  Hold'em No Limit ($50.00/$100.00 USD) - 2023/01/13 11:20:20 ET
+Table 'WPN_Avon Park' 6-max Seat #5 is the button
+Seat 2: 7SkyAroundMe ($10000.00 in chips)
+Seat 5: JohnMcShen ($13930.75 in chips)
+Seat 6: rigggedeck ($3550.00 in chips)
+rigggedeck: posts small blind $50.00
+7SkyAroundMe: posts big blind $100.00
+*** HOLE CARDS ***
+JohnMcShen: folds
+rigggedeck: folds
+Uncalled bet ($50.00) returned to 7SkyAroundMe
+7SkyAroundMe collected $100.00 from pot
+7SkyAroundMe: doesn't show hand
+*** SUMMARY ***
+Total pot $100.00 | Rake $0.00
+Seat 2: 7SkyAroundMe (big blind) collected ($100.00)
+Seat 5: JohnMcShen (button) folded before Flop (didn't bet)
+Seat 6: rigggedeck (small blind) folded before Flop
+
+PokerStars Hand #1520395738:  Hold'em No Limit ($50.00/$100.00 USD) - 2023/01/13 11:20:32 ET
+Table 'WPN_Avon Park' 6-max Seat #6 is the button
+Seat 2: 7SkyAroundMe ($10050.00 in chips)
+Seat 5: JohnMcShen ($13930.75 in chips)
+Seat 6: rigggedeck ($3500.00 in chips)
+7SkyAroundMe: posts small blind $50.00
+JohnMcShen: posts big blind $100.00
+*** HOLE CARDS ***
+rigggedeck: folds
+7SkyAroundMe: calls $50.00
+JohnMcShen: checks
+*** FLOP *** [8d Js 7s]
+7SkyAroundMe: bets $100.00
+JohnMcShen: folds
+Uncalled bet ($100.00) returned to 7SkyAroundMe
+7SkyAroundMe collected $198.25 from pot
+7SkyAroundMe: doesn't show hand
+*** SUMMARY ***
+Total pot $200.00 | Rake $1.75
+Board [8d Js 7s]
+Seat 2: 7SkyAroundMe (small blind) collected ($198.25)
+Seat 5: JohnMcShen (big blind) folded on the Flop
+Seat 6: rigggedeck (button) folded before Flop (didn't bet)
+
+PokerStars Hand #1520395913:  Hold'em No Limit ($50.00/$100.00 USD) - 2023/01/13 11:21:03 ET
+Table 'WPN_Avon Park' 6-max Seat #2 is the button
+Seat 2: 7SkyAroundMe ($10148.25 in chips)
+Seat 5: JohnMcShen ($13830.75 in chips)
+Seat 6: rigggedeck ($3500.00 in chips)
+JohnMcShen: posts small blind $50.00
+rigggedeck: posts big blind $100.00
+*** HOLE CARDS ***
+7SkyAroundMe: folds
+JohnMcShen: raises $200.00 to $300.00
+rigggedeck: folds
+Uncalled bet ($200.00) returned to JohnMcShen
+JohnMcShen collected $200.00 from pot
+JohnMcShen: doesn't show hand
+*** SUMMARY ***
+Total pot $200.00 | Rake $0.00
+Seat 2: 7SkyAroundMe (button) folded before Flop (didn't bet)
+Seat 5: JohnMcShen (small blind) collected ($200.00)
+Seat 6: rigggedeck (big blind) folded before Flop
+
+PokerStars Hand #1520395631:  Hold'em No Limit ($50.00/$100.00 USD) - 2023/01/13 11:20:17 ET
+Table 'WPN_Westcliffe' 6-max Seat #5 is the button
+Seat 2: 7SkyAroundMe ($10000.00 in chips)
+Seat 5: JohnMcShen ($16032.50 in chips)
+JohnMcShen: posts small blind $50.00
+7SkyAroundMe: posts big blind $100.00
+*** HOLE CARDS ***
+JohnMcShen: raises $150.00 to $250.00
+7SkyAroundMe: calls $150.00
+*** FLOP *** [3c 7c 2c]
+7SkyAroundMe: checks
+JohnMcShen: checks
+*** TURN *** [3c 7c 2c] [6d]
+7SkyAroundMe: checks
+JohnMcShen: bets $250.00
+7SkyAroundMe: calls $250.00
+*** RIVER *** [3c 7c 2c 6d] [Ts]
+7SkyAroundMe: checks
+JohnMcShen: bets $1500.00
+7SkyAroundMe: calls $1500.00
+*** SHOW DOWN ***
+7SkyAroundMe: shows [Kh 6h]
+JohnMcShen: mucks hand
+7SkyAroundMe collected $3998.75 from pot
+*** SUMMARY ***
+Total pot $4000.00 | Rake $1.25
+Board [3c 7c 2c 6d Ts]
+Seat 2: 7SkyAroundMe (big blind) showed [Kh 6h] and won ($3998.75)
+Seat 5: JohnMcShen (button) (small blind) mucked
+
+PokerStars Hand #1520396120:  Hold'em No Limit ($50.00/$100.00 USD) - 2023/01/13 11:21:40 ET
+Table 'WPN_Westcliffe' 6-max Seat #2 is the button
+Seat 2: 7SkyAroundMe ($11998.75 in chips)
+Seat 5: JohnMcShen ($14032.50 in chips)
+7SkyAroundMe: posts small blind $50.00
+JohnMcShen: posts big blind $100.00
+*** HOLE CARDS ***
+7SkyAroundMe: raises $150.00 to $250.00
+JohnMcShen: folds
+Uncalled bet ($150.00) returned to 7SkyAroundMe
+7SkyAroundMe collected $200.00 from pot
+7SkyAroundMe: doesn't show hand
+*** SUMMARY ***
+Total pot $200.00 | Rake $0.00
+Seat 2: 7SkyAroundMe (button) (small blind) collected ($200.00)
+Seat 5: JohnMcShen (big blind) folded before Flop
+
+PokerStars Hand #1520396038:  Hold'em No Limit ($50.00/$100.00 USD) - 2023/01/13 11:21:22 ET
+Table 'WPN_Avon Park' 6-max Seat #5 is the button
+Seat 2: 7SkyAroundMe ($10148.25 in chips)
+Seat 5: JohnMcShen ($13930.75 in chips)
+Seat 6: rigggedeck ($3400.00 in chips)
+rigggedeck: posts small blind $50.00
+7SkyAroundMe: posts big blind $100.00
+*** HOLE CARDS ***
+JohnMcShen: folds
+rigggedeck: raises $150.00 to $250.00
+7SkyAroundMe: calls $150.00
+*** FLOP *** [Jc 5d Ad]
+rigggedeck: bets $150.00
+7SkyAroundMe: raises $400.00 to $550.00
+rigggedeck: folds
+Uncalled bet ($400.00) returned to 7SkyAroundMe
+7SkyAroundMe collected $798.25 from pot
+7SkyAroundMe: doesn't show hand
+*** SUMMARY ***
+Total pot $800.00 | Rake $1.75
+Board [Jc 5d Ad]
+Seat 2: 7SkyAroundMe (big blind) collected ($798.25)
+Seat 5: JohnMcShen (button) folded before Flop (didn't bet)
+Seat 6: rigggedeck (small blind) folded on the Flop
+
+PokerStars Hand #1520396206:  Hold'em No Limit ($50.00/$100.00 USD) - 2023/01/13 11:21:57 ET
+Table 'WPN_Westcliffe' 6-max Seat #5 is the button
+Seat 2: 7SkyAroundMe ($12098.75 in chips)
+Seat 5: JohnMcShen ($13932.50 in chips)
+JohnMcShen: posts small blind $50.00
+7SkyAroundMe: posts big blind $100.00
+*** HOLE CARDS ***
+JohnMcShen: raises $150.00 to $250.00
+7SkyAroundMe: raises $650.00 to $900.00
+JohnMcShen: calls $650.00
+*** FLOP *** [2h Ac Qd]
+7SkyAroundMe: bets $1350.00
+JohnMcShen: folds
+Uncalled bet ($1350.00) returned to 7SkyAroundMe
+7SkyAroundMe collected $1798.75 from pot
+7SkyAroundMe: doesn't show hand
+*** SUMMARY ***
+Total pot $1800.00 | Rake $1.25
+Board [2h Ac Qd]
+Seat 2: 7SkyAroundMe (big blind) collected ($1798.75)
+Seat 5: JohnMcShen (button) (small blind) folded on the Flop
+
+PokerStars Hand #1520396236:  Hold'em No Limit ($50.00/$100.00 USD) - 2023/01/13 11:22:03 ET
+Table 'WPN_Avon Park' 6-max Seat #6 is the button
+Seat 2: 7SkyAroundMe ($10546.50 in chips)
+Seat 5: JohnMcShen ($13930.75 in chips)
+Seat 6: rigggedeck ($3000.00 in chips)
+7SkyAroundMe: posts small blind $50.00
+JohnMcShen: posts big blind $100.00
+*** HOLE CARDS ***
+rigggedeck: raises $100.00 to $200.00
+7SkyAroundMe: folds
+JohnMcShen: calls $100.00
+*** FLOP *** [2c Js 4s]
+JohnMcShen: checks
+rigggedeck: bets $134.47
+JohnMcShen: raises $287.25 to $421.72
+rigggedeck: folds
+Uncalled bet ($287.25) returned to JohnMcShen
+JohnMcShen collected $717.19 from pot
+JohnMcShen: doesn't show hand
+*** SUMMARY ***
+Total pot $718.94 | Rake $1.75
+Board [2c Js 4s]
+Seat 2: 7SkyAroundMe (small blind) folded before Flop
+Seat 5: JohnMcShen (big blind) collected ($717.19)
+Seat 6: rigggedeck (button) folded on the Flop
+
+PokerStars Hand #1520396517:  Hold'em No Limit ($50.00/$100.00 USD) - 2023/01/13 11:22:49 ET
+Table 'WPN_Avon Park' 6-max Seat #2 is the button
+Seat 2: 7SkyAroundMe ($10496.50 in chips)
+Seat 5: JohnMcShen ($14313.47 in chips)
+Seat 6: rigggedeck ($2665.53 in chips)
+JohnMcShen: posts small blind $50.00
+rigggedeck: posts big blind $100.00
+*** HOLE CARDS ***
+7SkyAroundMe: folds
+JohnMcShen: raises $150.00 to $250.00
+rigggedeck: folds
+Uncalled bet ($150.00) returned to JohnMcShen
+JohnMcShen collected $200.00 from pot
+JohnMcShen: doesn't show hand
+*** SUMMARY ***
+Total pot $200.00 | Rake $0.00
+Seat 2: 7SkyAroundMe (button) folded before Flop (didn't bet)
+Seat 5: JohnMcShen (small blind) collected ($200.00)
+Seat 6: rigggedeck (big blind) folded before Flop
+
+PokerStars Hand #1520396633:  Hold'em No Limit ($50.00/$100.00 USD) - 2023/01/13 11:23:10 ET
+Table 'WPN_Avon Park' 6-max Seat #5 is the button
+Seat 2: 7SkyAroundMe ($10496.50 in chips)
+Seat 5: JohnMcShen ($14413.47 in chips)
+Seat 6: rigggedeck ($2565.53 in chips)
+rigggedeck: posts small blind $50.00
+7SkyAroundMe: posts big blind $100.00
+*** HOLE CARDS ***
+JohnMcShen: raises $100.00 to $200.00
+rigggedeck: folds
+7SkyAroundMe: folds
+Uncalled bet ($100.00) returned to JohnMcShen
+JohnMcShen collected $250.00 from pot
+JohnMcShen: doesn't show hand
+*** SUMMARY ***
+Total pot $250.00 | Rake $0.00
+Seat 2: 7SkyAroundMe (big blind) folded before Flop
+Seat 5: JohnMcShen (button) collected ($250.00)
+Seat 6: rigggedeck (small blind) folded before Flop
+
+PokerStars Hand #1520396430:  Hold'em No Limit ($50.00/$100.00 USD) - 2023/01/13 11:22:34 ET
+Table 'WPN_Westcliffe' 6-max Seat #2 is the button
+Seat 2: 7SkyAroundMe ($12997.50 in chips)
+Seat 5: JohnMcShen ($13032.50 in chips)
+7SkyAroundMe: posts small blind $50.00
+JohnMcShen: posts big blind $100.00
+*** HOLE CARDS ***
+7SkyAroundMe: raises $150.00 to $250.00
+JohnMcShen: calls $150.00
+*** FLOP *** [9d Jh Ts]
+JohnMcShen: checks
+7SkyAroundMe: bets $250.00
+JohnMcShen: calls $250.00
+*** TURN *** [9d Jh Ts] [Ac]
+JohnMcShen: checks
+7SkyAroundMe: checks
+*** RIVER *** [9d Jh Ts Ac] [8c]
+JohnMcShen: bets $330.00
+7SkyAroundMe: calls $330.00
+*** SHOW DOWN ***
+7SkyAroundMe: shows [7s 6c]
+JohnMcShen: shows [7c Td]
+7SkyAroundMe collected $829.38 from pot
+JohnMcShen collected $829.37 from pot
+*** SUMMARY ***
+Total pot $1660.00 | Rake $1.25
+Board [9d Jh Ts Ac 8c]
+Seat 2: 7SkyAroundMe (button) (small blind) showed [7s 6c] and won ($829.38)
+Seat 5: JohnMcShen (big blind) showed [7c Td] and won ($829.37)
+
+PokerStars Hand #1520396770:  Hold'em No Limit ($50.00/$100.00 USD) - 2023/01/13 11:23:35 ET
+Table 'WPN_Avon Park' 6-max Seat #6 is the button
+Seat 2: 7SkyAroundMe ($10396.50 in chips)
+Seat 5: JohnMcShen ($14563.47 in chips)
+Seat 6: rigggedeck ($2515.53 in chips)
+7SkyAroundMe: posts small blind $50.00
+JohnMcShen: posts big blind $100.00
+*** HOLE CARDS ***
+rigggedeck: folds
+7SkyAroundMe: folds
+Uncalled bet ($50.00) returned to JohnMcShen
+JohnMcShen collected $100.00 from pot
+JohnMcShen: doesn't show hand
+*** SUMMARY ***
+Total pot $100.00 | Rake $0.00
+Seat 2: 7SkyAroundMe (small blind) folded before Flop
+Seat 5: JohnMcShen (big blind) collected ($100.00)
+Seat 6: rigggedeck (button) folded before Flop (didn't bet)
+
+PokerStars Hand #1520396850:  Hold'em No Limit ($50.00/$100.00 USD) - 2023/01/13 11:23:49 ET
+Table 'WPN_Avon Park' 6-max Seat #2 is the button
+Seat 2: 7SkyAroundMe ($10346.50 in chips)
+Seat 5: JohnMcShen ($14613.47 in chips)
+Seat 6: rigggedeck ($2515.53 in chips)
+JohnMcShen: posts small blind $50.00
+rigggedeck: posts big blind $100.00
+*** HOLE CARDS ***
+7SkyAroundMe: folds
+JohnMcShen: folds
+Uncalled bet ($50.00) returned to rigggedeck
+rigggedeck collected $100.00 from pot
+rigggedeck: doesn't show hand
+*** SUMMARY ***
+Total pot $100.00 | Rake $0.00
+Seat 2: 7SkyAroundMe (button) folded before Flop (didn't bet)
+Seat 5: JohnMcShen (small blind) folded before Flop
+Seat 6: rigggedeck (big blind) collected ($100.00)
+
+PokerStars Hand #1520396907:  Hold'em No Limit ($50.00/$100.00 USD) - 2023/01/13 11:24:01 ET
+Table 'WPN_Avon Park' 6-max Seat #5 is the button
+Seat 2: 7SkyAroundMe ($10346.50 in chips)
+Seat 5: JohnMcShen ($14563.47 in chips)
+Seat 6: rigggedeck ($2565.53 in chips)
+rigggedeck: posts small blind $50.00
+7SkyAroundMe: posts big blind $100.00
+*** HOLE CARDS ***
+JohnMcShen: raises $100.00 to $200.00
+rigggedeck: folds
+7SkyAroundMe: folds
+Uncalled bet ($100.00) returned to JohnMcShen
+JohnMcShen collected $250.00 from pot
+JohnMcShen: doesn't show hand
+*** SUMMARY ***
+Total pot $250.00 | Rake $0.00
+Seat 2: 7SkyAroundMe (big blind) folded before Flop
+Seat 5: JohnMcShen (button) collected ($250.00)
+Seat 6: rigggedeck (small blind) folded before Flop
+
+PokerStars Hand #1520397005:  Hold'em No Limit ($50.00/$100.00 USD) - 2023/01/13 11:24:19 ET
+Table 'WPN_Avon Park' 6-max Seat #6 is the button
+Seat 2: 7SkyAroundMe ($10246.50 in chips)
+Seat 5: JohnMcShen ($14713.47 in chips)
+Seat 6: rigggedeck ($2515.53 in chips)
+7SkyAroundMe: posts small blind $50.00
+JohnMcShen: posts big blind $100.00
+*** HOLE CARDS ***
+rigggedeck: raises $100.00 to $200.00
+7SkyAroundMe: raises $800.00 to $1000.00
+JohnMcShen: folds
+rigggedeck: raises $1515.53 to $2515.53 and is all-in
+7SkyAroundMe: calls $1515.53
+*** FIRST FLOP *** [Tc 9h 2c]
+*** FIRST TURN *** [Tc 9h 2c] [Ks]
+*** FIRST RIVER *** [Tc 9h 2c Ks] [8c]
+*** SECOND FLOP *** [3d 2d 4d]
+*** SECOND TURN *** [3d 2d 4d] [5c]
+*** SECOND RIVER *** [3d 2d 4d 5c] [Qc]
+*** FIRST SHOW DOWN ***
+7SkyAroundMe: shows [Js Ac]
+rigggedeck: shows [Qs Qh]
+rigggedeck collected $2564.66 from pot
+*** SECOND SHOW DOWN ***
+7SkyAroundMe: shows [Js Ac]
+rigggedeck: shows [Qs Qh]
+7SkyAroundMe collected $2564.65 from pot
+*** SUMMARY ***
+Total pot $5131.06 | Rake $1.75
+Hand was run twice
+FIRST Board [Tc 9h 2c Ks 8c]
+SECOND Board [3d 2d 4d 5c Qc]
+Seat 2: 7SkyAroundMe (small blind) showed [Js Ac] and lost, and won ($2564.65)
+Seat 5: JohnMcShen (big blind) folded before Flop
+Seat 6: rigggedeck (button) showed [Qs Qh] and won ($2564.66), and lost
+
+PokerStars Hand #1520396834:  Hold'em No Limit ($50.00/$100.00 USD) - 2023/01/13 11:23:46 ET
+Table 'WPN_Westcliffe' 6-max Seat #5 is the button
+Seat 2: 7SkyAroundMe ($12996.88 in chips)
+Seat 5: JohnMcShen ($13031.87 in chips)
+JohnMcShen: posts small blind $50.00
+7SkyAroundMe: posts big blind $100.00
+*** HOLE CARDS ***
+JohnMcShen: raises $150.00 to $250.00
+7SkyAroundMe: calls $150.00
+*** FLOP *** [7d Td 4d]
+7SkyAroundMe: checks
+JohnMcShen: bets $165.00
+7SkyAroundMe: calls $165.00
+*** TURN *** [7d Td 4d] [Qs]
+7SkyAroundMe: checks
+JohnMcShen: bets $622.50
+7SkyAroundMe: calls $622.50
+*** RIVER *** [7d Td 4d Qs] [Qd]
+7SkyAroundMe: checks
+JohnMcShen: checks
+*** SHOW DOWN ***
+JohnMcShen: shows [Ts As]
+7SkyAroundMe: mucks hand
+JohnMcShen collected $2073.75 from pot
+*** SUMMARY ***
+Total pot $2075.00 | Rake $1.25
+Board [7d Td 4d Qs Qd]
+Seat 2: 7SkyAroundMe (big blind) mucked
+Seat 5: JohnMcShen (button) (small blind) showed [Ts As] and won ($2073.75)
+
+PokerStars Hand #1520397163:  Hold'em No Limit ($50.00/$100.00 USD) - 2023/01/13 11:24:47 ET
+Table 'WPN_Westcliffe' 6-max Seat #2 is the button
+Seat 2: 7SkyAroundMe ($11959.38 in chips)
+Seat 5: JohnMcShen ($14068.12 in chips)
+7SkyAroundMe: posts small blind $50.00
+JohnMcShen: posts big blind $100.00
+*** HOLE CARDS ***
+7SkyAroundMe: raises $150.00 to $250.00
+JohnMcShen: raises $800.00 to $1050.00
+7SkyAroundMe: folds
+Uncalled bet ($800.00) returned to JohnMcShen
+JohnMcShen collected $500.00 from pot
+JohnMcShen: doesn't show hand
+*** SUMMARY ***
+Total pot $500.00 | Rake $0.00
+Seat 2: 7SkyAroundMe (button) (small blind) folded before Flop
+Seat 5: JohnMcShen (big blind) collected ($500.00)
+
+PokerStars Hand #1520397206:  Hold'em No Limit ($50.00/$100.00 USD) - 2023/01/13 11:24:53 ET
+Table 'WPN_Avon Park' 6-max Seat #2 is the button
+Seat 2: 7SkyAroundMe ($10295.62 in chips)
+Seat 5: JohnMcShen ($14613.47 in chips)
+Seat 6: rigggedeck ($2564.66 in chips)
+JohnMcShen: posts small blind $50.00
+rigggedeck: posts big blind $100.00
+*** HOLE CARDS ***
+7SkyAroundMe: folds
+JohnMcShen: folds
+Uncalled bet ($50.00) returned to rigggedeck
+rigggedeck collected $100.00 from pot
+rigggedeck: doesn't show hand
+*** SUMMARY ***
+Total pot $100.00 | Rake $0.00
+Seat 2: 7SkyAroundMe (button) folded before Flop (didn't bet)
+Seat 5: JohnMcShen (small blind) folded before Flop
+Seat 6: rigggedeck (big blind) collected ($100.00)
+
+PokerStars Hand #1520397273:  Hold'em No Limit ($50.00/$100.00 USD) - 2023/01/13 11:25:06 ET
+Table 'WPN_Westcliffe' 6-max Seat #5 is the button
+Seat 2: 7SkyAroundMe ($11709.38 in chips)
+Seat 5: JohnMcShen ($14318.12 in chips)
+JohnMcShen: posts small blind $50.00
+7SkyAroundMe: posts big blind $100.00
+*** HOLE CARDS ***
+JohnMcShen: raises $150.00 to $250.00
+7SkyAroundMe: calls $150.00
+*** FLOP *** [9d Jh 6h]
+7SkyAroundMe: checks
+JohnMcShen: checks
+*** TURN *** [9d Jh 6h] [9h]
+7SkyAroundMe: bets $125.00
+JohnMcShen: folds
+Uncalled bet ($125.00) returned to 7SkyAroundMe
+7SkyAroundMe collected $498.75 from pot
+7SkyAroundMe: doesn't show hand
+*** SUMMARY ***
+Total pot $500.00 | Rake $1.25
+Board [9d Jh 6h 9h]
+Seat 2: 7SkyAroundMe (big blind) collected ($498.75)
+Seat 5: JohnMcShen (button) (small blind) folded on the Turn
+
+PokerStars Hand #1520397332:  Hold'em No Limit ($50.00/$100.00 USD) - 2023/01/13 11:25:16 ET
+Table 'WPN_Avon Park' 6-max Seat #5 is the button
+Seat 2: 7SkyAroundMe ($10295.62 in chips)
+Seat 5: JohnMcShen ($14563.47 in chips)
+Seat 6: rigggedeck ($2614.66 in chips)
+rigggedeck: posts small blind $50.00
+7SkyAroundMe: posts big blind $100.00
+*** HOLE CARDS ***
+JohnMcShen: folds
+rigggedeck: calls $50.00
+7SkyAroundMe: checks
+*** FLOP *** [As 2c 5h]
+rigggedeck: checks
+7SkyAroundMe: checks
+*** TURN *** [As 2c 5h] [3d]
+rigggedeck: checks
+7SkyAroundMe: checks
+*** RIVER *** [As 2c 5h 3d] [3s]
+rigggedeck: checks
+7SkyAroundMe: checks
+*** SHOW DOWN ***
+7SkyAroundMe: shows [Ts Kd]
+rigggedeck: mucks hand
+7SkyAroundMe collected $198.25 from pot
+*** SUMMARY ***
+Total pot $200.00 | Rake $1.75
+Board [As 2c 5h 3d 3s]
+Seat 2: 7SkyAroundMe (big blind) showed [Ts Kd] and won ($198.25)
+Seat 5: JohnMcShen (button) folded before Flop (didn't bet)
+Seat 6: rigggedeck (small blind) mucked
+
+PokerStars Hand #1520397594:  Hold'em No Limit ($50.00/$100.00 USD) - 2023/01/13 11:25:59 ET
+Table 'WPN_Avon Park' 6-max Seat #6 is the button
+Seat 2: 7SkyAroundMe ($10393.87 in chips)
+Seat 5: JohnMcShen ($14563.47 in chips)
+Seat 6: rigggedeck ($2514.66 in chips)
+7SkyAroundMe: posts small blind $50.00
+JohnMcShen: posts big blind $100.00
+*** HOLE CARDS ***
+rigggedeck: raises $100.00 to $200.00
+7SkyAroundMe: raises $800.00 to $1000.00
+JohnMcShen: folds
+rigggedeck: folds
+Uncalled bet ($800.00) returned to 7SkyAroundMe
+7SkyAroundMe collected $500.00 from pot
+7SkyAroundMe: doesn't show hand
+*** SUMMARY ***
+Total pot $500.00 | Rake $0.00
+Seat 2: 7SkyAroundMe (small blind) collected ($500.00)
+Seat 5: JohnMcShen (big blind) folded before Flop
+Seat 6: rigggedeck (button) folded before Flop
+
+PokerStars Hand #1520397489:  Hold'em No Limit ($50.00/$100.00 USD) - 2023/01/13 11:25:42 ET
+Table 'WPN_Westcliffe' 6-max Seat #2 is the button
+Seat 2: 7SkyAroundMe ($11958.13 in chips)
+Seat 5: JohnMcShen ($14068.12 in chips)
+7SkyAroundMe: posts small blind $50.00
+JohnMcShen: posts big blind $100.00
+*** HOLE CARDS ***
+7SkyAroundMe: raises $150.00 to $250.00
+JohnMcShen: calls $150.00
+*** FLOP *** [Js 7s 3s]
+JohnMcShen: checks
+7SkyAroundMe: bets $165.00
+JohnMcShen: calls $165.00
+*** TURN *** [Js 7s 3s] [5s]
+JohnMcShen: checks
+7SkyAroundMe: bets $207.50
+JohnMcShen: calls $207.50
+*** RIVER *** [Js 7s 3s 5s] [5c]
+JohnMcShen: checks
+7SkyAroundMe: bets $821.70
+JohnMcShen: calls $821.70
+*** SHOW DOWN ***
+7SkyAroundMe: shows [Qs Tc]
+JohnMcShen: mucks hand
+7SkyAroundMe collected $2887.15 from pot
+*** SUMMARY ***
+Total pot $2888.40 | Rake $1.25
+Board [Js 7s 3s 5s 5c]
+Seat 2: 7SkyAroundMe (button) (small blind) showed [Qs Tc] and won ($2887.15)
+Seat 5: JohnMcShen (big blind) mucked
+
+PokerStars Hand #1520397708:  Hold'em No Limit ($50.00/$100.00 USD) - 2023/01/13 11:26:21 ET
+Table 'WPN_Avon Park' 6-max Seat #2 is the button
+Seat 2: 7SkyAroundMe ($10693.87 in chips)
+Seat 5: JohnMcShen ($14463.47 in chips)
+Seat 6: rigggedeck ($2314.66 in chips)
+JohnMcShen: posts small blind $50.00
+rigggedeck: posts big blind $100.00
+*** HOLE CARDS ***
+7SkyAroundMe: folds
+JohnMcShen: raises $150.00 to $250.00
+rigggedeck: calls $150.00
+*** FLOP *** [Th Js 2c]
+JohnMcShen: bets $125.00
+rigggedeck: raises $300.00 to $425.00
+JohnMcShen: folds
+Uncalled bet ($300.00) returned to rigggedeck
+rigggedeck collected $748.25 from pot
+rigggedeck: doesn't show hand
+*** SUMMARY ***
+Total pot $750.00 | Rake $1.75
+Board [Th Js 2c]
+Seat 2: 7SkyAroundMe (button) folded before Flop (didn't bet)
+Seat 5: JohnMcShen (small blind) folded on the Flop
+Seat 6: rigggedeck (big blind) collected ($748.25)
+
+PokerStars Hand #1520397922:  Hold'em No Limit ($50.00/$100.00 USD) - 2023/01/13 11:26:55 ET
+Table 'WPN_Avon Park' 6-max Seat #5 is the button
+Seat 1: FlyingStyle ($10000.00 in chips)
+Seat 2: 7SkyAroundMe ($10693.87 in chips)
+Seat 5: JohnMcShen ($14088.47 in chips)
+Seat 6: rigggedeck ($2687.91 in chips)
+rigggedeck: posts small blind $50.00
+FlyingStyle: posts big blind $100.00
+*** HOLE CARDS ***
+7SkyAroundMe: folds
+JohnMcShen: folds
+rigggedeck: calls $50.00
+FlyingStyle: checks
+*** FLOP *** [8c 2d 5h]
+rigggedeck: checks
+FlyingStyle: checks
+*** TURN *** [8c 2d 5h] [Ts]
+rigggedeck: checks
+FlyingStyle: bets $284.00
+rigggedeck: folds
+Uncalled bet ($284.00) returned to FlyingStyle
+FlyingStyle collected $197.75 from pot
+FlyingStyle: doesn't show hand
+*** SUMMARY ***
+Total pot $200.00 | Rake $2.25
+Board [8c 2d 5h Ts]
+Seat 1: FlyingStyle (big blind) collected ($197.75)
+Seat 2: 7SkyAroundMe folded before Flop (didn't bet)
+Seat 5: JohnMcShen (button) folded before Flop (didn't bet)
+Seat 6: rigggedeck (small blind) folded on the Turn
+
+PokerStars Hand #1520397924:  Hold'em No Limit ($50.00/$100.00 USD) - 2023/01/13 11:26:55 ET
+Table 'WPN_Westcliffe' 6-max Seat #5 is the button
+Seat 2: 7SkyAroundMe ($13401.08 in chips)
+Seat 5: JohnMcShen ($12623.92 in chips)
+JohnMcShen: posts small blind $50.00
+7SkyAroundMe: posts big blind $100.00
+*** HOLE CARDS ***
+JohnMcShen: raises $150.00 to $250.00
+7SkyAroundMe: calls $150.00
+*** FLOP *** [Ac Qs Js]
+7SkyAroundMe: checks
+JohnMcShen: checks
+*** TURN *** [Ac Qs Js] [7h]
+7SkyAroundMe: checks
+JohnMcShen: checks
+*** RIVER *** [Ac Qs Js 7h] [2h]
+7SkyAroundMe: bets $200.00
+JohnMcShen: calls $200.00
+*** SHOW DOWN ***
+JohnMcShen: shows [Qh 9c]
+7SkyAroundMe: mucks hand
+JohnMcShen collected $898.75 from pot
+*** SUMMARY ***
+Total pot $900.00 | Rake $1.25
+Board [Ac Qs Js 7h 2h]
+Seat 2: 7SkyAroundMe (big blind) mucked
+Seat 5: JohnMcShen (button) (small blind) showed [Qh 9c] and won ($898.75)
+
+PokerStars Hand #1520398142:  Hold'em No Limit ($50.00/$100.00 USD) - 2023/01/13 11:27:38 ET
+Table 'WPN_Avon Park' 6-max Seat #6 is the button
+Seat 1: FlyingStyle ($10097.75 in chips)
+Seat 2: 7SkyAroundMe ($10693.87 in chips)
+Seat 5: JohnMcShen ($14088.47 in chips)
+Seat 6: rigggedeck ($2587.91 in chips)
+FlyingStyle: posts small blind $50.00
+7SkyAroundMe: posts big blind $100.00
+*** HOLE CARDS ***
+JohnMcShen: folds
+rigggedeck: raises $100.00 to $200.00
+FlyingStyle: folds
+7SkyAroundMe: folds
+Uncalled bet ($100.00) returned to rigggedeck
+rigggedeck collected $250.00 from pot
+rigggedeck: doesn't show hand
+*** SUMMARY ***
+Total pot $250.00 | Rake $0.00
+Seat 1: FlyingStyle (small blind) folded before Flop
+Seat 2: 7SkyAroundMe (big blind) folded before Flop
+Seat 5: JohnMcShen folded before Flop (didn't bet)
+Seat 6: rigggedeck (button) collected ($250.00)
+
+PokerStars Hand #1520398205:  Hold'em No Limit ($50.00/$100.00 USD) - 2023/01/13 11:27:48 ET
+Table 'WPN_Westcliffe' 6-max Seat #2 is the button
+Seat 2: 7SkyAroundMe ($12951.08 in chips)
+Seat 5: JohnMcShen ($13072.67 in chips)
+7SkyAroundMe: posts small blind $50.00
+JohnMcShen: posts big blind $100.00
+*** HOLE CARDS ***
+7SkyAroundMe: raises $150.00 to $250.00
+JohnMcShen: raises $800.00 to $1050.00
+7SkyAroundMe: folds
+Uncalled bet ($800.00) returned to JohnMcShen
+JohnMcShen collected $500.00 from pot
+JohnMcShen: doesn't show hand
+*** SUMMARY ***
+Total pot $500.00 | Rake $0.00
+Seat 2: 7SkyAroundMe (button) (small blind) folded before Flop
+Seat 5: JohnMcShen (big blind) collected ($500.00)
+
+PokerStars Hand #1520398317:  Hold'em No Limit ($50.00/$100.00 USD) - 2023/01/13 11:28:08 ET
+Table 'WPN_Westcliffe' 6-max Seat #5 is the button
+Seat 2: 7SkyAroundMe ($12701.08 in chips)
+Seat 5: JohnMcShen ($13322.67 in chips)
+JohnMcShen: posts small blind $50.00
+7SkyAroundMe: posts big blind $100.00
+*** HOLE CARDS ***
+JohnMcShen: folds
+Uncalled bet ($50.00) returned to 7SkyAroundMe
+7SkyAroundMe collected $100.00 from pot
+7SkyAroundMe: doesn't show hand
+*** SUMMARY ***
+Total pot $100.00 | Rake $0.00
+Seat 2: 7SkyAroundMe (big blind) collected ($100.00)
+Seat 5: JohnMcShen (button) (small blind) folded before Flop
+
+PokerStars Hand #1520398375:  Hold'em No Limit ($50.00/$100.00 USD) - 2023/01/13 11:28:18 ET
+Table 'WPN_Westcliffe' 6-max Seat #2 is the button
+Seat 2: 7SkyAroundMe ($12751.08 in chips)
+Seat 5: JohnMcShen ($13272.67 in chips)
+7SkyAroundMe: posts small blind $50.00
+JohnMcShen: posts big blind $100.00
+*** HOLE CARDS ***
+7SkyAroundMe: raises $150.00 to $250.00
+JohnMcShen: raises $800.00 to $1050.00
+7SkyAroundMe: folds
+Uncalled bet ($800.00) returned to JohnMcShen
+JohnMcShen collected $500.00 from pot
+JohnMcShen: doesn't show hand
+*** SUMMARY ***
+Total pot $500.00 | Rake $0.00
+Seat 2: 7SkyAroundMe (button) (small blind) folded before Flop
+Seat 5: JohnMcShen (big blind) collected ($500.00)
+
+PokerStars Hand #1520398238:  Hold'em No Limit ($50.00/$100.00 USD) - 2023/01/13 11:27:55 ET
+Table 'WPN_Avon Park' 6-max Seat #1 is the button
+Seat 1: FlyingStyle ($10047.75 in chips)
+Seat 2: 7SkyAroundMe ($10593.87 in chips)
+Seat 5: JohnMcShen ($14088.47 in chips)
+Seat 6: rigggedeck ($2737.91 in chips)
+7SkyAroundMe: posts small blind $50.00
+JohnMcShen: posts big blind $100.00
+*** HOLE CARDS ***
+rigggedeck: folds
+FlyingStyle: raises $150.00 to $250.00
+7SkyAroundMe: folds
+JohnMcShen: calls $150.00
+*** FLOP *** [3h 2d Qh]
+JohnMcShen: checks
+FlyingStyle: bets $126.50
+JohnMcShen: raises $401.50 to $528.00
+FlyingStyle: raises $897.00 to $1425.00
+JohnMcShen: folds
+Uncalled bet ($897.00) returned to FlyingStyle
+FlyingStyle collected $1603.75 from pot
+FlyingStyle: doesn't show hand
+*** SUMMARY ***
+Total pot $1606.00 | Rake $2.25
+Board [3h 2d Qh]
+Seat 1: FlyingStyle (button) collected ($1603.75)
+Seat 2: 7SkyAroundMe (small blind) folded before Flop
+Seat 5: JohnMcShen (big blind) folded on the Flop
+Seat 6: rigggedeck folded before Flop (didn't bet)
+

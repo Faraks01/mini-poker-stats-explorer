@@ -1,0 +1,473 @@
+
+Hand #1944317534 - Holdem(No Limit) - $25/$50 - 2023/11/25 23:11:32 UTC
+Tiskilwa 6-max Seat #5 is the button
+Seat 1: mlchelangelo ($5000)
+Seat 2: zas911 ($5000)
+Seat 3: dekikun ($5000)
+Seat 5: overeducated ($2000)
+Seat 6: bonieumiesz ($5000)
+zas911 posts ante $250
+overeducated posts ante $250
+*** HOLE CARDS *** 
+*** FLOP *** [4h Qh As]
+Main pot $498.75 | Rake $1.25
+zas911 checks
+overeducated bets $500
+zas911 folds
+Uncalled bet ($500) returned to overeducated
+overeducated does not show
+*** SUMMARY ***
+BombPot
+Total pot $498.75 | Rake $1.25
+Seat 2: zas911 folded on the Flop
+Seat 5: overeducated (button) did not showed and won $498.75
+
+
+Hand #1944333231 - Holdem(No Limit) - $25/$50 - 2023/11/25 23:27:07 UTC
+Tiskilwa 6-max Seat #4 is the button
+Seat 1: Doblou ($5536.40)
+Seat 2: zas911 ($5579)
+Seat 3: dekikun ($4975)
+Seat 4: IscoopU ($2193.25)
+Seat 5: overeducated ($2647.25)
+Seat 6: bonieumiesz ($5000)
+Doblou posts ante $250
+zas911 posts ante $250
+dekikun posts ante $250
+IscoopU posts ante $250
+overeducated posts ante $250
+bonieumiesz posts ante $250
+*** HOLE CARDS *** 
+*** FLOP *** [Th 4d 8c]
+Main pot $1497 | Rake $3
+overeducated checks
+bonieumiesz checks
+Doblou checks
+zas911 checks
+dekikun checks
+IscoopU checks
+*** TURN *** [Th 4d 8c] [9d]
+Main pot $1497 | Rake $3
+overeducated checks
+bonieumiesz bets $375
+Doblou folds
+zas911 folds
+dekikun calls $375
+IscoopU folds
+overeducated folds
+*** RIVER *** [Th 4d 8c 9d] [7s]
+Main pot $2247 | Rake $3
+bonieumiesz bets $712.50
+dekikun calls $712.50
+*** SHOW DOWN ***
+Main pot $2247 | Rake $3
+bonieumiesz shows [Jd 2c]
+bonieumiesz collected $3672 from main pot
+*** SUMMARY ***
+BombPot
+Total pot $3672 | Rake $3
+Seat 1: Doblou folded on the Turn
+Seat 2: zas911 folded on the Turn
+Seat 3: dekikun did not showed and lost
+Seat 4: IscoopU (button) folded on the Turn
+Seat 5: overeducated folded on the Turn
+Seat 6: bonieumiesz showed [Jd 2c] and won $3672 with Straight [Jd Th 9d 8c 7s]
+
+
+Hand #1944349825 - Holdem(No Limit) - $25/$50 - 2023/11/25 23:43:51 UTC
+Tiskilwa 6-max Seat #1 is the button
+Seat 1: Doblou ($5526.90)
+Seat 2: zas911 ($5195.82)
+Seat 3: dekikun ($5946.25)
+Seat 4: IscoopU ($2000)
+Seat 5: overeducated ($2236)
+Seat 6: bonieumiesz ($9728.75)
+Doblou posts ante $250
+zas911 posts ante $250
+dekikun posts ante $250
+IscoopU posts ante $250
+overeducated posts ante $250
+bonieumiesz posts ante $250
+*** HOLE CARDS *** 
+*** FLOP *** [9s Qs 4c]
+Main pot $1497 | Rake $3
+zas911 checks
+dekikun checks
+IscoopU checks
+overeducated checks
+bonieumiesz checks
+Doblou checks
+*** TURN *** [9s Qs 4c] [7d]
+Main pot $1497 | Rake $3
+zas911 bets $750
+dekikun folds
+IscoopU folds
+overeducated folds
+bonieumiesz folds
+Doblou calls $750
+*** RIVER *** [9s Qs 4c 7d] [As]
+Main pot $2997 | Rake $3
+zas911 bets $990
+Doblou folds
+Uncalled bet ($990) returned to zas911
+zas911 does not show
+*** SUMMARY ***
+BombPot
+Total pot $2997 | Rake $3
+Seat 1: Doblou (button) folded on the River
+Seat 2: zas911 did not showed and won $2997
+Seat 3: dekikun folded on the Turn
+Seat 4: IscoopU folded on the Turn
+Seat 5: overeducated folded on the Turn
+Seat 6: bonieumiesz folded on the Turn
+
+
+Hand #1944355358 - Holdem(No Limit) - $25/$50 - 2023/11/25 23:48:03 UTC
+Tiskilwa 6-max Seat #6 is the button
+Seat 1: Doblou ($7097)
+Seat 2: zas911 ($7142.82)
+Seat 3: dekikun ($5846.25)
+Seat 4: IscoopU ($2000)
+Seat 5: overeducated ($1911)
+Seat 6: bonieumiesz ($9403.75)
+Doblou posts ante $250
+zas911 posts ante $250
+dekikun posts ante $250
+IscoopU posts ante $250
+overeducated posts ante $250
+bonieumiesz posts ante $250
+*** HOLE CARDS *** 
+*** FLOP *** [As Qs Ah]
+Main pot $1497 | Rake $3
+Doblou checks
+zas911 checks
+dekikun checks
+IscoopU checks
+overeducated bets $475
+bonieumiesz calls $475
+Doblou folds
+zas911 folds
+dekikun folds
+IscoopU folds
+*** TURN *** [As Qs Ah] [Ac]
+Main pot $2447 | Rake $3
+overeducated bets $850
+bonieumiesz raises $1700 to $1700
+overeducated calls $336 and is all-in
+Uncalled bet ($514) returned to bonieumiesz
+bonieumiesz does not show
+*** RIVER *** [As Qs Ah Ac] [7h]
+Main pot $4819 | Rake $3
+*** SHOW DOWN ***
+Main pot $4819 | Rake $3
+overeducated shows [Ad Jd]
+bonieumiesz shows [7d Qd]
+overeducated collected $4819 from main pot
+*** SUMMARY ***
+BombPot
+Total pot $4819 | Rake $3
+Seat 1: Doblou folded on the Flop
+Seat 2: zas911 folded on the Flop
+Seat 3: dekikun folded on the Flop
+Seat 4: IscoopU folded on the Flop
+Seat 5: overeducated showed [Ad Jd] and won $4819 with FourOfAKind [As Ah Ad Ac Qs]
+Seat 6: bonieumiesz (button) showed [7d Qd] and lost
+
+
+Hand #1944896051 - Holdem(No Limit) - $25/$50 - 2023/11/26 12:52:37 UTC
+Tiskilwa 6-max Seat #2 is the button
+Seat 2: lukabrate ($5000)
+Seat 5: gorbashove ($5000)
+lukabrate posts ante $250
+gorbashove posts ante $250
+*** HOLE CARDS *** 
+*** FLOP *** [6d Th Kc]
+Main pot $498.75 | Rake $1.25
+gorbashove bets $165
+lukabrate raises $580 to $580
+gorbashove folds
+Uncalled bet ($415) returned to lukabrate
+lukabrate does not show
+*** SUMMARY ***
+BombPot
+Total pot $828.75 | Rake $1.25
+Seat 2: lukabrate (button) did not showed and won $828.75
+Seat 5: gorbashove folded on the Flop
+
+
+Hand #1944905021 - Holdem(No Limit) - $25/$50 - 2023/11/26 13:14:47 UTC
+Tiskilwa 6-max Seat #5 is the button
+Seat 1: Fletchy12 ($5103.62)
+Seat 2: lukabrate ($5080)
+Seat 3: Shkipan ($2427)
+Seat 4: fonStierlitz ($5075)
+Seat 5: xplo1t4bl3 ($5144.50)
+Seat 6: gorbashove ($8511.25)
+Fletchy12 posts ante $250
+lukabrate posts ante $250
+Shkipan posts ante $250
+fonStierlitz posts ante $250
+xplo1t4bl3 posts ante $250
+gorbashove posts ante $250
+*** HOLE CARDS *** 
+*** FLOP *** [7h 3h 9d]
+Main pot $1497 | Rake $3
+gorbashove checks
+Fletchy12 checks
+lukabrate checks
+Shkipan checks
+fonStierlitz bets $375
+xplo1t4bl3 calls $375
+gorbashove folds
+Fletchy12 folds
+lukabrate raises $4830 to $4830 and is all-in
+Shkipan folds
+fonStierlitz folds
+xplo1t4bl3 folds
+Uncalled bet ($4455) returned to lukabrate
+lukabrate does not show
+*** SUMMARY ***
+BombPot
+Total pot $2622 | Rake $3
+Seat 1: Fletchy12 folded on the Flop
+Seat 2: lukabrate did not showed and won $2622
+Seat 3: Shkipan folded on the Flop
+Seat 4: fonStierlitz folded on the Flop
+Seat 5: xplo1t4bl3 (button) folded on the Flop
+Seat 6: gorbashove folded on the Flop
+
+
+Hand #1944907584 - Holdem(No Limit) - $25/$50 - 2023/11/26 13:21:27 UTC
+Tiskilwa 6-max Seat #2 is the button
+Seat 2: lukabrate ($7955.37)
+Seat 4: fonStierlitz ($5000)
+Seat 5: xplo1t4bl3 ($5309.50)
+Seat 6: gorbashove ($7898.75)
+lukabrate posts ante $250
+fonStierlitz posts ante $250
+xplo1t4bl3 posts ante $250
+gorbashove posts ante $250
+*** HOLE CARDS *** 
+*** FLOP *** [2h 6h Ah]
+Main pot $997.75 | Rake $2.25
+fonStierlitz checks
+xplo1t4bl3 checks
+gorbashove checks
+lukabrate checks
+*** TURN *** [2h 6h Ah] [Th]
+Main pot $997.75 | Rake $2.25
+fonStierlitz checks
+xplo1t4bl3 checks
+gorbashove checks
+lukabrate checks
+*** RIVER *** [2h 6h Ah Th] [Jc]
+Main pot $997.75 | Rake $2.25
+fonStierlitz checks
+xplo1t4bl3 checks
+gorbashove bets $750
+lukabrate calls $750
+fonStierlitz folds
+xplo1t4bl3 folds
+*** SHOW DOWN ***
+Main pot $997.75 | Rake $2.25
+lukabrate shows [7h 9c]
+lukabrate collected $2497.75 from main pot
+*** SUMMARY ***
+BombPot
+Total pot $2497.75 | Rake $2.25
+Seat 2: lukabrate (button) showed [7h 9c] and won $2497.75 with Flush [Ah Th 7h 6h 2h]
+Seat 4: fonStierlitz folded on the River
+Seat 5: xplo1t4bl3 folded on the River
+Seat 6: gorbashove did not showed and lost
+
+
+Hand #1944917552 - Holdem(No Limit) - $25/$50 - 2023/11/26 13:45:10 UTC
+Tiskilwa 6-max Seat #4 is the button
+Seat 2: lukabrate ($8856.37)
+Seat 3: B1gPoppa ($5000)
+Seat 4: fonStierlitz ($7248.25)
+Seat 6: gorbashove ($13338.75)
+lukabrate posts ante $250
+B1gPoppa posts ante $250
+fonStierlitz posts ante $250
+gorbashove posts ante $250
+*** HOLE CARDS *** 
+*** FLOP *** [3d 7h 8c]
+Main pot $997.75 | Rake $2.25
+gorbashove checks
+lukabrate checks
+B1gPoppa checks
+fonStierlitz bets $250
+gorbashove calls $250
+lukabrate folds
+B1gPoppa calls $250
+*** TURN *** [3d 7h 8c] [3c]
+Main pot $1747.75 | Rake $2.25
+gorbashove checks
+B1gPoppa checks
+fonStierlitz bets $875
+gorbashove calls $875
+B1gPoppa folds
+*** RIVER *** [3d 7h 8c 3c] [8s]
+Main pot $3497.75 | Rake $2.25
+gorbashove checks
+fonStierlitz checks
+*** SHOW DOWN ***
+Main pot $3497.75 | Rake $2.25
+fonStierlitz shows [3s Ac]
+fonStierlitz collected $3497.75 from main pot
+*** SUMMARY ***
+BombPot
+Total pot $3497.75 | Rake $2.25
+Seat 2: lukabrate folded on the Flop
+Seat 3: B1gPoppa folded on the Turn
+Seat 4: fonStierlitz (button) showed [3s Ac] and won $3497.75 with FullHouse [3s 3d 3c 8s 8c]
+Seat 6: gorbashove did not showed and lost
+
+
+Hand #1944923327 - Holdem(No Limit) - $25/$50 - 2023/11/26 13:57:21 UTC
+Tiskilwa 6-max Seat #3 is the button
+Seat 1: Pr.Lupine ($5162.50)
+Seat 2: lukabrate ($8109.50)
+Seat 3: B1gPoppa ($9221)
+Seat 4: fonStierlitz ($5000)
+Seat 6: gorbashove ($12522)
+Pr.Lupine posts ante $250
+lukabrate posts ante $250
+B1gPoppa posts ante $250
+gorbashove posts ante $250
+*** HOLE CARDS *** 
+*** FLOP *** [9d Qd As]
+Main pot $997.75 | Rake $2.25
+gorbashove checks
+Pr.Lupine checks
+lukabrate bets $250
+B1gPoppa folds
+gorbashove folds
+Pr.Lupine calls $250
+*** TURN *** [9d Qd As] [Jd]
+Main pot $1497.75 | Rake $2.25
+Pr.Lupine checks
+lukabrate bets $750
+Pr.Lupine folds
+Uncalled bet ($750) returned to lukabrate
+lukabrate does not show
+*** SUMMARY ***
+BombPot
+Total pot $1497.75 | Rake $2.25
+Seat 1: Pr.Lupine folded on the Turn
+Seat 2: lukabrate did not showed and won $1497.75
+Seat 3: B1gPoppa (button) folded on the Flop
+Seat 6: gorbashove folded on the Flop
+
+
+Hand #1944936991 - Holdem(No Limit) - $25/$50 - 2023/11/26 14:24:10 UTC
+Tiskilwa 6-max Seat #2 is the button
+Seat 1: B1gPoppa ($9431.82)
+Seat 2: lukabrate ($7290.87)
+Seat 3: D I E S E L ($6298.68)
+Seat 4: fonStierlitz ($7438.25)
+Seat 5: orgi69 ($5000)
+Seat 6: gorbashove ($9591.35)
+B1gPoppa posts ante $250
+lukabrate posts ante $250
+D I E S E L posts ante $250
+fonStierlitz posts ante $250
+orgi69 posts ante $250
+gorbashove posts ante $250
+*** HOLE CARDS *** 
+*** FLOP *** [8c Ks Jc]
+Main pot $1497 | Rake $3
+D I E S E L checks
+fonStierlitz checks
+orgi69 checks
+gorbashove checks
+B1gPoppa bets $419.16
+lukabrate folds
+D I E S E L calls $419.16
+fonStierlitz calls $419.16
+orgi69 folds
+gorbashove folds
+*** TURN *** [8c Ks Jc] [8h]
+Main pot $2754.48 | Rake $3
+D I E S E L bets $551
+fonStierlitz calls $551
+B1gPoppa folds
+*** RIVER *** [8c Ks Jc 8h] [4c]
+Main pot $3856.48 | Rake $3
+D I E S E L bets $771
+fonStierlitz calls $771
+*** SHOW DOWN ***
+Main pot $3856.48 | Rake $3
+D I E S E L shows [Kd 9c]
+fonStierlitz shows [Kh 3d]
+D I E S E L collected $2699.24 from main pot
+fonStierlitz collected $2699.24 from main pot
+*** SUMMARY ***
+BombPot
+Total pot $5398.48 | Rake $3
+Seat 1: B1gPoppa folded on the Turn
+Seat 2: lukabrate (button) folded on the Flop
+Seat 3: D I E S E L showed [Kd 9c] and won $2699.24 with TwoPair [Ks Kh 8h 8c Jc]
+Seat 4: fonStierlitz showed [Kh 3d] and won $2699.24 with TwoPair [Ks Kh 8h 8c Jc]
+Seat 5: orgi69 folded on the Flop
+Seat 6: gorbashove folded on the Flop
+
+
+Hand #1944952390 - Holdem(No Limit) - $25/$50 - 2023/11/26 14:45:27 UTC
+Tiskilwa 6-max Seat #6 is the button
+Seat 5: orgi69 ($5758.28)
+Seat 6: gorbashove ($8557.99)
+orgi69 posts ante $250
+gorbashove posts ante $250
+*** HOLE CARDS *** 
+*** FLOP *** [Td 6h 3h]
+Main pot $498.75 | Rake $1.25
+orgi69 bets $139.65
+gorbashove calls $139.65
+*** TURN *** [Td 6h 3h] [3c]
+Main pot $778.05 | Rake $1.25
+orgi69 checks
+gorbashove bets $514.33
+orgi69 calls $514.33
+*** RIVER *** [Td 6h 3h 3c] [5d]
+Main pot $1806.71 | Rake $1.25
+orgi69 checks
+gorbashove bets $1430.97
+orgi69 folds
+Uncalled bet ($1430.97) returned to gorbashove
+gorbashove does not show
+*** SUMMARY ***
+BombPot
+Total pot $1806.71 | Rake $1.25
+Seat 5: orgi69 folded on the River
+Seat 6: gorbashove (button) did not showed and won $1806.71
+
+
+Hand #1944958706 - Holdem(No Limit) - $25/$50 - 2023/11/26 14:53:08 UTC
+Tiskilwa 6-max Seat #5 is the button
+Seat 5: orgi69 ($4407.78)
+Seat 6: gorbashove ($9900.99)
+orgi69 posts ante $250
+gorbashove posts ante $250
+*** HOLE CARDS *** 
+*** FLOP *** [4h Ac Kh]
+Main pot $498.75 | Rake $1.25
+gorbashove checks
+orgi69 checks
+*** TURN *** [4h Ac Kh] [8d]
+Main pot $498.75 | Rake $1.25
+gorbashove checks
+orgi69 checks
+*** RIVER *** [4h Ac Kh 8d] [7h]
+Main pot $498.75 | Rake $1.25
+gorbashove bets $374
+orgi69 folds
+Uncalled bet ($374) returned to gorbashove
+gorbashove does not show
+*** SUMMARY ***
+BombPot
+Total pot $498.75 | Rake $1.25
+Seat 5: orgi69 (button) folded on the River
+Seat 6: gorbashove did not showed and won $498.75
+

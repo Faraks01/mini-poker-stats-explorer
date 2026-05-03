@@ -1,0 +1,565 @@
+PokerStars Hand #1527518041:  Hold'em No Limit ($25.00/$50.00 USD) - 2023/01/18 18:08:09 ET
+Table 'WPN_7 Day No Rathole 25/50 NLH 9-Max' 9-max Seat #3 is the button
+Seat 3: DoublelegTD ($6561.20 in chips)
+Seat 8: Haftbefehl ($1109.07 in chips)
+Seat 9: staubsauger ($500.00 in chips)
+DoublelegTD: posts small blind $25.00
+Haftbefehl: posts big blind $50.00
+*** HOLE CARDS ***
+DoublelegTD: calls $25.00
+Haftbefehl: raises $125.00 to $175.00
+DoublelegTD: raises $6386.20 to $6561.20 and is all-in
+Haftbefehl: folds
+Uncalled bet ($6386.20) returned to DoublelegTD
+DoublelegTD collected $350.00 from pot
+DoublelegTD: doesn't show hand
+*** SUMMARY ***
+Total pot $350.00 | Rake $0.00
+Seat 3: DoublelegTD (button) (small blind) collected ($350.00)
+Seat 8: Haftbefehl (big blind) folded before Flop
+
+PokerStars Hand #1527518742:  Hold'em No Limit ($25.00/$50.00 USD) - 2023/01/18 18:08:42 ET
+Table 'WPN_7 Day No Rathole 25/50 NLH 9-Max' 9-max Seat #3 is the button
+Seat 3: DoublelegTD ($6736.20 in chips)
+Seat 8: Haftbefehl ($934.07 in chips)
+Seat 9: staubsauger ($500.00 in chips)
+Haftbefehl: posts small blind $25.00
+staubsauger: posts big blind $50.00
+*** HOLE CARDS ***
+DoublelegTD: folds
+Haftbefehl: folds
+Uncalled bet ($25.00) returned to staubsauger
+staubsauger collected $50.00 from pot
+staubsauger: doesn't show hand
+*** SUMMARY ***
+Total pot $50.00 | Rake $0.00
+Seat 3: DoublelegTD (button) folded before Flop (didn't bet)
+Seat 8: Haftbefehl (small blind) folded before Flop
+Seat 9: staubsauger (big blind) collected ($50.00)
+
+PokerStars Hand #1527518954:  Hold'em No Limit ($25.00/$50.00 USD) - 2023/01/18 18:08:51 ET
+Table 'WPN_7 Day No Rathole 25/50 NLH 9-Max' 9-max Seat #8 is the button
+Seat 3: DoublelegTD ($6736.20 in chips)
+Seat 8: Haftbefehl ($909.07 in chips)
+Seat 9: staubsauger ($525.00 in chips)
+staubsauger: posts small blind $25.00
+DoublelegTD: posts big blind $50.00
+*** HOLE CARDS ***
+Haftbefehl: folds
+staubsauger: raises $475.00 to $525.00 and is all-in
+DoublelegTD: folds
+Uncalled bet ($475.00) returned to staubsauger
+staubsauger collected $100.00 from pot
+staubsauger: doesn't show hand
+*** SUMMARY ***
+Total pot $100.00 | Rake $0.00
+Seat 3: DoublelegTD (big blind) folded before Flop
+Seat 8: Haftbefehl (button) folded before Flop (didn't bet)
+Seat 9: staubsauger (small blind) collected ($100.00)
+
+PokerStars Hand #1527519224:  Hold'em No Limit ($25.00/$50.00 USD) - 2023/01/18 18:09:03 ET
+Table 'WPN_7 Day No Rathole 25/50 NLH 9-Max' 9-max Seat #9 is the button
+Seat 3: DoublelegTD ($6686.20 in chips)
+Seat 8: Haftbefehl ($909.07 in chips)
+Seat 9: staubsauger ($575.00 in chips)
+DoublelegTD: posts small blind $25.00
+Haftbefehl: posts big blind $50.00
+*** HOLE CARDS ***
+staubsauger: raises $525.00 to $575.00 and is all-in
+DoublelegTD: folds
+Haftbefehl: calls $525.00
+*** FIRST FLOP *** [As 6c Tc]
+*** FIRST TURN *** [As 6c Tc] [7c]
+*** FIRST RIVER *** [As 6c Tc 7c] [Ac]
+*** SECOND FLOP *** [4c 9d 3d]
+*** SECOND TURN *** [4c 9d 3d] [2c]
+*** SECOND RIVER *** [4c 9d 3d 2c] [Js]
+*** FIRST SHOW DOWN ***
+Haftbefehl: shows [Kc Kd]
+staubsauger: shows [6s 6h]
+staubsauger collected $586.63 from pot
+*** SECOND SHOW DOWN ***
+Haftbefehl: shows [Kc Kd]
+staubsauger: shows [6s 6h]
+Haftbefehl collected $586.62 from pot
+*** SUMMARY ***
+Total pot $1175.00 | Rake $1.75
+Hand was run twice
+FIRST Board [As 6c Tc 7c Ac]
+SECOND Board [4c 9d 3d 2c Js]
+Seat 3: DoublelegTD (small blind) folded before Flop
+Seat 8: Haftbefehl (big blind) showed [Kc Kd] and lost, and won ($586.62)
+Seat 9: staubsauger (button) showed [6s 6h] and won ($586.63), and lost
+
+PokerStars Hand #1527519700:  Hold'em No Limit ($25.00/$50.00 USD) - 2023/01/18 18:09:26 ET
+Table 'WPN_7 Day No Rathole 25/50 NLH 9-Max' 9-max Seat #3 is the button
+Seat 3: DoublelegTD ($6661.20 in chips)
+Seat 8: Haftbefehl ($920.69 in chips)
+Seat 9: staubsauger ($586.63 in chips)
+Haftbefehl: posts small blind $25.00
+DoublelegTD: posts big blind $50.00
+*** HOLE CARDS ***
+Haftbefehl: calls $25.00
+DoublelegTD: checks
+*** FLOP *** [8c 7d Qc]
+Haftbefehl: checks
+DoublelegTD: checks
+*** TURN *** [8c 7d Qc] [3d]
+Haftbefehl: checks
+DoublelegTD: checks
+*** RIVER *** [8c 7d Qc 3d] [Kh]
+Haftbefehl: checks
+DoublelegTD: checks
+*** SHOW DOWN ***
+DoublelegTD: shows [4c 7c]
+Haftbefehl: shows [7s 4h]
+DoublelegTD collected $49.37 from pot
+Haftbefehl collected $49.38 from pot
+*** SUMMARY ***
+Total pot $100.00 | Rake $1.25
+Board [8c 7d Qc 3d Kh]
+Seat 3: DoublelegTD (button) (big blind) showed [4c 7c] and won ($49.37)
+Seat 8: Haftbefehl (small blind) showed [7s 4h] and won ($49.38)
+
+PokerStars Hand #1527520791:  Hold'em No Limit ($25.00/$50.00 USD) - 2023/01/18 18:10:16 ET
+Table 'WPN_7 Day No Rathole 25/50 NLH 9-Max' 9-max Seat #3 is the button
+Seat 3: DoublelegTD ($6660.57 in chips)
+Seat 8: Haftbefehl ($920.07 in chips)
+DoublelegTD: posts small blind $25.00
+Haftbefehl: posts big blind $50.00
+*** HOLE CARDS ***
+DoublelegTD: calls $25.00
+Haftbefehl: checks
+*** FLOP *** [Qd Ts 8c]
+Haftbefehl: checks
+DoublelegTD: checks
+*** TURN *** [Qd Ts 8c] [5d]
+Haftbefehl: checks
+DoublelegTD: bets $75.00
+Haftbefehl: folds
+Uncalled bet ($75.00) returned to DoublelegTD
+DoublelegTD collected $98.75 from pot
+DoublelegTD: doesn't show hand
+*** SUMMARY ***
+Total pot $100.00 | Rake $1.25
+Board [Qd Ts 8c 5d]
+Seat 3: DoublelegTD (button) (small blind) collected ($98.75)
+Seat 8: Haftbefehl (big blind) folded on the Turn
+
+PokerStars Hand #1527521608:  Hold'em No Limit ($25.00/$50.00 USD) - 2023/01/18 18:10:53 ET
+Table 'WPN_7 Day No Rathole 25/50 NLH 9-Max' 9-max Seat #8 is the button
+Seat 3: DoublelegTD ($6709.32 in chips)
+Seat 8: Haftbefehl ($870.07 in chips)
+Haftbefehl: posts small blind $25.00
+DoublelegTD: posts big blind $50.00
+*** HOLE CARDS ***
+Haftbefehl: raises $50.00 to $100.00
+DoublelegTD: raises $6609.32 to $6709.32 and is all-in
+Haftbefehl: calls $770.07 and is all-in
+Uncalled bet ($5839.25) returned to DoublelegTD
+*** FIRST FLOP *** [Js 5d Ks]
+*** FIRST TURN *** [Js 5d Ks] [7c]
+*** FIRST RIVER *** [Js 5d Ks 7c] [Kc]
+*** SECOND FLOP *** [8d 5c Ah]
+*** SECOND TURN *** [8d 5c Ah] [6s]
+*** SECOND RIVER *** [8d 5c Ah 6s] [Ac]
+*** FIRST SHOW DOWN ***
+Haftbefehl: shows [8h 8c]
+DoublelegTD: shows [Tc As]
+Haftbefehl collected $869.45 from pot
+*** SECOND SHOW DOWN ***
+Haftbefehl: shows [8h 8c]
+DoublelegTD: shows [Tc As]
+Haftbefehl collected $869.44 from pot
+*** SUMMARY ***
+Total pot $1740.14 | Rake $1.25
+Hand was run twice
+FIRST Board [Js 5d Ks 7c Kc]
+SECOND Board [8d 5c Ah 6s Ac]
+Seat 3: DoublelegTD (big blind) showed [Tc As] and lost, and lost
+Seat 8: Haftbefehl (button) (small blind) showed [8h 8c] and won ($869.45), and won ($869.44)
+
+PokerStars Hand #1527522273:  Hold'em No Limit ($25.00/$50.00 USD) - 2023/01/18 18:11:22 ET
+Table 'WPN_7 Day No Rathole 25/50 NLH 9-Max' 9-max Seat #3 is the button
+Seat 3: DoublelegTD ($5839.25 in chips)
+Seat 8: Haftbefehl ($1738.89 in chips)
+DoublelegTD: posts small blind $25.00
+Haftbefehl: posts big blind $50.00
+*** HOLE CARDS ***
+DoublelegTD: raises $50.00 to $100.00
+Haftbefehl: raises $225.00 to $325.00
+DoublelegTD: folds
+Uncalled bet ($225.00) returned to Haftbefehl
+Haftbefehl collected $200.00 from pot
+Haftbefehl: doesn't show hand
+*** SUMMARY ***
+Total pot $200.00 | Rake $0.00
+Seat 3: DoublelegTD (button) (small blind) folded before Flop
+Seat 8: Haftbefehl (big blind) collected ($200.00)
+
+PokerStars Hand #1527522704:  Hold'em No Limit ($25.00/$50.00 USD) - 2023/01/18 18:11:42 ET
+Table 'WPN_7 Day No Rathole 25/50 NLH 9-Max' 9-max Seat #8 is the button
+Seat 3: DoublelegTD ($5739.25 in chips)
+Seat 8: Haftbefehl ($1838.89 in chips)
+Haftbefehl: posts small blind $25.00
+DoublelegTD: posts big blind $50.00
+*** HOLE CARDS ***
+Haftbefehl: folds
+Uncalled bet ($25.00) returned to DoublelegTD
+DoublelegTD collected $50.00 from pot
+DoublelegTD: doesn't show hand
+*** SUMMARY ***
+Total pot $50.00 | Rake $0.00
+Seat 3: DoublelegTD (big blind) collected ($50.00)
+Seat 8: Haftbefehl (button) (small blind) folded before Flop
+
+PokerStars Hand #1527522838:  Hold'em No Limit ($25.00/$50.00 USD) - 2023/01/18 18:11:49 ET
+Table 'WPN_7 Day No Rathole 25/50 NLH 9-Max' 9-max Seat #3 is the button
+Seat 3: DoublelegTD ($5764.25 in chips)
+Seat 8: Haftbefehl ($1813.89 in chips)
+DoublelegTD: posts small blind $25.00
+Haftbefehl: posts big blind $50.00
+*** HOLE CARDS ***
+DoublelegTD: raises $50.00 to $100.00
+Haftbefehl: raises $225.00 to $325.00
+DoublelegTD: calls $225.00
+*** FLOP *** [8c Ks Td]
+Haftbefehl: bets $214.50
+DoublelegTD: folds
+Uncalled bet ($214.50) returned to Haftbefehl
+Haftbefehl collected $648.75 from pot
+Haftbefehl: doesn't show hand
+*** SUMMARY ***
+Total pot $650.00 | Rake $1.25
+Board [8c Ks Td]
+Seat 3: DoublelegTD (button) (small blind) folded on the Flop
+Seat 8: Haftbefehl (big blind) collected ($648.75)
+
+PokerStars Hand #1527523428:  Hold'em No Limit ($25.00/$50.00 USD) - 2023/01/18 18:12:16 ET
+Table 'WPN_7 Day No Rathole 25/50 NLH 9-Max' 9-max Seat #8 is the button
+Seat 3: DoublelegTD ($5439.25 in chips)
+Seat 8: Haftbefehl ($2137.64 in chips)
+Haftbefehl: posts small blind $25.00
+DoublelegTD: posts big blind $50.00
+*** HOLE CARDS ***
+Haftbefehl: folds
+Uncalled bet ($25.00) returned to DoublelegTD
+DoublelegTD collected $50.00 from pot
+DoublelegTD: doesn't show hand
+*** SUMMARY ***
+Total pot $50.00 | Rake $0.00
+Seat 3: DoublelegTD (big blind) collected ($50.00)
+Seat 8: Haftbefehl (button) (small blind) folded before Flop
+
+PokerStars Hand #1527523533:  Hold'em No Limit ($25.00/$50.00 USD) - 2023/01/18 18:12:22 ET
+Table 'WPN_7 Day No Rathole 25/50 NLH 9-Max' 9-max Seat #3 is the button
+Seat 3: DoublelegTD ($5464.25 in chips)
+Seat 8: Haftbefehl ($2112.64 in chips)
+DoublelegTD: posts small blind $25.00
+Haftbefehl: posts big blind $50.00
+*** HOLE CARDS ***
+DoublelegTD: raises $50.00 to $100.00
+Haftbefehl: calls $50.00
+*** FLOP *** [Qh 4h 3c]
+Haftbefehl: checks
+DoublelegTD: bets $60.00
+Haftbefehl: folds
+Uncalled bet ($60.00) returned to DoublelegTD
+DoublelegTD collected $198.75 from pot
+DoublelegTD: doesn't show hand
+*** SUMMARY ***
+Total pot $200.00 | Rake $1.25
+Board [Qh 4h 3c]
+Seat 3: DoublelegTD (button) (small blind) collected ($198.75)
+Seat 8: Haftbefehl (big blind) folded on the Flop
+
+PokerStars Hand #1527524108:  Hold'em No Limit ($25.00/$50.00 USD) - 2023/01/18 18:12:46 ET
+Table 'WPN_7 Day No Rathole 25/50 NLH 9-Max' 9-max Seat #8 is the button
+Seat 3: DoublelegTD ($5563.00 in chips)
+Seat 8: Haftbefehl ($2012.64 in chips)
+Haftbefehl: posts small blind $25.00
+DoublelegTD: posts big blind $50.00
+*** HOLE CARDS ***
+Haftbefehl: raises $50.00 to $100.00
+DoublelegTD: calls $50.00
+*** FLOP *** [2s 8h 8s]
+DoublelegTD: checks
+Haftbefehl: bets $116.00
+DoublelegTD: raises $166.00 to $282.00
+Haftbefehl: calls $166.00
+*** TURN *** [2s 8h 8s] [7h]
+DoublelegTD: bets $432.00
+Haftbefehl: calls $432.00
+*** RIVER *** [2s 8h 8s 7h] [9h]
+DoublelegTD: bets $4749.00 and is all-in
+Haftbefehl: folds
+Uncalled bet ($4749.00) returned to DoublelegTD
+DoublelegTD collected $1626.75 from pot
+DoublelegTD: doesn't show hand
+*** SUMMARY ***
+Total pot $1628.00 | Rake $1.25
+Board [2s 8h 8s 7h 9h]
+Seat 3: DoublelegTD (big blind) collected ($1626.75)
+Seat 8: Haftbefehl (button) (small blind) folded on the River
+
+PokerStars Hand #1527526004:  Hold'em No Limit ($25.00/$50.00 USD) - 2023/01/18 18:14:11 ET
+Table 'WPN_7 Day No Rathole 25/50 NLH 9-Max' 9-max Seat #3 is the button
+Seat 3: DoublelegTD ($6375.75 in chips)
+Seat 8: Haftbefehl ($1198.64 in chips)
+DoublelegTD: posts small blind $25.00
+Haftbefehl: posts big blind $50.00
+*** HOLE CARDS ***
+DoublelegTD: folds
+Uncalled bet ($25.00) returned to Haftbefehl
+Haftbefehl collected $50.00 from pot
+Haftbefehl: doesn't show hand
+*** SUMMARY ***
+Total pot $50.00 | Rake $0.00
+Seat 3: DoublelegTD (button) (small blind) folded before Flop
+Seat 8: Haftbefehl (big blind) collected ($50.00)
+
+PokerStars Hand #1527526225:  Hold'em No Limit ($25.00/$50.00 USD) - 2023/01/18 18:14:21 ET
+Table 'WPN_7 Day No Rathole 25/50 NLH 9-Max' 9-max Seat #8 is the button
+Seat 3: DoublelegTD ($6350.75 in chips)
+Seat 8: Haftbefehl ($1223.64 in chips)
+Haftbefehl: posts small blind $25.00
+DoublelegTD: posts big blind $50.00
+*** HOLE CARDS ***
+Haftbefehl: raises $50.00 to $100.00
+DoublelegTD: calls $50.00
+*** FLOP *** [Ac 3d Ts]
+DoublelegTD: checks
+Haftbefehl: bets $50.00
+DoublelegTD: folds
+Uncalled bet ($50.00) returned to Haftbefehl
+Haftbefehl collected $198.75 from pot
+Haftbefehl: doesn't show hand
+*** SUMMARY ***
+Total pot $200.00 | Rake $1.25
+Board [Ac 3d Ts]
+Seat 3: DoublelegTD (big blind) folded on the Flop
+Seat 8: Haftbefehl (button) (small blind) collected ($198.75)
+
+PokerStars Hand #1527526585:  Hold'em No Limit ($25.00/$50.00 USD) - 2023/01/18 18:14:38 ET
+Table 'WPN_7 Day No Rathole 25/50 NLH 9-Max' 9-max Seat #3 is the button
+Seat 3: DoublelegTD ($6250.75 in chips)
+Seat 8: Haftbefehl ($1322.39 in chips)
+DoublelegTD: posts small blind $25.00
+Haftbefehl: posts big blind $50.00
+*** HOLE CARDS ***
+DoublelegTD: raises $50.00 to $100.00
+Haftbefehl: calls $50.00
+*** FLOP *** [7d Qh 2c]
+Haftbefehl: checks
+DoublelegTD: bets $60.00
+Haftbefehl: calls $60.00
+*** TURN *** [7d Qh 2c] [Kc]
+Haftbefehl: checks
+DoublelegTD: bets $240.00
+Haftbefehl: calls $240.00
+*** RIVER *** [7d Qh 2c Kc] [8h]
+Haftbefehl: checks
+DoublelegTD: checks
+*** SHOW DOWN ***
+DoublelegTD: shows [8s 9d]
+Haftbefehl: mucks hand
+DoublelegTD collected $798.75 from pot
+*** SUMMARY ***
+Total pot $800.00 | Rake $1.25
+Board [7d Qh 2c Kc 8h]
+Seat 3: DoublelegTD (button) (small blind) showed [8s 9d] and won ($798.75)
+Seat 8: Haftbefehl (big blind) mucked
+
+PokerStars Hand #1527527494:  Hold'em No Limit ($25.00/$50.00 USD) - 2023/01/18 18:15:19 ET
+Table 'WPN_7 Day No Rathole 25/50 NLH 9-Max' 9-max Seat #8 is the button
+Seat 3: DoublelegTD ($6649.50 in chips)
+Seat 8: Haftbefehl ($922.39 in chips)
+Haftbefehl: posts small blind $25.00
+DoublelegTD: posts big blind $50.00
+*** HOLE CARDS ***
+Haftbefehl: calls $25.00
+DoublelegTD: raises $1050.00 to $1100.00
+Haftbefehl: folds
+Uncalled bet ($1050.00) returned to DoublelegTD
+DoublelegTD collected $100.00 from pot
+DoublelegTD: doesn't show hand
+*** SUMMARY ***
+Total pot $100.00 | Rake $0.00
+Seat 3: DoublelegTD (big blind) collected ($100.00)
+Seat 8: Haftbefehl (button) (small blind) folded before Flop
+
+PokerStars Hand #1527527776:  Hold'em No Limit ($25.00/$50.00 USD) - 2023/01/18 18:15:32 ET
+Table 'WPN_7 Day No Rathole 25/50 NLH 9-Max' 9-max Seat #3 is the button
+Seat 3: DoublelegTD ($6699.50 in chips)
+Seat 8: Haftbefehl ($872.39 in chips)
+DoublelegTD: posts small blind $25.00
+Haftbefehl: posts big blind $50.00
+*** HOLE CARDS ***
+DoublelegTD: folds
+Uncalled bet ($25.00) returned to Haftbefehl
+Haftbefehl collected $50.00 from pot
+Haftbefehl: doesn't show hand
+*** SUMMARY ***
+Total pot $50.00 | Rake $0.00
+Seat 3: DoublelegTD (button) (small blind) folded before Flop
+Seat 8: Haftbefehl (big blind) collected ($50.00)
+
+PokerStars Hand #1527527919:  Hold'em No Limit ($25.00/$50.00 USD) - 2023/01/18 18:15:39 ET
+Table 'WPN_7 Day No Rathole 25/50 NLH 9-Max' 9-max Seat #8 is the button
+Seat 3: DoublelegTD ($6674.50 in chips)
+Seat 8: Haftbefehl ($897.39 in chips)
+Haftbefehl: posts small blind $25.00
+DoublelegTD: posts big blind $50.00
+*** HOLE CARDS ***
+Haftbefehl: raises $50.00 to $100.00
+DoublelegTD: calls $50.00
+*** FLOP *** [Qh 7s 9c]
+DoublelegTD: checks
+Haftbefehl: bets $150.00
+DoublelegTD: folds
+Uncalled bet ($150.00) returned to Haftbefehl
+Haftbefehl collected $198.75 from pot
+Haftbefehl: doesn't show hand
+*** SUMMARY ***
+Total pot $200.00 | Rake $1.25
+Board [Qh 7s 9c]
+Seat 3: DoublelegTD (big blind) folded on the Flop
+Seat 8: Haftbefehl (button) (small blind) collected ($198.75)
+
+PokerStars Hand #1527528416:  Hold'em No Limit ($25.00/$50.00 USD) - 2023/01/18 18:16:01 ET
+Table 'WPN_7 Day No Rathole 25/50 NLH 9-Max' 9-max Seat #3 is the button
+Seat 3: DoublelegTD ($6574.50 in chips)
+Seat 8: Haftbefehl ($996.14 in chips)
+DoublelegTD: posts small blind $25.00
+Haftbefehl: posts big blind $50.00
+*** HOLE CARDS ***
+DoublelegTD: raises $50.00 to $100.00
+Haftbefehl: calls $50.00
+*** FLOP *** [6s Ah 9s]
+Haftbefehl: checks
+DoublelegTD: bets $60.00
+Haftbefehl: calls $60.00
+*** TURN *** [6s Ah 9s] [5c]
+Haftbefehl: checks
+DoublelegTD: checks
+*** RIVER *** [6s Ah 9s 5c] [2c]
+Haftbefehl: bets $240.00
+DoublelegTD: calls $240.00
+*** SHOW DOWN ***
+DoublelegTD: shows [5d 4h]
+Haftbefehl: mucks hand
+DoublelegTD collected $798.75 from pot
+*** SUMMARY ***
+Total pot $800.00 | Rake $1.25
+Board [6s Ah 9s 5c 2c]
+Seat 3: DoublelegTD (button) (small blind) showed [5d 4h] and won ($798.75)
+Seat 8: Haftbefehl (big blind) mucked
+
+PokerStars Hand #1527529785:  Hold'em No Limit ($25.00/$50.00 USD) - 2023/01/18 18:17:04 ET
+Table 'WPN_7 Day No Rathole 25/50 NLH 9-Max' 9-max Seat #8 is the button
+Seat 3: DoublelegTD ($6973.25 in chips)
+Seat 8: Haftbefehl ($596.14 in chips)
+Haftbefehl: posts small blind $25.00
+DoublelegTD: posts big blind $50.00
+*** HOLE CARDS ***
+Haftbefehl: folds
+Uncalled bet ($25.00) returned to DoublelegTD
+DoublelegTD collected $50.00 from pot
+DoublelegTD: doesn't show hand
+*** SUMMARY ***
+Total pot $50.00 | Rake $0.00
+Seat 3: DoublelegTD (big blind) collected ($50.00)
+Seat 8: Haftbefehl (button) (small blind) folded before Flop
+
+PokerStars Hand #1527529919:  Hold'em No Limit ($25.00/$50.00 USD) - 2023/01/18 18:17:11 ET
+Table 'WPN_7 Day No Rathole 25/50 NLH 9-Max' 9-max Seat #3 is the button
+Seat 3: DoublelegTD ($6998.25 in chips)
+Seat 8: Haftbefehl ($571.14 in chips)
+DoublelegTD: posts small blind $25.00
+Haftbefehl: posts big blind $50.00
+*** HOLE CARDS ***
+DoublelegTD: calls $25.00
+Haftbefehl: checks
+*** FLOP *** [As 3s 8s]
+Haftbefehl: checks
+DoublelegTD: bets $50.00
+Haftbefehl: folds
+Uncalled bet ($50.00) returned to DoublelegTD
+DoublelegTD collected $98.75 from pot
+DoublelegTD: doesn't show hand
+*** SUMMARY ***
+Total pot $100.00 | Rake $1.25
+Board [As 3s 8s]
+Seat 3: DoublelegTD (button) (small blind) collected ($98.75)
+Seat 8: Haftbefehl (big blind) folded on the Flop
+
+PokerStars Hand #1527530396:  Hold'em No Limit ($25.00/$50.00 USD) - 2023/01/18 18:17:33 ET
+Table 'WPN_7 Day No Rathole 25/50 NLH 9-Max' 9-max Seat #8 is the button
+Seat 3: DoublelegTD ($7047.00 in chips)
+Seat 8: Haftbefehl ($521.14 in chips)
+Haftbefehl: posts small blind $25.00
+DoublelegTD: posts big blind $50.00
+*** HOLE CARDS ***
+Haftbefehl: folds
+Uncalled bet ($25.00) returned to DoublelegTD
+DoublelegTD collected $50.00 from pot
+DoublelegTD: doesn't show hand
+*** SUMMARY ***
+Total pot $50.00 | Rake $0.00
+Seat 3: DoublelegTD (big blind) collected ($50.00)
+Seat 8: Haftbefehl (button) (small blind) folded before Flop
+
+PokerStars Hand #1527516502:  Hold'em No Limit ($25.00/$50.00 USD) - 2023/01/18 18:06:59 ET
+Table 'WPN_7 Day No Rathole 25/50 NLH 9-Max' 9-max Seat #8 is the button
+Seat 3: DoublelegTD ($5452.77 in chips)
+Seat 8: Haftbefehl ($2218.75 in chips)
+Haftbefehl: posts small blind $25.00
+DoublelegTD: posts big blind $50.00
+*** HOLE CARDS ***
+Haftbefehl: raises $50.00 to $100.00
+DoublelegTD: raises $250.00 to $350.00
+Haftbefehl: calls $250.00
+*** FLOP *** [Kd 2s Js]
+DoublelegTD: bets $210.00
+Haftbefehl: raises $335.00 to $545.00
+DoublelegTD: raises $4557.77 to $5102.77 and is all-in
+Haftbefehl: calls $1323.75 and is all-in
+Uncalled bet ($3234.02) returned to DoublelegTD
+*** FIRST TURN *** [Kd 2s Js] [2d]
+*** FIRST RIVER *** [Kd 2s Js 2d] [6d]
+*** SECOND TURN *** [Kd 2s Js] [3s]
+*** SECOND RIVER *** [Kd 2s Js 3s] [Kh]
+*** FIRST SHOW DOWN ***
+DoublelegTD: shows [Ks Td]
+Haftbefehl: shows [Kc 9c]
+DoublelegTD collected $1109.06 from pot
+Haftbefehl collected $1109.07 from pot
+*** SECOND SHOW DOWN ***
+DoublelegTD: shows [Ks Td]
+Haftbefehl: shows [Kc 9c]
+DoublelegTD collected $2218.12 from pot
+*** SUMMARY ***
+Total pot $4437.50 | Rake $1.25
+Hand was run twice
+FIRST Board [Kd 2s Js 2d 6d]
+SECOND Board [Kd 2s Js 3s Kh]
+Seat 3: DoublelegTD (big blind) showed [Ks Td] and won ($1109.06), and won ($2218.12)
+Seat 8: Haftbefehl (button) (small blind) showed [Kc 9c] and won ($1109.07), and lost
+
+PokerStars Hand #1527191081:  Hold'em No Limit ($25.00/$50.00 USD) - 2023/01/18 08:50:09 ET
+Table 'WPN_7 Day No Rathole 25/50 NLH 9-Max' 9-max Seat #7 is the button
+Seat 2: chop-ch0p ($3474.11 in chips)
+Seat 7: moneybyebye ($7842.39 in chips)
+moneybyebye: posts small blind $25.00
+chop-ch0p: posts big blind $50.00
+*** HOLE CARDS ***
+moneybyebye: raises $75.00 to $125.00
+chop-ch0p: folds
+Uncalled bet ($75.00) returned to moneybyebye
+moneybyebye collected $100.00 from pot
+moneybyebye: doesn't show hand
+*** SUMMARY ***
+Total pot $100.00 | Rake $0.00
+Seat 2: chop-ch0p (big blind) folded before Flop
+Seat 7: moneybyebye (button) (small blind) collected ($100.00)
+

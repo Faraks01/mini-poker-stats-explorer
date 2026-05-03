@@ -1,0 +1,131 @@
+Hand #1898382273 - Holdem(No Limit) - $25/$50 - 2023/10/17 11:51:34 UTC
+La Crosse 9-max Seat #6 is the button
+Seat 1: SeaLlama ($5000)
+Seat 6: PR0DIGY ($5000)
+SeaLlama posts ante $200
+PR0DIGY posts ante $200
+*** HOLE CARDS *** 
+*** FLOP *** [7c 5d Th]
+Main pot $398.75 | Rake $1.25
+SeaLlama checks
+PR0DIGY checks
+*** TURN *** [7c 5d Th] [Qh]
+Main pot $398.75 | Rake $1.25
+SeaLlama checks
+PR0DIGY checks
+*** RIVER *** [7c 5d Th Qh] [Ah]
+Main pot $398.75 | Rake $1.25
+SeaLlama checks
+PR0DIGY bets $299.06
+SeaLlama raises $4800 to $4800 and is all-in
+PR0DIGY folds
+Uncalled bet ($4500.94) returned to SeaLlama
+SeaLlama does not show
+*** SHOW DOWN ***
+Main pot $398.75 | Rake $1.25
+SeaLlama shows [5c 6c]
+SeaLlama collected $996.87 from main pot
+*** SUMMARY ***
+BombPot
+Total pot $996.87 | Rake $1.25
+Seat 1: SeaLlama showed [5c 6c] and won $996.87 with a
+Seat 6: PR0DIGY (button) folded on the River
+
+
+Hand #1898384373 - Holdem(No Limit) - $25/$50 - 2023/10/17 12:00:34 UTC
+La Crosse 9-max Seat #8 is the button
+Seat 1: SeaLlama ($5536.69)
+Seat 6: PR0DIGY ($5008.62)
+Seat 7: IdoGoats ($2000)
+Seat 8: KMarkakis ($6997.75)
+Seat 9: BeppeBergomi ($5000)
+SeaLlama posts ante $200
+PR0DIGY posts ante $200
+IdoGoats posts ante $200
+KMarkakis posts ante $200
+*** HOLE CARDS *** 
+*** FLOP *** [7c Kh 4s]
+Main pot $797.75 | Rake $2.25
+SeaLlama checks
+PR0DIGY checks
+IdoGoats checks
+KMarkakis checks
+*** TURN *** [7c Kh 4s] [9h]
+Main pot $797.75 | Rake $2.25
+SeaLlama checks
+PR0DIGY checks
+IdoGoats checks
+KMarkakis checks
+*** RIVER *** [7c Kh 4s 9h] [8h]
+Main pot $797.75 | Rake $2.25
+SeaLlama bets $263
+PR0DIGY raises $924.87 to $924.87
+IdoGoats folds
+KMarkakis folds
+SeaLlama raises $5073.69 to $5336.69 and is all-in
+PR0DIGY folds
+Uncalled bet ($4411.82) returned to SeaLlama
+SeaLlama does not show
+*** SHOW DOWN ***
+Main pot $797.75 | Rake $2.25
+SeaLlama shows [Qc -]
+SeaLlama collected $2647.49 from main pot
+*** SUMMARY ***
+BombPot
+Total pot $2647.49 | Rake $2.25
+Seat 1: SeaLlama showed [Qc -] and won $2647.49 with a
+Seat 6: PR0DIGY folded on the River
+Seat 7: IdoGoats folded on the River
+Seat 8: KMarkakis (button) folded on the River
+
+
+Hand #1898387059 - Holdem(No Limit) - $25/$50 - 2023/10/17 12:08:51 UTC
+La Crosse 9-max Seat #6 is the button
+Seat 1: SeaLlama ($7699.87)
+Seat 6: PR0DIGY ($5124.69)
+SeaLlama posts ante $200
+PR0DIGY posts ante $200
+*** HOLE CARDS *** 
+*** FLOP *** [9c 5d 6h]
+Main pot $398.75 | Rake $1.25
+SeaLlama checks
+PR0DIGY checks
+*** TURN *** [9c 5d 6h] [9s]
+Main pot $398.75 | Rake $1.25
+SeaLlama bets $263
+PR0DIGY calls $263
+*** RIVER *** [9c 5d 6h 9s] [Kd]
+Main pot $924.75 | Rake $1.25
+SeaLlama checks
+PR0DIGY checks
+*** SHOW DOWN ***
+Main pot $924.75 | Rake $1.25
+SeaLlama shows [Ad 6c]
+SeaLlama collected $924.75 from main pot
+*** SUMMARY ***
+BombPot
+Total pot $924.75 | Rake $1.25
+Seat 1: SeaLlama showed [Ad 6c] and won $924.75 with TwoPair [9s 9c 6h 6c Ad]
+Seat 6: PR0DIGY (button) did not showed and lost
+
+
+Hand #1898390244 - Holdem(No Limit) - $25/$50 - 2023/10/17 12:17:52 UTC
+La Crosse 9-max Seat #1 is the button
+Seat 1: SeaLlama ($7656.59)
+Seat 6: PR0DIGY ($5563.75)
+SeaLlama posts ante $200
+PR0DIGY posts ante $200
+*** HOLE CARDS *** 
+*** FLOP *** [7s 8s 2d]
+Main pot $398.75 | Rake $1.25
+PR0DIGY checks
+SeaLlama bets $400
+PR0DIGY folds
+Uncalled bet ($400) returned to SeaLlama
+SeaLlama does not show
+*** SUMMARY ***
+BombPot
+Total pot $398.75 | Rake $1.25
+Seat 1: SeaLlama (button) did not showed and won $398.75
+Seat 6: PR0DIGY folded on the Flop
+

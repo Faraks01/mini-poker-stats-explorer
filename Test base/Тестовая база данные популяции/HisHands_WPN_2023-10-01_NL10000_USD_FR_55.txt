@@ -1,0 +1,1286 @@
+Hand #1879547019 - Holdem(No Limit) - $50/$100 - 2023/10/01 01:32:28 UTC
+7 Day No Rathole 50/100 NLH 9-max Seat #9 is the button
+Seat 1: oneplusone ($10000)
+Seat 2: mlchelangelo ($10000)
+Seat 3: FlyingStyle ($10000)
+Seat 8: thalca ($2596.25)
+Seat 9: Sabazius ($5091.50)
+Sabazius posts the small blind $50
+thalca posts the big blind $100
+*** HOLE CARDS *** 
+Sabazius calls $50
+thalca raises $760 to $860
+Sabazius raises $4941.50 to $5041.50
+thalca folds
+Uncalled bet ($4181.50) returned to Sabazius
+Sabazius does not show
+*** SUMMARY ***
+Total pot $1720
+Seat 8: thalca (big blind) folded on the Pre-Flop
+Seat 9: Sabazius (small blind) did not showed and won $1720
+
+
+Hand #1879547883 - Holdem(No Limit) - $50/$100 - 2023/10/01 01:32:54 UTC
+7 Day No Rathole 50/100 NLH 9-max Seat #8 is the button
+Seat 1: oneplusone ($10000)
+Seat 2: mlchelangelo ($10000)
+Seat 3: FlyingStyle ($10000)
+Seat 8: thalca ($1736.25)
+Seat 9: Sabazius ($5951.50)
+thalca posts the small blind $50
+Sabazius posts the big blind $100
+*** HOLE CARDS *** 
+thalca raises $150 to $200
+Sabazius folds
+Uncalled bet ($100) returned to thalca
+thalca does not show
+*** SUMMARY ***
+Total pot $200
+Seat 8: thalca (small blind) did not showed and won $200
+Seat 9: Sabazius (big blind) folded on the Pre-Flop
+
+
+Hand #1879548304 - Holdem(No Limit) - $50/$100 - 2023/10/01 01:34:28 UTC
+7 Day No Rathole 50/100 NLH 9-max Seat #8 is the button
+Seat 1: oneplusone ($1000)
+Seat 2: mlchelangelo ($10000)
+Seat 3: FlyingStyle ($10000)
+Seat 4: CPUrul0r ($10000)
+Seat 8: thalca ($1836.25)
+Seat 9: Sabazius ($5851.50)
+Sabazius posts the small blind $50
+oneplusone posts the big blind $100
+*** HOLE CARDS *** 
+thalca raises $200 to $200
+Sabazius folds
+oneplusone calls $100
+*** FLOP *** [5d 3d 8h]
+Main pot $448.25 | Rake $1.75
+oneplusone checks
+thalca bets $139.50
+oneplusone calls $139.50
+*** TURN *** [5d 3d 8h] [3s]
+Main pot $727.25 | Rake $1.75
+oneplusone checks
+thalca checks
+*** RIVER *** [5d 3d 8h 3s] [9h]
+Main pot $727.25 | Rake $1.75
+oneplusone bets $364.50
+thalca folds
+Uncalled bet ($364.50) returned to oneplusone
+oneplusone does not show
+*** SUMMARY ***
+Total pot $727.25 | Rake $1.75
+Seat 1: oneplusone (big blind) did not showed and won $727.25
+Seat 8: thalca (button) folded on the River
+Seat 9: Sabazius (small blind) folded on the Pre-Flop
+
+
+Hand #1879549989 - Holdem(No Limit) - $50/$100 - 2023/10/01 01:34:42 UTC
+7 Day No Rathole 50/100 NLH 9-max Seat #9 is the button
+Seat 1: oneplusone ($1387.75)
+Seat 2: mlchelangelo ($1000)
+Seat 3: FlyingStyle ($10000)
+Seat 4: CPUrul0r ($10000)
+Seat 8: thalca ($10000)
+Seat 9: Sabazius ($10000)
+oneplusone posts the small blind $50
+mlchelangelo posts the big blind $100
+*** HOLE CARDS *** 
+thalca folds
+Sabazius folds
+oneplusone raises $1337.75 to $1387.75 and is all-in
+mlchelangelo calls $900 and is all-in
+Uncalled bet ($387.75) returned to oneplusone
+oneplusone does not show
+*** FLOP *** [4d 6h 3h]
+Main pot $1997.75 | Rake $2.25
+*** TURN *** [4d 6h 3h] [Ts]
+Main pot $1997.75 | Rake $2.25
+*** RIVER *** [4d 6h 3h Ts] [Qc]
+Main pot $1997.75 | Rake $2.25
+*** SHOW DOWN ***
+Main pot $1997.75 | Rake $2.25
+oneplusone shows [Kh 5h] (a combo of some cards [Kh Qc Ts 6h 5h])
+mlchelangelo shows [Qs Qd] (a combo of some cards [Qs Qd Qc Ts 6h])
+mlchelangelo collected $1997.75 from main pot
+*** SUMMARY ***
+Total pot $1997.75 | Rake $2.25
+Seat 1: oneplusone (small blind) showed [Kh 5h] and lost
+Seat 2: mlchelangelo (big blind) showed [Qs Qd] and won $1997.75 with ThreeOfAKind [Qs Qd Qc Ts 6h]
+Seat 8: thalca folded on the Pre-Flop and did not bet
+Seat 9: Sabazius (button) folded on the Pre-Flop and did not bet
+
+
+Hand #1879550493 - Holdem(No Limit) - $50/$100 - 2023/10/01 01:35:12 UTC
+7 Day No Rathole 50/100 NLH 9-max Seat #1 is the button
+Seat 1: oneplusone ($10000)
+Seat 2: mlchelangelo ($1997.75)
+Seat 3: FlyingStyle ($2396.62)
+Seat 4: CPUrul0r ($10000)
+Seat 8: thalca ($10000)
+Seat 9: Sabazius ($10000)
+mlchelangelo posts the small blind $50
+FlyingStyle posts the big blind $100
+*** HOLE CARDS *** 
+thalca folds
+Sabazius folds
+oneplusone folds
+mlchelangelo folds
+*** SUMMARY ***
+Total pot $150
+Seat 1: oneplusone (button) folded on the Pre-Flop and did not bet
+Seat 2: mlchelangelo (small blind) folded on the Pre-Flop
+Seat 3: FlyingStyle (big blind) did not showed and won $150
+Seat 8: thalca folded on the Pre-Flop and did not bet
+Seat 9: Sabazius folded on the Pre-Flop and did not bet
+
+
+Hand #1879550766 - Holdem(No Limit) - $50/$100 - 2023/10/01 01:35:45 UTC
+7 Day No Rathole 50/100 NLH 9-max Seat #2 is the button
+Seat 1: oneplusone ($1000)
+Seat 2: mlchelangelo ($10000)
+Seat 3: FlyingStyle ($2446.62)
+Seat 4: CPUrul0r ($1000)
+Seat 8: thalca ($10000)
+Seat 9: Sabazius ($10000)
+FlyingStyle posts the small blind $50
+CPUrul0r posts the big blind $100
+*** HOLE CARDS *** 
+thalca folds
+Sabazius folds
+oneplusone raises $1000 to $1000 and is all-in
+mlchelangelo folds
+FlyingStyle folds
+CPUrul0r folds
+Uncalled bet ($900) returned to oneplusone
+oneplusone does not show
+*** SUMMARY ***
+Total pot $250
+Seat 1: oneplusone did not showed and won $250
+Seat 2: mlchelangelo (button) folded on the Pre-Flop and did not bet
+Seat 3: FlyingStyle (small blind) folded on the Pre-Flop
+Seat 4: CPUrul0r (big blind) folded on the Pre-Flop
+Seat 8: thalca folded on the Pre-Flop and did not bet
+Seat 9: Sabazius folded on the Pre-Flop and did not bet
+
+
+Hand #1879551403 - Holdem(No Limit) - $50/$100 - 2023/10/01 01:36:03 UTC
+7 Day No Rathole 50/100 NLH 9-max Seat #4 is the button
+Seat 1: oneplusone ($10000)
+Seat 2: mlchelangelo ($10000)
+Seat 3: FlyingStyle ($10000)
+Seat 4: CPUrul0r ($1000)
+Seat 8: thalca ($1496.75)
+Seat 9: Sabazius ($10000)
+CPUrul0r posts the small blind $50
+thalca posts the big blind $100
+*** HOLE CARDS *** 
+CPUrul0r raises $950 to $1000 and is all-in
+thalca calls $900
+*** RUN IT TWICE ***
+*** FLOP 1 *** [Qd Ad Ts]
+Main pot 1 $999.37 | Rake $0.63
+*** TURN 1 *** [Qd Ad Ts] [7c]
+Main pot 1 $999.37 | Rake $0.63
+*** RIVER 1 *** [Qd Ad Ts 7c] [Kc]
+Main pot 1 $999.37 | Rake $0.63
+*** SHOW DOWN 1 ***
+Main pot 1 $999.37 | Rake $0.63
+CPUrul0r shows [Th 9d] (a combo of some cards [Ts Th Ad Kc Qd])
+thalca shows [Jh 8h] (a combo of some cards [Ad Kc Qd Jh Ts])
+thalca collected $999.38 from main pot 1
+*** FLOP 2 *** [8d 5h 3c]
+Main pot 2 $999.38 | Rake $0.62
+*** TURN 2 *** [8d 5h 3c] [Td]
+Main pot 2 $999.38 | Rake $0.62
+*** RIVER 2 *** [8d 5h 3c Td] [4c]
+Main pot 2 $999.38 | Rake $0.62
+*** SHOW DOWN 2 ***
+Main pot 2 $999.38 | Rake $0.62
+CPUrul0r shows [Th 9d] (a combo of some cards [Th Td 9d 8d 5h])
+thalca shows [Jh 8h] (a combo of some cards [8h 8d Jh Td 5h])
+CPUrul0r collected $999.37 from main pot 2
+*** SUMMARY ***
+Total pot $1998.75 | Rake $1.25
+Board 1 [Qd Ad Ts 7c Kc]
+Seat 4: CPUrul0r (small blind) showed [Th 9d] and lost with a
+Seat 8: thalca (big blind) showed [Jh 8h] and won $999.38 with Straight [Ad Kc Qd Jh Ts]
+Board 2 [8d 5h 3c Td 4c]
+Seat 4: CPUrul0r (small blind) showed [Th 9d] and won $999.37 with OnePair [Th Td 9d 8d 5h]
+Seat 8: thalca (big blind) showed [Jh 8h] and lost with a
+
+
+Hand #1879590879 - Holdem(No Limit) - $50/$100 - 2023/10/01 02:17:57 UTC
+7 Day No Rathole 50/100 NLH 9-max Seat #8 is the button
+Seat 8: thalca ($1496.13)
+Seat 9: bigsoowoop ($1000)
+thalca posts the small blind $50
+bigsoowoop posts the big blind $100
+*** HOLE CARDS *** 
+thalca raises $950 to $1000
+bigsoowoop folds
+Uncalled bet ($900) returned to thalca
+thalca does not show
+*** SUMMARY ***
+Total pot $200
+Seat 8: thalca (small blind) did not showed and won $200
+Seat 9: bigsoowoop (big blind) folded on the Pre-Flop
+
+
+Hand #1879591289 - Holdem(No Limit) - $50/$100 - 2023/10/01 02:18:15 UTC
+7 Day No Rathole 50/100 NLH 9-max Seat #9 is the button
+Seat 1: Gizineni ($10000)
+Seat 8: thalca ($1596.13)
+Seat 9: bigsoowoop ($900)
+bigsoowoop posts the small blind $50
+thalca posts the big blind $100
+*** HOLE CARDS *** 
+bigsoowoop raises $850 to $900 and is all-in
+thalca folds
+Uncalled bet ($800) returned to bigsoowoop
+bigsoowoop does not show
+*** SUMMARY ***
+Total pot $200
+Seat 8: thalca (big blind) folded on the Pre-Flop
+Seat 9: bigsoowoop (small blind) did not showed and won $200
+
+
+Hand #1879591584 - Holdem(No Limit) - $50/$100 - 2023/10/01 02:18:38 UTC
+7 Day No Rathole 50/100 NLH 9-max Seat #8 is the button
+Seat 1: Gizineni ($10000)
+Seat 2: TrickySpot ($10000)
+Seat 8: thalca ($1496.13)
+Seat 9: bigsoowoop ($1000)
+thalca posts the small blind $50
+bigsoowoop posts the big blind $100
+*** HOLE CARDS *** 
+thalca raises $950 to $1000
+bigsoowoop folds
+Uncalled bet ($900) returned to thalca
+thalca does not show
+*** SUMMARY ***
+Total pot $200
+Seat 8: thalca (small blind) did not showed and won $200
+Seat 9: bigsoowoop (big blind) folded on the Pre-Flop
+
+
+Hand #1879591988 - Holdem(No Limit) - $50/$100 - 2023/10/01 02:19:02 UTC
+7 Day No Rathole 50/100 NLH 9-max Seat #8 is the button
+Seat 1: Gizineni ($1000)
+Seat 2: TrickySpot ($10000)
+Seat 3: PuttPuttMaster ($10000)
+Seat 8: thalca ($10000)
+Seat 9: bigsoowoop ($1000)
+bigsoowoop posts the small blind $50
+Gizineni posts the big blind $100
+*** HOLE CARDS *** 
+thalca folds
+bigsoowoop raises $950 to $1000 and is all-in
+Gizineni calls $900 and is all-in
+*** FLOP *** [6d Js 5s]
+Main pot $1998.25 | Rake $1.75
+*** TURN *** [6d Js 5s] [Ts]
+Main pot $1998.25 | Rake $1.75
+*** RIVER *** [6d Js 5s Ts] [2s]
+Main pot $1998.25 | Rake $1.75
+*** SHOW DOWN ***
+Main pot $1998.25 | Rake $1.75
+Gizineni shows [As Ac] (a combo of some cards [As Js Ts 5s 2s])
+bigsoowoop shows [Jh Ad] (a combo of some cards [Js Jh Ad Ts 6d])
+Gizineni collected $1998.25 from main pot
+*** SUMMARY ***
+Total pot $1998.25 | Rake $1.75
+Seat 1: Gizineni (big blind) showed [As Ac] and won $1998.25 with Flush [As Js Ts 5s 2s]
+Seat 8: thalca (button) folded on the Pre-Flop and did not bet
+Seat 9: bigsoowoop (small blind) showed [Jh Ad] and lost
+
+
+Hand #1879592643 - Holdem(No Limit) - $50/$100 - 2023/10/01 02:19:37 UTC
+7 Day No Rathole 50/100 NLH 9-max Seat #9 is the button
+Seat 1: Gizineni ($1998.25)
+Seat 2: TrickySpot ($1000)
+Seat 3: PuttPuttMaster ($10000)
+Seat 8: thalca ($10000)
+Seat 9: bigsoowoop ($1000)
+Gizineni posts the small blind $50
+TrickySpot posts the big blind $100
+*** HOLE CARDS *** 
+thalca folds
+bigsoowoop raises $200 to $200
+Gizineni folds
+TrickySpot folds
+Uncalled bet ($100) returned to bigsoowoop
+bigsoowoop does not show
+*** SUMMARY ***
+Total pot $250
+Seat 1: Gizineni (small blind) folded on the Pre-Flop
+Seat 2: TrickySpot (big blind) folded on the Pre-Flop
+Seat 8: thalca folded on the Pre-Flop and did not bet
+Seat 9: bigsoowoop (button) did not showed and won $250
+
+
+Hand #1879592965 - Holdem(No Limit) - $50/$100 - 2023/10/01 02:19:51 UTC
+7 Day No Rathole 50/100 NLH 9-max Seat #1 is the button
+Seat 1: Gizineni ($10000)
+Seat 2: TrickySpot ($1000)
+Seat 3: PuttPuttMaster ($1000)
+Seat 8: thalca ($10000)
+Seat 9: bigsoowoop ($10000)
+TrickySpot posts the small blind $50
+PuttPuttMaster posts the big blind $100
+*** HOLE CARDS *** 
+thalca folds
+bigsoowoop folds
+Gizineni folds
+TrickySpot raises $950 to $1000 and is all-in
+PuttPuttMaster calls $900 and is all-in
+*** FLOP *** [5c 2s 3d]
+Main pot $1997 | Rake $3
+*** TURN *** [5c 2s 3d] [Ts]
+Main pot $1997 | Rake $3
+*** RIVER *** [5c 2s 3d Ts] [Qc]
+Main pot $1997 | Rake $3
+*** SHOW DOWN ***
+Main pot $1997 | Rake $3
+TrickySpot shows [8c Tc] (a combo of some cards [Ts Tc Qc 8c 5c])
+PuttPuttMaster shows [Ad Th] (a combo of some cards [Ts Th Ad Qc 5c])
+PuttPuttMaster collected $1997 from main pot
+*** SUMMARY ***
+Total pot $1997 | Rake $3
+Seat 1: Gizineni (button) folded on the Pre-Flop and did not bet
+Seat 2: TrickySpot (small blind) showed [8c Tc] and lost
+Seat 3: PuttPuttMaster (big blind) showed [Ad Th] and won $1997 with OnePair [Ts Th Ad Qc 5c]
+Seat 8: thalca folded on the Pre-Flop and did not bet
+Seat 9: bigsoowoop folded on the Pre-Flop and did not bet
+
+
+Hand #1879595034 - Holdem(No Limit) - $50/$100 - 2023/10/01 02:22:12 UTC
+7 Day No Rathole 50/100 NLH 9-max Seat #8 is the button
+Seat 1: Gizineni ($10000)
+Seat 2: TrickySpot ($10000)
+Seat 3: PuttPuttMaster ($1997)
+Seat 8: thalca ($1596.13)
+Seat 9: bigsoowoop ($10000)
+thalca posts the small blind $50
+PuttPuttMaster posts the big blind $100
+*** HOLE CARDS *** 
+thalca calls $50
+PuttPuttMaster raises $1897 to $1997 and is all-in
+thalca folds
+Uncalled bet ($1897) returned to PuttPuttMaster
+PuttPuttMaster does not show
+*** SUMMARY ***
+Total pot $200
+Seat 3: PuttPuttMaster (big blind) did not showed and won $200
+Seat 8: thalca (small blind) folded on the Pre-Flop
+
+
+Hand #1879595617 - Holdem(No Limit) - $50/$100 - 2023/10/01 02:22:29 UTC
+7 Day No Rathole 50/100 NLH 9-max Seat #3 is the button
+Seat 2: TrickySpot ($10000)
+Seat 3: PuttPuttMaster ($2097)
+Seat 8: thalca ($1496.13)
+Seat 9: bigsoowoop ($10000)
+PuttPuttMaster posts the small blind $50
+thalca posts the big blind $100
+*** HOLE CARDS *** 
+PuttPuttMaster raises $2047 to $2097 and is all-in
+thalca folds
+Uncalled bet ($1997) returned to PuttPuttMaster
+PuttPuttMaster does not show
+*** SUMMARY ***
+Total pot $200
+Seat 3: PuttPuttMaster (small blind) did not showed and won $200
+Seat 8: thalca (big blind) folded on the Pre-Flop
+
+
+Hand #1879647552 - Holdem(No Limit) - $50/$100 - 2023/10/01 03:20:49 UTC
+7 Day No Rathole 50/100 NLH 9-max Seat #8 is the button
+Seat 4: CPUrul0r ($1000)
+Seat 5: Sabazius ($10000)
+Seat 8: thalca ($1396.13)
+thalca posts the small blind $50
+CPUrul0r posts the big blind $100
+*** HOLE CARDS *** 
+thalca calls $50
+CPUrul0r checks
+*** FLOP *** [3c Ks 8d]
+Main pot $198.75 | Rake $1.25
+CPUrul0r checks
+thalca bets $100
+CPUrul0r folds
+Uncalled bet ($100) returned to thalca
+thalca does not show
+*** SUMMARY ***
+Total pot $198.75 | Rake $1.25
+Seat 4: CPUrul0r (big blind) folded on the Flop
+Seat 8: thalca (small blind) did not showed and won $198.75
+
+
+Hand #1879647768 - Holdem(No Limit) - $50/$100 - 2023/10/01 03:21:06 UTC
+7 Day No Rathole 50/100 NLH 9-max Seat #4 is the button
+Seat 4: CPUrul0r ($900)
+Seat 5: Sabazius ($10000)
+Seat 8: thalca ($1494.88)
+CPUrul0r posts the small blind $50
+thalca posts the big blind $100
+*** HOLE CARDS *** 
+CPUrul0r calls $50
+thalca raises $900 to $1000
+CPUrul0r folds
+Uncalled bet ($900) returned to thalca
+thalca does not show
+*** SUMMARY ***
+Total pot $200
+Seat 4: CPUrul0r (small blind) folded on the Pre-Flop
+Seat 8: thalca (big blind) did not showed and won $200
+
+
+Hand #1879648029 - Holdem(No Limit) - $50/$100 - 2023/10/01 03:21:12 UTC
+7 Day No Rathole 50/100 NLH 9-max Seat #8 is the button
+Seat 4: CPUrul0r ($800)
+Seat 5: Sabazius ($10000)
+Seat 8: thalca ($1594.88)
+thalca posts the small blind $50
+CPUrul0r posts the big blind $100
+*** HOLE CARDS *** 
+thalca folds
+*** SUMMARY ***
+Total pot $150
+Seat 4: CPUrul0r (big blind) did not showed and won $150
+Seat 8: thalca (small blind) folded on the Pre-Flop
+
+
+Hand #1879648085 - Holdem(No Limit) - $50/$100 - 2023/10/01 03:21:48 UTC
+7 Day No Rathole 50/100 NLH 9-max Seat #8 is the button
+Seat 4: CPUrul0r ($850)
+Seat 5: Sabazius ($5801.50)
+Seat 8: thalca ($10000)
+Seat 9: TrickySpot ($10000)
+CPUrul0r posts the small blind $50
+Sabazius posts the big blind $100
+*** HOLE CARDS *** 
+thalca folds
+CPUrul0r raises $800 to $850 and is all-in
+Sabazius folds
+Uncalled bet ($750) returned to CPUrul0r
+CPUrul0r does not show
+*** SUMMARY ***
+Total pot $200
+Seat 4: CPUrul0r (small blind) did not showed and won $200
+Seat 5: Sabazius (big blind) folded on the Pre-Flop
+Seat 8: thalca (button) folded on the Pre-Flop and did not bet
+
+
+Hand #1879648611 - Holdem(No Limit) - $50/$100 - 2023/10/01 03:21:58 UTC
+7 Day No Rathole 50/100 NLH 9-max Seat #4 is the button
+Seat 4: CPUrul0r ($950)
+Seat 5: Sabazius ($5701.50)
+Seat 8: thalca ($10000)
+Seat 9: TrickySpot ($1000)
+Sabazius posts the small blind $50
+TrickySpot posts the big blind $100
+*** HOLE CARDS *** 
+CPUrul0r raises $950 to $950 and is all-in
+Sabazius raises $1750 to $1800
+TrickySpot folds
+Uncalled bet ($850) returned to Sabazius
+Sabazius does not show
+*** FLOP *** [9d 7c Kh]
+Main pot $1998.25 | Rake $1.75
+*** TURN *** [9d 7c Kh] [2s]
+Main pot $1998.25 | Rake $1.75
+*** RIVER *** [9d 7c Kh 2s] [2c]
+Main pot $1998.25 | Rake $1.75
+*** SHOW DOWN ***
+Main pot $1998.25 | Rake $1.75
+CPUrul0r shows [Ac 4s] (a combo of some cards [2s 2c Ac Kh 9d])
+Sabazius shows [Kc Qc] (a combo of some cards [Kh Kc 2s 2c Qc])
+Sabazius collected $1998.25 from main pot
+*** SUMMARY ***
+Total pot $1998.25 | Rake $1.75
+Seat 4: CPUrul0r (button) showed [Ac 4s] and lost
+Seat 5: Sabazius (small blind) showed [Kc Qc] and won $1998.25 with TwoPair [Kh Kc 2s 2c Qc]
+Seat 9: TrickySpot (big blind) folded on the Pre-Flop
+
+
+Hand #1879649053 - Holdem(No Limit) - $50/$100 - 2023/10/01 03:22:27 UTC
+7 Day No Rathole 50/100 NLH 9-max Seat #9 is the button
+Seat 4: CPUrul0r ($10000)
+Seat 5: Sabazius ($10000)
+Seat 8: thalca ($1544.88)
+Seat 9: TrickySpot ($1000)
+TrickySpot posts the small blind $50
+thalca posts the big blind $100
+*** HOLE CARDS *** 
+TrickySpot raises $950 to $1000 and is all-in
+thalca calls $900
+*** RUN IT TWICE ***
+*** FLOP 1 *** [Jd 4c 6d]
+Main pot 1 $999.37 | Rake $0.63
+*** TURN 1 *** [Jd 4c 6d] [8h]
+Main pot 1 $999.37 | Rake $0.63
+*** RIVER 1 *** [Jd 4c 6d 8h] [Js]
+Main pot 1 $999.37 | Rake $0.63
+*** SHOW DOWN 1 ***
+Main pot 1 $999.37 | Rake $0.63
+thalca shows [Ah 6h] (a combo of some cards [Js Jd 6h 6d Ah])
+TrickySpot shows [7h 7d] (a combo of some cards [Js Jd 7h 7d 8h])
+TrickySpot collected $999.38 from main pot 1
+*** FLOP 2 *** [Qd 2c Qh]
+Main pot 2 $999.38 | Rake $0.62
+*** TURN 2 *** [Qd 2c Qh] [Th]
+Main pot 2 $999.38 | Rake $0.62
+*** RIVER 2 *** [Qd 2c Qh Th] [7s]
+Main pot 2 $999.38 | Rake $0.62
+*** SHOW DOWN 2 ***
+Main pot 2 $999.38 | Rake $0.62
+thalca shows [Ah 6h] (a combo of some cards [Qh Qd Ah Th 7s])
+TrickySpot shows [7h 7d] (a combo of some cards [7s 7h 7d Qh Qd])
+TrickySpot collected $999.37 from main pot 2
+*** SUMMARY ***
+Total pot $1998.75 | Rake $1.25
+Board 1 [Jd 4c 6d 8h Js]
+Seat 8: thalca (big blind) showed [Ah 6h] and lost with a
+Seat 9: TrickySpot (small blind) showed [7h 7d] and won $999.38 with TwoPair [Js Jd 7h 7d 8h]
+Board 2 [Qd 2c Qh Th 7s]
+Seat 8: thalca (big blind) showed [Ah 6h] and lost with a
+Seat 9: TrickySpot (small blind) showed [7h 7d] and won $999.37 with FullHouse [7s 7h 7d Qh Qd]
+
+
+Hand #1879649398 - Holdem(No Limit) - $50/$100 - 2023/10/01 03:22:59 UTC
+7 Day No Rathole 50/100 NLH 9-max Seat #8 is the button
+Seat 8: thalca ($1000)
+Seat 9: TrickySpot ($1998.75)
+thalca posts the small blind $50
+TrickySpot posts the big blind $100
+*** HOLE CARDS *** 
+thalca raises $950 to $1000 and is all-in
+TrickySpot folds
+Uncalled bet ($900) returned to thalca
+thalca does not show
+*** SUMMARY ***
+Total pot $200
+Seat 8: thalca (small blind) did not showed and won $200
+Seat 9: TrickySpot (big blind) folded on the Pre-Flop
+
+
+Hand #1879679492 - Holdem(No Limit) - $50/$100 - 2023/10/01 04:00:20 UTC
+7 Day No Rathole 50/100 NLH 9-max Seat #8 is the button
+Seat 1: IdoGoats ($10000)
+Seat 8: thalca ($1100)
+Seat 9: Sabazius ($6749.75)
+thalca posts the small blind $50
+Sabazius posts the big blind $100
+*** HOLE CARDS *** 
+thalca raises $1050 to $1100 and is all-in
+Sabazius folds
+Uncalled bet ($1000) returned to thalca
+thalca does not show
+*** SUMMARY ***
+Total pot $200
+Seat 8: thalca (small blind) did not showed and won $200
+Seat 9: Sabazius (big blind) folded on the Pre-Flop
+
+
+Hand #1879679587 - Holdem(No Limit) - $50/$100 - 2023/10/01 04:01:47 UTC
+7 Day No Rathole 50/100 NLH 9-max Seat #8 is the button
+Seat 1: IdoGoats ($1348.25)
+Seat 2: TrickySpot ($10000)
+Seat 8: thalca ($10000)
+Seat 9: Sabazius ($6649.75)
+Sabazius posts the small blind $50
+IdoGoats posts the big blind $100
+*** HOLE CARDS *** 
+thalca folds
+Sabazius raises $150 to $200
+IdoGoats calls $100
+*** FLOP *** [Jh 6h 2d]
+Main pot $398.25 | Rake $1.75
+Sabazius bets $100
+IdoGoats raises $350 to $350
+Sabazius raises $6299.75 to $6399.75
+IdoGoats folds
+Uncalled bet ($6049.75) returned to Sabazius
+Sabazius does not show
+*** SUMMARY ***
+Total pot $1098.25 | Rake $1.75
+Seat 1: IdoGoats (big blind) folded on the Flop
+Seat 8: thalca (button) folded on the Pre-Flop and did not bet
+Seat 9: Sabazius (small blind) did not showed and won $1098.25
+
+
+Hand #1879680787 - Holdem(No Limit) - $50/$100 - 2023/10/01 04:02:21 UTC
+7 Day No Rathole 50/100 NLH 9-max Seat #9 is the button
+Seat 1: IdoGoats ($1000)
+Seat 2: TrickySpot ($1898.75)
+Seat 8: thalca ($1200)
+Seat 9: Sabazius ($10000)
+IdoGoats posts the small blind $50
+TrickySpot posts the big blind $100
+*** HOLE CARDS *** 
+thalca raises $1200 to $1200 and is all-in
+Sabazius folds
+IdoGoats folds
+TrickySpot folds
+Uncalled bet ($1100) returned to thalca
+thalca does not show
+*** SUMMARY ***
+Total pot $250
+Seat 1: IdoGoats (small blind) folded on the Pre-Flop
+Seat 2: TrickySpot (big blind) folded on the Pre-Flop
+Seat 8: thalca did not showed and won $250
+Seat 9: Sabazius (button) folded on the Pre-Flop and did not bet
+
+
+Hand #1879684099 - Holdem(No Limit) - $50/$100 - 2023/10/01 04:05:48 UTC
+7 Day No Rathole 50/100 NLH 9-max Seat #2 is the button
+Seat 1: thalca ($1350)
+Seat 2: TrickySpot ($1798.75)
+Seat 8: thalca ($10000)
+Seat 9: Sabazius ($10000)
+TrickySpot posts the small blind $50
+thalca posts the big blind $100
+*** HOLE CARDS *** 
+TrickySpot folds
+*** SUMMARY ***
+Total pot $150
+Seat 1: thalca (big blind) did not showed and won $150
+Seat 2: TrickySpot (small blind) folded on the Pre-Flop
+
+
+Hand #1879905877 - Holdem(No Limit) - $50/$100 - 2023/10/01 12:25:11 UTC
+7 Day No Rathole 50/100 NLH 9-max Seat #2 is the button
+Seat 2: yourmytralala ($4054.92)
+Seat 7: CPUrul0r ($1000)
+yourmytralala posts the small blind $50
+CPUrul0r posts the big blind $100
+*** HOLE CARDS *** 
+yourmytralala calls $50
+CPUrul0r raises $900 to $1000 and is all-in
+yourmytralala folds
+Uncalled bet ($900) returned to CPUrul0r
+CPUrul0r does not show
+*** SUMMARY ***
+Total pot $200
+Seat 2: yourmytralala (small blind) folded on the Pre-Flop
+Seat 7: CPUrul0r (big blind) did not showed and won $200
+
+
+Hand #1879906007 - Holdem(No Limit) - $50/$100 - 2023/10/01 12:25:20 UTC
+7 Day No Rathole 50/100 NLH 9-max Seat #7 is the button
+Seat 2: yourmytralala ($3954.92)
+Seat 7: CPUrul0r ($1100)
+CPUrul0r posts the small blind $50
+yourmytralala posts the big blind $100
+*** HOLE CARDS *** 
+CPUrul0r raises $1050 to $1100 and is all-in
+yourmytralala folds
+Uncalled bet ($1000) returned to CPUrul0r
+CPUrul0r does not show
+*** SUMMARY ***
+Total pot $200
+Seat 2: yourmytralala (big blind) folded on the Pre-Flop
+Seat 7: CPUrul0r (small blind) did not showed and won $200
+
+
+Hand #1879911182 - Holdem(No Limit) - $50/$100 - 2023/10/01 12:39:07 UTC
+7 Day No Rathole 50/100 NLH 9-max Seat #2 is the button
+Seat 2: yourmytralala ($3854.92)
+Seat 6: PerfectSonata ($1000)
+yourmytralala posts the small blind $50
+PerfectSonata posts the big blind $100
+*** HOLE CARDS *** 
+yourmytralala calls $50
+PerfectSonata checks
+*** FLOP *** [Qc 5h 3s]
+Main pot $198.75 | Rake $1.25
+PerfectSonata checks
+yourmytralala bets $100
+PerfectSonata raises $250 to $250
+yourmytralala folds
+Uncalled bet ($150) returned to PerfectSonata
+PerfectSonata does not show
+*** SUMMARY ***
+Total pot $398.75 | Rake $1.25
+Seat 2: yourmytralala (small blind) folded on the Flop
+Seat 6: PerfectSonata (big blind) did not showed and won $398.75
+
+
+Hand #1879911368 - Holdem(No Limit) - $50/$100 - 2023/10/01 12:39:17 UTC
+7 Day No Rathole 50/100 NLH 9-max Seat #6 is the button
+Seat 2: yourmytralala ($3654.92)
+Seat 6: PerfectSonata ($1198.75)
+PerfectSonata posts the small blind $50
+yourmytralala posts the big blind $100
+*** HOLE CARDS *** 
+PerfectSonata calls $50
+yourmytralala raises $200 to $300
+PerfectSonata folds
+Uncalled bet ($200) returned to yourmytralala
+yourmytralala does not show
+*** SUMMARY ***
+Total pot $200
+Seat 2: yourmytralala (big blind) did not showed and won $200
+Seat 6: PerfectSonata (small blind) folded on the Pre-Flop
+
+
+Hand #1879911441 - Holdem(No Limit) - $50/$100 - 2023/10/01 12:39:29 UTC
+7 Day No Rathole 50/100 NLH 9-max Seat #2 is the button
+Seat 2: yourmytralala ($3754.92)
+Seat 6: PerfectSonata ($1098.75)
+yourmytralala posts the small blind $50
+PerfectSonata posts the big blind $100
+*** HOLE CARDS *** 
+yourmytralala raises $3704.92 to $3754.92 and is all-in
+PerfectSonata folds
+Uncalled bet ($3654.92) returned to yourmytralala
+yourmytralala does not show
+*** SUMMARY ***
+Total pot $200
+Seat 2: yourmytralala (small blind) did not showed and won $200
+Seat 6: PerfectSonata (big blind) folded on the Pre-Flop
+
+
+Hand #1879911523 - Holdem(No Limit) - $50/$100 - 2023/10/01 12:39:38 UTC
+7 Day No Rathole 50/100 NLH 9-max Seat #6 is the button
+Seat 2: yourmytralala ($3854.92)
+Seat 6: PerfectSonata ($1000)
+PerfectSonata posts the small blind $50
+yourmytralala posts the big blind $100
+*** HOLE CARDS *** 
+PerfectSonata raises $950 to $1000 and is all-in
+yourmytralala calls $900
+*** FLOP *** [Ad Jc Ac]
+Main pot $1998.75 | Rake $1.25
+*** TURN *** [Ad Jc Ac] [7c]
+Main pot $1998.75 | Rake $1.25
+*** RIVER *** [Ad Jc Ac 7c] [3c]
+Main pot $1998.75 | Rake $1.25
+*** SHOW DOWN ***
+Main pot $1998.75 | Rake $1.25
+yourmytralala shows [Kh 9h] (a combo of some cards [Ad Ac Kh Jc 9h])
+PerfectSonata shows [6h 7h] (a combo of some cards [Ad Ac 7h 7c Jc])
+PerfectSonata collected $1998.75 from main pot
+*** SUMMARY ***
+Total pot $1998.75 | Rake $1.25
+Seat 2: yourmytralala (big blind) showed [Kh 9h] and lost
+Seat 6: PerfectSonata (small blind) showed [6h 7h] and won $1998.75 with TwoPair [Ad Ac 7h 7c Jc]
+
+
+Hand #1879911677 - Holdem(No Limit) - $50/$100 - 2023/10/01 12:40:00 UTC
+7 Day No Rathole 50/100 NLH 9-max Seat #2 is the button
+Seat 2: yourmytralala ($2854.92)
+Seat 6: PerfectSonata ($1998.75)
+yourmytralala posts the small blind $50
+PerfectSonata posts the big blind $100
+*** HOLE CARDS *** 
+yourmytralala folds
+*** SUMMARY ***
+Total pot $150
+Seat 2: yourmytralala (small blind) folded on the Pre-Flop
+Seat 6: PerfectSonata (big blind) did not showed and won $150
+
+
+Hand #1879911728 - Holdem(No Limit) - $50/$100 - 2023/10/01 12:40:07 UTC
+7 Day No Rathole 50/100 NLH 9-max Seat #6 is the button
+Seat 2: yourmytralala ($2804.92)
+Seat 6: PerfectSonata ($2048.75)
+PerfectSonata posts the small blind $50
+yourmytralala posts the big blind $100
+*** HOLE CARDS *** 
+PerfectSonata folds
+*** SUMMARY ***
+Total pot $150
+Seat 2: yourmytralala (big blind) did not showed and won $150
+Seat 6: PerfectSonata (small blind) folded on the Pre-Flop
+
+
+Hand #1879911774 - Holdem(No Limit) - $50/$100 - 2023/10/01 12:40:24 UTC
+7 Day No Rathole 50/100 NLH 9-max Seat #2 is the button
+Seat 2: yourmytralala ($2854.92)
+Seat 6: PerfectSonata ($1998.75)
+yourmytralala posts the small blind $50
+PerfectSonata posts the big blind $100
+*** HOLE CARDS *** 
+yourmytralala calls $50
+PerfectSonata raises $200 to $300
+yourmytralala folds
+Uncalled bet ($200) returned to PerfectSonata
+PerfectSonata does not show
+*** SUMMARY ***
+Total pot $200
+Seat 2: yourmytralala (small blind) folded on the Pre-Flop
+Seat 6: PerfectSonata (big blind) did not showed and won $200
+
+
+Hand #1879911888 - Holdem(No Limit) - $50/$100 - 2023/10/01 12:40:37 UTC
+7 Day No Rathole 50/100 NLH 9-max Seat #6 is the button
+Seat 2: yourmytralala ($2754.92)
+Seat 6: PerfectSonata ($2098.75)
+PerfectSonata posts the small blind $50
+yourmytralala posts the big blind $100
+*** HOLE CARDS *** 
+PerfectSonata raises $150 to $200
+yourmytralala raises $2654.92 to $2754.92 and is all-in
+PerfectSonata folds
+Uncalled bet ($2554.92) returned to yourmytralala
+yourmytralala does not show
+*** SUMMARY ***
+Total pot $400
+Seat 2: yourmytralala (big blind) did not showed and won $400
+Seat 6: PerfectSonata (small blind) folded on the Pre-Flop
+
+
+Hand #1879911979 - Holdem(No Limit) - $50/$100 - 2023/10/01 12:40:59 UTC
+7 Day No Rathole 50/100 NLH 9-max Seat #2 is the button
+Seat 2: yourmytralala ($2954.92)
+Seat 6: PerfectSonata ($1898.75)
+yourmytralala posts the small blind $50
+PerfectSonata posts the big blind $100
+*** HOLE CARDS *** 
+yourmytralala calls $50
+PerfectSonata raises $200 to $300
+yourmytralala folds
+Uncalled bet ($200) returned to PerfectSonata
+PerfectSonata does not show
+*** SUMMARY ***
+Total pot $200
+Seat 2: yourmytralala (small blind) folded on the Pre-Flop
+Seat 6: PerfectSonata (big blind) did not showed and won $200
+
+
+Hand #1879912130 - Holdem(No Limit) - $50/$100 - 2023/10/01 12:41:33 UTC
+7 Day No Rathole 50/100 NLH 9-max Seat #6 is the button
+Seat 2: yourmytralala ($2854.92)
+Seat 6: PerfectSonata ($1998.75)
+PerfectSonata posts the small blind $50
+yourmytralala posts the big blind $100
+*** HOLE CARDS *** 
+PerfectSonata calls $50
+yourmytralala checks
+*** FLOP *** [3c 6s Jh]
+Main pot $198.75 | Rake $1.25
+yourmytralala checks
+PerfectSonata bets $100
+yourmytralala calls $100
+*** TURN *** [3c 6s Jh] [7h]
+Main pot $398.75 | Rake $1.25
+yourmytralala checks
+PerfectSonata bets $320
+yourmytralala folds
+Uncalled bet ($320) returned to PerfectSonata
+PerfectSonata does not show
+*** SUMMARY ***
+Total pot $398.75 | Rake $1.25
+Seat 2: yourmytralala (big blind) folded on the Turn
+Seat 6: PerfectSonata (small blind) did not showed and won $398.75
+
+
+Hand #1879912376 - Holdem(No Limit) - $50/$100 - 2023/10/01 12:42:24 UTC
+7 Day No Rathole 50/100 NLH 9-max Seat #2 is the button
+Seat 2: yourmytralala ($2654.92)
+Seat 6: PerfectSonata ($2197.50)
+yourmytralala posts the small blind $50
+PerfectSonata posts the big blind $100
+*** HOLE CARDS *** 
+yourmytralala calls $50
+PerfectSonata checks
+*** FLOP *** [8s 5c 8c]
+Main pot $198.75 | Rake $1.25
+PerfectSonata checks
+yourmytralala checks
+*** TURN *** [8s 5c 8c] [5s]
+Main pot $198.75 | Rake $1.25
+PerfectSonata bets $200
+yourmytralala calls $200
+*** RIVER *** [8s 5c 8c 5s] [As]
+Main pot $598.75 | Rake $1.25
+PerfectSonata bets $600
+yourmytralala calls $600
+*** SUMMARY ***
+Total pot $1798.75 | Rake $1.25
+Seat 2: yourmytralala (small blind) did not showed and won $1798.75
+Seat 6: PerfectSonata (big blind) did not showed and lost
+
+
+Hand #1879912748 - Holdem(No Limit) - $50/$100 - 2023/10/01 12:42:42 UTC
+7 Day No Rathole 50/100 NLH 9-max Seat #6 is the button
+Seat 2: yourmytralala ($3553.67)
+Seat 6: PerfectSonata ($1297.50)
+PerfectSonata posts the small blind $50
+yourmytralala posts the big blind $100
+*** HOLE CARDS *** 
+PerfectSonata calls $50
+yourmytralala raises $3453.67 to $3553.67 and is all-in
+PerfectSonata folds
+Uncalled bet ($3453.67) returned to yourmytralala
+yourmytralala does not show
+*** SUMMARY ***
+Total pot $200
+Seat 2: yourmytralala (big blind) did not showed and won $200
+Seat 6: PerfectSonata (small blind) folded on the Pre-Flop
+
+
+Hand #1879912855 - Holdem(No Limit) - $50/$100 - 2023/10/01 12:43:18 UTC
+7 Day No Rathole 50/100 NLH 9-max Seat #2 is the button
+Seat 2: yourmytralala ($3653.67)
+Seat 6: PerfectSonata ($1197.50)
+yourmytralala posts the small blind $50
+PerfectSonata posts the big blind $100
+*** HOLE CARDS *** 
+yourmytralala calls $50
+PerfectSonata checks
+*** FLOP *** [Tc 3c 2s]
+Main pot $198.75 | Rake $1.25
+PerfectSonata checks
+yourmytralala checks
+*** TURN *** [Tc 3c 2s] [6s]
+Main pot $198.75 | Rake $1.25
+PerfectSonata checks
+yourmytralala checks
+*** RIVER *** [Tc 3c 2s 6s] [Th]
+Main pot $198.75 | Rake $1.25
+PerfectSonata checks
+yourmytralala bets $100
+PerfectSonata folds
+Uncalled bet ($100) returned to yourmytralala
+yourmytralala does not show
+*** SUMMARY ***
+Total pot $198.75 | Rake $1.25
+Seat 2: yourmytralala (small blind) did not showed and won $198.75
+Seat 6: PerfectSonata (big blind) folded on the River
+
+
+Hand #1879913098 - Holdem(No Limit) - $50/$100 - 2023/10/01 12:43:43 UTC
+7 Day No Rathole 50/100 NLH 9-max Seat #6 is the button
+Seat 2: yourmytralala ($3752.42)
+Seat 6: PerfectSonata ($1097.50)
+PerfectSonata posts the small blind $50
+yourmytralala posts the big blind $100
+*** HOLE CARDS *** 
+PerfectSonata calls $50
+yourmytralala checks
+*** FLOP *** [6s Ac 3d]
+Main pot $198.75 | Rake $1.25
+yourmytralala checks
+PerfectSonata bets $160
+yourmytralala folds
+Uncalled bet ($160) returned to PerfectSonata
+PerfectSonata does not show
+*** SUMMARY ***
+Total pot $198.75 | Rake $1.25
+Seat 2: yourmytralala (big blind) folded on the Flop
+Seat 6: PerfectSonata (small blind) did not showed and won $198.75
+
+
+Hand #1879913269 - Holdem(No Limit) - $50/$100 - 2023/10/01 12:44:07 UTC
+7 Day No Rathole 50/100 NLH 9-max Seat #2 is the button
+Seat 2: yourmytralala ($3652.42)
+Seat 6: PerfectSonata ($1196.25)
+yourmytralala posts the small blind $50
+PerfectSonata posts the big blind $100
+*** HOLE CARDS *** 
+yourmytralala calls $50
+PerfectSonata raises $150 to $250
+yourmytralala raises $3552.42 to $3652.42 and is all-in
+PerfectSonata folds
+Uncalled bet ($3402.42) returned to yourmytralala
+yourmytralala does not show
+*** SUMMARY ***
+Total pot $500
+Seat 2: yourmytralala (small blind) did not showed and won $500
+Seat 6: PerfectSonata (big blind) folded on the Pre-Flop
+
+
+Hand #1879913429 - Holdem(No Limit) - $50/$100 - 2023/10/01 12:44:37 UTC
+7 Day No Rathole 50/100 NLH 9-max Seat #6 is the button
+Seat 2: yourmytralala ($3902.42)
+Seat 6: PerfectSonata ($1000)
+PerfectSonata posts the small blind $50
+yourmytralala posts the big blind $100
+*** HOLE CARDS *** 
+PerfectSonata calls $50
+yourmytralala checks
+*** FLOP *** [8h Kh Qd]
+Main pot $198.75 | Rake $1.25
+yourmytralala checks
+PerfectSonata checks
+*** TURN *** [8h Kh Qd] [Qh]
+Main pot $198.75 | Rake $1.25
+yourmytralala checks
+PerfectSonata bets $160
+yourmytralala folds
+Uncalled bet ($160) returned to PerfectSonata
+PerfectSonata does not show
+*** SUMMARY ***
+Total pot $198.75 | Rake $1.25
+Seat 2: yourmytralala (big blind) folded on the Turn
+Seat 6: PerfectSonata (small blind) did not showed and won $198.75
+
+
+Hand #1879913658 - Holdem(No Limit) - $50/$100 - 2023/10/01 12:45:18 UTC
+7 Day No Rathole 50/100 NLH 9-max Seat #2 is the button
+Seat 2: yourmytralala ($3802.42)
+Seat 6: PerfectSonata ($1098.75)
+yourmytralala posts the small blind $50
+PerfectSonata posts the big blind $100
+*** HOLE CARDS *** 
+yourmytralala calls $50
+PerfectSonata checks
+*** FLOP *** [6d 5d 7d]
+Main pot $198.75 | Rake $1.25
+PerfectSonata checks
+yourmytralala checks
+*** TURN *** [6d 5d 7d] [Qd]
+Main pot $198.75 | Rake $1.25
+PerfectSonata checks
+yourmytralala checks
+*** RIVER *** [6d 5d 7d Qd] [Td]
+Main pot $198.75 | Rake $1.25
+PerfectSonata bets $300
+yourmytralala folds
+Uncalled bet ($300) returned to PerfectSonata
+PerfectSonata does not show
+*** SUMMARY ***
+Total pot $198.75 | Rake $1.25
+Seat 2: yourmytralala (small blind) folded on the River
+Seat 6: PerfectSonata (big blind) did not showed and won $198.75
+
+
+Hand #1879913929 - Holdem(No Limit) - $50/$100 - 2023/10/01 12:46:27 UTC
+7 Day No Rathole 50/100 NLH 9-max Seat #6 is the button
+Seat 2: yourmytralala ($3702.42)
+Seat 6: PerfectSonata ($1197.50)
+PerfectSonata posts the small blind $50
+yourmytralala posts the big blind $100
+*** HOLE CARDS *** 
+PerfectSonata calls $50
+yourmytralala checks
+*** FLOP *** [Qd 5d 8c]
+Main pot $198.75 | Rake $1.25
+yourmytralala checks
+PerfectSonata checks
+*** TURN *** [Qd 5d 8c] [5s]
+Main pot $198.75 | Rake $1.25
+yourmytralala bets $150
+PerfectSonata calls $150
+*** RIVER *** [Qd 5d 8c 5s] [8s]
+Main pot $498.75 | Rake $1.25
+yourmytralala checks
+PerfectSonata bets $947.50 and is all-in
+yourmytralala folds
+Uncalled bet ($947.50) returned to PerfectSonata
+PerfectSonata does not show
+*** SUMMARY ***
+Total pot $498.75 | Rake $1.25
+Seat 2: yourmytralala (big blind) folded on the River
+Seat 6: PerfectSonata (small blind) did not showed and won $498.75
+
+
+Hand #1879914422 - Holdem(No Limit) - $50/$100 - 2023/10/01 12:46:56 UTC
+7 Day No Rathole 50/100 NLH 9-max Seat #2 is the button
+Seat 2: yourmytralala ($3452.42)
+Seat 6: PerfectSonata ($1446.25)
+yourmytralala posts the small blind $50
+PerfectSonata posts the big blind $100
+*** HOLE CARDS *** 
+yourmytralala calls $50
+PerfectSonata raises $150 to $250
+yourmytralala raises $3352.42 to $3452.42 and is all-in
+PerfectSonata calls $1196.25 and is all-in
+Uncalled bet ($2006.17) returned to yourmytralala
+yourmytralala does not show
+*** FLOP *** [7d 6d Ks]
+Main pot $2891.25 | Rake $1.25
+*** TURN *** [7d 6d Ks] [4c]
+Main pot $2891.25 | Rake $1.25
+*** RIVER *** [7d 6d Ks 4c] [7h]
+Main pot $2891.25 | Rake $1.25
+*** SHOW DOWN ***
+Main pot $2891.25 | Rake $1.25
+yourmytralala shows [5c 5s] (a combo of some cards [7h 7d 5s 5c Ks])
+PerfectSonata shows [9s 9d] (a combo of some cards [9s 9d 7h 7d Ks])
+PerfectSonata collected $2891.25 from main pot
+*** SUMMARY ***
+Total pot $2891.25 | Rake $1.25
+Seat 2: yourmytralala (small blind) showed [5c 5s] and lost
+Seat 6: PerfectSonata (big blind) showed [9s 9d] and won $2891.25 with TwoPair [9s 9d 7h 7d Ks]
+
+
+Hand #1879914692 - Holdem(No Limit) - $50/$100 - 2023/10/01 12:47:38 UTC
+7 Day No Rathole 50/100 NLH 9-max Seat #6 is the button
+Seat 2: yourmytralala ($2006.17)
+Seat 6: PerfectSonata ($2891.25)
+PerfectSonata posts the small blind $50
+yourmytralala posts the big blind $100
+*** HOLE CARDS *** 
+PerfectSonata calls $50
+yourmytralala checks
+*** FLOP *** [Td 8d Kh]
+Main pot $198.75 | Rake $1.25
+yourmytralala checks
+PerfectSonata bets $160
+yourmytralala folds
+Uncalled bet ($160) returned to PerfectSonata
+PerfectSonata does not show
+*** SUMMARY ***
+Total pot $198.75 | Rake $1.25
+Seat 2: yourmytralala (big blind) folded on the Flop
+Seat 6: PerfectSonata (small blind) did not showed and won $198.75
+
+
+Hand #1879914886 - Holdem(No Limit) - $50/$100 - 2023/10/01 12:48:25 UTC
+7 Day No Rathole 50/100 NLH 9-max Seat #2 is the button
+Seat 2: yourmytralala ($1906.17)
+Seat 6: PerfectSonata ($2990)
+yourmytralala posts the small blind $50
+PerfectSonata posts the big blind $100
+*** HOLE CARDS *** 
+yourmytralala calls $50
+PerfectSonata checks
+*** FLOP *** [8d 2s Qh]
+Main pot $198.75 | Rake $1.25
+PerfectSonata checks
+yourmytralala checks
+*** TURN *** [8d 2s Qh] [As]
+Main pot $198.75 | Rake $1.25
+PerfectSonata checks
+yourmytralala bets $150
+PerfectSonata folds
+Uncalled bet ($150) returned to yourmytralala
+yourmytralala does not show
+*** SUMMARY ***
+Total pot $198.75 | Rake $1.25
+Seat 2: yourmytralala (small blind) did not showed and won $198.75
+Seat 6: PerfectSonata (big blind) folded on the Turn
+
+
+Hand #1879916494 - Holdem(No Limit) - $50/$100 - 2023/10/01 12:52:11 UTC
+7 Day No Rathole 50/100 NLH 9-max Seat #2 is the button
+Seat 2: yourmytralala ($2004.92)
+Seat 3: bigsoowoop ($1150)
+Seat 6: PerfectSonata ($10000)
+yourmytralala posts the small blind $50
+bigsoowoop posts the big blind $100
+*** HOLE CARDS *** 
+yourmytralala calls $50
+bigsoowoop checks
+*** FLOP *** [2c Qs Ac]
+Main pot $198.75 | Rake $1.25
+bigsoowoop checks
+yourmytralala bets $100
+bigsoowoop raises $300 to $300
+yourmytralala folds
+Uncalled bet ($200) returned to bigsoowoop
+bigsoowoop does not show
+*** SUMMARY ***
+Total pot $398.75 | Rake $1.25
+Seat 2: yourmytralala (small blind) folded on the Flop
+Seat 3: bigsoowoop (big blind) did not showed and won $398.75
+
+
+Hand #1879916800 - Holdem(No Limit) - $50/$100 - 2023/10/01 12:52:43 UTC
+7 Day No Rathole 50/100 NLH 9-max Seat #3 is the button
+Seat 2: yourmytralala ($1804.92)
+Seat 3: bigsoowoop ($1348.75)
+Seat 6: PerfectSonata ($10000)
+bigsoowoop posts the small blind $50
+yourmytralala posts the big blind $100
+*** HOLE CARDS *** 
+bigsoowoop raises $150 to $200
+yourmytralala calls $100
+*** FLOP *** [Kc Jc As]
+Main pot $398.75 | Rake $1.25
+yourmytralala checks
+bigsoowoop bets $100
+yourmytralala folds
+Uncalled bet ($100) returned to bigsoowoop
+bigsoowoop does not show
+*** SUMMARY ***
+Total pot $398.75 | Rake $1.25
+Seat 2: yourmytralala (big blind) folded on the Flop
+Seat 3: bigsoowoop (small blind) did not showed and won $398.75
+
+
+Hand #1879917033 - Holdem(No Limit) - $50/$100 - 2023/10/01 12:53:20 UTC
+7 Day No Rathole 50/100 NLH 9-max Seat #2 is the button
+Seat 2: yourmytralala ($1604.92)
+Seat 3: bigsoowoop ($1547.50)
+Seat 6: PerfectSonata ($10000)
+yourmytralala posts the small blind $50
+bigsoowoop posts the big blind $100
+*** HOLE CARDS *** 
+yourmytralala calls $50
+bigsoowoop checks
+*** FLOP *** [Js Qc 8d]
+Main pot $198.75 | Rake $1.25
+bigsoowoop checks
+yourmytralala checks
+*** TURN *** [Js Qc 8d] [Jd]
+Main pot $198.75 | Rake $1.25
+bigsoowoop checks
+yourmytralala bets $150
+bigsoowoop calls $150
+*** RIVER *** [Js Qc 8d Jd] [7d]
+Main pot $498.75 | Rake $1.25
+bigsoowoop checks
+yourmytralala bets $375
+bigsoowoop calls $375
+*** SUMMARY ***
+Total pot $1248.75 | Rake $1.25
+Seat 2: yourmytralala (small blind) did not showed and lost
+Seat 3: bigsoowoop (big blind) did not showed and won $1248.75
+
+
+Hand #1879917345 - Holdem(No Limit) - $50/$100 - 2023/10/01 12:53:32 UTC
+7 Day No Rathole 50/100 NLH 9-max Seat #3 is the button
+Seat 2: yourmytralala ($1000)
+Seat 3: bigsoowoop ($2171.25)
+Seat 6: PerfectSonata ($10000)
+bigsoowoop posts the small blind $50
+yourmytralala posts the big blind $100
+*** HOLE CARDS *** 
+bigsoowoop folds
+*** SUMMARY ***
+Total pot $150
+Seat 2: yourmytralala (big blind) did not showed and won $150
+Seat 3: bigsoowoop (small blind) folded on the Pre-Flop
+
+
+Hand #1879917410 - Holdem(No Limit) - $50/$100 - 2023/10/01 12:53:42 UTC
+7 Day No Rathole 50/100 NLH 9-max Seat #2 is the button
+Seat 2: yourmytralala ($1050)
+Seat 3: bigsoowoop ($2121.25)
+Seat 6: PerfectSonata ($10000)
+yourmytralala posts the small blind $50
+bigsoowoop posts the big blind $100
+*** HOLE CARDS *** 
+yourmytralala folds
+*** SUMMARY ***
+Total pot $150
+Seat 2: yourmytralala (small blind) folded on the Pre-Flop
+Seat 3: bigsoowoop (big blind) did not showed and won $150
+
+
+Hand #1879917488 - Holdem(No Limit) - $50/$100 - 2023/10/01 12:53:56 UTC
+7 Day No Rathole 50/100 NLH 9-max Seat #3 is the button
+Seat 2: yourmytralala ($1000)
+Seat 3: bigsoowoop ($2171.25)
+Seat 6: PerfectSonata ($10000)
+bigsoowoop posts the small blind $50
+yourmytralala posts the big blind $100
+*** HOLE CARDS *** 
+bigsoowoop raises $150 to $200
+yourmytralala folds
+Uncalled bet ($100) returned to bigsoowoop
+bigsoowoop does not show
+*** SUMMARY ***
+Total pot $200
+Seat 2: yourmytralala (big blind) folded on the Pre-Flop
+Seat 3: bigsoowoop (small blind) did not showed and won $200
+
+
+
+

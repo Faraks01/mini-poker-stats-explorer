@@ -1,0 +1,299 @@
+PokerStars Hand #1513467941:  Hold'em No Limit ($75.00/$150.00 USD) - 2023/01/08 04:17:21 ET
+Table 'WPN_7 Day No Rathole 75/150 NLH' 9-max Seat #1 is the button
+Seat 1: el0el ($1500.00 in chips)
+Seat 5: CPUrul0r ($0.00 in chips)
+el0el: posts small blind $75.00
+CPUrul0r: posts big blind $150.00
+*** HOLE CARDS ***
+el0el: raises $1350.00 to $1500.00 and is all-in
+CPUrul0r: folds
+Uncalled bet ($1350.00) returned to el0el
+el0el collected $300.00 from pot
+el0el: doesn't show hand
+*** SUMMARY ***
+Total pot $300.00 | Rake $0.00
+Seat 1: el0el (button) (small blind) collected ($300.00)
+Seat 5: CPUrul0r (big blind) folded before Flop
+
+PokerStars Hand #1513468167:  Hold'em No Limit ($75.00/$150.00 USD) - 2023/01/08 04:17:33 ET
+Table 'WPN_7 Day No Rathole 75/150 NLH' 9-max Seat #5 is the button
+Seat 1: el0el ($1650.00 in chips)
+Seat 5: CPUrul0r ($2848.75 in chips)
+CPUrul0r: posts small blind $75.00
+el0el: posts big blind $150.00
+*** HOLE CARDS ***
+CPUrul0r: calls $75.00
+el0el: checks
+*** FLOP *** [7d 3h Ts]
+el0el: checks
+CPUrul0r: bets $225.00
+el0el: folds
+Uncalled bet ($225.00) returned to CPUrul0r
+CPUrul0r collected $298.75 from pot
+CPUrul0r: doesn't show hand
+*** SUMMARY ***
+Total pot $300.00 | Rake $1.25
+Board [7d 3h Ts]
+Seat 1: el0el (big blind) folded on the Flop
+Seat 5: CPUrul0r (button) (small blind) collected ($298.75)
+
+PokerStars Hand #1513150050:  Hold'em No Limit ($75.00/$150.00 USD) - 2023/01/07 23:45:34 ET
+Table 'WPN_7 Day No Rathole 75/150 NLH' 9-max Seat #1 is the button
+Seat 1: iWasOnly17 ($30342.80 in chips)
+Seat 7: DoublelegTD ($6550.50 in chips)
+iWasOnly17: posts small blind $75.00
+DoublelegTD: posts big blind $150.00
+*** HOLE CARDS ***
+iWasOnly17: folds
+Uncalled bet ($75.00) returned to DoublelegTD
+DoublelegTD collected $150.00 from pot
+DoublelegTD: doesn't show hand
+*** SUMMARY ***
+Total pot $150.00 | Rake $0.00
+Seat 1: iWasOnly17 (button) (small blind) folded before Flop
+Seat 7: DoublelegTD (big blind) collected ($150.00)
+
+PokerStars Hand #1513150161:  Hold'em No Limit ($75.00/$150.00 USD) - 2023/01/07 23:45:40 ET
+Table 'WPN_7 Day No Rathole 75/150 NLH' 9-max Seat #7 is the button
+Seat 1: iWasOnly17 ($30342.80 in chips)
+Seat 7: DoublelegTD ($6625.50 in chips)
+DoublelegTD: posts small blind $75.00
+iWasOnly17: posts big blind $150.00
+*** HOLE CARDS ***
+DoublelegTD: raises $150.00 to $300.00
+iWasOnly17: calls $150.00
+*** FLOP *** [5h 3c Ad]
+iWasOnly17: checks
+DoublelegTD: bets $180.00
+iWasOnly17: calls $180.00
+*** TURN *** [5h 3c Ad] [2c]
+iWasOnly17: checks
+DoublelegTD: checks
+*** RIVER *** [5h 3c Ad 2c] [7c]
+iWasOnly17: bets $960.00
+DoublelegTD: folds
+Uncalled bet ($960.00) returned to iWasOnly17
+iWasOnly17 collected $958.75 from pot
+iWasOnly17: doesn't show hand
+*** SUMMARY ***
+Total pot $960.00 | Rake $1.25
+Board [5h 3c Ad 2c 7c]
+Seat 1: iWasOnly17 (big blind) collected ($958.75)
+Seat 7: DoublelegTD (button) (small blind) folded on the River
+
+PokerStars Hand #1513173460:  Hold'em No Limit ($75.00/$150.00 USD) - 2023/01/08 00:09:13 ET
+Table 'WPN_7 Day No Rathole 75/150 NLH' 9-max Seat #2 is the button
+Seat 2: CPUrul0r ($1500.00 in chips)
+Seat 7: DoublelegTD ($8838.62 in chips)
+CPUrul0r: posts small blind $75.00
+DoublelegTD: posts big blind $150.00
+*** HOLE CARDS ***
+CPUrul0r: calls $75.00
+DoublelegTD: raises $300.00 to $450.00
+CPUrul0r: calls $300.00
+*** FLOP *** [8c Qs Ts]
+DoublelegTD: checks
+CPUrul0r: bets $225.00
+DoublelegTD: raises $2362.50 to $2587.50
+CPUrul0r: calls $825.00 and is all-in
+Uncalled bet ($1537.50) returned to DoublelegTD
+*** FIRST TURN *** [8c Qs Ts] [3c]
+*** FIRST RIVER *** [8c Qs Ts 3c] [9s]
+*** SECOND TURN *** [8c Qs Ts] [5s]
+*** SECOND RIVER *** [8c Qs Ts 5s] [9d]
+*** FIRST SHOW DOWN ***
+DoublelegTD: shows [Ad As]
+CPUrul0r: shows [7d Qh]
+DoublelegTD collected $1499.38 from pot
+*** SECOND SHOW DOWN ***
+DoublelegTD: shows [Ad As]
+CPUrul0r: shows [7d Qh]
+DoublelegTD collected $1499.37 from pot
+*** SUMMARY ***
+Total pot $3000.00 | Rake $1.25
+Hand was run twice
+FIRST Board [8c Qs Ts 3c 9s]
+SECOND Board [8c Qs Ts 5s 9d]
+Seat 2: CPUrul0r (button) (small blind) showed [7d Qh] and lost, and lost
+Seat 7: DoublelegTD (big blind) showed [Ad As] and won ($1499.38), and won ($1499.37)
+
+PokerStars Hand #1513174849:  Hold'em No Limit ($75.00/$150.00 USD) - 2023/01/08 00:10:24 ET
+Table 'WPN_7 Day No Rathole 75/150 NLH' 9-max Seat #7 is the button
+Seat 2: CPUrul0r ($1500.00 in chips)
+Seat 7: DoublelegTD ($10337.37 in chips)
+DoublelegTD: posts small blind $75.00
+CPUrul0r: posts big blind $150.00
+*** HOLE CARDS ***
+DoublelegTD: raises $1650.00 to $1800.00
+CPUrul0r: folds
+Uncalled bet ($1650.00) returned to DoublelegTD
+DoublelegTD collected $300.00 from pot
+DoublelegTD: doesn't show hand
+*** SUMMARY ***
+Total pot $300.00 | Rake $0.00
+Seat 2: CPUrul0r (big blind) folded before Flop
+Seat 7: DoublelegTD (button) (small blind) collected ($300.00)
+
+PokerStars Hand #1513175081:  Hold'em No Limit ($75.00/$150.00 USD) - 2023/01/08 00:10:36 ET
+Table 'WPN_7 Day No Rathole 75/150 NLH' 9-max Seat #2 is the button
+Seat 2: CPUrul0r ($1350.00 in chips)
+Seat 7: DoublelegTD ($10487.37 in chips)
+CPUrul0r: posts small blind $75.00
+DoublelegTD: posts big blind $150.00
+*** HOLE CARDS ***
+CPUrul0r: calls $75.00
+DoublelegTD: checks
+*** FLOP *** [6d Ks 8c]
+DoublelegTD: checks
+CPUrul0r: bets $150.00
+DoublelegTD: folds
+Uncalled bet ($150.00) returned to CPUrul0r
+CPUrul0r collected $298.75 from pot
+CPUrul0r: doesn't show hand
+*** SUMMARY ***
+Total pot $300.00 | Rake $1.25
+Board [6d Ks 8c]
+Seat 2: CPUrul0r (button) (small blind) collected ($298.75)
+Seat 7: DoublelegTD (big blind) folded on the Flop
+
+PokerStars Hand #1513249522:  Hold'em No Limit ($75.00/$150.00 USD) - 2023/01/08 01:14:45 ET
+Table 'WPN_7 Day No Rathole 75/150 NLH' 9-max Seat #7 is the button
+Seat 2: Haftbefehl ($2772.62 in chips)
+Seat 7: DoublelegTD ($10337.37 in chips)
+DoublelegTD: posts small blind $75.00
+Haftbefehl: posts big blind $150.00
+*** HOLE CARDS ***
+DoublelegTD: raises $10187.37 to $10337.37 and is all-in
+Haftbefehl: folds
+Uncalled bet ($10187.37) returned to DoublelegTD
+DoublelegTD collected $300.00 from pot
+DoublelegTD: doesn't show hand
+*** SUMMARY ***
+Total pot $300.00 | Rake $0.00
+Seat 2: Haftbefehl (big blind) folded before Flop
+Seat 7: DoublelegTD (button) (small blind) collected ($300.00)
+
+PokerStars Hand #1513249710:  Hold'em No Limit ($75.00/$150.00 USD) - 2023/01/08 01:14:53 ET
+Table 'WPN_7 Day No Rathole 75/150 NLH' 9-max Seat #2 is the button
+Seat 2: Haftbefehl ($2622.62 in chips)
+Seat 7: DoublelegTD ($10487.37 in chips)
+Haftbefehl: posts small blind $75.00
+DoublelegTD: posts big blind $150.00
+*** HOLE CARDS ***
+Haftbefehl: raises $150.00 to $300.00
+DoublelegTD: calls $150.00
+*** FLOP *** [Td 2h Jd]
+DoublelegTD: checks
+Haftbefehl: bets $600.00
+DoublelegTD: folds
+Uncalled bet ($600.00) returned to Haftbefehl
+Haftbefehl collected $598.75 from pot
+Haftbefehl: doesn't show hand
+*** SUMMARY ***
+Total pot $600.00 | Rake $1.25
+Board [Td 2h Jd]
+Seat 2: Haftbefehl (button) (small blind) collected ($598.75)
+Seat 7: DoublelegTD (big blind) folded on the Flop
+
+PokerStars Hand #1513250083:  Hold'em No Limit ($75.00/$150.00 USD) - 2023/01/08 01:15:10 ET
+Table 'WPN_7 Day No Rathole 75/150 NLH' 9-max Seat #2 is the button
+Seat 2: Haftbefehl ($2921.37 in chips)
+Seat 8: CPUrul0r ($1648.75 in chips)
+Haftbefehl: posts small blind $75.00
+CPUrul0r: posts big blind $150.00
+*** HOLE CARDS ***
+Haftbefehl: folds
+Uncalled bet ($75.00) returned to CPUrul0r
+CPUrul0r collected $150.00 from pot
+CPUrul0r: doesn't show hand
+*** SUMMARY ***
+Total pot $150.00 | Rake $0.00
+Seat 2: Haftbefehl (button) (small blind) folded before Flop
+Seat 8: CPUrul0r (big blind) collected ($150.00)
+
+PokerStars Hand #1513250201:  Hold'em No Limit ($75.00/$150.00 USD) - 2023/01/08 01:15:16 ET
+Table 'WPN_7 Day No Rathole 75/150 NLH' 9-max Seat #8 is the button
+Seat 2: Haftbefehl ($2846.37 in chips)
+Seat 8: CPUrul0r ($1723.75 in chips)
+CPUrul0r: posts small blind $75.00
+Haftbefehl: posts big blind $150.00
+*** HOLE CARDS ***
+CPUrul0r: raises $1573.75 to $1723.75 and is all-in
+Haftbefehl: folds
+Uncalled bet ($1573.75) returned to CPUrul0r
+CPUrul0r collected $300.00 from pot
+CPUrul0r: doesn't show hand
+*** SUMMARY ***
+Total pot $300.00 | Rake $0.00
+Seat 2: Haftbefehl (big blind) folded before Flop
+Seat 8: CPUrul0r (button) (small blind) collected ($300.00)
+
+PokerStars Hand #1513136020:  Hold'em No Limit ($75.00/$150.00 USD) - 2023/01/07 23:33:32 ET
+Table 'WPN_7 Day No Rathole 75/150 NLH' 9-max Seat #1 is the button
+Seat 1: iWasOnly17 ($30493.42 in chips)
+Seat 6: CPUrul0r ($2545.00 in chips)
+iWasOnly17: posts small blind $75.00
+CPUrul0r: posts big blind $150.00
+*** HOLE CARDS ***
+iWasOnly17: calls $75.00
+CPUrul0r: checks
+*** FLOP *** [4h 3c Kc]
+CPUrul0r: checks
+iWasOnly17: bets $150.00
+CPUrul0r: calls $150.00
+*** TURN *** [4h 3c Kc] [Qc]
+CPUrul0r: checks
+iWasOnly17: checks
+*** RIVER *** [4h 3c Kc Qc] [4s]
+CPUrul0r: checks
+iWasOnly17: checks
+*** SHOW DOWN ***
+iWasOnly17: shows [Js 6h]
+CPUrul0r: shows [7d Jc]
+iWasOnly17 collected $299.38 from pot
+CPUrul0r collected $299.37 from pot
+*** SUMMARY ***
+Total pot $600.00 | Rake $1.25
+Board [4h 3c Kc Qc 4s]
+Seat 1: iWasOnly17 (button) (small blind) showed [Js 6h] and won ($299.38)
+Seat 6: CPUrul0r (big blind) showed [7d Jc] and won ($299.37)
+
+PokerStars Hand #1513136807:  Hold'em No Limit ($75.00/$150.00 USD) - 2023/01/07 23:34:13 ET
+Table 'WPN_7 Day No Rathole 75/150 NLH' 9-max Seat #6 is the button
+Seat 1: iWasOnly17 ($30567.80 in chips)
+Seat 6: CPUrul0r ($2544.37 in chips)
+CPUrul0r: posts small blind $75.00
+iWasOnly17: posts big blind $150.00
+*** HOLE CARDS ***
+CPUrul0r: raises $150.00 to $300.00
+iWasOnly17: folds
+Uncalled bet ($150.00) returned to CPUrul0r
+CPUrul0r collected $300.00 from pot
+CPUrul0r: doesn't show hand
+*** SUMMARY ***
+Total pot $300.00 | Rake $0.00
+Seat 1: iWasOnly17 (big blind) folded before Flop
+Seat 6: CPUrul0r (button) (small blind) collected ($300.00)
+
+PokerStars Hand #1513061830:  Hold'em No Limit ($75.00/$150.00 USD) - 2023/01/07 22:25:37 ET
+Table 'WPN_7 Day No Rathole 75/150 NLH' 9-max Seat #6 is the button
+Seat 1: iWasOnly17 ($30718.42 in chips)
+Seat 6: CPUrul0r ($2097.50 in chips)
+CPUrul0r: posts small blind $75.00
+iWasOnly17: posts big blind $150.00
+*** HOLE CARDS ***
+CPUrul0r: calls $75.00
+iWasOnly17: checks
+*** FLOP *** [Tc 6s 3c]
+iWasOnly17: checks
+CPUrul0r: bets $225.00
+iWasOnly17: folds
+Uncalled bet ($225.00) returned to CPUrul0r
+CPUrul0r collected $298.75 from pot
+CPUrul0r: doesn't show hand
+*** SUMMARY ***
+Total pot $300.00 | Rake $1.25
+Board [Tc 6s 3c]
+Seat 1: iWasOnly17 (big blind) folded on the Flop
+Seat 6: CPUrul0r (button) (small blind) collected ($298.75)
+

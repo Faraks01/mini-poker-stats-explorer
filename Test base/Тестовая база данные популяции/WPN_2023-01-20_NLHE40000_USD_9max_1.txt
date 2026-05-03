@@ -1,0 +1,1808 @@
+PokerStars Hand #1529211648:  Hold'em No Limit ($200.00/$400.00 USD) - 2023/01/19 21:44:41 ET
+Table 'WPN_7 Day No Rathole 200/400 NLH - Limited Time' 9-max Seat #2 is the button
+Seat 2: oneplusone ($4000.00 in chips)
+Seat 7: DoublelegTD ($9091.10 in chips)
+oneplusone: posts small blind $200.00
+DoublelegTD: posts big blind $400.00
+*** HOLE CARDS ***
+oneplusone: raises $3600.00 to $4000.00 and is all-in
+DoublelegTD: calls $3600.00
+*** FIRST FLOP *** [7s 6c 2h]
+*** FIRST TURN *** [7s 6c 2h] [5s]
+*** FIRST RIVER *** [7s 6c 2h 5s] [8h]
+*** SECOND FLOP *** [3d Kh 9d]
+*** SECOND TURN *** [3d Kh 9d] [7c]
+*** SECOND RIVER *** [3d Kh 9d 7c] [Kd]
+*** FIRST SHOW DOWN ***
+oneplusone: shows [2d Ks]
+DoublelegTD: shows [Ad 7h]
+DoublelegTD collected $3999.38 from pot
+*** SECOND SHOW DOWN ***
+oneplusone: shows [2d Ks]
+DoublelegTD: shows [Ad 7h]
+oneplusone collected $3999.37 from pot
+*** SUMMARY ***
+Total pot $8000.00 | Rake $1.25
+Hand was run twice
+FIRST Board [7s 6c 2h 5s 8h]
+SECOND Board [3d Kh 9d 7c Kd]
+Seat 2: oneplusone (button) (small blind) showed [2d Ks] and lost, and won ($3999.37)
+Seat 7: DoublelegTD (big blind) showed [Ad 7h] and won ($3999.38), and lost
+
+PokerStars Hand #1529212348:  Hold'em No Limit ($200.00/$400.00 USD) - 2023/01/19 21:45:07 ET
+Table 'WPN_7 Day No Rathole 200/400 NLH - Limited Time' 9-max Seat #7 is the button
+Seat 2: oneplusone ($4000.00 in chips)
+Seat 7: DoublelegTD ($9090.48 in chips)
+DoublelegTD: posts small blind $200.00
+oneplusone: posts big blind $400.00
+*** HOLE CARDS ***
+DoublelegTD: calls $200.00
+oneplusone: raises $3600.00 to $4000.00 and is all-in
+DoublelegTD: folds
+Uncalled bet ($3600.00) returned to oneplusone
+oneplusone collected $800.00 from pot
+oneplusone: doesn't show hand
+*** SUMMARY ***
+Total pot $800.00 | Rake $0.00
+Seat 2: oneplusone (big blind) collected ($800.00)
+Seat 7: DoublelegTD (button) (small blind) folded before Flop
+
+PokerStars Hand #1529213189:  Hold'em No Limit ($200.00/$400.00 USD) - 2023/01/19 21:45:38 ET
+Table 'WPN_7 Day No Rathole 200/400 NLH - Limited Time' 9-max Seat #2 is the button
+Seat 2: oneplusone ($4400.00 in chips)
+Seat 7: DoublelegTD ($8690.48 in chips)
+oneplusone: posts small blind $200.00
+DoublelegTD: posts big blind $400.00
+*** HOLE CARDS ***
+oneplusone: raises $4000.00 to $4400.00 and is all-in
+DoublelegTD: folds
+Uncalled bet ($4000.00) returned to oneplusone
+oneplusone collected $800.00 from pot
+oneplusone: doesn't show hand
+*** SUMMARY ***
+Total pot $800.00 | Rake $0.00
+Seat 2: oneplusone (button) (small blind) collected ($800.00)
+Seat 7: DoublelegTD (big blind) folded before Flop
+
+PokerStars Hand #1529213550:  Hold'em No Limit ($200.00/$400.00 USD) - 2023/01/19 21:45:51 ET
+Table 'WPN_7 Day No Rathole 200/400 NLH - Limited Time' 9-max Seat #7 is the button
+Seat 2: oneplusone ($4800.00 in chips)
+Seat 3: b00ma ($12241.76 in chips)
+Seat 7: DoublelegTD ($8290.48 in chips)
+DoublelegTD: posts small blind $200.00
+oneplusone: posts big blind $400.00
+*** HOLE CARDS ***
+DoublelegTD: folds
+Uncalled bet ($200.00) returned to oneplusone
+oneplusone collected $400.00 from pot
+oneplusone: doesn't show hand
+*** SUMMARY ***
+Total pot $400.00 | Rake $0.00
+Seat 2: oneplusone (big blind) collected ($400.00)
+Seat 7: DoublelegTD (button) (small blind) folded before Flop
+
+PokerStars Hand #1529213849:  Hold'em No Limit ($200.00/$400.00 USD) - 2023/01/19 21:46:02 ET
+Table 'WPN_7 Day No Rathole 200/400 NLH - Limited Time' 9-max Seat #7 is the button
+Seat 2: oneplusone ($5000.00 in chips)
+Seat 3: b00ma ($12241.76 in chips)
+Seat 7: DoublelegTD ($8090.48 in chips)
+oneplusone: posts small blind $200.00
+b00ma: posts big blind $400.00
+*** HOLE CARDS ***
+DoublelegTD: raises $400.00 to $800.00
+oneplusone: folds
+b00ma: calls $400.00
+*** FLOP *** [4d 5s 8d]
+b00ma: checks
+DoublelegTD: bets $900.00
+b00ma: raises $1800.00 to $2700.00
+DoublelegTD: raises $4590.48 to $7290.48 and is all-in
+b00ma: calls $4590.48
+*** FIRST TURN *** [4d 5s 8d] [Kc]
+*** FIRST RIVER *** [4d 5s 8d Kc] [Ks]
+*** SECOND TURN *** [4d 5s 8d] [6c]
+*** SECOND RIVER *** [4d 5s 8d 6c] [4h]
+*** FIRST SHOW DOWN ***
+b00ma: shows [7d Jd]
+DoublelegTD: shows [8h 7h]
+DoublelegTD collected $8189.61 from pot
+*** SECOND SHOW DOWN ***
+b00ma: shows [7d Jd]
+DoublelegTD: shows [8h 7h]
+b00ma collected $4094.80 from pot
+DoublelegTD collected $4094.80 from pot
+*** SUMMARY ***
+Total pot $16380.96 | Rake $1.75
+Hand was run twice
+FIRST Board [4d 5s 8d Kc Ks]
+SECOND Board [4d 5s 8d 6c 4h]
+Seat 2: oneplusone (small blind) folded before Flop
+Seat 3: b00ma (big blind) showed [7d Jd] and lost, and won ($4094.80)
+Seat 7: DoublelegTD (button) showed [8h 7h] and won ($8189.61), and won ($4094.80)
+
+PokerStars Hand #1529215878:  Hold'em No Limit ($200.00/$400.00 USD) - 2023/01/19 21:47:16 ET
+Table 'WPN_7 Day No Rathole 200/400 NLH - Limited Time' 9-max Seat #2 is the button
+Seat 2: oneplusone ($4800.00 in chips)
+Seat 3: b00ma ($8246.08 in chips)
+Seat 7: DoublelegTD ($12284.41 in chips)
+b00ma: posts small blind $200.00
+DoublelegTD: posts big blind $400.00
+*** HOLE CARDS ***
+oneplusone: folds
+b00ma: calls $200.00
+DoublelegTD: checks
+*** FLOP *** [Ac Ts As]
+b00ma: checks
+DoublelegTD: checks
+*** TURN *** [Ac Ts As] [Js]
+b00ma: bets $400.00
+DoublelegTD: folds
+Uncalled bet ($400.00) returned to b00ma
+b00ma collected $798.25 from pot
+b00ma: doesn't show hand
+*** SUMMARY ***
+Total pot $800.00 | Rake $1.75
+Board [Ac Ts As Js]
+Seat 2: oneplusone (button) folded before Flop (didn't bet)
+Seat 3: b00ma (small blind) collected ($798.25)
+Seat 7: DoublelegTD (big blind) folded on the Turn
+
+PokerStars Hand #1529217584:  Hold'em No Limit ($200.00/$400.00 USD) - 2023/01/19 21:48:18 ET
+Table 'WPN_7 Day No Rathole 200/400 NLH - Limited Time' 9-max Seat #3 is the button
+Seat 2: oneplusone ($4800.00 in chips)
+Seat 3: b00ma ($8644.33 in chips)
+Seat 7: DoublelegTD ($11884.41 in chips)
+DoublelegTD: posts small blind $200.00
+oneplusone: posts big blind $400.00
+*** HOLE CARDS ***
+b00ma: folds
+DoublelegTD: calls $200.00
+oneplusone: raises $4400.00 to $4800.00 and is all-in
+DoublelegTD: folds
+Uncalled bet ($4400.00) returned to oneplusone
+oneplusone collected $800.00 from pot
+oneplusone: doesn't show hand
+*** SUMMARY ***
+Total pot $800.00 | Rake $0.00
+Seat 2: oneplusone (big blind) collected ($800.00)
+Seat 3: b00ma (button) folded before Flop (didn't bet)
+Seat 7: DoublelegTD (small blind) folded before Flop
+
+PokerStars Hand #1529218125:  Hold'em No Limit ($200.00/$400.00 USD) - 2023/01/19 21:48:38 ET
+Table 'WPN_7 Day No Rathole 200/400 NLH - Limited Time' 9-max Seat #7 is the button
+Seat 2: oneplusone ($5200.00 in chips)
+Seat 3: b00ma ($8644.33 in chips)
+Seat 7: DoublelegTD ($11484.41 in chips)
+oneplusone: posts small blind $200.00
+b00ma: posts big blind $400.00
+*** HOLE CARDS ***
+DoublelegTD: folds
+oneplusone: raises $4800.00 to $5200.00 and is all-in
+b00ma: folds
+Uncalled bet ($4800.00) returned to oneplusone
+oneplusone collected $800.00 from pot
+oneplusone: doesn't show hand
+*** SUMMARY ***
+Total pot $800.00 | Rake $0.00
+Seat 2: oneplusone (small blind) collected ($800.00)
+Seat 3: b00ma (big blind) folded before Flop
+Seat 7: DoublelegTD (button) folded before Flop (didn't bet)
+
+PokerStars Hand #1529219024:  Hold'em No Limit ($200.00/$400.00 USD) - 2023/01/19 21:49:12 ET
+Table 'WPN_7 Day No Rathole 200/400 NLH - Limited Time' 9-max Seat #2 is the button
+Seat 2: oneplusone ($5600.00 in chips)
+Seat 3: b00ma ($8244.33 in chips)
+Seat 4: TIKITAKA11 ($61990.42 in chips)
+Seat 7: DoublelegTD ($11484.41 in chips)
+b00ma: posts small blind $200.00
+TIKITAKA11: posts big blind $400.00
+*** HOLE CARDS ***
+DoublelegTD: folds
+oneplusone: raises $400.00 to $800.00
+b00ma: folds
+TIKITAKA11: calls $400.00
+*** FLOP *** [Qc Ts 7c]
+TIKITAKA11: checks
+oneplusone: checks
+*** TURN *** [Qc Ts 7c] [Js]
+TIKITAKA11: checks
+oneplusone: bets $1350.00
+TIKITAKA11: raises $6750.00 to $8100.00
+oneplusone: calls $3450.00 and is all-in
+Uncalled bet ($3300.00) returned to TIKITAKA11
+*** RIVER *** [Qc Ts 7c Js] [Ac]
+*** SHOW DOWN ***
+oneplusone: shows [Ks Ad]
+TIKITAKA11: shows [Ah As]
+oneplusone collected $11397.75 from pot
+*** SUMMARY ***
+Total pot $11400.00 | Rake $2.25
+Board [Qc Ts 7c Js Ac]
+Seat 2: oneplusone (button) showed [Ks Ad] and won ($11397.75)
+Seat 3: b00ma (small blind) folded before Flop
+Seat 4: TIKITAKA11 (big blind) showed [Ah As] and lost
+Seat 7: DoublelegTD folded before Flop (didn't bet)
+
+PokerStars Hand #1529220850:  Hold'em No Limit ($200.00/$400.00 USD) - 2023/01/19 21:50:17 ET
+Table 'WPN_7 Day No Rathole 200/400 NLH - Limited Time' 9-max Seat #3 is the button
+Seat 2: oneplusone ($11397.75 in chips)
+Seat 3: b00ma ($8044.33 in chips)
+Seat 4: TIKITAKA11 ($56390.42 in chips)
+Seat 7: DoublelegTD ($11484.41 in chips)
+TIKITAKA11: posts small blind $200.00
+DoublelegTD: posts big blind $400.00
+*** HOLE CARDS ***
+oneplusone: folds
+b00ma: folds
+TIKITAKA11: calls $200.00
+DoublelegTD: checks
+*** FLOP *** [5s 2h Ks]
+TIKITAKA11: bets $400.00
+DoublelegTD: folds
+Uncalled bet ($400.00) returned to TIKITAKA11
+TIKITAKA11 collected $797.75 from pot
+TIKITAKA11: doesn't show hand
+*** SUMMARY ***
+Total pot $800.00 | Rake $2.25
+Board [5s 2h Ks]
+Seat 2: oneplusone folded before Flop (didn't bet)
+Seat 3: b00ma (button) folded before Flop (didn't bet)
+Seat 4: TIKITAKA11 (small blind) collected ($797.75)
+Seat 7: DoublelegTD (big blind) folded on the Flop
+
+PokerStars Hand #1529221503:  Hold'em No Limit ($200.00/$400.00 USD) - 2023/01/19 21:50:40 ET
+Table 'WPN_7 Day No Rathole 200/400 NLH - Limited Time' 9-max Seat #4 is the button
+Seat 2: oneplusone ($11397.75 in chips)
+Seat 3: b00ma ($8044.33 in chips)
+Seat 4: TIKITAKA11 ($56788.17 in chips)
+Seat 7: DoublelegTD ($11084.41 in chips)
+DoublelegTD: posts small blind $200.00
+oneplusone: posts big blind $400.00
+*** HOLE CARDS ***
+b00ma: folds
+TIKITAKA11: folds
+DoublelegTD: raises $600.00 to $1000.00
+oneplusone: folds
+Uncalled bet ($600.00) returned to DoublelegTD
+DoublelegTD collected $800.00 from pot
+DoublelegTD: doesn't show hand
+*** SUMMARY ***
+Total pot $800.00 | Rake $0.00
+Seat 2: oneplusone (big blind) folded before Flop
+Seat 3: b00ma folded before Flop (didn't bet)
+Seat 4: TIKITAKA11 (button) folded before Flop (didn't bet)
+Seat 7: DoublelegTD (small blind) collected ($800.00)
+
+PokerStars Hand #1529221824:  Hold'em No Limit ($200.00/$400.00 USD) - 2023/01/19 21:50:52 ET
+Table 'WPN_7 Day No Rathole 200/400 NLH - Limited Time' 9-max Seat #7 is the button
+Seat 2: oneplusone ($10997.75 in chips)
+Seat 3: b00ma ($8044.33 in chips)
+Seat 4: TIKITAKA11 ($56788.17 in chips)
+Seat 7: DoublelegTD ($11484.41 in chips)
+oneplusone: posts small blind $200.00
+b00ma: posts big blind $400.00
+*** HOLE CARDS ***
+TIKITAKA11: raises $400.00 to $800.00
+DoublelegTD: folds
+oneplusone: folds
+b00ma: folds
+Uncalled bet ($400.00) returned to TIKITAKA11
+TIKITAKA11 collected $1000.00 from pot
+TIKITAKA11: doesn't show hand
+*** SUMMARY ***
+Total pot $1000.00 | Rake $0.00
+Seat 2: oneplusone (small blind) folded before Flop
+Seat 3: b00ma (big blind) folded before Flop
+Seat 4: TIKITAKA11 collected ($1000.00)
+Seat 7: DoublelegTD (button) folded before Flop (didn't bet)
+
+PokerStars Hand #1529222472:  Hold'em No Limit ($200.00/$400.00 USD) - 2023/01/19 21:51:15 ET
+Table 'WPN_7 Day No Rathole 200/400 NLH - Limited Time' 9-max Seat #2 is the button
+Seat 2: oneplusone ($10797.75 in chips)
+Seat 3: b00ma ($7644.33 in chips)
+Seat 4: TIKITAKA11 ($57388.17 in chips)
+Seat 7: DoublelegTD ($11484.41 in chips)
+b00ma: posts small blind $200.00
+DoublelegTD: posts big blind $400.00
+*** HOLE CARDS ***
+oneplusone: raises $400.00 to $800.00
+b00ma: folds
+DoublelegTD: raises $10684.41 to $11484.41 and is all-in
+oneplusone: folds
+Uncalled bet ($10684.41) returned to DoublelegTD
+DoublelegTD collected $1800.00 from pot
+DoublelegTD: doesn't show hand
+*** SUMMARY ***
+Total pot $1800.00 | Rake $0.00
+Seat 2: oneplusone (button) folded before Flop
+Seat 3: b00ma (small blind) folded before Flop
+Seat 7: DoublelegTD (big blind) collected ($1800.00)
+
+PokerStars Hand #1529223161:  Hold'em No Limit ($200.00/$400.00 USD) - 2023/01/19 21:51:41 ET
+Table 'WPN_7 Day No Rathole 200/400 NLH - Limited Time' 9-max Seat #3 is the button
+Seat 2: oneplusone ($9997.75 in chips)
+Seat 3: b00ma ($7444.33 in chips)
+Seat 7: DoublelegTD ($12484.41 in chips)
+DoublelegTD: posts small blind $200.00
+oneplusone: posts big blind $400.00
+*** HOLE CARDS ***
+b00ma: raises $400.00 to $800.00
+DoublelegTD: folds
+oneplusone: folds
+Uncalled bet ($400.00) returned to b00ma
+b00ma collected $1000.00 from pot
+b00ma: doesn't show hand
+*** SUMMARY ***
+Total pot $1000.00 | Rake $0.00
+Seat 2: oneplusone (big blind) folded before Flop
+Seat 3: b00ma (button) collected ($1000.00)
+Seat 7: DoublelegTD (small blind) folded before Flop
+
+PokerStars Hand #1529223518:  Hold'em No Limit ($200.00/$400.00 USD) - 2023/01/19 21:51:54 ET
+Table 'WPN_7 Day No Rathole 200/400 NLH - Limited Time' 9-max Seat #7 is the button
+Seat 2: oneplusone ($9597.75 in chips)
+Seat 3: b00ma ($8044.33 in chips)
+Seat 7: DoublelegTD ($12284.41 in chips)
+oneplusone: posts small blind $200.00
+b00ma: posts big blind $400.00
+*** HOLE CARDS ***
+DoublelegTD: raises $400.00 to $800.00
+oneplusone: folds
+b00ma: folds
+Uncalled bet ($400.00) returned to DoublelegTD
+DoublelegTD collected $1000.00 from pot
+DoublelegTD: doesn't show hand
+*** SUMMARY ***
+Total pot $1000.00 | Rake $0.00
+Seat 2: oneplusone (small blind) folded before Flop
+Seat 3: b00ma (big blind) folded before Flop
+Seat 7: DoublelegTD (button) collected ($1000.00)
+
+PokerStars Hand #1529223819:  Hold'em No Limit ($200.00/$400.00 USD) - 2023/01/19 21:52:05 ET
+Table 'WPN_7 Day No Rathole 200/400 NLH - Limited Time' 9-max Seat #2 is the button
+Seat 2: oneplusone ($9397.75 in chips)
+Seat 3: b00ma ($7644.33 in chips)
+Seat 7: DoublelegTD ($12884.41 in chips)
+b00ma: posts small blind $200.00
+DoublelegTD: posts big blind $400.00
+*** HOLE CARDS ***
+oneplusone: raises $400.00 to $800.00
+b00ma: folds
+DoublelegTD: calls $400.00
+*** FLOP *** [Qh 6s Kc]
+DoublelegTD: checks
+oneplusone: bets $450.00
+DoublelegTD: folds
+Uncalled bet ($450.00) returned to oneplusone
+oneplusone collected $1798.25 from pot
+oneplusone: doesn't show hand
+*** SUMMARY ***
+Total pot $1800.00 | Rake $1.75
+Board [Qh 6s Kc]
+Seat 2: oneplusone (button) collected ($1798.25)
+Seat 3: b00ma (small blind) folded before Flop
+Seat 7: DoublelegTD (big blind) folded on the Flop
+
+PokerStars Hand #1529224703:  Hold'em No Limit ($200.00/$400.00 USD) - 2023/01/19 21:52:37 ET
+Table 'WPN_7 Day No Rathole 200/400 NLH - Limited Time' 9-max Seat #3 is the button
+Seat 2: oneplusone ($10396.00 in chips)
+Seat 3: b00ma ($7444.33 in chips)
+Seat 7: DoublelegTD ($12084.41 in chips)
+Seat 9: Vietcong ($4000.00 in chips)
+DoublelegTD: posts small blind $200.00
+Vietcong: posts big blind $400.00
+*** HOLE CARDS ***
+oneplusone: folds
+b00ma: folds
+DoublelegTD: raises $4400.00 to $4800.00
+Vietcong: calls $3600.00 and is all-in
+Uncalled bet ($800.00) returned to DoublelegTD
+*** FLOP *** [8h Js Ad]
+*** TURN *** [8h Js Ad] [5c]
+*** RIVER *** [8h Js Ad 5c] [9h]
+*** SHOW DOWN ***
+DoublelegTD: shows [Ac 4d]
+Vietcong: shows [As 2c]
+Vietcong collected $3998.87 from pot
+DoublelegTD collected $3998.88 from pot
+*** SUMMARY ***
+Total pot $8000.00 | Rake $2.25
+Board [8h Js Ad 5c 9h]
+Seat 2: oneplusone folded before Flop (didn't bet)
+Seat 3: b00ma (button) folded before Flop (didn't bet)
+Seat 7: DoublelegTD (small blind) showed [Ac 4d] and won ($3998.88)
+Seat 9: Vietcong (big blind) showed [As 2c] and won ($3998.87)
+
+PokerStars Hand #1529225387:  Hold'em No Limit ($200.00/$400.00 USD) - 2023/01/19 21:53:02 ET
+Table 'WPN_7 Day No Rathole 200/400 NLH - Limited Time' 9-max Seat #7 is the button
+Seat 1: Sabazius ($16475.20 in chips)
+Seat 2: oneplusone ($10396.00 in chips)
+Seat 3: b00ma ($7444.33 in chips)
+Seat 7: DoublelegTD ($12083.29 in chips)
+Seat 9: Vietcong ($3998.87 in chips)
+Vietcong: posts small blind $200.00
+Sabazius: posts big blind $400.00
+*** HOLE CARDS ***
+oneplusone: raises $400.00 to $800.00
+b00ma: folds
+DoublelegTD: folds
+Vietcong: folds
+Sabazius: calls $400.00
+*** FLOP *** [9s 8s 9d]
+Sabazius: checks
+oneplusone: bets $594.00
+Sabazius: calls $594.00
+*** TURN *** [9s 8s 9d] [Jc]
+Sabazius: checks
+oneplusone: bets $2600.00
+Sabazius: folds
+Uncalled bet ($2600.00) returned to oneplusone
+oneplusone collected $2985.00 from pot
+oneplusone: doesn't show hand
+*** SUMMARY ***
+Total pot $2988.00 | Rake $3.00
+Board [9s 8s 9d Jc]
+Seat 1: Sabazius (big blind) folded on the Turn
+Seat 2: oneplusone collected ($2985.00)
+Seat 3: b00ma folded before Flop (didn't bet)
+Seat 7: DoublelegTD (button) folded before Flop (didn't bet)
+Seat 9: Vietcong (small blind) folded before Flop
+
+PokerStars Hand #1529227542:  Hold'em No Limit ($200.00/$400.00 USD) - 2023/01/19 21:54:21 ET
+Table 'WPN_7 Day No Rathole 200/400 NLH - Limited Time' 9-max Seat #9 is the button
+Seat 1: Sabazius ($15081.20 in chips)
+Seat 2: oneplusone ($11987.00 in chips)
+Seat 3: b00ma ($7444.33 in chips)
+Seat 4: TIKITAKA11 ($57388.17 in chips)
+Seat 7: DoublelegTD ($12083.29 in chips)
+Seat 9: Vietcong ($3798.87 in chips)
+Sabazius: posts small blind $200.00
+oneplusone: posts big blind $400.00
+*** HOLE CARDS ***
+b00ma: folds
+DoublelegTD: folds
+Vietcong: folds
+Sabazius: raises $800.00 to $1200.00
+oneplusone: calls $800.00
+*** FLOP *** [3c Ah 8s]
+Sabazius: bets $600.00
+oneplusone: calls $600.00
+*** TURN *** [3c Ah 8s] [8c]
+Sabazius: checks
+oneplusone: bets $1800.00
+Sabazius: folds
+Uncalled bet ($1800.00) returned to oneplusone
+oneplusone collected $3597.00 from pot
+oneplusone: doesn't show hand
+*** SUMMARY ***
+Total pot $3600.00 | Rake $3.00
+Board [3c Ah 8s 8c]
+Seat 1: Sabazius (small blind) folded on the Turn
+Seat 2: oneplusone (big blind) collected ($3597.00)
+Seat 3: b00ma folded before Flop (didn't bet)
+Seat 7: DoublelegTD folded before Flop (didn't bet)
+Seat 9: Vietcong (button) folded before Flop (didn't bet)
+
+PokerStars Hand #1529229013:  Hold'em No Limit ($200.00/$400.00 USD) - 2023/01/19 21:55:39 ET
+Table 'WPN_7 Day No Rathole 200/400 NLH - Limited Time' 9-max Seat #1 is the button
+Seat 1: Sabazius ($13281.20 in chips)
+Seat 2: oneplusone ($13784.00 in chips)
+Seat 3: b00ma ($7444.33 in chips)
+Seat 4: TIKITAKA11 ($57388.17 in chips)
+Seat 7: DoublelegTD ($12083.29 in chips)
+Seat 9: Vietcong ($3798.87 in chips)
+oneplusone: posts small blind $200.00
+b00ma: posts big blind $400.00
+*** HOLE CARDS ***
+DoublelegTD: folds
+Vietcong: raises $3398.87 to $3798.87 and is all-in
+Sabazius: raises $9482.33 to $13281.20 and is all-in
+oneplusone: folds
+b00ma: folds
+Uncalled bet ($9482.33) returned to Sabazius
+*** FIRST FLOP *** [4s 8h Qd]
+*** FIRST TURN *** [4s 8h Qd] [7d]
+*** FIRST RIVER *** [4s 8h Qd 7d] [Js]
+*** SECOND FLOP *** [Jc 4h Tc]
+*** SECOND TURN *** [Jc 4h Tc] [2s]
+*** SECOND RIVER *** [Jc 4h Tc 2s] [8s]
+*** FIRST SHOW DOWN ***
+Vietcong: shows [Ts Jd]
+Sabazius: shows [Th Ac]
+Vietcong collected $4097.37 from pot
+*** SECOND SHOW DOWN ***
+Vietcong: shows [Ts Jd]
+Sabazius: shows [Th Ac]
+Vietcong collected $4097.37 from pot
+*** SUMMARY ***
+Total pot $8197.74 | Rake $3.00
+Hand was run twice
+FIRST Board [4s 8h Qd 7d Js]
+SECOND Board [Jc 4h Tc 2s 8s]
+Seat 1: Sabazius (button) showed [Th Ac] and lost, and lost
+Seat 2: oneplusone (small blind) folded before Flop
+Seat 3: b00ma (big blind) folded before Flop
+Seat 4: TIKITAKA11 and lost, and lost
+Seat 7: DoublelegTD folded before Flop (didn't bet)
+Seat 9: Vietcong showed [Ts Jd] and won ($4097.37), and won ($4097.37)
+
+PokerStars Hand #1529229498:  Hold'em No Limit ($200.00/$400.00 USD) - 2023/01/19 21:56:24 ET
+Table 'WPN_7 Day No Rathole 200/400 NLH - Limited Time' 9-max Seat #2 is the button
+Seat 1: Sabazius ($9482.33 in chips)
+Seat 2: oneplusone ($13584.00 in chips)
+Seat 3: b00ma ($7044.33 in chips)
+Seat 4: TIKITAKA11 ($57388.17 in chips)
+Seat 7: DoublelegTD ($12083.29 in chips)
+Seat 9: Vietcong ($8194.74 in chips)
+b00ma: posts small blind $200.00
+TIKITAKA11: posts big blind $400.00
+*** HOLE CARDS ***
+DoublelegTD: folds
+Vietcong: raises $400.00 to $800.00
+Sabazius: raises $1000.00 to $1800.00
+oneplusone: folds
+b00ma: folds
+TIKITAKA11: folds
+Vietcong: folds
+Uncalled bet ($1000.00) returned to Sabazius
+Sabazius collected $2200.00 from pot
+Sabazius: doesn't show hand
+*** SUMMARY ***
+Total pot $2200.00 | Rake $0.00
+Seat 1: Sabazius collected ($2200.00)
+Seat 2: oneplusone (button) folded before Flop (didn't bet)
+Seat 3: b00ma (small blind) folded before Flop
+Seat 4: TIKITAKA11 (big blind) folded before Flop
+Seat 7: DoublelegTD folded before Flop (didn't bet)
+Seat 9: Vietcong folded before Flop
+
+PokerStars Hand #1529229813:  Hold'em No Limit ($200.00/$400.00 USD) - 2023/01/19 21:56:53 ET
+Table 'WPN_7 Day No Rathole 200/400 NLH - Limited Time' 9-max Seat #3 is the button
+Seat 1: Sabazius ($10882.33 in chips)
+Seat 2: oneplusone ($13584.00 in chips)
+Seat 3: b00ma ($6844.33 in chips)
+Seat 4: TIKITAKA11 ($56988.17 in chips)
+Seat 7: DoublelegTD ($12083.29 in chips)
+Seat 9: Vietcong ($7394.74 in chips)
+TIKITAKA11: posts small blind $200.00
+DoublelegTD: posts big blind $400.00
+*** HOLE CARDS ***
+Vietcong: folds
+Sabazius: folds
+oneplusone: raises $400.00 to $800.00
+b00ma: folds
+TIKITAKA11: folds
+DoublelegTD: folds
+Uncalled bet ($400.00) returned to oneplusone
+oneplusone collected $1000.00 from pot
+oneplusone: doesn't show hand
+*** SUMMARY ***
+Total pot $1000.00 | Rake $0.00
+Seat 1: Sabazius folded before Flop (didn't bet)
+Seat 2: oneplusone collected ($1000.00)
+Seat 3: b00ma (button) folded before Flop (didn't bet)
+Seat 4: TIKITAKA11 (small blind) folded before Flop
+Seat 7: DoublelegTD (big blind) folded before Flop
+Seat 9: Vietcong folded before Flop (didn't bet)
+
+PokerStars Hand #1529229984:  Hold'em No Limit ($200.00/$400.00 USD) - 2023/01/19 21:57:09 ET
+Table 'WPN_7 Day No Rathole 200/400 NLH - Limited Time' 9-max Seat #4 is the button
+Seat 1: Sabazius ($10882.33 in chips)
+Seat 2: oneplusone ($14184.00 in chips)
+Seat 3: b00ma ($6844.33 in chips)
+Seat 4: TIKITAKA11 ($56788.17 in chips)
+Seat 7: DoublelegTD ($11683.29 in chips)
+Seat 9: Vietcong ($7394.74 in chips)
+DoublelegTD: posts small blind $200.00
+oneplusone: posts big blind $400.00
+*** HOLE CARDS ***
+b00ma: raises $400.00 to $800.00
+TIKITAKA11: folds
+DoublelegTD: folds
+oneplusone: calls $400.00
+*** FLOP *** [4h 7c Js]
+oneplusone: checks
+b00ma: checks
+*** TURN *** [4h 7c Js] [Ah]
+oneplusone: checks
+b00ma: bets $900.00
+oneplusone: folds
+Uncalled bet ($900.00) returned to b00ma
+b00ma collected $1797.75 from pot
+b00ma: doesn't show hand
+*** SUMMARY ***
+Total pot $1800.00 | Rake $2.25
+Board [4h 7c Js Ah]
+Seat 2: oneplusone (big blind) folded on the Turn
+Seat 3: b00ma collected ($1797.75)
+Seat 4: TIKITAKA11 (button) folded before Flop (didn't bet)
+Seat 7: DoublelegTD (small blind) folded before Flop
+
+PokerStars Hand #1529233250:  Hold'em No Limit ($200.00/$400.00 USD) - 2023/01/19 22:01:30 ET
+Table 'WPN_7 Day No Rathole 200/400 NLH - Limited Time' 9-max Seat #3 is the button
+Seat 2: oneplusone ($13182.75 in chips)
+Seat 3: b00ma ($4477.08 in chips)
+b00ma: posts small blind $200.00
+oneplusone: posts big blind $400.00
+*** HOLE CARDS ***
+b00ma: raises $4077.08 to $4477.08 and is all-in
+oneplusone: calls $4077.08
+*** FLOP *** [Ac Jc 4h]
+*** TURN *** [Ac Jc 4h] [8c]
+*** RIVER *** [Ac Jc 4h 8c] [9c]
+*** SHOW DOWN ***
+oneplusone: shows [7s Kh]
+b00ma: shows [Qh 3h]
+oneplusone collected $8952.91 from pot
+*** SUMMARY ***
+Total pot $8954.16 | Rake $1.25
+Board [Ac Jc 4h 8c 9c]
+Seat 2: oneplusone (big blind) showed [7s Kh] and won ($8952.91)
+Seat 3: b00ma (button) (small blind) showed [Qh 3h] and lost
+
+PokerStars Hand #1529233645:  Hold'em No Limit ($200.00/$400.00 USD) - 2023/01/19 22:01:50 ET
+Table 'WPN_7 Day No Rathole 200/400 NLH - Limited Time' 9-max Seat #2 is the button
+Seat 2: oneplusone ($17658.58 in chips)
+Seat 3: b00ma ($4000.00 in chips)
+oneplusone: posts small blind $200.00
+b00ma: posts big blind $400.00
+*** HOLE CARDS ***
+oneplusone: calls $200.00
+b00ma: checks
+*** FLOP *** [2d Jd 9d]
+b00ma: checks
+oneplusone: bets $400.00
+b00ma: folds
+Uncalled bet ($400.00) returned to oneplusone
+oneplusone collected $798.75 from pot
+oneplusone: doesn't show hand
+*** SUMMARY ***
+Total pot $800.00 | Rake $1.25
+Board [2d Jd 9d]
+Seat 2: oneplusone (button) (small blind) collected ($798.75)
+Seat 3: b00ma (big blind) folded on the Flop
+
+PokerStars Hand #1529234950:  Hold'em No Limit ($200.00/$400.00 USD) - 2023/01/19 22:02:35 ET
+Table 'WPN_7 Day No Rathole 200/400 NLH - Limited Time' 9-max Seat #3 is the button
+Seat 2: oneplusone ($18057.33 in chips)
+Seat 3: b00ma ($3600.00 in chips)
+b00ma: posts small blind $200.00
+oneplusone: posts big blind $400.00
+*** HOLE CARDS ***
+b00ma: calls $200.00
+oneplusone: checks
+*** FLOP *** [Ks Ac 2c]
+oneplusone: checks
+b00ma: checks
+*** TURN *** [Ks Ac 2c] [9d]
+oneplusone: checks
+b00ma: bets $400.00
+oneplusone: calls $400.00
+*** RIVER *** [Ks Ac 2c 9d] [Jc]
+oneplusone: checks
+b00ma: bets $3200.00 and is all-in
+oneplusone: folds
+Uncalled bet ($3200.00) returned to b00ma
+b00ma collected $1598.75 from pot
+b00ma: doesn't show hand
+*** SUMMARY ***
+Total pot $1600.00 | Rake $1.25
+Board [Ks Ac 2c 9d Jc]
+Seat 2: oneplusone (big blind) folded on the River
+Seat 3: b00ma (button) (small blind) collected ($1598.75)
+
+PokerStars Hand #1529237168:  Hold'em No Limit ($200.00/$400.00 USD) - 2023/01/19 22:04:06 ET
+Table 'WPN_7 Day No Rathole 200/400 NLH - Limited Time' 9-max Seat #2 is the button
+Seat 2: oneplusone ($17257.33 in chips)
+Seat 7: DoublelegTD ($11483.29 in chips)
+oneplusone: posts small blind $200.00
+DoublelegTD: posts big blind $400.00
+*** HOLE CARDS ***
+oneplusone: raises $400.00 to $800.00
+DoublelegTD: raises $1800.00 to $2600.00
+oneplusone: folds
+Uncalled bet ($1800.00) returned to DoublelegTD
+DoublelegTD collected $1600.00 from pot
+DoublelegTD: doesn't show hand
+*** SUMMARY ***
+Total pot $1600.00 | Rake $0.00
+Seat 2: oneplusone (button) (small blind) folded before Flop
+Seat 7: DoublelegTD (big blind) collected ($1600.00)
+
+PokerStars Hand #1529237674:  Hold'em No Limit ($200.00/$400.00 USD) - 2023/01/19 22:04:26 ET
+Table 'WPN_7 Day No Rathole 200/400 NLH - Limited Time' 9-max Seat #7 is the button
+Seat 2: oneplusone ($16457.33 in chips)
+Seat 7: DoublelegTD ($12283.29 in chips)
+DoublelegTD: posts small blind $200.00
+oneplusone: posts big blind $400.00
+*** HOLE CARDS ***
+DoublelegTD: calls $200.00
+oneplusone: checks
+*** FLOP *** [Jh 6s Jd]
+oneplusone: checks
+DoublelegTD: bets $400.00
+oneplusone: calls $400.00
+*** TURN *** [Jh 6s Jd] [7h]
+oneplusone: checks
+DoublelegTD: bets $1200.00
+oneplusone: folds
+Uncalled bet ($1200.00) returned to DoublelegTD
+DoublelegTD collected $1598.75 from pot
+DoublelegTD: doesn't show hand
+*** SUMMARY ***
+Total pot $1600.00 | Rake $1.25
+Board [Jh 6s Jd 7h]
+Seat 2: oneplusone (big blind) folded on the Turn
+Seat 7: DoublelegTD (button) (small blind) collected ($1598.75)
+
+PokerStars Hand #1529238773:  Hold'em No Limit ($200.00/$400.00 USD) - 2023/01/19 22:05:07 ET
+Table 'WPN_7 Day No Rathole 200/400 NLH - Limited Time' 9-max Seat #2 is the button
+Seat 2: oneplusone ($15657.33 in chips)
+Seat 7: DoublelegTD ($13082.04 in chips)
+oneplusone: posts small blind $200.00
+DoublelegTD: posts big blind $400.00
+*** HOLE CARDS ***
+oneplusone: raises $400.00 to $800.00
+DoublelegTD: folds
+Uncalled bet ($400.00) returned to oneplusone
+oneplusone collected $800.00 from pot
+oneplusone: doesn't show hand
+*** SUMMARY ***
+Total pot $800.00 | Rake $0.00
+Seat 2: oneplusone (button) (small blind) collected ($800.00)
+Seat 7: DoublelegTD (big blind) folded before Flop
+
+PokerStars Hand #1529239112:  Hold'em No Limit ($200.00/$400.00 USD) - 2023/01/19 22:05:19 ET
+Table 'WPN_7 Day No Rathole 200/400 NLH - Limited Time' 9-max Seat #7 is the button
+Seat 2: oneplusone ($16057.33 in chips)
+Seat 7: DoublelegTD ($12682.04 in chips)
+DoublelegTD: posts small blind $200.00
+oneplusone: posts big blind $400.00
+*** HOLE CARDS ***
+DoublelegTD: folds
+Uncalled bet ($200.00) returned to oneplusone
+oneplusone collected $400.00 from pot
+oneplusone: doesn't show hand
+*** SUMMARY ***
+Total pot $400.00 | Rake $0.00
+Seat 2: oneplusone (big blind) collected ($400.00)
+Seat 7: DoublelegTD (button) (small blind) folded before Flop
+
+PokerStars Hand #1529239379:  Hold'em No Limit ($200.00/$400.00 USD) - 2023/01/19 22:05:29 ET
+Table 'WPN_7 Day No Rathole 200/400 NLH - Limited Time' 9-max Seat #2 is the button
+Seat 2: oneplusone ($16257.33 in chips)
+Seat 7: DoublelegTD ($12482.04 in chips)
+oneplusone: posts small blind $200.00
+DoublelegTD: posts big blind $400.00
+*** HOLE CARDS ***
+oneplusone: raises $400.00 to $800.00
+DoublelegTD: folds
+Uncalled bet ($400.00) returned to oneplusone
+oneplusone collected $800.00 from pot
+oneplusone: doesn't show hand
+*** SUMMARY ***
+Total pot $800.00 | Rake $0.00
+Seat 2: oneplusone (button) (small blind) collected ($800.00)
+Seat 7: DoublelegTD (big blind) folded before Flop
+
+PokerStars Hand #1529239715:  Hold'em No Limit ($200.00/$400.00 USD) - 2023/01/19 22:05:41 ET
+Table 'WPN_7 Day No Rathole 200/400 NLH - Limited Time' 9-max Seat #7 is the button
+Seat 2: oneplusone ($16657.33 in chips)
+Seat 7: DoublelegTD ($12082.04 in chips)
+DoublelegTD: posts small blind $200.00
+oneplusone: posts big blind $400.00
+*** HOLE CARDS ***
+DoublelegTD: raises $400.00 to $800.00
+oneplusone: raises $1600.00 to $2400.00
+DoublelegTD: folds
+Uncalled bet ($1600.00) returned to oneplusone
+oneplusone collected $1600.00 from pot
+oneplusone: doesn't show hand
+*** SUMMARY ***
+Total pot $1600.00 | Rake $0.00
+Seat 2: oneplusone (big blind) collected ($1600.00)
+Seat 7: DoublelegTD (button) (small blind) folded before Flop
+
+PokerStars Hand #1529240126:  Hold'em No Limit ($200.00/$400.00 USD) - 2023/01/19 22:05:57 ET
+Table 'WPN_7 Day No Rathole 200/400 NLH - Limited Time' 9-max Seat #2 is the button
+Seat 2: oneplusone ($17457.33 in chips)
+Seat 7: DoublelegTD ($11282.04 in chips)
+oneplusone: posts small blind $200.00
+DoublelegTD: posts big blind $400.00
+*** HOLE CARDS ***
+oneplusone: raises $400.00 to $800.00
+DoublelegTD: calls $400.00
+*** FLOP *** [8h 3d Jh]
+DoublelegTD: checks
+oneplusone: bets $400.00
+DoublelegTD: calls $400.00
+*** TURN *** [8h 3d Jh] [Qs]
+DoublelegTD: checks
+oneplusone: bets $2400.00
+DoublelegTD: folds
+Uncalled bet ($2400.00) returned to oneplusone
+oneplusone collected $2398.75 from pot
+oneplusone: doesn't show hand
+*** SUMMARY ***
+Total pot $2400.00 | Rake $1.25
+Board [8h 3d Jh Qs]
+Seat 2: oneplusone (button) (small blind) collected ($2398.75)
+Seat 7: DoublelegTD (big blind) folded on the Turn
+
+PokerStars Hand #1529241079:  Hold'em No Limit ($200.00/$400.00 USD) - 2023/01/19 22:06:32 ET
+Table 'WPN_7 Day No Rathole 200/400 NLH - Limited Time' 9-max Seat #7 is the button
+Seat 2: oneplusone ($18656.08 in chips)
+Seat 7: DoublelegTD ($10082.04 in chips)
+DoublelegTD: posts small blind $200.00
+oneplusone: posts big blind $400.00
+*** HOLE CARDS ***
+DoublelegTD: raises $400.00 to $800.00
+oneplusone: calls $400.00
+*** FLOP *** [Ad 7d 9c]
+oneplusone: checks
+DoublelegTD: bets $480.00
+oneplusone: folds
+Uncalled bet ($480.00) returned to DoublelegTD
+DoublelegTD collected $1598.75 from pot
+DoublelegTD: doesn't show hand
+*** SUMMARY ***
+Total pot $1600.00 | Rake $1.25
+Board [Ad 7d 9c]
+Seat 2: oneplusone (big blind) folded on the Flop
+Seat 7: DoublelegTD (button) (small blind) collected ($1598.75)
+
+PokerStars Hand #1529241507:  Hold'em No Limit ($200.00/$400.00 USD) - 2023/01/19 22:06:49 ET
+Table 'WPN_7 Day No Rathole 200/400 NLH - Limited Time' 9-max Seat #2 is the button
+Seat 2: oneplusone ($17856.08 in chips)
+Seat 7: DoublelegTD ($10880.79 in chips)
+oneplusone: posts small blind $200.00
+DoublelegTD: posts big blind $400.00
+*** HOLE CARDS ***
+oneplusone: raises $400.00 to $800.00
+DoublelegTD: folds
+Uncalled bet ($400.00) returned to oneplusone
+oneplusone collected $800.00 from pot
+oneplusone: doesn't show hand
+*** SUMMARY ***
+Total pot $800.00 | Rake $0.00
+Seat 2: oneplusone (button) (small blind) collected ($800.00)
+Seat 7: DoublelegTD (big blind) folded before Flop
+
+PokerStars Hand #1529241816:  Hold'em No Limit ($200.00/$400.00 USD) - 2023/01/19 22:07:01 ET
+Table 'WPN_7 Day No Rathole 200/400 NLH - Limited Time' 9-max Seat #7 is the button
+Seat 2: oneplusone ($18256.08 in chips)
+Seat 7: DoublelegTD ($10480.79 in chips)
+DoublelegTD: posts small blind $200.00
+oneplusone: posts big blind $400.00
+*** HOLE CARDS ***
+DoublelegTD: calls $200.00
+oneplusone: raises $800.00 to $1200.00
+DoublelegTD: folds
+Uncalled bet ($800.00) returned to oneplusone
+oneplusone collected $800.00 from pot
+oneplusone: doesn't show hand
+*** SUMMARY ***
+Total pot $800.00 | Rake $0.00
+Seat 2: oneplusone (big blind) collected ($800.00)
+Seat 7: DoublelegTD (button) (small blind) folded before Flop
+
+PokerStars Hand #1529245915:  Hold'em No Limit ($200.00/$400.00 USD) - 2023/01/19 22:09:34 ET
+Table 'WPN_7 Day No Rathole 200/400 NLH - Limited Time' 9-max Seat #7 is the button
+Seat 2: b00ma ($4798.75 in chips)
+Seat 7: DoublelegTD ($10080.79 in chips)
+DoublelegTD: posts small blind $200.00
+b00ma: posts big blind $400.00
+*** HOLE CARDS ***
+DoublelegTD: calls $200.00
+b00ma: checks
+*** FLOP *** [9s Jd Kh]
+b00ma: checks
+DoublelegTD: checks
+*** TURN *** [9s Jd Kh] [Qc]
+b00ma: checks
+DoublelegTD: bets $400.00
+b00ma: folds
+Uncalled bet ($400.00) returned to DoublelegTD
+DoublelegTD collected $798.75 from pot
+DoublelegTD: doesn't show hand
+*** SUMMARY ***
+Total pot $800.00 | Rake $1.25
+Board [9s Jd Kh Qc]
+Seat 2: b00ma (big blind) folded on the Turn
+Seat 7: DoublelegTD (button) (small blind) collected ($798.75)
+
+PokerStars Hand #1529247565:  Hold'em No Limit ($200.00/$400.00 USD) - 2023/01/19 22:10:34 ET
+Table 'WPN_7 Day No Rathole 200/400 NLH - Limited Time' 9-max Seat #7 is the button
+Seat 2: b00ma ($4398.75 in chips)
+Seat 3: oneplusone ($18656.08 in chips)
+Seat 4: Sabazius ($10882.33 in chips)
+Seat 7: DoublelegTD ($10479.54 in chips)
+b00ma: posts small blind $200.00
+oneplusone: posts big blind $400.00
+*** HOLE CARDS ***
+DoublelegTD: raises $400.00 to $800.00
+b00ma: folds
+oneplusone: raises $1600.00 to $2400.00
+DoublelegTD: folds
+Uncalled bet ($1600.00) returned to oneplusone
+oneplusone collected $1800.00 from pot
+oneplusone: doesn't show hand
+*** SUMMARY ***
+Total pot $1800.00 | Rake $0.00
+Seat 2: b00ma (small blind) folded before Flop
+Seat 3: oneplusone (big blind) collected ($1800.00)
+Seat 7: DoublelegTD (button) folded before Flop
+
+PokerStars Hand #1529248171:  Hold'em No Limit ($200.00/$400.00 USD) - 2023/01/19 22:10:56 ET
+Table 'WPN_7 Day No Rathole 200/400 NLH - Limited Time' 9-max Seat #2 is the button
+Seat 2: b00ma ($4198.75 in chips)
+Seat 3: oneplusone ($19656.08 in chips)
+Seat 4: Sabazius ($10882.33 in chips)
+Seat 7: DoublelegTD ($9679.54 in chips)
+oneplusone: posts small blind $200.00
+Sabazius: posts big blind $400.00
+*** HOLE CARDS ***
+DoublelegTD: folds
+b00ma: folds
+oneplusone: folds
+Uncalled bet ($200.00) returned to Sabazius
+Sabazius collected $400.00 from pot
+Sabazius: doesn't show hand
+*** SUMMARY ***
+Total pot $400.00 | Rake $0.00
+Seat 2: b00ma (button) folded before Flop (didn't bet)
+Seat 3: oneplusone (small blind) folded before Flop
+Seat 4: Sabazius (big blind) collected ($400.00)
+Seat 7: DoublelegTD folded before Flop (didn't bet)
+
+PokerStars Hand #1529248428:  Hold'em No Limit ($200.00/$400.00 USD) - 2023/01/19 22:11:06 ET
+Table 'WPN_7 Day No Rathole 200/400 NLH - Limited Time' 9-max Seat #3 is the button
+Seat 2: b00ma ($4198.75 in chips)
+Seat 3: oneplusone ($19456.08 in chips)
+Seat 4: Sabazius ($11082.33 in chips)
+Seat 7: DoublelegTD ($9679.54 in chips)
+Sabazius: posts small blind $200.00
+DoublelegTD: posts big blind $400.00
+*** HOLE CARDS ***
+b00ma: folds
+oneplusone: folds
+Sabazius: folds
+Uncalled bet ($200.00) returned to DoublelegTD
+DoublelegTD collected $400.00 from pot
+DoublelegTD: doesn't show hand
+*** SUMMARY ***
+Total pot $400.00 | Rake $0.00
+Seat 2: b00ma folded before Flop (didn't bet)
+Seat 3: oneplusone (button) folded before Flop (didn't bet)
+Seat 4: Sabazius (small blind) folded before Flop
+Seat 7: DoublelegTD (big blind) collected ($400.00)
+
+PokerStars Hand #1529333119:  Hold'em No Limit ($200.00/$400.00 USD) - 2023/01/19 23:07:17 ET
+Table 'WPN_7 Day No Rathole 200/400 NLH - Limited Time' 9-max Seat #7 is the button
+Seat 2: recruitme ($4000.00 in chips)
+Seat 7: DoublelegTD ($9879.54 in chips)
+DoublelegTD: posts small blind $200.00
+recruitme: posts big blind $400.00
+*** HOLE CARDS ***
+DoublelegTD: raises $4400.00 to $4800.00
+recruitme: calls $3600.00 and is all-in
+Uncalled bet ($800.00) returned to DoublelegTD
+*** FLOP *** [Qd 9s 5s]
+*** TURN *** [Qd 9s 5s] [Kh]
+*** RIVER *** [Qd 9s 5s Kh] [Kc]
+*** SHOW DOWN ***
+DoublelegTD: shows [5c 5h]
+recruitme: shows [7h 7d]
+DoublelegTD collected $7998.75 from pot
+*** SUMMARY ***
+Total pot $8000.00 | Rake $1.25
+Board [Qd 9s 5s Kh Kc]
+Seat 2: recruitme (big blind) showed [7h 7d] and lost
+Seat 7: DoublelegTD (button) (small blind) showed [5c 5h] and won ($7998.75)
+
+PokerStars Hand #1529334188:  Hold'em No Limit ($200.00/$400.00 USD) - 2023/01/19 23:07:53 ET
+Table 'WPN_7 Day No Rathole 200/400 NLH - Limited Time' 9-max Seat #7 is the button
+Seat 2: oneplusone ($19456.08 in chips)
+Seat 7: DoublelegTD ($13878.29 in chips)
+DoublelegTD: posts small blind $200.00
+oneplusone: posts big blind $400.00
+*** HOLE CARDS ***
+DoublelegTD: raises $400.00 to $800.00
+oneplusone: calls $400.00
+*** FLOP *** [Jc Ts Ac]
+oneplusone: checks
+DoublelegTD: bets $480.00
+oneplusone: calls $480.00
+*** TURN *** [Jc Ts Ac] [4h]
+oneplusone: checks
+DoublelegTD: bets $3160.00
+oneplusone: folds
+Uncalled bet ($3160.00) returned to DoublelegTD
+DoublelegTD collected $2558.75 from pot
+DoublelegTD: doesn't show hand
+*** SUMMARY ***
+Total pot $2560.00 | Rake $1.25
+Board [Jc Ts Ac 4h]
+Seat 2: oneplusone (big blind) folded on the Turn
+Seat 7: DoublelegTD (button) (small blind) collected ($2558.75)
+
+PokerStars Hand #1529336032:  Hold'em No Limit ($200.00/$400.00 USD) - 2023/01/19 23:08:59 ET
+Table 'WPN_7 Day No Rathole 200/400 NLH - Limited Time' 9-max Seat #2 is the button
+Seat 2: oneplusone ($18176.08 in chips)
+Seat 7: DoublelegTD ($15157.04 in chips)
+oneplusone: posts small blind $200.00
+DoublelegTD: posts big blind $400.00
+*** HOLE CARDS ***
+oneplusone: raises $400.00 to $800.00
+DoublelegTD: calls $400.00
+*** FLOP *** [8c 4h Ts]
+DoublelegTD: checks
+oneplusone: checks
+*** TURN *** [8c 4h Ts] [5s]
+DoublelegTD: bets $1200.00
+oneplusone: calls $1200.00
+*** RIVER *** [8c 4h Ts 5s] [Ah]
+DoublelegTD: checks
+oneplusone: checks
+*** SHOW DOWN ***
+DoublelegTD: shows [Th 9s]
+oneplusone: mucks hand
+DoublelegTD collected $3998.75 from pot
+*** SUMMARY ***
+Total pot $4000.00 | Rake $1.25
+Board [8c 4h Ts 5s Ah]
+Seat 2: oneplusone (button) (small blind) mucked
+Seat 7: DoublelegTD (big blind) showed [Th 9s] and won ($3998.75)
+
+PokerStars Hand #1529338035:  Hold'em No Limit ($200.00/$400.00 USD) - 2023/01/19 23:10:09 ET
+Table 'WPN_7 Day No Rathole 200/400 NLH - Limited Time' 9-max Seat #7 is the button
+Seat 2: oneplusone ($16176.08 in chips)
+Seat 7: DoublelegTD ($17155.79 in chips)
+DoublelegTD: posts small blind $200.00
+oneplusone: posts big blind $400.00
+*** HOLE CARDS ***
+DoublelegTD: calls $200.00
+oneplusone: checks
+*** FLOP *** [2c Qh 3h]
+oneplusone: checks
+DoublelegTD: bets $400.00
+oneplusone: calls $400.00
+*** TURN *** [2c Qh 3h] [6s]
+oneplusone: checks
+DoublelegTD: checks
+*** RIVER *** [2c Qh 3h 6s] [9d]
+oneplusone: checks
+DoublelegTD: checks
+*** SHOW DOWN ***
+DoublelegTD: shows [3c 7c]
+oneplusone: mucks hand
+DoublelegTD collected $1598.75 from pot
+*** SUMMARY ***
+Total pot $1600.00 | Rake $1.25
+Board [2c Qh 3h 6s 9d]
+Seat 2: oneplusone (big blind) mucked
+Seat 7: DoublelegTD (button) (small blind) showed [3c 7c] and won ($1598.75)
+
+PokerStars Hand #1529339529:  Hold'em No Limit ($200.00/$400.00 USD) - 2023/01/19 23:11:01 ET
+Table 'WPN_7 Day No Rathole 200/400 NLH - Limited Time' 9-max Seat #2 is the button
+Seat 2: oneplusone ($15376.08 in chips)
+Seat 7: DoublelegTD ($17954.54 in chips)
+oneplusone: posts small blind $200.00
+DoublelegTD: posts big blind $400.00
+*** HOLE CARDS ***
+oneplusone: raises $400.00 to $800.00
+DoublelegTD: calls $400.00
+*** FLOP *** [9c 4s 8d]
+DoublelegTD: checks
+oneplusone: checks
+*** TURN *** [9c 4s 8d] [6s]
+DoublelegTD: checks
+oneplusone: checks
+*** RIVER *** [9c 4s 8d 6s] [Th]
+DoublelegTD: bets $1200.00
+oneplusone: folds
+Uncalled bet ($1200.00) returned to DoublelegTD
+DoublelegTD collected $1598.75 from pot
+DoublelegTD: doesn't show hand
+*** SUMMARY ***
+Total pot $1600.00 | Rake $1.25
+Board [9c 4s 8d 6s Th]
+Seat 2: oneplusone (button) (small blind) folded on the River
+Seat 7: DoublelegTD (big blind) collected ($1598.75)
+
+PokerStars Hand #1529341210:  Hold'em No Limit ($200.00/$400.00 USD) - 2023/01/19 23:12:02 ET
+Table 'WPN_7 Day No Rathole 200/400 NLH - Limited Time' 9-max Seat #7 is the button
+Seat 2: oneplusone ($14576.08 in chips)
+Seat 7: DoublelegTD ($18753.29 in chips)
+DoublelegTD: posts small blind $200.00
+oneplusone: posts big blind $400.00
+*** HOLE CARDS ***
+DoublelegTD: raises $400.00 to $800.00
+oneplusone: calls $400.00
+*** FLOP *** [3d 4h 9d]
+oneplusone: checks
+DoublelegTD: bets $800.00
+oneplusone: folds
+Uncalled bet ($800.00) returned to DoublelegTD
+DoublelegTD collected $1598.75 from pot
+DoublelegTD: doesn't show hand
+*** SUMMARY ***
+Total pot $1600.00 | Rake $1.25
+Board [3d 4h 9d]
+Seat 2: oneplusone (big blind) folded on the Flop
+Seat 7: DoublelegTD (button) (small blind) collected ($1598.75)
+
+PokerStars Hand #1529342143:  Hold'em No Limit ($200.00/$400.00 USD) - 2023/01/19 23:12:35 ET
+Table 'WPN_7 Day No Rathole 200/400 NLH - Limited Time' 9-max Seat #2 is the button
+Seat 2: oneplusone ($13776.08 in chips)
+Seat 7: DoublelegTD ($19552.04 in chips)
+oneplusone: posts small blind $200.00
+DoublelegTD: posts big blind $400.00
+*** HOLE CARDS ***
+oneplusone: folds
+Uncalled bet ($200.00) returned to DoublelegTD
+DoublelegTD collected $400.00 from pot
+DoublelegTD: doesn't show hand
+*** SUMMARY ***
+Total pot $400.00 | Rake $0.00
+Seat 2: oneplusone (button) (small blind) folded before Flop
+Seat 7: DoublelegTD (big blind) collected ($400.00)
+
+PokerStars Hand #1529342449:  Hold'em No Limit ($200.00/$400.00 USD) - 2023/01/19 23:12:46 ET
+Table 'WPN_7 Day No Rathole 200/400 NLH - Limited Time' 9-max Seat #7 is the button
+Seat 2: oneplusone ($13576.08 in chips)
+Seat 7: DoublelegTD ($19752.04 in chips)
+DoublelegTD: posts small blind $200.00
+oneplusone: posts big blind $400.00
+*** HOLE CARDS ***
+DoublelegTD: raises $400.00 to $800.00
+oneplusone: raises $1600.00 to $2400.00
+DoublelegTD: folds
+Uncalled bet ($1600.00) returned to oneplusone
+oneplusone collected $1600.00 from pot
+oneplusone: doesn't show hand
+*** SUMMARY ***
+Total pot $1600.00 | Rake $0.00
+Seat 2: oneplusone (big blind) collected ($1600.00)
+Seat 7: DoublelegTD (button) (small blind) folded before Flop
+
+PokerStars Hand #1529343008:  Hold'em No Limit ($200.00/$400.00 USD) - 2023/01/19 23:13:06 ET
+Table 'WPN_7 Day No Rathole 200/400 NLH - Limited Time' 9-max Seat #2 is the button
+Seat 2: oneplusone ($14376.08 in chips)
+Seat 7: DoublelegTD ($18952.04 in chips)
+oneplusone: posts small blind $200.00
+DoublelegTD: posts big blind $400.00
+*** HOLE CARDS ***
+oneplusone: folds
+Uncalled bet ($200.00) returned to DoublelegTD
+DoublelegTD collected $400.00 from pot
+DoublelegTD: doesn't show hand
+*** SUMMARY ***
+Total pot $400.00 | Rake $0.00
+Seat 2: oneplusone (button) (small blind) folded before Flop
+Seat 7: DoublelegTD (big blind) collected ($400.00)
+
+PokerStars Hand #1529343252:  Hold'em No Limit ($200.00/$400.00 USD) - 2023/01/19 23:13:14 ET
+Table 'WPN_7 Day No Rathole 200/400 NLH - Limited Time' 9-max Seat #7 is the button
+Seat 2: oneplusone ($14176.08 in chips)
+Seat 7: DoublelegTD ($19152.04 in chips)
+DoublelegTD: posts small blind $200.00
+oneplusone: posts big blind $400.00
+*** HOLE CARDS ***
+DoublelegTD: raises $400.00 to $800.00
+oneplusone: raises $1600.00 to $2400.00
+DoublelegTD: calls $1600.00
+*** FLOP *** [5s As Js]
+oneplusone: checks
+DoublelegTD: checks
+*** TURN *** [5s As Js] [7c]
+oneplusone: bets $3600.00
+DoublelegTD: folds
+Uncalled bet ($3600.00) returned to oneplusone
+oneplusone collected $4798.75 from pot
+oneplusone: doesn't show hand
+*** SUMMARY ***
+Total pot $4800.00 | Rake $1.25
+Board [5s As Js 7c]
+Seat 2: oneplusone (big blind) collected ($4798.75)
+Seat 7: DoublelegTD (button) (small blind) folded on the Turn
+
+PokerStars Hand #1529345313:  Hold'em No Limit ($200.00/$400.00 USD) - 2023/01/19 23:14:24 ET
+Table 'WPN_7 Day No Rathole 200/400 NLH - Limited Time' 9-max Seat #2 is the button
+Seat 2: oneplusone ($16574.83 in chips)
+Seat 7: DoublelegTD ($16752.04 in chips)
+oneplusone: posts small blind $200.00
+DoublelegTD: posts big blind $400.00
+*** HOLE CARDS ***
+oneplusone: raises $400.00 to $800.00
+DoublelegTD: calls $400.00
+*** FLOP *** [6d As Jh]
+DoublelegTD: checks
+oneplusone: checks
+*** TURN *** [6d As Jh] [8h]
+DoublelegTD: checks
+oneplusone: checks
+*** RIVER *** [6d As Jh 8h] [9c]
+DoublelegTD: bets $480.00
+oneplusone: folds
+Uncalled bet ($480.00) returned to DoublelegTD
+DoublelegTD collected $1598.75 from pot
+DoublelegTD: doesn't show hand
+*** SUMMARY ***
+Total pot $1600.00 | Rake $1.25
+Board [6d As Jh 8h 9c]
+Seat 2: oneplusone (button) (small blind) folded on the River
+Seat 7: DoublelegTD (big blind) collected ($1598.75)
+
+PokerStars Hand #1529347462:  Hold'em No Limit ($200.00/$400.00 USD) - 2023/01/19 23:15:41 ET
+Table 'WPN_7 Day No Rathole 200/400 NLH - Limited Time' 9-max Seat #7 is the button
+Seat 2: oneplusone ($15774.83 in chips)
+Seat 7: DoublelegTD ($17550.79 in chips)
+DoublelegTD: posts small blind $200.00
+oneplusone: posts big blind $400.00
+*** HOLE CARDS ***
+DoublelegTD: calls $200.00
+oneplusone: checks
+*** FLOP *** [Tc 8c 4c]
+oneplusone: checks
+DoublelegTD: bets $400.00
+oneplusone: folds
+Uncalled bet ($400.00) returned to DoublelegTD
+DoublelegTD collected $798.75 from pot
+DoublelegTD: doesn't show hand
+*** SUMMARY ***
+Total pot $800.00 | Rake $1.25
+Board [Tc 8c 4c]
+Seat 2: oneplusone (big blind) folded on the Flop
+Seat 7: DoublelegTD (button) (small blind) collected ($798.75)
+
+PokerStars Hand #1529348718:  Hold'em No Limit ($200.00/$400.00 USD) - 2023/01/19 23:16:25 ET
+Table 'WPN_7 Day No Rathole 200/400 NLH - Limited Time' 9-max Seat #2 is the button
+Seat 2: oneplusone ($15374.83 in chips)
+Seat 7: DoublelegTD ($17949.54 in chips)
+oneplusone: posts small blind $200.00
+DoublelegTD: posts big blind $400.00
+*** HOLE CARDS ***
+oneplusone: raises $400.00 to $800.00
+DoublelegTD: calls $400.00
+*** FLOP *** [4d Ks Kd]
+DoublelegTD: checks
+oneplusone: bets $400.00
+DoublelegTD: calls $400.00
+*** TURN *** [4d Ks Kd] [8h]
+DoublelegTD: checks
+oneplusone: checks
+*** RIVER *** [4d Ks Kd 8h] [7s]
+DoublelegTD: checks
+oneplusone: checks
+*** SHOW DOWN ***
+DoublelegTD: shows [6s 5d]
+oneplusone: mucks hand
+DoublelegTD collected $2398.75 from pot
+*** SUMMARY ***
+Total pot $2400.00 | Rake $1.25
+Board [4d Ks Kd 8h 7s]
+Seat 2: oneplusone (button) (small blind) mucked
+Seat 7: DoublelegTD (big blind) showed [6s 5d] and won ($2398.75)
+
+PokerStars Hand #1529350562:  Hold'em No Limit ($200.00/$400.00 USD) - 2023/01/19 23:17:31 ET
+Table 'WPN_7 Day No Rathole 200/400 NLH - Limited Time' 9-max Seat #7 is the button
+Seat 2: oneplusone ($14174.83 in chips)
+Seat 7: DoublelegTD ($19148.29 in chips)
+DoublelegTD: posts small blind $200.00
+oneplusone: posts big blind $400.00
+*** HOLE CARDS ***
+DoublelegTD: calls $200.00
+oneplusone: raises $1800.00 to $2200.00
+DoublelegTD: folds
+Uncalled bet ($1800.00) returned to oneplusone
+oneplusone collected $800.00 from pot
+oneplusone: doesn't show hand
+*** SUMMARY ***
+Total pot $800.00 | Rake $0.00
+Seat 2: oneplusone (big blind) collected ($800.00)
+Seat 7: DoublelegTD (button) (small blind) folded before Flop
+
+PokerStars Hand #1529351204:  Hold'em No Limit ($200.00/$400.00 USD) - 2023/01/19 23:17:54 ET
+Table 'WPN_7 Day No Rathole 200/400 NLH - Limited Time' 9-max Seat #2 is the button
+Seat 2: oneplusone ($14574.83 in chips)
+Seat 7: DoublelegTD ($18748.29 in chips)
+oneplusone: posts small blind $200.00
+DoublelegTD: posts big blind $400.00
+*** HOLE CARDS ***
+oneplusone: raises $400.00 to $800.00
+DoublelegTD: calls $400.00
+*** FLOP *** [6s Jh 7h]
+DoublelegTD: checks
+oneplusone: bets $1200.00
+DoublelegTD: folds
+Uncalled bet ($1200.00) returned to oneplusone
+oneplusone collected $1598.75 from pot
+oneplusone: doesn't show hand
+*** SUMMARY ***
+Total pot $1600.00 | Rake $1.25
+Board [6s Jh 7h]
+Seat 2: oneplusone (button) (small blind) collected ($1598.75)
+Seat 7: DoublelegTD (big blind) folded on the Flop
+
+PokerStars Hand #1529351791:  Hold'em No Limit ($200.00/$400.00 USD) - 2023/01/19 23:18:14 ET
+Table 'WPN_7 Day No Rathole 200/400 NLH - Limited Time' 9-max Seat #7 is the button
+Seat 2: oneplusone ($15373.58 in chips)
+Seat 7: DoublelegTD ($17948.29 in chips)
+DoublelegTD: posts small blind $200.00
+oneplusone: posts big blind $400.00
+*** HOLE CARDS ***
+DoublelegTD: raises $400.00 to $800.00
+oneplusone: calls $400.00
+*** FLOP *** [Jh 9h Ad]
+oneplusone: checks
+DoublelegTD: bets $480.00
+oneplusone: calls $480.00
+*** TURN *** [Jh 9h Ad] [5d]
+oneplusone: checks
+DoublelegTD: checks
+*** RIVER *** [Jh 9h Ad 5d] [Qc]
+oneplusone: checks
+DoublelegTD: checks
+*** SHOW DOWN ***
+oneplusone: shows [9s Td]
+DoublelegTD: mucks hand
+oneplusone collected $2558.75 from pot
+*** SUMMARY ***
+Total pot $2560.00 | Rake $1.25
+Board [Jh 9h Ad 5d Qc]
+Seat 2: oneplusone (big blind) showed [9s Td] and won ($2558.75)
+Seat 7: DoublelegTD (button) (small blind) mucked
+
+PokerStars Hand #1529353499:  Hold'em No Limit ($200.00/$400.00 USD) - 2023/01/19 23:19:14 ET
+Table 'WPN_7 Day No Rathole 200/400 NLH - Limited Time' 9-max Seat #2 is the button
+Seat 2: oneplusone ($16652.33 in chips)
+Seat 7: DoublelegTD ($16668.29 in chips)
+oneplusone: posts small blind $200.00
+DoublelegTD: posts big blind $400.00
+*** HOLE CARDS ***
+oneplusone: raises $400.00 to $800.00
+DoublelegTD: folds
+Uncalled bet ($400.00) returned to oneplusone
+oneplusone collected $800.00 from pot
+oneplusone: doesn't show hand
+*** SUMMARY ***
+Total pot $800.00 | Rake $0.00
+Seat 2: oneplusone (button) (small blind) collected ($800.00)
+Seat 7: DoublelegTD (big blind) folded before Flop
+
+PokerStars Hand #1529353872:  Hold'em No Limit ($200.00/$400.00 USD) - 2023/01/19 23:19:27 ET
+Table 'WPN_7 Day No Rathole 200/400 NLH - Limited Time' 9-max Seat #7 is the button
+Seat 2: oneplusone ($17052.33 in chips)
+Seat 7: DoublelegTD ($16268.29 in chips)
+DoublelegTD: posts small blind $200.00
+oneplusone: posts big blind $400.00
+*** HOLE CARDS ***
+DoublelegTD: raises $400.00 to $800.00
+oneplusone: calls $400.00
+*** FLOP *** [6s Th 2d]
+oneplusone: checks
+DoublelegTD: checks
+*** TURN *** [6s Th 2d] [6d]
+oneplusone: checks
+DoublelegTD: bets $1200.00
+oneplusone: calls $1200.00
+*** RIVER *** [6s Th 2d 6d] [Jc]
+oneplusone: checks
+DoublelegTD: bets $4000.00
+oneplusone: calls $4000.00
+*** SHOW DOWN ***
+oneplusone: shows [Kd Jd]
+DoublelegTD: mucks hand
+oneplusone collected $11998.75 from pot
+*** SUMMARY ***
+Total pot $12000.00 | Rake $1.25
+Board [6s Th 2d 6d Jc]
+Seat 2: oneplusone (big blind) showed [Kd Jd] and won ($11998.75)
+Seat 7: DoublelegTD (button) (small blind) mucked
+
+PokerStars Hand #1529356036:  Hold'em No Limit ($200.00/$400.00 USD) - 2023/01/19 23:20:41 ET
+Table 'WPN_7 Day No Rathole 200/400 NLH - Limited Time' 9-max Seat #2 is the button
+Seat 2: oneplusone ($23051.08 in chips)
+Seat 7: DoublelegTD ($10268.29 in chips)
+oneplusone: posts small blind $200.00
+DoublelegTD: posts big blind $400.00
+*** HOLE CARDS ***
+oneplusone: raises $400.00 to $800.00
+DoublelegTD: raises $1600.00 to $2400.00
+oneplusone: calls $1600.00
+*** FLOP *** [Qs 4d 4h]
+DoublelegTD: checks
+oneplusone: checks
+*** TURN *** [Qs 4d 4h] [7c]
+DoublelegTD: bets $1440.00
+oneplusone: calls $1440.00
+*** RIVER *** [Qs 4d 4h 7c] [2d]
+DoublelegTD: bets $6428.29 and is all-in
+oneplusone: folds
+Uncalled bet ($6428.29) returned to DoublelegTD
+DoublelegTD collected $7678.75 from pot
+DoublelegTD: doesn't show hand
+*** SUMMARY ***
+Total pot $7680.00 | Rake $1.25
+Board [Qs 4d 4h 7c 2d]
+Seat 2: oneplusone (button) (small blind) folded on the River
+Seat 7: DoublelegTD (big blind) collected ($7678.75)
+
+PokerStars Hand #1529358594:  Hold'em No Limit ($200.00/$400.00 USD) - 2023/01/19 23:22:12 ET
+Table 'WPN_7 Day No Rathole 200/400 NLH - Limited Time' 9-max Seat #7 is the button
+Seat 2: oneplusone ($19211.08 in chips)
+Seat 7: DoublelegTD ($14107.04 in chips)
+DoublelegTD: posts small blind $200.00
+oneplusone: posts big blind $400.00
+*** HOLE CARDS ***
+DoublelegTD: folds
+Uncalled bet ($200.00) returned to oneplusone
+oneplusone collected $400.00 from pot
+oneplusone: doesn't show hand
+*** SUMMARY ***
+Total pot $400.00 | Rake $0.00
+Seat 2: oneplusone (big blind) collected ($400.00)
+Seat 7: DoublelegTD (button) (small blind) folded before Flop
+
+PokerStars Hand #1529358859:  Hold'em No Limit ($200.00/$400.00 USD) - 2023/01/19 23:22:22 ET
+Table 'WPN_7 Day No Rathole 200/400 NLH - Limited Time' 9-max Seat #2 is the button
+Seat 2: oneplusone ($19411.08 in chips)
+Seat 7: DoublelegTD ($13907.04 in chips)
+oneplusone: posts small blind $200.00
+DoublelegTD: posts big blind $400.00
+*** HOLE CARDS ***
+oneplusone: raises $400.00 to $800.00
+DoublelegTD: raises $13107.04 to $13907.04 and is all-in
+oneplusone: folds
+Uncalled bet ($13107.04) returned to DoublelegTD
+DoublelegTD collected $1600.00 from pot
+DoublelegTD: doesn't show hand
+*** SUMMARY ***
+Total pot $1600.00 | Rake $0.00
+Seat 2: oneplusone (button) (small blind) folded before Flop
+Seat 7: DoublelegTD (big blind) collected ($1600.00)
+
+PokerStars Hand #1529359315:  Hold'em No Limit ($200.00/$400.00 USD) - 2023/01/19 23:22:38 ET
+Table 'WPN_7 Day No Rathole 200/400 NLH - Limited Time' 9-max Seat #7 is the button
+Seat 2: oneplusone ($18611.08 in chips)
+Seat 7: DoublelegTD ($14707.04 in chips)
+DoublelegTD: posts small blind $200.00
+oneplusone: posts big blind $400.00
+*** HOLE CARDS ***
+DoublelegTD: raises $400.00 to $800.00
+oneplusone: calls $400.00
+*** FLOP *** [Jd 6s Jc]
+oneplusone: checks
+DoublelegTD: checks
+*** TURN *** [Jd 6s Jc] [Tc]
+oneplusone: checks
+DoublelegTD: checks
+*** RIVER *** [Jd 6s Jc Tc] [9d]
+oneplusone: checks
+DoublelegTD: bets $1200.00
+oneplusone: folds
+Uncalled bet ($1200.00) returned to DoublelegTD
+DoublelegTD collected $1598.75 from pot
+DoublelegTD: doesn't show hand
+*** SUMMARY ***
+Total pot $1600.00 | Rake $1.25
+Board [Jd 6s Jc Tc 9d]
+Seat 2: oneplusone (big blind) folded on the River
+Seat 7: DoublelegTD (button) (small blind) collected ($1598.75)
+
+PokerStars Hand #1529361137:  Hold'em No Limit ($200.00/$400.00 USD) - 2023/01/19 23:23:43 ET
+Table 'WPN_7 Day No Rathole 200/400 NLH - Limited Time' 9-max Seat #2 is the button
+Seat 2: oneplusone ($17811.08 in chips)
+Seat 7: DoublelegTD ($15505.79 in chips)
+oneplusone: posts small blind $200.00
+DoublelegTD: posts big blind $400.00
+*** HOLE CARDS ***
+oneplusone: raises $400.00 to $800.00
+DoublelegTD: folds
+Uncalled bet ($400.00) returned to oneplusone
+oneplusone collected $800.00 from pot
+oneplusone: doesn't show hand
+*** SUMMARY ***
+Total pot $800.00 | Rake $0.00
+Seat 2: oneplusone (button) (small blind) collected ($800.00)
+Seat 7: DoublelegTD (big blind) folded before Flop
+
+PokerStars Hand #1529361771:  Hold'em No Limit ($200.00/$400.00 USD) - 2023/01/19 23:24:05 ET
+Table 'WPN_7 Day No Rathole 200/400 NLH - Limited Time' 9-max Seat #7 is the button
+Seat 2: oneplusone ($18211.08 in chips)
+Seat 7: DoublelegTD ($15105.79 in chips)
+DoublelegTD: posts small blind $200.00
+oneplusone: posts big blind $400.00
+*** HOLE CARDS ***
+DoublelegTD: raises $400.00 to $800.00
+oneplusone: raises $1800.00 to $2600.00
+DoublelegTD: calls $1800.00
+*** FLOP *** [Jd 3h 4s]
+oneplusone: bets $1716.00
+DoublelegTD: calls $1716.00
+*** TURN *** [Jd 3h 4s] [8c]
+oneplusone: bets $4316.00
+DoublelegTD: folds
+Uncalled bet ($4316.00) returned to oneplusone
+oneplusone collected $8630.75 from pot
+oneplusone: doesn't show hand
+*** SUMMARY ***
+Total pot $8632.00 | Rake $1.25
+Board [Jd 3h 4s 8c]
+Seat 2: oneplusone (big blind) collected ($8630.75)
+Seat 7: DoublelegTD (button) (small blind) folded on the Turn
+
+PokerStars Hand #1529363516:  Hold'em No Limit ($200.00/$400.00 USD) - 2023/01/19 23:25:07 ET
+Table 'WPN_7 Day No Rathole 200/400 NLH - Limited Time' 9-max Seat #2 is the button
+Seat 2: oneplusone ($22525.83 in chips)
+Seat 7: DoublelegTD ($10789.79 in chips)
+oneplusone: posts small blind $200.00
+DoublelegTD: posts big blind $400.00
+*** HOLE CARDS ***
+oneplusone: calls $200.00
+DoublelegTD: checks
+*** FLOP *** [Jd 2h 8c]
+DoublelegTD: checks
+oneplusone: checks
+*** TURN *** [Jd 2h 8c] [Kh]
+DoublelegTD: checks
+oneplusone: checks
+*** RIVER *** [Jd 2h 8c Kh] [As]
+DoublelegTD: checks
+oneplusone: checks
+*** SHOW DOWN ***
+DoublelegTD: shows [Th Qd]
+oneplusone: mucks hand
+DoublelegTD collected $798.75 from pot
+*** SUMMARY ***
+Total pot $800.00 | Rake $1.25
+Board [Jd 2h 8c Kh As]
+Seat 2: oneplusone (button) (small blind) mucked
+Seat 7: DoublelegTD (big blind) showed [Th Qd] and won ($798.75)
+
+PokerStars Hand #1529364959:  Hold'em No Limit ($200.00/$400.00 USD) - 2023/01/19 23:25:58 ET
+Table 'WPN_7 Day No Rathole 200/400 NLH - Limited Time' 9-max Seat #7 is the button
+Seat 2: oneplusone ($22125.83 in chips)
+Seat 7: DoublelegTD ($11188.54 in chips)
+DoublelegTD: posts small blind $200.00
+oneplusone: posts big blind $400.00
+*** HOLE CARDS ***
+DoublelegTD: raises $400.00 to $800.00
+oneplusone: calls $400.00
+*** FLOP *** [Kc 4h As]
+oneplusone: checks
+DoublelegTD: bets $480.00
+oneplusone: calls $480.00
+*** TURN *** [Kc 4h As] [Kd]
+oneplusone: checks
+DoublelegTD: checks
+*** RIVER *** [Kc 4h As Kd] [Js]
+oneplusone: checks
+DoublelegTD: bets $1920.00
+oneplusone: folds
+Uncalled bet ($1920.00) returned to DoublelegTD
+DoublelegTD collected $2558.75 from pot
+DoublelegTD: doesn't show hand
+*** SUMMARY ***
+Total pot $2560.00 | Rake $1.25
+Board [Kc 4h As Kd Js]
+Seat 2: oneplusone (big blind) folded on the River
+Seat 7: DoublelegTD (button) (small blind) collected ($2558.75)
+
+PokerStars Hand #1529367539:  Hold'em No Limit ($200.00/$400.00 USD) - 2023/01/19 23:27:33 ET
+Table 'WPN_7 Day No Rathole 200/400 NLH - Limited Time' 9-max Seat #2 is the button
+Seat 2: oneplusone ($20845.83 in chips)
+Seat 7: DoublelegTD ($12467.29 in chips)
+oneplusone: posts small blind $200.00
+DoublelegTD: posts big blind $400.00
+*** HOLE CARDS ***
+oneplusone: folds
+Uncalled bet ($200.00) returned to DoublelegTD
+DoublelegTD collected $400.00 from pot
+DoublelegTD: doesn't show hand
+*** SUMMARY ***
+Total pot $400.00 | Rake $0.00
+Seat 2: oneplusone (button) (small blind) folded before Flop
+Seat 7: DoublelegTD (big blind) collected ($400.00)
+
+PokerStars Hand #1529367768:  Hold'em No Limit ($200.00/$400.00 USD) - 2023/01/19 23:27:42 ET
+Table 'WPN_7 Day No Rathole 200/400 NLH - Limited Time' 9-max Seat #7 is the button
+Seat 2: oneplusone ($20645.83 in chips)
+Seat 7: DoublelegTD ($12667.29 in chips)
+DoublelegTD: posts small blind $200.00
+oneplusone: posts big blind $400.00
+*** HOLE CARDS ***
+DoublelegTD: raises $400.00 to $800.00
+oneplusone: calls $400.00
+*** FLOP *** [Jd Qc Kd]
+oneplusone: checks
+DoublelegTD: bets $480.00
+oneplusone: calls $480.00
+*** TURN *** [Jd Qc Kd] [2s]
+oneplusone: checks
+DoublelegTD: checks
+*** RIVER *** [Jd Qc Kd 2s] [6c]
+oneplusone: checks
+DoublelegTD: checks
+*** SHOW DOWN ***
+oneplusone: shows [Js 9s]
+DoublelegTD: mucks hand
+oneplusone collected $2558.75 from pot
+*** SUMMARY ***
+Total pot $2560.00 | Rake $1.25
+Board [Jd Qc Kd 2s 6c]
+Seat 2: oneplusone (big blind) showed [Js 9s] and won ($2558.75)
+Seat 7: DoublelegTD (button) (small blind) mucked
+
+PokerStars Hand #1529369500:  Hold'em No Limit ($200.00/$400.00 USD) - 2023/01/19 23:28:45 ET
+Table 'WPN_7 Day No Rathole 200/400 NLH - Limited Time' 9-max Seat #2 is the button
+Seat 2: oneplusone ($21924.58 in chips)
+Seat 7: DoublelegTD ($11387.29 in chips)
+oneplusone: posts small blind $200.00
+DoublelegTD: posts big blind $400.00
+*** HOLE CARDS ***
+oneplusone: folds
+Uncalled bet ($200.00) returned to DoublelegTD
+DoublelegTD collected $400.00 from pot
+DoublelegTD: doesn't show hand
+*** SUMMARY ***
+Total pot $400.00 | Rake $0.00
+Seat 2: oneplusone (button) (small blind) folded before Flop
+Seat 7: DoublelegTD (big blind) collected ($400.00)
+
+PokerStars Hand #1529369715:  Hold'em No Limit ($200.00/$400.00 USD) - 2023/01/19 23:28:53 ET
+Table 'WPN_7 Day No Rathole 200/400 NLH - Limited Time' 9-max Seat #7 is the button
+Seat 2: oneplusone ($21724.58 in chips)
+Seat 7: DoublelegTD ($11587.29 in chips)
+DoublelegTD: posts small blind $200.00
+oneplusone: posts big blind $400.00
+*** HOLE CARDS ***
+DoublelegTD: calls $200.00
+oneplusone: checks
+*** FLOP *** [3s 3c 4h]
+oneplusone: checks
+DoublelegTD: checks
+*** TURN *** [3s 3c 4h] [Kc]
+oneplusone: checks
+DoublelegTD: bets $400.00
+oneplusone: calls $400.00
+*** RIVER *** [3s 3c 4h Kc] [5h]
+oneplusone: checks
+DoublelegTD: checks
+*** SHOW DOWN ***
+oneplusone: shows [Qs 4c]
+DoublelegTD: mucks hand
+oneplusone collected $1598.75 from pot
+*** SUMMARY ***
+Total pot $1600.00 | Rake $1.25
+Board [3s 3c 4h Kc 5h]
+Seat 2: oneplusone (big blind) showed [Qs 4c] and won ($1598.75)
+Seat 7: DoublelegTD (button) (small blind) mucked
+
+PokerStars Hand #1529371870:  Hold'em No Limit ($200.00/$400.00 USD) - 2023/01/19 23:30:10 ET
+Table 'WPN_7 Day No Rathole 200/400 NLH - Limited Time' 9-max Seat #2 is the button
+Seat 2: oneplusone ($22523.33 in chips)
+Seat 7: DoublelegTD ($10787.29 in chips)
+oneplusone: posts small blind $200.00
+DoublelegTD: posts big blind $400.00
+*** HOLE CARDS ***
+oneplusone: calls $200.00
+DoublelegTD: checks
+*** FLOP *** [9c 5c Js]
+DoublelegTD: checks
+oneplusone: checks
+*** TURN *** [9c 5c Js] [5h]
+DoublelegTD: bets $1200.00
+oneplusone: calls $1200.00
+*** RIVER *** [9c 5c Js 5h] [8d]
+DoublelegTD: checks
+oneplusone: checks
+*** SHOW DOWN ***
+oneplusone: shows [8s Jh]
+DoublelegTD: mucks hand
+oneplusone collected $3198.75 from pot
+*** SUMMARY ***
+Total pot $3200.00 | Rake $1.25
+Board [9c 5c Js 5h 8d]
+Seat 2: oneplusone (button) (small blind) showed [8s Jh] and won ($3198.75)
+Seat 7: DoublelegTD (big blind) mucked
+
+PokerStars Hand #1529374614:  Hold'em No Limit ($200.00/$400.00 USD) - 2023/01/19 23:31:47 ET
+Table 'WPN_7 Day No Rathole 200/400 NLH - Limited Time' 9-max Seat #7 is the button
+Seat 2: oneplusone ($24122.08 in chips)
+Seat 7: DoublelegTD ($9187.29 in chips)
+DoublelegTD: posts small blind $200.00
+oneplusone: posts big blind $400.00
+*** HOLE CARDS ***
+DoublelegTD: raises $400.00 to $800.00
+oneplusone: folds
+Uncalled bet ($400.00) returned to DoublelegTD
+DoublelegTD collected $800.00 from pot
+DoublelegTD: doesn't show hand
+*** SUMMARY ***
+Total pot $800.00 | Rake $0.00
+Seat 2: oneplusone (big blind) folded before Flop
+Seat 7: DoublelegTD (button) (small blind) collected ($800.00)
+
+PokerStars Hand #1529374964:  Hold'em No Limit ($200.00/$400.00 USD) - 2023/01/19 23:32:00 ET
+Table 'WPN_7 Day No Rathole 200/400 NLH - Limited Time' 9-max Seat #2 is the button
+Seat 2: oneplusone ($23722.08 in chips)
+Seat 7: DoublelegTD ($9587.29 in chips)
+oneplusone: posts small blind $200.00
+DoublelegTD: posts big blind $400.00
+*** HOLE CARDS ***
+oneplusone: folds
+Uncalled bet ($200.00) returned to DoublelegTD
+DoublelegTD collected $400.00 from pot
+DoublelegTD: doesn't show hand
+*** SUMMARY ***
+Total pot $400.00 | Rake $0.00
+Seat 2: oneplusone (button) (small blind) folded before Flop
+Seat 7: DoublelegTD (big blind) collected ($400.00)
+
+PokerStars Hand #1529375200:  Hold'em No Limit ($200.00/$400.00 USD) - 2023/01/19 23:32:08 ET
+Table 'WPN_7 Day No Rathole 200/400 NLH - Limited Time' 9-max Seat #7 is the button
+Seat 2: oneplusone ($23522.08 in chips)
+Seat 7: DoublelegTD ($9787.29 in chips)
+DoublelegTD: posts small blind $200.00
+oneplusone: posts big blind $400.00
+*** HOLE CARDS ***
+DoublelegTD: raises $400.00 to $800.00
+oneplusone: folds
+Uncalled bet ($400.00) returned to DoublelegTD
+DoublelegTD collected $800.00 from pot
+DoublelegTD: doesn't show hand
+*** SUMMARY ***
+Total pot $800.00 | Rake $0.00
+Seat 2: oneplusone (big blind) folded before Flop
+Seat 7: DoublelegTD (button) (small blind) collected ($800.00)
+
+PokerStars Hand #1529375967:  Hold'em No Limit ($200.00/$400.00 USD) - 2023/01/19 23:32:35 ET
+Table 'WPN_7 Day No Rathole 200/400 NLH - Limited Time' 9-max Seat #2 is the button
+Seat 2: oneplusone ($23122.08 in chips)
+Seat 7: DoublelegTD ($10187.29 in chips)
+oneplusone: posts small blind $200.00
+DoublelegTD: posts big blind $400.00
+*** HOLE CARDS ***
+oneplusone: raises $400.00 to $800.00
+DoublelegTD: calls $400.00
+*** FLOP *** [3s 9c Ks]
+DoublelegTD: checks
+oneplusone: checks
+*** TURN *** [3s 9c Ks] [4h]
+DoublelegTD: checks
+oneplusone: bets $1200.00
+DoublelegTD: calls $1200.00
+*** RIVER *** [3s 9c Ks 4h] [6c]
+DoublelegTD: checks
+oneplusone: checks
+*** SHOW DOWN ***
+oneplusone: shows [9d 8h]
+DoublelegTD: mucks hand
+oneplusone collected $3998.75 from pot
+*** SUMMARY ***
+Total pot $4000.00 | Rake $1.25
+Board [3s 9c Ks 4h 6c]
+Seat 2: oneplusone (button) (small blind) showed [9d 8h] and won ($3998.75)
+Seat 7: DoublelegTD (big blind) mucked
+
+PokerStars Hand #1529377882:  Hold'em No Limit ($200.00/$400.00 USD) - 2023/01/19 23:33:43 ET
+Table 'WPN_7 Day No Rathole 200/400 NLH - Limited Time' 9-max Seat #7 is the button
+Seat 2: oneplusone ($25120.83 in chips)
+Seat 7: DoublelegTD ($8187.29 in chips)
+DoublelegTD: posts small blind $200.00
+oneplusone: posts big blind $400.00
+*** HOLE CARDS ***
+DoublelegTD: calls $200.00
+oneplusone: raises $1800.00 to $2200.00
+DoublelegTD: raises $5987.29 to $8187.29 and is all-in
+oneplusone: folds
+Uncalled bet ($5987.29) returned to DoublelegTD
+DoublelegTD collected $4400.00 from pot
+DoublelegTD: doesn't show hand
+*** SUMMARY ***
+Total pot $4400.00 | Rake $0.00
+Seat 2: oneplusone (big blind) folded before Flop
+Seat 7: DoublelegTD (button) (small blind) collected ($4400.00)
+

@@ -1,0 +1,64 @@
+
+Hand #1919499272 - Holdem(No Limit) - $50/$100 - 2023/11/05 04:43:02 UTC
+Coulterville 6-max Seat #4 is the button
+Seat 1: PR0DIGY ($10000)
+Seat 4: lol voidaments ($10000)
+PR0DIGY posts ante $500
+lol voidaments posts ante $500
+*** HOLE CARDS *** 
+*** FLOP *** [6s 5h 3s]
+Main pot $998.75 | Rake $1.25
+PR0DIGY checks
+lol voidaments bets $300
+PR0DIGY calls $300
+*** TURN *** [6s 5h 3s] [Qd]
+Main pot $1598.75 | Rake $1.25
+PR0DIGY checks
+lol voidaments checks
+*** RIVER *** [6s 5h 3s Qd] [Jd]
+Main pot $1598.75 | Rake $1.25
+PR0DIGY checks
+lol voidaments bets $800
+PR0DIGY raises $3199.06 to $3199.06
+lol voidaments calls $2399.06
+*** SHOW DOWN ***
+Main pot $1598.75 | Rake $1.25
+lol voidaments shows [5c Kd]
+lol voidaments collected $7996.87 from main pot
+*** SUMMARY ***
+BombPot
+Total pot $7996.87 | Rake $1.25
+Seat 1: PR0DIGY did not showed and lost
+Seat 4: lol voidaments (button) showed [5c Kd] and won $7996.87 with OnePair [5h 5c Kd Qd Jd]
+
+
+Hand #1919810963 - Holdem(No Limit) - $50/$100 - 2023/11/05 15:37:58 UTC
+Coulterville 6-max Seat #5 is the button
+Seat 2: JohnMcShen ($10000)
+Seat 5: gorbashove ($5040.97)
+JohnMcShen posts ante $500
+gorbashove posts ante $500
+*** HOLE CARDS *** 
+*** FLOP *** [Js Td Qs]
+Main pot $998.75 | Rake $1.25
+JohnMcShen checks
+gorbashove bets $329
+JohnMcShen calls $329
+*** TURN *** [Js Td Qs] [4s]
+Main pot $1656.75 | Rake $1.25
+JohnMcShen checks
+gorbashove checks
+*** RIVER *** [Js Td Qs 4s] [Th]
+Main pot $1656.75 | Rake $1.25
+JohnMcShen checks
+gorbashove checks
+*** SHOW DOWN ***
+Main pot $1656.75 | Rake $1.25
+JohnMcShen shows [4d Kh]
+JohnMcShen collected $1656.75 from main pot
+*** SUMMARY ***
+BombPot
+Total pot $1656.75 | Rake $1.25
+Seat 2: JohnMcShen showed [4d Kh] and won $1656.75 with TwoPair [Th Td 4s 4d Kh]
+Seat 5: gorbashove (button) did not showed and lost
+

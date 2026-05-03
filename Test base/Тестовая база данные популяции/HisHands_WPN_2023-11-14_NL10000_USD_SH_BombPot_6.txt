@@ -1,0 +1,200 @@
+
+Hand #1930458173 - Holdem(No Limit) - $50/$100 - 2023/11/14 01:43:51 UTC
+Coulterville 6-max Seat #1 is the button
+Seat 1: SeaLlama ($10000)
+Seat 2: alanwatts15 ($10000)
+Seat 5: 7SkyAroundMe ($10723.75)
+SeaLlama posts ante $500
+7SkyAroundMe posts ante $500
+*** HOLE CARDS *** 
+*** FLOP *** [Qh 2h Th]
+Main pot $998.75 | Rake $1.25
+7SkyAroundMe checks
+SeaLlama bets $250
+7SkyAroundMe calls $250
+*** TURN *** [Qh 2h Th] [6s]
+Main pot $1498.75 | Rake $1.25
+7SkyAroundMe checks
+SeaLlama checks
+*** RIVER *** [Qh 2h Th 6s] [Tc]
+Main pot $1498.75 | Rake $1.25
+7SkyAroundMe bets $1125
+SeaLlama calls $1125
+*** SHOW DOWN ***
+Main pot $1498.75 | Rake $1.25
+SeaLlama shows [3c 3d]
+SeaLlama collected $3748.75 from main pot
+*** SUMMARY ***
+BombPot
+Total pot $3748.75 | Rake $1.25
+Seat 1: SeaLlama (button) showed [3c 3d] and won $3748.75 with TwoPair [Th Tc 3d 3c Qh]
+Seat 5: 7SkyAroundMe did not showed and lost
+
+
+Hand #1930474461 - Holdem(No Limit) - $50/$100 - 2023/11/14 02:00:08 UTC
+Coulterville 6-max Seat #6 is the button
+Seat 1: SeaLlama ($12290)
+Seat 5: 7SkyAroundMe ($10000)
+Seat 6: J0hnMcclean ($11192.50)
+SeaLlama posts ante $500
+7SkyAroundMe posts ante $500
+J0hnMcclean posts ante $500
+*** HOLE CARDS *** 
+*** FLOP *** [5s Js Ad]
+Main pot $1498.25 | Rake $1.75
+SeaLlama checks
+7SkyAroundMe bets $150
+J0hnMcclean raises $1337 to $1337
+SeaLlama folds
+7SkyAroundMe calls $1187
+*** TURN *** [5s Js Ad] [Td]
+Main pot $4172.25 | Rake $1.75
+7SkyAroundMe checks
+J0hnMcclean bets $2754
+7SkyAroundMe calls $2754
+*** RIVER *** [5s Js Ad Td] [5h]
+Main pot $9680.25 | Rake $1.75
+7SkyAroundMe checks
+J0hnMcclean bets $6601.50 and is all-in
+7SkyAroundMe calls $5409 and is all-in
+Uncalled bet ($1192.50) returned to J0hnMcclean
+J0hnMcclean does not show
+*** SHOW DOWN ***
+Main pot $9680.25 | Rake $1.75
+J0hnMcclean shows [Kh Qs]
+7SkyAroundMe shows [3h As]
+J0hnMcclean collected $20498.25 from main pot
+*** SUMMARY ***
+BombPot
+Total pot $20498.25 | Rake $1.75
+Seat 1: SeaLlama folded on the Flop
+Seat 5: 7SkyAroundMe showed [3h As] and lost
+Seat 6: J0hnMcclean (button) showed [Kh Qs] and won $20498.25 with Straight [Ad Kh Qs Js Td]
+
+
+Hand #1930488079 - Holdem(No Limit) - $50/$100 - 2023/11/14 02:11:46 UTC
+Coulterville 6-max Seat #6 is the button
+Seat 1: SeaLlama ($9635.25)
+Seat 5: 7SkyAroundMe ($12261.75)
+Seat 6: J0hnMcclean ($21870.50)
+SeaLlama posts ante $500
+7SkyAroundMe posts ante $500
+J0hnMcclean posts ante $500
+*** HOLE CARDS *** 
+*** FLOP *** [2h 6h 2c]
+Main pot $1498.25 | Rake $1.75
+SeaLlama checks
+7SkyAroundMe checks
+J0hnMcclean bets $375
+SeaLlama calls $375
+7SkyAroundMe folds
+*** TURN *** [2h 6h 2c] [Td]
+Main pot $2248.25 | Rake $1.75
+SeaLlama checks
+J0hnMcclean bets $1843
+SeaLlama calls $1843
+*** RIVER *** [2h 6h 2c Td] [Qc]
+Main pot $5934.25 | Rake $1.75
+SeaLlama checks
+J0hnMcclean bets $11868
+SeaLlama calls $6917.25 and is all-in
+Uncalled bet ($4950.75) returned to J0hnMcclean
+J0hnMcclean does not show
+*** SHOW DOWN ***
+Main pot $5934.25 | Rake $1.75
+SeaLlama shows [Ah 2d]
+J0hnMcclean shows [Ac 2s]
+SeaLlama collected $9884.38 from main pot
+J0hnMcclean collected $9884.37 from main pot
+*** SUMMARY ***
+BombPot
+Total pot $19768.75 | Rake $1.75
+Seat 1: SeaLlama showed [Ah 2d] and won $9884.38 with ThreeOfAKind [2s 2h 2c Ac Qc]
+Seat 5: 7SkyAroundMe folded on the Flop
+Seat 6: J0hnMcclean (button) showed [Ac 2s] and won $9884.37 with ThreeOfAKind [2s 2h 2c Ac Qc]
+
+
+Hand #1930503000 - Holdem(No Limit) - $50/$100 - 2023/11/14 02:23:10 UTC
+Coulterville 6-max Seat #2 is the button
+Seat 1: SeaLlama ($9596)
+Seat 2: TIKITAKA11 ($10000)
+Seat 5: 7SkyAroundMe ($22290.01)
+Seat 6: J0hnMcclean ($22162.99)
+SeaLlama posts ante $500
+TIKITAKA11 posts ante $500
+7SkyAroundMe posts ante $500
+J0hnMcclean posts ante $500
+*** HOLE CARDS *** 
+*** FLOP *** [8c 2h 7s]
+Main pot $1997.75 | Rake $2.25
+7SkyAroundMe checks
+J0hnMcclean checks
+SeaLlama bets $1000
+TIKITAKA11 folds
+7SkyAroundMe folds
+J0hnMcclean folds
+Uncalled bet ($1000) returned to SeaLlama
+SeaLlama does not show
+*** SUMMARY ***
+BombPot
+Total pot $1997.75 | Rake $2.25
+Seat 1: SeaLlama did not showed and won $1997.75
+Seat 2: TIKITAKA11 (button) folded on the Flop
+Seat 5: 7SkyAroundMe folded on the Flop
+Seat 6: J0hnMcclean folded on the Flop
+
+
+Hand #1930518279 - Holdem(No Limit) - $50/$100 - 2023/11/14 02:35:43 UTC
+Coulterville 6-max Seat #6 is the button
+Seat 1: SeaLlama ($13703.45)
+Seat 5: 7SkyAroundMe ($21260.76)
+Seat 6: J0hnMcclean ($19195.54)
+SeaLlama posts ante $500
+7SkyAroundMe posts ante $500
+J0hnMcclean posts ante $500
+*** HOLE CARDS *** 
+*** FLOP *** [6s Ad 9s]
+Main pot $1498.25 | Rake $1.75
+SeaLlama checks
+7SkyAroundMe checks
+J0hnMcclean checks
+*** TURN *** [6s Ad 9s] [7h]
+Main pot $1498.25 | Rake $1.75
+SeaLlama checks
+7SkyAroundMe checks
+J0hnMcclean checks
+*** RIVER *** [6s Ad 9s 7h] [9h]
+Main pot $1498.25 | Rake $1.75
+SeaLlama bets $1500
+7SkyAroundMe folds
+J0hnMcclean folds
+Uncalled bet ($1500) returned to SeaLlama
+SeaLlama does not show
+*** SUMMARY ***
+BombPot
+Total pot $1498.25 | Rake $1.75
+Seat 1: SeaLlama did not showed and won $1498.25
+Seat 5: 7SkyAroundMe folded on the River
+Seat 6: J0hnMcclean (button) folded on the River
+
+
+Hand #1930565024 - Holdem(No Limit) - $50/$100 - 2023/11/14 03:17:45 UTC
+Coulterville 6-max Seat #5 is the button
+Seat 2: Burundos254 ($10000)
+Seat 5: 7SkyAroundMe ($23337.01)
+Burundos254 posts ante $500
+7SkyAroundMe posts ante $500
+*** HOLE CARDS *** 
+*** FLOP *** [Js Jd 6d]
+Main pot $998.75 | Rake $1.25
+Burundos254 checks
+7SkyAroundMe bets $500
+Burundos254 folds
+Uncalled bet ($500) returned to 7SkyAroundMe
+7SkyAroundMe does not show
+*** SUMMARY ***
+BombPot
+Total pot $998.75 | Rake $1.25
+Seat 2: Burundos254 folded on the Flop
+Seat 5: 7SkyAroundMe (button) did not showed and won $998.75
+

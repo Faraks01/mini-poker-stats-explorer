@@ -1,0 +1,1404 @@
+Hand #1875806789 - Holdem(No Limit) - $50/$100 - 2023/09/27 21:00:20 UTC
+Mullan 6-max Seat #5 is the button
+Seat 1: SeaLlama ($16056.92)
+Seat 2: TIKITAKA11 ($10995.50)
+Seat 5: CWestmoreland ($10000)
+SeaLlama posts the small blind $50
+TIKITAKA11 posts the big blind $100
+*** HOLE CARDS *** 
+CWestmoreland folds
+SeaLlama calls $50
+TIKITAKA11 raises $250 to $350
+SeaLlama calls $250
+*** FLOP *** [3c 6s 8c]
+Main pot $698.25 | Rake $1.75
+SeaLlama checks
+TIKITAKA11 bets $525
+SeaLlama folds
+Uncalled bet ($525) returned to TIKITAKA11
+TIKITAKA11 does not show
+*** SUMMARY ***
+Total pot $698.25 | Rake $1.75
+Seat 1: SeaLlama (small blind) folded on the Flop
+Seat 2: TIKITAKA11 (big blind) did not showed and won $698.25
+Seat 5: CWestmoreland (button) folded on the Pre-Flop and did not bet
+
+
+Hand #1875807076 - Holdem(No Limit) - $50/$100 - 2023/09/27 21:00:31 UTC
+Mullan 6-max Seat #1 is the button
+Seat 1: SeaLlama ($10000)
+Seat 2: TIKITAKA11 ($11343.75)
+Seat 5: CWestmoreland ($10571.91)
+TIKITAKA11 posts the small blind $50
+CWestmoreland posts the big blind $100
+*** HOLE CARDS *** 
+SeaLlama folds
+TIKITAKA11 folds
+*** SUMMARY ***
+Total pot $150
+Seat 1: SeaLlama (button) folded on the Pre-Flop and did not bet
+Seat 2: TIKITAKA11 (small blind) folded on the Pre-Flop
+Seat 5: CWestmoreland (big blind) did not showed and won $150
+
+
+Hand #1875807195 - Holdem(No Limit) - $50/$100 - 2023/09/27 21:01:50 UTC
+Mullan 6-max Seat #2 is the button
+Seat 1: SeaLlama ($15706.92)
+Seat 2: TIKITAKA11 ($11293.75)
+Seat 5: CWestmoreland ($10621.91)
+CWestmoreland posts the small blind $50
+SeaLlama posts the big blind $100
+*** HOLE CARDS *** 
+TIKITAKA11 raises $230 to $230
+CWestmoreland folds
+SeaLlama raises $1200 to $1300
+TIKITAKA11 raises $2490 to $2720
+SeaLlama calls $1420
+*** FLOP *** [7h 8h 8d]
+Main pot $5488.25 | Rake $1.75
+SeaLlama checks
+TIKITAKA11 bets $1072.50
+SeaLlama calls $1072.50
+*** TURN *** [7h 8h 8d] [Js]
+Main pot $7633.25 | Rake $1.75
+SeaLlama checks
+TIKITAKA11 bets $1508.75
+SeaLlama raises $11914.42 to $11914.42 and is all-in
+TIKITAKA11 calls $5992.50 and is all-in
+Uncalled bet ($4413.17) returned to SeaLlama
+SeaLlama does not show
+*** RUN IT TWICE ***
+*** RIVER 1 *** [7h 8h 8d Js] [4c]
+Main pot 1 $11317.87 | Rake $0.88
+*** SHOW DOWN 1 ***
+Main pot 1 $11317.87 | Rake $0.88
+SeaLlama shows [Td Jd] (a combo of some cards [Js Jd 8h 8d Td])
+TIKITAKA11 shows [Qh Qs] (a combo of some cards [Qs Qh 8h 8d Js])
+TIKITAKA11 collected $11317.88 from main pot 1
+*** RIVER 2 *** [7h 8h 8d Js] [Kh]
+Main pot 2 $11317.88 | Rake $0.87
+*** SHOW DOWN 2 ***
+Main pot 2 $11317.88 | Rake $0.87
+SeaLlama shows [Td Jd] (a combo of some cards [Js Jd 8h 8d Kh])
+TIKITAKA11 shows [Qh Qs] (a combo of some cards [Qs Qh 8h 8d Kh])
+TIKITAKA11 collected $11317.87 from main pot 2
+*** SUMMARY ***
+Total pot $22635.75 | Rake $1.75
+Board 1 [7h 8h 8d Js 4c]
+Seat 1: SeaLlama (big blind) showed [Td Jd] and lost with a
+Seat 2: TIKITAKA11 (button) showed [Qh Qs] and won $11317.88 with TwoPair [Qs Qh 8h 8d Js]
+Seat 5: CWestmoreland (small blind) folded on the Pre-Flop
+Board 2 [7h 8h 8d Js Kh]
+Seat 1: SeaLlama (big blind) showed [Td Jd] and lost with a
+Seat 2: TIKITAKA11 (button) showed [Qh Qs] and won $11317.87 with TwoPair [Qs Qh 8h 8d Kh]
+Seat 5: CWestmoreland (small blind) folded on the Pre-Flop
+
+
+Hand #1875808591 - Holdem(No Limit) - $50/$100 - 2023/09/27 21:03:05 UTC
+Mullan 6-max Seat #5 is the button
+Seat 1: SeaLlama ($10000)
+Seat 2: TIKITAKA11 ($22635.75)
+Seat 5: CWestmoreland ($10571.91)
+SeaLlama posts the small blind $50
+TIKITAKA11 posts the big blind $100
+*** HOLE CARDS *** 
+CWestmoreland raises $250 to $250
+SeaLlama folds
+TIKITAKA11 calls $150
+*** FLOP *** [5c Kc 3h]
+Main pot $548.25 | Rake $1.75
+TIKITAKA11 checks
+CWestmoreland bets $164.47
+TIKITAKA11 raises $603.94 to $603.94
+CWestmoreland calls $439.47
+*** TURN *** [5c Kc 3h] [7c]
+Main pot $1756.13 | Rake $1.75
+TIKITAKA11 bets $878.94
+CWestmoreland calls $878.94
+*** RIVER *** [5c Kc 3h 7c] [Qc]
+Main pot $3514.01 | Rake $1.75
+TIKITAKA11 checks
+CWestmoreland checks
+*** SUMMARY ***
+Total pot $3514.01 | Rake $1.75
+Seat 1: SeaLlama (small blind) folded on the Pre-Flop
+Seat 2: TIKITAKA11 (big blind) did not showed and won $3514.01
+Seat 5: CWestmoreland (button) did not showed and lost
+
+
+Hand #1875809814 - Holdem(No Limit) - $50/$100 - 2023/09/27 21:03:34 UTC
+Mullan 6-max Seat #1 is the button
+Seat 1: SeaLlama ($10000)
+Seat 2: TIKITAKA11 ($24416.88)
+Seat 5: CWestmoreland ($10000)
+TIKITAKA11 posts the small blind $50
+CWestmoreland posts the big blind $100
+*** HOLE CARDS *** 
+SeaLlama raises $250 to $250
+TIKITAKA11 folds
+CWestmoreland calls $150
+*** FLOP *** [4h 5s 9c]
+Main pot $548.25 | Rake $1.75
+CWestmoreland checks
+SeaLlama checks
+*** TURN *** [4h 5s 9c] [2c]
+Main pot $548.25 | Rake $1.75
+CWestmoreland checks
+SeaLlama checks
+*** RIVER *** [4h 5s 9c 2c] [9h]
+Main pot $548.25 | Rake $1.75
+CWestmoreland checks
+SeaLlama checks
+*** SUMMARY ***
+Total pot $548.25 | Rake $1.75
+Seat 1: SeaLlama (button) did not showed and won $548.25
+Seat 2: TIKITAKA11 (small blind) folded on the Pre-Flop
+Seat 5: CWestmoreland (big blind) did not showed and lost
+
+
+Hand #1875810347 - Holdem(No Limit) - $50/$100 - 2023/09/27 21:03:46 UTC
+Mullan 6-max Seat #2 is the button
+Seat 1: SeaLlama ($10000)
+Seat 2: TIKITAKA11 ($24366.88)
+Seat 5: CWestmoreland ($10000)
+CWestmoreland posts the small blind $50
+TIKITAKA11 posts the big blind $100
+*** HOLE CARDS *** 
+CWestmoreland folds
+*** SUMMARY ***
+Total pot $150
+Seat 2: TIKITAKA11 (big blind) did not showed and won $150
+Seat 5: CWestmoreland (small blind) folded on the Pre-Flop
+
+
+Hand #1875820407 - Holdem(No Limit) - $50/$100 - 2023/09/27 21:12:08 UTC
+Mullan 6-max Seat #5 is the button
+Seat 1: SeaLlama ($11047)
+Seat 2: TIKITAKA11 ($24416.88)
+Seat 4: Sabazius ($10000)
+Seat 5: CWestmoreland ($10000)
+SeaLlama posts the small blind $50
+TIKITAKA11 posts the big blind $100
+*** HOLE CARDS *** 
+CWestmoreland raises $250 to $250
+SeaLlama folds
+TIKITAKA11 folds
+Uncalled bet ($150) returned to CWestmoreland
+CWestmoreland does not show
+*** SUMMARY ***
+Total pot $250
+Seat 1: SeaLlama (small blind) folded on the Pre-Flop
+Seat 2: TIKITAKA11 (big blind) folded on the Pre-Flop
+Seat 5: CWestmoreland (button) did not showed and won $250
+
+
+Hand #1875820848 - Holdem(No Limit) - $50/$100 - 2023/09/27 21:12:19 UTC
+Mullan 6-max Seat #1 is the button
+Seat 1: SeaLlama ($10000)
+Seat 2: TIKITAKA11 ($24316.88)
+Seat 4: Sabazius ($10000)
+Seat 5: CWestmoreland ($10150)
+TIKITAKA11 posts the small blind $50
+CWestmoreland posts the big blind $100
+*** HOLE CARDS *** 
+SeaLlama folds
+TIKITAKA11 folds
+*** SUMMARY ***
+Total pot $150
+Seat 1: SeaLlama (button) folded on the Pre-Flop and did not bet
+Seat 2: TIKITAKA11 (small blind) folded on the Pre-Flop
+Seat 5: CWestmoreland (big blind) did not showed and won $150
+
+
+Hand #1875821092 - Holdem(No Limit) - $50/$100 - 2023/09/27 21:14:33 UTC
+Mullan 6-max Seat #2 is the button
+Seat 1: SeaLlama ($10997)
+Seat 2: TIKITAKA11 ($24266.88)
+Seat 3: mlchelangelo ($10000)
+Seat 4: Sabazius ($10000)
+Seat 5: CWestmoreland ($10200)
+Seat 6: iBetMyWifeGLGG ($10000)
+CWestmoreland posts the small blind $50
+SeaLlama posts the big blind $100
+*** HOLE CARDS *** 
+TIKITAKA11 raises $230 to $230
+CWestmoreland raises $1050 to $1100
+SeaLlama raises $2250 to $2350
+TIKITAKA11 folds
+CWestmoreland calls $1250
+*** FLOP *** [Jh Qc 2s]
+Main pot $4928.25 | Rake $1.75
+CWestmoreland checks
+SeaLlama bets $1232
+CWestmoreland calls $1232
+*** TURN *** [Jh Qc 2s] [2d]
+Main pot $7392.25 | Rake $1.75
+CWestmoreland checks
+SeaLlama bets $1498
+CWestmoreland calls $1498
+*** RIVER *** [Jh Qc 2s 2d] [Th]
+Main pot $10388.25 | Rake $1.75
+CWestmoreland checks
+SeaLlama bets $5917 and is all-in
+CWestmoreland calls $5120 and is all-in
+Uncalled bet ($797) returned to SeaLlama
+SeaLlama does not show
+*** SHOW DOWN ***
+Main pot $10388.25 | Rake $1.75
+SeaLlama shows [Ad As] (a combo of some cards [As Ad 2s 2d Qc])
+CWestmoreland shows [Qd Ks] (a combo of some cards [Qd Qc 2s 2d Ks])
+SeaLlama collected $20628.25 from main pot
+*** SUMMARY ***
+Total pot $20628.25 | Rake $1.75
+Seat 1: SeaLlama (big blind) showed [Ad As] and won $20628.25 with TwoPair [As Ad 2s 2d Qc]
+Seat 2: TIKITAKA11 (button) folded on the Pre-Flop and did not bet
+Seat 5: CWestmoreland (small blind) showed [Qd Ks] and lost
+
+
+Hand #1875823880 - Holdem(No Limit) - $50/$100 - 2023/09/27 21:14:53 UTC
+Mullan 6-max Seat #5 is the button
+Seat 1: SeaLlama ($21425.25)
+Seat 2: TIKITAKA11 ($24036.88)
+Seat 3: mlchelangelo ($10000)
+Seat 4: Sabazius ($10000)
+Seat 5: CWestmoreland ($10000)
+Seat 6: iBetMyWifeGLGG ($10000)
+SeaLlama posts the small blind $50
+TIKITAKA11 posts the big blind $100
+*** HOLE CARDS *** 
+CWestmoreland raises $250 to $250
+SeaLlama raises $950 to $1000
+TIKITAKA11 folds
+CWestmoreland folds
+Uncalled bet ($750) returned to SeaLlama
+SeaLlama does not show
+*** SUMMARY ***
+Total pot $600
+Seat 1: SeaLlama (small blind) did not showed and won $600
+Seat 2: TIKITAKA11 (big blind) folded on the Pre-Flop
+Seat 5: CWestmoreland (button) folded on the Pre-Flop and did not bet
+
+
+Hand #1875824231 - Holdem(No Limit) - $50/$100 - 2023/09/27 21:15:11 UTC
+Mullan 6-max Seat #1 is the button
+Seat 1: SeaLlama ($10000)
+Seat 2: TIKITAKA11 ($23936.88)
+Seat 3: mlchelangelo ($10000)
+Seat 4: Sabazius ($4000)
+Seat 5: CWestmoreland ($10000)
+Seat 6: iBetMyWifeGLGG ($10000)
+TIKITAKA11 posts the small blind $50
+Sabazius posts the big blind $100
+*** HOLE CARDS *** 
+CWestmoreland raises $220 to $220
+SeaLlama folds
+TIKITAKA11 folds
+Sabazius folds
+Uncalled bet ($120) returned to CWestmoreland
+CWestmoreland does not show
+*** SUMMARY ***
+Total pot $250
+Seat 1: SeaLlama (button) folded on the Pre-Flop and did not bet
+Seat 2: TIKITAKA11 (small blind) folded on the Pre-Flop
+Seat 4: Sabazius (big blind) folded on the Pre-Flop
+Seat 5: CWestmoreland did not showed and won $250
+
+
+Hand #1875824596 - Holdem(No Limit) - $50/$100 - 2023/09/27 21:15:56 UTC
+Mullan 6-max Seat #2 is the button
+Seat 1: SeaLlama ($10000)
+Seat 2: TIKITAKA11 ($10000)
+Seat 3: mlchelangelo ($10000)
+Seat 4: Sabazius ($3900)
+Seat 5: CWestmoreland ($10150)
+Seat 6: iBetMyWifeGLGG ($10000)
+Sabazius posts the small blind $50
+CWestmoreland posts the big blind $100
+*** HOLE CARDS *** 
+SeaLlama folds
+TIKITAKA11 folds
+Sabazius calls $50
+CWestmoreland checks
+*** FLOP *** [9d Qc Ac]
+Main pot $197.75 | Rake $2.25
+Sabazius bets $100
+CWestmoreland calls $100
+*** TURN *** [9d Qc Ac] [Qh]
+Main pot $397.75 | Rake $2.25
+Sabazius bets $100
+CWestmoreland folds
+Uncalled bet ($100) returned to Sabazius
+Sabazius does not show
+*** SUMMARY ***
+Total pot $397.75 | Rake $2.25
+Seat 1: SeaLlama folded on the Pre-Flop and did not bet
+Seat 2: TIKITAKA11 (button) folded on the Pre-Flop and did not bet
+Seat 4: Sabazius (small blind) did not showed and won $397.75
+Seat 5: CWestmoreland (big blind) folded on the Turn
+
+
+Hand #1875825538 - Holdem(No Limit) - $50/$100 - 2023/09/27 21:16:17 UTC
+Mullan 6-max Seat #4 is the button
+Seat 1: SeaLlama ($21775.25)
+Seat 2: TIKITAKA11 ($23886.88)
+Seat 3: mlchelangelo ($10000)
+Seat 4: Sabazius ($10000)
+Seat 5: CWestmoreland ($10000)
+Seat 6: iBetMyWifeGLGG ($10000)
+CWestmoreland posts the small blind $50
+SeaLlama posts the big blind $100
+*** HOLE CARDS *** 
+TIKITAKA11 raises $230 to $230
+Sabazius folds
+CWestmoreland folds
+SeaLlama folds
+Uncalled bet ($130) returned to TIKITAKA11
+TIKITAKA11 does not show
+*** SUMMARY ***
+Total pot $250
+Seat 1: SeaLlama (big blind) folded on the Pre-Flop
+Seat 2: TIKITAKA11 did not showed and won $250
+Seat 4: Sabazius (button) folded on the Pre-Flop and did not bet
+Seat 5: CWestmoreland (small blind) folded on the Pre-Flop
+
+
+Hand #1875827682 - Holdem(No Limit) - $50/$100 - 2023/09/27 21:18:08 UTC
+Mullan 6-max Seat #1 is the button
+Seat 1: SeaLlama ($10000)
+Seat 2: TIKITAKA11 ($23077.88)
+Seat 3: nutsforme100 ($10000)
+Seat 4: Sabazius ($10000)
+Seat 5: CWestmoreland ($10000)
+Seat 6: iBetMyWifeGLGG ($10000)
+TIKITAKA11 posts the small blind $50
+nutsforme100 posts the big blind $100
+*** HOLE CARDS *** 
+Sabazius folds
+CWestmoreland raises $220 to $220
+SeaLlama folds
+TIKITAKA11 folds
+nutsforme100 calls $120
+*** FLOP *** [Kd Kc Jc]
+Main pot $487 | Rake $3
+nutsforme100 checks
+CWestmoreland bets $121.75
+nutsforme100 folds
+Uncalled bet ($121.75) returned to CWestmoreland
+CWestmoreland does not show
+*** SUMMARY ***
+Total pot $487 | Rake $3
+Seat 1: SeaLlama (button) folded on the Pre-Flop and did not bet
+Seat 2: TIKITAKA11 (small blind) folded on the Pre-Flop
+Seat 3: nutsforme100 (big blind) folded on the Flop
+Seat 4: Sabazius folded on the Pre-Flop and did not bet
+Seat 5: CWestmoreland did not showed and won $487
+
+
+Hand #1875828304 - Holdem(No Limit) - $50/$100 - 2023/09/27 21:19:21 UTC
+Mullan 6-max Seat #2 is the button
+Seat 1: SeaLlama ($10000)
+Seat 2: TIKITAKA11 ($23027.88)
+Seat 3: nutsforme100 ($10000)
+Seat 5: CWestmoreland ($10267)
+Seat 6: iBetMyWifeGLGG ($10000)
+nutsforme100 posts the small blind $50
+CWestmoreland posts the big blind $100
+*** HOLE CARDS *** 
+SeaLlama folds
+TIKITAKA11 raises $230 to $230
+nutsforme100 folds
+CWestmoreland calls $130
+*** FLOP *** [5s 7s 4s]
+Main pot $507.75 | Rake $2.25
+CWestmoreland checks
+TIKITAKA11 bets $127.50
+CWestmoreland calls $127.50
+*** TURN *** [5s 7s 4s] [2d]
+Main pot $762.75 | Rake $2.25
+CWestmoreland checks
+TIKITAKA11 bets $573.75
+CWestmoreland folds
+Uncalled bet ($573.75) returned to TIKITAKA11
+TIKITAKA11 does not show
+*** SUMMARY ***
+Total pot $762.75 | Rake $2.25
+Seat 1: SeaLlama folded on the Pre-Flop and did not bet
+Seat 2: TIKITAKA11 (button) did not showed and won $762.75
+Seat 3: nutsforme100 (small blind) folded on the Pre-Flop
+Seat 5: CWestmoreland (big blind) folded on the Turn
+
+
+Hand #1875829831 - Holdem(No Limit) - $50/$100 - 2023/09/27 21:20:48 UTC
+Mullan 6-max Seat #3 is the button
+Seat 1: SeaLlama ($22632)
+Seat 2: TIKITAKA11 ($10000)
+Seat 3: nutsforme100 ($10000)
+Seat 5: CWestmoreland ($10000)
+Seat 6: iBetMyWifeGLGG ($10000)
+CWestmoreland posts the small blind $50
+SeaLlama posts the big blind $100
+*** HOLE CARDS *** 
+TIKITAKA11 folds
+nutsforme100 folds
+CWestmoreland raises $250 to $300
+SeaLlama calls $200
+*** FLOP *** [Ah Th 4h]
+Main pot $597.75 | Rake $2.25
+CWestmoreland bets $100
+SeaLlama calls $100
+*** TURN *** [Ah Th 4h] [7d]
+Main pot $797.75 | Rake $2.25
+CWestmoreland checks
+SeaLlama bets $526
+CWestmoreland calls $526
+*** RIVER *** [Ah Th 4h 7d] [2d]
+Main pot $1849.75 | Rake $2.25
+CWestmoreland checks
+SeaLlama bets $1389
+CWestmoreland calls $1389
+*** SUMMARY ***
+Total pot $4627.75 | Rake $2.25
+Seat 1: SeaLlama (big blind) did not showed and won $4627.75
+Seat 2: TIKITAKA11 folded on the Pre-Flop and did not bet
+Seat 3: nutsforme100 (button) folded on the Pre-Flop and did not bet
+Seat 5: CWestmoreland (small blind) did not showed and lost
+
+
+Hand #1875831743 - Holdem(No Limit) - $50/$100 - 2023/09/27 21:21:25 UTC
+Mullan 6-max Seat #5 is the button
+Seat 1: SeaLlama ($24944.75)
+Seat 2: TIKITAKA11 ($23433.13)
+Seat 3: nutsforme100 ($10000)
+Seat 4: Pr.Lupine ($10000)
+Seat 5: CWestmoreland ($10000)
+Seat 6: iBetMyWifeGLGG ($10000)
+SeaLlama posts the small blind $50
+TIKITAKA11 posts the big blind $100
+*** HOLE CARDS *** 
+nutsforme100 folds
+CWestmoreland folds
+SeaLlama raises $200 to $250
+TIKITAKA11 calls $150
+*** FLOP *** [8s 5h 4d]
+Main pot $497.75 | Rake $2.25
+SeaLlama checks
+TIKITAKA11 bets $200
+SeaLlama folds
+Uncalled bet ($200) returned to TIKITAKA11
+TIKITAKA11 does not show
+*** SUMMARY ***
+Total pot $497.75 | Rake $2.25
+Seat 1: SeaLlama (small blind) folded on the Flop
+Seat 2: TIKITAKA11 (big blind) did not showed and won $497.75
+Seat 3: nutsforme100 folded on the Pre-Flop and did not bet
+Seat 5: CWestmoreland (button) folded on the Pre-Flop and did not bet
+
+
+Hand #1875832490 - Holdem(No Limit) - $50/$100 - 2023/09/27 21:21:40 UTC
+Mullan 6-max Seat #1 is the button
+Seat 1: SeaLlama ($10000)
+Seat 2: TIKITAKA11 ($23680.88)
+Seat 3: nutsforme100 ($10000)
+Seat 4: Pr.Lupine ($4000)
+Seat 5: CWestmoreland ($10000)
+Seat 6: iBetMyWifeGLGG ($10000)
+TIKITAKA11 posts the small blind $50
+Pr.Lupine posts the big blind $100
+*** HOLE CARDS *** 
+CWestmoreland folds
+SeaLlama folds
+TIKITAKA11 folds
+*** SUMMARY ***
+Total pot $150
+Seat 1: SeaLlama (button) folded on the Pre-Flop and did not bet
+Seat 2: TIKITAKA11 (small blind) folded on the Pre-Flop
+Seat 4: Pr.Lupine (big blind) did not showed and won $150
+Seat 5: CWestmoreland folded on the Pre-Flop and did not bet
+
+
+Hand #1875832833 - Holdem(No Limit) - $50/$100 - 2023/09/27 21:22:07 UTC
+Mullan 6-max Seat #2 is the button
+Seat 1: SeaLlama ($10000)
+Seat 2: TIKITAKA11 ($10000)
+Seat 4: Pr.Lupine ($4050)
+Seat 5: CWestmoreland ($10000)
+Seat 6: iBetMyWifeGLGG ($10000)
+Pr.Lupine posts the small blind $50
+CWestmoreland posts the big blind $100
+*** HOLE CARDS *** 
+SeaLlama folds
+TIKITAKA11 folds
+Pr.Lupine folds
+*** SUMMARY ***
+Total pot $150
+Seat 1: SeaLlama folded on the Pre-Flop and did not bet
+Seat 2: TIKITAKA11 (button) folded on the Pre-Flop and did not bet
+Seat 4: Pr.Lupine (small blind) folded on the Pre-Flop
+Seat 5: CWestmoreland (big blind) did not showed and won $150
+
+
+Hand #1875833413 - Holdem(No Limit) - $50/$100 - 2023/09/27 21:23:07 UTC
+Mullan 6-max Seat #4 is the button
+Seat 1: SeaLlama ($24694.75)
+Seat 2: TIKITAKA11 ($23630.88)
+Seat 4: Pr.Lupine ($10000)
+Seat 5: CWestmoreland ($10050)
+Seat 6: iBetMyWifeGLGG ($10000)
+CWestmoreland posts the small blind $50
+SeaLlama posts the big blind $100
+*** HOLE CARDS *** 
+TIKITAKA11 raises $230 to $230
+Pr.Lupine folds
+CWestmoreland folds
+SeaLlama calls $130
+*** FLOP *** [3d 9s 4h]
+Main pot $507.75 | Rake $2.25
+SeaLlama checks
+TIKITAKA11 checks
+*** TURN *** [3d 9s 4h] [6c]
+Main pot $507.75 | Rake $2.25
+SeaLlama bets $1115
+TIKITAKA11 folds
+Uncalled bet ($1115) returned to SeaLlama
+SeaLlama does not show
+*** SUMMARY ***
+Total pot $507.75 | Rake $2.25
+Seat 1: SeaLlama (big blind) did not showed and won $507.75
+Seat 2: TIKITAKA11 folded on the Turn
+Seat 4: Pr.Lupine (button) folded on the Pre-Flop and did not bet
+Seat 5: CWestmoreland (small blind) folded on the Pre-Flop
+
+
+Hand #1875834717 - Holdem(No Limit) - $50/$100 - 2023/09/27 21:23:19 UTC
+Mullan 6-max Seat #5 is the button
+Seat 1: SeaLlama ($24972.50)
+Seat 2: TIKITAKA11 ($23400.88)
+Seat 4: Pr.Lupine ($10000)
+Seat 5: CWestmoreland ($10000)
+Seat 6: iBetMyWifeGLGG ($10000)
+SeaLlama posts the small blind $50
+TIKITAKA11 posts the big blind $100
+*** HOLE CARDS *** 
+Pr.Lupine folds
+CWestmoreland folds
+SeaLlama folds
+*** SUMMARY ***
+Total pot $150
+Seat 1: SeaLlama (small blind) folded on the Pre-Flop
+Seat 2: TIKITAKA11 (big blind) did not showed and won $150
+Seat 4: Pr.Lupine folded on the Pre-Flop and did not bet
+Seat 5: CWestmoreland (button) folded on the Pre-Flop and did not bet
+
+
+Hand #1875834963 - Holdem(No Limit) - $50/$100 - 2023/09/27 21:23:37 UTC
+Mullan 6-max Seat #1 is the button
+Seat 1: SeaLlama ($10000)
+Seat 2: TIKITAKA11 ($23450.88)
+Seat 4: Pr.Lupine ($10000)
+Seat 5: CWestmoreland ($10000)
+Seat 6: iBetMyWifeGLGG ($10000)
+TIKITAKA11 posts the small blind $50
+CWestmoreland posts the big blind $100
+*** HOLE CARDS *** 
+SeaLlama folds
+TIKITAKA11 raises $250 to $300
+CWestmoreland folds
+Uncalled bet ($200) returned to TIKITAKA11
+TIKITAKA11 does not show
+*** SUMMARY ***
+Total pot $200
+Seat 1: SeaLlama (button) folded on the Pre-Flop and did not bet
+Seat 2: TIKITAKA11 (small blind) did not showed and won $200
+Seat 5: CWestmoreland (big blind) folded on the Pre-Flop
+
+
+Hand #1875835333 - Holdem(No Limit) - $50/$100 - 2023/09/27 21:23:50 UTC
+Mullan 6-max Seat #2 is the button
+Seat 1: SeaLlama ($24922.50)
+Seat 2: TIKITAKA11 ($10000)
+Seat 5: CWestmoreland ($10000)
+CWestmoreland posts the small blind $50
+SeaLlama posts the big blind $100
+*** HOLE CARDS *** 
+TIKITAKA11 folds
+CWestmoreland folds
+*** SUMMARY ***
+Total pot $150
+Seat 1: SeaLlama (big blind) did not showed and won $150
+Seat 2: TIKITAKA11 (button) folded on the Pre-Flop and did not bet
+Seat 5: CWestmoreland (small blind) folded on the Pre-Flop
+
+
+Hand #1875835620 - Holdem(No Limit) - $50/$100 - 2023/09/27 21:24:50 UTC
+Mullan 6-max Seat #5 is the button
+Seat 1: SeaLlama ($24972.50)
+Seat 2: TIKITAKA11 ($23550.88)
+Seat 5: CWestmoreland ($10000)
+SeaLlama posts the small blind $50
+TIKITAKA11 posts the big blind $100
+*** HOLE CARDS *** 
+CWestmoreland folds
+SeaLlama raises $200 to $250
+TIKITAKA11 calls $150
+*** FLOP *** [5d Kd 3h]
+Main pot $498.25 | Rake $1.75
+SeaLlama checks
+TIKITAKA11 checks
+*** TURN *** [5d Kd 3h] [3d]
+Main pot $498.25 | Rake $1.75
+SeaLlama checks
+TIKITAKA11 checks
+*** RIVER *** [5d Kd 3h 3d] [Qd]
+Main pot $498.25 | Rake $1.75
+SeaLlama bets $329
+TIKITAKA11 calls $329
+*** SUMMARY ***
+Total pot $1156.25 | Rake $1.75
+Seat 1: SeaLlama (small blind) did not showed and lost
+Seat 2: TIKITAKA11 (big blind) did not showed and won $1156.25
+Seat 5: CWestmoreland (button) folded on the Pre-Flop and did not bet
+
+
+Hand #1875838621 - Holdem(No Limit) - $50/$100 - 2023/09/27 21:26:26 UTC
+Mullan 6-max Seat #1 is the button
+Seat 1: SeaLlama ($10000)
+Seat 2: TIKITAKA11 ($26624.62)
+Seat 5: CWestmoreland ($10000)
+TIKITAKA11 posts the small blind $50
+CWestmoreland posts the big blind $100
+*** HOLE CARDS *** 
+SeaLlama folds
+TIKITAKA11 raises $250 to $300
+CWestmoreland folds
+Uncalled bet ($200) returned to TIKITAKA11
+TIKITAKA11 does not show
+*** SUMMARY ***
+Total pot $200
+Seat 1: SeaLlama (button) folded on the Pre-Flop and did not bet
+Seat 2: TIKITAKA11 (small blind) did not showed and won $200
+Seat 5: CWestmoreland (big blind) folded on the Pre-Flop
+
+
+Hand #1875838957 - Holdem(No Limit) - $50/$100 - 2023/09/27 21:26:40 UTC
+Mullan 6-max Seat #2 is the button
+Seat 1: SeaLlama ($23144.38)
+Seat 2: TIKITAKA11 ($10000)
+Seat 5: CWestmoreland ($10000)
+CWestmoreland posts the small blind $50
+SeaLlama posts the big blind $100
+*** HOLE CARDS *** 
+TIKITAKA11 folds
+CWestmoreland raises $250 to $300
+SeaLlama folds
+Uncalled bet ($200) returned to CWestmoreland
+CWestmoreland does not show
+*** SUMMARY ***
+Total pot $200
+Seat 1: SeaLlama (big blind) folded on the Pre-Flop
+Seat 2: TIKITAKA11 (button) folded on the Pre-Flop and did not bet
+Seat 5: CWestmoreland (small blind) did not showed and won $200
+
+
+Hand #1875839271 - Holdem(No Limit) - $50/$100 - 2023/09/27 21:26:54 UTC
+Mullan 6-max Seat #5 is the button
+Seat 1: SeaLlama ($23044.38)
+Seat 2: TIKITAKA11 ($26724.62)
+Seat 5: CWestmoreland ($10100)
+SeaLlama posts the small blind $50
+TIKITAKA11 posts the big blind $100
+*** HOLE CARDS *** 
+CWestmoreland raises $250 to $250
+SeaLlama folds
+TIKITAKA11 folds
+Uncalled bet ($150) returned to CWestmoreland
+CWestmoreland does not show
+*** SUMMARY ***
+Total pot $250
+Seat 1: SeaLlama (small blind) folded on the Pre-Flop
+Seat 2: TIKITAKA11 (big blind) folded on the Pre-Flop
+Seat 5: CWestmoreland (button) did not showed and won $250
+
+
+Hand #1875839578 - Holdem(No Limit) - $50/$100 - 2023/09/27 21:27:06 UTC
+Mullan 6-max Seat #1 is the button
+Seat 1: SeaLlama ($10000)
+Seat 2: TIKITAKA11 ($26624.62)
+Seat 5: CWestmoreland ($10250)
+TIKITAKA11 posts the small blind $50
+CWestmoreland posts the big blind $100
+*** HOLE CARDS *** 
+SeaLlama folds
+TIKITAKA11 folds
+*** SUMMARY ***
+Total pot $150
+Seat 1: SeaLlama (button) folded on the Pre-Flop and did not bet
+Seat 2: TIKITAKA11 (small blind) folded on the Pre-Flop
+Seat 5: CWestmoreland (big blind) did not showed and won $150
+
+
+Hand #1875839815 - Holdem(No Limit) - $50/$100 - 2023/09/27 21:27:53 UTC
+Mullan 6-max Seat #2 is the button
+Seat 1: SeaLlama ($22994.38)
+Seat 2: TIKITAKA11 ($10000)
+Seat 5: CWestmoreland ($10300)
+CWestmoreland posts the small blind $50
+SeaLlama posts the big blind $100
+*** HOLE CARDS *** 
+TIKITAKA11 folds
+CWestmoreland raises $250 to $300
+SeaLlama calls $200
+*** FLOP *** [7d 2d 4s]
+Main pot $598.25 | Rake $1.75
+CWestmoreland checks
+SeaLlama bets $300
+CWestmoreland calls $300
+*** TURN *** [7d 2d 4s] [Qs]
+Main pot $1198.25 | Rake $1.75
+CWestmoreland checks
+SeaLlama checks
+*** RIVER *** [7d 2d 4s Qs] [8h]
+Main pot $1198.25 | Rake $1.75
+CWestmoreland checks
+SeaLlama checks
+*** SUMMARY ***
+Total pot $1198.25 | Rake $1.75
+Seat 1: SeaLlama (big blind) did not showed and won $1198.25
+Seat 2: TIKITAKA11 (button) folded on the Pre-Flop and did not bet
+Seat 5: CWestmoreland (small blind) did not showed and lost
+
+
+Hand #1875840869 - Holdem(No Limit) - $50/$100 - 2023/09/27 21:28:32 UTC
+Mullan 6-max Seat #5 is the button
+Seat 1: SeaLlama ($23592.63)
+Seat 2: TIKITAKA11 ($26574.62)
+Seat 5: CWestmoreland ($10000)
+SeaLlama posts the small blind $50
+TIKITAKA11 posts the big blind $100
+*** HOLE CARDS *** 
+CWestmoreland raises $250 to $250
+SeaLlama folds
+TIKITAKA11 folds
+Uncalled bet ($150) returned to CWestmoreland
+CWestmoreland does not show
+*** SUMMARY ***
+Total pot $250
+Seat 1: SeaLlama (small blind) folded on the Pre-Flop
+Seat 2: TIKITAKA11 (big blind) folded on the Pre-Flop
+Seat 5: CWestmoreland (button) did not showed and won $250
+
+
+Hand #1875841623 - Holdem(No Limit) - $50/$100 - 2023/09/27 21:30:03 UTC
+Mullan 6-max Seat #1 is the button
+Seat 1: SeaLlama ($10000)
+Seat 2: TIKITAKA11 ($26474.62)
+Seat 5: CWestmoreland ($10150)
+TIKITAKA11 posts the small blind $50
+CWestmoreland posts the big blind $100
+*** HOLE CARDS *** 
+SeaLlama folds
+TIKITAKA11 raises $250 to $300
+CWestmoreland calls $200
+*** FLOP *** [6h Kc Qd]
+Main pot $598.25 | Rake $1.75
+TIKITAKA11 bets $150
+CWestmoreland calls $150
+*** TURN *** [6h Kc Qd] [9c]
+Main pot $898.25 | Rake $1.75
+TIKITAKA11 bets $675
+CWestmoreland calls $675
+*** RIVER *** [6h Kc Qd 9c] [4s]
+Main pot $2248.25 | Rake $1.75
+TIKITAKA11 checks
+CWestmoreland bets $1686.18
+TIKITAKA11 folds
+Uncalled bet ($1686.18) returned to CWestmoreland
+CWestmoreland does not show
+*** SUMMARY ***
+Total pot $2248.25 | Rake $1.75
+Seat 1: SeaLlama (button) folded on the Pre-Flop and did not bet
+Seat 2: TIKITAKA11 (small blind) folded on the River
+Seat 5: CWestmoreland (big blind) did not showed and won $2248.25
+
+
+Hand #1875843837 - Holdem(No Limit) - $50/$100 - 2023/09/27 21:31:10 UTC
+Mullan 6-max Seat #5 is the button
+Seat 1: SeaLlama ($23442.63)
+Seat 2: TIKITAKA11 ($25499.62)
+Seat 5: CWestmoreland ($11223.25)
+SeaLlama posts the small blind $50
+TIKITAKA11 posts the big blind $100
+*** HOLE CARDS *** 
+CWestmoreland raises $250 to $250
+SeaLlama folds
+TIKITAKA11 calls $150
+*** FLOP *** [2h 8s 9h]
+Main pot $548.25 | Rake $1.75
+TIKITAKA11 checks
+CWestmoreland bets $411.18
+TIKITAKA11 calls $411.18
+*** TURN *** [2h 8s 9h] [6s]
+Main pot $1370.61 | Rake $1.75
+TIKITAKA11 checks
+CWestmoreland bets $1027.95
+TIKITAKA11 folds
+Uncalled bet ($1027.95) returned to CWestmoreland
+CWestmoreland does not show
+*** SUMMARY ***
+Total pot $1370.61 | Rake $1.75
+Seat 1: SeaLlama (small blind) folded on the Pre-Flop
+Seat 2: TIKITAKA11 (big blind) folded on the Turn
+Seat 5: CWestmoreland (button) did not showed and won $1370.61
+
+
+Hand #1875844882 - Holdem(No Limit) - $50/$100 - 2023/09/27 21:31:39 UTC
+Mullan 6-max Seat #1 is the button
+Seat 1: SeaLlama ($23392.63)
+Seat 2: TIKITAKA11 ($24838.44)
+Seat 5: CWestmoreland ($11932.68)
+TIKITAKA11 posts the small blind $50
+CWestmoreland posts the big blind $100
+*** HOLE CARDS *** 
+SeaLlama raises $250 to $250
+TIKITAKA11 folds
+CWestmoreland raises $1100 to $1200
+SeaLlama folds
+Uncalled bet ($950) returned to CWestmoreland
+CWestmoreland does not show
+*** SUMMARY ***
+Total pot $550
+Seat 1: SeaLlama (button) folded on the Pre-Flop and did not bet
+Seat 2: TIKITAKA11 (small blind) folded on the Pre-Flop
+Seat 5: CWestmoreland (big blind) did not showed and won $550
+
+
+Hand #1875845510 - Holdem(No Limit) - $50/$100 - 2023/09/27 21:32:20 UTC
+Mullan 6-max Seat #2 is the button
+Seat 1: SeaLlama ($23142.63)
+Seat 2: TIKITAKA11 ($10000)
+Seat 5: CWestmoreland ($12232.68)
+CWestmoreland posts the small blind $50
+SeaLlama posts the big blind $100
+*** HOLE CARDS *** 
+TIKITAKA11 folds
+CWestmoreland raises $250 to $300
+SeaLlama calls $200
+*** FLOP *** [5h 5s 6c]
+Main pot $598.25 | Rake $1.75
+CWestmoreland checks
+SeaLlama checks
+*** TURN *** [5h 5s 6c] [8d]
+Main pot $598.25 | Rake $1.75
+CWestmoreland bets $299.12
+SeaLlama folds
+Uncalled bet ($299.12) returned to CWestmoreland
+CWestmoreland does not show
+*** SUMMARY ***
+Total pot $598.25 | Rake $1.75
+Seat 1: SeaLlama (big blind) folded on the Turn
+Seat 2: TIKITAKA11 (button) folded on the Pre-Flop and did not bet
+Seat 5: CWestmoreland (small blind) did not showed and won $598.25
+
+
+Hand #1875846365 - Holdem(No Limit) - $50/$100 - 2023/09/27 21:32:46 UTC
+Mullan 6-max Seat #5 is the button
+Seat 1: SeaLlama ($22842.63)
+Seat 2: TIKITAKA11 ($24788.44)
+Seat 5: CWestmoreland ($12530.93)
+SeaLlama posts the small blind $50
+TIKITAKA11 posts the big blind $100
+*** HOLE CARDS *** 
+CWestmoreland raises $250 to $250
+SeaLlama folds
+TIKITAKA11 folds
+Uncalled bet ($150) returned to CWestmoreland
+CWestmoreland does not show
+*** SUMMARY ***
+Total pot $250
+Seat 1: SeaLlama (small blind) folded on the Pre-Flop
+Seat 2: TIKITAKA11 (big blind) folded on the Pre-Flop
+Seat 5: CWestmoreland (button) did not showed and won $250
+
+
+Hand #1875846905 - Holdem(No Limit) - $50/$100 - 2023/09/27 21:33:35 UTC
+Mullan 6-max Seat #1 is the button
+Seat 1: SeaLlama ($22792.63)
+Seat 2: TIKITAKA11 ($24688.44)
+Seat 5: CWestmoreland ($12680.93)
+TIKITAKA11 posts the small blind $50
+CWestmoreland posts the big blind $100
+*** HOLE CARDS *** 
+SeaLlama raises $250 to $250
+TIKITAKA11 folds
+CWestmoreland calls $150
+*** FLOP *** [As 7s Js]
+Main pot $548.25 | Rake $1.75
+CWestmoreland checks
+SeaLlama bets $137
+CWestmoreland folds
+Uncalled bet ($137) returned to SeaLlama
+SeaLlama does not show
+*** SUMMARY ***
+Total pot $548.25 | Rake $1.75
+Seat 1: SeaLlama (button) did not showed and won $548.25
+Seat 2: TIKITAKA11 (small blind) folded on the Pre-Flop
+Seat 5: CWestmoreland (big blind) folded on the Flop
+
+
+Hand #1875847909 - Holdem(No Limit) - $50/$100 - 2023/09/27 21:34:49 UTC
+Mullan 6-max Seat #2 is the button
+Seat 1: SeaLlama ($23090.88)
+Seat 2: TIKITAKA11 ($24638.44)
+Seat 5: CWestmoreland ($12430.93)
+CWestmoreland posts the small blind $50
+SeaLlama posts the big blind $100
+*** HOLE CARDS *** 
+TIKITAKA11 raises $230 to $230
+CWestmoreland folds
+SeaLlama calls $130
+*** FLOP *** [Kd 3s 7h]
+Main pot $508.25 | Rake $1.75
+SeaLlama checks
+TIKITAKA11 checks
+*** TURN *** [Kd 3s 7h] [As]
+Main pot $508.25 | Rake $1.75
+SeaLlama checks
+TIKITAKA11 checks
+*** RIVER *** [Kd 3s 7h As] [Kc]
+Main pot $508.25 | Rake $1.75
+SeaLlama bets $762
+TIKITAKA11 raises $2287.50 to $2287.50
+SeaLlama folds
+Uncalled bet ($1525.50) returned to TIKITAKA11
+TIKITAKA11 does not show
+*** SUMMARY ***
+Total pot $2032.25 | Rake $1.75
+Seat 1: SeaLlama (big blind) folded on the River
+Seat 2: TIKITAKA11 (button) did not showed and won $2032.25
+Seat 5: CWestmoreland (small blind) folded on the Pre-Flop
+
+
+Hand #1875849471 - Holdem(No Limit) - $50/$100 - 2023/09/27 21:35:43 UTC
+Mullan 6-max Seat #5 is the button
+Seat 1: SeaLlama ($22098.88)
+Seat 2: TIKITAKA11 ($25678.69)
+Seat 5: CWestmoreland ($10000)
+SeaLlama posts the small blind $50
+TIKITAKA11 posts the big blind $100
+*** HOLE CARDS *** 
+CWestmoreland folds
+SeaLlama calls $50
+TIKITAKA11 checks
+*** FLOP *** [6h Jc 6d]
+Main pot $198.25 | Rake $1.75
+SeaLlama checks
+TIKITAKA11 checks
+*** TURN *** [6h Jc 6d] [6s]
+Main pot $198.25 | Rake $1.75
+SeaLlama bets $131
+TIKITAKA11 calls $131
+*** RIVER *** [6h Jc 6d 6s] [2s]
+Main pot $460.25 | Rake $1.75
+SeaLlama bets $1012
+TIKITAKA11 folds
+Uncalled bet ($1012) returned to SeaLlama
+SeaLlama does not show
+*** SUMMARY ***
+Total pot $460.25 | Rake $1.75
+Seat 1: SeaLlama (small blind) did not showed and won $460.25
+Seat 2: TIKITAKA11 (big blind) folded on the River
+Seat 5: CWestmoreland (button) folded on the Pre-Flop and did not bet
+
+
+Hand #1875853091 - Holdem(No Limit) - $50/$100 - 2023/09/27 21:38:00 UTC
+Mullan 6-max Seat #1 is the button
+Seat 1: SeaLlama ($24926.38)
+Seat 2: TIKITAKA11 ($23347.69)
+Seat 5: CWestmoreland ($11880.93)
+TIKITAKA11 posts the small blind $50
+CWestmoreland posts the big blind $100
+*** HOLE CARDS *** 
+SeaLlama raises $250 to $250
+TIKITAKA11 folds
+CWestmoreland raises $1100 to $1200
+SeaLlama folds
+Uncalled bet ($950) returned to CWestmoreland
+CWestmoreland does not show
+*** SUMMARY ***
+Total pot $550
+Seat 1: SeaLlama (button) folded on the Pre-Flop and did not bet
+Seat 2: TIKITAKA11 (small blind) folded on the Pre-Flop
+Seat 5: CWestmoreland (big blind) did not showed and won $550
+
+
+Hand #1875853470 - Holdem(No Limit) - $50/$100 - 2023/09/27 21:38:16 UTC
+Mullan 6-max Seat #2 is the button
+Seat 1: SeaLlama ($24676.38)
+Seat 2: TIKITAKA11 ($23297.69)
+Seat 5: CWestmoreland ($12180.93)
+CWestmoreland posts the small blind $50
+SeaLlama posts the big blind $100
+*** HOLE CARDS *** 
+TIKITAKA11 raises $230 to $230
+CWestmoreland folds
+SeaLlama folds
+Uncalled bet ($130) returned to TIKITAKA11
+TIKITAKA11 does not show
+*** SUMMARY ***
+Total pot $250
+Seat 1: SeaLlama (big blind) folded on the Pre-Flop
+Seat 2: TIKITAKA11 (button) did not showed and won $250
+Seat 5: CWestmoreland (small blind) folded on the Pre-Flop
+
+
+Hand #1875853777 - Holdem(No Limit) - $50/$100 - 2023/09/27 21:38:28 UTC
+Mullan 6-max Seat #5 is the button
+Seat 1: SeaLlama ($24576.38)
+Seat 2: TIKITAKA11 ($23447.69)
+Seat 5: CWestmoreland ($10000)
+SeaLlama posts the small blind $50
+TIKITAKA11 posts the big blind $100
+*** HOLE CARDS *** 
+CWestmoreland folds
+SeaLlama folds
+*** SUMMARY ***
+Total pot $150
+Seat 1: SeaLlama (small blind) folded on the Pre-Flop
+Seat 2: TIKITAKA11 (big blind) did not showed and won $150
+Seat 5: CWestmoreland (button) folded on the Pre-Flop and did not bet
+
+
+Hand #1875854017 - Holdem(No Limit) - $50/$100 - 2023/09/27 21:38:46 UTC
+Mullan 6-max Seat #1 is the button
+Seat 1: SeaLlama ($24526.38)
+Seat 2: TIKITAKA11 ($23497.69)
+Seat 5: CWestmoreland ($12130.93)
+TIKITAKA11 posts the small blind $50
+CWestmoreland posts the big blind $100
+*** HOLE CARDS *** 
+SeaLlama raises $250 to $250
+TIKITAKA11 folds
+CWestmoreland folds
+Uncalled bet ($150) returned to SeaLlama
+SeaLlama does not show
+*** SUMMARY ***
+Total pot $250
+Seat 1: SeaLlama (button) did not showed and won $250
+Seat 2: TIKITAKA11 (small blind) folded on the Pre-Flop
+Seat 5: CWestmoreland (big blind) folded on the Pre-Flop
+
+
+Hand #1875854373 - Holdem(No Limit) - $50/$100 - 2023/09/27 21:38:57 UTC
+Mullan 6-max Seat #2 is the button
+Seat 1: SeaLlama ($24676.38)
+Seat 2: TIKITAKA11 ($10000)
+Seat 5: CWestmoreland ($12030.93)
+CWestmoreland posts the small blind $50
+SeaLlama posts the big blind $100
+*** HOLE CARDS *** 
+TIKITAKA11 folds
+CWestmoreland folds
+*** SUMMARY ***
+Total pot $150
+Seat 1: SeaLlama (big blind) did not showed and won $150
+Seat 2: TIKITAKA11 (button) folded on the Pre-Flop and did not bet
+Seat 5: CWestmoreland (small blind) folded on the Pre-Flop
+
+
+Hand #1875854599 - Holdem(No Limit) - $50/$100 - 2023/09/27 21:39:48 UTC
+Mullan 6-max Seat #1 is the button
+Seat 1: SeaLlama ($24726.38)
+Seat 5: CWestmoreland ($11980.93)
+SeaLlama posts the small blind $50
+CWestmoreland posts the big blind $100
+*** HOLE CARDS *** 
+SeaLlama raises $200 to $250
+CWestmoreland calls $150
+*** FLOP *** [9c 5s Jd]
+Main pot $498.75 | Rake $1.25
+CWestmoreland checks
+SeaLlama checks
+*** TURN *** [9c 5s Jd] [Jh]
+Main pot $498.75 | Rake $1.25
+CWestmoreland bets $1598.12
+SeaLlama folds
+Uncalled bet ($1598.12) returned to CWestmoreland
+CWestmoreland does not show
+*** SUMMARY ***
+Total pot $498.75 | Rake $1.25
+Seat 1: SeaLlama (small blind) folded on the Turn
+Seat 5: CWestmoreland (big blind) did not showed and won $498.75
+
+
+Hand #1876410825 - Holdem(No Limit) - $50/$100 - 2023/09/28 07:07:10 UTC
+Jeff Davis 6-max Seat #2 is the button
+Seat 2: IdoGoats ($4000)
+Seat 5: shaysguy ($4000)
+IdoGoats posts the small blind $50
+shaysguy posts the big blind $100
+*** HOLE CARDS *** 
+IdoGoats folds
+*** SUMMARY ***
+Total pot $150
+Seat 2: IdoGoats (small blind) folded on the Pre-Flop
+Seat 5: shaysguy (big blind) did not showed and won $150
+
+
+Hand #1876410935 - Holdem(No Limit) - $50/$100 - 2023/09/28 07:07:49 UTC
+Jeff Davis 6-max Seat #5 is the button
+Seat 2: IdoGoats ($4000)
+Seat 5: shaysguy ($4050)
+shaysguy posts the small blind $50
+IdoGoats posts the big blind $100
+*** HOLE CARDS *** 
+shaysguy raises $150 to $200
+IdoGoats calls $100
+*** FLOP *** [4c Ks 6h]
+Main pot $398.75 | Rake $1.25
+IdoGoats checks
+shaysguy bets $250
+IdoGoats folds
+Uncalled bet ($250) returned to shaysguy
+shaysguy does not show
+*** SUMMARY ***
+Total pot $398.75 | Rake $1.25
+Seat 2: IdoGoats (big blind) folded on the Flop
+Seat 5: shaysguy (small blind) did not showed and won $398.75
+
+
+Hand #1876411324 - Holdem(No Limit) - $50/$100 - 2023/09/28 07:09:08 UTC
+Jeff Davis 6-max Seat #2 is the button
+Seat 2: IdoGoats ($4000)
+Seat 5: shaysguy ($4248.75)
+IdoGoats posts the small blind $50
+shaysguy posts the big blind $100
+*** HOLE CARDS *** 
+IdoGoats raises $200 to $250
+shaysguy calls $150
+*** FLOP *** [9h 5s 7h]
+Main pot $498.75 | Rake $1.25
+shaysguy checks
+IdoGoats checks
+*** TURN *** [9h 5s 7h] [2c]
+Main pot $498.75 | Rake $1.25
+shaysguy bets $225
+IdoGoats calls $225
+*** RIVER *** [9h 5s 7h 2c] [Jd]
+Main pot $948.75 | Rake $1.25
+shaysguy bets $555
+IdoGoats folds
+Uncalled bet ($555) returned to shaysguy
+shaysguy does not show
+*** SUMMARY ***
+Total pot $948.75 | Rake $1.25
+Seat 2: IdoGoats (small blind) folded on the River
+Seat 5: shaysguy (big blind) did not showed and won $948.75
+
+
+Hand #1876412118 - Holdem(No Limit) - $50/$100 - 2023/09/28 07:10:18 UTC
+Jeff Davis 6-max Seat #5 is the button
+Seat 2: IdoGoats ($6000)
+Seat 5: shaysguy ($4722.50)
+shaysguy posts the small blind $50
+IdoGoats posts the big blind $100
+*** HOLE CARDS *** 
+shaysguy raises $200 to $250
+IdoGoats calls $150
+*** FLOP *** [6h Jh 7s]
+Main pot $498.75 | Rake $1.25
+IdoGoats checks
+shaysguy checks
+*** TURN *** [6h Jh 7s] [2h]
+Main pot $498.75 | Rake $1.25
+IdoGoats checks
+shaysguy checks
+*** RIVER *** [6h Jh 7s 2h] [7c]
+Main pot $498.75 | Rake $1.25
+IdoGoats bets $165
+shaysguy calls $165
+*** SUMMARY ***
+Total pot $828.75 | Rake $1.25
+Seat 2: IdoGoats (big blind) did not showed and lost
+Seat 5: shaysguy (small blind) did not showed and won $828.75
+
+
+Hand #1876412826 - Holdem(No Limit) - $50/$100 - 2023/09/28 07:11:01 UTC
+Jeff Davis 6-max Seat #2 is the button
+Seat 2: IdoGoats ($5585)
+Seat 5: shaysguy ($5136.25)
+IdoGoats posts the small blind $50
+shaysguy posts the big blind $100
+*** HOLE CARDS *** 
+IdoGoats raises $150 to $200
+shaysguy calls $100
+*** FLOP *** [2c 9s 6c]
+Main pot $398.75 | Rake $1.25
+shaysguy checks
+IdoGoats bets $132
+shaysguy folds
+Uncalled bet ($132) returned to IdoGoats
+IdoGoats does not show
+*** SUMMARY ***
+Total pot $398.75 | Rake $1.25
+Seat 2: IdoGoats (small blind) did not showed and won $398.75
+Seat 5: shaysguy (big blind) folded on the Flop
+
+
+Hand #1876413214 - Holdem(No Limit) - $50/$100 - 2023/09/28 07:11:11 UTC
+Jeff Davis 6-max Seat #5 is the button
+Seat 2: IdoGoats ($5783.75)
+Seat 5: shaysguy ($4936.25)
+shaysguy posts the small blind $50
+IdoGoats posts the big blind $100
+*** HOLE CARDS *** 
+shaysguy folds
+*** SUMMARY ***
+Total pot $150
+Seat 2: IdoGoats (big blind) did not showed and won $150
+Seat 5: shaysguy (small blind) folded on the Pre-Flop
+
+
+Hand #1876415240 - Holdem(No Limit) - $50/$100 - 2023/09/28 07:14:34 UTC
+Jeff Davis 6-max Seat #2 is the button
+Seat 1: SeaLlama ($10000)
+Seat 2: IdoGoats ($5833.75)
+Seat 3: 7SkyAroundMe ($10000)
+Seat 5: shaysguy ($10000)
+IdoGoats posts the small blind $50
+SeaLlama posts the big blind $100
+*** HOLE CARDS *** 
+IdoGoats folds
+*** SUMMARY ***
+Total pot $150
+Seat 1: SeaLlama (big blind) did not showed and won $150
+Seat 2: IdoGoats (small blind) folded on the Pre-Flop
+
+
+Hand #1876415346 - Holdem(No Limit) - $50/$100 - 2023/09/28 07:14:41 UTC
+Jeff Davis 6-max Seat #1 is the button
+Seat 1: SeaLlama ($10050)
+Seat 2: IdoGoats ($5783.75)
+Seat 3: 7SkyAroundMe ($10000)
+SeaLlama posts the small blind $50
+IdoGoats posts the big blind $100
+*** HOLE CARDS *** 
+SeaLlama folds
+*** SUMMARY ***
+Total pot $150
+Seat 1: SeaLlama (small blind) folded on the Pre-Flop
+Seat 2: IdoGoats (big blind) did not showed and won $150
+
+
+Hand #1876415422 - Holdem(No Limit) - $50/$100 - 2023/09/28 07:14:51 UTC
+Jeff Davis 6-max Seat #1 is the button
+Seat 1: SeaLlama ($10000)
+Seat 2: IdoGoats ($5833.75)
+Seat 3: 7SkyAroundMe ($10000)
+IdoGoats posts the small blind $50
+7SkyAroundMe posts the big blind $100
+*** HOLE CARDS *** 
+SeaLlama folds
+IdoGoats folds
+*** SUMMARY ***
+Total pot $150
+Seat 1: SeaLlama (button) folded on the Pre-Flop and did not bet
+Seat 2: IdoGoats (small blind) folded on the Pre-Flop
+Seat 3: 7SkyAroundMe (big blind) did not showed and won $150
+
+
+Hand #1876415520 - Holdem(No Limit) - $50/$100 - 2023/09/28 07:15:02 UTC
+Jeff Davis 6-max Seat #2 is the button
+Seat 1: SeaLlama ($10000)
+Seat 2: IdoGoats ($10000)
+Seat 3: 7SkyAroundMe ($10050)
+Seat 4: HornyOldMan ($10000)
+7SkyAroundMe posts the small blind $50
+SeaLlama posts the big blind $100
+*** HOLE CARDS *** 
+IdoGoats folds
+7SkyAroundMe folds
+*** SUMMARY ***
+Total pot $150
+Seat 1: SeaLlama (big blind) did not showed and won $150
+Seat 2: IdoGoats (button) folded on the Pre-Flop and did not bet
+Seat 3: 7SkyAroundMe (small blind) folded on the Pre-Flop
+
+
+Hand #1876415632 - Holdem(No Limit) - $50/$100 - 2023/09/28 07:15:23 UTC
+Jeff Davis 6-max Seat #3 is the button
+Seat 1: SeaLlama ($10050)
+Seat 2: IdoGoats ($5783.75)
+Seat 3: 7SkyAroundMe ($10000)
+Seat 4: HornyOldMan ($10000)
+SeaLlama posts the small blind $50
+IdoGoats posts the big blind $100
+*** HOLE CARDS *** 
+7SkyAroundMe raises $250 to $250
+SeaLlama folds
+IdoGoats folds
+Uncalled bet ($150) returned to 7SkyAroundMe
+7SkyAroundMe does not show
+*** SUMMARY ***
+Total pot $250
+Seat 1: SeaLlama (small blind) folded on the Pre-Flop
+Seat 2: IdoGoats (big blind) folded on the Pre-Flop
+Seat 3: 7SkyAroundMe (button) did not showed and won $250
+
+
+Hand #1876415854 - Holdem(No Limit) - $50/$100 - 2023/09/28 07:16:19 UTC
+Jeff Davis 6-max Seat #1 is the button
+Seat 1: SeaLlama ($10000)
+Seat 2: IdoGoats ($5683.75)
+Seat 3: 7SkyAroundMe ($10000)
+Seat 4: HornyOldMan ($10000)
+IdoGoats posts the small blind $50
+HornyOldMan posts the big blind $100
+*** HOLE CARDS *** 
+SeaLlama raises $250 to $250
+IdoGoats folds
+HornyOldMan calls $150
+*** FLOP *** [Jh 5d 6s]
+Main pot $548.25 | Rake $1.75
+HornyOldMan checks
+SeaLlama checks
+*** TURN *** [Jh 5d 6s] [Th]
+Main pot $548.25 | Rake $1.75
+HornyOldMan checks
+SeaLlama bets $275
+HornyOldMan folds
+Uncalled bet ($275) returned to SeaLlama
+SeaLlama does not show
+*** SUMMARY ***
+Total pot $548.25 | Rake $1.75
+Seat 1: SeaLlama (button) did not showed and won $548.25
+Seat 2: IdoGoats (small blind) folded on the Pre-Flop
+Seat 4: HornyOldMan (big blind) folded on the Turn
+
+
+Hand #1876416428 - Holdem(No Limit) - $50/$100 - 2023/09/28 07:16:44 UTC
+Jeff Davis 6-max Seat #2 is the button
+Seat 1: SeaLlama ($10298.25)
+Seat 2: IdoGoats ($5633.75)
+Seat 3: 7SkyAroundMe ($10000)
+Seat 4: HornyOldMan ($10000)
+HornyOldMan posts the small blind $50
+SeaLlama posts the big blind $100
+*** HOLE CARDS *** 
+IdoGoats raises $225 to $225
+HornyOldMan folds
+SeaLlama calls $125
+*** FLOP *** [Ah Jd 3c]
+Main pot $498.25 | Rake $1.75
+SeaLlama checks
+IdoGoats bets $165
+SeaLlama folds
+Uncalled bet ($165) returned to IdoGoats
+IdoGoats does not show
+*** SUMMARY ***
+Total pot $498.25 | Rake $1.75
+Seat 1: SeaLlama (big blind) folded on the Flop
+Seat 2: IdoGoats (button) did not showed and won $498.25
+Seat 4: HornyOldMan (small blind) folded on the Pre-Flop
+
+
+
+

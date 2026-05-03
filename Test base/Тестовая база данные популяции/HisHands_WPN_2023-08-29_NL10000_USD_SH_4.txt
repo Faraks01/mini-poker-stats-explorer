@@ -1,0 +1,145 @@
+Hand #1839284252 - Holdem(No Limit) - $50/$100 - 2023/08/29 04:04:18 UTC
+Palm Springs 6-max Seat #1 is the button
+Seat 1: uhhhyesandno ($10000)
+Seat 4: PR0DIGY ($10000)
+uhhhyesandno posts the small blind $50
+PR0DIGY posts the big blind $100
+*** HOLE CARDS *** 
+uhhhyesandno raises $200 to $250
+PR0DIGY raises $900 to $1000
+uhhhyesandno calls $750
+*** FLOP *** [Js 5d 9s]
+Main pot $1998.75 | Rake $1.25
+PR0DIGY bets $2298
+uhhhyesandno calls $2298
+*** TURN *** [Js 5d 9s] [8s]
+Main pot $6594.75 | Rake $1.25
+PR0DIGY bets $2176
+uhhhyesandno calls $2176
+*** RIVER *** [Js 5d 9s 8s] [Ts]
+Main pot $10946.75 | Rake $1.25
+PR0DIGY bets $4526 and is all-in
+uhhhyesandno calls $4526 and is all-in
+*** SHOW DOWN ***
+Main pot $10946.75 | Rake $1.25
+uhhhyesandno shows [Qs Kc] (a combo of some cards [Qs Js Ts 9s 8s])
+PR0DIGY shows [Ks Kd] (a combo of some cards [Ks Js Ts 9s 8s])
+uhhhyesandno collected $19998.75 from main pot
+*** SUMMARY ***
+Total pot $19998.75 | Rake $1.25
+Seat 1: uhhhyesandno (small blind) showed [Qs Kc] and won $19998.75 with StraightFlush [Qs Js Ts 9s 8s]
+Seat 4: PR0DIGY (big blind) showed [Ks Kd] and lost
+
+
+Hand #1839286440 - Holdem(No Limit) - $50/$100 - 2023/08/29 04:05:55 UTC
+Palm Springs 6-max Seat #4 is the button
+Seat 1: uhhhyesandno ($19998.75)
+Seat 2: lol voidaments ($10000)
+Seat 4: PR0DIGY ($10000)
+Seat 5: bigsoowoop ($10000)
+PR0DIGY posts the small blind $50
+uhhhyesandno posts the big blind $100
+*** HOLE CARDS *** 
+PR0DIGY raises $210 to $260
+uhhhyesandno calls $160
+*** FLOP *** [Jc 3c 8h]
+Main pot $518.75 | Rake $1.25
+uhhhyesandno checks
+PR0DIGY bets $129.68
+uhhhyesandno calls $129.68
+*** TURN *** [Jc 3c 8h] [2s]
+Main pot $778.11 | Rake $1.25
+uhhhyesandno checks
+PR0DIGY checks
+*** RIVER *** [Jc 3c 8h 2s] [6d]
+Main pot $778.11 | Rake $1.25
+uhhhyesandno bets $390
+PR0DIGY raises $1169.05 to $1169.05
+uhhhyesandno folds
+Uncalled bet ($779.05) returned to PR0DIGY
+PR0DIGY does not show
+*** SUMMARY ***
+Total pot $1558.11 | Rake $1.25
+Seat 1: uhhhyesandno (big blind) folded on the River
+Seat 4: PR0DIGY (small blind) did not showed and won $1558.11
+
+
+Hand #1839288121 - Holdem(No Limit) - $50/$100 - 2023/08/29 04:06:39 UTC
+Palm Springs 6-max Seat #4 is the button
+Seat 1: uhhhyesandno ($10000)
+Seat 2: lol voidaments ($10000)
+Seat 4: PR0DIGY ($10000)
+Seat 5: bigsoowoop ($4000)
+bigsoowoop posts the small blind $50
+lol voidaments posts the big blind $100
+*** HOLE CARDS *** 
+PR0DIGY folds
+bigsoowoop raises $250 to $300
+lol voidaments calls $200
+*** FLOP *** [4s 3d Qd]
+Main pot $598.25 | Rake $1.75
+bigsoowoop bets $150
+lol voidaments calls $150
+*** TURN *** [4s 3d Qd] [Ks]
+Main pot $898.25 | Rake $1.75
+bigsoowoop bets $1125
+lol voidaments folds
+Uncalled bet ($1125) returned to bigsoowoop
+bigsoowoop does not show
+*** SUMMARY ***
+Total pot $898.25 | Rake $1.75
+Seat 2: lol voidaments (big blind) folded on the Turn
+Seat 4: PR0DIGY (button) folded on the Pre-Flop and did not bet
+Seat 5: bigsoowoop (small blind) did not showed and won $898.25
+
+
+Hand #1839288890 - Holdem(No Limit) - $50/$100 - 2023/08/29 04:07:33 UTC
+Palm Springs 6-max Seat #5 is the button
+Seat 2: lol voidaments ($10000)
+Seat 4: PR0DIGY ($10778.43)
+Seat 5: bigsoowoop ($4448.25)
+lol voidaments posts the small blind $50
+PR0DIGY posts the big blind $100
+*** HOLE CARDS *** 
+bigsoowoop raises $200 to $200
+lol voidaments raises $800 to $850
+PR0DIGY folds
+bigsoowoop calls $650
+*** FLOP *** [2c 8s 9h]
+Main pot $1798.25 | Rake $1.75
+lol voidaments bets $900
+bigsoowoop raises $3598.25 to $3598.25 and is all-in
+lol voidaments calls $2698.25
+*** RUN IT TWICE ***
+*** TURN 1 *** [2c 8s 9h] [4s]
+Main pot 1 $4497.37 | Rake $0.88
+*** RIVER 1 *** [2c 8s 9h 4s] [Ks]
+Main pot 1 $4497.37 | Rake $0.88
+*** SHOW DOWN 1 ***
+Main pot 1 $4497.37 | Rake $0.88
+lol voidaments shows [Ad Kd] (a combo of some cards [Ks Kd Ad 9h 8s])
+bigsoowoop shows [Tc Jc] (a combo of some cards [Ks Jc Tc 9h 8s])
+lol voidaments collected $4497.38 from main pot 1
+*** TURN 2 *** [2c 8s 9h] [3c]
+Main pot 2 $4497.38 | Rake $0.87
+*** RIVER 2 *** [2c 8s 9h 3c] [9d]
+Main pot 2 $4497.38 | Rake $0.87
+*** SHOW DOWN 2 ***
+Main pot 2 $4497.38 | Rake $0.87
+lol voidaments shows [Ad Kd] (a combo of some cards [9h 9d Ad Kd 8s])
+bigsoowoop shows [Tc Jc] (a combo of some cards [9h 9d Jc Tc 8s])
+lol voidaments collected $4497.37 from main pot 2
+*** SUMMARY ***
+Total pot $8994.75 | Rake $1.75
+Board 1 [2c 8s 9h 4s Ks]
+Seat 2: lol voidaments (small blind) showed [Ad Kd] and won $4497.38 with OnePair [Ks Kd Ad 9h 8s]
+Seat 4: PR0DIGY (big blind) folded on the Pre-Flop
+Seat 5: bigsoowoop (button) showed [Tc Jc] and lost with a
+Board 2 [2c 8s 9h 3c 9d]
+Seat 2: lol voidaments (small blind) showed [Ad Kd] and won $4497.37 with OnePair [9h 9d Ad Kd 8s]
+Seat 4: PR0DIGY (big blind) folded on the Pre-Flop
+Seat 5: bigsoowoop (button) showed [Tc Jc] and lost with a
+
+
+
+

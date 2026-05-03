@@ -1,0 +1,759 @@
+Hand #1833173220 - Holdem(No Limit) - $50/$100 - 2023/08/24 14:50:28 UTC
+7 Day No Rathole 50/100 NLH 9-max Seat #2 is the button
+Seat 2: Nimble123 ($1000)
+Seat 3: xplo1t4bl3 ($4454.31)
+Nimble123 posts the small blind $50
+xplo1t4bl3 posts the big blind $100
+*** HOLE CARDS *** 
+Nimble123 raises $950 to $1000 and is all-in
+xplo1t4bl3 calls $900
+*** RUN IT TWICE ***
+*** FLOP 1 *** [Ad Td 9s]
+Main pot 1 $999.37 | Rake $0.63
+*** TURN 1 *** [Ad Td 9s] [4c]
+Main pot 1 $999.37 | Rake $0.63
+*** RIVER 1 *** [Ad Td 9s 4c] [2d]
+Main pot 1 $999.37 | Rake $0.63
+*** SHOW DOWN 1 ***
+Main pot 1 $999.37 | Rake $0.63
+Nimble123 shows [Qh Jd] (a combo of some cards [Ad Qh Jd Td 9s])
+xplo1t4bl3 shows [Qs Qd] (a combo of some cards [Qs Qd Ad Td 9s])
+xplo1t4bl3 collected $999.38 from main pot 1
+*** FLOP 2 *** [3s 3h 8d]
+Main pot 2 $999.38 | Rake $0.62
+*** TURN 2 *** [3s 3h 8d] [4s]
+Main pot 2 $999.38 | Rake $0.62
+*** RIVER 2 *** [3s 3h 8d 4s] [6c]
+Main pot 2 $999.38 | Rake $0.62
+*** SHOW DOWN 2 ***
+Main pot 2 $999.38 | Rake $0.62
+Nimble123 shows [Qh Jd] (a combo of some cards [3s 3h Qh Jd 8d])
+xplo1t4bl3 shows [Qs Qd] (a combo of some cards [Qs Qd 3s 3h 8d])
+xplo1t4bl3 collected $999.37 from main pot 2
+*** SUMMARY ***
+Total pot $1998.75 | Rake $1.25
+Board 1 [Ad Td 9s 4c 2d]
+Seat 2: Nimble123 (small blind) showed [Qh Jd] and lost with a
+Seat 3: xplo1t4bl3 (big blind) showed [Qs Qd] and won $999.38 with OnePair [Qs Qd Ad Td 9s]
+Board 2 [3s 3h 8d 4s 6c]
+Seat 2: Nimble123 (small blind) showed [Qh Jd] and lost with a
+Seat 3: xplo1t4bl3 (big blind) showed [Qs Qd] and won $999.37 with TwoPair [Qs Qd 3s 3h 8d]
+
+
+Hand #1833173492 - Holdem(No Limit) - $50/$100 - 2023/08/24 14:51:05 UTC
+7 Day No Rathole 50/100 NLH 9-max Seat #2 is the button
+Seat 2: Nimble123 ($1000)
+Seat 3: xplo1t4bl3 ($5453.06)
+Seat 4: v3MGA ($1000)
+Seat 5: acrbotv10a ($10000)
+xplo1t4bl3 posts the small blind $50
+v3MGA posts the big blind $100
+*** HOLE CARDS *** 
+Nimble123 raises $1000 to $1000 and is all-in
+xplo1t4bl3 folds
+v3MGA folds
+Uncalled bet ($900) returned to Nimble123
+Nimble123 does not show
+*** SUMMARY ***
+Total pot $250
+Seat 2: Nimble123 (button) did not showed and won $250
+Seat 3: xplo1t4bl3 (small blind) folded on the Pre-Flop
+Seat 4: v3MGA (big blind) folded on the Pre-Flop
+
+
+Hand #1833173701 - Holdem(No Limit) - $50/$100 - 2023/08/24 14:51:20 UTC
+7 Day No Rathole 50/100 NLH 9-max Seat #3 is the button
+Seat 2: Nimble123 ($10000)
+Seat 3: xplo1t4bl3 ($5403.06)
+Seat 4: v3MGA ($1000)
+Seat 5: acrbotv10a ($1000)
+Seat 6: chop-ch0p ($10000)
+v3MGA posts the small blind $50
+acrbotv10a posts the big blind $100
+*** HOLE CARDS *** 
+Nimble123 folds
+xplo1t4bl3 raises $3816.40 to $3816.40
+v3MGA folds
+acrbotv10a calls $900 and is all-in
+Uncalled bet ($2816.40) returned to xplo1t4bl3
+xplo1t4bl3 does not show
+*** RUN IT TWICE ***
+*** FLOP 1 *** [7d 9c 8h]
+Main pot 1 $1023.87 | Rake $1.13
+*** TURN 1 *** [7d 9c 8h] [3s]
+Main pot 1 $1023.87 | Rake $1.13
+*** RIVER 1 *** [7d 9c 8h 3s] [3d]
+Main pot 1 $1023.87 | Rake $1.13
+*** SHOW DOWN 1 ***
+Main pot 1 $1023.87 | Rake $1.13
+xplo1t4bl3 shows [Kd Ah] (a combo of some cards [3s 3d Ah Kd 9c])
+acrbotv10a shows [Ks Jh] (a combo of some cards [3s 3d Ks Jh 9c])
+xplo1t4bl3 collected $1023.88 from main pot 1
+*** FLOP 2 *** [Qc Qh 7h]
+Main pot 2 $1023.88 | Rake $1.12
+*** TURN 2 *** [Qc Qh 7h] [Qs]
+Main pot 2 $1023.88 | Rake $1.12
+*** RIVER 2 *** [Qc Qh 7h Qs] [2h]
+Main pot 2 $1023.88 | Rake $1.12
+*** SHOW DOWN 2 ***
+Main pot 2 $1023.88 | Rake $1.12
+xplo1t4bl3 shows [Kd Ah] (a combo of some cards [Qs Qh Qc Ah Kd])
+acrbotv10a shows [Ks Jh] (a combo of some cards [Qs Qh Qc Ks Jh])
+xplo1t4bl3 collected $1023.87 from main pot 2
+*** SUMMARY ***
+Total pot $2047.75 | Rake $2.25
+Board 1 [7d 9c 8h 3s 3d]
+Seat 2: Nimble123 folded on the Pre-Flop and did not bet
+Seat 3: xplo1t4bl3 (button) showed [Kd Ah] and won $1023.88 with OnePair [3s 3d Ah Kd 9c]
+Seat 4: v3MGA (small blind) folded on the Pre-Flop
+Seat 5: acrbotv10a (big blind) showed [Ks Jh] and lost with a
+Board 2 [Qc Qh 7h Qs 2h]
+Seat 2: Nimble123 folded on the Pre-Flop and did not bet
+Seat 3: xplo1t4bl3 (button) showed [Kd Ah] and won $1023.87 with ThreeOfAKind [Qs Qh Qc Ah Kd]
+Seat 4: v3MGA (small blind) folded on the Pre-Flop
+Seat 5: acrbotv10a (big blind) showed [Ks Jh] and lost with a
+
+
+Hand #1833174013 - Holdem(No Limit) - $50/$100 - 2023/08/24 14:51:54 UTC
+7 Day No Rathole 50/100 NLH 9-max Seat #4 is the button
+Seat 2: Nimble123 ($1150)
+Seat 3: xplo1t4bl3 ($6450.81)
+Seat 4: v3MGA ($10000)
+Seat 5: acrbotv10a ($1000)
+Seat 6: chop-ch0p ($10000)
+acrbotv10a posts the small blind $50
+Nimble123 posts the big blind $100
+*** HOLE CARDS *** 
+xplo1t4bl3 raises $5653.90 to $5653.90
+v3MGA folds
+acrbotv10a folds
+Nimble123 folds
+Uncalled bet ($5553.90) returned to xplo1t4bl3
+xplo1t4bl3 does not show
+*** SUMMARY ***
+Total pot $250
+Seat 2: Nimble123 (big blind) folded on the Pre-Flop
+Seat 3: xplo1t4bl3 did not showed and won $250
+Seat 4: v3MGA (button) folded on the Pre-Flop and did not bet
+Seat 5: acrbotv10a (small blind) folded on the Pre-Flop
+
+
+Hand #1833228475 - Holdem(No Limit) - $50/$100 - 2023/08/24 16:12:19 UTC
+7 Day No Rathole 50/100 NLH 9-max Seat #2 is the button
+Seat 2: Nimble123 ($1050)
+Seat 5: grimywaifu ($1000)
+Nimble123 posts the small blind $50
+grimywaifu posts the big blind $100
+*** HOLE CARDS *** 
+Nimble123 raises $1000 to $1050 and is all-in
+grimywaifu folds
+Uncalled bet ($950) returned to Nimble123
+Nimble123 does not show
+*** SUMMARY ***
+Total pot $200
+Seat 2: Nimble123 (small blind) did not showed and won $200
+Seat 5: grimywaifu (big blind) folded on the Pre-Flop
+
+
+Hand #1833228786 - Holdem(No Limit) - $50/$100 - 2023/08/24 16:12:47 UTC
+7 Day No Rathole 50/100 NLH 9-max Seat #5 is the button
+Seat 2: Nimble123 ($1150)
+Seat 5: grimywaifu ($1000)
+grimywaifu posts the small blind $50
+Nimble123 posts the big blind $100
+*** HOLE CARDS *** 
+grimywaifu calls $50
+Nimble123 checks
+*** FLOP *** [4d 9s 8s]
+Main pot $198.75 | Rake $1.25
+Nimble123 checks
+grimywaifu bets $100
+Nimble123 folds
+Uncalled bet ($100) returned to grimywaifu
+grimywaifu does not show
+*** SUMMARY ***
+Total pot $198.75 | Rake $1.25
+Seat 2: Nimble123 (big blind) folded on the Flop
+Seat 5: grimywaifu (small blind) did not showed and won $198.75
+
+
+Hand #1833229215 - Holdem(No Limit) - $50/$100 - 2023/08/24 16:12:54 UTC
+7 Day No Rathole 50/100 NLH 9-max Seat #2 is the button
+Seat 1: the_mask ($10000)
+Seat 2: Nimble123 ($1050)
+Seat 5: grimywaifu ($1098.75)
+Nimble123 posts the small blind $50
+grimywaifu posts the big blind $100
+*** HOLE CARDS *** 
+Nimble123 folds
+*** SUMMARY ***
+Total pot $150
+Seat 2: Nimble123 (small blind) folded on the Pre-Flop
+Seat 5: grimywaifu (big blind) did not showed and won $150
+
+
+Hand #1833229358 - Holdem(No Limit) - $50/$100 - 2023/08/24 16:13:06 UTC
+7 Day No Rathole 50/100 NLH 9-max Seat #2 is the button
+Seat 1: the_mask ($1000)
+Seat 2: Nimble123 ($10000)
+Seat 5: grimywaifu ($1148.75)
+grimywaifu posts the small blind $50
+the_mask posts the big blind $100
+*** HOLE CARDS *** 
+Nimble123 folds
+grimywaifu raises $1098.75 to $1148.75 and is all-in
+the_mask calls $900 and is all-in
+Uncalled bet ($148.75) returned to grimywaifu
+grimywaifu does not show
+*** FLOP *** [9s Kd 6c]
+Main pot $1998.25 | Rake $1.75
+*** TURN *** [9s Kd 6c] [7h]
+Main pot $1998.25 | Rake $1.75
+*** RIVER *** [9s Kd 6c 7h] [7s]
+Main pot $1998.25 | Rake $1.75
+*** SHOW DOWN ***
+Main pot $1998.25 | Rake $1.75
+the_mask shows [Ad Qs] (a combo of some cards [7s 7h Ad Kd Qs])
+grimywaifu shows [Jd Ts] (a combo of some cards [7s 7h Kd Jd Ts])
+the_mask collected $1998.25 from main pot
+*** SUMMARY ***
+Total pot $1998.25 | Rake $1.75
+Seat 1: the_mask (big blind) showed [Ad Qs] and won $1998.25 with OnePair [7s 7h Ad Kd Qs]
+Seat 2: Nimble123 (button) folded on the Pre-Flop and did not bet
+Seat 5: grimywaifu (small blind) showed [Jd Ts] and lost
+
+
+Hand #1833229817 - Holdem(No Limit) - $50/$100 - 2023/08/24 16:13:41 UTC
+7 Day No Rathole 50/100 NLH 9-max Seat #5 is the button
+Seat 1: the_mask ($1998.25)
+Seat 2: Nimble123 ($1000)
+Seat 5: grimywaifu ($1000)
+the_mask posts the small blind $50
+Nimble123 posts the big blind $100
+*** HOLE CARDS *** 
+grimywaifu raises $200 to $200
+the_mask raises $1948.25 to $1998.25 and is all-in
+Nimble123 folds
+grimywaifu folds
+Uncalled bet ($1798.25) returned to the_mask
+the_mask does not show
+*** SUMMARY ***
+Total pot $500
+Seat 1: the_mask (small blind) did not showed and won $500
+Seat 2: Nimble123 (big blind) folded on the Pre-Flop
+Seat 5: grimywaifu (button) folded on the Pre-Flop and did not bet
+
+
+Hand #1833230155 - Holdem(No Limit) - $50/$100 - 2023/08/24 16:13:58 UTC
+7 Day No Rathole 50/100 NLH 9-max Seat #1 is the button
+Seat 1: the_mask ($2298.25)
+Seat 2: Nimble123 ($1000)
+Seat 5: grimywaifu ($1000)
+Nimble123 posts the small blind $50
+grimywaifu posts the big blind $100
+*** HOLE CARDS *** 
+the_mask raises $2298.25 to $2298.25 and is all-in
+Nimble123 folds
+grimywaifu folds
+Uncalled bet ($2198.25) returned to the_mask
+the_mask does not show
+*** SUMMARY ***
+Total pot $250
+Seat 1: the_mask (button) did not showed and won $250
+Seat 2: Nimble123 (small blind) folded on the Pre-Flop
+Seat 5: grimywaifu (big blind) folded on the Pre-Flop
+
+
+Hand #1833230425 - Holdem(No Limit) - $50/$100 - 2023/08/24 16:14:21 UTC
+7 Day No Rathole 50/100 NLH 9-max Seat #2 is the button
+Seat 1: the_mask ($2448.25)
+Seat 2: Nimble123 ($10000)
+Seat 5: grimywaifu ($1000)
+grimywaifu posts the small blind $50
+the_mask posts the big blind $100
+*** HOLE CARDS *** 
+Nimble123 folds
+grimywaifu folds
+*** SUMMARY ***
+Total pot $150
+Seat 1: the_mask (big blind) did not showed and won $150
+Seat 2: Nimble123 (button) folded on the Pre-Flop and did not bet
+Seat 5: grimywaifu (small blind) folded on the Pre-Flop
+
+
+Hand #1833230826 - Holdem(No Limit) - $50/$100 - 2023/08/24 16:14:47 UTC
+7 Day No Rathole 50/100 NLH 9-max Seat #5 is the button
+Seat 1: the_mask ($2498.25)
+Seat 2: Nimble123 ($1000)
+Seat 5: grimywaifu ($10000)
+the_mask posts the small blind $50
+Nimble123 posts the big blind $100
+*** HOLE CARDS *** 
+grimywaifu folds
+the_mask raises $2448.25 to $2498.25 and is all-in
+Nimble123 calls $900 and is all-in
+Uncalled bet ($1498.25) returned to the_mask
+the_mask does not show
+*** RUN IT TWICE ***
+*** FLOP 1 *** [Js 5h 7d]
+Main pot 1 $999.12 | Rake $0.88
+*** TURN 1 *** [Js 5h 7d] [Th]
+Main pot 1 $999.12 | Rake $0.88
+*** RIVER 1 *** [Js 5h 7d Th] [6s]
+Main pot 1 $999.12 | Rake $0.88
+*** SHOW DOWN 1 ***
+Main pot 1 $999.12 | Rake $0.88
+the_mask shows [2c 2s] (a combo of some cards [2s 2c Js Th 7d])
+Nimble123 shows [Jd Qc] (a combo of some cards [Js Jd Qc Th 7d])
+Nimble123 collected $999.13 from main pot 1
+*** FLOP 2 *** [4s 4c Kd]
+Main pot 2 $999.13 | Rake $0.87
+*** TURN 2 *** [4s 4c Kd] [7s]
+Main pot 2 $999.13 | Rake $0.87
+*** RIVER 2 *** [4s 4c Kd 7s] [Qd]
+Main pot 2 $999.13 | Rake $0.87
+*** SHOW DOWN 2 ***
+Main pot 2 $999.13 | Rake $0.87
+the_mask shows [2c 2s] (a combo of some cards [4s 4c 2s 2c Kd])
+Nimble123 shows [Jd Qc] (a combo of some cards [Qd Qc 4s 4c Kd])
+Nimble123 collected $999.12 from main pot 2
+*** SUMMARY ***
+Total pot $1998.25 | Rake $1.75
+Board 1 [Js 5h 7d Th 6s]
+Seat 1: the_mask (small blind) showed [2c 2s] and lost with a
+Seat 2: Nimble123 (big blind) showed [Jd Qc] and won $999.13 with OnePair [Js Jd Qc Th 7d]
+Seat 5: grimywaifu (button) folded on the Pre-Flop and did not bet
+Board 2 [4s 4c Kd 7s Qd]
+Seat 1: the_mask (small blind) showed [2c 2s] and lost with a
+Seat 2: Nimble123 (big blind) showed [Jd Qc] and won $999.12 with TwoPair [Qd Qc 4s 4c Kd]
+Seat 5: grimywaifu (button) folded on the Pre-Flop and did not bet
+
+
+Hand #1833231531 - Holdem(No Limit) - $50/$100 - 2023/08/24 16:15:22 UTC
+7 Day No Rathole 50/100 NLH 9-max Seat #1 is the button
+Seat 1: the_mask ($10000)
+Seat 2: Nimble123 ($1998.25)
+Seat 5: grimywaifu ($1000)
+Nimble123 posts the small blind $50
+grimywaifu posts the big blind $100
+*** HOLE CARDS *** 
+the_mask folds
+Nimble123 raises $1948.25 to $1998.25 and is all-in
+grimywaifu folds
+Uncalled bet ($1898.25) returned to Nimble123
+Nimble123 does not show
+*** SUMMARY ***
+Total pot $200
+Seat 1: the_mask (button) folded on the Pre-Flop and did not bet
+Seat 2: Nimble123 (small blind) did not showed and won $200
+Seat 5: grimywaifu (big blind) folded on the Pre-Flop
+
+
+Hand #1833231869 - Holdem(No Limit) - $50/$100 - 2023/08/24 16:15:40 UTC
+7 Day No Rathole 50/100 NLH 9-max Seat #5 is the button
+Seat 1: the_mask ($10000)
+Seat 2: Nimble123 ($2098.25)
+Seat 5: grimywaifu ($1000)
+Seat 6: bigsoowoop ($10000)
+grimywaifu posts the small blind $50
+Nimble123 posts the big blind $100
+*** HOLE CARDS *** 
+grimywaifu raises $950 to $1000 and is all-in
+Nimble123 folds
+Uncalled bet ($900) returned to grimywaifu
+grimywaifu does not show
+*** SUMMARY ***
+Total pot $200
+Seat 2: Nimble123 (big blind) folded on the Pre-Flop
+Seat 5: grimywaifu (small blind) did not showed and won $200
+
+
+Hand #1833232165 - Holdem(No Limit) - $50/$100 - 2023/08/24 16:15:56 UTC
+7 Day No Rathole 50/100 NLH 9-max Seat #2 is the button
+Seat 2: Nimble123 ($1998.25)
+Seat 5: grimywaifu ($1100)
+Seat 6: bigsoowoop ($10000)
+Nimble123 posts the small blind $50
+grimywaifu posts the big blind $100
+*** HOLE CARDS *** 
+Nimble123 raises $1948.25 to $1998.25 and is all-in
+grimywaifu calls $1000 and is all-in
+Uncalled bet ($898.25) returned to Nimble123
+Nimble123 does not show
+*** RUN IT TWICE ***
+*** FLOP 1 *** [Js 8h As]
+Main pot 1 $1099.37 | Rake $0.63
+*** TURN 1 *** [Js 8h As] [4d]
+Main pot 1 $1099.37 | Rake $0.63
+*** RIVER 1 *** [Js 8h As 4d] [Jc]
+Main pot 1 $1099.37 | Rake $0.63
+*** SHOW DOWN 1 ***
+Main pot 1 $1099.37 | Rake $0.63
+Nimble123 shows [Kc Td] (a combo of some cards [Js Jc As Kc Td])
+grimywaifu shows [Qd Th] (a combo of some cards [Js Jc As Qd Th])
+Nimble123 collected $1099.38 from main pot 1
+*** FLOP 2 *** [7c 4s Jh]
+Main pot 2 $1099.38 | Rake $0.62
+*** TURN 2 *** [7c 4s Jh] [7s]
+Main pot 2 $1099.38 | Rake $0.62
+*** RIVER 2 *** [7c 4s Jh 7s] [8c]
+Main pot 2 $1099.38 | Rake $0.62
+*** SHOW DOWN 2 ***
+Main pot 2 $1099.38 | Rake $0.62
+Nimble123 shows [Kc Td] (a combo of some cards [7s 7c Kc Jh Td])
+grimywaifu shows [Qd Th] (a combo of some cards [7s 7c Qd Jh Th])
+Nimble123 collected $1099.37 from main pot 2
+*** SUMMARY ***
+Total pot $2198.75 | Rake $1.25
+Board 1 [Js 8h As 4d Jc]
+Seat 2: Nimble123 (small blind) showed [Kc Td] and won $1099.38 with OnePair [Js Jc As Kc Td]
+Seat 5: grimywaifu (big blind) showed [Qd Th] and lost with a
+Board 2 [7c 4s Jh 7s 8c]
+Seat 2: Nimble123 (small blind) showed [Kc Td] and won $1099.37 with OnePair [7s 7c Kc Jh Td]
+Seat 5: grimywaifu (big blind) showed [Qd Th] and lost with a
+
+
+Hand #1833232648 - Holdem(No Limit) - $50/$100 - 2023/08/24 16:16:29 UTC
+7 Day No Rathole 50/100 NLH 9-max Seat #2 is the button
+Seat 2: Nimble123 ($10000)
+Seat 5: grimywaifu ($1000)
+Seat 6: bigsoowoop ($6303.11)
+grimywaifu posts the small blind $50
+bigsoowoop posts the big blind $100
+*** HOLE CARDS *** 
+Nimble123 folds
+grimywaifu folds
+*** SUMMARY ***
+Total pot $150
+Seat 2: Nimble123 (button) folded on the Pre-Flop and did not bet
+Seat 5: grimywaifu (small blind) folded on the Pre-Flop
+Seat 6: bigsoowoop (big blind) did not showed and won $150
+
+
+Hand #1833232977 - Holdem(No Limit) - $50/$100 - 2023/08/24 16:16:41 UTC
+7 Day No Rathole 50/100 NLH 9-max Seat #5 is the button
+Seat 2: Nimble123 ($3097)
+Seat 5: grimywaifu ($10000)
+Seat 6: bigsoowoop ($6353.11)
+bigsoowoop posts the small blind $50
+Nimble123 posts the big blind $100
+*** HOLE CARDS *** 
+grimywaifu folds
+bigsoowoop folds
+*** SUMMARY ***
+Total pot $150
+Seat 2: Nimble123 (big blind) did not showed and won $150
+Seat 5: grimywaifu (button) folded on the Pre-Flop and did not bet
+Seat 6: bigsoowoop (small blind) folded on the Pre-Flop
+
+
+Hand #1833233180 - Holdem(No Limit) - $50/$100 - 2023/08/24 16:17:34 UTC
+7 Day No Rathole 50/100 NLH 9-max Seat #6 is the button
+Seat 2: Nimble123 ($3147)
+Seat 5: grimywaifu ($1000)
+Seat 6: bigsoowoop ($6303.11)
+Nimble123 posts the small blind $50
+grimywaifu posts the big blind $100
+*** HOLE CARDS *** 
+bigsoowoop raises $200 to $200
+Nimble123 folds
+grimywaifu calls $100
+*** FLOP *** [5c Tc 9h]
+Main pot $448.25 | Rake $1.75
+grimywaifu checks
+bigsoowoop bets $112.50
+grimywaifu calls $112.50
+*** TURN *** [5c Tc 9h] [Ac]
+Main pot $673.25 | Rake $1.75
+grimywaifu checks
+bigsoowoop bets $222.75
+grimywaifu folds
+Uncalled bet ($222.75) returned to bigsoowoop
+bigsoowoop does not show
+*** SUMMARY ***
+Total pot $673.25 | Rake $1.75
+Seat 2: Nimble123 (small blind) folded on the Pre-Flop
+Seat 5: grimywaifu (big blind) folded on the Turn
+Seat 6: bigsoowoop (button) did not showed and won $673.25
+
+
+Hand #1833234049 - Holdem(No Limit) - $50/$100 - 2023/08/24 16:17:42 UTC
+7 Day No Rathole 50/100 NLH 9-max Seat #5 is the button
+Seat 2: Nimble123 ($10000)
+Seat 5: grimywaifu ($1000)
+Seat 6: bigsoowoop ($6663.86)
+grimywaifu posts the small blind $50
+bigsoowoop posts the big blind $100
+*** HOLE CARDS *** 
+grimywaifu folds
+*** SUMMARY ***
+Total pot $150
+Seat 5: grimywaifu (small blind) folded on the Pre-Flop
+Seat 6: bigsoowoop (big blind) did not showed and won $150
+
+
+Hand #1833234193 - Holdem(No Limit) - $50/$100 - 2023/08/24 16:18:40 UTC
+7 Day No Rathole 50/100 NLH 9-max Seat #6 is the button
+Seat 5: grimywaifu ($1000)
+Seat 6: bigsoowoop ($6713.86)
+bigsoowoop posts the small blind $50
+grimywaifu posts the big blind $100
+*** HOLE CARDS *** 
+bigsoowoop calls $50
+grimywaifu checks
+*** FLOP *** [5d 3s Ac]
+Main pot $198.75 | Rake $1.25
+grimywaifu checks
+bigsoowoop bets $100
+grimywaifu calls $100
+*** TURN *** [5d 3s Ac] [Kc]
+Main pot $398.75 | Rake $1.25
+grimywaifu checks
+bigsoowoop checks
+*** RIVER *** [5d 3s Ac Kc] [7h]
+Main pot $398.75 | Rake $1.25
+grimywaifu checks
+bigsoowoop checks
+*** SUMMARY ***
+Total pot $398.75 | Rake $1.25
+Seat 5: grimywaifu (big blind) did not showed and lost
+Seat 6: bigsoowoop (small blind) did not showed and won $398.75
+
+
+Hand #1833235215 - Holdem(No Limit) - $50/$100 - 2023/08/24 16:19:05 UTC
+7 Day No Rathole 50/100 NLH 9-max Seat #5 is the button
+Seat 5: grimywaifu ($1000)
+Seat 6: bigsoowoop ($6912.61)
+grimywaifu posts the small blind $50
+bigsoowoop posts the big blind $100
+*** HOLE CARDS *** 
+grimywaifu calls $50
+bigsoowoop checks
+*** FLOP *** [2d 3d Jc]
+Main pot $198.75 | Rake $1.25
+bigsoowoop checks
+grimywaifu bets $100
+bigsoowoop folds
+Uncalled bet ($100) returned to grimywaifu
+grimywaifu does not show
+*** SUMMARY ***
+Total pot $198.75 | Rake $1.25
+Seat 5: grimywaifu (small blind) did not showed and won $198.75
+Seat 6: bigsoowoop (big blind) folded on the Flop
+
+
+Hand #1833235608 - Holdem(No Limit) - $50/$100 - 2023/08/24 16:19:26 UTC
+7 Day No Rathole 50/100 NLH 9-max Seat #6 is the button
+Seat 5: grimywaifu ($1098.75)
+Seat 6: bigsoowoop ($6812.61)
+bigsoowoop posts the small blind $50
+grimywaifu posts the big blind $100
+*** HOLE CARDS *** 
+bigsoowoop calls $50
+grimywaifu raises $150 to $250
+bigsoowoop raises $6712.61 to $6812.61 and is all-in
+grimywaifu folds
+Uncalled bet ($6562.61) returned to bigsoowoop
+bigsoowoop does not show
+*** SUMMARY ***
+Total pot $500
+Seat 5: grimywaifu (big blind) folded on the Pre-Flop
+Seat 6: bigsoowoop (small blind) did not showed and won $500
+
+
+Hand #1833235954 - Holdem(No Limit) - $50/$100 - 2023/08/24 16:19:42 UTC
+7 Day No Rathole 50/100 NLH 9-max Seat #5 is the button
+Seat 5: grimywaifu ($1000)
+Seat 6: bigsoowoop ($7062.61)
+grimywaifu posts the small blind $50
+bigsoowoop posts the big blind $100
+*** HOLE CARDS *** 
+grimywaifu calls $50
+bigsoowoop raises $6962.61 to $7062.61 and is all-in
+grimywaifu folds
+Uncalled bet ($6962.61) returned to bigsoowoop
+bigsoowoop does not show
+*** SUMMARY ***
+Total pot $200
+Seat 5: grimywaifu (small blind) folded on the Pre-Flop
+Seat 6: bigsoowoop (big blind) did not showed and won $200
+
+
+Hand #1833236234 - Holdem(No Limit) - $50/$100 - 2023/08/24 16:20:02 UTC
+7 Day No Rathole 50/100 NLH 9-max Seat #6 is the button
+Seat 5: grimywaifu ($1000)
+Seat 6: bigsoowoop ($7162.61)
+bigsoowoop posts the small blind $50
+grimywaifu posts the big blind $100
+*** HOLE CARDS *** 
+bigsoowoop calls $50
+grimywaifu raises $150 to $250
+bigsoowoop folds
+Uncalled bet ($150) returned to grimywaifu
+grimywaifu does not show
+*** SUMMARY ***
+Total pot $200
+Seat 5: grimywaifu (big blind) did not showed and won $200
+Seat 6: bigsoowoop (small blind) folded on the Pre-Flop
+
+
+Hand #1833236566 - Holdem(No Limit) - $50/$100 - 2023/08/24 16:20:17 UTC
+7 Day No Rathole 50/100 NLH 9-max Seat #5 is the button
+Seat 5: grimywaifu ($1100)
+Seat 6: bigsoowoop ($7062.61)
+grimywaifu posts the small blind $50
+bigsoowoop posts the big blind $100
+*** HOLE CARDS *** 
+grimywaifu calls $50
+bigsoowoop raises $6962.61 to $7062.61 and is all-in
+grimywaifu calls $1000 and is all-in
+Uncalled bet ($5962.61) returned to bigsoowoop
+bigsoowoop does not show
+*** FLOP *** [8s As Js]
+Main pot $2198.75 | Rake $1.25
+*** TURN *** [8s As Js] [2d]
+Main pot $2198.75 | Rake $1.25
+*** RIVER *** [8s As Js 2d] [Qc]
+Main pot $2198.75 | Rake $1.25
+*** SHOW DOWN ***
+Main pot $2198.75 | Rake $1.25
+grimywaifu shows [9d 9c] (a combo of some cards [9d 9c As Qc Js])
+bigsoowoop shows [Td Kc] (a combo of some cards [As Kc Qc Js Td])
+bigsoowoop collected $2198.75 from main pot
+*** SUMMARY ***
+Total pot $2198.75 | Rake $1.25
+Seat 5: grimywaifu (small blind) showed [9d 9c] and lost
+Seat 6: bigsoowoop (big blind) showed [Td Kc] and won $2198.75 with Straight [As Kc Qc Js Td]
+
+
+Hand #1833237084 - Holdem(No Limit) - $50/$100 - 2023/08/24 16:20:44 UTC
+7 Day No Rathole 50/100 NLH 9-max Seat #5 is the button
+Seat 5: grimywaifu ($10000)
+Seat 6: bigsoowoop ($8161.36)
+Seat 7: alanwatts15 ($1000)
+Seat 8: SebTozzi ($10000)
+bigsoowoop posts the small blind $50
+alanwatts15 posts the big blind $100
+*** HOLE CARDS *** 
+grimywaifu folds
+bigsoowoop folds
+*** SUMMARY ***
+Total pot $150
+Seat 5: grimywaifu (button) folded on the Pre-Flop and did not bet
+Seat 6: bigsoowoop (small blind) folded on the Pre-Flop
+Seat 7: alanwatts15 (big blind) did not showed and won $150
+
+
+Hand #1833237283 - Holdem(No Limit) - $50/$100 - 2023/08/24 16:20:54 UTC
+7 Day No Rathole 50/100 NLH 9-max Seat #6 is the button
+Seat 5: grimywaifu ($10000)
+Seat 6: bigsoowoop ($10000)
+Seat 7: alanwatts15 ($1050)
+Seat 8: SebTozzi ($1100)
+alanwatts15 posts the small blind $50
+SebTozzi posts the big blind $100
+*** HOLE CARDS *** 
+grimywaifu folds
+bigsoowoop folds
+alanwatts15 folds
+*** SUMMARY ***
+Total pot $150
+Seat 5: grimywaifu folded on the Pre-Flop and did not bet
+Seat 6: bigsoowoop (button) folded on the Pre-Flop and did not bet
+Seat 7: alanwatts15 (small blind) folded on the Pre-Flop
+Seat 8: SebTozzi (big blind) did not showed and won $150
+
+
+Hand #1833237470 - Holdem(No Limit) - $50/$100 - 2023/08/24 16:22:26 UTC
+7 Day No Rathole 50/100 NLH 9-max Seat #7 is the button
+Seat 5: grimywaifu ($1000)
+Seat 6: bigsoowoop ($8111.36)
+Seat 7: alanwatts15 ($10000)
+Seat 8: SebTozzi ($1150)
+SebTozzi posts the small blind $50
+grimywaifu posts the big blind $100
+*** HOLE CARDS *** 
+bigsoowoop raises $200 to $200
+alanwatts15 folds
+SebTozzi folds
+grimywaifu calls $100
+*** FLOP *** [7s Qs 6c]
+Main pot $447.75 | Rake $2.25
+grimywaifu checks
+bigsoowoop bets $112.50
+grimywaifu calls $112.50
+*** TURN *** [7s Qs 6c] [Qh]
+Main pot $672.75 | Rake $2.25
+grimywaifu checks
+bigsoowoop bets $222.75
+grimywaifu calls $222.75
+*** RIVER *** [7s Qs 6c Qh] [4d]
+Main pot $1118.25 | Rake $2.25
+grimywaifu bets $464.75 and is all-in
+bigsoowoop calls $464.75
+*** SHOW DOWN ***
+Main pot $1118.25 | Rake $2.25
+grimywaifu shows [8d 9c] (a combo of some cards [Qs Qh 9c 8d 7s])
+bigsoowoop shows [As Ks] (a combo of some cards [Qs Qh As Ks 7s])
+bigsoowoop collected $2047.75 from main pot
+*** SUMMARY ***
+Total pot $2047.75 | Rake $2.25
+Seat 5: grimywaifu (big blind) showed [8d 9c] and lost
+Seat 6: bigsoowoop showed [As Ks] and won $2047.75 with OnePair [Qs Qh As Ks 7s]
+Seat 7: alanwatts15 (button) folded on the Pre-Flop and did not bet
+Seat 8: SebTozzi (small blind) folded on the Pre-Flop
+
+
+Hand #1833242604 - Holdem(No Limit) - $50/$100 - 2023/08/24 16:26:21 UTC
+7 Day No Rathole 50/100 NLH 9-max Seat #5 is the button
+Seat 4: yourmytralala ($1000)
+Seat 5: grimywaifu ($1000)
+Seat 6: bigsoowoop ($10000)
+Seat 7: alanwatts15 ($10000)
+Seat 8: SebTozzi ($10000)
+grimywaifu posts the small blind $50
+yourmytralala posts the big blind $100
+*** HOLE CARDS *** 
+grimywaifu raises $950 to $1000 and is all-in
+yourmytralala folds
+Uncalled bet ($900) returned to grimywaifu
+grimywaifu does not show
+*** SUMMARY ***
+Total pot $200
+Seat 4: yourmytralala (big blind) folded on the Pre-Flop
+Seat 5: grimywaifu (small blind) did not showed and won $200
+
+
+Hand #1833243088 - Holdem(No Limit) - $50/$100 - 2023/08/24 16:26:54 UTC
+7 Day No Rathole 50/100 NLH 9-max Seat #4 is the button
+Seat 4: yourmytralala ($1000)
+Seat 5: grimywaifu ($1100)
+yourmytralala posts the small blind $50
+grimywaifu posts the big blind $100
+*** HOLE CARDS *** 
+yourmytralala calls $50
+grimywaifu raises $300 to $400
+yourmytralala calls $300
+*** FLOP *** [4h 2s 4c]
+Main pot $798.75 | Rake $1.25
+grimywaifu bets $700 and is all-in
+yourmytralala calls $600 and is all-in
+Uncalled bet ($100) returned to grimywaifu
+grimywaifu does not show
+*** TURN *** [4h 2s 4c] [5d]
+Main pot $1998.75 | Rake $1.25
+*** RIVER *** [4h 2s 4c 5d] [3c]
+Main pot $1998.75 | Rake $1.25
+*** SHOW DOWN ***
+Main pot $1998.75 | Rake $1.25
+yourmytralala shows [As Ac] (a combo of some cards [5d 4h 3c 2s As])
+grimywaifu shows [2h 8s] (a combo of some cards [4h 4c 2s 2h 8s])
+yourmytralala collected $1998.75 from main pot
+*** SUMMARY ***
+Total pot $1998.75 | Rake $1.25
+Seat 4: yourmytralala (small blind) showed [As Ac] and won $1998.75 with Straight [5d 4h 3c 2s As]
+Seat 5: grimywaifu (big blind) showed [2h 8s] and lost
+
+
+
+

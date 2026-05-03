@@ -1,0 +1,378 @@
+
+Hand #1902214893 - Holdem(No Limit) - $50/$100 - 2023/10/20 21:03:47 UTC
+Humboldt 6-max Seat #4 is the button
+Seat 2: TIKITAKA11 ($13048.79)
+Seat 4: moneybyebye ($10476.21)
+Seat 6: iWasOnly17 ($11658)
+TIKITAKA11 posts ante $500
+moneybyebye posts ante $500
+iWasOnly17 posts ante $500
+*** HOLE CARDS *** 
+*** FLOP *** [6d 3h Jd]
+Main pot $1498.25 | Rake $1.75
+iWasOnly17 bets $150
+TIKITAKA11 calls $150
+moneybyebye raises $1125 to $1125
+iWasOnly17 calls $975
+TIKITAKA11 folds
+*** TURN *** [6d 3h Jd] [4c]
+Main pot $3898.25 | Rake $1.75
+iWasOnly17 checks
+moneybyebye bets $2675
+iWasOnly17 calls $2675
+*** RIVER *** [6d 3h Jd 4c] [4d]
+Main pot $9248.25 | Rake $1.75
+iWasOnly17 checks
+moneybyebye bets $6176.21 and is all-in
+iWasOnly17 calls $6176.21
+*** SHOW DOWN ***
+Main pot $9248.25 | Rake $1.75
+iWasOnly17 shows [Jh Ad]
+moneybyebye shows [Kd Ah]
+iWasOnly17 collected $21600.67 from main pot
+*** SUMMARY ***
+BombPot
+Total pot $21600.67 | Rake $1.75
+Seat 2: TIKITAKA11 folded on the Flop
+Seat 4: moneybyebye (button) showed [Kd Ah] and lost
+Seat 6: iWasOnly17 showed [Jh Ad] and won $21600.67 with TwoPair [Jh Jd 4d 4c Ad]
+
+
+Hand #1902238467 - Holdem(No Limit) - $50/$100 - 2023/10/20 21:24:59 UTC
+Humboldt 6-max Seat #3 is the button
+Seat 1: OhHiMark18 ($10170)
+Seat 2: TIKITAKA11 ($10000)
+Seat 3: zenpudgy ($11555.25)
+Seat 4: moneybyebye ($11219.15)
+Seat 5: Haftbefehl ($4000)
+Seat 6: iWasOnly17 ($27241.96)
+OhHiMark18 posts ante $500
+TIKITAKA11 posts ante $500
+zenpudgy posts ante $500
+moneybyebye posts ante $500
+Haftbefehl posts ante $500
+iWasOnly17 posts ante $500
+*** HOLE CARDS *** 
+*** FLOP *** [7s Ts 5d]
+Main pot $2997 | Rake $3
+moneybyebye checks
+Haftbefehl checks
+iWasOnly17 checks
+OhHiMark18 checks
+TIKITAKA11 checks
+zenpudgy checks
+*** TURN *** [7s Ts 5d] [Th]
+Main pot $2997 | Rake $3
+moneybyebye checks
+Haftbefehl checks
+iWasOnly17 checks
+OhHiMark18 checks
+TIKITAKA11 checks
+zenpudgy checks
+*** RIVER *** [7s Ts 5d Th] [9s]
+Main pot $2997 | Rake $3
+moneybyebye checks
+Haftbefehl checks
+iWasOnly17 checks
+OhHiMark18 checks
+TIKITAKA11 checks
+zenpudgy checks
+*** SHOW DOWN ***
+Main pot $2997 | Rake $3
+moneybyebye shows [8s Ac]
+moneybyebye collected $2997 from main pot
+*** SUMMARY ***
+BombPot
+Total pot $2997 | Rake $3
+Seat 1: OhHiMark18 did not showed and lost
+Seat 2: TIKITAKA11 did not showed and lost
+Seat 3: zenpudgy (button) did not showed and lost
+Seat 4: moneybyebye showed [8s Ac] and won $2997 with OnePair [Ts Th Ac 9s 8s]
+Seat 5: Haftbefehl did not showed and lost
+Seat 6: iWasOnly17 did not showed and lost
+
+
+Hand #1902279640 - Holdem(No Limit) - $50/$100 - 2023/10/20 22:04:36 UTC
+Humboldt 6-max Seat #4 is the button
+Seat 2: TIKITAKA11 ($12453.75)
+Seat 4: moneybyebye ($28423.29)
+Seat 6: iWasOnly17 ($11334.32)
+TIKITAKA11 posts ante $500
+moneybyebye posts ante $500
+iWasOnly17 posts ante $500
+*** HOLE CARDS *** 
+*** FLOP *** [2s Ad 7c]
+Main pot $1498.25 | Rake $1.75
+iWasOnly17 bets $150
+TIKITAKA11 raises $600 to $600
+moneybyebye folds
+iWasOnly17 calls $450
+*** TURN *** [2s Ad 7c] [2h]
+Main pot $2698.25 | Rake $1.75
+iWasOnly17 checks
+TIKITAKA11 checks
+*** RIVER *** [2s Ad 7c 2h] [Ks]
+Main pot $2698.25 | Rake $1.75
+iWasOnly17 bets $2025
+TIKITAKA11 folds
+Uncalled bet ($2025) returned to iWasOnly17
+iWasOnly17 does not show
+*** SUMMARY ***
+BombPot
+Total pot $2698.25 | Rake $1.75
+Seat 2: TIKITAKA11 folded on the River
+Seat 4: moneybyebye (button) folded on the Flop
+Seat 6: iWasOnly17 did not showed and won $2698.25
+
+
+Hand #1902296182 - Holdem(No Limit) - $50/$100 - 2023/10/20 22:18:44 UTC
+Humboldt 6-max Seat #6 is the button
+Seat 2: TIKITAKA11 ($13021.24)
+Seat 4: moneybyebye ($28868.15)
+Seat 6: iWasOnly17 ($10299.22)
+TIKITAKA11 posts ante $500
+moneybyebye posts ante $500
+iWasOnly17 posts ante $500
+*** HOLE CARDS *** 
+*** FLOP *** [Ac 5c Jh]
+Main pot $1498.25 | Rake $1.75
+TIKITAKA11 checks
+moneybyebye checks
+iWasOnly17 bets $450
+TIKITAKA11 raises $1350 to $1350
+moneybyebye raises $2800 to $2800
+iWasOnly17 raises $9349.22 to $9799.22 and is all-in
+TIKITAKA11 folds
+moneybyebye folds
+Uncalled bet ($6999.22) returned to iWasOnly17
+iWasOnly17 does not show
+*** SUMMARY ***
+BombPot
+Total pot $8448.25 | Rake $1.75
+Seat 2: TIKITAKA11 folded on the Flop
+Seat 4: moneybyebye folded on the Flop
+Seat 6: iWasOnly17 (button) did not showed and won $8448.25
+
+
+Hand #1902943883 - Holdem(No Limit) - $50/$100 - 2023/10/21 14:12:25 UTC
+El Paso 6-max Seat #1 is the button
+Seat 1: JohnMcShen ($15430.25)
+Seat 2: TIKITAKA11 ($10149.50)
+Seat 3: oneplusone ($12872.77)
+Seat 5: borntotilt ($12538.50)
+Seat 6: iWasOnly17 ($17077.50)
+JohnMcShen posts ante $500
+TIKITAKA11 posts ante $500
+oneplusone posts ante $500
+borntotilt posts ante $500
+iWasOnly17 posts ante $500
+*** HOLE CARDS *** 
+*** FLOP *** [8h 6s Td]
+Main pot $2497 | Rake $3
+TIKITAKA11 checks
+oneplusone checks
+borntotilt checks
+iWasOnly17 checks
+JohnMcShen bets $650
+TIKITAKA11 calls $650
+oneplusone folds
+borntotilt folds
+iWasOnly17 folds
+*** TURN *** [8h 6s Td] [5d]
+Main pot $3797 | Rake $3
+TIKITAKA11 checks
+JohnMcShen checks
+*** RIVER *** [8h 6s Td 5d] [Th]
+Main pot $3797 | Rake $3
+TIKITAKA11 bets $2850
+JohnMcShen folds
+Uncalled bet ($2850) returned to TIKITAKA11
+TIKITAKA11 does not show
+*** SUMMARY ***
+BombPot
+Total pot $3797 | Rake $3
+Seat 1: JohnMcShen (button) folded on the River
+Seat 2: TIKITAKA11 did not showed and won $3797
+Seat 3: oneplusone folded on the Flop
+Seat 5: borntotilt folded on the Flop
+Seat 6: iWasOnly17 folded on the Flop
+
+
+Hand #1902950103 - Holdem(No Limit) - $50/$100 - 2023/10/21 14:23:16 UTC
+El Paso 6-max Seat #6 is the button
+Seat 1: JohnMcShen ($12777.22)
+Seat 2: TIKITAKA11 ($11866.50)
+Seat 3: oneplusone ($13871.77)
+Seat 5: borntotilt ($13878.50)
+Seat 6: iWasOnly17 ($15656.53)
+JohnMcShen posts ante $500
+TIKITAKA11 posts ante $500
+oneplusone posts ante $500
+borntotilt posts ante $500
+iWasOnly17 posts ante $500
+*** HOLE CARDS *** 
+*** FLOP *** [9d Js Tc]
+Main pot $2497 | Rake $3
+JohnMcShen checks
+TIKITAKA11 checks
+oneplusone checks
+borntotilt checks
+iWasOnly17 bets $750
+JohnMcShen folds
+TIKITAKA11 folds
+oneplusone folds
+borntotilt calls $750
+*** TURN *** [9d Js Tc] [9c]
+Main pot $3997 | Rake $3
+borntotilt checks
+iWasOnly17 bets $3000
+borntotilt folds
+Uncalled bet ($3000) returned to iWasOnly17
+iWasOnly17 does not show
+*** SUMMARY ***
+BombPot
+Total pot $3997 | Rake $3
+Seat 1: JohnMcShen folded on the Flop
+Seat 2: TIKITAKA11 folded on the Flop
+Seat 3: oneplusone folded on the Flop
+Seat 5: borntotilt folded on the Turn
+Seat 6: iWasOnly17 (button) did not showed and won $3997
+
+
+Hand #1902963356 - Holdem(No Limit) - $50/$100 - 2023/10/21 14:47:32 UTC
+El Paso 6-max Seat #1 is the button
+Seat 1: JohnMcShen ($17486.72)
+Seat 2: TIKITAKA11 ($12885.50)
+Seat 3: oneplusone ($10000)
+Seat 4: vesnapisarovic ($10000)
+Seat 5: borntotilt ($13256.50)
+Seat 6: iWasOnly17 ($19995.53)
+JohnMcShen posts ante $500
+TIKITAKA11 posts ante $500
+oneplusone posts ante $500
+vesnapisarovic posts ante $500
+borntotilt posts ante $500
+iWasOnly17 posts ante $500
+*** HOLE CARDS *** 
+*** FLOP *** [6h 6d 6c]
+Main pot $2997 | Rake $3
+TIKITAKA11 checks
+oneplusone checks
+vesnapisarovic checks
+borntotilt checks
+iWasOnly17 checks
+JohnMcShen checks
+*** TURN *** [6h 6d 6c] [2c]
+Main pot $2997 | Rake $3
+TIKITAKA11 checks
+oneplusone checks
+vesnapisarovic checks
+borntotilt bets $930
+iWasOnly17 folds
+JohnMcShen calls $930
+TIKITAKA11 folds
+oneplusone folds
+vesnapisarovic calls $930
+*** RIVER *** [6h 6d 6c 2c] [2h]
+Main pot $5787 | Rake $3
+vesnapisarovic checks
+borntotilt checks
+JohnMcShen bets $2893.50
+vesnapisarovic calls $2893.50
+borntotilt calls $2893.50
+*** SHOW DOWN ***
+Main pot $5787 | Rake $3
+JohnMcShen shows [Ks 6s]
+JohnMcShen collected $14467.50 from main pot
+*** SUMMARY ***
+BombPot
+Total pot $14467.50 | Rake $3
+Seat 1: JohnMcShen (button) showed [Ks 6s] and won $14467.50 with FourOfAKind [6s 6h 6d 6c Ks]
+Seat 2: TIKITAKA11 folded on the Turn
+Seat 3: oneplusone folded on the Turn
+Seat 4: vesnapisarovic did not showed and lost
+Seat 5: borntotilt did not showed and lost
+Seat 6: iWasOnly17 folded on the Turn
+
+
+Hand #1902969656 - Holdem(No Limit) - $50/$100 - 2023/10/21 14:55:33 UTC
+El Paso 6-max Seat #6 is the button
+Seat 1: JohnMcShen ($26873.65)
+Seat 2: TIKITAKA11 ($10000)
+Seat 3: oneplusone ($10467)
+Seat 4: vesnapisarovic ($14800.47)
+Seat 5: borntotilt ($10000)
+Seat 6: iWasOnly17 ($19495.53)
+JohnMcShen posts ante $500
+TIKITAKA11 posts ante $500
+oneplusone posts ante $500
+vesnapisarovic posts ante $500
+borntotilt posts ante $500
+iWasOnly17 posts ante $500
+*** HOLE CARDS *** 
+*** FLOP *** [5c 3s Ah]
+Main pot $2997 | Rake $3
+JohnMcShen checks
+TIKITAKA11 bets $300
+oneplusone folds
+vesnapisarovic folds
+borntotilt calls $300
+iWasOnly17 folds
+JohnMcShen calls $300
+*** TURN *** [5c 3s Ah] [Tc]
+Main pot $3897 | Rake $3
+JohnMcShen checks
+TIKITAKA11 bets $2574
+borntotilt folds
+JohnMcShen folds
+Uncalled bet ($2574) returned to TIKITAKA11
+TIKITAKA11 does not show
+*** SUMMARY ***
+BombPot
+Total pot $3897 | Rake $3
+Seat 1: JohnMcShen folded on the Turn
+Seat 2: TIKITAKA11 did not showed and won $3897
+Seat 3: oneplusone folded on the Flop
+Seat 4: vesnapisarovic folded on the Flop
+Seat 5: borntotilt folded on the Turn
+Seat 6: iWasOnly17 (button) folded on the Flop
+
+
+Hand #1902975128 - Holdem(No Limit) - $50/$100 - 2023/10/21 15:07:21 UTC
+El Paso 6-max Seat #2 is the button
+Seat 1: JohnMcShen ($20894.65)
+Seat 2: TIKITAKA11 ($12878.50)
+Seat 3: oneplusone ($10672)
+Seat 4: vesnapisarovic ($10000)
+Seat 5: borntotilt ($10000)
+Seat 6: iWasOnly17 ($30249.78)
+JohnMcShen posts ante $500
+TIKITAKA11 posts ante $500
+oneplusone posts ante $500
+vesnapisarovic posts ante $500
+borntotilt posts ante $500
+iWasOnly17 posts ante $500
+*** HOLE CARDS *** 
+*** FLOP *** [Ah Ac 6d]
+Main pot $2997 | Rake $3
+oneplusone bets $300
+vesnapisarovic folds
+borntotilt folds
+iWasOnly17 calls $300
+JohnMcShen calls $300
+TIKITAKA11 raises $1200 to $1200
+oneplusone folds
+iWasOnly17 folds
+JohnMcShen folds
+Uncalled bet ($900) returned to TIKITAKA11
+TIKITAKA11 does not show
+*** SUMMARY ***
+BombPot
+Total pot $4197 | Rake $3
+Seat 1: JohnMcShen folded on the Flop
+Seat 2: TIKITAKA11 (button) did not showed and won $4197
+Seat 3: oneplusone folded on the Flop
+Seat 4: vesnapisarovic folded on the Flop
+Seat 5: borntotilt folded on the Flop
+Seat 6: iWasOnly17 folded on the Flop
+

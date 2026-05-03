@@ -1,0 +1,130 @@
+PokerStars Hand #1485068898:  Hold'em No Limit ($50.00/$100.00 USD) - 2022/12/14 20:44:42 ET
+Table 'WPN_7 Day No Rathole 50/100 NLH' 9-max Seat #2 is the button
+Seat 2: Sabazius ($1000.00 in chips)
+Seat 7: DoublelegTD ($8601.57 in chips)
+Sabazius: posts small blind $50.00
+DoublelegTD: posts big blind $100.00
+*** HOLE CARDS ***
+Sabazius: raises $900.00 to $1000.00 and is all-in
+DoublelegTD: calls $900.00
+*** FIRST FLOP *** [Td 8c 8h]
+*** FIRST TURN *** [Td 8c 8h] [3c]
+*** FIRST RIVER *** [Td 8c 8h 3c] [Qh]
+*** SECOND FLOP *** [7d 8d Qd]
+*** SECOND TURN *** [7d 8d Qd] [Ks]
+*** SECOND RIVER *** [7d 8d Qd Ks] [7h]
+*** FIRST SHOW DOWN ***
+Sabazius: shows [Ac 3s]
+DoublelegTD: shows [5s Kc]
+Sabazius collected $999.38 from pot
+*** SECOND SHOW DOWN ***
+Sabazius: shows [Ac 3s]
+DoublelegTD: shows [5s Kc]
+DoublelegTD collected $999.37 from pot
+*** SUMMARY ***
+Total pot $2000.00 | Rake $1.25
+Hand was run twice
+FIRST Board [Td 8c 8h 3c Qh]
+SECOND Board [7d 8d Qd Ks 7h]
+Seat 2: Sabazius (button) (small blind) showed [Ac 3s] and won ($999.38), and lost
+Seat 7: DoublelegTD (big blind) showed [5s Kc] and lost, and won ($999.37)
+
+PokerStars Hand #1485069374:  Hold'em No Limit ($50.00/$100.00 USD) - 2022/12/14 20:45:07 ET
+Table 'WPN_7 Day No Rathole 50/100 NLH' 9-max Seat #7 is the button
+Seat 2: Sabazius ($1000.00 in chips)
+Seat 7: DoublelegTD ($8600.94 in chips)
+DoublelegTD: posts small blind $50.00
+Sabazius: posts big blind $100.00
+*** HOLE CARDS ***
+DoublelegTD: folds
+Uncalled bet ($50.00) returned to Sabazius
+Sabazius collected $100.00 from pot
+Sabazius: doesn't show hand
+*** SUMMARY ***
+Total pot $100.00 | Rake $0.00
+Seat 2: Sabazius (big blind) collected ($100.00)
+Seat 7: DoublelegTD (button) (small blind) folded before Flop
+
+PokerStars Hand #1485069571:  Hold'em No Limit ($50.00/$100.00 USD) - 2022/12/14 20:45:19 ET
+Table 'WPN_7 Day No Rathole 50/100 NLH' 9-max Seat #2 is the button
+Seat 2: Sabazius ($1050.00 in chips)
+Seat 7: DoublelegTD ($8550.94 in chips)
+Sabazius: posts small blind $50.00
+DoublelegTD: posts big blind $100.00
+*** HOLE CARDS ***
+Sabazius: folds
+Uncalled bet ($50.00) returned to DoublelegTD
+DoublelegTD collected $100.00 from pot
+DoublelegTD: doesn't show hand
+*** SUMMARY ***
+Total pot $100.00 | Rake $0.00
+Seat 2: Sabazius (button) (small blind) folded before Flop
+Seat 7: DoublelegTD (big blind) collected ($100.00)
+
+PokerStars Hand #1485069944:  Hold'em No Limit ($50.00/$100.00 USD) - 2022/12/14 20:45:39 ET
+Table 'WPN_7 Day No Rathole 50/100 NLH' 9-max Seat #7 is the button
+Seat 2: Sabazius ($1000.00 in chips)
+Seat 7: DoublelegTD ($8600.94 in chips)
+DoublelegTD: posts small blind $50.00
+Sabazius: posts big blind $100.00
+*** HOLE CARDS ***
+DoublelegTD: raises $1100.00 to $1200.00
+Sabazius: calls $900.00 and is all-in
+Uncalled bet ($200.00) returned to DoublelegTD
+*** FIRST FLOP *** [Qd 7c As]
+*** FIRST TURN *** [Qd 7c As] [Jd]
+*** FIRST RIVER *** [Qd 7c As Jd] [8d]
+*** SECOND FLOP *** [4s 2d 8c]
+*** SECOND TURN *** [4s 2d 8c] [Qh]
+*** SECOND RIVER *** [4s 2d 8c Qh] [Tc]
+*** FIRST SHOW DOWN ***
+Sabazius: shows [5d Ac]
+DoublelegTD: shows [7s Js]
+DoublelegTD collected $999.38 from pot
+*** SECOND SHOW DOWN ***
+Sabazius: shows [5d Ac]
+DoublelegTD: shows [7s Js]
+Sabazius collected $999.37 from pot
+*** SUMMARY ***
+Total pot $2000.00 | Rake $1.25
+Hand was run twice
+FIRST Board [Qd 7c As Jd 8d]
+SECOND Board [4s 2d 8c Qh Tc]
+Seat 2: Sabazius (big blind) showed [5d Ac] and lost, and won ($999.37)
+Seat 7: DoublelegTD (button) (small blind) showed [7s Js] and won ($999.38), and lost
+
+PokerStars Hand #1485070377:  Hold'em No Limit ($50.00/$100.00 USD) - 2022/12/14 20:46:02 ET
+Table 'WPN_7 Day No Rathole 50/100 NLH' 9-max Seat #2 is the button
+Seat 2: Sabazius ($1000.00 in chips)
+Seat 7: DoublelegTD ($8600.32 in chips)
+Sabazius: posts small blind $50.00
+DoublelegTD: posts big blind $100.00
+*** HOLE CARDS ***
+Sabazius: calls $50.00
+DoublelegTD: raises $1100.00 to $1200.00
+Sabazius: folds
+Uncalled bet ($1100.00) returned to DoublelegTD
+DoublelegTD collected $200.00 from pot
+DoublelegTD: doesn't show hand
+*** SUMMARY ***
+Total pot $200.00 | Rake $0.00
+Seat 2: Sabazius (button) (small blind) folded before Flop
+Seat 7: DoublelegTD (big blind) collected ($200.00)
+
+PokerStars Hand #1485071039:  Hold'em No Limit ($50.00/$100.00 USD) - 2022/12/14 20:46:38 ET
+Table 'WPN_7 Day No Rathole 50/100 NLH' 9-max Seat #7 is the button
+Seat 2: Sabazius ($900.00 in chips)
+Seat 7: DoublelegTD ($8700.32 in chips)
+DoublelegTD: posts small blind $50.00
+Sabazius: posts big blind $100.00
+*** HOLE CARDS ***
+DoublelegTD: raises $1100.00 to $1200.00
+Sabazius: folds
+Uncalled bet ($1100.00) returned to DoublelegTD
+DoublelegTD collected $200.00 from pot
+DoublelegTD: doesn't show hand
+*** SUMMARY ***
+Total pot $200.00 | Rake $0.00
+Seat 2: Sabazius (big blind) folded before Flop
+Seat 7: DoublelegTD (button) (small blind) collected ($200.00)
+

@@ -1,0 +1,32 @@
+
+Hand #1887537465 - Holdem(No Limit) - $100/$200 - 2023/10/07 19:16:03 UTC
+Spaulding 6-max Seat #4 is the button
+Seat 1: DoublelegTD ($8000)
+Seat 4: SigadiSogadi ($20000)
+DoublelegTD posts ante $1000
+SigadiSogadi posts ante $1000
+*** HOLE CARDS *** 
+*** FLOP *** [8h As 3s]
+Main pot $1998.75 | Rake $1.25
+DoublelegTD checks
+SigadiSogadi bets $500
+DoublelegTD raises $1500 to $1500
+SigadiSogadi calls $1000
+*** TURN *** [8h As 3s] [Ac]
+Main pot $4998.75 | Rake $1.25
+DoublelegTD checks
+SigadiSogadi checks
+*** RIVER *** [8h As 3s Ac] [Ah]
+Main pot $4998.75 | Rake $1.25
+DoublelegTD checks
+SigadiSogadi checks
+*** SHOW DOWN ***
+Main pot $4998.75 | Rake $1.25
+SigadiSogadi shows [3d 3c]
+SigadiSogadi collected $4998.75 from main pot
+*** SUMMARY ***
+BombPot
+Total pot $4998.75 | Rake $1.25
+Seat 1: DoublelegTD did not showed and lost
+Seat 4: SigadiSogadi (button) showed [3d 3c] and won $4998.75 with FullHouse [As Ah Ac 3s 3d]
+

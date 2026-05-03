@@ -1,0 +1,45 @@
+PokerStars Hand #1536557317:  Hold'em No Limit ($25.00/$50.00 USD) - 2023/01/25 02:24:10 ET
+Table 'WPN_7 Day No Rathole 25/50 NLH 9-Max' 9-max Seat #9 is the button
+Seat 4: Intercooler ($550.00 in chips)
+Seat 9: DoublelegTD ($13307.85 in chips)
+DoublelegTD: posts small blind $25.00
+Intercooler: posts big blind $50.00
+*** HOLE CARDS ***
+DoublelegTD: calls $25.00
+Intercooler: checks
+*** FLOP *** [3d 6h 9c]
+Intercooler: checks
+DoublelegTD: checks
+*** TURN *** [3d 6h 9c] [5d]
+Intercooler: bets $75.00
+DoublelegTD: calls $75.00
+*** RIVER *** [3d 6h 9c 5d] [Ah]
+Intercooler: bets $187.50
+DoublelegTD: raises $1093.75 to $1281.25
+Intercooler: folds
+Uncalled bet ($1093.75) returned to DoublelegTD
+DoublelegTD collected $623.75 from pot
+DoublelegTD: doesn't show hand
+*** SUMMARY ***
+Total pot $625.00 | Rake $1.25
+Board [3d 6h 9c 5d Ah]
+Seat 4: Intercooler (big blind) folded on the River
+Seat 9: DoublelegTD (button) (small blind) collected ($623.75)
+
+PokerStars Hand #1536557228:  Hold'em No Limit ($25.00/$50.00 USD) - 2023/01/25 02:23:55 ET
+Table 'WPN_7 Day No Rathole 25/50 NLH 9-Max' 9-max Seat #4 is the button
+Seat 4: Intercooler ($500.00 in chips)
+Seat 9: DoublelegTD ($13357.85 in chips)
+Intercooler: posts small blind $25.00
+DoublelegTD: posts big blind $50.00
+*** HOLE CARDS ***
+Intercooler: raises $450.00 to $500.00 and is all-in
+DoublelegTD: folds
+Uncalled bet ($450.00) returned to Intercooler
+Intercooler collected $100.00 from pot
+Intercooler: doesn't show hand
+*** SUMMARY ***
+Total pot $100.00 | Rake $0.00
+Seat 4: Intercooler (button) (small blind) collected ($100.00)
+Seat 9: DoublelegTD (big blind) folded before Flop
+

@@ -1,0 +1,1876 @@
+PokerStars Hand #1498969206:  Hold'em No Limit ($25.00/$50.00 USD) - 2022/12/26 16:07:19 ET
+Table 'WPN_7 Day No Rathole 25/50 NLH 9-Max' 9-max Seat #8 is the button
+Seat 7: HelloBen ($3734.56 in chips)
+Seat 8: DLAZ ($400.00 in chips)
+DLAZ: posts small blind $25.00
+HelloBen: posts big blind $50.00
+*** HOLE CARDS ***
+DLAZ: folds
+Uncalled bet ($25.00) returned to HelloBen
+HelloBen collected $50.00 from pot
+HelloBen: doesn't show hand
+*** SUMMARY ***
+Total pot $50.00 | Rake $0.00
+Seat 7: HelloBen (big blind) collected ($50.00)
+Seat 8: DLAZ (button) (small blind) folded before Flop
+
+PokerStars Hand #1498969306:  Hold'em No Limit ($25.00/$50.00 USD) - 2022/12/26 16:07:28 ET
+Table 'WPN_7 Day No Rathole 25/50 NLH 9-Max' 9-max Seat #7 is the button
+Seat 7: HelloBen ($3759.56 in chips)
+Seat 8: DLAZ ($475.00 in chips)
+HelloBen: posts small blind $25.00
+DLAZ: posts big blind $50.00
+*** HOLE CARDS ***
+HelloBen: raises $3709.56 to $3759.56 and is all-in
+DLAZ: folds
+Uncalled bet ($3709.56) returned to HelloBen
+HelloBen collected $100.00 from pot
+HelloBen: doesn't show hand
+*** SUMMARY ***
+Total pot $100.00 | Rake $0.00
+Seat 7: HelloBen (button) (small blind) collected ($100.00)
+Seat 8: DLAZ (big blind) folded before Flop
+
+PokerStars Hand #1498969529:  Hold'em No Limit ($25.00/$50.00 USD) - 2022/12/26 16:07:49 ET
+Table 'WPN_7 Day No Rathole 25/50 NLH 9-Max' 9-max Seat #8 is the button
+Seat 7: HelloBen ($3809.56 in chips)
+Seat 8: DLAZ ($450.00 in chips)
+DLAZ: posts small blind $25.00
+HelloBen: posts big blind $50.00
+*** HOLE CARDS ***
+DLAZ: folds
+Uncalled bet ($25.00) returned to HelloBen
+HelloBen collected $50.00 from pot
+HelloBen: doesn't show hand
+*** SUMMARY ***
+Total pot $50.00 | Rake $0.00
+Seat 7: HelloBen (big blind) collected ($50.00)
+Seat 8: DLAZ (button) (small blind) folded before Flop
+
+PokerStars Hand #1498969625:  Hold'em No Limit ($25.00/$50.00 USD) - 2022/12/26 16:07:58 ET
+Table 'WPN_7 Day No Rathole 25/50 NLH 9-Max' 9-max Seat #7 is the button
+Seat 7: HelloBen ($3834.56 in chips)
+Seat 8: DLAZ ($475.00 in chips)
+HelloBen: posts small blind $25.00
+DLAZ: posts big blind $50.00
+*** HOLE CARDS ***
+HelloBen: calls $25.00
+DLAZ: raises $450.00 to $500.00 and is all-in
+HelloBen: calls $450.00
+*** FLOP *** [5c 9h 4d]
+*** TURN *** [5c 9h 4d] [Js]
+*** RIVER *** [5c 9h 4d Js] [8h]
+*** SHOW DOWN ***
+DLAZ: shows [Ks Ac]
+HelloBen: shows [Qh Kh]
+DLAZ collected $998.75 from pot
+*** SUMMARY ***
+Total pot $1000.00 | Rake $1.25
+Board [5c 9h 4d Js 8h]
+Seat 7: HelloBen (button) (small blind) showed [Qh Kh] and lost
+Seat 8: DLAZ (big blind) showed [Ks Ac] and won ($998.75)
+
+PokerStars Hand #1498970056:  Hold'em No Limit ($25.00/$50.00 USD) - 2022/12/26 16:08:40 ET
+Table 'WPN_7 Day No Rathole 25/50 NLH 9-Max' 9-max Seat #8 is the button
+Seat 7: HelloBen ($3334.56 in chips)
+Seat 8: DLAZ ($998.75 in chips)
+DLAZ: posts small blind $25.00
+HelloBen: posts big blind $50.00
+*** HOLE CARDS ***
+DLAZ: raises $50.00 to $100.00
+HelloBen: folds
+Uncalled bet ($50.00) returned to DLAZ
+DLAZ collected $100.00 from pot
+DLAZ: doesn't show hand
+*** SUMMARY ***
+Total pot $100.00 | Rake $0.00
+Seat 7: HelloBen (big blind) folded before Flop
+Seat 8: DLAZ (button) (small blind) collected ($100.00)
+
+PokerStars Hand #1498970358:  Hold'em No Limit ($25.00/$50.00 USD) - 2022/12/26 16:09:10 ET
+Table 'WPN_7 Day No Rathole 25/50 NLH 9-Max' 9-max Seat #7 is the button
+Seat 7: HelloBen ($3284.56 in chips)
+Seat 8: DLAZ ($1048.75 in chips)
+HelloBen: posts small blind $25.00
+DLAZ: posts big blind $50.00
+*** HOLE CARDS ***
+HelloBen: raises $50.00 to $100.00
+DLAZ: calls $50.00
+*** FLOP *** [3h Kh Td]
+DLAZ: checks
+HelloBen: bets $50.00
+DLAZ: calls $50.00
+*** TURN *** [3h Kh Td] [Js]
+DLAZ: checks
+HelloBen: bets $200.00
+DLAZ: calls $200.00
+*** RIVER *** [3h Kh Td Js] [2s]
+DLAZ: checks
+HelloBen: bets $1048.00
+DLAZ: calls $698.75 and is all-in
+Uncalled bet ($349.25) returned to HelloBen
+*** SHOW DOWN ***
+HelloBen: shows [7s Kc]
+DLAZ: shows [Th Qs]
+HelloBen collected $2096.25 from pot
+*** SUMMARY ***
+Total pot $2097.50 | Rake $1.25
+Board [3h Kh Td Js 2s]
+Seat 7: HelloBen (button) (small blind) showed [7s Kc] and won ($2096.25)
+Seat 8: DLAZ (big blind) showed [Th Qs] and lost
+
+PokerStars Hand #1498971206:  Hold'em No Limit ($25.00/$50.00 USD) - 2022/12/26 16:10:30 ET
+Table 'WPN_7 Day No Rathole 25/50 NLH 9-Max' 9-max Seat #7 is the button
+Seat 7: HelloBen ($4332.06 in chips)
+Seat 8: DLAZ ($500.00 in chips)
+Seat 9: _COBKA_PBET_ ($1288.00 in chips)
+DLAZ: posts small blind $25.00
+_COBKA_PBET_: posts big blind $50.00
+*** HOLE CARDS ***
+HelloBen: folds
+DLAZ: raises $450.00 to $500.00 and is all-in
+_COBKA_PBET_: calls $450.00
+*** FLOP *** [Ac 4d Qc]
+*** TURN *** [Ac 4d Qc] [8s]
+*** RIVER *** [Ac 4d Qc 8s] [8c]
+*** SHOW DOWN ***
+DLAZ: shows [Kh Ad]
+_COBKA_PBET_: shows [Ah 9h]
+DLAZ collected $998.25 from pot
+*** SUMMARY ***
+Total pot $1000.00 | Rake $1.75
+Board [Ac 4d Qc 8s 8c]
+Seat 7: HelloBen (button) folded before Flop (didn't bet)
+Seat 8: DLAZ (small blind) showed [Kh Ad] and won ($998.25)
+Seat 9: _COBKA_PBET_ (big blind) showed [Ah 9h] and lost
+
+PokerStars Hand #1498971600:  Hold'em No Limit ($25.00/$50.00 USD) - 2022/12/26 16:11:11 ET
+Table 'WPN_7 Day No Rathole 25/50 NLH 9-Max' 9-max Seat #8 is the button
+Seat 7: HelloBen ($4332.06 in chips)
+Seat 8: DLAZ ($998.25 in chips)
+Seat 9: _COBKA_PBET_ ($788.00 in chips)
+_COBKA_PBET_: posts small blind $25.00
+HelloBen: posts big blind $50.00
+*** HOLE CARDS ***
+DLAZ: folds
+_COBKA_PBET_: folds
+Uncalled bet ($25.00) returned to HelloBen
+HelloBen collected $50.00 from pot
+HelloBen: doesn't show hand
+*** SUMMARY ***
+Total pot $50.00 | Rake $0.00
+Seat 7: HelloBen (big blind) collected ($50.00)
+Seat 8: DLAZ (button) folded before Flop (didn't bet)
+Seat 9: _COBKA_PBET_ (small blind) folded before Flop
+
+PokerStars Hand #1498971749:  Hold'em No Limit ($25.00/$50.00 USD) - 2022/12/26 16:11:25 ET
+Table 'WPN_7 Day No Rathole 25/50 NLH 9-Max' 9-max Seat #9 is the button
+Seat 7: HelloBen ($4357.06 in chips)
+Seat 8: DLAZ ($998.25 in chips)
+Seat 9: _COBKA_PBET_ ($763.00 in chips)
+HelloBen: posts small blind $25.00
+DLAZ: posts big blind $50.00
+*** HOLE CARDS ***
+_COBKA_PBET_: folds
+HelloBen: folds
+Uncalled bet ($25.00) returned to DLAZ
+DLAZ collected $50.00 from pot
+DLAZ: doesn't show hand
+*** SUMMARY ***
+Total pot $50.00 | Rake $0.00
+Seat 7: HelloBen (small blind) folded before Flop
+Seat 8: DLAZ (big blind) collected ($50.00)
+Seat 9: _COBKA_PBET_ (button) folded before Flop (didn't bet)
+
+PokerStars Hand #1498971957:  Hold'em No Limit ($25.00/$50.00 USD) - 2022/12/26 16:11:45 ET
+Table 'WPN_7 Day No Rathole 25/50 NLH 9-Max' 9-max Seat #8 is the button
+Seat 7: HelloBen ($4332.06 in chips)
+Seat 8: DLAZ ($1023.25 in chips)
+DLAZ: posts small blind $25.00
+HelloBen: posts big blind $50.00
+*** HOLE CARDS ***
+DLAZ: raises $50.00 to $100.00
+HelloBen: raises $4232.06 to $4332.06 and is all-in
+DLAZ: calls $923.25 and is all-in
+Uncalled bet ($3308.81) returned to HelloBen
+*** FLOP *** [Js Qc 3h]
+*** TURN *** [Js Qc 3h] [5c]
+*** RIVER *** [Js Qc 3h 5c] [Ac]
+*** SHOW DOWN ***
+DLAZ: shows [Kc Qd]
+HelloBen: shows [2h 2c]
+DLAZ collected $2045.25 from pot
+*** SUMMARY ***
+Total pot $2046.50 | Rake $1.25
+Board [Js Qc 3h 5c Ac]
+Seat 7: HelloBen (big blind) showed [2h 2c] and lost
+Seat 8: DLAZ (button) (small blind) showed [Kc Qd] and won ($2045.25)
+
+PokerStars Hand #1498972311:  Hold'em No Limit ($25.00/$50.00 USD) - 2022/12/26 16:12:17 ET
+Table 'WPN_7 Day No Rathole 25/50 NLH 9-Max' 9-max Seat #7 is the button
+Seat 7: HelloBen ($3308.81 in chips)
+Seat 8: DLAZ ($2045.25 in chips)
+HelloBen: posts small blind $25.00
+DLAZ: posts big blind $50.00
+*** HOLE CARDS ***
+HelloBen: folds
+Uncalled bet ($25.00) returned to DLAZ
+DLAZ collected $50.00 from pot
+DLAZ: doesn't show hand
+*** SUMMARY ***
+Total pot $50.00 | Rake $0.00
+Seat 7: HelloBen (button) (small blind) folded before Flop
+Seat 8: DLAZ (big blind) collected ($50.00)
+
+PokerStars Hand #1498972426:  Hold'em No Limit ($25.00/$50.00 USD) - 2022/12/26 16:12:27 ET
+Table 'WPN_7 Day No Rathole 25/50 NLH 9-Max' 9-max Seat #8 is the button
+Seat 7: HelloBen ($3283.81 in chips)
+Seat 8: DLAZ ($2070.25 in chips)
+DLAZ: posts small blind $25.00
+HelloBen: posts big blind $50.00
+*** HOLE CARDS ***
+DLAZ: raises $60.00 to $110.00
+HelloBen: calls $60.00
+*** FLOP *** [7h 5s 4h]
+HelloBen: checks
+DLAZ: bets $131.25
+HelloBen: folds
+Uncalled bet ($131.25) returned to DLAZ
+DLAZ collected $218.75 from pot
+DLAZ: doesn't show hand
+*** SUMMARY ***
+Total pot $220.00 | Rake $1.25
+Board [7h 5s 4h]
+Seat 7: HelloBen (big blind) folded on the Flop
+Seat 8: DLAZ (button) (small blind) collected ($218.75)
+
+PokerStars Hand #1498972863:  Hold'em No Limit ($25.00/$50.00 USD) - 2022/12/26 16:13:11 ET
+Table 'WPN_7 Day No Rathole 25/50 NLH 9-Max' 9-max Seat #7 is the button
+Seat 7: HelloBen ($3173.81 in chips)
+Seat 8: DLAZ ($2179.00 in chips)
+HelloBen: posts small blind $25.00
+DLAZ: posts big blind $50.00
+*** HOLE CARDS ***
+HelloBen: folds
+Uncalled bet ($25.00) returned to DLAZ
+DLAZ collected $50.00 from pot
+DLAZ: doesn't show hand
+*** SUMMARY ***
+Total pot $50.00 | Rake $0.00
+Seat 7: HelloBen (button) (small blind) folded before Flop
+Seat 8: DLAZ (big blind) collected ($50.00)
+
+PokerStars Hand #1498972977:  Hold'em No Limit ($25.00/$50.00 USD) - 2022/12/26 16:13:21 ET
+Table 'WPN_7 Day No Rathole 25/50 NLH 9-Max' 9-max Seat #8 is the button
+Seat 7: HelloBen ($3148.81 in chips)
+Seat 8: DLAZ ($2204.00 in chips)
+DLAZ: posts small blind $25.00
+HelloBen: posts big blind $50.00
+*** HOLE CARDS ***
+DLAZ: raises $60.00 to $110.00
+HelloBen: calls $60.00
+*** FLOP *** [Kh Th 6c]
+HelloBen: checks
+DLAZ: bets $54.68
+HelloBen: folds
+Uncalled bet ($54.68) returned to DLAZ
+DLAZ collected $218.75 from pot
+DLAZ: doesn't show hand
+*** SUMMARY ***
+Total pot $220.00 | Rake $1.25
+Board [Kh Th 6c]
+Seat 7: HelloBen (big blind) folded on the Flop
+Seat 8: DLAZ (button) (small blind) collected ($218.75)
+
+PokerStars Hand #1498973436:  Hold'em No Limit ($25.00/$50.00 USD) - 2022/12/26 16:14:02 ET
+Table 'WPN_7 Day No Rathole 25/50 NLH 9-Max' 9-max Seat #7 is the button
+Seat 7: HelloBen ($3038.81 in chips)
+Seat 8: DLAZ ($2312.75 in chips)
+HelloBen: posts small blind $25.00
+DLAZ: posts big blind $50.00
+*** HOLE CARDS ***
+HelloBen: raises $50.00 to $100.00
+DLAZ: folds
+Uncalled bet ($50.00) returned to HelloBen
+HelloBen collected $100.00 from pot
+HelloBen: doesn't show hand
+*** SUMMARY ***
+Total pot $100.00 | Rake $0.00
+Seat 7: HelloBen (button) (small blind) collected ($100.00)
+Seat 8: DLAZ (big blind) folded before Flop
+
+PokerStars Hand #1498973604:  Hold'em No Limit ($25.00/$50.00 USD) - 2022/12/26 16:14:17 ET
+Table 'WPN_7 Day No Rathole 25/50 NLH 9-Max' 9-max Seat #8 is the button
+Seat 7: HelloBen ($3088.81 in chips)
+Seat 8: DLAZ ($2262.75 in chips)
+DLAZ: posts small blind $25.00
+HelloBen: posts big blind $50.00
+*** HOLE CARDS ***
+DLAZ: raises $60.00 to $110.00
+HelloBen: raises $2978.81 to $3088.81 and is all-in
+DLAZ: calls $2152.75 and is all-in
+Uncalled bet ($826.06) returned to HelloBen
+*** FLOP *** [4c 3d 8h]
+*** TURN *** [4c 3d 8h] [Qh]
+*** RIVER *** [4c 3d 8h Qh] [2d]
+*** SHOW DOWN ***
+DLAZ: shows [9c 9h]
+HelloBen: shows [7d 7c]
+DLAZ collected $4524.25 from pot
+*** SUMMARY ***
+Total pot $4525.50 | Rake $1.25
+Board [4c 3d 8h Qh 2d]
+Seat 7: HelloBen (big blind) showed [7d 7c] and lost
+Seat 8: DLAZ (button) (small blind) showed [9c 9h] and won ($4524.25)
+
+PokerStars Hand #1498099590:  Hold'em No Limit ($25.00/$50.00 USD) - 2022/12/25 21:04:10 ET
+Table 'WPN_7 Day No Rathole 25/50 NLH 9-Max' 9-max Seat #7 is the button
+Seat 3: MrBaguette ($1193.76 in chips)
+Seat 4: chop-ch0p ($14855.73 in chips)
+Seat 7: OGORRA ($8968.04 in chips)
+MrBaguette: posts small blind $25.00
+chop-ch0p: posts big blind $50.00
+*** HOLE CARDS ***
+OGORRA: folds
+MrBaguette: folds
+Uncalled bet ($25.00) returned to chop-ch0p
+chop-ch0p collected $50.00 from pot
+chop-ch0p: doesn't show hand
+*** SUMMARY ***
+Total pot $50.00 | Rake $0.00
+Seat 3: MrBaguette (small blind) folded before Flop
+Seat 4: chop-ch0p (big blind) collected ($50.00)
+Seat 7: OGORRA (button) folded before Flop (didn't bet)
+
+PokerStars Hand #1498945443:  Hold'em No Limit ($25.00/$50.00 USD) - 2022/12/26 15:24:01 ET
+Table 'WPN_7 Day No Rathole 25/50 NLH 9-Max' 9-max Seat #1 is the button
+Seat 1: CPUrul0r ($1663.50 in chips)
+Seat 7: HelloBen ($1362.92 in chips)
+CPUrul0r: posts small blind $25.00
+HelloBen: posts big blind $50.00
+*** HOLE CARDS ***
+CPUrul0r: raises $50.00 to $100.00
+HelloBen: folds
+Uncalled bet ($50.00) returned to CPUrul0r
+CPUrul0r collected $100.00 from pot
+CPUrul0r: doesn't show hand
+*** SUMMARY ***
+Total pot $100.00 | Rake $0.00
+Seat 1: CPUrul0r (button) (small blind) collected ($100.00)
+Seat 7: HelloBen (big blind) folded before Flop
+
+PokerStars Hand #1498945554:  Hold'em No Limit ($25.00/$50.00 USD) - 2022/12/26 15:24:11 ET
+Table 'WPN_7 Day No Rathole 25/50 NLH 9-Max' 9-max Seat #7 is the button
+Seat 1: CPUrul0r ($1713.50 in chips)
+Seat 7: HelloBen ($1312.92 in chips)
+HelloBen: posts small blind $25.00
+CPUrul0r: posts big blind $50.00
+*** HOLE CARDS ***
+HelloBen: calls $25.00
+CPUrul0r: raises $1663.50 to $1713.50 and is all-in
+HelloBen: folds
+Uncalled bet ($1663.50) returned to CPUrul0r
+CPUrul0r collected $100.00 from pot
+CPUrul0r: doesn't show hand
+*** SUMMARY ***
+Total pot $100.00 | Rake $0.00
+Seat 1: CPUrul0r (big blind) collected ($100.00)
+Seat 7: HelloBen (button) (small blind) folded before Flop
+
+PokerStars Hand #1498945679:  Hold'em No Limit ($25.00/$50.00 USD) - 2022/12/26 15:24:27 ET
+Table 'WPN_7 Day No Rathole 25/50 NLH 9-Max' 9-max Seat #1 is the button
+Seat 1: CPUrul0r ($1763.50 in chips)
+Seat 7: HelloBen ($1262.92 in chips)
+CPUrul0r: posts small blind $25.00
+HelloBen: posts big blind $50.00
+*** HOLE CARDS ***
+CPUrul0r: calls $25.00
+HelloBen: raises $1212.92 to $1262.92 and is all-in
+CPUrul0r: calls $1212.92
+*** FIRST FLOP *** [8d Kc Qd]
+*** FIRST TURN *** [8d Kc Qd] [3s]
+*** FIRST RIVER *** [8d Kc Qd 3s] [Jc]
+*** SECOND FLOP *** [5d 2d 2h]
+*** SECOND TURN *** [5d 2d 2h] [Kd]
+*** SECOND RIVER *** [5d 2d 2h Kd] [3h]
+*** FIRST SHOW DOWN ***
+HelloBen: shows [Ah 9c]
+CPUrul0r: shows [7d Ac]
+HelloBen collected $1262.30 from pot
+*** SECOND SHOW DOWN ***
+HelloBen: shows [Ah 9c]
+CPUrul0r: shows [7d Ac]
+HelloBen collected $1262.29 from pot
+*** SUMMARY ***
+Total pot $2525.84 | Rake $1.25
+Hand was run twice
+FIRST Board [8d Kc Qd 3s Jc]
+SECOND Board [5d 2d 2h Kd 3h]
+Seat 1: CPUrul0r (button) (small blind) showed [7d Ac] and lost, and lost
+Seat 7: HelloBen (big blind) showed [Ah 9c] and won ($1262.30), and won ($1262.29)
+
+PokerStars Hand #1498945939:  Hold'em No Limit ($25.00/$50.00 USD) - 2022/12/26 15:24:57 ET
+Table 'WPN_7 Day No Rathole 25/50 NLH 9-Max' 9-max Seat #7 is the button
+Seat 1: CPUrul0r ($500.58 in chips)
+Seat 7: HelloBen ($2524.59 in chips)
+HelloBen: posts small blind $25.00
+CPUrul0r: posts big blind $50.00
+*** HOLE CARDS ***
+HelloBen: raises $2474.59 to $2524.59 and is all-in
+CPUrul0r: calls $450.58 and is all-in
+Uncalled bet ($2024.01) returned to HelloBen
+*** FIRST FLOP *** [2s 3c 8c]
+*** FIRST TURN *** [2s 3c 8c] [7s]
+*** FIRST RIVER *** [2s 3c 8c 7s] [3s]
+*** SECOND FLOP *** [Jd Ah 2h]
+*** SECOND TURN *** [Jd Ah 2h] [5s]
+*** SECOND RIVER *** [Jd Ah 2h 5s] [4c]
+*** FIRST SHOW DOWN ***
+HelloBen: shows [6c 6d]
+CPUrul0r: shows [9d Ks]
+HelloBen collected $499.96 from pot
+*** SECOND SHOW DOWN ***
+HelloBen: shows [6c 6d]
+CPUrul0r: shows [9d Ks]
+HelloBen collected $499.95 from pot
+*** SUMMARY ***
+Total pot $1001.16 | Rake $1.25
+Hand was run twice
+FIRST Board [2s 3c 8c 7s 3s]
+SECOND Board [Jd Ah 2h 5s 4c]
+Seat 1: CPUrul0r (big blind) showed [9d Ks] and lost, and lost
+Seat 7: HelloBen (button) (small blind) showed [6c 6d] and won ($499.96), and won ($499.95)
+
+PokerStars Hand #1498946189:  Hold'em No Limit ($25.00/$50.00 USD) - 2022/12/26 15:25:24 ET
+Table 'WPN_7 Day No Rathole 25/50 NLH 9-Max' 9-max Seat #1 is the button
+Seat 1: CPUrul0r ($500.00 in chips)
+Seat 7: HelloBen ($3023.92 in chips)
+CPUrul0r: posts small blind $25.00
+HelloBen: posts big blind $50.00
+*** HOLE CARDS ***
+CPUrul0r: raises $450.00 to $500.00 and is all-in
+HelloBen: calls $450.00
+*** FIRST FLOP *** [Ad Jc Js]
+*** FIRST TURN *** [Ad Jc Js] [Td]
+*** FIRST RIVER *** [Ad Jc Js Td] [7c]
+*** SECOND FLOP *** [Jd 6d Kd]
+*** SECOND TURN *** [Jd 6d Kd] [5c]
+*** SECOND RIVER *** [Jd 6d Kd 5c] [Qc]
+*** FIRST SHOW DOWN ***
+CPUrul0r: shows [2s Qs]
+HelloBen: shows [Ac 9c]
+HelloBen collected $499.38 from pot
+*** SECOND SHOW DOWN ***
+CPUrul0r: shows [2s Qs]
+HelloBen: shows [Ac 9c]
+CPUrul0r collected $499.37 from pot
+*** SUMMARY ***
+Total pot $1000.00 | Rake $1.25
+Hand was run twice
+FIRST Board [Ad Jc Js Td 7c]
+SECOND Board [Jd 6d Kd 5c Qc]
+Seat 1: CPUrul0r (button) (small blind) showed [2s Qs] and lost, and won ($499.37)
+Seat 7: HelloBen (big blind) showed [Ac 9c] and won ($499.38), and lost
+
+PokerStars Hand #1498946422:  Hold'em No Limit ($25.00/$50.00 USD) - 2022/12/26 15:25:51 ET
+Table 'WPN_7 Day No Rathole 25/50 NLH 9-Max' 9-max Seat #7 is the button
+Seat 1: CPUrul0r ($500.00 in chips)
+Seat 7: HelloBen ($3023.30 in chips)
+HelloBen: posts small blind $25.00
+CPUrul0r: posts big blind $50.00
+*** HOLE CARDS ***
+HelloBen: calls $25.00
+CPUrul0r: checks
+*** FLOP *** [Ts 6s 9c]
+CPUrul0r: checks
+HelloBen: bets $75.00
+CPUrul0r: raises $375.00 to $450.00 and is all-in
+HelloBen: folds
+Uncalled bet ($375.00) returned to CPUrul0r
+CPUrul0r collected $248.75 from pot
+CPUrul0r: doesn't show hand
+*** SUMMARY ***
+Total pot $250.00 | Rake $1.25
+Board [Ts 6s 9c]
+Seat 1: CPUrul0r (big blind) collected ($248.75)
+Seat 7: HelloBen (button) (small blind) folded on the Flop
+
+PokerStars Hand #1498946658:  Hold'em No Limit ($25.00/$50.00 USD) - 2022/12/26 15:26:19 ET
+Table 'WPN_7 Day No Rathole 25/50 NLH 9-Max' 9-max Seat #1 is the button
+Seat 1: CPUrul0r ($623.75 in chips)
+Seat 7: HelloBen ($2898.30 in chips)
+CPUrul0r: posts small blind $25.00
+HelloBen: posts big blind $50.00
+*** HOLE CARDS ***
+CPUrul0r: folds
+Uncalled bet ($25.00) returned to HelloBen
+HelloBen collected $50.00 from pot
+HelloBen: doesn't show hand
+*** SUMMARY ***
+Total pot $50.00 | Rake $0.00
+Seat 1: CPUrul0r (button) (small blind) folded before Flop
+Seat 7: HelloBen (big blind) collected ($50.00)
+
+PokerStars Hand #1498946741:  Hold'em No Limit ($25.00/$50.00 USD) - 2022/12/26 15:26:28 ET
+Table 'WPN_7 Day No Rathole 25/50 NLH 9-Max' 9-max Seat #7 is the button
+Seat 1: CPUrul0r ($598.75 in chips)
+Seat 7: HelloBen ($2923.30 in chips)
+HelloBen: posts small blind $25.00
+CPUrul0r: posts big blind $50.00
+*** HOLE CARDS ***
+HelloBen: folds
+Uncalled bet ($25.00) returned to CPUrul0r
+CPUrul0r collected $50.00 from pot
+CPUrul0r: doesn't show hand
+*** SUMMARY ***
+Total pot $50.00 | Rake $0.00
+Seat 1: CPUrul0r (big blind) collected ($50.00)
+Seat 7: HelloBen (button) (small blind) folded before Flop
+
+PokerStars Hand #1498946818:  Hold'em No Limit ($25.00/$50.00 USD) - 2022/12/26 15:26:36 ET
+Table 'WPN_7 Day No Rathole 25/50 NLH 9-Max' 9-max Seat #1 is the button
+Seat 1: CPUrul0r ($623.75 in chips)
+Seat 7: HelloBen ($2898.30 in chips)
+CPUrul0r: posts small blind $25.00
+HelloBen: posts big blind $50.00
+*** HOLE CARDS ***
+CPUrul0r: raises $573.75 to $623.75 and is all-in
+HelloBen: calls $573.75
+*** FIRST FLOP *** [8c 9c 3d]
+*** FIRST TURN *** [8c 9c 3d] [Qh]
+*** FIRST RIVER *** [8c 9c 3d Qh] [4c]
+*** SECOND FLOP *** [2h Ad Jc]
+*** SECOND TURN *** [2h Ad Jc] [Qd]
+*** SECOND RIVER *** [2h Ad Jc Qd] [5c]
+*** FIRST SHOW DOWN ***
+CPUrul0r: shows [Ah 3s]
+HelloBen: shows [8h Kh]
+HelloBen collected $623.13 from pot
+*** SECOND SHOW DOWN ***
+CPUrul0r: shows [Ah 3s]
+HelloBen: shows [8h Kh]
+CPUrul0r collected $623.12 from pot
+*** SUMMARY ***
+Total pot $1247.50 | Rake $1.25
+Hand was run twice
+FIRST Board [8c 9c 3d Qh 4c]
+SECOND Board [2h Ad Jc Qd 5c]
+Seat 1: CPUrul0r (button) (small blind) showed [Ah 3s] and lost, and won ($623.12)
+Seat 7: HelloBen (big blind) showed [8h Kh] and won ($623.13), and lost
+
+PokerStars Hand #1498947022:  Hold'em No Limit ($25.00/$50.00 USD) - 2022/12/26 15:27:00 ET
+Table 'WPN_7 Day No Rathole 25/50 NLH 9-Max' 9-max Seat #7 is the button
+Seat 1: CPUrul0r ($623.12 in chips)
+Seat 7: HelloBen ($2897.68 in chips)
+HelloBen: posts small blind $25.00
+CPUrul0r: posts big blind $50.00
+*** HOLE CARDS ***
+HelloBen: folds
+Uncalled bet ($25.00) returned to CPUrul0r
+CPUrul0r collected $50.00 from pot
+CPUrul0r: doesn't show hand
+*** SUMMARY ***
+Total pot $50.00 | Rake $0.00
+Seat 1: CPUrul0r (big blind) collected ($50.00)
+Seat 7: HelloBen (button) (small blind) folded before Flop
+
+PokerStars Hand #1498947111:  Hold'em No Limit ($25.00/$50.00 USD) - 2022/12/26 15:27:10 ET
+Table 'WPN_7 Day No Rathole 25/50 NLH 9-Max' 9-max Seat #1 is the button
+Seat 1: CPUrul0r ($648.12 in chips)
+Seat 7: HelloBen ($2872.68 in chips)
+CPUrul0r: posts small blind $25.00
+HelloBen: posts big blind $50.00
+*** HOLE CARDS ***
+CPUrul0r: raises $598.12 to $648.12 and is all-in
+HelloBen: calls $598.12
+*** FIRST FLOP *** [5c Th Ad]
+*** FIRST TURN *** [5c Th Ad] [Ts]
+*** FIRST RIVER *** [5c Th Ad Ts] [7c]
+*** SECOND FLOP *** [Jh 3c 2c]
+*** SECOND TURN *** [Jh 3c 2c] [4c]
+*** SECOND RIVER *** [Jh 3c 2c 4c] [8d]
+*** FIRST SHOW DOWN ***
+CPUrul0r: shows [6c Kc]
+HelloBen: shows [3h Ah]
+HelloBen collected $647.50 from pot
+*** SECOND SHOW DOWN ***
+CPUrul0r: shows [6c Kc]
+HelloBen: shows [3h Ah]
+CPUrul0r collected $647.49 from pot
+*** SUMMARY ***
+Total pot $1296.24 | Rake $1.25
+Hand was run twice
+FIRST Board [5c Th Ad Ts 7c]
+SECOND Board [Jh 3c 2c 4c 8d]
+Seat 1: CPUrul0r (button) (small blind) showed [6c Kc] and lost, and won ($647.49)
+Seat 7: HelloBen (big blind) showed [3h Ah] and won ($647.50), and lost
+
+PokerStars Hand #1498947334:  Hold'em No Limit ($25.00/$50.00 USD) - 2022/12/26 15:27:34 ET
+Table 'WPN_7 Day No Rathole 25/50 NLH 9-Max' 9-max Seat #7 is the button
+Seat 1: CPUrul0r ($647.49 in chips)
+Seat 7: HelloBen ($2872.06 in chips)
+HelloBen: posts small blind $25.00
+CPUrul0r: posts big blind $50.00
+*** HOLE CARDS ***
+HelloBen: calls $25.00
+CPUrul0r: raises $597.49 to $647.49 and is all-in
+HelloBen: folds
+Uncalled bet ($597.49) returned to CPUrul0r
+CPUrul0r collected $100.00 from pot
+CPUrul0r: doesn't show hand
+*** SUMMARY ***
+Total pot $100.00 | Rake $0.00
+Seat 1: CPUrul0r (big blind) collected ($100.00)
+Seat 7: HelloBen (button) (small blind) folded before Flop
+
+PokerStars Hand #1498947490:  Hold'em No Limit ($25.00/$50.00 USD) - 2022/12/26 15:27:51 ET
+Table 'WPN_7 Day No Rathole 25/50 NLH 9-Max' 9-max Seat #1 is the button
+Seat 1: CPUrul0r ($697.49 in chips)
+Seat 7: HelloBen ($2822.06 in chips)
+CPUrul0r: posts small blind $25.00
+HelloBen: posts big blind $50.00
+*** HOLE CARDS ***
+CPUrul0r: folds
+Uncalled bet ($25.00) returned to HelloBen
+HelloBen collected $50.00 from pot
+HelloBen: doesn't show hand
+*** SUMMARY ***
+Total pot $50.00 | Rake $0.00
+Seat 1: CPUrul0r (button) (small blind) folded before Flop
+Seat 7: HelloBen (big blind) collected ($50.00)
+
+PokerStars Hand #1498947568:  Hold'em No Limit ($25.00/$50.00 USD) - 2022/12/26 15:28:00 ET
+Table 'WPN_7 Day No Rathole 25/50 NLH 9-Max' 9-max Seat #7 is the button
+Seat 1: CPUrul0r ($672.49 in chips)
+Seat 7: HelloBen ($2847.06 in chips)
+HelloBen: posts small blind $25.00
+CPUrul0r: posts big blind $50.00
+*** HOLE CARDS ***
+HelloBen: calls $25.00
+CPUrul0r: raises $125.00 to $175.00
+HelloBen: calls $125.00
+*** FLOP *** [As 7c 3s]
+CPUrul0r: bets $65.50
+HelloBen: folds
+Uncalled bet ($65.50) returned to CPUrul0r
+CPUrul0r collected $348.75 from pot
+CPUrul0r: doesn't show hand
+*** SUMMARY ***
+Total pot $350.00 | Rake $1.25
+Board [As 7c 3s]
+Seat 1: CPUrul0r (big blind) collected ($348.75)
+Seat 7: HelloBen (button) (small blind) folded on the Flop
+
+PokerStars Hand #1498947996:  Hold'em No Limit ($25.00/$50.00 USD) - 2022/12/26 15:28:49 ET
+Table 'WPN_7 Day No Rathole 25/50 NLH 9-Max' 9-max Seat #1 is the button
+Seat 1: CPUrul0r ($846.24 in chips)
+Seat 7: HelloBen ($2672.06 in chips)
+CPUrul0r: posts small blind $25.00
+HelloBen: posts big blind $50.00
+*** HOLE CARDS ***
+CPUrul0r: raises $796.24 to $846.24 and is all-in
+HelloBen: folds
+Uncalled bet ($796.24) returned to CPUrul0r
+CPUrul0r collected $100.00 from pot
+CPUrul0r: doesn't show hand
+*** SUMMARY ***
+Total pot $100.00 | Rake $0.00
+Seat 1: CPUrul0r (button) (small blind) collected ($100.00)
+Seat 7: HelloBen (big blind) folded before Flop
+
+PokerStars Hand #1498948131:  Hold'em No Limit ($25.00/$50.00 USD) - 2022/12/26 15:29:04 ET
+Table 'WPN_7 Day No Rathole 25/50 NLH 9-Max' 9-max Seat #7 is the button
+Seat 1: CPUrul0r ($896.24 in chips)
+Seat 7: HelloBen ($2622.06 in chips)
+HelloBen: posts small blind $25.00
+CPUrul0r: posts big blind $50.00
+*** HOLE CARDS ***
+HelloBen: calls $25.00
+CPUrul0r: checks
+*** FLOP *** [Ac 3s 6h]
+CPUrul0r: checks
+HelloBen: bets $50.00
+CPUrul0r: calls $50.00
+*** TURN *** [Ac 3s 6h] [As]
+CPUrul0r: checks
+HelloBen: bets $150.00
+CPUrul0r: calls $150.00
+*** RIVER *** [Ac 3s 6h As] [8h]
+CPUrul0r: checks
+HelloBen: bets $748.00
+CPUrul0r: folds
+Uncalled bet ($748.00) returned to HelloBen
+HelloBen collected $498.75 from pot
+HelloBen: doesn't show hand
+*** SUMMARY ***
+Total pot $500.00 | Rake $1.25
+Board [Ac 3s 6h As 8h]
+Seat 1: CPUrul0r (big blind) folded on the River
+Seat 7: HelloBen (button) (small blind) collected ($498.75)
+
+PokerStars Hand #1498948574:  Hold'em No Limit ($25.00/$50.00 USD) - 2022/12/26 15:29:55 ET
+Table 'WPN_7 Day No Rathole 25/50 NLH 9-Max' 9-max Seat #1 is the button
+Seat 1: CPUrul0r ($646.24 in chips)
+Seat 7: HelloBen ($2870.81 in chips)
+CPUrul0r: posts small blind $25.00
+HelloBen: posts big blind $50.00
+*** HOLE CARDS ***
+CPUrul0r: folds
+Uncalled bet ($25.00) returned to HelloBen
+HelloBen collected $50.00 from pot
+HelloBen: doesn't show hand
+*** SUMMARY ***
+Total pot $50.00 | Rake $0.00
+Seat 1: CPUrul0r (button) (small blind) folded before Flop
+Seat 7: HelloBen (big blind) collected ($50.00)
+
+PokerStars Hand #1498948658:  Hold'em No Limit ($25.00/$50.00 USD) - 2022/12/26 15:30:03 ET
+Table 'WPN_7 Day No Rathole 25/50 NLH 9-Max' 9-max Seat #7 is the button
+Seat 1: CPUrul0r ($621.24 in chips)
+Seat 7: HelloBen ($2895.81 in chips)
+HelloBen: posts small blind $25.00
+CPUrul0r: posts big blind $50.00
+*** HOLE CARDS ***
+HelloBen: calls $25.00
+CPUrul0r: raises $571.24 to $621.24 and is all-in
+HelloBen: folds
+Uncalled bet ($571.24) returned to CPUrul0r
+CPUrul0r collected $100.00 from pot
+CPUrul0r: doesn't show hand
+*** SUMMARY ***
+Total pot $100.00 | Rake $0.00
+Seat 1: CPUrul0r (big blind) collected ($100.00)
+Seat 7: HelloBen (button) (small blind) folded before Flop
+
+PokerStars Hand #1498948797:  Hold'em No Limit ($25.00/$50.00 USD) - 2022/12/26 15:30:17 ET
+Table 'WPN_7 Day No Rathole 25/50 NLH 9-Max' 9-max Seat #1 is the button
+Seat 1: CPUrul0r ($671.24 in chips)
+Seat 7: HelloBen ($2845.81 in chips)
+CPUrul0r: posts small blind $25.00
+HelloBen: posts big blind $50.00
+*** HOLE CARDS ***
+CPUrul0r: folds
+Uncalled bet ($25.00) returned to HelloBen
+HelloBen collected $50.00 from pot
+HelloBen: doesn't show hand
+*** SUMMARY ***
+Total pot $50.00 | Rake $0.00
+Seat 1: CPUrul0r (button) (small blind) folded before Flop
+Seat 7: HelloBen (big blind) collected ($50.00)
+
+PokerStars Hand #1498948873:  Hold'em No Limit ($25.00/$50.00 USD) - 2022/12/26 15:30:26 ET
+Table 'WPN_7 Day No Rathole 25/50 NLH 9-Max' 9-max Seat #7 is the button
+Seat 1: CPUrul0r ($646.24 in chips)
+Seat 7: HelloBen ($2870.81 in chips)
+HelloBen: posts small blind $25.00
+CPUrul0r: posts big blind $50.00
+*** HOLE CARDS ***
+HelloBen: raises $50.00 to $100.00
+CPUrul0r: folds
+Uncalled bet ($50.00) returned to HelloBen
+HelloBen collected $100.00 from pot
+HelloBen: doesn't show hand
+*** SUMMARY ***
+Total pot $100.00 | Rake $0.00
+Seat 1: CPUrul0r (big blind) folded before Flop
+Seat 7: HelloBen (button) (small blind) collected ($100.00)
+
+PokerStars Hand #1498949049:  Hold'em No Limit ($25.00/$50.00 USD) - 2022/12/26 15:30:40 ET
+Table 'WPN_7 Day No Rathole 25/50 NLH 9-Max' 9-max Seat #1 is the button
+Seat 1: CPUrul0r ($596.24 in chips)
+Seat 7: HelloBen ($2920.81 in chips)
+CPUrul0r: posts small blind $25.00
+HelloBen: posts big blind $50.00
+*** HOLE CARDS ***
+CPUrul0r: calls $25.00
+HelloBen: raises $2870.81 to $2920.81 and is all-in
+CPUrul0r: folds
+Uncalled bet ($2870.81) returned to HelloBen
+HelloBen collected $100.00 from pot
+HelloBen: doesn't show hand
+*** SUMMARY ***
+Total pot $100.00 | Rake $0.00
+Seat 1: CPUrul0r (button) (small blind) folded before Flop
+Seat 7: HelloBen (big blind) collected ($100.00)
+
+PokerStars Hand #1498949214:  Hold'em No Limit ($25.00/$50.00 USD) - 2022/12/26 15:31:01 ET
+Table 'WPN_7 Day No Rathole 25/50 NLH 9-Max' 9-max Seat #7 is the button
+Seat 1: CPUrul0r ($546.24 in chips)
+Seat 7: HelloBen ($2970.81 in chips)
+HelloBen: posts small blind $25.00
+CPUrul0r: posts big blind $50.00
+*** HOLE CARDS ***
+HelloBen: raises $2920.81 to $2970.81 and is all-in
+CPUrul0r: folds
+Uncalled bet ($2920.81) returned to HelloBen
+HelloBen collected $100.00 from pot
+HelloBen: doesn't show hand
+*** SUMMARY ***
+Total pot $100.00 | Rake $0.00
+Seat 1: CPUrul0r (big blind) folded before Flop
+Seat 7: HelloBen (button) (small blind) collected ($100.00)
+
+PokerStars Hand #1498949359:  Hold'em No Limit ($25.00/$50.00 USD) - 2022/12/26 15:31:14 ET
+Table 'WPN_7 Day No Rathole 25/50 NLH 9-Max' 9-max Seat #1 is the button
+Seat 1: CPUrul0r ($496.24 in chips)
+Seat 7: HelloBen ($3020.81 in chips)
+CPUrul0r: posts small blind $25.00
+HelloBen: posts big blind $50.00
+*** HOLE CARDS ***
+CPUrul0r: calls $25.00
+HelloBen: checks
+*** FLOP *** [Qc Th Jd]
+HelloBen: checks
+CPUrul0r: bets $50.00
+HelloBen: folds
+Uncalled bet ($50.00) returned to CPUrul0r
+CPUrul0r collected $98.75 from pot
+CPUrul0r: doesn't show hand
+*** SUMMARY ***
+Total pot $100.00 | Rake $1.25
+Board [Qc Th Jd]
+Seat 1: CPUrul0r (button) (small blind) collected ($98.75)
+Seat 7: HelloBen (big blind) folded on the Flop
+
+PokerStars Hand #1498949974:  Hold'em No Limit ($25.00/$50.00 USD) - 2022/12/26 15:32:16 ET
+Table 'WPN_7 Day No Rathole 25/50 NLH 9-Max' 9-max Seat #7 is the button
+Seat 1: CPUrul0r ($548.75 in chips)
+Seat 7: HelloBen ($2970.81 in chips)
+HelloBen: posts small blind $25.00
+CPUrul0r: posts big blind $50.00
+*** HOLE CARDS ***
+HelloBen: calls $25.00
+CPUrul0r: raises $100.00 to $150.00
+HelloBen: folds
+Uncalled bet ($100.00) returned to CPUrul0r
+CPUrul0r collected $100.00 from pot
+CPUrul0r: doesn't show hand
+*** SUMMARY ***
+Total pot $100.00 | Rake $0.00
+Seat 1: CPUrul0r (big blind) collected ($100.00)
+Seat 7: HelloBen (button) (small blind) folded before Flop
+
+PokerStars Hand #1498950106:  Hold'em No Limit ($25.00/$50.00 USD) - 2022/12/26 15:32:31 ET
+Table 'WPN_7 Day No Rathole 25/50 NLH 9-Max' 9-max Seat #1 is the button
+Seat 1: CPUrul0r ($598.75 in chips)
+Seat 7: HelloBen ($2920.81 in chips)
+CPUrul0r: posts small blind $25.00
+HelloBen: posts big blind $50.00
+*** HOLE CARDS ***
+CPUrul0r: calls $25.00
+HelloBen: raises $2870.81 to $2920.81 and is all-in
+CPUrul0r: folds
+Uncalled bet ($2870.81) returned to HelloBen
+HelloBen collected $100.00 from pot
+HelloBen: doesn't show hand
+*** SUMMARY ***
+Total pot $100.00 | Rake $0.00
+Seat 1: CPUrul0r (button) (small blind) folded before Flop
+Seat 7: HelloBen (big blind) collected ($100.00)
+
+PokerStars Hand #1498950315:  Hold'em No Limit ($25.00/$50.00 USD) - 2022/12/26 15:32:52 ET
+Table 'WPN_7 Day No Rathole 25/50 NLH 9-Max' 9-max Seat #7 is the button
+Seat 1: CPUrul0r ($548.75 in chips)
+Seat 7: HelloBen ($2970.81 in chips)
+HelloBen: posts small blind $25.00
+CPUrul0r: posts big blind $50.00
+*** HOLE CARDS ***
+HelloBen: raises $2920.81 to $2970.81 and is all-in
+CPUrul0r: folds
+Uncalled bet ($2920.81) returned to HelloBen
+HelloBen collected $100.00 from pot
+HelloBen: doesn't show hand
+*** SUMMARY ***
+Total pot $100.00 | Rake $0.00
+Seat 1: CPUrul0r (big blind) folded before Flop
+Seat 7: HelloBen (button) (small blind) collected ($100.00)
+
+PokerStars Hand #1498950425:  Hold'em No Limit ($25.00/$50.00 USD) - 2022/12/26 15:33:03 ET
+Table 'WPN_7 Day No Rathole 25/50 NLH 9-Max' 9-max Seat #1 is the button
+Seat 1: CPUrul0r ($498.75 in chips)
+Seat 7: HelloBen ($3020.81 in chips)
+CPUrul0r: posts small blind $25.00
+HelloBen: posts big blind $50.00
+*** HOLE CARDS ***
+CPUrul0r: folds
+Uncalled bet ($25.00) returned to HelloBen
+HelloBen collected $50.00 from pot
+HelloBen: doesn't show hand
+*** SUMMARY ***
+Total pot $50.00 | Rake $0.00
+Seat 1: CPUrul0r (button) (small blind) folded before Flop
+Seat 7: HelloBen (big blind) collected ($50.00)
+
+PokerStars Hand #1498950506:  Hold'em No Limit ($25.00/$50.00 USD) - 2022/12/26 15:33:12 ET
+Table 'WPN_7 Day No Rathole 25/50 NLH 9-Max' 9-max Seat #7 is the button
+Seat 1: CPUrul0r ($475.00 in chips)
+Seat 7: HelloBen ($3045.81 in chips)
+HelloBen: posts small blind $25.00
+CPUrul0r: posts big blind $50.00
+*** HOLE CARDS ***
+HelloBen: calls $25.00
+CPUrul0r: checks
+*** FLOP *** [Kh Qh 8s]
+CPUrul0r: checks
+HelloBen: bets $50.00
+CPUrul0r: folds
+Uncalled bet ($50.00) returned to HelloBen
+HelloBen collected $98.75 from pot
+HelloBen: doesn't show hand
+*** SUMMARY ***
+Total pot $100.00 | Rake $1.25
+Board [Kh Qh 8s]
+Seat 1: CPUrul0r (big blind) folded on the Flop
+Seat 7: HelloBen (button) (small blind) collected ($98.75)
+
+PokerStars Hand #1498950759:  Hold'em No Limit ($25.00/$50.00 USD) - 2022/12/26 15:33:36 ET
+Table 'WPN_7 Day No Rathole 25/50 NLH 9-Max' 9-max Seat #1 is the button
+Seat 1: CPUrul0r ($450.00 in chips)
+Seat 7: HelloBen ($3094.56 in chips)
+CPUrul0r: posts small blind $25.00
+HelloBen: posts big blind $50.00
+*** HOLE CARDS ***
+CPUrul0r: calls $25.00
+HelloBen: checks
+*** FLOP *** [Jc 5s 2c]
+HelloBen: checks
+CPUrul0r: bets $50.00
+HelloBen: calls $50.00
+*** TURN *** [Jc 5s 2c] [Qs]
+HelloBen: checks
+CPUrul0r: bets $100.00
+HelloBen: folds
+Uncalled bet ($100.00) returned to CPUrul0r
+CPUrul0r collected $198.75 from pot
+CPUrul0r: doesn't show hand
+*** SUMMARY ***
+Total pot $200.00 | Rake $1.25
+Board [Jc 5s 2c Qs]
+Seat 1: CPUrul0r (button) (small blind) collected ($198.75)
+Seat 7: HelloBen (big blind) folded on the Turn
+
+PokerStars Hand #1498951106:  Hold'em No Limit ($25.00/$50.00 USD) - 2022/12/26 15:34:13 ET
+Table 'WPN_7 Day No Rathole 25/50 NLH 9-Max' 9-max Seat #7 is the button
+Seat 1: CPUrul0r ($598.75 in chips)
+Seat 7: HelloBen ($2994.56 in chips)
+HelloBen: posts small blind $25.00
+CPUrul0r: posts big blind $50.00
+*** HOLE CARDS ***
+HelloBen: calls $25.00
+CPUrul0r: checks
+*** FLOP *** [6d 8h 2s]
+CPUrul0r: checks
+HelloBen: checks
+*** TURN *** [6d 8h 2s] [8c]
+CPUrul0r: bets $100.00
+HelloBen: calls $100.00
+*** RIVER *** [6d 8h 2s 8c] [As]
+CPUrul0r: checks
+HelloBen: bets $473.00
+CPUrul0r: calls $448.75 and is all-in
+Uncalled bet ($24.25) returned to HelloBen
+*** SHOW DOWN ***
+CPUrul0r: shows [Qh 6s]
+HelloBen: shows [7s 4d]
+CPUrul0r collected $1196.25 from pot
+*** SUMMARY ***
+Total pot $1197.50 | Rake $1.25
+Board [6d 8h 2s 8c As]
+Seat 1: CPUrul0r (big blind) showed [Qh 6s] and won ($1196.25)
+Seat 7: HelloBen (button) (small blind) showed [7s 4d] and lost
+
+PokerStars Hand #1498951765:  Hold'em No Limit ($25.00/$50.00 USD) - 2022/12/26 15:35:20 ET
+Table 'WPN_7 Day No Rathole 25/50 NLH 9-Max' 9-max Seat #1 is the button
+Seat 1: CPUrul0r ($1196.25 in chips)
+Seat 7: HelloBen ($2395.81 in chips)
+CPUrul0r: posts small blind $25.00
+HelloBen: posts big blind $50.00
+*** HOLE CARDS ***
+CPUrul0r: calls $25.00
+HelloBen: checks
+*** FLOP *** [9h Qc 4h]
+HelloBen: checks
+CPUrul0r: bets $50.00
+HelloBen: folds
+Uncalled bet ($50.00) returned to CPUrul0r
+CPUrul0r collected $98.75 from pot
+CPUrul0r: doesn't show hand
+*** SUMMARY ***
+Total pot $100.00 | Rake $1.25
+Board [9h Qc 4h]
+Seat 1: CPUrul0r (button) (small blind) collected ($98.75)
+Seat 7: HelloBen (big blind) folded on the Flop
+
+PokerStars Hand #1498952144:  Hold'em No Limit ($25.00/$50.00 USD) - 2022/12/26 15:35:58 ET
+Table 'WPN_7 Day No Rathole 25/50 NLH 9-Max' 9-max Seat #7 is the button
+Seat 1: CPUrul0r ($1245.00 in chips)
+Seat 7: HelloBen ($2345.81 in chips)
+HelloBen: posts small blind $25.00
+CPUrul0r: posts big blind $50.00
+*** HOLE CARDS ***
+HelloBen: raises $50.00 to $100.00
+CPUrul0r: folds
+Uncalled bet ($50.00) returned to HelloBen
+HelloBen collected $100.00 from pot
+HelloBen: doesn't show hand
+*** SUMMARY ***
+Total pot $100.00 | Rake $0.00
+Seat 1: CPUrul0r (big blind) folded before Flop
+Seat 7: HelloBen (button) (small blind) collected ($100.00)
+
+PokerStars Hand #1498952279:  Hold'em No Limit ($25.00/$50.00 USD) - 2022/12/26 15:36:13 ET
+Table 'WPN_7 Day No Rathole 25/50 NLH 9-Max' 9-max Seat #1 is the button
+Seat 1: CPUrul0r ($1195.00 in chips)
+Seat 7: HelloBen ($2395.81 in chips)
+CPUrul0r: posts small blind $25.00
+HelloBen: posts big blind $50.00
+*** HOLE CARDS ***
+CPUrul0r: calls $25.00
+HelloBen: checks
+*** FLOP *** [6d 4d 9h]
+HelloBen: checks
+CPUrul0r: checks
+*** TURN *** [6d 4d 9h] [2d]
+HelloBen: bets $50.00
+CPUrul0r: calls $50.00
+*** RIVER *** [6d 4d 9h 2d] [Ks]
+HelloBen: bets $50.00
+CPUrul0r: raises $150.00 to $200.00
+HelloBen: folds
+Uncalled bet ($150.00) returned to CPUrul0r
+CPUrul0r collected $298.75 from pot
+CPUrul0r: doesn't show hand
+*** SUMMARY ***
+Total pot $300.00 | Rake $1.25
+Board [6d 4d 9h 2d Ks]
+Seat 1: CPUrul0r (button) (small blind) collected ($298.75)
+Seat 7: HelloBen (big blind) folded on the River
+
+PokerStars Hand #1498952805:  Hold'em No Limit ($25.00/$50.00 USD) - 2022/12/26 15:37:05 ET
+Table 'WPN_7 Day No Rathole 25/50 NLH 9-Max' 9-max Seat #7 is the button
+Seat 1: CPUrul0r ($1343.75 in chips)
+Seat 7: HelloBen ($2245.81 in chips)
+HelloBen: posts small blind $25.00
+CPUrul0r: posts big blind $50.00
+*** HOLE CARDS ***
+HelloBen: raises $50.00 to $100.00
+CPUrul0r: calls $50.00
+*** FLOP *** [Ks 9s Jc]
+CPUrul0r: checks
+HelloBen: checks
+*** TURN *** [Ks 9s Jc] [Jd]
+CPUrul0r: checks
+HelloBen: bets $50.00
+CPUrul0r: folds
+Uncalled bet ($50.00) returned to HelloBen
+HelloBen collected $198.75 from pot
+HelloBen: doesn't show hand
+*** SUMMARY ***
+Total pot $200.00 | Rake $1.25
+Board [Ks 9s Jc Jd]
+Seat 1: CPUrul0r (big blind) folded on the Turn
+Seat 7: HelloBen (button) (small blind) collected ($198.75)
+
+PokerStars Hand #1498953186:  Hold'em No Limit ($25.00/$50.00 USD) - 2022/12/26 15:37:44 ET
+Table 'WPN_7 Day No Rathole 25/50 NLH 9-Max' 9-max Seat #7 is the button
+Seat 1: CPUrul0r ($1243.75 in chips)
+Seat 2: _COBKA_PBET_ ($1288.00 in chips)
+Seat 7: HelloBen ($2344.56 in chips)
+CPUrul0r: posts small blind $25.00
+_COBKA_PBET_: posts big blind $50.00
+*** HOLE CARDS ***
+HelloBen: folds
+CPUrul0r: folds
+Uncalled bet ($25.00) returned to _COBKA_PBET_
+_COBKA_PBET_ collected $50.00 from pot
+_COBKA_PBET_: doesn't show hand
+*** SUMMARY ***
+Total pot $50.00 | Rake $0.00
+Seat 1: CPUrul0r (small blind) folded before Flop
+Seat 2: _COBKA_PBET_ (big blind) collected ($50.00)
+Seat 7: HelloBen (button) folded before Flop (didn't bet)
+
+PokerStars Hand #1498953274:  Hold'em No Limit ($25.00/$50.00 USD) - 2022/12/26 15:37:54 ET
+Table 'WPN_7 Day No Rathole 25/50 NLH 9-Max' 9-max Seat #1 is the button
+Seat 1: CPUrul0r ($1218.75 in chips)
+Seat 2: _COBKA_PBET_ ($1313.00 in chips)
+Seat 7: HelloBen ($2344.56 in chips)
+_COBKA_PBET_: posts small blind $25.00
+HelloBen: posts big blind $50.00
+*** HOLE CARDS ***
+CPUrul0r: folds
+_COBKA_PBET_: folds
+Uncalled bet ($25.00) returned to HelloBen
+HelloBen collected $50.00 from pot
+HelloBen: doesn't show hand
+*** SUMMARY ***
+Total pot $50.00 | Rake $0.00
+Seat 1: CPUrul0r (button) folded before Flop (didn't bet)
+Seat 2: _COBKA_PBET_ (small blind) folded before Flop
+Seat 7: HelloBen (big blind) collected ($50.00)
+
+PokerStars Hand #1498953398:  Hold'em No Limit ($25.00/$50.00 USD) - 2022/12/26 15:38:09 ET
+Table 'WPN_7 Day No Rathole 25/50 NLH 9-Max' 9-max Seat #2 is the button
+Seat 1: CPUrul0r ($1218.75 in chips)
+Seat 2: _COBKA_PBET_ ($1288.00 in chips)
+Seat 7: HelloBen ($2369.56 in chips)
+HelloBen: posts small blind $25.00
+CPUrul0r: posts big blind $50.00
+*** HOLE CARDS ***
+_COBKA_PBET_: folds
+HelloBen: raises $2319.56 to $2369.56 and is all-in
+CPUrul0r: folds
+Uncalled bet ($2319.56) returned to HelloBen
+HelloBen collected $100.00 from pot
+HelloBen: doesn't show hand
+*** SUMMARY ***
+Total pot $100.00 | Rake $0.00
+Seat 1: CPUrul0r (big blind) folded before Flop
+Seat 2: _COBKA_PBET_ (button) folded before Flop (didn't bet)
+Seat 7: HelloBen (small blind) collected ($100.00)
+
+PokerStars Hand #1498953598:  Hold'em No Limit ($25.00/$50.00 USD) - 2022/12/26 15:38:30 ET
+Table 'WPN_7 Day No Rathole 25/50 NLH 9-Max' 9-max Seat #7 is the button
+Seat 1: CPUrul0r ($1168.75 in chips)
+Seat 2: _COBKA_PBET_ ($1288.00 in chips)
+Seat 7: HelloBen ($2419.56 in chips)
+CPUrul0r: posts small blind $25.00
+HelloBen: posts big blind $50.00
+*** HOLE CARDS ***
+CPUrul0r: calls $25.00
+HelloBen: checks
+*** FLOP *** [Qs 3c Js]
+CPUrul0r: bets $50.00
+HelloBen: calls $50.00
+*** TURN *** [Qs 3c Js] [4d]
+CPUrul0r: checks
+HelloBen: bets $198.50
+CPUrul0r: folds
+Uncalled bet ($198.50) returned to HelloBen
+HelloBen collected $198.75 from pot
+HelloBen: doesn't show hand
+*** SUMMARY ***
+Total pot $200.00 | Rake $1.25
+Board [Qs 3c Js 4d]
+Seat 1: CPUrul0r (small blind) folded on the Turn
+Seat 7: HelloBen (button) (big blind) collected ($198.75)
+
+PokerStars Hand #1498954131:  Hold'em No Limit ($25.00/$50.00 USD) - 2022/12/26 15:39:25 ET
+Table 'WPN_7 Day No Rathole 25/50 NLH 9-Max' 9-max Seat #7 is the button
+Seat 1: CPUrul0r ($1068.75 in chips)
+Seat 7: HelloBen ($2518.31 in chips)
+HelloBen: posts small blind $25.00
+CPUrul0r: posts big blind $50.00
+*** HOLE CARDS ***
+HelloBen: calls $25.00
+CPUrul0r: raises $175.00 to $225.00
+HelloBen: calls $175.00
+*** FLOP *** [3h Jd 9c]
+CPUrul0r: bets $843.75 and is all-in
+HelloBen: calls $843.75
+*** FIRST TURN *** [3h Jd 9c] [4h]
+*** FIRST RIVER *** [3h Jd 9c 4h] [2c]
+*** SECOND TURN *** [3h Jd 9c] [4c]
+*** SECOND RIVER *** [3h Jd 9c 4c] [4s]
+*** FIRST SHOW DOWN ***
+HelloBen: shows [9d Jc]
+CPUrul0r: shows [Kh Qd]
+HelloBen collected $1068.13 from pot
+*** SECOND SHOW DOWN ***
+HelloBen: shows [9d Jc]
+CPUrul0r: shows [Kh Qd]
+HelloBen collected $1068.12 from pot
+*** SUMMARY ***
+Total pot $2137.50 | Rake $1.25
+Hand was run twice
+FIRST Board [3h Jd 9c 4h 2c]
+SECOND Board [3h Jd 9c 4c 4s]
+Seat 1: CPUrul0r (big blind) showed [Kh Qd] and lost, and lost
+Seat 7: HelloBen (button) (small blind) showed [9d Jc] and won ($1068.13), and won ($1068.12)
+
+PokerStars Hand #1498954599:  Hold'em No Limit ($25.00/$50.00 USD) - 2022/12/26 15:40:14 ET
+Table 'WPN_7 Day No Rathole 25/50 NLH 9-Max' 9-max Seat #1 is the button
+Seat 1: CPUrul0r ($500.00 in chips)
+Seat 7: HelloBen ($3585.81 in chips)
+CPUrul0r: posts small blind $25.00
+HelloBen: posts big blind $50.00
+*** HOLE CARDS ***
+CPUrul0r: raises $450.00 to $500.00 and is all-in
+HelloBen: folds
+Uncalled bet ($450.00) returned to CPUrul0r
+CPUrul0r collected $100.00 from pot
+CPUrul0r: doesn't show hand
+*** SUMMARY ***
+Total pot $100.00 | Rake $0.00
+Seat 1: CPUrul0r (button) (small blind) collected ($100.00)
+Seat 7: HelloBen (big blind) folded before Flop
+
+PokerStars Hand #1498954751:  Hold'em No Limit ($25.00/$50.00 USD) - 2022/12/26 15:40:29 ET
+Table 'WPN_7 Day No Rathole 25/50 NLH 9-Max' 9-max Seat #7 is the button
+Seat 1: CPUrul0r ($550.00 in chips)
+Seat 7: HelloBen ($3535.81 in chips)
+HelloBen: posts small blind $25.00
+CPUrul0r: posts big blind $50.00
+*** HOLE CARDS ***
+HelloBen: calls $25.00
+CPUrul0r: raises $500.00 to $550.00 and is all-in
+HelloBen: folds
+Uncalled bet ($500.00) returned to CPUrul0r
+CPUrul0r collected $100.00 from pot
+CPUrul0r: doesn't show hand
+*** SUMMARY ***
+Total pot $100.00 | Rake $0.00
+Seat 1: CPUrul0r (big blind) collected ($100.00)
+Seat 7: HelloBen (button) (small blind) folded before Flop
+
+PokerStars Hand #1498954888:  Hold'em No Limit ($25.00/$50.00 USD) - 2022/12/26 15:40:44 ET
+Table 'WPN_7 Day No Rathole 25/50 NLH 9-Max' 9-max Seat #1 is the button
+Seat 1: CPUrul0r ($600.00 in chips)
+Seat 7: HelloBen ($3485.81 in chips)
+CPUrul0r: posts small blind $25.00
+HelloBen: posts big blind $50.00
+*** HOLE CARDS ***
+CPUrul0r: raises $550.00 to $600.00 and is all-in
+HelloBen: folds
+Uncalled bet ($550.00) returned to CPUrul0r
+CPUrul0r collected $100.00 from pot
+CPUrul0r: doesn't show hand
+*** SUMMARY ***
+Total pot $100.00 | Rake $0.00
+Seat 1: CPUrul0r (button) (small blind) collected ($100.00)
+Seat 7: HelloBen (big blind) folded before Flop
+
+PokerStars Hand #1498955055:  Hold'em No Limit ($25.00/$50.00 USD) - 2022/12/26 15:41:00 ET
+Table 'WPN_7 Day No Rathole 25/50 NLH 9-Max' 9-max Seat #7 is the button
+Seat 1: CPUrul0r ($650.00 in chips)
+Seat 7: HelloBen ($3435.81 in chips)
+HelloBen: posts small blind $25.00
+CPUrul0r: posts big blind $50.00
+*** HOLE CARDS ***
+HelloBen: calls $25.00
+CPUrul0r: raises $125.00 to $175.00
+HelloBen: raises $3260.81 to $3435.81 and is all-in
+CPUrul0r: folds
+Uncalled bet ($3260.81) returned to HelloBen
+HelloBen collected $350.00 from pot
+HelloBen: doesn't show hand
+*** SUMMARY ***
+Total pot $350.00 | Rake $0.00
+Seat 1: CPUrul0r (big blind) folded before Flop
+Seat 7: HelloBen (button) (small blind) collected ($350.00)
+
+PokerStars Hand #1498955251:  Hold'em No Limit ($25.00/$50.00 USD) - 2022/12/26 15:41:21 ET
+Table 'WPN_7 Day No Rathole 25/50 NLH 9-Max' 9-max Seat #1 is the button
+Seat 1: CPUrul0r ($475.00 in chips)
+Seat 7: HelloBen ($3610.81 in chips)
+CPUrul0r: posts small blind $25.00
+HelloBen: posts big blind $50.00
+*** HOLE CARDS ***
+CPUrul0r: folds
+Uncalled bet ($25.00) returned to HelloBen
+HelloBen collected $50.00 from pot
+HelloBen: doesn't show hand
+*** SUMMARY ***
+Total pot $50.00 | Rake $0.00
+Seat 1: CPUrul0r (button) (small blind) folded before Flop
+Seat 7: HelloBen (big blind) collected ($50.00)
+
+PokerStars Hand #1498902779:  Hold'em No Limit ($25.00/$50.00 USD) - 2022/12/26 13:45:48 ET
+Table 'WPN_7 Day No Rathole 25/50 NLH 9-Max' 9-max Seat #7 is the button
+Seat 2: chop-ch0p ($6706.32 in chips)
+Seat 7: CPUrul0r ($500.00 in chips)
+CPUrul0r: posts small blind $25.00
+chop-ch0p: posts big blind $50.00
+*** HOLE CARDS ***
+CPUrul0r: raises $450.00 to $500.00 and is all-in
+chop-ch0p: calls $450.00
+*** FIRST FLOP *** [3c 7d Tc]
+*** FIRST TURN *** [3c 7d Tc] [2h]
+*** FIRST RIVER *** [3c 7d Tc 2h] [7c]
+*** SECOND FLOP *** [Ad As 6d]
+*** SECOND TURN *** [Ad As 6d] [8c]
+*** SECOND RIVER *** [Ad As 6d 8c] [4s]
+*** FIRST SHOW DOWN ***
+chop-ch0p: shows [Qh Ks]
+CPUrul0r: shows [9c Qs]
+chop-ch0p collected $499.38 from pot
+*** SECOND SHOW DOWN ***
+chop-ch0p: shows [Qh Ks]
+CPUrul0r: shows [9c Qs]
+chop-ch0p collected $499.37 from pot
+*** SUMMARY ***
+Total pot $1000.00 | Rake $1.25
+Hand was run twice
+FIRST Board [3c 7d Tc 2h 7c]
+SECOND Board [Ad As 6d 8c 4s]
+Seat 2: chop-ch0p (big blind) showed [Qh Ks] and won ($499.38), and won ($499.37)
+Seat 7: CPUrul0r (button) (small blind) showed [9c Qs] and lost, and lost
+
+PokerStars Hand #1498902937:  Hold'em No Limit ($25.00/$50.00 USD) - 2022/12/26 13:46:15 ET
+Table 'WPN_7 Day No Rathole 25/50 NLH 9-Max' 9-max Seat #2 is the button
+Seat 2: chop-ch0p ($7205.07 in chips)
+Seat 7: CPUrul0r ($500.00 in chips)
+chop-ch0p: posts small blind $25.00
+CPUrul0r: posts big blind $50.00
+*** HOLE CARDS ***
+chop-ch0p: raises $7155.07 to $7205.07 and is all-in
+CPUrul0r: folds
+Uncalled bet ($7155.07) returned to chop-ch0p
+chop-ch0p collected $100.00 from pot
+chop-ch0p: doesn't show hand
+*** SUMMARY ***
+Total pot $100.00 | Rake $0.00
+Seat 2: chop-ch0p (button) (small blind) collected ($100.00)
+Seat 7: CPUrul0r (big blind) folded before Flop
+
+PokerStars Hand #1498903039:  Hold'em No Limit ($25.00/$50.00 USD) - 2022/12/26 13:46:33 ET
+Table 'WPN_7 Day No Rathole 25/50 NLH 9-Max' 9-max Seat #7 is the button
+Seat 2: chop-ch0p ($7255.07 in chips)
+Seat 7: CPUrul0r ($450.00 in chips)
+CPUrul0r: posts small blind $25.00
+chop-ch0p: posts big blind $50.00
+*** HOLE CARDS ***
+CPUrul0r: raises $450.00 to $500.00 and is all-in
+chop-ch0p: calls $450.00
+*** FLOP *** [3c Qc 6c]
+*** TURN *** [3c Qc 6c] [Tc]
+*** RIVER *** [3c Qc 6c Tc] [5c]
+*** SHOW DOWN ***
+chop-ch0p: shows [8h As]
+CPUrul0r: shows [Jh Ts]
+chop-ch0p collected $499.37 from pot
+CPUrul0r collected $499.38 from pot
+*** SUMMARY ***
+Total pot $1000.00 | Rake $1.25
+Board [3c Qc 6c Tc 5c]
+Seat 2: chop-ch0p (big blind) showed [8h As] and won ($499.37)
+Seat 7: CPUrul0r (button) (small blind) showed [Jh Ts] and won ($499.38)
+
+PokerStars Hand #1498903157:  Hold'em No Limit ($25.00/$50.00 USD) - 2022/12/26 13:46:52 ET
+Table 'WPN_7 Day No Rathole 25/50 NLH 9-Max' 9-max Seat #2 is the button
+Seat 2: chop-ch0p ($7254.44 in chips)
+Seat 7: CPUrul0r ($500.00 in chips)
+chop-ch0p: posts small blind $25.00
+CPUrul0r: posts big blind $50.00
+*** HOLE CARDS ***
+chop-ch0p: raises $7204.44 to $7254.44 and is all-in
+CPUrul0r: folds
+Uncalled bet ($7204.44) returned to chop-ch0p
+chop-ch0p collected $100.00 from pot
+chop-ch0p: doesn't show hand
+*** SUMMARY ***
+Total pot $100.00 | Rake $0.00
+Seat 2: chop-ch0p (button) (small blind) collected ($100.00)
+Seat 7: CPUrul0r (big blind) folded before Flop
+
+PokerStars Hand #1498903249:  Hold'em No Limit ($25.00/$50.00 USD) - 2022/12/26 13:47:07 ET
+Table 'WPN_7 Day No Rathole 25/50 NLH 9-Max' 9-max Seat #7 is the button
+Seat 2: chop-ch0p ($7304.44 in chips)
+Seat 7: CPUrul0r ($450.00 in chips)
+CPUrul0r: posts small blind $25.00
+chop-ch0p: posts big blind $50.00
+*** HOLE CARDS ***
+CPUrul0r: calls $25.00
+chop-ch0p: raises $7254.44 to $7304.44 and is all-in
+CPUrul0r: calls $450.00 and is all-in
+Uncalled bet ($6804.44) returned to chop-ch0p
+*** FLOP *** [Js 2d 4c]
+*** TURN *** [Js 2d 4c] [5s]
+*** RIVER *** [Js 2d 4c 5s] [3d]
+*** SHOW DOWN ***
+CPUrul0r: shows [Ah Qc]
+chop-ch0p: shows [Kh 4s]
+CPUrul0r collected $998.75 from pot
+*** SUMMARY ***
+Total pot $1000.00 | Rake $1.25
+Board [Js 2d 4c 5s 3d]
+Seat 2: chop-ch0p (big blind) showed [Kh 4s] and lost
+Seat 7: CPUrul0r (button) (small blind) showed [Ah Qc] and won ($998.75)
+
+PokerStars Hand #1498903395:  Hold'em No Limit ($25.00/$50.00 USD) - 2022/12/26 13:47:33 ET
+Table 'WPN_7 Day No Rathole 25/50 NLH 9-Max' 9-max Seat #2 is the button
+Seat 2: chop-ch0p ($6804.44 in chips)
+Seat 7: CPUrul0r ($998.75 in chips)
+chop-ch0p: posts small blind $25.00
+CPUrul0r: posts big blind $50.00
+*** HOLE CARDS ***
+chop-ch0p: calls $25.00
+CPUrul0r: checks
+*** FLOP *** [7d 2h 2s]
+CPUrul0r: checks
+chop-ch0p: checks
+*** TURN *** [7d 2h 2s] [7c]
+CPUrul0r: checks
+chop-ch0p: bets $50.00
+CPUrul0r: calls $50.00
+*** RIVER *** [7d 2h 2s 7c] [Qh]
+CPUrul0r: checks
+chop-ch0p: checks
+*** SHOW DOWN ***
+CPUrul0r: shows [Th Kc]
+chop-ch0p: mucks hand
+CPUrul0r collected $198.75 from pot
+*** SUMMARY ***
+Total pot $200.00 | Rake $1.25
+Board [7d 2h 2s 7c Qh]
+Seat 2: chop-ch0p (button) (small blind) mucked
+Seat 7: CPUrul0r (big blind) showed [Th Kc] and won ($198.75)
+
+PokerStars Hand #1498903840:  Hold'em No Limit ($25.00/$50.00 USD) - 2022/12/26 13:48:46 ET
+Table 'WPN_7 Day No Rathole 25/50 NLH 9-Max' 9-max Seat #7 is the button
+Seat 2: chop-ch0p ($6704.44 in chips)
+Seat 7: CPUrul0r ($1097.50 in chips)
+CPUrul0r: posts small blind $25.00
+chop-ch0p: posts big blind $50.00
+*** HOLE CARDS ***
+CPUrul0r: raises $50.00 to $100.00
+chop-ch0p: calls $50.00
+*** FLOP *** [Jh Jc 2c]
+chop-ch0p: checks
+CPUrul0r: bets $50.00
+chop-ch0p: folds
+Uncalled bet ($50.00) returned to CPUrul0r
+CPUrul0r collected $198.75 from pot
+CPUrul0r: doesn't show hand
+*** SUMMARY ***
+Total pot $200.00 | Rake $1.25
+Board [Jh Jc 2c]
+Seat 2: chop-ch0p (big blind) folded on the Flop
+Seat 7: CPUrul0r (button) (small blind) collected ($198.75)
+
+PokerStars Hand #1498904364:  Hold'em No Limit ($25.00/$50.00 USD) - 2022/12/26 13:50:19 ET
+Table 'WPN_7 Day No Rathole 25/50 NLH 9-Max' 9-max Seat #2 is the button
+Seat 2: chop-ch0p ($6604.44 in chips)
+Seat 7: CPUrul0r ($1196.25 in chips)
+chop-ch0p: posts small blind $25.00
+CPUrul0r: posts big blind $50.00
+*** HOLE CARDS ***
+chop-ch0p: raises $50.00 to $100.00
+CPUrul0r: calls $50.00
+*** FLOP *** [Qd 5s 6c]
+CPUrul0r: checks
+chop-ch0p: checks
+*** TURN *** [Qd 5s 6c] [9c]
+CPUrul0r: checks
+chop-ch0p: checks
+*** RIVER *** [Qd 5s 6c 9c] [2s]
+CPUrul0r: bets $146.00
+chop-ch0p: calls $146.00
+*** SHOW DOWN ***
+CPUrul0r: shows [9h 8d]
+chop-ch0p: mucks hand
+CPUrul0r collected $490.75 from pot
+*** SUMMARY ***
+Total pot $492.00 | Rake $1.25
+Board [Qd 5s 6c 9c 2s]
+Seat 2: chop-ch0p (button) (small blind) mucked
+Seat 7: CPUrul0r (big blind) showed [9h 8d] and won ($490.75)
+
+PokerStars Hand #1498904691:  Hold'em No Limit ($25.00/$50.00 USD) - 2022/12/26 13:51:19 ET
+Table 'WPN_7 Day No Rathole 25/50 NLH 9-Max' 9-max Seat #7 is the button
+Seat 2: chop-ch0p ($6358.44 in chips)
+Seat 7: CPUrul0r ($1441.00 in chips)
+CPUrul0r: posts small blind $25.00
+chop-ch0p: posts big blind $50.00
+*** HOLE CARDS ***
+CPUrul0r: folds
+Uncalled bet ($25.00) returned to chop-ch0p
+chop-ch0p collected $50.00 from pot
+chop-ch0p: doesn't show hand
+*** SUMMARY ***
+Total pot $50.00 | Rake $0.00
+Seat 2: chop-ch0p (big blind) collected ($50.00)
+Seat 7: CPUrul0r (button) (small blind) folded before Flop
+
+PokerStars Hand #1498815792:  Hold'em No Limit ($25.00/$50.00 USD) - 2022/12/26 08:56:25 ET
+Table 'WPN_7 Day No Rathole 25/50 NLH 9-Max' 9-max Seat #6 is the button
+Seat 2: THECAGE ($16833.73 in chips)
+Seat 6: eldoofus ($22519.59 in chips)
+eldoofus: posts small blind $25.00
+THECAGE: posts big blind $50.00
+*** HOLE CARDS ***
+eldoofus: raises $50.00 to $100.00
+THECAGE: calls $50.00
+*** FLOP *** [Jd 7s Td]
+THECAGE: checks
+eldoofus: checks
+*** TURN *** [Jd 7s Td] [Th]
+THECAGE: checks
+eldoofus: checks
+*** RIVER *** [Jd 7s Td Th] [6h]
+THECAGE: bets $64.00
+eldoofus: calls $64.00
+*** SHOW DOWN ***
+THECAGE: shows [7c 6d]
+eldoofus: mucks hand
+THECAGE collected $326.75 from pot
+*** SUMMARY ***
+Total pot $328.00 | Rake $1.25
+Board [Jd 7s Td Th 6h]
+Seat 2: THECAGE (big blind) showed [7c 6d] and won ($326.75)
+Seat 6: eldoofus (button) (small blind) mucked
+
+PokerStars Hand #1498816034:  Hold'em No Limit ($25.00/$50.00 USD) - 2022/12/26 08:57:18 ET
+Table 'WPN_7 Day No Rathole 25/50 NLH 9-Max' 9-max Seat #2 is the button
+Seat 2: THECAGE ($16971.48 in chips)
+Seat 7: zas911 ($7875.21 in chips)
+Seat 8: ATARAX1A ($500.00 in chips)
+zas911: posts small blind $25.00
+ATARAX1A: posts big blind $50.00
+*** HOLE CARDS ***
+THECAGE: folds
+zas911: folds
+Uncalled bet ($25.00) returned to ATARAX1A
+ATARAX1A collected $50.00 from pot
+ATARAX1A: doesn't show hand
+*** SUMMARY ***
+Total pot $50.00 | Rake $0.00
+Seat 2: THECAGE (button) folded before Flop (didn't bet)
+Seat 7: zas911 (small blind) folded before Flop
+Seat 8: ATARAX1A (big blind) collected ($50.00)
+
+PokerStars Hand #1498816100:  Hold'em No Limit ($25.00/$50.00 USD) - 2022/12/26 08:57:29 ET
+Table 'WPN_7 Day No Rathole 25/50 NLH 9-Max' 9-max Seat #8 is the button
+Seat 7: zas911 ($7850.21 in chips)
+Seat 8: ATARAX1A ($525.00 in chips)
+ATARAX1A: posts small blind $25.00
+zas911: posts big blind $50.00
+*** HOLE CARDS ***
+ATARAX1A: raises $475.00 to $525.00 and is all-in
+zas911: folds
+Uncalled bet ($475.00) returned to ATARAX1A
+ATARAX1A collected $100.00 from pot
+ATARAX1A: doesn't show hand
+*** SUMMARY ***
+Total pot $100.00 | Rake $0.00
+Seat 7: zas911 (big blind) folded before Flop
+Seat 8: ATARAX1A (button) (small blind) collected ($100.00)
+
+PokerStars Hand #1498715625:  Hold'em No Limit ($25.00/$50.00 USD) - 2022/12/26 06:04:01 ET
+Table 'WPN_7 Day No Rathole 25/50 NLH 9-Max' 9-max Seat #1 is the button
+Seat 1: PreHistoric ($550.00 in chips)
+Seat 2: SigadiSogadi ($3837.00 in chips)
+PreHistoric: posts small blind $25.00
+SigadiSogadi: posts big blind $50.00
+*** HOLE CARDS ***
+PreHistoric: raises $500.00 to $550.00 and is all-in
+SigadiSogadi: calls $500.00
+*** FLOP *** [2d Td 2c]
+*** TURN *** [2d Td 2c] [5d]
+*** RIVER *** [2d Td 2c 5d] [Qs]
+*** SHOW DOWN ***
+SigadiSogadi: shows [Ah Ad]
+PreHistoric: shows [Qh As]
+SigadiSogadi collected $1098.75 from pot
+*** SUMMARY ***
+Total pot $1100.00 | Rake $1.25
+Board [2d Td 2c 5d Qs]
+Seat 1: PreHistoric (button) (small blind) showed [Qh As] and lost
+Seat 2: SigadiSogadi (big blind) showed [Ah Ad] and won ($1098.75)
+
+PokerStars Hand #1498716013:  Hold'em No Limit ($25.00/$50.00 USD) - 2022/12/26 06:04:31 ET
+Table 'WPN_7 Day No Rathole 25/50 NLH 9-Max' 9-max Seat #2 is the button
+Seat 1: PreHistoric ($500.00 in chips)
+Seat 2: SigadiSogadi ($4385.75 in chips)
+SigadiSogadi: posts small blind $25.00
+PreHistoric: posts big blind $50.00
+*** HOLE CARDS ***
+SigadiSogadi: raises $2845.86 to $2895.86
+PreHistoric: calls $450.00 and is all-in
+Uncalled bet ($2395.86) returned to SigadiSogadi
+*** FLOP *** [5c 4d 8c]
+*** TURN *** [5c 4d 8c] [Jc]
+*** RIVER *** [5c 4d 8c Jc] [6c]
+*** SHOW DOWN ***
+PreHistoric: shows [7c 7s]
+SigadiSogadi: shows [Qd Ks]
+PreHistoric collected $998.75 from pot
+*** SUMMARY ***
+Total pot $1000.00 | Rake $1.25
+Board [5c 4d 8c Jc 6c]
+Seat 1: PreHistoric (big blind) showed [7c 7s] and won ($998.75)
+Seat 2: SigadiSogadi (button) (small blind) showed [Qd Ks] and lost
+
+PokerStars Hand #1498430797:  Hold'em No Limit ($25.00/$50.00 USD) - 2022/12/26 01:22:16 ET
+Table 'WPN_7 Day No Rathole 25/50 NLH 9-Max' 9-max Seat #4 is the button
+Seat 2: chop-ch0p ($6681.94 in chips)
+Seat 4: 10of10 ($5148.90 in chips)
+Seat 5: zas911 ($7900.21 in chips)
+zas911: posts small blind $25.00
+chop-ch0p: posts big blind $50.00
+*** HOLE CARDS ***
+10of10: folds
+zas911: folds
+Uncalled bet ($25.00) returned to chop-ch0p
+chop-ch0p collected $50.00 from pot
+chop-ch0p: doesn't show hand
+*** SUMMARY ***
+Total pot $50.00 | Rake $0.00
+Seat 2: chop-ch0p (big blind) collected ($50.00)
+Seat 4: 10of10 (button) folded before Flop (didn't bet)
+Seat 5: zas911 (small blind) folded before Flop
+
+PokerStars Hand #1498429232:  Hold'em No Limit ($25.00/$50.00 USD) - 2022/12/26 01:20:57 ET
+Table 'WPN_7 Day No Rathole 25/50 NLH 9-Max' 9-max Seat #2 is the button
+Seat 2: chop-ch0p ($6059.19 in chips)
+Seat 3: DLAZ ($450.00 in chips)
+Seat 4: 10of10 ($5223.90 in chips)
+Seat 5: zas911 ($7950.21 in chips)
+DLAZ: posts small blind $25.00
+10of10: posts big blind $50.00
+*** HOLE CARDS ***
+chop-ch0p: folds
+DLAZ: raises $450.00 to $500.00 and is all-in
+10of10: folds
+Uncalled bet ($450.00) returned to DLAZ
+DLAZ collected $100.00 from pot
+DLAZ: doesn't show hand
+*** SUMMARY ***
+Total pot $100.00 | Rake $0.00
+Seat 2: chop-ch0p (button) folded before Flop (didn't bet)
+Seat 3: DLAZ (small blind) collected ($100.00)
+Seat 4: 10of10 (big blind) folded before Flop
+
+PokerStars Hand #1498429786:  Hold'em No Limit ($25.00/$50.00 USD) - 2022/12/26 01:21:25 ET
+Table 'WPN_7 Day No Rathole 25/50 NLH 9-Max' 9-max Seat #3 is the button
+Seat 2: chop-ch0p ($6059.19 in chips)
+Seat 3: DLAZ ($550.00 in chips)
+Seat 4: 10of10 ($5173.90 in chips)
+Seat 5: zas911 ($7950.21 in chips)
+10of10: posts small blind $25.00
+zas911: posts big blind $50.00
+*** HOLE CARDS ***
+chop-ch0p: raises $50.00 to $100.00
+DLAZ: raises $450.00 to $550.00 and is all-in
+10of10: folds
+zas911: folds
+chop-ch0p: calls $450.00
+*** FLOP *** [3s 2s 7c]
+*** TURN *** [3s 2s 7c] [8h]
+*** RIVER *** [3s 2s 7c 8h] [9d]
+*** SHOW DOWN ***
+chop-ch0p: shows [9h 9s]
+DLAZ: shows [5d 5c]
+chop-ch0p collected $1172.75 from pot
+*** SUMMARY ***
+Total pot $1175.00 | Rake $2.25
+Board [3s 2s 7c 8h 9d]
+Seat 2: chop-ch0p showed [9h 9s] and won ($1172.75)
+Seat 3: DLAZ (button) showed [5d 5c] and lost
+Seat 4: 10of10 (small blind) folded before Flop
+Seat 5: zas911 (big blind) folded before Flop
+
+PokerStars Hand #1498238255:  Hold'em No Limit ($25.00/$50.00 USD) - 2022/12/25 22:47:19 ET
+Table 'WPN_7 Day No Rathole 25/50 NLH 9-Max' 9-max Seat #3 is the button
+Seat 3: DoublelegTD ($4804.42 in chips)
+Seat 4: MrBaguette ($1118.76 in chips)
+Seat 5: chop-ch0p ($5912.69 in chips)
+Seat 7: OGORRA ($18034.33 in chips)
+MrBaguette: posts small blind $25.00
+chop-ch0p: posts big blind $50.00
+*** HOLE CARDS ***
+OGORRA: folds
+DoublelegTD: folds
+MrBaguette: raises $75.00 to $125.00
+chop-ch0p: calls $75.00
+*** FLOP *** [7h 3c Tc]
+MrBaguette: checks
+chop-ch0p: checks
+*** TURN *** [7h 3c Tc] [6c]
+MrBaguette: checks
+chop-ch0p: bets $187.50
+MrBaguette: folds
+Uncalled bet ($187.50) returned to chop-ch0p
+chop-ch0p collected $247.75 from pot
+chop-ch0p: doesn't show hand
+*** SUMMARY ***
+Total pot $250.00 | Rake $2.25
+Board [7h 3c Tc 6c]
+Seat 3: DoublelegTD (button) folded before Flop (didn't bet)
+Seat 4: MrBaguette (small blind) folded on the Turn
+Seat 5: chop-ch0p (big blind) collected ($247.75)
+Seat 7: OGORRA folded before Flop (didn't bet)
+
+PokerStars Hand #1498239761:  Hold'em No Limit ($25.00/$50.00 USD) - 2022/12/25 22:48:26 ET
+Table 'WPN_7 Day No Rathole 25/50 NLH 9-Max' 9-max Seat #4 is the button
+Seat 3: DoublelegTD ($4804.42 in chips)
+Seat 4: MrBaguette ($993.76 in chips)
+Seat 5: chop-ch0p ($6035.44 in chips)
+Seat 6: az96 ($1509.12 in chips)
+Seat 7: OGORRA ($18034.33 in chips)
+chop-ch0p: posts small blind $25.00
+az96: posts big blind $50.00
+*** HOLE CARDS ***
+OGORRA: folds
+DoublelegTD: folds
+MrBaguette: raises $50.00 to $100.00
+chop-ch0p: folds
+az96: folds
+Uncalled bet ($50.00) returned to MrBaguette
+MrBaguette collected $125.00 from pot
+MrBaguette: doesn't show hand
+*** SUMMARY ***
+Total pot $125.00 | Rake $0.00
+Seat 3: DoublelegTD folded before Flop (didn't bet)
+Seat 4: MrBaguette (button) collected ($125.00)
+Seat 5: chop-ch0p (small blind) folded before Flop
+Seat 6: az96 (big blind) folded before Flop
+Seat 7: OGORRA folded before Flop (didn't bet)
+
+PokerStars Hand #1498240119:  Hold'em No Limit ($25.00/$50.00 USD) - 2022/12/25 22:48:43 ET
+Table 'WPN_7 Day No Rathole 25/50 NLH 9-Max' 9-max Seat #5 is the button
+Seat 3: DoublelegTD ($4804.42 in chips)
+Seat 4: MrBaguette ($1068.76 in chips)
+Seat 5: chop-ch0p ($6010.44 in chips)
+Seat 6: az96 ($1459.12 in chips)
+Seat 7: OGORRA ($18034.33 in chips)
+az96: posts small blind $25.00
+OGORRA: posts big blind $50.00
+*** HOLE CARDS ***
+DoublelegTD: folds
+MrBaguette: folds
+chop-ch0p: folds
+az96: folds
+Uncalled bet ($25.00) returned to OGORRA
+OGORRA collected $50.00 from pot
+OGORRA: doesn't show hand
+*** SUMMARY ***
+Total pot $50.00 | Rake $0.00
+Seat 3: DoublelegTD folded before Flop (didn't bet)
+Seat 4: MrBaguette folded before Flop (didn't bet)
+Seat 5: chop-ch0p (button) folded before Flop (didn't bet)
+Seat 6: az96 (small blind) folded before Flop
+Seat 7: OGORRA (big blind) collected ($50.00)
+
+PokerStars Hand #1498237912:  Hold'em No Limit ($25.00/$50.00 USD) - 2022/12/25 22:47:04 ET
+Table 'WPN_7 Day No Rathole 25/50 NLH 9-Max' 9-max Seat #7 is the button
+Seat 3: DoublelegTD ($4829.42 in chips)
+Seat 4: MrBaguette ($1168.76 in chips)
+Seat 5: chop-ch0p ($5912.69 in chips)
+Seat 7: OGORRA ($17959.33 in chips)
+DoublelegTD: posts small blind $25.00
+MrBaguette: posts big blind $50.00
+*** HOLE CARDS ***
+OGORRA: raises $50.00 to $100.00
+DoublelegTD: folds
+MrBaguette: folds
+Uncalled bet ($50.00) returned to OGORRA
+OGORRA collected $125.00 from pot
+OGORRA: doesn't show hand
+*** SUMMARY ***
+Total pot $125.00 | Rake $0.00
+Seat 3: DoublelegTD (small blind) folded before Flop
+Seat 4: MrBaguette (big blind) folded before Flop
+Seat 7: OGORRA (button) collected ($125.00)
+
+PokerStars Hand #1498237420:  Hold'em No Limit ($25.00/$50.00 USD) - 2022/12/25 22:46:42 ET
+Table 'WPN_7 Day No Rathole 25/50 NLH 9-Max' 9-max Seat #7 is the button
+Seat 3: DoublelegTD ($4779.42 in chips)
+Seat 7: OGORRA ($18009.33 in chips)
+OGORRA: posts small blind $25.00
+DoublelegTD: posts big blind $50.00
+*** HOLE CARDS ***
+OGORRA: calls $25.00
+DoublelegTD: raises $150.00 to $200.00
+OGORRA: folds
+Uncalled bet ($150.00) returned to DoublelegTD
+DoublelegTD collected $100.00 from pot
+DoublelegTD: doesn't show hand
+*** SUMMARY ***
+Total pot $100.00 | Rake $0.00
+Seat 3: DoublelegTD (big blind) collected ($100.00)
+Seat 7: OGORRA (button) (small blind) folded before Flop
+
+PokerStars Hand #1498104892:  Hold'em No Limit ($25.00/$50.00 USD) - 2022/12/25 21:07:48 ET
+Table 'WPN_7 Day No Rathole 25/50 NLH 9-Max' 9-max Seat #7 is the button
+Seat 4: chop-ch0p ($5862.69 in chips)
+Seat 5: PathfinderPaco ($500.00 in chips)
+Seat 7: OGORRA ($17984.33 in chips)
+chop-ch0p: posts small blind $25.00
+PathfinderPaco: posts big blind $50.00
+*** HOLE CARDS ***
+OGORRA: folds
+chop-ch0p: raises $5812.69 to $5862.69 and is all-in
+PathfinderPaco: folds
+Uncalled bet ($5812.69) returned to chop-ch0p
+chop-ch0p collected $100.00 from pot
+chop-ch0p: doesn't show hand
+*** SUMMARY ***
+Total pot $100.00 | Rake $0.00
+Seat 4: chop-ch0p (small blind) collected ($100.00)
+Seat 5: PathfinderPaco (big blind) folded before Flop
+Seat 7: OGORRA (button) folded before Flop (didn't bet)
+
+PokerStars Hand #1498105368:  Hold'em No Limit ($25.00/$50.00 USD) - 2022/12/25 21:08:07 ET
+Table 'WPN_7 Day No Rathole 25/50 NLH 9-Max' 9-max Seat #4 is the button
+Seat 4: chop-ch0p ($5912.69 in chips)
+Seat 5: PathfinderPaco ($450.00 in chips)
+Seat 7: OGORRA ($17984.33 in chips)
+PathfinderPaco: posts small blind $25.00
+OGORRA: posts big blind $50.00
+*** HOLE CARDS ***
+chop-ch0p: folds
+PathfinderPaco: folds
+Uncalled bet ($25.00) returned to OGORRA
+OGORRA collected $50.00 from pot
+OGORRA: doesn't show hand
+*** SUMMARY ***
+Total pot $50.00 | Rake $0.00
+Seat 4: chop-ch0p (button) folded before Flop (didn't bet)
+Seat 5: PathfinderPaco (small blind) folded before Flop
+Seat 7: OGORRA (big blind) collected ($50.00)
+
+PokerStars Hand #1498099805:  Hold'em No Limit ($25.00/$50.00 USD) - 2022/12/25 21:04:20 ET
+Table 'WPN_7 Day No Rathole 25/50 NLH 9-Max' 9-max Seat #3 is the button
+Seat 3: MrBaguette ($1168.76 in chips)
+Seat 4: chop-ch0p ($14880.73 in chips)
+Seat 7: OGORRA ($8968.04 in chips)
+chop-ch0p: posts small blind $25.00
+OGORRA: posts big blind $50.00
+*** HOLE CARDS ***
+MrBaguette: folds
+chop-ch0p: raises $100.00 to $150.00
+OGORRA: raises $375.00 to $525.00
+chop-ch0p: calls $375.00
+*** FLOP *** [8h 9c 6d]
+chop-ch0p: checks
+OGORRA: bets $525.00
+chop-ch0p: raises $750.00 to $1275.00
+OGORRA: calls $750.00
+*** TURN *** [8h 9c 6d] [2c]
+chop-ch0p: bets $1188.00
+OGORRA: calls $1188.00
+*** RIVER *** [8h 9c 6d 2c] [Kc]
+chop-ch0p: bets $11892.73 and is all-in
+OGORRA: calls $5980.04 and is all-in
+Uncalled bet ($5912.69) returned to chop-ch0p
+*** SHOW DOWN ***
+OGORRA: shows [Kd Ah]
+chop-ch0p: shows [8d 7d]
+OGORRA collected $17934.33 from pot
+*** SUMMARY ***
+Total pot $17936.08 | Rake $1.75
+Board [8h 9c 6d 2c Kc]
+Seat 3: MrBaguette (button) folded before Flop (didn't bet)
+Seat 4: chop-ch0p (small blind) showed [8d 7d] and lost
+Seat 7: OGORRA (big blind) showed [Kd Ah] and won ($17934.33)
+
+PokerStars Hand #1498104412:  Hold'em No Limit ($25.00/$50.00 USD) - 2022/12/25 21:07:29 ET
+Table 'WPN_7 Day No Rathole 25/50 NLH 9-Max' 9-max Seat #4 is the button
+Seat 3: MrBaguette ($1168.76 in chips)
+Seat 4: chop-ch0p ($5912.69 in chips)
+Seat 5: PathfinderPaco ($500.00 in chips)
+Seat 7: OGORRA ($17934.33 in chips)
+OGORRA: posts small blind $25.00
+chop-ch0p: posts big blind $50.00
+*** HOLE CARDS ***
+OGORRA: raises $100.00 to $150.00
+chop-ch0p: folds
+Uncalled bet ($100.00) returned to OGORRA
+OGORRA collected $100.00 from pot
+OGORRA: doesn't show hand
+*** SUMMARY ***
+Total pot $100.00 | Rake $0.00
+Seat 4: chop-ch0p (button) (big blind) folded before Flop
+Seat 7: OGORRA (small blind) collected ($100.00)
+

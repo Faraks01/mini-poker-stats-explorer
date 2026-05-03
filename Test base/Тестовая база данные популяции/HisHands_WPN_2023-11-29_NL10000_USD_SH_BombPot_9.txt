@@ -1,0 +1,329 @@
+Hand #1948282909 - Holdem(No Limit) - $50/$100 - 2023/11/29 00:08:28 UTC
+Coulterville 6-max Seat #2 is the button
+Seat 1: bonieumiesz ($10000)
+Seat 2: nutsforme100 ($10000)
+Seat 3: Sabazius ($10000)
+Seat 4: uhhhyesandno ($10000)
+Seat 5: dictex2 ($10000)
+Seat 6: dictex2 ($10000)
+bonieumiesz posts ante $500
+nutsforme100 posts ante $500
+*** HOLE CARDS *** 
+*** FLOP *** [2c As 8d]
+Main pot $998.75 | Rake $1.25
+bonieumiesz checks
+nutsforme100 bets $250
+bonieumiesz folds
+Uncalled bet ($250) returned to nutsforme100
+nutsforme100 does not show
+*** SUMMARY ***
+BombPot
+Total pot $998.75 | Rake $1.25
+Seat 1: bonieumiesz folded on the Flop
+Seat 2: nutsforme100 (button) did not showed and won $998.75
+
+
+Hand #1948450514 - Holdem(No Limit) - $50/$100 - 2023/11/29 02:47:00 UTC
+Coulterville 6-max Seat #1 is the button
+Seat 1: 7SkyAroundMe ($10000)
+Seat 2: alanwatts15 ($10000)
+Seat 5: Beato85 ($6096.44)
+7SkyAroundMe posts ante $500
+Beato85 posts ante $500
+*** HOLE CARDS *** 
+*** FLOP *** [7d Ks 9c]
+Main pot $998.75 | Rake $1.25
+Beato85 checks
+7SkyAroundMe checks
+*** TURN *** [7d Ks 9c] [Qh]
+Main pot $998.75 | Rake $1.25
+Beato85 checks
+7SkyAroundMe checks
+*** RIVER *** [7d Ks 9c Qh] [8s]
+Main pot $998.75 | Rake $1.25
+Beato85 bets $500
+7SkyAroundMe calls $500
+*** SHOW DOWN ***
+Main pot $998.75 | Rake $1.25
+Beato85 shows [Qs Ah]
+Beato85 collected $1998.75 from main pot
+*** SUMMARY ***
+BombPot
+Total pot $1998.75 | Rake $1.25
+Seat 1: 7SkyAroundMe (button) did not showed and lost
+Seat 5: Beato85 showed [Qs Ah] and won $1998.75 with OnePair [Qs Qh Ah Ks 9c]
+
+
+Hand #1948718364 - Holdem(No Limit) - $50/$100 - 2023/11/29 08:34:04 UTC
+Coulterville 6-max Seat #2 is the button
+Seat 2: SeaLlama ($10000)
+Seat 5: 7SkyAroundMe ($10000)
+SeaLlama posts ante $500
+7SkyAroundMe posts ante $500
+*** HOLE CARDS *** 
+*** FLOP *** [9c Qd 8c]
+Main pot $998.75 | Rake $1.25
+7SkyAroundMe checks
+SeaLlama bets $329
+7SkyAroundMe folds
+Uncalled bet ($329) returned to SeaLlama
+SeaLlama does not show
+*** SUMMARY ***
+BombPot
+Total pot $998.75 | Rake $1.25
+Seat 2: SeaLlama (button) did not showed and won $998.75
+Seat 5: 7SkyAroundMe folded on the Flop
+
+
+Hand #1948719762 - Holdem(No Limit) - $50/$100 - 2023/11/29 08:37:18 UTC
+Coulterville 6-max Seat #2 is the button
+Seat 2: SeaLlama ($10000)
+Seat 5: 7SkyAroundMe ($10763.75)
+SeaLlama posts ante $500
+7SkyAroundMe posts ante $500
+*** HOLE CARDS *** 
+*** FLOP *** [7s 7h 8c]
+Main pot $998.75 | Rake $1.25
+7SkyAroundMe checks
+SeaLlama bets $329
+7SkyAroundMe calls $329
+*** TURN *** [7s 7h 8c] [Ac]
+Main pot $1656.75 | Rake $1.25
+7SkyAroundMe checks
+SeaLlama checks
+*** RIVER *** [7s 7h 8c Ac] [4c]
+Main pot $1656.75 | Rake $1.25
+7SkyAroundMe checks
+SeaLlama checks
+*** SHOW DOWN ***
+Main pot $1656.75 | Rake $1.25
+SeaLlama shows [4d 6h]
+SeaLlama collected $1656.75 from main pot
+*** SUMMARY ***
+BombPot
+Total pot $1656.75 | Rake $1.25
+Seat 2: SeaLlama (button) showed [4d 6h] and won $1656.75 with TwoPair [7s 7h 4d 4c Ac]
+Seat 5: 7SkyAroundMe did not showed and lost
+
+
+Hand #1948729849 - Holdem(No Limit) - $50/$100 - 2023/11/29 09:01:16 UTC
+Coulterville 6-max Seat #4 is the button
+Seat 2: SeaLlama ($12131.42)
+Seat 4: vesnapisarovic ($12798.25)
+Seat 5: 7SkyAroundMe ($17921.50)
+SeaLlama posts ante $500
+vesnapisarovic posts ante $500
+7SkyAroundMe posts ante $500
+*** HOLE CARDS *** 
+*** FLOP *** [9s 7d As]
+Main pot $1498.25 | Rake $1.75
+7SkyAroundMe bets $150
+SeaLlama calls $150
+vesnapisarovic calls $150
+*** TURN *** [9s 7d As] [4s]
+Main pot $1948.25 | Rake $1.75
+7SkyAroundMe checks
+SeaLlama bets $643
+vesnapisarovic calls $643
+7SkyAroundMe calls $643
+*** RIVER *** [9s 7d As 4s] [9d]
+Main pot $3877.25 | Rake $1.75
+7SkyAroundMe checks
+SeaLlama checks
+vesnapisarovic bets $1939.50
+7SkyAroundMe calls $1939.50
+SeaLlama folds
+*** SHOW DOWN ***
+Main pot $3877.25 | Rake $1.75
+vesnapisarovic shows [Th 9h]
+vesnapisarovic collected $7756.25 from main pot
+*** SUMMARY ***
+BombPot
+Total pot $7756.25 | Rake $1.75
+Seat 2: SeaLlama folded on the River
+Seat 4: vesnapisarovic (button) showed [Th 9h] and won $7756.25 with ThreeOfAKind [9s 9h 9d As Th]
+Seat 5: 7SkyAroundMe did not showed and lost
+
+
+Hand #1948731420 - Holdem(No Limit) - $50/$100 - 2023/11/29 09:05:44 UTC
+Coulterville 6-max Seat #4 is the button
+Seat 1: ILuvAvrilLavigne91 ($10000)
+Seat 2: SeaLlama ($10738.42)
+Seat 3: GYakobishvili ($10000)
+Seat 4: vesnapisarovic ($16272)
+Seat 5: 7SkyAroundMe ($15985)
+Seat 6: alanwatts15 ($10000)
+ILuvAvrilLavigne91 posts ante $500
+SeaLlama posts ante $500
+GYakobishvili posts ante $500
+vesnapisarovic posts ante $500
+7SkyAroundMe posts ante $500
+alanwatts15 posts ante $500
+*** HOLE CARDS *** 
+*** FLOP *** [7d Ah 2s]
+Main pot $2997 | Rake $3
+7SkyAroundMe bets $300
+alanwatts15 calls $300
+ILuvAvrilLavigne91 calls $300
+SeaLlama folds
+GYakobishvili calls $300
+vesnapisarovic calls $300
+*** TURN *** [7d Ah 2s] [4d]
+Main pot $4497 | Rake $3
+7SkyAroundMe checks
+alanwatts15 bets $2250
+ILuvAvrilLavigne91 folds
+GYakobishvili raises $9200 to $9200 and is all-in
+vesnapisarovic raises $15472 to $15472 and is all-in
+7SkyAroundMe folds
+alanwatts15 folds
+Uncalled bet ($6272) returned to vesnapisarovic
+vesnapisarovic does not show
+*** RIVER *** [7d Ah 2s 4d] [Jd]
+Main pot $25147 | Rake $3
+*** SHOW DOWN ***
+Main pot $25147 | Rake $3
+vesnapisarovic shows [Ac 7h]
+GYakobishvili shows [As 4h]
+vesnapisarovic collected $25147 from main pot
+*** SUMMARY ***
+BombPot
+Total pot $25147 | Rake $3
+Seat 1: ILuvAvrilLavigne91 folded on the Turn
+Seat 2: SeaLlama folded on the Flop
+Seat 3: GYakobishvili showed [As 4h] and lost
+Seat 4: vesnapisarovic (button) showed [Ac 7h] and won $25147 with TwoPair [Ah Ac 7h 7d Jd]
+Seat 5: 7SkyAroundMe folded on the Turn
+Seat 6: alanwatts15 folded on the Turn
+
+
+Hand #1948736853 - Holdem(No Limit) - $50/$100 - 2023/11/29 09:18:25 UTC
+Coulterville 6-max Seat #2 is the button
+Seat 1: ILuvAvrilLavigne91 ($10000)
+Seat 2: SeaLlama ($10896.42)
+Seat 3: GYakobishvili ($10000)
+Seat 4: vesnapisarovic ($33796.98)
+Seat 5: 7SkyAroundMe ($15101)
+Seat 6: chop-ch0p ($4047)
+ILuvAvrilLavigne91 posts ante $500
+SeaLlama posts ante $500
+GYakobishvili posts ante $500
+vesnapisarovic posts ante $500
+7SkyAroundMe posts ante $500
+chop-ch0p posts ante $500
+*** HOLE CARDS *** 
+*** FLOP *** [2s Ts 7c]
+Main pot $2997 | Rake $3
+GYakobishvili checks
+vesnapisarovic checks
+7SkyAroundMe checks
+chop-ch0p checks
+ILuvAvrilLavigne91 checks
+SeaLlama bets $1500
+GYakobishvili folds
+vesnapisarovic folds
+7SkyAroundMe calls $1500
+chop-ch0p folds
+ILuvAvrilLavigne91 folds
+*** TURN *** [2s Ts 7c] [5d]
+Main pot $5997 | Rake $3
+7SkyAroundMe checks
+SeaLlama checks
+*** RIVER *** [2s Ts 7c 5d] [5c]
+Main pot $5997 | Rake $3
+7SkyAroundMe checks
+SeaLlama bets $3958
+7SkyAroundMe calls $3958
+*** SHOW DOWN ***
+Main pot $5997 | Rake $3
+SeaLlama shows [7d 7h]
+SeaLlama collected $13913 from main pot
+*** SUMMARY ***
+BombPot
+Total pot $13913 | Rake $3
+Seat 1: ILuvAvrilLavigne91 folded on the Flop
+Seat 2: SeaLlama (button) showed [7d 7h] and won $13913 with FullHouse [7h 7d 7c 5d 5c]
+Seat 3: GYakobishvili folded on the Flop
+Seat 4: vesnapisarovic folded on the Flop
+Seat 5: 7SkyAroundMe did not showed and lost
+Seat 6: chop-ch0p folded on the Flop
+
+
+Hand #1948742952 - Holdem(No Limit) - $50/$100 - 2023/11/29 09:31:49 UTC
+Coulterville 6-max Seat #3 is the button
+Seat 2: SeaLlama ($23237.17)
+Seat 3: GYakobishvili ($10000)
+Seat 4: vesnapisarovic ($31593.73)
+Seat 5: 7SkyAroundMe ($11027.75)
+SeaLlama posts ante $500
+GYakobishvili posts ante $500
+vesnapisarovic posts ante $500
+7SkyAroundMe posts ante $500
+*** HOLE CARDS *** 
+*** FLOP *** [6d 2d 5s]
+Main pot $1997.75 | Rake $2.25
+vesnapisarovic checks
+7SkyAroundMe checks
+SeaLlama checks
+GYakobishvili bets $660
+vesnapisarovic calls $660
+7SkyAroundMe folds
+SeaLlama raises $2650 to $2650
+GYakobishvili folds
+vesnapisarovic folds
+Uncalled bet ($1990) returned to SeaLlama
+SeaLlama does not show
+*** SUMMARY ***
+BombPot
+Total pot $3977.75 | Rake $2.25
+Seat 2: SeaLlama did not showed and won $3977.75
+Seat 3: GYakobishvili (button) folded on the Flop
+Seat 4: vesnapisarovic folded on the Flop
+Seat 5: 7SkyAroundMe folded on the Flop
+
+
+Hand #1948750952 - Holdem(No Limit) - $50/$100 - 2023/11/29 09:52:30 UTC
+Coulterville 6-max Seat #4 is the button
+Seat 2: SeaLlama ($25263.67)
+Seat 3: GYakobishvili ($19428.50)
+Seat 4: vesnapisarovic ($30119.73)
+Seat 5: 7SkyAroundMe ($10000)
+Seat 6: borntotilt ($10000)
+SeaLlama posts ante $500
+GYakobishvili posts ante $500
+vesnapisarovic posts ante $500
+7SkyAroundMe posts ante $500
+borntotilt posts ante $500
+*** HOLE CARDS *** 
+*** FLOP *** [6s 9d 8d]
+Main pot $2497 | Rake $3
+7SkyAroundMe checks
+borntotilt checks
+SeaLlama checks
+GYakobishvili bets $1225
+vesnapisarovic folds
+7SkyAroundMe calls $1225
+borntotilt folds
+SeaLlama folds
+*** TURN *** [6s 9d 8d] [9h]
+Main pot $4947 | Rake $3
+7SkyAroundMe bets $1237.50
+GYakobishvili calls $1237.50
+*** RIVER *** [6s 9d 8d 9h] [5h]
+Main pot $7422 | Rake $3
+7SkyAroundMe bets $7037.50 and is all-in
+GYakobishvili calls $7037.50
+*** SHOW DOWN ***
+Main pot $7422 | Rake $3
+GYakobishvili shows [8h 8s]
+7SkyAroundMe shows [Td 6h]
+GYakobishvili collected $21497 from main pot
+*** SUMMARY ***
+BombPot
+Total pot $21497 | Rake $3
+Seat 2: SeaLlama folded on the Flop
+Seat 3: GYakobishvili showed [8h 8s] and won $21497 with FullHouse [8s 8h 8d 9h 9d]
+Seat 4: vesnapisarovic (button) folded on the Flop
+Seat 5: 7SkyAroundMe showed [Td 6h] and lost
+Seat 6: borntotilt folded on the Flop
+

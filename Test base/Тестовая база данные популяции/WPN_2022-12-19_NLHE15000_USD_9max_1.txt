@@ -1,0 +1,2660 @@
+PokerStars Hand #1490754246:  Hold'em No Limit ($75.00/$150.00 USD) - 2022/12/19 09:16:14 ET
+Table 'WPN_7 Day No Rathole 75/150 NLH' 9-max Seat #3 is the button
+Seat 3: Gizineni ($2996.00 in chips)
+Seat 7: mexican222 ($1500.00 in chips)
+Gizineni: posts small blind $75.00
+mexican222: posts big blind $150.00
+*** HOLE CARDS ***
+Gizineni: raises $1500.00 to $1650.00
+mexican222: folds
+Uncalled bet ($1500.00) returned to Gizineni
+Gizineni collected $300.00 from pot
+Gizineni: doesn't show hand
+*** SUMMARY ***
+Total pot $300.00 | Rake $0.00
+Seat 3: Gizineni (button) (small blind) collected ($300.00)
+Seat 7: mexican222 (big blind) folded before Flop
+
+PokerStars Hand #1490754293:  Hold'em No Limit ($75.00/$150.00 USD) - 2022/12/19 09:16:24 ET
+Table 'WPN_7 Day No Rathole 75/150 NLH' 9-max Seat #7 is the button
+Seat 3: Gizineni ($3146.00 in chips)
+Seat 7: mexican222 ($1350.00 in chips)
+mexican222: posts small blind $75.00
+Gizineni: posts big blind $150.00
+*** HOLE CARDS ***
+mexican222: raises $1350.00 to $1500.00 and is all-in
+Gizineni: folds
+Uncalled bet ($1350.00) returned to mexican222
+mexican222 collected $300.00 from pot
+mexican222: doesn't show hand
+*** SUMMARY ***
+Total pot $300.00 | Rake $0.00
+Seat 3: Gizineni (big blind) folded before Flop
+Seat 7: mexican222 (button) (small blind) collected ($300.00)
+
+PokerStars Hand #1490767914:  Hold'em No Limit ($75.00/$150.00 USD) - 2022/12/19 09:54:27 ET
+Table 'WPN_7 Day No Rathole 75/150 NLH' 9-max Seat #1 is the button
+Seat 1: Conspiracy4 ($6723.25 in chips)
+Seat 2: yourmytralala ($1650.00 in chips)
+Conspiracy4: posts small blind $75.00
+yourmytralala: posts big blind $150.00
+*** HOLE CARDS ***
+Conspiracy4: raises $150.00 to $300.00
+yourmytralala: calls $150.00
+*** FLOP *** [2s Qh 3c]
+yourmytralala: checks
+Conspiracy4: bets $180.00
+yourmytralala: raises $255.00 to $435.00
+Conspiracy4: folds
+Uncalled bet ($255.00) returned to yourmytralala
+yourmytralala collected $958.75 from pot
+yourmytralala: doesn't show hand
+*** SUMMARY ***
+Total pot $960.00 | Rake $1.25
+Board [2s Qh 3c]
+Seat 1: Conspiracy4 (button) (small blind) folded on the Flop
+Seat 2: yourmytralala (big blind) collected ($958.75)
+
+PokerStars Hand #1490816758:  Hold'em No Limit ($75.00/$150.00 USD) - 2022/12/19 12:55:00 ET
+Table 'WPN_7 Day No Rathole 75/150 NLH' 9-max Seat #9 is the button
+Seat 2: chop-ch0p ($2998.75 in chips)
+Seat 9: PAPILINDOYO ($3572.72 in chips)
+PAPILINDOYO: posts small blind $75.00
+chop-ch0p: posts big blind $150.00
+*** HOLE CARDS ***
+PAPILINDOYO: raises $150.00 to $300.00
+chop-ch0p: raises $2698.75 to $2998.75 and is all-in
+PAPILINDOYO: calls $2698.75
+*** FIRST FLOP *** [3s 6h Jd]
+*** FIRST TURN *** [3s 6h Jd] [2s]
+*** FIRST RIVER *** [3s 6h Jd 2s] [3h]
+*** SECOND FLOP *** [Qc Td Qh]
+*** SECOND TURN *** [Qc Td Qh] [8c]
+*** SECOND RIVER *** [Qc Td Qh 8c] [4d]
+*** FIRST SHOW DOWN ***
+chop-ch0p: shows [8h Ac]
+PAPILINDOYO: shows [Kc 5c]
+chop-ch0p collected $2998.13 from pot
+*** SECOND SHOW DOWN ***
+chop-ch0p: shows [8h Ac]
+PAPILINDOYO: shows [Kc 5c]
+chop-ch0p collected $2998.12 from pot
+*** SUMMARY ***
+Total pot $5997.50 | Rake $1.25
+Hand was run twice
+FIRST Board [3s 6h Jd 2s 3h]
+SECOND Board [Qc Td Qh 8c 4d]
+Seat 2: chop-ch0p (big blind) showed [8h Ac] and won ($2998.13), and won ($2998.12)
+Seat 9: PAPILINDOYO (button) (small blind) showed [Kc 5c] and lost, and lost
+
+PokerStars Hand #1490816832:  Hold'em No Limit ($75.00/$150.00 USD) - 2022/12/19 12:55:35 ET
+Table 'WPN_7 Day No Rathole 75/150 NLH' 9-max Seat #2 is the button
+Seat 2: chop-ch0p ($5996.25 in chips)
+Seat 9: PAPILINDOYO ($573.97 in chips)
+chop-ch0p: posts small blind $75.00
+PAPILINDOYO: posts big blind $150.00
+*** HOLE CARDS ***
+chop-ch0p: raises $5846.25 to $5996.25 and is all-in
+PAPILINDOYO: calls $423.97 and is all-in
+Uncalled bet ($5422.28) returned to chop-ch0p
+*** FLOP *** [3d Ad 9h]
+*** TURN *** [3d Ad 9h] [3h]
+*** RIVER *** [3d Ad 9h 3h] [9c]
+*** SHOW DOWN ***
+chop-ch0p: shows [Th 4s]
+PAPILINDOYO: shows [Js Kc]
+PAPILINDOYO collected $573.34 from pot
+chop-ch0p collected $573.35 from pot
+*** SUMMARY ***
+Total pot $1147.94 | Rake $1.25
+Board [3d Ad 9h 3h 9c]
+Seat 2: chop-ch0p (button) (small blind) showed [Th 4s] and won ($573.35)
+Seat 9: PAPILINDOYO (big blind) showed [Js Kc] and won ($573.34)
+
+PokerStars Hand #1490816887:  Hold'em No Limit ($75.00/$150.00 USD) - 2022/12/19 12:56:02 ET
+Table 'WPN_7 Day No Rathole 75/150 NLH' 9-max Seat #9 is the button
+Seat 2: chop-ch0p ($5995.63 in chips)
+Seat 9: PAPILINDOYO ($573.34 in chips)
+PAPILINDOYO: posts small blind $75.00
+chop-ch0p: posts big blind $150.00
+*** HOLE CARDS ***
+PAPILINDOYO: raises $423.34 to $573.34 and is all-in
+chop-ch0p: calls $423.34
+*** FLOP *** [Kd 4c Js]
+*** TURN *** [Kd 4c Js] [7d]
+*** RIVER *** [Kd 4c Js 7d] [9s]
+*** SHOW DOWN ***
+PAPILINDOYO: shows [7s 4s]
+chop-ch0p: shows [3c Kh]
+PAPILINDOYO collected $1145.43 from pot
+*** SUMMARY ***
+Total pot $1146.68 | Rake $1.25
+Board [Kd 4c Js 7d 9s]
+Seat 2: chop-ch0p (big blind) showed [3c Kh] and lost
+Seat 9: PAPILINDOYO (button) (small blind) showed [7s 4s] and won ($1145.43)
+
+PokerStars Hand #1490816961:  Hold'em No Limit ($75.00/$150.00 USD) - 2022/12/19 12:56:32 ET
+Table 'WPN_7 Day No Rathole 75/150 NLH' 9-max Seat #2 is the button
+Seat 2: chop-ch0p ($5422.29 in chips)
+Seat 9: PAPILINDOYO ($1500.00 in chips)
+chop-ch0p: posts small blind $75.00
+PAPILINDOYO: posts big blind $150.00
+*** HOLE CARDS ***
+chop-ch0p: calls $75.00
+PAPILINDOYO: checks
+*** FLOP *** [Qs 2c Td]
+PAPILINDOYO: bets $150.00
+chop-ch0p: calls $150.00
+*** TURN *** [Qs 2c Td] [8c]
+PAPILINDOYO: checks
+chop-ch0p: bets $300.00
+PAPILINDOYO: calls $300.00
+*** RIVER *** [Qs 2c Td 8c] [9d]
+PAPILINDOYO: checks
+chop-ch0p: checks
+*** SHOW DOWN ***
+chop-ch0p: shows [Qc 3h]
+PAPILINDOYO: mucks hand
+chop-ch0p collected $1198.75 from pot
+*** SUMMARY ***
+Total pot $1200.00 | Rake $1.25
+Board [Qs 2c Td 8c 9d]
+Seat 2: chop-ch0p (button) (small blind) showed [Qc 3h] and won ($1198.75)
+Seat 9: PAPILINDOYO (big blind) mucked
+
+PokerStars Hand #1490817099:  Hold'em No Limit ($75.00/$150.00 USD) - 2022/12/19 12:57:31 ET
+Table 'WPN_7 Day No Rathole 75/150 NLH' 9-max Seat #9 is the button
+Seat 2: chop-ch0p ($6021.04 in chips)
+Seat 9: PAPILINDOYO ($900.00 in chips)
+PAPILINDOYO: posts small blind $75.00
+chop-ch0p: posts big blind $150.00
+*** HOLE CARDS ***
+PAPILINDOYO: raises $750.00 to $900.00 and is all-in
+chop-ch0p: folds
+Uncalled bet ($750.00) returned to PAPILINDOYO
+PAPILINDOYO collected $300.00 from pot
+PAPILINDOYO: doesn't show hand
+*** SUMMARY ***
+Total pot $300.00 | Rake $0.00
+Seat 2: chop-ch0p (big blind) folded before Flop
+Seat 9: PAPILINDOYO (button) (small blind) collected ($300.00)
+
+PokerStars Hand #1490817131:  Hold'em No Limit ($75.00/$150.00 USD) - 2022/12/19 12:57:44 ET
+Table 'WPN_7 Day No Rathole 75/150 NLH' 9-max Seat #2 is the button
+Seat 2: chop-ch0p ($5871.04 in chips)
+Seat 9: PAPILINDOYO ($1500.00 in chips)
+chop-ch0p: posts small blind $75.00
+PAPILINDOYO: posts big blind $150.00
+*** HOLE CARDS ***
+chop-ch0p: raises $5721.04 to $5871.04 and is all-in
+PAPILINDOYO: calls $1350.00 and is all-in
+Uncalled bet ($4371.04) returned to chop-ch0p
+*** FLOP *** [Tc 4s Js]
+*** TURN *** [Tc 4s Js] [Qh]
+*** RIVER *** [Tc 4s Js Qh] [Jc]
+*** SHOW DOWN ***
+chop-ch0p: shows [8c Ad]
+PAPILINDOYO: shows [Ac 3h]
+PAPILINDOYO collected $1499.37 from pot
+chop-ch0p collected $1499.38 from pot
+*** SUMMARY ***
+Total pot $3000.00 | Rake $1.25
+Board [Tc 4s Js Qh Jc]
+Seat 2: chop-ch0p (button) (small blind) showed [8c Ad] and won ($1499.38)
+Seat 9: PAPILINDOYO (big blind) showed [Ac 3h] and won ($1499.37)
+
+PokerStars Hand #1490817188:  Hold'em No Limit ($75.00/$150.00 USD) - 2022/12/19 12:58:10 ET
+Table 'WPN_7 Day No Rathole 75/150 NLH' 9-max Seat #9 is the button
+Seat 2: chop-ch0p ($5870.42 in chips)
+Seat 9: PAPILINDOYO ($1499.37 in chips)
+PAPILINDOYO: posts small blind $75.00
+chop-ch0p: posts big blind $150.00
+*** HOLE CARDS ***
+PAPILINDOYO: folds
+Uncalled bet ($75.00) returned to chop-ch0p
+chop-ch0p collected $150.00 from pot
+chop-ch0p: doesn't show hand
+*** SUMMARY ***
+Total pot $150.00 | Rake $0.00
+Seat 2: chop-ch0p (big blind) collected ($150.00)
+Seat 9: PAPILINDOYO (button) (small blind) folded before Flop
+
+PokerStars Hand #1490817214:  Hold'em No Limit ($75.00/$150.00 USD) - 2022/12/19 12:58:21 ET
+Table 'WPN_7 Day No Rathole 75/150 NLH' 9-max Seat #2 is the button
+Seat 2: chop-ch0p ($5945.42 in chips)
+Seat 9: PAPILINDOYO ($1424.37 in chips)
+chop-ch0p: posts small blind $75.00
+PAPILINDOYO: posts big blind $150.00
+*** HOLE CARDS ***
+chop-ch0p: raises $5795.42 to $5945.42 and is all-in
+PAPILINDOYO: folds
+Uncalled bet ($5795.42) returned to chop-ch0p
+chop-ch0p collected $300.00 from pot
+chop-ch0p: doesn't show hand
+*** SUMMARY ***
+Total pot $300.00 | Rake $0.00
+Seat 2: chop-ch0p (button) (small blind) collected ($300.00)
+Seat 9: PAPILINDOYO (big blind) folded before Flop
+
+PokerStars Hand #1490817250:  Hold'em No Limit ($75.00/$150.00 USD) - 2022/12/19 12:58:35 ET
+Table 'WPN_7 Day No Rathole 75/150 NLH' 9-max Seat #9 is the button
+Seat 2: chop-ch0p ($6095.42 in chips)
+Seat 9: PAPILINDOYO ($1274.37 in chips)
+PAPILINDOYO: posts small blind $75.00
+chop-ch0p: posts big blind $150.00
+*** HOLE CARDS ***
+PAPILINDOYO: raises $1124.37 to $1274.37 and is all-in
+chop-ch0p: folds
+Uncalled bet ($1124.37) returned to PAPILINDOYO
+PAPILINDOYO collected $300.00 from pot
+PAPILINDOYO: doesn't show hand
+*** SUMMARY ***
+Total pot $300.00 | Rake $0.00
+Seat 2: chop-ch0p (big blind) folded before Flop
+Seat 9: PAPILINDOYO (button) (small blind) collected ($300.00)
+
+PokerStars Hand #1490817286:  Hold'em No Limit ($75.00/$150.00 USD) - 2022/12/19 12:58:48 ET
+Table 'WPN_7 Day No Rathole 75/150 NLH' 9-max Seat #2 is the button
+Seat 2: chop-ch0p ($5945.42 in chips)
+Seat 9: PAPILINDOYO ($1424.37 in chips)
+chop-ch0p: posts small blind $75.00
+PAPILINDOYO: posts big blind $150.00
+*** HOLE CARDS ***
+chop-ch0p: folds
+Uncalled bet ($75.00) returned to PAPILINDOYO
+PAPILINDOYO collected $150.00 from pot
+PAPILINDOYO: doesn't show hand
+*** SUMMARY ***
+Total pot $150.00 | Rake $0.00
+Seat 2: chop-ch0p (button) (small blind) folded before Flop
+Seat 9: PAPILINDOYO (big blind) collected ($150.00)
+
+PokerStars Hand #1490817306:  Hold'em No Limit ($75.00/$150.00 USD) - 2022/12/19 12:58:57 ET
+Table 'WPN_7 Day No Rathole 75/150 NLH' 9-max Seat #9 is the button
+Seat 2: chop-ch0p ($5870.42 in chips)
+Seat 9: PAPILINDOYO ($1499.37 in chips)
+PAPILINDOYO: posts small blind $75.00
+chop-ch0p: posts big blind $150.00
+*** HOLE CARDS ***
+PAPILINDOYO: raises $1349.37 to $1499.37 and is all-in
+chop-ch0p: folds
+Uncalled bet ($1349.37) returned to PAPILINDOYO
+PAPILINDOYO collected $300.00 from pot
+PAPILINDOYO: doesn't show hand
+*** SUMMARY ***
+Total pot $300.00 | Rake $0.00
+Seat 2: chop-ch0p (big blind) folded before Flop
+Seat 9: PAPILINDOYO (button) (small blind) collected ($300.00)
+
+PokerStars Hand #1490817338:  Hold'em No Limit ($75.00/$150.00 USD) - 2022/12/19 12:59:10 ET
+Table 'WPN_7 Day No Rathole 75/150 NLH' 9-max Seat #2 is the button
+Seat 2: chop-ch0p ($5720.42 in chips)
+Seat 9: PAPILINDOYO ($1649.37 in chips)
+chop-ch0p: posts small blind $75.00
+PAPILINDOYO: posts big blind $150.00
+*** HOLE CARDS ***
+chop-ch0p: calls $75.00
+PAPILINDOYO: checks
+*** FLOP *** [Th Td Jc]
+PAPILINDOYO: bets $150.00
+chop-ch0p: folds
+Uncalled bet ($150.00) returned to PAPILINDOYO
+PAPILINDOYO collected $298.75 from pot
+PAPILINDOYO: doesn't show hand
+*** SUMMARY ***
+Total pot $300.00 | Rake $1.25
+Board [Th Td Jc]
+Seat 2: chop-ch0p (button) (small blind) folded on the Flop
+Seat 9: PAPILINDOYO (big blind) collected ($298.75)
+
+PokerStars Hand #1490817562:  Hold'em No Limit ($75.00/$150.00 USD) - 2022/12/19 13:00:36 ET
+Table 'WPN_7 Day No Rathole 75/150 NLH' 9-max Seat #9 is the button
+Seat 2: chop-ch0p ($5645.42 in chips)
+Seat 9: PAPILINDOYO ($1723.12 in chips)
+PAPILINDOYO: posts small blind $75.00
+chop-ch0p: posts big blind $150.00
+*** HOLE CARDS ***
+PAPILINDOYO: raises $1573.12 to $1723.12 and is all-in
+chop-ch0p: calls $1573.12
+*** FLOP *** [3d 9c 8h]
+*** TURN *** [3d 9c 8h] [2h]
+*** RIVER *** [3d 9c 8h 2h] [Ts]
+*** SHOW DOWN ***
+chop-ch0p: shows [Qd Jh]
+PAPILINDOYO: shows [9d 7d]
+chop-ch0p collected $3444.99 from pot
+*** SUMMARY ***
+Total pot $3446.24 | Rake $1.25
+Board [3d 9c 8h 2h Ts]
+Seat 2: chop-ch0p (big blind) showed [Qd Jh] and won ($3444.99)
+Seat 9: PAPILINDOYO (button) (small blind) showed [9d 7d] and lost
+
+PokerStars Hand #1490817688:  Hold'em No Limit ($75.00/$150.00 USD) - 2022/12/19 13:01:11 ET
+Table 'WPN_7 Day No Rathole 75/150 NLH' 9-max Seat #2 is the button
+Seat 2: chop-ch0p ($7367.29 in chips)
+Seat 9: PAPILINDOYO ($1500.00 in chips)
+chop-ch0p: posts small blind $75.00
+PAPILINDOYO: posts big blind $150.00
+*** HOLE CARDS ***
+chop-ch0p: calls $75.00
+PAPILINDOYO: checks
+*** FLOP *** [8h 6s Jh]
+PAPILINDOYO: checks
+chop-ch0p: checks
+*** TURN *** [8h 6s Jh] [4s]
+PAPILINDOYO: checks
+chop-ch0p: bets $150.00
+PAPILINDOYO: folds
+Uncalled bet ($150.00) returned to chop-ch0p
+chop-ch0p collected $298.75 from pot
+chop-ch0p: doesn't show hand
+*** SUMMARY ***
+Total pot $300.00 | Rake $1.25
+Board [8h 6s Jh 4s]
+Seat 2: chop-ch0p (button) (small blind) collected ($298.75)
+Seat 9: PAPILINDOYO (big blind) folded on the Turn
+
+PokerStars Hand #1490817896:  Hold'em No Limit ($75.00/$150.00 USD) - 2022/12/19 13:02:05 ET
+Table 'WPN_7 Day No Rathole 75/150 NLH' 9-max Seat #9 is the button
+Seat 2: chop-ch0p ($7516.04 in chips)
+Seat 9: PAPILINDOYO ($1350.00 in chips)
+PAPILINDOYO: posts small blind $75.00
+chop-ch0p: posts big blind $150.00
+*** HOLE CARDS ***
+PAPILINDOYO: raises $1200.00 to $1350.00 and is all-in
+chop-ch0p: calls $1200.00
+*** FLOP *** [Qs 2s Td]
+*** TURN *** [Qs 2s Td] [Jh]
+*** RIVER *** [Qs 2s Td Jh] [4c]
+*** SHOW DOWN ***
+PAPILINDOYO: shows [8h 8c]
+chop-ch0p: shows [6c Ks]
+PAPILINDOYO collected $2698.75 from pot
+*** SUMMARY ***
+Total pot $2700.00 | Rake $1.25
+Board [Qs 2s Td Jh 4c]
+Seat 2: chop-ch0p (big blind) showed [6c Ks] and lost
+Seat 9: PAPILINDOYO (button) (small blind) showed [8h 8c] and won ($2698.75)
+
+PokerStars Hand #1490818016:  Hold'em No Limit ($75.00/$150.00 USD) - 2022/12/19 13:02:33 ET
+Table 'WPN_7 Day No Rathole 75/150 NLH' 9-max Seat #2 is the button
+Seat 2: chop-ch0p ($6166.04 in chips)
+Seat 9: PAPILINDOYO ($2698.75 in chips)
+chop-ch0p: posts small blind $75.00
+PAPILINDOYO: posts big blind $150.00
+*** HOLE CARDS ***
+chop-ch0p: raises $150.00 to $300.00
+PAPILINDOYO: folds
+Uncalled bet ($150.00) returned to chop-ch0p
+chop-ch0p collected $300.00 from pot
+chop-ch0p: doesn't show hand
+*** SUMMARY ***
+Total pot $300.00 | Rake $0.00
+Seat 2: chop-ch0p (button) (small blind) collected ($300.00)
+Seat 9: PAPILINDOYO (big blind) folded before Flop
+
+PokerStars Hand #1490818069:  Hold'em No Limit ($75.00/$150.00 USD) - 2022/12/19 13:02:47 ET
+Table 'WPN_7 Day No Rathole 75/150 NLH' 9-max Seat #9 is the button
+Seat 2: chop-ch0p ($6316.04 in chips)
+Seat 9: PAPILINDOYO ($2548.75 in chips)
+PAPILINDOYO: posts small blind $75.00
+chop-ch0p: posts big blind $150.00
+*** HOLE CARDS ***
+PAPILINDOYO: folds
+Uncalled bet ($75.00) returned to chop-ch0p
+chop-ch0p collected $150.00 from pot
+chop-ch0p: doesn't show hand
+*** SUMMARY ***
+Total pot $150.00 | Rake $0.00
+Seat 2: chop-ch0p (big blind) collected ($150.00)
+Seat 9: PAPILINDOYO (button) (small blind) folded before Flop
+
+PokerStars Hand #1490818122:  Hold'em No Limit ($75.00/$150.00 USD) - 2022/12/19 13:02:58 ET
+Table 'WPN_7 Day No Rathole 75/150 NLH' 9-max Seat #2 is the button
+Seat 2: chop-ch0p ($6391.04 in chips)
+Seat 9: PAPILINDOYO ($2473.75 in chips)
+chop-ch0p: posts small blind $75.00
+PAPILINDOYO: posts big blind $150.00
+*** HOLE CARDS ***
+chop-ch0p: calls $75.00
+PAPILINDOYO: raises $2323.75 to $2473.75 and is all-in
+chop-ch0p: calls $2323.75
+*** FLOP *** [8c 7h 4c]
+*** TURN *** [8c 7h 4c] [2s]
+*** RIVER *** [8c 7h 4c 2s] [2c]
+*** SHOW DOWN ***
+chop-ch0p: shows [As 8d]
+PAPILINDOYO: shows [Kd 7s]
+chop-ch0p collected $4946.25 from pot
+*** SUMMARY ***
+Total pot $4947.50 | Rake $1.25
+Board [8c 7h 4c 2s 2c]
+Seat 2: chop-ch0p (button) (small blind) showed [As 8d] and won ($4946.25)
+Seat 9: PAPILINDOYO (big blind) showed [Kd 7s] and lost
+
+PokerStars Hand #1490818254:  Hold'em No Limit ($75.00/$150.00 USD) - 2022/12/19 13:03:30 ET
+Table 'WPN_7 Day No Rathole 75/150 NLH' 9-max Seat #9 is the button
+Seat 2: chop-ch0p ($8863.54 in chips)
+Seat 9: PAPILINDOYO ($1500.00 in chips)
+PAPILINDOYO: posts small blind $75.00
+chop-ch0p: posts big blind $150.00
+*** HOLE CARDS ***
+PAPILINDOYO: folds
+Uncalled bet ($75.00) returned to chop-ch0p
+chop-ch0p collected $150.00 from pot
+chop-ch0p: doesn't show hand
+*** SUMMARY ***
+Total pot $150.00 | Rake $0.00
+Seat 2: chop-ch0p (big blind) collected ($150.00)
+Seat 9: PAPILINDOYO (button) (small blind) folded before Flop
+
+PokerStars Hand #1490818294:  Hold'em No Limit ($75.00/$150.00 USD) - 2022/12/19 13:03:41 ET
+Table 'WPN_7 Day No Rathole 75/150 NLH' 9-max Seat #2 is the button
+Seat 2: chop-ch0p ($8938.54 in chips)
+Seat 9: PAPILINDOYO ($1425.00 in chips)
+chop-ch0p: posts small blind $75.00
+PAPILINDOYO: posts big blind $150.00
+*** HOLE CARDS ***
+chop-ch0p: calls $75.00
+PAPILINDOYO: checks
+*** FLOP *** [9d 2s Ac]
+PAPILINDOYO: checks
+chop-ch0p: bets $150.00
+PAPILINDOYO: folds
+Uncalled bet ($150.00) returned to chop-ch0p
+chop-ch0p collected $298.75 from pot
+chop-ch0p: doesn't show hand
+*** SUMMARY ***
+Total pot $300.00 | Rake $1.25
+Board [9d 2s Ac]
+Seat 2: chop-ch0p (button) (small blind) collected ($298.75)
+Seat 9: PAPILINDOYO (big blind) folded on the Flop
+
+PokerStars Hand #1490818436:  Hold'em No Limit ($75.00/$150.00 USD) - 2022/12/19 13:04:09 ET
+Table 'WPN_7 Day No Rathole 75/150 NLH' 9-max Seat #9 is the button
+Seat 2: chop-ch0p ($9087.29 in chips)
+Seat 9: PAPILINDOYO ($1275.00 in chips)
+PAPILINDOYO: posts small blind $75.00
+chop-ch0p: posts big blind $150.00
+*** HOLE CARDS ***
+PAPILINDOYO: folds
+Uncalled bet ($75.00) returned to chop-ch0p
+chop-ch0p collected $150.00 from pot
+chop-ch0p: doesn't show hand
+*** SUMMARY ***
+Total pot $150.00 | Rake $0.00
+Seat 2: chop-ch0p (big blind) collected ($150.00)
+Seat 9: PAPILINDOYO (button) (small blind) folded before Flop
+
+PokerStars Hand #1490818493:  Hold'em No Limit ($75.00/$150.00 USD) - 2022/12/19 13:04:21 ET
+Table 'WPN_7 Day No Rathole 75/150 NLH' 9-max Seat #2 is the button
+Seat 2: chop-ch0p ($9162.29 in chips)
+Seat 9: PAPILINDOYO ($1200.00 in chips)
+chop-ch0p: posts small blind $75.00
+PAPILINDOYO: posts big blind $150.00
+*** HOLE CARDS ***
+chop-ch0p: raises $9012.29 to $9162.29 and is all-in
+PAPILINDOYO: folds
+Uncalled bet ($9012.29) returned to chop-ch0p
+chop-ch0p collected $300.00 from pot
+chop-ch0p: doesn't show hand
+*** SUMMARY ***
+Total pot $300.00 | Rake $0.00
+Seat 2: chop-ch0p (button) (small blind) collected ($300.00)
+Seat 9: PAPILINDOYO (big blind) folded before Flop
+
+PokerStars Hand #1490818549:  Hold'em No Limit ($75.00/$150.00 USD) - 2022/12/19 13:04:36 ET
+Table 'WPN_7 Day No Rathole 75/150 NLH' 9-max Seat #2 is the button
+Seat 1: el0el ($7185.00 in chips)
+Seat 2: chop-ch0p ($9312.29 in chips)
+Seat 9: PAPILINDOYO ($1050.00 in chips)
+PAPILINDOYO: posts small blind $75.00
+el0el: posts big blind $150.00
+*** HOLE CARDS ***
+chop-ch0p: folds
+PAPILINDOYO: folds
+Uncalled bet ($75.00) returned to el0el
+el0el collected $150.00 from pot
+el0el: doesn't show hand
+*** SUMMARY ***
+Total pot $150.00 | Rake $0.00
+Seat 1: el0el (big blind) collected ($150.00)
+Seat 2: chop-ch0p (button) folded before Flop (didn't bet)
+Seat 9: PAPILINDOYO (small blind) folded before Flop
+
+PokerStars Hand #1490818599:  Hold'em No Limit ($75.00/$150.00 USD) - 2022/12/19 13:04:46 ET
+Table 'WPN_7 Day No Rathole 75/150 NLH' 9-max Seat #9 is the button
+Seat 1: el0el ($7260.00 in chips)
+Seat 2: chop-ch0p ($9312.29 in chips)
+Seat 9: PAPILINDOYO ($975.00 in chips)
+el0el: posts small blind $75.00
+chop-ch0p: posts big blind $150.00
+*** HOLE CARDS ***
+PAPILINDOYO: folds
+el0el: folds
+Uncalled bet ($75.00) returned to chop-ch0p
+chop-ch0p collected $150.00 from pot
+chop-ch0p: doesn't show hand
+*** SUMMARY ***
+Total pot $150.00 | Rake $0.00
+Seat 1: el0el (small blind) folded before Flop
+Seat 2: chop-ch0p (big blind) collected ($150.00)
+Seat 9: PAPILINDOYO (button) folded before Flop (didn't bet)
+
+PokerStars Hand #1490818667:  Hold'em No Limit ($75.00/$150.00 USD) - 2022/12/19 13:04:59 ET
+Table 'WPN_7 Day No Rathole 75/150 NLH' 9-max Seat #1 is the button
+Seat 1: el0el ($7185.00 in chips)
+Seat 2: chop-ch0p ($9387.29 in chips)
+Seat 9: PAPILINDOYO ($975.00 in chips)
+chop-ch0p: posts small blind $75.00
+PAPILINDOYO: posts big blind $150.00
+*** HOLE CARDS ***
+el0el: raises $150.00 to $300.00
+chop-ch0p: folds
+PAPILINDOYO: raises $675.00 to $975.00 and is all-in
+el0el: calls $675.00
+*** FIRST FLOP *** [2c Td Qd]
+*** FIRST TURN *** [2c Td Qd] [6h]
+*** FIRST RIVER *** [2c Td Qd 6h] [6c]
+*** SECOND FLOP *** [6s 9c Qh]
+*** SECOND TURN *** [6s 9c Qh] [4d]
+*** SECOND RIVER *** [6s 9c Qh 4d] [8s]
+*** FIRST SHOW DOWN ***
+el0el: shows [Ks Kc]
+PAPILINDOYO: shows [Tc Qs]
+el0el collected $1011.63 from pot
+*** SECOND SHOW DOWN ***
+el0el: shows [Ks Kc]
+PAPILINDOYO: shows [Tc Qs]
+el0el collected $1011.62 from pot
+*** SUMMARY ***
+Total pot $2025.00 | Rake $1.75
+Hand was run twice
+FIRST Board [2c Td Qd 6h 6c]
+SECOND Board [6s 9c Qh 4d 8s]
+Seat 1: el0el (button) showed [Ks Kc] and won ($1011.63), and won ($1011.62)
+Seat 2: chop-ch0p (small blind) folded before Flop
+Seat 9: PAPILINDOYO (big blind) showed [Tc Qs] and lost, and lost
+
+PokerStars Hand #1490818791:  Hold'em No Limit ($75.00/$150.00 USD) - 2022/12/19 13:05:30 ET
+Table 'WPN_7 Day No Rathole 75/150 NLH' 9-max Seat #2 is the button
+Seat 1: el0el ($8233.25 in chips)
+Seat 2: chop-ch0p ($9312.29 in chips)
+chop-ch0p: posts small blind $75.00
+el0el: posts big blind $150.00
+*** HOLE CARDS ***
+chop-ch0p: raises $150.00 to $300.00
+el0el: folds
+Uncalled bet ($150.00) returned to chop-ch0p
+chop-ch0p collected $300.00 from pot
+chop-ch0p: doesn't show hand
+*** SUMMARY ***
+Total pot $300.00 | Rake $0.00
+Seat 1: el0el (big blind) folded before Flop
+Seat 2: chop-ch0p (button) (small blind) collected ($300.00)
+
+PokerStars Hand #1490818892:  Hold'em No Limit ($75.00/$150.00 USD) - 2022/12/19 13:05:53 ET
+Table 'WPN_7 Day No Rathole 75/150 NLH' 9-max Seat #1 is the button
+Seat 1: el0el ($8083.25 in chips)
+Seat 2: chop-ch0p ($9462.29 in chips)
+Seat 9: PAPILINDOYO ($1500.00 in chips)
+el0el: posts small blind $75.00
+chop-ch0p: posts big blind $150.00
+*** HOLE CARDS ***
+el0el: folds
+Uncalled bet ($75.00) returned to chop-ch0p
+chop-ch0p collected $150.00 from pot
+chop-ch0p: doesn't show hand
+*** SUMMARY ***
+Total pot $150.00 | Rake $0.00
+Seat 1: el0el (button) (small blind) folded before Flop
+Seat 2: chop-ch0p (big blind) collected ($150.00)
+
+PokerStars Hand #1490818942:  Hold'em No Limit ($75.00/$150.00 USD) - 2022/12/19 13:06:02 ET
+Table 'WPN_7 Day No Rathole 75/150 NLH' 9-max Seat #1 is the button
+Seat 1: el0el ($8008.25 in chips)
+Seat 2: chop-ch0p ($9537.29 in chips)
+Seat 9: PAPILINDOYO ($1500.00 in chips)
+chop-ch0p: posts small blind $75.00
+PAPILINDOYO: posts big blind $150.00
+*** HOLE CARDS ***
+el0el: folds
+chop-ch0p: raises $9387.29 to $9537.29 and is all-in
+PAPILINDOYO: calls $1350.00 and is all-in
+Uncalled bet ($8037.29) returned to chop-ch0p
+*** FIRST FLOP *** [6h 6d Jh]
+*** FIRST TURN *** [6h 6d Jh] [9d]
+*** FIRST RIVER *** [6h 6d Jh 9d] [4s]
+*** SECOND FLOP *** [5d 4d 8d]
+*** SECOND TURN *** [5d 4d 8d] [3c]
+*** SECOND RIVER *** [5d 4d 8d 3c] [3h]
+*** FIRST SHOW DOWN ***
+chop-ch0p: shows [9h 7h]
+PAPILINDOYO: shows [Kh Th]
+chop-ch0p collected $1499.13 from pot
+*** SECOND SHOW DOWN ***
+chop-ch0p: shows [9h 7h]
+PAPILINDOYO: shows [Kh Th]
+PAPILINDOYO collected $1499.12 from pot
+*** SUMMARY ***
+Total pot $3000.00 | Rake $1.75
+Hand was run twice
+FIRST Board [6h 6d Jh 9d 4s]
+SECOND Board [5d 4d 8d 3c 3h]
+Seat 1: el0el (button) folded before Flop (didn't bet)
+Seat 2: chop-ch0p (small blind) showed [9h 7h] and won ($1499.13), and lost
+Seat 9: PAPILINDOYO (big blind) showed [Kh Th] and lost, and won ($1499.12)
+
+PokerStars Hand #1490819066:  Hold'em No Limit ($75.00/$150.00 USD) - 2022/12/19 13:06:30 ET
+Table 'WPN_7 Day No Rathole 75/150 NLH' 9-max Seat #2 is the button
+Seat 1: el0el ($8008.25 in chips)
+Seat 2: chop-ch0p ($9536.42 in chips)
+Seat 9: PAPILINDOYO ($1499.12 in chips)
+PAPILINDOYO: posts small blind $75.00
+el0el: posts big blind $150.00
+*** HOLE CARDS ***
+chop-ch0p: folds
+PAPILINDOYO: raises $1349.12 to $1499.12 and is all-in
+el0el: folds
+Uncalled bet ($1349.12) returned to PAPILINDOYO
+PAPILINDOYO collected $300.00 from pot
+PAPILINDOYO: doesn't show hand
+*** SUMMARY ***
+Total pot $300.00 | Rake $0.00
+Seat 1: el0el (big blind) folded before Flop
+Seat 2: chop-ch0p (button) folded before Flop (didn't bet)
+Seat 9: PAPILINDOYO (small blind) collected ($300.00)
+
+PokerStars Hand #1490819223:  Hold'em No Limit ($75.00/$150.00 USD) - 2022/12/19 13:06:59 ET
+Table 'WPN_7 Day No Rathole 75/150 NLH' 9-max Seat #9 is the button
+Seat 1: el0el ($7858.25 in chips)
+Seat 2: chop-ch0p ($9536.42 in chips)
+Seat 9: PAPILINDOYO ($1649.12 in chips)
+el0el: posts small blind $75.00
+chop-ch0p: posts big blind $150.00
+*** HOLE CARDS ***
+PAPILINDOYO: raises $1499.12 to $1649.12 and is all-in
+el0el: folds
+chop-ch0p: folds
+Uncalled bet ($1499.12) returned to PAPILINDOYO
+PAPILINDOYO collected $375.00 from pot
+PAPILINDOYO: doesn't show hand
+*** SUMMARY ***
+Total pot $375.00 | Rake $0.00
+Seat 1: el0el (small blind) folded before Flop
+Seat 2: chop-ch0p (big blind) folded before Flop
+Seat 9: PAPILINDOYO (button) collected ($375.00)
+
+PokerStars Hand #1490819297:  Hold'em No Limit ($75.00/$150.00 USD) - 2022/12/19 13:07:14 ET
+Table 'WPN_7 Day No Rathole 75/150 NLH' 9-max Seat #1 is the button
+Seat 1: el0el ($7783.25 in chips)
+Seat 2: chop-ch0p ($9386.42 in chips)
+Seat 9: PAPILINDOYO ($1874.12 in chips)
+chop-ch0p: posts small blind $75.00
+PAPILINDOYO: posts big blind $150.00
+*** HOLE CARDS ***
+el0el: raises $150.00 to $300.00
+chop-ch0p: folds
+PAPILINDOYO: calls $150.00
+*** FLOP *** [4s 2s 6d]
+PAPILINDOYO: checks
+el0el: bets $222.75
+PAPILINDOYO: folds
+Uncalled bet ($222.75) returned to el0el
+el0el collected $673.25 from pot
+el0el: doesn't show hand
+*** SUMMARY ***
+Total pot $675.00 | Rake $1.75
+Board [4s 2s 6d]
+Seat 1: el0el (button) collected ($673.25)
+Seat 2: chop-ch0p (small blind) folded before Flop
+Seat 9: PAPILINDOYO (big blind) folded on the Flop
+
+PokerStars Hand #1490819382:  Hold'em No Limit ($75.00/$150.00 USD) - 2022/12/19 13:07:34 ET
+Table 'WPN_7 Day No Rathole 75/150 NLH' 9-max Seat #2 is the button
+Seat 1: el0el ($8156.50 in chips)
+Seat 2: chop-ch0p ($9311.42 in chips)
+Seat 9: PAPILINDOYO ($1574.12 in chips)
+PAPILINDOYO: posts small blind $75.00
+el0el: posts big blind $150.00
+*** HOLE CARDS ***
+chop-ch0p: folds
+PAPILINDOYO: raises $1424.12 to $1574.12 and is all-in
+el0el: folds
+Uncalled bet ($1424.12) returned to PAPILINDOYO
+PAPILINDOYO collected $300.00 from pot
+PAPILINDOYO: doesn't show hand
+*** SUMMARY ***
+Total pot $300.00 | Rake $0.00
+Seat 1: el0el (big blind) folded before Flop
+Seat 2: chop-ch0p (button) folded before Flop (didn't bet)
+Seat 9: PAPILINDOYO (small blind) collected ($300.00)
+
+PokerStars Hand #1490819447:  Hold'em No Limit ($75.00/$150.00 USD) - 2022/12/19 13:07:47 ET
+Table 'WPN_7 Day No Rathole 75/150 NLH' 9-max Seat #9 is the button
+Seat 1: el0el ($8006.50 in chips)
+Seat 2: chop-ch0p ($9311.42 in chips)
+Seat 9: PAPILINDOYO ($1724.12 in chips)
+el0el: posts small blind $75.00
+chop-ch0p: posts big blind $150.00
+*** HOLE CARDS ***
+PAPILINDOYO: raises $1574.12 to $1724.12 and is all-in
+el0el: folds
+chop-ch0p: calls $1574.12
+*** FLOP *** [9c Jc 7d]
+*** TURN *** [9c Jc 7d] [5d]
+*** RIVER *** [9c Jc 7d 5d] [5s]
+*** SHOW DOWN ***
+chop-ch0p: shows [Ah Ac]
+PAPILINDOYO: shows [As 4c]
+chop-ch0p collected $3521.49 from pot
+*** SUMMARY ***
+Total pot $3523.24 | Rake $1.75
+Board [9c Jc 7d 5d 5s]
+Seat 1: el0el (small blind) folded before Flop
+Seat 2: chop-ch0p (big blind) showed [Ah Ac] and won ($3521.49)
+Seat 9: PAPILINDOYO (button) showed [As 4c] and lost
+
+PokerStars Hand #1490819588:  Hold'em No Limit ($75.00/$150.00 USD) - 2022/12/19 13:08:14 ET
+Table 'WPN_7 Day No Rathole 75/150 NLH' 9-max Seat #2 is the button
+Seat 1: el0el ($7931.50 in chips)
+Seat 2: chop-ch0p ($11108.79 in chips)
+chop-ch0p: posts small blind $75.00
+el0el: posts big blind $150.00
+*** HOLE CARDS ***
+chop-ch0p: raises $150.00 to $300.00
+el0el: calls $150.00
+*** FLOP *** [Qh Kd 6h]
+el0el: checks
+chop-ch0p: bets $198.00
+el0el: calls $198.00
+*** TURN *** [Qh Kd 6h] [4s]
+el0el: checks
+chop-ch0p: checks
+*** RIVER *** [Qh Kd 6h 4s] [3h]
+el0el: checks
+chop-ch0p: checks
+*** SHOW DOWN ***
+el0el: shows [Th Qs]
+chop-ch0p: mucks hand
+el0el collected $994.75 from pot
+*** SUMMARY ***
+Total pot $996.00 | Rake $1.25
+Board [Qh Kd 6h 4s 3h]
+Seat 1: el0el (big blind) showed [Th Qs] and won ($994.75)
+Seat 2: chop-ch0p (button) (small blind) mucked
+
+PokerStars Hand #1490819886:  Hold'em No Limit ($75.00/$150.00 USD) - 2022/12/19 13:09:17 ET
+Table 'WPN_7 Day No Rathole 75/150 NLH' 9-max Seat #1 is the button
+Seat 1: el0el ($8428.25 in chips)
+Seat 2: chop-ch0p ($10610.79 in chips)
+Seat 9: PAPILINDOYO ($1500.00 in chips)
+el0el: posts small blind $75.00
+chop-ch0p: posts big blind $150.00
+*** HOLE CARDS ***
+el0el: folds
+Uncalled bet ($75.00) returned to chop-ch0p
+chop-ch0p collected $150.00 from pot
+chop-ch0p: doesn't show hand
+*** SUMMARY ***
+Total pot $150.00 | Rake $0.00
+Seat 1: el0el (button) (small blind) folded before Flop
+Seat 2: chop-ch0p (big blind) collected ($150.00)
+
+PokerStars Hand #1490819935:  Hold'em No Limit ($75.00/$150.00 USD) - 2022/12/19 13:09:26 ET
+Table 'WPN_7 Day No Rathole 75/150 NLH' 9-max Seat #1 is the button
+Seat 1: el0el ($8353.25 in chips)
+Seat 2: chop-ch0p ($10685.79 in chips)
+Seat 9: PAPILINDOYO ($1500.00 in chips)
+chop-ch0p: posts small blind $75.00
+PAPILINDOYO: posts big blind $150.00
+*** HOLE CARDS ***
+el0el: folds
+chop-ch0p: raises $10535.79 to $10685.79 and is all-in
+PAPILINDOYO: folds
+Uncalled bet ($10535.79) returned to chop-ch0p
+chop-ch0p collected $300.00 from pot
+chop-ch0p: doesn't show hand
+*** SUMMARY ***
+Total pot $300.00 | Rake $0.00
+Seat 1: el0el (button) folded before Flop (didn't bet)
+Seat 2: chop-ch0p (small blind) collected ($300.00)
+Seat 9: PAPILINDOYO (big blind) folded before Flop
+
+PokerStars Hand #1490820040:  Hold'em No Limit ($75.00/$150.00 USD) - 2022/12/19 13:09:48 ET
+Table 'WPN_7 Day No Rathole 75/150 NLH' 9-max Seat #2 is the button
+Seat 1: el0el ($8353.25 in chips)
+Seat 2: chop-ch0p ($10835.79 in chips)
+Seat 9: PAPILINDOYO ($1350.00 in chips)
+PAPILINDOYO: posts small blind $75.00
+el0el: posts big blind $150.00
+*** HOLE CARDS ***
+chop-ch0p: folds
+PAPILINDOYO: folds
+Uncalled bet ($75.00) returned to el0el
+el0el collected $150.00 from pot
+el0el: doesn't show hand
+*** SUMMARY ***
+Total pot $150.00 | Rake $0.00
+Seat 1: el0el (big blind) collected ($150.00)
+Seat 2: chop-ch0p (button) folded before Flop (didn't bet)
+Seat 9: PAPILINDOYO (small blind) folded before Flop
+
+PokerStars Hand #1490820104:  Hold'em No Limit ($75.00/$150.00 USD) - 2022/12/19 13:10:02 ET
+Table 'WPN_7 Day No Rathole 75/150 NLH' 9-max Seat #9 is the button
+Seat 1: el0el ($8428.25 in chips)
+Seat 2: chop-ch0p ($10835.79 in chips)
+Seat 9: PAPILINDOYO ($1275.00 in chips)
+el0el: posts small blind $75.00
+chop-ch0p: posts big blind $150.00
+*** HOLE CARDS ***
+PAPILINDOYO: folds
+el0el: raises $300.00 to $450.00
+chop-ch0p: folds
+Uncalled bet ($300.00) returned to el0el
+el0el collected $300.00 from pot
+el0el: doesn't show hand
+*** SUMMARY ***
+Total pot $300.00 | Rake $0.00
+Seat 1: el0el (small blind) collected ($300.00)
+Seat 2: chop-ch0p (big blind) folded before Flop
+Seat 9: PAPILINDOYO (button) folded before Flop (didn't bet)
+
+PokerStars Hand #1490820166:  Hold'em No Limit ($75.00/$150.00 USD) - 2022/12/19 13:10:16 ET
+Table 'WPN_7 Day No Rathole 75/150 NLH' 9-max Seat #1 is the button
+Seat 1: el0el ($8578.25 in chips)
+Seat 2: chop-ch0p ($10685.79 in chips)
+Seat 9: PAPILINDOYO ($1500.00 in chips)
+chop-ch0p: posts small blind $75.00
+PAPILINDOYO: posts big blind $150.00
+*** HOLE CARDS ***
+el0el: raises $150.00 to $300.00
+chop-ch0p: folds
+PAPILINDOYO: raises $1200.00 to $1500.00 and is all-in
+el0el: calls $1200.00
+*** FIRST FLOP *** [9d Kh 2s]
+*** FIRST TURN *** [9d Kh 2s] [8c]
+*** FIRST RIVER *** [9d Kh 2s 8c] [3s]
+*** SECOND FLOP *** [Qc Td 4h]
+*** SECOND TURN *** [Qc Td 4h] [9s]
+*** SECOND RIVER *** [Qc Td 4h 9s] [Ac]
+*** FIRST SHOW DOWN ***
+el0el: shows [Kc Tc]
+PAPILINDOYO: shows [Jc Ad]
+el0el collected $1536.63 from pot
+*** SECOND SHOW DOWN ***
+el0el: shows [Kc Tc]
+PAPILINDOYO: shows [Jc Ad]
+PAPILINDOYO collected $1536.62 from pot
+*** SUMMARY ***
+Total pot $3075.00 | Rake $1.75
+Hand was run twice
+FIRST Board [9d Kh 2s 8c 3s]
+SECOND Board [Qc Td 4h 9s Ac]
+Seat 1: el0el (button) showed [Kc Tc] and won ($1536.63), and lost
+Seat 2: chop-ch0p (small blind) folded before Flop
+Seat 9: PAPILINDOYO (big blind) showed [Jc Ad] and lost, and won ($1536.62)
+
+PokerStars Hand #1490820291:  Hold'em No Limit ($75.00/$150.00 USD) - 2022/12/19 13:10:42 ET
+Table 'WPN_7 Day No Rathole 75/150 NLH' 9-max Seat #2 is the button
+Seat 1: el0el ($8614.88 in chips)
+Seat 2: chop-ch0p ($10610.79 in chips)
+Seat 9: PAPILINDOYO ($1536.62 in chips)
+PAPILINDOYO: posts small blind $75.00
+el0el: posts big blind $150.00
+*** HOLE CARDS ***
+chop-ch0p: raises $150.00 to $300.00
+PAPILINDOYO: folds
+el0el: calls $150.00
+*** FLOP *** [Kd Qs Td]
+el0el: checks
+chop-ch0p: bets $337.50
+el0el: folds
+Uncalled bet ($337.50) returned to chop-ch0p
+chop-ch0p collected $673.25 from pot
+chop-ch0p: doesn't show hand
+*** SUMMARY ***
+Total pot $675.00 | Rake $1.75
+Board [Kd Qs Td]
+Seat 1: el0el (big blind) folded on the Flop
+Seat 2: chop-ch0p (button) collected ($673.25)
+Seat 9: PAPILINDOYO (small blind) folded before Flop
+
+PokerStars Hand #1490820504:  Hold'em No Limit ($75.00/$150.00 USD) - 2022/12/19 13:11:24 ET
+Table 'WPN_7 Day No Rathole 75/150 NLH' 9-max Seat #9 is the button
+Seat 1: el0el ($8314.88 in chips)
+Seat 2: chop-ch0p ($10984.04 in chips)
+Seat 9: PAPILINDOYO ($1461.62 in chips)
+el0el: posts small blind $75.00
+chop-ch0p: posts big blind $150.00
+*** HOLE CARDS ***
+PAPILINDOYO: folds
+el0el: folds
+Uncalled bet ($75.00) returned to chop-ch0p
+chop-ch0p collected $150.00 from pot
+chop-ch0p: doesn't show hand
+*** SUMMARY ***
+Total pot $150.00 | Rake $0.00
+Seat 1: el0el (small blind) folded before Flop
+Seat 2: chop-ch0p (big blind) collected ($150.00)
+Seat 9: PAPILINDOYO (button) folded before Flop (didn't bet)
+
+PokerStars Hand #1490820557:  Hold'em No Limit ($75.00/$150.00 USD) - 2022/12/19 13:11:34 ET
+Table 'WPN_7 Day No Rathole 75/150 NLH' 9-max Seat #1 is the button
+Seat 1: el0el ($8239.88 in chips)
+Seat 2: chop-ch0p ($11059.04 in chips)
+Seat 9: PAPILINDOYO ($1461.62 in chips)
+chop-ch0p: posts small blind $75.00
+PAPILINDOYO: posts big blind $150.00
+*** HOLE CARDS ***
+el0el: raises $150.00 to $300.00
+chop-ch0p: folds
+PAPILINDOYO: folds
+Uncalled bet ($150.00) returned to el0el
+el0el collected $375.00 from pot
+el0el: doesn't show hand
+*** SUMMARY ***
+Total pot $375.00 | Rake $0.00
+Seat 1: el0el (button) collected ($375.00)
+Seat 2: chop-ch0p (small blind) folded before Flop
+Seat 9: PAPILINDOYO (big blind) folded before Flop
+
+PokerStars Hand #1490820619:  Hold'em No Limit ($75.00/$150.00 USD) - 2022/12/19 13:11:48 ET
+Table 'WPN_7 Day No Rathole 75/150 NLH' 9-max Seat #2 is the button
+Seat 1: el0el ($8464.88 in chips)
+Seat 2: chop-ch0p ($10984.04 in chips)
+Seat 3: yourmytralala ($2128.75 in chips)
+Seat 9: PAPILINDOYO ($1311.62 in chips)
+PAPILINDOYO: posts small blind $75.00
+el0el: posts big blind $150.00
+*** HOLE CARDS ***
+chop-ch0p: folds
+PAPILINDOYO: folds
+Uncalled bet ($75.00) returned to el0el
+el0el collected $150.00 from pot
+el0el: doesn't show hand
+*** SUMMARY ***
+Total pot $150.00 | Rake $0.00
+Seat 1: el0el (big blind) collected ($150.00)
+Seat 2: chop-ch0p (button) folded before Flop (didn't bet)
+Seat 9: PAPILINDOYO (small blind) folded before Flop
+
+PokerStars Hand #1490820797:  Hold'em No Limit ($75.00/$150.00 USD) - 2022/12/19 13:12:25 ET
+Table 'WPN_7 Day No Rathole 75/150 NLH' 9-max Seat #9 is the button
+Seat 1: el0el ($8539.88 in chips)
+Seat 2: chop-ch0p ($10984.04 in chips)
+Seat 3: yourmytralala ($2128.75 in chips)
+Seat 9: PAPILINDOYO ($1236.62 in chips)
+el0el: posts small blind $75.00
+chop-ch0p: posts big blind $150.00
+*** HOLE CARDS ***
+PAPILINDOYO: folds
+el0el: raises $225.00 to $375.00
+chop-ch0p: folds
+Uncalled bet ($225.00) returned to el0el
+el0el collected $300.00 from pot
+el0el: doesn't show hand
+*** SUMMARY ***
+Total pot $300.00 | Rake $0.00
+Seat 1: el0el (small blind) collected ($300.00)
+Seat 2: chop-ch0p (big blind) folded before Flop
+Seat 9: PAPILINDOYO (button) folded before Flop (didn't bet)
+
+PokerStars Hand #1490820890:  Hold'em No Limit ($75.00/$150.00 USD) - 2022/12/19 13:12:43 ET
+Table 'WPN_7 Day No Rathole 75/150 NLH' 9-max Seat #1 is the button
+Seat 1: el0el ($8689.88 in chips)
+Seat 2: chop-ch0p ($10834.04 in chips)
+Seat 3: yourmytralala ($2128.75 in chips)
+Seat 9: PAPILINDOYO ($1236.62 in chips)
+chop-ch0p: posts small blind $75.00
+yourmytralala: posts big blind $150.00
+*** HOLE CARDS ***
+PAPILINDOYO: raises $1086.62 to $1236.62 and is all-in
+el0el: calls $1236.62
+chop-ch0p: folds
+yourmytralala: folds
+*** FIRST FLOP *** [5h 9s 6d]
+*** FIRST TURN *** [5h 9s 6d] [Td]
+*** FIRST RIVER *** [5h 9s 6d Td] [4d]
+*** SECOND FLOP *** [8d Kc 2d]
+*** SECOND TURN *** [8d Kc 2d] [Qc]
+*** SECOND RIVER *** [8d Kc 2d Qc] [5d]
+*** FIRST SHOW DOWN ***
+el0el: shows [6s 6c]
+PAPILINDOYO: shows [Jc Ad]
+el0el collected $1348.00 from pot
+*** SECOND SHOW DOWN ***
+el0el: shows [6s 6c]
+PAPILINDOYO: shows [Jc Ad]
+el0el collected $1347.99 from pot
+*** SUMMARY ***
+Total pot $2698.24 | Rake $2.25
+Hand was run twice
+FIRST Board [5h 9s 6d Td 4d]
+SECOND Board [8d Kc 2d Qc 5d]
+Seat 1: el0el (button) showed [6s 6c] and won ($1348.00), and won ($1347.99)
+Seat 2: chop-ch0p (small blind) folded before Flop
+Seat 3: yourmytralala (big blind) folded before Flop
+Seat 9: PAPILINDOYO showed [Jc Ad] and lost, and lost
+
+PokerStars Hand #1490821021:  Hold'em No Limit ($75.00/$150.00 USD) - 2022/12/19 13:13:14 ET
+Table 'WPN_7 Day No Rathole 75/150 NLH' 9-max Seat #2 is the button
+Seat 1: el0el ($10149.25 in chips)
+Seat 2: chop-ch0p ($10759.04 in chips)
+Seat 3: yourmytralala ($1978.75 in chips)
+yourmytralala: posts small blind $75.00
+el0el: posts big blind $150.00
+*** HOLE CARDS ***
+chop-ch0p: raises $150.00 to $300.00
+yourmytralala: raises $1678.75 to $1978.75 and is all-in
+el0el: folds
+chop-ch0p: folds
+Uncalled bet ($1678.75) returned to yourmytralala
+yourmytralala collected $750.00 from pot
+yourmytralala: doesn't show hand
+*** SUMMARY ***
+Total pot $750.00 | Rake $0.00
+Seat 1: el0el (big blind) folded before Flop
+Seat 2: chop-ch0p (button) folded before Flop
+Seat 3: yourmytralala (small blind) collected ($750.00)
+
+PokerStars Hand #1490821223:  Hold'em No Limit ($75.00/$150.00 USD) - 2022/12/19 13:13:52 ET
+Table 'WPN_7 Day No Rathole 75/150 NLH' 9-max Seat #3 is the button
+Seat 1: el0el ($9999.25 in chips)
+Seat 2: chop-ch0p ($10459.04 in chips)
+Seat 3: yourmytralala ($2428.75 in chips)
+Seat 9: PAPILINDOYO ($1500.00 in chips)
+el0el: posts small blind $75.00
+chop-ch0p: posts big blind $150.00
+*** HOLE CARDS ***
+yourmytralala: raises $150.00 to $300.00
+el0el: folds
+chop-ch0p: raises $10159.04 to $10459.04 and is all-in
+yourmytralala: folds
+Uncalled bet ($10159.04) returned to chop-ch0p
+chop-ch0p collected $675.00 from pot
+chop-ch0p: doesn't show hand
+*** SUMMARY ***
+Total pot $675.00 | Rake $0.00
+Seat 1: el0el (small blind) folded before Flop
+Seat 2: chop-ch0p (big blind) collected ($675.00)
+Seat 3: yourmytralala (button) folded before Flop
+
+PokerStars Hand #1490821363:  Hold'em No Limit ($75.00/$150.00 USD) - 2022/12/19 13:14:18 ET
+Table 'WPN_7 Day No Rathole 75/150 NLH' 9-max Seat #1 is the button
+Seat 1: el0el ($9924.25 in chips)
+Seat 2: chop-ch0p ($10834.04 in chips)
+Seat 3: yourmytralala ($2128.75 in chips)
+Seat 9: PAPILINDOYO ($1500.00 in chips)
+chop-ch0p: posts small blind $75.00
+yourmytralala: posts big blind $150.00
+*** HOLE CARDS ***
+el0el: folds
+chop-ch0p: folds
+Uncalled bet ($75.00) returned to yourmytralala
+yourmytralala collected $150.00 from pot
+yourmytralala: doesn't show hand
+*** SUMMARY ***
+Total pot $150.00 | Rake $0.00
+Seat 1: el0el (button) folded before Flop (didn't bet)
+Seat 2: chop-ch0p (small blind) folded before Flop
+Seat 3: yourmytralala (big blind) collected ($150.00)
+
+PokerStars Hand #1490821429:  Hold'em No Limit ($75.00/$150.00 USD) - 2022/12/19 13:14:29 ET
+Table 'WPN_7 Day No Rathole 75/150 NLH' 9-max Seat #2 is the button
+Seat 1: el0el ($9924.25 in chips)
+Seat 2: chop-ch0p ($10759.04 in chips)
+Seat 3: yourmytralala ($2203.75 in chips)
+Seat 9: PAPILINDOYO ($1500.00 in chips)
+yourmytralala: posts small blind $75.00
+PAPILINDOYO: posts big blind $150.00
+*** HOLE CARDS ***
+el0el: folds
+chop-ch0p: raises $10609.04 to $10759.04 and is all-in
+yourmytralala: folds
+PAPILINDOYO: folds
+Uncalled bet ($10609.04) returned to chop-ch0p
+chop-ch0p collected $375.00 from pot
+chop-ch0p: doesn't show hand
+*** SUMMARY ***
+Total pot $375.00 | Rake $0.00
+Seat 1: el0el folded before Flop (didn't bet)
+Seat 2: chop-ch0p (button) collected ($375.00)
+Seat 3: yourmytralala (small blind) folded before Flop
+Seat 9: PAPILINDOYO (big blind) folded before Flop
+
+PokerStars Hand #1490821524:  Hold'em No Limit ($75.00/$150.00 USD) - 2022/12/19 13:14:49 ET
+Table 'WPN_7 Day No Rathole 75/150 NLH' 9-max Seat #3 is the button
+Seat 1: el0el ($9924.25 in chips)
+Seat 2: chop-ch0p ($10984.04 in chips)
+Seat 3: yourmytralala ($2128.75 in chips)
+Seat 9: PAPILINDOYO ($1350.00 in chips)
+PAPILINDOYO: posts small blind $75.00
+el0el: posts big blind $150.00
+*** HOLE CARDS ***
+chop-ch0p: folds
+yourmytralala: folds
+PAPILINDOYO: raises $1200.00 to $1350.00 and is all-in
+el0el: calls $1200.00
+*** FIRST FLOP *** [6c 4d 2h]
+*** FIRST TURN *** [6c 4d 2h] [6h]
+*** FIRST RIVER *** [6c 4d 2h 6h] [5c]
+*** SECOND FLOP *** [4h 5s 2s]
+*** SECOND TURN *** [4h 5s 2s] [8h]
+*** SECOND RIVER *** [4h 5s 2s 8h] [3c]
+*** FIRST SHOW DOWN ***
+el0el: shows [Ac 8s]
+PAPILINDOYO: shows [9c Ah]
+PAPILINDOYO collected $1348.88 from pot
+*** SECOND SHOW DOWN ***
+el0el: shows [Ac 8s]
+PAPILINDOYO: shows [9c Ah]
+el0el collected $674.43 from pot
+PAPILINDOYO collected $674.44 from pot
+*** SUMMARY ***
+Total pot $2700.00 | Rake $2.25
+Hand was run twice
+FIRST Board [6c 4d 2h 6h 5c]
+SECOND Board [4h 5s 2s 8h 3c]
+Seat 1: el0el (big blind) showed [Ac 8s] and lost, and won ($674.43)
+Seat 2: chop-ch0p folded before Flop (didn't bet)
+Seat 3: yourmytralala (button) folded before Flop (didn't bet)
+Seat 9: PAPILINDOYO (small blind) showed [9c Ah] and won ($1348.88), and won ($674.44)
+
+PokerStars Hand #1490821651:  Hold'em No Limit ($75.00/$150.00 USD) - 2022/12/19 13:15:15 ET
+Table 'WPN_7 Day No Rathole 75/150 NLH' 9-max Seat #9 is the button
+Seat 1: el0el ($9248.68 in chips)
+Seat 2: chop-ch0p ($10984.04 in chips)
+Seat 3: yourmytralala ($2128.75 in chips)
+Seat 9: PAPILINDOYO ($2023.32 in chips)
+el0el: posts small blind $75.00
+chop-ch0p: posts big blind $150.00
+*** HOLE CARDS ***
+yourmytralala: folds
+PAPILINDOYO: raises $1873.32 to $2023.32 and is all-in
+el0el: folds
+chop-ch0p: calls $1873.32
+*** FLOP *** [5h Td Ad]
+*** TURN *** [5h Td Ad] [4c]
+*** RIVER *** [5h Td Ad 4c] [7c]
+*** SHOW DOWN ***
+PAPILINDOYO: shows [9c Ah]
+chop-ch0p: shows [Ks Kc]
+PAPILINDOYO collected $4119.39 from pot
+*** SUMMARY ***
+Total pot $4121.64 | Rake $2.25
+Board [5h Td Ad 4c 7c]
+Seat 1: el0el (small blind) folded before Flop
+Seat 2: chop-ch0p (big blind) showed [Ks Kc] and lost
+Seat 3: yourmytralala folded before Flop (didn't bet)
+Seat 9: PAPILINDOYO (button) showed [9c Ah] and won ($4119.39)
+
+PokerStars Hand #1490821825:  Hold'em No Limit ($75.00/$150.00 USD) - 2022/12/19 13:15:46 ET
+Table 'WPN_7 Day No Rathole 75/150 NLH' 9-max Seat #1 is the button
+Seat 1: el0el ($9173.68 in chips)
+Seat 2: chop-ch0p ($8960.72 in chips)
+Seat 3: yourmytralala ($2128.75 in chips)
+Seat 9: PAPILINDOYO ($4119.39 in chips)
+chop-ch0p: posts small blind $75.00
+yourmytralala: posts big blind $150.00
+*** HOLE CARDS ***
+PAPILINDOYO: folds
+el0el: folds
+chop-ch0p: raises $8810.72 to $8960.72 and is all-in
+yourmytralala: folds
+Uncalled bet ($8810.72) returned to chop-ch0p
+chop-ch0p collected $300.00 from pot
+chop-ch0p: doesn't show hand
+*** SUMMARY ***
+Total pot $300.00 | Rake $0.00
+Seat 1: el0el (button) folded before Flop (didn't bet)
+Seat 2: chop-ch0p (small blind) collected ($300.00)
+Seat 3: yourmytralala (big blind) folded before Flop
+Seat 9: PAPILINDOYO folded before Flop (didn't bet)
+
+PokerStars Hand #1490821905:  Hold'em No Limit ($75.00/$150.00 USD) - 2022/12/19 13:16:00 ET
+Table 'WPN_7 Day No Rathole 75/150 NLH' 9-max Seat #2 is the button
+Seat 1: el0el ($9173.68 in chips)
+Seat 2: chop-ch0p ($9110.72 in chips)
+Seat 3: yourmytralala ($1978.75 in chips)
+Seat 9: PAPILINDOYO ($4119.39 in chips)
+yourmytralala: posts small blind $75.00
+PAPILINDOYO: posts big blind $150.00
+*** HOLE CARDS ***
+el0el: folds
+chop-ch0p: folds
+yourmytralala: folds
+Uncalled bet ($75.00) returned to PAPILINDOYO
+PAPILINDOYO collected $150.00 from pot
+PAPILINDOYO: doesn't show hand
+*** SUMMARY ***
+Total pot $150.00 | Rake $0.00
+Seat 1: el0el folded before Flop (didn't bet)
+Seat 2: chop-ch0p (button) folded before Flop (didn't bet)
+Seat 3: yourmytralala (small blind) folded before Flop
+Seat 9: PAPILINDOYO (big blind) collected ($150.00)
+
+PokerStars Hand #1490822019:  Hold'em No Limit ($75.00/$150.00 USD) - 2022/12/19 13:16:23 ET
+Table 'WPN_7 Day No Rathole 75/150 NLH' 9-max Seat #3 is the button
+Seat 1: el0el ($9173.68 in chips)
+Seat 2: chop-ch0p ($9110.72 in chips)
+Seat 3: yourmytralala ($1903.75 in chips)
+Seat 9: PAPILINDOYO ($4194.39 in chips)
+PAPILINDOYO: posts small blind $75.00
+el0el: posts big blind $150.00
+*** HOLE CARDS ***
+chop-ch0p: folds
+yourmytralala: folds
+PAPILINDOYO: folds
+Uncalled bet ($75.00) returned to el0el
+el0el collected $150.00 from pot
+el0el: doesn't show hand
+*** SUMMARY ***
+Total pot $150.00 | Rake $0.00
+Seat 1: el0el (big blind) collected ($150.00)
+Seat 2: chop-ch0p folded before Flop (didn't bet)
+Seat 3: yourmytralala (button) folded before Flop (didn't bet)
+Seat 9: PAPILINDOYO (small blind) folded before Flop
+
+PokerStars Hand #1490822083:  Hold'em No Limit ($75.00/$150.00 USD) - 2022/12/19 13:16:35 ET
+Table 'WPN_7 Day No Rathole 75/150 NLH' 9-max Seat #9 is the button
+Seat 1: el0el ($9248.68 in chips)
+Seat 2: chop-ch0p ($9110.72 in chips)
+Seat 3: yourmytralala ($1903.75 in chips)
+Seat 9: PAPILINDOYO ($4119.39 in chips)
+el0el: posts small blind $75.00
+chop-ch0p: posts big blind $150.00
+*** HOLE CARDS ***
+yourmytralala: raises $150.00 to $300.00
+PAPILINDOYO: folds
+el0el: folds
+chop-ch0p: folds
+Uncalled bet ($150.00) returned to yourmytralala
+yourmytralala collected $375.00 from pot
+yourmytralala: doesn't show hand
+*** SUMMARY ***
+Total pot $375.00 | Rake $0.00
+Seat 1: el0el (small blind) folded before Flop
+Seat 2: chop-ch0p (big blind) folded before Flop
+Seat 3: yourmytralala collected ($375.00)
+Seat 9: PAPILINDOYO (button) folded before Flop (didn't bet)
+
+PokerStars Hand #1490822181:  Hold'em No Limit ($75.00/$150.00 USD) - 2022/12/19 13:16:54 ET
+Table 'WPN_7 Day No Rathole 75/150 NLH' 9-max Seat #1 is the button
+Seat 1: el0el ($9173.68 in chips)
+Seat 2: chop-ch0p ($8960.72 in chips)
+Seat 3: yourmytralala ($2128.75 in chips)
+Seat 9: PAPILINDOYO ($4119.39 in chips)
+chop-ch0p: posts small blind $75.00
+yourmytralala: posts big blind $150.00
+*** HOLE CARDS ***
+PAPILINDOYO: folds
+el0el: raises $150.00 to $300.00
+chop-ch0p: folds
+yourmytralala: folds
+Uncalled bet ($150.00) returned to el0el
+el0el collected $375.00 from pot
+el0el: doesn't show hand
+*** SUMMARY ***
+Total pot $375.00 | Rake $0.00
+Seat 1: el0el (button) collected ($375.00)
+Seat 2: chop-ch0p (small blind) folded before Flop
+Seat 3: yourmytralala (big blind) folded before Flop
+Seat 9: PAPILINDOYO folded before Flop (didn't bet)
+
+PokerStars Hand #1490822248:  Hold'em No Limit ($75.00/$150.00 USD) - 2022/12/19 13:17:06 ET
+Table 'WPN_7 Day No Rathole 75/150 NLH' 9-max Seat #2 is the button
+Seat 1: el0el ($9398.68 in chips)
+Seat 2: chop-ch0p ($8885.72 in chips)
+Seat 3: yourmytralala ($1978.75 in chips)
+Seat 9: PAPILINDOYO ($4119.39 in chips)
+yourmytralala: posts small blind $75.00
+PAPILINDOYO: posts big blind $150.00
+*** HOLE CARDS ***
+el0el: raises $150.00 to $300.00
+chop-ch0p: folds
+yourmytralala: raises $1678.75 to $1978.75 and is all-in
+PAPILINDOYO: folds
+el0el: calls $1678.75
+*** FIRST FLOP *** [6d Js 3h]
+*** FIRST TURN *** [6d Js 3h] [6s]
+*** FIRST RIVER *** [6d Js 3h 6s] [8c]
+*** SECOND FLOP *** [Ah 6h 7d]
+*** SECOND TURN *** [Ah 6h 7d] [5s]
+*** SECOND RIVER *** [Ah 6h 7d 5s] [Kd]
+*** FIRST SHOW DOWN ***
+el0el: shows [Ts Ac]
+yourmytralala: shows [Jd Qd]
+yourmytralala collected $2052.63 from pot
+*** SECOND SHOW DOWN ***
+el0el: shows [Ts Ac]
+yourmytralala: shows [Jd Qd]
+el0el collected $2052.62 from pot
+*** SUMMARY ***
+Total pot $4107.50 | Rake $2.25
+Hand was run twice
+FIRST Board [6d Js 3h 6s 8c]
+SECOND Board [Ah 6h 7d 5s Kd]
+Seat 1: el0el showed [Ts Ac] and lost, and won ($2052.62)
+Seat 2: chop-ch0p (button) folded before Flop (didn't bet)
+Seat 3: yourmytralala (small blind) showed [Jd Qd] and won ($2052.63), and lost
+Seat 9: PAPILINDOYO (big blind) folded before Flop
+
+PokerStars Hand #1490822423:  Hold'em No Limit ($75.00/$150.00 USD) - 2022/12/19 13:17:40 ET
+Table 'WPN_7 Day No Rathole 75/150 NLH' 9-max Seat #3 is the button
+Seat 1: el0el ($9472.55 in chips)
+Seat 2: chop-ch0p ($8885.72 in chips)
+Seat 3: yourmytralala ($2052.63 in chips)
+Seat 9: PAPILINDOYO ($3969.39 in chips)
+PAPILINDOYO: posts small blind $75.00
+el0el: posts big blind $150.00
+*** HOLE CARDS ***
+chop-ch0p: folds
+yourmytralala: folds
+PAPILINDOYO: raises $150.00 to $300.00
+el0el: calls $150.00
+*** FLOP *** [Ac 7c 5c]
+PAPILINDOYO: checks
+el0el: checks
+*** TURN *** [Ac 7c 5c] [3d]
+PAPILINDOYO: bets $300.00
+el0el: calls $300.00
+*** RIVER *** [Ac 7c 5c 3d] [8s]
+PAPILINDOYO: checks
+el0el: checks
+*** SHOW DOWN ***
+PAPILINDOYO: shows [4s As]
+el0el: mucks hand
+PAPILINDOYO collected $1197.75 from pot
+*** SUMMARY ***
+Total pot $1200.00 | Rake $2.25
+Board [Ac 7c 5c 3d 8s]
+Seat 1: el0el (big blind) mucked
+Seat 2: chop-ch0p folded before Flop (didn't bet)
+Seat 3: yourmytralala (button) folded before Flop (didn't bet)
+Seat 9: PAPILINDOYO (small blind) showed [4s As] and won ($1197.75)
+
+PokerStars Hand #1490822785:  Hold'em No Limit ($75.00/$150.00 USD) - 2022/12/19 13:18:49 ET
+Table 'WPN_7 Day No Rathole 75/150 NLH' 9-max Seat #9 is the button
+Seat 1: el0el ($8872.55 in chips)
+Seat 2: chop-ch0p ($8885.72 in chips)
+Seat 3: yourmytralala ($2052.63 in chips)
+Seat 9: PAPILINDOYO ($4567.14 in chips)
+el0el: posts small blind $75.00
+chop-ch0p: posts big blind $150.00
+*** HOLE CARDS ***
+yourmytralala: raises $150.00 to $300.00
+PAPILINDOYO: calls $300.00
+el0el: folds
+chop-ch0p: folds
+*** FLOP *** [4h Kd Ks]
+yourmytralala: checks
+PAPILINDOYO: checks
+*** TURN *** [4h Kd Ks] [2s]
+yourmytralala: checks
+PAPILINDOYO: checks
+*** RIVER *** [4h Kd Ks 2s] [Qh]
+yourmytralala: checks
+PAPILINDOYO: bets $206.25
+yourmytralala: calls $206.25
+*** SHOW DOWN ***
+PAPILINDOYO: shows [Qs Tc]
+yourmytralala: mucks hand
+PAPILINDOYO collected $1235.25 from pot
+*** SUMMARY ***
+Total pot $1237.50 | Rake $2.25
+Board [4h Kd Ks 2s Qh]
+Seat 1: el0el (small blind) folded before Flop
+Seat 2: chop-ch0p (big blind) folded before Flop
+Seat 3: yourmytralala mucked
+Seat 9: PAPILINDOYO (button) showed [Qs Tc] and won ($1235.25)
+
+PokerStars Hand #1490823098:  Hold'em No Limit ($75.00/$150.00 USD) - 2022/12/19 13:19:47 ET
+Table 'WPN_7 Day No Rathole 75/150 NLH' 9-max Seat #1 is the button
+Seat 1: el0el ($8797.55 in chips)
+Seat 2: chop-ch0p ($8735.72 in chips)
+Seat 3: yourmytralala ($1546.38 in chips)
+Seat 9: PAPILINDOYO ($5296.14 in chips)
+chop-ch0p: posts small blind $75.00
+yourmytralala: posts big blind $150.00
+*** HOLE CARDS ***
+PAPILINDOYO: folds
+el0el: folds
+chop-ch0p: raises $8585.72 to $8735.72 and is all-in
+yourmytralala: folds
+Uncalled bet ($8585.72) returned to chop-ch0p
+chop-ch0p collected $300.00 from pot
+chop-ch0p: doesn't show hand
+*** SUMMARY ***
+Total pot $300.00 | Rake $0.00
+Seat 1: el0el (button) folded before Flop (didn't bet)
+Seat 2: chop-ch0p (small blind) collected ($300.00)
+Seat 3: yourmytralala (big blind) folded before Flop
+Seat 9: PAPILINDOYO folded before Flop (didn't bet)
+
+PokerStars Hand #1490823222:  Hold'em No Limit ($75.00/$150.00 USD) - 2022/12/19 13:20:10 ET
+Table 'WPN_7 Day No Rathole 75/150 NLH' 9-max Seat #2 is the button
+Seat 1: el0el ($8797.55 in chips)
+Seat 2: chop-ch0p ($8885.72 in chips)
+Seat 3: yourmytralala ($1396.38 in chips)
+Seat 9: PAPILINDOYO ($5296.14 in chips)
+yourmytralala: posts small blind $75.00
+PAPILINDOYO: posts big blind $150.00
+*** HOLE CARDS ***
+el0el: folds
+chop-ch0p: folds
+yourmytralala: raises $1350.00 to $1500.00 and is all-in
+PAPILINDOYO: folds
+Uncalled bet ($1350.00) returned to yourmytralala
+yourmytralala collected $300.00 from pot
+yourmytralala: doesn't show hand
+*** SUMMARY ***
+Total pot $300.00 | Rake $0.00
+Seat 1: el0el folded before Flop (didn't bet)
+Seat 2: chop-ch0p (button) folded before Flop (didn't bet)
+Seat 3: yourmytralala (small blind) collected ($300.00)
+Seat 9: PAPILINDOYO (big blind) folded before Flop
+
+PokerStars Hand #1490823322:  Hold'em No Limit ($75.00/$150.00 USD) - 2022/12/19 13:20:28 ET
+Table 'WPN_7 Day No Rathole 75/150 NLH' 9-max Seat #3 is the button
+Seat 1: el0el ($8797.55 in chips)
+Seat 2: chop-ch0p ($8885.72 in chips)
+Seat 3: yourmytralala ($1650.00 in chips)
+Seat 9: PAPILINDOYO ($5146.14 in chips)
+PAPILINDOYO: posts small blind $75.00
+el0el: posts big blind $150.00
+*** HOLE CARDS ***
+chop-ch0p: folds
+yourmytralala: folds
+PAPILINDOYO: folds
+Uncalled bet ($75.00) returned to el0el
+el0el collected $150.00 from pot
+el0el: doesn't show hand
+*** SUMMARY ***
+Total pot $150.00 | Rake $0.00
+Seat 1: el0el (big blind) collected ($150.00)
+Seat 2: chop-ch0p folded before Flop (didn't bet)
+Seat 3: yourmytralala (button) folded before Flop (didn't bet)
+Seat 9: PAPILINDOYO (small blind) folded before Flop
+
+PokerStars Hand #1490823366:  Hold'em No Limit ($75.00/$150.00 USD) - 2022/12/19 13:20:38 ET
+Table 'WPN_7 Day No Rathole 75/150 NLH' 9-max Seat #9 is the button
+Seat 1: el0el ($8872.55 in chips)
+Seat 2: chop-ch0p ($8885.72 in chips)
+Seat 3: yourmytralala ($1650.00 in chips)
+Seat 9: PAPILINDOYO ($5071.14 in chips)
+el0el: posts small blind $75.00
+chop-ch0p: posts big blind $150.00
+*** HOLE CARDS ***
+yourmytralala: raises $1500.00 to $1650.00 and is all-in
+PAPILINDOYO: folds
+el0el: folds
+chop-ch0p: folds
+Uncalled bet ($1500.00) returned to yourmytralala
+yourmytralala collected $375.00 from pot
+yourmytralala: doesn't show hand
+*** SUMMARY ***
+Total pot $375.00 | Rake $0.00
+Seat 1: el0el (small blind) folded before Flop
+Seat 2: chop-ch0p (big blind) folded before Flop
+Seat 3: yourmytralala collected ($375.00)
+Seat 9: PAPILINDOYO (button) folded before Flop (didn't bet)
+
+PokerStars Hand #1490823496:  Hold'em No Limit ($75.00/$150.00 USD) - 2022/12/19 13:20:58 ET
+Table 'WPN_7 Day No Rathole 75/150 NLH' 9-max Seat #1 is the button
+Seat 1: el0el ($8797.55 in chips)
+Seat 2: chop-ch0p ($8735.72 in chips)
+Seat 3: yourmytralala ($1875.00 in chips)
+Seat 9: PAPILINDOYO ($5071.14 in chips)
+chop-ch0p: posts small blind $75.00
+yourmytralala: posts big blind $150.00
+*** HOLE CARDS ***
+PAPILINDOYO: folds
+el0el: folds
+chop-ch0p: raises $8585.72 to $8735.72 and is all-in
+yourmytralala: calls $1725.00 and is all-in
+Uncalled bet ($6860.72) returned to chop-ch0p
+*** FIRST FLOP *** [4d 2d Td]
+*** FIRST TURN *** [4d 2d Td] [5c]
+*** FIRST RIVER *** [4d 2d Td 5c] [8h]
+*** SECOND FLOP *** [7h Th 2s]
+*** SECOND TURN *** [7h Th 2s] [Jh]
+*** SECOND RIVER *** [7h Th 2s Jh] [8s]
+*** FIRST SHOW DOWN ***
+chop-ch0p: shows [Ah 8c]
+yourmytralala: shows [As 9h]
+chop-ch0p collected $1873.88 from pot
+*** SECOND SHOW DOWN ***
+chop-ch0p: shows [Ah 8c]
+yourmytralala: shows [As 9h]
+yourmytralala collected $1873.87 from pot
+*** SUMMARY ***
+Total pot $3750.00 | Rake $2.25
+Hand was run twice
+FIRST Board [4d 2d Td 5c 8h]
+SECOND Board [7h Th 2s Jh 8s]
+Seat 1: el0el (button) folded before Flop (didn't bet)
+Seat 2: chop-ch0p (small blind) showed [Ah 8c] and won ($1873.88), and lost
+Seat 3: yourmytralala (big blind) showed [As 9h] and lost, and won ($1873.87)
+Seat 9: PAPILINDOYO folded before Flop (didn't bet)
+
+PokerStars Hand #1490823681:  Hold'em No Limit ($75.00/$150.00 USD) - 2022/12/19 13:21:35 ET
+Table 'WPN_7 Day No Rathole 75/150 NLH' 9-max Seat #2 is the button
+Seat 1: el0el ($8797.55 in chips)
+Seat 2: chop-ch0p ($8734.60 in chips)
+Seat 3: yourmytralala ($1873.87 in chips)
+Seat 9: PAPILINDOYO ($5071.14 in chips)
+yourmytralala: posts small blind $75.00
+PAPILINDOYO: posts big blind $150.00
+*** HOLE CARDS ***
+el0el: raises $150.00 to $300.00
+chop-ch0p: folds
+yourmytralala: folds
+PAPILINDOYO: folds
+Uncalled bet ($150.00) returned to el0el
+el0el collected $375.00 from pot
+el0el: doesn't show hand
+*** SUMMARY ***
+Total pot $375.00 | Rake $0.00
+Seat 1: el0el collected ($375.00)
+Seat 2: chop-ch0p (button) folded before Flop (didn't bet)
+Seat 3: yourmytralala (small blind) folded before Flop
+Seat 9: PAPILINDOYO (big blind) folded before Flop
+
+PokerStars Hand #1490823769:  Hold'em No Limit ($75.00/$150.00 USD) - 2022/12/19 13:21:50 ET
+Table 'WPN_7 Day No Rathole 75/150 NLH' 9-max Seat #3 is the button
+Seat 1: el0el ($9022.55 in chips)
+Seat 2: chop-ch0p ($8734.60 in chips)
+Seat 3: yourmytralala ($1798.87 in chips)
+Seat 9: PAPILINDOYO ($4921.14 in chips)
+PAPILINDOYO: posts small blind $75.00
+el0el: posts big blind $150.00
+*** HOLE CARDS ***
+chop-ch0p: folds
+yourmytralala: folds
+PAPILINDOYO: folds
+Uncalled bet ($75.00) returned to el0el
+el0el collected $150.00 from pot
+el0el: doesn't show hand
+*** SUMMARY ***
+Total pot $150.00 | Rake $0.00
+Seat 1: el0el (big blind) collected ($150.00)
+Seat 2: chop-ch0p folded before Flop (didn't bet)
+Seat 3: yourmytralala (button) folded before Flop (didn't bet)
+Seat 9: PAPILINDOYO (small blind) folded before Flop
+
+PokerStars Hand #1490823874:  Hold'em No Limit ($75.00/$150.00 USD) - 2022/12/19 13:22:07 ET
+Table 'WPN_7 Day No Rathole 75/150 NLH' 9-max Seat #9 is the button
+Seat 1: el0el ($9097.55 in chips)
+Seat 2: chop-ch0p ($8734.60 in chips)
+Seat 3: yourmytralala ($1798.87 in chips)
+Seat 9: PAPILINDOYO ($4846.14 in chips)
+el0el: posts small blind $75.00
+chop-ch0p: posts big blind $150.00
+*** HOLE CARDS ***
+yourmytralala: folds
+PAPILINDOYO: folds
+el0el: raises $300.00 to $450.00
+chop-ch0p: folds
+Uncalled bet ($300.00) returned to el0el
+el0el collected $300.00 from pot
+el0el: doesn't show hand
+*** SUMMARY ***
+Total pot $300.00 | Rake $0.00
+Seat 1: el0el (small blind) collected ($300.00)
+Seat 2: chop-ch0p (big blind) folded before Flop
+Seat 3: yourmytralala folded before Flop (didn't bet)
+Seat 9: PAPILINDOYO (button) folded before Flop (didn't bet)
+
+PokerStars Hand #1490824024:  Hold'em No Limit ($75.00/$150.00 USD) - 2022/12/19 13:22:36 ET
+Table 'WPN_7 Day No Rathole 75/150 NLH' 9-max Seat #1 is the button
+Seat 1: el0el ($9247.55 in chips)
+Seat 2: chop-ch0p ($8584.60 in chips)
+Seat 3: yourmytralala ($1798.87 in chips)
+Seat 4: acrbotv10a ($2922.75 in chips)
+Seat 9: PAPILINDOYO ($4846.14 in chips)
+chop-ch0p: posts small blind $75.00
+yourmytralala: posts big blind $150.00
+*** HOLE CARDS ***
+PAPILINDOYO: raises $150.00 to $300.00
+el0el: calls $300.00
+chop-ch0p: folds
+yourmytralala: raises $1498.87 to $1798.87 and is all-in
+PAPILINDOYO: raises $3047.27 to $4846.14 and is all-in
+el0el: folds
+Uncalled bet ($3047.27) returned to PAPILINDOYO
+*** FIRST FLOP *** [6h 8c 9h]
+*** FIRST TURN *** [6h 8c 9h] [Kd]
+*** FIRST RIVER *** [6h 8c 9h Kd] [Qd]
+*** SECOND FLOP *** [Tc 4d 6s]
+*** SECOND TURN *** [Tc 4d 6s] [4s]
+*** SECOND RIVER *** [Tc 4d 6s 4s] [Jh]
+*** FIRST SHOW DOWN ***
+PAPILINDOYO: shows [Ac Kh]
+yourmytralala: shows [9d As]
+PAPILINDOYO collected $1985.25 from pot
+*** SECOND SHOW DOWN ***
+PAPILINDOYO: shows [Ac Kh]
+yourmytralala: shows [9d As]
+PAPILINDOYO collected $1985.24 from pot
+*** SUMMARY ***
+Total pot $3972.74 | Rake $2.25
+Hand was run twice
+FIRST Board [6h 8c 9h Kd Qd]
+SECOND Board [Tc 4d 6s 4s Jh]
+Seat 1: el0el (button) folded before Flop
+Seat 2: chop-ch0p (small blind) folded before Flop
+Seat 3: yourmytralala (big blind) showed [9d As] and lost, and lost
+Seat 4: acrbotv10a and lost, and lost
+Seat 9: PAPILINDOYO showed [Ac Kh] and won ($1985.25), and won ($1985.24)
+
+PokerStars Hand #1490824228:  Hold'em No Limit ($75.00/$150.00 USD) - 2022/12/19 13:23:15 ET
+Table 'WPN_7 Day No Rathole 75/150 NLH' 9-max Seat #2 is the button
+Seat 1: el0el ($8947.55 in chips)
+Seat 2: chop-ch0p ($8509.60 in chips)
+Seat 3: yourmytralala ($1500.00 in chips)
+Seat 4: acrbotv10a ($2922.75 in chips)
+Seat 9: PAPILINDOYO ($7017.76 in chips)
+yourmytralala: posts small blind $75.00
+acrbotv10a: posts big blind $150.00
+*** HOLE CARDS ***
+PAPILINDOYO: folds
+el0el: folds
+chop-ch0p: folds
+yourmytralala: folds
+Uncalled bet ($75.00) returned to acrbotv10a
+acrbotv10a collected $150.00 from pot
+acrbotv10a: doesn't show hand
+*** SUMMARY ***
+Total pot $150.00 | Rake $0.00
+Seat 1: el0el folded before Flop (didn't bet)
+Seat 2: chop-ch0p (button) folded before Flop (didn't bet)
+Seat 3: yourmytralala (small blind) folded before Flop
+Seat 4: acrbotv10a (big blind) collected ($150.00)
+Seat 9: PAPILINDOYO folded before Flop (didn't bet)
+
+PokerStars Hand #1490824341:  Hold'em No Limit ($75.00/$150.00 USD) - 2022/12/19 13:23:36 ET
+Table 'WPN_7 Day No Rathole 75/150 NLH' 9-max Seat #3 is the button
+Seat 1: el0el ($8947.55 in chips)
+Seat 2: chop-ch0p ($8509.60 in chips)
+Seat 3: yourmytralala ($1425.00 in chips)
+Seat 4: acrbotv10a ($2997.75 in chips)
+Seat 9: PAPILINDOYO ($7017.76 in chips)
+acrbotv10a: posts small blind $75.00
+PAPILINDOYO: posts big blind $150.00
+*** HOLE CARDS ***
+el0el: folds
+chop-ch0p: folds
+yourmytralala: raises $1350.00 to $1500.00 and is all-in
+acrbotv10a: folds
+PAPILINDOYO: calls $1350.00
+*** FIRST FLOP *** [Ts 8s 4s]
+*** FIRST TURN *** [Ts 8s 4s] [Td]
+*** FIRST RIVER *** [Ts 8s 4s Td] [Jc]
+*** SECOND FLOP *** [9s Tc Ad]
+*** SECOND TURN *** [9s Tc Ad] [8c]
+*** SECOND RIVER *** [9s Tc Ad 8c] [3s]
+*** FIRST SHOW DOWN ***
+PAPILINDOYO: shows [Qd Jd]
+yourmytralala: shows [Ah 3c]
+PAPILINDOYO collected $1536.00 from pot
+*** SECOND SHOW DOWN ***
+PAPILINDOYO: shows [Qd Jd]
+yourmytralala: shows [Ah 3c]
+PAPILINDOYO collected $1536.00 from pot
+*** SUMMARY ***
+Total pot $3075.00 | Rake $3.00
+Hand was run twice
+FIRST Board [Ts 8s 4s Td Jc]
+SECOND Board [9s Tc Ad 8c 3s]
+Seat 1: el0el folded before Flop (didn't bet)
+Seat 2: chop-ch0p folded before Flop (didn't bet)
+Seat 3: yourmytralala (button) showed [Ah 3c] and lost, and lost
+Seat 4: acrbotv10a (small blind) folded before Flop
+Seat 9: PAPILINDOYO (big blind) showed [Qd Jd] and won ($1536.00), and won ($1536.00)
+
+PokerStars Hand #1490824545:  Hold'em No Limit ($75.00/$150.00 USD) - 2022/12/19 13:24:16 ET
+Table 'WPN_7 Day No Rathole 75/150 NLH' 9-max Seat #4 is the button
+Seat 1: el0el ($8947.55 in chips)
+Seat 2: chop-ch0p ($8509.60 in chips)
+Seat 3: yourmytralala ($1500.00 in chips)
+Seat 4: acrbotv10a ($2922.75 in chips)
+Seat 9: PAPILINDOYO ($8589.76 in chips)
+PAPILINDOYO: posts small blind $75.00
+el0el: posts big blind $150.00
+*** HOLE CARDS ***
+chop-ch0p: folds
+yourmytralala: raises $1350.00 to $1500.00 and is all-in
+acrbotv10a: folds
+PAPILINDOYO: folds
+el0el: folds
+Uncalled bet ($1350.00) returned to yourmytralala
+yourmytralala collected $375.00 from pot
+yourmytralala: doesn't show hand
+*** SUMMARY ***
+Total pot $375.00 | Rake $0.00
+Seat 1: el0el (big blind) folded before Flop
+Seat 2: chop-ch0p folded before Flop (didn't bet)
+Seat 3: yourmytralala collected ($375.00)
+Seat 4: acrbotv10a (button) folded before Flop (didn't bet)
+Seat 9: PAPILINDOYO (small blind) folded before Flop
+
+PokerStars Hand #1490824649:  Hold'em No Limit ($75.00/$150.00 USD) - 2022/12/19 13:24:37 ET
+Table 'WPN_7 Day No Rathole 75/150 NLH' 9-max Seat #9 is the button
+Seat 1: el0el ($8797.55 in chips)
+Seat 2: chop-ch0p ($8509.60 in chips)
+Seat 3: yourmytralala ($1725.00 in chips)
+Seat 4: acrbotv10a ($2922.75 in chips)
+Seat 9: PAPILINDOYO ($8514.76 in chips)
+el0el: posts small blind $75.00
+chop-ch0p: posts big blind $150.00
+*** HOLE CARDS ***
+yourmytralala: folds
+acrbotv10a: folds
+PAPILINDOYO: folds
+el0el: folds
+Uncalled bet ($75.00) returned to chop-ch0p
+chop-ch0p collected $150.00 from pot
+chop-ch0p: doesn't show hand
+*** SUMMARY ***
+Total pot $150.00 | Rake $0.00
+Seat 1: el0el (small blind) folded before Flop
+Seat 2: chop-ch0p (big blind) collected ($150.00)
+Seat 3: yourmytralala folded before Flop (didn't bet)
+Seat 4: acrbotv10a folded before Flop (didn't bet)
+Seat 9: PAPILINDOYO (button) folded before Flop (didn't bet)
+
+PokerStars Hand #1490824718:  Hold'em No Limit ($75.00/$150.00 USD) - 2022/12/19 13:24:50 ET
+Table 'WPN_7 Day No Rathole 75/150 NLH' 9-max Seat #1 is the button
+Seat 1: el0el ($8722.55 in chips)
+Seat 2: chop-ch0p ($8584.60 in chips)
+Seat 3: yourmytralala ($1725.00 in chips)
+Seat 4: acrbotv10a ($2922.75 in chips)
+Seat 9: PAPILINDOYO ($8514.76 in chips)
+chop-ch0p: posts small blind $75.00
+yourmytralala: posts big blind $150.00
+*** HOLE CARDS ***
+acrbotv10a: folds
+PAPILINDOYO: folds
+el0el: raises $150.00 to $300.00
+chop-ch0p: raises $900.00 to $1200.00
+yourmytralala: folds
+el0el: calls $900.00
+*** FLOP *** [Qs 9h 7d]
+chop-ch0p: checks
+el0el: bets $841.50
+chop-ch0p: calls $841.50
+*** TURN *** [Qs 9h 7d] [9c]
+chop-ch0p: checks
+el0el: checks
+*** RIVER *** [Qs 9h 7d 9c] [Kd]
+chop-ch0p: checks
+el0el: bets $1396.89
+chop-ch0p: folds
+Uncalled bet ($1396.89) returned to el0el
+el0el collected $4230.00 from pot
+el0el: doesn't show hand
+*** SUMMARY ***
+Total pot $4233.00 | Rake $3.00
+Board [Qs 9h 7d 9c Kd]
+Seat 1: el0el (button) collected ($4230.00)
+Seat 2: chop-ch0p (small blind) folded on the River
+Seat 3: yourmytralala (big blind) folded before Flop
+Seat 4: acrbotv10a folded before Flop (didn't bet)
+Seat 9: PAPILINDOYO folded before Flop (didn't bet)
+
+PokerStars Hand #1490825420:  Hold'em No Limit ($75.00/$150.00 USD) - 2022/12/19 13:27:01 ET
+Table 'WPN_7 Day No Rathole 75/150 NLH' 9-max Seat #2 is the button
+Seat 1: el0el ($10911.05 in chips)
+Seat 2: chop-ch0p ($6543.10 in chips)
+Seat 3: yourmytralala ($1575.00 in chips)
+Seat 4: acrbotv10a ($2922.75 in chips)
+Seat 9: PAPILINDOYO ($8514.76 in chips)
+yourmytralala: posts small blind $75.00
+acrbotv10a: posts big blind $150.00
+*** HOLE CARDS ***
+PAPILINDOYO: folds
+el0el: folds
+chop-ch0p: folds
+yourmytralala: folds
+Uncalled bet ($75.00) returned to acrbotv10a
+acrbotv10a collected $150.00 from pot
+acrbotv10a: doesn't show hand
+*** SUMMARY ***
+Total pot $150.00 | Rake $0.00
+Seat 1: el0el folded before Flop (didn't bet)
+Seat 2: chop-ch0p (button) folded before Flop (didn't bet)
+Seat 3: yourmytralala (small blind) folded before Flop
+Seat 4: acrbotv10a (big blind) collected ($150.00)
+Seat 9: PAPILINDOYO folded before Flop (didn't bet)
+
+PokerStars Hand #1490825468:  Hold'em No Limit ($75.00/$150.00 USD) - 2022/12/19 13:27:10 ET
+Table 'WPN_7 Day No Rathole 75/150 NLH' 9-max Seat #3 is the button
+Seat 1: el0el ($10911.05 in chips)
+Seat 2: chop-ch0p ($6543.10 in chips)
+Seat 3: yourmytralala ($1500.00 in chips)
+Seat 4: acrbotv10a ($2997.75 in chips)
+Seat 9: PAPILINDOYO ($8514.76 in chips)
+acrbotv10a: posts small blind $75.00
+PAPILINDOYO: posts big blind $150.00
+*** HOLE CARDS ***
+el0el: folds
+chop-ch0p: raises $150.00 to $300.00
+yourmytralala: folds
+acrbotv10a: raises $2697.75 to $2997.75 and is all-in
+PAPILINDOYO: folds
+chop-ch0p: calls $2697.75
+*** FIRST FLOP *** [4c 2c 3d]
+*** FIRST TURN *** [4c 2c 3d] [5s]
+*** FIRST RIVER *** [4c 2c 3d 5s] [Jd]
+*** SECOND FLOP *** [Ks 6s 3c]
+*** SECOND TURN *** [Ks 6s 3c] [Kd]
+*** SECOND RIVER *** [Ks 6s 3c Kd] [Qc]
+*** FIRST SHOW DOWN ***
+chop-ch0p: shows [7s 7h]
+acrbotv10a: shows [4h 4s]
+acrbotv10a collected $3071.25 from pot
+*** SECOND SHOW DOWN ***
+chop-ch0p: shows [7s 7h]
+acrbotv10a: shows [4h 4s]
+chop-ch0p collected $3071.25 from pot
+*** SUMMARY ***
+Total pot $6145.50 | Rake $3.00
+Hand was run twice
+FIRST Board [4c 2c 3d 5s Jd]
+SECOND Board [Ks 6s 3c Kd Qc]
+Seat 1: el0el folded before Flop (didn't bet)
+Seat 2: chop-ch0p showed [7s 7h] and lost, and won ($3071.25)
+Seat 3: yourmytralala (button) folded before Flop (didn't bet)
+Seat 4: acrbotv10a (small blind) showed [4h 4s] and won ($3071.25), and lost
+Seat 9: PAPILINDOYO (big blind) folded before Flop
+
+PokerStars Hand #1490825724:  Hold'em No Limit ($75.00/$150.00 USD) - 2022/12/19 13:27:58 ET
+Table 'WPN_7 Day No Rathole 75/150 NLH' 9-max Seat #4 is the button
+Seat 1: el0el ($10911.05 in chips)
+Seat 2: chop-ch0p ($6616.60 in chips)
+Seat 3: yourmytralala ($1500.00 in chips)
+Seat 4: acrbotv10a ($3071.25 in chips)
+Seat 9: PAPILINDOYO ($8364.76 in chips)
+PAPILINDOYO: posts small blind $75.00
+el0el: posts big blind $150.00
+*** HOLE CARDS ***
+chop-ch0p: raises $150.00 to $300.00
+yourmytralala: folds
+acrbotv10a: folds
+PAPILINDOYO: folds
+el0el: folds
+Uncalled bet ($150.00) returned to chop-ch0p
+chop-ch0p collected $375.00 from pot
+chop-ch0p: doesn't show hand
+*** SUMMARY ***
+Total pot $375.00 | Rake $0.00
+Seat 1: el0el (big blind) folded before Flop
+Seat 2: chop-ch0p collected ($375.00)
+Seat 3: yourmytralala folded before Flop (didn't bet)
+Seat 4: acrbotv10a (button) folded before Flop (didn't bet)
+Seat 9: PAPILINDOYO (small blind) folded before Flop
+
+PokerStars Hand #1490825861:  Hold'em No Limit ($75.00/$150.00 USD) - 2022/12/19 13:28:24 ET
+Table 'WPN_7 Day No Rathole 75/150 NLH' 9-max Seat #9 is the button
+Seat 1: el0el ($10761.05 in chips)
+Seat 2: chop-ch0p ($6841.60 in chips)
+Seat 3: yourmytralala ($1500.00 in chips)
+Seat 4: acrbotv10a ($3071.25 in chips)
+Seat 9: PAPILINDOYO ($8289.76 in chips)
+el0el: posts small blind $75.00
+chop-ch0p: posts big blind $150.00
+*** HOLE CARDS ***
+yourmytralala: folds
+acrbotv10a: folds
+PAPILINDOYO: raises $150.00 to $300.00
+el0el: raises $750.00 to $1050.00
+chop-ch0p: folds
+PAPILINDOYO: calls $750.00
+*** FLOP *** [Jd Td 2s]
+el0el: bets $1125.00
+PAPILINDOYO: calls $1125.00
+*** TURN *** [Jd Td 2s] [2h]
+el0el: bets $6300.00
+PAPILINDOYO: folds
+Uncalled bet ($6300.00) returned to el0el
+el0el collected $4497.00 from pot
+el0el: doesn't show hand
+*** SUMMARY ***
+Total pot $4500.00 | Rake $3.00
+Board [Jd Td 2s 2h]
+Seat 1: el0el (small blind) collected ($4497.00)
+Seat 2: chop-ch0p (big blind) folded before Flop
+Seat 3: yourmytralala folded before Flop (didn't bet)
+Seat 4: acrbotv10a folded before Flop (didn't bet)
+Seat 9: PAPILINDOYO (button) folded on the Turn
+
+PokerStars Hand #1490826105:  Hold'em No Limit ($75.00/$150.00 USD) - 2022/12/19 13:29:12 ET
+Table 'WPN_7 Day No Rathole 75/150 NLH' 9-max Seat #1 is the button
+Seat 1: el0el ($13083.05 in chips)
+Seat 2: chop-ch0p ($6691.60 in chips)
+Seat 3: yourmytralala ($1500.00 in chips)
+Seat 4: acrbotv10a ($3071.25 in chips)
+Seat 9: PAPILINDOYO ($6114.76 in chips)
+chop-ch0p: posts small blind $75.00
+yourmytralala: posts big blind $150.00
+*** HOLE CARDS ***
+acrbotv10a: raises $150.00 to $300.00
+PAPILINDOYO: folds
+el0el: folds
+chop-ch0p: folds
+yourmytralala: folds
+Uncalled bet ($150.00) returned to acrbotv10a
+acrbotv10a collected $375.00 from pot
+acrbotv10a: doesn't show hand
+*** SUMMARY ***
+Total pot $375.00 | Rake $0.00
+Seat 1: el0el (button) folded before Flop (didn't bet)
+Seat 2: chop-ch0p (small blind) folded before Flop
+Seat 3: yourmytralala (big blind) folded before Flop
+Seat 4: acrbotv10a collected ($375.00)
+Seat 9: PAPILINDOYO folded before Flop (didn't bet)
+
+PokerStars Hand #1490826212:  Hold'em No Limit ($75.00/$150.00 USD) - 2022/12/19 13:29:33 ET
+Table 'WPN_7 Day No Rathole 75/150 NLH' 9-max Seat #2 is the button
+Seat 1: el0el ($13083.05 in chips)
+Seat 2: chop-ch0p ($6616.60 in chips)
+Seat 3: yourmytralala ($1350.00 in chips)
+Seat 4: acrbotv10a ($3296.25 in chips)
+Seat 9: PAPILINDOYO ($6114.76 in chips)
+yourmytralala: posts small blind $75.00
+acrbotv10a: posts big blind $150.00
+*** HOLE CARDS ***
+PAPILINDOYO: raises $150.00 to $300.00
+el0el: folds
+chop-ch0p: raises $675.00 to $975.00
+yourmytralala: raises $525.00 to $1500.00 and is all-in
+acrbotv10a: folds
+PAPILINDOYO: folds
+chop-ch0p: calls $525.00
+*** FIRST FLOP *** [9d 5c Kc]
+*** FIRST TURN *** [9d 5c Kc] [9s]
+*** FIRST RIVER *** [9d 5c Kc 9s] [5h]
+*** SECOND FLOP *** [2s 3c 3d]
+*** SECOND TURN *** [2s 3c 3d] [6d]
+*** SECOND RIVER *** [2s 3c 3d 6d] [3s]
+*** FIRST SHOW DOWN ***
+chop-ch0p: shows [Qc Qh]
+yourmytralala: shows [Ad Jh]
+chop-ch0p collected $1723.50 from pot
+*** SECOND SHOW DOWN ***
+chop-ch0p: shows [Qc Qh]
+yourmytralala: shows [Ad Jh]
+chop-ch0p collected $1723.50 from pot
+*** SUMMARY ***
+Total pot $3450.00 | Rake $3.00
+Hand was run twice
+FIRST Board [9d 5c Kc 9s 5h]
+SECOND Board [2s 3c 3d 6d 3s]
+Seat 1: el0el folded before Flop (didn't bet)
+Seat 2: chop-ch0p (button) showed [Qc Qh] and won ($1723.50), and won ($1723.50)
+Seat 3: yourmytralala (small blind) showed [Ad Jh] and lost, and lost
+Seat 4: acrbotv10a (big blind) folded before Flop
+Seat 9: PAPILINDOYO folded before Flop
+
+PokerStars Hand #1490826522:  Hold'em No Limit ($75.00/$150.00 USD) - 2022/12/19 13:30:30 ET
+Table 'WPN_7 Day No Rathole 75/150 NLH' 9-max Seat #3 is the button
+Seat 1: el0el ($13083.05 in chips)
+Seat 2: chop-ch0p ($8563.60 in chips)
+Seat 3: yourmytralala ($1500.00 in chips)
+Seat 4: acrbotv10a ($3146.25 in chips)
+Seat 9: PAPILINDOYO ($5814.76 in chips)
+acrbotv10a: posts small blind $75.00
+PAPILINDOYO: posts big blind $150.00
+*** HOLE CARDS ***
+el0el: folds
+chop-ch0p: folds
+yourmytralala: raises $1350.00 to $1500.00 and is all-in
+acrbotv10a: folds
+PAPILINDOYO: folds
+Uncalled bet ($1350.00) returned to yourmytralala
+yourmytralala collected $375.00 from pot
+yourmytralala: doesn't show hand
+*** SUMMARY ***
+Total pot $375.00 | Rake $0.00
+Seat 1: el0el folded before Flop (didn't bet)
+Seat 2: chop-ch0p folded before Flop (didn't bet)
+Seat 3: yourmytralala (button) collected ($375.00)
+Seat 4: acrbotv10a (small blind) folded before Flop
+Seat 9: PAPILINDOYO (big blind) folded before Flop
+
+PokerStars Hand #1490826657:  Hold'em No Limit ($75.00/$150.00 USD) - 2022/12/19 13:30:58 ET
+Table 'WPN_7 Day No Rathole 75/150 NLH' 9-max Seat #4 is the button
+Seat 2: chop-ch0p ($8563.60 in chips)
+Seat 3: yourmytralala ($1725.00 in chips)
+Seat 4: acrbotv10a ($3071.25 in chips)
+Seat 9: PAPILINDOYO ($5664.76 in chips)
+PAPILINDOYO: posts small blind $75.00
+chop-ch0p: posts big blind $150.00
+*** HOLE CARDS ***
+yourmytralala: folds
+acrbotv10a: raises $150.00 to $300.00
+PAPILINDOYO: raises $5364.76 to $5664.76 and is all-in
+chop-ch0p: folds
+acrbotv10a: folds
+Uncalled bet ($5364.76) returned to PAPILINDOYO
+PAPILINDOYO collected $750.00 from pot
+PAPILINDOYO: doesn't show hand
+*** SUMMARY ***
+Total pot $750.00 | Rake $0.00
+Seat 2: chop-ch0p (big blind) folded before Flop
+Seat 3: yourmytralala folded before Flop (didn't bet)
+Seat 4: acrbotv10a (button) folded before Flop
+Seat 9: PAPILINDOYO (small blind) collected ($750.00)
+
+PokerStars Hand #1490826756:  Hold'em No Limit ($75.00/$150.00 USD) - 2022/12/19 13:31:15 ET
+Table 'WPN_7 Day No Rathole 75/150 NLH' 9-max Seat #9 is the button
+Seat 2: chop-ch0p ($8413.60 in chips)
+Seat 3: yourmytralala ($1725.00 in chips)
+Seat 4: acrbotv10a ($2771.25 in chips)
+Seat 9: PAPILINDOYO ($6114.76 in chips)
+chop-ch0p: posts small blind $75.00
+yourmytralala: posts big blind $150.00
+*** HOLE CARDS ***
+acrbotv10a: folds
+PAPILINDOYO: folds
+chop-ch0p: raises $8263.60 to $8413.60 and is all-in
+yourmytralala: folds
+Uncalled bet ($8263.60) returned to chop-ch0p
+chop-ch0p collected $300.00 from pot
+chop-ch0p: doesn't show hand
+*** SUMMARY ***
+Total pot $300.00 | Rake $0.00
+Seat 2: chop-ch0p (small blind) collected ($300.00)
+Seat 3: yourmytralala (big blind) folded before Flop
+Seat 4: acrbotv10a folded before Flop (didn't bet)
+Seat 9: PAPILINDOYO (button) folded before Flop (didn't bet)
+
+PokerStars Hand #1490826853:  Hold'em No Limit ($75.00/$150.00 USD) - 2022/12/19 13:31:33 ET
+Table 'WPN_7 Day No Rathole 75/150 NLH' 9-max Seat #2 is the button
+Seat 2: chop-ch0p ($8563.60 in chips)
+Seat 3: yourmytralala ($1575.00 in chips)
+Seat 4: acrbotv10a ($2771.25 in chips)
+Seat 9: PAPILINDOYO ($6114.76 in chips)
+yourmytralala: posts small blind $75.00
+acrbotv10a: posts big blind $150.00
+*** HOLE CARDS ***
+PAPILINDOYO: folds
+chop-ch0p: folds
+yourmytralala: folds
+Uncalled bet ($75.00) returned to acrbotv10a
+acrbotv10a collected $150.00 from pot
+acrbotv10a: doesn't show hand
+*** SUMMARY ***
+Total pot $150.00 | Rake $0.00
+Seat 2: chop-ch0p (button) folded before Flop (didn't bet)
+Seat 3: yourmytralala (small blind) folded before Flop
+Seat 4: acrbotv10a (big blind) collected ($150.00)
+Seat 9: PAPILINDOYO folded before Flop (didn't bet)
+
+PokerStars Hand #1490826968:  Hold'em No Limit ($75.00/$150.00 USD) - 2022/12/19 13:31:51 ET
+Table 'WPN_7 Day No Rathole 75/150 NLH' 9-max Seat #3 is the button
+Seat 2: chop-ch0p ($8563.60 in chips)
+Seat 3: yourmytralala ($1500.00 in chips)
+Seat 4: acrbotv10a ($2846.25 in chips)
+Seat 9: PAPILINDOYO ($6114.76 in chips)
+acrbotv10a: posts small blind $75.00
+PAPILINDOYO: posts big blind $150.00
+*** HOLE CARDS ***
+chop-ch0p: folds
+yourmytralala: folds
+acrbotv10a: folds
+Uncalled bet ($75.00) returned to PAPILINDOYO
+PAPILINDOYO collected $150.00 from pot
+PAPILINDOYO: doesn't show hand
+*** SUMMARY ***
+Total pot $150.00 | Rake $0.00
+Seat 2: chop-ch0p folded before Flop (didn't bet)
+Seat 3: yourmytralala (button) folded before Flop (didn't bet)
+Seat 4: acrbotv10a (small blind) folded before Flop
+Seat 9: PAPILINDOYO (big blind) collected ($150.00)
+
+PokerStars Hand #1490827062:  Hold'em No Limit ($75.00/$150.00 USD) - 2022/12/19 13:32:10 ET
+Table 'WPN_7 Day No Rathole 75/150 NLH' 9-max Seat #4 is the button
+Seat 2: chop-ch0p ($8563.60 in chips)
+Seat 3: yourmytralala ($1500.00 in chips)
+Seat 4: acrbotv10a ($2771.25 in chips)
+Seat 9: PAPILINDOYO ($6189.76 in chips)
+PAPILINDOYO: posts small blind $75.00
+chop-ch0p: posts big blind $150.00
+*** HOLE CARDS ***
+yourmytralala: raises $1350.00 to $1500.00 and is all-in
+acrbotv10a: folds
+PAPILINDOYO: folds
+chop-ch0p: folds
+Uncalled bet ($1350.00) returned to yourmytralala
+yourmytralala collected $375.00 from pot
+yourmytralala: doesn't show hand
+*** SUMMARY ***
+Total pot $375.00 | Rake $0.00
+Seat 2: chop-ch0p (big blind) folded before Flop
+Seat 3: yourmytralala collected ($375.00)
+Seat 4: acrbotv10a (button) folded before Flop (didn't bet)
+Seat 9: PAPILINDOYO (small blind) folded before Flop
+
+PokerStars Hand #1490827161:  Hold'em No Limit ($75.00/$150.00 USD) - 2022/12/19 13:32:30 ET
+Table 'WPN_7 Day No Rathole 75/150 NLH' 9-max Seat #9 is the button
+Seat 2: chop-ch0p ($8413.60 in chips)
+Seat 3: yourmytralala ($1725.00 in chips)
+Seat 4: acrbotv10a ($2771.25 in chips)
+chop-ch0p: posts small blind $75.00
+yourmytralala: posts big blind $150.00
+*** HOLE CARDS ***
+acrbotv10a: folds
+chop-ch0p: raises $8263.60 to $8413.60 and is all-in
+yourmytralala: calls $1575.00 and is all-in
+Uncalled bet ($6688.60) returned to chop-ch0p
+*** FIRST FLOP *** [8h Jh Qc]
+*** FIRST TURN *** [8h Jh Qc] [Jc]
+*** FIRST RIVER *** [8h Jh Qc Jc] [Kd]
+*** SECOND FLOP *** [Ac 6s Th]
+*** SECOND TURN *** [Ac 6s Th] [9d]
+*** SECOND RIVER *** [Ac 6s Th 9d] [4s]
+*** FIRST SHOW DOWN ***
+yourmytralala: shows [Kh Jd]
+chop-ch0p: shows [3h Kc]
+yourmytralala collected $1724.13 from pot
+*** SECOND SHOW DOWN ***
+yourmytralala: shows [Kh Jd]
+chop-ch0p: shows [3h Kc]
+yourmytralala collected $1724.12 from pot
+*** SUMMARY ***
+Total pot $3450.00 | Rake $1.75
+Hand was run twice
+FIRST Board [8h Jh Qc Jc Kd]
+SECOND Board [Ac 6s Th 9d 4s]
+Seat 2: chop-ch0p (small blind) showed [3h Kc] and lost, and lost
+Seat 3: yourmytralala (big blind) showed [Kh Jd] and won ($1724.13), and won ($1724.12)
+Seat 4: acrbotv10a folded before Flop (didn't bet)
+
+PokerStars Hand #1490836702:  Hold'em No Limit ($75.00/$150.00 USD) - 2022/12/19 14:01:55 ET
+Table 'WPN_7 Day No Rathole 75/150 NLH' 9-max Seat #8 is the button
+Seat 2: yourmytralala ($2098.25 in chips)
+Seat 8: PAPILINDOYO ($7463.51 in chips)
+PAPILINDOYO: posts small blind $75.00
+yourmytralala: posts big blind $150.00
+*** HOLE CARDS ***
+PAPILINDOYO: folds
+Uncalled bet ($75.00) returned to yourmytralala
+yourmytralala collected $150.00 from pot
+yourmytralala: doesn't show hand
+*** SUMMARY ***
+Total pot $150.00 | Rake $0.00
+Seat 2: yourmytralala (big blind) collected ($150.00)
+Seat 8: PAPILINDOYO (button) (small blind) folded before Flop
+
+PokerStars Hand #1490836777:  Hold'em No Limit ($75.00/$150.00 USD) - 2022/12/19 14:02:08 ET
+Table 'WPN_7 Day No Rathole 75/150 NLH' 9-max Seat #2 is the button
+Seat 2: yourmytralala ($2173.25 in chips)
+Seat 3: Gizineni ($2996.00 in chips)
+Seat 9: acrbotv10a ($2771.25 in chips)
+Gizineni: posts small blind $75.00
+acrbotv10a: posts big blind $150.00
+*** HOLE CARDS ***
+yourmytralala: folds
+Gizineni: calls $75.00
+acrbotv10a: checks
+*** FLOP *** [9h 3h 9d]
+Gizineni: checks
+acrbotv10a: checks
+*** TURN *** [9h 3h 9d] [5c]
+Gizineni: checks
+acrbotv10a: bets $225.00
+Gizineni: raises $525.00 to $750.00
+acrbotv10a: folds
+Uncalled bet ($525.00) returned to Gizineni
+Gizineni collected $748.25 from pot
+Gizineni: doesn't show hand
+*** SUMMARY ***
+Total pot $750.00 | Rake $1.75
+Board [9h 3h 9d 5c]
+Seat 2: yourmytralala (button) folded before Flop (didn't bet)
+Seat 3: Gizineni (small blind) collected ($748.25)
+Seat 9: acrbotv10a (big blind) folded on the Turn
+
+PokerStars Hand #1490837157:  Hold'em No Limit ($75.00/$150.00 USD) - 2022/12/19 14:03:07 ET
+Table 'WPN_7 Day No Rathole 75/150 NLH' 9-max Seat #9 is the button
+Seat 3: Gizineni ($3369.25 in chips)
+Seat 9: acrbotv10a ($2396.25 in chips)
+acrbotv10a: posts small blind $75.00
+Gizineni: posts big blind $150.00
+*** HOLE CARDS ***
+acrbotv10a: calls $75.00
+Gizineni: checks
+*** FLOP *** [7h Kc Td]
+Gizineni: checks
+acrbotv10a: bets $150.00
+Gizineni: folds
+Uncalled bet ($150.00) returned to acrbotv10a
+acrbotv10a collected $298.75 from pot
+acrbotv10a: doesn't show hand
+*** SUMMARY ***
+Total pot $300.00 | Rake $1.25
+Board [7h Kc Td]
+Seat 3: Gizineni (big blind) folded on the Flop
+Seat 9: acrbotv10a (button) (small blind) collected ($298.75)
+
+PokerStars Hand #1490837449:  Hold'em No Limit ($75.00/$150.00 USD) - 2022/12/19 14:03:47 ET
+Table 'WPN_7 Day No Rathole 75/150 NLH' 9-max Seat #3 is the button
+Seat 2: yourmytralala ($2173.25 in chips)
+Seat 3: Gizineni ($3144.25 in chips)
+Gizineni: posts small blind $75.00
+yourmytralala: posts big blind $150.00
+*** HOLE CARDS ***
+Gizineni: raises $3069.25 to $3219.25 and is all-in
+yourmytralala: calls $2023.25 and is all-in
+Uncalled bet ($1046.00) returned to Gizineni
+*** FIRST FLOP *** [Js Ac Jc]
+*** FIRST TURN *** [Js Ac Jc] [9c]
+*** FIRST RIVER *** [Js Ac Jc 9c] [3h]
+*** SECOND FLOP *** [4c 6d 8s]
+*** SECOND TURN *** [4c 6d 8s] [8h]
+*** SECOND RIVER *** [4c 6d 8s 8h] [2c]
+*** FIRST SHOW DOWN ***
+yourmytralala: shows [5d 5s]
+Gizineni: shows [9d Qd]
+Gizineni collected $2172.63 from pot
+*** SECOND SHOW DOWN ***
+yourmytralala: shows [5d 5s]
+Gizineni: shows [9d Qd]
+yourmytralala collected $2172.62 from pot
+*** SUMMARY ***
+Total pot $4346.50 | Rake $1.25
+Hand was run twice
+FIRST Board [Js Ac Jc 9c 3h]
+SECOND Board [4c 6d 8s 8h 2c]
+Seat 2: yourmytralala (big blind) showed [5d 5s] and lost, and won ($2172.62)
+Seat 3: Gizineni (button) (small blind) showed [9d Qd] and won ($2172.63), and lost
+
+PokerStars Hand #1490837625:  Hold'em No Limit ($75.00/$150.00 USD) - 2022/12/19 14:04:15 ET
+Table 'WPN_7 Day No Rathole 75/150 NLH' 9-max Seat #2 is the button
+Seat 2: yourmytralala ($2172.62 in chips)
+Seat 3: Gizineni ($3218.63 in chips)
+Seat 8: PAPILINDOYO ($7388.51 in chips)
+yourmytralala: posts small blind $75.00
+Gizineni: posts big blind $150.00
+*** HOLE CARDS ***
+yourmytralala: folds
+Uncalled bet ($75.00) returned to Gizineni
+Gizineni collected $150.00 from pot
+Gizineni: doesn't show hand
+*** SUMMARY ***
+Total pot $150.00 | Rake $0.00
+Seat 2: yourmytralala (button) (small blind) folded before Flop
+Seat 3: Gizineni (big blind) collected ($150.00)
+
+PokerStars Hand #1490837709:  Hold'em No Limit ($75.00/$150.00 USD) - 2022/12/19 14:04:27 ET
+Table 'WPN_7 Day No Rathole 75/150 NLH' 9-max Seat #2 is the button
+Seat 2: yourmytralala ($2097.62 in chips)
+Seat 3: Gizineni ($3293.63 in chips)
+Seat 8: PAPILINDOYO ($7388.51 in chips)
+Gizineni: posts small blind $75.00
+PAPILINDOYO: posts big blind $150.00
+*** HOLE CARDS ***
+yourmytralala: raises $150.00 to $300.00
+Gizineni: folds
+PAPILINDOYO: folds
+Uncalled bet ($150.00) returned to yourmytralala
+yourmytralala collected $375.00 from pot
+yourmytralala: doesn't show hand
+*** SUMMARY ***
+Total pot $375.00 | Rake $0.00
+Seat 2: yourmytralala (button) collected ($375.00)
+Seat 3: Gizineni (small blind) folded before Flop
+Seat 8: PAPILINDOYO (big blind) folded before Flop
+
+PokerStars Hand #1490837832:  Hold'em No Limit ($75.00/$150.00 USD) - 2022/12/19 14:04:43 ET
+Table 'WPN_7 Day No Rathole 75/150 NLH' 9-max Seat #3 is the button
+Seat 3: Gizineni ($3218.63 in chips)
+Seat 8: PAPILINDOYO ($7238.51 in chips)
+Seat 9: acrbotv10a ($2545.00 in chips)
+PAPILINDOYO: posts small blind $75.00
+acrbotv10a: posts big blind $150.00
+*** HOLE CARDS ***
+Gizineni: folds
+PAPILINDOYO: folds
+Uncalled bet ($75.00) returned to acrbotv10a
+acrbotv10a collected $150.00 from pot
+acrbotv10a: doesn't show hand
+*** SUMMARY ***
+Total pot $150.00 | Rake $0.00
+Seat 3: Gizineni (button) folded before Flop (didn't bet)
+Seat 8: PAPILINDOYO (small blind) folded before Flop
+Seat 9: acrbotv10a (big blind) collected ($150.00)
+
+PokerStars Hand #1490837914:  Hold'em No Limit ($75.00/$150.00 USD) - 2022/12/19 14:04:54 ET
+Table 'WPN_7 Day No Rathole 75/150 NLH' 9-max Seat #8 is the button
+Seat 2: yourmytralala ($2322.62 in chips)
+Seat 3: Gizineni ($3218.63 in chips)
+Seat 8: PAPILINDOYO ($7163.51 in chips)
+Seat 9: acrbotv10a ($2620.00 in chips)
+acrbotv10a: posts small blind $75.00
+yourmytralala: posts big blind $150.00
+*** HOLE CARDS ***
+Gizineni: raises $150.00 to $300.00
+PAPILINDOYO: folds
+acrbotv10a: folds
+yourmytralala: calls $150.00
+*** FLOP *** [Ac 3c Td]
+yourmytralala: checks
+Gizineni: bets $337.50
+yourmytralala: folds
+Uncalled bet ($337.50) returned to Gizineni
+Gizineni collected $672.75 from pot
+Gizineni: doesn't show hand
+*** SUMMARY ***
+Total pot $675.00 | Rake $2.25
+Board [Ac 3c Td]
+Seat 2: yourmytralala (big blind) folded on the Flop
+Seat 3: Gizineni collected ($672.75)
+Seat 8: PAPILINDOYO (button) folded before Flop (didn't bet)
+Seat 9: acrbotv10a (small blind) folded before Flop
+
+PokerStars Hand #1490838124:  Hold'em No Limit ($75.00/$150.00 USD) - 2022/12/19 14:05:24 ET
+Table 'WPN_7 Day No Rathole 75/150 NLH' 9-max Seat #9 is the button
+Seat 2: yourmytralala ($2022.62 in chips)
+Seat 3: Gizineni ($3591.38 in chips)
+Seat 8: PAPILINDOYO ($7163.51 in chips)
+Seat 9: acrbotv10a ($2545.00 in chips)
+yourmytralala: posts small blind $75.00
+Gizineni: posts big blind $150.00
+*** HOLE CARDS ***
+PAPILINDOYO: folds
+acrbotv10a: folds
+yourmytralala: folds
+Uncalled bet ($75.00) returned to Gizineni
+Gizineni collected $150.00 from pot
+Gizineni: doesn't show hand
+*** SUMMARY ***
+Total pot $150.00 | Rake $0.00
+Seat 2: yourmytralala (small blind) folded before Flop
+Seat 3: Gizineni (big blind) collected ($150.00)
+Seat 8: PAPILINDOYO folded before Flop (didn't bet)
+Seat 9: acrbotv10a (button) folded before Flop (didn't bet)
+
+PokerStars Hand #1490838187:  Hold'em No Limit ($75.00/$150.00 USD) - 2022/12/19 14:05:33 ET
+Table 'WPN_7 Day No Rathole 75/150 NLH' 9-max Seat #2 is the button
+Seat 2: yourmytralala ($1947.62 in chips)
+Seat 3: Gizineni ($3666.38 in chips)
+Seat 9: acrbotv10a ($2545.00 in chips)
+Gizineni: posts small blind $75.00
+acrbotv10a: posts big blind $150.00
+*** HOLE CARDS ***
+yourmytralala: folds
+Gizineni: calls $75.00
+acrbotv10a: raises $2395.00 to $2545.00 and is all-in
+Gizineni: folds
+Uncalled bet ($2395.00) returned to acrbotv10a
+acrbotv10a collected $300.00 from pot
+acrbotv10a: doesn't show hand
+*** SUMMARY ***
+Total pot $300.00 | Rake $0.00
+Seat 2: yourmytralala (button) folded before Flop (didn't bet)
+Seat 3: Gizineni (small blind) folded before Flop
+Seat 9: acrbotv10a (big blind) collected ($300.00)
+
+PokerStars Hand #1490863765:  Hold'em No Limit ($75.00/$150.00 USD) - 2022/12/19 15:01:57 ET
+Table 'WPN_7 Day No Rathole 75/150 NLH' 9-max Seat #4 is the button
+Seat 4: SigadiSogadi ($5767.50 in chips)
+Seat 9: acrbotv10a ($2843.75 in chips)
+SigadiSogadi: posts small blind $75.00
+acrbotv10a: posts big blind $150.00
+*** HOLE CARDS ***
+SigadiSogadi: calls $75.00
+acrbotv10a: checks
+*** FLOP *** [Jc 7d 4s]
+acrbotv10a: checks
+SigadiSogadi: checks
+*** TURN *** [Jc 7d 4s] [8c]
+acrbotv10a: checks
+SigadiSogadi: checks
+*** RIVER *** [Jc 7d 4s 8c] [5d]
+acrbotv10a: checks
+SigadiSogadi: bets $405.00
+acrbotv10a: calls $405.00
+*** SHOW DOWN ***
+SigadiSogadi: shows [6h 7s]
+acrbotv10a: shows [3h 6c]
+SigadiSogadi collected $554.38 from pot
+acrbotv10a collected $554.37 from pot
+*** SUMMARY ***
+Total pot $1110.00 | Rake $1.25
+Board [Jc 7d 4s 8c 5d]
+Seat 4: SigadiSogadi (button) (small blind) showed [6h 7s] and won ($554.38)
+Seat 9: acrbotv10a (big blind) showed [3h 6c] and won ($554.37)
+
+PokerStars Hand #1490750975:  Hold'em No Limit ($75.00/$150.00 USD) - 2022/12/19 09:06:46 ET
+Table 'WPN_7 Day No Rathole 75/150 NLH' 9-max Seat #1 is the button
+Seat 1: Conspiracy4 ($6948.25 in chips)
+Seat 3: Gizineni ($2921.00 in chips)
+Conspiracy4: posts small blind $75.00
+Gizineni: posts big blind $150.00
+*** HOLE CARDS ***
+Conspiracy4: folds
+Uncalled bet ($75.00) returned to Gizineni
+Gizineni collected $150.00 from pot
+Gizineni: doesn't show hand
+*** SUMMARY ***
+Total pot $150.00 | Rake $0.00
+Seat 1: Conspiracy4 (button) (small blind) folded before Flop
+Seat 3: Gizineni (big blind) collected ($150.00)
+
+PokerStars Hand #1490751027:  Hold'em No Limit ($75.00/$150.00 USD) - 2022/12/19 09:06:54 ET
+Table 'WPN_7 Day No Rathole 75/150 NLH' 9-max Seat #3 is the button
+Seat 1: Conspiracy4 ($6873.25 in chips)
+Seat 3: Gizineni ($2996.00 in chips)
+Gizineni: posts small blind $75.00
+Conspiracy4: posts big blind $150.00
+*** HOLE CARDS ***
+Gizineni: folds
+Uncalled bet ($75.00) returned to Conspiracy4
+Conspiracy4 collected $150.00 from pot
+Conspiracy4: doesn't show hand
+*** SUMMARY ***
+Total pot $150.00 | Rake $0.00
+Seat 1: Conspiracy4 (big blind) collected ($150.00)
+Seat 3: Gizineni (button) (small blind) folded before Flop
+
+PokerStars Hand #1490751059:  Hold'em No Limit ($75.00/$150.00 USD) - 2022/12/19 09:07:00 ET
+Table 'WPN_7 Day No Rathole 75/150 NLH' 9-max Seat #1 is the button
+Seat 1: Conspiracy4 ($6948.25 in chips)
+Seat 3: Gizineni ($2921.00 in chips)
+Conspiracy4: posts small blind $75.00
+Gizineni: posts big blind $150.00
+*** HOLE CARDS ***
+Conspiracy4: raises $150.00 to $300.00
+Gizineni: raises $2621.00 to $2921.00 and is all-in
+Conspiracy4: folds
+Uncalled bet ($2621.00) returned to Gizineni
+Gizineni collected $600.00 from pot
+Gizineni: doesn't show hand
+*** SUMMARY ***
+Total pot $600.00 | Rake $0.00
+Seat 1: Conspiracy4 (button) (small blind) folded before Flop
+Seat 3: Gizineni (big blind) collected ($600.00)
+
+PokerStars Hand #1490751109:  Hold'em No Limit ($75.00/$150.00 USD) - 2022/12/19 09:07:10 ET
+Table 'WPN_7 Day No Rathole 75/150 NLH' 9-max Seat #3 is the button
+Seat 1: Conspiracy4 ($6648.25 in chips)
+Seat 3: Gizineni ($3221.00 in chips)
+Gizineni: posts small blind $75.00
+Conspiracy4: posts big blind $150.00
+*** HOLE CARDS ***
+Gizineni: folds
+Uncalled bet ($75.00) returned to Conspiracy4
+Conspiracy4 collected $150.00 from pot
+Conspiracy4: doesn't show hand
+*** SUMMARY ***
+Total pot $150.00 | Rake $0.00
+Seat 1: Conspiracy4 (big blind) collected ($150.00)
+Seat 3: Gizineni (button) (small blind) folded before Flop
+
+PokerStars Hand #1490751138:  Hold'em No Limit ($75.00/$150.00 USD) - 2022/12/19 09:07:15 ET
+Table 'WPN_7 Day No Rathole 75/150 NLH' 9-max Seat #1 is the button
+Seat 1: Conspiracy4 ($6723.25 in chips)
+Seat 3: Gizineni ($3146.00 in chips)
+Conspiracy4: posts small blind $75.00
+Gizineni: posts big blind $150.00
+*** HOLE CARDS ***
+Conspiracy4: raises $150.00 to $300.00
+Gizineni: folds
+Uncalled bet ($150.00) returned to Conspiracy4
+Conspiracy4 collected $300.00 from pot
+Conspiracy4: doesn't show hand
+*** SUMMARY ***
+Total pot $300.00 | Rake $0.00
+Seat 1: Conspiracy4 (button) (small blind) collected ($300.00)
+Seat 3: Gizineni (big blind) folded before Flop
+
+PokerStars Hand #1490729355:  Hold'em No Limit ($75.00/$150.00 USD) - 2022/12/19 08:13:51 ET
+Table 'WPN_7 Day No Rathole 75/150 NLH' 9-max Seat #1 is the button
+Seat 1: Conspiracy4 ($9663.25 in chips)
+Seat 2: HornyOldMan ($9673.72 in chips)
+Conspiracy4: posts small blind $75.00
+HornyOldMan: posts big blind $150.00
+*** HOLE CARDS ***
+Conspiracy4: raises $180.00 to $330.00
+HornyOldMan: folds
+Uncalled bet ($180.00) returned to Conspiracy4
+Conspiracy4 collected $300.00 from pot
+Conspiracy4: doesn't show hand
+*** SUMMARY ***
+Total pot $300.00 | Rake $0.00
+Seat 1: Conspiracy4 (button) (small blind) collected ($300.00)
+Seat 2: HornyOldMan (big blind) folded before Flop
+
+PokerStars Hand #1490743732:  Hold'em No Limit ($75.00/$150.00 USD) - 2022/12/19 08:46:03 ET
+Table 'WPN_7 Day No Rathole 75/150 NLH' 9-max Seat #2 is the button
+Seat 1: Conspiracy4 ($9813.25 in chips)
+Seat 2: HornyOldMan ($9523.72 in chips)
+HornyOldMan: posts small blind $75.00
+Conspiracy4: posts big blind $150.00
+*** HOLE CARDS ***
+HornyOldMan: raises $195.00 to $345.00
+Conspiracy4: folds
+Uncalled bet ($195.00) returned to HornyOldMan
+HornyOldMan collected $300.00 from pot
+HornyOldMan: doesn't show hand
+*** SUMMARY ***
+Total pot $300.00 | Rake $0.00
+Seat 1: Conspiracy4 (big blind) folded before Flop
+Seat 2: HornyOldMan (button) (small blind) collected ($300.00)
+
+PokerStars Hand #1490743813:  Hold'em No Limit ($75.00/$150.00 USD) - 2022/12/19 08:46:16 ET
+Table 'WPN_7 Day No Rathole 75/150 NLH' 9-max Seat #1 is the button
+Seat 1: Conspiracy4 ($9663.25 in chips)
+Seat 2: HornyOldMan ($9673.72 in chips)
+Conspiracy4: posts small blind $75.00
+HornyOldMan: posts big blind $150.00
+*** HOLE CARDS ***
+Conspiracy4: raises $180.00 to $330.00
+HornyOldMan: calls $180.00
+*** FLOP *** [3h 5s 7d]
+HornyOldMan: checks
+Conspiracy4: bets $660.00
+HornyOldMan: calls $660.00
+*** TURN *** [3h 5s 7d] [Jd]
+HornyOldMan: checks
+Conspiracy4: checks
+*** RIVER *** [3h 5s 7d Jd] [2h]
+HornyOldMan: checks
+Conspiracy4: checks
+*** SHOW DOWN ***
+HornyOldMan: shows [4d 2d]
+Conspiracy4: mucks hand
+HornyOldMan collected $1978.75 from pot
+*** SUMMARY ***
+Total pot $1980.00 | Rake $1.25
+Board [3h 5s 7d Jd 2h]
+Seat 1: Conspiracy4 (button) (small blind) mucked
+Seat 2: HornyOldMan (big blind) showed [4d 2d] and won ($1978.75)
+
+PokerStars Hand #1490744150:  Hold'em No Limit ($75.00/$150.00 USD) - 2022/12/19 08:47:08 ET
+Table 'WPN_7 Day No Rathole 75/150 NLH' 9-max Seat #1 is the button
+Seat 1: Conspiracy4 ($8673.25 in chips)
+Seat 2: HornyOldMan ($10662.47 in chips)
+Seat 3: ATARAX1A ($1800.00 in chips)
+Seat 4: Gizineni ($2773.25 in chips)
+HornyOldMan: posts small blind $75.00
+ATARAX1A: posts big blind $150.00
+*** HOLE CARDS ***
+Conspiracy4: raises $180.00 to $330.00
+HornyOldMan: folds
+ATARAX1A: raises $1470.00 to $1800.00 and is all-in
+Conspiracy4: calls $1470.00
+*** FLOP *** [6c Qc 6s]
+*** TURN *** [6c Qc 6s] [5s]
+*** RIVER *** [6c Qc 6s 5s] [Tc]
+*** SHOW DOWN ***
+ATARAX1A: shows [Kd Kh]
+Conspiracy4: shows [Ah 5h]
+ATARAX1A collected $3673.25 from pot
+*** SUMMARY ***
+Total pot $3675.00 | Rake $1.75
+Board [6c Qc 6s 5s Tc]
+Seat 1: Conspiracy4 (button) showed [Ah 5h] and lost
+Seat 2: HornyOldMan (small blind) folded before Flop
+Seat 3: ATARAX1A (big blind) showed [Kd Kh] and won ($3673.25)
+
+PokerStars Hand #1490744327:  Hold'em No Limit ($75.00/$150.00 USD) - 2022/12/19 08:47:35 ET
+Table 'WPN_7 Day No Rathole 75/150 NLH' 9-max Seat #2 is the button
+Seat 1: Conspiracy4 ($6873.25 in chips)
+Seat 2: HornyOldMan ($10587.47 in chips)
+Seat 3: ATARAX1A ($3673.25 in chips)
+Seat 4: Gizineni ($2773.25 in chips)
+ATARAX1A: posts small blind $75.00
+Gizineni: posts big blind $150.00
+*** HOLE CARDS ***
+Conspiracy4: folds
+HornyOldMan: folds
+ATARAX1A: raises $3523.25 to $3673.25 and is all-in
+Gizineni: folds
+Uncalled bet ($3523.25) returned to ATARAX1A
+ATARAX1A collected $300.00 from pot
+ATARAX1A: doesn't show hand
+*** SUMMARY ***
+Total pot $300.00 | Rake $0.00
+Seat 1: Conspiracy4 folded before Flop (didn't bet)
+Seat 2: HornyOldMan (button) folded before Flop (didn't bet)
+Seat 3: ATARAX1A (small blind) collected ($300.00)
+Seat 4: Gizineni (big blind) folded before Flop
+
+PokerStars Hand #1490744496:  Hold'em No Limit ($75.00/$150.00 USD) - 2022/12/19 08:48:02 ET
+Table 'WPN_7 Day No Rathole 75/150 NLH' 9-max Seat #3 is the button
+Seat 2: HornyOldMan ($10587.47 in chips)
+Seat 3: ATARAX1A ($3823.25 in chips)
+Seat 4: Gizineni ($2623.25 in chips)
+Seat 5: uhhhyesandno ($3027.60 in chips)
+Gizineni: posts small blind $75.00
+uhhhyesandno: posts big blind $150.00
+*** HOLE CARDS ***
+HornyOldMan: folds
+ATARAX1A: folds
+Gizineni: calls $75.00
+uhhhyesandno: checks
+*** FLOP *** [7c 8s Ac]
+Gizineni: checks
+uhhhyesandno: checks
+*** TURN *** [7c 8s Ac] [Ks]
+Gizineni: checks
+uhhhyesandno: checks
+*** RIVER *** [7c 8s Ac Ks] [4d]
+Gizineni: bets $150.00
+uhhhyesandno: calls $150.00
+*** SHOW DOWN ***
+Gizineni: shows [5d Kd]
+uhhhyesandno: mucks hand
+Gizineni collected $597.75 from pot
+*** SUMMARY ***
+Total pot $600.00 | Rake $2.25
+Board [7c 8s Ac Ks 4d]
+Seat 2: HornyOldMan folded before Flop (didn't bet)
+Seat 3: ATARAX1A (button) folded before Flop (didn't bet)
+Seat 4: Gizineni (small blind) showed [5d Kd] and won ($597.75)
+Seat 5: uhhhyesandno (big blind) mucked
+

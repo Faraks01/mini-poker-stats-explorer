@@ -1,0 +1,184 @@
+
+Hand #1782757547 - Holdem(No Limit) - $50/$100 - 2023/07/15 09:40:00 UTC
+Santa Rosa 6-max Seat #5 is the button
+Seat 2: TIKITAKA11 ($10000)
+Seat 5: JohnMcShen ($10218.75)
+JohnMcShen posts the small blind $50
+TIKITAKA11 posts the big blind $100
+*** HOLE CARDS *** 
+JohnMcShen folds
+*** SUMMARY ***
+Total pot $150
+Seat 2: TIKITAKA11 (big blind) did not showed and won $150
+Seat 5: JohnMcShen (small blind) folded on the Pre-Flop
+
+
+Hand #1782757641 - Holdem(No Limit) - $50/$100 - 2023/07/15 09:40:11 UTC
+Santa Rosa 6-max Seat #2 is the button
+Seat 2: TIKITAKA11 ($10050)
+Seat 5: JohnMcShen ($10168.75)
+TIKITAKA11 posts the small blind $50
+JohnMcShen posts the big blind $100
+*** HOLE CARDS *** 
+TIKITAKA11 raises $180 to $230
+JohnMcShen folds
+Uncalled bet ($130) returned to TIKITAKA11
+TIKITAKA11 does not show
+*** SUMMARY ***
+Total pot $200
+Seat 2: TIKITAKA11 (small blind) did not showed and won $200
+Seat 5: JohnMcShen (big blind) folded on the Pre-Flop
+
+
+Hand #1782757728 - Holdem(No Limit) - $50/$100 - 2023/07/15 09:40:49 UTC
+Santa Rosa 6-max Seat #5 is the button
+Seat 2: TIKITAKA11 ($10150)
+Seat 5: JohnMcShen ($10068.75)
+JohnMcShen posts the small blind $50
+TIKITAKA11 posts the big blind $100
+*** HOLE CARDS *** 
+JohnMcShen raises $200 to $250
+TIKITAKA11 calls $150
+*** FLOP *** [Jc 4h 6s]
+Main pot $498.75 | Rake $1.25
+TIKITAKA11 checks
+JohnMcShen checks
+*** TURN *** [Jc 4h 6s] [9d]
+Main pot $498.75 | Rake $1.25
+TIKITAKA11 bets $1500
+JohnMcShen folds
+Uncalled bet ($1500) returned to TIKITAKA11
+TIKITAKA11 does not show
+*** SUMMARY ***
+Total pot $498.75 | Rake $1.25
+Seat 2: TIKITAKA11 (big blind) did not showed and won $498.75
+Seat 5: JohnMcShen (small blind) folded on the Turn
+
+
+Hand #1782757941 - Holdem(No Limit) - $50/$100 - 2023/07/15 09:41:37 UTC
+Santa Rosa 6-max Seat #2 is the button
+Seat 2: TIKITAKA11 ($10398.75)
+Seat 5: JohnMcShen ($10000)
+TIKITAKA11 posts the small blind $50
+JohnMcShen posts the big blind $100
+*** HOLE CARDS *** 
+TIKITAKA11 raises $180 to $230
+JohnMcShen calls $130
+*** FLOP *** [Kh Td 5c]
+Main pot $458.75 | Rake $1.25
+JohnMcShen checks
+TIKITAKA11 checks
+*** TURN *** [Kh Td 5c] [Qd]
+Main pot $458.75 | Rake $1.25
+JohnMcShen bets $344.06
+TIKITAKA11 calls $344.06
+*** RIVER *** [Kh Td 5c Qd] [9s]
+Main pot $1146.87 | Rake $1.25
+JohnMcShen bets $378.46
+TIKITAKA11 folds
+Uncalled bet ($378.46) returned to JohnMcShen
+JohnMcShen does not show
+*** SUMMARY ***
+Total pot $1146.87 | Rake $1.25
+Seat 2: TIKITAKA11 (small blind) folded on the River
+Seat 5: JohnMcShen (big blind) did not showed and won $1146.87
+
+
+Hand #1782975384 - Holdem(No Limit) - $50/$100 - 2023/07/15 16:49:23 UTC
+Santa Rosa 6-max Seat #2 is the button
+Seat 2: Simulacra ($4000)
+Seat 5: TIKITAKA11 ($10000)
+Simulacra posts the small blind $50
+TIKITAKA11 posts the big blind $100
+*** HOLE CARDS *** 
+Simulacra folds
+*** SUMMARY ***
+Total pot $150
+Seat 2: Simulacra (small blind) folded on the Pre-Flop
+Seat 5: TIKITAKA11 (big blind) did not showed and won $150
+
+
+Hand #1782975550 - Holdem(No Limit) - $50/$100 - 2023/07/15 16:51:15 UTC
+Santa Rosa 6-max Seat #5 is the button
+Seat 2: Simulacra ($4000)
+Seat 5: TIKITAKA11 ($10050)
+TIKITAKA11 posts the small blind $50
+Simulacra posts the big blind $100
+*** HOLE CARDS *** 
+TIKITAKA11 raises $150 to $200
+Simulacra calls $100
+*** FLOP *** [Qh 3h Qc]
+Main pot $398.75 | Rake $1.25
+Simulacra checks
+TIKITAKA11 bets $100
+Simulacra raises $418 to $418
+TIKITAKA11 calls $318
+*** TURN *** [Qh 3h Qc] [3c]
+Main pot $1234.75 | Rake $1.25
+Simulacra bets $383.16
+TIKITAKA11 calls $383.16
+*** RIVER *** [Qh 3h Qc 3c] [Ac]
+Main pot $2001.07 | Rake $1.25
+Simulacra bets $1061.22
+TIKITAKA11 raises $7248.36 to $7248.36
+Simulacra calls $1937.62 and is all-in
+Uncalled bet ($4249.52) returned to TIKITAKA11
+TIKITAKA11 does not show
+*** SHOW DOWN ***
+Main pot $2001.07 | Rake $1.25
+Simulacra shows [7c 5c] (a combo of some cards [Ac Qc 7c 5c 3c])
+TIKITAKA11 shows [4s Qd] (a combo of some cards [Qh Qd Qc 3h 3c])
+TIKITAKA11 collected $7998.75 from main pot
+*** SUMMARY ***
+Total pot $7998.75 | Rake $1.25
+Seat 2: Simulacra (big blind) showed [7c 5c] and lost
+Seat 5: TIKITAKA11 (small blind) showed [4s Qd] and won $7998.75 with FullHouse [Qh Qd Qc 3h 3c]
+
+
+Hand #1782977428 - Holdem(No Limit) - $50/$100 - 2023/07/15 16:51:38 UTC
+Santa Rosa 6-max Seat #2 is the button
+Seat 2: Simulacra ($4000)
+Seat 5: TIKITAKA11 ($14048.75)
+Simulacra posts the small blind $50
+TIKITAKA11 posts the big blind $100
+*** HOLE CARDS *** 
+Simulacra raises $150 to $200
+TIKITAKA11 folds
+Uncalled bet ($100) returned to Simulacra
+Simulacra does not show
+*** SUMMARY ***
+Total pot $200
+Seat 2: Simulacra (small blind) did not showed and won $200
+Seat 5: TIKITAKA11 (big blind) folded on the Pre-Flop
+
+
+Hand #1782977766 - Holdem(No Limit) - $50/$100 - 2023/07/15 16:52:40 UTC
+Santa Rosa 6-max Seat #5 is the button
+Seat 2: Simulacra ($4100)
+Seat 5: TIKITAKA11 ($13948.75)
+TIKITAKA11 posts the small blind $50
+Simulacra posts the big blind $100
+*** HOLE CARDS *** 
+TIKITAKA11 raises $150 to $200
+Simulacra calls $100
+*** FLOP *** [5s Ks 3h]
+Main pot $398.75 | Rake $1.25
+Simulacra checks
+TIKITAKA11 checks
+*** TURN *** [5s Ks 3h] [Tc]
+Main pot $398.75 | Rake $1.25
+Simulacra checks
+TIKITAKA11 bets $264
+Simulacra calls $264
+*** RIVER *** [5s Ks 3h Tc] [8c]
+Main pot $926.75 | Rake $1.25
+Simulacra checks
+TIKITAKA11 checks
+*** SUMMARY ***
+Total pot $926.75 | Rake $1.25
+Seat 2: Simulacra (big blind) did not showed and won $926.75
+Seat 5: TIKITAKA11 (small blind) did not showed and lost
+
+
+
+

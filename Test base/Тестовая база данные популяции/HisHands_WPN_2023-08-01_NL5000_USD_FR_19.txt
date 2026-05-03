@@ -1,0 +1,575 @@
+Hand #1805280261 - Holdem(No Limit) - $25/$50 - 2023/08/01 20:22:13 UTC
+Alpharetta 9-max Seat #2 is the button
+Seat 2: Nimble123 ($1000)
+Seat 6: HardInThePaint ($1000)
+Nimble123 posts the small blind $25
+HardInThePaint posts the big blind $50
+*** HOLE CARDS *** 
+Nimble123 raises $75 to $100
+HardInThePaint raises $950 to $1000 and is all-in
+Nimble123 calls $900 and is all-in
+*** RUN IT TWICE ***
+*** FLOP 1 *** [Qh Qd 4d]
+Main pot 1 $999.37 | Rake $0.63
+*** TURN 1 *** [Qh Qd 4d] [Ah]
+Main pot 1 $999.37 | Rake $0.63
+*** RIVER 1 *** [Qh Qd 4d Ah] [2d]
+Main pot 1 $999.37 | Rake $0.63
+*** SHOW DOWN 1 ***
+Main pot 1 $999.37 | Rake $0.63
+Nimble123 shows [9c 9h] (a combo of some cards [Qh Qd 9h 9c Ah])
+HardInThePaint shows [6h Ad] (a combo of some cards [Ah Ad Qh Qd 6h])
+HardInThePaint collected $999.38 from main pot 1
+*** FLOP 2 *** [Kh Ts Jc]
+Main pot 2 $999.38 | Rake $0.62
+*** TURN 2 *** [Kh Ts Jc] [9s]
+Main pot 2 $999.38 | Rake $0.62
+*** RIVER 2 *** [Kh Ts Jc 9s] [5s]
+Main pot 2 $999.38 | Rake $0.62
+*** SHOW DOWN 2 ***
+Main pot 2 $999.38 | Rake $0.62
+Nimble123 shows [9c 9h] (a combo of some cards [9s 9h 9c Kh Jc])
+HardInThePaint shows [6h Ad] (a combo of some cards [Ad Kh Jc Ts 9s])
+Nimble123 collected $999.37 from main pot 2
+*** SUMMARY ***
+Total pot $1998.75 | Rake $1.25
+Board 1 [Qh Qd 4d Ah 2d]
+Seat 2: Nimble123 (small blind) showed [9c 9h] and lost with a
+Seat 6: HardInThePaint (big blind) showed [6h Ad] and won $999.38 with TwoPair [Ah Ad Qh Qd 6h]
+Board 2 [Kh Ts Jc 9s 5s]
+Seat 2: Nimble123 (small blind) showed [9c 9h] and won $999.37 with ThreeOfAKind [9s 9h 9c Kh Jc]
+Seat 6: HardInThePaint (big blind) showed [6h Ad] and lost with a
+
+
+Hand #1805281070 - Holdem(No Limit) - $25/$50 - 2023/08/01 20:22:59 UTC
+Alpharetta 9-max Seat #6 is the button
+Seat 2: Nimble123 ($1000)
+Seat 6: HardInThePaint ($999.38)
+HardInThePaint posts the small blind $25
+Nimble123 posts the big blind $50
+*** HOLE CARDS *** 
+HardInThePaint calls $25
+Nimble123 checks
+*** FLOP *** [8s 2c Qh]
+Main pot $98.75 | Rake $1.25
+Nimble123 checks
+HardInThePaint bets $50
+Nimble123 folds
+Uncalled bet ($50) returned to HardInThePaint
+HardInThePaint does not show
+*** SUMMARY ***
+Total pot $98.75 | Rake $1.25
+Seat 2: Nimble123 (big blind) folded on the Flop
+Seat 6: HardInThePaint (small blind) did not showed and won $98.75
+
+
+Hand #1805281715 - Holdem(No Limit) - $25/$50 - 2023/08/01 20:24:33 UTC
+Alpharetta 9-max Seat #2 is the button
+Seat 2: Nimble123 ($1000)
+Seat 6: HardInThePaint ($1048.13)
+Seat 7: KARMASUTRA ($5000)
+Nimble123 posts the small blind $25
+HardInThePaint posts the big blind $50
+*** HOLE CARDS *** 
+Nimble123 calls $25
+HardInThePaint raises $125 to $175
+Nimble123 calls $125
+*** FLOP *** [2s 4d 7d]
+Main pot $348.75 | Rake $1.25
+HardInThePaint checks
+Nimble123 checks
+*** TURN *** [2s 4d 7d] [Jh]
+Main pot $348.75 | Rake $1.25
+HardInThePaint bets $175
+Nimble123 calls $175
+*** RIVER *** [2s 4d 7d Jh] [3c]
+Main pot $698.75 | Rake $1.25
+HardInThePaint bets $256
+Nimble123 raises $650 to $650 and is all-in
+HardInThePaint calls $394
+*** SHOW DOWN ***
+Main pot $698.75 | Rake $1.25
+Nimble123 shows [Js Qc] (a combo of some cards [Js Jh Qc 7d 4d])
+HardInThePaint shows [7s 9s] (a combo of some cards [7s 7d Jh 9s 4d])
+Nimble123 collected $1998.75 from main pot
+*** SUMMARY ***
+Total pot $1998.75 | Rake $1.25
+Seat 2: Nimble123 (small blind) showed [Js Qc] and won $1998.75 with OnePair [Js Jh Qc 7d 4d]
+Seat 6: HardInThePaint (big blind) showed [7s 9s] and lost
+
+
+Hand #1805283677 - Holdem(No Limit) - $25/$50 - 2023/08/01 20:24:44 UTC
+Alpharetta 9-max Seat #2 is the button
+Seat 2: Nimble123 ($5000)
+Seat 6: HardInThePaint ($48.13)
+Seat 7: KARMASUTRA ($1000)
+HardInThePaint posts the small blind $25
+KARMASUTRA posts the big blind $50
+*** HOLE CARDS *** 
+Nimble123 folds
+HardInThePaint calls $23.13 and is all-in
+Uncalled bet ($1.87) returned to KARMASUTRA
+KARMASUTRA does not show
+*** FLOP *** [5h 9c 2h]
+Main pot $94.51 | Rake $1.75
+*** TURN *** [5h 9c 2h] [9d]
+Main pot $94.51 | Rake $1.75
+*** RIVER *** [5h 9c 2h 9d] [3h]
+Main pot $94.51 | Rake $1.75
+*** SHOW DOWN ***
+Main pot $94.51 | Rake $1.75
+HardInThePaint shows [Th 3d] (a combo of some cards [9d 9c 3h 3d Th])
+KARMASUTRA shows [8c Jc] (a combo of some cards [9d 9c Jc 8c 5h])
+HardInThePaint collected $94.51 from main pot
+*** SUMMARY ***
+Total pot $94.51 | Rake $1.75
+Seat 2: Nimble123 (button) folded on the Pre-Flop and did not bet
+Seat 6: HardInThePaint (small blind) showed [Th 3d] and won $94.51 with TwoPair [9d 9c 3h 3d Th]
+Seat 7: KARMASUTRA (big blind) showed [8c Jc] and lost
+
+
+Hand #1805284177 - Holdem(No Limit) - $25/$50 - 2023/08/01 20:25:06 UTC
+Alpharetta 9-max Seat #6 is the button
+Seat 2: Nimble123 ($5000)
+Seat 6: HardInThePaint ($94.51)
+Seat 7: KARMASUTRA ($1000)
+KARMASUTRA posts the small blind $25
+HardInThePaint posts the big blind $50
+*** HOLE CARDS *** 
+KARMASUTRA raises $75 to $100
+HardInThePaint calls $44.51 and is all-in
+Uncalled bet ($5.49) returned to KARMASUTRA
+KARMASUTRA does not show
+*** FLOP *** [Qh 8s 2s]
+Main pot $187.77 | Rake $1.25
+*** TURN *** [Qh 8s 2s] [8d]
+Main pot $187.77 | Rake $1.25
+*** RIVER *** [Qh 8s 2s 8d] [Ts]
+Main pot $187.77 | Rake $1.25
+*** SHOW DOWN ***
+Main pot $187.77 | Rake $1.25
+HardInThePaint shows [4d Qc] (a combo of some cards [Qh Qc 8s 8d Ts])
+KARMASUTRA shows [8h Tc] (a combo of some cards [8s 8h 8d Ts Tc])
+KARMASUTRA collected $187.77 from main pot
+*** SUMMARY ***
+Total pot $187.77 | Rake $1.25
+Seat 6: HardInThePaint (big blind) showed [4d Qc] and lost
+Seat 7: KARMASUTRA (small blind) showed [8h Tc] and won $187.77 with FullHouse [8s 8h 8d Ts Tc]
+
+
+Hand #1805284596 - Holdem(No Limit) - $25/$50 - 2023/08/01 20:25:41 UTC
+Alpharetta 9-max Seat #6 is the button
+Seat 6: HardInThePaint ($2000)
+Seat 7: KARMASUTRA ($1093.26)
+HardInThePaint posts the small blind $25
+KARMASUTRA posts the big blind $50
+*** HOLE CARDS *** 
+HardInThePaint raises $80 to $105
+KARMASUTRA calls $55
+*** FLOP *** [Ts Td 3c]
+Main pot $208.75 | Rake $1.25
+KARMASUTRA checks
+HardInThePaint bets $69.30
+KARMASUTRA folds
+Uncalled bet ($69.30) returned to HardInThePaint
+HardInThePaint does not show
+*** SUMMARY ***
+Total pot $208.75 | Rake $1.25
+Seat 6: HardInThePaint (small blind) did not showed and won $208.75
+Seat 7: KARMASUTRA (big blind) folded on the Flop
+
+
+Hand #1805285012 - Holdem(No Limit) - $25/$50 - 2023/08/01 20:25:53 UTC
+Alpharetta 9-max Seat #7 is the button
+Seat 6: HardInThePaint ($2103.75)
+Seat 7: KARMASUTRA ($1000)
+KARMASUTRA posts the small blind $25
+HardInThePaint posts the big blind $50
+*** HOLE CARDS *** 
+KARMASUTRA raises $75 to $100
+HardInThePaint raises $2053.75 to $2103.75 and is all-in
+KARMASUTRA calls $900 and is all-in
+Uncalled bet ($1103.75) returned to HardInThePaint
+HardInThePaint does not show
+*** FLOP *** [Td 7h As]
+Main pot $1998.75 | Rake $1.25
+*** TURN *** [Td 7h As] [9c]
+Main pot $1998.75 | Rake $1.25
+*** RIVER *** [Td 7h As 9c] [6c]
+Main pot $1998.75 | Rake $1.25
+*** SHOW DOWN ***
+Main pot $1998.75 | Rake $1.25
+HardInThePaint shows [Js Ad] (a combo of some cards [As Ad Js Td 9c])
+KARMASUTRA shows [Jc Ah] (a combo of some cards [As Ah Jc Td 9c])
+KARMASUTRA collected $999.38 from main pot
+HardInThePaint collected $999.37 from main pot
+*** SUMMARY ***
+Total pot $1998.75 | Rake $1.25
+Seat 6: HardInThePaint (big blind) showed [Js Ad] and won $999.37 with OnePair [As Ad Js Td 9c]
+Seat 7: KARMASUTRA (small blind) showed [Jc Ah] and won $999.38 with OnePair [As Ad Js Td 9c]
+
+
+Hand #1805285539 - Holdem(No Limit) - $25/$50 - 2023/08/01 20:26:23 UTC
+Alpharetta 9-max Seat #6 is the button
+Seat 6: HardInThePaint ($2103.12)
+Seat 7: KARMASUTRA ($1000)
+Seat 8: Nimble123 ($5000)
+Seat 9: 1BTC ($5000)
+HardInThePaint posts the small blind $25
+KARMASUTRA posts the big blind $50
+*** HOLE CARDS *** 
+HardInThePaint raises $75 to $100
+KARMASUTRA raises $950 to $1000 and is all-in
+HardInThePaint folds
+Uncalled bet ($900) returned to KARMASUTRA
+KARMASUTRA does not show
+*** SUMMARY ***
+Total pot $200
+Seat 6: HardInThePaint (small blind) folded on the Pre-Flop
+Seat 7: KARMASUTRA (big blind) did not showed and won $200
+
+
+Hand #1805285846 - Holdem(No Limit) - $25/$50 - 2023/08/01 20:26:36 UTC
+Alpharetta 9-max Seat #6 is the button
+Seat 6: HardInThePaint ($2003.12)
+Seat 7: KARMASUTRA ($1100)
+Seat 8: Nimble123 ($1998.75)
+Seat 9: 1BTC ($5000)
+KARMASUTRA posts the small blind $25
+Nimble123 posts the big blind $50
+*** HOLE CARDS *** 
+HardInThePaint raises $2003.12 to $2003.12 and is all-in
+KARMASUTRA folds
+Nimble123 folds
+Uncalled bet ($1953.12) returned to HardInThePaint
+HardInThePaint does not show
+*** SUMMARY ***
+Total pot $125
+Seat 6: HardInThePaint (button) did not showed and won $125
+Seat 7: KARMASUTRA (small blind) folded on the Pre-Flop
+Seat 8: Nimble123 (big blind) folded on the Pre-Flop
+
+
+Hand #1805286107 - Holdem(No Limit) - $25/$50 - 2023/08/01 20:26:48 UTC
+Alpharetta 9-max Seat #7 is the button
+Seat 6: HardInThePaint ($2078.12)
+Seat 7: KARMASUTRA ($5000)
+Seat 8: Nimble123 ($1948.75)
+Seat 9: 1BTC ($2000)
+Nimble123 posts the small blind $25
+1BTC posts the big blind $50
+*** HOLE CARDS *** 
+HardInThePaint raises $2078.12 to $2078.12 and is all-in
+KARMASUTRA folds
+Nimble123 folds
+1BTC folds
+Uncalled bet ($2028.12) returned to HardInThePaint
+HardInThePaint does not show
+*** SUMMARY ***
+Total pot $125
+Seat 6: HardInThePaint did not showed and won $125
+Seat 7: KARMASUTRA (button) folded on the Pre-Flop and did not bet
+Seat 8: Nimble123 (small blind) folded on the Pre-Flop
+Seat 9: 1BTC (big blind) folded on the Pre-Flop
+
+
+Hand #1805286374 - Holdem(No Limit) - $25/$50 - 2023/08/01 20:27:25 UTC
+Alpharetta 9-max Seat #8 is the button
+Seat 5: Kidnapper ($5000)
+Seat 6: HardInThePaint ($2153.12)
+Seat 7: KARMASUTRA ($1075)
+Seat 8: Nimble123 ($5000)
+Seat 9: 1BTC ($2000)
+1BTC posts the small blind $25
+HardInThePaint posts the big blind $50
+*** HOLE CARDS *** 
+KARMASUTRA raises $100 to $100
+Nimble123 folds
+1BTC folds
+HardInThePaint calls $50
+*** FLOP *** [7h Jh 8c]
+Main pot $222.75 | Rake $2.25
+HardInThePaint checks
+KARMASUTRA checks
+*** TURN *** [7h Jh 8c] [3s]
+Main pot $222.75 | Rake $2.25
+HardInThePaint checks
+KARMASUTRA bets $150.75
+HardInThePaint folds
+Uncalled bet ($150.75) returned to KARMASUTRA
+KARMASUTRA does not show
+*** SUMMARY ***
+Total pot $222.75 | Rake $2.25
+Seat 6: HardInThePaint (big blind) folded on the Turn
+Seat 7: KARMASUTRA did not showed and won $222.75
+Seat 8: Nimble123 (button) folded on the Pre-Flop and did not bet
+Seat 9: 1BTC (small blind) folded on the Pre-Flop
+
+
+Hand #1805287084 - Holdem(No Limit) - $25/$50 - 2023/08/01 20:27:36 UTC
+Alpharetta 9-max Seat #9 is the button
+Seat 5: Kidnapper ($5000)
+Seat 6: HardInThePaint ($2053.12)
+Seat 7: KARMASUTRA ($1197.75)
+Seat 8: Nimble123 ($5000)
+Seat 9: 1BTC ($2000)
+HardInThePaint posts the small blind $25
+KARMASUTRA posts the big blind $50
+*** HOLE CARDS *** 
+Nimble123 folds
+1BTC raises $100 to $100
+HardInThePaint folds
+KARMASUTRA folds
+Uncalled bet ($50) returned to 1BTC
+1BTC does not show
+*** SUMMARY ***
+Total pot $125
+Seat 6: HardInThePaint (small blind) folded on the Pre-Flop
+Seat 7: KARMASUTRA (big blind) folded on the Pre-Flop
+Seat 8: Nimble123 folded on the Pre-Flop and did not bet
+Seat 9: 1BTC (button) did not showed and won $125
+
+
+Hand #1805287302 - Holdem(No Limit) - $25/$50 - 2023/08/01 20:27:57 UTC
+Alpharetta 9-max Seat #6 is the button
+Seat 5: Kidnapper ($5000)
+Seat 6: HardInThePaint ($2028.12)
+Seat 7: KARMASUTRA ($1147.75)
+Seat 8: Nimble123 ($1923.75)
+Seat 9: 1BTC ($5000)
+KARMASUTRA posts the small blind $25
+Nimble123 posts the big blind $50
+*** HOLE CARDS *** 
+1BTC folds
+HardInThePaint raises $2028.12 to $2028.12 and is all-in
+KARMASUTRA folds
+Nimble123 folds
+Uncalled bet ($1978.12) returned to HardInThePaint
+HardInThePaint does not show
+*** SUMMARY ***
+Total pot $125
+Seat 6: HardInThePaint (button) did not showed and won $125
+Seat 7: KARMASUTRA (small blind) folded on the Pre-Flop
+Seat 8: Nimble123 (big blind) folded on the Pre-Flop
+Seat 9: 1BTC folded on the Pre-Flop and did not bet
+
+
+Hand #1805287728 - Holdem(No Limit) - $25/$50 - 2023/08/01 20:28:40 UTC
+Alpharetta 9-max Seat #7 is the button
+Seat 1: NijeGreska ($5000)
+Seat 5: Kidnapper ($5000)
+Seat 6: HardInThePaint ($5000)
+Seat 7: KARMASUTRA ($1122.75)
+Seat 8: Nimble123 ($1873.75)
+Seat 9: 1BTC ($2075)
+Nimble123 posts the small blind $25
+1BTC posts the big blind $50
+*** HOLE CARDS *** 
+HardInThePaint folds
+KARMASUTRA raises $100 to $100
+Nimble123 folds
+1BTC calls $50
+*** FLOP *** [2c 9c 5c]
+Main pot $222.75 | Rake $2.25
+1BTC checks
+KARMASUTRA bets $56.25
+1BTC calls $56.25
+*** TURN *** [2c 9c 5c] [9h]
+Main pot $335.25 | Rake $2.25
+1BTC checks
+KARMASUTRA checks
+*** RIVER *** [2c 9c 5c 9h] [4d]
+Main pot $335.25 | Rake $2.25
+1BTC bets $253.12
+KARMASUTRA folds
+Uncalled bet ($253.12) returned to 1BTC
+1BTC does not show
+*** SUMMARY ***
+Total pot $335.25 | Rake $2.25
+Seat 6: HardInThePaint folded on the Pre-Flop and did not bet
+Seat 7: KARMASUTRA (button) folded on the River
+Seat 8: Nimble123 (small blind) folded on the Pre-Flop
+Seat 9: 1BTC (big blind) did not showed and won $335.25
+
+
+Hand #1805288580 - Holdem(No Limit) - $25/$50 - 2023/08/01 20:28:59 UTC
+Alpharetta 9-max Seat #8 is the button
+Seat 1: NijeGreska ($1000)
+Seat 5: Kidnapper ($5000)
+Seat 6: HardInThePaint ($2103.12)
+Seat 7: KARMASUTRA ($5000)
+Seat 8: Nimble123 ($5000)
+Seat 9: 1BTC ($2254)
+1BTC posts the small blind $25
+NijeGreska posts the big blind $50
+*** HOLE CARDS *** 
+HardInThePaint raises $2103.12 to $2103.12 and is all-in
+KARMASUTRA folds
+Nimble123 folds
+1BTC folds
+NijeGreska folds
+Uncalled bet ($2053.12) returned to HardInThePaint
+HardInThePaint does not show
+*** SUMMARY ***
+Total pot $125
+Seat 1: NijeGreska (big blind) folded on the Pre-Flop
+Seat 6: HardInThePaint did not showed and won $125
+Seat 7: KARMASUTRA folded on the Pre-Flop and did not bet
+Seat 8: Nimble123 (button) folded on the Pre-Flop and did not bet
+Seat 9: 1BTC (small blind) folded on the Pre-Flop
+
+
+Hand #1805288949 - Holdem(No Limit) - $25/$50 - 2023/08/01 20:30:03 UTC
+Alpharetta 9-max Seat #9 is the button
+Seat 1: NijeGreska ($2000)
+Seat 5: Kidnapper ($2000)
+Seat 6: HardInThePaint ($2178.12)
+Seat 7: KARMASUTRA ($5000)
+Seat 8: Nimble123 ($5000)
+Seat 9: 1BTC ($5000)
+NijeGreska posts the small blind $25
+Kidnapper posts the big blind $50
+*** HOLE CARDS *** 
+HardInThePaint raises $2178.12 to $2178.12 and is all-in
+KARMASUTRA folds
+Nimble123 folds
+1BTC folds
+NijeGreska calls $1975 and is all-in
+Kidnapper folds
+Uncalled bet ($178.12) returned to HardInThePaint
+HardInThePaint does not show
+*** FLOP *** [3d 7c 2d]
+Main pot $4047 | Rake $3
+*** TURN *** [3d 7c 2d] [4h]
+Main pot $4047 | Rake $3
+*** RIVER *** [3d 7c 2d 4h] [9s]
+Main pot $4047 | Rake $3
+*** SHOW DOWN ***
+Main pot $4047 | Rake $3
+NijeGreska shows [9d 9c] (a combo of some cards [9s 9d 9c 7c 4h])
+HardInThePaint shows [As 9h] (a combo of some cards [9s 9h As 7c 4h])
+NijeGreska collected $4047 from main pot
+*** SUMMARY ***
+Total pot $4047 | Rake $3
+Seat 1: NijeGreska (small blind) showed [9d 9c] and won $4047 with ThreeOfAKind [9s 9d 9c 7c 4h]
+Seat 5: Kidnapper (big blind) folded on the Pre-Flop
+Seat 6: HardInThePaint showed [As 9h] and lost
+Seat 7: KARMASUTRA folded on the Pre-Flop and did not bet
+Seat 8: Nimble123 folded on the Pre-Flop and did not bet
+Seat 9: 1BTC (button) folded on the Pre-Flop and did not bet
+
+
+Hand #1805291144 - Holdem(No Limit) - $25/$50 - 2023/08/01 20:31:04 UTC
+Alpharetta 9-max Seat #5 is the button
+Seat 1: NijeGreska ($5000)
+Seat 5: Kidnapper ($5000)
+Seat 6: HardInThePaint ($378.24)
+Seat 7: KARMASUTRA ($1000)
+Seat 8: Nimble123 ($5000)
+Seat 9: 1BTC ($2050.88)
+HardInThePaint posts the small blind $25
+KARMASUTRA posts the big blind $50
+*** HOLE CARDS *** 
+Nimble123 folds
+1BTC raises $100 to $100
+NijeGreska folds
+Kidnapper folds
+HardInThePaint raises $353.24 to $378.24 and is all-in
+KARMASUTRA folds
+1BTC calls $278.24
+*** FLOP *** [8h 6h Js]
+Main pot $803.48 | Rake $3
+*** TURN *** [8h 6h Js] [Jd]
+Main pot $803.48 | Rake $3
+*** RIVER *** [8h 6h Js Jd] [Kh]
+Main pot $803.48 | Rake $3
+*** SHOW DOWN ***
+Main pot $803.48 | Rake $3
+HardInThePaint shows [3c Ac] (a combo of some cards [Js Jd Ac Kh 8h])
+1BTC shows [9d 9s] (a combo of some cards [Js Jd 9s 9d Kh])
+1BTC collected $803.48 from main pot
+*** SUMMARY ***
+Total pot $803.48 | Rake $3
+Seat 1: NijeGreska folded on the Pre-Flop and did not bet
+Seat 5: Kidnapper (button) folded on the Pre-Flop and did not bet
+Seat 6: HardInThePaint (small blind) showed [3c Ac] and lost
+Seat 7: KARMASUTRA (big blind) folded on the Pre-Flop
+Seat 8: Nimble123 folded on the Pre-Flop and did not bet
+Seat 9: 1BTC showed [9d 9s] and won $803.48 with TwoPair [Js Jd 9s 9d Kh]
+
+
+Hand #1805291797 - Holdem(No Limit) - $25/$50 - 2023/08/01 20:31:39 UTC
+Alpharetta 9-max Seat #6 is the button
+Seat 1: NijeGreska ($5000)
+Seat 5: Kidnapper ($2000)
+Seat 6: HardInThePaint ($5000)
+Seat 7: KARMASUTRA ($1000)
+Seat 8: Nimble123 ($1848.75)
+Seat 9: 1BTC ($5000)
+KARMASUTRA posts the small blind $25
+Nimble123 posts the big blind $50
+*** HOLE CARDS *** 
+1BTC folds
+NijeGreska folds
+Kidnapper raises $100 to $100
+KARMASUTRA folds
+Nimble123 folds
+Uncalled bet ($50) returned to Kidnapper
+Kidnapper does not show
+*** SUMMARY ***
+Total pot $125
+Seat 1: NijeGreska folded on the Pre-Flop and did not bet
+Seat 5: Kidnapper did not showed and won $125
+Seat 7: KARMASUTRA (small blind) folded on the Pre-Flop
+Seat 8: Nimble123 (big blind) folded on the Pre-Flop
+Seat 9: 1BTC folded on the Pre-Flop and did not bet
+
+
+Hand #1805292155 - Holdem(No Limit) - $25/$50 - 2023/08/01 20:33:20 UTC
+Alpharetta 9-max Seat #7 is the button
+Seat 1: NijeGreska ($5000)
+Seat 5: Kidnapper ($5000)
+Seat 7: KARMASUTRA ($5000)
+Seat 8: Nimble123 ($1798.75)
+Seat 9: 1BTC ($2476.12)
+Nimble123 posts the small blind $25
+1BTC posts the big blind $50
+*** HOLE CARDS *** 
+NijeGreska folds
+Kidnapper folds
+KARMASUTRA folds
+Nimble123 raises $112.50 to $137.50
+1BTC calls $87.50
+*** FLOP *** [9s 2c 2h]
+Main pot $272 | Rake $3
+Nimble123 bets $81.60
+1BTC raises $226.20 to $226.20
+Nimble123 calls $144.60
+*** TURN *** [9s 2c 2h] [5c]
+Main pot $724.40 | Rake $3
+Nimble123 checks
+1BTC bets $363.70
+Nimble123 calls $363.70
+*** RIVER *** [9s 2c 2h 5c] [6s]
+Main pot $1451.80 | Rake $3
+Nimble123 checks
+1BTC bets $1748.72 and is all-in
+Nimble123 calls $1071.35 and is all-in
+Uncalled bet ($677.37) returned to 1BTC
+1BTC does not show
+*** SHOW DOWN ***
+Main pot $1451.80 | Rake $3
+Nimble123 shows [9c Jh] (a combo of some cards [9s 9c 2h 2c Jh])
+1BTC shows [2d Kd] (a combo of some cards [2h 2d 2c Kd 9s])
+1BTC collected $3594.50 from main pot
+*** SUMMARY ***
+Total pot $3594.50 | Rake $3
+Seat 1: NijeGreska folded on the Pre-Flop and did not bet
+Seat 5: Kidnapper folded on the Pre-Flop and did not bet
+Seat 7: KARMASUTRA (button) folded on the Pre-Flop and did not bet
+Seat 8: Nimble123 (small blind) showed [9c Jh] and lost
+Seat 9: 1BTC (big blind) showed [2d Kd] and won $3594.50 with ThreeOfAKind [2h 2d 2c Kd 9s]
+
+
+
+

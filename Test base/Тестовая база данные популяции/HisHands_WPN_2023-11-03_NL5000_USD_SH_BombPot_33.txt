@@ -1,0 +1,1101 @@
+
+Hand #1917168467 - Holdem(No Limit) - $25/$50 - 2023/11/03 00:32:41 UTC
+Indialantic 6-max Seat #1 is the button
+Seat 1: lukabrate ($5000)
+Seat 2: nutsforme100 ($5000)
+Seat 3: ULTIMATEBOT ($5000)
+Seat 4: epsteinsboy ($5000)
+Seat 5: RealEnough ($5000)
+Seat 6: SighFold ($5000)
+lukabrate posts ante $250
+RealEnough posts ante $250
+*** HOLE CARDS *** 
+*** FLOP *** [3s Ac Qc]
+Main pot $498.75 | Rake $1.25
+RealEnough checks
+lukabrate bets $125
+RealEnough calls $125
+*** TURN *** [3s Ac Qc] [8c]
+Main pot $748.75 | Rake $1.25
+RealEnough checks
+lukabrate checks
+*** RIVER *** [3s Ac Qc 8c] [4d]
+Main pot $748.75 | Rake $1.25
+RealEnough checks
+lukabrate checks
+*** SHOW DOWN ***
+Main pot $748.75 | Rake $1.25
+RealEnough shows [6c Kc]
+RealEnough collected $748.75 from main pot
+*** SUMMARY ***
+BombPot
+Total pot $748.75 | Rake $1.25
+Seat 1: lukabrate (button) did not showed and lost
+Seat 5: RealEnough showed [6c Kc] and won $748.75 with Flush [Ac Kc Qc 8c 6c]
+
+
+Hand #1917343301 - Holdem(No Limit) - $25/$50 - 2023/11/03 03:15:41 UTC
+Olmitz 6-max Seat #6 is the button
+Seat 1: Amancio_017 ($2000)
+Seat 2: JASCHACL ($1156)
+Seat 3: RealMenRathole ($9039.75)
+Seat 4: CWestmoreland ($5000)
+Seat 5: epsteinsboy ($5000)
+Seat 6: ULTIMATEBOT ($5000)
+Amancio_017 posts ante $250
+JASCHACL posts ante $250
+RealMenRathole posts ante $250
+CWestmoreland posts ante $250
+epsteinsboy posts ante $250
+ULTIMATEBOT posts ante $250
+*** HOLE CARDS *** 
+*** FLOP *** [6c Td 3c]
+Main pot $1497 | Rake $3
+Amancio_017 bets $1750 and is all-in
+JASCHACL folds
+RealMenRathole folds
+CWestmoreland folds
+epsteinsboy calls $1750
+ULTIMATEBOT folds
+*** RUN IT TWICE ***
+*** TURN 1 *** [6c Td 3c] [Ts]
+Main pot 1 $2498.50 | Rake $1.50
+*** RIVER 1 *** [6c Td 3c Ts] [Th]
+Main pot 1 $2498.50 | Rake $1.50
+*** SHOW DOWN 1 ***
+Main pot 1 $2498.50 | Rake $1.50
+epsteinsboy shows [6h 9d]
+Amancio_017 shows [5d 4c]
+epsteinsboy collected $2498.50 from main pot 1
+*** TURN 2 *** [6c Td 3c] [5c]
+Main pot 2 $2498.50 | Rake $1.50
+*** RIVER 2 *** [6c Td 3c 5c] [3h]
+Main pot 2 $2498.50 | Rake $1.50
+*** SHOW DOWN 2 ***
+Main pot 2 $2498.50 | Rake $1.50
+Amancio_017 shows [5d 4c]
+epsteinsboy collected $2498.50 from main pot 2
+*** SUMMARY ***
+BombPot
+Total pot $4997 | Rake $3
+Board 1 [6c Td 3c Ts Th]
+Seat 1: Amancio_017 showed [5d 4c] and lost
+Seat 2: JASCHACL folded on the Flop
+Seat 3: RealMenRathole folded on the Flop
+Seat 4: CWestmoreland folded on the Flop
+Seat 5: epsteinsboy showed [6h 9d] and won $2498.50 with FullHouse [Ts Th Td 6h 6c]
+Seat 6: ULTIMATEBOT (button) folded on the Flop
+Board 2 [6c Td 3c 5c 3h]
+Seat 1: Amancio_017 showed [5d 4c] and lost
+Seat 2: JASCHACL folded on the Flop
+Seat 3: RealMenRathole folded on the Flop
+Seat 4: CWestmoreland folded on the Flop
+Seat 5: epsteinsboy showed [6h 9d] and won $2498.50 with FullHouse [Ts Th Td 6h 6c]
+Seat 6: ULTIMATEBOT (button) folded on the Flop
+
+
+Hand #1917344451 - Holdem(No Limit) - $25/$50 - 2023/11/03 03:15:52 UTC
+Colby 6-max Seat #2 is the button
+Seat 1: SighFold ($5000)
+Seat 2: SigadiSogadi ($2000)
+Seat 3: _COBKA_PBET_ ($5000)
+Seat 4: greendogshin ($5000)
+Seat 5: RealMenRathole ($2000)
+Seat 6: CWestmoreland ($5000)
+SigadiSogadi posts ante $250
+RealMenRathole posts ante $250
+*** HOLE CARDS *** 
+*** FLOP *** [8d Ks Ah]
+Main pot $498.75 | Rake $1.25
+RealMenRathole checks
+SigadiSogadi checks
+*** TURN *** [8d Ks Ah] [7c]
+Main pot $498.75 | Rake $1.25
+RealMenRathole checks
+SigadiSogadi checks
+*** RIVER *** [8d Ks Ah 7c] [Td]
+Main pot $498.75 | Rake $1.25
+RealMenRathole checks
+SigadiSogadi bets $375
+RealMenRathole calls $375
+*** SHOW DOWN ***
+Main pot $498.75 | Rake $1.25
+SigadiSogadi shows [Kc Jd]
+SigadiSogadi collected $1248.75 from main pot
+*** SUMMARY ***
+BombPot
+Total pot $1248.75 | Rake $1.25
+Seat 2: SigadiSogadi (button) showed [Kc Jd] and won $1248.75 with OnePair [Ks Kc Ah Jd Td]
+Seat 5: RealMenRathole did not showed and lost
+
+
+Hand #1917347435 - Holdem(No Limit) - $25/$50 - 2023/11/03 03:18:57 UTC
+Olmitz 6-max Seat #1 is the button
+Seat 1: Amancio_017 ($2000)
+Seat 2: JASCHACL ($917)
+Seat 3: RealMenRathole ($8714.75)
+Seat 4: CWestmoreland ($5000)
+Seat 5: epsteinsboy ($8158)
+Seat 6: ULTIMATEBOT ($5000)
+Amancio_017 posts ante $250
+JASCHACL posts ante $250
+RealMenRathole posts ante $250
+CWestmoreland posts ante $250
+epsteinsboy posts ante $250
+*** HOLE CARDS *** 
+*** FLOP *** [6d Qh 2d]
+Main pot $1247 | Rake $3
+JASCHACL checks
+RealMenRathole bets $124.50
+CWestmoreland calls $124.50
+epsteinsboy folds
+Amancio_017 calls $124.50
+JASCHACL folds
+*** TURN *** [6d Qh 2d] [7d]
+Main pot $1620.50 | Rake $3
+RealMenRathole checks
+CWestmoreland bets $486.15
+Amancio_017 folds
+RealMenRathole folds
+Uncalled bet ($486.15) returned to CWestmoreland
+CWestmoreland does not show
+*** SUMMARY ***
+BombPot
+Total pot $1620.50 | Rake $3
+Seat 1: Amancio_017 (button) folded on the Turn
+Seat 2: JASCHACL folded on the Flop
+Seat 3: RealMenRathole folded on the Turn
+Seat 4: CWestmoreland did not showed and won $1620.50
+Seat 5: epsteinsboy folded on the Flop
+
+
+Hand #1917356701 - Holdem(No Limit) - $25/$50 - 2023/11/03 03:29:47 UTC
+Colby 6-max Seat #1 is the button
+Seat 1: ULTIMATEBOT ($5559.92)
+Seat 2: maybach1 ($5000)
+Seat 3: Amancio_017 ($2234.50)
+Seat 4: epsteinsboy ($5000)
+Seat 5: RealMenRathole ($6255.28)
+Seat 6: CWestmoreland ($5075)
+ULTIMATEBOT posts ante $250
+maybach1 posts ante $250
+Amancio_017 posts ante $250
+epsteinsboy posts ante $250
+RealMenRathole posts ante $250
+CWestmoreland posts ante $250
+*** HOLE CARDS *** 
+*** FLOP *** [Kc 8s 9d]
+Main pot $1497 | Rake $3
+maybach1 checks
+Amancio_017 checks
+epsteinsboy checks
+RealMenRathole checks
+CWestmoreland checks
+ULTIMATEBOT bets $159.28
+maybach1 raises $1068.56 to $1068.56
+Amancio_017 raises $1984.50 to $1984.50 and is all-in
+epsteinsboy folds
+RealMenRathole folds
+CWestmoreland folds
+ULTIMATEBOT raises $5150.64 to $5309.92 and is all-in
+maybach1 calls $3681.44 and is all-in
+Uncalled bet ($559.92) returned to ULTIMATEBOT
+ULTIMATEBOT does not show
+*** TURN *** [Kc 8s 9d] [7c]
+Main pot $7451.77 | Rake $1.73
+Side pot (1) $5529.73 | Rake $1.27
+*** RIVER *** [Kc 8s 9d 7c] [4c]
+Main pot $7451.77 | Rake $1.73
+Side pot (1) $5529.73 | Rake $1.27
+*** SHOW DOWN ***
+Main pot $7451.77 | Rake $1.73
+Side pot (1) $5529.73 | Rake $1.27
+ULTIMATEBOT shows [9h 9s]
+maybach1 shows [8d Ks]
+Amancio_017 shows [9c Kh]
+ULTIMATEBOT collected $7451.77 from main pot
+ULTIMATEBOT collected $5529.73 from side pot-1
+*** SUMMARY ***
+BombPot
+Total pot $12981.50 | Rake $3
+Seat 1: ULTIMATEBOT (button) showed [9h 9s] and won $12981.50 with a
+Seat 2: maybach1 showed [8d Ks] and lost
+Seat 3: Amancio_017 showed [9c Kh] and lost
+Seat 4: epsteinsboy folded on the Flop
+Seat 5: RealMenRathole folded on the Flop
+Seat 6: CWestmoreland folded on the Flop
+
+
+Hand #1917361184 - Holdem(No Limit) - $25/$50 - 2023/11/03 03:33:02 UTC
+Colby 6-max Seat #5 is the button
+Seat 4: epsteinsboy ($5000)
+Seat 5: RealMenRathole ($6751.53)
+epsteinsboy posts ante $250
+RealMenRathole posts ante $250
+*** HOLE CARDS *** 
+*** FLOP *** [4s 6s 3d]
+Main pot $498.75 | Rake $1.25
+epsteinsboy checks
+RealMenRathole checks
+*** TURN *** [4s 6s 3d] [7d]
+Main pot $498.75 | Rake $1.25
+epsteinsboy checks
+RealMenRathole bets $249.50
+epsteinsboy calls $249.50
+*** RIVER *** [4s 6s 3d 7d] [8d]
+Main pot $997.75 | Rake $1.25
+epsteinsboy checks
+RealMenRathole checks
+*** SHOW DOWN ***
+Main pot $997.75 | Rake $1.25
+RealMenRathole shows [Qd 8c]
+RealMenRathole collected $997.75 from main pot
+*** SUMMARY ***
+BombPot
+Total pot $997.75 | Rake $1.25
+Seat 4: epsteinsboy did not showed and lost
+Seat 5: RealMenRathole (button) showed [Qd 8c] and won $997.75 with OnePair [8d 8c Qd 7d 6s]
+
+
+Hand #1917365917 - Holdem(No Limit) - $25/$50 - 2023/11/03 03:37:56 UTC
+Olmitz 6-max Seat #6 is the button
+Seat 3: RealMenRathole ($9211.75)
+Seat 6: 7SkyAroundMe ($5000)
+RealMenRathole posts ante $250
+7SkyAroundMe posts ante $250
+*** HOLE CARDS *** 
+*** FLOP *** [5s 9d 5d]
+Main pot $498.75 | Rake $1.25
+RealMenRathole checks
+7SkyAroundMe bets $50
+RealMenRathole folds
+Uncalled bet ($50) returned to 7SkyAroundMe
+7SkyAroundMe does not show
+*** SUMMARY ***
+BombPot
+Total pot $498.75 | Rake $1.25
+Seat 3: RealMenRathole folded on the Flop
+Seat 6: 7SkyAroundMe (button) did not showed and won $498.75
+
+
+Hand #1917381347 - Holdem(No Limit) - $25/$50 - 2023/11/03 03:55:37 UTC
+Olmitz 6-max Seat #6 is the button
+Seat 3: RealMenRathole ($5396.62)
+Seat 6: 7SkyAroundMe ($8798.88)
+RealMenRathole posts ante $250
+7SkyAroundMe posts ante $250
+*** HOLE CARDS *** 
+*** FLOP *** [9c 7h 5c]
+Main pot $498.75 | Rake $1.25
+RealMenRathole checks
+7SkyAroundMe bets $50
+RealMenRathole calls $50
+*** TURN *** [9c 7h 5c] [Ah]
+Main pot $598.75 | Rake $1.25
+RealMenRathole checks
+7SkyAroundMe bets $450
+RealMenRathole folds
+Uncalled bet ($450) returned to 7SkyAroundMe
+7SkyAroundMe does not show
+*** SUMMARY ***
+BombPot
+Total pot $598.75 | Rake $1.25
+Seat 3: RealMenRathole folded on the Turn
+Seat 6: 7SkyAroundMe (button) did not showed and won $598.75
+
+
+Hand #1917384155 - Holdem(No Limit) - $25/$50 - 2023/11/03 03:59:59 UTC
+Indialantic 6-max Seat #2 is the button
+Seat 2: CWestmoreland ($8354.38)
+Seat 5: 7SkyAroundMe ($10157.53)
+Seat 6: RealMenRathole ($5668)
+CWestmoreland posts ante $250
+7SkyAroundMe posts ante $250
+RealMenRathole posts ante $250
+*** HOLE CARDS *** 
+*** FLOP *** [5h Qs 2h]
+Main pot $748.25 | Rake $1.75
+7SkyAroundMe checks
+RealMenRathole checks
+CWestmoreland bets $224.47
+7SkyAroundMe folds
+RealMenRathole folds
+Uncalled bet ($224.47) returned to CWestmoreland
+CWestmoreland does not show
+*** SUMMARY ***
+BombPot
+Total pot $748.25 | Rake $1.75
+Seat 2: CWestmoreland (button) did not showed and won $748.25
+Seat 5: 7SkyAroundMe folded on the Flop
+Seat 6: RealMenRathole folded on the Flop
+
+
+Hand #1917390818 - Holdem(No Limit) - $25/$50 - 2023/11/03 04:08:53 UTC
+Olmitz 6-max Seat #3 is the button
+Seat 3: RealMenRathole ($5000)
+Seat 6: 7SkyAroundMe ($15626.58)
+RealMenRathole posts ante $250
+7SkyAroundMe posts ante $250
+*** HOLE CARDS *** 
+*** FLOP *** [9c 3c Tc]
+Main pot $498.75 | Rake $1.25
+7SkyAroundMe checks
+RealMenRathole bets $124.50
+7SkyAroundMe calls $124.50
+*** TURN *** [9c 3c Tc] [Qs]
+Main pot $747.75 | Rake $1.25
+7SkyAroundMe checks
+RealMenRathole bets $501
+7SkyAroundMe calls $501
+*** RIVER *** [9c 3c Tc Qs] [Jd]
+Main pot $1749.75 | Rake $1.25
+7SkyAroundMe checks
+RealMenRathole checks
+*** SHOW DOWN ***
+Main pot $1749.75 | Rake $1.25
+RealMenRathole shows [Js Kd]
+RealMenRathole collected $1749.75 from main pot
+*** SUMMARY ***
+BombPot
+Total pot $1749.75 | Rake $1.25
+Seat 3: RealMenRathole (button) showed [Js Kd] and won $1749.75 with Straight [Kd Qs Js Tc 9c]
+Seat 6: 7SkyAroundMe did not showed and lost
+
+
+Hand #1917394633 - Holdem(No Limit) - $25/$50 - 2023/11/03 04:13:26 UTC
+Indialantic 6-max Seat #2 is the button
+Seat 2: CWestmoreland ($8592.63)
+Seat 5: 7SkyAroundMe ($10401.53)
+Seat 6: RealMenRathole ($5170)
+CWestmoreland posts ante $250
+7SkyAroundMe posts ante $250
+RealMenRathole posts ante $250
+*** HOLE CARDS *** 
+*** FLOP *** [8c 9s 2d]
+Main pot $748.25 | Rake $1.75
+7SkyAroundMe bets $75
+RealMenRathole folds
+CWestmoreland calls $75
+*** TURN *** [8c 9s 2d] [6d]
+Main pot $898.25 | Rake $1.75
+7SkyAroundMe checks
+CWestmoreland bets $673.68
+7SkyAroundMe calls $673.68
+*** RIVER *** [8c 9s 2d 6d] [Tc]
+Main pot $2245.61 | Rake $1.75
+7SkyAroundMe checks
+CWestmoreland checks
+*** SHOW DOWN ***
+Main pot $2245.61 | Rake $1.75
+CWestmoreland shows [5c Ts]
+CWestmoreland collected $2245.61 from main pot
+*** SUMMARY ***
+BombPot
+Total pot $2245.61 | Rake $1.75
+Seat 2: CWestmoreland (button) showed [5c Ts] and won $2245.61 with OnePair [Ts Tc 9s 8c 6d]
+Seat 5: 7SkyAroundMe did not showed and lost
+Seat 6: RealMenRathole folded on the Flop
+
+
+Hand #1917404089 - Holdem(No Limit) - $25/$50 - 2023/11/03 04:24:40 UTC
+Indialantic 6-max Seat #5 is the button
+Seat 5: 7SkyAroundMe ($5000)
+Seat 6: RealMenRathole ($9732)
+7SkyAroundMe posts ante $250
+RealMenRathole posts ante $250
+*** HOLE CARDS *** 
+*** FLOP *** [7h 6d 2h]
+Main pot $498.75 | Rake $1.25
+RealMenRathole checks
+7SkyAroundMe bets $50
+RealMenRathole raises $248 to $248
+7SkyAroundMe calls $198
+*** TURN *** [7h 6d 2h] [Qh]
+Main pot $994.75 | Rake $1.25
+RealMenRathole checks
+7SkyAroundMe bets $498
+RealMenRathole calls $498
+*** RIVER *** [7h 6d 2h Qh] [Td]
+Main pot $1990.75 | Rake $1.25
+RealMenRathole checks
+7SkyAroundMe bets $4004 and is all-in
+RealMenRathole folds
+Uncalled bet ($4004) returned to 7SkyAroundMe
+7SkyAroundMe does not show
+*** SUMMARY ***
+BombPot
+Total pot $1990.75 | Rake $1.25
+Seat 5: 7SkyAroundMe (button) did not showed and won $1990.75
+Seat 6: RealMenRathole folded on the River
+
+
+Hand #1917405191 - Holdem(No Limit) - $25/$50 - 2023/11/03 04:25:25 UTC
+Olmitz 6-max Seat #6 is the button
+Seat 3: RealMenRathole ($6263.54)
+Seat 6: 7SkyAroundMe ($14346.79)
+RealMenRathole posts ante $250
+7SkyAroundMe posts ante $250
+*** HOLE CARDS *** 
+*** FLOP *** [Ts Th Jc]
+Main pot $498.75 | Rake $1.25
+RealMenRathole checks
+7SkyAroundMe checks
+*** TURN *** [Ts Th Jc] [Qs]
+Main pot $498.75 | Rake $1.25
+RealMenRathole checks
+7SkyAroundMe checks
+*** RIVER *** [Ts Th Jc Qs] [8s]
+Main pot $498.75 | Rake $1.25
+RealMenRathole bets $165
+7SkyAroundMe folds
+Uncalled bet ($165) returned to RealMenRathole
+RealMenRathole does not show
+*** SUMMARY ***
+BombPot
+Total pot $498.75 | Rake $1.25
+Seat 3: RealMenRathole did not showed and won $498.75
+Seat 6: 7SkyAroundMe (button) folded on the River
+
+
+Hand #1917410210 - Holdem(No Limit) - $25/$50 - 2023/11/03 04:31:42 UTC
+Indialantic 6-max Seat #5 is the button
+Seat 5: 7SkyAroundMe ($5000)
+Seat 6: RealMenRathole ($10019.50)
+7SkyAroundMe posts ante $250
+RealMenRathole posts ante $250
+*** HOLE CARDS *** 
+*** FLOP *** [Ts 8s 2h]
+Main pot $498.75 | Rake $1.25
+RealMenRathole checks
+7SkyAroundMe bets $50
+RealMenRathole calls $50
+*** TURN *** [Ts 8s 2h] [6d]
+Main pot $598.75 | Rake $1.25
+RealMenRathole checks
+7SkyAroundMe bets $450
+RealMenRathole calls $450
+*** RIVER *** [Ts 8s 2h 6d] [4s]
+Main pot $1498.75 | Rake $1.25
+RealMenRathole checks
+7SkyAroundMe checks
+*** SHOW DOWN ***
+Main pot $1498.75 | Rake $1.25
+RealMenRathole shows [9s As]
+RealMenRathole collected $1498.75 from main pot
+*** SUMMARY ***
+BombPot
+Total pot $1498.75 | Rake $1.25
+Seat 5: 7SkyAroundMe (button) did not showed and lost
+Seat 6: RealMenRathole showed [9s As] and won $1498.75 with Flush [As Ts 9s 8s 4s]
+
+
+Hand #1917411891 - Holdem(No Limit) - $25/$50 - 2023/11/03 04:33:45 UTC
+Olmitz 6-max Seat #6 is the button
+Seat 3: RealMenRathole ($9872.64)
+Seat 6: 7SkyAroundMe ($10731.44)
+RealMenRathole posts ante $250
+7SkyAroundMe posts ante $250
+*** HOLE CARDS *** 
+*** FLOP *** [Tc Th 7d]
+Main pot $498.75 | Rake $1.25
+RealMenRathole checks
+7SkyAroundMe bets $50
+RealMenRathole calls $50
+*** TURN *** [Tc Th 7d] [3s]
+Main pot $598.75 | Rake $1.25
+RealMenRathole checks
+7SkyAroundMe checks
+*** RIVER *** [Tc Th 7d 3s] [9h]
+Main pot $598.75 | Rake $1.25
+RealMenRathole checks
+7SkyAroundMe checks
+*** SHOW DOWN ***
+Main pot $598.75 | Rake $1.25
+RealMenRathole shows [Ad 3c]
+RealMenRathole collected $598.75 from main pot
+*** SUMMARY ***
+BombPot
+Total pot $598.75 | Rake $1.25
+Seat 3: RealMenRathole showed [Ad 3c] and won $598.75 with TwoPair [Th Tc 3s 3c Ad]
+Seat 6: 7SkyAroundMe (button) did not showed and lost
+
+
+Hand #1917423528 - Holdem(No Limit) - $25/$50 - 2023/11/03 04:47:10 UTC
+Olmitz 6-max Seat #6 is the button
+Seat 3: RealMenRathole ($8922.24)
+Seat 6: 7SkyAroundMe ($11669.34)
+RealMenRathole posts ante $250
+7SkyAroundMe posts ante $250
+*** HOLE CARDS *** 
+*** FLOP *** [Ts 4s As]
+Main pot $498.75 | Rake $1.25
+RealMenRathole checks
+7SkyAroundMe bets $50
+RealMenRathole folds
+Uncalled bet ($50) returned to 7SkyAroundMe
+7SkyAroundMe does not show
+*** SUMMARY ***
+BombPot
+Total pot $498.75 | Rake $1.25
+Seat 3: RealMenRathole folded on the Flop
+Seat 6: 7SkyAroundMe (button) did not showed and won $498.75
+
+
+Hand #1917431340 - Holdem(No Limit) - $25/$50 - 2023/11/03 04:58:19 UTC
+Indialantic 6-max Seat #6 is the button
+Seat 5: 7SkyAroundMe ($5233.79)
+Seat 6: RealMenRathole ($10595.81)
+7SkyAroundMe posts ante $250
+RealMenRathole posts ante $250
+*** HOLE CARDS *** 
+*** FLOP *** [6d 3c Ts]
+Main pot $498.75 | Rake $1.25
+7SkyAroundMe checks
+RealMenRathole checks
+*** TURN *** [6d 3c Ts] [9c]
+Main pot $498.75 | Rake $1.25
+7SkyAroundMe bets $500
+RealMenRathole folds
+Uncalled bet ($500) returned to 7SkyAroundMe
+7SkyAroundMe does not show
+*** SUMMARY ***
+BombPot
+Total pot $498.75 | Rake $1.25
+Seat 5: 7SkyAroundMe did not showed and won $498.75
+Seat 6: RealMenRathole (button) folded on the Turn
+
+
+Hand #1917437241 - Holdem(No Limit) - $25/$50 - 2023/11/03 05:08:18 UTC
+Olmitz 6-max Seat #3 is the button
+Seat 3: RealMenRathole ($8801.60)
+Seat 6: 7SkyAroundMe ($6721.23)
+RealMenRathole posts ante $250
+7SkyAroundMe posts ante $250
+*** HOLE CARDS *** 
+*** FLOP *** [8d As 9c]
+Main pot $498.75 | Rake $1.25
+7SkyAroundMe checks
+RealMenRathole bets $124.50
+7SkyAroundMe calls $124.50
+*** TURN *** [8d As 9c] [2h]
+Main pot $747.75 | Rake $1.25
+7SkyAroundMe checks
+RealMenRathole bets $971.50
+7SkyAroundMe folds
+Uncalled bet ($971.50) returned to RealMenRathole
+RealMenRathole does not show
+*** SUMMARY ***
+BombPot
+Total pot $747.75 | Rake $1.25
+Seat 3: RealMenRathole (button) did not showed and won $747.75
+Seat 6: 7SkyAroundMe folded on the Turn
+
+
+Hand #1917440871 - Holdem(No Limit) - $25/$50 - 2023/11/03 05:13:43 UTC
+Indialantic 6-max Seat #6 is the button
+Seat 5: 7SkyAroundMe ($5658.75)
+Seat 6: RealMenRathole ($10526.71)
+7SkyAroundMe posts ante $250
+RealMenRathole posts ante $250
+*** HOLE CARDS *** 
+*** FLOP *** [Qs 6d Th]
+Main pot $498.75 | Rake $1.25
+7SkyAroundMe checks
+RealMenRathole bets $124.50
+7SkyAroundMe raises $499 to $499
+RealMenRathole calls $374.50
+*** TURN *** [Qs 6d Th] [9s]
+Main pot $1496.75 | Rake $1.25
+7SkyAroundMe checks
+RealMenRathole checks
+*** RIVER *** [Qs 6d Th 9s] [Ad]
+Main pot $1496.75 | Rake $1.25
+7SkyAroundMe bets $1123.50
+RealMenRathole folds
+Uncalled bet ($1123.50) returned to 7SkyAroundMe
+7SkyAroundMe does not show
+*** SUMMARY ***
+BombPot
+Total pot $1496.75 | Rake $1.25
+Seat 5: 7SkyAroundMe did not showed and won $1496.75
+Seat 6: RealMenRathole (button) folded on the River
+
+
+Hand #1917451318 - Holdem(No Limit) - $25/$50 - 2023/11/03 05:27:49 UTC
+Olmitz 6-max Seat #3 is the button
+Seat 3: RealMenRathole ($6613.48)
+Seat 6: 7SkyAroundMe ($10673.75)
+RealMenRathole posts ante $250
+7SkyAroundMe posts ante $250
+*** HOLE CARDS *** 
+*** FLOP *** [4s 6s 2d]
+Main pot $498.75 | Rake $1.25
+7SkyAroundMe checks
+RealMenRathole bets $334
+7SkyAroundMe calls $334
+*** TURN *** [4s 6s 2d] [Jd]
+Main pot $1166.75 | Rake $1.25
+7SkyAroundMe checks
+RealMenRathole bets $781.50
+7SkyAroundMe folds
+Uncalled bet ($781.50) returned to RealMenRathole
+RealMenRathole does not show
+*** SUMMARY ***
+BombPot
+Total pot $1166.75 | Rake $1.25
+Seat 3: RealMenRathole (button) did not showed and won $1166.75
+Seat 6: 7SkyAroundMe folded on the Turn
+
+
+Hand #1917451278 - Holdem(No Limit) - $25/$50 - 2023/11/03 05:28:09 UTC
+Indialantic 6-max Seat #4 is the button
+Seat 1: IdoGoats ($2000)
+Seat 2: SigadiSogadi ($2000)
+Seat 3: uhhhyesandno ($5000)
+Seat 4: honey_badger ($5000)
+Seat 5: 7SkyAroundMe ($6704)
+Seat 6: RealMenRathole ($9986.21)
+IdoGoats posts ante $250
+SigadiSogadi posts ante $250
+uhhhyesandno posts ante $250
+honey_badger posts ante $250
+7SkyAroundMe posts ante $250
+RealMenRathole posts ante $250
+*** HOLE CARDS *** 
+*** FLOP *** [4d 3h Qc]
+Main pot $1497 | Rake $3
+7SkyAroundMe checks
+RealMenRathole checks
+IdoGoats bets $250
+SigadiSogadi folds
+uhhhyesandno folds
+honey_badger folds
+7SkyAroundMe calls $250
+RealMenRathole raises $1375 to $1375
+IdoGoats folds
+7SkyAroundMe folds
+Uncalled bet ($1125) returned to RealMenRathole
+RealMenRathole does not show
+*** SUMMARY ***
+BombPot
+Total pot $2247 | Rake $3
+Seat 1: IdoGoats folded on the Flop
+Seat 2: SigadiSogadi folded on the Flop
+Seat 3: uhhhyesandno folded on the Flop
+Seat 4: honey_badger (button) folded on the Flop
+Seat 5: 7SkyAroundMe folded on the Flop
+Seat 6: RealMenRathole did not showed and won $2247
+
+
+Hand #1917456820 - Holdem(No Limit) - $25/$50 - 2023/11/03 05:35:29 UTC
+Indialantic 6-max Seat #6 is the button
+Seat 5: 7SkyAroundMe ($9025.40)
+Seat 6: RealMenRathole ($8906.31)
+7SkyAroundMe posts ante $250
+RealMenRathole posts ante $250
+*** HOLE CARDS *** 
+*** FLOP *** [7s 9c 5d]
+Main pot $498.75 | Rake $1.25
+7SkyAroundMe checks
+RealMenRathole bets $374
+7SkyAroundMe folds
+Uncalled bet ($374) returned to RealMenRathole
+RealMenRathole does not show
+*** SUMMARY ***
+BombPot
+Total pot $498.75 | Rake $1.25
+Seat 5: 7SkyAroundMe folded on the Flop
+Seat 6: RealMenRathole (button) did not showed and won $498.75
+
+
+Hand #1917461984 - Holdem(No Limit) - $25/$50 - 2023/11/03 05:43:17 UTC
+Olmitz 6-max Seat #6 is the button
+Seat 3: RealMenRathole ($6027.50)
+Seat 6: 7SkyAroundMe ($12564.78)
+RealMenRathole posts ante $250
+7SkyAroundMe posts ante $250
+*** HOLE CARDS *** 
+*** FLOP *** [8h 5c 2h]
+Main pot $498.75 | Rake $1.25
+RealMenRathole checks
+7SkyAroundMe bets $50
+RealMenRathole raises $248 to $248
+7SkyAroundMe calls $198
+*** TURN *** [8h 5c 2h] [Ac]
+Main pot $994.75 | Rake $1.25
+RealMenRathole checks
+7SkyAroundMe bets $995
+RealMenRathole folds
+Uncalled bet ($995) returned to 7SkyAroundMe
+7SkyAroundMe does not show
+*** SUMMARY ***
+BombPot
+Total pot $994.75 | Rake $1.25
+Seat 3: RealMenRathole folded on the Turn
+Seat 6: 7SkyAroundMe (button) did not showed and won $994.75
+
+
+Hand #1917465329 - Holdem(No Limit) - $25/$50 - 2023/11/03 05:48:43 UTC
+Indialantic 6-max Seat #5 is the button
+Seat 5: 7SkyAroundMe ($5660.05)
+Seat 6: RealMenRathole ($12261.66)
+7SkyAroundMe posts ante $250
+RealMenRathole posts ante $250
+*** HOLE CARDS *** 
+*** FLOP *** [6c 9h 3s]
+Main pot $498.75 | Rake $1.25
+RealMenRathole checks
+7SkyAroundMe bets $50
+RealMenRathole calls $50
+*** TURN *** [6c 9h 3s] [Kc]
+Main pot $598.75 | Rake $1.25
+RealMenRathole checks
+7SkyAroundMe checks
+*** RIVER *** [6c 9h 3s Kc] [Kd]
+Main pot $598.75 | Rake $1.25
+RealMenRathole checks
+7SkyAroundMe checks
+*** SHOW DOWN ***
+Main pot $598.75 | Rake $1.25
+RealMenRathole shows [Qs Jc]
+RealMenRathole collected $598.75 from main pot
+*** SUMMARY ***
+BombPot
+Total pot $598.75 | Rake $1.25
+Seat 5: 7SkyAroundMe (button) did not showed and lost
+Seat 6: RealMenRathole showed [Qs Jc] and won $598.75 with OnePair [Kd Kc Qs Jc 9h]
+
+
+Hand #1917595825 - Holdem(No Limit) - $25/$50 - 2023/11/03 11:15:22 UTC
+Indialantic 6-max Seat #1 is the button
+Seat 1: SeaLlama ($5000)
+Seat 2: JohnMcShen ($5000)
+Seat 3: NOMNOMBANKROLL ($5000)
+Seat 4: xplo1t4bl3 ($5000)
+Seat 5: TheMestresis ($5000)
+SeaLlama posts ante $250
+JohnMcShen posts ante $250
+*** HOLE CARDS *** 
+*** FLOP *** [As 7d 2d]
+Main pot $498.75 | Rake $1.25
+JohnMcShen checks
+SeaLlama checks
+*** TURN *** [As 7d 2d] [Jd]
+Main pot $498.75 | Rake $1.25
+JohnMcShen checks
+SeaLlama checks
+*** RIVER *** [As 7d 2d Jd] [Kd]
+Main pot $498.75 | Rake $1.25
+JohnMcShen checks
+SeaLlama checks
+*** SHOW DOWN ***
+Main pot $498.75 | Rake $1.25
+JohnMcShen shows [Th 6s]
+JohnMcShen collected $498.75 from main pot
+*** SUMMARY ***
+BombPot
+Total pot $498.75 | Rake $1.25
+Seat 1: SeaLlama (button) did not showed and lost
+Seat 2: JohnMcShen showed [Th 6s] and won $498.75 with HighCard [As Kd Jd Th 7d]
+
+
+Hand #1917599395 - Holdem(No Limit) - $25/$50 - 2023/11/03 11:28:34 UTC
+Indialantic 6-max Seat #2 is the button
+Seat 1: SeaLlama ($5000)
+Seat 2: JohnMcShen ($10006.25)
+Seat 3: SepplBeppl ($5000)
+Seat 4: xplo1t4bl3 ($6682.75)
+SeaLlama posts ante $250
+JohnMcShen posts ante $250
+xplo1t4bl3 posts ante $250
+*** HOLE CARDS *** 
+*** FLOP *** [Td Kh 9s]
+Main pot $748.25 | Rake $1.75
+xplo1t4bl3 checks
+SeaLlama checks
+JohnMcShen bets $231.95
+xplo1t4bl3 calls $231.95
+SeaLlama raises $954.87 to $954.87
+JohnMcShen folds
+xplo1t4bl3 calls $722.92
+*** TURN *** [Td Kh 9s] [7c]
+Main pot $2889.94 | Rake $1.75
+xplo1t4bl3 checks
+SeaLlama bets $722.92
+xplo1t4bl3 folds
+Uncalled bet ($722.92) returned to SeaLlama
+SeaLlama does not show
+*** SUMMARY ***
+BombPot
+Total pot $2889.94 | Rake $1.75
+Seat 1: SeaLlama did not showed and won $2889.94
+Seat 2: JohnMcShen (button) folded on the Flop
+Seat 4: xplo1t4bl3 folded on the Turn
+
+
+Hand #1917603386 - Holdem(No Limit) - $25/$50 - 2023/11/03 11:41:24 UTC
+Indialantic 6-max Seat #2 is the button
+Seat 1: SeaLlama ($8779.07)
+Seat 2: JohnMcShen ($6699.30)
+Seat 4: xplo1t4bl3 ($5351.13)
+SeaLlama posts ante $250
+JohnMcShen posts ante $250
+xplo1t4bl3 posts ante $250
+*** HOLE CARDS *** 
+*** FLOP *** [6d Tc 2c]
+Main pot $748.25 | Rake $1.75
+xplo1t4bl3 checks
+SeaLlama bets $375
+JohnMcShen calls $375
+xplo1t4bl3 folds
+*** TURN *** [6d Tc 2c] [4s]
+Main pot $1498.25 | Rake $1.75
+SeaLlama bets $750
+JohnMcShen folds
+Uncalled bet ($750) returned to SeaLlama
+SeaLlama does not show
+*** SUMMARY ***
+BombPot
+Total pot $1498.25 | Rake $1.75
+Seat 1: SeaLlama did not showed and won $1498.25
+Seat 2: JohnMcShen (button) folded on the Turn
+Seat 4: xplo1t4bl3 folded on the Flop
+
+
+Hand #1917605904 - Holdem(No Limit) - $25/$50 - 2023/11/03 11:50:24 UTC
+Indialantic 6-max Seat #5 is the button
+Seat 1: SeaLlama ($9710.07)
+Seat 2: JohnMcShen ($5764.30)
+Seat 3: Amancio_017 ($2347)
+Seat 4: xplo1t4bl3 ($5970.25)
+Seat 5: Simulacra ($2000)
+Seat 6: J0hnMcclean ($4800)
+SeaLlama posts ante $250
+JohnMcShen posts ante $250
+Amancio_017 posts ante $250
+xplo1t4bl3 posts ante $250
+Simulacra posts ante $250
+J0hnMcclean posts ante $250
+*** HOLE CARDS *** 
+*** FLOP *** [Td Qd 3c]
+Main pot $1497 | Rake $3
+J0hnMcclean checks
+SeaLlama checks
+JohnMcShen checks
+Amancio_017 checks
+xplo1t4bl3 bets $300
+Simulacra folds
+J0hnMcclean folds
+SeaLlama calls $300
+JohnMcShen folds
+Amancio_017 folds
+*** TURN *** [Td Qd 3c] [8h]
+Main pot $2097 | Rake $3
+SeaLlama checks
+xplo1t4bl3 checks
+*** RIVER *** [Td Qd 3c 8h] [2h]
+Main pot $2097 | Rake $3
+SeaLlama bets $1050
+xplo1t4bl3 calls $1050
+*** SHOW DOWN ***
+Main pot $2097 | Rake $3
+xplo1t4bl3 shows [3s Ad]
+xplo1t4bl3 collected $4197 from main pot
+*** SUMMARY ***
+BombPot
+Total pot $4197 | Rake $3
+Seat 1: SeaLlama did not showed and lost
+Seat 2: JohnMcShen folded on the Flop
+Seat 3: Amancio_017 folded on the Flop
+Seat 4: xplo1t4bl3 showed [3s Ad] and won $4197 with OnePair [3s 3c Ad Qd Td]
+Seat 5: Simulacra (button) folded on the Flop
+Seat 6: J0hnMcclean folded on the Flop
+
+
+Hand #1917612814 - Holdem(No Limit) - $25/$50 - 2023/11/03 12:13:21 UTC
+Indialantic 6-max Seat #2 is the button
+Seat 2: JohnMcShen ($5000)
+Seat 4: xplo1t4bl3 ($9376.50)
+Seat 6: J0hnMcclean ($8401.85)
+JohnMcShen posts ante $250
+xplo1t4bl3 posts ante $250
+J0hnMcclean posts ante $250
+*** HOLE CARDS *** 
+*** FLOP *** [Ad 8s 7s]
+Main pot $748.25 | Rake $1.75
+xplo1t4bl3 checks
+J0hnMcclean checks
+JohnMcShen checks
+*** TURN *** [Ad 8s 7s] [6d]
+Main pot $748.25 | Rake $1.75
+xplo1t4bl3 bets $540
+J0hnMcclean folds
+JohnMcShen folds
+Uncalled bet ($540) returned to xplo1t4bl3
+xplo1t4bl3 does not show
+*** SUMMARY ***
+BombPot
+Total pot $748.25 | Rake $1.75
+Seat 2: JohnMcShen (button) folded on the Turn
+Seat 4: xplo1t4bl3 did not showed and won $748.25
+Seat 6: J0hnMcclean folded on the Turn
+
+
+Hand #1917618069 - Holdem(No Limit) - $25/$50 - 2023/11/03 12:29:31 UTC
+Indialantic 6-max Seat #2 is the button
+Seat 1: IdoGoats ($5087)
+Seat 2: JohnMcShen ($5000)
+Seat 3: B1gPoppa ($4951.16)
+Seat 4: xplo1t4bl3 ($9885.20)
+Seat 5: gorbashove ($4247)
+Seat 6: J0hnMcclean ($9680.35)
+IdoGoats posts ante $250
+JohnMcShen posts ante $250
+B1gPoppa posts ante $250
+xplo1t4bl3 posts ante $250
+gorbashove posts ante $250
+J0hnMcclean posts ante $250
+*** HOLE CARDS *** 
+*** FLOP *** [7d Jh Qd]
+Main pot $1497 | Rake $3
+B1gPoppa checks
+xplo1t4bl3 bets $150
+gorbashove folds
+J0hnMcclean folds
+IdoGoats folds
+JohnMcShen calls $150
+B1gPoppa folds
+*** TURN *** [7d Jh Qd] [2d]
+Main pot $1797 | Rake $3
+xplo1t4bl3 checks
+JohnMcShen checks
+*** RIVER *** [7d Jh Qd 2d] [4h]
+Main pot $1797 | Rake $3
+xplo1t4bl3 checks
+JohnMcShen checks
+*** SHOW DOWN ***
+Main pot $1797 | Rake $3
+JohnMcShen shows [Jd 6h]
+JohnMcShen collected $1797 from main pot
+*** SUMMARY ***
+BombPot
+Total pot $1797 | Rake $3
+Seat 1: IdoGoats folded on the Flop
+Seat 2: JohnMcShen (button) showed [Jd 6h] and won $1797 with OnePair [Jh Jd Qd 7d 6h]
+Seat 3: B1gPoppa folded on the Flop
+Seat 4: xplo1t4bl3 did not showed and lost
+Seat 5: gorbashove folded on the Flop
+Seat 6: J0hnMcclean folded on the Flop
+
+
+Hand #1917626170 - Holdem(No Limit) - $25/$50 - 2023/11/03 12:51:45 UTC
+Indialantic 6-max Seat #3 is the button
+Seat 2: ipeedNfarded ($5000)
+Seat 3: gorbashove ($5000)
+Seat 5: gorbashove ($5000)
+Seat 6: J0hnMcclean ($8014.85)
+gorbashove posts ante $250
+J0hnMcclean posts ante $250
+J0hnMcclean posts the small blind $25
+*** HOLE CARDS *** 
+*** FLOP *** [Ah 7c 3h]
+Main pot $498.75 | Rake $1.25
+J0hnMcclean checks
+gorbashove checks
+*** TURN *** [Ah 7c 3h] [Jh]
+Main pot $498.75 | Rake $1.25
+J0hnMcclean checks
+gorbashove checks
+*** RIVER *** [Ah 7c 3h Jh] [9h]
+Main pot $498.75 | Rake $1.25
+J0hnMcclean checks
+gorbashove checks
+*** SHOW DOWN ***
+Main pot $498.75 | Rake $1.25
+gorbashove shows [Ac 9c]
+gorbashove collected $498.75 from main pot
+*** SUMMARY ***
+BombPot
+Total pot $498.75 | Rake $1.25
+Seat 3: gorbashove (button) showed [Ac 9c] and won $498.75 with TwoPair [Ah Ac 9h 9c Jh]
+Seat 6: J0hnMcclean (small blind) did not showed and lost
+
+
+Hand #1917628371 - Holdem(No Limit) - $25/$50 - 2023/11/03 13:01:19 UTC
+Indialantic 6-max Seat #4 is the button
+Seat 1: B1gPoppa ($5217.12)
+Seat 2: PR0DIGY ($5036)
+Seat 3: gorbashove ($6258.50)
+Seat 4: IdoGoats ($3560.87)
+Seat 5: Amancio_017 ($2000)
+Seat 6: J0hnMcclean ($6910.60)
+B1gPoppa posts ante $250
+PR0DIGY posts ante $250
+gorbashove posts ante $250
+IdoGoats posts ante $250
+Amancio_017 posts ante $250
+J0hnMcclean posts ante $250
+*** HOLE CARDS *** 
+*** FLOP *** [4s Qs 9s]
+Main pot $1497 | Rake $3
+Amancio_017 checks
+J0hnMcclean checks
+B1gPoppa checks
+PR0DIGY checks
+gorbashove bets $149.50
+IdoGoats calls $149.50
+Amancio_017 folds
+J0hnMcclean calls $149.50
+B1gPoppa calls $149.50
+PR0DIGY folds
+*** TURN *** [4s Qs 9s] [Jd]
+Main pot $2095 | Rake $3
+J0hnMcclean checks
+B1gPoppa checks
+gorbashove checks
+IdoGoats bets $3161.37 and is all-in
+J0hnMcclean folds
+B1gPoppa folds
+gorbashove folds
+Uncalled bet ($3161.37) returned to IdoGoats
+IdoGoats does not show
+*** SUMMARY ***
+BombPot
+Total pot $2095 | Rake $3
+Seat 1: B1gPoppa folded on the Turn
+Seat 2: PR0DIGY folded on the Flop
+Seat 3: gorbashove folded on the Turn
+Seat 4: IdoGoats (button) did not showed and won $2095
+Seat 5: Amancio_017 folded on the Flop
+Seat 6: J0hnMcclean folded on the Turn
+
+
+Hand #1917786914 - Holdem(No Limit) - $25/$50 - 2023/11/03 17:30:04 UTC
+Indialantic 6-max Seat #2 is the button
+Seat 2: fonStierlitz ($5000)
+Seat 3: DoublelegTD ($5000)
+Seat 6: lukabrate ($5000)
+fonStierlitz posts ante $250
+lukabrate posts ante $250
+*** HOLE CARDS *** 
+*** FLOP *** [8s 4c 7s]
+Main pot $498.75 | Rake $1.25
+lukabrate checks
+fonStierlitz checks
+*** TURN *** [8s 4c 7s] [2h]
+Main pot $498.75 | Rake $1.25
+lukabrate bets $375
+fonStierlitz calls $375
+*** RIVER *** [8s 4c 7s 2h] [Js]
+Main pot $1248.75 | Rake $1.25
+lukabrate bets $312.50
+fonStierlitz raises $2187.50 to $2187.50
+lukabrate folds
+Uncalled bet ($1875) returned to fonStierlitz
+fonStierlitz does not show
+*** SUMMARY ***
+BombPot
+Total pot $1873.75 | Rake $1.25
+Seat 2: fonStierlitz (button) did not showed and won $1873.75
+Seat 6: lukabrate folded on the River
+

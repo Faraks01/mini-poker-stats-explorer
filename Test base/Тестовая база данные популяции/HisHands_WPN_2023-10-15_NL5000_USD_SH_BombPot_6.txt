@@ -1,0 +1,191 @@
+
+Hand #1895471355 - Holdem(No Limit) - $25/$50 - 2023/10/15 00:42:03 UTC
+Carlisle 6-max Seat #5 is the button
+Seat 2: lukabrate ($5000)
+Seat 3: epsteinsboy ($5000)
+Seat 5: TIKITAKA11 ($5000)
+lukabrate posts ante $250
+TIKITAKA11 posts ante $250
+*** HOLE CARDS *** 
+*** FLOP *** [4d Qd Ah]
+Main pot $498.75 | Rake $1.25
+lukabrate checks
+TIKITAKA11 bets $100
+lukabrate calls $100
+*** TURN *** [4d Qd Ah] [6c]
+Main pot $698.75 | Rake $1.25
+lukabrate checks
+TIKITAKA11 checks
+*** RIVER *** [4d Qd Ah 6c] [Qs]
+Main pot $698.75 | Rake $1.25
+lukabrate bets $1050
+TIKITAKA11 folds
+Uncalled bet ($1050) returned to lukabrate
+lukabrate does not show
+*** SUMMARY ***
+BombPot
+Total pot $698.75 | Rake $1.25
+Seat 2: lukabrate did not showed and won $698.75
+Seat 5: TIKITAKA11 (button) folded on the River
+
+
+Hand #1895480507 - Holdem(No Limit) - $25/$50 - 2023/10/15 00:49:39 UTC
+Carlisle 6-max Seat #3 is the button
+Seat 2: lukabrate ($5622.75)
+Seat 3: ULTIMATEBOT ($5000)
+Seat 5: TIKITAKA11 ($5000)
+Seat 6: Burundos254 ($5885.75)
+lukabrate posts ante $250
+ULTIMATEBOT posts ante $250
+TIKITAKA11 posts ante $250
+Burundos254 posts ante $250
+*** HOLE CARDS *** 
+*** FLOP *** [6c 8d 7c]
+Main pot $997.75 | Rake $2.25
+TIKITAKA11 checks
+Burundos254 checks
+lukabrate bets $250
+ULTIMATEBOT folds
+TIKITAKA11 calls $250
+Burundos254 folds
+*** TURN *** [6c 8d 7c] [2s]
+Main pot $1497.75 | Rake $2.25
+TIKITAKA11 checks
+lukabrate bets $1125
+TIKITAKA11 folds
+Uncalled bet ($1125) returned to lukabrate
+lukabrate does not show
+*** SUMMARY ***
+BombPot
+Total pot $1497.75 | Rake $2.25
+Seat 2: lukabrate did not showed and won $1497.75
+Seat 3: ULTIMATEBOT (button) folded on the Flop
+Seat 5: TIKITAKA11 folded on the Turn
+Seat 6: Burundos254 folded on the Flop
+
+
+Hand #1895602548 - Holdem(No Limit) - $25/$50 - 2023/10/15 02:46:36 UTC
+Carlisle 6-max Seat #6 is the button
+Seat 1: Sabazius ($5000)
+Seat 2: ULTIMATEBOT ($5000)
+Seat 3: lol voidaments ($5000)
+Seat 4: Sabazius ($5000)
+Seat 6: Burundos254 ($5019.75)
+ULTIMATEBOT posts ante $250
+Burundos254 posts ante $250
+*** HOLE CARDS *** 
+*** FLOP *** [9d 5d 8s]
+Main pot $498.75 | Rake $1.25
+ULTIMATEBOT checks
+Burundos254 checks
+*** TURN *** [9d 5d 8s] [5h]
+Main pot $498.75 | Rake $1.25
+ULTIMATEBOT checks
+Burundos254 checks
+*** RIVER *** [9d 5d 8s 5h] [Kd]
+Main pot $498.75 | Rake $1.25
+ULTIMATEBOT checks
+Burundos254 checks
+*** SHOW DOWN ***
+Main pot $498.75 | Rake $1.25
+Burundos254 shows [3c 8d]
+Burundos254 collected $498.75 from main pot
+*** SUMMARY ***
+BombPot
+Total pot $498.75 | Rake $1.25
+Seat 2: ULTIMATEBOT did not showed and lost
+Seat 6: Burundos254 (button) showed [3c 8d] and won $498.75 with TwoPair [8s 8d 5h 5d Kd]
+
+
+Hand #1895610246 - Holdem(No Limit) - $25/$50 - 2023/10/15 02:54:33 UTC
+Carlisle 6-max Seat #4 is the button
+Seat 2: N0Sh1t ($5000)
+Seat 3: lol voidaments ($5000)
+Seat 4: N0Sh1t ($5000)
+Seat 5: ULTIMATEBOT ($5000)
+lol voidaments posts ante $250
+N0Sh1t posts ante $250
+*** HOLE CARDS *** 
+*** FLOP *** [8c 2h 8d]
+Main pot $498.75 | Rake $1.25
+lol voidaments checks
+N0Sh1t checks
+*** TURN *** [8c 2h 8d] [5c]
+Main pot $498.75 | Rake $1.25
+lol voidaments bets $360
+N0Sh1t folds
+Uncalled bet ($360) returned to lol voidaments
+lol voidaments does not show
+*** SUMMARY ***
+BombPot
+Total pot $498.75 | Rake $1.25
+Seat 3: lol voidaments did not showed and won $498.75
+Seat 4: N0Sh1t (button) folded on the Turn
+
+
+Hand #1895828943 - Holdem(No Limit) - $25/$50 - 2023/10/15 08:37:20 UTC
+Carlisle 6-max Seat #6 is the button
+Seat 3: PR0DIGY ($5000)
+Seat 6: SeaLlama ($5000)
+PR0DIGY posts ante $250
+SeaLlama posts ante $250
+*** HOLE CARDS *** 
+*** FLOP *** [2s Ks 2c]
+Main pot $498.75 | Rake $1.25
+PR0DIGY checks
+SeaLlama bets $124.69
+PR0DIGY calls $124.69
+*** TURN *** [2s Ks 2c] [7c]
+Main pot $748.13 | Rake $1.25
+PR0DIGY checks
+SeaLlama checks
+*** RIVER *** [2s Ks 2c 7c] [8s]
+Main pot $748.13 | Rake $1.25
+PR0DIGY bets $561.09
+SeaLlama calls $561.09
+*** SHOW DOWN ***
+Main pot $748.13 | Rake $1.25
+PR0DIGY shows [Kh 6c]
+PR0DIGY collected $1870.31 from main pot
+*** SUMMARY ***
+BombPot
+Total pot $1870.31 | Rake $1.25
+Seat 3: PR0DIGY showed [Kh 6c] and won $1870.31 with TwoPair [Ks Kh 2s 2c 8s]
+Seat 6: SeaLlama (button) did not showed and lost
+
+
+Hand #1896131274 - Holdem(No Limit) - $25/$50 - 2023/10/15 17:14:50 UTC
+Carlisle 6-max Seat #5 is the button
+Seat 2: fonStierlitz ($5000)
+Seat 3: SigadiSogadi ($5000)
+Seat 5: RealMenRathole ($2000)
+Seat 6: Simulacra ($5000)
+fonStierlitz posts ante $250
+RealMenRathole posts ante $250
+*** HOLE CARDS *** 
+*** FLOP *** [9s 2d 8c]
+Main pot $498.75 | Rake $1.25
+fonStierlitz bets $125
+RealMenRathole calls $125
+*** TURN *** [9s 2d 8c] [7h]
+Main pot $748.75 | Rake $1.25
+fonStierlitz bets $375
+RealMenRathole calls $375
+*** RIVER *** [9s 2d 8c 7h] [Jc]
+Main pot $1498.75 | Rake $1.25
+fonStierlitz bets $4250 and is all-in
+RealMenRathole calls $1250 and is all-in
+Uncalled bet ($3000) returned to fonStierlitz
+fonStierlitz does not show
+*** SHOW DOWN ***
+Main pot $1498.75 | Rake $1.25
+fonStierlitz shows [Td 4d]
+RealMenRathole shows [6c Th]
+fonStierlitz collected $1999.38 from main pot
+RealMenRathole collected $1999.37 from main pot
+*** SUMMARY ***
+BombPot
+Total pot $3998.75 | Rake $1.25
+Seat 2: fonStierlitz showed [Td 4d] and won $1999.38 with Straight [Jc Th 9s 8c 7h]
+Seat 5: RealMenRathole (button) showed [6c Th] and won $1999.37 with Straight [Jc Th 9s 8c 7h]
+

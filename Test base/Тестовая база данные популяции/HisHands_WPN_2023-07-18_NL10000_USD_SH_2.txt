@@ -1,0 +1,57 @@
+
+Hand #1786744292 - Holdem(No Limit) - $50/$100 - 2023/07/18 05:44:46 UTC
+Santa Rosa 6-max Seat #2 is the button
+Seat 2: vesnapisarovic ($10000)
+Seat 4: TIKITAKA11 ($10000)
+vesnapisarovic posts the small blind $50
+TIKITAKA11 posts the big blind $100
+*** HOLE CARDS *** 
+vesnapisarovic raises $200 to $250
+TIKITAKA11 calls $150
+*** FLOP *** [7d 2s 5d]
+Main pot $498.75 | Rake $1.25
+TIKITAKA11 checks
+vesnapisarovic checks
+*** TURN *** [7d 2s 5d] [2h]
+Main pot $498.75 | Rake $1.25
+TIKITAKA11 bets $375
+vesnapisarovic folds
+Uncalled bet ($375) returned to TIKITAKA11
+TIKITAKA11 does not show
+*** SUMMARY ***
+Total pot $498.75 | Rake $1.25
+Seat 2: vesnapisarovic (small blind) folded on the Turn
+Seat 4: TIKITAKA11 (big blind) did not showed and won $498.75
+
+
+Hand #1786744698 - Holdem(No Limit) - $50/$100 - 2023/07/18 05:45:45 UTC
+Santa Rosa 6-max Seat #4 is the button
+Seat 2: vesnapisarovic ($10000)
+Seat 4: TIKITAKA11 ($10248.75)
+TIKITAKA11 posts the small blind $50
+vesnapisarovic posts the big blind $100
+*** HOLE CARDS *** 
+TIKITAKA11 raises $180 to $230
+vesnapisarovic calls $130
+*** FLOP *** [5d Kc Ah]
+Main pot $458.75 | Rake $1.25
+vesnapisarovic checks
+TIKITAKA11 bets $115
+vesnapisarovic raises $805 to $805
+TIKITAKA11 calls $690
+*** TURN *** [5d Kc Ah] [Ks]
+Main pot $2068.75 | Rake $1.25
+vesnapisarovic checks
+TIKITAKA11 checks
+*** RIVER *** [5d Kc Ah Ks] [8h]
+Main pot $2068.75 | Rake $1.25
+vesnapisarovic checks
+TIKITAKA11 checks
+*** SUMMARY ***
+Total pot $2068.75 | Rake $1.25
+Seat 2: vesnapisarovic (big blind) did not showed and won $2068.75
+Seat 4: TIKITAKA11 (small blind) did not showed and lost
+
+
+
+

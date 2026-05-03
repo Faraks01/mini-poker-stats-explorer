@@ -1,0 +1,2249 @@
+PokerStars Hand #1511521713:  Hold'em No Limit ($25.00/$50.00 USD) - 2023/01/06 16:05:16 ET
+Table 'WPN_Pinckneyville' 9-max Seat #7 is the button
+Seat 2: Nimble123 ($975.00 in chips)
+Seat 7: CPUrul0r ($2525.00 in chips)
+CPUrul0r: posts small blind $25.00
+Nimble123: posts big blind $50.00
+*** HOLE CARDS ***
+CPUrul0r: raises $50.00 to $100.00
+Nimble123: raises $900.00 to $1000.00 and is all-in
+CPUrul0r: calls $900.00
+*** FIRST FLOP *** [Qs 2s 8d]
+*** FIRST TURN *** [Qs 2s 8d] [Jh]
+*** FIRST RIVER *** [Qs 2s 8d Jh] [2h]
+*** SECOND FLOP *** [6d 3c 4d]
+*** SECOND TURN *** [6d 3c 4d] [9d]
+*** SECOND RIVER *** [6d 3c 4d 9d] [Js]
+*** FIRST SHOW DOWN ***
+CPUrul0r: shows [6c 6s]
+Nimble123: shows [3d 3s]
+CPUrul0r collected $999.38 from pot
+*** SECOND SHOW DOWN ***
+CPUrul0r: shows [6c 6s]
+Nimble123: shows [3d 3s]
+CPUrul0r collected $999.37 from pot
+*** SUMMARY ***
+Total pot $2000.00 | Rake $1.25
+Hand was run twice
+FIRST Board [Qs 2s 8d Jh 2h]
+SECOND Board [6d 3c 4d 9d Js]
+Seat 2: Nimble123 (big blind) showed [3d 3s] and lost, and lost
+Seat 7: CPUrul0r (button) (small blind) showed [6c 6s] and won ($999.38), and won ($999.37)
+
+PokerStars Hand #1511522136:  Hold'em No Limit ($25.00/$50.00 USD) - 2023/01/06 16:05:57 ET
+Table 'WPN_Pinckneyville' 9-max Seat #2 is the button
+Seat 2: Nimble123 ($1000.00 in chips)
+Seat 7: CPUrul0r ($3523.75 in chips)
+Nimble123: posts small blind $25.00
+CPUrul0r: posts big blind $50.00
+*** HOLE CARDS ***
+Nimble123: calls $25.00
+CPUrul0r: checks
+*** FLOP *** [Ah 6h 3c]
+CPUrul0r: checks
+Nimble123: bets $50.00
+CPUrul0r: folds
+Uncalled bet ($50.00) returned to Nimble123
+Nimble123 collected $98.75 from pot
+Nimble123: doesn't show hand
+*** SUMMARY ***
+Total pot $100.00 | Rake $1.25
+Board [Ah 6h 3c]
+Seat 2: Nimble123 (button) (small blind) collected ($98.75)
+Seat 7: CPUrul0r (big blind) folded on the Flop
+
+PokerStars Hand #1511522395:  Hold'em No Limit ($25.00/$50.00 USD) - 2023/01/06 16:06:24 ET
+Table 'WPN_Pinckneyville' 9-max Seat #7 is the button
+Seat 2: Nimble123 ($1048.75 in chips)
+Seat 7: CPUrul0r ($3473.75 in chips)
+CPUrul0r: posts small blind $25.00
+Nimble123: posts big blind $50.00
+*** HOLE CARDS ***
+CPUrul0r: calls $25.00
+Nimble123: checks
+*** FLOP *** [Kh 4h 4s]
+Nimble123: checks
+CPUrul0r: bets $50.00
+Nimble123: folds
+Uncalled bet ($50.00) returned to CPUrul0r
+CPUrul0r collected $98.75 from pot
+CPUrul0r: doesn't show hand
+*** SUMMARY ***
+Total pot $100.00 | Rake $1.25
+Board [Kh 4h 4s]
+Seat 2: Nimble123 (big blind) folded on the Flop
+Seat 7: CPUrul0r (button) (small blind) collected ($98.75)
+
+PokerStars Hand #1511522693:  Hold'em No Limit ($25.00/$50.00 USD) - 2023/01/06 16:06:54 ET
+Table 'WPN_Pinckneyville' 9-max Seat #2 is the button
+Seat 2: Nimble123 ($998.75 in chips)
+Seat 7: CPUrul0r ($3522.50 in chips)
+Nimble123: posts small blind $25.00
+CPUrul0r: posts big blind $50.00
+*** HOLE CARDS ***
+Nimble123: calls $25.00
+CPUrul0r: checks
+*** FLOP *** [7h Kd 8s]
+CPUrul0r: checks
+Nimble123: checks
+*** TURN *** [7h Kd 8s] [5s]
+CPUrul0r: bets $150.00
+Nimble123: calls $150.00
+*** RIVER *** [7h Kd 8s 5s] [Kc]
+CPUrul0r: checks
+Nimble123: bets $299.06
+CPUrul0r: raises $3023.44 to $3322.50 and is all-in
+Nimble123: calls $500.94 and is all-in
+Uncalled bet ($2522.50) returned to CPUrul0r
+*** SHOW DOWN ***
+Nimble123: shows [6c 9h]
+CPUrul0r: shows [9d Jh]
+Nimble123 collected $1998.75 from pot
+*** SUMMARY ***
+Total pot $2000.00 | Rake $1.25
+Board [7h Kd 8s 5s Kc]
+Seat 2: Nimble123 (button) (small blind) showed [6c 9h] and won ($1998.75)
+Seat 7: CPUrul0r (big blind) showed [9d Jh] and lost
+
+PokerStars Hand #1511540453:  Hold'em No Limit ($25.00/$50.00 USD) - 2023/01/06 16:36:55 ET
+Table 'WPN_Broeck Pointe' 9-max Seat #7 is the button
+Seat 2: Nimble123 ($1050.00 in chips)
+Seat 7: CPUrul0r ($2646.25 in chips)
+CPUrul0r: posts small blind $25.00
+Nimble123: posts big blind $50.00
+*** HOLE CARDS ***
+CPUrul0r: folds
+Uncalled bet ($25.00) returned to Nimble123
+Nimble123 collected $50.00 from pot
+Nimble123: doesn't show hand
+*** SUMMARY ***
+Total pot $50.00 | Rake $0.00
+Seat 2: Nimble123 (big blind) collected ($50.00)
+Seat 7: CPUrul0r (button) (small blind) folded before Flop
+
+PokerStars Hand #1511540503:  Hold'em No Limit ($25.00/$50.00 USD) - 2023/01/06 16:37:01 ET
+Table 'WPN_Broeck Pointe' 9-max Seat #2 is the button
+Seat 2: Nimble123 ($1075.00 in chips)
+Seat 7: CPUrul0r ($2621.25 in chips)
+Nimble123: posts small blind $25.00
+CPUrul0r: posts big blind $50.00
+*** HOLE CARDS ***
+Nimble123: raises $50.00 to $100.00
+CPUrul0r: raises $2521.25 to $2621.25 and is all-in
+Nimble123: calls $975.00 and is all-in
+Uncalled bet ($1546.25) returned to CPUrul0r
+*** FIRST FLOP *** [Jh 7s 4d]
+*** FIRST TURN *** [Jh 7s 4d] [8c]
+*** FIRST RIVER *** [Jh 7s 4d 8c] [7c]
+*** SECOND FLOP *** [Ts 4s Qd]
+*** SECOND TURN *** [Ts 4s Qd] [4c]
+*** SECOND RIVER *** [Ts 4s Qd 4c] [3s]
+*** FIRST SHOW DOWN ***
+Nimble123: shows [Td Kd]
+CPUrul0r: shows [7d Ad]
+CPUrul0r collected $1074.38 from pot
+*** SECOND SHOW DOWN ***
+Nimble123: shows [Td Kd]
+CPUrul0r: shows [7d Ad]
+Nimble123 collected $1074.37 from pot
+*** SUMMARY ***
+Total pot $2150.00 | Rake $1.25
+Hand was run twice
+FIRST Board [Jh 7s 4d 8c 7c]
+SECOND Board [Ts 4s Qd 4c 3s]
+Seat 2: Nimble123 (button) (small blind) showed [Td Kd] and lost, and won ($1074.37)
+Seat 7: CPUrul0r (big blind) showed [7d Ad] and won ($1074.38), and lost
+
+PokerStars Hand #1511540901:  Hold'em No Limit ($25.00/$50.00 USD) - 2023/01/06 16:37:39 ET
+Table 'WPN_Broeck Pointe' 9-max Seat #2 is the button
+Seat 2: Nimble123 ($1074.37 in chips)
+Seat 7: CPUrul0r ($2620.63 in chips)
+Seat 8: notvrygud ($2500.00 in chips)
+CPUrul0r: posts small blind $25.00
+notvrygud: posts big blind $50.00
+*** HOLE CARDS ***
+Nimble123: folds
+CPUrul0r: raises $100.00 to $150.00
+notvrygud: raises $275.00 to $425.00
+CPUrul0r: raises $2195.63 to $2620.63 and is all-in
+notvrygud: calls $2075.00 and is all-in
+Uncalled bet ($120.63) returned to CPUrul0r
+*** FIRST FLOP *** [7s 7c 2c]
+*** FIRST TURN *** [7s 7c 2c] [3d]
+*** FIRST RIVER *** [7s 7c 2c 3d] [4c]
+*** SECOND FLOP *** [Kc Qd 9c]
+*** SECOND TURN *** [Kc Qd 9c] [9s]
+*** SECOND RIVER *** [Kc Qd 9c 9s] [5c]
+*** FIRST SHOW DOWN ***
+notvrygud: shows [Qs Qh]
+CPUrul0r: shows [Ac 9d]
+notvrygud collected $2499.13 from pot
+*** SECOND SHOW DOWN ***
+notvrygud: shows [Qs Qh]
+CPUrul0r: shows [Ac 9d]
+notvrygud collected $2499.12 from pot
+*** SUMMARY ***
+Total pot $5000.00 | Rake $1.75
+Hand was run twice
+FIRST Board [7s 7c 2c 3d 4c]
+SECOND Board [Kc Qd 9c 9s 5c]
+Seat 2: Nimble123 (button) folded before Flop (didn't bet)
+Seat 7: CPUrul0r (small blind) showed [Ac 9d] and lost, and lost
+Seat 8: notvrygud (big blind) showed [Qs Qh] and won ($2499.13), and won ($2499.12)
+
+PokerStars Hand #1511541411:  Hold'em No Limit ($25.00/$50.00 USD) - 2023/01/06 16:38:32 ET
+Table 'WPN_Broeck Pointe' 9-max Seat #7 is the button
+Seat 2: Nimble123 ($1074.37 in chips)
+Seat 7: CPUrul0r ($2500.00 in chips)
+Seat 8: notvrygud ($4998.25 in chips)
+notvrygud: posts small blind $25.00
+Nimble123: posts big blind $50.00
+*** HOLE CARDS ***
+CPUrul0r: raises $50.00 to $100.00
+notvrygud: folds
+Nimble123: folds
+Uncalled bet ($50.00) returned to CPUrul0r
+CPUrul0r collected $125.00 from pot
+CPUrul0r: doesn't show hand
+*** SUMMARY ***
+Total pot $125.00 | Rake $0.00
+Seat 2: Nimble123 (big blind) folded before Flop
+Seat 7: CPUrul0r (button) collected ($125.00)
+Seat 8: notvrygud (small blind) folded before Flop
+
+PokerStars Hand #1510847798:  Hold'em No Limit ($25.00/$50.00 USD) - 2023/01/05 23:56:18 ET
+Table 'WPN_7 Day No Rathole 25/50 NLH 9-Max' 9-max Seat #2 is the button
+Seat 1: Magicvoo ($500.00 in chips)
+Seat 2: TheManifestor ($830.63 in chips)
+TheManifestor: posts small blind $25.00
+Magicvoo: posts big blind $50.00
+*** HOLE CARDS ***
+TheManifestor: calls $25.00
+Magicvoo: raises $50.00 to $100.00
+TheManifestor: folds
+Uncalled bet ($50.00) returned to Magicvoo
+Magicvoo collected $100.00 from pot
+Magicvoo: doesn't show hand
+*** SUMMARY ***
+Total pot $100.00 | Rake $0.00
+Seat 1: Magicvoo (big blind) collected ($100.00)
+Seat 2: TheManifestor (button) (small blind) folded before Flop
+
+PokerStars Hand #1510848016:  Hold'em No Limit ($25.00/$50.00 USD) - 2023/01/05 23:56:42 ET
+Table 'WPN_7 Day No Rathole 25/50 NLH 9-Max' 9-max Seat #1 is the button
+Seat 1: Magicvoo ($550.00 in chips)
+Seat 2: TheManifestor ($780.63 in chips)
+Magicvoo: posts small blind $25.00
+TheManifestor: posts big blind $50.00
+*** HOLE CARDS ***
+Magicvoo: raises $50.00 to $100.00
+TheManifestor: calls $50.00
+*** FLOP *** [6c 3d Ah]
+TheManifestor: checks
+Magicvoo: bets $100.00
+TheManifestor: folds
+Uncalled bet ($100.00) returned to Magicvoo
+Magicvoo collected $198.75 from pot
+Magicvoo: doesn't show hand
+*** SUMMARY ***
+Total pot $200.00 | Rake $1.25
+Board [6c 3d Ah]
+Seat 1: Magicvoo (button) (small blind) collected ($198.75)
+Seat 2: TheManifestor (big blind) folded on the Flop
+
+PokerStars Hand #1510848491:  Hold'em No Limit ($25.00/$50.00 USD) - 2023/01/05 23:57:31 ET
+Table 'WPN_7 Day No Rathole 25/50 NLH 9-Max' 9-max Seat #2 is the button
+Seat 1: Magicvoo ($648.75 in chips)
+Seat 2: TheManifestor ($680.63 in chips)
+TheManifestor: posts small blind $25.00
+Magicvoo: posts big blind $50.00
+*** HOLE CARDS ***
+TheManifestor: folds
+Uncalled bet ($25.00) returned to Magicvoo
+Magicvoo collected $50.00 from pot
+Magicvoo: doesn't show hand
+*** SUMMARY ***
+Total pot $50.00 | Rake $0.00
+Seat 1: Magicvoo (big blind) collected ($50.00)
+Seat 2: TheManifestor (button) (small blind) folded before Flop
+
+PokerStars Hand #1510848616:  Hold'em No Limit ($25.00/$50.00 USD) - 2023/01/05 23:57:44 ET
+Table 'WPN_7 Day No Rathole 25/50 NLH 9-Max' 9-max Seat #1 is the button
+Seat 1: Magicvoo ($673.75 in chips)
+Seat 2: TheManifestor ($655.63 in chips)
+Magicvoo: posts small blind $25.00
+TheManifestor: posts big blind $50.00
+*** HOLE CARDS ***
+Magicvoo: calls $25.00
+TheManifestor: checks
+*** FLOP *** [As Jd 5s]
+TheManifestor: checks
+Magicvoo: checks
+*** TURN *** [As Jd 5s] [3h]
+TheManifestor: checks
+Magicvoo: checks
+*** RIVER *** [As Jd 5s 3h] [2c]
+TheManifestor: bets $75.00
+Magicvoo: calls $75.00
+*** SHOW DOWN ***
+TheManifestor: shows [9c 4c]
+Magicvoo: mucks hand
+TheManifestor collected $248.75 from pot
+*** SUMMARY ***
+Total pot $250.00 | Rake $1.25
+Board [As Jd 5s 3h 2c]
+Seat 1: Magicvoo (button) (small blind) mucked
+Seat 2: TheManifestor (big blind) showed [9c 4c] and won ($248.75)
+
+PokerStars Hand #1510849212:  Hold'em No Limit ($25.00/$50.00 USD) - 2023/01/05 23:58:44 ET
+Table 'WPN_7 Day No Rathole 25/50 NLH 9-Max' 9-max Seat #2 is the button
+Seat 1: Magicvoo ($548.75 in chips)
+Seat 2: TheManifestor ($779.38 in chips)
+TheManifestor: posts small blind $25.00
+Magicvoo: posts big blind $50.00
+*** HOLE CARDS ***
+TheManifestor: raises $729.38 to $779.38 and is all-in
+Magicvoo: folds
+Uncalled bet ($729.38) returned to TheManifestor
+TheManifestor collected $100.00 from pot
+TheManifestor: doesn't show hand
+*** SUMMARY ***
+Total pot $100.00 | Rake $0.00
+Seat 1: Magicvoo (big blind) folded before Flop
+Seat 2: TheManifestor (button) (small blind) collected ($100.00)
+
+PokerStars Hand #1510849353:  Hold'em No Limit ($25.00/$50.00 USD) - 2023/01/05 23:58:57 ET
+Table 'WPN_7 Day No Rathole 25/50 NLH 9-Max' 9-max Seat #1 is the button
+Seat 1: Magicvoo ($498.75 in chips)
+Seat 2: TheManifestor ($829.38 in chips)
+Magicvoo: posts small blind $25.00
+TheManifestor: posts big blind $50.00
+*** HOLE CARDS ***
+Magicvoo: raises $50.00 to $100.00
+TheManifestor: folds
+Uncalled bet ($50.00) returned to Magicvoo
+Magicvoo collected $100.00 from pot
+Magicvoo: doesn't show hand
+*** SUMMARY ***
+Total pot $100.00 | Rake $0.00
+Seat 1: Magicvoo (button) (small blind) collected ($100.00)
+Seat 2: TheManifestor (big blind) folded before Flop
+
+PokerStars Hand #1510849492:  Hold'em No Limit ($25.00/$50.00 USD) - 2023/01/05 23:59:12 ET
+Table 'WPN_7 Day No Rathole 25/50 NLH 9-Max' 9-max Seat #2 is the button
+Seat 1: Magicvoo ($548.75 in chips)
+Seat 2: TheManifestor ($779.38 in chips)
+TheManifestor: posts small blind $25.00
+Magicvoo: posts big blind $50.00
+*** HOLE CARDS ***
+TheManifestor: raises $729.38 to $779.38 and is all-in
+Magicvoo: calls $498.75 and is all-in
+Uncalled bet ($230.63) returned to TheManifestor
+*** FLOP *** [Jd 5d Ks]
+*** TURN *** [Jd 5d Ks] [Ah]
+*** RIVER *** [Jd 5d Ks Ah] [2d]
+*** SHOW DOWN ***
+TheManifestor: shows [5c Ad]
+Magicvoo: shows [9h Ac]
+TheManifestor collected $1096.25 from pot
+*** SUMMARY ***
+Total pot $1097.50 | Rake $1.25
+Board [Jd 5d Ks Ah 2d]
+Seat 1: Magicvoo (big blind) showed [9h Ac] and lost
+Seat 2: TheManifestor (button) (small blind) showed [5c Ad] and won ($1096.25)
+
+PokerStars Hand #1510849707:  Hold'em No Limit ($25.00/$50.00 USD) - 2023/01/05 23:59:36 ET
+Table 'WPN_7 Day No Rathole 25/50 NLH 9-Max' 9-max Seat #1 is the button
+Seat 1: Magicvoo ($500.00 in chips)
+Seat 2: TheManifestor ($1326.88 in chips)
+Magicvoo: posts small blind $25.00
+TheManifestor: posts big blind $50.00
+*** HOLE CARDS ***
+Magicvoo: raises $50.00 to $100.00
+TheManifestor: raises $1226.88 to $1326.88 and is all-in
+Magicvoo: calls $400.00 and is all-in
+Uncalled bet ($826.88) returned to TheManifestor
+*** FLOP *** [Kd Ks 7s]
+*** TURN *** [Kd Ks 7s] [Td]
+*** RIVER *** [Kd Ks 7s Td] [5c]
+*** SHOW DOWN ***
+TheManifestor: shows [Kh Jc]
+Magicvoo: shows [5h 6d]
+TheManifestor collected $998.75 from pot
+*** SUMMARY ***
+Total pot $1000.00 | Rake $1.25
+Board [Kd Ks 7s Td 5c]
+Seat 1: Magicvoo (button) (small blind) showed [5h 6d] and lost
+Seat 2: TheManifestor (big blind) showed [Kh Jc] and won ($998.75)
+
+PokerStars Hand #1510898057:  Hold'em No Limit ($25.00/$50.00 USD) - 2023/01/06 00:36:53 ET
+Table 'WPN_7 Day No Rathole 25/50 NLH 9-Max' 9-max Seat #1 is the button
+Seat 1: eldoofus ($500.00 in chips)
+Seat 2: TheManifestor ($2324.38 in chips)
+eldoofus: posts small blind $25.00
+TheManifestor: posts big blind $50.00
+*** HOLE CARDS ***
+eldoofus: raises $450.00 to $500.00 and is all-in
+TheManifestor: folds
+Uncalled bet ($450.00) returned to eldoofus
+eldoofus collected $100.00 from pot
+eldoofus: doesn't show hand
+*** SUMMARY ***
+Total pot $100.00 | Rake $0.00
+Seat 1: eldoofus (button) (small blind) collected ($100.00)
+Seat 2: TheManifestor (big blind) folded before Flop
+
+PokerStars Hand #1510898356:  Hold'em No Limit ($25.00/$50.00 USD) - 2023/01/06 00:37:07 ET
+Table 'WPN_7 Day No Rathole 25/50 NLH 9-Max' 9-max Seat #2 is the button
+Seat 1: eldoofus ($550.00 in chips)
+Seat 2: TheManifestor ($2274.38 in chips)
+TheManifestor: posts small blind $25.00
+eldoofus: posts big blind $50.00
+*** HOLE CARDS ***
+TheManifestor: calls $25.00
+eldoofus: raises $500.00 to $550.00 and is all-in
+TheManifestor: calls $500.00
+*** FLOP *** [9c 6s 6c]
+*** TURN *** [9c 6s 6c] [2d]
+*** RIVER *** [9c 6s 6c 2d] [8c]
+*** SHOW DOWN ***
+TheManifestor: shows [Jc Jh]
+eldoofus: shows [3d Kh]
+TheManifestor collected $1098.75 from pot
+*** SUMMARY ***
+Total pot $1100.00 | Rake $1.25
+Board [9c 6s 6c 2d 8c]
+Seat 1: eldoofus (big blind) showed [3d Kh] and lost
+Seat 2: TheManifestor (button) (small blind) showed [Jc Jh] and won ($1098.75)
+
+PokerStars Hand #1510898837:  Hold'em No Limit ($25.00/$50.00 USD) - 2023/01/06 00:37:31 ET
+Table 'WPN_7 Day No Rathole 25/50 NLH 9-Max' 9-max Seat #1 is the button
+Seat 1: eldoofus ($500.00 in chips)
+Seat 2: TheManifestor ($2823.13 in chips)
+eldoofus: posts small blind $25.00
+TheManifestor: posts big blind $50.00
+*** HOLE CARDS ***
+eldoofus: raises $450.00 to $500.00 and is all-in
+TheManifestor: folds
+Uncalled bet ($450.00) returned to eldoofus
+eldoofus collected $100.00 from pot
+eldoofus: doesn't show hand
+*** SUMMARY ***
+Total pot $100.00 | Rake $0.00
+Seat 1: eldoofus (button) (small blind) collected ($100.00)
+Seat 2: TheManifestor (big blind) folded before Flop
+
+PokerStars Hand #1510899072:  Hold'em No Limit ($25.00/$50.00 USD) - 2023/01/06 00:37:42 ET
+Table 'WPN_7 Day No Rathole 25/50 NLH 9-Max' 9-max Seat #2 is the button
+Seat 1: eldoofus ($550.00 in chips)
+Seat 2: TheManifestor ($2773.13 in chips)
+TheManifestor: posts small blind $25.00
+eldoofus: posts big blind $50.00
+*** HOLE CARDS ***
+TheManifestor: calls $25.00
+eldoofus: checks
+*** FLOP *** [2d 6s 9s]
+eldoofus: checks
+TheManifestor: checks
+*** TURN *** [2d 6s 9s] [2s]
+eldoofus: bets $50.00
+TheManifestor: calls $50.00
+*** RIVER *** [2d 6s 9s 2s] [3d]
+eldoofus: checks
+TheManifestor: bets $50.00
+eldoofus: folds
+Uncalled bet ($50.00) returned to TheManifestor
+TheManifestor collected $198.75 from pot
+TheManifestor: doesn't show hand
+*** SUMMARY ***
+Total pot $200.00 | Rake $1.25
+Board [2d 6s 9s 2s 3d]
+Seat 1: eldoofus (big blind) folded on the River
+Seat 2: TheManifestor (button) (small blind) collected ($198.75)
+
+PokerStars Hand #1510900233:  Hold'em No Limit ($25.00/$50.00 USD) - 2023/01/06 00:38:36 ET
+Table 'WPN_7 Day No Rathole 25/50 NLH 9-Max' 9-max Seat #1 is the button
+Seat 1: eldoofus ($450.00 in chips)
+Seat 2: TheManifestor ($2871.88 in chips)
+eldoofus: posts small blind $25.00
+TheManifestor: posts big blind $50.00
+*** HOLE CARDS ***
+eldoofus: raises $450.00 to $500.00 and is all-in
+TheManifestor: folds
+Uncalled bet ($450.00) returned to eldoofus
+eldoofus collected $100.00 from pot
+eldoofus: doesn't show hand
+*** SUMMARY ***
+Total pot $100.00 | Rake $0.00
+Seat 1: eldoofus (button) (small blind) collected ($100.00)
+Seat 2: TheManifestor (big blind) folded before Flop
+
+PokerStars Hand #1510900615:  Hold'em No Limit ($25.00/$50.00 USD) - 2023/01/06 00:38:54 ET
+Table 'WPN_7 Day No Rathole 25/50 NLH 9-Max' 9-max Seat #2 is the button
+Seat 1: eldoofus ($550.00 in chips)
+Seat 2: TheManifestor ($2821.88 in chips)
+TheManifestor: posts small blind $25.00
+eldoofus: posts big blind $50.00
+*** HOLE CARDS ***
+TheManifestor: raises $2771.88 to $2821.88 and is all-in
+eldoofus: folds
+Uncalled bet ($2771.88) returned to TheManifestor
+TheManifestor collected $100.00 from pot
+TheManifestor: doesn't show hand
+*** SUMMARY ***
+Total pot $100.00 | Rake $0.00
+Seat 1: eldoofus (big blind) folded before Flop
+Seat 2: TheManifestor (button) (small blind) collected ($100.00)
+
+PokerStars Hand #1510900796:  Hold'em No Limit ($25.00/$50.00 USD) - 2023/01/06 00:39:03 ET
+Table 'WPN_7 Day No Rathole 25/50 NLH 9-Max' 9-max Seat #1 is the button
+Seat 1: eldoofus ($500.00 in chips)
+Seat 2: TheManifestor ($2871.88 in chips)
+eldoofus: posts small blind $25.00
+TheManifestor: posts big blind $50.00
+*** HOLE CARDS ***
+eldoofus: folds
+Uncalled bet ($25.00) returned to TheManifestor
+TheManifestor collected $50.00 from pot
+TheManifestor: doesn't show hand
+*** SUMMARY ***
+Total pot $50.00 | Rake $0.00
+Seat 1: eldoofus (button) (small blind) folded before Flop
+Seat 2: TheManifestor (big blind) collected ($50.00)
+
+PokerStars Hand #1510900915:  Hold'em No Limit ($25.00/$50.00 USD) - 2023/01/06 00:39:09 ET
+Table 'WPN_7 Day No Rathole 25/50 NLH 9-Max' 9-max Seat #2 is the button
+Seat 1: eldoofus ($475.00 in chips)
+Seat 2: TheManifestor ($2896.88 in chips)
+TheManifestor: posts small blind $25.00
+eldoofus: posts big blind $50.00
+*** HOLE CARDS ***
+TheManifestor: raises $2846.88 to $2896.88 and is all-in
+eldoofus: folds
+Uncalled bet ($2846.88) returned to TheManifestor
+TheManifestor collected $100.00 from pot
+TheManifestor: doesn't show hand
+*** SUMMARY ***
+Total pot $100.00 | Rake $0.00
+Seat 1: eldoofus (big blind) folded before Flop
+Seat 2: TheManifestor (button) (small blind) collected ($100.00)
+
+PokerStars Hand #1510901091:  Hold'em No Limit ($25.00/$50.00 USD) - 2023/01/06 00:39:18 ET
+Table 'WPN_7 Day No Rathole 25/50 NLH 9-Max' 9-max Seat #1 is the button
+Seat 1: eldoofus ($450.00 in chips)
+Seat 2: TheManifestor ($2946.88 in chips)
+eldoofus: posts small blind $25.00
+TheManifestor: posts big blind $50.00
+*** HOLE CARDS ***
+eldoofus: raises $450.00 to $500.00 and is all-in
+TheManifestor: calls $450.00
+*** FIRST FLOP *** [Ks 8c 4s]
+*** FIRST TURN *** [Ks 8c 4s] [Kc]
+*** FIRST RIVER *** [Ks 8c 4s Kc] [2c]
+*** SECOND FLOP *** [8h 6d Ac]
+*** SECOND TURN *** [8h 6d Ac] [7s]
+*** SECOND RIVER *** [8h 6d Ac 7s] [Kh]
+*** FIRST SHOW DOWN ***
+TheManifestor: shows [9h Qh]
+eldoofus: shows [Ts 5h]
+TheManifestor collected $499.38 from pot
+*** SECOND SHOW DOWN ***
+TheManifestor: shows [9h Qh]
+eldoofus: shows [Ts 5h]
+TheManifestor collected $499.37 from pot
+*** SUMMARY ***
+Total pot $1000.00 | Rake $1.25
+Hand was run twice
+FIRST Board [Ks 8c 4s Kc 2c]
+SECOND Board [8h 6d Ac 7s Kh]
+Seat 1: eldoofus (button) (small blind) showed [Ts 5h] and lost, and lost
+Seat 2: TheManifestor (big blind) showed [9h Qh] and won ($499.38), and won ($499.37)
+
+PokerStars Hand #1510901667:  Hold'em No Limit ($25.00/$50.00 USD) - 2023/01/06 00:39:46 ET
+Table 'WPN_7 Day No Rathole 25/50 NLH 9-Max' 9-max Seat #2 is the button
+Seat 1: eldoofus ($500.00 in chips)
+Seat 2: TheManifestor ($3445.63 in chips)
+TheManifestor: posts small blind $25.00
+eldoofus: posts big blind $50.00
+*** HOLE CARDS ***
+TheManifestor: calls $25.00
+eldoofus: raises $450.00 to $500.00 and is all-in
+TheManifestor: folds
+Uncalled bet ($450.00) returned to eldoofus
+eldoofus collected $100.00 from pot
+eldoofus: doesn't show hand
+*** SUMMARY ***
+Total pot $100.00 | Rake $0.00
+Seat 1: eldoofus (big blind) collected ($100.00)
+Seat 2: TheManifestor (button) (small blind) folded before Flop
+
+PokerStars Hand #1510902315:  Hold'em No Limit ($25.00/$50.00 USD) - 2023/01/06 00:40:15 ET
+Table 'WPN_7 Day No Rathole 25/50 NLH 9-Max' 9-max Seat #1 is the button
+Seat 1: eldoofus ($550.00 in chips)
+Seat 2: TheManifestor ($3395.63 in chips)
+Seat 3: bot35 ($500.00 in chips)
+eldoofus: posts small blind $25.00
+TheManifestor: posts big blind $50.00
+*** HOLE CARDS ***
+eldoofus: raises $500.00 to $550.00 and is all-in
+TheManifestor: folds
+Uncalled bet ($500.00) returned to eldoofus
+eldoofus collected $100.00 from pot
+eldoofus: doesn't show hand
+*** SUMMARY ***
+Total pot $100.00 | Rake $0.00
+Seat 1: eldoofus (button) (small blind) collected ($100.00)
+Seat 2: TheManifestor (big blind) folded before Flop
+
+PokerStars Hand #1510902578:  Hold'em No Limit ($25.00/$50.00 USD) - 2023/01/06 00:40:27 ET
+Table 'WPN_7 Day No Rathole 25/50 NLH 9-Max' 9-max Seat #1 is the button
+Seat 1: eldoofus ($600.00 in chips)
+Seat 2: TheManifestor ($3345.63 in chips)
+Seat 3: bot35 ($500.00 in chips)
+TheManifestor: posts small blind $25.00
+bot35: posts big blind $50.00
+*** HOLE CARDS ***
+eldoofus: folds
+TheManifestor: raises $3295.63 to $3345.63 and is all-in
+bot35: folds
+Uncalled bet ($3295.63) returned to TheManifestor
+TheManifestor collected $100.00 from pot
+TheManifestor: doesn't show hand
+*** SUMMARY ***
+Total pot $100.00 | Rake $0.00
+Seat 1: eldoofus (button) folded before Flop (didn't bet)
+Seat 2: TheManifestor (small blind) collected ($100.00)
+Seat 3: bot35 (big blind) folded before Flop
+
+PokerStars Hand #1510902973:  Hold'em No Limit ($25.00/$50.00 USD) - 2023/01/06 00:40:46 ET
+Table 'WPN_7 Day No Rathole 25/50 NLH 9-Max' 9-max Seat #2 is the button
+Seat 1: eldoofus ($600.00 in chips)
+Seat 2: TheManifestor ($3395.63 in chips)
+Seat 3: bot35 ($450.00 in chips)
+bot35: posts small blind $25.00
+eldoofus: posts big blind $50.00
+*** HOLE CARDS ***
+TheManifestor: folds
+bot35: folds
+Uncalled bet ($25.00) returned to eldoofus
+eldoofus collected $50.00 from pot
+eldoofus: doesn't show hand
+*** SUMMARY ***
+Total pot $50.00 | Rake $0.00
+Seat 1: eldoofus (big blind) collected ($50.00)
+Seat 2: TheManifestor (button) folded before Flop (didn't bet)
+Seat 3: bot35 (small blind) folded before Flop
+
+PokerStars Hand #1510903182:  Hold'em No Limit ($25.00/$50.00 USD) - 2023/01/06 00:40:55 ET
+Table 'WPN_7 Day No Rathole 25/50 NLH 9-Max' 9-max Seat #3 is the button
+Seat 1: eldoofus ($625.00 in chips)
+Seat 2: TheManifestor ($3395.63 in chips)
+Seat 3: bot35 ($425.00 in chips)
+eldoofus: posts small blind $25.00
+TheManifestor: posts big blind $50.00
+*** HOLE CARDS ***
+bot35: folds
+eldoofus: raises $575.00 to $625.00 and is all-in
+TheManifestor: folds
+Uncalled bet ($575.00) returned to eldoofus
+eldoofus collected $100.00 from pot
+eldoofus: doesn't show hand
+*** SUMMARY ***
+Total pot $100.00 | Rake $0.00
+Seat 1: eldoofus (small blind) collected ($100.00)
+Seat 2: TheManifestor (big blind) folded before Flop
+Seat 3: bot35 (button) folded before Flop (didn't bet)
+
+PokerStars Hand #1510903381:  Hold'em No Limit ($25.00/$50.00 USD) - 2023/01/06 00:41:04 ET
+Table 'WPN_7 Day No Rathole 25/50 NLH 9-Max' 9-max Seat #1 is the button
+Seat 1: eldoofus ($675.00 in chips)
+Seat 2: TheManifestor ($3345.63 in chips)
+Seat 3: bot35 ($500.00 in chips)
+TheManifestor: posts small blind $25.00
+bot35: posts big blind $50.00
+*** HOLE CARDS ***
+eldoofus: folds
+TheManifestor: raises $3295.63 to $3345.63 and is all-in
+bot35: folds
+Uncalled bet ($3295.63) returned to TheManifestor
+TheManifestor collected $100.00 from pot
+TheManifestor: doesn't show hand
+*** SUMMARY ***
+Total pot $100.00 | Rake $0.00
+Seat 1: eldoofus (button) folded before Flop (didn't bet)
+Seat 2: TheManifestor (small blind) collected ($100.00)
+Seat 3: bot35 (big blind) folded before Flop
+
+PokerStars Hand #1510903781:  Hold'em No Limit ($25.00/$50.00 USD) - 2023/01/06 00:41:24 ET
+Table 'WPN_7 Day No Rathole 25/50 NLH 9-Max' 9-max Seat #2 is the button
+Seat 1: eldoofus ($675.00 in chips)
+Seat 2: TheManifestor ($3395.63 in chips)
+Seat 3: bot35 ($450.00 in chips)
+bot35: posts small blind $25.00
+eldoofus: posts big blind $50.00
+*** HOLE CARDS ***
+TheManifestor: folds
+bot35: raises $450.00 to $500.00 and is all-in
+eldoofus: calls $450.00
+*** FLOP *** [Qc 5d Js]
+*** TURN *** [Qc 5d Js] [3h]
+*** RIVER *** [Qc 5d Js 3h] [3d]
+*** SHOW DOWN ***
+bot35: shows [Ac Qs]
+eldoofus: shows [Th Ks]
+bot35 collected $998.25 from pot
+*** SUMMARY ***
+Total pot $1000.00 | Rake $1.75
+Board [Qc 5d Js 3h 3d]
+Seat 1: eldoofus (big blind) showed [Th Ks] and lost
+Seat 2: TheManifestor (button) folded before Flop (didn't bet)
+Seat 3: bot35 (small blind) showed [Ac Qs] and won ($998.25)
+
+PokerStars Hand #1510904314:  Hold'em No Limit ($25.00/$50.00 USD) - 2023/01/06 00:41:49 ET
+Table 'WPN_7 Day No Rathole 25/50 NLH 9-Max' 9-max Seat #3 is the button
+Seat 1: eldoofus ($500.00 in chips)
+Seat 2: TheManifestor ($3395.63 in chips)
+Seat 3: bot35 ($998.25 in chips)
+eldoofus: posts small blind $25.00
+bot35: posts big blind $50.00
+*** HOLE CARDS ***
+eldoofus: raises $450.00 to $500.00 and is all-in
+bot35: calls $450.00
+*** FIRST FLOP *** [2d 2h Kc]
+*** FIRST TURN *** [2d 2h Kc] [Qc]
+*** FIRST RIVER *** [2d 2h Kc Qc] [3c]
+*** SECOND FLOP *** [5c 6d 3s]
+*** SECOND TURN *** [5c 6d 3s] [7d]
+*** SECOND RIVER *** [5c 6d 3s 7d] [4s]
+*** FIRST SHOW DOWN ***
+eldoofus: shows [Qh 9c]
+bot35: shows [7h Ah]
+eldoofus collected $499.38 from pot
+*** SECOND SHOW DOWN ***
+eldoofus: shows [Qh 9c]
+bot35: shows [7h Ah]
+eldoofus collected $249.69 from pot
+bot35 collected $249.68 from pot
+*** SUMMARY ***
+Total pot $1000.00 | Rake $1.25
+Hand was run twice
+FIRST Board [2d 2h Kc Qc 3c]
+SECOND Board [5c 6d 3s 7d 4s]
+Seat 1: eldoofus (small blind) showed [Qh 9c] and won ($499.38), and won ($249.69)
+Seat 2: TheManifestor and lost, and lost
+Seat 3: bot35 (button) (big blind) showed [7h Ah] and lost, and won ($249.68)
+
+PokerStars Hand #1510904820:  Hold'em No Limit ($25.00/$50.00 USD) - 2023/01/06 00:42:12 ET
+Table 'WPN_7 Day No Rathole 25/50 NLH 9-Max' 9-max Seat #3 is the button
+Seat 1: eldoofus ($749.07 in chips)
+Seat 2: TheManifestor ($3395.63 in chips)
+Seat 3: bot35 ($747.93 in chips)
+bot35: posts small blind $25.00
+eldoofus: posts big blind $50.00
+*** HOLE CARDS ***
+bot35: calls $25.00
+eldoofus: checks
+*** FLOP *** [Td Ac 8s]
+eldoofus: checks
+bot35: bets $50.00
+eldoofus: calls $50.00
+*** TURN *** [Td Ac 8s] [Qs]
+eldoofus: checks
+bot35: checks
+*** RIVER *** [Td Ac 8s Qs] [2d]
+eldoofus: checks
+bot35: checks
+*** SHOW DOWN ***
+eldoofus: shows [3h 8d]
+bot35: mucks hand
+eldoofus collected $198.75 from pot
+*** SUMMARY ***
+Total pot $200.00 | Rake $1.25
+Board [Td Ac 8s Qs 2d]
+Seat 1: eldoofus (big blind) showed [3h 8d] and won ($198.75)
+Seat 3: bot35 (button) (small blind) mucked
+
+PokerStars Hand #1510905955:  Hold'em No Limit ($25.00/$50.00 USD) - 2023/01/06 00:43:04 ET
+Table 'WPN_7 Day No Rathole 25/50 NLH 9-Max' 9-max Seat #3 is the button
+Seat 1: eldoofus ($847.82 in chips)
+Seat 2: TheManifestor ($3395.63 in chips)
+Seat 3: bot35 ($647.93 in chips)
+eldoofus: posts small blind $25.00
+TheManifestor: posts big blind $50.00
+*** HOLE CARDS ***
+bot35: folds
+eldoofus: raises $100.00 to $150.00
+TheManifestor: raises $3245.63 to $3395.63 and is all-in
+eldoofus: calls $697.82 and is all-in
+Uncalled bet ($2547.81) returned to TheManifestor
+*** FIRST FLOP *** [5c 7s Kc]
+*** FIRST TURN *** [5c 7s Kc] [6s]
+*** FIRST RIVER *** [5c 7s Kc 6s] [8h]
+*** SECOND FLOP *** [4c Ah Qs]
+*** SECOND TURN *** [4c Ah Qs] [9d]
+*** SECOND RIVER *** [4c Ah Qs 9d] [6d]
+*** FIRST SHOW DOWN ***
+eldoofus: shows [As Th]
+TheManifestor: shows [8d Ad]
+TheManifestor collected $846.95 from pot
+*** SECOND SHOW DOWN ***
+eldoofus: shows [As Th]
+TheManifestor: shows [8d Ad]
+eldoofus collected $846.94 from pot
+*** SUMMARY ***
+Total pot $1695.64 | Rake $1.75
+Hand was run twice
+FIRST Board [5c 7s Kc 6s 8h]
+SECOND Board [4c Ah Qs 9d 6d]
+Seat 1: eldoofus (small blind) showed [As Th] and lost, and won ($846.94)
+Seat 2: TheManifestor (big blind) showed [8d Ad] and won ($846.95), and lost
+Seat 3: bot35 (button) folded before Flop (didn't bet)
+
+PokerStars Hand #1510906788:  Hold'em No Limit ($25.00/$50.00 USD) - 2023/01/06 00:43:43 ET
+Table 'WPN_7 Day No Rathole 25/50 NLH 9-Max' 9-max Seat #1 is the button
+Seat 1: eldoofus ($846.94 in chips)
+Seat 2: TheManifestor ($3394.76 in chips)
+Seat 3: bot35 ($647.93 in chips)
+TheManifestor: posts small blind $25.00
+bot35: posts big blind $50.00
+*** HOLE CARDS ***
+eldoofus: folds
+TheManifestor: folds
+Uncalled bet ($25.00) returned to bot35
+bot35 collected $50.00 from pot
+bot35: doesn't show hand
+*** SUMMARY ***
+Total pot $50.00 | Rake $0.00
+Seat 1: eldoofus (button) folded before Flop (didn't bet)
+Seat 2: TheManifestor (small blind) folded before Flop
+Seat 3: bot35 (big blind) collected ($50.00)
+
+PokerStars Hand #1510907096:  Hold'em No Limit ($25.00/$50.00 USD) - 2023/01/06 00:43:57 ET
+Table 'WPN_7 Day No Rathole 25/50 NLH 9-Max' 9-max Seat #2 is the button
+Seat 1: eldoofus ($846.94 in chips)
+Seat 2: TheManifestor ($3369.76 in chips)
+Seat 3: bot35 ($672.93 in chips)
+bot35: posts small blind $25.00
+eldoofus: posts big blind $50.00
+*** HOLE CARDS ***
+TheManifestor: folds
+bot35: folds
+Uncalled bet ($25.00) returned to eldoofus
+eldoofus collected $50.00 from pot
+eldoofus: doesn't show hand
+*** SUMMARY ***
+Total pot $50.00 | Rake $0.00
+Seat 1: eldoofus (big blind) collected ($50.00)
+Seat 2: TheManifestor (button) folded before Flop (didn't bet)
+Seat 3: bot35 (small blind) folded before Flop
+
+PokerStars Hand #1510907296:  Hold'em No Limit ($25.00/$50.00 USD) - 2023/01/06 00:44:06 ET
+Table 'WPN_7 Day No Rathole 25/50 NLH 9-Max' 9-max Seat #3 is the button
+Seat 1: eldoofus ($871.94 in chips)
+Seat 2: TheManifestor ($3369.76 in chips)
+Seat 3: bot35 ($647.93 in chips)
+eldoofus: posts small blind $25.00
+TheManifestor: posts big blind $50.00
+*** HOLE CARDS ***
+bot35: folds
+eldoofus: raises $821.94 to $871.94 and is all-in
+TheManifestor: calls $821.94
+*** FIRST FLOP *** [2h Qh 6h]
+*** FIRST TURN *** [2h Qh 6h] [6s]
+*** FIRST RIVER *** [2h Qh 6h 6s] [7s]
+*** SECOND FLOP *** [9c 5h 6c]
+*** SECOND TURN *** [9c 5h 6c] [Kc]
+*** SECOND RIVER *** [9c 5h 6c Kc] [8s]
+*** FIRST SHOW DOWN ***
+eldoofus: shows [Td Th]
+TheManifestor: shows [Ad Jc]
+eldoofus collected $871.07 from pot
+*** SECOND SHOW DOWN ***
+eldoofus: shows [Td Th]
+TheManifestor: shows [Ad Jc]
+eldoofus collected $871.06 from pot
+*** SUMMARY ***
+Total pot $1743.88 | Rake $1.75
+Hand was run twice
+FIRST Board [2h Qh 6h 6s 7s]
+SECOND Board [9c 5h 6c Kc 8s]
+Seat 1: eldoofus (small blind) showed [Td Th] and won ($871.07), and won ($871.06)
+Seat 2: TheManifestor (big blind) showed [Ad Jc] and lost, and lost
+Seat 3: bot35 (button) folded before Flop (didn't bet)
+
+PokerStars Hand #1510907835:  Hold'em No Limit ($25.00/$50.00 USD) - 2023/01/06 00:44:31 ET
+Table 'WPN_7 Day No Rathole 25/50 NLH 9-Max' 9-max Seat #1 is the button
+Seat 1: eldoofus ($1742.13 in chips)
+Seat 2: TheManifestor ($2497.82 in chips)
+Seat 3: bot35 ($647.93 in chips)
+Seat 4: bigsoowoop ($500.00 in chips)
+TheManifestor: posts small blind $25.00
+bot35: posts big blind $50.00
+*** HOLE CARDS ***
+eldoofus: raises $50.00 to $100.00
+TheManifestor: folds
+bot35: calls $50.00
+*** FLOP *** [5c Ad Kd]
+bot35: checks
+eldoofus: bets $75.00
+bot35: calls $75.00
+*** TURN *** [5c Ad Kd] [5h]
+bot35: checks
+eldoofus: checks
+*** RIVER *** [5c Ad Kd 5h] [7c]
+bot35: checks
+eldoofus: checks
+*** SHOW DOWN ***
+bot35: shows [Ks 6c]
+eldoofus: mucks hand
+bot35 collected $373.25 from pot
+*** SUMMARY ***
+Total pot $375.00 | Rake $1.75
+Board [5c Ad Kd 5h 7c]
+Seat 1: eldoofus (button) mucked
+Seat 2: TheManifestor (small blind) folded before Flop
+Seat 3: bot35 (big blind) showed [Ks 6c] and won ($373.25)
+
+PokerStars Hand #1510908851:  Hold'em No Limit ($25.00/$50.00 USD) - 2023/01/06 00:45:18 ET
+Table 'WPN_7 Day No Rathole 25/50 NLH 9-Max' 9-max Seat #2 is the button
+Seat 1: eldoofus ($1567.13 in chips)
+Seat 2: TheManifestor ($2472.82 in chips)
+Seat 3: bot35 ($846.18 in chips)
+Seat 4: bigsoowoop ($500.00 in chips)
+bot35: posts small blind $25.00
+bigsoowoop: posts big blind $50.00
+*** HOLE CARDS ***
+eldoofus: raises $50.00 to $100.00
+TheManifestor: folds
+bot35: folds
+bigsoowoop: raises $400.00 to $500.00 and is all-in
+eldoofus: calls $400.00
+*** FLOP *** [8h Jh 5c]
+*** TURN *** [8h Jh 5c] [5s]
+*** RIVER *** [8h Jh 5c 5s] [4h]
+*** SHOW DOWN ***
+bigsoowoop: shows [Kh Qd]
+eldoofus: shows [7s Qs]
+bigsoowoop collected $1022.75 from pot
+*** SUMMARY ***
+Total pot $1025.00 | Rake $2.25
+Board [8h Jh 5c 5s 4h]
+Seat 1: eldoofus showed [7s Qs] and lost
+Seat 2: TheManifestor (button) folded before Flop (didn't bet)
+Seat 3: bot35 (small blind) folded before Flop
+Seat 4: bigsoowoop (big blind) showed [Kh Qd] and won ($1022.75)
+
+PokerStars Hand #1510909421:  Hold'em No Limit ($25.00/$50.00 USD) - 2023/01/06 00:45:45 ET
+Table 'WPN_7 Day No Rathole 25/50 NLH 9-Max' 9-max Seat #3 is the button
+Seat 1: eldoofus ($1067.13 in chips)
+Seat 2: TheManifestor ($2472.82 in chips)
+Seat 3: bot35 ($821.18 in chips)
+Seat 4: bigsoowoop ($1022.75 in chips)
+bigsoowoop: posts small blind $25.00
+eldoofus: posts big blind $50.00
+*** HOLE CARDS ***
+TheManifestor: raises $50.00 to $100.00
+bot35: folds
+bigsoowoop: folds
+eldoofus: calls $50.00
+*** FLOP *** [8s 4c Ad]
+eldoofus: checks
+TheManifestor: bets $60.00
+eldoofus: folds
+Uncalled bet ($60.00) returned to TheManifestor
+TheManifestor collected $222.75 from pot
+TheManifestor: doesn't show hand
+*** SUMMARY ***
+Total pot $225.00 | Rake $2.25
+Board [8s 4c Ad]
+Seat 1: eldoofus (big blind) folded on the Flop
+Seat 2: TheManifestor collected ($222.75)
+Seat 3: bot35 (button) folded before Flop (didn't bet)
+Seat 4: bigsoowoop (small blind) folded before Flop
+
+PokerStars Hand #1510910124:  Hold'em No Limit ($25.00/$50.00 USD) - 2023/01/06 00:46:16 ET
+Table 'WPN_7 Day No Rathole 25/50 NLH 9-Max' 9-max Seat #4 is the button
+Seat 1: eldoofus ($967.13 in chips)
+Seat 2: TheManifestor ($2595.57 in chips)
+Seat 3: bot35 ($821.18 in chips)
+Seat 4: bigsoowoop ($997.75 in chips)
+Seat 5: notvrygud ($9262.78 in chips)
+Seat 6: Haftbefehl ($648.25 in chips)
+eldoofus: posts small blind $25.00
+TheManifestor: posts big blind $50.00
+*** HOLE CARDS ***
+bot35: folds
+bigsoowoop: folds
+eldoofus: folds
+Uncalled bet ($25.00) returned to TheManifestor
+TheManifestor collected $50.00 from pot
+TheManifestor: doesn't show hand
+*** SUMMARY ***
+Total pot $50.00 | Rake $0.00
+Seat 1: eldoofus (small blind) folded before Flop
+Seat 2: TheManifestor (big blind) collected ($50.00)
+Seat 3: bot35 folded before Flop (didn't bet)
+Seat 4: bigsoowoop (button) folded before Flop (didn't bet)
+
+PokerStars Hand #1510910239:  Hold'em No Limit ($25.00/$50.00 USD) - 2023/01/06 00:46:22 ET
+Table 'WPN_7 Day No Rathole 25/50 NLH 9-Max' 9-max Seat #1 is the button
+Seat 1: eldoofus ($942.13 in chips)
+Seat 2: TheManifestor ($2620.57 in chips)
+Seat 3: bot35 ($821.18 in chips)
+Seat 4: bigsoowoop ($997.75 in chips)
+Seat 5: notvrygud ($9262.78 in chips)
+Seat 6: Haftbefehl ($648.25 in chips)
+TheManifestor: posts small blind $25.00
+bot35: posts big blind $50.00
+*** HOLE CARDS ***
+bigsoowoop: raises $50.00 to $100.00
+eldoofus: folds
+TheManifestor: folds
+bot35: folds
+Uncalled bet ($50.00) returned to bigsoowoop
+bigsoowoop collected $125.00 from pot
+bigsoowoop: doesn't show hand
+*** SUMMARY ***
+Total pot $125.00 | Rake $0.00
+Seat 1: eldoofus (button) folded before Flop (didn't bet)
+Seat 2: TheManifestor (small blind) folded before Flop
+Seat 3: bot35 (big blind) folded before Flop
+Seat 4: bigsoowoop collected ($125.00)
+
+PokerStars Hand #1510910658:  Hold'em No Limit ($25.00/$50.00 USD) - 2023/01/06 00:46:43 ET
+Table 'WPN_7 Day No Rathole 25/50 NLH 9-Max' 9-max Seat #2 is the button
+Seat 1: eldoofus ($942.13 in chips)
+Seat 2: TheManifestor ($2595.57 in chips)
+Seat 3: bot35 ($771.18 in chips)
+Seat 4: bigsoowoop ($1072.75 in chips)
+Seat 5: notvrygud ($9262.78 in chips)
+Seat 6: Haftbefehl ($648.25 in chips)
+bot35: posts small blind $25.00
+bigsoowoop: posts big blind $50.00
+*** HOLE CARDS ***
+eldoofus: raises $50.00 to $100.00
+TheManifestor: folds
+bot35: folds
+bigsoowoop: folds
+Uncalled bet ($50.00) returned to eldoofus
+eldoofus collected $125.00 from pot
+eldoofus: doesn't show hand
+*** SUMMARY ***
+Total pot $125.00 | Rake $0.00
+Seat 1: eldoofus collected ($125.00)
+Seat 2: TheManifestor (button) folded before Flop (didn't bet)
+Seat 3: bot35 (small blind) folded before Flop
+Seat 4: bigsoowoop (big blind) folded before Flop
+
+PokerStars Hand #1510910985:  Hold'em No Limit ($25.00/$50.00 USD) - 2023/01/06 00:46:58 ET
+Table 'WPN_7 Day No Rathole 25/50 NLH 9-Max' 9-max Seat #3 is the button
+Seat 1: eldoofus ($1017.13 in chips)
+Seat 2: TheManifestor ($2595.57 in chips)
+Seat 3: bot35 ($746.18 in chips)
+Seat 4: bigsoowoop ($1022.75 in chips)
+Seat 5: notvrygud ($9262.78 in chips)
+Seat 6: Haftbefehl ($648.25 in chips)
+bigsoowoop: posts small blind $25.00
+notvrygud: posts big blind $50.00
+*** HOLE CARDS ***
+eldoofus: folds
+TheManifestor: raises $50.00 to $100.00
+bot35: folds
+bigsoowoop: folds
+notvrygud: calls $50.00
+*** FLOP *** [7d 8s Jc]
+notvrygud: checks
+TheManifestor: bets $75.00
+notvrygud: calls $75.00
+*** TURN *** [7d 8s Jc] [4d]
+notvrygud: checks
+TheManifestor: bets $125.00
+notvrygud: raises $475.00 to $600.00
+TheManifestor: calls $475.00
+*** RIVER *** [7d 8s Jc 4d] [3h]
+notvrygud: bets $8487.78 and is all-in
+TheManifestor: folds
+Uncalled bet ($8487.78) returned to notvrygud
+notvrygud collected $1572.00 from pot
+notvrygud: doesn't show hand
+*** SUMMARY ***
+Total pot $1575.00 | Rake $3.00
+Board [7d 8s Jc 4d 3h]
+Seat 1: eldoofus folded before Flop (didn't bet)
+Seat 2: TheManifestor folded on the River
+Seat 3: bot35 (button) folded before Flop (didn't bet)
+Seat 4: bigsoowoop (small blind) folded before Flop
+Seat 5: notvrygud (big blind) collected ($1572.00)
+
+PokerStars Hand #1510915197:  Hold'em No Limit ($25.00/$50.00 USD) - 2023/01/06 00:50:13 ET
+Table 'WPN_7 Day No Rathole 25/50 NLH 9-Max' 9-max Seat #4 is the button
+Seat 1: eldoofus ($1017.13 in chips)
+Seat 2: TheManifestor ($1820.57 in chips)
+Seat 3: bot35 ($746.18 in chips)
+Seat 4: bigsoowoop ($997.75 in chips)
+Seat 5: notvrygud ($10059.78 in chips)
+Seat 6: Haftbefehl ($648.25 in chips)
+Seat 7: NijeGreska ($4173.37 in chips)
+notvrygud: posts small blind $25.00
+Haftbefehl: posts big blind $50.00
+*** HOLE CARDS ***
+eldoofus: folds
+TheManifestor: raises $75.00 to $125.00
+bot35: folds
+bigsoowoop: folds
+notvrygud: calls $100.00
+Haftbefehl: folds
+*** FLOP *** [9s 7d Qh]
+notvrygud: checks
+TheManifestor: bets $75.00
+notvrygud: calls $75.00
+*** TURN *** [9s 7d Qh] [3s]
+notvrygud: checks
+TheManifestor: checks
+*** RIVER *** [9s 7d Qh 3s] [6d]
+notvrygud: checks
+TheManifestor: checks
+*** SHOW DOWN ***
+TheManifestor: shows [8d 8s]
+notvrygud: mucks hand
+TheManifestor collected $447.00 from pot
+*** SUMMARY ***
+Total pot $450.00 | Rake $3.00
+Board [9s 7d Qh 3s 6d]
+Seat 1: eldoofus folded before Flop (didn't bet)
+Seat 2: TheManifestor showed [8d 8s] and won ($447.00)
+Seat 3: bot35 folded before Flop (didn't bet)
+Seat 4: bigsoowoop (button) folded before Flop (didn't bet)
+Seat 5: notvrygud (small blind) mucked
+Seat 6: Haftbefehl (big blind) folded before Flop
+
+PokerStars Hand #1510916964:  Hold'em No Limit ($25.00/$50.00 USD) - 2023/01/06 00:51:37 ET
+Table 'WPN_7 Day No Rathole 25/50 NLH 9-Max' 9-max Seat #5 is the button
+Seat 1: eldoofus ($1017.13 in chips)
+Seat 2: TheManifestor ($2067.57 in chips)
+Seat 3: bot35 ($746.18 in chips)
+Seat 4: bigsoowoop ($997.75 in chips)
+Seat 5: notvrygud ($9859.78 in chips)
+Seat 6: Haftbefehl ($598.25 in chips)
+Seat 7: NijeGreska ($4173.37 in chips)
+Seat 8: zas911 ($15289.66 in chips)
+Haftbefehl: posts small blind $25.00
+NijeGreska: posts big blind $50.00
+*** HOLE CARDS ***
+eldoofus: folds
+TheManifestor: folds
+bot35: raises $50.00 to $100.00
+bigsoowoop: folds
+notvrygud: folds
+Haftbefehl: folds
+NijeGreska: folds
+Uncalled bet ($50.00) returned to bot35
+bot35 collected $125.00 from pot
+bot35: doesn't show hand
+*** SUMMARY ***
+Total pot $125.00 | Rake $0.00
+Seat 1: eldoofus folded before Flop (didn't bet)
+Seat 2: TheManifestor folded before Flop (didn't bet)
+Seat 3: bot35 collected ($125.00)
+Seat 4: bigsoowoop folded before Flop (didn't bet)
+Seat 5: notvrygud (button) folded before Flop (didn't bet)
+Seat 6: Haftbefehl (small blind) folded before Flop
+Seat 7: NijeGreska (big blind) folded before Flop
+
+PokerStars Hand #1510917734:  Hold'em No Limit ($25.00/$50.00 USD) - 2023/01/06 00:52:12 ET
+Table 'WPN_7 Day No Rathole 25/50 NLH 9-Max' 9-max Seat #6 is the button
+Seat 1: eldoofus ($1017.13 in chips)
+Seat 2: TheManifestor ($2067.57 in chips)
+Seat 3: bot35 ($821.18 in chips)
+Seat 4: bigsoowoop ($997.75 in chips)
+Seat 5: notvrygud ($9859.78 in chips)
+Seat 6: Haftbefehl ($573.25 in chips)
+Seat 7: NijeGreska ($4123.37 in chips)
+Seat 8: zas911 ($15289.66 in chips)
+NijeGreska: posts small blind $25.00
+zas911: posts big blind $50.00
+*** HOLE CARDS ***
+eldoofus: folds
+TheManifestor: folds
+bot35: folds
+bigsoowoop: folds
+notvrygud: raises $50.00 to $100.00
+Haftbefehl: folds
+NijeGreska: folds
+zas911: folds
+Uncalled bet ($50.00) returned to notvrygud
+notvrygud collected $125.00 from pot
+notvrygud: doesn't show hand
+*** SUMMARY ***
+Total pot $125.00 | Rake $0.00
+Seat 1: eldoofus folded before Flop (didn't bet)
+Seat 2: TheManifestor folded before Flop (didn't bet)
+Seat 3: bot35 folded before Flop (didn't bet)
+Seat 4: bigsoowoop folded before Flop (didn't bet)
+Seat 5: notvrygud collected ($125.00)
+Seat 6: Haftbefehl (button) folded before Flop (didn't bet)
+Seat 7: NijeGreska (small blind) folded before Flop
+Seat 8: zas911 (big blind) folded before Flop
+
+PokerStars Hand #1510918347:  Hold'em No Limit ($25.00/$50.00 USD) - 2023/01/06 00:52:41 ET
+Table 'WPN_7 Day No Rathole 25/50 NLH 9-Max' 9-max Seat #7 is the button
+Seat 1: eldoofus ($1017.13 in chips)
+Seat 2: TheManifestor ($2067.57 in chips)
+Seat 3: bot35 ($821.18 in chips)
+Seat 4: bigsoowoop ($997.75 in chips)
+Seat 5: notvrygud ($9934.78 in chips)
+Seat 6: Haftbefehl ($573.25 in chips)
+Seat 7: NijeGreska ($4098.37 in chips)
+Seat 8: zas911 ($15239.66 in chips)
+zas911: posts small blind $25.00
+eldoofus: posts big blind $50.00
+*** HOLE CARDS ***
+TheManifestor: folds
+bot35: folds
+bigsoowoop: folds
+notvrygud: raises $50.00 to $100.00
+Haftbefehl: folds
+NijeGreska: folds
+zas911: folds
+eldoofus: folds
+Uncalled bet ($50.00) returned to notvrygud
+notvrygud collected $125.00 from pot
+notvrygud: doesn't show hand
+*** SUMMARY ***
+Total pot $125.00 | Rake $0.00
+Seat 1: eldoofus (big blind) folded before Flop
+Seat 2: TheManifestor folded before Flop (didn't bet)
+Seat 3: bot35 folded before Flop (didn't bet)
+Seat 4: bigsoowoop folded before Flop (didn't bet)
+Seat 5: notvrygud collected ($125.00)
+Seat 6: Haftbefehl folded before Flop (didn't bet)
+Seat 7: NijeGreska (button) folded before Flop (didn't bet)
+Seat 8: zas911 (small blind) folded before Flop
+
+PokerStars Hand #1510918870:  Hold'em No Limit ($25.00/$50.00 USD) - 2023/01/06 00:53:07 ET
+Table 'WPN_7 Day No Rathole 25/50 NLH 9-Max' 9-max Seat #8 is the button
+Seat 1: eldoofus ($967.13 in chips)
+Seat 2: TheManifestor ($2067.57 in chips)
+Seat 3: bot35 ($821.18 in chips)
+Seat 4: bigsoowoop ($997.75 in chips)
+Seat 5: notvrygud ($10009.78 in chips)
+Seat 6: Haftbefehl ($573.25 in chips)
+Seat 7: NijeGreska ($4098.37 in chips)
+Seat 8: zas911 ($15214.66 in chips)
+eldoofus: posts small blind $25.00
+bigsoowoop: posts big blind $50.00
+*** HOLE CARDS ***
+notvrygud: raises $50.00 to $100.00
+Haftbefehl: folds
+NijeGreska: folds
+zas911: folds
+eldoofus: raises $867.13 to $967.13 and is all-in
+bigsoowoop: folds
+notvrygud: folds
+Uncalled bet ($867.13) returned to eldoofus
+eldoofus collected $250.00 from pot
+eldoofus: doesn't show hand
+*** SUMMARY ***
+Total pot $250.00 | Rake $0.00
+Seat 1: eldoofus (small blind) collected ($250.00)
+Seat 4: bigsoowoop (big blind) folded before Flop
+Seat 5: notvrygud folded before Flop
+Seat 6: Haftbefehl folded before Flop (didn't bet)
+Seat 7: NijeGreska folded before Flop (didn't bet)
+Seat 8: zas911 (button) folded before Flop (didn't bet)
+
+PokerStars Hand #1510919342:  Hold'em No Limit ($25.00/$50.00 USD) - 2023/01/06 00:53:29 ET
+Table 'WPN_7 Day No Rathole 25/50 NLH 9-Max' 9-max Seat #1 is the button
+Seat 1: eldoofus ($1117.13 in chips)
+Seat 4: bigsoowoop ($947.75 in chips)
+Seat 5: notvrygud ($9909.78 in chips)
+Seat 6: Haftbefehl ($573.25 in chips)
+Seat 7: NijeGreska ($4098.37 in chips)
+Seat 8: zas911 ($15214.66 in chips)
+bigsoowoop: posts small blind $25.00
+notvrygud: posts big blind $50.00
+*** HOLE CARDS ***
+Haftbefehl: folds
+NijeGreska: folds
+zas911: folds
+eldoofus: folds
+bigsoowoop: folds
+Uncalled bet ($25.00) returned to notvrygud
+notvrygud collected $50.00 from pot
+notvrygud: doesn't show hand
+*** SUMMARY ***
+Total pot $50.00 | Rake $0.00
+Seat 1: eldoofus (button) folded before Flop (didn't bet)
+Seat 4: bigsoowoop (small blind) folded before Flop
+Seat 5: notvrygud (big blind) collected ($50.00)
+Seat 6: Haftbefehl folded before Flop (didn't bet)
+Seat 7: NijeGreska folded before Flop (didn't bet)
+Seat 8: zas911 folded before Flop (didn't bet)
+
+PokerStars Hand #1510919729:  Hold'em No Limit ($25.00/$50.00 USD) - 2023/01/06 00:53:49 ET
+Table 'WPN_7 Day No Rathole 25/50 NLH 9-Max' 9-max Seat #4 is the button
+Seat 1: eldoofus ($1117.13 in chips)
+Seat 4: bigsoowoop ($922.75 in chips)
+Seat 5: notvrygud ($9934.78 in chips)
+Seat 6: Haftbefehl ($573.25 in chips)
+Seat 7: NijeGreska ($4098.37 in chips)
+Seat 8: zas911 ($15214.66 in chips)
+notvrygud: posts small blind $25.00
+Haftbefehl: posts big blind $50.00
+*** HOLE CARDS ***
+NijeGreska: raises $50.00 to $100.00
+zas911: folds
+eldoofus: folds
+bigsoowoop: folds
+notvrygud: folds
+Haftbefehl: raises $473.25 to $573.25 and is all-in
+NijeGreska: calls $473.25
+*** FLOP *** [Th Qd 3h]
+*** TURN *** [Th Qd 3h] [Ad]
+*** RIVER *** [Th Qd 3h Ad] [8c]
+*** SHOW DOWN ***
+NijeGreska: shows [9s 9c]
+Haftbefehl: shows [5c 5h]
+NijeGreska collected $1168.50 from pot
+*** SUMMARY ***
+Total pot $1171.50 | Rake $3.00
+Board [Th Qd 3h Ad 8c]
+Seat 1: eldoofus folded before Flop (didn't bet)
+Seat 4: bigsoowoop (button) folded before Flop (didn't bet)
+Seat 5: notvrygud (small blind) folded before Flop
+Seat 6: Haftbefehl (big blind) showed [5c 5h] and lost
+Seat 7: NijeGreska showed [9s 9c] and won ($1168.50)
+Seat 8: zas911 folded before Flop (didn't bet)
+
+PokerStars Hand #1510920758:  Hold'em No Limit ($25.00/$50.00 USD) - 2023/01/06 00:54:36 ET
+Table 'WPN_7 Day No Rathole 25/50 NLH 9-Max' 9-max Seat #5 is the button
+Seat 1: eldoofus ($1117.13 in chips)
+Seat 4: bigsoowoop ($922.75 in chips)
+Seat 5: notvrygud ($9909.78 in chips)
+Seat 6: Haftbefehl ($500.00 in chips)
+Seat 7: NijeGreska ($4693.62 in chips)
+Seat 8: zas911 ($15214.66 in chips)
+Haftbefehl: posts small blind $25.00
+zas911: posts big blind $50.00
+*** HOLE CARDS ***
+eldoofus: raises $50.00 to $100.00
+bigsoowoop: folds
+notvrygud: folds
+Haftbefehl: folds
+zas911: folds
+Uncalled bet ($50.00) returned to eldoofus
+eldoofus collected $125.00 from pot
+eldoofus: doesn't show hand
+*** SUMMARY ***
+Total pot $125.00 | Rake $0.00
+Seat 1: eldoofus collected ($125.00)
+Seat 4: bigsoowoop folded before Flop (didn't bet)
+Seat 5: notvrygud (button) folded before Flop (didn't bet)
+Seat 6: Haftbefehl (small blind) folded before Flop
+Seat 8: zas911 (big blind) folded before Flop
+
+PokerStars Hand #1510921311:  Hold'em No Limit ($25.00/$50.00 USD) - 2023/01/06 00:55:04 ET
+Table 'WPN_7 Day No Rathole 25/50 NLH 9-Max' 9-max Seat #6 is the button
+Seat 1: eldoofus ($1192.13 in chips)
+Seat 4: bigsoowoop ($922.75 in chips)
+Seat 5: notvrygud ($9909.78 in chips)
+Seat 6: Haftbefehl ($500.00 in chips)
+Seat 8: zas911 ($15164.66 in chips)
+zas911: posts small blind $25.00
+eldoofus: posts big blind $50.00
+*** HOLE CARDS ***
+bigsoowoop: folds
+notvrygud: folds
+Haftbefehl: folds
+zas911: raises $75.00 to $125.00
+eldoofus: raises $1067.13 to $1192.13 and is all-in
+zas911: folds
+Uncalled bet ($1067.13) returned to eldoofus
+eldoofus collected $250.00 from pot
+eldoofus: doesn't show hand
+*** SUMMARY ***
+Total pot $250.00 | Rake $0.00
+Seat 1: eldoofus (big blind) collected ($250.00)
+Seat 4: bigsoowoop folded before Flop (didn't bet)
+Seat 5: notvrygud folded before Flop (didn't bet)
+Seat 6: Haftbefehl (button) folded before Flop (didn't bet)
+Seat 8: zas911 (small blind) folded before Flop
+
+PokerStars Hand #1510921459:  Hold'em No Limit ($25.00/$50.00 USD) - 2023/01/06 00:55:19 ET
+Table 'WPN_7 Day No Rathole 25/50 NLH 9-Max' 9-max Seat #8 is the button
+Seat 1: eldoofus ($1317.13 in chips)
+Seat 4: bigsoowoop ($922.75 in chips)
+Seat 5: notvrygud ($9909.78 in chips)
+Seat 6: Haftbefehl ($500.00 in chips)
+Seat 8: zas911 ($15039.66 in chips)
+eldoofus: posts small blind $25.00
+bigsoowoop: posts big blind $50.00
+*** HOLE CARDS ***
+notvrygud: folds
+Haftbefehl: folds
+zas911: folds
+eldoofus: folds
+Uncalled bet ($25.00) returned to bigsoowoop
+bigsoowoop collected $50.00 from pot
+bigsoowoop: doesn't show hand
+*** SUMMARY ***
+Total pot $50.00 | Rake $0.00
+Seat 1: eldoofus (small blind) folded before Flop
+Seat 4: bigsoowoop (big blind) collected ($50.00)
+Seat 5: notvrygud folded before Flop (didn't bet)
+Seat 6: Haftbefehl folded before Flop (didn't bet)
+Seat 8: zas911 (button) folded before Flop (didn't bet)
+
+PokerStars Hand #1510921623:  Hold'em No Limit ($25.00/$50.00 USD) - 2023/01/06 00:55:36 ET
+Table 'WPN_7 Day No Rathole 25/50 NLH 9-Max' 9-max Seat #1 is the button
+Seat 1: eldoofus ($1292.13 in chips)
+Seat 4: bigsoowoop ($947.75 in chips)
+Seat 5: notvrygud ($9909.78 in chips)
+Seat 6: Haftbefehl ($500.00 in chips)
+Seat 8: zas911 ($15039.66 in chips)
+bigsoowoop: posts small blind $25.00
+notvrygud: posts big blind $50.00
+*** HOLE CARDS ***
+Haftbefehl: folds
+zas911: folds
+eldoofus: folds
+bigsoowoop: folds
+Uncalled bet ($25.00) returned to notvrygud
+notvrygud collected $50.00 from pot
+notvrygud: doesn't show hand
+*** SUMMARY ***
+Total pot $50.00 | Rake $0.00
+Seat 1: eldoofus (button) folded before Flop (didn't bet)
+Seat 4: bigsoowoop (small blind) folded before Flop
+Seat 5: notvrygud (big blind) collected ($50.00)
+Seat 6: Haftbefehl folded before Flop (didn't bet)
+Seat 8: zas911 folded before Flop (didn't bet)
+
+PokerStars Hand #1510921797:  Hold'em No Limit ($25.00/$50.00 USD) - 2023/01/06 00:55:51 ET
+Table 'WPN_7 Day No Rathole 25/50 NLH 9-Max' 9-max Seat #4 is the button
+Seat 1: eldoofus ($1292.13 in chips)
+Seat 4: bigsoowoop ($922.75 in chips)
+Seat 5: notvrygud ($9934.78 in chips)
+Seat 6: Haftbefehl ($500.00 in chips)
+Seat 8: zas911 ($15039.66 in chips)
+notvrygud: posts small blind $25.00
+Haftbefehl: posts big blind $50.00
+*** HOLE CARDS ***
+zas911: raises $50.00 to $100.00
+eldoofus: folds
+bigsoowoop: folds
+notvrygud: folds
+Haftbefehl: calls $50.00
+*** FLOP *** [Th Jd 8d]
+Haftbefehl: checks
+zas911: bets $74.25
+Haftbefehl: raises $325.75 to $400.00 and is all-in
+zas911: calls $325.75
+*** TURN *** [Th Jd 8d] [9d]
+*** RIVER *** [Th Jd 8d 9d] [5c]
+*** SHOW DOWN ***
+Haftbefehl: shows [Qs Ts]
+zas911: shows [Jh Ad]
+Haftbefehl collected $1022.00 from pot
+*** SUMMARY ***
+Total pot $1025.00 | Rake $3.00
+Board [Th Jd 8d 9d 5c]
+Seat 1: eldoofus folded before Flop (didn't bet)
+Seat 4: bigsoowoop (button) folded before Flop (didn't bet)
+Seat 5: notvrygud (small blind) folded before Flop
+Seat 6: Haftbefehl (big blind) showed [Qs Ts] and won ($1022.00)
+Seat 8: zas911 showed [Jh Ad] and lost
+
+PokerStars Hand #1510922232:  Hold'em No Limit ($25.00/$50.00 USD) - 2023/01/06 00:56:35 ET
+Table 'WPN_7 Day No Rathole 25/50 NLH 9-Max' 9-max Seat #5 is the button
+Seat 1: eldoofus ($1292.13 in chips)
+Seat 4: bigsoowoop ($922.75 in chips)
+Seat 5: notvrygud ($9909.78 in chips)
+Seat 6: Haftbefehl ($1022.00 in chips)
+Seat 8: zas911 ($14539.66 in chips)
+Haftbefehl: posts small blind $25.00
+zas911: posts big blind $50.00
+*** HOLE CARDS ***
+eldoofus: folds
+bigsoowoop: folds
+notvrygud: folds
+Haftbefehl: folds
+Uncalled bet ($25.00) returned to zas911
+zas911 collected $50.00 from pot
+zas911: doesn't show hand
+*** SUMMARY ***
+Total pot $50.00 | Rake $0.00
+Seat 1: eldoofus folded before Flop (didn't bet)
+Seat 4: bigsoowoop folded before Flop (didn't bet)
+Seat 5: notvrygud (button) folded before Flop (didn't bet)
+Seat 6: Haftbefehl (small blind) folded before Flop
+Seat 8: zas911 (big blind) collected ($50.00)
+
+PokerStars Hand #1510922366:  Hold'em No Limit ($25.00/$50.00 USD) - 2023/01/06 00:56:47 ET
+Table 'WPN_7 Day No Rathole 25/50 NLH 9-Max' 9-max Seat #6 is the button
+Seat 1: eldoofus ($1292.13 in chips)
+Seat 4: bigsoowoop ($922.75 in chips)
+Seat 5: notvrygud ($9909.78 in chips)
+Seat 6: Haftbefehl ($997.00 in chips)
+Seat 8: zas911 ($14564.66 in chips)
+zas911: posts small blind $25.00
+eldoofus: posts big blind $50.00
+*** HOLE CARDS ***
+bigsoowoop: raises $50.00 to $100.00
+notvrygud: folds
+Haftbefehl: folds
+zas911: folds
+eldoofus: folds
+Uncalled bet ($50.00) returned to bigsoowoop
+bigsoowoop collected $125.00 from pot
+bigsoowoop: doesn't show hand
+*** SUMMARY ***
+Total pot $125.00 | Rake $0.00
+Seat 1: eldoofus (big blind) folded before Flop
+Seat 4: bigsoowoop collected ($125.00)
+Seat 5: notvrygud folded before Flop (didn't bet)
+Seat 6: Haftbefehl (button) folded before Flop (didn't bet)
+Seat 8: zas911 (small blind) folded before Flop
+
+PokerStars Hand #1510922525:  Hold'em No Limit ($25.00/$50.00 USD) - 2023/01/06 00:57:04 ET
+Table 'WPN_7 Day No Rathole 25/50 NLH 9-Max' 9-max Seat #8 is the button
+Seat 1: eldoofus ($1242.13 in chips)
+Seat 4: bigsoowoop ($997.75 in chips)
+Seat 5: notvrygud ($9909.78 in chips)
+Seat 6: Haftbefehl ($997.00 in chips)
+Seat 8: zas911 ($14539.66 in chips)
+eldoofus: posts small blind $25.00
+bigsoowoop: posts big blind $50.00
+*** HOLE CARDS ***
+notvrygud: folds
+Haftbefehl: folds
+zas911: folds
+eldoofus: raises $1192.13 to $1242.13 and is all-in
+bigsoowoop: folds
+Uncalled bet ($1192.13) returned to eldoofus
+eldoofus collected $100.00 from pot
+eldoofus: doesn't show hand
+*** SUMMARY ***
+Total pot $100.00 | Rake $0.00
+Seat 1: eldoofus (small blind) collected ($100.00)
+Seat 4: bigsoowoop (big blind) folded before Flop
+Seat 5: notvrygud folded before Flop (didn't bet)
+Seat 6: Haftbefehl folded before Flop (didn't bet)
+Seat 8: zas911 (button) folded before Flop (didn't bet)
+
+PokerStars Hand #1510922697:  Hold'em No Limit ($25.00/$50.00 USD) - 2023/01/06 00:57:20 ET
+Table 'WPN_7 Day No Rathole 25/50 NLH 9-Max' 9-max Seat #1 is the button
+Seat 1: eldoofus ($1292.13 in chips)
+Seat 4: bigsoowoop ($947.75 in chips)
+Seat 5: notvrygud ($9909.78 in chips)
+Seat 6: Haftbefehl ($997.00 in chips)
+Seat 8: zas911 ($14539.66 in chips)
+bigsoowoop: posts small blind $25.00
+notvrygud: posts big blind $50.00
+*** HOLE CARDS ***
+Haftbefehl: raises $50.00 to $100.00
+zas911: folds
+eldoofus: raises $1192.13 to $1292.13 and is all-in
+bigsoowoop: folds
+notvrygud: raises $1192.13 to $2484.26
+Haftbefehl: folds
+Uncalled bet ($1192.13) returned to notvrygud
+*** FLOP *** [2s 3h Ks]
+*** TURN *** [2s 3h Ks] [Ah]
+*** RIVER *** [2s 3h Ks Ah] [Js]
+*** SHOW DOWN ***
+notvrygud: shows [Jc Jh]
+eldoofus: shows [Qh Qd]
+notvrygud collected $2706.26 from pot
+*** SUMMARY ***
+Total pot $2709.26 | Rake $3.00
+Board [2s 3h Ks Ah Js]
+Seat 1: eldoofus (button) showed [Qh Qd] and lost
+Seat 4: bigsoowoop (small blind) folded before Flop
+Seat 5: notvrygud (big blind) showed [Jc Jh] and won ($2706.26)
+Seat 6: Haftbefehl folded before Flop
+Seat 8: zas911 folded before Flop (didn't bet)
+
+PokerStars Hand #1510923075:  Hold'em No Limit ($25.00/$50.00 USD) - 2023/01/06 00:57:58 ET
+Table 'WPN_7 Day No Rathole 25/50 NLH 9-Max' 9-max Seat #4 is the button
+Seat 1: eldoofus ($500.00 in chips)
+Seat 4: bigsoowoop ($922.75 in chips)
+Seat 5: notvrygud ($11323.91 in chips)
+Seat 6: Haftbefehl ($897.00 in chips)
+Seat 8: zas911 ($14539.66 in chips)
+notvrygud: posts small blind $25.00
+Haftbefehl: posts big blind $50.00
+*** HOLE CARDS ***
+zas911: folds
+eldoofus: folds
+bigsoowoop: folds
+notvrygud: folds
+Uncalled bet ($25.00) returned to Haftbefehl
+Haftbefehl collected $50.00 from pot
+Haftbefehl: doesn't show hand
+*** SUMMARY ***
+Total pot $50.00 | Rake $0.00
+Seat 1: eldoofus folded before Flop (didn't bet)
+Seat 4: bigsoowoop (button) folded before Flop (didn't bet)
+Seat 5: notvrygud (small blind) folded before Flop
+Seat 6: Haftbefehl (big blind) collected ($50.00)
+Seat 8: zas911 folded before Flop (didn't bet)
+
+PokerStars Hand #1510923161:  Hold'em No Limit ($25.00/$50.00 USD) - 2023/01/06 00:58:07 ET
+Table 'WPN_7 Day No Rathole 25/50 NLH 9-Max' 9-max Seat #5 is the button
+Seat 1: eldoofus ($500.00 in chips)
+Seat 4: bigsoowoop ($922.75 in chips)
+Seat 5: notvrygud ($11298.91 in chips)
+Seat 6: Haftbefehl ($922.00 in chips)
+Seat 8: zas911 ($14539.66 in chips)
+Haftbefehl: posts small blind $25.00
+zas911: posts big blind $50.00
+*** HOLE CARDS ***
+eldoofus: folds
+bigsoowoop: raises $50.00 to $100.00
+notvrygud: folds
+Haftbefehl: raises $822.00 to $922.00 and is all-in
+zas911: folds
+bigsoowoop: calls $822.00
+*** FLOP *** [6s Jd 8h]
+*** TURN *** [6s Jd 8h] [Kd]
+*** RIVER *** [6s Jd 8h Kd] [7h]
+*** SHOW DOWN ***
+bigsoowoop: shows [Jh Jc]
+Haftbefehl: shows [Qs Ks]
+bigsoowoop collected $1891.00 from pot
+*** SUMMARY ***
+Total pot $1894.00 | Rake $3.00
+Board [6s Jd 8h Kd 7h]
+Seat 1: eldoofus folded before Flop (didn't bet)
+Seat 4: bigsoowoop showed [Jh Jc] and won ($1891.00)
+Seat 5: notvrygud (button) folded before Flop (didn't bet)
+Seat 6: Haftbefehl (small blind) showed [Qs Ks] and lost
+Seat 8: zas911 (big blind) folded before Flop
+
+PokerStars Hand #1510985320:  Hold'em No Limit ($25.00/$50.00 USD) - 2023/01/06 01:47:16 ET
+Table 'WPN_7 Day No Rathole 25/50 NLH 9-Max' 9-max Seat #3 is the button
+Seat 3: DoublelegTD ($824.37 in chips)
+Seat 8: zas911 ($14464.66 in chips)
+DoublelegTD: posts small blind $25.00
+zas911: posts big blind $50.00
+*** HOLE CARDS ***
+DoublelegTD: calls $25.00
+zas911: raises $1406.92 to $1456.92
+DoublelegTD: folds
+Uncalled bet ($1406.92) returned to zas911
+zas911 collected $100.00 from pot
+zas911: doesn't show hand
+*** SUMMARY ***
+Total pot $100.00 | Rake $0.00
+Seat 3: DoublelegTD (button) (small blind) folded before Flop
+Seat 8: zas911 (big blind) collected ($100.00)
+
+PokerStars Hand #1511037036:  Hold'em No Limit ($25.00/$50.00 USD) - 2023/01/06 02:28:29 ET
+Table 'WPN_7 Day No Rathole 25/50 NLH 9-Max' 9-max Seat #2 is the button
+Seat 2: PerfectSonata ($1022.50 in chips)
+Seat 3: DoublelegTD ($749.37 in chips)
+PerfectSonata: posts small blind $25.00
+DoublelegTD: posts big blind $50.00
+*** HOLE CARDS ***
+PerfectSonata: folds
+Uncalled bet ($25.00) returned to DoublelegTD
+DoublelegTD collected $50.00 from pot
+DoublelegTD: doesn't show hand
+*** SUMMARY ***
+Total pot $50.00 | Rake $0.00
+Seat 2: PerfectSonata (button) (small blind) folded before Flop
+Seat 3: DoublelegTD (big blind) collected ($50.00)
+
+PokerStars Hand #1511037173:  Hold'em No Limit ($25.00/$50.00 USD) - 2023/01/06 02:28:35 ET
+Table 'WPN_7 Day No Rathole 25/50 NLH 9-Max' 9-max Seat #3 is the button
+Seat 2: PerfectSonata ($997.50 in chips)
+Seat 3: DoublelegTD ($774.37 in chips)
+DoublelegTD: posts small blind $25.00
+PerfectSonata: posts big blind $50.00
+*** HOLE CARDS ***
+DoublelegTD: raises $550.00 to $600.00
+PerfectSonata: folds
+Uncalled bet ($550.00) returned to DoublelegTD
+DoublelegTD collected $100.00 from pot
+DoublelegTD: doesn't show hand
+*** SUMMARY ***
+Total pot $100.00 | Rake $0.00
+Seat 2: PerfectSonata (big blind) folded before Flop
+Seat 3: DoublelegTD (button) (small blind) collected ($100.00)
+
+PokerStars Hand #1511037657:  Hold'em No Limit ($25.00/$50.00 USD) - 2023/01/06 02:28:55 ET
+Table 'WPN_7 Day No Rathole 25/50 NLH 9-Max' 9-max Seat #2 is the button
+Seat 2: PerfectSonata ($947.50 in chips)
+Seat 3: DoublelegTD ($824.37 in chips)
+PerfectSonata: posts small blind $25.00
+DoublelegTD: posts big blind $50.00
+*** HOLE CARDS ***
+PerfectSonata: calls $25.00
+DoublelegTD: checks
+*** FLOP *** [9c 7c 6s]
+DoublelegTD: checks
+PerfectSonata: checks
+*** TURN *** [9c 7c 6s] [Js]
+DoublelegTD: checks
+PerfectSonata: bets $100.00
+DoublelegTD: folds
+Uncalled bet ($100.00) returned to PerfectSonata
+PerfectSonata collected $98.75 from pot
+PerfectSonata: doesn't show hand
+*** SUMMARY ***
+Total pot $100.00 | Rake $1.25
+Board [9c 7c 6s Js]
+Seat 2: PerfectSonata (button) (small blind) collected ($98.75)
+Seat 3: DoublelegTD (big blind) folded on the Turn
+
+PokerStars Hand #1511038656:  Hold'em No Limit ($25.00/$50.00 USD) - 2023/01/06 02:29:37 ET
+Table 'WPN_7 Day No Rathole 25/50 NLH 9-Max' 9-max Seat #3 is the button
+Seat 2: PerfectSonata ($996.25 in chips)
+Seat 3: DoublelegTD ($774.37 in chips)
+DoublelegTD: posts small blind $25.00
+PerfectSonata: posts big blind $50.00
+*** HOLE CARDS ***
+DoublelegTD: folds
+Uncalled bet ($25.00) returned to PerfectSonata
+PerfectSonata collected $50.00 from pot
+PerfectSonata: doesn't show hand
+*** SUMMARY ***
+Total pot $50.00 | Rake $0.00
+Seat 2: PerfectSonata (big blind) collected ($50.00)
+Seat 3: DoublelegTD (button) (small blind) folded before Flop
+
+PokerStars Hand #1511038866:  Hold'em No Limit ($25.00/$50.00 USD) - 2023/01/06 02:29:46 ET
+Table 'WPN_7 Day No Rathole 25/50 NLH 9-Max' 9-max Seat #2 is the button
+Seat 2: PerfectSonata ($1021.25 in chips)
+Seat 3: DoublelegTD ($749.37 in chips)
+PerfectSonata: posts small blind $25.00
+DoublelegTD: posts big blind $50.00
+*** HOLE CARDS ***
+PerfectSonata: calls $25.00
+DoublelegTD: checks
+*** FLOP *** [Jh Kc 9h]
+DoublelegTD: checks
+PerfectSonata: bets $50.00
+DoublelegTD: calls $50.00
+*** TURN *** [Jh Kc 9h] [6d]
+DoublelegTD: checks
+PerfectSonata: bets $200.00
+DoublelegTD: folds
+Uncalled bet ($200.00) returned to PerfectSonata
+PerfectSonata collected $198.75 from pot
+PerfectSonata: doesn't show hand
+*** SUMMARY ***
+Total pot $200.00 | Rake $1.25
+Board [Jh Kc 9h 6d]
+Seat 2: PerfectSonata (button) (small blind) collected ($198.75)
+Seat 3: DoublelegTD (big blind) folded on the Turn
+
+PokerStars Hand #1511039588:  Hold'em No Limit ($25.00/$50.00 USD) - 2023/01/06 02:30:18 ET
+Table 'WPN_7 Day No Rathole 25/50 NLH 9-Max' 9-max Seat #3 is the button
+Seat 2: PerfectSonata ($1120.00 in chips)
+Seat 3: DoublelegTD ($649.37 in chips)
+DoublelegTD: posts small blind $25.00
+PerfectSonata: posts big blind $50.00
+*** HOLE CARDS ***
+DoublelegTD: calls $25.00
+PerfectSonata: raises $1070.00 to $1120.00 and is all-in
+DoublelegTD: folds
+Uncalled bet ($1070.00) returned to PerfectSonata
+PerfectSonata collected $100.00 from pot
+PerfectSonata: doesn't show hand
+*** SUMMARY ***
+Total pot $100.00 | Rake $0.00
+Seat 2: PerfectSonata (big blind) collected ($100.00)
+Seat 3: DoublelegTD (button) (small blind) folded before Flop
+
+PokerStars Hand #1511039817:  Hold'em No Limit ($25.00/$50.00 USD) - 2023/01/06 02:30:29 ET
+Table 'WPN_7 Day No Rathole 25/50 NLH 9-Max' 9-max Seat #2 is the button
+Seat 2: PerfectSonata ($1170.00 in chips)
+Seat 3: DoublelegTD ($599.37 in chips)
+PerfectSonata: posts small blind $25.00
+DoublelegTD: posts big blind $50.00
+*** HOLE CARDS ***
+PerfectSonata: raises $1120.00 to $1170.00 and is all-in
+DoublelegTD: folds
+Uncalled bet ($1120.00) returned to PerfectSonata
+PerfectSonata collected $100.00 from pot
+PerfectSonata: doesn't show hand
+*** SUMMARY ***
+Total pot $100.00 | Rake $0.00
+Seat 2: PerfectSonata (button) (small blind) collected ($100.00)
+Seat 3: DoublelegTD (big blind) folded before Flop
+
+PokerStars Hand #1511040174:  Hold'em No Limit ($25.00/$50.00 USD) - 2023/01/06 02:30:43 ET
+Table 'WPN_7 Day No Rathole 25/50 NLH 9-Max' 9-max Seat #3 is the button
+Seat 2: PerfectSonata ($1220.00 in chips)
+Seat 3: DoublelegTD ($549.37 in chips)
+DoublelegTD: posts small blind $25.00
+PerfectSonata: posts big blind $50.00
+*** HOLE CARDS ***
+DoublelegTD: raises $499.37 to $549.37 and is all-in
+PerfectSonata: folds
+Uncalled bet ($499.37) returned to DoublelegTD
+DoublelegTD collected $100.00 from pot
+DoublelegTD: doesn't show hand
+*** SUMMARY ***
+Total pot $100.00 | Rake $0.00
+Seat 2: PerfectSonata (big blind) folded before Flop
+Seat 3: DoublelegTD (button) (small blind) collected ($100.00)
+
+PokerStars Hand #1511040384:  Hold'em No Limit ($25.00/$50.00 USD) - 2023/01/06 02:30:52 ET
+Table 'WPN_7 Day No Rathole 25/50 NLH 9-Max' 9-max Seat #2 is the button
+Seat 2: PerfectSonata ($1170.00 in chips)
+Seat 3: DoublelegTD ($599.37 in chips)
+Seat 4: zas911 ($14514.66 in chips)
+PerfectSonata: posts small blind $25.00
+DoublelegTD: posts big blind $50.00
+*** HOLE CARDS ***
+PerfectSonata: calls $25.00
+DoublelegTD: raises $549.37 to $599.37 and is all-in
+PerfectSonata: folds
+Uncalled bet ($549.37) returned to DoublelegTD
+DoublelegTD collected $100.00 from pot
+DoublelegTD: doesn't show hand
+*** SUMMARY ***
+Total pot $100.00 | Rake $0.00
+Seat 2: PerfectSonata (button) (small blind) folded before Flop
+Seat 3: DoublelegTD (big blind) collected ($100.00)
+
+PokerStars Hand #1511040666:  Hold'em No Limit ($25.00/$50.00 USD) - 2023/01/06 02:31:04 ET
+Table 'WPN_7 Day No Rathole 25/50 NLH 9-Max' 9-max Seat #2 is the button
+Seat 2: PerfectSonata ($1120.00 in chips)
+Seat 3: DoublelegTD ($649.37 in chips)
+Seat 4: zas911 ($14514.66 in chips)
+DoublelegTD: posts small blind $25.00
+zas911: posts big blind $50.00
+*** HOLE CARDS ***
+PerfectSonata: folds
+DoublelegTD: raises $599.37 to $649.37 and is all-in
+zas911: folds
+Uncalled bet ($599.37) returned to DoublelegTD
+DoublelegTD collected $100.00 from pot
+DoublelegTD: doesn't show hand
+*** SUMMARY ***
+Total pot $100.00 | Rake $0.00
+Seat 2: PerfectSonata (button) folded before Flop (didn't bet)
+Seat 3: DoublelegTD (small blind) collected ($100.00)
+Seat 4: zas911 (big blind) folded before Flop
+
+PokerStars Hand #1511041082:  Hold'em No Limit ($25.00/$50.00 USD) - 2023/01/06 02:31:21 ET
+Table 'WPN_7 Day No Rathole 25/50 NLH 9-Max' 9-max Seat #3 is the button
+Seat 2: PerfectSonata ($1120.00 in chips)
+Seat 3: DoublelegTD ($699.37 in chips)
+Seat 4: zas911 ($14464.66 in chips)
+zas911: posts small blind $25.00
+PerfectSonata: posts big blind $50.00
+*** HOLE CARDS ***
+DoublelegTD: folds
+zas911: folds
+Uncalled bet ($25.00) returned to PerfectSonata
+PerfectSonata collected $50.00 from pot
+PerfectSonata: doesn't show hand
+*** SUMMARY ***
+Total pot $50.00 | Rake $0.00
+Seat 2: PerfectSonata (big blind) collected ($50.00)
+Seat 3: DoublelegTD (button) folded before Flop (didn't bet)
+Seat 4: zas911 (small blind) folded before Flop
+
+PokerStars Hand #1511041268:  Hold'em No Limit ($25.00/$50.00 USD) - 2023/01/06 02:31:30 ET
+Table 'WPN_7 Day No Rathole 25/50 NLH 9-Max' 9-max Seat #4 is the button
+Seat 2: PerfectSonata ($1145.00 in chips)
+Seat 3: DoublelegTD ($699.37 in chips)
+Seat 4: zas911 ($14439.66 in chips)
+PerfectSonata: posts small blind $25.00
+DoublelegTD: posts big blind $50.00
+*** HOLE CARDS ***
+zas911: raises $50.00 to $100.00
+PerfectSonata: folds
+DoublelegTD: calls $50.00
+*** FLOP *** [3s 8s 9c]
+DoublelegTD: checks
+zas911: bets $74.25
+DoublelegTD: folds
+Uncalled bet ($74.25) returned to zas911
+zas911 collected $223.25 from pot
+zas911: doesn't show hand
+*** SUMMARY ***
+Total pot $225.00 | Rake $1.75
+Board [3s 8s 9c]
+Seat 2: PerfectSonata (small blind) folded before Flop
+Seat 3: DoublelegTD (big blind) folded on the Flop
+Seat 4: zas911 (button) collected ($223.25)
+
+PokerStars Hand #1511041884:  Hold'em No Limit ($25.00/$50.00 USD) - 2023/01/06 02:31:56 ET
+Table 'WPN_7 Day No Rathole 25/50 NLH 9-Max' 9-max Seat #2 is the button
+Seat 2: PerfectSonata ($1120.00 in chips)
+Seat 3: DoublelegTD ($599.37 in chips)
+Seat 4: zas911 ($14562.91 in chips)
+DoublelegTD: posts small blind $25.00
+zas911: posts big blind $50.00
+*** HOLE CARDS ***
+PerfectSonata: raises $50.00 to $100.00
+DoublelegTD: folds
+zas911: folds
+Uncalled bet ($50.00) returned to PerfectSonata
+PerfectSonata collected $125.00 from pot
+PerfectSonata: doesn't show hand
+*** SUMMARY ***
+Total pot $125.00 | Rake $0.00
+Seat 2: PerfectSonata (button) collected ($125.00)
+Seat 3: DoublelegTD (small blind) folded before Flop
+Seat 4: zas911 (big blind) folded before Flop
+
+PokerStars Hand #1511042245:  Hold'em No Limit ($25.00/$50.00 USD) - 2023/01/06 02:32:10 ET
+Table 'WPN_7 Day No Rathole 25/50 NLH 9-Max' 9-max Seat #3 is the button
+Seat 2: PerfectSonata ($1195.00 in chips)
+Seat 3: DoublelegTD ($574.37 in chips)
+Seat 4: zas911 ($14512.91 in chips)
+Seat 5: az96 ($4899.75 in chips)
+zas911: posts small blind $25.00
+az96: posts big blind $50.00
+*** HOLE CARDS ***
+PerfectSonata: folds
+DoublelegTD: folds
+zas911: raises $100.00 to $150.00
+az96: raises $300.00 to $450.00
+zas911: folds
+Uncalled bet ($300.00) returned to az96
+az96 collected $300.00 from pot
+az96: doesn't show hand
+*** SUMMARY ***
+Total pot $300.00 | Rake $0.00
+Seat 2: PerfectSonata folded before Flop (didn't bet)
+Seat 3: DoublelegTD (button) folded before Flop (didn't bet)
+Seat 4: zas911 (small blind) folded before Flop
+Seat 5: az96 (big blind) collected ($300.00)
+
+PokerStars Hand #1511072671:  Hold'em No Limit ($25.00/$50.00 USD) - 2023/01/06 02:55:06 ET
+Table 'WPN_7 Day No Rathole 25/50 NLH 9-Max' 9-max Seat #3 is the button
+Seat 3: DoublelegTD ($574.37 in chips)
+Seat 8: Seesee123 ($500.00 in chips)
+DoublelegTD: posts small blind $25.00
+Seesee123: posts big blind $50.00
+*** HOLE CARDS ***
+DoublelegTD: raises $524.37 to $574.37 and is all-in
+Seesee123: calls $450.00 and is all-in
+Uncalled bet ($74.37) returned to DoublelegTD
+*** FLOP *** [7d 6c Kc]
+*** TURN *** [7d 6c Kc] [2s]
+*** RIVER *** [7d 6c Kc 2s] [7c]
+*** SHOW DOWN ***
+Seesee123: shows [Ac 8c]
+DoublelegTD: shows [Qh 7s]
+Seesee123 collected $998.75 from pot
+*** SUMMARY ***
+Total pot $1000.00 | Rake $1.25
+Board [7d 6c Kc 2s 7c]
+Seat 3: DoublelegTD (button) (small blind) showed [Qh 7s] and lost
+Seat 8: Seesee123 (big blind) showed [Ac 8c] and won ($998.75)
+
+PokerStars Hand #1511072918:  Hold'em No Limit ($25.00/$50.00 USD) - 2023/01/06 02:55:30 ET
+Table 'WPN_7 Day No Rathole 25/50 NLH 9-Max' 9-max Seat #8 is the button
+Seat 3: DoublelegTD ($500.00 in chips)
+Seat 8: Seesee123 ($998.75 in chips)
+Seesee123: posts small blind $25.00
+DoublelegTD: posts big blind $50.00
+*** HOLE CARDS ***
+Seesee123: folds
+Uncalled bet ($25.00) returned to DoublelegTD
+DoublelegTD collected $50.00 from pot
+DoublelegTD: doesn't show hand
+*** SUMMARY ***
+Total pot $50.00 | Rake $0.00
+Seat 3: DoublelegTD (big blind) collected ($50.00)
+Seat 8: Seesee123 (button) (small blind) folded before Flop
+
+PokerStars Hand #1511072996:  Hold'em No Limit ($25.00/$50.00 USD) - 2023/01/06 02:55:37 ET
+Table 'WPN_7 Day No Rathole 25/50 NLH 9-Max' 9-max Seat #3 is the button
+Seat 3: DoublelegTD ($525.00 in chips)
+Seat 8: Seesee123 ($973.75 in chips)
+DoublelegTD: posts small blind $25.00
+Seesee123: posts big blind $50.00
+*** HOLE CARDS ***
+DoublelegTD: calls $25.00
+Seesee123: checks
+*** FLOP *** [Js Ah Ad]
+Seesee123: checks
+DoublelegTD: bets $50.00
+Seesee123: calls $50.00
+*** TURN *** [Js Ah Ad] [3s]
+Seesee123: checks
+DoublelegTD: bets $100.00
+Seesee123: calls $100.00
+*** RIVER *** [Js Ah Ad 3s] [4d]
+Seesee123: checks
+DoublelegTD: bets $325.00 and is all-in
+Seesee123: calls $325.00
+*** SHOW DOWN ***
+Seesee123: shows [2s Jd]
+DoublelegTD: shows [6d 5h]
+Seesee123 collected $1048.75 from pot
+*** SUMMARY ***
+Total pot $1050.00 | Rake $1.25
+Board [Js Ah Ad 3s 4d]
+Seat 3: DoublelegTD (button) (small blind) showed [6d 5h] and lost
+Seat 8: Seesee123 (big blind) showed [2s Jd] and won ($1048.75)
+
+PokerStars Hand #1511073848:  Hold'em No Limit ($25.00/$50.00 USD) - 2023/01/06 02:56:54 ET
+Table 'WPN_7 Day No Rathole 25/50 NLH 9-Max' 9-max Seat #8 is the button
+Seat 3: DoublelegTD ($500.00 in chips)
+Seat 4: zas911 ($14362.91 in chips)
+Seat 8: Seesee123 ($1497.50 in chips)
+Seesee123: posts small blind $25.00
+DoublelegTD: posts big blind $50.00
+*** HOLE CARDS ***
+Seesee123: raises $1447.50 to $1497.50 and is all-in
+DoublelegTD: calls $450.00 and is all-in
+Uncalled bet ($997.50) returned to Seesee123
+*** FLOP *** [4h 5h Ac]
+*** TURN *** [4h 5h Ac] [Js]
+*** RIVER *** [4h 5h Ac Js] [2h]
+*** SHOW DOWN ***
+Seesee123: shows [Ah Qd]
+DoublelegTD: shows [8d Kh]
+Seesee123 collected $998.75 from pot
+*** SUMMARY ***
+Total pot $1000.00 | Rake $1.25
+Board [4h 5h Ac Js 2h]
+Seat 3: DoublelegTD (big blind) showed [8d Kh] and lost
+Seat 8: Seesee123 (button) (small blind) showed [Ah Qd] and won ($998.75)
+
+PokerStars Hand #1511074153:  Hold'em No Limit ($25.00/$50.00 USD) - 2023/01/06 02:57:23 ET
+Table 'WPN_7 Day No Rathole 25/50 NLH 9-Max' 9-max Seat #8 is the button
+Seat 3: DoublelegTD ($500.00 in chips)
+Seat 4: zas911 ($14362.91 in chips)
+Seat 8: Seesee123 ($1996.25 in chips)
+DoublelegTD: posts small blind $25.00
+zas911: posts big blind $50.00
+*** HOLE CARDS ***
+Seesee123: folds
+DoublelegTD: folds
+Uncalled bet ($25.00) returned to zas911
+zas911 collected $50.00 from pot
+zas911: doesn't show hand
+*** SUMMARY ***
+Total pot $50.00 | Rake $0.00
+Seat 3: DoublelegTD (small blind) folded before Flop
+Seat 4: zas911 (big blind) collected ($50.00)
+Seat 8: Seesee123 (button) folded before Flop (didn't bet)
+
+PokerStars Hand #1511074238:  Hold'em No Limit ($25.00/$50.00 USD) - 2023/01/06 02:57:31 ET
+Table 'WPN_7 Day No Rathole 25/50 NLH 9-Max' 9-max Seat #3 is the button
+Seat 3: DoublelegTD ($475.00 in chips)
+Seat 4: zas911 ($14387.91 in chips)
+Seat 8: Seesee123 ($1996.25 in chips)
+zas911: posts small blind $25.00
+Seesee123: posts big blind $50.00
+*** HOLE CARDS ***
+DoublelegTD: folds
+zas911: folds
+Uncalled bet ($25.00) returned to Seesee123
+Seesee123 collected $50.00 from pot
+Seesee123: doesn't show hand
+*** SUMMARY ***
+Total pot $50.00 | Rake $0.00
+Seat 3: DoublelegTD (button) folded before Flop (didn't bet)
+Seat 4: zas911 (small blind) folded before Flop
+Seat 8: Seesee123 (big blind) collected ($50.00)
+
+PokerStars Hand #1511074326:  Hold'em No Limit ($25.00/$50.00 USD) - 2023/01/06 02:57:39 ET
+Table 'WPN_7 Day No Rathole 25/50 NLH 9-Max' 9-max Seat #4 is the button
+Seat 3: DoublelegTD ($475.00 in chips)
+Seat 4: zas911 ($14362.91 in chips)
+Seat 5: el0el ($8801.08 in chips)
+Seat 8: Seesee123 ($2021.25 in chips)
+Seesee123: posts small blind $25.00
+DoublelegTD: posts big blind $50.00
+*** HOLE CARDS ***
+zas911: folds
+Seesee123: folds
+Uncalled bet ($25.00) returned to DoublelegTD
+DoublelegTD collected $50.00 from pot
+DoublelegTD: doesn't show hand
+*** SUMMARY ***
+Total pot $50.00 | Rake $0.00
+Seat 3: DoublelegTD (big blind) collected ($50.00)
+Seat 4: zas911 (button) folded before Flop (didn't bet)
+Seat 8: Seesee123 (small blind) folded before Flop
+
+PokerStars Hand #1511074407:  Hold'em No Limit ($25.00/$50.00 USD) - 2023/01/06 02:57:48 ET
+Table 'WPN_7 Day No Rathole 25/50 NLH 9-Max' 9-max Seat #8 is the button
+Seat 3: DoublelegTD ($525.00 in chips)
+Seat 4: zas911 ($14362.91 in chips)
+Seat 5: el0el ($8801.08 in chips)
+Seat 8: Seesee123 ($1996.25 in chips)
+DoublelegTD: posts small blind $25.00
+zas911: posts big blind $50.00
+*** HOLE CARDS ***
+Seesee123: folds
+DoublelegTD: folds
+Uncalled bet ($25.00) returned to zas911
+zas911 collected $50.00 from pot
+zas911: doesn't show hand
+*** SUMMARY ***
+Total pot $50.00 | Rake $0.00
+Seat 3: DoublelegTD (small blind) folded before Flop
+Seat 4: zas911 (big blind) collected ($50.00)
+Seat 8: Seesee123 (button) folded before Flop (didn't bet)
+
+PokerStars Hand #1511074505:  Hold'em No Limit ($25.00/$50.00 USD) - 2023/01/06 02:57:56 ET
+Table 'WPN_7 Day No Rathole 25/50 NLH 9-Max' 9-max Seat #3 is the button
+Seat 3: DoublelegTD ($500.00 in chips)
+Seat 4: zas911 ($14387.91 in chips)
+Seat 5: el0el ($8801.08 in chips)
+Seat 8: Seesee123 ($1996.25 in chips)
+zas911: posts small blind $25.00
+el0el: posts big blind $50.00
+*** HOLE CARDS ***
+Seesee123: calls $50.00
+DoublelegTD: folds
+zas911: folds
+el0el: checks
+*** FLOP *** [4d 5c 3h]
+el0el: checks
+Seesee123: bets $50.00
+el0el: calls $50.00
+*** TURN *** [4d 5c 3h] [9d]
+el0el: bets $168.75
+Seesee123: folds
+Uncalled bet ($168.75) returned to el0el
+el0el collected $222.75 from pot
+el0el: doesn't show hand
+*** SUMMARY ***
+Total pot $225.00 | Rake $2.25
+Board [4d 5c 3h 9d]
+Seat 3: DoublelegTD (button) folded before Flop (didn't bet)
+Seat 4: zas911 (small blind) folded before Flop
+Seat 5: el0el (big blind) collected ($222.75)
+Seat 8: Seesee123 folded on the Turn
+
+PokerStars Hand #1511074989:  Hold'em No Limit ($25.00/$50.00 USD) - 2023/01/06 02:58:39 ET
+Table 'WPN_7 Day No Rathole 25/50 NLH 9-Max' 9-max Seat #4 is the button
+Seat 3: DoublelegTD ($500.00 in chips)
+Seat 4: zas911 ($14362.91 in chips)
+Seat 5: el0el ($8923.83 in chips)
+Seat 8: Seesee123 ($1896.25 in chips)
+el0el: posts small blind $25.00
+Seesee123: posts big blind $50.00
+*** HOLE CARDS ***
+DoublelegTD: raises $450.00 to $500.00 and is all-in
+zas911: folds
+el0el: folds
+Seesee123: folds
+Uncalled bet ($450.00) returned to DoublelegTD
+DoublelegTD collected $125.00 from pot
+DoublelegTD: doesn't show hand
+*** SUMMARY ***
+Total pot $125.00 | Rake $0.00
+Seat 3: DoublelegTD collected ($125.00)
+Seat 4: zas911 (button) folded before Flop (didn't bet)
+Seat 5: el0el (small blind) folded before Flop
+Seat 8: Seesee123 (big blind) folded before Flop
+
+PokerStars Hand #1511076268:  Hold'em No Limit ($25.00/$50.00 USD) - 2023/01/06 03:00:33 ET
+Table 'WPN_7 Day No Rathole 25/50 NLH 9-Max' 9-max Seat #8 is the button
+Seat 3: DoublelegTD ($500.00 in chips)
+Seat 4: zas911 ($14362.91 in chips)
+Seat 5: el0el ($9571.58 in chips)
+Seat 6: notvrygud ($11298.91 in chips)
+Seat 8: Seesee123 ($1746.25 in chips)
+DoublelegTD: posts small blind $25.00
+zas911: posts big blind $50.00
+*** HOLE CARDS ***
+el0el: folds
+Seesee123: folds
+DoublelegTD: folds
+Uncalled bet ($25.00) returned to zas911
+zas911 collected $50.00 from pot
+zas911: doesn't show hand
+*** SUMMARY ***
+Total pot $50.00 | Rake $0.00
+Seat 3: DoublelegTD (small blind) folded before Flop
+Seat 4: zas911 (big blind) collected ($50.00)
+Seat 5: el0el folded before Flop (didn't bet)
+Seat 8: Seesee123 (button) folded before Flop (didn't bet)
+
+PokerStars Hand #1511076527:  Hold'em No Limit ($25.00/$50.00 USD) - 2023/01/06 03:00:51 ET
+Table 'WPN_7 Day No Rathole 25/50 NLH 9-Max' 9-max Seat #3 is the button
+Seat 3: DoublelegTD ($475.00 in chips)
+Seat 4: zas911 ($14387.91 in chips)
+Seat 5: el0el ($9571.58 in chips)
+Seat 6: notvrygud ($11298.91 in chips)
+Seat 8: Seesee123 ($1746.25 in chips)
+zas911: posts small blind $25.00
+el0el: posts big blind $50.00
+*** HOLE CARDS ***
+Seesee123: folds
+DoublelegTD: folds
+zas911: raises $100.00 to $150.00
+el0el: folds
+Uncalled bet ($100.00) returned to zas911
+zas911 collected $100.00 from pot
+zas911: doesn't show hand
+*** SUMMARY ***
+Total pot $100.00 | Rake $0.00
+Seat 3: DoublelegTD (button) folded before Flop (didn't bet)
+Seat 4: zas911 (small blind) collected ($100.00)
+Seat 5: el0el (big blind) folded before Flop
+Seat 8: Seesee123 folded before Flop (didn't bet)
+
+PokerStars Hand #1511076960:  Hold'em No Limit ($25.00/$50.00 USD) - 2023/01/06 03:01:15 ET
+Table 'WPN_7 Day No Rathole 25/50 NLH 9-Max' 9-max Seat #4 is the button
+Seat 3: DoublelegTD ($475.00 in chips)
+Seat 4: zas911 ($14437.91 in chips)
+Seat 5: el0el ($9521.58 in chips)
+Seat 6: notvrygud ($11298.91 in chips)
+Seat 8: Seesee123 ($1746.25 in chips)
+el0el: posts small blind $25.00
+notvrygud: posts big blind $50.00
+*** HOLE CARDS ***
+Seesee123: raises $62.50 to $112.50
+DoublelegTD: raises $387.50 to $500.00 and is all-in
+zas911: folds
+el0el: folds
+notvrygud: folds
+Seesee123: calls $387.50
+*** FLOP *** [Kh 8c 2c]
+*** TURN *** [Kh 8c 2c] [4h]
+*** RIVER *** [Kh 8c 2c 4h] [9h]
+*** SHOW DOWN ***
+Seesee123: shows [Kd Ks]
+DoublelegTD: shows [Kc Ah]
+Seesee123 collected $1072.00 from pot
+*** SUMMARY ***
+Total pot $1075.00 | Rake $3.00
+Board [Kh 8c 2c 4h 9h]
+Seat 3: DoublelegTD showed [Kc Ah] and lost
+Seat 4: zas911 (button) folded before Flop (didn't bet)
+Seat 5: el0el (small blind) folded before Flop
+Seat 6: notvrygud (big blind) folded before Flop
+Seat 8: Seesee123 showed [Kd Ks] and won ($1072.00)
+
+PokerStars Hand #1511077763:  Hold'em No Limit ($25.00/$50.00 USD) - 2023/01/06 03:01:58 ET
+Table 'WPN_7 Day No Rathole 25/50 NLH 9-Max' 9-max Seat #5 is the button
+Seat 3: DoublelegTD ($500.00 in chips)
+Seat 4: zas911 ($14437.91 in chips)
+Seat 5: el0el ($9496.58 in chips)
+Seat 6: notvrygud ($11248.91 in chips)
+Seat 8: Seesee123 ($2318.25 in chips)
+notvrygud: posts small blind $25.00
+DoublelegTD: posts big blind $50.00
+*** HOLE CARDS ***
+zas911: folds
+el0el: folds
+notvrygud: raises $11198.91 to $11248.91 and is all-in
+DoublelegTD: folds
+Uncalled bet ($11198.91) returned to notvrygud
+notvrygud collected $100.00 from pot
+notvrygud: doesn't show hand
+*** SUMMARY ***
+Total pot $100.00 | Rake $0.00
+Seat 3: DoublelegTD (big blind) folded before Flop
+Seat 4: zas911 folded before Flop (didn't bet)
+Seat 5: el0el (button) folded before Flop (didn't bet)
+Seat 6: notvrygud (small blind) collected ($100.00)
+

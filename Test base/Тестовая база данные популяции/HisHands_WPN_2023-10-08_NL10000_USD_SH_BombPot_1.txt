@@ -1,0 +1,30 @@
+
+Hand #1888203390 - Holdem(No Limit) - $50/$100 - 2023/10/08 08:47:59 UTC
+Woodland 6-max Seat #3 is the button
+Seat 3: SeaLlama ($10000)
+Seat 6: jackstack99999 ($12758.50)
+SeaLlama posts ante $500
+jackstack99999 posts ante $500
+*** HOLE CARDS *** 
+*** FLOP *** [Ah 6s Kh]
+Main pot $998.75 | Rake $1.25
+jackstack99999 checks
+SeaLlama checks
+*** TURN *** [Ah 6s Kh] [Kc]
+Main pot $998.75 | Rake $1.25
+jackstack99999 checks
+SeaLlama checks
+*** RIVER *** [Ah 6s Kh Kc] [7c]
+Main pot $998.75 | Rake $1.25
+jackstack99999 checks
+SeaLlama checks
+*** SHOW DOWN ***
+Main pot $998.75 | Rake $1.25
+jackstack99999 shows [Js Qs]
+jackstack99999 collected $998.75 from main pot
+*** SUMMARY ***
+BombPot
+Total pot $998.75 | Rake $1.25
+Seat 3: SeaLlama (button) did not showed and lost
+Seat 6: jackstack99999 showed [Js Qs] and won $998.75 with OnePair [Kh Kc Ah Qs Js]
+

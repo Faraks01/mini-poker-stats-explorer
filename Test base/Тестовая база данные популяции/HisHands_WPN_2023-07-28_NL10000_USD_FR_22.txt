@@ -1,0 +1,561 @@
+Hand #1799781023 - Holdem(No Limit) - $50/$100 - 2023/07/28 16:24:21 UTC
+7 Day No Rathole 50/100 NLH 9-max Seat #3 is the button
+Seat 2: badquality ($5551.69)
+Seat 3: MaxHendrix ($1000)
+MaxHendrix posts the small blind $50
+badquality posts the big blind $100
+*** HOLE CARDS *** 
+MaxHendrix calls $50
+badquality checks
+*** FLOP *** [4c 5s 5h]
+Main pot $198.75 | Rake $1.25
+badquality checks
+MaxHendrix checks
+*** TURN *** [4c 5s 5h] [Th]
+Main pot $198.75 | Rake $1.25
+badquality checks
+MaxHendrix checks
+*** RIVER *** [4c 5s 5h Th] [Qd]
+Main pot $198.75 | Rake $1.25
+badquality checks
+MaxHendrix checks
+*** SUMMARY ***
+Total pot $198.75 | Rake $1.25
+Seat 2: badquality (big blind) did not showed and won $198.75
+Seat 3: MaxHendrix (small blind) did not showed and lost
+
+
+Hand #1799781594 - Holdem(No Limit) - $50/$100 - 2023/07/28 16:24:58 UTC
+7 Day No Rathole 50/100 NLH 9-max Seat #2 is the button
+Seat 2: badquality ($5650.44)
+Seat 3: MaxHendrix ($1000)
+badquality posts the small blind $50
+MaxHendrix posts the big blind $100
+*** HOLE CARDS *** 
+badquality raises $5600.44 to $5650.44 and is all-in
+MaxHendrix folds
+Uncalled bet ($5550.44) returned to badquality
+badquality does not show
+*** SUMMARY ***
+Total pot $200
+Seat 2: badquality (small blind) did not showed and won $200
+Seat 3: MaxHendrix (big blind) folded on the Pre-Flop
+
+
+Hand #1799901752 - Holdem(No Limit) - $50/$100 - 2023/07/28 18:26:15 UTC
+7 Day No Rathole 50/100 NLH 9-max Seat #4 is the button
+Seat 3: badquality ($5750.44)
+Seat 4: MaxHendrix ($1000)
+Seat 5: moneybyebye ($10000)
+MaxHendrix posts the small blind $50
+badquality posts the big blind $100
+*** HOLE CARDS *** 
+MaxHendrix calls $50
+badquality checks
+*** FLOP *** [Jd 4c 3d]
+Main pot $198.75 | Rake $1.25
+badquality checks
+MaxHendrix bets $100
+badquality calls $100
+*** TURN *** [Jd 4c 3d] [7d]
+Main pot $398.75 | Rake $1.25
+badquality checks
+MaxHendrix checks
+*** RIVER *** [Jd 4c 3d 7d] [6s]
+Main pot $398.75 | Rake $1.25
+badquality checks
+MaxHendrix checks
+*** SUMMARY ***
+Total pot $398.75 | Rake $1.25
+Seat 3: badquality (big blind) did not showed and won $398.75
+Seat 4: MaxHendrix (small blind) did not showed and lost
+
+
+Hand #1799902572 - Holdem(No Limit) - $50/$100 - 2023/07/28 18:26:30 UTC
+7 Day No Rathole 50/100 NLH 9-max Seat #3 is the button
+Seat 3: badquality ($5949.19)
+Seat 4: MaxHendrix ($1000)
+Seat 5: moneybyebye ($10000)
+badquality posts the small blind $50
+MaxHendrix posts the big blind $100
+*** HOLE CARDS *** 
+badquality raises $5899.19 to $5949.19 and is all-in
+MaxHendrix calls $900 and is all-in
+Uncalled bet ($4949.19) returned to badquality
+badquality does not show
+*** FLOP *** [5h 9d 2s]
+Main pot $1998.75 | Rake $1.25
+*** TURN *** [5h 9d 2s] [Jd]
+Main pot $1998.75 | Rake $1.25
+*** RIVER *** [5h 9d 2s Jd] [Th]
+Main pot $1998.75 | Rake $1.25
+*** SHOW DOWN ***
+Main pot $1998.75 | Rake $1.25
+badquality shows [Ts Qc] (a combo of some cards [Ts Th Qc Jd 9d])
+MaxHendrix shows [Ac 5s] (a combo of some cards [5s 5h Ac Jd Th])
+badquality collected $1998.75 from main pot
+*** SUMMARY ***
+Total pot $1998.75 | Rake $1.25
+Seat 3: badquality (small blind) showed [Ts Qc] and won $1998.75 with OnePair [Ts Th Qc Jd 9d]
+Seat 4: MaxHendrix (big blind) showed [Ac 5s] and lost
+
+
+Hand #1799902998 - Holdem(No Limit) - $50/$100 - 2023/07/28 18:26:58 UTC
+7 Day No Rathole 50/100 NLH 9-max Seat #3 is the button
+Seat 3: badquality ($10000)
+Seat 4: MaxHendrix ($1000)
+Seat 5: moneybyebye ($2940.25)
+MaxHendrix posts the small blind $50
+moneybyebye posts the big blind $100
+*** HOLE CARDS *** 
+badquality folds
+MaxHendrix raises $150 to $200
+moneybyebye folds
+Uncalled bet ($100) returned to MaxHendrix
+MaxHendrix does not show
+*** SUMMARY ***
+Total pot $200
+Seat 3: badquality (button) folded on the Pre-Flop and did not bet
+Seat 4: MaxHendrix (small blind) did not showed and won $200
+Seat 5: moneybyebye (big blind) folded on the Pre-Flop
+
+
+Hand #1799903351 - Holdem(No Limit) - $50/$100 - 2023/07/28 18:27:08 UTC
+7 Day No Rathole 50/100 NLH 9-max Seat #5 is the button
+Seat 3: badquality ($10000)
+Seat 4: MaxHendrix ($1100)
+Seat 5: moneybyebye ($2840.25)
+moneybyebye posts the small blind $50
+MaxHendrix posts the big blind $100
+*** HOLE CARDS *** 
+moneybyebye raises $1200 to $1250
+MaxHendrix calls $1000 and is all-in
+Uncalled bet ($150) returned to moneybyebye
+moneybyebye does not show
+*** FLOP *** [8s Ah 4h]
+Main pot $2198.75 | Rake $1.25
+*** TURN *** [8s Ah 4h] [Ac]
+Main pot $2198.75 | Rake $1.25
+*** RIVER *** [8s Ah 4h Ac] [7h]
+Main pot $2198.75 | Rake $1.25
+*** SHOW DOWN ***
+Main pot $2198.75 | Rake $1.25
+MaxHendrix shows [6s As] (a combo of some cards [As Ah Ac 8s 7h])
+moneybyebye shows [7d Qd] (a combo of some cards [Ah Ac 7h 7d Qd])
+MaxHendrix collected $2198.75 from main pot
+*** SUMMARY ***
+Total pot $2198.75 | Rake $1.25
+Seat 4: MaxHendrix (big blind) showed [6s As] and won $2198.75 with ThreeOfAKind [As Ah Ac 8s 7h]
+Seat 5: moneybyebye (small blind) showed [7d Qd] and lost
+
+
+Hand #1799903839 - Holdem(No Limit) - $50/$100 - 2023/07/28 18:28:46 UTC
+7 Day No Rathole 50/100 NLH 9-max Seat #4 is the button
+Seat 3: badquality ($6947.94)
+Seat 4: MaxHendrix ($2198.75)
+Seat 5: moneybyebye ($10000)
+MaxHendrix posts the small blind $50
+badquality posts the big blind $100
+*** HOLE CARDS *** 
+MaxHendrix raises $150 to $200
+badquality calls $100
+*** FLOP *** [Js As 9c]
+Main pot $398.75 | Rake $1.25
+badquality checks
+MaxHendrix bets $131.58
+badquality calls $131.58
+*** TURN *** [Js As 9c] [6d]
+Main pot $661.91 | Rake $1.25
+badquality checks
+MaxHendrix bets $536.86
+badquality calls $536.86
+*** RIVER *** [Js As 9c 6d] [4d]
+Main pot $1735.63 | Rake $1.25
+badquality checks
+MaxHendrix bets $1330.31 and is all-in
+badquality calls $1330.31
+*** SHOW DOWN ***
+Main pot $1735.63 | Rake $1.25
+badquality shows [6h Jd] (a combo of some cards [Js Jd 6h 6d As])
+MaxHendrix shows [Jh Qh] (a combo of some cards [Js Jh As Qh 9c])
+badquality collected $4396.25 from main pot
+*** SUMMARY ***
+Total pot $4396.25 | Rake $1.25
+Seat 3: badquality (big blind) showed [6h Jd] and won $4396.25 with TwoPair [Js Jd 6h 6d As]
+Seat 4: MaxHendrix (small blind) showed [Jh Qh] and lost
+
+
+Hand #1799905382 - Holdem(No Limit) - $50/$100 - 2023/07/28 18:29:08 UTC
+7 Day No Rathole 50/100 NLH 9-max Seat #3 is the button
+Seat 3: badquality ($9145.44)
+Seat 4: MaxHendrix ($1000)
+Seat 5: FlyingStyle ($10000)
+badquality posts the small blind $50
+MaxHendrix posts the big blind $100
+*** HOLE CARDS *** 
+badquality calls $50
+MaxHendrix checks
+*** FLOP *** [6d Qs 4d]
+Main pot $198.75 | Rake $1.25
+MaxHendrix checks
+badquality checks
+*** TURN *** [6d Qs 4d] [2h]
+Main pot $198.75 | Rake $1.25
+MaxHendrix checks
+badquality checks
+*** RIVER *** [6d Qs 4d 2h] [Kc]
+Main pot $198.75 | Rake $1.25
+MaxHendrix checks
+badquality checks
+*** SUMMARY ***
+Total pot $198.75 | Rake $1.25
+Seat 3: badquality (small blind) did not showed and won $198.75
+Seat 4: MaxHendrix (big blind) did not showed and lost
+
+
+Hand #1799905791 - Holdem(No Limit) - $50/$100 - 2023/07/28 18:29:27 UTC
+7 Day No Rathole 50/100 NLH 9-max Seat #3 is the button
+Seat 3: badquality ($9244.19)
+Seat 4: MaxHendrix ($1000)
+Seat 5: FlyingStyle ($5494.50)
+MaxHendrix posts the small blind $50
+FlyingStyle posts the big blind $100
+*** HOLE CARDS *** 
+badquality raises $220 to $220
+MaxHendrix folds
+FlyingStyle folds
+Uncalled bet ($120) returned to badquality
+badquality does not show
+*** SUMMARY ***
+Total pot $250
+Seat 3: badquality (button) did not showed and won $250
+Seat 4: MaxHendrix (small blind) folded on the Pre-Flop
+Seat 5: FlyingStyle (big blind) folded on the Pre-Flop
+
+
+Hand #1799906506 - Holdem(No Limit) - $50/$100 - 2023/07/28 18:30:09 UTC
+7 Day No Rathole 50/100 NLH 9-max Seat #5 is the button
+Seat 3: badquality ($10000)
+Seat 4: MaxHendrix ($1000)
+Seat 5: FlyingStyle ($5394.50)
+FlyingStyle posts the small blind $50
+MaxHendrix posts the big blind $100
+*** HOLE CARDS *** 
+FlyingStyle raises $5344.50 to $5394.50 and is all-in
+MaxHendrix calls $900 and is all-in
+Uncalled bet ($4394.50) returned to FlyingStyle
+FlyingStyle does not show
+*** RUN IT TWICE ***
+*** FLOP 1 *** [8h 8c 4c]
+Main pot 1 $999.37 | Rake $0.63
+*** TURN 1 *** [8h 8c 4c] [4d]
+Main pot 1 $999.37 | Rake $0.63
+*** RIVER 1 *** [8h 8c 4c 4d] [Qd]
+Main pot 1 $999.37 | Rake $0.63
+*** SHOW DOWN 1 ***
+Main pot 1 $999.37 | Rake $0.63
+MaxHendrix shows [Jd Ac] (a combo of some cards [8h 8c 4d 4c Ac])
+FlyingStyle shows [Td 9c] (a combo of some cards [8h 8c 4d 4c Qd])
+MaxHendrix collected $999.38 from main pot 1
+*** FLOP 2 *** [Qh Ad 4s]
+Main pot 2 $999.38 | Rake $0.62
+*** TURN 2 *** [Qh Ad 4s] [2h]
+Main pot 2 $999.38 | Rake $0.62
+*** RIVER 2 *** [Qh Ad 4s 2h] [3s]
+Main pot 2 $999.38 | Rake $0.62
+*** SHOW DOWN 2 ***
+Main pot 2 $999.38 | Rake $0.62
+MaxHendrix shows [Jd Ac] (a combo of some cards [Ad Ac Qh Jd 4s])
+FlyingStyle shows [Td 9c] (a combo of some cards [Ad Qh Td 9c 4s])
+MaxHendrix collected $999.37 from main pot 2
+*** SUMMARY ***
+Total pot $1998.75 | Rake $1.25
+Board 1 [8h 8c 4c 4d Qd]
+Seat 4: MaxHendrix (big blind) showed [Jd Ac] and won $999.38 with TwoPair [8h 8c 4d 4c Ac]
+Seat 5: FlyingStyle (small blind) showed [Td 9c] and lost with a
+Board 2 [Qh Ad 4s 2h 3s]
+Seat 4: MaxHendrix (big blind) showed [Jd Ac] and won $999.37 with OnePair [Ad Ac Qh Jd 4s]
+Seat 5: FlyingStyle (small blind) showed [Td 9c] and lost with a
+
+
+Hand #1799907147 - Holdem(No Limit) - $50/$100 - 2023/07/28 18:30:56 UTC
+7 Day No Rathole 50/100 NLH 9-max Seat #4 is the button
+Seat 4: MaxHendrix ($1998.75)
+Seat 5: FlyingStyle ($4394.50)
+MaxHendrix posts the small blind $50
+FlyingStyle posts the big blind $100
+*** HOLE CARDS *** 
+MaxHendrix calls $50
+FlyingStyle checks
+*** FLOP *** [9d Kc Td]
+Main pot $198.75 | Rake $1.25
+FlyingStyle checks
+MaxHendrix checks
+*** TURN *** [9d Kc Td] [3s]
+Main pot $198.75 | Rake $1.25
+FlyingStyle checks
+MaxHendrix checks
+*** RIVER *** [9d Kc Td 3s] [Qc]
+Main pot $198.75 | Rake $1.25
+FlyingStyle checks
+MaxHendrix checks
+*** SUMMARY ***
+Total pot $198.75 | Rake $1.25
+Seat 4: MaxHendrix (small blind) did not showed and won $198.75
+Seat 5: FlyingStyle (big blind) did not showed and lost
+
+
+Hand #1799907835 - Holdem(No Limit) - $50/$100 - 2023/07/28 18:31:15 UTC
+7 Day No Rathole 50/100 NLH 9-max Seat #4 is the button
+Seat 3: badquality ($9394.19)
+Seat 4: MaxHendrix ($2097.50)
+Seat 5: FlyingStyle ($10000)
+MaxHendrix posts the small blind $50
+badquality posts the big blind $100
+*** HOLE CARDS *** 
+MaxHendrix calls $50
+badquality checks
+*** FLOP *** [7h Kd Ah]
+Main pot $198.75 | Rake $1.25
+badquality checks
+MaxHendrix bets $100
+badquality folds
+Uncalled bet ($100) returned to MaxHendrix
+MaxHendrix does not show
+*** SUMMARY ***
+Total pot $198.75 | Rake $1.25
+Seat 3: badquality (big blind) folded on the Flop
+Seat 4: MaxHendrix (small blind) did not showed and won $198.75
+
+
+Hand #1799908139 - Holdem(No Limit) - $50/$100 - 2023/07/28 18:31:25 UTC
+7 Day No Rathole 50/100 NLH 9-max Seat #3 is the button
+Seat 3: badquality ($9294.19)
+Seat 4: MaxHendrix ($2196.25)
+Seat 5: FlyingStyle ($10000)
+badquality posts the small blind $50
+MaxHendrix posts the big blind $100
+*** HOLE CARDS *** 
+badquality raises $150 to $200
+MaxHendrix folds
+Uncalled bet ($100) returned to badquality
+badquality does not show
+*** SUMMARY ***
+Total pot $200
+Seat 3: badquality (small blind) did not showed and won $200
+Seat 4: MaxHendrix (big blind) folded on the Pre-Flop
+
+
+Hand #1799908322 - Holdem(No Limit) - $50/$100 - 2023/07/28 18:32:03 UTC
+7 Day No Rathole 50/100 NLH 9-max Seat #3 is the button
+Seat 3: badquality ($9394.19)
+Seat 4: MaxHendrix ($10000)
+Seat 5: FlyingStyle ($4294.50)
+badquality posts the small blind $50
+FlyingStyle posts the big blind $100
+*** HOLE CARDS *** 
+badquality raises $170 to $220
+FlyingStyle calls $120
+*** FLOP *** [5c Ts Jc]
+Main pot $438.75 | Rake $1.25
+FlyingStyle checks
+badquality bets $145.20
+FlyingStyle calls $145.20
+*** TURN *** [5c Ts Jc] [2h]
+Main pot $729.15 | Rake $1.25
+FlyingStyle checks
+badquality checks
+*** RIVER *** [5c Ts Jc 2h] [6c]
+Main pot $729.15 | Rake $1.25
+FlyingStyle checks
+badquality checks
+*** SUMMARY ***
+Total pot $729.15 | Rake $1.25
+Seat 3: badquality (small blind) did not showed and lost
+Seat 5: FlyingStyle (big blind) did not showed and won $729.15
+
+
+Hand #1799909111 - Holdem(No Limit) - $50/$100 - 2023/07/28 18:32:26 UTC
+7 Day No Rathole 50/100 NLH 9-max Seat #5 is the button
+Seat 3: badquality ($9028.99)
+Seat 5: FlyingStyle ($4658.45)
+FlyingStyle posts the small blind $50
+badquality posts the big blind $100
+*** HOLE CARDS *** 
+FlyingStyle calls $50
+badquality raises $300 to $400
+FlyingStyle folds
+Uncalled bet ($300) returned to badquality
+badquality does not show
+*** SUMMARY ***
+Total pot $200
+Seat 3: badquality (big blind) did not showed and won $200
+Seat 5: FlyingStyle (small blind) folded on the Pre-Flop
+
+
+Hand #1799909475 - Holdem(No Limit) - $50/$100 - 2023/07/28 18:32:38 UTC
+7 Day No Rathole 50/100 NLH 9-max Seat #3 is the button
+Seat 3: badquality ($9128.99)
+Seat 5: FlyingStyle ($4558.45)
+badquality posts the small blind $50
+FlyingStyle posts the big blind $100
+*** HOLE CARDS *** 
+badquality raises $170 to $220
+FlyingStyle folds
+Uncalled bet ($120) returned to badquality
+badquality does not show
+*** SUMMARY ***
+Total pot $200
+Seat 3: badquality (small blind) did not showed and won $200
+Seat 5: FlyingStyle (big blind) folded on the Pre-Flop
+
+
+Hand #1799909715 - Holdem(No Limit) - $50/$100 - 2023/07/28 18:32:54 UTC
+7 Day No Rathole 50/100 NLH 9-max Seat #5 is the button
+Seat 3: badquality ($9228.99)
+Seat 5: FlyingStyle ($4458.45)
+FlyingStyle posts the small blind $50
+badquality posts the big blind $100
+*** HOLE CARDS *** 
+FlyingStyle calls $50
+badquality raises $300 to $400
+FlyingStyle folds
+Uncalled bet ($300) returned to badquality
+badquality does not show
+*** SUMMARY ***
+Total pot $200
+Seat 3: badquality (big blind) did not showed and won $200
+Seat 5: FlyingStyle (small blind) folded on the Pre-Flop
+
+
+Hand #1799910016 - Holdem(No Limit) - $50/$100 - 2023/07/28 18:33:07 UTC
+7 Day No Rathole 50/100 NLH 9-max Seat #3 is the button
+Seat 3: badquality ($9328.99)
+Seat 5: FlyingStyle ($4358.45)
+badquality posts the small blind $50
+FlyingStyle posts the big blind $100
+*** HOLE CARDS *** 
+badquality raises $200 to $250
+FlyingStyle folds
+Uncalled bet ($150) returned to badquality
+badquality does not show
+*** SUMMARY ***
+Total pot $200
+Seat 3: badquality (small blind) did not showed and won $200
+Seat 5: FlyingStyle (big blind) folded on the Pre-Flop
+
+
+Hand #1799910270 - Holdem(No Limit) - $50/$100 - 2023/07/28 18:33:37 UTC
+7 Day No Rathole 50/100 NLH 9-max Seat #5 is the button
+Seat 3: badquality ($9428.99)
+Seat 5: FlyingStyle ($4258.45)
+FlyingStyle posts the small blind $50
+badquality posts the big blind $100
+*** HOLE CARDS *** 
+FlyingStyle calls $50
+badquality checks
+*** FLOP *** [5d 5s 7d]
+Main pot $198.75 | Rake $1.25
+badquality checks
+FlyingStyle bets $148
+badquality raises $446 to $446
+FlyingStyle folds
+Uncalled bet ($298) returned to badquality
+badquality does not show
+*** SUMMARY ***
+Total pot $494.75 | Rake $1.25
+Seat 3: badquality (big blind) did not showed and won $494.75
+Seat 5: FlyingStyle (small blind) folded on the Flop
+
+
+Hand #1799910809 - Holdem(No Limit) - $50/$100 - 2023/07/28 18:34:05 UTC
+7 Day No Rathole 50/100 NLH 9-max Seat #3 is the button
+Seat 3: badquality ($9675.74)
+Seat 5: FlyingStyle ($4010.45)
+badquality posts the small blind $50
+FlyingStyle posts the big blind $100
+*** HOLE CARDS *** 
+badquality calls $50
+FlyingStyle checks
+*** FLOP *** [3s Kh Qs]
+Main pot $198.75 | Rake $1.25
+FlyingStyle checks
+badquality bets $100
+FlyingStyle calls $100
+*** TURN *** [3s Kh Qs] [6h]
+Main pot $398.75 | Rake $1.25
+FlyingStyle checks
+badquality checks
+*** RIVER *** [3s Kh Qs 6h] [7d]
+Main pot $398.75 | Rake $1.25
+FlyingStyle bets $568
+badquality folds
+Uncalled bet ($568) returned to FlyingStyle
+FlyingStyle does not show
+*** SUMMARY ***
+Total pot $398.75 | Rake $1.25
+Seat 3: badquality (small blind) folded on the River
+Seat 5: FlyingStyle (big blind) did not showed and won $398.75
+
+
+Hand #1799911342 - Holdem(No Limit) - $50/$100 - 2023/07/28 18:35:55 UTC
+7 Day No Rathole 50/100 NLH 9-max Seat #5 is the button
+Seat 3: badquality ($9475.74)
+Seat 5: FlyingStyle ($4209.20)
+FlyingStyle posts the small blind $50
+badquality posts the big blind $100
+*** HOLE CARDS *** 
+FlyingStyle raises $150 to $200
+badquality calls $100
+*** FLOP *** [Qd 8h Jh]
+Main pot $398.75 | Rake $1.25
+badquality checks
+FlyingStyle bets $100
+badquality calls $100
+*** TURN *** [Qd 8h Jh] [3h]
+Main pot $598.75 | Rake $1.25
+badquality checks
+FlyingStyle checks
+*** RIVER *** [Qd 8h Jh 3h] [4c]
+Main pot $598.75 | Rake $1.25
+badquality bets $156
+FlyingStyle raises $1451.04 to $1451.04
+badquality folds
+Uncalled bet ($1295.04) returned to FlyingStyle
+FlyingStyle does not show
+*** SUMMARY ***
+Total pot $910.75 | Rake $1.25
+Seat 3: badquality (big blind) folded on the River
+Seat 5: FlyingStyle (small blind) did not showed and won $910.75
+
+
+Hand #1799913428 - Holdem(No Limit) - $50/$100 - 2023/07/28 18:36:48 UTC
+7 Day No Rathole 50/100 NLH 9-max Seat #3 is the button
+Seat 3: badquality ($9019.74)
+Seat 5: FlyingStyle ($4663.95)
+badquality posts the small blind $50
+FlyingStyle posts the big blind $100
+*** HOLE CARDS *** 
+badquality raises $200 to $250
+FlyingStyle calls $150
+*** FLOP *** [5s Ah 8s]
+Main pot $498.75 | Rake $1.25
+FlyingStyle checks
+badquality bets $165
+FlyingStyle calls $165
+*** TURN *** [5s Ah 8s] [Th]
+Main pot $828.75 | Rake $1.25
+FlyingStyle checks
+badquality checks
+*** RIVER *** [5s Ah 8s Th] [2c]
+Main pot $828.75 | Rake $1.25
+FlyingStyle checks
+badquality checks
+*** SUMMARY ***
+Total pot $828.75 | Rake $1.25
+Seat 3: badquality (small blind) did not showed and won $828.75
+Seat 5: FlyingStyle (big blind) did not showed and lost
+
+
+
+

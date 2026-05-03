@@ -1,0 +1,734 @@
+PokerStars Hand #1514030322:  Hold'em No Limit ($50.00/$100.00 USD) - 2023/01/08 18:17:38 ET
+Table 'WPN_7 Day No Rathole 50/100 NLH' 9-max Seat #9 is the button
+Seat 1: Gizineni ($1659.00 in chips)
+Seat 2: moneybyebye ($1886.50 in chips)
+Seat 5: shipum7 ($3747.50 in chips)
+Seat 6: chop-ch0p ($1000.00 in chips)
+Seat 8: FlyingStyle ($1863.84 in chips)
+Seat 9: J0hnMcclean ($9628.63 in chips)
+Gizineni: posts small blind $50.00
+moneybyebye: posts big blind $100.00
+*** HOLE CARDS ***
+shipum7: folds
+chop-ch0p: folds
+FlyingStyle: folds
+J0hnMcclean: raises $100.00 to $200.00
+Gizineni: folds
+moneybyebye: calls $100.00
+*** FLOP *** [8h 6s 4h]
+moneybyebye: checks
+J0hnMcclean: checks
+*** TURN *** [8h 6s 4h] [4d]
+moneybyebye: checks
+J0hnMcclean: checks
+*** RIVER *** [8h 6s 4h 4d] [5s]
+moneybyebye: bets $337.50
+J0hnMcclean: folds
+Uncalled bet ($337.50) returned to moneybyebye
+moneybyebye collected $447.00 from pot
+moneybyebye: doesn't show hand
+*** SUMMARY ***
+Total pot $450.00 | Rake $3.00
+Board [8h 6s 4h 4d 5s]
+Seat 1: Gizineni (small blind) folded before Flop
+Seat 2: moneybyebye (big blind) collected ($447.00)
+Seat 5: shipum7 folded before Flop (didn't bet)
+Seat 6: chop-ch0p folded before Flop (didn't bet)
+Seat 8: FlyingStyle folded before Flop (didn't bet)
+Seat 9: J0hnMcclean (button) folded on the River
+
+PokerStars Hand #1514033012:  Hold'em No Limit ($50.00/$100.00 USD) - 2023/01/08 18:19:13 ET
+Table 'WPN_7 Day No Rathole 50/100 NLH' 9-max Seat #1 is the button
+Seat 1: Gizineni ($1609.00 in chips)
+Seat 2: moneybyebye ($2133.50 in chips)
+Seat 8: FlyingStyle ($1863.84 in chips)
+Seat 9: J0hnMcclean ($9428.63 in chips)
+moneybyebye: posts small blind $50.00
+J0hnMcclean: posts big blind $100.00
+*** HOLE CARDS ***
+Gizineni: folds
+moneybyebye: calls $50.00
+J0hnMcclean: checks
+*** FLOP *** [5d Kd 8h]
+moneybyebye: bets $100.00
+J0hnMcclean: folds
+Uncalled bet ($100.00) returned to moneybyebye
+moneybyebye collected $198.25 from pot
+moneybyebye: doesn't show hand
+*** SUMMARY ***
+Total pot $200.00 | Rake $1.75
+Board [5d Kd 8h]
+Seat 1: Gizineni (button) folded before Flop (didn't bet)
+Seat 2: moneybyebye (small blind) collected ($198.25)
+Seat 9: J0hnMcclean (big blind) folded on the Flop
+
+PokerStars Hand #1514029615:  Hold'em No Limit ($50.00/$100.00 USD) - 2023/01/08 18:17:12 ET
+Table 'WPN_7 Day No Rathole 50/100 NLH' 9-max Seat #8 is the button
+Seat 1: Gizineni ($1759.00 in chips)
+Seat 2: moneybyebye ($1886.50 in chips)
+Seat 5: shipum7 ($3747.50 in chips)
+Seat 6: chop-ch0p ($1200.00 in chips)
+Seat 8: FlyingStyle ($1513.84 in chips)
+Seat 9: J0hnMcclean ($9678.63 in chips)
+J0hnMcclean: posts small blind $50.00
+Gizineni: posts big blind $100.00
+*** HOLE CARDS ***
+moneybyebye: folds
+shipum7: folds
+chop-ch0p: raises $100.00 to $200.00
+FlyingStyle: raises $1313.84 to $1513.84 and is all-in
+J0hnMcclean: folds
+Gizineni: folds
+chop-ch0p: folds
+Uncalled bet ($1313.84) returned to FlyingStyle
+FlyingStyle collected $550.00 from pot
+FlyingStyle: doesn't show hand
+*** SUMMARY ***
+Total pot $550.00 | Rake $0.00
+Seat 1: Gizineni (big blind) folded before Flop
+Seat 2: moneybyebye folded before Flop (didn't bet)
+Seat 5: shipum7 folded before Flop (didn't bet)
+Seat 6: chop-ch0p folded before Flop
+Seat 8: FlyingStyle (button) collected ($550.00)
+Seat 9: J0hnMcclean (small blind) folded before Flop
+
+PokerStars Hand #1514025431:  Hold'em No Limit ($50.00/$100.00 USD) - 2023/01/08 18:14:39 ET
+Table 'WPN_7 Day No Rathole 50/100 NLH' 9-max Seat #9 is the button
+Seat 1: Gizineni ($1459.00 in chips)
+Seat 2: moneybyebye ($2036.50 in chips)
+Seat 5: shipum7 ($1500.25 in chips)
+Seat 6: chop-ch0p ($1350.00 in chips)
+Seat 8: FlyingStyle ($3664.09 in chips)
+Seat 9: J0hnMcclean ($9778.63 in chips)
+Gizineni: posts small blind $50.00
+moneybyebye: posts big blind $100.00
+*** HOLE CARDS ***
+shipum7: raises $100.00 to $200.00
+chop-ch0p: folds
+FlyingStyle: folds
+J0hnMcclean: folds
+Gizineni: folds
+moneybyebye: folds
+Uncalled bet ($100.00) returned to shipum7
+shipum7 collected $250.00 from pot
+shipum7: doesn't show hand
+*** SUMMARY ***
+Total pot $250.00 | Rake $0.00
+Seat 1: Gizineni (small blind) folded before Flop
+Seat 2: moneybyebye (big blind) folded before Flop
+Seat 5: shipum7 collected ($250.00)
+Seat 6: chop-ch0p folded before Flop (didn't bet)
+Seat 8: FlyingStyle folded before Flop (didn't bet)
+Seat 9: J0hnMcclean (button) folded before Flop (didn't bet)
+
+PokerStars Hand #1514026083:  Hold'em No Limit ($50.00/$100.00 USD) - 2023/01/08 18:15:02 ET
+Table 'WPN_7 Day No Rathole 50/100 NLH' 9-max Seat #1 is the button
+Seat 1: Gizineni ($1409.00 in chips)
+Seat 2: moneybyebye ($1936.50 in chips)
+Seat 5: shipum7 ($1650.25 in chips)
+Seat 6: chop-ch0p ($1350.00 in chips)
+Seat 8: FlyingStyle ($3664.09 in chips)
+Seat 9: J0hnMcclean ($9778.63 in chips)
+moneybyebye: posts small blind $50.00
+shipum7: posts big blind $100.00
+*** HOLE CARDS ***
+chop-ch0p: folds
+FlyingStyle: raises $100.00 to $200.00
+J0hnMcclean: folds
+Gizineni: raises $1209.00 to $1409.00 and is all-in
+moneybyebye: folds
+shipum7: folds
+FlyingStyle: folds
+Uncalled bet ($1209.00) returned to Gizineni
+Gizineni collected $550.00 from pot
+Gizineni: doesn't show hand
+*** SUMMARY ***
+Total pot $550.00 | Rake $0.00
+Seat 1: Gizineni (button) collected ($550.00)
+Seat 2: moneybyebye (small blind) folded before Flop
+Seat 5: shipum7 (big blind) folded before Flop
+Seat 6: chop-ch0p folded before Flop (didn't bet)
+Seat 8: FlyingStyle folded before Flop
+Seat 9: J0hnMcclean folded before Flop (didn't bet)
+
+PokerStars Hand #1514026715:  Hold'em No Limit ($50.00/$100.00 USD) - 2023/01/08 18:15:26 ET
+Table 'WPN_7 Day No Rathole 50/100 NLH' 9-max Seat #2 is the button
+Seat 1: Gizineni ($1759.00 in chips)
+Seat 2: moneybyebye ($1886.50 in chips)
+Seat 5: shipum7 ($1550.25 in chips)
+Seat 6: chop-ch0p ($1350.00 in chips)
+Seat 8: FlyingStyle ($3464.09 in chips)
+Seat 9: J0hnMcclean ($9778.63 in chips)
+shipum7: posts small blind $50.00
+chop-ch0p: posts big blind $100.00
+*** HOLE CARDS ***
+FlyingStyle: raises $100.00 to $200.00
+J0hnMcclean: folds
+Gizineni: folds
+moneybyebye: folds
+shipum7: raises $1350.25 to $1550.25 and is all-in
+chop-ch0p: folds
+FlyingStyle: folds
+Uncalled bet ($1350.25) returned to shipum7
+shipum7 collected $500.00 from pot
+shipum7: doesn't show hand
+*** SUMMARY ***
+Total pot $500.00 | Rake $0.00
+Seat 1: Gizineni folded before Flop (didn't bet)
+Seat 2: moneybyebye (button) folded before Flop (didn't bet)
+Seat 5: shipum7 (small blind) collected ($500.00)
+Seat 6: chop-ch0p (big blind) folded before Flop
+Seat 8: FlyingStyle folded before Flop
+Seat 9: J0hnMcclean folded before Flop (didn't bet)
+
+PokerStars Hand #1514027424:  Hold'em No Limit ($50.00/$100.00 USD) - 2023/01/08 18:15:51 ET
+Table 'WPN_7 Day No Rathole 50/100 NLH' 9-max Seat #5 is the button
+Seat 1: Gizineni ($1759.00 in chips)
+Seat 2: moneybyebye ($1886.50 in chips)
+Seat 5: shipum7 ($1850.25 in chips)
+Seat 6: chop-ch0p ($1250.00 in chips)
+Seat 8: FlyingStyle ($3264.09 in chips)
+Seat 9: J0hnMcclean ($9778.63 in chips)
+chop-ch0p: posts small blind $50.00
+FlyingStyle: posts big blind $100.00
+*** HOLE CARDS ***
+J0hnMcclean: folds
+Gizineni: folds
+moneybyebye: folds
+shipum7: raises $100.00 to $200.00
+chop-ch0p: folds
+FlyingStyle: raises $3064.09 to $3264.09 and is all-in
+shipum7: calls $1650.25 and is all-in
+Uncalled bet ($1413.84) returned to FlyingStyle
+*** FLOP *** [7d 5c 5d]
+*** TURN *** [7d 5c 5d] [3d]
+*** RIVER *** [7d 5c 5d 3d] [Ks]
+*** SHOW DOWN ***
+shipum7: shows [Qd Jh]
+FlyingStyle: shows [Js Td]
+shipum7 collected $3747.50 from pot
+*** SUMMARY ***
+Total pot $3750.50 | Rake $3.00
+Board [7d 5c 5d 3d Ks]
+Seat 1: Gizineni folded before Flop (didn't bet)
+Seat 2: moneybyebye folded before Flop (didn't bet)
+Seat 5: shipum7 (button) showed [Qd Jh] and won ($3747.50)
+Seat 6: chop-ch0p (small blind) folded before Flop
+Seat 8: FlyingStyle (big blind) showed [Js Td] and lost
+Seat 9: J0hnMcclean folded before Flop (didn't bet)
+
+PokerStars Hand #1514029057:  Hold'em No Limit ($50.00/$100.00 USD) - 2023/01/08 18:16:51 ET
+Table 'WPN_7 Day No Rathole 50/100 NLH' 9-max Seat #6 is the button
+Seat 1: Gizineni ($1759.00 in chips)
+Seat 2: moneybyebye ($1886.50 in chips)
+Seat 5: shipum7 ($3747.50 in chips)
+Seat 6: chop-ch0p ($1200.00 in chips)
+Seat 8: FlyingStyle ($1413.84 in chips)
+Seat 9: J0hnMcclean ($9778.63 in chips)
+FlyingStyle: posts small blind $50.00
+J0hnMcclean: posts big blind $100.00
+*** HOLE CARDS ***
+Gizineni: folds
+moneybyebye: folds
+shipum7: folds
+chop-ch0p: folds
+FlyingStyle: raises $1313.84 to $1413.84 and is all-in
+J0hnMcclean: folds
+Uncalled bet ($1313.84) returned to FlyingStyle
+FlyingStyle collected $200.00 from pot
+FlyingStyle: doesn't show hand
+*** SUMMARY ***
+Total pot $200.00 | Rake $0.00
+Seat 1: Gizineni folded before Flop (didn't bet)
+Seat 2: moneybyebye folded before Flop (didn't bet)
+Seat 5: shipum7 folded before Flop (didn't bet)
+Seat 6: chop-ch0p (button) folded before Flop (didn't bet)
+Seat 8: FlyingStyle (small blind) collected ($200.00)
+Seat 9: J0hnMcclean (big blind) folded before Flop
+
+PokerStars Hand #1514024490:  Hold'em No Limit ($50.00/$100.00 USD) - 2023/01/08 18:14:05 ET
+Table 'WPN_7 Day No Rathole 50/100 NLH' 9-max Seat #8 is the button
+Seat 1: Gizineni ($1559.00 in chips)
+Seat 2: moneybyebye ($2036.50 in chips)
+Seat 5: shipum7 ($1700.25 in chips)
+Seat 6: chop-ch0p ($950.00 in chips)
+Seat 8: FlyingStyle ($3664.09 in chips)
+Seat 9: J0hnMcclean ($9828.63 in chips)
+J0hnMcclean: posts small blind $50.00
+Gizineni: posts big blind $100.00
+*** HOLE CARDS ***
+moneybyebye: folds
+shipum7: raises $100.00 to $200.00
+chop-ch0p: raises $800.00 to $1000.00 and is all-in
+FlyingStyle: folds
+J0hnMcclean: folds
+Gizineni: folds
+shipum7: folds
+Uncalled bet ($800.00) returned to chop-ch0p
+chop-ch0p collected $550.00 from pot
+chop-ch0p: doesn't show hand
+*** SUMMARY ***
+Total pot $550.00 | Rake $0.00
+Seat 1: Gizineni (big blind) folded before Flop
+Seat 2: moneybyebye folded before Flop (didn't bet)
+Seat 5: shipum7 folded before Flop
+Seat 6: chop-ch0p collected ($550.00)
+Seat 8: FlyingStyle (button) folded before Flop (didn't bet)
+Seat 9: J0hnMcclean (small blind) folded before Flop
+
+PokerStars Hand #1514021041:  Hold'em No Limit ($50.00/$100.00 USD) - 2023/01/08 18:12:00 ET
+Table 'WPN_7 Day No Rathole 50/100 NLH' 9-max Seat #8 is the button
+Seat 2: moneybyebye ($1839.50 in chips)
+Seat 5: shipum7 ($2098.75 in chips)
+Seat 6: chop-ch0p ($950.00 in chips)
+Seat 7: GrimLaden ($1545.87 in chips)
+Seat 8: FlyingStyle ($3514.09 in chips)
+moneybyebye: posts small blind $50.00
+shipum7: posts big blind $100.00
+*** HOLE CARDS ***
+chop-ch0p: folds
+GrimLaden: raises $100.00 to $200.00
+FlyingStyle: folds
+moneybyebye: folds
+shipum7: calls $100.00
+*** FLOP *** [Js 6c Jh]
+shipum7: checks
+GrimLaden: bets $148.50
+shipum7: calls $148.50
+*** TURN *** [Js 6c Jh] [2c]
+shipum7: checks
+GrimLaden: bets $373.50
+shipum7: folds
+Uncalled bet ($373.50) returned to GrimLaden
+GrimLaden collected $744.00 from pot
+GrimLaden: doesn't show hand
+*** SUMMARY ***
+Total pot $747.00 | Rake $3.00
+Board [Js 6c Jh 2c]
+Seat 2: moneybyebye (small blind) folded before Flop
+Seat 5: shipum7 (big blind) folded on the Turn
+Seat 6: chop-ch0p folded before Flop (didn't bet)
+Seat 7: GrimLaden collected ($744.00)
+Seat 8: FlyingStyle (button) folded before Flop (didn't bet)
+
+PokerStars Hand #1514022759:  Hold'em No Limit ($50.00/$100.00 USD) - 2023/01/08 18:13:01 ET
+Table 'WPN_7 Day No Rathole 50/100 NLH' 9-max Seat #2 is the button
+Seat 2: moneybyebye ($1789.50 in chips)
+Seat 5: shipum7 ($1750.25 in chips)
+Seat 6: chop-ch0p ($950.00 in chips)
+Seat 7: GrimLaden ($1941.37 in chips)
+Seat 8: FlyingStyle ($3514.09 in chips)
+Seat 9: J0hnMcclean ($10028.63 in chips)
+shipum7: posts small blind $50.00
+chop-ch0p: posts big blind $100.00
+*** HOLE CARDS ***
+GrimLaden: folds
+FlyingStyle: raises $100.00 to $200.00
+moneybyebye: folds
+shipum7: folds
+chop-ch0p: folds
+Uncalled bet ($100.00) returned to FlyingStyle
+FlyingStyle collected $250.00 from pot
+FlyingStyle: doesn't show hand
+*** SUMMARY ***
+Total pot $250.00 | Rake $0.00
+Seat 2: moneybyebye (button) folded before Flop (didn't bet)
+Seat 5: shipum7 (small blind) folded before Flop
+Seat 6: chop-ch0p (big blind) folded before Flop
+Seat 7: GrimLaden folded before Flop (didn't bet)
+Seat 8: FlyingStyle collected ($250.00)
+
+PokerStars Hand #1514023161:  Hold'em No Limit ($50.00/$100.00 USD) - 2023/01/08 18:13:17 ET
+Table 'WPN_7 Day No Rathole 50/100 NLH' 9-max Seat #5 is the button
+Seat 2: moneybyebye ($1789.50 in chips)
+Seat 5: shipum7 ($1700.25 in chips)
+Seat 6: chop-ch0p ($900.00 in chips)
+Seat 8: FlyingStyle ($3664.09 in chips)
+Seat 9: J0hnMcclean ($10028.63 in chips)
+chop-ch0p: posts small blind $50.00
+FlyingStyle: posts big blind $100.00
+*** HOLE CARDS ***
+moneybyebye: folds
+shipum7: folds
+chop-ch0p: folds
+Uncalled bet ($50.00) returned to FlyingStyle
+FlyingStyle collected $100.00 from pot
+FlyingStyle: doesn't show hand
+*** SUMMARY ***
+Total pot $100.00 | Rake $0.00
+Seat 2: moneybyebye folded before Flop (didn't bet)
+Seat 5: shipum7 (button) folded before Flop (didn't bet)
+Seat 6: chop-ch0p (small blind) folded before Flop
+Seat 8: FlyingStyle (big blind) collected ($100.00)
+
+PokerStars Hand #1514023575:  Hold'em No Limit ($50.00/$100.00 USD) - 2023/01/08 18:13:32 ET
+Table 'WPN_7 Day No Rathole 50/100 NLH' 9-max Seat #6 is the button
+Seat 2: moneybyebye ($1789.50 in chips)
+Seat 5: shipum7 ($1700.25 in chips)
+Seat 6: chop-ch0p ($950.00 in chips)
+Seat 8: FlyingStyle ($3714.09 in chips)
+Seat 9: J0hnMcclean ($10028.63 in chips)
+FlyingStyle: posts small blind $50.00
+J0hnMcclean: posts big blind $100.00
+*** HOLE CARDS ***
+moneybyebye: raises $100.00 to $200.00
+shipum7: folds
+chop-ch0p: folds
+FlyingStyle: folds
+J0hnMcclean: calls $100.00
+*** FLOP *** [Qd Kd 8c]
+J0hnMcclean: checks
+moneybyebye: bets $130.50
+J0hnMcclean: folds
+Uncalled bet ($130.50) returned to moneybyebye
+moneybyebye collected $447.00 from pot
+moneybyebye: doesn't show hand
+*** SUMMARY ***
+Total pot $450.00 | Rake $3.00
+Board [Qd Kd 8c]
+Seat 2: moneybyebye collected ($447.00)
+Seat 5: shipum7 folded before Flop (didn't bet)
+Seat 6: chop-ch0p (button) folded before Flop (didn't bet)
+Seat 8: FlyingStyle (small blind) folded before Flop
+Seat 9: J0hnMcclean (big blind) folded on the Flop
+
+PokerStars Hand #1514020475:  Hold'em No Limit ($50.00/$100.00 USD) - 2023/01/08 18:11:39 ET
+Table 'WPN_7 Day No Rathole 50/100 NLH' 9-max Seat #7 is the button
+Seat 2: moneybyebye ($1939.50 in chips)
+Seat 5: shipum7 ($2098.75 in chips)
+Seat 6: chop-ch0p ($950.00 in chips)
+Seat 7: GrimLaden ($1395.87 in chips)
+Seat 8: FlyingStyle ($3564.09 in chips)
+FlyingStyle: posts small blind $50.00
+moneybyebye: posts big blind $100.00
+*** HOLE CARDS ***
+shipum7: folds
+chop-ch0p: folds
+GrimLaden: raises $1295.87 to $1395.87 and is all-in
+FlyingStyle: folds
+moneybyebye: folds
+Uncalled bet ($1295.87) returned to GrimLaden
+GrimLaden collected $250.00 from pot
+GrimLaden: doesn't show hand
+*** SUMMARY ***
+Total pot $250.00 | Rake $0.00
+Seat 2: moneybyebye (big blind) folded before Flop
+Seat 5: shipum7 folded before Flop (didn't bet)
+Seat 6: chop-ch0p folded before Flop (didn't bet)
+Seat 7: GrimLaden (button) collected ($250.00)
+Seat 8: FlyingStyle (small blind) folded before Flop
+
+PokerStars Hand #1514018645:  Hold'em No Limit ($50.00/$100.00 USD) - 2023/01/08 18:10:31 ET
+Table 'WPN_7 Day No Rathole 50/100 NLH' 9-max Seat #5 is the button
+Seat 2: moneybyebye ($2889.50 in chips)
+Seat 5: shipum7 ($900.00 in chips)
+shipum7: posts small blind $50.00
+moneybyebye: posts big blind $100.00
+*** HOLE CARDS ***
+shipum7: raises $800.00 to $900.00 and is all-in
+moneybyebye: calls $800.00
+*** FLOP *** [Ad 2d 4c]
+*** TURN *** [Ad 2d 4c] [2h]
+*** RIVER *** [Ad 2d 4c 2h] [5h]
+*** SHOW DOWN ***
+shipum7: shows [4d 2s]
+moneybyebye: shows [Ah 5c]
+shipum7 collected $1798.75 from pot
+*** SUMMARY ***
+Total pot $1800.00 | Rake $1.25
+Board [Ad 2d 4c 2h 5h]
+Seat 2: moneybyebye (big blind) showed [Ah 5c] and lost
+Seat 5: shipum7 (button) (small blind) showed [4d 2s] and won ($1798.75)
+
+PokerStars Hand #1514019289:  Hold'em No Limit ($50.00/$100.00 USD) - 2023/01/08 18:10:55 ET
+Table 'WPN_7 Day No Rathole 50/100 NLH' 9-max Seat #2 is the button
+Seat 2: moneybyebye ($1989.50 in chips)
+Seat 5: shipum7 ($1798.75 in chips)
+Seat 6: chop-ch0p ($1000.00 in chips)
+moneybyebye: posts small blind $50.00
+shipum7: posts big blind $100.00
+*** HOLE CARDS ***
+moneybyebye: folds
+Uncalled bet ($50.00) returned to shipum7
+shipum7 collected $100.00 from pot
+shipum7: doesn't show hand
+*** SUMMARY ***
+Total pot $100.00 | Rake $0.00
+Seat 2: moneybyebye (button) (small blind) folded before Flop
+Seat 5: shipum7 (big blind) collected ($100.00)
+
+PokerStars Hand #1514019449:  Hold'em No Limit ($50.00/$100.00 USD) - 2023/01/08 18:11:02 ET
+Table 'WPN_7 Day No Rathole 50/100 NLH' 9-max Seat #2 is the button
+Seat 2: moneybyebye ($1939.50 in chips)
+Seat 5: shipum7 ($1848.75 in chips)
+Seat 6: chop-ch0p ($1000.00 in chips)
+Seat 7: GrimLaden ($1395.87 in chips)
+shipum7: posts small blind $50.00
+chop-ch0p: posts big blind $100.00
+*** HOLE CARDS ***
+moneybyebye: folds
+shipum7: raises $1748.75 to $1848.75 and is all-in
+chop-ch0p: folds
+Uncalled bet ($1748.75) returned to shipum7
+shipum7 collected $200.00 from pot
+shipum7: doesn't show hand
+*** SUMMARY ***
+Total pot $200.00 | Rake $0.00
+Seat 2: moneybyebye (button) folded before Flop (didn't bet)
+Seat 5: shipum7 (small blind) collected ($200.00)
+Seat 6: chop-ch0p (big blind) folded before Flop
+
+PokerStars Hand #1514019728:  Hold'em No Limit ($50.00/$100.00 USD) - 2023/01/08 18:11:12 ET
+Table 'WPN_7 Day No Rathole 50/100 NLH' 9-max Seat #5 is the button
+Seat 2: moneybyebye ($1939.50 in chips)
+Seat 5: shipum7 ($1948.75 in chips)
+Seat 6: chop-ch0p ($900.00 in chips)
+Seat 7: GrimLaden ($1395.87 in chips)
+chop-ch0p: posts small blind $50.00
+GrimLaden: posts big blind $100.00
+*** HOLE CARDS ***
+moneybyebye: folds
+shipum7: folds
+chop-ch0p: folds
+Uncalled bet ($50.00) returned to GrimLaden
+GrimLaden collected $100.00 from pot
+GrimLaden: doesn't show hand
+*** SUMMARY ***
+Total pot $100.00 | Rake $0.00
+Seat 2: moneybyebye folded before Flop (didn't bet)
+Seat 5: shipum7 (button) folded before Flop (didn't bet)
+Seat 6: chop-ch0p (small blind) folded before Flop
+Seat 7: GrimLaden (big blind) collected ($100.00)
+
+PokerStars Hand #1514020047:  Hold'em No Limit ($50.00/$100.00 USD) - 2023/01/08 18:11:23 ET
+Table 'WPN_7 Day No Rathole 50/100 NLH' 9-max Seat #6 is the button
+Seat 2: moneybyebye ($1939.50 in chips)
+Seat 5: shipum7 ($1948.75 in chips)
+Seat 6: chop-ch0p ($950.00 in chips)
+Seat 7: GrimLaden ($1445.87 in chips)
+Seat 8: FlyingStyle ($3664.09 in chips)
+GrimLaden: posts small blind $50.00
+FlyingStyle: posts big blind $100.00
+*** HOLE CARDS ***
+moneybyebye: folds
+shipum7: raises $100.00 to $200.00
+chop-ch0p: folds
+GrimLaden: folds
+FlyingStyle: folds
+Uncalled bet ($100.00) returned to shipum7
+shipum7 collected $250.00 from pot
+shipum7: doesn't show hand
+*** SUMMARY ***
+Total pot $250.00 | Rake $0.00
+Seat 2: moneybyebye folded before Flop (didn't bet)
+Seat 5: shipum7 collected ($250.00)
+Seat 6: chop-ch0p (button) folded before Flop (didn't bet)
+Seat 7: GrimLaden (small blind) folded before Flop
+Seat 8: FlyingStyle (big blind) folded before Flop
+
+PokerStars Hand #1513473600:  Hold'em No Limit ($50.00/$100.00 USD) - 2023/01/08 04:22:21 ET
+Table 'WPN_7 Day No Rathole 50/100 NLH' 9-max Seat #6 is the button
+Seat 1: el0el ($7454.25 in chips)
+Seat 6: CPUrul0r ($1888.12 in chips)
+Seat 7: bigsoowoop ($1048.25 in chips)
+Seat 8: Pr.Lupine ($2390.00 in chips)
+bigsoowoop: posts small blind $50.00
+Pr.Lupine: posts big blind $100.00
+*** HOLE CARDS ***
+el0el: folds
+CPUrul0r: raises $100.00 to $200.00
+bigsoowoop: folds
+Pr.Lupine: calls $100.00
+*** FLOP *** [2d Ad Kc]
+Pr.Lupine: checks
+CPUrul0r: checks
+*** TURN *** [2d Ad Kc] [Qc]
+Pr.Lupine: checks
+CPUrul0r: bets $148.50
+Pr.Lupine: calls $148.50
+*** RIVER *** [2d Ad Kc Qc] [6c]
+Pr.Lupine: checks
+CPUrul0r: checks
+*** SHOW DOWN ***
+Pr.Lupine: shows [Kh 6d]
+CPUrul0r: mucks hand
+Pr.Lupine collected $744.75 from pot
+*** SUMMARY ***
+Total pot $747.00 | Rake $2.25
+Board [2d Ad Kc Qc 6c]
+Seat 1: el0el folded before Flop (didn't bet)
+Seat 6: CPUrul0r (button) mucked
+Seat 7: bigsoowoop (small blind) folded before Flop
+Seat 8: Pr.Lupine (big blind) showed [Kh 6d] and won ($744.75)
+
+PokerStars Hand #1513474380:  Hold'em No Limit ($50.00/$100.00 USD) - 2023/01/08 04:23:01 ET
+Table 'WPN_7 Day No Rathole 50/100 NLH' 9-max Seat #7 is the button
+Seat 1: az96 ($1900.00 in chips)
+Seat 2: _COBKA_PBET_ ($8456.87 in chips)
+Seat 6: CPUrul0r ($1539.62 in chips)
+Seat 7: bigsoowoop ($998.25 in chips)
+Seat 8: Pr.Lupine ($2786.25 in chips)
+Seat 9: GambleFUN ($1797.75 in chips)
+Pr.Lupine: posts small blind $50.00
+GambleFUN: posts big blind $100.00
+*** HOLE CARDS ***
+CPUrul0r: folds
+bigsoowoop: folds
+Pr.Lupine: folds
+Uncalled bet ($50.00) returned to GambleFUN
+GambleFUN collected $100.00 from pot
+GambleFUN: doesn't show hand
+*** SUMMARY ***
+Total pot $100.00 | Rake $0.00
+Seat 6: CPUrul0r folded before Flop (didn't bet)
+Seat 7: bigsoowoop (button) folded before Flop (didn't bet)
+Seat 8: Pr.Lupine (small blind) folded before Flop
+Seat 9: GambleFUN (big blind) collected ($100.00)
+
+PokerStars Hand #1513474575:  Hold'em No Limit ($50.00/$100.00 USD) - 2023/01/08 04:23:13 ET
+Table 'WPN_7 Day No Rathole 50/100 NLH' 9-max Seat #8 is the button
+Seat 1: az96 ($1900.00 in chips)
+Seat 2: _COBKA_PBET_ ($8456.87 in chips)
+Seat 6: CPUrul0r ($1539.62 in chips)
+Seat 7: bigsoowoop ($998.25 in chips)
+Seat 8: Pr.Lupine ($2736.25 in chips)
+Seat 9: GambleFUN ($1847.75 in chips)
+GambleFUN: posts small blind $50.00
+az96: posts big blind $100.00
+*** HOLE CARDS ***
+CPUrul0r: folds
+bigsoowoop: folds
+Pr.Lupine: raises $100.00 to $200.00
+GambleFUN: folds
+az96: calls $100.00
+*** FLOP *** [Qh Th 7h]
+az96: checks
+Pr.Lupine: checks
+*** TURN *** [Qh Th 7h] [5s]
+az96: checks
+Pr.Lupine: checks
+*** RIVER *** [Qh Th 7h 5s] [5h]
+az96: checks
+Pr.Lupine: bets $287.50
+az96: folds
+Uncalled bet ($287.50) returned to Pr.Lupine
+Pr.Lupine collected $447.00 from pot
+Pr.Lupine: doesn't show hand
+*** SUMMARY ***
+Total pot $450.00 | Rake $3.00
+Board [Qh Th 7h 5s 5h]
+Seat 1: az96 (big blind) folded on the River
+Seat 6: CPUrul0r folded before Flop (didn't bet)
+Seat 7: bigsoowoop folded before Flop (didn't bet)
+Seat 8: Pr.Lupine (button) collected ($447.00)
+Seat 9: GambleFUN (small blind) folded before Flop
+
+PokerStars Hand #1513475420:  Hold'em No Limit ($50.00/$100.00 USD) - 2023/01/08 04:24:00 ET
+Table 'WPN_7 Day No Rathole 50/100 NLH' 9-max Seat #9 is the button
+Seat 1: az96 ($1700.00 in chips)
+Seat 2: _COBKA_PBET_ ($8456.87 in chips)
+Seat 6: CPUrul0r ($1539.62 in chips)
+Seat 7: bigsoowoop ($998.25 in chips)
+Seat 8: Pr.Lupine ($2983.25 in chips)
+Seat 9: GambleFUN ($1797.75 in chips)
+az96: posts small blind $50.00
+_COBKA_PBET_: posts big blind $100.00
+*** HOLE CARDS ***
+CPUrul0r: folds
+bigsoowoop: folds
+Pr.Lupine: folds
+GambleFUN: raises $100.00 to $200.00
+az96: folds
+_COBKA_PBET_: raises $8256.87 to $8456.87 and is all-in
+GambleFUN: folds
+Uncalled bet ($8256.87) returned to _COBKA_PBET_
+_COBKA_PBET_ collected $450.00 from pot
+_COBKA_PBET_: doesn't show hand
+*** SUMMARY ***
+Total pot $450.00 | Rake $0.00
+Seat 1: az96 (small blind) folded before Flop
+Seat 2: _COBKA_PBET_ (big blind) collected ($450.00)
+Seat 6: CPUrul0r folded before Flop (didn't bet)
+Seat 7: bigsoowoop folded before Flop (didn't bet)
+Seat 8: Pr.Lupine folded before Flop (didn't bet)
+Seat 9: GambleFUN (button) folded before Flop
+
+PokerStars Hand #1513476185:  Hold'em No Limit ($50.00/$100.00 USD) - 2023/01/08 04:24:42 ET
+Table 'WPN_7 Day No Rathole 50/100 NLH' 9-max Seat #1 is the button
+Seat 1: az96 ($1650.00 in chips)
+Seat 2: _COBKA_PBET_ ($8706.87 in chips)
+Seat 3: FreeRakeback ($8920.26 in chips)
+Seat 6: CPUrul0r ($1539.62 in chips)
+Seat 7: bigsoowoop ($998.25 in chips)
+Seat 8: Pr.Lupine ($2983.25 in chips)
+Seat 9: GambleFUN ($1597.75 in chips)
+_COBKA_PBET_: posts small blind $50.00
+FreeRakeback: posts big blind $100.00
+*** HOLE CARDS ***
+CPUrul0r: folds
+bigsoowoop: folds
+Pr.Lupine: folds
+GambleFUN: raises $100.00 to $200.00
+az96: folds
+_COBKA_PBET_: folds
+FreeRakeback: folds
+Uncalled bet ($100.00) returned to GambleFUN
+GambleFUN collected $250.00 from pot
+GambleFUN: doesn't show hand
+*** SUMMARY ***
+Total pot $250.00 | Rake $0.00
+Seat 1: az96 (button) folded before Flop (didn't bet)
+Seat 2: _COBKA_PBET_ (small blind) folded before Flop
+Seat 3: FreeRakeback (big blind) folded before Flop
+Seat 6: CPUrul0r folded before Flop (didn't bet)
+Seat 7: bigsoowoop folded before Flop (didn't bet)
+Seat 8: Pr.Lupine folded before Flop (didn't bet)
+Seat 9: GambleFUN collected ($250.00)
+
+PokerStars Hand #1513173378:  Hold'em No Limit ($50.00/$100.00 USD) - 2023/01/08 00:09:08 ET
+Table 'WPN_7 Day No Rathole 50/100 NLH' 9-max Seat #8 is the button
+Seat 3: DoublelegTD ($2929.01 in chips)
+Seat 8: CPUrul0r ($3078.12 in chips)
+CPUrul0r: posts small blind $50.00
+DoublelegTD: posts big blind $100.00
+*** HOLE CARDS ***
+CPUrul0r: raises $120.00 to $220.00
+DoublelegTD: raises $430.00 to $650.00
+CPUrul0r: calls $430.00
+*** FLOP *** [Qs 5c Jc]
+DoublelegTD: bets $390.00
+CPUrul0r: calls $390.00
+*** TURN *** [Qs 5c Jc] [As]
+DoublelegTD: checks
+CPUrul0r: checks
+*** RIVER *** [Qs 5c Jc As] [Qh]
+DoublelegTD: checks
+CPUrul0r: checks
+*** SHOW DOWN ***
+DoublelegTD: shows [Qc Ac]
+CPUrul0r: mucks hand
+DoublelegTD collected $2078.75 from pot
+*** SUMMARY ***
+Total pot $2080.00 | Rake $1.25
+Board [Qs 5c Jc As Qh]
+Seat 3: DoublelegTD (big blind) showed [Qc Ac] and won ($2078.75)
+Seat 8: CPUrul0r (button) (small blind) mucked
+
+PokerStars Hand #1513102596:  Hold'em No Limit ($50.00/$100.00 USD) - 2023/01/07 23:04:19 ET
+Table 'WPN_7 Day No Rathole 50/100 NLH' 9-max Seat #8 is the button
+Seat 3: elmatador6969 ($4882.00 in chips)
+Seat 8: CPUrul0r ($3398.12 in chips)
+CPUrul0r: posts small blind $50.00
+elmatador6969: posts big blind $100.00
+*** HOLE CARDS ***
+CPUrul0r: raises $120.00 to $220.00
+elmatador6969: raises $600.00 to $820.00
+CPUrul0r: folds
+Uncalled bet ($600.00) returned to elmatador6969
+elmatador6969 collected $440.00 from pot
+elmatador6969: doesn't show hand
+*** SUMMARY ***
+Total pot $440.00 | Rake $0.00
+Seat 3: elmatador6969 (big blind) collected ($440.00)
+Seat 8: CPUrul0r (button) (small blind) folded before Flop
+

@@ -1,0 +1,4146 @@
+PokerStars Hand #1508327888:  Hold'em No Limit ($200.00/$400.00 USD) - 2023/01/03 21:00:22 ET
+Table 'WPN_7 Day No Rathole 200/400 NLH - Limited Time' 9-max Seat #6 is the button
+Seat 1: iWasOnly17 ($116229.58 in chips)
+Seat 2: dursty54 ($8396.00 in chips)
+Seat 5: recruitme ($38306.12 in chips)
+Seat 6: Sabazius ($5500.00 in chips)
+dursty54: posts small blind $200.00
+recruitme: posts big blind $400.00
+*** HOLE CARDS ***
+Sabazius: folds
+dursty54: folds
+Uncalled bet ($200.00) returned to recruitme
+recruitme collected $400.00 from pot
+recruitme: doesn't show hand
+*** SUMMARY ***
+Total pot $400.00 | Rake $0.00
+Seat 2: dursty54 (small blind) folded before Flop
+Seat 5: recruitme (big blind) collected ($400.00)
+Seat 6: Sabazius (button) folded before Flop (didn't bet)
+
+PokerStars Hand #1508327995:  Hold'em No Limit ($200.00/$400.00 USD) - 2023/01/03 21:00:31 ET
+Table 'WPN_7 Day No Rathole 200/400 NLH - Limited Time' 9-max Seat #2 is the button
+Seat 1: iWasOnly17 ($116229.58 in chips)
+Seat 2: dursty54 ($8196.00 in chips)
+Seat 5: recruitme ($38506.12 in chips)
+Seat 6: Sabazius ($5500.00 in chips)
+recruitme: posts small blind $200.00
+Sabazius: posts big blind $400.00
+*** HOLE CARDS ***
+dursty54: raises $400.00 to $800.00
+recruitme: calls $600.00
+Sabazius: calls $400.00
+*** FLOP *** [As 4d 9s]
+recruitme: checks
+Sabazius: checks
+dursty54: bets $600.00
+recruitme: raises $2200.00 to $2800.00
+Sabazius: folds
+dursty54: folds
+Uncalled bet ($2200.00) returned to recruitme
+recruitme collected $3598.25 from pot
+recruitme: doesn't show hand
+*** SUMMARY ***
+Total pot $3600.00 | Rake $1.75
+Board [As 4d 9s]
+Seat 2: dursty54 (button) folded on the Flop
+Seat 5: recruitme (small blind) collected ($3598.25)
+Seat 6: Sabazius (big blind) folded on the Flop
+
+PokerStars Hand #1508328926:  Hold'em No Limit ($200.00/$400.00 USD) - 2023/01/03 21:01:38 ET
+Table 'WPN_7 Day No Rathole 200/400 NLH - Limited Time' 9-max Seat #5 is the button
+Seat 1: iWasOnly17 ($116229.58 in chips)
+Seat 2: dursty54 ($6796.00 in chips)
+Seat 5: recruitme ($40704.37 in chips)
+Seat 6: Sabazius ($4700.00 in chips)
+Sabazius: posts small blind $200.00
+iWasOnly17: posts big blind $400.00
+*** HOLE CARDS ***
+dursty54: raises $400.00 to $800.00
+recruitme: folds
+Sabazius: folds
+iWasOnly17: raises $115429.58 to $116229.58 and is all-in
+dursty54: calls $5996.00 and is all-in
+Uncalled bet ($109433.58) returned to iWasOnly17
+*** FLOP *** [2s 4d Qc]
+*** TURN *** [2s 4d Qc] [9h]
+*** RIVER *** [2s 4d Qc 9h] [2h]
+*** SHOW DOWN ***
+dursty54: shows [Ks Kc]
+iWasOnly17: shows [As 4s]
+dursty54 collected $13789.75 from pot
+*** SUMMARY ***
+Total pot $13792.00 | Rake $2.25
+Board [2s 4d Qc 9h 2h]
+Seat 1: iWasOnly17 (big blind) showed [As 4s] and lost
+Seat 2: dursty54 showed [Ks Kc] and won ($13789.75)
+Seat 5: recruitme (button) folded before Flop (didn't bet)
+Seat 6: Sabazius (small blind) folded before Flop
+
+PokerStars Hand #1508329638:  Hold'em No Limit ($200.00/$400.00 USD) - 2023/01/03 21:02:14 ET
+Table 'WPN_7 Day No Rathole 200/400 NLH - Limited Time' 9-max Seat #6 is the button
+Seat 1: iWasOnly17 ($109433.58 in chips)
+Seat 2: dursty54 ($13789.75 in chips)
+Seat 5: recruitme ($40704.37 in chips)
+Seat 6: Sabazius ($4500.00 in chips)
+iWasOnly17: posts small blind $200.00
+dursty54: posts big blind $400.00
+*** HOLE CARDS ***
+recruitme: folds
+Sabazius: raises $400.00 to $800.00
+iWasOnly17: raises $1200.00 to $2000.00
+dursty54: folds
+Sabazius: folds
+Uncalled bet ($1200.00) returned to iWasOnly17
+iWasOnly17 collected $2000.00 from pot
+iWasOnly17: doesn't show hand
+*** SUMMARY ***
+Total pot $2000.00 | Rake $0.00
+Seat 1: iWasOnly17 (small blind) collected ($2000.00)
+Seat 2: dursty54 (big blind) folded before Flop
+Seat 5: recruitme folded before Flop (didn't bet)
+Seat 6: Sabazius (button) folded before Flop
+
+PokerStars Hand #1508330230:  Hold'em No Limit ($200.00/$400.00 USD) - 2023/01/03 21:02:51 ET
+Table 'WPN_7 Day No Rathole 200/400 NLH - Limited Time' 9-max Seat #1 is the button
+Seat 1: iWasOnly17 ($110633.58 in chips)
+Seat 2: dursty54 ($13389.75 in chips)
+Seat 5: recruitme ($40704.37 in chips)
+Seat 6: Sabazius ($3700.00 in chips)
+dursty54: posts small blind $200.00
+recruitme: posts big blind $400.00
+*** HOLE CARDS ***
+Sabazius: folds
+iWasOnly17: folds
+dursty54: calls $200.00
+recruitme: checks
+*** FLOP *** [Ac Qs 9c]
+dursty54: bets $400.00
+recruitme: folds
+Uncalled bet ($400.00) returned to dursty54
+dursty54 collected $797.75 from pot
+dursty54: doesn't show hand
+*** SUMMARY ***
+Total pot $800.00 | Rake $2.25
+Board [Ac Qs 9c]
+Seat 1: iWasOnly17 (button) folded before Flop (didn't bet)
+Seat 2: dursty54 (small blind) collected ($797.75)
+Seat 5: recruitme (big blind) folded on the Flop
+Seat 6: Sabazius folded before Flop (didn't bet)
+
+PokerStars Hand #1508330974:  Hold'em No Limit ($200.00/$400.00 USD) - 2023/01/03 21:03:26 ET
+Table 'WPN_7 Day No Rathole 200/400 NLH - Limited Time' 9-max Seat #2 is the button
+Seat 1: iWasOnly17 ($110633.58 in chips)
+Seat 2: dursty54 ($13787.50 in chips)
+Seat 5: recruitme ($40304.37 in chips)
+Seat 6: Sabazius ($3700.00 in chips)
+recruitme: posts small blind $200.00
+Sabazius: posts big blind $400.00
+*** HOLE CARDS ***
+iWasOnly17: raises $400.00 to $800.00
+dursty54: folds
+recruitme: folds
+Sabazius: folds
+Uncalled bet ($400.00) returned to iWasOnly17
+iWasOnly17 collected $1000.00 from pot
+iWasOnly17: doesn't show hand
+*** SUMMARY ***
+Total pot $1000.00 | Rake $0.00
+Seat 1: iWasOnly17 collected ($1000.00)
+Seat 2: dursty54 (button) folded before Flop (didn't bet)
+Seat 5: recruitme (small blind) folded before Flop
+Seat 6: Sabazius (big blind) folded before Flop
+
+PokerStars Hand #1508331198:  Hold'em No Limit ($200.00/$400.00 USD) - 2023/01/03 21:03:38 ET
+Table 'WPN_7 Day No Rathole 200/400 NLH - Limited Time' 9-max Seat #5 is the button
+Seat 1: iWasOnly17 ($111233.58 in chips)
+Seat 2: dursty54 ($13787.50 in chips)
+Seat 5: recruitme ($40104.37 in chips)
+Seat 6: Sabazius ($3600.00 in chips)
+Sabazius: posts small blind $200.00
+iWasOnly17: posts big blind $400.00
+*** HOLE CARDS ***
+dursty54: folds
+recruitme: raises $400.00 to $800.00
+Sabazius: folds
+iWasOnly17: calls $400.00
+*** FLOP *** [Jd Ah 4d]
+iWasOnly17: checks
+recruitme: bets $500.00
+iWasOnly17: folds
+Uncalled bet ($500.00) returned to recruitme
+recruitme collected $1797.75 from pot
+recruitme: doesn't show hand
+*** SUMMARY ***
+Total pot $1800.00 | Rake $2.25
+Board [Jd Ah 4d]
+Seat 1: iWasOnly17 (big blind) folded on the Flop
+Seat 2: dursty54 folded before Flop (didn't bet)
+Seat 5: recruitme (button) collected ($1797.75)
+Seat 6: Sabazius (small blind) folded before Flop
+
+PokerStars Hand #1509385300:  Hold'em No Limit ($200.00/$400.00 USD) - 2023/01/04 19:56:16 ET
+Table 'WPN_7 Day No Rathole 200/400 NLH - Limited Time' 9-max Seat #3 is the button
+Seat 3: oneplusone ($5456.75 in chips)
+Seat 7: orgi69 ($17825.49 in chips)
+oneplusone: posts small blind $200.00
+orgi69: posts big blind $400.00
+*** HOLE CARDS ***
+oneplusone: calls $200.00
+orgi69: raises $17425.49 to $17825.49 and is all-in
+oneplusone: folds
+Uncalled bet ($17425.49) returned to orgi69
+orgi69 collected $800.00 from pot
+orgi69: doesn't show hand
+*** SUMMARY ***
+Total pot $800.00 | Rake $0.00
+Seat 3: oneplusone (button) (small blind) folded before Flop
+Seat 7: orgi69 (big blind) collected ($800.00)
+
+PokerStars Hand #1509385461:  Hold'em No Limit ($200.00/$400.00 USD) - 2023/01/04 19:56:35 ET
+Table 'WPN_7 Day No Rathole 200/400 NLH - Limited Time' 9-max Seat #7 is the button
+Seat 3: oneplusone ($5256.75 in chips)
+Seat 7: orgi69 ($18225.49 in chips)
+orgi69: posts small blind $200.00
+oneplusone: posts big blind $400.00
+*** HOLE CARDS ***
+orgi69: folds
+Uncalled bet ($200.00) returned to oneplusone
+oneplusone collected $400.00 from pot
+oneplusone: doesn't show hand
+*** SUMMARY ***
+Total pot $400.00 | Rake $0.00
+Seat 3: oneplusone (big blind) collected ($400.00)
+Seat 7: orgi69 (button) (small blind) folded before Flop
+
+PokerStars Hand #1509385546:  Hold'em No Limit ($200.00/$400.00 USD) - 2023/01/04 19:56:44 ET
+Table 'WPN_7 Day No Rathole 200/400 NLH - Limited Time' 9-max Seat #3 is the button
+Seat 3: oneplusone ($5456.75 in chips)
+Seat 7: orgi69 ($18025.49 in chips)
+oneplusone: posts small blind $200.00
+orgi69: posts big blind $400.00
+*** HOLE CARDS ***
+oneplusone: raises $5056.75 to $5456.75 and is all-in
+orgi69: calls $5056.75
+*** FLOP *** [2h Kd 6d]
+*** TURN *** [2h Kd 6d] [8c]
+*** RIVER *** [2h Kd 6d 8c] [2s]
+*** SHOW DOWN ***
+orgi69: shows [7d 7h]
+oneplusone: shows [3d Ac]
+orgi69 collected $10912.25 from pot
+*** SUMMARY ***
+Total pot $10913.50 | Rake $1.25
+Board [2h Kd 6d 8c 2s]
+Seat 3: oneplusone (button) (small blind) showed [3d Ac] and lost
+Seat 7: orgi69 (big blind) showed [7d 7h] and won ($10912.25)
+
+PokerStars Hand #1509385714:  Hold'em No Limit ($200.00/$400.00 USD) - 2023/01/04 19:57:02 ET
+Table 'WPN_7 Day No Rathole 200/400 NLH - Limited Time' 9-max Seat #7 is the button
+Seat 3: oneplusone ($4000.00 in chips)
+Seat 7: orgi69 ($23480.99 in chips)
+orgi69: posts small blind $200.00
+oneplusone: posts big blind $400.00
+*** HOLE CARDS ***
+orgi69: folds
+Uncalled bet ($200.00) returned to oneplusone
+oneplusone collected $400.00 from pot
+oneplusone: doesn't show hand
+*** SUMMARY ***
+Total pot $400.00 | Rake $0.00
+Seat 3: oneplusone (big blind) collected ($400.00)
+Seat 7: orgi69 (button) (small blind) folded before Flop
+
+PokerStars Hand #1509385792:  Hold'em No Limit ($200.00/$400.00 USD) - 2023/01/04 19:57:10 ET
+Table 'WPN_7 Day No Rathole 200/400 NLH - Limited Time' 9-max Seat #3 is the button
+Seat 3: oneplusone ($4200.00 in chips)
+Seat 7: orgi69 ($23280.99 in chips)
+oneplusone: posts small blind $200.00
+orgi69: posts big blind $400.00
+*** HOLE CARDS ***
+oneplusone: calls $200.00
+orgi69: raises $22880.99 to $23280.99 and is all-in
+oneplusone: calls $3800.00 and is all-in
+Uncalled bet ($19080.99) returned to orgi69
+*** FLOP *** [Qs 8c 7c]
+*** TURN *** [Qs 8c 7c] [6d]
+*** RIVER *** [Qs 8c 7c 6d] [4s]
+*** SHOW DOWN ***
+oneplusone: shows [9h 9c]
+orgi69: shows [Ts Ad]
+oneplusone collected $8398.75 from pot
+*** SUMMARY ***
+Total pot $8400.00 | Rake $1.25
+Board [Qs 8c 7c 6d 4s]
+Seat 3: oneplusone (button) (small blind) showed [9h 9c] and won ($8398.75)
+Seat 7: orgi69 (big blind) showed [Ts Ad] and lost
+
+PokerStars Hand #1509385984:  Hold'em No Limit ($200.00/$400.00 USD) - 2023/01/04 19:57:31 ET
+Table 'WPN_7 Day No Rathole 200/400 NLH - Limited Time' 9-max Seat #7 is the button
+Seat 3: oneplusone ($8398.75 in chips)
+Seat 7: orgi69 ($19080.99 in chips)
+orgi69: posts small blind $200.00
+oneplusone: posts big blind $400.00
+*** HOLE CARDS ***
+orgi69: raises $400.00 to $800.00
+oneplusone: calls $400.00
+*** FLOP *** [6s Qc 6h]
+oneplusone: checks
+orgi69: bets $480.00
+oneplusone: folds
+Uncalled bet ($480.00) returned to orgi69
+orgi69 collected $1598.75 from pot
+orgi69: doesn't show hand
+*** SUMMARY ***
+Total pot $1600.00 | Rake $1.25
+Board [6s Qc 6h]
+Seat 3: oneplusone (big blind) folded on the Flop
+Seat 7: orgi69 (button) (small blind) collected ($1598.75)
+
+PokerStars Hand #1509386307:  Hold'em No Limit ($200.00/$400.00 USD) - 2023/01/04 19:58:04 ET
+Table 'WPN_7 Day No Rathole 200/400 NLH - Limited Time' 9-max Seat #3 is the button
+Seat 3: oneplusone ($7598.75 in chips)
+Seat 7: orgi69 ($19879.74 in chips)
+oneplusone: posts small blind $200.00
+orgi69: posts big blind $400.00
+*** HOLE CARDS ***
+oneplusone: calls $200.00
+orgi69: checks
+*** FLOP *** [Js Ks 5c]
+orgi69: checks
+oneplusone: bets $400.00
+orgi69: folds
+Uncalled bet ($400.00) returned to oneplusone
+oneplusone collected $798.75 from pot
+oneplusone: doesn't show hand
+*** SUMMARY ***
+Total pot $800.00 | Rake $1.25
+Board [Js Ks 5c]
+Seat 3: oneplusone (button) (small blind) collected ($798.75)
+Seat 7: orgi69 (big blind) folded on the Flop
+
+PokerStars Hand #1509386488:  Hold'em No Limit ($200.00/$400.00 USD) - 2023/01/04 19:58:25 ET
+Table 'WPN_7 Day No Rathole 200/400 NLH - Limited Time' 9-max Seat #7 is the button
+Seat 3: oneplusone ($7997.50 in chips)
+Seat 7: orgi69 ($19479.74 in chips)
+orgi69: posts small blind $200.00
+oneplusone: posts big blind $400.00
+*** HOLE CARDS ***
+orgi69: calls $200.00
+oneplusone: raises $1800.00 to $2200.00
+orgi69: raises $17229.88 to $19429.88
+oneplusone: calls $5797.50 and is all-in
+Uncalled bet ($11432.38) returned to orgi69
+*** FLOP *** [4h 8d Td]
+*** TURN *** [4h 8d Td] [9h]
+*** RIVER *** [4h 8d Td 9h] [Tc]
+*** SHOW DOWN ***
+orgi69: shows [Qd Qc]
+oneplusone: shows [Ad Kh]
+orgi69 collected $15993.75 from pot
+*** SUMMARY ***
+Total pot $15995.00 | Rake $1.25
+Board [4h 8d Td 9h Tc]
+Seat 3: oneplusone (big blind) showed [Ad Kh] and lost
+Seat 7: orgi69 (button) (small blind) showed [Qd Qc] and won ($15993.75)
+
+PokerStars Hand #1509386815:  Hold'em No Limit ($200.00/$400.00 USD) - 2023/01/04 19:59:02 ET
+Table 'WPN_7 Day No Rathole 200/400 NLH - Limited Time' 9-max Seat #3 is the button
+Seat 3: oneplusone ($4000.00 in chips)
+Seat 7: orgi69 ($27475.99 in chips)
+oneplusone: posts small blind $200.00
+orgi69: posts big blind $400.00
+*** HOLE CARDS ***
+oneplusone: calls $200.00
+orgi69: checks
+*** FLOP *** [8s 8d Jd]
+orgi69: checks
+oneplusone: checks
+*** TURN *** [8s 8d Jd] [Kc]
+orgi69: checks
+oneplusone: checks
+*** RIVER *** [8s 8d Jd Kc] [Qd]
+orgi69: checks
+oneplusone: checks
+*** SHOW DOWN ***
+oneplusone: shows [Js 5c]
+orgi69: mucks hand
+oneplusone collected $798.75 from pot
+*** SUMMARY ***
+Total pot $800.00 | Rake $1.25
+Board [8s 8d Jd Kc Qd]
+Seat 3: oneplusone (button) (small blind) showed [Js 5c] and won ($798.75)
+Seat 7: orgi69 (big blind) mucked
+
+PokerStars Hand #1509387037:  Hold'em No Limit ($200.00/$400.00 USD) - 2023/01/04 19:59:28 ET
+Table 'WPN_7 Day No Rathole 200/400 NLH - Limited Time' 9-max Seat #7 is the button
+Seat 3: oneplusone ($4398.75 in chips)
+Seat 7: orgi69 ($27075.99 in chips)
+orgi69: posts small blind $200.00
+oneplusone: posts big blind $400.00
+*** HOLE CARDS ***
+orgi69: raises $9600.00 to $10000.00
+oneplusone: calls $3998.75 and is all-in
+Uncalled bet ($5601.25) returned to orgi69
+*** FLOP *** [7d 2d Tc]
+*** TURN *** [7d 2d Tc] [5h]
+*** RIVER *** [7d 2d Tc 5h] [7h]
+*** SHOW DOWN ***
+oneplusone: shows [Kh Kc]
+orgi69: shows [Ah 5d]
+oneplusone collected $8796.25 from pot
+*** SUMMARY ***
+Total pot $8797.50 | Rake $1.25
+Board [7d 2d Tc 5h 7h]
+Seat 3: oneplusone (big blind) showed [Kh Kc] and won ($8796.25)
+Seat 7: orgi69 (button) (small blind) showed [Ah 5d] and lost
+
+PokerStars Hand #1509387766:  Hold'em No Limit ($200.00/$400.00 USD) - 2023/01/04 20:00:38 ET
+Table 'WPN_7 Day No Rathole 200/400 NLH - Limited Time' 9-max Seat #7 is the button
+Seat 3: oneplusone ($9595.00 in chips)
+Seat 7: orgi69 ($21877.24 in chips)
+orgi69: posts small blind $200.00
+oneplusone: posts big blind $400.00
+*** HOLE CARDS ***
+orgi69: raises $400.00 to $800.00
+oneplusone: raises $8795.00 to $9595.00 and is all-in
+orgi69: folds
+Uncalled bet ($8795.00) returned to oneplusone
+oneplusone collected $1600.00 from pot
+oneplusone: doesn't show hand
+*** SUMMARY ***
+Total pot $1600.00 | Rake $0.00
+Seat 3: oneplusone (big blind) collected ($1600.00)
+Seat 7: orgi69 (button) (small blind) folded before Flop
+
+PokerStars Hand #1509387894:  Hold'em No Limit ($200.00/$400.00 USD) - 2023/01/04 20:00:50 ET
+Table 'WPN_7 Day No Rathole 200/400 NLH - Limited Time' 9-max Seat #3 is the button
+Seat 3: oneplusone ($10395.00 in chips)
+Seat 7: orgi69 ($21077.24 in chips)
+oneplusone: posts small blind $200.00
+orgi69: posts big blind $400.00
+*** HOLE CARDS ***
+oneplusone: raises $400.00 to $800.00
+orgi69: folds
+Uncalled bet ($400.00) returned to oneplusone
+oneplusone collected $800.00 from pot
+oneplusone: doesn't show hand
+*** SUMMARY ***
+Total pot $800.00 | Rake $0.00
+Seat 3: oneplusone (button) (small blind) collected ($800.00)
+Seat 7: orgi69 (big blind) folded before Flop
+
+PokerStars Hand #1509388038:  Hold'em No Limit ($200.00/$400.00 USD) - 2023/01/04 20:01:00 ET
+Table 'WPN_7 Day No Rathole 200/400 NLH - Limited Time' 9-max Seat #7 is the button
+Seat 3: oneplusone ($10795.00 in chips)
+Seat 7: orgi69 ($20677.24 in chips)
+orgi69: posts small blind $200.00
+oneplusone: posts big blind $400.00
+*** HOLE CARDS ***
+orgi69: raises $400.00 to $800.00
+oneplusone: raises $1400.00 to $2200.00
+orgi69: folds
+Uncalled bet ($1400.00) returned to oneplusone
+oneplusone collected $1600.00 from pot
+oneplusone: doesn't show hand
+*** SUMMARY ***
+Total pot $1600.00 | Rake $0.00
+Seat 3: oneplusone (big blind) collected ($1600.00)
+Seat 7: orgi69 (button) (small blind) folded before Flop
+
+PokerStars Hand #1509388216:  Hold'em No Limit ($200.00/$400.00 USD) - 2023/01/04 20:01:12 ET
+Table 'WPN_7 Day No Rathole 200/400 NLH - Limited Time' 9-max Seat #3 is the button
+Seat 3: oneplusone ($11595.00 in chips)
+Seat 7: orgi69 ($19877.24 in chips)
+oneplusone: posts small blind $200.00
+orgi69: posts big blind $400.00
+*** HOLE CARDS ***
+oneplusone: raises $400.00 to $800.00
+orgi69: calls $400.00
+*** FLOP *** [Jd 4h Qc]
+orgi69: checks
+oneplusone: bets $1200.00
+orgi69: calls $1200.00
+*** TURN *** [Jd 4h Qc] [4d]
+orgi69: bets $1199.62
+oneplusone: calls $1199.62
+*** RIVER *** [Jd 4h Qc 4d] [2c]
+orgi69: checks
+oneplusone: bets $8395.38 and is all-in
+orgi69: calls $8395.38
+*** SHOW DOWN ***
+orgi69: shows [Ks 4s]
+oneplusone: shows [9d 5d]
+orgi69 collected $23188.75 from pot
+*** SUMMARY ***
+Total pot $23190.00 | Rake $1.25
+Board [Jd 4h Qc 4d 2c]
+Seat 3: oneplusone (button) (small blind) showed [9d 5d] and lost
+Seat 7: orgi69 (big blind) showed [Ks 4s] and won ($23188.75)
+
+PokerStars Hand #1509389406:  Hold'em No Limit ($200.00/$400.00 USD) - 2023/01/04 20:02:16 ET
+Table 'WPN_7 Day No Rathole 200/400 NLH - Limited Time' 9-max Seat #7 is the button
+Seat 3: oneplusone ($4000.00 in chips)
+Seat 7: orgi69 ($31470.99 in chips)
+orgi69: posts small blind $200.00
+oneplusone: posts big blind $400.00
+*** HOLE CARDS ***
+orgi69: raises $9600.00 to $10000.00
+oneplusone: calls $3600.00 and is all-in
+Uncalled bet ($6000.00) returned to orgi69
+*** FLOP *** [9c 4h 7d]
+*** TURN *** [9c 4h 7d] [Ks]
+*** RIVER *** [9c 4h 7d Ks] [3s]
+*** SHOW DOWN ***
+orgi69: shows [3h As]
+oneplusone: shows [6d Ah]
+orgi69 collected $7998.75 from pot
+*** SUMMARY ***
+Total pot $8000.00 | Rake $1.25
+Board [9c 4h 7d Ks 3s]
+Seat 3: oneplusone (big blind) showed [6d Ah] and lost
+Seat 7: orgi69 (button) (small blind) showed [3h As] and won ($7998.75)
+
+PokerStars Hand #1509389749:  Hold'em No Limit ($200.00/$400.00 USD) - 2023/01/04 20:02:33 ET
+Table 'WPN_7 Day No Rathole 200/400 NLH - Limited Time' 9-max Seat #3 is the button
+Seat 3: oneplusone ($4000.00 in chips)
+Seat 7: orgi69 ($35469.74 in chips)
+oneplusone: posts small blind $200.00
+orgi69: posts big blind $400.00
+*** HOLE CARDS ***
+oneplusone: raises $3600.00 to $4000.00 and is all-in
+orgi69: calls $3600.00
+*** FLOP *** [8s 4h As]
+*** TURN *** [8s 4h As] [Td]
+*** RIVER *** [8s 4h As Td] [Kc]
+*** SHOW DOWN ***
+orgi69: shows [Ah Jd]
+oneplusone: shows [8c Jc]
+orgi69 collected $7998.75 from pot
+*** SUMMARY ***
+Total pot $8000.00 | Rake $1.25
+Board [8s 4h As Td Kc]
+Seat 3: oneplusone (button) (small blind) showed [8c Jc] and lost
+Seat 7: orgi69 (big blind) showed [Ah Jd] and won ($7998.75)
+
+PokerStars Hand #1509390068:  Hold'em No Limit ($200.00/$400.00 USD) - 2023/01/04 20:02:50 ET
+Table 'WPN_7 Day No Rathole 200/400 NLH - Limited Time' 9-max Seat #7 is the button
+Seat 3: oneplusone ($4000.00 in chips)
+Seat 7: orgi69 ($39468.49 in chips)
+orgi69: posts small blind $200.00
+oneplusone: posts big blind $400.00
+*** HOLE CARDS ***
+orgi69: raises $9600.00 to $10000.00
+oneplusone: folds
+Uncalled bet ($9600.00) returned to orgi69
+orgi69 collected $800.00 from pot
+orgi69: doesn't show hand
+*** SUMMARY ***
+Total pot $800.00 | Rake $0.00
+Seat 3: oneplusone (big blind) folded before Flop
+Seat 7: orgi69 (button) (small blind) collected ($800.00)
+
+PokerStars Hand #1509390357:  Hold'em No Limit ($200.00/$400.00 USD) - 2023/01/04 20:03:05 ET
+Table 'WPN_7 Day No Rathole 200/400 NLH - Limited Time' 9-max Seat #3 is the button
+Seat 3: oneplusone ($3600.00 in chips)
+Seat 7: orgi69 ($39868.49 in chips)
+oneplusone: posts small blind $200.00
+orgi69: posts big blind $400.00
+*** HOLE CARDS ***
+oneplusone: raises $3600.00 to $4000.00 and is all-in
+orgi69: folds
+Uncalled bet ($3600.00) returned to oneplusone
+oneplusone collected $800.00 from pot
+oneplusone: doesn't show hand
+*** SUMMARY ***
+Total pot $800.00 | Rake $0.00
+Seat 3: oneplusone (button) (small blind) collected ($800.00)
+Seat 7: orgi69 (big blind) folded before Flop
+
+PokerStars Hand #1509390646:  Hold'em No Limit ($200.00/$400.00 USD) - 2023/01/04 20:03:22 ET
+Table 'WPN_7 Day No Rathole 200/400 NLH - Limited Time' 9-max Seat #7 is the button
+Seat 3: oneplusone ($4400.00 in chips)
+Seat 7: orgi69 ($39468.49 in chips)
+orgi69: posts small blind $200.00
+oneplusone: posts big blind $400.00
+*** HOLE CARDS ***
+orgi69: calls $200.00
+oneplusone: raises $600.00 to $1000.00
+orgi69: folds
+Uncalled bet ($600.00) returned to oneplusone
+oneplusone collected $800.00 from pot
+oneplusone: doesn't show hand
+*** SUMMARY ***
+Total pot $800.00 | Rake $0.00
+Seat 3: oneplusone (big blind) collected ($800.00)
+Seat 7: orgi69 (button) (small blind) folded before Flop
+
+PokerStars Hand #1509390988:  Hold'em No Limit ($200.00/$400.00 USD) - 2023/01/04 20:03:39 ET
+Table 'WPN_7 Day No Rathole 200/400 NLH - Limited Time' 9-max Seat #3 is the button
+Seat 3: oneplusone ($4800.00 in chips)
+Seat 7: orgi69 ($39068.49 in chips)
+oneplusone: posts small blind $200.00
+orgi69: posts big blind $400.00
+*** HOLE CARDS ***
+oneplusone: calls $200.00
+orgi69: raises $800.00 to $1200.00
+oneplusone: folds
+Uncalled bet ($800.00) returned to orgi69
+orgi69 collected $800.00 from pot
+orgi69: doesn't show hand
+*** SUMMARY ***
+Total pot $800.00 | Rake $0.00
+Seat 3: oneplusone (button) (small blind) folded before Flop
+Seat 7: orgi69 (big blind) collected ($800.00)
+
+PokerStars Hand #1509391242:  Hold'em No Limit ($200.00/$400.00 USD) - 2023/01/04 20:03:53 ET
+Table 'WPN_7 Day No Rathole 200/400 NLH - Limited Time' 9-max Seat #7 is the button
+Seat 3: oneplusone ($4400.00 in chips)
+Seat 7: orgi69 ($39468.49 in chips)
+orgi69: posts small blind $200.00
+oneplusone: posts big blind $400.00
+*** HOLE CARDS ***
+orgi69: folds
+Uncalled bet ($200.00) returned to oneplusone
+oneplusone collected $400.00 from pot
+oneplusone: doesn't show hand
+*** SUMMARY ***
+Total pot $400.00 | Rake $0.00
+Seat 3: oneplusone (big blind) collected ($400.00)
+Seat 7: orgi69 (button) (small blind) folded before Flop
+
+PokerStars Hand #1509391459:  Hold'em No Limit ($200.00/$400.00 USD) - 2023/01/04 20:04:03 ET
+Table 'WPN_7 Day No Rathole 200/400 NLH - Limited Time' 9-max Seat #3 is the button
+Seat 3: oneplusone ($4600.00 in chips)
+Seat 7: orgi69 ($39268.49 in chips)
+oneplusone: posts small blind $200.00
+orgi69: posts big blind $400.00
+*** HOLE CARDS ***
+oneplusone: calls $200.00
+orgi69: checks
+*** FLOP *** [Kh Ad 3h]
+orgi69: checks
+oneplusone: bets $400.00
+orgi69: calls $400.00
+*** TURN *** [Kh Ad 3h] [6c]
+orgi69: checks
+oneplusone: bets $800.00
+orgi69: calls $800.00
+*** RIVER *** [Kh Ad 3h 6c] [9s]
+orgi69: checks
+oneplusone: checks
+*** SHOW DOWN ***
+orgi69: shows [6d Qd]
+oneplusone: mucks hand
+orgi69 collected $3198.75 from pot
+*** SUMMARY ***
+Total pot $3200.00 | Rake $1.25
+Board [Kh Ad 3h 6c 9s]
+Seat 3: oneplusone (button) (small blind) mucked
+Seat 7: orgi69 (big blind) showed [6d Qd] and won ($3198.75)
+
+PokerStars Hand #1509392387:  Hold'em No Limit ($200.00/$400.00 USD) - 2023/01/04 20:04:49 ET
+Table 'WPN_7 Day No Rathole 200/400 NLH - Limited Time' 9-max Seat #7 is the button
+Seat 3: oneplusone ($4000.00 in chips)
+Seat 7: orgi69 ($40867.24 in chips)
+orgi69: posts small blind $200.00
+oneplusone: posts big blind $400.00
+*** HOLE CARDS ***
+orgi69: folds
+Uncalled bet ($200.00) returned to oneplusone
+oneplusone collected $400.00 from pot
+oneplusone: doesn't show hand
+*** SUMMARY ***
+Total pot $400.00 | Rake $0.00
+Seat 3: oneplusone (big blind) collected ($400.00)
+Seat 7: orgi69 (button) (small blind) folded before Flop
+
+PokerStars Hand #1509392560:  Hold'em No Limit ($200.00/$400.00 USD) - 2023/01/04 20:04:57 ET
+Table 'WPN_7 Day No Rathole 200/400 NLH - Limited Time' 9-max Seat #3 is the button
+Seat 3: oneplusone ($4200.00 in chips)
+Seat 7: orgi69 ($40667.24 in chips)
+oneplusone: posts small blind $200.00
+orgi69: posts big blind $400.00
+*** HOLE CARDS ***
+oneplusone: raises $3800.00 to $4200.00 and is all-in
+orgi69: folds
+Uncalled bet ($3800.00) returned to oneplusone
+oneplusone collected $800.00 from pot
+oneplusone: doesn't show hand
+*** SUMMARY ***
+Total pot $800.00 | Rake $0.00
+Seat 3: oneplusone (button) (small blind) collected ($800.00)
+Seat 7: orgi69 (big blind) folded before Flop
+
+PokerStars Hand #1509392728:  Hold'em No Limit ($200.00/$400.00 USD) - 2023/01/04 20:05:06 ET
+Table 'WPN_7 Day No Rathole 200/400 NLH - Limited Time' 9-max Seat #7 is the button
+Seat 3: oneplusone ($4600.00 in chips)
+Seat 7: orgi69 ($40267.24 in chips)
+orgi69: posts small blind $200.00
+oneplusone: posts big blind $400.00
+*** HOLE CARDS ***
+orgi69: calls $200.00
+oneplusone: raises $4200.00 to $4600.00 and is all-in
+orgi69: folds
+Uncalled bet ($4200.00) returned to oneplusone
+oneplusone collected $800.00 from pot
+oneplusone: doesn't show hand
+*** SUMMARY ***
+Total pot $800.00 | Rake $0.00
+Seat 3: oneplusone (big blind) collected ($800.00)
+Seat 7: orgi69 (button) (small blind) folded before Flop
+
+PokerStars Hand #1509393028:  Hold'em No Limit ($200.00/$400.00 USD) - 2023/01/04 20:05:20 ET
+Table 'WPN_7 Day No Rathole 200/400 NLH - Limited Time' 9-max Seat #3 is the button
+Seat 3: oneplusone ($5000.00 in chips)
+Seat 7: orgi69 ($39867.24 in chips)
+oneplusone: posts small blind $200.00
+orgi69: posts big blind $400.00
+*** HOLE CARDS ***
+oneplusone: calls $200.00
+orgi69: raises $39467.24 to $39867.24 and is all-in
+oneplusone: calls $4600.00 and is all-in
+Uncalled bet ($34867.24) returned to orgi69
+*** FLOP *** [7s 9c Jc]
+*** TURN *** [7s 9c Jc] [3s]
+*** RIVER *** [7s 9c Jc 3s] [Ac]
+*** SHOW DOWN ***
+orgi69: shows [Qd As]
+oneplusone: shows [Ad Td]
+orgi69 collected $9998.75 from pot
+*** SUMMARY ***
+Total pot $10000.00 | Rake $1.25
+Board [7s 9c Jc 3s Ac]
+Seat 3: oneplusone (button) (small blind) showed [Ad Td] and lost
+Seat 7: orgi69 (big blind) showed [Qd As] and won ($9998.75)
+
+PokerStars Hand #1509393558:  Hold'em No Limit ($200.00/$400.00 USD) - 2023/01/04 20:05:46 ET
+Table 'WPN_7 Day No Rathole 200/400 NLH - Limited Time' 9-max Seat #7 is the button
+Seat 3: oneplusone ($4000.00 in chips)
+Seat 7: orgi69 ($44865.99 in chips)
+orgi69: posts small blind $200.00
+oneplusone: posts big blind $400.00
+*** HOLE CARDS ***
+orgi69: calls $200.00
+oneplusone: raises $600.00 to $1000.00
+orgi69: folds
+Uncalled bet ($600.00) returned to oneplusone
+oneplusone collected $800.00 from pot
+oneplusone: doesn't show hand
+*** SUMMARY ***
+Total pot $800.00 | Rake $0.00
+Seat 3: oneplusone (big blind) collected ($800.00)
+Seat 7: orgi69 (button) (small blind) folded before Flop
+
+PokerStars Hand #1509393936:  Hold'em No Limit ($200.00/$400.00 USD) - 2023/01/04 20:06:06 ET
+Table 'WPN_7 Day No Rathole 200/400 NLH - Limited Time' 9-max Seat #3 is the button
+Seat 3: oneplusone ($4400.00 in chips)
+Seat 7: orgi69 ($44465.99 in chips)
+oneplusone: posts small blind $200.00
+orgi69: posts big blind $400.00
+*** HOLE CARDS ***
+oneplusone: calls $200.00
+orgi69: checks
+*** FLOP *** [9s Qs 8c]
+orgi69: checks
+oneplusone: checks
+*** TURN *** [9s Qs 8c] [Ah]
+orgi69: checks
+oneplusone: bets $800.00
+orgi69: folds
+Uncalled bet ($800.00) returned to oneplusone
+oneplusone collected $798.75 from pot
+oneplusone: doesn't show hand
+*** SUMMARY ***
+Total pot $800.00 | Rake $1.25
+Board [9s Qs 8c Ah]
+Seat 3: oneplusone (button) (small blind) collected ($798.75)
+Seat 7: orgi69 (big blind) folded on the Turn
+
+PokerStars Hand #1509394597:  Hold'em No Limit ($200.00/$400.00 USD) - 2023/01/04 20:06:39 ET
+Table 'WPN_7 Day No Rathole 200/400 NLH - Limited Time' 9-max Seat #7 is the button
+Seat 3: oneplusone ($4798.75 in chips)
+Seat 7: orgi69 ($44065.99 in chips)
+orgi69: posts small blind $200.00
+oneplusone: posts big blind $400.00
+*** HOLE CARDS ***
+orgi69: calls $200.00
+oneplusone: checks
+*** FLOP *** [Ts 4s 4d]
+oneplusone: checks
+orgi69: bets $400.00
+oneplusone: calls $400.00
+*** TURN *** [Ts 4s 4d] [6h]
+oneplusone: checks
+orgi69: bets $800.00
+oneplusone: folds
+Uncalled bet ($800.00) returned to orgi69
+orgi69 collected $1598.75 from pot
+orgi69: doesn't show hand
+*** SUMMARY ***
+Total pot $1600.00 | Rake $1.25
+Board [Ts 4s 4d 6h]
+Seat 3: oneplusone (big blind) folded on the Turn
+Seat 7: orgi69 (button) (small blind) collected ($1598.75)
+
+PokerStars Hand #1509395537:  Hold'em No Limit ($200.00/$400.00 USD) - 2023/01/04 20:07:25 ET
+Table 'WPN_7 Day No Rathole 200/400 NLH - Limited Time' 9-max Seat #3 is the button
+Seat 3: oneplusone ($3998.75 in chips)
+Seat 7: orgi69 ($44864.74 in chips)
+oneplusone: posts small blind $200.00
+orgi69: posts big blind $400.00
+*** HOLE CARDS ***
+oneplusone: calls $200.00
+orgi69: checks
+*** FLOP *** [2c Tc 5c]
+orgi69: checks
+oneplusone: checks
+*** TURN *** [2c Tc 5c] [7d]
+orgi69: bets $527.17
+oneplusone: folds
+Uncalled bet ($527.17) returned to orgi69
+orgi69 collected $798.75 from pot
+orgi69: doesn't show hand
+*** SUMMARY ***
+Total pot $800.00 | Rake $1.25
+Board [2c Tc 5c 7d]
+Seat 3: oneplusone (button) (small blind) folded on the Turn
+Seat 7: orgi69 (big blind) collected ($798.75)
+
+PokerStars Hand #1509396331:  Hold'em No Limit ($200.00/$400.00 USD) - 2023/01/04 20:08:05 ET
+Table 'WPN_7 Day No Rathole 200/400 NLH - Limited Time' 9-max Seat #7 is the button
+Seat 3: oneplusone ($3600.00 in chips)
+Seat 7: orgi69 ($45263.49 in chips)
+orgi69: posts small blind $200.00
+oneplusone: posts big blind $400.00
+*** HOLE CARDS ***
+orgi69: raises $9600.00 to $10000.00
+oneplusone: calls $3600.00 and is all-in
+Uncalled bet ($6000.00) returned to orgi69
+*** FLOP *** [4s Qd 8c]
+*** TURN *** [4s Qd 8c] [Td]
+*** RIVER *** [4s Qd 8c Td] [5s]
+*** SHOW DOWN ***
+oneplusone: shows [Kd 7d]
+orgi69: shows [7c 9c]
+oneplusone collected $7998.75 from pot
+*** SUMMARY ***
+Total pot $8000.00 | Rake $1.25
+Board [4s Qd 8c Td 5s]
+Seat 3: oneplusone (big blind) showed [Kd 7d] and won ($7998.75)
+Seat 7: orgi69 (button) (small blind) showed [7c 9c] and lost
+
+PokerStars Hand #1509347136:  Hold'em No Limit ($200.00/$400.00 USD) - 2023/01/04 19:22:14 ET
+Table 'WPN_7 Day No Rathole 200/400 NLH - Limited Time' 9-max Seat #7 is the button
+Seat 3: oneplusone ($5456.75 in chips)
+Seat 7: HKBandit13 ($4600.00 in chips)
+Seat 8: Sabazius ($10596.50 in chips)
+Sabazius: posts small blind $200.00
+oneplusone: posts big blind $400.00
+*** HOLE CARDS ***
+HKBandit13: folds
+Sabazius: folds
+Uncalled bet ($200.00) returned to oneplusone
+oneplusone collected $400.00 from pot
+oneplusone: doesn't show hand
+*** SUMMARY ***
+Total pot $400.00 | Rake $0.00
+Seat 3: oneplusone (big blind) collected ($400.00)
+Seat 7: HKBandit13 (button) folded before Flop (didn't bet)
+Seat 8: Sabazius (small blind) folded before Flop
+
+PokerStars Hand #1509346792:  Hold'em No Limit ($200.00/$400.00 USD) - 2023/01/04 19:21:56 ET
+Table 'WPN_7 Day No Rathole 200/400 NLH - Limited Time' 9-max Seat #3 is the button
+Seat 3: oneplusone ($5456.75 in chips)
+Seat 7: HKBandit13 ($4200.00 in chips)
+Seat 8: Sabazius ($10996.50 in chips)
+HKBandit13: posts small blind $200.00
+Sabazius: posts big blind $400.00
+*** HOLE CARDS ***
+oneplusone: folds
+HKBandit13: raises $400.00 to $800.00
+Sabazius: folds
+Uncalled bet ($400.00) returned to HKBandit13
+HKBandit13 collected $800.00 from pot
+HKBandit13: doesn't show hand
+*** SUMMARY ***
+Total pot $800.00 | Rake $0.00
+Seat 3: oneplusone (button) folded before Flop (didn't bet)
+Seat 7: HKBandit13 (small blind) collected ($800.00)
+Seat 8: Sabazius (big blind) folded before Flop
+
+PokerStars Hand #1509333831:  Hold'em No Limit ($200.00/$400.00 USD) - 2023/01/04 19:10:42 ET
+Table 'WPN_7 Day No Rathole 200/400 NLH - Limited Time' 9-max Seat #3 is the button
+Seat 2: Sabazius ($11796.50 in chips)
+Seat 3: oneplusone ($4456.75 in chips)
+oneplusone: posts small blind $200.00
+Sabazius: posts big blind $400.00
+*** HOLE CARDS ***
+oneplusone: raises $4056.75 to $4456.75 and is all-in
+Sabazius: folds
+Uncalled bet ($4056.75) returned to oneplusone
+oneplusone collected $800.00 from pot
+oneplusone: doesn't show hand
+*** SUMMARY ***
+Total pot $800.00 | Rake $0.00
+Seat 2: Sabazius (big blind) folded before Flop
+Seat 3: oneplusone (button) (small blind) collected ($800.00)
+
+PokerStars Hand #1509334375:  Hold'em No Limit ($200.00/$400.00 USD) - 2023/01/04 19:11:09 ET
+Table 'WPN_7 Day No Rathole 200/400 NLH - Limited Time' 9-max Seat #2 is the button
+Seat 2: Sabazius ($11396.50 in chips)
+Seat 3: oneplusone ($4856.75 in chips)
+Seat 4: Haftbefehl ($9595.00 in chips)
+Sabazius: posts small blind $200.00
+oneplusone: posts big blind $400.00
+*** HOLE CARDS ***
+Sabazius: calls $200.00
+oneplusone: raises $4456.75 to $4856.75 and is all-in
+Sabazius: folds
+Uncalled bet ($4456.75) returned to oneplusone
+oneplusone collected $800.00 from pot
+oneplusone: doesn't show hand
+*** SUMMARY ***
+Total pot $800.00 | Rake $0.00
+Seat 2: Sabazius (button) (small blind) folded before Flop
+Seat 3: oneplusone (big blind) collected ($800.00)
+
+PokerStars Hand #1509334986:  Hold'em No Limit ($200.00/$400.00 USD) - 2023/01/04 19:11:40 ET
+Table 'WPN_7 Day No Rathole 200/400 NLH - Limited Time' 9-max Seat #2 is the button
+Seat 2: Sabazius ($10996.50 in chips)
+Seat 3: oneplusone ($5256.75 in chips)
+Seat 4: Haftbefehl ($9595.00 in chips)
+oneplusone: posts small blind $200.00
+Haftbefehl: posts big blind $400.00
+*** HOLE CARDS ***
+Sabazius: folds
+oneplusone: folds
+Uncalled bet ($200.00) returned to Haftbefehl
+Haftbefehl collected $400.00 from pot
+Haftbefehl: doesn't show hand
+*** SUMMARY ***
+Total pot $400.00 | Rake $0.00
+Seat 2: Sabazius (button) folded before Flop (didn't bet)
+Seat 3: oneplusone (small blind) folded before Flop
+Seat 4: Haftbefehl (big blind) collected ($400.00)
+
+PokerStars Hand #1509335630:  Hold'em No Limit ($200.00/$400.00 USD) - 2023/01/04 19:12:13 ET
+Table 'WPN_7 Day No Rathole 200/400 NLH - Limited Time' 9-max Seat #3 is the button
+Seat 2: Sabazius ($10996.50 in chips)
+Seat 3: oneplusone ($5056.75 in chips)
+Seat 4: Haftbefehl ($9795.00 in chips)
+Haftbefehl: posts small blind $200.00
+oneplusone: posts big blind $400.00
+*** HOLE CARDS ***
+Haftbefehl: folds
+Uncalled bet ($200.00) returned to oneplusone
+oneplusone collected $400.00 from pot
+oneplusone: doesn't show hand
+*** SUMMARY ***
+Total pot $400.00 | Rake $0.00
+Seat 3: oneplusone (button) (big blind) collected ($400.00)
+Seat 4: Haftbefehl (small blind) folded before Flop
+
+PokerStars Hand #1509336152:  Hold'em No Limit ($200.00/$400.00 USD) - 2023/01/04 19:12:39 ET
+Table 'WPN_7 Day No Rathole 200/400 NLH - Limited Time' 9-max Seat #3 is the button
+Seat 3: oneplusone ($5256.75 in chips)
+Seat 4: Haftbefehl ($9595.00 in chips)
+oneplusone: posts small blind $200.00
+Haftbefehl: posts big blind $400.00
+*** HOLE CARDS ***
+oneplusone: raises $4856.75 to $5256.75 and is all-in
+Haftbefehl: folds
+Uncalled bet ($4856.75) returned to oneplusone
+oneplusone collected $800.00 from pot
+oneplusone: doesn't show hand
+*** SUMMARY ***
+Total pot $800.00 | Rake $0.00
+Seat 3: oneplusone (button) (small blind) collected ($800.00)
+Seat 4: Haftbefehl (big blind) folded before Flop
+
+PokerStars Hand #1509124404:  Hold'em No Limit ($200.00/$400.00 USD) - 2023/01/04 14:19:48 ET
+Table 'WPN_7 Day No Rathole 200/400 NLH - Limited Time' 9-max Seat #3 is the button
+Seat 2: yourmytralala ($19765.24 in chips)
+Seat 3: oneplusone ($4656.75 in chips)
+oneplusone: posts small blind $200.00
+yourmytralala: posts big blind $400.00
+*** HOLE CARDS ***
+oneplusone: calls $200.00
+yourmytralala: raises $19365.24 to $19765.24 and is all-in
+oneplusone: folds
+Uncalled bet ($19365.24) returned to yourmytralala
+yourmytralala collected $800.00 from pot
+yourmytralala: doesn't show hand
+*** SUMMARY ***
+Total pot $800.00 | Rake $0.00
+Seat 2: yourmytralala (big blind) collected ($800.00)
+Seat 3: oneplusone (button) (small blind) folded before Flop
+
+PokerStars Hand #1509047346:  Hold'em No Limit ($200.00/$400.00 USD) - 2023/01/04 07:58:36 ET
+Table 'WPN_7 Day No Rathole 200/400 NLH - Limited Time' 9-max Seat #2 is the button
+Seat 2: Burundos254 ($31254.76 in chips)
+Seat 6: Haftbefehl ($4000.00 in chips)
+Seat 7: bigsoowoop ($40878.33 in chips)
+Haftbefehl: posts small blind $200.00
+bigsoowoop: posts big blind $400.00
+*** HOLE CARDS ***
+Burundos254: folds
+Haftbefehl: raises $3600.00 to $4000.00 and is all-in
+bigsoowoop: folds
+Uncalled bet ($3600.00) returned to Haftbefehl
+Haftbefehl collected $800.00 from pot
+Haftbefehl: doesn't show hand
+*** SUMMARY ***
+Total pot $800.00 | Rake $0.00
+Seat 2: Burundos254 (button) folded before Flop (didn't bet)
+Seat 6: Haftbefehl (small blind) collected ($800.00)
+Seat 7: bigsoowoop (big blind) folded before Flop
+
+PokerStars Hand #1509047453:  Hold'em No Limit ($200.00/$400.00 USD) - 2023/01/04 07:58:51 ET
+Table 'WPN_7 Day No Rathole 200/400 NLH - Limited Time' 9-max Seat #6 is the button
+Seat 2: Burundos254 ($31254.76 in chips)
+Seat 6: Haftbefehl ($4400.00 in chips)
+Seat 7: bigsoowoop ($40478.33 in chips)
+bigsoowoop: posts small blind $200.00
+Burundos254: posts big blind $400.00
+*** HOLE CARDS ***
+Haftbefehl: folds
+bigsoowoop: folds
+Uncalled bet ($200.00) returned to Burundos254
+Burundos254 collected $400.00 from pot
+Burundos254: doesn't show hand
+*** SUMMARY ***
+Total pot $400.00 | Rake $0.00
+Seat 2: Burundos254 (big blind) collected ($400.00)
+Seat 6: Haftbefehl (button) folded before Flop (didn't bet)
+Seat 7: bigsoowoop (small blind) folded before Flop
+
+PokerStars Hand #1509047541:  Hold'em No Limit ($200.00/$400.00 USD) - 2023/01/04 07:59:04 ET
+Table 'WPN_7 Day No Rathole 200/400 NLH - Limited Time' 9-max Seat #7 is the button
+Seat 2: Burundos254 ($31454.76 in chips)
+Seat 6: Haftbefehl ($4400.00 in chips)
+Seat 7: bigsoowoop ($40278.33 in chips)
+Burundos254: posts small blind $200.00
+Haftbefehl: posts big blind $400.00
+*** HOLE CARDS ***
+bigsoowoop: folds
+Burundos254: raises $31054.76 to $31454.76 and is all-in
+Haftbefehl: calls $4000.00 and is all-in
+Uncalled bet ($27054.76) returned to Burundos254
+*** FIRST FLOP *** [9h As 6s]
+*** FIRST TURN *** [9h As 6s] [8h]
+*** FIRST RIVER *** [9h As 6s 8h] [Ah]
+*** SECOND FLOP *** [8s 8d 7s]
+*** SECOND TURN *** [8s 8d 7s] [6c]
+*** SECOND RIVER *** [8s 8d 7s 6c] [3c]
+*** FIRST SHOW DOWN ***
+Burundos254: shows [2c 2h]
+Haftbefehl: shows [Td Js]
+Burundos254 collected $4399.13 from pot
+*** SECOND SHOW DOWN ***
+Burundos254: shows [2c 2h]
+Haftbefehl: shows [Td Js]
+Burundos254 collected $4399.12 from pot
+*** SUMMARY ***
+Total pot $8800.00 | Rake $1.75
+Hand was run twice
+FIRST Board [9h As 6s 8h Ah]
+SECOND Board [8s 8d 7s 6c 3c]
+Seat 2: Burundos254 (small blind) showed [2c 2h] and won ($4399.13), and won ($4399.12)
+Seat 6: Haftbefehl (big blind) showed [Td Js] and lost, and lost
+Seat 7: bigsoowoop (button) folded before Flop (didn't bet)
+
+PokerStars Hand #1509048438:  Hold'em No Limit ($200.00/$400.00 USD) - 2023/01/04 08:01:09 ET
+Table 'WPN_7 Day No Rathole 200/400 NLH - Limited Time' 9-max Seat #7 is the button
+Seat 2: Burundos254 ($35853.01 in chips)
+Seat 6: Haftbefehl ($4000.00 in chips)
+Seat 7: bigsoowoop ($39278.33 in chips)
+Seat 8: IdoGoats ($35507.00 in chips)
+IdoGoats: posts small blind $200.00
+Burundos254: posts big blind $400.00
+*** HOLE CARDS ***
+Haftbefehl: folds
+bigsoowoop: folds
+IdoGoats: folds
+Uncalled bet ($200.00) returned to Burundos254
+Burundos254 collected $400.00 from pot
+Burundos254: doesn't show hand
+*** SUMMARY ***
+Total pot $400.00 | Rake $0.00
+Seat 2: Burundos254 (big blind) collected ($400.00)
+Seat 6: Haftbefehl folded before Flop (didn't bet)
+Seat 7: bigsoowoop (button) folded before Flop (didn't bet)
+Seat 8: IdoGoats (small blind) folded before Flop
+
+PokerStars Hand #1509048539:  Hold'em No Limit ($200.00/$400.00 USD) - 2023/01/04 08:01:21 ET
+Table 'WPN_7 Day No Rathole 200/400 NLH - Limited Time' 9-max Seat #8 is the button
+Seat 2: Burundos254 ($36053.01 in chips)
+Seat 6: Haftbefehl ($4000.00 in chips)
+Seat 7: bigsoowoop ($39278.33 in chips)
+Seat 8: IdoGoats ($35307.00 in chips)
+Seat 9: yourmytralala ($20765.24 in chips)
+Burundos254: posts small blind $200.00
+Haftbefehl: posts big blind $400.00
+*** HOLE CARDS ***
+bigsoowoop: folds
+IdoGoats: folds
+Burundos254: raises $35653.01 to $36053.01 and is all-in
+Haftbefehl: calls $3600.00 and is all-in
+Uncalled bet ($32053.01) returned to Burundos254
+*** FIRST FLOP *** [Kc Jd Tc]
+*** FIRST TURN *** [Kc Jd Tc] [As]
+*** FIRST RIVER *** [Kc Jd Tc As] [Ad]
+*** SECOND FLOP *** [5h 2s Qc]
+*** SECOND TURN *** [5h 2s Qc] [Ah]
+*** SECOND RIVER *** [5h 2s Qc Ah] [2c]
+*** FIRST SHOW DOWN ***
+Haftbefehl: shows [8d Ac]
+Burundos254: shows [4c Ks]
+Haftbefehl collected $3998.88 from pot
+*** SECOND SHOW DOWN ***
+Haftbefehl: shows [8d Ac]
+Burundos254: shows [4c Ks]
+Haftbefehl collected $3998.87 from pot
+*** SUMMARY ***
+Total pot $8000.00 | Rake $2.25
+Hand was run twice
+FIRST Board [Kc Jd Tc As Ad]
+SECOND Board [5h 2s Qc Ah 2c]
+Seat 2: Burundos254 (small blind) showed [4c Ks] and lost, and lost
+Seat 6: Haftbefehl (big blind) showed [8d Ac] and won ($3998.88), and won ($3998.87)
+Seat 7: bigsoowoop folded before Flop (didn't bet)
+Seat 8: IdoGoats (button) folded before Flop (didn't bet)
+Seat 9: yourmytralala and lost, and lost
+
+PokerStars Hand #1509048751:  Hold'em No Limit ($200.00/$400.00 USD) - 2023/01/04 08:01:47 ET
+Table 'WPN_7 Day No Rathole 200/400 NLH - Limited Time' 9-max Seat #2 is the button
+Seat 1: Intercooler ($15915.52 in chips)
+Seat 2: Burundos254 ($32053.01 in chips)
+Seat 6: Haftbefehl ($7997.75 in chips)
+Seat 7: bigsoowoop ($39278.33 in chips)
+Seat 8: IdoGoats ($35307.00 in chips)
+Seat 9: yourmytralala ($20765.24 in chips)
+Haftbefehl: posts small blind $200.00
+bigsoowoop: posts big blind $400.00
+*** HOLE CARDS ***
+IdoGoats: folds
+Burundos254: raises $400.00 to $800.00
+Haftbefehl: folds
+bigsoowoop: folds
+Uncalled bet ($400.00) returned to Burundos254
+Burundos254 collected $1000.00 from pot
+Burundos254: doesn't show hand
+*** SUMMARY ***
+Total pot $1000.00 | Rake $0.00
+Seat 2: Burundos254 (button) collected ($1000.00)
+Seat 6: Haftbefehl (small blind) folded before Flop
+Seat 7: bigsoowoop (big blind) folded before Flop
+Seat 8: IdoGoats folded before Flop (didn't bet)
+
+PokerStars Hand #1509048930:  Hold'em No Limit ($200.00/$400.00 USD) - 2023/01/04 08:02:09 ET
+Table 'WPN_7 Day No Rathole 200/400 NLH - Limited Time' 9-max Seat #6 is the button
+Seat 2: Burundos254 ($32653.01 in chips)
+Seat 6: Haftbefehl ($7797.75 in chips)
+Seat 7: bigsoowoop ($38878.33 in chips)
+Seat 9: yourmytralala ($20765.24 in chips)
+bigsoowoop: posts small blind $200.00
+yourmytralala: posts big blind $400.00
+*** HOLE CARDS ***
+Burundos254: folds
+Haftbefehl: raises $400.00 to $800.00
+bigsoowoop: raises $1200.00 to $2000.00
+yourmytralala: folds
+Haftbefehl: raises $5797.75 to $7797.75 and is all-in
+bigsoowoop: calls $5797.75
+*** FLOP *** [3c Jc 4s]
+*** TURN *** [3c Jc 4s] [4h]
+*** RIVER *** [3c Jc 4s 4h] [Jd]
+*** SHOW DOWN ***
+bigsoowoop: shows [As Ad]
+Haftbefehl: shows [Ah Ks]
+bigsoowoop collected $15993.25 from pot
+*** SUMMARY ***
+Total pot $15995.50 | Rake $2.25
+Board [3c Jc 4s 4h Jd]
+Seat 2: Burundos254 folded before Flop (didn't bet)
+Seat 6: Haftbefehl (button) showed [Ah Ks] and lost
+Seat 7: bigsoowoop (small blind) showed [As Ad] and won ($15993.25)
+Seat 9: yourmytralala (big blind) folded before Flop
+
+PokerStars Hand #1509049415:  Hold'em No Limit ($200.00/$400.00 USD) - 2023/01/04 08:03:07 ET
+Table 'WPN_7 Day No Rathole 200/400 NLH - Limited Time' 9-max Seat #7 is the button
+Seat 2: Burundos254 ($32653.01 in chips)
+Seat 6: Haftbefehl ($4000.00 in chips)
+Seat 7: bigsoowoop ($47073.83 in chips)
+Seat 9: yourmytralala ($20365.24 in chips)
+yourmytralala: posts small blind $200.00
+Burundos254: posts big blind $400.00
+*** HOLE CARDS ***
+Haftbefehl: folds
+bigsoowoop: raises $480.00 to $880.00
+yourmytralala: folds
+Burundos254: folds
+Uncalled bet ($480.00) returned to bigsoowoop
+bigsoowoop collected $1000.00 from pot
+bigsoowoop: doesn't show hand
+*** SUMMARY ***
+Total pot $1000.00 | Rake $0.00
+Seat 2: Burundos254 (big blind) folded before Flop
+Seat 6: Haftbefehl folded before Flop (didn't bet)
+Seat 7: bigsoowoop (button) collected ($1000.00)
+Seat 9: yourmytralala (small blind) folded before Flop
+
+PokerStars Hand #1509049560:  Hold'em No Limit ($200.00/$400.00 USD) - 2023/01/04 08:03:24 ET
+Table 'WPN_7 Day No Rathole 200/400 NLH - Limited Time' 9-max Seat #9 is the button
+Seat 2: Burundos254 ($32253.01 in chips)
+Seat 6: Haftbefehl ($4000.00 in chips)
+Seat 7: bigsoowoop ($47673.83 in chips)
+Seat 9: yourmytralala ($20165.24 in chips)
+Burundos254: posts small blind $200.00
+Haftbefehl: posts big blind $400.00
+*** HOLE CARDS ***
+bigsoowoop: raises $400.00 to $800.00
+yourmytralala: folds
+Burundos254: folds
+Haftbefehl: folds
+Uncalled bet ($400.00) returned to bigsoowoop
+bigsoowoop collected $1000.00 from pot
+bigsoowoop: doesn't show hand
+*** SUMMARY ***
+Total pot $1000.00 | Rake $0.00
+Seat 2: Burundos254 (small blind) folded before Flop
+Seat 6: Haftbefehl (big blind) folded before Flop
+Seat 7: bigsoowoop collected ($1000.00)
+Seat 9: yourmytralala (button) folded before Flop (didn't bet)
+
+PokerStars Hand #1509049669:  Hold'em No Limit ($200.00/$400.00 USD) - 2023/01/04 08:03:37 ET
+Table 'WPN_7 Day No Rathole 200/400 NLH - Limited Time' 9-max Seat #2 is the button
+Seat 2: Burundos254 ($32053.01 in chips)
+Seat 6: Haftbefehl ($4000.00 in chips)
+Seat 7: bigsoowoop ($48273.83 in chips)
+Seat 9: yourmytralala ($20165.24 in chips)
+Haftbefehl: posts small blind $200.00
+Burundos254: posts big blind $400.00
+*** HOLE CARDS ***
+Haftbefehl: raises $3600.00 to $4000.00 and is all-in
+Burundos254: folds
+Uncalled bet ($3600.00) returned to Haftbefehl
+Haftbefehl collected $800.00 from pot
+Haftbefehl: doesn't show hand
+*** SUMMARY ***
+Total pot $800.00 | Rake $0.00
+Seat 2: Burundos254 (button) (big blind) folded before Flop
+Seat 6: Haftbefehl (small blind) collected ($800.00)
+
+PokerStars Hand #1509049791:  Hold'em No Limit ($200.00/$400.00 USD) - 2023/01/04 08:03:52 ET
+Table 'WPN_7 Day No Rathole 200/400 NLH - Limited Time' 9-max Seat #2 is the button
+Seat 2: Burundos254 ($31653.01 in chips)
+Seat 6: Haftbefehl ($4400.00 in chips)
+Burundos254: posts small blind $200.00
+Haftbefehl: posts big blind $400.00
+*** HOLE CARDS ***
+Burundos254: calls $200.00
+Haftbefehl: checks
+*** FLOP *** [Qd Ah Kh]
+Haftbefehl: checks
+Burundos254: bets $400.00
+Haftbefehl: calls $400.00
+*** TURN *** [Qd Ah Kh] [4s]
+Haftbefehl: checks
+Burundos254: bets $1116.00
+Haftbefehl: folds
+Uncalled bet ($1116.00) returned to Burundos254
+Burundos254 collected $1598.75 from pot
+Burundos254: doesn't show hand
+*** SUMMARY ***
+Total pot $1600.00 | Rake $1.25
+Board [Qd Ah Kh 4s]
+Seat 2: Burundos254 (button) (small blind) collected ($1598.75)
+Seat 6: Haftbefehl (big blind) folded on the Turn
+
+PokerStars Hand #1509050282:  Hold'em No Limit ($200.00/$400.00 USD) - 2023/01/04 08:04:50 ET
+Table 'WPN_7 Day No Rathole 200/400 NLH - Limited Time' 9-max Seat #6 is the button
+Seat 2: Burundos254 ($32451.76 in chips)
+Seat 6: Haftbefehl ($4000.00 in chips)
+Haftbefehl: posts small blind $200.00
+Burundos254: posts big blind $400.00
+*** HOLE CARDS ***
+Haftbefehl: calls $200.00
+Burundos254: checks
+*** FLOP *** [8d 7c As]
+Burundos254: checks
+Haftbefehl: checks
+*** TURN *** [8d 7c As] [Ad]
+Burundos254: checks
+Haftbefehl: bets $400.00
+Burundos254: calls $400.00
+*** RIVER *** [8d 7c As Ad] [5c]
+Burundos254: checks
+Haftbefehl: checks
+*** SHOW DOWN ***
+Burundos254: shows [7h 2h]
+Haftbefehl: mucks hand
+Burundos254 collected $1598.75 from pot
+*** SUMMARY ***
+Total pot $1600.00 | Rake $1.25
+Board [8d 7c As Ad 5c]
+Seat 2: Burundos254 (big blind) showed [7h 2h] and won ($1598.75)
+Seat 6: Haftbefehl (button) (small blind) mucked
+
+PokerStars Hand #1509050658:  Hold'em No Limit ($200.00/$400.00 USD) - 2023/01/04 08:05:33 ET
+Table 'WPN_7 Day No Rathole 200/400 NLH - Limited Time' 9-max Seat #2 is the button
+Seat 2: Burundos254 ($33250.51 in chips)
+Seat 6: Haftbefehl ($4000.00 in chips)
+Burundos254: posts small blind $200.00
+Haftbefehl: posts big blind $400.00
+*** HOLE CARDS ***
+Burundos254: calls $200.00
+Haftbefehl: checks
+*** FLOP *** [8s Qc 5s]
+Haftbefehl: checks
+Burundos254: bets $400.00
+Haftbefehl: calls $400.00
+*** TURN *** [8s Qc 5s] [Jh]
+Haftbefehl: checks
+Burundos254: bets $1116.00
+Haftbefehl: folds
+Uncalled bet ($1116.00) returned to Burundos254
+Burundos254 collected $1598.75 from pot
+Burundos254: doesn't show hand
+*** SUMMARY ***
+Total pot $1600.00 | Rake $1.25
+Board [8s Qc 5s Jh]
+Seat 2: Burundos254 (button) (small blind) collected ($1598.75)
+Seat 6: Haftbefehl (big blind) folded on the Turn
+
+PokerStars Hand #1509050986:  Hold'em No Limit ($200.00/$400.00 USD) - 2023/01/04 08:06:14 ET
+Table 'WPN_7 Day No Rathole 200/400 NLH - Limited Time' 9-max Seat #6 is the button
+Seat 2: Burundos254 ($34049.26 in chips)
+Seat 6: Haftbefehl ($4000.00 in chips)
+Haftbefehl: posts small blind $200.00
+Burundos254: posts big blind $400.00
+*** HOLE CARDS ***
+Haftbefehl: folds
+Uncalled bet ($200.00) returned to Burundos254
+Burundos254 collected $400.00 from pot
+Burundos254: doesn't show hand
+*** SUMMARY ***
+Total pot $400.00 | Rake $0.00
+Seat 2: Burundos254 (big blind) collected ($400.00)
+Seat 6: Haftbefehl (button) (small blind) folded before Flop
+
+PokerStars Hand #1509051050:  Hold'em No Limit ($200.00/$400.00 USD) - 2023/01/04 08:06:21 ET
+Table 'WPN_7 Day No Rathole 200/400 NLH - Limited Time' 9-max Seat #2 is the button
+Seat 2: Burundos254 ($34249.26 in chips)
+Seat 6: Haftbefehl ($4000.00 in chips)
+Burundos254: posts small blind $200.00
+Haftbefehl: posts big blind $400.00
+*** HOLE CARDS ***
+Burundos254: calls $200.00
+Haftbefehl: raises $3600.00 to $4000.00 and is all-in
+Burundos254: folds
+Uncalled bet ($3600.00) returned to Haftbefehl
+Haftbefehl collected $800.00 from pot
+Haftbefehl: doesn't show hand
+*** SUMMARY ***
+Total pot $800.00 | Rake $0.00
+Seat 2: Burundos254 (button) (small blind) folded before Flop
+Seat 6: Haftbefehl (big blind) collected ($800.00)
+
+PokerStars Hand #1509051159:  Hold'em No Limit ($200.00/$400.00 USD) - 2023/01/04 08:06:35 ET
+Table 'WPN_7 Day No Rathole 200/400 NLH - Limited Time' 9-max Seat #6 is the button
+Seat 2: Burundos254 ($33849.26 in chips)
+Seat 6: Haftbefehl ($4400.00 in chips)
+Haftbefehl: posts small blind $200.00
+Burundos254: posts big blind $400.00
+*** HOLE CARDS ***
+Haftbefehl: raises $400.00 to $800.00
+Burundos254: calls $400.00
+*** FLOP *** [9c 8c 8d]
+Burundos254: checks
+Haftbefehl: checks
+*** TURN *** [9c 8c 8d] [2d]
+Burundos254: checks
+Haftbefehl: checks
+*** RIVER *** [9c 8c 8d 2d] [5h]
+Burundos254: checks
+Haftbefehl: checks
+*** SHOW DOWN ***
+Haftbefehl: shows [Qh Kh]
+Burundos254: mucks hand
+Haftbefehl collected $1598.75 from pot
+*** SUMMARY ***
+Total pot $1600.00 | Rake $1.25
+Board [9c 8c 8d 2d 5h]
+Seat 2: Burundos254 (big blind) mucked
+Seat 6: Haftbefehl (button) (small blind) showed [Qh Kh] and won ($1598.75)
+
+PokerStars Hand #1509051482:  Hold'em No Limit ($200.00/$400.00 USD) - 2023/01/04 08:07:12 ET
+Table 'WPN_7 Day No Rathole 200/400 NLH - Limited Time' 9-max Seat #2 is the button
+Seat 2: Burundos254 ($33049.26 in chips)
+Seat 6: Haftbefehl ($5198.75 in chips)
+Burundos254: posts small blind $200.00
+Haftbefehl: posts big blind $400.00
+*** HOLE CARDS ***
+Burundos254: folds
+Uncalled bet ($200.00) returned to Haftbefehl
+Haftbefehl collected $400.00 from pot
+Haftbefehl: doesn't show hand
+*** SUMMARY ***
+Total pot $400.00 | Rake $0.00
+Seat 2: Burundos254 (button) (small blind) folded before Flop
+Seat 6: Haftbefehl (big blind) collected ($400.00)
+
+PokerStars Hand #1509051576:  Hold'em No Limit ($200.00/$400.00 USD) - 2023/01/04 08:07:23 ET
+Table 'WPN_7 Day No Rathole 200/400 NLH - Limited Time' 9-max Seat #6 is the button
+Seat 2: Burundos254 ($32849.26 in chips)
+Seat 6: Haftbefehl ($5398.75 in chips)
+Haftbefehl: posts small blind $200.00
+Burundos254: posts big blind $400.00
+*** HOLE CARDS ***
+Haftbefehl: calls $200.00
+Burundos254: checks
+*** FLOP *** [As Kh Jc]
+Burundos254: checks
+Haftbefehl: bets $600.00
+Burundos254: folds
+Uncalled bet ($600.00) returned to Haftbefehl
+Haftbefehl collected $798.75 from pot
+Haftbefehl: doesn't show hand
+*** SUMMARY ***
+Total pot $800.00 | Rake $1.25
+Board [As Kh Jc]
+Seat 2: Burundos254 (big blind) folded on the Flop
+Seat 6: Haftbefehl (button) (small blind) collected ($798.75)
+
+PokerStars Hand #1509051950:  Hold'em No Limit ($200.00/$400.00 USD) - 2023/01/04 08:08:07 ET
+Table 'WPN_7 Day No Rathole 200/400 NLH - Limited Time' 9-max Seat #2 is the button
+Seat 2: Burundos254 ($32449.26 in chips)
+Seat 6: Haftbefehl ($5797.50 in chips)
+Burundos254: posts small blind $200.00
+Haftbefehl: posts big blind $400.00
+*** HOLE CARDS ***
+Burundos254: calls $200.00
+Haftbefehl: checks
+*** FLOP *** [5h 8h 2h]
+Haftbefehl: checks
+Burundos254: bets $400.00
+Haftbefehl: raises $600.00 to $1000.00
+Burundos254: calls $600.00
+*** TURN *** [5h 8h 2h] [5s]
+Haftbefehl: checks
+Burundos254: checks
+*** RIVER *** [5h 8h 2h 5s] [4d]
+Haftbefehl: bets $924.00
+Burundos254: calls $924.00
+*** SHOW DOWN ***
+Burundos254: shows [4c 6c]
+Haftbefehl: mucks hand
+Burundos254 collected $4646.75 from pot
+*** SUMMARY ***
+Total pot $4648.00 | Rake $1.25
+Board [5h 8h 2h 5s 4d]
+Seat 2: Burundos254 (button) (small blind) showed [4c 6c] and won ($4646.75)
+Seat 6: Haftbefehl (big blind) mucked
+
+PokerStars Hand #1509052620:  Hold'em No Limit ($200.00/$400.00 USD) - 2023/01/04 08:09:27 ET
+Table 'WPN_7 Day No Rathole 200/400 NLH - Limited Time' 9-max Seat #6 is the button
+Seat 2: Burundos254 ($34772.01 in chips)
+Seat 6: Haftbefehl ($4000.00 in chips)
+Haftbefehl: posts small blind $200.00
+Burundos254: posts big blind $400.00
+*** HOLE CARDS ***
+Haftbefehl: calls $200.00
+Burundos254: checks
+*** FLOP *** [5d 9s Ts]
+Burundos254: checks
+Haftbefehl: checks
+*** TURN *** [5d 9s Ts] [4h]
+Burundos254: bets $798.75
+Haftbefehl: calls $798.75
+*** RIVER *** [5d 9s Ts 4h] [7h]
+Burundos254: bets $32620.95
+Haftbefehl: calls $2801.25 and is all-in
+Uncalled bet ($29819.70) returned to Burundos254
+*** SHOW DOWN ***
+Haftbefehl: shows [9d 4d]
+Burundos254: shows [Qh Tc]
+Haftbefehl collected $7998.75 from pot
+*** SUMMARY ***
+Total pot $8000.00 | Rake $1.25
+Board [5d 9s Ts 4h 7h]
+Seat 2: Burundos254 (big blind) showed [Qh Tc] and lost
+Seat 6: Haftbefehl (button) (small blind) showed [9d 4d] and won ($7998.75)
+
+PokerStars Hand #1509053214:  Hold'em No Limit ($200.00/$400.00 USD) - 2023/01/04 08:10:44 ET
+Table 'WPN_7 Day No Rathole 200/400 NLH - Limited Time' 9-max Seat #2 is the button
+Seat 2: Burundos254 ($30772.01 in chips)
+Seat 6: Haftbefehl ($7998.75 in chips)
+Burundos254: posts small blind $200.00
+Haftbefehl: posts big blind $400.00
+*** HOLE CARDS ***
+Burundos254: folds
+Uncalled bet ($200.00) returned to Haftbefehl
+Haftbefehl collected $400.00 from pot
+Haftbefehl: doesn't show hand
+*** SUMMARY ***
+Total pot $400.00 | Rake $0.00
+Seat 2: Burundos254 (button) (small blind) folded before Flop
+Seat 6: Haftbefehl (big blind) collected ($400.00)
+
+PokerStars Hand #1509053310:  Hold'em No Limit ($200.00/$400.00 USD) - 2023/01/04 08:10:56 ET
+Table 'WPN_7 Day No Rathole 200/400 NLH - Limited Time' 9-max Seat #6 is the button
+Seat 2: Burundos254 ($30572.01 in chips)
+Seat 6: Haftbefehl ($8198.75 in chips)
+Haftbefehl: posts small blind $200.00
+Burundos254: posts big blind $400.00
+*** HOLE CARDS ***
+Haftbefehl: raises $400.00 to $800.00
+Burundos254: calls $400.00
+*** FLOP *** [8h Qc 6c]
+Burundos254: checks
+Haftbefehl: checks
+*** TURN *** [8h Qc 6c] [2c]
+Burundos254: checks
+Haftbefehl: checks
+*** RIVER *** [8h Qc 6c 2c] [7h]
+Burundos254: checks
+Haftbefehl: checks
+*** SHOW DOWN ***
+Burundos254: shows [6h 5h]
+Haftbefehl: mucks hand
+Burundos254 collected $1598.75 from pot
+*** SUMMARY ***
+Total pot $1600.00 | Rake $1.25
+Board [8h Qc 6c 2c 7h]
+Seat 2: Burundos254 (big blind) showed [6h 5h] and won ($1598.75)
+Seat 6: Haftbefehl (button) (small blind) mucked
+
+PokerStars Hand #1509053774:  Hold'em No Limit ($200.00/$400.00 USD) - 2023/01/04 08:11:54 ET
+Table 'WPN_7 Day No Rathole 200/400 NLH - Limited Time' 9-max Seat #2 is the button
+Seat 2: Burundos254 ($31370.76 in chips)
+Seat 6: Haftbefehl ($7398.75 in chips)
+Burundos254: posts small blind $200.00
+Haftbefehl: posts big blind $400.00
+*** HOLE CARDS ***
+Burundos254: raises $400.00 to $800.00
+Haftbefehl: raises $6598.75 to $7398.75 and is all-in
+Burundos254: folds
+Uncalled bet ($6598.75) returned to Haftbefehl
+Haftbefehl collected $1600.00 from pot
+Haftbefehl: doesn't show hand
+*** SUMMARY ***
+Total pot $1600.00 | Rake $0.00
+Seat 2: Burundos254 (button) (small blind) folded before Flop
+Seat 6: Haftbefehl (big blind) collected ($1600.00)
+
+PokerStars Hand #1509053906:  Hold'em No Limit ($200.00/$400.00 USD) - 2023/01/04 08:12:10 ET
+Table 'WPN_7 Day No Rathole 200/400 NLH - Limited Time' 9-max Seat #6 is the button
+Seat 2: Burundos254 ($30570.76 in chips)
+Seat 6: Haftbefehl ($8198.75 in chips)
+Haftbefehl: posts small blind $200.00
+Burundos254: posts big blind $400.00
+*** HOLE CARDS ***
+Haftbefehl: calls $200.00
+Burundos254: checks
+*** FLOP *** [9h Ah 3h]
+Burundos254: checks
+Haftbefehl: bets $400.00
+Burundos254: folds
+Uncalled bet ($400.00) returned to Haftbefehl
+Haftbefehl collected $798.75 from pot
+Haftbefehl: doesn't show hand
+*** SUMMARY ***
+Total pot $800.00 | Rake $1.25
+Board [9h Ah 3h]
+Seat 2: Burundos254 (big blind) folded on the Flop
+Seat 6: Haftbefehl (button) (small blind) collected ($798.75)
+
+PokerStars Hand #1509054105:  Hold'em No Limit ($200.00/$400.00 USD) - 2023/01/04 08:12:36 ET
+Table 'WPN_7 Day No Rathole 200/400 NLH - Limited Time' 9-max Seat #2 is the button
+Seat 2: Burundos254 ($30170.76 in chips)
+Seat 6: Haftbefehl ($8597.50 in chips)
+Burundos254: posts small blind $200.00
+Haftbefehl: posts big blind $400.00
+*** HOLE CARDS ***
+Burundos254: raises $400.00 to $800.00
+Haftbefehl: folds
+Uncalled bet ($400.00) returned to Burundos254
+Burundos254 collected $800.00 from pot
+Burundos254: doesn't show hand
+*** SUMMARY ***
+Total pot $800.00 | Rake $0.00
+Seat 2: Burundos254 (button) (small blind) collected ($800.00)
+Seat 6: Haftbefehl (big blind) folded before Flop
+
+PokerStars Hand #1509054216:  Hold'em No Limit ($200.00/$400.00 USD) - 2023/01/04 08:12:51 ET
+Table 'WPN_7 Day No Rathole 200/400 NLH - Limited Time' 9-max Seat #6 is the button
+Seat 2: Burundos254 ($30570.76 in chips)
+Seat 6: Haftbefehl ($8197.50 in chips)
+Haftbefehl: posts small blind $200.00
+Burundos254: posts big blind $400.00
+*** HOLE CARDS ***
+Haftbefehl: calls $200.00
+Burundos254: checks
+*** FLOP *** [Qh 5c 3c]
+Burundos254: checks
+Haftbefehl: bets $600.00
+Burundos254: calls $600.00
+*** TURN *** [Qh 5c 3c] [Jd]
+Burundos254: checks
+Haftbefehl: bets $1300.00
+Burundos254: folds
+Uncalled bet ($1300.00) returned to Haftbefehl
+Haftbefehl collected $1998.75 from pot
+Haftbefehl: doesn't show hand
+*** SUMMARY ***
+Total pot $2000.00 | Rake $1.25
+Board [Qh 5c 3c Jd]
+Seat 2: Burundos254 (big blind) folded on the Turn
+Seat 6: Haftbefehl (button) (small blind) collected ($1998.75)
+
+PokerStars Hand #1509054695:  Hold'em No Limit ($200.00/$400.00 USD) - 2023/01/04 08:13:50 ET
+Table 'WPN_7 Day No Rathole 200/400 NLH - Limited Time' 9-max Seat #2 is the button
+Seat 2: Burundos254 ($29570.76 in chips)
+Seat 6: Haftbefehl ($9196.25 in chips)
+Burundos254: posts small blind $200.00
+Haftbefehl: posts big blind $400.00
+*** HOLE CARDS ***
+Burundos254: calls $200.00
+Haftbefehl: checks
+*** FLOP *** [Qc 8s 3s]
+Haftbefehl: checks
+Burundos254: bets $400.00
+Haftbefehl: folds
+Uncalled bet ($400.00) returned to Burundos254
+Burundos254 collected $798.75 from pot
+Burundos254: doesn't show hand
+*** SUMMARY ***
+Total pot $800.00 | Rake $1.25
+Board [Qc 8s 3s]
+Seat 2: Burundos254 (button) (small blind) collected ($798.75)
+Seat 6: Haftbefehl (big blind) folded on the Flop
+
+PokerStars Hand #1509054897:  Hold'em No Limit ($200.00/$400.00 USD) - 2023/01/04 08:14:13 ET
+Table 'WPN_7 Day No Rathole 200/400 NLH - Limited Time' 9-max Seat #6 is the button
+Seat 2: Burundos254 ($29969.51 in chips)
+Seat 6: Haftbefehl ($8796.25 in chips)
+Haftbefehl: posts small blind $200.00
+Burundos254: posts big blind $400.00
+*** HOLE CARDS ***
+Haftbefehl: raises $400.00 to $800.00
+Burundos254: calls $400.00
+*** FLOP *** [Jh 5h Jd]
+Burundos254: checks
+Haftbefehl: bets $400.00
+Burundos254: calls $400.00
+*** TURN *** [Jh 5h Jd] [6c]
+Burundos254: checks
+Haftbefehl: checks
+*** RIVER *** [Jh 5h Jd 6c] [Kh]
+Burundos254: checks
+Haftbefehl: bets $1600.00
+Burundos254: calls $1600.00
+*** SHOW DOWN ***
+Haftbefehl: shows [Kc Qh]
+Burundos254: mucks hand
+Haftbefehl collected $5598.75 from pot
+*** SUMMARY ***
+Total pot $5600.00 | Rake $1.25
+Board [Jh 5h Jd 6c Kh]
+Seat 2: Burundos254 (big blind) mucked
+Seat 6: Haftbefehl (button) (small blind) showed [Kc Qh] and won ($5598.75)
+
+PokerStars Hand #1509055373:  Hold'em No Limit ($200.00/$400.00 USD) - 2023/01/04 08:15:11 ET
+Table 'WPN_7 Day No Rathole 200/400 NLH - Limited Time' 9-max Seat #2 is the button
+Seat 2: Burundos254 ($27169.51 in chips)
+Seat 6: Haftbefehl ($11595.00 in chips)
+Burundos254: posts small blind $200.00
+Haftbefehl: posts big blind $400.00
+*** HOLE CARDS ***
+Burundos254: calls $200.00
+Haftbefehl: checks
+*** FLOP *** [Th Jc 7c]
+Haftbefehl: checks
+Burundos254: checks
+*** TURN *** [Th Jc 7c] [6c]
+Haftbefehl: checks
+Burundos254: bets $400.00
+Haftbefehl: calls $400.00
+*** RIVER *** [Th Jc 7c 6c] [5c]
+Haftbefehl: checks
+Burundos254: bets $1199.06
+Haftbefehl: folds
+Uncalled bet ($1199.06) returned to Burundos254
+Burundos254 collected $1598.75 from pot
+Burundos254: doesn't show hand
+*** SUMMARY ***
+Total pot $1600.00 | Rake $1.25
+Board [Th Jc 7c 6c 5c]
+Seat 2: Burundos254 (button) (small blind) collected ($1598.75)
+Seat 6: Haftbefehl (big blind) folded on the River
+
+PokerStars Hand #1509055921:  Hold'em No Limit ($200.00/$400.00 USD) - 2023/01/04 08:16:19 ET
+Table 'WPN_7 Day No Rathole 200/400 NLH - Limited Time' 9-max Seat #6 is the button
+Seat 2: Burundos254 ($27968.26 in chips)
+Seat 6: Haftbefehl ($10795.00 in chips)
+Haftbefehl: posts small blind $200.00
+Burundos254: posts big blind $400.00
+*** HOLE CARDS ***
+Haftbefehl: raises $400.00 to $800.00
+Burundos254: calls $400.00
+*** FLOP *** [3s Js 7s]
+Burundos254: checks
+Haftbefehl: bets $400.00
+Burundos254: calls $400.00
+*** TURN *** [3s Js 7s] [4c]
+Burundos254: checks
+Haftbefehl: checks
+*** RIVER *** [3s Js 7s 4c] [3d]
+Burundos254: bets $1799.06
+Haftbefehl: folds
+Uncalled bet ($1799.06) returned to Burundos254
+Burundos254 collected $2398.75 from pot
+Burundos254: doesn't show hand
+*** SUMMARY ***
+Total pot $2400.00 | Rake $1.25
+Board [3s Js 7s 4c 3d]
+Seat 2: Burundos254 (big blind) collected ($2398.75)
+Seat 6: Haftbefehl (button) (small blind) folded on the River
+
+PokerStars Hand #1509047070:  Hold'em No Limit ($200.00/$400.00 USD) - 2023/01/04 07:57:58 ET
+Table 'WPN_7 Day No Rathole 200/400 NLH - Limited Time' 9-max Seat #2 is the button
+Seat 2: Burundos254 ($25658.51 in chips)
+Seat 6: Haftbefehl ($5597.50 in chips)
+Burundos254: posts small blind $200.00
+Haftbefehl: posts big blind $400.00
+*** HOLE CARDS ***
+Burundos254: calls $200.00
+Haftbefehl: raises $5197.50 to $5597.50 and is all-in
+Burundos254: calls $5197.50
+*** FIRST FLOP *** [7s Kh Ts]
+*** FIRST TURN *** [7s Kh Ts] [5s]
+*** FIRST RIVER *** [7s Kh Ts 5s] [Js]
+*** SECOND FLOP *** [2d 2c 7c]
+*** SECOND TURN *** [2d 2c 7c] [2h]
+*** SECOND RIVER *** [2d 2c 7c 2h] [5c]
+*** FIRST SHOW DOWN ***
+Burundos254: shows [As 9s]
+Haftbefehl: shows [Kc Td]
+Burundos254 collected $5596.88 from pot
+*** SECOND SHOW DOWN ***
+Burundos254: shows [As 9s]
+Haftbefehl: shows [Kc Td]
+Burundos254 collected $5596.87 from pot
+*** SUMMARY ***
+Total pot $11195.00 | Rake $1.25
+Hand was run twice
+FIRST Board [7s Kh Ts 5s Js]
+SECOND Board [2d 2c 7c 2h 5c]
+Seat 2: Burundos254 (button) (small blind) showed [As 9s] and won ($5596.88), and won ($5596.87)
+Seat 6: Haftbefehl (big blind) showed [Kc Td] and lost, and lost
+
+PokerStars Hand #1509046222:  Hold'em No Limit ($200.00/$400.00 USD) - 2023/01/04 07:55:51 ET
+Table 'WPN_7 Day No Rathole 200/400 NLH - Limited Time' 9-max Seat #6 is the button
+Seat 2: Burundos254 ($26059.76 in chips)
+Seat 6: Haftbefehl ($5198.75 in chips)
+Haftbefehl: posts small blind $200.00
+Burundos254: posts big blind $400.00
+*** HOLE CARDS ***
+Haftbefehl: calls $200.00
+Burundos254: checks
+*** FLOP *** [9c As Ks]
+Burundos254: checks
+Haftbefehl: bets $400.00
+Burundos254: calls $400.00
+*** TURN *** [9c As Ks] [Kh]
+Burundos254: bets $400.00
+Haftbefehl: folds
+Uncalled bet ($400.00) returned to Burundos254
+Burundos254 collected $1598.75 from pot
+Burundos254: doesn't show hand
+*** SUMMARY ***
+Total pot $1600.00 | Rake $1.25
+Board [9c As Ks Kh]
+Seat 2: Burundos254 (big blind) collected ($1598.75)
+Seat 6: Haftbefehl (button) (small blind) folded on the Turn
+
+PokerStars Hand #1509046589:  Hold'em No Limit ($200.00/$400.00 USD) - 2023/01/04 07:56:44 ET
+Table 'WPN_7 Day No Rathole 200/400 NLH - Limited Time' 9-max Seat #2 is the button
+Seat 2: Burundos254 ($26858.51 in chips)
+Seat 6: Haftbefehl ($4398.75 in chips)
+Burundos254: posts small blind $200.00
+Haftbefehl: posts big blind $400.00
+*** HOLE CARDS ***
+Burundos254: calls $200.00
+Haftbefehl: raises $800.00 to $1200.00
+Burundos254: folds
+Uncalled bet ($800.00) returned to Haftbefehl
+Haftbefehl collected $800.00 from pot
+Haftbefehl: doesn't show hand
+*** SUMMARY ***
+Total pot $800.00 | Rake $0.00
+Seat 2: Burundos254 (button) (small blind) folded before Flop
+Seat 6: Haftbefehl (big blind) collected ($800.00)
+
+PokerStars Hand #1509046782:  Hold'em No Limit ($200.00/$400.00 USD) - 2023/01/04 07:57:14 ET
+Table 'WPN_7 Day No Rathole 200/400 NLH - Limited Time' 9-max Seat #6 is the button
+Seat 2: Burundos254 ($26458.51 in chips)
+Seat 6: Haftbefehl ($4798.75 in chips)
+Haftbefehl: posts small blind $200.00
+Burundos254: posts big blind $400.00
+*** HOLE CARDS ***
+Haftbefehl: raises $400.00 to $800.00
+Burundos254: calls $400.00
+*** FLOP *** [5d 4s Jd]
+Burundos254: checks
+Haftbefehl: bets $528.00
+Burundos254: folds
+Uncalled bet ($528.00) returned to Haftbefehl
+Haftbefehl collected $1598.75 from pot
+Haftbefehl: doesn't show hand
+*** SUMMARY ***
+Total pot $1600.00 | Rake $1.25
+Board [5d 4s Jd]
+Seat 2: Burundos254 (big blind) folded on the Flop
+Seat 6: Haftbefehl (button) (small blind) collected ($1598.75)
+
+PokerStars Hand #1508919603:  Hold'em No Limit ($200.00/$400.00 USD) - 2023/01/04 05:01:02 ET
+Table 'WPN_7 Day No Rathole 200/400 NLH - Limited Time' 9-max Seat #2 is the button
+Seat 2: Burundos254 ($36747.62 in chips)
+Seat 8: bigsoowoop ($32632.60 in chips)
+Burundos254: posts small blind $200.00
+bigsoowoop: posts big blind $400.00
+*** HOLE CARDS ***
+Burundos254: raises $500.00 to $900.00
+bigsoowoop: raises $3100.00 to $4000.00
+Burundos254: calls $3100.00
+*** FLOP *** [9h Js 3h]
+bigsoowoop: bets $2000.00
+Burundos254: calls $2000.00
+*** TURN *** [9h Js 3h] [4d]
+bigsoowoop: checks
+Burundos254: bets $4799.62
+bigsoowoop: folds
+Uncalled bet ($4799.62) returned to Burundos254
+Burundos254 collected $11998.75 from pot
+Burundos254: doesn't show hand
+*** SUMMARY ***
+Total pot $12000.00 | Rake $1.25
+Board [9h Js 3h 4d]
+Seat 2: Burundos254 (button) (small blind) collected ($11998.75)
+Seat 8: bigsoowoop (big blind) folded on the Turn
+
+PokerStars Hand #1508921278:  Hold'em No Limit ($200.00/$400.00 USD) - 2023/01/04 05:02:49 ET
+Table 'WPN_7 Day No Rathole 200/400 NLH - Limited Time' 9-max Seat #8 is the button
+Seat 2: Burundos254 ($42746.37 in chips)
+Seat 8: bigsoowoop ($26632.60 in chips)
+bigsoowoop: posts small blind $200.00
+Burundos254: posts big blind $400.00
+*** HOLE CARDS ***
+bigsoowoop: raises $600.00 to $1000.00
+Burundos254: folds
+Uncalled bet ($600.00) returned to bigsoowoop
+bigsoowoop collected $800.00 from pot
+bigsoowoop: doesn't show hand
+*** SUMMARY ***
+Total pot $800.00 | Rake $0.00
+Seat 2: Burundos254 (big blind) folded before Flop
+Seat 8: bigsoowoop (button) (small blind) collected ($800.00)
+
+PokerStars Hand #1508921541:  Hold'em No Limit ($200.00/$400.00 USD) - 2023/01/04 05:03:05 ET
+Table 'WPN_7 Day No Rathole 200/400 NLH - Limited Time' 9-max Seat #2 is the button
+Seat 2: Burundos254 ($42346.37 in chips)
+Seat 8: bigsoowoop ($27032.60 in chips)
+Burundos254: posts small blind $200.00
+bigsoowoop: posts big blind $400.00
+*** HOLE CARDS ***
+Burundos254: raises $500.00 to $900.00
+bigsoowoop: raises $3100.00 to $4000.00
+Burundos254: folds
+Uncalled bet ($3100.00) returned to bigsoowoop
+bigsoowoop collected $1800.00 from pot
+bigsoowoop: doesn't show hand
+*** SUMMARY ***
+Total pot $1800.00 | Rake $0.00
+Seat 2: Burundos254 (button) (small blind) folded before Flop
+Seat 8: bigsoowoop (big blind) collected ($1800.00)
+
+PokerStars Hand #1508922001:  Hold'em No Limit ($200.00/$400.00 USD) - 2023/01/04 05:03:34 ET
+Table 'WPN_7 Day No Rathole 200/400 NLH - Limited Time' 9-max Seat #8 is the button
+Seat 2: Burundos254 ($41446.37 in chips)
+Seat 8: bigsoowoop ($27932.60 in chips)
+bigsoowoop: posts small blind $200.00
+Burundos254: posts big blind $400.00
+*** HOLE CARDS ***
+bigsoowoop: raises $600.00 to $1000.00
+Burundos254: calls $600.00
+*** FLOP *** [6d 3c Qd]
+Burundos254: checks
+bigsoowoop: bets $500.00
+Burundos254: folds
+Uncalled bet ($500.00) returned to bigsoowoop
+bigsoowoop collected $1998.75 from pot
+bigsoowoop: doesn't show hand
+*** SUMMARY ***
+Total pot $2000.00 | Rake $1.25
+Board [6d 3c Qd]
+Seat 2: Burundos254 (big blind) folded on the Flop
+Seat 8: bigsoowoop (button) (small blind) collected ($1998.75)
+
+PokerStars Hand #1508922392:  Hold'em No Limit ($200.00/$400.00 USD) - 2023/01/04 05:03:57 ET
+Table 'WPN_7 Day No Rathole 200/400 NLH - Limited Time' 9-max Seat #2 is the button
+Seat 2: Burundos254 ($40446.37 in chips)
+Seat 8: bigsoowoop ($28931.35 in chips)
+Burundos254: posts small blind $200.00
+bigsoowoop: posts big blind $400.00
+*** HOLE CARDS ***
+Burundos254: raises $500.00 to $900.00
+bigsoowoop: calls $500.00
+*** FLOP *** [Qs 5s Qc]
+bigsoowoop: checks
+Burundos254: bets $539.62
+bigsoowoop: folds
+Uncalled bet ($539.62) returned to Burundos254
+Burundos254 collected $1798.75 from pot
+Burundos254: doesn't show hand
+*** SUMMARY ***
+Total pot $1800.00 | Rake $1.25
+Board [Qs 5s Qc]
+Seat 2: Burundos254 (button) (small blind) collected ($1798.75)
+Seat 8: bigsoowoop (big blind) folded on the Flop
+
+PokerStars Hand #1508923110:  Hold'em No Limit ($200.00/$400.00 USD) - 2023/01/04 05:04:40 ET
+Table 'WPN_7 Day No Rathole 200/400 NLH - Limited Time' 9-max Seat #8 is the button
+Seat 2: Burundos254 ($41345.12 in chips)
+Seat 8: bigsoowoop ($28031.35 in chips)
+bigsoowoop: posts small blind $200.00
+Burundos254: posts big blind $400.00
+*** HOLE CARDS ***
+bigsoowoop: folds
+Uncalled bet ($200.00) returned to Burundos254
+Burundos254 collected $400.00 from pot
+Burundos254: doesn't show hand
+*** SUMMARY ***
+Total pot $400.00 | Rake $0.00
+Seat 2: Burundos254 (big blind) collected ($400.00)
+Seat 8: bigsoowoop (button) (small blind) folded before Flop
+
+PokerStars Hand #1508923292:  Hold'em No Limit ($200.00/$400.00 USD) - 2023/01/04 05:04:52 ET
+Table 'WPN_7 Day No Rathole 200/400 NLH - Limited Time' 9-max Seat #2 is the button
+Seat 2: Burundos254 ($41545.12 in chips)
+Seat 8: bigsoowoop ($27831.35 in chips)
+Burundos254: posts small blind $200.00
+bigsoowoop: posts big blind $400.00
+*** HOLE CARDS ***
+Burundos254: folds
+Uncalled bet ($200.00) returned to bigsoowoop
+bigsoowoop collected $400.00 from pot
+bigsoowoop: doesn't show hand
+*** SUMMARY ***
+Total pot $400.00 | Rake $0.00
+Seat 2: Burundos254 (button) (small blind) folded before Flop
+Seat 8: bigsoowoop (big blind) collected ($400.00)
+
+PokerStars Hand #1508923572:  Hold'em No Limit ($200.00/$400.00 USD) - 2023/01/04 05:05:09 ET
+Table 'WPN_7 Day No Rathole 200/400 NLH - Limited Time' 9-max Seat #8 is the button
+Seat 2: Burundos254 ($41345.12 in chips)
+Seat 8: bigsoowoop ($28031.35 in chips)
+bigsoowoop: posts small blind $200.00
+Burundos254: posts big blind $400.00
+*** HOLE CARDS ***
+bigsoowoop: raises $600.00 to $1000.00
+Burundos254: folds
+Uncalled bet ($600.00) returned to bigsoowoop
+bigsoowoop collected $800.00 from pot
+bigsoowoop: doesn't show hand
+*** SUMMARY ***
+Total pot $800.00 | Rake $0.00
+Seat 2: Burundos254 (big blind) folded before Flop
+Seat 8: bigsoowoop (button) (small blind) collected ($800.00)
+
+PokerStars Hand #1508923899:  Hold'em No Limit ($200.00/$400.00 USD) - 2023/01/04 05:05:29 ET
+Table 'WPN_7 Day No Rathole 200/400 NLH - Limited Time' 9-max Seat #2 is the button
+Seat 2: Burundos254 ($40945.12 in chips)
+Seat 8: bigsoowoop ($28431.35 in chips)
+Burundos254: posts small blind $200.00
+bigsoowoop: posts big blind $400.00
+*** HOLE CARDS ***
+Burundos254: folds
+Uncalled bet ($200.00) returned to bigsoowoop
+bigsoowoop collected $400.00 from pot
+bigsoowoop: doesn't show hand
+*** SUMMARY ***
+Total pot $400.00 | Rake $0.00
+Seat 2: Burundos254 (button) (small blind) folded before Flop
+Seat 8: bigsoowoop (big blind) collected ($400.00)
+
+PokerStars Hand #1508924087:  Hold'em No Limit ($200.00/$400.00 USD) - 2023/01/04 05:05:40 ET
+Table 'WPN_7 Day No Rathole 200/400 NLH - Limited Time' 9-max Seat #8 is the button
+Seat 2: Burundos254 ($40745.12 in chips)
+Seat 8: bigsoowoop ($28631.35 in chips)
+bigsoowoop: posts small blind $200.00
+Burundos254: posts big blind $400.00
+*** HOLE CARDS ***
+bigsoowoop: raises $600.00 to $1000.00
+Burundos254: raises $2600.00 to $3600.00
+bigsoowoop: folds
+Uncalled bet ($2600.00) returned to Burundos254
+Burundos254 collected $2000.00 from pot
+Burundos254: doesn't show hand
+*** SUMMARY ***
+Total pot $2000.00 | Rake $0.00
+Seat 2: Burundos254 (big blind) collected ($2000.00)
+Seat 8: bigsoowoop (button) (small blind) folded before Flop
+
+PokerStars Hand #1508924691:  Hold'em No Limit ($200.00/$400.00 USD) - 2023/01/04 05:06:17 ET
+Table 'WPN_7 Day No Rathole 200/400 NLH - Limited Time' 9-max Seat #2 is the button
+Seat 2: Burundos254 ($41745.12 in chips)
+Seat 8: bigsoowoop ($27631.35 in chips)
+Burundos254: posts small blind $200.00
+bigsoowoop: posts big blind $400.00
+*** HOLE CARDS ***
+Burundos254: raises $500.00 to $900.00
+bigsoowoop: calls $500.00
+*** FLOP *** [Td 3s 6c]
+bigsoowoop: checks
+Burundos254: bets $899.37
+bigsoowoop: calls $899.37
+*** TURN *** [Td 3s 6c] [Tc]
+bigsoowoop: checks
+Burundos254: checks
+*** RIVER *** [Td 3s 6c Tc] [2h]
+bigsoowoop: bets $2375.16
+Burundos254: folds
+Uncalled bet ($2375.16) returned to bigsoowoop
+bigsoowoop collected $3597.49 from pot
+bigsoowoop: doesn't show hand
+*** SUMMARY ***
+Total pot $3598.74 | Rake $1.25
+Board [Td 3s 6c Tc 2h]
+Seat 2: Burundos254 (button) (small blind) folded on the River
+Seat 8: bigsoowoop (big blind) collected ($3597.49)
+
+PokerStars Hand #1508925965:  Hold'em No Limit ($200.00/$400.00 USD) - 2023/01/04 05:07:35 ET
+Table 'WPN_7 Day No Rathole 200/400 NLH - Limited Time' 9-max Seat #8 is the button
+Seat 2: Burundos254 ($39945.75 in chips)
+Seat 8: bigsoowoop ($29429.47 in chips)
+bigsoowoop: posts small blind $200.00
+Burundos254: posts big blind $400.00
+*** HOLE CARDS ***
+bigsoowoop: raises $600.00 to $1000.00
+Burundos254: folds
+Uncalled bet ($600.00) returned to bigsoowoop
+bigsoowoop collected $800.00 from pot
+bigsoowoop: doesn't show hand
+*** SUMMARY ***
+Total pot $800.00 | Rake $0.00
+Seat 2: Burundos254 (big blind) folded before Flop
+Seat 8: bigsoowoop (button) (small blind) collected ($800.00)
+
+PokerStars Hand #1508926341:  Hold'em No Limit ($200.00/$400.00 USD) - 2023/01/04 05:07:57 ET
+Table 'WPN_7 Day No Rathole 200/400 NLH - Limited Time' 9-max Seat #2 is the button
+Seat 2: Burundos254 ($39545.75 in chips)
+Seat 8: bigsoowoop ($29829.47 in chips)
+Burundos254: posts small blind $200.00
+bigsoowoop: posts big blind $400.00
+*** HOLE CARDS ***
+Burundos254: raises $500.00 to $900.00
+bigsoowoop: calls $500.00
+*** FLOP *** [Kc 5s 9s]
+bigsoowoop: checks
+Burundos254: checks
+*** TURN *** [Kc 5s 9s] [Qd]
+bigsoowoop: checks
+Burundos254: checks
+*** RIVER *** [Kc 5s 9s Qd] [6c]
+bigsoowoop: bets $2700.00
+Burundos254: folds
+Uncalled bet ($2700.00) returned to bigsoowoop
+bigsoowoop collected $1798.75 from pot
+bigsoowoop: doesn't show hand
+*** SUMMARY ***
+Total pot $1800.00 | Rake $1.25
+Board [Kc 5s 9s Qd 6c]
+Seat 2: Burundos254 (button) (small blind) folded on the River
+Seat 8: bigsoowoop (big blind) collected ($1798.75)
+
+PokerStars Hand #1508927852:  Hold'em No Limit ($200.00/$400.00 USD) - 2023/01/04 05:09:30 ET
+Table 'WPN_7 Day No Rathole 200/400 NLH - Limited Time' 9-max Seat #8 is the button
+Seat 2: Burundos254 ($38645.75 in chips)
+Seat 8: bigsoowoop ($30728.22 in chips)
+bigsoowoop: posts small blind $200.00
+Burundos254: posts big blind $400.00
+*** HOLE CARDS ***
+bigsoowoop: raises $600.00 to $1000.00
+Burundos254: folds
+Uncalled bet ($600.00) returned to bigsoowoop
+bigsoowoop collected $800.00 from pot
+bigsoowoop: doesn't show hand
+*** SUMMARY ***
+Total pot $800.00 | Rake $0.00
+Seat 2: Burundos254 (big blind) folded before Flop
+Seat 8: bigsoowoop (button) (small blind) collected ($800.00)
+
+PokerStars Hand #1508928119:  Hold'em No Limit ($200.00/$400.00 USD) - 2023/01/04 05:09:47 ET
+Table 'WPN_7 Day No Rathole 200/400 NLH - Limited Time' 9-max Seat #2 is the button
+Seat 2: Burundos254 ($38245.75 in chips)
+Seat 8: bigsoowoop ($31128.22 in chips)
+Burundos254: posts small blind $200.00
+bigsoowoop: posts big blind $400.00
+*** HOLE CARDS ***
+Burundos254: raises $500.00 to $900.00
+bigsoowoop: calls $500.00
+*** FLOP *** [9d 6d 8d]
+bigsoowoop: checks
+Burundos254: checks
+*** TURN *** [9d 6d 8d] [Ts]
+bigsoowoop: checks
+Burundos254: bets $899.37
+bigsoowoop: folds
+Uncalled bet ($899.37) returned to Burundos254
+Burundos254 collected $1798.75 from pot
+Burundos254: doesn't show hand
+*** SUMMARY ***
+Total pot $1800.00 | Rake $1.25
+Board [9d 6d 8d Ts]
+Seat 2: Burundos254 (button) (small blind) collected ($1798.75)
+Seat 8: bigsoowoop (big blind) folded on the Turn
+
+PokerStars Hand #1508929030:  Hold'em No Limit ($200.00/$400.00 USD) - 2023/01/04 05:10:44 ET
+Table 'WPN_7 Day No Rathole 200/400 NLH - Limited Time' 9-max Seat #8 is the button
+Seat 2: Burundos254 ($39144.50 in chips)
+Seat 8: bigsoowoop ($30228.22 in chips)
+bigsoowoop: posts small blind $200.00
+Burundos254: posts big blind $400.00
+*** HOLE CARDS ***
+bigsoowoop: raises $600.00 to $1000.00
+Burundos254: calls $600.00
+*** FLOP *** [Ah Js 3s]
+Burundos254: checks
+bigsoowoop: bets $1500.00
+Burundos254: folds
+Uncalled bet ($1500.00) returned to bigsoowoop
+bigsoowoop collected $1998.75 from pot
+bigsoowoop: doesn't show hand
+*** SUMMARY ***
+Total pot $2000.00 | Rake $1.25
+Board [Ah Js 3s]
+Seat 2: Burundos254 (big blind) folded on the Flop
+Seat 8: bigsoowoop (button) (small blind) collected ($1998.75)
+
+PokerStars Hand #1508929666:  Hold'em No Limit ($200.00/$400.00 USD) - 2023/01/04 05:11:23 ET
+Table 'WPN_7 Day No Rathole 200/400 NLH - Limited Time' 9-max Seat #2 is the button
+Seat 2: Burundos254 ($38144.50 in chips)
+Seat 8: bigsoowoop ($31226.97 in chips)
+Burundos254: posts small blind $200.00
+bigsoowoop: posts big blind $400.00
+*** HOLE CARDS ***
+Burundos254: folds
+Uncalled bet ($200.00) returned to bigsoowoop
+bigsoowoop collected $400.00 from pot
+bigsoowoop: doesn't show hand
+*** SUMMARY ***
+Total pot $400.00 | Rake $0.00
+Seat 2: Burundos254 (button) (small blind) folded before Flop
+Seat 8: bigsoowoop (big blind) collected ($400.00)
+
+PokerStars Hand #1508929845:  Hold'em No Limit ($200.00/$400.00 USD) - 2023/01/04 05:11:35 ET
+Table 'WPN_7 Day No Rathole 200/400 NLH - Limited Time' 9-max Seat #8 is the button
+Seat 2: Burundos254 ($37944.50 in chips)
+Seat 8: bigsoowoop ($31426.97 in chips)
+bigsoowoop: posts small blind $200.00
+Burundos254: posts big blind $400.00
+*** HOLE CARDS ***
+bigsoowoop: raises $600.00 to $1000.00
+Burundos254: raises $2600.00 to $3600.00
+bigsoowoop: folds
+Uncalled bet ($2600.00) returned to Burundos254
+Burundos254 collected $2000.00 from pot
+Burundos254: doesn't show hand
+*** SUMMARY ***
+Total pot $2000.00 | Rake $0.00
+Seat 2: Burundos254 (big blind) collected ($2000.00)
+Seat 8: bigsoowoop (button) (small blind) folded before Flop
+
+PokerStars Hand #1508930154:  Hold'em No Limit ($200.00/$400.00 USD) - 2023/01/04 05:11:55 ET
+Table 'WPN_7 Day No Rathole 200/400 NLH - Limited Time' 9-max Seat #2 is the button
+Seat 2: Burundos254 ($38944.50 in chips)
+Seat 8: bigsoowoop ($30426.97 in chips)
+Burundos254: posts small blind $200.00
+bigsoowoop: posts big blind $400.00
+*** HOLE CARDS ***
+Burundos254: raises $500.00 to $900.00
+bigsoowoop: calls $500.00
+*** FLOP *** [3d Js 6s]
+bigsoowoop: checks
+Burundos254: bets $899.37
+bigsoowoop: folds
+Uncalled bet ($899.37) returned to Burundos254
+Burundos254 collected $1798.75 from pot
+Burundos254: doesn't show hand
+*** SUMMARY ***
+Total pot $1800.00 | Rake $1.25
+Board [3d Js 6s]
+Seat 2: Burundos254 (button) (small blind) collected ($1798.75)
+Seat 8: bigsoowoop (big blind) folded on the Flop
+
+PokerStars Hand #1508930697:  Hold'em No Limit ($200.00/$400.00 USD) - 2023/01/04 05:12:28 ET
+Table 'WPN_7 Day No Rathole 200/400 NLH - Limited Time' 9-max Seat #8 is the button
+Seat 2: Burundos254 ($39843.25 in chips)
+Seat 8: bigsoowoop ($29526.97 in chips)
+bigsoowoop: posts small blind $200.00
+Burundos254: posts big blind $400.00
+*** HOLE CARDS ***
+bigsoowoop: folds
+Uncalled bet ($200.00) returned to Burundos254
+Burundos254 collected $400.00 from pot
+Burundos254: doesn't show hand
+*** SUMMARY ***
+Total pot $400.00 | Rake $0.00
+Seat 2: Burundos254 (big blind) collected ($400.00)
+Seat 8: bigsoowoop (button) (small blind) folded before Flop
+
+PokerStars Hand #1508930867:  Hold'em No Limit ($200.00/$400.00 USD) - 2023/01/04 05:12:37 ET
+Table 'WPN_7 Day No Rathole 200/400 NLH - Limited Time' 9-max Seat #2 is the button
+Seat 2: Burundos254 ($40043.25 in chips)
+Seat 8: bigsoowoop ($29326.97 in chips)
+Burundos254: posts small blind $200.00
+bigsoowoop: posts big blind $400.00
+*** HOLE CARDS ***
+Burundos254: raises $500.00 to $900.00
+bigsoowoop: calls $500.00
+*** FLOP *** [Ah 3s Ts]
+bigsoowoop: checks
+Burundos254: bets $539.62
+bigsoowoop: calls $539.62
+*** TURN *** [Ah 3s Ts] [4h]
+bigsoowoop: checks
+Burundos254: checks
+*** RIVER *** [Ah 3s Ts 4h] [8d]
+bigsoowoop: bets $719.81
+Burundos254: folds
+Uncalled bet ($719.81) returned to bigsoowoop
+bigsoowoop collected $2877.99 from pot
+bigsoowoop: doesn't show hand
+*** SUMMARY ***
+Total pot $2879.24 | Rake $1.25
+Board [Ah 3s Ts 4h 8d]
+Seat 2: Burundos254 (button) (small blind) folded on the River
+Seat 8: bigsoowoop (big blind) collected ($2877.99)
+
+PokerStars Hand #1508932008:  Hold'em No Limit ($200.00/$400.00 USD) - 2023/01/04 05:13:50 ET
+Table 'WPN_7 Day No Rathole 200/400 NLH - Limited Time' 9-max Seat #8 is the button
+Seat 2: Burundos254 ($38603.63 in chips)
+Seat 5: orgi69 ($16628.11 in chips)
+Seat 8: bigsoowoop ($30765.34 in chips)
+bigsoowoop: posts small blind $200.00
+Burundos254: posts big blind $400.00
+*** HOLE CARDS ***
+bigsoowoop: raises $600.00 to $1000.00
+Burundos254: folds
+Uncalled bet ($600.00) returned to bigsoowoop
+bigsoowoop collected $800.00 from pot
+bigsoowoop: doesn't show hand
+*** SUMMARY ***
+Total pot $800.00 | Rake $0.00
+Seat 2: Burundos254 (big blind) folded before Flop
+Seat 8: bigsoowoop (button) (small blind) collected ($800.00)
+
+PokerStars Hand #1508932227:  Hold'em No Limit ($200.00/$400.00 USD) - 2023/01/04 05:14:04 ET
+Table 'WPN_7 Day No Rathole 200/400 NLH - Limited Time' 9-max Seat #8 is the button
+Seat 2: Burundos254 ($38203.63 in chips)
+Seat 5: orgi69 ($16628.11 in chips)
+Seat 8: bigsoowoop ($31165.34 in chips)
+Burundos254: posts small blind $200.00
+orgi69: posts big blind $400.00
+*** HOLE CARDS ***
+bigsoowoop: folds
+Burundos254: folds
+Uncalled bet ($200.00) returned to orgi69
+orgi69 collected $400.00 from pot
+orgi69: doesn't show hand
+*** SUMMARY ***
+Total pot $400.00 | Rake $0.00
+Seat 2: Burundos254 (small blind) folded before Flop
+Seat 5: orgi69 (big blind) collected ($400.00)
+Seat 8: bigsoowoop (button) folded before Flop (didn't bet)
+
+PokerStars Hand #1508932420:  Hold'em No Limit ($200.00/$400.00 USD) - 2023/01/04 05:14:16 ET
+Table 'WPN_7 Day No Rathole 200/400 NLH - Limited Time' 9-max Seat #2 is the button
+Seat 2: Burundos254 ($38003.63 in chips)
+Seat 5: orgi69 ($16828.11 in chips)
+Seat 8: bigsoowoop ($31165.34 in chips)
+orgi69: posts small blind $200.00
+bigsoowoop: posts big blind $400.00
+*** HOLE CARDS ***
+Burundos254: folds
+orgi69: raises $800.00 to $1200.00
+bigsoowoop: calls $800.00
+*** FLOP *** [6h Ad Th]
+orgi69: bets $600.00
+bigsoowoop: calls $600.00
+*** TURN *** [6h Ad Th] [Jc]
+orgi69: checks
+bigsoowoop: checks
+*** RIVER *** [6h Ad Th Jc] [Ts]
+orgi69: checks
+bigsoowoop: checks
+*** SHOW DOWN ***
+orgi69: shows [6d 7d]
+bigsoowoop: shows [6c Kd]
+orgi69 collected $1799.13 from pot
+bigsoowoop collected $1799.12 from pot
+*** SUMMARY ***
+Total pot $3600.00 | Rake $1.75
+Board [6h Ad Th Jc Ts]
+Seat 2: Burundos254 (button) folded before Flop (didn't bet)
+Seat 5: orgi69 (small blind) showed [6d 7d] and won ($1799.13)
+Seat 8: bigsoowoop (big blind) showed [6c Kd] and won ($1799.12)
+
+PokerStars Hand #1508933424:  Hold'em No Limit ($200.00/$400.00 USD) - 2023/01/04 05:15:20 ET
+Table 'WPN_7 Day No Rathole 200/400 NLH - Limited Time' 9-max Seat #5 is the button
+Seat 2: Burundos254 ($38003.63 in chips)
+Seat 5: orgi69 ($16827.24 in chips)
+Seat 8: bigsoowoop ($31164.46 in chips)
+bigsoowoop: posts small blind $200.00
+Burundos254: posts big blind $400.00
+*** HOLE CARDS ***
+orgi69: raises $400.00 to $800.00
+bigsoowoop: folds
+Burundos254: calls $400.00
+*** FLOP *** [Th 9d 9h]
+Burundos254: checks
+orgi69: bets $539.47
+Burundos254: folds
+Uncalled bet ($539.47) returned to orgi69
+orgi69 collected $1798.25 from pot
+orgi69: doesn't show hand
+*** SUMMARY ***
+Total pot $1800.00 | Rake $1.75
+Board [Th 9d 9h]
+Seat 2: Burundos254 (big blind) folded on the Flop
+Seat 5: orgi69 (button) collected ($1798.25)
+Seat 8: bigsoowoop (small blind) folded before Flop
+
+PokerStars Hand #1508934336:  Hold'em No Limit ($200.00/$400.00 USD) - 2023/01/04 05:16:15 ET
+Table 'WPN_7 Day No Rathole 200/400 NLH - Limited Time' 9-max Seat #8 is the button
+Seat 2: Burundos254 ($37203.63 in chips)
+Seat 5: orgi69 ($17825.49 in chips)
+Seat 8: bigsoowoop ($30964.46 in chips)
+Burundos254: posts small blind $200.00
+bigsoowoop: posts big blind $400.00
+*** HOLE CARDS ***
+Burundos254: folds
+Uncalled bet ($200.00) returned to bigsoowoop
+bigsoowoop collected $400.00 from pot
+bigsoowoop: doesn't show hand
+*** SUMMARY ***
+Total pot $400.00 | Rake $0.00
+Seat 2: Burundos254 (small blind) folded before Flop
+Seat 8: bigsoowoop (button) (big blind) collected ($400.00)
+
+PokerStars Hand #1508934561:  Hold'em No Limit ($200.00/$400.00 USD) - 2023/01/04 05:16:29 ET
+Table 'WPN_7 Day No Rathole 200/400 NLH - Limited Time' 9-max Seat #8 is the button
+Seat 2: Burundos254 ($37003.63 in chips)
+Seat 8: bigsoowoop ($31164.46 in chips)
+bigsoowoop: posts small blind $200.00
+Burundos254: posts big blind $400.00
+*** HOLE CARDS ***
+bigsoowoop: raises $600.00 to $1000.00
+Burundos254: folds
+Uncalled bet ($600.00) returned to bigsoowoop
+bigsoowoop collected $800.00 from pot
+bigsoowoop: doesn't show hand
+*** SUMMARY ***
+Total pot $800.00 | Rake $0.00
+Seat 2: Burundos254 (big blind) folded before Flop
+Seat 8: bigsoowoop (button) (small blind) collected ($800.00)
+
+PokerStars Hand #1508934808:  Hold'em No Limit ($200.00/$400.00 USD) - 2023/01/04 05:16:45 ET
+Table 'WPN_7 Day No Rathole 200/400 NLH - Limited Time' 9-max Seat #2 is the button
+Seat 2: Burundos254 ($36603.63 in chips)
+Seat 8: bigsoowoop ($31564.46 in chips)
+Burundos254: posts small blind $200.00
+bigsoowoop: posts big blind $400.00
+*** HOLE CARDS ***
+Burundos254: raises $500.00 to $900.00
+bigsoowoop: folds
+Uncalled bet ($500.00) returned to Burundos254
+Burundos254 collected $800.00 from pot
+Burundos254: doesn't show hand
+*** SUMMARY ***
+Total pot $800.00 | Rake $0.00
+Seat 2: Burundos254 (button) (small blind) collected ($800.00)
+Seat 8: bigsoowoop (big blind) folded before Flop
+
+PokerStars Hand #1508935197:  Hold'em No Limit ($200.00/$400.00 USD) - 2023/01/04 05:17:09 ET
+Table 'WPN_7 Day No Rathole 200/400 NLH - Limited Time' 9-max Seat #8 is the button
+Seat 2: Burundos254 ($37003.63 in chips)
+Seat 8: bigsoowoop ($31164.46 in chips)
+bigsoowoop: posts small blind $200.00
+Burundos254: posts big blind $400.00
+*** HOLE CARDS ***
+bigsoowoop: folds
+Uncalled bet ($200.00) returned to Burundos254
+Burundos254 collected $400.00 from pot
+Burundos254: doesn't show hand
+*** SUMMARY ***
+Total pot $400.00 | Rake $0.00
+Seat 2: Burundos254 (big blind) collected ($400.00)
+Seat 8: bigsoowoop (button) (small blind) folded before Flop
+
+PokerStars Hand #1508935371:  Hold'em No Limit ($200.00/$400.00 USD) - 2023/01/04 05:17:20 ET
+Table 'WPN_7 Day No Rathole 200/400 NLH - Limited Time' 9-max Seat #2 is the button
+Seat 2: Burundos254 ($37203.63 in chips)
+Seat 8: bigsoowoop ($30964.46 in chips)
+Burundos254: posts small blind $200.00
+bigsoowoop: posts big blind $400.00
+*** HOLE CARDS ***
+Burundos254: raises $500.00 to $900.00
+bigsoowoop: folds
+Uncalled bet ($500.00) returned to Burundos254
+Burundos254 collected $800.00 from pot
+Burundos254: doesn't show hand
+*** SUMMARY ***
+Total pot $800.00 | Rake $0.00
+Seat 2: Burundos254 (button) (small blind) collected ($800.00)
+Seat 8: bigsoowoop (big blind) folded before Flop
+
+PokerStars Hand #1508935637:  Hold'em No Limit ($200.00/$400.00 USD) - 2023/01/04 05:17:36 ET
+Table 'WPN_7 Day No Rathole 200/400 NLH - Limited Time' 9-max Seat #8 is the button
+Seat 2: Burundos254 ($37603.63 in chips)
+Seat 8: bigsoowoop ($30564.46 in chips)
+bigsoowoop: posts small blind $200.00
+Burundos254: posts big blind $400.00
+*** HOLE CARDS ***
+bigsoowoop: raises $600.00 to $1000.00
+Burundos254: calls $600.00
+*** FLOP *** [4c 6c Ad]
+Burundos254: checks
+bigsoowoop: bets $1500.00
+Burundos254: folds
+Uncalled bet ($1500.00) returned to bigsoowoop
+bigsoowoop collected $1998.75 from pot
+bigsoowoop: doesn't show hand
+*** SUMMARY ***
+Total pot $2000.00 | Rake $1.25
+Board [4c 6c Ad]
+Seat 2: Burundos254 (big blind) folded on the Flop
+Seat 8: bigsoowoop (button) (small blind) collected ($1998.75)
+
+PokerStars Hand #1508936158:  Hold'em No Limit ($200.00/$400.00 USD) - 2023/01/04 05:18:10 ET
+Table 'WPN_7 Day No Rathole 200/400 NLH - Limited Time' 9-max Seat #2 is the button
+Seat 2: Burundos254 ($36603.63 in chips)
+Seat 8: bigsoowoop ($31563.21 in chips)
+Burundos254: posts small blind $200.00
+bigsoowoop: posts big blind $400.00
+*** HOLE CARDS ***
+Burundos254: raises $500.00 to $900.00
+bigsoowoop: folds
+Uncalled bet ($500.00) returned to Burundos254
+Burundos254 collected $800.00 from pot
+Burundos254: doesn't show hand
+*** SUMMARY ***
+Total pot $800.00 | Rake $0.00
+Seat 2: Burundos254 (button) (small blind) collected ($800.00)
+Seat 8: bigsoowoop (big blind) folded before Flop
+
+PokerStars Hand #1508936422:  Hold'em No Limit ($200.00/$400.00 USD) - 2023/01/04 05:18:27 ET
+Table 'WPN_7 Day No Rathole 200/400 NLH - Limited Time' 9-max Seat #8 is the button
+Seat 2: Burundos254 ($37003.63 in chips)
+Seat 8: bigsoowoop ($31163.21 in chips)
+bigsoowoop: posts small blind $200.00
+Burundos254: posts big blind $400.00
+*** HOLE CARDS ***
+bigsoowoop: raises $600.00 to $1000.00
+Burundos254: folds
+Uncalled bet ($600.00) returned to bigsoowoop
+bigsoowoop collected $800.00 from pot
+bigsoowoop: doesn't show hand
+*** SUMMARY ***
+Total pot $800.00 | Rake $0.00
+Seat 2: Burundos254 (big blind) folded before Flop
+Seat 8: bigsoowoop (button) (small blind) collected ($800.00)
+
+PokerStars Hand #1508936789:  Hold'em No Limit ($200.00/$400.00 USD) - 2023/01/04 05:18:49 ET
+Table 'WPN_7 Day No Rathole 200/400 NLH - Limited Time' 9-max Seat #2 is the button
+Seat 2: Burundos254 ($36603.63 in chips)
+Seat 8: bigsoowoop ($31563.21 in chips)
+Burundos254: posts small blind $200.00
+bigsoowoop: posts big blind $400.00
+*** HOLE CARDS ***
+Burundos254: raises $500.00 to $900.00
+bigsoowoop: calls $500.00
+*** FLOP *** [Kd 6h Qs]
+bigsoowoop: checks
+Burundos254: bets $539.62
+bigsoowoop: calls $539.62
+*** TURN *** [Kd 6h Qs] [8h]
+bigsoowoop: checks
+Burundos254: checks
+*** RIVER *** [Kd 6h Qs 8h] [Tc]
+bigsoowoop: checks
+Burundos254: checks
+*** SHOW DOWN ***
+bigsoowoop: shows [Qh Td]
+Burundos254: mucks hand
+bigsoowoop collected $2877.99 from pot
+*** SUMMARY ***
+Total pot $2879.24 | Rake $1.25
+Board [Kd 6h Qs 8h Tc]
+Seat 2: Burundos254 (button) (small blind) mucked
+Seat 8: bigsoowoop (big blind) showed [Qh Td] and won ($2877.99)
+
+PokerStars Hand #1508938116:  Hold'em No Limit ($200.00/$400.00 USD) - 2023/01/04 05:20:18 ET
+Table 'WPN_7 Day No Rathole 200/400 NLH - Limited Time' 9-max Seat #8 is the button
+Seat 2: Burundos254 ($35164.01 in chips)
+Seat 8: bigsoowoop ($33001.58 in chips)
+bigsoowoop: posts small blind $200.00
+Burundos254: posts big blind $400.00
+*** HOLE CARDS ***
+bigsoowoop: raises $600.00 to $1000.00
+Burundos254: calls $600.00
+*** FLOP *** [8s Kc Qh]
+Burundos254: checks
+bigsoowoop: bets $500.00
+Burundos254: folds
+Uncalled bet ($500.00) returned to bigsoowoop
+bigsoowoop collected $1998.75 from pot
+bigsoowoop: doesn't show hand
+*** SUMMARY ***
+Total pot $2000.00 | Rake $1.25
+Board [8s Kc Qh]
+Seat 2: Burundos254 (big blind) folded on the Flop
+Seat 8: bigsoowoop (button) (small blind) collected ($1998.75)
+
+PokerStars Hand #1508942900:  Hold'em No Limit ($200.00/$400.00 USD) - 2023/01/04 05:25:37 ET
+Table 'WPN_7 Day No Rathole 200/400 NLH - Limited Time' 9-max Seat #2 is the button
+Seat 2: Burundos254 ($34164.01 in chips)
+Seat 8: bigsoowoop ($34000.33 in chips)
+Burundos254: posts small blind $200.00
+bigsoowoop: posts big blind $400.00
+*** HOLE CARDS ***
+Burundos254: folds
+Uncalled bet ($200.00) returned to bigsoowoop
+bigsoowoop collected $400.00 from pot
+bigsoowoop: doesn't show hand
+*** SUMMARY ***
+Total pot $400.00 | Rake $0.00
+Seat 2: Burundos254 (button) (small blind) folded before Flop
+Seat 8: bigsoowoop (big blind) collected ($400.00)
+
+PokerStars Hand #1508943082:  Hold'em No Limit ($200.00/$400.00 USD) - 2023/01/04 05:25:50 ET
+Table 'WPN_7 Day No Rathole 200/400 NLH - Limited Time' 9-max Seat #8 is the button
+Seat 2: Burundos254 ($33964.01 in chips)
+Seat 8: bigsoowoop ($34200.33 in chips)
+bigsoowoop: posts small blind $200.00
+Burundos254: posts big blind $400.00
+*** HOLE CARDS ***
+bigsoowoop: raises $600.00 to $1000.00
+Burundos254: raises $2600.00 to $3600.00
+bigsoowoop: folds
+Uncalled bet ($2600.00) returned to Burundos254
+Burundos254 collected $2000.00 from pot
+Burundos254: doesn't show hand
+*** SUMMARY ***
+Total pot $2000.00 | Rake $0.00
+Seat 2: Burundos254 (big blind) collected ($2000.00)
+Seat 8: bigsoowoop (button) (small blind) folded before Flop
+
+PokerStars Hand #1508943399:  Hold'em No Limit ($200.00/$400.00 USD) - 2023/01/04 05:26:10 ET
+Table 'WPN_7 Day No Rathole 200/400 NLH - Limited Time' 9-max Seat #2 is the button
+Seat 2: Burundos254 ($34964.01 in chips)
+Seat 8: bigsoowoop ($33200.33 in chips)
+Burundos254: posts small blind $200.00
+bigsoowoop: posts big blind $400.00
+*** HOLE CARDS ***
+Burundos254: raises $500.00 to $900.00
+bigsoowoop: calls $500.00
+*** FLOP *** [Jh Kc Ks]
+bigsoowoop: checks
+Burundos254: bets $448.00
+bigsoowoop: folds
+Uncalled bet ($448.00) returned to Burundos254
+Burundos254 collected $1798.75 from pot
+Burundos254: doesn't show hand
+*** SUMMARY ***
+Total pot $1800.00 | Rake $1.25
+Board [Jh Kc Ks]
+Seat 2: Burundos254 (button) (small blind) collected ($1798.75)
+Seat 8: bigsoowoop (big blind) folded on the Flop
+
+PokerStars Hand #1508943939:  Hold'em No Limit ($200.00/$400.00 USD) - 2023/01/04 05:26:47 ET
+Table 'WPN_7 Day No Rathole 200/400 NLH - Limited Time' 9-max Seat #8 is the button
+Seat 2: Burundos254 ($35862.76 in chips)
+Seat 8: bigsoowoop ($32300.33 in chips)
+bigsoowoop: posts small blind $200.00
+Burundos254: posts big blind $400.00
+*** HOLE CARDS ***
+bigsoowoop: raises $600.00 to $1000.00
+Burundos254: raises $2600.00 to $3600.00
+bigsoowoop: folds
+Uncalled bet ($2600.00) returned to Burundos254
+Burundos254 collected $2000.00 from pot
+Burundos254: doesn't show hand
+*** SUMMARY ***
+Total pot $2000.00 | Rake $0.00
+Seat 2: Burundos254 (big blind) collected ($2000.00)
+Seat 8: bigsoowoop (button) (small blind) folded before Flop
+
+PokerStars Hand #1508944425:  Hold'em No Limit ($200.00/$400.00 USD) - 2023/01/04 05:27:21 ET
+Table 'WPN_7 Day No Rathole 200/400 NLH - Limited Time' 9-max Seat #2 is the button
+Seat 2: Burundos254 ($36862.76 in chips)
+Seat 8: bigsoowoop ($31300.33 in chips)
+Burundos254: posts small blind $200.00
+bigsoowoop: posts big blind $400.00
+*** HOLE CARDS ***
+Burundos254: folds
+Uncalled bet ($200.00) returned to bigsoowoop
+bigsoowoop collected $400.00 from pot
+bigsoowoop: doesn't show hand
+*** SUMMARY ***
+Total pot $400.00 | Rake $0.00
+Seat 2: Burundos254 (button) (small blind) folded before Flop
+Seat 8: bigsoowoop (big blind) collected ($400.00)
+
+PokerStars Hand #1508944694:  Hold'em No Limit ($200.00/$400.00 USD) - 2023/01/04 05:27:39 ET
+Table 'WPN_7 Day No Rathole 200/400 NLH - Limited Time' 9-max Seat #8 is the button
+Seat 2: Burundos254 ($36662.76 in chips)
+Seat 8: bigsoowoop ($31500.33 in chips)
+bigsoowoop: posts small blind $200.00
+Burundos254: posts big blind $400.00
+*** HOLE CARDS ***
+bigsoowoop: raises $600.00 to $1000.00
+Burundos254: raises $2600.00 to $3600.00
+bigsoowoop: folds
+Uncalled bet ($2600.00) returned to Burundos254
+Burundos254 collected $2000.00 from pot
+Burundos254: doesn't show hand
+*** SUMMARY ***
+Total pot $2000.00 | Rake $0.00
+Seat 2: Burundos254 (big blind) collected ($2000.00)
+Seat 8: bigsoowoop (button) (small blind) folded before Flop
+
+PokerStars Hand #1508945054:  Hold'em No Limit ($200.00/$400.00 USD) - 2023/01/04 05:28:04 ET
+Table 'WPN_7 Day No Rathole 200/400 NLH - Limited Time' 9-max Seat #2 is the button
+Seat 2: Burundos254 ($37662.76 in chips)
+Seat 8: bigsoowoop ($30500.33 in chips)
+Burundos254: posts small blind $200.00
+bigsoowoop: posts big blind $400.00
+*** HOLE CARDS ***
+Burundos254: raises $500.00 to $900.00
+bigsoowoop: calls $500.00
+*** FLOP *** [8h 5d 8s]
+bigsoowoop: checks
+Burundos254: bets $539.62
+bigsoowoop: raises $1864.38 to $2404.00
+Burundos254: calls $1864.38
+*** TURN *** [8h 5d 8s] [5c]
+bigsoowoop: bets $5286.40
+Burundos254: folds
+Uncalled bet ($5286.40) returned to bigsoowoop
+bigsoowoop collected $6606.75 from pot
+bigsoowoop: doesn't show hand
+*** SUMMARY ***
+Total pot $6608.00 | Rake $1.25
+Board [8h 5d 8s 5c]
+Seat 2: Burundos254 (button) (small blind) folded on the Turn
+Seat 8: bigsoowoop (big blind) collected ($6606.75)
+
+PokerStars Hand #1508946294:  Hold'em No Limit ($200.00/$400.00 USD) - 2023/01/04 05:29:28 ET
+Table 'WPN_7 Day No Rathole 200/400 NLH - Limited Time' 9-max Seat #8 is the button
+Seat 2: Burundos254 ($34358.76 in chips)
+Seat 8: bigsoowoop ($33803.08 in chips)
+bigsoowoop: posts small blind $200.00
+Burundos254: posts big blind $400.00
+*** HOLE CARDS ***
+bigsoowoop: folds
+Uncalled bet ($200.00) returned to Burundos254
+Burundos254 collected $400.00 from pot
+Burundos254: doesn't show hand
+*** SUMMARY ***
+Total pot $400.00 | Rake $0.00
+Seat 2: Burundos254 (big blind) collected ($400.00)
+Seat 8: bigsoowoop (button) (small blind) folded before Flop
+
+PokerStars Hand #1508946447:  Hold'em No Limit ($200.00/$400.00 USD) - 2023/01/04 05:29:38 ET
+Table 'WPN_7 Day No Rathole 200/400 NLH - Limited Time' 9-max Seat #2 is the button
+Seat 2: Burundos254 ($34558.76 in chips)
+Seat 8: bigsoowoop ($33603.08 in chips)
+Burundos254: posts small blind $200.00
+bigsoowoop: posts big blind $400.00
+*** HOLE CARDS ***
+Burundos254: raises $500.00 to $900.00
+bigsoowoop: folds
+Uncalled bet ($500.00) returned to Burundos254
+Burundos254 collected $800.00 from pot
+Burundos254: doesn't show hand
+*** SUMMARY ***
+Total pot $800.00 | Rake $0.00
+Seat 2: Burundos254 (button) (small blind) collected ($800.00)
+Seat 8: bigsoowoop (big blind) folded before Flop
+
+PokerStars Hand #1508946874:  Hold'em No Limit ($200.00/$400.00 USD) - 2023/01/04 05:30:08 ET
+Table 'WPN_7 Day No Rathole 200/400 NLH - Limited Time' 9-max Seat #8 is the button
+Seat 2: Burundos254 ($34958.76 in chips)
+Seat 8: bigsoowoop ($33203.08 in chips)
+bigsoowoop: posts small blind $200.00
+Burundos254: posts big blind $400.00
+*** HOLE CARDS ***
+bigsoowoop: raises $600.00 to $1000.00
+Burundos254: calls $600.00
+*** FLOP *** [3h 3s 9s]
+Burundos254: checks
+bigsoowoop: bets $660.00
+Burundos254: calls $660.00
+*** TURN *** [3h 3s 9s] [8s]
+Burundos254: checks
+bigsoowoop: checks
+*** RIVER *** [3h 3s 9s 8s] [5h]
+Burundos254: bets $2489.06
+bigsoowoop: folds
+Uncalled bet ($2489.06) returned to Burundos254
+Burundos254 collected $3318.75 from pot
+Burundos254: doesn't show hand
+*** SUMMARY ***
+Total pot $3320.00 | Rake $1.25
+Board [3h 3s 9s 8s 5h]
+Seat 2: Burundos254 (big blind) collected ($3318.75)
+Seat 8: bigsoowoop (button) (small blind) folded on the River
+
+PokerStars Hand #1508947869:  Hold'em No Limit ($200.00/$400.00 USD) - 2023/01/04 05:31:14 ET
+Table 'WPN_7 Day No Rathole 200/400 NLH - Limited Time' 9-max Seat #2 is the button
+Seat 2: Burundos254 ($36617.51 in chips)
+Seat 8: bigsoowoop ($31543.08 in chips)
+Burundos254: posts small blind $200.00
+bigsoowoop: posts big blind $400.00
+*** HOLE CARDS ***
+Burundos254: folds
+Uncalled bet ($200.00) returned to bigsoowoop
+bigsoowoop collected $400.00 from pot
+bigsoowoop: doesn't show hand
+*** SUMMARY ***
+Total pot $400.00 | Rake $0.00
+Seat 2: Burundos254 (button) (small blind) folded before Flop
+Seat 8: bigsoowoop (big blind) collected ($400.00)
+
+PokerStars Hand #1508948044:  Hold'em No Limit ($200.00/$400.00 USD) - 2023/01/04 05:31:25 ET
+Table 'WPN_7 Day No Rathole 200/400 NLH - Limited Time' 9-max Seat #8 is the button
+Seat 2: Burundos254 ($36417.51 in chips)
+Seat 8: bigsoowoop ($31743.08 in chips)
+bigsoowoop: posts small blind $200.00
+Burundos254: posts big blind $400.00
+*** HOLE CARDS ***
+bigsoowoop: raises $600.00 to $1000.00
+Burundos254: calls $600.00
+*** FLOP *** [2c Qs Tc]
+Burundos254: checks
+bigsoowoop: bets $500.00
+Burundos254: calls $500.00
+*** TURN *** [2c Qs Tc] [6h]
+Burundos254: checks
+bigsoowoop: checks
+*** RIVER *** [2c Qs Tc 6h] [8c]
+Burundos254: bets $2249.06
+bigsoowoop: folds
+Uncalled bet ($2249.06) returned to Burundos254
+Burundos254 collected $2998.75 from pot
+Burundos254: doesn't show hand
+*** SUMMARY ***
+Total pot $3000.00 | Rake $1.25
+Board [2c Qs Tc 6h 8c]
+Seat 2: Burundos254 (big blind) collected ($2998.75)
+Seat 8: bigsoowoop (button) (small blind) folded on the River
+
+PokerStars Hand #1508949646:  Hold'em No Limit ($200.00/$400.00 USD) - 2023/01/04 05:33:11 ET
+Table 'WPN_7 Day No Rathole 200/400 NLH - Limited Time' 9-max Seat #2 is the button
+Seat 2: Burundos254 ($37916.26 in chips)
+Seat 8: bigsoowoop ($30243.08 in chips)
+Burundos254: posts small blind $200.00
+bigsoowoop: posts big blind $400.00
+*** HOLE CARDS ***
+Burundos254: raises $500.00 to $900.00
+bigsoowoop: calls $500.00
+*** FLOP *** [8h As Qc]
+bigsoowoop: checks
+Burundos254: checks
+*** TURN *** [8h As Qc] [4h]
+bigsoowoop: checks
+Burundos254: bets $1349.06
+bigsoowoop: calls $1349.06
+*** RIVER *** [8h As Qc 4h] [3c]
+bigsoowoop: checks
+Burundos254: bets $3372.65
+bigsoowoop: folds
+Uncalled bet ($3372.65) returned to Burundos254
+Burundos254 collected $4496.87 from pot
+Burundos254: doesn't show hand
+*** SUMMARY ***
+Total pot $4498.12 | Rake $1.25
+Board [8h As Qc 4h 3c]
+Seat 2: Burundos254 (button) (small blind) collected ($4496.87)
+Seat 8: bigsoowoop (big blind) folded on the River
+
+PokerStars Hand #1508951159:  Hold'em No Limit ($200.00/$400.00 USD) - 2023/01/04 05:34:56 ET
+Table 'WPN_7 Day No Rathole 200/400 NLH - Limited Time' 9-max Seat #8 is the button
+Seat 2: Burundos254 ($40164.07 in chips)
+Seat 8: bigsoowoop ($27994.02 in chips)
+bigsoowoop: posts small blind $200.00
+Burundos254: posts big blind $400.00
+*** HOLE CARDS ***
+bigsoowoop: raises $600.00 to $1000.00
+Burundos254: calls $600.00
+*** FLOP *** [Kh 4s 7s]
+Burundos254: checks
+bigsoowoop: bets $500.00
+Burundos254: calls $500.00
+*** TURN *** [Kh 4s 7s] [2d]
+Burundos254: checks
+bigsoowoop: bets $4400.00
+Burundos254: folds
+Uncalled bet ($4400.00) returned to bigsoowoop
+bigsoowoop collected $2998.75 from pot
+bigsoowoop: doesn't show hand
+*** SUMMARY ***
+Total pot $3000.00 | Rake $1.25
+Board [Kh 4s 7s 2d]
+Seat 2: Burundos254 (big blind) folded on the Turn
+Seat 8: bigsoowoop (button) (small blind) collected ($2998.75)
+
+PokerStars Hand #1508952265:  Hold'em No Limit ($200.00/$400.00 USD) - 2023/01/04 05:36:10 ET
+Table 'WPN_7 Day No Rathole 200/400 NLH - Limited Time' 9-max Seat #2 is the button
+Seat 2: Burundos254 ($38664.07 in chips)
+Seat 8: bigsoowoop ($29492.77 in chips)
+Burundos254: posts small blind $200.00
+bigsoowoop: posts big blind $400.00
+*** HOLE CARDS ***
+Burundos254: folds
+Uncalled bet ($200.00) returned to bigsoowoop
+bigsoowoop collected $400.00 from pot
+bigsoowoop: doesn't show hand
+*** SUMMARY ***
+Total pot $400.00 | Rake $0.00
+Seat 2: Burundos254 (button) (small blind) folded before Flop
+Seat 8: bigsoowoop (big blind) collected ($400.00)
+
+PokerStars Hand #1508952521:  Hold'em No Limit ($200.00/$400.00 USD) - 2023/01/04 05:36:28 ET
+Table 'WPN_7 Day No Rathole 200/400 NLH - Limited Time' 9-max Seat #8 is the button
+Seat 2: Burundos254 ($38464.07 in chips)
+Seat 8: bigsoowoop ($29692.77 in chips)
+bigsoowoop: posts small blind $200.00
+Burundos254: posts big blind $400.00
+*** HOLE CARDS ***
+bigsoowoop: raises $600.00 to $1000.00
+Burundos254: calls $600.00
+*** FLOP *** [3s 2h 9c]
+Burundos254: checks
+bigsoowoop: bets $500.00
+Burundos254: raises $1499.37 to $1999.37
+bigsoowoop: folds
+Uncalled bet ($1499.37) returned to Burundos254
+Burundos254 collected $2998.75 from pot
+Burundos254: doesn't show hand
+*** SUMMARY ***
+Total pot $3000.00 | Rake $1.25
+Board [3s 2h 9c]
+Seat 2: Burundos254 (big blind) collected ($2998.75)
+Seat 8: bigsoowoop (button) (small blind) folded on the Flop
+
+PokerStars Hand #1508953277:  Hold'em No Limit ($200.00/$400.00 USD) - 2023/01/04 05:37:19 ET
+Table 'WPN_7 Day No Rathole 200/400 NLH - Limited Time' 9-max Seat #2 is the button
+Seat 2: Burundos254 ($39962.82 in chips)
+Seat 8: bigsoowoop ($28192.77 in chips)
+Burundos254: posts small blind $200.00
+bigsoowoop: posts big blind $400.00
+*** HOLE CARDS ***
+Burundos254: raises $400.00 to $800.00
+bigsoowoop: folds
+Uncalled bet ($400.00) returned to Burundos254
+Burundos254 collected $800.00 from pot
+Burundos254: doesn't show hand
+*** SUMMARY ***
+Total pot $800.00 | Rake $0.00
+Seat 2: Burundos254 (button) (small blind) collected ($800.00)
+Seat 8: bigsoowoop (big blind) folded before Flop
+
+PokerStars Hand #1508953714:  Hold'em No Limit ($200.00/$400.00 USD) - 2023/01/04 05:37:50 ET
+Table 'WPN_7 Day No Rathole 200/400 NLH - Limited Time' 9-max Seat #8 is the button
+Seat 2: Burundos254 ($40362.82 in chips)
+Seat 8: bigsoowoop ($27792.77 in chips)
+bigsoowoop: posts small blind $200.00
+Burundos254: posts big blind $400.00
+*** HOLE CARDS ***
+bigsoowoop: raises $600.00 to $1000.00
+Burundos254: calls $600.00
+*** FLOP *** [4s 5c Jd]
+Burundos254: checks
+bigsoowoop: checks
+*** TURN *** [4s 5c Jd] [Qd]
+Burundos254: checks
+bigsoowoop: bets $1320.00
+Burundos254: folds
+Uncalled bet ($1320.00) returned to bigsoowoop
+bigsoowoop collected $1998.75 from pot
+bigsoowoop: doesn't show hand
+*** SUMMARY ***
+Total pot $2000.00 | Rake $1.25
+Board [4s 5c Jd Qd]
+Seat 2: Burundos254 (big blind) folded on the Turn
+Seat 8: bigsoowoop (button) (small blind) collected ($1998.75)
+
+PokerStars Hand #1508954631:  Hold'em No Limit ($200.00/$400.00 USD) - 2023/01/04 05:38:52 ET
+Table 'WPN_7 Day No Rathole 200/400 NLH - Limited Time' 9-max Seat #2 is the button
+Seat 2: Burundos254 ($39362.82 in chips)
+Seat 8: bigsoowoop ($28791.52 in chips)
+Burundos254: posts small blind $200.00
+bigsoowoop: posts big blind $400.00
+*** HOLE CARDS ***
+Burundos254: raises $500.00 to $900.00
+bigsoowoop: calls $500.00
+*** FLOP *** [Qs Ks Tc]
+bigsoowoop: checks
+Burundos254: checks
+*** TURN *** [Qs Ks Tc] [7c]
+bigsoowoop: bets $2250.00
+Burundos254: folds
+Uncalled bet ($2250.00) returned to bigsoowoop
+bigsoowoop collected $1798.75 from pot
+bigsoowoop: doesn't show hand
+*** SUMMARY ***
+Total pot $1800.00 | Rake $1.25
+Board [Qs Ks Tc 7c]
+Seat 2: Burundos254 (button) (small blind) folded on the Turn
+Seat 8: bigsoowoop (big blind) collected ($1798.75)
+
+PokerStars Hand #1508955629:  Hold'em No Limit ($200.00/$400.00 USD) - 2023/01/04 05:40:00 ET
+Table 'WPN_7 Day No Rathole 200/400 NLH - Limited Time' 9-max Seat #8 is the button
+Seat 2: Burundos254 ($38462.82 in chips)
+Seat 8: bigsoowoop ($29690.27 in chips)
+bigsoowoop: posts small blind $200.00
+Burundos254: posts big blind $400.00
+*** HOLE CARDS ***
+bigsoowoop: raises $600.00 to $1000.00
+Burundos254: folds
+Uncalled bet ($600.00) returned to bigsoowoop
+bigsoowoop collected $800.00 from pot
+bigsoowoop: doesn't show hand
+*** SUMMARY ***
+Total pot $800.00 | Rake $0.00
+Seat 2: Burundos254 (big blind) folded before Flop
+Seat 8: bigsoowoop (button) (small blind) collected ($800.00)
+
+PokerStars Hand #1508956038:  Hold'em No Limit ($200.00/$400.00 USD) - 2023/01/04 05:40:30 ET
+Table 'WPN_7 Day No Rathole 200/400 NLH - Limited Time' 9-max Seat #2 is the button
+Seat 2: Burundos254 ($38062.82 in chips)
+Seat 8: bigsoowoop ($30090.27 in chips)
+Burundos254: posts small blind $200.00
+bigsoowoop: posts big blind $400.00
+*** HOLE CARDS ***
+Burundos254: raises $500.00 to $900.00
+bigsoowoop: raises $3100.00 to $4000.00
+Burundos254: folds
+Uncalled bet ($3100.00) returned to bigsoowoop
+bigsoowoop collected $1800.00 from pot
+bigsoowoop: doesn't show hand
+*** SUMMARY ***
+Total pot $1800.00 | Rake $0.00
+Seat 2: Burundos254 (button) (small blind) folded before Flop
+Seat 8: bigsoowoop (big blind) collected ($1800.00)
+
+PokerStars Hand #1508956489:  Hold'em No Limit ($200.00/$400.00 USD) - 2023/01/04 05:41:01 ET
+Table 'WPN_7 Day No Rathole 200/400 NLH - Limited Time' 9-max Seat #8 is the button
+Seat 2: Burundos254 ($37162.82 in chips)
+Seat 8: bigsoowoop ($30990.27 in chips)
+bigsoowoop: posts small blind $200.00
+Burundos254: posts big blind $400.00
+*** HOLE CARDS ***
+bigsoowoop: raises $600.00 to $1000.00
+Burundos254: raises $2600.00 to $3600.00
+bigsoowoop: folds
+Uncalled bet ($2600.00) returned to Burundos254
+Burundos254 collected $2000.00 from pot
+Burundos254: doesn't show hand
+*** SUMMARY ***
+Total pot $2000.00 | Rake $0.00
+Seat 2: Burundos254 (big blind) collected ($2000.00)
+Seat 8: bigsoowoop (button) (small blind) folded before Flop
+
+PokerStars Hand #1508956789:  Hold'em No Limit ($200.00/$400.00 USD) - 2023/01/04 05:41:22 ET
+Table 'WPN_7 Day No Rathole 200/400 NLH - Limited Time' 9-max Seat #2 is the button
+Seat 2: Burundos254 ($38162.82 in chips)
+Seat 8: bigsoowoop ($29990.27 in chips)
+Burundos254: posts small blind $200.00
+bigsoowoop: posts big blind $400.00
+*** HOLE CARDS ***
+Burundos254: raises $500.00 to $900.00
+bigsoowoop: raises $3100.00 to $4000.00
+Burundos254: folds
+Uncalled bet ($3100.00) returned to bigsoowoop
+bigsoowoop collected $1800.00 from pot
+bigsoowoop: doesn't show hand
+*** SUMMARY ***
+Total pot $1800.00 | Rake $0.00
+Seat 2: Burundos254 (button) (small blind) folded before Flop
+Seat 8: bigsoowoop (big blind) collected ($1800.00)
+
+PokerStars Hand #1508957279:  Hold'em No Limit ($200.00/$400.00 USD) - 2023/01/04 05:41:56 ET
+Table 'WPN_7 Day No Rathole 200/400 NLH - Limited Time' 9-max Seat #8 is the button
+Seat 2: Burundos254 ($37262.82 in chips)
+Seat 8: bigsoowoop ($30890.27 in chips)
+bigsoowoop: posts small blind $200.00
+Burundos254: posts big blind $400.00
+*** HOLE CARDS ***
+bigsoowoop: folds
+Uncalled bet ($200.00) returned to Burundos254
+Burundos254 collected $400.00 from pot
+Burundos254: doesn't show hand
+*** SUMMARY ***
+Total pot $400.00 | Rake $0.00
+Seat 2: Burundos254 (big blind) collected ($400.00)
+Seat 8: bigsoowoop (button) (small blind) folded before Flop
+
+PokerStars Hand #1508957419:  Hold'em No Limit ($200.00/$400.00 USD) - 2023/01/04 05:42:08 ET
+Table 'WPN_7 Day No Rathole 200/400 NLH - Limited Time' 9-max Seat #2 is the button
+Seat 2: Burundos254 ($37462.82 in chips)
+Seat 8: bigsoowoop ($30690.27 in chips)
+Burundos254: posts small blind $200.00
+bigsoowoop: posts big blind $400.00
+*** HOLE CARDS ***
+Burundos254: raises $500.00 to $900.00
+bigsoowoop: calls $500.00
+*** FLOP *** [6d 9d Qc]
+bigsoowoop: checks
+Burundos254: bets $899.37
+bigsoowoop: folds
+Uncalled bet ($899.37) returned to Burundos254
+Burundos254 collected $1798.75 from pot
+Burundos254: doesn't show hand
+*** SUMMARY ***
+Total pot $1800.00 | Rake $1.25
+Board [6d 9d Qc]
+Seat 2: Burundos254 (button) (small blind) collected ($1798.75)
+Seat 8: bigsoowoop (big blind) folded on the Flop
+
+PokerStars Hand #1508957956:  Hold'em No Limit ($200.00/$400.00 USD) - 2023/01/04 05:42:44 ET
+Table 'WPN_7 Day No Rathole 200/400 NLH - Limited Time' 9-max Seat #8 is the button
+Seat 2: Burundos254 ($38361.57 in chips)
+Seat 8: bigsoowoop ($29790.27 in chips)
+bigsoowoop: posts small blind $200.00
+Burundos254: posts big blind $400.00
+*** HOLE CARDS ***
+bigsoowoop: raises $600.00 to $1000.00
+Burundos254: raises $2600.00 to $3600.00
+bigsoowoop: folds
+Uncalled bet ($2600.00) returned to Burundos254
+Burundos254 collected $2000.00 from pot
+Burundos254: doesn't show hand
+*** SUMMARY ***
+Total pot $2000.00 | Rake $0.00
+Seat 2: Burundos254 (big blind) collected ($2000.00)
+Seat 8: bigsoowoop (button) (small blind) folded before Flop
+
+PokerStars Hand #1508958399:  Hold'em No Limit ($200.00/$400.00 USD) - 2023/01/04 05:43:13 ET
+Table 'WPN_7 Day No Rathole 200/400 NLH - Limited Time' 9-max Seat #2 is the button
+Seat 2: Burundos254 ($39361.57 in chips)
+Seat 8: bigsoowoop ($28790.27 in chips)
+Burundos254: posts small blind $200.00
+bigsoowoop: posts big blind $400.00
+*** HOLE CARDS ***
+Burundos254: raises $500.00 to $900.00
+bigsoowoop: raises $3100.00 to $4000.00
+Burundos254: folds
+Uncalled bet ($3100.00) returned to bigsoowoop
+bigsoowoop collected $1800.00 from pot
+bigsoowoop: doesn't show hand
+*** SUMMARY ***
+Total pot $1800.00 | Rake $0.00
+Seat 2: Burundos254 (button) (small blind) folded before Flop
+Seat 8: bigsoowoop (big blind) collected ($1800.00)
+
+PokerStars Hand #1508958732:  Hold'em No Limit ($200.00/$400.00 USD) - 2023/01/04 05:43:37 ET
+Table 'WPN_7 Day No Rathole 200/400 NLH - Limited Time' 9-max Seat #8 is the button
+Seat 2: Burundos254 ($38461.57 in chips)
+Seat 8: bigsoowoop ($29690.27 in chips)
+bigsoowoop: posts small blind $200.00
+Burundos254: posts big blind $400.00
+*** HOLE CARDS ***
+bigsoowoop: raises $600.00 to $1000.00
+Burundos254: calls $600.00
+*** FLOP *** [8s 3d 2d]
+Burundos254: checks
+bigsoowoop: bets $500.00
+Burundos254: calls $500.00
+*** TURN *** [8s 3d 2d] [Qc]
+Burundos254: checks
+bigsoowoop: checks
+*** RIVER *** [8s 3d 2d Qc] [Jd]
+Burundos254: checks
+bigsoowoop: bets $3750.00
+Burundos254: calls $3750.00
+*** SHOW DOWN ***
+Burundos254: shows [5d 5h]
+bigsoowoop: mucks hand
+Burundos254 collected $10498.75 from pot
+*** SUMMARY ***
+Total pot $10500.00 | Rake $1.25
+Board [8s 3d 2d Qc Jd]
+Seat 2: Burundos254 (big blind) showed [5d 5h] and won ($10498.75)
+Seat 8: bigsoowoop (button) (small blind) mucked
+
+PokerStars Hand #1508960085:  Hold'em No Limit ($200.00/$400.00 USD) - 2023/01/04 05:45:13 ET
+Table 'WPN_7 Day No Rathole 200/400 NLH - Limited Time' 9-max Seat #2 is the button
+Seat 2: Burundos254 ($43710.32 in chips)
+Seat 8: bigsoowoop ($24440.27 in chips)
+Burundos254: posts small blind $200.00
+bigsoowoop: posts big blind $400.00
+*** HOLE CARDS ***
+Burundos254: raises $500.00 to $900.00
+bigsoowoop: raises $2700.00 to $3600.00
+Burundos254: folds
+Uncalled bet ($2700.00) returned to bigsoowoop
+bigsoowoop collected $1800.00 from pot
+bigsoowoop: doesn't show hand
+*** SUMMARY ***
+Total pot $1800.00 | Rake $0.00
+Seat 2: Burundos254 (button) (small blind) folded before Flop
+Seat 8: bigsoowoop (big blind) collected ($1800.00)
+
+PokerStars Hand #1508960658:  Hold'em No Limit ($200.00/$400.00 USD) - 2023/01/04 05:45:53 ET
+Table 'WPN_7 Day No Rathole 200/400 NLH - Limited Time' 9-max Seat #8 is the button
+Seat 2: Burundos254 ($42810.32 in chips)
+Seat 8: bigsoowoop ($25340.27 in chips)
+bigsoowoop: posts small blind $200.00
+Burundos254: posts big blind $400.00
+*** HOLE CARDS ***
+bigsoowoop: raises $600.00 to $1000.00
+Burundos254: calls $600.00
+*** FLOP *** [Jd 8h Td]
+Burundos254: checks
+bigsoowoop: bets $660.00
+Burundos254: calls $660.00
+*** TURN *** [Jd 8h Td] [9d]
+Burundos254: checks
+bigsoowoop: checks
+*** RIVER *** [Jd 8h Td 9d] [2c]
+Burundos254: checks
+bigsoowoop: checks
+*** SHOW DOWN ***
+Burundos254: shows [Ts Kc]
+bigsoowoop: mucks hand
+Burundos254 collected $3318.75 from pot
+*** SUMMARY ***
+Total pot $3320.00 | Rake $1.25
+Board [Jd 8h Td 9d 2c]
+Seat 2: Burundos254 (big blind) showed [Ts Kc] and won ($3318.75)
+Seat 8: bigsoowoop (button) (small blind) mucked
+
+PokerStars Hand #1508963017:  Hold'em No Limit ($200.00/$400.00 USD) - 2023/01/04 05:48:49 ET
+Table 'WPN_7 Day No Rathole 200/400 NLH - Limited Time' 9-max Seat #6 is the button
+Seat 2: Burundos254 ($44469.07 in chips)
+Seat 6: bigsoowoop ($23680.27 in chips)
+bigsoowoop: posts small blind $200.00
+Burundos254: posts big blind $400.00
+*** HOLE CARDS ***
+bigsoowoop: raises $600.00 to $1000.00
+Burundos254: calls $600.00
+*** FLOP *** [5h Qs 4h]
+Burundos254: checks
+bigsoowoop: bets $660.00
+Burundos254: calls $660.00
+*** TURN *** [5h Qs 4h] [Js]
+Burundos254: checks
+bigsoowoop: checks
+*** RIVER *** [5h Qs 4h Js] [5s]
+Burundos254: checks
+bigsoowoop: checks
+*** SHOW DOWN ***
+Burundos254: shows [Kh 4c]
+bigsoowoop: mucks hand
+Burundos254 collected $3318.75 from pot
+*** SUMMARY ***
+Total pot $3320.00 | Rake $1.25
+Board [5h Qs 4h Js 5s]
+Seat 2: Burundos254 (big blind) showed [Kh 4c] and won ($3318.75)
+Seat 6: bigsoowoop (button) (small blind) mucked
+
+PokerStars Hand #1508963866:  Hold'em No Limit ($200.00/$400.00 USD) - 2023/01/04 05:49:52 ET
+Table 'WPN_7 Day No Rathole 200/400 NLH - Limited Time' 9-max Seat #2 is the button
+Seat 2: Burundos254 ($46127.82 in chips)
+Seat 6: bigsoowoop ($22020.27 in chips)
+Burundos254: posts small blind $200.00
+bigsoowoop: posts big blind $400.00
+*** HOLE CARDS ***
+Burundos254: raises $500.00 to $900.00
+bigsoowoop: folds
+Uncalled bet ($500.00) returned to Burundos254
+Burundos254 collected $800.00 from pot
+Burundos254: doesn't show hand
+*** SUMMARY ***
+Total pot $800.00 | Rake $0.00
+Seat 2: Burundos254 (button) (small blind) collected ($800.00)
+Seat 6: bigsoowoop (big blind) folded before Flop
+
+PokerStars Hand #1508964061:  Hold'em No Limit ($200.00/$400.00 USD) - 2023/01/04 05:50:08 ET
+Table 'WPN_7 Day No Rathole 200/400 NLH - Limited Time' 9-max Seat #6 is the button
+Seat 2: Burundos254 ($46527.82 in chips)
+Seat 6: bigsoowoop ($21620.27 in chips)
+bigsoowoop: posts small blind $200.00
+Burundos254: posts big blind $400.00
+*** HOLE CARDS ***
+bigsoowoop: raises $600.00 to $1000.00
+Burundos254: folds
+Uncalled bet ($600.00) returned to bigsoowoop
+bigsoowoop collected $800.00 from pot
+bigsoowoop: doesn't show hand
+*** SUMMARY ***
+Total pot $800.00 | Rake $0.00
+Seat 2: Burundos254 (big blind) folded before Flop
+Seat 6: bigsoowoop (button) (small blind) collected ($800.00)
+
+PokerStars Hand #1508964321:  Hold'em No Limit ($200.00/$400.00 USD) - 2023/01/04 05:50:27 ET
+Table 'WPN_7 Day No Rathole 200/400 NLH - Limited Time' 9-max Seat #2 is the button
+Seat 2: Burundos254 ($46127.82 in chips)
+Seat 6: bigsoowoop ($22020.27 in chips)
+Burundos254: posts small blind $200.00
+bigsoowoop: posts big blind $400.00
+*** HOLE CARDS ***
+Burundos254: raises $500.00 to $900.00
+bigsoowoop: raises $2700.00 to $3600.00
+Burundos254: calls $2700.00
+*** FLOP *** [5c 4c Js]
+bigsoowoop: bets $1800.00
+Burundos254: folds
+Uncalled bet ($1800.00) returned to bigsoowoop
+bigsoowoop collected $7198.75 from pot
+bigsoowoop: doesn't show hand
+*** SUMMARY ***
+Total pot $7200.00 | Rake $1.25
+Board [5c 4c Js]
+Seat 2: Burundos254 (button) (small blind) folded on the Flop
+Seat 6: bigsoowoop (big blind) collected ($7198.75)
+
+PokerStars Hand #1508964857:  Hold'em No Limit ($200.00/$400.00 USD) - 2023/01/04 05:51:09 ET
+Table 'WPN_7 Day No Rathole 200/400 NLH - Limited Time' 9-max Seat #6 is the button
+Seat 2: Burundos254 ($42527.82 in chips)
+Seat 6: bigsoowoop ($25619.02 in chips)
+bigsoowoop: posts small blind $200.00
+Burundos254: posts big blind $400.00
+*** HOLE CARDS ***
+bigsoowoop: raises $480.00 to $880.00
+Burundos254: raises $2320.00 to $3200.00
+bigsoowoop: folds
+Uncalled bet ($2320.00) returned to Burundos254
+Burundos254 collected $1760.00 from pot
+Burundos254: doesn't show hand
+*** SUMMARY ***
+Total pot $1760.00 | Rake $0.00
+Seat 2: Burundos254 (big blind) collected ($1760.00)
+Seat 6: bigsoowoop (button) (small blind) folded before Flop
+
+PokerStars Hand #1508965181:  Hold'em No Limit ($200.00/$400.00 USD) - 2023/01/04 05:51:32 ET
+Table 'WPN_7 Day No Rathole 200/400 NLH - Limited Time' 9-max Seat #2 is the button
+Seat 2: Burundos254 ($43407.82 in chips)
+Seat 6: bigsoowoop ($24739.02 in chips)
+Burundos254: posts small blind $200.00
+bigsoowoop: posts big blind $400.00
+*** HOLE CARDS ***
+Burundos254: folds
+Uncalled bet ($200.00) returned to bigsoowoop
+bigsoowoop collected $400.00 from pot
+bigsoowoop: doesn't show hand
+*** SUMMARY ***
+Total pot $400.00 | Rake $0.00
+Seat 2: Burundos254 (button) (small blind) folded before Flop
+Seat 6: bigsoowoop (big blind) collected ($400.00)
+
+PokerStars Hand #1508965334:  Hold'em No Limit ($200.00/$400.00 USD) - 2023/01/04 05:51:43 ET
+Table 'WPN_7 Day No Rathole 200/400 NLH - Limited Time' 9-max Seat #6 is the button
+Seat 2: Burundos254 ($43207.82 in chips)
+Seat 6: bigsoowoop ($24939.02 in chips)
+bigsoowoop: posts small blind $200.00
+Burundos254: posts big blind $400.00
+*** HOLE CARDS ***
+bigsoowoop: raises $480.00 to $880.00
+Burundos254: calls $480.00
+*** FLOP *** [4h Qs 2h]
+Burundos254: checks
+bigsoowoop: bets $440.00
+Burundos254: raises $1319.37 to $1759.37
+bigsoowoop: calls $1319.37
+*** TURN *** [4h Qs 2h] [Th]
+Burundos254: bets $1740.00
+bigsoowoop: calls $1740.00
+*** RIVER *** [4h Qs 2h Th] [Js]
+Burundos254: bets $2188.00
+bigsoowoop: calls $2188.00
+*** SHOW DOWN ***
+bigsoowoop: shows [2s 2d]
+Burundos254: mucks hand
+bigsoowoop collected $13133.49 from pot
+*** SUMMARY ***
+Total pot $13134.74 | Rake $1.25
+Board [4h Qs 2h Th Js]
+Seat 2: Burundos254 (big blind) mucked
+Seat 6: bigsoowoop (button) (small blind) showed [2s 2d] and won ($13133.49)
+
+PokerStars Hand #1508966389:  Hold'em No Limit ($200.00/$400.00 USD) - 2023/01/04 05:53:07 ET
+Table 'WPN_7 Day No Rathole 200/400 NLH - Limited Time' 9-max Seat #2 is the button
+Seat 2: Burundos254 ($36640.45 in chips)
+Seat 6: bigsoowoop ($31505.14 in chips)
+Burundos254: posts small blind $200.00
+bigsoowoop: posts big blind $400.00
+*** HOLE CARDS ***
+Burundos254: raises $500.00 to $900.00
+bigsoowoop: raises $3100.00 to $4000.00
+Burundos254: calls $3100.00
+*** FLOP *** [2h 9c 2s]
+bigsoowoop: bets $4000.00
+Burundos254: calls $4000.00
+*** TURN *** [2h 9c 2s] [Jh]
+bigsoowoop: bets $23505.14 and is all-in
+Burundos254: folds
+Uncalled bet ($23505.14) returned to bigsoowoop
+bigsoowoop collected $15998.75 from pot
+bigsoowoop: doesn't show hand
+*** SUMMARY ***
+Total pot $16000.00 | Rake $1.25
+Board [2h 9c 2s Jh]
+Seat 2: Burundos254 (button) (small blind) folded on the Turn
+Seat 6: bigsoowoop (big blind) collected ($15998.75)
+
+PokerStars Hand #1508967329:  Hold'em No Limit ($200.00/$400.00 USD) - 2023/01/04 05:54:20 ET
+Table 'WPN_7 Day No Rathole 200/400 NLH - Limited Time' 9-max Seat #6 is the button
+Seat 2: Burundos254 ($28640.45 in chips)
+Seat 6: bigsoowoop ($39503.89 in chips)
+bigsoowoop: posts small blind $200.00
+Burundos254: posts big blind $400.00
+*** HOLE CARDS ***
+bigsoowoop: raises $600.00 to $1000.00
+Burundos254: raises $2600.00 to $3600.00
+bigsoowoop: folds
+Uncalled bet ($2600.00) returned to Burundos254
+Burundos254 collected $2000.00 from pot
+Burundos254: doesn't show hand
+*** SUMMARY ***
+Total pot $2000.00 | Rake $0.00
+Seat 2: Burundos254 (big blind) collected ($2000.00)
+Seat 6: bigsoowoop (button) (small blind) folded before Flop
+
+PokerStars Hand #1508967604:  Hold'em No Limit ($200.00/$400.00 USD) - 2023/01/04 05:54:42 ET
+Table 'WPN_7 Day No Rathole 200/400 NLH - Limited Time' 9-max Seat #2 is the button
+Seat 2: Burundos254 ($29640.45 in chips)
+Seat 6: bigsoowoop ($38503.89 in chips)
+Burundos254: posts small blind $200.00
+bigsoowoop: posts big blind $400.00
+*** HOLE CARDS ***
+Burundos254: folds
+Uncalled bet ($200.00) returned to bigsoowoop
+bigsoowoop collected $400.00 from pot
+bigsoowoop: doesn't show hand
+*** SUMMARY ***
+Total pot $400.00 | Rake $0.00
+Seat 2: Burundos254 (button) (small blind) folded before Flop
+Seat 6: bigsoowoop (big blind) collected ($400.00)
+
+PokerStars Hand #1508967753:  Hold'em No Limit ($200.00/$400.00 USD) - 2023/01/04 05:54:53 ET
+Table 'WPN_7 Day No Rathole 200/400 NLH - Limited Time' 9-max Seat #6 is the button
+Seat 2: Burundos254 ($29440.45 in chips)
+Seat 6: bigsoowoop ($38703.89 in chips)
+bigsoowoop: posts small blind $200.00
+Burundos254: posts big blind $400.00
+*** HOLE CARDS ***
+bigsoowoop: folds
+Uncalled bet ($200.00) returned to Burundos254
+Burundos254 collected $400.00 from pot
+Burundos254: doesn't show hand
+*** SUMMARY ***
+Total pot $400.00 | Rake $0.00
+Seat 2: Burundos254 (big blind) collected ($400.00)
+Seat 6: bigsoowoop (button) (small blind) folded before Flop
+
+PokerStars Hand #1508967862:  Hold'em No Limit ($200.00/$400.00 USD) - 2023/01/04 05:55:04 ET
+Table 'WPN_7 Day No Rathole 200/400 NLH - Limited Time' 9-max Seat #2 is the button
+Seat 2: Burundos254 ($29640.45 in chips)
+Seat 6: bigsoowoop ($38503.89 in chips)
+Burundos254: posts small blind $200.00
+bigsoowoop: posts big blind $400.00
+*** HOLE CARDS ***
+Burundos254: raises $500.00 to $900.00
+bigsoowoop: raises $3100.00 to $4000.00
+Burundos254: folds
+Uncalled bet ($3100.00) returned to bigsoowoop
+bigsoowoop collected $1800.00 from pot
+bigsoowoop: doesn't show hand
+*** SUMMARY ***
+Total pot $1800.00 | Rake $0.00
+Seat 2: Burundos254 (button) (small blind) folded before Flop
+Seat 6: bigsoowoop (big blind) collected ($1800.00)
+
+PokerStars Hand #1508968040:  Hold'em No Limit ($200.00/$400.00 USD) - 2023/01/04 05:55:26 ET
+Table 'WPN_7 Day No Rathole 200/400 NLH - Limited Time' 9-max Seat #6 is the button
+Seat 2: Burundos254 ($28740.45 in chips)
+Seat 6: bigsoowoop ($39403.89 in chips)
+bigsoowoop: posts small blind $200.00
+Burundos254: posts big blind $400.00
+*** HOLE CARDS ***
+bigsoowoop: raises $480.00 to $880.00
+Burundos254: raises $2720.00 to $3600.00
+bigsoowoop: folds
+Uncalled bet ($2720.00) returned to Burundos254
+Burundos254 collected $1760.00 from pot
+Burundos254: doesn't show hand
+*** SUMMARY ***
+Total pot $1760.00 | Rake $0.00
+Seat 2: Burundos254 (big blind) collected ($1760.00)
+Seat 6: bigsoowoop (button) (small blind) folded before Flop
+
+PokerStars Hand #1508968213:  Hold'em No Limit ($200.00/$400.00 USD) - 2023/01/04 05:55:45 ET
+Table 'WPN_7 Day No Rathole 200/400 NLH - Limited Time' 9-max Seat #2 is the button
+Seat 2: Burundos254 ($29620.45 in chips)
+Seat 6: bigsoowoop ($38523.89 in chips)
+Burundos254: posts small blind $200.00
+bigsoowoop: posts big blind $400.00
+*** HOLE CARDS ***
+Burundos254: raises $500.00 to $900.00
+bigsoowoop: folds
+Uncalled bet ($500.00) returned to Burundos254
+Burundos254 collected $800.00 from pot
+Burundos254: doesn't show hand
+*** SUMMARY ***
+Total pot $800.00 | Rake $0.00
+Seat 2: Burundos254 (button) (small blind) collected ($800.00)
+Seat 6: bigsoowoop (big blind) folded before Flop
+
+PokerStars Hand #1508968351:  Hold'em No Limit ($200.00/$400.00 USD) - 2023/01/04 05:56:00 ET
+Table 'WPN_7 Day No Rathole 200/400 NLH - Limited Time' 9-max Seat #6 is the button
+Seat 2: Burundos254 ($30020.45 in chips)
+Seat 6: bigsoowoop ($38123.89 in chips)
+bigsoowoop: posts small blind $200.00
+Burundos254: posts big blind $400.00
+*** HOLE CARDS ***
+bigsoowoop: raises $600.00 to $1000.00
+Burundos254: calls $600.00
+*** FLOP *** [8h Jc Ah]
+Burundos254: checks
+bigsoowoop: bets $1500.00
+Burundos254: folds
+Uncalled bet ($1500.00) returned to bigsoowoop
+bigsoowoop collected $1998.75 from pot
+bigsoowoop: doesn't show hand
+*** SUMMARY ***
+Total pot $2000.00 | Rake $1.25
+Board [8h Jc Ah]
+Seat 2: Burundos254 (big blind) folded on the Flop
+Seat 6: bigsoowoop (button) (small blind) collected ($1998.75)
+
+PokerStars Hand #1508968833:  Hold'em No Limit ($200.00/$400.00 USD) - 2023/01/04 05:56:53 ET
+Table 'WPN_7 Day No Rathole 200/400 NLH - Limited Time' 9-max Seat #2 is the button
+Seat 2: Burundos254 ($29020.45 in chips)
+Seat 6: bigsoowoop ($39122.64 in chips)
+Burundos254: posts small blind $200.00
+bigsoowoop: posts big blind $400.00
+*** HOLE CARDS ***
+Burundos254: raises $500.00 to $900.00
+bigsoowoop: folds
+Uncalled bet ($500.00) returned to Burundos254
+Burundos254 collected $800.00 from pot
+Burundos254: doesn't show hand
+*** SUMMARY ***
+Total pot $800.00 | Rake $0.00
+Seat 2: Burundos254 (button) (small blind) collected ($800.00)
+Seat 6: bigsoowoop (big blind) folded before Flop
+
+PokerStars Hand #1508968962:  Hold'em No Limit ($200.00/$400.00 USD) - 2023/01/04 05:57:09 ET
+Table 'WPN_7 Day No Rathole 200/400 NLH - Limited Time' 9-max Seat #6 is the button
+Seat 2: Burundos254 ($29420.45 in chips)
+Seat 6: bigsoowoop ($38722.64 in chips)
+bigsoowoop: posts small blind $200.00
+Burundos254: posts big blind $400.00
+*** HOLE CARDS ***
+bigsoowoop: folds
+Uncalled bet ($200.00) returned to Burundos254
+Burundos254 collected $400.00 from pot
+Burundos254: doesn't show hand
+*** SUMMARY ***
+Total pot $400.00 | Rake $0.00
+Seat 2: Burundos254 (big blind) collected ($400.00)
+Seat 6: bigsoowoop (button) (small blind) folded before Flop
+
+PokerStars Hand #1508969056:  Hold'em No Limit ($200.00/$400.00 USD) - 2023/01/04 05:57:19 ET
+Table 'WPN_7 Day No Rathole 200/400 NLH - Limited Time' 9-max Seat #2 is the button
+Seat 2: Burundos254 ($29620.45 in chips)
+Seat 6: bigsoowoop ($38522.64 in chips)
+Burundos254: posts small blind $200.00
+bigsoowoop: posts big blind $400.00
+*** HOLE CARDS ***
+Burundos254: raises $500.00 to $900.00
+bigsoowoop: folds
+Uncalled bet ($500.00) returned to Burundos254
+Burundos254 collected $800.00 from pot
+Burundos254: doesn't show hand
+*** SUMMARY ***
+Total pot $800.00 | Rake $0.00
+Seat 2: Burundos254 (button) (small blind) collected ($800.00)
+Seat 6: bigsoowoop (big blind) folded before Flop
+
+PokerStars Hand #1508969190:  Hold'em No Limit ($200.00/$400.00 USD) - 2023/01/04 05:57:34 ET
+Table 'WPN_7 Day No Rathole 200/400 NLH - Limited Time' 9-max Seat #6 is the button
+Seat 2: Burundos254 ($30020.45 in chips)
+Seat 6: bigsoowoop ($38122.64 in chips)
+bigsoowoop: posts small blind $200.00
+Burundos254: posts big blind $400.00
+*** HOLE CARDS ***
+bigsoowoop: folds
+Uncalled bet ($200.00) returned to Burundos254
+Burundos254 collected $400.00 from pot
+Burundos254: doesn't show hand
+*** SUMMARY ***
+Total pot $400.00 | Rake $0.00
+Seat 2: Burundos254 (big blind) collected ($400.00)
+Seat 6: bigsoowoop (button) (small blind) folded before Flop
+
+PokerStars Hand #1508969310:  Hold'em No Limit ($200.00/$400.00 USD) - 2023/01/04 05:57:46 ET
+Table 'WPN_7 Day No Rathole 200/400 NLH - Limited Time' 9-max Seat #2 is the button
+Seat 2: Burundos254 ($30220.45 in chips)
+Seat 6: bigsoowoop ($37922.64 in chips)
+Burundos254: posts small blind $200.00
+bigsoowoop: posts big blind $400.00
+*** HOLE CARDS ***
+Burundos254: folds
+Uncalled bet ($200.00) returned to bigsoowoop
+bigsoowoop collected $400.00 from pot
+bigsoowoop: doesn't show hand
+*** SUMMARY ***
+Total pot $400.00 | Rake $0.00
+Seat 2: Burundos254 (button) (small blind) folded before Flop
+Seat 6: bigsoowoop (big blind) collected ($400.00)
+
+PokerStars Hand #1508969411:  Hold'em No Limit ($200.00/$400.00 USD) - 2023/01/04 05:57:58 ET
+Table 'WPN_7 Day No Rathole 200/400 NLH - Limited Time' 9-max Seat #6 is the button
+Seat 2: Burundos254 ($30020.45 in chips)
+Seat 6: bigsoowoop ($38122.64 in chips)
+bigsoowoop: posts small blind $200.00
+Burundos254: posts big blind $400.00
+*** HOLE CARDS ***
+bigsoowoop: raises $600.00 to $1000.00
+Burundos254: calls $600.00
+*** FLOP *** [9h Jc Qc]
+Burundos254: checks
+bigsoowoop: checks
+*** TURN *** [9h Jc Qc] [3h]
+Burundos254: checks
+bigsoowoop: checks
+*** RIVER *** [9h Jc Qc 3h] [3s]
+Burundos254: bets $1499.06
+bigsoowoop: calls $1499.06
+*** SHOW DOWN ***
+bigsoowoop: shows [Jh Tc]
+Burundos254: mucks hand
+bigsoowoop collected $4996.87 from pot
+*** SUMMARY ***
+Total pot $4998.12 | Rake $1.25
+Board [9h Jc Qc 3h 3s]
+Seat 2: Burundos254 (big blind) mucked
+Seat 6: bigsoowoop (button) (small blind) showed [Jh Tc] and won ($4996.87)
+
+PokerStars Hand #1508970816:  Hold'em No Limit ($200.00/$400.00 USD) - 2023/01/04 06:00:27 ET
+Table 'WPN_7 Day No Rathole 200/400 NLH - Limited Time' 9-max Seat #2 is the button
+Seat 2: Burundos254 ($26821.39 in chips)
+Seat 6: bigsoowoop ($41319.20 in chips)
+Burundos254: posts small blind $200.00
+bigsoowoop: posts big blind $400.00
+*** HOLE CARDS ***
+Burundos254: raises $500.00 to $900.00
+bigsoowoop: calls $500.00
+*** FLOP *** [3c Kc 4d]
+bigsoowoop: checks
+Burundos254: bets $539.62
+bigsoowoop: calls $539.62
+*** TURN *** [3c Kc 4d] [8d]
+bigsoowoop: checks
+Burundos254: checks
+*** RIVER *** [3c Kc 4d 8d] [Qh]
+bigsoowoop: checks
+Burundos254: checks
+*** SHOW DOWN ***
+Burundos254: shows [Js 4s]
+bigsoowoop: mucks hand
+Burundos254 collected $2877.99 from pot
+*** SUMMARY ***
+Total pot $2879.24 | Rake $1.25
+Board [3c Kc 4d 8d Qh]
+Seat 2: Burundos254 (button) (small blind) showed [Js 4s] and won ($2877.99)
+Seat 6: bigsoowoop (big blind) mucked
+
+PokerStars Hand #1508971454:  Hold'em No Limit ($200.00/$400.00 USD) - 2023/01/04 06:01:21 ET
+Table 'WPN_7 Day No Rathole 200/400 NLH - Limited Time' 9-max Seat #6 is the button
+Seat 2: Burundos254 ($28259.76 in chips)
+Seat 6: bigsoowoop ($39879.58 in chips)
+bigsoowoop: posts small blind $200.00
+Burundos254: posts big blind $400.00
+*** HOLE CARDS ***
+bigsoowoop: folds
+Uncalled bet ($200.00) returned to Burundos254
+Burundos254 collected $400.00 from pot
+Burundos254: doesn't show hand
+*** SUMMARY ***
+Total pot $400.00 | Rake $0.00
+Seat 2: Burundos254 (big blind) collected ($400.00)
+Seat 6: bigsoowoop (button) (small blind) folded before Flop
+
+PokerStars Hand #1508971793:  Hold'em No Limit ($200.00/$400.00 USD) - 2023/01/04 06:01:46 ET
+Table 'WPN_7 Day No Rathole 200/400 NLH - Limited Time' 9-max Seat #2 is the button
+Seat 2: Burundos254 ($28459.76 in chips)
+Seat 6: bigsoowoop ($39679.58 in chips)
+Burundos254: posts small blind $200.00
+bigsoowoop: posts big blind $400.00
+*** HOLE CARDS ***
+Burundos254: folds
+Uncalled bet ($200.00) returned to bigsoowoop
+bigsoowoop collected $400.00 from pot
+bigsoowoop: doesn't show hand
+*** SUMMARY ***
+Total pot $400.00 | Rake $0.00
+Seat 2: Burundos254 (button) (small blind) folded before Flop
+Seat 6: bigsoowoop (big blind) collected ($400.00)
+
+PokerStars Hand #1508971925:  Hold'em No Limit ($200.00/$400.00 USD) - 2023/01/04 06:01:58 ET
+Table 'WPN_7 Day No Rathole 200/400 NLH - Limited Time' 9-max Seat #6 is the button
+Seat 2: Burundos254 ($28259.76 in chips)
+Seat 6: bigsoowoop ($39879.58 in chips)
+bigsoowoop: posts small blind $200.00
+Burundos254: posts big blind $400.00
+*** HOLE CARDS ***
+bigsoowoop: raises $600.00 to $1000.00
+Burundos254: calls $600.00
+*** FLOP *** [5h 2c Ks]
+Burundos254: checks
+bigsoowoop: bets $500.00
+Burundos254: folds
+Uncalled bet ($500.00) returned to bigsoowoop
+bigsoowoop collected $1998.75 from pot
+bigsoowoop: doesn't show hand
+*** SUMMARY ***
+Total pot $2000.00 | Rake $1.25
+Board [5h 2c Ks]
+Seat 2: Burundos254 (big blind) folded on the Flop
+Seat 6: bigsoowoop (button) (small blind) collected ($1998.75)
+
+PokerStars Hand #1508847914:  Hold'em No Limit ($200.00/$400.00 USD) - 2023/01/04 03:51:36 ET
+Table 'WPN_7 Day No Rathole 200/400 NLH - Limited Time' 9-max Seat #2 is the button
+Seat 2: Burundos254 ($43147.93 in chips)
+Seat 7: DoublelegTD ($4000.00 in chips)
+Burundos254: posts small blind $200.00
+DoublelegTD: posts big blind $400.00
+*** HOLE CARDS ***
+Burundos254: folds
+Uncalled bet ($200.00) returned to DoublelegTD
+DoublelegTD collected $400.00 from pot
+DoublelegTD: doesn't show hand
+*** SUMMARY ***
+Total pot $400.00 | Rake $0.00
+Seat 2: Burundos254 (button) (small blind) folded before Flop
+Seat 7: DoublelegTD (big blind) collected ($400.00)
+
+PokerStars Hand #1508848080:  Hold'em No Limit ($200.00/$400.00 USD) - 2023/01/04 03:51:45 ET
+Table 'WPN_7 Day No Rathole 200/400 NLH - Limited Time' 9-max Seat #7 is the button
+Seat 2: Burundos254 ($42947.93 in chips)
+Seat 7: DoublelegTD ($4200.00 in chips)
+DoublelegTD: posts small blind $200.00
+Burundos254: posts big blind $400.00
+*** HOLE CARDS ***
+DoublelegTD: folds
+Uncalled bet ($200.00) returned to Burundos254
+Burundos254 collected $400.00 from pot
+Burundos254: doesn't show hand
+*** SUMMARY ***
+Total pot $400.00 | Rake $0.00
+Seat 2: Burundos254 (big blind) collected ($400.00)
+Seat 7: DoublelegTD (button) (small blind) folded before Flop
+
+PokerStars Hand #1508848251:  Hold'em No Limit ($200.00/$400.00 USD) - 2023/01/04 03:51:55 ET
+Table 'WPN_7 Day No Rathole 200/400 NLH - Limited Time' 9-max Seat #2 is the button
+Seat 2: Burundos254 ($43147.93 in chips)
+Seat 7: DoublelegTD ($4000.00 in chips)
+Burundos254: posts small blind $200.00
+DoublelegTD: posts big blind $400.00
+*** HOLE CARDS ***
+Burundos254: folds
+Uncalled bet ($200.00) returned to DoublelegTD
+DoublelegTD collected $400.00 from pot
+DoublelegTD: doesn't show hand
+*** SUMMARY ***
+Total pot $400.00 | Rake $0.00
+Seat 2: Burundos254 (button) (small blind) folded before Flop
+Seat 7: DoublelegTD (big blind) collected ($400.00)
+
+PokerStars Hand #1508848425:  Hold'em No Limit ($200.00/$400.00 USD) - 2023/01/04 03:52:03 ET
+Table 'WPN_7 Day No Rathole 200/400 NLH - Limited Time' 9-max Seat #2 is the button
+Seat 2: Burundos254 ($42947.93 in chips)
+Seat 3: Sabazius ($9397.75 in chips)
+Burundos254: posts small blind $200.00
+Sabazius: posts big blind $400.00
+*** HOLE CARDS ***
+Burundos254: folds
+Uncalled bet ($200.00) returned to Sabazius
+Sabazius collected $400.00 from pot
+Sabazius: doesn't show hand
+*** SUMMARY ***
+Total pot $400.00 | Rake $0.00
+Seat 2: Burundos254 (button) (small blind) folded before Flop
+Seat 3: Sabazius (big blind) collected ($400.00)
+
+PokerStars Hand #1508848844:  Hold'em No Limit ($200.00/$400.00 USD) - 2023/01/04 03:52:24 ET
+Table 'WPN_7 Day No Rathole 200/400 NLH - Limited Time' 9-max Seat #3 is the button
+Seat 2: Burundos254 ($42747.93 in chips)
+Seat 3: Sabazius ($9597.75 in chips)
+Sabazius: posts small blind $200.00
+Burundos254: posts big blind $400.00
+*** HOLE CARDS ***
+Sabazius: calls $200.00
+Burundos254: checks
+*** FLOP *** [Ad 2d 4h]
+Burundos254: checks
+Sabazius: bets $600.00
+Burundos254: folds
+Uncalled bet ($600.00) returned to Sabazius
+Sabazius collected $798.75 from pot
+Sabazius: doesn't show hand
+*** SUMMARY ***
+Total pot $800.00 | Rake $1.25
+Board [Ad 2d 4h]
+Seat 2: Burundos254 (big blind) folded on the Flop
+Seat 3: Sabazius (button) (small blind) collected ($798.75)
+
+PokerStars Hand #1508461984:  Hold'em No Limit ($200.00/$400.00 USD) - 2023/01/03 22:45:49 ET
+Table 'WPN_7 Day No Rathole 200/400 NLH - Limited Time' 9-max Seat #1 is the button
+Seat 1: iWasOnly17 ($121627.08 in chips)
+Seat 2: Sabazius ($4400.00 in chips)
+Seat 3: SigadiSogadi ($7998.25 in chips)
+Seat 4: elmatador6969 ($12652.00 in chips)
+Sabazius: posts small blind $200.00
+SigadiSogadi: posts big blind $400.00
+*** HOLE CARDS ***
+elmatador6969: folds
+iWasOnly17: folds
+Sabazius: raises $400.00 to $800.00
+SigadiSogadi: calls $400.00
+*** FLOP *** [2c 5s 4c]
+Sabazius: bets $1600.00
+SigadiSogadi: raises $3600.00 to $5200.00
+Sabazius: calls $2000.00 and is all-in
+Uncalled bet ($1600.00) returned to SigadiSogadi
+*** FIRST TURN *** [2c 5s 4c] [Ac]
+*** FIRST RIVER *** [2c 5s 4c Ac] [8c]
+*** SECOND TURN *** [2c 5s 4c] [Ah]
+*** SECOND RIVER *** [2c 5s 4c Ah] [9c]
+*** FIRST SHOW DOWN ***
+Sabazius: shows [5h 9h]
+SigadiSogadi: shows [6d 5d]
+Sabazius collected $4398.88 from pot
+*** SECOND SHOW DOWN ***
+Sabazius: shows [5h 9h]
+SigadiSogadi: shows [6d 5d]
+Sabazius collected $4398.87 from pot
+*** SUMMARY ***
+Total pot $8800.00 | Rake $2.25
+Hand was run twice
+FIRST Board [2c 5s 4c Ac 8c]
+SECOND Board [2c 5s 4c Ah 9c]
+Seat 1: iWasOnly17 (button) folded before Flop (didn't bet)
+Seat 2: Sabazius (small blind) showed [5h 9h] and won ($4398.88), and won ($4398.87)
+Seat 3: SigadiSogadi (big blind) showed [6d 5d] and lost, and lost
+Seat 4: elmatador6969 folded before Flop (didn't bet)
+
+PokerStars Hand #1508463439:  Hold'em No Limit ($200.00/$400.00 USD) - 2023/01/03 22:46:57 ET
+Table 'WPN_7 Day No Rathole 200/400 NLH - Limited Time' 9-max Seat #2 is the button
+Seat 1: iWasOnly17 ($121627.08 in chips)
+Seat 2: Sabazius ($8797.75 in chips)
+Seat 3: SigadiSogadi ($4000.00 in chips)
+Seat 4: elmatador6969 ($12652.00 in chips)
+SigadiSogadi: posts small blind $200.00
+iWasOnly17: posts big blind $400.00
+*** HOLE CARDS ***
+Sabazius: raises $480.00 to $880.00
+SigadiSogadi: folds
+iWasOnly17: folds
+Uncalled bet ($480.00) returned to Sabazius
+Sabazius collected $1000.00 from pot
+Sabazius: doesn't show hand
+*** SUMMARY ***
+Total pot $1000.00 | Rake $0.00
+Seat 1: iWasOnly17 (big blind) folded before Flop
+Seat 2: Sabazius (button) collected ($1000.00)
+Seat 3: SigadiSogadi (small blind) folded before Flop
+
+PokerStars Hand #1508331986:  Hold'em No Limit ($200.00/$400.00 USD) - 2023/01/03 21:04:17 ET
+Table 'WPN_7 Day No Rathole 200/400 NLH - Limited Time' 9-max Seat #6 is the button
+Seat 1: iWasOnly17 ($110433.58 in chips)
+Seat 5: recruitme ($41102.12 in chips)
+Seat 6: Sabazius ($4000.00 in chips)
+iWasOnly17: posts small blind $200.00
+recruitme: posts big blind $400.00
+*** HOLE CARDS ***
+Sabazius: folds
+iWasOnly17: calls $200.00
+recruitme: checks
+*** FLOP *** [4h 2s 6c]
+iWasOnly17: checks
+recruitme: bets $400.00
+iWasOnly17: calls $400.00
+*** TURN *** [4h 2s 6c] [3c]
+iWasOnly17: checks
+recruitme: checks
+*** RIVER *** [4h 2s 6c 3c] [6s]
+iWasOnly17: bets $400.00
+recruitme: raises $3850.00 to $4250.00
+iWasOnly17: folds
+Uncalled bet ($3850.00) returned to recruitme
+recruitme collected $2398.25 from pot
+recruitme: doesn't show hand
+*** SUMMARY ***
+Total pot $2400.00 | Rake $1.75
+Board [4h 2s 6c 3c 6s]
+Seat 1: iWasOnly17 (small blind) folded on the River
+Seat 5: recruitme (big blind) collected ($2398.25)
+Seat 6: Sabazius (button) folded before Flop (didn't bet)
+
+PokerStars Hand #1508333326:  Hold'em No Limit ($200.00/$400.00 USD) - 2023/01/03 21:05:23 ET
+Table 'WPN_7 Day No Rathole 200/400 NLH - Limited Time' 9-max Seat #1 is the button
+Seat 1: iWasOnly17 ($109233.58 in chips)
+Seat 5: recruitme ($42300.37 in chips)
+Seat 6: Sabazius ($4000.00 in chips)
+recruitme: posts small blind $200.00
+Sabazius: posts big blind $400.00
+*** HOLE CARDS ***
+iWasOnly17: folds
+recruitme: folds
+Uncalled bet ($200.00) returned to Sabazius
+Sabazius collected $400.00 from pot
+Sabazius: doesn't show hand
+*** SUMMARY ***
+Total pot $400.00 | Rake $0.00
+Seat 1: iWasOnly17 (button) folded before Flop (didn't bet)
+Seat 5: recruitme (small blind) folded before Flop
+Seat 6: Sabazius (big blind) collected ($400.00)
+
+PokerStars Hand #1508333512:  Hold'em No Limit ($200.00/$400.00 USD) - 2023/01/03 21:05:32 ET
+Table 'WPN_7 Day No Rathole 200/400 NLH - Limited Time' 9-max Seat #5 is the button
+Seat 1: iWasOnly17 ($109233.58 in chips)
+Seat 5: recruitme ($42100.37 in chips)
+Seat 6: Sabazius ($4200.00 in chips)
+Sabazius: posts small blind $200.00
+iWasOnly17: posts big blind $400.00
+*** HOLE CARDS ***
+recruitme: raises $400.00 to $800.00
+Sabazius: folds
+iWasOnly17: folds
+Uncalled bet ($400.00) returned to recruitme
+recruitme collected $1000.00 from pot
+recruitme: doesn't show hand
+*** SUMMARY ***
+Total pot $1000.00 | Rake $0.00
+Seat 1: iWasOnly17 (big blind) folded before Flop
+Seat 5: recruitme (button) collected ($1000.00)
+Seat 6: Sabazius (small blind) folded before Flop
+
+PokerStars Hand #1508333716:  Hold'em No Limit ($200.00/$400.00 USD) - 2023/01/03 21:05:43 ET
+Table 'WPN_7 Day No Rathole 200/400 NLH - Limited Time' 9-max Seat #6 is the button
+Seat 1: iWasOnly17 ($108833.58 in chips)
+Seat 5: recruitme ($42700.37 in chips)
+Seat 6: Sabazius ($4000.00 in chips)
+iWasOnly17: posts small blind $200.00
+recruitme: posts big blind $400.00
+*** HOLE CARDS ***
+Sabazius: folds
+iWasOnly17: raises $800.00 to $1200.00
+recruitme: calls $800.00
+*** FLOP *** [8h 7s 5s]
+iWasOnly17: checks
+recruitme: checks
+*** TURN *** [8h 7s 5s] [7c]
+iWasOnly17: checks
+recruitme: checks
+*** RIVER *** [8h 7s 5s 7c] [2c]
+iWasOnly17: checks
+recruitme: checks
+*** SHOW DOWN ***
+recruitme: shows [Th Ah]
+iWasOnly17: mucks hand
+recruitme collected $2398.25 from pot
+*** SUMMARY ***
+Total pot $2400.00 | Rake $1.75
+Board [8h 7s 5s 7c 2c]
+Seat 1: iWasOnly17 (small blind) mucked
+Seat 5: recruitme (big blind) showed [Th Ah] and won ($2398.25)
+Seat 6: Sabazius (button) folded before Flop (didn't bet)
+
+PokerStars Hand #1508334897:  Hold'em No Limit ($200.00/$400.00 USD) - 2023/01/03 21:06:41 ET
+Table 'WPN_7 Day No Rathole 200/400 NLH - Limited Time' 9-max Seat #1 is the button
+Seat 1: iWasOnly17 ($107633.58 in chips)
+Seat 5: recruitme ($43898.62 in chips)
+Seat 6: Sabazius ($4000.00 in chips)
+recruitme: posts small blind $200.00
+Sabazius: posts big blind $400.00
+*** HOLE CARDS ***
+iWasOnly17: folds
+recruitme: calls $200.00
+Sabazius: checks
+*** FLOP *** [Tc 6s 5s]
+recruitme: checks
+Sabazius: bets $400.00
+recruitme: raises $800.00 to $1200.00
+Sabazius: calls $800.00
+*** TURN *** [Tc 6s 5s] [8d]
+recruitme: bets $2400.00
+Sabazius: calls $2400.00 and is all-in
+*** RIVER *** [Tc 6s 5s 8d] [2c]
+*** SHOW DOWN ***
+recruitme: shows [Qc Qd]
+Sabazius: shows [Ks 8s]
+recruitme collected $7998.25 from pot
+*** SUMMARY ***
+Total pot $8000.00 | Rake $1.75
+Board [Tc 6s 5s 8d 2c]
+Seat 1: iWasOnly17 (button) folded before Flop (didn't bet)
+Seat 5: recruitme (small blind) showed [Qc Qd] and won ($7998.25)
+Seat 6: Sabazius (big blind) showed [Ks 8s] and lost
+
+PokerStars Hand #1508335924:  Hold'em No Limit ($200.00/$400.00 USD) - 2023/01/03 21:07:32 ET
+Table 'WPN_7 Day No Rathole 200/400 NLH - Limited Time' 9-max Seat #5 is the button
+Seat 1: iWasOnly17 ($107633.58 in chips)
+Seat 5: recruitme ($47896.87 in chips)
+Seat 6: Sabazius ($4000.00 in chips)
+Sabazius: posts small blind $200.00
+iWasOnly17: posts big blind $400.00
+*** HOLE CARDS ***
+recruitme: folds
+Sabazius: raises $3600.00 to $4000.00 and is all-in
+iWasOnly17: folds
+Uncalled bet ($3600.00) returned to Sabazius
+Sabazius collected $800.00 from pot
+Sabazius: doesn't show hand
+*** SUMMARY ***
+Total pot $800.00 | Rake $0.00
+Seat 1: iWasOnly17 (big blind) folded before Flop
+Seat 5: recruitme (button) folded before Flop (didn't bet)
+Seat 6: Sabazius (small blind) collected ($800.00)
+
+PokerStars Hand #1508336236:  Hold'em No Limit ($200.00/$400.00 USD) - 2023/01/03 21:07:47 ET
+Table 'WPN_7 Day No Rathole 200/400 NLH - Limited Time' 9-max Seat #6 is the button
+Seat 1: iWasOnly17 ($107233.58 in chips)
+Seat 5: recruitme ($47896.87 in chips)
+Seat 6: Sabazius ($4400.00 in chips)
+iWasOnly17: posts small blind $200.00
+recruitme: posts big blind $400.00
+*** HOLE CARDS ***
+Sabazius: folds
+iWasOnly17: raises $800.00 to $1200.00
+recruitme: calls $800.00
+*** FLOP *** [Kd 2d 5d]
+iWasOnly17: checks
+recruitme: checks
+*** TURN *** [Kd 2d 5d] [3h]
+iWasOnly17: checks
+recruitme: checks
+*** RIVER *** [Kd 2d 5d 3h] [6d]
+iWasOnly17: checks
+recruitme: bets $1200.00
+iWasOnly17: folds
+Uncalled bet ($1200.00) returned to recruitme
+recruitme collected $2398.25 from pot
+recruitme: doesn't show hand
+*** SUMMARY ***
+Total pot $2400.00 | Rake $1.75
+Board [Kd 2d 5d 3h 6d]
+Seat 1: iWasOnly17 (small blind) folded on the River
+Seat 5: recruitme (big blind) collected ($2398.25)
+Seat 6: Sabazius (button) folded before Flop (didn't bet)
+
+PokerStars Hand #1508337529:  Hold'em No Limit ($200.00/$400.00 USD) - 2023/01/03 21:08:50 ET
+Table 'WPN_7 Day No Rathole 200/400 NLH - Limited Time' 9-max Seat #1 is the button
+Seat 1: iWasOnly17 ($106033.58 in chips)
+Seat 5: recruitme ($49095.12 in chips)
+Seat 6: Sabazius ($4400.00 in chips)
+recruitme: posts small blind $200.00
+Sabazius: posts big blind $400.00
+*** HOLE CARDS ***
+iWasOnly17: folds
+recruitme: calls $200.00
+Sabazius: checks
+*** FLOP *** [5s 7s Jh]
+recruitme: checks
+Sabazius: bets $600.00
+recruitme: calls $600.00
+*** TURN *** [5s 7s Jh] [Td]
+recruitme: checks
+Sabazius: bets $1500.00
+recruitme: folds
+Uncalled bet ($1500.00) returned to Sabazius
+Sabazius collected $1998.25 from pot
+Sabazius: doesn't show hand
+*** SUMMARY ***
+Total pot $2000.00 | Rake $1.75
+Board [5s 7s Jh Td]
+Seat 1: iWasOnly17 (button) folded before Flop (didn't bet)
+Seat 5: recruitme (small blind) folded on the Turn
+Seat 6: Sabazius (big blind) collected ($1998.25)
+
+PokerStars Hand #1508338324:  Hold'em No Limit ($200.00/$400.00 USD) - 2023/01/03 21:09:26 ET
+Table 'WPN_7 Day No Rathole 200/400 NLH - Limited Time' 9-max Seat #5 is the button
+Seat 1: iWasOnly17 ($106033.58 in chips)
+Seat 5: recruitme ($48095.12 in chips)
+Seat 6: Sabazius ($5398.25 in chips)
+Sabazius: posts small blind $200.00
+iWasOnly17: posts big blind $400.00
+*** HOLE CARDS ***
+recruitme: folds
+Sabazius: folds
+Uncalled bet ($200.00) returned to iWasOnly17
+iWasOnly17 collected $400.00 from pot
+iWasOnly17: doesn't show hand
+*** SUMMARY ***
+Total pot $400.00 | Rake $0.00
+Seat 1: iWasOnly17 (big blind) collected ($400.00)
+Seat 5: recruitme (button) folded before Flop (didn't bet)
+Seat 6: Sabazius (small blind) folded before Flop
+
+PokerStars Hand #1508338469:  Hold'em No Limit ($200.00/$400.00 USD) - 2023/01/03 21:09:33 ET
+Table 'WPN_7 Day No Rathole 200/400 NLH - Limited Time' 9-max Seat #6 is the button
+Seat 1: iWasOnly17 ($106233.58 in chips)
+Seat 5: recruitme ($48095.12 in chips)
+Seat 6: Sabazius ($5198.25 in chips)
+iWasOnly17: posts small blind $200.00
+recruitme: posts big blind $400.00
+*** HOLE CARDS ***
+Sabazius: folds
+iWasOnly17: raises $800.00 to $1200.00
+recruitme: folds
+Uncalled bet ($800.00) returned to iWasOnly17
+iWasOnly17 collected $800.00 from pot
+iWasOnly17: doesn't show hand
+*** SUMMARY ***
+Total pot $800.00 | Rake $0.00
+Seat 1: iWasOnly17 (small blind) collected ($800.00)
+Seat 5: recruitme (big blind) folded before Flop
+Seat 6: Sabazius (button) folded before Flop (didn't bet)
+
+PokerStars Hand #1508338828:  Hold'em No Limit ($200.00/$400.00 USD) - 2023/01/03 21:09:51 ET
+Table 'WPN_7 Day No Rathole 200/400 NLH - Limited Time' 9-max Seat #1 is the button
+Seat 1: iWasOnly17 ($106633.58 in chips)
+Seat 5: recruitme ($47695.12 in chips)
+Seat 6: Sabazius ($5198.25 in chips)
+recruitme: posts small blind $200.00
+Sabazius: posts big blind $400.00
+*** HOLE CARDS ***
+iWasOnly17: raises $400.00 to $800.00
+recruitme: folds
+Sabazius: folds
+Uncalled bet ($400.00) returned to iWasOnly17
+iWasOnly17 collected $1000.00 from pot
+iWasOnly17: doesn't show hand
+*** SUMMARY ***
+Total pot $1000.00 | Rake $0.00
+Seat 1: iWasOnly17 (button) collected ($1000.00)
+Seat 5: recruitme (small blind) folded before Flop
+Seat 6: Sabazius (big blind) folded before Flop
+
+PokerStars Hand #1508339177:  Hold'em No Limit ($200.00/$400.00 USD) - 2023/01/03 21:10:07 ET
+Table 'WPN_7 Day No Rathole 200/400 NLH - Limited Time' 9-max Seat #5 is the button
+Seat 1: iWasOnly17 ($107233.58 in chips)
+Seat 5: recruitme ($47495.12 in chips)
+Seat 6: Sabazius ($4798.25 in chips)
+Sabazius: posts small blind $200.00
+iWasOnly17: posts big blind $400.00
+*** HOLE CARDS ***
+recruitme: raises $400.00 to $800.00
+Sabazius: folds
+iWasOnly17: folds
+Uncalled bet ($400.00) returned to recruitme
+recruitme collected $1000.00 from pot
+recruitme: doesn't show hand
+*** SUMMARY ***
+Total pot $1000.00 | Rake $0.00
+Seat 1: iWasOnly17 (big blind) folded before Flop
+Seat 5: recruitme (button) collected ($1000.00)
+Seat 6: Sabazius (small blind) folded before Flop
+
+PokerStars Hand #1508339522:  Hold'em No Limit ($200.00/$400.00 USD) - 2023/01/03 21:10:24 ET
+Table 'WPN_7 Day No Rathole 200/400 NLH - Limited Time' 9-max Seat #6 is the button
+Seat 1: iWasOnly17 ($106833.58 in chips)
+Seat 5: recruitme ($48095.12 in chips)
+Seat 6: Sabazius ($4598.25 in chips)
+iWasOnly17: posts small blind $200.00
+recruitme: posts big blind $400.00
+*** HOLE CARDS ***
+Sabazius: raises $4198.25 to $4598.25 and is all-in
+iWasOnly17: calls $4398.25
+recruitme: folds
+*** FLOP *** [Th Ks 2h]
+*** TURN *** [Th Ks 2h] [9s]
+*** RIVER *** [Th Ks 2h 9s] [6d]
+*** SHOW DOWN ***
+iWasOnly17: shows [Ad Ts]
+Sabazius: shows [Ah 8c]
+iWasOnly17 collected $9594.75 from pot
+*** SUMMARY ***
+Total pot $9596.50 | Rake $1.75
+Board [Th Ks 2h 9s 6d]
+Seat 1: iWasOnly17 (small blind) showed [Ad Ts] and won ($9594.75)
+Seat 5: recruitme (big blind) folded before Flop
+Seat 6: Sabazius (button) showed [Ah 8c] and lost
+
+PokerStars Hand #1508340365:  Hold'em No Limit ($200.00/$400.00 USD) - 2023/01/03 21:10:54 ET
+Table 'WPN_7 Day No Rathole 200/400 NLH - Limited Time' 9-max Seat #1 is the button
+Seat 1: iWasOnly17 ($111830.08 in chips)
+Seat 5: recruitme ($47695.12 in chips)
+Seat 6: Sabazius ($4000.00 in chips)
+recruitme: posts small blind $200.00
+Sabazius: posts big blind $400.00
+*** HOLE CARDS ***
+iWasOnly17: raises $400.00 to $800.00
+recruitme: calls $600.00
+Sabazius: folds
+*** FLOP *** [4d Ts 9c]
+recruitme: checks
+iWasOnly17: bets $1000.00
+recruitme: calls $1000.00
+*** TURN *** [4d Ts 9c] [Jc]
+recruitme: checks
+iWasOnly17: checks
+*** RIVER *** [4d Ts 9c Jc] [Ad]
+recruitme: checks
+iWasOnly17: bets $4000.00
+recruitme: calls $4000.00
+*** SHOW DOWN ***
+iWasOnly17: shows [As Th]
+recruitme: mucks hand
+iWasOnly17 collected $11998.25 from pot
+*** SUMMARY ***
+Total pot $12000.00 | Rake $1.75
+Board [4d Ts 9c Jc Ad]
+Seat 1: iWasOnly17 (button) showed [As Th] and won ($11998.25)
+Seat 5: recruitme (small blind) mucked
+Seat 6: Sabazius (big blind) folded before Flop
+
+PokerStars Hand #1508342176:  Hold'em No Limit ($200.00/$400.00 USD) - 2023/01/03 21:12:06 ET
+Table 'WPN_7 Day No Rathole 200/400 NLH - Limited Time' 9-max Seat #5 is the button
+Seat 1: iWasOnly17 ($118028.33 in chips)
+Seat 5: recruitme ($41895.12 in chips)
+Seat 6: Sabazius ($4000.00 in chips)
+Sabazius: posts small blind $200.00
+iWasOnly17: posts big blind $400.00
+*** HOLE CARDS ***
+recruitme: folds
+Sabazius: raises $3600.00 to $4000.00 and is all-in
+iWasOnly17: folds
+Uncalled bet ($3600.00) returned to Sabazius
+Sabazius collected $800.00 from pot
+Sabazius: doesn't show hand
+*** SUMMARY ***
+Total pot $800.00 | Rake $0.00
+Seat 1: iWasOnly17 (big blind) folded before Flop
+Seat 5: recruitme (button) folded before Flop (didn't bet)
+Seat 6: Sabazius (small blind) collected ($800.00)
+

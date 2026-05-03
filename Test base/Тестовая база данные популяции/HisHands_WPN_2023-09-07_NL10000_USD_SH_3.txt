@@ -1,0 +1,80 @@
+
+Hand #1850090753 - Holdem(No Limit) - $50/$100 - 2023/09/06 23:28:14 UTC
+Scales Mound 6-max Seat #2 is the button
+Seat 2: SigadiSogadi ($10748.75)
+Seat 5: PR0DIGY ($10000)
+SigadiSogadi posts the small blind $50
+PR0DIGY posts the big blind $100
+*** HOLE CARDS *** 
+SigadiSogadi folds
+*** SUMMARY ***
+Total pot $150
+Seat 2: SigadiSogadi (small blind) folded on the Pre-Flop
+Seat 5: PR0DIGY (big blind) did not showed and won $150
+
+
+Hand #1850090999 - Holdem(No Limit) - $50/$100 - 2023/09/06 23:30:08 UTC
+Scales Mound 6-max Seat #5 is the button
+Seat 2: SigadiSogadi ($10698.75)
+Seat 5: PR0DIGY ($10050)
+PR0DIGY posts the small blind $50
+SigadiSogadi posts the big blind $100
+*** HOLE CARDS *** 
+PR0DIGY raises $210 to $260
+SigadiSogadi calls $160
+*** FLOP *** [7d 3h 4s]
+Main pot $518.75 | Rake $1.25
+SigadiSogadi checks
+PR0DIGY checks
+*** TURN *** [7d 3h 4s] [Td]
+Main pot $518.75 | Rake $1.25
+SigadiSogadi bets $390
+PR0DIGY raises $1364.06 to $1364.06
+SigadiSogadi raises $3410.15 to $3800.15
+PR0DIGY calls $2436.09
+*** RIVER *** [7d 3h 4s Td] [Ad]
+Main pot $8119.05 | Rake $1.25
+SigadiSogadi bets $6638.60 and is all-in
+PR0DIGY calls $5989.85 and is all-in
+Uncalled bet ($648.75) returned to SigadiSogadi
+SigadiSogadi does not show
+*** SHOW DOWN ***
+Main pot $8119.05 | Rake $1.25
+SigadiSogadi shows [5h 6d] (a combo of some cards [7d 6d 5h 4s 3h])
+PR0DIGY shows [3d 5d] (a combo of some cards [Ad Td 7d 5d 3d])
+PR0DIGY collected $20098.75 from main pot
+*** SUMMARY ***
+Total pot $20098.75 | Rake $1.25
+Seat 2: SigadiSogadi (big blind) showed [5h 6d] and lost
+Seat 5: PR0DIGY (small blind) showed [3d 5d] and won $20098.75 with Flush [Ad Td 7d 5d 3d]
+
+
+Hand #1850093558 - Holdem(No Limit) - $50/$100 - 2023/09/06 23:31:14 UTC
+Scales Mound 6-max Seat #2 is the button
+Seat 2: SigadiSogadi ($10000)
+Seat 5: PR0DIGY ($20098.75)
+SigadiSogadi posts the small blind $50
+PR0DIGY posts the big blind $100
+*** HOLE CARDS *** 
+SigadiSogadi raises $190 to $240
+PR0DIGY calls $140
+*** FLOP *** [4s 9c Js]
+Main pot $478.75 | Rake $1.25
+PR0DIGY checks
+SigadiSogadi bets $150
+PR0DIGY calls $150
+*** TURN *** [4s 9c Js] [3c]
+Main pot $778.75 | Rake $1.25
+PR0DIGY checks
+SigadiSogadi bets $1560
+PR0DIGY folds
+Uncalled bet ($1560) returned to SigadiSogadi
+SigadiSogadi does not show
+*** SUMMARY ***
+Total pot $778.75 | Rake $1.25
+Seat 2: SigadiSogadi (small blind) did not showed and won $778.75
+Seat 5: PR0DIGY (big blind) folded on the Turn
+
+
+
+

@@ -1,0 +1,428 @@
+PokerStars Hand #1486983941:  Hold'em No Limit ($50.00/$100.00 USD) - 2022/12/16 07:34:18 ET
+Table 'WPN_7 Day No Rathole 50/100 NLH' 9-max Seat #1 is the button
+Seat 1: Conspiracy4 ($4491.25 in chips)
+Seat 2: SigadiSogadi ($4839.52 in chips)
+Seat 3: zas911 ($19285.22 in chips)
+Seat 4: Amancio_017 ($1000.00 in chips)
+Conspiracy4: posts small blind $50.00
+SigadiSogadi: posts big blind $100.00
+*** HOLE CARDS ***
+Conspiracy4: raises $100.00 to $200.00
+SigadiSogadi: raises $600.00 to $800.00
+Conspiracy4: folds
+Uncalled bet ($600.00) returned to SigadiSogadi
+SigadiSogadi collected $400.00 from pot
+SigadiSogadi: doesn't show hand
+*** SUMMARY ***
+Total pot $400.00 | Rake $0.00
+Seat 1: Conspiracy4 (button) (small blind) folded before Flop
+Seat 2: SigadiSogadi (big blind) collected ($400.00)
+
+PokerStars Hand #1486984057:  Hold'em No Limit ($50.00/$100.00 USD) - 2022/12/16 07:34:30 ET
+Table 'WPN_7 Day No Rathole 50/100 NLH' 9-max Seat #1 is the button
+Seat 1: Conspiracy4 ($4291.25 in chips)
+Seat 2: SigadiSogadi ($5039.52 in chips)
+Seat 3: zas911 ($19285.22 in chips)
+Seat 4: Amancio_017 ($1000.00 in chips)
+SigadiSogadi: posts small blind $50.00
+zas911: posts big blind $100.00
+*** HOLE CARDS ***
+Conspiracy4: raises $100.00 to $200.00
+SigadiSogadi: raises $600.00 to $800.00
+zas911: folds
+Conspiracy4: folds
+Uncalled bet ($600.00) returned to SigadiSogadi
+SigadiSogadi collected $500.00 from pot
+SigadiSogadi: doesn't show hand
+*** SUMMARY ***
+Total pot $500.00 | Rake $0.00
+Seat 1: Conspiracy4 (button) folded before Flop
+Seat 2: SigadiSogadi (small blind) collected ($500.00)
+Seat 3: zas911 (big blind) folded before Flop
+
+PokerStars Hand #1486984214:  Hold'em No Limit ($50.00/$100.00 USD) - 2022/12/16 07:34:47 ET
+Table 'WPN_7 Day No Rathole 50/100 NLH' 9-max Seat #2 is the button
+Seat 1: Conspiracy4 ($4091.25 in chips)
+Seat 2: SigadiSogadi ($5339.52 in chips)
+Seat 3: zas911 ($19185.22 in chips)
+Seat 4: Amancio_017 ($1000.00 in chips)
+zas911: posts small blind $50.00
+Amancio_017: posts big blind $100.00
+*** HOLE CARDS ***
+Conspiracy4: raises $100.00 to $200.00
+SigadiSogadi: raises $600.00 to $800.00
+zas911: folds
+Amancio_017: folds
+Conspiracy4: raises $3291.25 to $4091.25 and is all-in
+SigadiSogadi: calls $3291.25
+*** FLOP *** [Qc 4h 7s]
+*** TURN *** [Qc 4h 7s] [8c]
+*** RIVER *** [Qc 4h 7s 8c] [2d]
+*** SHOW DOWN ***
+Conspiracy4: shows [As Ah]
+SigadiSogadi: shows [Ad Jd]
+Conspiracy4 collected $8330.25 from pot
+*** SUMMARY ***
+Total pot $8332.50 | Rake $2.25
+Board [Qc 4h 7s 8c 2d]
+Seat 1: Conspiracy4 showed [As Ah] and won ($8330.25)
+Seat 2: SigadiSogadi (button) showed [Ad Jd] and lost
+Seat 3: zas911 (small blind) folded before Flop
+Seat 4: Amancio_017 (big blind) folded before Flop
+
+PokerStars Hand #1486984559:  Hold'em No Limit ($50.00/$100.00 USD) - 2022/12/16 07:35:23 ET
+Table 'WPN_7 Day No Rathole 50/100 NLH' 9-max Seat #3 is the button
+Seat 2: SigadiSogadi ($1248.27 in chips)
+Seat 3: zas911 ($19135.22 in chips)
+Seat 4: Amancio_017 ($1000.00 in chips)
+Seat 5: honey_badger ($1000.00 in chips)
+Amancio_017: posts small blind $50.00
+honey_badger: posts big blind $100.00
+*** HOLE CARDS ***
+SigadiSogadi: folds
+zas911: raises $19035.22 to $19135.22 and is all-in
+Amancio_017: folds
+honey_badger: folds
+Uncalled bet ($19035.22) returned to zas911
+zas911 collected $250.00 from pot
+zas911: doesn't show hand
+*** SUMMARY ***
+Total pot $250.00 | Rake $0.00
+Seat 2: SigadiSogadi folded before Flop (didn't bet)
+Seat 3: zas911 (button) collected ($250.00)
+Seat 4: Amancio_017 (small blind) folded before Flop
+Seat 5: honey_badger (big blind) folded before Flop
+
+PokerStars Hand #1486984751:  Hold'em No Limit ($50.00/$100.00 USD) - 2022/12/16 07:35:43 ET
+Table 'WPN_7 Day No Rathole 50/100 NLH' 9-max Seat #4 is the button
+Seat 2: SigadiSogadi ($1248.27 in chips)
+Seat 4: Amancio_017 ($950.00 in chips)
+Amancio_017: posts small blind $50.00
+SigadiSogadi: posts big blind $100.00
+*** HOLE CARDS ***
+Amancio_017: raises $900.00 to $1000.00 and is all-in
+SigadiSogadi: folds
+Uncalled bet ($900.00) returned to Amancio_017
+Amancio_017 collected $200.00 from pot
+Amancio_017: doesn't show hand
+*** SUMMARY ***
+Total pot $200.00 | Rake $0.00
+Seat 2: SigadiSogadi (big blind) folded before Flop
+Seat 4: Amancio_017 (button) (small blind) collected ($200.00)
+
+PokerStars Hand #1486984867:  Hold'em No Limit ($50.00/$100.00 USD) - 2022/12/16 07:35:55 ET
+Table 'WPN_7 Day No Rathole 50/100 NLH' 9-max Seat #2 is the button
+Seat 2: SigadiSogadi ($1148.27 in chips)
+Seat 4: Amancio_017 ($1100.00 in chips)
+SigadiSogadi: posts small blind $50.00
+Amancio_017: posts big blind $100.00
+*** HOLE CARDS ***
+SigadiSogadi: folds
+Uncalled bet ($50.00) returned to Amancio_017
+Amancio_017 collected $100.00 from pot
+Amancio_017: doesn't show hand
+*** SUMMARY ***
+Total pot $100.00 | Rake $0.00
+Seat 2: SigadiSogadi (button) (small blind) folded before Flop
+Seat 4: Amancio_017 (big blind) collected ($100.00)
+
+PokerStars Hand #1486963763:  Hold'em No Limit ($50.00/$100.00 USD) - 2022/12/16 07:02:20 ET
+Table 'WPN_7 Day No Rathole 50/100 NLH' 9-max Seat #6 is the button
+Seat 5: oneplusone ($3159.65 in chips)
+Seat 6: Amancio_017 ($900.00 in chips)
+Amancio_017: posts small blind $50.00
+oneplusone: posts big blind $100.00
+*** HOLE CARDS ***
+Amancio_017: calls $50.00
+oneplusone: raises $3059.65 to $3159.65 and is all-in
+Amancio_017: folds
+Uncalled bet ($3059.65) returned to oneplusone
+oneplusone collected $200.00 from pot
+oneplusone: doesn't show hand
+*** SUMMARY ***
+Total pot $200.00 | Rake $0.00
+Seat 5: oneplusone (big blind) collected ($200.00)
+Seat 6: Amancio_017 (button) (small blind) folded before Flop
+
+PokerStars Hand #1486963609:  Hold'em No Limit ($50.00/$100.00 USD) - 2022/12/16 07:02:06 ET
+Table 'WPN_7 Day No Rathole 50/100 NLH' 9-max Seat #5 is the button
+Seat 5: oneplusone ($3059.65 in chips)
+Seat 6: Amancio_017 ($1000.00 in chips)
+oneplusone: posts small blind $50.00
+Amancio_017: posts big blind $100.00
+*** HOLE CARDS ***
+oneplusone: raises $2959.65 to $3059.65 and is all-in
+Amancio_017: folds
+Uncalled bet ($2959.65) returned to oneplusone
+oneplusone collected $200.00 from pot
+oneplusone: doesn't show hand
+*** SUMMARY ***
+Total pot $200.00 | Rake $0.00
+Seat 5: oneplusone (button) (small blind) collected ($200.00)
+Seat 6: Amancio_017 (big blind) folded before Flop
+
+PokerStars Hand #1486963491:  Hold'em No Limit ($50.00/$100.00 USD) - 2022/12/16 07:01:55 ET
+Table 'WPN_7 Day No Rathole 50/100 NLH' 9-max Seat #4 is the button
+Seat 4: Conspiracy4 ($5191.25 in chips)
+Seat 5: oneplusone ($2859.65 in chips)
+Conspiracy4: posts small blind $50.00
+oneplusone: posts big blind $100.00
+*** HOLE CARDS ***
+Conspiracy4: raises $100.00 to $200.00
+oneplusone: raises $2659.65 to $2859.65 and is all-in
+Conspiracy4: folds
+Uncalled bet ($2659.65) returned to oneplusone
+oneplusone collected $400.00 from pot
+oneplusone: doesn't show hand
+*** SUMMARY ***
+Total pot $400.00 | Rake $0.00
+Seat 4: Conspiracy4 (button) (small blind) folded before Flop
+Seat 5: oneplusone (big blind) collected ($400.00)
+
+PokerStars Hand #1486963143:  Hold'em No Limit ($50.00/$100.00 USD) - 2022/12/16 07:01:21 ET
+Table 'WPN_7 Day No Rathole 50/100 NLH' 9-max Seat #5 is the button
+Seat 4: Conspiracy4 ($2596.25 in chips)
+Seat 5: oneplusone ($5455.90 in chips)
+oneplusone: posts small blind $50.00
+Conspiracy4: posts big blind $100.00
+*** HOLE CARDS ***
+oneplusone: raises $100.00 to $200.00
+Conspiracy4: raises $2396.25 to $2596.25 and is all-in
+oneplusone: calls $2396.25
+*** FLOP *** [Th 6d Kh]
+*** TURN *** [Th 6d Kh] [5h]
+*** RIVER *** [Th 6d Kh 5h] [Ad]
+*** SHOW DOWN ***
+Conspiracy4: shows [5d 5s]
+oneplusone: shows [Ts Ac]
+Conspiracy4 collected $5191.25 from pot
+*** SUMMARY ***
+Total pot $5192.50 | Rake $1.25
+Board [Th 6d Kh 5h Ad]
+Seat 4: Conspiracy4 (big blind) showed [5d 5s] and won ($5191.25)
+Seat 5: oneplusone (button) (small blind) showed [Ts Ac] and lost
+
+PokerStars Hand #1486961763:  Hold'em No Limit ($50.00/$100.00 USD) - 2022/12/16 06:58:51 ET
+Table 'WPN_7 Day No Rathole 50/100 NLH' 9-max Seat #6 is the button
+Seat 4: Amancio_017 ($900.00 in chips)
+Seat 5: oneplusone ($6954.65 in chips)
+Seat 6: zas911 ($19135.22 in chips)
+Amancio_017: posts small blind $50.00
+oneplusone: posts big blind $100.00
+*** HOLE CARDS ***
+zas911: raises $100.00 to $200.00
+Amancio_017: folds
+oneplusone: folds
+Uncalled bet ($100.00) returned to zas911
+zas911 collected $250.00 from pot
+zas911: doesn't show hand
+*** SUMMARY ***
+Total pot $250.00 | Rake $0.00
+Seat 4: Amancio_017 (small blind) folded before Flop
+Seat 5: oneplusone (big blind) folded before Flop
+Seat 6: zas911 (button) collected ($250.00)
+
+PokerStars Hand #1486962810:  Hold'em No Limit ($50.00/$100.00 USD) - 2022/12/16 07:00:53 ET
+Table 'WPN_7 Day No Rathole 50/100 NLH' 9-max Seat #4 is the button
+Seat 4: Conspiracy4 ($1298.75 in chips)
+Seat 5: oneplusone ($6754.65 in chips)
+Conspiracy4: posts small blind $50.00
+oneplusone: posts big blind $100.00
+*** HOLE CARDS ***
+Conspiracy4: raises $100.00 to $200.00
+oneplusone: raises $6554.65 to $6754.65 and is all-in
+Conspiracy4: calls $1098.75 and is all-in
+Uncalled bet ($5455.90) returned to oneplusone
+*** FLOP *** [Td 6d 8h]
+*** TURN *** [Td 6d 8h] [4s]
+*** RIVER *** [Td 6d 8h 4s] [Qc]
+*** SHOW DOWN ***
+Conspiracy4: shows [8c As]
+oneplusone: shows [4c Ad]
+Conspiracy4 collected $2596.25 from pot
+*** SUMMARY ***
+Total pot $2597.50 | Rake $1.25
+Board [Td 6d 8h 4s Qc]
+Seat 4: Conspiracy4 (button) (small blind) showed [8c As] and won ($2596.25)
+Seat 5: oneplusone (big blind) showed [4c Ad] and lost
+
+PokerStars Hand #1486961239:  Hold'em No Limit ($50.00/$100.00 USD) - 2022/12/16 06:57:47 ET
+Table 'WPN_7 Day No Rathole 50/100 NLH' 9-max Seat #3 is the button
+Seat 3: Conspiracy4 ($1198.75 in chips)
+Seat 4: Amancio_017 ($900.00 in chips)
+Seat 5: oneplusone ($6006.40 in chips)
+Seat 6: zas911 ($18985.22 in chips)
+Amancio_017: posts small blind $50.00
+oneplusone: posts big blind $100.00
+*** HOLE CARDS ***
+Conspiracy4: folds
+Amancio_017: raises $100.00 to $200.00
+oneplusone: raises $5806.40 to $6006.40 and is all-in
+Amancio_017: calls $800.00 and is all-in
+Uncalled bet ($5006.40) returned to oneplusone
+*** FLOP *** [Qc 5s 6s]
+*** TURN *** [Qc 5s 6s] [As]
+*** RIVER *** [Qc 5s 6s As] [8h]
+*** SHOW DOWN ***
+oneplusone: shows [Ac 2s]
+Amancio_017: shows [Jd Kd]
+oneplusone collected $1998.25 from pot
+*** SUMMARY ***
+Total pot $2000.00 | Rake $1.75
+Board [Qc 5s 6s As 8h]
+Seat 3: Conspiracy4 (button) folded before Flop (didn't bet)
+Seat 4: Amancio_017 (small blind) showed [Jd Kd] and lost
+Seat 5: oneplusone (big blind) showed [Ac 2s] and won ($1998.25)
+
+PokerStars Hand #1486961478:  Hold'em No Limit ($50.00/$100.00 USD) - 2022/12/16 06:58:18 ET
+Table 'WPN_7 Day No Rathole 50/100 NLH' 9-max Seat #4 is the button
+Seat 3: Conspiracy4 ($1198.75 in chips)
+Seat 4: Amancio_017 ($1000.00 in chips)
+Seat 5: oneplusone ($7004.65 in chips)
+Seat 6: zas911 ($18985.22 in chips)
+oneplusone: posts small blind $50.00
+zas911: posts big blind $100.00
+*** HOLE CARDS ***
+Conspiracy4: folds
+Amancio_017: folds
+oneplusone: folds
+Uncalled bet ($50.00) returned to zas911
+zas911 collected $100.00 from pot
+zas911: doesn't show hand
+*** SUMMARY ***
+Total pot $100.00 | Rake $0.00
+Seat 3: Conspiracy4 folded before Flop (didn't bet)
+Seat 4: Amancio_017 (button) folded before Flop (didn't bet)
+Seat 5: oneplusone (small blind) folded before Flop
+Seat 6: zas911 (big blind) collected ($100.00)
+
+PokerStars Hand #1486961625:  Hold'em No Limit ($50.00/$100.00 USD) - 2022/12/16 06:58:34 ET
+Table 'WPN_7 Day No Rathole 50/100 NLH' 9-max Seat #5 is the button
+Seat 4: Amancio_017 ($1000.00 in chips)
+Seat 5: oneplusone ($6954.65 in chips)
+Seat 6: zas911 ($19035.22 in chips)
+zas911: posts small blind $50.00
+Amancio_017: posts big blind $100.00
+*** HOLE CARDS ***
+oneplusone: folds
+zas911: raises $18935.22 to $19035.22 and is all-in
+Amancio_017: folds
+Uncalled bet ($18935.22) returned to zas911
+zas911 collected $200.00 from pot
+zas911: doesn't show hand
+*** SUMMARY ***
+Total pot $200.00 | Rake $0.00
+Seat 4: Amancio_017 (big blind) folded before Flop
+Seat 5: oneplusone (button) folded before Flop (didn't bet)
+Seat 6: zas911 (small blind) collected ($200.00)
+
+PokerStars Hand #1486421464:  Hold'em No Limit ($50.00/$100.00 USD) - 2022/12/15 23:03:49 ET
+Table 'WPN_7 Day No Rathole 50/100 NLH' 9-max Seat #3 is the button
+Seat 2: Sabazius ($2497.50 in chips)
+Seat 3: alanwatts15 ($500.00 in chips)
+alanwatts15: posts small blind $50.00
+Sabazius: posts big blind $100.00
+*** HOLE CARDS ***
+alanwatts15: raises $400.00 to $500.00 and is all-in
+Sabazius: folds
+Uncalled bet ($400.00) returned to alanwatts15
+alanwatts15 collected $200.00 from pot
+alanwatts15: doesn't show hand
+*** SUMMARY ***
+Total pot $200.00 | Rake $0.00
+Seat 2: Sabazius (big blind) folded before Flop
+Seat 3: alanwatts15 (button) (small blind) collected ($200.00)
+
+PokerStars Hand #1486754700:  Hold'em No Limit ($50.00/$100.00 USD) - 2022/12/16 03:21:31 ET
+Table 'WPN_7 Day No Rathole 50/100 NLH' 9-max Seat #2 is the button
+Seat 2: Sabazius ($3396.25 in chips)
+Seat 3: zas911 ($18586.47 in chips)
+Sabazius: posts small blind $50.00
+zas911: posts big blind $100.00
+*** HOLE CARDS ***
+Sabazius: folds
+Uncalled bet ($50.00) returned to zas911
+zas911 collected $100.00 from pot
+zas911: doesn't show hand
+*** SUMMARY ***
+Total pot $100.00 | Rake $0.00
+Seat 2: Sabazius (button) (small blind) folded before Flop
+Seat 3: zas911 (big blind) collected ($100.00)
+
+PokerStars Hand #1486754978:  Hold'em No Limit ($50.00/$100.00 USD) - 2022/12/16 03:21:42 ET
+Table 'WPN_7 Day No Rathole 50/100 NLH' 9-max Seat #3 is the button
+Seat 2: Sabazius ($3346.25 in chips)
+Seat 3: zas911 ($18636.47 in chips)
+zas911: posts small blind $50.00
+Sabazius: posts big blind $100.00
+*** HOLE CARDS ***
+zas911: raises $100.00 to $200.00
+Sabazius: calls $100.00
+*** FLOP *** [2c 6c 8d]
+Sabazius: checks
+zas911: bets $150.00
+Sabazius: calls $150.00
+*** TURN *** [2c 6c 8d] [Qh]
+Sabazius: checks
+zas911: bets $525.00
+Sabazius: folds
+Uncalled bet ($525.00) returned to zas911
+zas911 collected $698.75 from pot
+zas911: doesn't show hand
+*** SUMMARY ***
+Total pot $700.00 | Rake $1.25
+Board [2c 6c 8d Qh]
+Seat 2: Sabazius (big blind) folded on the Turn
+Seat 3: zas911 (button) (small blind) collected ($698.75)
+
+PokerStars Hand #1486756001:  Hold'em No Limit ($50.00/$100.00 USD) - 2022/12/16 03:22:34 ET
+Table 'WPN_7 Day No Rathole 50/100 NLH' 9-max Seat #2 is the button
+Seat 2: Sabazius ($2996.25 in chips)
+Seat 4: luxpoker ($1150.00 in chips)
+Sabazius: posts small blind $50.00
+luxpoker: posts big blind $100.00
+*** HOLE CARDS ***
+Sabazius: calls $50.00
+luxpoker: checks
+*** FLOP *** [Jh 2h 3d]
+luxpoker: checks
+Sabazius: bets $100.00
+luxpoker: raises $182.00 to $282.00
+Sabazius: calls $182.00
+*** TURN *** [Jh 2h 3d] [4c]
+luxpoker: checks
+Sabazius: bets $191.00
+luxpoker: calls $191.00
+*** RIVER *** [Jh 2h 3d 4c] [5d]
+luxpoker: checks
+Sabazius: bets $2423.25 and is all-in
+luxpoker: calls $577.00 and is all-in
+Uncalled bet ($1846.25) returned to Sabazius
+*** SHOW DOWN ***
+luxpoker: shows [6d 4d]
+Sabazius: shows [2d Js]
+luxpoker collected $2298.75 from pot
+*** SUMMARY ***
+Total pot $2300.00 | Rake $1.25
+Board [Jh 2h 3d 4c 5d]
+Seat 2: Sabazius (button) (small blind) showed [2d Js] and lost
+Seat 4: luxpoker (big blind) showed [6d 4d] and won ($2298.75)
+
+PokerStars Hand #1486758338:  Hold'em No Limit ($50.00/$100.00 USD) - 2022/12/16 03:24:26 ET
+Table 'WPN_7 Day No Rathole 50/100 NLH' 9-max Seat #4 is the button
+Seat 2: Sabazius ($1846.25 in chips)
+Seat 4: luxpoker ($2298.75 in chips)
+luxpoker: posts small blind $50.00
+Sabazius: posts big blind $100.00
+*** HOLE CARDS ***
+luxpoker: raises $100.00 to $200.00
+Sabazius: raises $1646.25 to $1846.25 and is all-in
+luxpoker: folds
+Uncalled bet ($1646.25) returned to Sabazius
+Sabazius collected $400.00 from pot
+Sabazius: doesn't show hand
+*** SUMMARY ***
+Total pot $400.00 | Rake $0.00
+Seat 2: Sabazius (big blind) collected ($400.00)
+Seat 4: luxpoker (button) (small blind) folded before Flop
+

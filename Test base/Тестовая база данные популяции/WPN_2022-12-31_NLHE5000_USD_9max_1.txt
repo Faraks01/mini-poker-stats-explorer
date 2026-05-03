@@ -1,0 +1,1646 @@
+PokerStars Hand #1504766977:  Hold'em No Limit ($25.00/$50.00 USD) - 2022/12/31 17:21:47 ET
+Table 'WPN_Mill Creek' 9-max Seat #2 is the button
+Seat 2: thalca ($950.00 in chips)
+Seat 7: Nimble123 ($1050.00 in chips)
+Seat 8: el0el ($2500.00 in chips)
+Nimble123: posts small blind $25.00
+el0el: posts big blind $50.00
+*** HOLE CARDS ***
+thalca: folds
+Nimble123: raises $1000.00 to $1050.00 and is all-in
+el0el: folds
+Uncalled bet ($1000.00) returned to Nimble123
+Nimble123 collected $100.00 from pot
+Nimble123: doesn't show hand
+*** SUMMARY ***
+Total pot $100.00 | Rake $0.00
+Seat 2: thalca (button) folded before Flop (didn't bet)
+Seat 7: Nimble123 (small blind) collected ($100.00)
+Seat 8: el0el (big blind) folded before Flop
+
+PokerStars Hand #1504652422:  Hold'em No Limit ($25.00/$50.00 USD) - 2022/12/31 11:37:51 ET
+Table 'WPN_7 Day No Rathole 25/50 NLH 9-Max' 9-max Seat #1 is the button
+Seat 1: imachipguy ($548.75 in chips)
+Seat 2: THECAGE ($14128.40 in chips)
+Seat 3: el0el ($7885.58 in chips)
+imachipguy: posts small blind $25.00
+THECAGE: posts big blind $50.00
+*** HOLE CARDS ***
+imachipguy: calls $25.00
+THECAGE: checks
+*** FLOP *** [9c 9h Jh]
+THECAGE: checks
+imachipguy: checks
+*** TURN *** [9c 9h Jh] [Qs]
+THECAGE: bets $50.00
+imachipguy: folds
+Uncalled bet ($50.00) returned to THECAGE
+THECAGE collected $98.75 from pot
+THECAGE: doesn't show hand
+*** SUMMARY ***
+Total pot $100.00 | Rake $1.25
+Board [9c 9h Jh Qs]
+Seat 1: imachipguy (button) (small blind) folded on the Turn
+Seat 2: THECAGE (big blind) collected ($98.75)
+
+PokerStars Hand #1504652632:  Hold'em No Limit ($25.00/$50.00 USD) - 2022/12/31 11:38:35 ET
+Table 'WPN_7 Day No Rathole 25/50 NLH 9-Max' 9-max Seat #1 is the button
+Seat 1: imachipguy ($498.75 in chips)
+Seat 2: THECAGE ($14177.15 in chips)
+Seat 3: el0el ($7885.58 in chips)
+Seat 4: notvrygud ($8963.53 in chips)
+THECAGE: posts small blind $25.00
+el0el: posts big blind $50.00
+*** HOLE CARDS ***
+imachipguy: folds
+THECAGE: folds
+Uncalled bet ($25.00) returned to el0el
+el0el collected $50.00 from pot
+el0el: doesn't show hand
+*** SUMMARY ***
+Total pot $50.00 | Rake $0.00
+Seat 1: imachipguy (button) folded before Flop (didn't bet)
+Seat 2: THECAGE (small blind) folded before Flop
+Seat 3: el0el (big blind) collected ($50.00)
+
+PokerStars Hand #1504652688:  Hold'em No Limit ($25.00/$50.00 USD) - 2022/12/31 11:38:47 ET
+Table 'WPN_7 Day No Rathole 25/50 NLH 9-Max' 9-max Seat #2 is the button
+Seat 1: imachipguy ($498.75 in chips)
+Seat 2: THECAGE ($14152.15 in chips)
+Seat 3: el0el ($7910.58 in chips)
+Seat 4: notvrygud ($8963.53 in chips)
+el0el: posts small blind $25.00
+notvrygud: posts big blind $50.00
+*** HOLE CARDS ***
+imachipguy: folds
+THECAGE: folds
+el0el: folds
+Uncalled bet ($25.00) returned to notvrygud
+notvrygud collected $50.00 from pot
+notvrygud: doesn't show hand
+*** SUMMARY ***
+Total pot $50.00 | Rake $0.00
+Seat 1: imachipguy folded before Flop (didn't bet)
+Seat 2: THECAGE (button) folded before Flop (didn't bet)
+Seat 3: el0el (small blind) folded before Flop
+Seat 4: notvrygud (big blind) collected ($50.00)
+
+PokerStars Hand #1504652739:  Hold'em No Limit ($25.00/$50.00 USD) - 2022/12/31 11:38:58 ET
+Table 'WPN_7 Day No Rathole 25/50 NLH 9-Max' 9-max Seat #3 is the button
+Seat 1: imachipguy ($498.75 in chips)
+Seat 2: THECAGE ($14152.15 in chips)
+Seat 3: el0el ($7885.58 in chips)
+Seat 4: notvrygud ($8988.53 in chips)
+notvrygud: posts small blind $25.00
+imachipguy: posts big blind $50.00
+*** HOLE CARDS ***
+THECAGE: raises $50.00 to $100.00
+el0el: folds
+notvrygud: raises $325.00 to $425.00
+imachipguy: folds
+THECAGE: calls $325.00
+*** FLOP *** [Kh Kd Ah]
+notvrygud: bets $225.00
+THECAGE: calls $225.00
+*** TURN *** [Kh Kd Ah] [7h]
+notvrygud: checks
+THECAGE: checks
+*** RIVER *** [Kh Kd Ah 7h] [Jd]
+notvrygud: checks
+THECAGE: checks
+*** SHOW DOWN ***
+THECAGE: shows [Ac 5c]
+notvrygud: shows [4d Ad]
+THECAGE collected $673.87 from pot
+notvrygud collected $673.88 from pot
+*** SUMMARY ***
+Total pot $1350.00 | Rake $2.25
+Board [Kh Kd Ah 7h Jd]
+Seat 1: imachipguy (big blind) folded before Flop
+Seat 2: THECAGE showed [Ac 5c] and won ($673.87)
+Seat 3: el0el (button) folded before Flop (didn't bet)
+Seat 4: notvrygud (small blind) showed [4d Ad] and won ($673.88)
+
+PokerStars Hand #1504653127:  Hold'em No Limit ($25.00/$50.00 USD) - 2022/12/31 11:40:28 ET
+Table 'WPN_7 Day No Rathole 25/50 NLH 9-Max' 9-max Seat #4 is the button
+Seat 1: imachipguy ($448.75 in chips)
+Seat 2: THECAGE ($14176.02 in chips)
+Seat 3: el0el ($7885.58 in chips)
+Seat 4: notvrygud ($9012.41 in chips)
+imachipguy: posts small blind $25.00
+THECAGE: posts big blind $50.00
+*** HOLE CARDS ***
+el0el: folds
+notvrygud: raises $75.00 to $125.00
+imachipguy: folds
+THECAGE: calls $75.00
+*** FLOP *** [Ah 7h 3s]
+THECAGE: checks
+notvrygud: bets $93.75
+THECAGE: raises $690.25 to $784.00
+notvrygud: folds
+Uncalled bet ($690.25) returned to THECAGE
+THECAGE collected $460.25 from pot
+THECAGE: doesn't show hand
+*** SUMMARY ***
+Total pot $462.50 | Rake $2.25
+Board [Ah 7h 3s]
+Seat 1: imachipguy (small blind) folded before Flop
+Seat 2: THECAGE (big blind) collected ($460.25)
+Seat 3: el0el folded before Flop (didn't bet)
+Seat 4: notvrygud (button) folded on the Flop
+
+PokerStars Hand #1504653425:  Hold'em No Limit ($25.00/$50.00 USD) - 2022/12/31 11:41:37 ET
+Table 'WPN_7 Day No Rathole 25/50 NLH 9-Max' 9-max Seat #1 is the button
+Seat 1: imachipguy ($423.75 in chips)
+Seat 2: THECAGE ($14417.52 in chips)
+Seat 3: el0el ($7885.58 in chips)
+Seat 4: notvrygud ($8793.66 in chips)
+THECAGE: posts small blind $25.00
+el0el: posts big blind $50.00
+*** HOLE CARDS ***
+notvrygud: folds
+imachipguy: raises $62.50 to $112.50
+THECAGE: folds
+el0el: raises $412.50 to $525.00
+imachipguy: calls $311.25 and is all-in
+Uncalled bet ($101.25) returned to el0el
+*** FLOP *** [5d Kc 2d]
+*** TURN *** [5d Kc 2d] [Ts]
+*** RIVER *** [5d Kc 2d Ts] [Jh]
+*** SHOW DOWN ***
+el0el: shows [Ks Jc]
+imachipguy: shows [Qc Js]
+el0el collected $870.25 from pot
+*** SUMMARY ***
+Total pot $872.50 | Rake $2.25
+Board [5d Kc 2d Ts Jh]
+Seat 1: imachipguy (button) showed [Qc Js] and lost
+Seat 2: THECAGE (small blind) folded before Flop
+Seat 3: el0el (big blind) showed [Ks Jc] and won ($870.25)
+Seat 4: notvrygud folded before Flop (didn't bet)
+
+PokerStars Hand #1504653560:  Hold'em No Limit ($25.00/$50.00 USD) - 2022/12/31 11:42:07 ET
+Table 'WPN_7 Day No Rathole 25/50 NLH 9-Max' 9-max Seat #2 is the button
+Seat 2: THECAGE ($14392.52 in chips)
+Seat 3: el0el ($8332.08 in chips)
+Seat 4: notvrygud ($8793.66 in chips)
+el0el: posts small blind $25.00
+notvrygud: posts big blind $50.00
+*** HOLE CARDS ***
+THECAGE: folds
+el0el: raises $75.00 to $125.00
+notvrygud: folds
+Uncalled bet ($75.00) returned to el0el
+el0el collected $100.00 from pot
+el0el: doesn't show hand
+*** SUMMARY ***
+Total pot $100.00 | Rake $0.00
+Seat 2: THECAGE (button) folded before Flop (didn't bet)
+Seat 3: el0el (small blind) collected ($100.00)
+Seat 4: notvrygud (big blind) folded before Flop
+
+PokerStars Hand #1504673468:  Hold'em No Limit ($25.00/$50.00 USD) - 2022/12/31 12:57:15 ET
+Table 'WPN_7 Day No Rathole 25/50 NLH 9-Max' 9-max Seat #7 is the button
+Seat 2: THECAGE ($14442.52 in chips)
+Seat 7: bot35 ($1020.00 in chips)
+bot35: posts small blind $25.00
+THECAGE: posts big blind $50.00
+*** HOLE CARDS ***
+bot35: calls $25.00
+THECAGE: checks
+*** FLOP *** [4h 6d 7h]
+THECAGE: checks
+bot35: bets $50.00
+THECAGE: calls $50.00
+*** TURN *** [4h 6d 7h] [Ah]
+THECAGE: checks
+bot35: checks
+*** RIVER *** [4h 6d 7h Ah] [3s]
+THECAGE: checks
+bot35: checks
+*** SHOW DOWN ***
+bot35: shows [Jc 7c]
+THECAGE: mucks hand
+bot35 collected $198.75 from pot
+*** SUMMARY ***
+Total pot $200.00 | Rake $1.25
+Board [4h 6d 7h Ah 3s]
+Seat 2: THECAGE (big blind) mucked
+Seat 7: bot35 (button) (small blind) showed [Jc 7c] and won ($198.75)
+
+PokerStars Hand #1504505260:  Hold'em No Limit ($25.00/$50.00 USD) - 2022/12/31 05:50:49 ET
+Table 'WPN_7 Day No Rathole 25/50 NLH 9-Max' 9-max Seat #2 is the button
+Seat 2: lmpala_zOrg ($624.12 in chips)
+Seat 3: messenger11 ($698.75 in chips)
+Seat 4: acrbotv10a ($500.00 in chips)
+messenger11: posts small blind $25.00
+acrbotv10a: posts big blind $50.00
+*** HOLE CARDS ***
+lmpala_zOrg: raises $50.00 to $100.00
+messenger11: calls $75.00
+acrbotv10a: folds
+*** FLOP *** [6d 2s Tc]
+messenger11: bets $95.53
+lmpala_zOrg: calls $95.53
+*** TURN *** [6d 2s Tc] [4c]
+messenger11: checks
+lmpala_zOrg: checks
+*** RIVER *** [6d 2s Tc 4c] [5h]
+messenger11: bets $503.22 and is all-in
+lmpala_zOrg: folds
+Uncalled bet ($503.22) returned to messenger11
+messenger11 collected $439.31 from pot
+messenger11: doesn't show hand
+*** SUMMARY ***
+Total pot $441.06 | Rake $1.75
+Board [6d 2s Tc 4c 5h]
+Seat 2: lmpala_zOrg (button) folded on the River
+Seat 3: messenger11 (small blind) collected ($439.31)
+Seat 4: acrbotv10a (big blind) folded before Flop
+
+PokerStars Hand #1504506187:  Hold'em No Limit ($25.00/$50.00 USD) - 2022/12/31 05:52:00 ET
+Table 'WPN_7 Day No Rathole 25/50 NLH 9-Max' 9-max Seat #3 is the button
+Seat 2: lmpala_zOrg ($428.59 in chips)
+Seat 3: messenger11 ($942.53 in chips)
+Seat 4: acrbotv10a ($500.00 in chips)
+acrbotv10a: posts small blind $25.00
+lmpala_zOrg: posts big blind $50.00
+*** HOLE CARDS ***
+messenger11: raises $892.53 to $942.53 and is all-in
+acrbotv10a: calls $475.00 and is all-in
+lmpala_zOrg: folds
+Uncalled bet ($442.53) returned to messenger11
+*** FLOP *** [4h Kd 8d]
+*** TURN *** [4h Kd 8d] [6h]
+*** RIVER *** [4h Kd 8d 6h] [5d]
+*** SHOW DOWN ***
+acrbotv10a: shows [Ad Tc]
+messenger11: shows [Ah 3d]
+acrbotv10a collected $1048.25 from pot
+*** SUMMARY ***
+Total pot $1050.00 | Rake $1.75
+Board [4h Kd 8d 6h 5d]
+Seat 2: lmpala_zOrg (big blind) folded before Flop
+Seat 3: messenger11 (button) showed [Ah 3d] and lost
+Seat 4: acrbotv10a (small blind) showed [Ad Tc] and won ($1048.25)
+
+PokerStars Hand #1504506892:  Hold'em No Limit ($25.00/$50.00 USD) - 2022/12/31 05:52:54 ET
+Table 'WPN_7 Day No Rathole 25/50 NLH 9-Max' 9-max Seat #4 is the button
+Seat 2: lmpala_zOrg ($500.00 in chips)
+Seat 3: messenger11 ($442.53 in chips)
+Seat 4: acrbotv10a ($1048.25 in chips)
+lmpala_zOrg: posts small blind $25.00
+messenger11: posts big blind $50.00
+*** HOLE CARDS ***
+acrbotv10a: folds
+lmpala_zOrg: folds
+Uncalled bet ($25.00) returned to messenger11
+messenger11 collected $50.00 from pot
+messenger11: doesn't show hand
+*** SUMMARY ***
+Total pot $50.00 | Rake $0.00
+Seat 2: lmpala_zOrg (small blind) folded before Flop
+Seat 3: messenger11 (big blind) collected ($50.00)
+Seat 4: acrbotv10a (button) folded before Flop (didn't bet)
+
+PokerStars Hand #1504507172:  Hold'em No Limit ($25.00/$50.00 USD) - 2022/12/31 05:53:16 ET
+Table 'WPN_7 Day No Rathole 25/50 NLH 9-Max' 9-max Seat #2 is the button
+Seat 2: lmpala_zOrg ($475.00 in chips)
+Seat 3: messenger11 ($467.53 in chips)
+Seat 4: acrbotv10a ($1048.25 in chips)
+messenger11: posts small blind $25.00
+acrbotv10a: posts big blind $50.00
+*** HOLE CARDS ***
+lmpala_zOrg: folds
+messenger11: raises $417.53 to $467.53 and is all-in
+acrbotv10a: folds
+Uncalled bet ($417.53) returned to messenger11
+messenger11 collected $100.00 from pot
+messenger11: doesn't show hand
+*** SUMMARY ***
+Total pot $100.00 | Rake $0.00
+Seat 2: lmpala_zOrg (button) folded before Flop (didn't bet)
+Seat 3: messenger11 (small blind) collected ($100.00)
+Seat 4: acrbotv10a (big blind) folded before Flop
+
+PokerStars Hand #1504507333:  Hold'em No Limit ($25.00/$50.00 USD) - 2022/12/31 05:53:29 ET
+Table 'WPN_7 Day No Rathole 25/50 NLH 9-Max' 9-max Seat #3 is the button
+Seat 2: lmpala_zOrg ($475.00 in chips)
+Seat 3: messenger11 ($517.53 in chips)
+Seat 4: acrbotv10a ($998.25 in chips)
+acrbotv10a: posts small blind $25.00
+lmpala_zOrg: posts big blind $50.00
+*** HOLE CARDS ***
+messenger11: folds
+acrbotv10a: folds
+Uncalled bet ($25.00) returned to lmpala_zOrg
+lmpala_zOrg collected $50.00 from pot
+lmpala_zOrg: doesn't show hand
+*** SUMMARY ***
+Total pot $50.00 | Rake $0.00
+Seat 2: lmpala_zOrg (big blind) collected ($50.00)
+Seat 3: messenger11 (button) folded before Flop (didn't bet)
+Seat 4: acrbotv10a (small blind) folded before Flop
+
+PokerStars Hand #1504507474:  Hold'em No Limit ($25.00/$50.00 USD) - 2022/12/31 05:53:40 ET
+Table 'WPN_7 Day No Rathole 25/50 NLH 9-Max' 9-max Seat #4 is the button
+Seat 2: lmpala_zOrg ($525.00 in chips)
+Seat 3: messenger11 ($517.53 in chips)
+Seat 4: acrbotv10a ($973.25 in chips)
+lmpala_zOrg: posts small blind $25.00
+messenger11: posts big blind $50.00
+*** HOLE CARDS ***
+acrbotv10a: folds
+lmpala_zOrg: raises $475.00 to $525.00 and is all-in
+messenger11: folds
+Uncalled bet ($475.00) returned to lmpala_zOrg
+lmpala_zOrg collected $100.00 from pot
+lmpala_zOrg: doesn't show hand
+*** SUMMARY ***
+Total pot $100.00 | Rake $0.00
+Seat 2: lmpala_zOrg (small blind) collected ($100.00)
+Seat 3: messenger11 (big blind) folded before Flop
+Seat 4: acrbotv10a (button) folded before Flop (didn't bet)
+
+PokerStars Hand #1504507760:  Hold'em No Limit ($25.00/$50.00 USD) - 2022/12/31 05:54:02 ET
+Table 'WPN_7 Day No Rathole 25/50 NLH 9-Max' 9-max Seat #2 is the button
+Seat 2: lmpala_zOrg ($575.00 in chips)
+Seat 3: messenger11 ($467.53 in chips)
+Seat 4: acrbotv10a ($973.25 in chips)
+messenger11: posts small blind $25.00
+acrbotv10a: posts big blind $50.00
+*** HOLE CARDS ***
+lmpala_zOrg: folds
+messenger11: raises $417.53 to $467.53 and is all-in
+acrbotv10a: calls $417.53
+*** FLOP *** [Ks 5s 7h]
+*** TURN *** [Ks 5s 7h] [7s]
+*** RIVER *** [Ks 5s 7h 7s] [7d]
+*** SHOW DOWN ***
+messenger11: shows [Kc Ts]
+acrbotv10a: shows [9s Jc]
+messenger11 collected $933.31 from pot
+*** SUMMARY ***
+Total pot $935.06 | Rake $1.75
+Board [Ks 5s 7h 7s 7d]
+Seat 2: lmpala_zOrg (button) folded before Flop (didn't bet)
+Seat 3: messenger11 (small blind) showed [Kc Ts] and won ($933.31)
+Seat 4: acrbotv10a (big blind) showed [9s Jc] and lost
+
+PokerStars Hand #1504508165:  Hold'em No Limit ($25.00/$50.00 USD) - 2022/12/31 05:54:34 ET
+Table 'WPN_7 Day No Rathole 25/50 NLH 9-Max' 9-max Seat #3 is the button
+Seat 2: lmpala_zOrg ($575.00 in chips)
+Seat 3: messenger11 ($933.31 in chips)
+Seat 4: acrbotv10a ($505.72 in chips)
+acrbotv10a: posts small blind $25.00
+lmpala_zOrg: posts big blind $50.00
+*** HOLE CARDS ***
+messenger11: raises $883.31 to $933.31 and is all-in
+acrbotv10a: calls $480.72 and is all-in
+lmpala_zOrg: folds
+Uncalled bet ($427.59) returned to messenger11
+*** FLOP *** [7s 4s 2h]
+*** TURN *** [7s 4s 2h] [Tc]
+*** RIVER *** [7s 4s 2h Tc] [8c]
+*** SHOW DOWN ***
+messenger11: shows [Td Ks]
+acrbotv10a: shows [Jh Ac]
+messenger11 collected $1059.69 from pot
+*** SUMMARY ***
+Total pot $1061.44 | Rake $1.75
+Board [7s 4s 2h Tc 8c]
+Seat 2: lmpala_zOrg (big blind) folded before Flop
+Seat 3: messenger11 (button) showed [Td Ks] and won ($1059.69)
+Seat 4: acrbotv10a (small blind) showed [Jh Ac] and lost
+
+PokerStars Hand #1504508540:  Hold'em No Limit ($25.00/$50.00 USD) - 2022/12/31 05:55:03 ET
+Table 'WPN_7 Day No Rathole 25/50 NLH 9-Max' 9-max Seat #4 is the button
+Seat 2: lmpala_zOrg ($525.00 in chips)
+Seat 3: messenger11 ($1487.28 in chips)
+Seat 4: acrbotv10a ($500.00 in chips)
+lmpala_zOrg: posts small blind $25.00
+acrbotv10a: posts big blind $50.00
+*** HOLE CARDS ***
+lmpala_zOrg: folds
+Uncalled bet ($25.00) returned to acrbotv10a
+acrbotv10a collected $50.00 from pot
+acrbotv10a: doesn't show hand
+*** SUMMARY ***
+Total pot $50.00 | Rake $0.00
+Seat 2: lmpala_zOrg (small blind) folded before Flop
+Seat 4: acrbotv10a (button) (big blind) collected ($50.00)
+
+PokerStars Hand #1504508629:  Hold'em No Limit ($25.00/$50.00 USD) - 2022/12/31 05:55:13 ET
+Table 'WPN_7 Day No Rathole 25/50 NLH 9-Max' 9-max Seat #4 is the button
+Seat 2: lmpala_zOrg ($500.00 in chips)
+Seat 4: acrbotv10a ($525.00 in chips)
+acrbotv10a: posts small blind $25.00
+lmpala_zOrg: posts big blind $50.00
+*** HOLE CARDS ***
+acrbotv10a: raises $475.00 to $525.00 and is all-in
+lmpala_zOrg: calls $450.00 and is all-in
+Uncalled bet ($25.00) returned to acrbotv10a
+*** FLOP *** [Kc Td Jc]
+*** TURN *** [Kc Td Jc] [Tc]
+*** RIVER *** [Kc Td Jc Tc] [Qs]
+*** SHOW DOWN ***
+lmpala_zOrg: shows [8h Ac]
+acrbotv10a: shows [2d As]
+lmpala_zOrg collected $499.37 from pot
+acrbotv10a collected $499.38 from pot
+*** SUMMARY ***
+Total pot $1000.00 | Rake $1.25
+Board [Kc Td Jc Tc Qs]
+Seat 2: lmpala_zOrg (big blind) showed [8h Ac] and won ($499.37)
+Seat 4: acrbotv10a (button) (small blind) showed [2d As] and won ($499.38)
+
+PokerStars Hand #1504523576:  Hold'em No Limit ($25.00/$50.00 USD) - 2022/12/31 06:16:39 ET
+Table 'WPN_7 Day No Rathole 25/50 NLH 9-Max' 9-max Seat #1 is the button
+Seat 1: spicymayo ($550.00 in chips)
+Seat 2: lmpala_zOrg ($450.00 in chips)
+spicymayo: posts small blind $25.00
+lmpala_zOrg: posts big blind $50.00
+*** HOLE CARDS ***
+spicymayo: raises $50.00 to $100.00
+lmpala_zOrg: folds
+Uncalled bet ($50.00) returned to spicymayo
+spicymayo collected $100.00 from pot
+spicymayo: doesn't show hand
+*** SUMMARY ***
+Total pot $100.00 | Rake $0.00
+Seat 1: spicymayo (button) (small blind) collected ($100.00)
+Seat 2: lmpala_zOrg (big blind) folded before Flop
+
+PokerStars Hand #1504605361:  Hold'em No Limit ($25.00/$50.00 USD) - 2022/12/31 08:53:26 ET
+Table 'WPN_7 Day No Rathole 25/50 NLH 9-Max' 9-max Seat #3 is the button
+Seat 3: MachSchnell ($525.00 in chips)
+Seat 4: el0el ($5995.50 in chips)
+Seat 5: notvrygud ($8441.53 in chips)
+Seat 6: THECAGE ($15930.73 in chips)
+Seat 7: zas911 ($8469.71 in chips)
+el0el: posts small blind $25.00
+notvrygud: posts big blind $50.00
+*** HOLE CARDS ***
+THECAGE: folds
+zas911: folds
+MachSchnell: raises $50.00 to $100.00
+el0el: folds
+notvrygud: raises $8341.53 to $8441.53 and is all-in
+MachSchnell: calls $425.00 and is all-in
+Uncalled bet ($7916.53) returned to notvrygud
+*** FLOP *** [3c Ah 3s]
+*** TURN *** [3c Ah 3s] [9s]
+*** RIVER *** [3c Ah 3s 9s] [Ts]
+*** SHOW DOWN ***
+notvrygud: shows [Td Qc]
+MachSchnell: shows [Qd Jd]
+notvrygud collected $1072.00 from pot
+*** SUMMARY ***
+Total pot $1075.00 | Rake $3.00
+Board [3c Ah 3s 9s Ts]
+Seat 3: MachSchnell (button) showed [Qd Jd] and lost
+Seat 4: el0el (small blind) folded before Flop
+Seat 5: notvrygud (big blind) showed [Td Qc] and won ($1072.00)
+Seat 6: THECAGE folded before Flop (didn't bet)
+Seat 7: zas911 folded before Flop (didn't bet)
+
+PokerStars Hand #1504605579:  Hold'em No Limit ($25.00/$50.00 USD) - 2022/12/31 08:54:08 ET
+Table 'WPN_7 Day No Rathole 25/50 NLH 9-Max' 9-max Seat #4 is the button
+Seat 2: chop-ch0p ($6055.44 in chips)
+Seat 4: el0el ($5970.50 in chips)
+Seat 5: notvrygud ($8988.53 in chips)
+Seat 6: THECAGE ($15930.73 in chips)
+Seat 7: zas911 ($8469.71 in chips)
+notvrygud: posts small blind $25.00
+THECAGE: posts big blind $50.00
+*** HOLE CARDS ***
+zas911: raises $60.00 to $110.00
+el0el: folds
+notvrygud: folds
+THECAGE: folds
+Uncalled bet ($60.00) returned to zas911
+zas911 collected $125.00 from pot
+zas911: doesn't show hand
+*** SUMMARY ***
+Total pot $125.00 | Rake $0.00
+Seat 4: el0el (button) folded before Flop (didn't bet)
+Seat 5: notvrygud (small blind) folded before Flop
+Seat 6: THECAGE (big blind) folded before Flop
+Seat 7: zas911 collected ($125.00)
+
+PokerStars Hand #1504605768:  Hold'em No Limit ($25.00/$50.00 USD) - 2022/12/31 08:54:41 ET
+Table 'WPN_7 Day No Rathole 25/50 NLH 9-Max' 9-max Seat #5 is the button
+Seat 4: el0el ($5970.50 in chips)
+Seat 5: notvrygud ($8963.53 in chips)
+Seat 6: THECAGE ($15880.73 in chips)
+Seat 7: zas911 ($8544.71 in chips)
+Seat 8: ATARAX1A ($500.00 in chips)
+Seat 9: Intercooler ($667.84 in chips)
+THECAGE: posts small blind $25.00
+ATARAX1A: posts big blind $50.00
+*** HOLE CARDS ***
+el0el: folds
+notvrygud: folds
+THECAGE: calls $25.00
+ATARAX1A: checks
+*** FLOP *** [5h 3c Jh]
+THECAGE: bets $50.00
+ATARAX1A: folds
+Uncalled bet ($50.00) returned to THECAGE
+THECAGE collected $97.75 from pot
+THECAGE: doesn't show hand
+*** SUMMARY ***
+Total pot $100.00 | Rake $2.25
+Board [5h 3c Jh]
+Seat 4: el0el folded before Flop (didn't bet)
+Seat 5: notvrygud (button) folded before Flop (didn't bet)
+Seat 6: THECAGE (small blind) collected ($97.75)
+Seat 8: ATARAX1A (big blind) folded on the Flop
+
+PokerStars Hand #1504605962:  Hold'em No Limit ($25.00/$50.00 USD) - 2022/12/31 08:55:20 ET
+Table 'WPN_7 Day No Rathole 25/50 NLH 9-Max' 9-max Seat #6 is the button
+Seat 4: el0el ($5970.50 in chips)
+Seat 5: notvrygud ($8963.53 in chips)
+Seat 6: THECAGE ($15928.48 in chips)
+Seat 7: zas911 ($8544.71 in chips)
+Seat 8: ATARAX1A ($450.00 in chips)
+Seat 9: Intercooler ($667.84 in chips)
+ATARAX1A: posts small blind $25.00
+Intercooler: posts big blind $50.00
+*** HOLE CARDS ***
+el0el: folds
+notvrygud: folds
+THECAGE: folds
+ATARAX1A: raises $450.00 to $500.00 and is all-in
+Intercooler: folds
+Uncalled bet ($450.00) returned to ATARAX1A
+ATARAX1A collected $100.00 from pot
+ATARAX1A: doesn't show hand
+*** SUMMARY ***
+Total pot $100.00 | Rake $0.00
+Seat 4: el0el folded before Flop (didn't bet)
+Seat 5: notvrygud folded before Flop (didn't bet)
+Seat 6: THECAGE (button) folded before Flop (didn't bet)
+Seat 8: ATARAX1A (small blind) collected ($100.00)
+Seat 9: Intercooler (big blind) folded before Flop
+
+PokerStars Hand #1504606124:  Hold'em No Limit ($25.00/$50.00 USD) - 2022/12/31 08:55:58 ET
+Table 'WPN_7 Day No Rathole 25/50 NLH 9-Max' 9-max Seat #8 is the button
+Seat 3: MachSchnell ($500.00 in chips)
+Seat 4: el0el ($5970.50 in chips)
+Seat 5: notvrygud ($8963.53 in chips)
+Seat 6: THECAGE ($15928.48 in chips)
+Seat 7: zas911 ($8544.71 in chips)
+Seat 8: ATARAX1A ($550.00 in chips)
+Seat 9: Intercooler ($617.84 in chips)
+Intercooler: posts small blind $25.00
+MachSchnell: posts big blind $50.00
+*** HOLE CARDS ***
+el0el: folds
+notvrygud: folds
+THECAGE: folds
+ATARAX1A: folds
+Intercooler: raises $567.84 to $617.84 and is all-in
+MachSchnell: calls $450.00 and is all-in
+Uncalled bet ($117.84) returned to Intercooler
+*** FLOP *** [Ac 7h Qc]
+*** TURN *** [Ac 7h Qc] [As]
+*** RIVER *** [Ac 7h Qc As] [Ad]
+*** SHOW DOWN ***
+Intercooler: shows [Qs 9d]
+MachSchnell: shows [Tc Kh]
+Intercooler collected $997.00 from pot
+*** SUMMARY ***
+Total pot $1000.00 | Rake $3.00
+Board [Ac 7h Qc As Ad]
+Seat 3: MachSchnell (big blind) showed [Tc Kh] and lost
+Seat 4: el0el folded before Flop (didn't bet)
+Seat 5: notvrygud folded before Flop (didn't bet)
+Seat 6: THECAGE folded before Flop (didn't bet)
+Seat 8: ATARAX1A (button) folded before Flop (didn't bet)
+Seat 9: Intercooler (small blind) showed [Qs 9d] and won ($997.00)
+
+PokerStars Hand #1504606267:  Hold'em No Limit ($25.00/$50.00 USD) - 2022/12/31 08:56:32 ET
+Table 'WPN_7 Day No Rathole 25/50 NLH 9-Max' 9-max Seat #9 is the button
+Seat 1: Gizineni ($500.00 in chips)
+Seat 4: el0el ($5970.50 in chips)
+Seat 5: notvrygud ($8963.53 in chips)
+Seat 6: THECAGE ($15928.48 in chips)
+Seat 7: zas911 ($8544.71 in chips)
+Seat 8: ATARAX1A ($550.00 in chips)
+Seat 9: Intercooler ($1114.84 in chips)
+el0el: posts big blind $50.00
+*** HOLE CARDS ***
+notvrygud: folds
+THECAGE: folds
+ATARAX1A: folds
+Intercooler: folds
+el0el collected $50.00 from pot
+el0el: doesn't show hand
+*** SUMMARY ***
+Total pot $50.00 | Rake $0.00
+Seat 4: el0el (big blind) collected ($50.00)
+Seat 5: notvrygud folded before Flop (didn't bet)
+Seat 6: THECAGE folded before Flop (didn't bet)
+Seat 8: ATARAX1A folded before Flop (didn't bet)
+Seat 9: Intercooler (button) folded before Flop (didn't bet)
+
+PokerStars Hand #1504606330:  Hold'em No Limit ($25.00/$50.00 USD) - 2022/12/31 08:56:48 ET
+Table 'WPN_7 Day No Rathole 25/50 NLH 9-Max' 9-max Seat #3 is the button
+Seat 1: Gizineni ($500.00 in chips)
+Seat 4: el0el ($5970.50 in chips)
+Seat 5: notvrygud ($8963.53 in chips)
+Seat 6: THECAGE ($15928.48 in chips)
+Seat 7: zas911 ($8544.71 in chips)
+Seat 8: ATARAX1A ($550.00 in chips)
+Seat 9: Intercooler ($1114.84 in chips)
+el0el: posts small blind $25.00
+THECAGE: posts big blind $50.00
+*** HOLE CARDS ***
+ATARAX1A: folds
+Intercooler: folds
+el0el: raises $100.00 to $150.00
+THECAGE: raises $300.00 to $450.00
+el0el: calls $300.00
+*** FLOP *** [8c Kh 5h]
+el0el: checks
+THECAGE: bets $288.00
+el0el: calls $288.00
+*** TURN *** [8c Kh 5h] [5s]
+el0el: checks
+THECAGE: checks
+*** RIVER *** [8c Kh 5h 5s] [Js]
+el0el: bets $487.08
+THECAGE: calls $487.08
+*** SHOW DOWN ***
+el0el: shows [Qc Jc]
+THECAGE: mucks hand
+el0el collected $2447.91 from pot
+*** SUMMARY ***
+Total pot $2450.16 | Rake $2.25
+Board [8c Kh 5h 5s Js]
+Seat 4: el0el (small blind) showed [Qc Jc] and won ($2447.91)
+Seat 6: THECAGE (big blind) mucked
+Seat 8: ATARAX1A folded before Flop (didn't bet)
+Seat 9: Intercooler folded before Flop (didn't bet)
+
+PokerStars Hand #1504606796:  Hold'em No Limit ($25.00/$50.00 USD) - 2022/12/31 08:58:32 ET
+Table 'WPN_7 Day No Rathole 25/50 NLH 9-Max' 9-max Seat #4 is the button
+Seat 1: Gizineni ($500.00 in chips)
+Seat 4: el0el ($7193.33 in chips)
+Seat 6: THECAGE ($14703.40 in chips)
+Seat 7: zas911 ($8544.71 in chips)
+Seat 8: ATARAX1A ($550.00 in chips)
+Seat 9: Intercooler ($1114.84 in chips)
+THECAGE: posts small blind $25.00
+zas911: posts big blind $50.00
+*** HOLE CARDS ***
+ATARAX1A: folds
+Intercooler: folds
+el0el: folds
+THECAGE: folds
+Uncalled bet ($25.00) returned to zas911
+zas911 collected $50.00 from pot
+zas911: doesn't show hand
+*** SUMMARY ***
+Total pot $50.00 | Rake $0.00
+Seat 4: el0el (button) folded before Flop (didn't bet)
+Seat 6: THECAGE (small blind) folded before Flop
+Seat 7: zas911 (big blind) collected ($50.00)
+Seat 8: ATARAX1A folded before Flop (didn't bet)
+Seat 9: Intercooler folded before Flop (didn't bet)
+
+PokerStars Hand #1504606861:  Hold'em No Limit ($25.00/$50.00 USD) - 2022/12/31 08:58:47 ET
+Table 'WPN_7 Day No Rathole 25/50 NLH 9-Max' 9-max Seat #6 is the button
+Seat 1: Gizineni ($500.00 in chips)
+Seat 4: el0el ($7193.33 in chips)
+Seat 6: THECAGE ($14678.40 in chips)
+Seat 7: zas911 ($8569.71 in chips)
+Seat 8: ATARAX1A ($550.00 in chips)
+Seat 9: Intercooler ($1114.84 in chips)
+zas911: posts small blind $25.00
+Intercooler: posts big blind $50.00
+*** HOLE CARDS ***
+el0el: folds
+THECAGE: folds
+zas911: raises $75.00 to $125.00
+Intercooler: calls $75.00
+*** FLOP *** [Qc Ac 7h]
+zas911: bets $82.50
+Intercooler: folds
+Uncalled bet ($82.50) returned to zas911
+zas911 collected $247.75 from pot
+zas911: doesn't show hand
+*** SUMMARY ***
+Total pot $250.00 | Rake $2.25
+Board [Qc Ac 7h]
+Seat 4: el0el folded before Flop (didn't bet)
+Seat 6: THECAGE (button) folded before Flop (didn't bet)
+Seat 7: zas911 (small blind) collected ($247.75)
+Seat 9: Intercooler (big blind) folded on the Flop
+
+PokerStars Hand #1504606992:  Hold'em No Limit ($25.00/$50.00 USD) - 2022/12/31 08:59:18 ET
+Table 'WPN_7 Day No Rathole 25/50 NLH 9-Max' 9-max Seat #7 is the button
+Seat 1: Gizineni ($500.00 in chips)
+Seat 4: el0el ($7193.33 in chips)
+Seat 6: THECAGE ($14678.40 in chips)
+Seat 7: zas911 ($8692.46 in chips)
+Seat 9: Intercooler ($989.84 in chips)
+Intercooler: posts small blind $25.00
+Gizineni: posts big blind $50.00
+*** HOLE CARDS ***
+el0el: folds
+THECAGE: raises $50.00 to $100.00
+zas911: folds
+Intercooler: folds
+Gizineni: raises $400.00 to $500.00 and is all-in
+THECAGE: calls $400.00
+*** FLOP *** [Ac Kh Qs]
+*** TURN *** [Ac Kh Qs] [4d]
+*** RIVER *** [Ac Kh Qs 4d] [6s]
+*** SHOW DOWN ***
+Gizineni: shows [Ks Ts]
+THECAGE: shows [Kc 9c]
+Gizineni collected $1022.00 from pot
+*** SUMMARY ***
+Total pot $1025.00 | Rake $3.00
+Board [Ac Kh Qs 4d 6s]
+Seat 1: Gizineni (big blind) showed [Ks Ts] and won ($1022.00)
+Seat 4: el0el folded before Flop (didn't bet)
+Seat 6: THECAGE showed [Kc 9c] and lost
+Seat 7: zas911 (button) folded before Flop (didn't bet)
+Seat 9: Intercooler (small blind) folded before Flop
+
+PokerStars Hand #1504607359:  Hold'em No Limit ($25.00/$50.00 USD) - 2022/12/31 09:00:33 ET
+Table 'WPN_7 Day No Rathole 25/50 NLH 9-Max' 9-max Seat #1 is the button
+Seat 1: Gizineni ($997.00 in chips)
+Seat 4: el0el ($7143.33 in chips)
+Seat 7: zas911 ($8767.46 in chips)
+Seat 9: Intercooler ($964.84 in chips)
+el0el: posts small blind $25.00
+zas911: posts big blind $50.00
+*** HOLE CARDS ***
+Intercooler: raises $50.00 to $100.00
+Gizineni: folds
+el0el: folds
+zas911: folds
+Uncalled bet ($50.00) returned to Intercooler
+Intercooler collected $125.00 from pot
+Intercooler: doesn't show hand
+*** SUMMARY ***
+Total pot $125.00 | Rake $0.00
+Seat 1: Gizineni (button) folded before Flop (didn't bet)
+Seat 4: el0el (small blind) folded before Flop
+Seat 7: zas911 (big blind) folded before Flop
+Seat 9: Intercooler collected ($125.00)
+
+PokerStars Hand #1504607458:  Hold'em No Limit ($25.00/$50.00 USD) - 2022/12/31 09:00:53 ET
+Table 'WPN_7 Day No Rathole 25/50 NLH 9-Max' 9-max Seat #4 is the button
+Seat 1: Gizineni ($997.00 in chips)
+Seat 2: chop-ch0p ($6055.44 in chips)
+Seat 3: MachSchnell ($500.00 in chips)
+Seat 4: el0el ($7118.33 in chips)
+Seat 7: zas911 ($8717.46 in chips)
+Seat 9: Intercooler ($1039.84 in chips)
+zas911: posts small blind $25.00
+Intercooler: posts big blind $50.00
+*** HOLE CARDS ***
+Gizineni: folds
+el0el: folds
+zas911: folds
+Uncalled bet ($25.00) returned to Intercooler
+Intercooler collected $50.00 from pot
+Intercooler: doesn't show hand
+*** SUMMARY ***
+Total pot $50.00 | Rake $0.00
+Seat 1: Gizineni folded before Flop (didn't bet)
+Seat 4: el0el (button) folded before Flop (didn't bet)
+Seat 7: zas911 (small blind) folded before Flop
+Seat 9: Intercooler (big blind) collected ($50.00)
+
+PokerStars Hand #1504607529:  Hold'em No Limit ($25.00/$50.00 USD) - 2022/12/31 09:01:04 ET
+Table 'WPN_7 Day No Rathole 25/50 NLH 9-Max' 9-max Seat #7 is the button
+Seat 2: chop-ch0p ($6055.44 in chips)
+Seat 3: MachSchnell ($500.00 in chips)
+Seat 4: el0el ($7118.33 in chips)
+Seat 7: zas911 ($8692.46 in chips)
+Seat 9: Intercooler ($1064.84 in chips)
+Intercooler: posts small blind $25.00
+chop-ch0p: posts big blind $50.00
+*** HOLE CARDS ***
+el0el: folds
+zas911: folds
+Intercooler: folds
+Uncalled bet ($25.00) returned to chop-ch0p
+chop-ch0p collected $50.00 from pot
+chop-ch0p: doesn't show hand
+*** SUMMARY ***
+Total pot $50.00 | Rake $0.00
+Seat 2: chop-ch0p (big blind) collected ($50.00)
+Seat 4: el0el folded before Flop (didn't bet)
+Seat 7: zas911 (button) folded before Flop (didn't bet)
+Seat 9: Intercooler (small blind) folded before Flop
+
+PokerStars Hand #1504607630:  Hold'em No Limit ($25.00/$50.00 USD) - 2022/12/31 09:01:22 ET
+Table 'WPN_7 Day No Rathole 25/50 NLH 9-Max' 9-max Seat #9 is the button
+Seat 2: chop-ch0p ($6080.44 in chips)
+Seat 3: MachSchnell ($500.00 in chips)
+Seat 4: el0el ($7118.33 in chips)
+Seat 7: zas911 ($8692.46 in chips)
+Seat 9: Intercooler ($1039.84 in chips)
+chop-ch0p: posts small blind $25.00
+MachSchnell: posts big blind $50.00
+*** HOLE CARDS ***
+el0el: folds
+zas911: raises $50.00 to $100.00
+Intercooler: raises $137.50 to $237.50
+chop-ch0p: folds
+MachSchnell: folds
+zas911: folds
+Uncalled bet ($137.50) returned to Intercooler
+Intercooler collected $275.00 from pot
+Intercooler: doesn't show hand
+*** SUMMARY ***
+Total pot $275.00 | Rake $0.00
+Seat 2: chop-ch0p (small blind) folded before Flop
+Seat 3: MachSchnell (big blind) folded before Flop
+Seat 4: el0el folded before Flop (didn't bet)
+Seat 7: zas911 folded before Flop
+Seat 9: Intercooler (button) collected ($275.00)
+
+PokerStars Hand #1504607801:  Hold'em No Limit ($25.00/$50.00 USD) - 2022/12/31 09:01:55 ET
+Table 'WPN_7 Day No Rathole 25/50 NLH 9-Max' 9-max Seat #2 is the button
+Seat 2: chop-ch0p ($6055.44 in chips)
+Seat 3: MachSchnell ($450.00 in chips)
+Seat 4: el0el ($7118.33 in chips)
+Seat 7: zas911 ($8592.46 in chips)
+Seat 9: Intercooler ($1214.84 in chips)
+MachSchnell: posts small blind $25.00
+el0el: posts big blind $50.00
+*** HOLE CARDS ***
+zas911: folds
+Intercooler: folds
+chop-ch0p: folds
+MachSchnell: folds
+Uncalled bet ($25.00) returned to el0el
+el0el collected $50.00 from pot
+el0el: doesn't show hand
+*** SUMMARY ***
+Total pot $50.00 | Rake $0.00
+Seat 2: chop-ch0p (button) folded before Flop (didn't bet)
+Seat 3: MachSchnell (small blind) folded before Flop
+Seat 4: el0el (big blind) collected ($50.00)
+Seat 7: zas911 folded before Flop (didn't bet)
+Seat 9: Intercooler folded before Flop (didn't bet)
+
+PokerStars Hand #1504607946:  Hold'em No Limit ($25.00/$50.00 USD) - 2022/12/31 09:02:19 ET
+Table 'WPN_7 Day No Rathole 25/50 NLH 9-Max' 9-max Seat #3 is the button
+Seat 2: chop-ch0p ($6055.44 in chips)
+Seat 3: MachSchnell ($425.00 in chips)
+Seat 4: el0el ($7143.33 in chips)
+Seat 7: zas911 ($8592.46 in chips)
+Seat 9: Intercooler ($1214.84 in chips)
+el0el: posts small blind $25.00
+zas911: posts big blind $50.00
+*** HOLE CARDS ***
+Intercooler: folds
+chop-ch0p: folds
+MachSchnell: folds
+el0el: raises $100.00 to $150.00
+zas911: calls $100.00
+*** FLOP *** [8s Tc Kh]
+el0el: checks
+zas911: checks
+*** TURN *** [8s Tc Kh] [Qc]
+el0el: bets $225.00
+zas911: folds
+Uncalled bet ($225.00) returned to el0el
+el0el collected $297.00 from pot
+el0el: doesn't show hand
+*** SUMMARY ***
+Total pot $300.00 | Rake $3.00
+Board [8s Tc Kh Qc]
+Seat 2: chop-ch0p folded before Flop (didn't bet)
+Seat 3: MachSchnell (button) folded before Flop (didn't bet)
+Seat 4: el0el (small blind) collected ($297.00)
+Seat 7: zas911 (big blind) folded on the Turn
+Seat 9: Intercooler folded before Flop (didn't bet)
+
+PokerStars Hand #1504608176:  Hold'em No Limit ($25.00/$50.00 USD) - 2022/12/31 09:02:59 ET
+Table 'WPN_7 Day No Rathole 25/50 NLH 9-Max' 9-max Seat #4 is the button
+Seat 2: chop-ch0p ($6055.44 in chips)
+Seat 3: MachSchnell ($425.00 in chips)
+Seat 4: el0el ($7290.33 in chips)
+Seat 7: zas911 ($8442.46 in chips)
+Seat 9: Intercooler ($1214.84 in chips)
+zas911: posts small blind $25.00
+Intercooler: posts big blind $50.00
+*** HOLE CARDS ***
+chop-ch0p: folds
+MachSchnell: raises $375.00 to $425.00 and is all-in
+el0el: calls $425.00
+zas911: folds
+Intercooler: folds
+*** FLOP *** [3d 4d 8d]
+*** TURN *** [3d 4d 8d] [Ad]
+*** RIVER *** [3d 4d 8d Ad] [7c]
+*** SHOW DOWN ***
+el0el: shows [Td Qd]
+MachSchnell: shows [Ts 8s]
+el0el collected $922.00 from pot
+*** SUMMARY ***
+Total pot $925.00 | Rake $3.00
+Board [3d 4d 8d Ad 7c]
+Seat 2: chop-ch0p folded before Flop (didn't bet)
+Seat 3: MachSchnell showed [Ts 8s] and lost
+Seat 4: el0el (button) showed [Td Qd] and won ($922.00)
+Seat 7: zas911 (small blind) folded before Flop
+Seat 9: Intercooler (big blind) folded before Flop
+
+PokerStars Hand #1504608512:  Hold'em No Limit ($25.00/$50.00 USD) - 2022/12/31 09:03:53 ET
+Table 'WPN_7 Day No Rathole 25/50 NLH 9-Max' 9-max Seat #7 is the button
+Seat 2: chop-ch0p ($6055.44 in chips)
+Seat 4: el0el ($7787.33 in chips)
+Seat 7: zas911 ($8417.46 in chips)
+Seat 9: Intercooler ($1164.84 in chips)
+Intercooler: posts small blind $25.00
+el0el: posts big blind $50.00
+*** HOLE CARDS ***
+zas911: raises $60.00 to $110.00
+Intercooler: folds
+el0el: folds
+Uncalled bet ($60.00) returned to zas911
+zas911 collected $125.00 from pot
+zas911: doesn't show hand
+*** SUMMARY ***
+Total pot $125.00 | Rake $0.00
+Seat 4: el0el (big blind) folded before Flop
+Seat 7: zas911 (button) collected ($125.00)
+Seat 9: Intercooler (small blind) folded before Flop
+
+PokerStars Hand #1504608608:  Hold'em No Limit ($25.00/$50.00 USD) - 2022/12/31 09:04:10 ET
+Table 'WPN_7 Day No Rathole 25/50 NLH 9-Max' 9-max Seat #9 is the button
+Seat 4: el0el ($7737.33 in chips)
+Seat 7: zas911 ($8492.46 in chips)
+Seat 9: Intercooler ($1139.84 in chips)
+el0el: posts small blind $25.00
+zas911: posts big blind $50.00
+*** HOLE CARDS ***
+Intercooler: folds
+el0el: raises $100.00 to $150.00
+zas911: calls $100.00
+*** FLOP *** [5d Jh 5s]
+el0el: bets $99.00
+zas911: folds
+Uncalled bet ($99.00) returned to el0el
+el0el collected $298.25 from pot
+el0el: doesn't show hand
+*** SUMMARY ***
+Total pot $300.00 | Rake $1.75
+Board [5d Jh 5s]
+Seat 4: el0el (small blind) collected ($298.25)
+Seat 7: zas911 (big blind) folded on the Flop
+Seat 9: Intercooler (button) folded before Flop (didn't bet)
+
+PokerStars Hand #1504068887:  Hold'em No Limit ($25.00/$50.00 USD) - 2022/12/30 22:56:15 ET
+Table 'WPN_7 Day No Rathole 25/50 NLH 9-Max' 9-max Seat #1 is the button
+Seat 1: oossuuu754 ($425.00 in chips)
+Seat 3: Intercooler ($550.00 in chips)
+oossuuu754: posts small blind $25.00
+Intercooler: posts big blind $50.00
+*** HOLE CARDS ***
+oossuuu754: folds
+Uncalled bet ($25.00) returned to Intercooler
+Intercooler collected $50.00 from pot
+Intercooler: doesn't show hand
+*** SUMMARY ***
+Total pot $50.00 | Rake $0.00
+Seat 1: oossuuu754 (button) (small blind) folded before Flop
+Seat 3: Intercooler (big blind) collected ($50.00)
+
+PokerStars Hand #1504069050:  Hold'em No Limit ($25.00/$50.00 USD) - 2022/12/30 22:56:33 ET
+Table 'WPN_7 Day No Rathole 25/50 NLH 9-Max' 9-max Seat #3 is the button
+Seat 1: oossuuu754 ($425.00 in chips)
+Seat 3: Intercooler ($575.00 in chips)
+Intercooler: posts small blind $25.00
+oossuuu754: posts big blind $50.00
+*** HOLE CARDS ***
+Intercooler: raises $50.00 to $100.00
+oossuuu754: folds
+Uncalled bet ($50.00) returned to Intercooler
+Intercooler collected $100.00 from pot
+Intercooler: doesn't show hand
+*** SUMMARY ***
+Total pot $100.00 | Rake $0.00
+Seat 1: oossuuu754 (big blind) folded before Flop
+Seat 3: Intercooler (button) (small blind) collected ($100.00)
+
+PokerStars Hand #1504069190:  Hold'em No Limit ($25.00/$50.00 USD) - 2022/12/30 22:56:50 ET
+Table 'WPN_7 Day No Rathole 25/50 NLH 9-Max' 9-max Seat #1 is the button
+Seat 1: oossuuu754 ($375.00 in chips)
+Seat 3: Intercooler ($625.00 in chips)
+oossuuu754: posts small blind $25.00
+Intercooler: posts big blind $50.00
+*** HOLE CARDS ***
+oossuuu754: raises $325.00 to $375.00 and is all-in
+Intercooler: folds
+Uncalled bet ($325.00) returned to oossuuu754
+oossuuu754 collected $100.00 from pot
+oossuuu754: doesn't show hand
+*** SUMMARY ***
+Total pot $100.00 | Rake $0.00
+Seat 1: oossuuu754 (button) (small blind) collected ($100.00)
+Seat 3: Intercooler (big blind) folded before Flop
+
+PokerStars Hand #1504069338:  Hold'em No Limit ($25.00/$50.00 USD) - 2022/12/30 22:57:04 ET
+Table 'WPN_7 Day No Rathole 25/50 NLH 9-Max' 9-max Seat #3 is the button
+Seat 1: oossuuu754 ($425.00 in chips)
+Seat 3: Intercooler ($575.00 in chips)
+Intercooler: posts small blind $25.00
+oossuuu754: posts big blind $50.00
+*** HOLE CARDS ***
+Intercooler: calls $25.00
+oossuuu754: raises $375.00 to $425.00 and is all-in
+Intercooler: folds
+Uncalled bet ($375.00) returned to oossuuu754
+oossuuu754 collected $100.00 from pot
+oossuuu754: doesn't show hand
+*** SUMMARY ***
+Total pot $100.00 | Rake $0.00
+Seat 1: oossuuu754 (big blind) collected ($100.00)
+Seat 3: Intercooler (button) (small blind) folded before Flop
+
+PokerStars Hand #1504069542:  Hold'em No Limit ($25.00/$50.00 USD) - 2022/12/30 22:57:25 ET
+Table 'WPN_7 Day No Rathole 25/50 NLH 9-Max' 9-max Seat #1 is the button
+Seat 1: oossuuu754 ($475.00 in chips)
+Seat 3: Intercooler ($525.00 in chips)
+oossuuu754: posts small blind $25.00
+Intercooler: posts big blind $50.00
+*** HOLE CARDS ***
+oossuuu754: folds
+Uncalled bet ($25.00) returned to Intercooler
+Intercooler collected $50.00 from pot
+Intercooler: doesn't show hand
+*** SUMMARY ***
+Total pot $50.00 | Rake $0.00
+Seat 1: oossuuu754 (button) (small blind) folded before Flop
+Seat 3: Intercooler (big blind) collected ($50.00)
+
+PokerStars Hand #1504069651:  Hold'em No Limit ($25.00/$50.00 USD) - 2022/12/30 22:57:36 ET
+Table 'WPN_7 Day No Rathole 25/50 NLH 9-Max' 9-max Seat #3 is the button
+Seat 1: oossuuu754 ($450.00 in chips)
+Seat 3: Intercooler ($550.00 in chips)
+Intercooler: posts small blind $25.00
+oossuuu754: posts big blind $50.00
+*** HOLE CARDS ***
+Intercooler: folds
+Uncalled bet ($25.00) returned to oossuuu754
+oossuuu754 collected $50.00 from pot
+oossuuu754: doesn't show hand
+*** SUMMARY ***
+Total pot $50.00 | Rake $0.00
+Seat 1: oossuuu754 (big blind) collected ($50.00)
+Seat 3: Intercooler (button) (small blind) folded before Flop
+
+PokerStars Hand #1504069745:  Hold'em No Limit ($25.00/$50.00 USD) - 2022/12/30 22:57:48 ET
+Table 'WPN_7 Day No Rathole 25/50 NLH 9-Max' 9-max Seat #1 is the button
+Seat 1: oossuuu754 ($475.00 in chips)
+Seat 3: Intercooler ($525.00 in chips)
+oossuuu754: posts small blind $25.00
+Intercooler: posts big blind $50.00
+*** HOLE CARDS ***
+oossuuu754: calls $25.00
+Intercooler: checks
+*** FLOP *** [Qd 8s 2d]
+Intercooler: bets $50.00
+oossuuu754: calls $50.00
+*** TURN *** [Qd 8s 2d] [Kh]
+Intercooler: checks
+oossuuu754: bets $116.00
+Intercooler: folds
+Uncalled bet ($116.00) returned to oossuuu754
+oossuuu754 collected $198.75 from pot
+oossuuu754: doesn't show hand
+*** SUMMARY ***
+Total pot $200.00 | Rake $1.25
+Board [Qd 8s 2d Kh]
+Seat 1: oossuuu754 (button) (small blind) collected ($198.75)
+Seat 3: Intercooler (big blind) folded on the Turn
+
+PokerStars Hand #1504070084:  Hold'em No Limit ($25.00/$50.00 USD) - 2022/12/30 22:58:29 ET
+Table 'WPN_7 Day No Rathole 25/50 NLH 9-Max' 9-max Seat #3 is the button
+Seat 1: oossuuu754 ($573.75 in chips)
+Seat 3: Intercooler ($425.00 in chips)
+Intercooler: posts small blind $25.00
+oossuuu754: posts big blind $50.00
+*** HOLE CARDS ***
+Intercooler: folds
+Uncalled bet ($25.00) returned to oossuuu754
+oossuuu754 collected $50.00 from pot
+oossuuu754: doesn't show hand
+*** SUMMARY ***
+Total pot $50.00 | Rake $0.00
+Seat 1: oossuuu754 (big blind) collected ($50.00)
+Seat 3: Intercooler (button) (small blind) folded before Flop
+
+PokerStars Hand #1504070239:  Hold'em No Limit ($25.00/$50.00 USD) - 2022/12/30 22:58:47 ET
+Table 'WPN_7 Day No Rathole 25/50 NLH 9-Max' 9-max Seat #1 is the button
+Seat 1: oossuuu754 ($598.75 in chips)
+Seat 3: Intercooler ($475.00 in chips)
+oossuuu754: posts small blind $25.00
+Intercooler: posts big blind $50.00
+*** HOLE CARDS ***
+oossuuu754: folds
+Uncalled bet ($25.00) returned to Intercooler
+Intercooler collected $50.00 from pot
+Intercooler: doesn't show hand
+*** SUMMARY ***
+Total pot $50.00 | Rake $0.00
+Seat 1: oossuuu754 (button) (small blind) folded before Flop
+Seat 3: Intercooler (big blind) collected ($50.00)
+
+PokerStars Hand #1504070328:  Hold'em No Limit ($25.00/$50.00 USD) - 2022/12/30 22:58:57 ET
+Table 'WPN_7 Day No Rathole 25/50 NLH 9-Max' 9-max Seat #3 is the button
+Seat 1: oossuuu754 ($573.75 in chips)
+Seat 3: Intercooler ($525.00 in chips)
+Intercooler: posts small blind $25.00
+oossuuu754: posts big blind $50.00
+*** HOLE CARDS ***
+Intercooler: raises $475.00 to $525.00 and is all-in
+oossuuu754: folds
+Uncalled bet ($475.00) returned to Intercooler
+Intercooler collected $100.00 from pot
+Intercooler: doesn't show hand
+*** SUMMARY ***
+Total pot $100.00 | Rake $0.00
+Seat 1: oossuuu754 (big blind) folded before Flop
+Seat 3: Intercooler (button) (small blind) collected ($100.00)
+
+PokerStars Hand #1504070475:  Hold'em No Limit ($25.00/$50.00 USD) - 2022/12/30 22:59:15 ET
+Table 'WPN_7 Day No Rathole 25/50 NLH 9-Max' 9-max Seat #1 is the button
+Seat 1: oossuuu754 ($523.75 in chips)
+Seat 3: Intercooler ($575.00 in chips)
+oossuuu754: posts small blind $25.00
+Intercooler: posts big blind $50.00
+*** HOLE CARDS ***
+oossuuu754: folds
+Uncalled bet ($25.00) returned to Intercooler
+Intercooler collected $50.00 from pot
+Intercooler: doesn't show hand
+*** SUMMARY ***
+Total pot $50.00 | Rake $0.00
+Seat 1: oossuuu754 (button) (small blind) folded before Flop
+Seat 3: Intercooler (big blind) collected ($50.00)
+
+PokerStars Hand #1504070604:  Hold'em No Limit ($25.00/$50.00 USD) - 2022/12/30 22:59:29 ET
+Table 'WPN_7 Day No Rathole 25/50 NLH 9-Max' 9-max Seat #3 is the button
+Seat 1: oossuuu754 ($498.75 in chips)
+Seat 3: Intercooler ($600.00 in chips)
+Intercooler: posts small blind $25.00
+oossuuu754: posts big blind $50.00
+*** HOLE CARDS ***
+Intercooler: folds
+Uncalled bet ($25.00) returned to oossuuu754
+oossuuu754 collected $50.00 from pot
+oossuuu754: doesn't show hand
+*** SUMMARY ***
+Total pot $50.00 | Rake $0.00
+Seat 1: oossuuu754 (big blind) collected ($50.00)
+Seat 3: Intercooler (button) (small blind) folded before Flop
+
+PokerStars Hand #1504070704:  Hold'em No Limit ($25.00/$50.00 USD) - 2022/12/30 22:59:40 ET
+Table 'WPN_7 Day No Rathole 25/50 NLH 9-Max' 9-max Seat #1 is the button
+Seat 1: oossuuu754 ($523.75 in chips)
+Seat 3: Intercooler ($575.00 in chips)
+oossuuu754: posts small blind $25.00
+Intercooler: posts big blind $50.00
+*** HOLE CARDS ***
+oossuuu754: folds
+Uncalled bet ($25.00) returned to Intercooler
+Intercooler collected $50.00 from pot
+Intercooler: doesn't show hand
+*** SUMMARY ***
+Total pot $50.00 | Rake $0.00
+Seat 1: oossuuu754 (button) (small blind) folded before Flop
+Seat 3: Intercooler (big blind) collected ($50.00)
+
+PokerStars Hand #1504071147:  Hold'em No Limit ($25.00/$50.00 USD) - 2022/12/30 23:00:26 ET
+Table 'WPN_7 Day No Rathole 25/50 NLH 9-Max' 9-max Seat #1 is the button
+Seat 1: oossuuu754 ($423.75 in chips)
+Seat 2: EdgarAllanPwn ($525.00 in chips)
+Seat 3: Intercooler ($650.00 in chips)
+EdgarAllanPwn: posts small blind $25.00
+Intercooler: posts big blind $50.00
+*** HOLE CARDS ***
+oossuuu754: folds
+EdgarAllanPwn: raises $475.00 to $525.00 and is all-in
+Intercooler: calls $475.00
+*** FIRST FLOP *** [Ks 5h 4c]
+*** FIRST TURN *** [Ks 5h 4c] [4d]
+*** FIRST RIVER *** [Ks 5h 4c 4d] [Jc]
+*** SECOND FLOP *** [Jh 4s 3h]
+*** SECOND TURN *** [Jh 4s 3h] [3d]
+*** SECOND RIVER *** [Jh 4s 3h 3d] [2c]
+*** FIRST SHOW DOWN ***
+EdgarAllanPwn: shows [Kh Jd]
+Intercooler: shows [Qh Kc]
+EdgarAllanPwn collected $524.13 from pot
+*** SECOND SHOW DOWN ***
+EdgarAllanPwn: shows [Kh Jd]
+Intercooler: shows [Qh Kc]
+EdgarAllanPwn collected $524.12 from pot
+*** SUMMARY ***
+Total pot $1050.00 | Rake $1.75
+Hand was run twice
+FIRST Board [Ks 5h 4c 4d Jc]
+SECOND Board [Jh 4s 3h 3d 2c]
+Seat 1: oossuuu754 (button) folded before Flop (didn't bet)
+Seat 2: EdgarAllanPwn (small blind) showed [Kh Jd] and won ($524.13), and won ($524.12)
+Seat 3: Intercooler (big blind) showed [Qh Kc] and lost, and lost
+
+PokerStars Hand #1504071626:  Hold'em No Limit ($25.00/$50.00 USD) - 2022/12/30 23:00:59 ET
+Table 'WPN_7 Day No Rathole 25/50 NLH 9-Max' 9-max Seat #2 is the button
+Seat 1: oossuuu754 ($423.75 in chips)
+Seat 2: EdgarAllanPwn ($1048.25 in chips)
+Seat 3: Intercooler ($500.00 in chips)
+Intercooler: posts small blind $25.00
+oossuuu754: posts big blind $50.00
+*** HOLE CARDS ***
+EdgarAllanPwn: folds
+Intercooler: raises $450.00 to $500.00 and is all-in
+oossuuu754: calls $373.75 and is all-in
+Uncalled bet ($76.25) returned to Intercooler
+*** FIRST FLOP *** [As Jh Tc]
+*** FIRST TURN *** [As Jh Tc] [6d]
+*** FIRST RIVER *** [As Jh Tc 6d] [Qc]
+*** SECOND FLOP *** [7c 8c 4d]
+*** SECOND TURN *** [7c 8c 4d] [Js]
+*** SECOND RIVER *** [7c 8c 4d Js] [4s]
+*** FIRST SHOW DOWN ***
+oossuuu754: shows [Ks 9c]
+Intercooler: shows [Jc Kc]
+oossuuu754 collected $211.43 from pot
+Intercooler collected $211.45 from pot
+*** SECOND SHOW DOWN ***
+oossuuu754: shows [Ks 9c]
+Intercooler: shows [Jc Kc]
+Intercooler collected $422.87 from pot
+*** SUMMARY ***
+Total pot $847.50 | Rake $1.75
+Hand was run twice
+FIRST Board [As Jh Tc 6d Qc]
+SECOND Board [7c 8c 4d Js 4s]
+Seat 1: oossuuu754 (big blind) showed [Ks 9c] and won ($211.43), and lost
+Seat 2: EdgarAllanPwn (button) folded before Flop (didn't bet)
+Seat 3: Intercooler (small blind) showed [Jc Kc] and won ($211.45), and won ($422.87)
+
+PokerStars Hand #1504072114:  Hold'em No Limit ($25.00/$50.00 USD) - 2022/12/30 23:01:35 ET
+Table 'WPN_7 Day No Rathole 25/50 NLH 9-Max' 9-max Seat #1 is the button
+Seat 1: oossuuu754 ($211.43 in chips)
+Seat 3: Intercooler ($710.57 in chips)
+oossuuu754: posts small blind $25.00
+Intercooler: posts big blind $50.00
+*** HOLE CARDS ***
+oossuuu754: folds
+Uncalled bet ($25.00) returned to Intercooler
+Intercooler collected $50.00 from pot
+Intercooler: doesn't show hand
+*** SUMMARY ***
+Total pot $50.00 | Rake $0.00
+Seat 1: oossuuu754 (button) (small blind) folded before Flop
+Seat 3: Intercooler (big blind) collected ($50.00)
+
+PokerStars Hand #1504072433:  Hold'em No Limit ($25.00/$50.00 USD) - 2022/12/30 23:01:53 ET
+Table 'WPN_7 Day No Rathole 25/50 NLH 9-Max' 9-max Seat #3 is the button
+Seat 1: oossuuu754 ($186.43 in chips)
+Seat 3: Intercooler ($735.57 in chips)
+Intercooler: posts small blind $25.00
+oossuuu754: posts big blind $50.00
+*** HOLE CARDS ***
+Intercooler: folds
+Uncalled bet ($25.00) returned to oossuuu754
+oossuuu754 collected $50.00 from pot
+oossuuu754: doesn't show hand
+*** SUMMARY ***
+Total pot $50.00 | Rake $0.00
+Seat 1: oossuuu754 (big blind) collected ($50.00)
+Seat 3: Intercooler (button) (small blind) folded before Flop
+
+PokerStars Hand #1504072741:  Hold'em No Limit ($25.00/$50.00 USD) - 2022/12/30 23:02:13 ET
+Table 'WPN_7 Day No Rathole 25/50 NLH 9-Max' 9-max Seat #1 is the button
+Seat 1: oossuuu754 ($211.43 in chips)
+Seat 3: Intercooler ($710.57 in chips)
+oossuuu754: posts small blind $25.00
+Intercooler: posts big blind $50.00
+*** HOLE CARDS ***
+oossuuu754: folds
+Uncalled bet ($25.00) returned to Intercooler
+Intercooler collected $50.00 from pot
+Intercooler: doesn't show hand
+*** SUMMARY ***
+Total pot $50.00 | Rake $0.00
+Seat 1: oossuuu754 (button) (small blind) folded before Flop
+Seat 3: Intercooler (big blind) collected ($50.00)
+
+PokerStars Hand #1504072913:  Hold'em No Limit ($25.00/$50.00 USD) - 2022/12/30 23:02:25 ET
+Table 'WPN_7 Day No Rathole 25/50 NLH 9-Max' 9-max Seat #1 is the button
+Seat 1: oossuuu754 ($186.43 in chips)
+Seat 3: Intercooler ($735.57 in chips)
+Seat 8: lee118 ($500.00 in chips)
+Intercooler: posts small blind $25.00
+lee118: posts big blind $50.00
+*** HOLE CARDS ***
+oossuuu754: folds
+Intercooler: folds
+Uncalled bet ($25.00) returned to lee118
+lee118 collected $50.00 from pot
+lee118: doesn't show hand
+*** SUMMARY ***
+Total pot $50.00 | Rake $0.00
+Seat 1: oossuuu754 (button) folded before Flop (didn't bet)
+Seat 3: Intercooler (small blind) folded before Flop
+Seat 8: lee118 (big blind) collected ($50.00)
+
+PokerStars Hand #1504073187:  Hold'em No Limit ($25.00/$50.00 USD) - 2022/12/30 23:02:40 ET
+Table 'WPN_7 Day No Rathole 25/50 NLH 9-Max' 9-max Seat #3 is the button
+Seat 1: oossuuu754 ($186.43 in chips)
+Seat 3: Intercooler ($710.57 in chips)
+Seat 8: lee118 ($525.00 in chips)
+lee118: posts small blind $25.00
+oossuuu754: posts big blind $50.00
+*** HOLE CARDS ***
+Intercooler: raises $62.50 to $112.50
+lee118: folds
+oossuuu754: folds
+Uncalled bet ($62.50) returned to Intercooler
+Intercooler collected $125.00 from pot
+Intercooler: doesn't show hand
+*** SUMMARY ***
+Total pot $125.00 | Rake $0.00
+Seat 1: oossuuu754 (big blind) folded before Flop
+Seat 3: Intercooler (button) collected ($125.00)
+Seat 8: lee118 (small blind) folded before Flop
+
+PokerStars Hand #1504073594:  Hold'em No Limit ($25.00/$50.00 USD) - 2022/12/30 23:03:04 ET
+Table 'WPN_7 Day No Rathole 25/50 NLH 9-Max' 9-max Seat #8 is the button
+Seat 1: oossuuu754 ($136.43 in chips)
+Seat 3: Intercooler ($785.57 in chips)
+Seat 8: lee118 ($500.00 in chips)
+oossuuu754: posts small blind $25.00
+Intercooler: posts big blind $50.00
+*** HOLE CARDS ***
+lee118: raises $450.00 to $500.00 and is all-in
+oossuuu754: folds
+Intercooler: folds
+Uncalled bet ($450.00) returned to lee118
+lee118 collected $125.00 from pot
+lee118: doesn't show hand
+*** SUMMARY ***
+Total pot $125.00 | Rake $0.00
+Seat 1: oossuuu754 (small blind) folded before Flop
+Seat 3: Intercooler (big blind) folded before Flop
+Seat 8: lee118 (button) collected ($125.00)
+
+PokerStars Hand #1504073909:  Hold'em No Limit ($25.00/$50.00 USD) - 2022/12/30 23:03:22 ET
+Table 'WPN_7 Day No Rathole 25/50 NLH 9-Max' 9-max Seat #1 is the button
+Seat 1: oossuuu754 ($111.43 in chips)
+Seat 3: Intercooler ($735.57 in chips)
+Seat 8: lee118 ($575.00 in chips)
+Intercooler: posts small blind $25.00
+lee118: posts big blind $50.00
+*** HOLE CARDS ***
+oossuuu754: raises $61.43 to $111.43 and is all-in
+Intercooler: folds
+lee118: calls $61.43
+*** FIRST FLOP *** [Tc Kc Ts]
+*** FIRST TURN *** [Tc Kc Ts] [5s]
+*** FIRST RIVER *** [Tc Kc Ts 5s] [Th]
+*** SECOND FLOP *** [2d 6d 3c]
+*** SECOND TURN *** [2d 6d 3c] [2s]
+*** SECOND RIVER *** [2d 6d 3c 2s] [As]
+*** FIRST SHOW DOWN ***
+oossuuu754: shows [4d Ad]
+lee118: shows [Ac 5c]
+lee118 collected $123.06 from pot
+*** SECOND SHOW DOWN ***
+oossuuu754: shows [4d Ad]
+lee118: shows [Ac 5c]
+oossuuu754 collected $61.52 from pot
+lee118 collected $61.53 from pot
+*** SUMMARY ***
+Total pot $247.86 | Rake $1.75
+Hand was run twice
+FIRST Board [Tc Kc Ts 5s Th]
+SECOND Board [2d 6d 3c 2s As]
+Seat 1: oossuuu754 (button) showed [4d Ad] and lost, and won ($61.52)
+Seat 3: Intercooler (small blind) folded before Flop
+Seat 8: lee118 (big blind) showed [Ac 5c] and won ($123.06), and won ($61.53)
+
+PokerStars Hand #1504074440:  Hold'em No Limit ($25.00/$50.00 USD) - 2022/12/30 23:03:52 ET
+Table 'WPN_7 Day No Rathole 25/50 NLH 9-Max' 9-max Seat #3 is the button
+Seat 1: oossuuu754 ($61.52 in chips)
+Seat 3: Intercooler ($710.57 in chips)
+Seat 8: lee118 ($648.16 in chips)
+lee118: posts small blind $25.00
+oossuuu754: posts big blind $50.00
+*** HOLE CARDS ***
+Intercooler: raises $660.57 to $710.57 and is all-in
+lee118: folds
+oossuuu754: calls $11.52 and is all-in
+Uncalled bet ($649.05) returned to Intercooler
+*** FIRST FLOP *** [8d 2s 9c]
+*** FIRST TURN *** [8d 2s 9c] [8c]
+*** FIRST RIVER *** [8d 2s 9c 8c] [4c]
+*** SECOND FLOP *** [Qh 5c 6d]
+*** SECOND TURN *** [Qh 5c 6d] [Ah]
+*** SECOND RIVER *** [Qh 5c 6d Ah] [4s]
+*** FIRST SHOW DOWN ***
+Intercooler: shows [Ac 2c]
+oossuuu754: shows [9h Js]
+Intercooler collected $73.15 from pot
+*** SECOND SHOW DOWN ***
+Intercooler: shows [Ac 2c]
+oossuuu754: shows [9h Js]
+Intercooler collected $73.14 from pot
+*** SUMMARY ***
+Total pot $148.04 | Rake $1.75
+Hand was run twice
+FIRST Board [8d 2s 9c 8c 4c]
+SECOND Board [Qh 5c 6d Ah 4s]
+Seat 1: oossuuu754 (big blind) showed [9h Js] and lost, and lost
+Seat 3: Intercooler (button) showed [Ac 2c] and won ($73.15), and won ($73.14)
+Seat 8: lee118 (small blind) folded before Flop
+
+PokerStars Hand #1504075034:  Hold'em No Limit ($25.00/$50.00 USD) - 2022/12/30 23:04:23 ET
+Table 'WPN_7 Day No Rathole 25/50 NLH 9-Max' 9-max Seat #8 is the button
+Seat 3: Intercooler ($795.34 in chips)
+Seat 8: lee118 ($623.16 in chips)
+lee118: posts small blind $25.00
+Intercooler: posts big blind $50.00
+*** HOLE CARDS ***
+lee118: raises $573.16 to $623.16 and is all-in
+Intercooler: folds
+Uncalled bet ($573.16) returned to lee118
+lee118 collected $100.00 from pot
+lee118: doesn't show hand
+*** SUMMARY ***
+Total pot $100.00 | Rake $0.00
+Seat 3: Intercooler (big blind) folded before Flop
+Seat 8: lee118 (button) (small blind) collected ($100.00)
+
+PokerStars Hand #1504075416:  Hold'em No Limit ($25.00/$50.00 USD) - 2022/12/30 23:04:44 ET
+Table 'WPN_7 Day No Rathole 25/50 NLH 9-Max' 9-max Seat #3 is the button
+Seat 3: Intercooler ($745.34 in chips)
+Seat 8: lee118 ($673.16 in chips)
+Intercooler: posts small blind $25.00
+lee118: posts big blind $50.00
+*** HOLE CARDS ***
+Intercooler: raises $695.34 to $745.34 and is all-in
+lee118: folds
+Uncalled bet ($695.34) returned to Intercooler
+Intercooler collected $100.00 from pot
+Intercooler: doesn't show hand
+*** SUMMARY ***
+Total pot $100.00 | Rake $0.00
+Seat 3: Intercooler (button) (small blind) collected ($100.00)
+Seat 8: lee118 (big blind) folded before Flop
+
+PokerStars Hand #1504075719:  Hold'em No Limit ($25.00/$50.00 USD) - 2022/12/30 23:04:59 ET
+Table 'WPN_7 Day No Rathole 25/50 NLH 9-Max' 9-max Seat #8 is the button
+Seat 3: Intercooler ($795.34 in chips)
+Seat 8: lee118 ($623.16 in chips)
+lee118: posts small blind $25.00
+Intercooler: posts big blind $50.00
+*** HOLE CARDS ***
+lee118: folds
+Uncalled bet ($25.00) returned to Intercooler
+Intercooler collected $50.00 from pot
+Intercooler: doesn't show hand
+*** SUMMARY ***
+Total pot $50.00 | Rake $0.00
+Seat 3: Intercooler (big blind) collected ($50.00)
+Seat 8: lee118 (button) (small blind) folded before Flop
+
+PokerStars Hand #1504075937:  Hold'em No Limit ($25.00/$50.00 USD) - 2022/12/30 23:05:11 ET
+Table 'WPN_7 Day No Rathole 25/50 NLH 9-Max' 9-max Seat #3 is the button
+Seat 3: Intercooler ($820.34 in chips)
+Seat 8: lee118 ($598.16 in chips)
+Intercooler: posts small blind $25.00
+lee118: posts big blind $50.00
+*** HOLE CARDS ***
+Intercooler: calls $25.00
+lee118: checks
+*** FLOP *** [5c 5d Jc]
+lee118: checks
+Intercooler: bets $50.00
+lee118: folds
+Uncalled bet ($50.00) returned to Intercooler
+Intercooler collected $98.75 from pot
+Intercooler: doesn't show hand
+*** SUMMARY ***
+Total pot $100.00 | Rake $1.25
+Board [5c 5d Jc]
+Seat 3: Intercooler (button) (small blind) collected ($98.75)
+Seat 8: lee118 (big blind) folded on the Flop
+
+PokerStars Hand #1504076360:  Hold'em No Limit ($25.00/$50.00 USD) - 2022/12/30 23:05:39 ET
+Table 'WPN_7 Day No Rathole 25/50 NLH 9-Max' 9-max Seat #8 is the button
+Seat 3: Intercooler ($869.09 in chips)
+Seat 8: lee118 ($548.16 in chips)
+lee118: posts small blind $25.00
+Intercooler: posts big blind $50.00
+*** HOLE CARDS ***
+lee118: raises $498.16 to $548.16 and is all-in
+Intercooler: folds
+Uncalled bet ($498.16) returned to lee118
+lee118 collected $100.00 from pot
+lee118: doesn't show hand
+*** SUMMARY ***
+Total pot $100.00 | Rake $0.00
+Seat 3: Intercooler (big blind) folded before Flop
+Seat 8: lee118 (button) (small blind) collected ($100.00)
+
+PokerStars Hand #1504076754:  Hold'em No Limit ($25.00/$50.00 USD) - 2022/12/30 23:06:01 ET
+Table 'WPN_7 Day No Rathole 25/50 NLH 9-Max' 9-max Seat #3 is the button
+Seat 3: Intercooler ($819.09 in chips)
+Seat 8: lee118 ($598.16 in chips)
+Intercooler: posts small blind $25.00
+lee118: posts big blind $50.00
+*** HOLE CARDS ***
+Intercooler: folds
+Uncalled bet ($25.00) returned to lee118
+lee118 collected $50.00 from pot
+lee118: doesn't show hand
+*** SUMMARY ***
+Total pot $50.00 | Rake $0.00
+Seat 3: Intercooler (button) (small blind) folded before Flop
+Seat 8: lee118 (big blind) collected ($50.00)
+
+PokerStars Hand #1504077090:  Hold'em No Limit ($25.00/$50.00 USD) - 2022/12/30 23:06:19 ET
+Table 'WPN_7 Day No Rathole 25/50 NLH 9-Max' 9-max Seat #8 is the button
+Seat 3: Intercooler ($794.09 in chips)
+Seat 8: lee118 ($623.16 in chips)
+lee118: posts small blind $25.00
+Intercooler: posts big blind $50.00
+*** HOLE CARDS ***
+lee118: calls $25.00
+Intercooler: checks
+*** FLOP *** [Qc 8c 4d]
+Intercooler: bets $55.00
+lee118: folds
+Uncalled bet ($55.00) returned to Intercooler
+Intercooler collected $98.75 from pot
+Intercooler: doesn't show hand
+*** SUMMARY ***
+Total pot $100.00 | Rake $1.25
+Board [Qc 8c 4d]
+Seat 3: Intercooler (big blind) collected ($98.75)
+Seat 8: lee118 (button) (small blind) folded on the Flop
+
+PokerStars Hand #1504077696:  Hold'em No Limit ($25.00/$50.00 USD) - 2022/12/30 23:06:53 ET
+Table 'WPN_7 Day No Rathole 25/50 NLH 9-Max' 9-max Seat #3 is the button
+Seat 3: Intercooler ($842.84 in chips)
+Seat 8: lee118 ($573.16 in chips)
+Intercooler: posts small blind $25.00
+lee118: posts big blind $50.00
+*** HOLE CARDS ***
+Intercooler: calls $25.00
+lee118: raises $523.16 to $573.16 and is all-in
+Intercooler: folds
+Uncalled bet ($523.16) returned to lee118
+lee118 collected $100.00 from pot
+lee118: doesn't show hand
+*** SUMMARY ***
+Total pot $100.00 | Rake $0.00
+Seat 3: Intercooler (button) (small blind) folded before Flop
+Seat 8: lee118 (big blind) collected ($100.00)
+
+PokerStars Hand #1504078105:  Hold'em No Limit ($25.00/$50.00 USD) - 2022/12/30 23:07:15 ET
+Table 'WPN_7 Day No Rathole 25/50 NLH 9-Max' 9-max Seat #8 is the button
+Seat 3: Intercooler ($792.84 in chips)
+Seat 8: lee118 ($623.16 in chips)
+lee118: posts small blind $25.00
+Intercooler: posts big blind $50.00
+*** HOLE CARDS ***
+lee118: calls $25.00
+Intercooler: checks
+*** FLOP *** [Js Kc 8h]
+Intercooler: checks
+lee118: checks
+*** TURN *** [Js Kc 8h] [Jh]
+Intercooler: bets $75.00
+lee118: calls $75.00
+*** RIVER *** [Js Kc 8h Jh] [Jc]
+Intercooler: checks
+lee118: checks
+*** SHOW DOWN ***
+lee118: shows [8d 5d]
+Intercooler: mucks hand
+lee118 collected $248.75 from pot
+*** SUMMARY ***
+Total pot $250.00 | Rake $1.25
+Board [Js Kc 8h Jh Jc]
+Seat 3: Intercooler (big blind) mucked
+Seat 8: lee118 (button) (small blind) showed [8d 5d] and won ($248.75)
+

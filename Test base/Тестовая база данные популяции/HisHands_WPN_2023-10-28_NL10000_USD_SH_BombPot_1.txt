@@ -1,0 +1,30 @@
+Hand #1910518168 - Holdem(No Limit) - $50/$100 - 2023/10/28 01:09:36 UTC
+Prowers 6-max Seat #1 is the button
+Seat 1: TIKITAKA11 ($10000)
+Seat 4: lol voidaments ($10000)
+TIKITAKA11 posts ante $500
+lol voidaments posts ante $500
+*** HOLE CARDS *** 
+*** FLOP *** [5s 4h 6c]
+Main pot $998.75 | Rake $1.25
+lol voidaments checks
+TIKITAKA11 checks
+*** TURN *** [5s 4h 6c] [6d]
+Main pot $998.75 | Rake $1.25
+lol voidaments checks
+TIKITAKA11 bets $750
+lol voidaments calls $750
+*** RIVER *** [5s 4h 6c 6d] [6s]
+Main pot $2498.75 | Rake $1.25
+lol voidaments checks
+TIKITAKA11 checks
+*** SHOW DOWN ***
+Main pot $2498.75 | Rake $1.25
+TIKITAKA11 shows [3h 5d]
+TIKITAKA11 collected $2498.75 from main pot
+*** SUMMARY ***
+BombPot
+Total pot $2498.75 | Rake $1.25
+Seat 1: TIKITAKA11 (button) showed [3h 5d] and won $2498.75 with FullHouse [6s 6d 6c 5s 5d]
+Seat 4: lol voidaments did not showed and lost
+

@@ -1,0 +1,5174 @@
+PokerStars Hand #1346454718:  Hold'em No Limit ($50.00/$100.00 USD) - 2022/08/20 05:26:27 ET
+Table 'WPN_7 Day No Rathole 50/100 NLH' 9-max Seat #5 is the button
+Seat 1: DrStrange1 ($2639.00 in chips)
+Seat 2: bigsoowoop ($2247.00 in chips)
+Seat 4: BeAlive ($2197.75 in chips)
+Seat 5: honey_badger ($3216.72 in chips)
+Seat 6: az96 ($2189.25 in chips)
+Seat 9: Viklor123 ($2180.25 in chips)
+az96: posts small blind $50.00
+Viklor123: posts big blind $100.00
+*** HOLE CARDS ***
+DrStrange1: calls $100.00
+bigsoowoop: folds
+BeAlive: folds
+honey_badger: folds
+az96: calls $50.00
+Viklor123: raises $300.00 to $400.00
+DrStrange1: calls $300.00
+az96: folds
+*** FLOP *** [Tc Th 9h]
+Viklor123: bets $296.00
+DrStrange1: calls $296.00
+*** TURN *** [Tc Th 9h] [7s]
+Viklor123: bets $1484.25 and is all-in
+DrStrange1: folds
+Uncalled bet ($1484.25) returned to Viklor123
+Viklor123 collected $1489.00 from pot
+Viklor123: doesn't show hand
+*** SUMMARY ***
+Total pot $1492.00 | Rake $3.00
+Board [Tc Th 9h 7s]
+Seat 1: DrStrange1 folded on the Turn
+Seat 2: bigsoowoop folded before Flop (didn't bet)
+Seat 4: BeAlive folded before Flop (didn't bet)
+Seat 5: honey_badger (button) folded before Flop (didn't bet)
+Seat 6: az96 (small blind) folded before Flop
+Seat 9: Viklor123 (big blind) collected ($1489.00)
+
+PokerStars Hand #1346455970:  Hold'em No Limit ($50.00/$100.00 USD) - 2022/08/20 05:27:57 ET
+Table 'WPN_7 Day No Rathole 50/100 NLH' 9-max Seat #6 is the button
+Seat 1: DrStrange1 ($1943.00 in chips)
+Seat 2: bigsoowoop ($2247.00 in chips)
+Seat 4: BeAlive ($2197.75 in chips)
+Seat 5: honey_badger ($3216.72 in chips)
+Seat 6: az96 ($2089.25 in chips)
+Seat 9: Viklor123 ($2973.25 in chips)
+Viklor123: posts small blind $50.00
+DrStrange1: posts big blind $100.00
+*** HOLE CARDS ***
+bigsoowoop: folds
+BeAlive: raises $2097.75 to $2197.75 and is all-in
+honey_badger: folds
+az96: folds
+Viklor123: folds
+DrStrange1: folds
+Uncalled bet ($2097.75) returned to BeAlive
+BeAlive collected $250.00 from pot
+BeAlive: doesn't show hand
+*** SUMMARY ***
+Total pot $250.00 | Rake $0.00
+Seat 1: DrStrange1 (big blind) folded before Flop
+Seat 2: bigsoowoop folded before Flop (didn't bet)
+Seat 4: BeAlive collected ($250.00)
+Seat 5: honey_badger folded before Flop (didn't bet)
+Seat 6: az96 (button) folded before Flop (didn't bet)
+Seat 9: Viklor123 (small blind) folded before Flop
+
+PokerStars Hand #1346456635:  Hold'em No Limit ($50.00/$100.00 USD) - 2022/08/20 05:28:44 ET
+Table 'WPN_7 Day No Rathole 50/100 NLH' 9-max Seat #9 is the button
+Seat 1: DrStrange1 ($1843.00 in chips)
+Seat 2: bigsoowoop ($2247.00 in chips)
+Seat 4: BeAlive ($2347.75 in chips)
+Seat 5: honey_badger ($3216.72 in chips)
+Seat 6: az96 ($2089.25 in chips)
+Seat 9: Viklor123 ($2923.25 in chips)
+DrStrange1: posts small blind $50.00
+bigsoowoop: posts big blind $100.00
+*** HOLE CARDS ***
+BeAlive: folds
+honey_badger: folds
+az96: raises $100.00 to $200.00
+Viklor123: folds
+DrStrange1: calls $150.00
+bigsoowoop: folds
+*** FLOP *** [Ad 4d Kc]
+DrStrange1: checks
+az96: checks
+*** TURN *** [Ad 4d Kc] [Ac]
+DrStrange1: checks
+az96: checks
+*** RIVER *** [Ad 4d Kc Ac] [3c]
+DrStrange1: bets $375.00
+az96: calls $375.00
+*** SHOW DOWN ***
+az96: shows [Ts Tc]
+DrStrange1: mucks hand
+az96 collected $1247.00 from pot
+*** SUMMARY ***
+Total pot $1250.00 | Rake $3.00
+Board [Ad 4d Kc Ac 3c]
+Seat 1: DrStrange1 (small blind) mucked
+Seat 2: bigsoowoop (big blind) folded before Flop
+Seat 4: BeAlive folded before Flop (didn't bet)
+Seat 5: honey_badger folded before Flop (didn't bet)
+Seat 6: az96 showed [Ts Tc] and won ($1247.00)
+Seat 9: Viklor123 (button) folded before Flop (didn't bet)
+
+PokerStars Hand #1346457630:  Hold'em No Limit ($50.00/$100.00 USD) - 2022/08/20 05:29:56 ET
+Table 'WPN_7 Day No Rathole 50/100 NLH' 9-max Seat #1 is the button
+Seat 1: DrStrange1 ($1268.00 in chips)
+Seat 2: bigsoowoop ($2147.00 in chips)
+Seat 4: BeAlive ($2347.75 in chips)
+Seat 5: honey_badger ($3216.72 in chips)
+Seat 6: az96 ($2761.25 in chips)
+Seat 9: Viklor123 ($2923.25 in chips)
+bigsoowoop: posts small blind $50.00
+BeAlive: posts big blind $100.00
+*** HOLE CARDS ***
+honey_badger: folds
+az96: folds
+Viklor123: folds
+DrStrange1: raises $1168.00 to $1268.00 and is all-in
+bigsoowoop: folds
+BeAlive: folds
+Uncalled bet ($1168.00) returned to DrStrange1
+DrStrange1 collected $250.00 from pot
+DrStrange1: doesn't show hand
+*** SUMMARY ***
+Total pot $250.00 | Rake $0.00
+Seat 1: DrStrange1 (button) collected ($250.00)
+Seat 2: bigsoowoop (small blind) folded before Flop
+Seat 4: BeAlive (big blind) folded before Flop
+Seat 5: honey_badger folded before Flop (didn't bet)
+Seat 6: az96 folded before Flop (didn't bet)
+Seat 9: Viklor123 folded before Flop (didn't bet)
+
+PokerStars Hand #1346458000:  Hold'em No Limit ($50.00/$100.00 USD) - 2022/08/20 05:30:21 ET
+Table 'WPN_7 Day No Rathole 50/100 NLH' 9-max Seat #2 is the button
+Seat 1: DrStrange1 ($1418.00 in chips)
+Seat 2: bigsoowoop ($2097.00 in chips)
+Seat 4: BeAlive ($2247.75 in chips)
+Seat 5: honey_badger ($3216.72 in chips)
+Seat 6: az96 ($2761.25 in chips)
+Seat 9: Viklor123 ($2923.25 in chips)
+BeAlive: posts small blind $50.00
+honey_badger: posts big blind $100.00
+*** HOLE CARDS ***
+az96: folds
+Viklor123: folds
+DrStrange1: folds
+bigsoowoop: folds
+BeAlive: folds
+Uncalled bet ($50.00) returned to honey_badger
+honey_badger collected $100.00 from pot
+honey_badger: doesn't show hand
+*** SUMMARY ***
+Total pot $100.00 | Rake $0.00
+Seat 1: DrStrange1 folded before Flop (didn't bet)
+Seat 2: bigsoowoop (button) folded before Flop (didn't bet)
+Seat 4: BeAlive (small blind) folded before Flop
+Seat 5: honey_badger (big blind) collected ($100.00)
+Seat 6: az96 folded before Flop (didn't bet)
+Seat 9: Viklor123 folded before Flop (didn't bet)
+
+PokerStars Hand #1346458345:  Hold'em No Limit ($50.00/$100.00 USD) - 2022/08/20 05:30:48 ET
+Table 'WPN_7 Day No Rathole 50/100 NLH' 9-max Seat #4 is the button
+Seat 1: DrStrange1 ($1418.00 in chips)
+Seat 2: bigsoowoop ($2097.00 in chips)
+Seat 4: BeAlive ($2197.75 in chips)
+Seat 5: honey_badger ($3266.72 in chips)
+Seat 6: az96 ($2761.25 in chips)
+Seat 9: Viklor123 ($2923.25 in chips)
+honey_badger: posts small blind $50.00
+az96: posts big blind $100.00
+*** HOLE CARDS ***
+Viklor123: raises $100.00 to $200.00
+DrStrange1: folds
+bigsoowoop: folds
+BeAlive: raises $1997.75 to $2197.75 and is all-in
+honey_badger: folds
+az96: folds
+Viklor123: calls $1997.75
+*** FIRST FLOP *** [9s 7c 4d]
+*** FIRST TURN *** [9s 7c 4d] [2h]
+*** FIRST RIVER *** [9s 7c 4d 2h] [5s]
+*** SECOND FLOP *** [Ah 3s Jh]
+*** SECOND TURN *** [Ah 3s Jh] [6d]
+*** SECOND RIVER *** [Ah 3s Jh 6d] [Qc]
+*** FIRST SHOW DOWN ***
+Viklor123: shows [Qs Qh]
+BeAlive: shows [Jc As]
+Viklor123 collected $2271.25 from pot
+*** SECOND SHOW DOWN ***
+Viklor123: shows [Qs Qh]
+BeAlive: shows [Jc As]
+Viklor123 collected $2271.25 from pot
+*** SUMMARY ***
+Total pot $4545.50 | Rake $3.00
+Hand was run twice
+FIRST Board [9s 7c 4d 2h 5s]
+SECOND Board [Ah 3s Jh 6d Qc]
+Seat 1: DrStrange1 folded before Flop (didn't bet)
+Seat 2: bigsoowoop folded before Flop (didn't bet)
+Seat 4: BeAlive (button) showed [Jc As] and lost, and lost
+Seat 5: honey_badger (small blind) folded before Flop
+Seat 6: az96 (big blind) folded before Flop
+Seat 9: Viklor123 showed [Qs Qh] and won ($2271.25), and won ($2271.25)
+
+PokerStars Hand #1346458877:  Hold'em No Limit ($50.00/$100.00 USD) - 2022/08/20 05:31:26 ET
+Table 'WPN_7 Day No Rathole 50/100 NLH' 9-max Seat #5 is the button
+Seat 1: DrStrange1 ($1418.00 in chips)
+Seat 2: bigsoowoop ($2097.00 in chips)
+Seat 4: BeAlive ($1000.00 in chips)
+Seat 5: honey_badger ($3216.72 in chips)
+Seat 6: az96 ($2661.25 in chips)
+Seat 9: Viklor123 ($5268.00 in chips)
+az96: posts small blind $50.00
+Viklor123: posts big blind $100.00
+*** HOLE CARDS ***
+DrStrange1: folds
+bigsoowoop: folds
+BeAlive: raises $900.00 to $1000.00 and is all-in
+honey_badger: folds
+az96: folds
+Viklor123: calls $900.00
+*** FIRST FLOP *** [4s 7c 7h]
+*** FIRST TURN *** [4s 7c 7h] [3h]
+*** FIRST RIVER *** [4s 7c 7h 3h] [6d]
+*** SECOND FLOP *** [2s 5c 2d]
+*** SECOND TURN *** [2s 5c 2d] [Kc]
+*** SECOND RIVER *** [2s 5c 2d Kc] [2h]
+*** FIRST SHOW DOWN ***
+Viklor123: shows [9c 9d]
+BeAlive: shows [Td Ad]
+Viklor123 collected $1023.50 from pot
+*** SECOND SHOW DOWN ***
+Viklor123: shows [9c 9d]
+BeAlive: shows [Td Ad]
+Viklor123 collected $1023.50 from pot
+*** SUMMARY ***
+Total pot $2050.00 | Rake $3.00
+Hand was run twice
+FIRST Board [4s 7c 7h 3h 6d]
+SECOND Board [2s 5c 2d Kc 2h]
+Seat 1: DrStrange1 folded before Flop (didn't bet)
+Seat 2: bigsoowoop folded before Flop (didn't bet)
+Seat 4: BeAlive showed [Td Ad] and lost, and lost
+Seat 5: honey_badger (button) folded before Flop (didn't bet)
+Seat 6: az96 (small blind) folded before Flop
+Seat 9: Viklor123 (big blind) showed [9c 9d] and won ($1023.50), and won ($1023.50)
+
+PokerStars Hand #1346459376:  Hold'em No Limit ($50.00/$100.00 USD) - 2022/08/20 05:32:04 ET
+Table 'WPN_7 Day No Rathole 50/100 NLH' 9-max Seat #6 is the button
+Seat 1: DrStrange1 ($1418.00 in chips)
+Seat 2: bigsoowoop ($2097.00 in chips)
+Seat 4: BeAlive ($1000.00 in chips)
+Seat 5: honey_badger ($3216.72 in chips)
+Seat 6: az96 ($2611.25 in chips)
+Seat 9: Viklor123 ($6315.00 in chips)
+Viklor123: posts small blind $50.00
+DrStrange1: posts big blind $100.00
+*** HOLE CARDS ***
+bigsoowoop: folds
+BeAlive: folds
+honey_badger: folds
+az96: folds
+Viklor123: raises $150.00 to $250.00
+DrStrange1: calls $150.00
+*** FLOP *** [4h As 3s]
+Viklor123: bets $125.00
+DrStrange1: folds
+Uncalled bet ($125.00) returned to Viklor123
+Viklor123 collected $497.00 from pot
+Viklor123: doesn't show hand
+*** SUMMARY ***
+Total pot $500.00 | Rake $3.00
+Board [4h As 3s]
+Seat 1: DrStrange1 (big blind) folded on the Flop
+Seat 2: bigsoowoop folded before Flop (didn't bet)
+Seat 4: BeAlive folded before Flop (didn't bet)
+Seat 5: honey_badger folded before Flop (didn't bet)
+Seat 6: az96 (button) folded before Flop (didn't bet)
+Seat 9: Viklor123 (small blind) collected ($497.00)
+
+PokerStars Hand #1346460141:  Hold'em No Limit ($50.00/$100.00 USD) - 2022/08/20 05:32:59 ET
+Table 'WPN_7 Day No Rathole 50/100 NLH' 9-max Seat #9 is the button
+Seat 1: DrStrange1 ($1168.00 in chips)
+Seat 2: bigsoowoop ($2097.00 in chips)
+Seat 4: BeAlive ($1000.00 in chips)
+Seat 5: honey_badger ($3216.72 in chips)
+Seat 6: az96 ($2611.25 in chips)
+Seat 9: Viklor123 ($6562.00 in chips)
+DrStrange1: posts small blind $50.00
+bigsoowoop: posts big blind $100.00
+*** HOLE CARDS ***
+BeAlive: folds
+honey_badger: folds
+az96: folds
+Viklor123: folds
+DrStrange1: folds
+Uncalled bet ($50.00) returned to bigsoowoop
+bigsoowoop collected $100.00 from pot
+bigsoowoop: doesn't show hand
+*** SUMMARY ***
+Total pot $100.00 | Rake $0.00
+Seat 1: DrStrange1 (small blind) folded before Flop
+Seat 2: bigsoowoop (big blind) collected ($100.00)
+Seat 4: BeAlive folded before Flop (didn't bet)
+Seat 5: honey_badger folded before Flop (didn't bet)
+Seat 6: az96 folded before Flop (didn't bet)
+Seat 9: Viklor123 (button) folded before Flop (didn't bet)
+
+PokerStars Hand #1346460669:  Hold'em No Limit ($50.00/$100.00 USD) - 2022/08/20 05:33:39 ET
+Table 'WPN_7 Day No Rathole 50/100 NLH' 9-max Seat #1 is the button
+Seat 1: DrStrange1 ($1118.00 in chips)
+Seat 2: bigsoowoop ($2147.00 in chips)
+Seat 4: BeAlive ($1000.00 in chips)
+Seat 5: honey_badger ($3216.72 in chips)
+Seat 6: az96 ($2611.25 in chips)
+Seat 9: Viklor123 ($6562.00 in chips)
+bigsoowoop: posts small blind $50.00
+BeAlive: posts big blind $100.00
+*** HOLE CARDS ***
+honey_badger: folds
+az96: folds
+Viklor123: folds
+DrStrange1: folds
+bigsoowoop: folds
+Uncalled bet ($50.00) returned to BeAlive
+BeAlive collected $100.00 from pot
+BeAlive: doesn't show hand
+*** SUMMARY ***
+Total pot $100.00 | Rake $0.00
+Seat 1: DrStrange1 (button) folded before Flop (didn't bet)
+Seat 2: bigsoowoop (small blind) folded before Flop
+Seat 4: BeAlive (big blind) collected ($100.00)
+Seat 5: honey_badger folded before Flop (didn't bet)
+Seat 6: az96 folded before Flop (didn't bet)
+Seat 9: Viklor123 folded before Flop (didn't bet)
+
+PokerStars Hand #1346460966:  Hold'em No Limit ($50.00/$100.00 USD) - 2022/08/20 05:34:00 ET
+Table 'WPN_7 Day No Rathole 50/100 NLH' 9-max Seat #2 is the button
+Seat 1: DrStrange1 ($1118.00 in chips)
+Seat 2: bigsoowoop ($2097.00 in chips)
+Seat 4: BeAlive ($1050.00 in chips)
+Seat 5: honey_badger ($3216.72 in chips)
+Seat 6: az96 ($2611.25 in chips)
+Seat 9: Viklor123 ($6562.00 in chips)
+BeAlive: posts small blind $50.00
+honey_badger: posts big blind $100.00
+*** HOLE CARDS ***
+az96: folds
+Viklor123: raises $100.00 to $200.00
+DrStrange1: raises $918.00 to $1118.00 and is all-in
+bigsoowoop: folds
+BeAlive: folds
+honey_badger: folds
+Viklor123: folds
+Uncalled bet ($918.00) returned to DrStrange1
+DrStrange1 collected $550.00 from pot
+DrStrange1: doesn't show hand
+*** SUMMARY ***
+Total pot $550.00 | Rake $0.00
+Seat 1: DrStrange1 collected ($550.00)
+Seat 2: bigsoowoop (button) folded before Flop (didn't bet)
+Seat 4: BeAlive (small blind) folded before Flop
+Seat 5: honey_badger (big blind) folded before Flop
+Seat 6: az96 folded before Flop (didn't bet)
+Seat 9: Viklor123 folded before Flop
+
+PokerStars Hand #1346461546:  Hold'em No Limit ($50.00/$100.00 USD) - 2022/08/20 05:34:42 ET
+Table 'WPN_7 Day No Rathole 50/100 NLH' 9-max Seat #4 is the button
+Seat 1: DrStrange1 ($1468.00 in chips)
+Seat 2: bigsoowoop ($2097.00 in chips)
+Seat 4: BeAlive ($1000.00 in chips)
+Seat 5: honey_badger ($3116.72 in chips)
+Seat 6: az96 ($2611.25 in chips)
+Seat 9: Viklor123 ($6362.00 in chips)
+honey_badger: posts small blind $50.00
+az96: posts big blind $100.00
+*** HOLE CARDS ***
+Viklor123: folds
+DrStrange1: folds
+bigsoowoop: folds
+BeAlive: folds
+honey_badger: folds
+Uncalled bet ($50.00) returned to az96
+az96 collected $100.00 from pot
+az96: doesn't show hand
+*** SUMMARY ***
+Total pot $100.00 | Rake $0.00
+Seat 1: DrStrange1 folded before Flop (didn't bet)
+Seat 2: bigsoowoop folded before Flop (didn't bet)
+Seat 4: BeAlive (button) folded before Flop (didn't bet)
+Seat 5: honey_badger (small blind) folded before Flop
+Seat 6: az96 (big blind) collected ($100.00)
+Seat 9: Viklor123 folded before Flop (didn't bet)
+
+PokerStars Hand #1346461772:  Hold'em No Limit ($50.00/$100.00 USD) - 2022/08/20 05:34:58 ET
+Table 'WPN_7 Day No Rathole 50/100 NLH' 9-max Seat #5 is the button
+Seat 1: DrStrange1 ($1468.00 in chips)
+Seat 2: bigsoowoop ($2097.00 in chips)
+Seat 4: BeAlive ($1000.00 in chips)
+Seat 5: honey_badger ($3066.72 in chips)
+Seat 6: az96 ($2661.25 in chips)
+Seat 9: Viklor123 ($6362.00 in chips)
+az96: posts small blind $50.00
+Viklor123: posts big blind $100.00
+*** HOLE CARDS ***
+DrStrange1: folds
+bigsoowoop: raises $100.00 to $200.00
+BeAlive: folds
+honey_badger: folds
+az96: folds
+Viklor123: folds
+Uncalled bet ($100.00) returned to bigsoowoop
+bigsoowoop collected $250.00 from pot
+bigsoowoop: doesn't show hand
+*** SUMMARY ***
+Total pot $250.00 | Rake $0.00
+Seat 1: DrStrange1 folded before Flop (didn't bet)
+Seat 2: bigsoowoop collected ($250.00)
+Seat 4: BeAlive folded before Flop (didn't bet)
+Seat 5: honey_badger (button) folded before Flop (didn't bet)
+Seat 6: az96 (small blind) folded before Flop
+Seat 9: Viklor123 (big blind) folded before Flop
+
+PokerStars Hand #1346462233:  Hold'em No Limit ($50.00/$100.00 USD) - 2022/08/20 05:35:32 ET
+Table 'WPN_7 Day No Rathole 50/100 NLH' 9-max Seat #6 is the button
+Seat 1: DrStrange1 ($1468.00 in chips)
+Seat 2: bigsoowoop ($2247.00 in chips)
+Seat 4: BeAlive ($1000.00 in chips)
+Seat 5: honey_badger ($3066.72 in chips)
+Seat 6: az96 ($2611.25 in chips)
+Seat 9: Viklor123 ($6262.00 in chips)
+Viklor123: posts small blind $50.00
+DrStrange1: posts big blind $100.00
+*** HOLE CARDS ***
+bigsoowoop: folds
+BeAlive: folds
+honey_badger: folds
+az96: raises $100.00 to $200.00
+Viklor123: folds
+DrStrange1: calls $100.00
+*** FLOP *** [4s 3h 6c]
+DrStrange1: checks
+az96: checks
+*** TURN *** [4s 3h 6c] [Qd]
+DrStrange1: checks
+az96: bets $337.50
+DrStrange1: folds
+Uncalled bet ($337.50) returned to az96
+az96 collected $447.00 from pot
+az96: doesn't show hand
+*** SUMMARY ***
+Total pot $450.00 | Rake $3.00
+Board [4s 3h 6c Qd]
+Seat 1: DrStrange1 (big blind) folded on the Turn
+Seat 2: bigsoowoop folded before Flop (didn't bet)
+Seat 4: BeAlive folded before Flop (didn't bet)
+Seat 5: honey_badger folded before Flop (didn't bet)
+Seat 6: az96 (button) collected ($447.00)
+Seat 9: Viklor123 (small blind) folded before Flop
+
+PokerStars Hand #1346462819:  Hold'em No Limit ($50.00/$100.00 USD) - 2022/08/20 05:36:16 ET
+Table 'WPN_7 Day No Rathole 50/100 NLH' 9-max Seat #9 is the button
+Seat 1: DrStrange1 ($1268.00 in chips)
+Seat 2: bigsoowoop ($2247.00 in chips)
+Seat 4: BeAlive ($1000.00 in chips)
+Seat 5: honey_badger ($3066.72 in chips)
+Seat 6: az96 ($2858.25 in chips)
+Seat 9: Viklor123 ($6212.00 in chips)
+DrStrange1: posts small blind $50.00
+bigsoowoop: posts big blind $100.00
+*** HOLE CARDS ***
+BeAlive: folds
+honey_badger: raises $100.00 to $200.00
+az96: folds
+Viklor123: folds
+DrStrange1: calls $150.00
+bigsoowoop: folds
+*** FLOP *** [As Js 3h]
+DrStrange1: checks
+honey_badger: bets $175.00
+DrStrange1: folds
+Uncalled bet ($175.00) returned to honey_badger
+honey_badger collected $497.00 from pot
+honey_badger: doesn't show hand
+*** SUMMARY ***
+Total pot $500.00 | Rake $3.00
+Board [As Js 3h]
+Seat 1: DrStrange1 (small blind) folded on the Flop
+Seat 2: bigsoowoop (big blind) folded before Flop
+Seat 4: BeAlive folded before Flop (didn't bet)
+Seat 5: honey_badger collected ($497.00)
+Seat 6: az96 folded before Flop (didn't bet)
+Seat 9: Viklor123 (button) folded before Flop (didn't bet)
+
+PokerStars Hand #1346463341:  Hold'em No Limit ($50.00/$100.00 USD) - 2022/08/20 05:36:56 ET
+Table 'WPN_7 Day No Rathole 50/100 NLH' 9-max Seat #1 is the button
+Seat 1: DrStrange1 ($1068.00 in chips)
+Seat 2: bigsoowoop ($2147.00 in chips)
+Seat 4: BeAlive ($1000.00 in chips)
+Seat 5: honey_badger ($3363.72 in chips)
+Seat 6: az96 ($2858.25 in chips)
+Seat 9: Viklor123 ($6212.00 in chips)
+bigsoowoop: posts small blind $50.00
+BeAlive: posts big blind $100.00
+*** HOLE CARDS ***
+honey_badger: folds
+az96: folds
+Viklor123: folds
+DrStrange1: folds
+bigsoowoop: raises $2047.00 to $2147.00 and is all-in
+BeAlive: folds
+Uncalled bet ($2047.00) returned to bigsoowoop
+bigsoowoop collected $200.00 from pot
+bigsoowoop: doesn't show hand
+*** SUMMARY ***
+Total pot $200.00 | Rake $0.00
+Seat 1: DrStrange1 (button) folded before Flop (didn't bet)
+Seat 2: bigsoowoop (small blind) collected ($200.00)
+Seat 4: BeAlive (big blind) folded before Flop
+Seat 5: honey_badger folded before Flop (didn't bet)
+Seat 6: az96 folded before Flop (didn't bet)
+Seat 9: Viklor123 folded before Flop (didn't bet)
+
+PokerStars Hand #1346463698:  Hold'em No Limit ($50.00/$100.00 USD) - 2022/08/20 05:37:24 ET
+Table 'WPN_7 Day No Rathole 50/100 NLH' 9-max Seat #2 is the button
+Seat 1: DrStrange1 ($1068.00 in chips)
+Seat 2: bigsoowoop ($2247.00 in chips)
+Seat 4: BeAlive ($900.00 in chips)
+Seat 5: honey_badger ($3363.72 in chips)
+Seat 6: az96 ($2858.25 in chips)
+Seat 9: Viklor123 ($6212.00 in chips)
+BeAlive: posts small blind $50.00
+honey_badger: posts big blind $100.00
+*** HOLE CARDS ***
+az96: folds
+Viklor123: folds
+DrStrange1: folds
+bigsoowoop: folds
+BeAlive: raises $900.00 to $1000.00 and is all-in
+honey_badger: folds
+Uncalled bet ($900.00) returned to BeAlive
+BeAlive collected $200.00 from pot
+BeAlive: doesn't show hand
+*** SUMMARY ***
+Total pot $200.00 | Rake $0.00
+Seat 1: DrStrange1 folded before Flop (didn't bet)
+Seat 2: bigsoowoop (button) folded before Flop (didn't bet)
+Seat 4: BeAlive (small blind) collected ($200.00)
+Seat 5: honey_badger (big blind) folded before Flop
+Seat 6: az96 folded before Flop (didn't bet)
+Seat 9: Viklor123 folded before Flop (didn't bet)
+
+PokerStars Hand #1346463990:  Hold'em No Limit ($50.00/$100.00 USD) - 2022/08/20 05:37:45 ET
+Table 'WPN_7 Day No Rathole 50/100 NLH' 9-max Seat #4 is the button
+Seat 1: DrStrange1 ($1068.00 in chips)
+Seat 2: bigsoowoop ($2247.00 in chips)
+Seat 4: BeAlive ($1100.00 in chips)
+Seat 5: honey_badger ($3263.72 in chips)
+Seat 6: az96 ($2858.25 in chips)
+Seat 9: Viklor123 ($6212.00 in chips)
+honey_badger: posts small blind $50.00
+az96: posts big blind $100.00
+*** HOLE CARDS ***
+Viklor123: folds
+DrStrange1: calls $100.00
+bigsoowoop: folds
+BeAlive: folds
+honey_badger: calls $50.00
+az96: checks
+*** FLOP *** [2h 5s 6s]
+honey_badger: bets $150.00
+az96: calls $150.00
+DrStrange1: raises $818.00 to $968.00 and is all-in
+honey_badger: folds
+az96: folds
+Uncalled bet ($818.00) returned to DrStrange1
+DrStrange1 collected $747.00 from pot
+DrStrange1: doesn't show hand
+*** SUMMARY ***
+Total pot $750.00 | Rake $3.00
+Board [2h 5s 6s]
+Seat 1: DrStrange1 collected ($747.00)
+Seat 2: bigsoowoop folded before Flop (didn't bet)
+Seat 4: BeAlive (button) folded before Flop (didn't bet)
+Seat 5: honey_badger (small blind) folded on the Flop
+Seat 6: az96 (big blind) folded on the Flop
+Seat 9: Viklor123 folded before Flop (didn't bet)
+
+PokerStars Hand #1346464770:  Hold'em No Limit ($50.00/$100.00 USD) - 2022/08/20 05:38:43 ET
+Table 'WPN_7 Day No Rathole 50/100 NLH' 9-max Seat #5 is the button
+Seat 1: DrStrange1 ($1565.00 in chips)
+Seat 2: bigsoowoop ($2247.00 in chips)
+Seat 4: BeAlive ($1100.00 in chips)
+Seat 5: honey_badger ($3013.72 in chips)
+Seat 6: az96 ($2608.25 in chips)
+Seat 9: Viklor123 ($6212.00 in chips)
+az96: posts small blind $50.00
+Viklor123: posts big blind $100.00
+*** HOLE CARDS ***
+DrStrange1: calls $100.00
+bigsoowoop: raises $150.00 to $250.00
+BeAlive: folds
+honey_badger: folds
+az96: folds
+Viklor123: folds
+DrStrange1: calls $150.00
+*** FLOP *** [5c Qd Ts]
+DrStrange1: checks
+bigsoowoop: bets $162.50
+DrStrange1: calls $162.50
+*** TURN *** [5c Qd Ts] [3c]
+DrStrange1: checks
+bigsoowoop: bets $325.00
+DrStrange1: calls $325.00
+*** RIVER *** [5c Qd Ts 3c] [Th]
+DrStrange1: bets $827.50 and is all-in
+bigsoowoop: calls $827.50
+*** SHOW DOWN ***
+bigsoowoop: shows [Qc Kh]
+DrStrange1: shows [Jh Ks]
+bigsoowoop collected $3277.00 from pot
+*** SUMMARY ***
+Total pot $3280.00 | Rake $3.00
+Board [5c Qd Ts 3c Th]
+Seat 1: DrStrange1 showed [Jh Ks] and lost
+Seat 2: bigsoowoop showed [Qc Kh] and won ($3277.00)
+Seat 4: BeAlive folded before Flop (didn't bet)
+Seat 5: honey_badger (button) folded before Flop (didn't bet)
+Seat 6: az96 (small blind) folded before Flop
+Seat 9: Viklor123 (big blind) folded before Flop
+
+PokerStars Hand #1346466091:  Hold'em No Limit ($50.00/$100.00 USD) - 2022/08/20 05:40:25 ET
+Table 'WPN_7 Day No Rathole 50/100 NLH' 9-max Seat #6 is the button
+Seat 2: bigsoowoop ($3959.00 in chips)
+Seat 4: BeAlive ($1100.00 in chips)
+Seat 5: honey_badger ($3013.72 in chips)
+Seat 6: az96 ($2558.25 in chips)
+Seat 9: Viklor123 ($6112.00 in chips)
+Viklor123: posts small blind $50.00
+bigsoowoop: posts big blind $100.00
+*** HOLE CARDS ***
+BeAlive: raises $1000.00 to $1100.00 and is all-in
+honey_badger: folds
+az96: calls $1100.00
+Viklor123: folds
+bigsoowoop: folds
+*** FLOP *** [7c 7h 2h]
+*** TURN *** [7c 7h 2h] [3s]
+*** RIVER *** [7c 7h 2h 3s] [4d]
+*** SHOW DOWN ***
+BeAlive: shows [5d 5s]
+az96: shows [Ad Tc]
+BeAlive collected $2347.00 from pot
+*** SUMMARY ***
+Total pot $2350.00 | Rake $3.00
+Board [7c 7h 2h 3s 4d]
+Seat 2: bigsoowoop (big blind) folded before Flop
+Seat 4: BeAlive showed [5d 5s] and won ($2347.00)
+Seat 5: honey_badger folded before Flop (didn't bet)
+Seat 6: az96 (button) showed [Ad Tc] and lost
+Seat 9: Viklor123 (small blind) folded before Flop
+
+PokerStars Hand #1346467067:  Hold'em No Limit ($50.00/$100.00 USD) - 2022/08/20 05:41:38 ET
+Table 'WPN_7 Day No Rathole 50/100 NLH' 9-max Seat #9 is the button
+Seat 2: bigsoowoop ($3859.00 in chips)
+Seat 4: BeAlive ($2347.00 in chips)
+Seat 5: honey_badger ($3013.72 in chips)
+Seat 6: az96 ($1458.25 in chips)
+Seat 9: Viklor123 ($6062.00 in chips)
+bigsoowoop: posts small blind $50.00
+honey_badger: posts big blind $100.00
+*** HOLE CARDS ***
+az96: folds
+Viklor123: folds
+bigsoowoop: folds
+Uncalled bet ($50.00) returned to honey_badger
+honey_badger collected $100.00 from pot
+honey_badger: doesn't show hand
+*** SUMMARY ***
+Total pot $100.00 | Rake $0.00
+Seat 2: bigsoowoop (small blind) folded before Flop
+Seat 5: honey_badger (big blind) collected ($100.00)
+Seat 6: az96 folded before Flop (didn't bet)
+Seat 9: Viklor123 (button) folded before Flop (didn't bet)
+
+PokerStars Hand #1346467419:  Hold'em No Limit ($50.00/$100.00 USD) - 2022/08/20 05:42:05 ET
+Table 'WPN_7 Day No Rathole 50/100 NLH' 9-max Seat #2 is the button
+Seat 2: bigsoowoop ($3809.00 in chips)
+Seat 5: honey_badger ($3063.72 in chips)
+Seat 9: Viklor123 ($6062.00 in chips)
+honey_badger: posts small blind $50.00
+Viklor123: posts big blind $100.00
+*** HOLE CARDS ***
+bigsoowoop: folds
+honey_badger: raises $150.00 to $250.00
+Viklor123: folds
+Uncalled bet ($150.00) returned to honey_badger
+honey_badger collected $200.00 from pot
+honey_badger: doesn't show hand
+*** SUMMARY ***
+Total pot $200.00 | Rake $0.00
+Seat 2: bigsoowoop (button) folded before Flop (didn't bet)
+Seat 5: honey_badger (small blind) collected ($200.00)
+Seat 9: Viklor123 (big blind) folded before Flop
+
+PokerStars Hand #1346467723:  Hold'em No Limit ($50.00/$100.00 USD) - 2022/08/20 05:42:28 ET
+Table 'WPN_7 Day No Rathole 50/100 NLH' 9-max Seat #5 is the button
+Seat 2: bigsoowoop ($3809.00 in chips)
+Seat 5: honey_badger ($3163.72 in chips)
+Seat 9: Viklor123 ($5962.00 in chips)
+Viklor123: posts small blind $50.00
+bigsoowoop: posts big blind $100.00
+*** HOLE CARDS ***
+honey_badger: raises $100.00 to $200.00
+Viklor123: raises $400.00 to $600.00
+bigsoowoop: folds
+honey_badger: calls $400.00
+*** FLOP *** [3h Ad 5c]
+Viklor123: bets $325.00
+honey_badger: folds
+Uncalled bet ($325.00) returned to Viklor123
+Viklor123 collected $1298.25 from pot
+Viklor123: doesn't show hand
+*** SUMMARY ***
+Total pot $1300.00 | Rake $1.75
+Board [3h Ad 5c]
+Seat 2: bigsoowoop (big blind) folded before Flop
+Seat 5: honey_badger (button) folded on the Flop
+Seat 9: Viklor123 (small blind) collected ($1298.25)
+
+PokerStars Hand #1346468483:  Hold'em No Limit ($50.00/$100.00 USD) - 2022/08/20 05:43:27 ET
+Table 'WPN_7 Day No Rathole 50/100 NLH' 9-max Seat #9 is the button
+Seat 2: bigsoowoop ($3709.00 in chips)
+Seat 5: honey_badger ($2563.72 in chips)
+Seat 9: Viklor123 ($6660.25 in chips)
+bigsoowoop: posts small blind $50.00
+Viklor123: posts big blind $100.00
+*** HOLE CARDS ***
+bigsoowoop: folds
+Uncalled bet ($50.00) returned to Viklor123
+Viklor123 collected $100.00 from pot
+Viklor123: doesn't show hand
+*** SUMMARY ***
+Total pot $100.00 | Rake $0.00
+Seat 2: bigsoowoop (small blind) folded before Flop
+Seat 9: Viklor123 (button) (big blind) collected ($100.00)
+
+PokerStars Hand #1346468638:  Hold'em No Limit ($50.00/$100.00 USD) - 2022/08/20 05:43:40 ET
+Table 'WPN_7 Day No Rathole 50/100 NLH' 9-max Seat #9 is the button
+Seat 2: bigsoowoop ($3659.00 in chips)
+Seat 9: Viklor123 ($6710.25 in chips)
+Viklor123: posts small blind $50.00
+bigsoowoop: posts big blind $100.00
+*** HOLE CARDS ***
+Viklor123: raises $120.00 to $220.00
+bigsoowoop: raises $580.00 to $800.00
+Viklor123: folds
+Uncalled bet ($580.00) returned to bigsoowoop
+bigsoowoop collected $440.00 from pot
+bigsoowoop: doesn't show hand
+*** SUMMARY ***
+Total pot $440.00 | Rake $0.00
+Seat 2: bigsoowoop (big blind) collected ($440.00)
+Seat 9: Viklor123 (button) (small blind) folded before Flop
+
+PokerStars Hand #1346469272:  Hold'em No Limit ($50.00/$100.00 USD) - 2022/08/20 05:44:27 ET
+Table 'WPN_7 Day No Rathole 50/100 NLH' 9-max Seat #2 is the button
+Seat 2: bigsoowoop ($3879.00 in chips)
+Seat 9: Viklor123 ($6490.25 in chips)
+bigsoowoop: posts small blind $50.00
+Viklor123: posts big blind $100.00
+*** HOLE CARDS ***
+bigsoowoop: raises $100.00 to $200.00
+Viklor123: folds
+Uncalled bet ($100.00) returned to bigsoowoop
+bigsoowoop collected $200.00 from pot
+bigsoowoop: doesn't show hand
+*** SUMMARY ***
+Total pot $200.00 | Rake $0.00
+Seat 2: bigsoowoop (button) (small blind) collected ($200.00)
+Seat 9: Viklor123 (big blind) folded before Flop
+
+PokerStars Hand #1346469523:  Hold'em No Limit ($50.00/$100.00 USD) - 2022/08/20 05:44:46 ET
+Table 'WPN_7 Day No Rathole 50/100 NLH' 9-max Seat #9 is the button
+Seat 2: bigsoowoop ($3979.00 in chips)
+Seat 9: Viklor123 ($6390.25 in chips)
+Viklor123: posts small blind $50.00
+bigsoowoop: posts big blind $100.00
+*** HOLE CARDS ***
+Viklor123: raises $120.00 to $220.00
+bigsoowoop: folds
+Uncalled bet ($120.00) returned to Viklor123
+Viklor123 collected $200.00 from pot
+Viklor123: doesn't show hand
+*** SUMMARY ***
+Total pot $200.00 | Rake $0.00
+Seat 2: bigsoowoop (big blind) folded before Flop
+Seat 9: Viklor123 (button) (small blind) collected ($200.00)
+
+PokerStars Hand #1346454018:  Hold'em No Limit ($50.00/$100.00 USD) - 2022/08/20 05:25:37 ET
+Table 'WPN_7 Day No Rathole 50/100 NLH' 9-max Seat #4 is the button
+Seat 1: DrStrange1 ($2739.00 in chips)
+Seat 2: bigsoowoop ($1000.00 in chips)
+Seat 4: BeAlive ($3197.75 in chips)
+Seat 5: honey_badger ($3266.72 in chips)
+Seat 6: az96 ($2289.25 in chips)
+Seat 9: Viklor123 ($2180.25 in chips)
+honey_badger: posts small blind $50.00
+az96: posts big blind $100.00
+*** HOLE CARDS ***
+Viklor123: folds
+DrStrange1: calls $100.00
+bigsoowoop: raises $900.00 to $1000.00 and is all-in
+BeAlive: raises $2197.75 to $3197.75 and is all-in
+honey_badger: folds
+az96: folds
+DrStrange1: folds
+Uncalled bet ($2197.75) returned to BeAlive
+*** FLOP *** [2h Ts Kh]
+*** TURN *** [2h Ts Kh] [4c]
+*** RIVER *** [2h Ts Kh 4c] [7h]
+*** SHOW DOWN ***
+bigsoowoop: shows [Jd Ks]
+BeAlive: shows [Tc Ac]
+bigsoowoop collected $2247.00 from pot
+*** SUMMARY ***
+Total pot $2250.00 | Rake $3.00
+Board [2h Ts Kh 4c 7h]
+Seat 1: DrStrange1 folded before Flop
+Seat 2: bigsoowoop showed [Jd Ks] and won ($2247.00)
+Seat 4: BeAlive (button) showed [Tc Ac] and lost
+Seat 5: honey_badger (small blind) folded before Flop
+Seat 6: az96 (big blind) folded before Flop
+Seat 9: Viklor123 folded before Flop (didn't bet)
+
+PokerStars Hand #1346452723:  Hold'em No Limit ($50.00/$100.00 USD) - 2022/08/20 05:24:07 ET
+Table 'WPN_7 Day No Rathole 50/100 NLH' 9-max Seat #9 is the button
+Seat 1: DrStrange1 ($2789.00 in chips)
+Seat 2: bigsoowoop ($1000.00 in chips)
+Seat 4: BeAlive ($2697.75 in chips)
+Seat 5: honey_badger ($3216.72 in chips)
+Seat 6: az96 ($2139.25 in chips)
+Seat 9: Viklor123 ($2680.25 in chips)
+DrStrange1: posts small blind $50.00
+bigsoowoop: posts big blind $100.00
+*** HOLE CARDS ***
+BeAlive: raises $100.00 to $200.00
+honey_badger: folds
+az96: folds
+Viklor123: raises $300.00 to $500.00
+DrStrange1: folds
+bigsoowoop: folds
+BeAlive: raises $2197.75 to $2697.75 and is all-in
+Viklor123: folds
+Uncalled bet ($2197.75) returned to BeAlive
+BeAlive collected $1150.00 from pot
+BeAlive: doesn't show hand
+*** SUMMARY ***
+Total pot $1150.00 | Rake $0.00
+Seat 1: DrStrange1 (small blind) folded before Flop
+Seat 2: bigsoowoop (big blind) folded before Flop
+Seat 4: BeAlive collected ($1150.00)
+Seat 5: honey_badger folded before Flop (didn't bet)
+Seat 6: az96 folded before Flop (didn't bet)
+Seat 9: Viklor123 (button) folded before Flop
+
+PokerStars Hand #1346453455:  Hold'em No Limit ($50.00/$100.00 USD) - 2022/08/20 05:24:59 ET
+Table 'WPN_7 Day No Rathole 50/100 NLH' 9-max Seat #1 is the button
+Seat 1: DrStrange1 ($2739.00 in chips)
+Seat 2: bigsoowoop ($1000.00 in chips)
+Seat 4: BeAlive ($3347.75 in chips)
+Seat 5: honey_badger ($3216.72 in chips)
+Seat 6: az96 ($2139.25 in chips)
+Seat 9: Viklor123 ($2180.25 in chips)
+bigsoowoop: posts small blind $50.00
+BeAlive: posts big blind $100.00
+*** HOLE CARDS ***
+honey_badger: folds
+az96: raises $100.00 to $200.00
+Viklor123: folds
+DrStrange1: folds
+bigsoowoop: folds
+BeAlive: folds
+Uncalled bet ($100.00) returned to az96
+az96 collected $250.00 from pot
+az96: doesn't show hand
+*** SUMMARY ***
+Total pot $250.00 | Rake $0.00
+Seat 1: DrStrange1 (button) folded before Flop (didn't bet)
+Seat 2: bigsoowoop (small blind) folded before Flop
+Seat 4: BeAlive (big blind) folded before Flop
+Seat 5: honey_badger folded before Flop (didn't bet)
+Seat 6: az96 collected ($250.00)
+Seat 9: Viklor123 folded before Flop (didn't bet)
+
+PokerStars Hand #1346453680:  Hold'em No Limit ($50.00/$100.00 USD) - 2022/08/20 05:25:14 ET
+Table 'WPN_7 Day No Rathole 50/100 NLH' 9-max Seat #2 is the button
+Seat 1: DrStrange1 ($2739.00 in chips)
+Seat 2: bigsoowoop ($1000.00 in chips)
+Seat 4: BeAlive ($3247.75 in chips)
+Seat 5: honey_badger ($3216.72 in chips)
+Seat 6: az96 ($2289.25 in chips)
+Seat 9: Viklor123 ($2180.25 in chips)
+BeAlive: posts small blind $50.00
+honey_badger: posts big blind $100.00
+*** HOLE CARDS ***
+az96: folds
+Viklor123: folds
+DrStrange1: folds
+bigsoowoop: folds
+BeAlive: folds
+Uncalled bet ($50.00) returned to honey_badger
+honey_badger collected $100.00 from pot
+honey_badger: doesn't show hand
+*** SUMMARY ***
+Total pot $100.00 | Rake $0.00
+Seat 1: DrStrange1 folded before Flop (didn't bet)
+Seat 2: bigsoowoop (button) folded before Flop (didn't bet)
+Seat 4: BeAlive (small blind) folded before Flop
+Seat 5: honey_badger (big blind) collected ($100.00)
+Seat 6: az96 folded before Flop (didn't bet)
+Seat 9: Viklor123 folded before Flop (didn't bet)
+
+PokerStars Hand #1346392311:  Hold'em No Limit ($50.00/$100.00 USD) - 2022/08/20 04:14:58 ET
+Table 'WPN_7 Day No Rathole 50/100 NLH' 9-max Seat #6 is the button
+Seat 1: sycoutlet1 ($700.00 in chips)
+Seat 3: TIKITAKA11 ($23124.14 in chips)
+Seat 5: Meek Bill ($146764.77 in chips)
+Seat 6: Gektorrrr ($2922.50 in chips)
+Seat 7: Sabazius ($4638.50 in chips)
+Seat 8: GambleFUN ($2695.51 in chips)
+Sabazius: posts small blind $50.00
+GambleFUN: posts big blind $100.00
+*** HOLE CARDS ***
+sycoutlet1: folds
+TIKITAKA11: folds
+Meek Bill: folds
+Gektorrrr: folds
+Sabazius: raises $200.00 to $300.00
+GambleFUN: calls $200.00
+*** FLOP *** [Kd 3c 3h]
+Sabazius: bets $150.00
+GambleFUN: calls $150.00
+*** TURN *** [Kd 3c 3h] [9c]
+Sabazius: checks
+GambleFUN: checks
+*** RIVER *** [Kd 3c 3h 9c] [8d]
+Sabazius: bets $900.00
+GambleFUN: folds
+Uncalled bet ($900.00) returned to Sabazius
+Sabazius collected $897.00 from pot
+Sabazius: doesn't show hand
+*** SUMMARY ***
+Total pot $900.00 | Rake $3.00
+Board [Kd 3c 3h 9c 8d]
+Seat 1: sycoutlet1 folded before Flop (didn't bet)
+Seat 3: TIKITAKA11 folded before Flop (didn't bet)
+Seat 5: Meek Bill folded before Flop (didn't bet)
+Seat 6: Gektorrrr (button) folded before Flop (didn't bet)
+Seat 7: Sabazius (small blind) collected ($897.00)
+Seat 8: GambleFUN (big blind) folded on the River
+
+PokerStars Hand #1346395126:  Hold'em No Limit ($50.00/$100.00 USD) - 2022/08/20 04:17:49 ET
+Table 'WPN_7 Day No Rathole 50/100 NLH' 9-max Seat #7 is the button
+Seat 1: sycoutlet1 ($700.00 in chips)
+Seat 2: Viklor123 ($1000.00 in chips)
+Seat 3: TIKITAKA11 ($23124.14 in chips)
+Seat 5: Meek Bill ($146764.77 in chips)
+Seat 6: Gektorrrr ($2922.50 in chips)
+Seat 7: Sabazius ($5085.50 in chips)
+Seat 8: GambleFUN ($2245.51 in chips)
+Seat 9: bigsoowoop ($5402.00 in chips)
+GambleFUN: posts small blind $50.00
+bigsoowoop: posts big blind $100.00
+*** HOLE CARDS ***
+sycoutlet1: folds
+TIKITAKA11: folds
+Meek Bill: folds
+Gektorrrr: raises $100.00 to $200.00
+Sabazius: folds
+GambleFUN: folds
+bigsoowoop: folds
+Uncalled bet ($100.00) returned to Gektorrrr
+Gektorrrr collected $250.00 from pot
+Gektorrrr: doesn't show hand
+*** SUMMARY ***
+Total pot $250.00 | Rake $0.00
+Seat 1: sycoutlet1 folded before Flop (didn't bet)
+Seat 3: TIKITAKA11 folded before Flop (didn't bet)
+Seat 5: Meek Bill folded before Flop (didn't bet)
+Seat 6: Gektorrrr collected ($250.00)
+Seat 7: Sabazius (button) folded before Flop (didn't bet)
+Seat 8: GambleFUN (small blind) folded before Flop
+Seat 9: bigsoowoop (big blind) folded before Flop
+
+PokerStars Hand #1346395507:  Hold'em No Limit ($50.00/$100.00 USD) - 2022/08/20 04:18:12 ET
+Table 'WPN_7 Day No Rathole 50/100 NLH' 9-max Seat #8 is the button
+Seat 1: sycoutlet1 ($700.00 in chips)
+Seat 2: Viklor123 ($1000.00 in chips)
+Seat 3: TIKITAKA11 ($23124.14 in chips)
+Seat 4: BeAlive ($1000.00 in chips)
+Seat 5: Meek Bill ($146764.77 in chips)
+Seat 6: Gektorrrr ($3072.50 in chips)
+Seat 7: Sabazius ($5085.50 in chips)
+Seat 8: GambleFUN ($2195.51 in chips)
+Seat 9: bigsoowoop ($5302.00 in chips)
+bigsoowoop: posts small blind $50.00
+sycoutlet1: posts big blind $100.00
+*** HOLE CARDS ***
+TIKITAKA11: folds
+Meek Bill: folds
+Gektorrrr: folds
+Sabazius: raises $120.00 to $220.00
+GambleFUN: folds
+bigsoowoop: folds
+sycoutlet1: raises $480.00 to $700.00 and is all-in
+Sabazius: calls $480.00
+*** FLOP *** [3c Ts 4h]
+*** TURN *** [3c Ts 4h] [Kc]
+*** RIVER *** [3c Ts 4h Kc] [2h]
+*** SHOW DOWN ***
+Sabazius: shows [Th Ad]
+sycoutlet1: shows [9c 9d]
+Sabazius collected $1447.00 from pot
+*** SUMMARY ***
+Total pot $1450.00 | Rake $3.00
+Board [3c Ts 4h Kc 2h]
+Seat 1: sycoutlet1 (big blind) showed [9c 9d] and lost
+Seat 3: TIKITAKA11 folded before Flop (didn't bet)
+Seat 5: Meek Bill folded before Flop (didn't bet)
+Seat 6: Gektorrrr folded before Flop (didn't bet)
+Seat 7: Sabazius showed [Th Ad] and won ($1447.00)
+Seat 8: GambleFUN (button) folded before Flop (didn't bet)
+Seat 9: bigsoowoop (small blind) folded before Flop
+
+PokerStars Hand #1346396117:  Hold'em No Limit ($50.00/$100.00 USD) - 2022/08/20 04:18:49 ET
+Table 'WPN_7 Day No Rathole 50/100 NLH' 9-max Seat #9 is the button
+Seat 2: Viklor123 ($1000.00 in chips)
+Seat 3: TIKITAKA11 ($23124.14 in chips)
+Seat 4: BeAlive ($1000.00 in chips)
+Seat 5: Meek Bill ($146764.77 in chips)
+Seat 6: Gektorrrr ($3072.50 in chips)
+Seat 7: Sabazius ($5832.50 in chips)
+Seat 8: GambleFUN ($2195.51 in chips)
+Seat 9: bigsoowoop ($5252.00 in chips)
+Viklor123: posts big blind $100.00
+*** HOLE CARDS ***
+TIKITAKA11: folds
+Meek Bill: folds
+Gektorrrr: raises $100.00 to $200.00
+Sabazius: folds
+GambleFUN: folds
+bigsoowoop: folds
+Viklor123: folds
+Uncalled bet ($100.00) returned to Gektorrrr
+Gektorrrr collected $200.00 from pot
+Gektorrrr: doesn't show hand
+*** SUMMARY ***
+Total pot $200.00 | Rake $0.00
+Seat 2: Viklor123 (big blind) folded before Flop
+Seat 3: TIKITAKA11 folded before Flop (didn't bet)
+Seat 5: Meek Bill folded before Flop (didn't bet)
+Seat 6: Gektorrrr collected ($200.00)
+Seat 7: Sabazius folded before Flop (didn't bet)
+Seat 8: GambleFUN folded before Flop (didn't bet)
+Seat 9: bigsoowoop (button) folded before Flop (didn't bet)
+
+PokerStars Hand #1346396706:  Hold'em No Limit ($50.00/$100.00 USD) - 2022/08/20 04:19:25 ET
+Table 'WPN_7 Day No Rathole 50/100 NLH' 9-max Seat #1 is the button
+Seat 2: Viklor123 ($900.00 in chips)
+Seat 3: TIKITAKA11 ($23124.14 in chips)
+Seat 4: BeAlive ($1000.00 in chips)
+Seat 5: Meek Bill ($146764.77 in chips)
+Seat 6: Gektorrrr ($3172.50 in chips)
+Seat 7: Sabazius ($5832.50 in chips)
+Seat 8: GambleFUN ($2195.51 in chips)
+Seat 9: bigsoowoop ($5252.00 in chips)
+Viklor123: posts small blind $50.00
+TIKITAKA11: posts big blind $100.00
+*** HOLE CARDS ***
+Meek Bill: folds
+Gektorrrr: folds
+Sabazius: raises $120.00 to $220.00
+GambleFUN: folds
+bigsoowoop: folds
+Viklor123: folds
+TIKITAKA11: calls $120.00
+*** FLOP *** [Ts 8c Th]
+TIKITAKA11: checks
+Sabazius: bets $161.70
+TIKITAKA11: folds
+Uncalled bet ($161.70) returned to Sabazius
+Sabazius collected $487.00 from pot
+Sabazius: doesn't show hand
+*** SUMMARY ***
+Total pot $490.00 | Rake $3.00
+Board [Ts 8c Th]
+Seat 2: Viklor123 (small blind) folded before Flop
+Seat 3: TIKITAKA11 (big blind) folded on the Flop
+Seat 5: Meek Bill folded before Flop (didn't bet)
+Seat 6: Gektorrrr folded before Flop (didn't bet)
+Seat 7: Sabazius collected ($487.00)
+Seat 8: GambleFUN folded before Flop (didn't bet)
+Seat 9: bigsoowoop folded before Flop (didn't bet)
+
+PokerStars Hand #1346397384:  Hold'em No Limit ($50.00/$100.00 USD) - 2022/08/20 04:20:08 ET
+Table 'WPN_7 Day No Rathole 50/100 NLH' 9-max Seat #2 is the button
+Seat 1: sycoutlet1 ($1000.00 in chips)
+Seat 2: Viklor123 ($1000.00 in chips)
+Seat 3: TIKITAKA11 ($22904.14 in chips)
+Seat 4: BeAlive ($1000.00 in chips)
+Seat 5: Meek Bill ($146764.77 in chips)
+Seat 6: Gektorrrr ($3172.50 in chips)
+Seat 7: Sabazius ($6099.50 in chips)
+Seat 8: GambleFUN ($2195.51 in chips)
+Seat 9: bigsoowoop ($5252.00 in chips)
+TIKITAKA11: posts small blind $50.00
+BeAlive: posts big blind $100.00
+*** HOLE CARDS ***
+Meek Bill: folds
+Gektorrrr: folds
+Sabazius: raises $120.00 to $220.00
+GambleFUN: folds
+bigsoowoop: folds
+Viklor123: folds
+TIKITAKA11: folds
+BeAlive: folds
+Uncalled bet ($120.00) returned to Sabazius
+Sabazius collected $250.00 from pot
+Sabazius: doesn't show hand
+*** SUMMARY ***
+Total pot $250.00 | Rake $0.00
+Seat 2: Viklor123 (button) folded before Flop (didn't bet)
+Seat 3: TIKITAKA11 (small blind) folded before Flop
+Seat 4: BeAlive (big blind) folded before Flop
+Seat 5: Meek Bill folded before Flop (didn't bet)
+Seat 6: Gektorrrr folded before Flop (didn't bet)
+Seat 7: Sabazius collected ($250.00)
+Seat 8: GambleFUN folded before Flop (didn't bet)
+Seat 9: bigsoowoop folded before Flop (didn't bet)
+
+PokerStars Hand #1346397712:  Hold'em No Limit ($50.00/$100.00 USD) - 2022/08/20 04:20:29 ET
+Table 'WPN_7 Day No Rathole 50/100 NLH' 9-max Seat #3 is the button
+Seat 1: sycoutlet1 ($1000.00 in chips)
+Seat 2: Viklor123 ($1000.00 in chips)
+Seat 3: TIKITAKA11 ($22854.14 in chips)
+Seat 4: BeAlive ($900.00 in chips)
+Seat 5: Meek Bill ($146764.77 in chips)
+Seat 6: Gektorrrr ($3172.50 in chips)
+Seat 7: Sabazius ($6249.50 in chips)
+Seat 8: GambleFUN ($2195.51 in chips)
+Seat 9: bigsoowoop ($5252.00 in chips)
+BeAlive: posts small blind $50.00
+Meek Bill: posts big blind $100.00
+sycoutlet1: posts big blind $50.00
+*** HOLE CARDS ***
+Gektorrrr: folds
+Sabazius: folds
+GambleFUN: folds
+bigsoowoop: folds
+sycoutlet1: folds
+Viklor123: folds
+TIKITAKA11: folds
+BeAlive: folds
+Uncalled bet ($50.00) returned to Meek Bill
+Meek Bill collected $150.00 from pot
+Meek Bill: doesn't show hand
+*** SUMMARY ***
+Total pot $150.00 | Rake $0.00
+Seat 1: sycoutlet1 folded before Flop
+Seat 2: Viklor123 folded before Flop (didn't bet)
+Seat 3: TIKITAKA11 (button) folded before Flop (didn't bet)
+Seat 4: BeAlive (small blind) folded before Flop
+Seat 5: Meek Bill (big blind) collected ($150.00)
+Seat 6: Gektorrrr folded before Flop (didn't bet)
+Seat 7: Sabazius folded before Flop (didn't bet)
+Seat 8: GambleFUN folded before Flop (didn't bet)
+Seat 9: bigsoowoop folded before Flop (didn't bet)
+
+PokerStars Hand #1346398134:  Hold'em No Limit ($50.00/$100.00 USD) - 2022/08/20 04:20:54 ET
+Table 'WPN_7 Day No Rathole 50/100 NLH' 9-max Seat #4 is the button
+Seat 1: sycoutlet1 ($950.00 in chips)
+Seat 2: Viklor123 ($1000.00 in chips)
+Seat 3: TIKITAKA11 ($22854.14 in chips)
+Seat 4: BeAlive ($950.00 in chips)
+Seat 5: Meek Bill ($146864.77 in chips)
+Seat 6: Gektorrrr ($3172.50 in chips)
+Seat 7: Sabazius ($6249.50 in chips)
+Seat 8: GambleFUN ($2195.51 in chips)
+Seat 9: bigsoowoop ($5252.00 in chips)
+Meek Bill: posts small blind $50.00
+Sabazius: posts big blind $100.00
+*** HOLE CARDS ***
+GambleFUN: folds
+bigsoowoop: folds
+sycoutlet1: folds
+Viklor123: raises $900.00 to $1000.00 and is all-in
+TIKITAKA11: folds
+BeAlive: folds
+Meek Bill: folds
+Sabazius: folds
+Uncalled bet ($900.00) returned to Viklor123
+Viklor123 collected $250.00 from pot
+Viklor123: doesn't show hand
+*** SUMMARY ***
+Total pot $250.00 | Rake $0.00
+Seat 1: sycoutlet1 folded before Flop (didn't bet)
+Seat 2: Viklor123 collected ($250.00)
+Seat 3: TIKITAKA11 folded before Flop (didn't bet)
+Seat 4: BeAlive (button) folded before Flop (didn't bet)
+Seat 5: Meek Bill (small blind) folded before Flop
+Seat 7: Sabazius (big blind) folded before Flop
+Seat 8: GambleFUN folded before Flop (didn't bet)
+Seat 9: bigsoowoop folded before Flop (didn't bet)
+
+PokerStars Hand #1346398817:  Hold'em No Limit ($50.00/$100.00 USD) - 2022/08/20 04:21:38 ET
+Table 'WPN_7 Day No Rathole 50/100 NLH' 9-max Seat #5 is the button
+Seat 1: sycoutlet1 ($950.00 in chips)
+Seat 2: Viklor123 ($1150.00 in chips)
+Seat 3: TIKITAKA11 ($22854.14 in chips)
+Seat 4: BeAlive ($950.00 in chips)
+Seat 5: Meek Bill ($146814.77 in chips)
+Seat 7: Sabazius ($6149.50 in chips)
+Seat 8: GambleFUN ($2195.51 in chips)
+Seat 9: bigsoowoop ($5252.00 in chips)
+Sabazius: posts small blind $50.00
+GambleFUN: posts big blind $100.00
+*** HOLE CARDS ***
+bigsoowoop: folds
+sycoutlet1: folds
+Viklor123: folds
+TIKITAKA11: raises $100.00 to $200.00
+BeAlive: raises $800.00 to $1000.00 and is all-in
+Meek Bill: folds
+Sabazius: folds
+GambleFUN: folds
+TIKITAKA11: folds
+Uncalled bet ($800.00) returned to BeAlive
+BeAlive collected $550.00 from pot
+BeAlive: doesn't show hand
+*** SUMMARY ***
+Total pot $550.00 | Rake $0.00
+Seat 1: sycoutlet1 folded before Flop (didn't bet)
+Seat 2: Viklor123 folded before Flop (didn't bet)
+Seat 3: TIKITAKA11 folded before Flop
+Seat 4: BeAlive collected ($550.00)
+Seat 5: Meek Bill (button) folded before Flop (didn't bet)
+Seat 7: Sabazius (small blind) folded before Flop
+Seat 8: GambleFUN (big blind) folded before Flop
+Seat 9: bigsoowoop folded before Flop (didn't bet)
+
+PokerStars Hand #1346399364:  Hold'em No Limit ($50.00/$100.00 USD) - 2022/08/20 04:22:12 ET
+Table 'WPN_7 Day No Rathole 50/100 NLH' 9-max Seat #7 is the button
+Seat 1: sycoutlet1 ($950.00 in chips)
+Seat 2: Viklor123 ($1150.00 in chips)
+Seat 3: TIKITAKA11 ($22654.14 in chips)
+Seat 4: BeAlive ($1350.00 in chips)
+Seat 5: Meek Bill ($146814.77 in chips)
+Seat 7: Sabazius ($6099.50 in chips)
+Seat 8: GambleFUN ($2095.51 in chips)
+Seat 9: bigsoowoop ($5252.00 in chips)
+GambleFUN: posts small blind $50.00
+bigsoowoop: posts big blind $100.00
+*** HOLE CARDS ***
+sycoutlet1: raises $100.00 to $200.00
+Viklor123: folds
+TIKITAKA11: folds
+BeAlive: folds
+Meek Bill: raises $300.00 to $500.00
+Sabazius: folds
+GambleFUN: folds
+bigsoowoop: folds
+sycoutlet1: raises $450.00 to $950.00 and is all-in
+Meek Bill: calls $450.00
+*** FLOP *** [Jh 3s 8c]
+*** TURN *** [Jh 3s 8c] [Js]
+*** RIVER *** [Jh 3s 8c Js] [7h]
+*** SHOW DOWN ***
+sycoutlet1: shows [Ah Qd]
+Meek Bill: shows [Qs As]
+sycoutlet1 collected $1023.50 from pot
+Meek Bill collected $1023.50 from pot
+*** SUMMARY ***
+Total pot $2050.00 | Rake $3.00
+Board [Jh 3s 8c Js 7h]
+Seat 1: sycoutlet1 showed [Ah Qd] and won ($1023.50)
+Seat 2: Viklor123 folded before Flop (didn't bet)
+Seat 3: TIKITAKA11 folded before Flop (didn't bet)
+Seat 4: BeAlive folded before Flop (didn't bet)
+Seat 5: Meek Bill showed [Qs As] and won ($1023.50)
+Seat 7: Sabazius (button) folded before Flop (didn't bet)
+Seat 8: GambleFUN (small blind) folded before Flop
+Seat 9: bigsoowoop (big blind) folded before Flop
+
+PokerStars Hand #1346400125:  Hold'em No Limit ($50.00/$100.00 USD) - 2022/08/20 04:23:01 ET
+Table 'WPN_7 Day No Rathole 50/100 NLH' 9-max Seat #8 is the button
+Seat 1: sycoutlet1 ($1023.50 in chips)
+Seat 2: Viklor123 ($1150.00 in chips)
+Seat 3: TIKITAKA11 ($22654.14 in chips)
+Seat 4: BeAlive ($1350.00 in chips)
+Seat 5: Meek Bill ($146888.27 in chips)
+Seat 7: Sabazius ($6099.50 in chips)
+Seat 8: GambleFUN ($2045.51 in chips)
+Seat 9: bigsoowoop ($5152.00 in chips)
+bigsoowoop: posts small blind $50.00
+sycoutlet1: posts big blind $100.00
+*** HOLE CARDS ***
+Viklor123: folds
+TIKITAKA11: raises $100.00 to $200.00
+BeAlive: raises $1150.00 to $1350.00 and is all-in
+Meek Bill: folds
+Sabazius: folds
+GambleFUN: folds
+bigsoowoop: folds
+sycoutlet1: folds
+TIKITAKA11: folds
+Uncalled bet ($1150.00) returned to BeAlive
+BeAlive collected $550.00 from pot
+BeAlive: doesn't show hand
+*** SUMMARY ***
+Total pot $550.00 | Rake $0.00
+Seat 1: sycoutlet1 (big blind) folded before Flop
+Seat 2: Viklor123 folded before Flop (didn't bet)
+Seat 3: TIKITAKA11 folded before Flop
+Seat 4: BeAlive collected ($550.00)
+Seat 5: Meek Bill folded before Flop (didn't bet)
+Seat 7: Sabazius folded before Flop (didn't bet)
+Seat 8: GambleFUN (button) folded before Flop (didn't bet)
+Seat 9: bigsoowoop (small blind) folded before Flop
+
+PokerStars Hand #1346400697:  Hold'em No Limit ($50.00/$100.00 USD) - 2022/08/20 04:23:39 ET
+Table 'WPN_7 Day No Rathole 50/100 NLH' 9-max Seat #9 is the button
+Seat 1: sycoutlet1 ($923.50 in chips)
+Seat 2: Viklor123 ($1150.00 in chips)
+Seat 3: TIKITAKA11 ($22454.14 in chips)
+Seat 4: BeAlive ($1700.00 in chips)
+Seat 5: Meek Bill ($146888.27 in chips)
+Seat 7: Sabazius ($6099.50 in chips)
+Seat 8: GambleFUN ($2045.51 in chips)
+Seat 9: bigsoowoop ($5102.00 in chips)
+sycoutlet1: posts small blind $50.00
+Viklor123: posts big blind $100.00
+*** HOLE CARDS ***
+TIKITAKA11: folds
+BeAlive: folds
+Meek Bill: folds
+Sabazius: folds
+GambleFUN: folds
+bigsoowoop: folds
+sycoutlet1: raises $200.00 to $300.00
+Viklor123: raises $850.00 to $1150.00 and is all-in
+sycoutlet1: folds
+Uncalled bet ($850.00) returned to Viklor123
+Viklor123 collected $600.00 from pot
+Viklor123: doesn't show hand
+*** SUMMARY ***
+Total pot $600.00 | Rake $0.00
+Seat 1: sycoutlet1 (small blind) folded before Flop
+Seat 2: Viklor123 (big blind) collected ($600.00)
+Seat 3: TIKITAKA11 folded before Flop (didn't bet)
+Seat 4: BeAlive folded before Flop (didn't bet)
+Seat 5: Meek Bill folded before Flop (didn't bet)
+Seat 7: Sabazius folded before Flop (didn't bet)
+Seat 8: GambleFUN folded before Flop (didn't bet)
+Seat 9: bigsoowoop (button) folded before Flop (didn't bet)
+
+PokerStars Hand #1346401822:  Hold'em No Limit ($50.00/$100.00 USD) - 2022/08/20 04:24:48 ET
+Table 'WPN_7 Day No Rathole 50/100 NLH' 9-max Seat #1 is the button
+Seat 1: sycoutlet1 ($623.50 in chips)
+Seat 2: Viklor123 ($1450.00 in chips)
+Seat 3: TIKITAKA11 ($22454.14 in chips)
+Seat 4: BeAlive ($1700.00 in chips)
+Seat 5: Meek Bill ($146888.27 in chips)
+Seat 7: Sabazius ($6099.50 in chips)
+Seat 8: GambleFUN ($2045.51 in chips)
+Seat 9: bigsoowoop ($5102.00 in chips)
+Viklor123: posts small blind $50.00
+TIKITAKA11: posts big blind $100.00
+*** HOLE CARDS ***
+BeAlive: folds
+Meek Bill: folds
+Sabazius: raises $100.00 to $200.00
+GambleFUN: folds
+bigsoowoop: folds
+sycoutlet1: calls $200.00
+Viklor123: raises $1250.00 to $1450.00 and is all-in
+TIKITAKA11: folds
+Sabazius: folds
+sycoutlet1: calls $423.50 and is all-in
+Uncalled bet ($826.50) returned to Viklor123
+*** FLOP *** [9d 5c 3s]
+*** TURN *** [9d 5c 3s] [Kh]
+*** RIVER *** [9d 5c 3s Kh] [8d]
+*** SHOW DOWN ***
+Viklor123: shows [Ah Ad]
+sycoutlet1: shows [As Jd]
+Viklor123 collected $1544.00 from pot
+*** SUMMARY ***
+Total pot $1547.00 | Rake $3.00
+Board [9d 5c 3s Kh 8d]
+Seat 1: sycoutlet1 (button) showed [As Jd] and lost
+Seat 2: Viklor123 (small blind) showed [Ah Ad] and won ($1544.00)
+Seat 3: TIKITAKA11 (big blind) folded before Flop
+Seat 4: BeAlive folded before Flop (didn't bet)
+Seat 5: Meek Bill folded before Flop (didn't bet)
+Seat 7: Sabazius folded before Flop
+Seat 8: GambleFUN folded before Flop (didn't bet)
+Seat 9: bigsoowoop folded before Flop (didn't bet)
+
+PokerStars Hand #1346402705:  Hold'em No Limit ($50.00/$100.00 USD) - 2022/08/20 04:25:44 ET
+Table 'WPN_7 Day No Rathole 50/100 NLH' 9-max Seat #2 is the button
+Seat 2: Viklor123 ($2370.50 in chips)
+Seat 3: TIKITAKA11 ($22354.14 in chips)
+Seat 5: Meek Bill ($146888.27 in chips)
+Seat 7: Sabazius ($5899.50 in chips)
+Seat 8: GambleFUN ($2045.51 in chips)
+Seat 9: bigsoowoop ($5102.00 in chips)
+TIKITAKA11: posts small blind $50.00
+Meek Bill: posts big blind $100.00
+*** HOLE CARDS ***
+Sabazius: folds
+GambleFUN: raises $100.00 to $200.00
+bigsoowoop: folds
+Viklor123: folds
+TIKITAKA11: folds
+Meek Bill: folds
+Uncalled bet ($100.00) returned to GambleFUN
+GambleFUN collected $250.00 from pot
+GambleFUN: doesn't show hand
+*** SUMMARY ***
+Total pot $250.00 | Rake $0.00
+Seat 2: Viklor123 (button) folded before Flop (didn't bet)
+Seat 3: TIKITAKA11 (small blind) folded before Flop
+Seat 5: Meek Bill (big blind) folded before Flop
+Seat 7: Sabazius folded before Flop (didn't bet)
+Seat 8: GambleFUN collected ($250.00)
+Seat 9: bigsoowoop folded before Flop (didn't bet)
+
+PokerStars Hand #1346403413:  Hold'em No Limit ($50.00/$100.00 USD) - 2022/08/20 04:26:27 ET
+Table 'WPN_7 Day No Rathole 50/100 NLH' 9-max Seat #3 is the button
+Seat 2: Viklor123 ($2370.50 in chips)
+Seat 3: TIKITAKA11 ($22304.14 in chips)
+Seat 5: Meek Bill ($146788.27 in chips)
+Seat 7: Sabazius ($5899.50 in chips)
+Seat 8: GambleFUN ($2195.51 in chips)
+Seat 9: bigsoowoop ($5102.00 in chips)
+Meek Bill: posts small blind $50.00
+GambleFUN: posts big blind $100.00
+*** HOLE CARDS ***
+bigsoowoop: folds
+Viklor123: folds
+TIKITAKA11: raises $100.00 to $200.00
+Meek Bill: folds
+GambleFUN: folds
+Uncalled bet ($100.00) returned to TIKITAKA11
+TIKITAKA11 collected $250.00 from pot
+TIKITAKA11: doesn't show hand
+*** SUMMARY ***
+Total pot $250.00 | Rake $0.00
+Seat 2: Viklor123 folded before Flop (didn't bet)
+Seat 3: TIKITAKA11 (button) collected ($250.00)
+Seat 5: Meek Bill (small blind) folded before Flop
+Seat 8: GambleFUN (big blind) folded before Flop
+Seat 9: bigsoowoop folded before Flop (didn't bet)
+
+PokerStars Hand #1346404054:  Hold'em No Limit ($50.00/$100.00 USD) - 2022/08/20 04:27:08 ET
+Table 'WPN_7 Day No Rathole 50/100 NLH' 9-max Seat #5 is the button
+Seat 2: Viklor123 ($2370.50 in chips)
+Seat 3: TIKITAKA11 ($22454.14 in chips)
+Seat 5: Meek Bill ($146738.27 in chips)
+Seat 8: GambleFUN ($2095.51 in chips)
+Seat 9: bigsoowoop ($5102.00 in chips)
+GambleFUN: posts small blind $50.00
+bigsoowoop: posts big blind $100.00
+*** HOLE CARDS ***
+Viklor123: raises $100.00 to $200.00
+TIKITAKA11: folds
+Meek Bill: folds
+GambleFUN: folds
+bigsoowoop: calls $100.00
+*** FLOP *** [8h Ad 8c]
+bigsoowoop: checks
+Viklor123: checks
+*** TURN *** [8h Ad 8c] [2h]
+bigsoowoop: checks
+Viklor123: bets $121.00
+bigsoowoop: folds
+Uncalled bet ($121.00) returned to Viklor123
+Viklor123 collected $447.00 from pot
+Viklor123: doesn't show hand
+*** SUMMARY ***
+Total pot $450.00 | Rake $3.00
+Board [8h Ad 8c 2h]
+Seat 2: Viklor123 collected ($447.00)
+Seat 3: TIKITAKA11 folded before Flop (didn't bet)
+Seat 5: Meek Bill (button) folded before Flop (didn't bet)
+Seat 8: GambleFUN (small blind) folded before Flop
+Seat 9: bigsoowoop (big blind) folded on the Turn
+
+PokerStars Hand #1346405728:  Hold'em No Limit ($50.00/$100.00 USD) - 2022/08/20 04:28:51 ET
+Table 'WPN_7 Day No Rathole 50/100 NLH' 9-max Seat #8 is the button
+Seat 2: Viklor123 ($2617.50 in chips)
+Seat 3: TIKITAKA11 ($22454.14 in chips)
+Seat 5: Meek Bill ($146738.27 in chips)
+Seat 8: GambleFUN ($2045.51 in chips)
+Seat 9: bigsoowoop ($4902.00 in chips)
+bigsoowoop: posts small blind $50.00
+Viklor123: posts big blind $100.00
+*** HOLE CARDS ***
+TIKITAKA11: folds
+Meek Bill: raises $100.00 to $200.00
+GambleFUN: raises $1845.51 to $2045.51 and is all-in
+bigsoowoop: calls $1995.51
+Viklor123: folds
+Meek Bill: folds
+*** FLOP *** [6h As Kh]
+*** TURN *** [6h As Kh] [2c]
+*** RIVER *** [6h As Kh 2c] [3s]
+*** SHOW DOWN ***
+bigsoowoop: shows [Ad Kd]
+GambleFUN: shows [Qc Tc]
+bigsoowoop collected $4388.02 from pot
+*** SUMMARY ***
+Total pot $4391.02 | Rake $3.00
+Board [6h As Kh 2c 3s]
+Seat 2: Viklor123 (big blind) folded before Flop
+Seat 3: TIKITAKA11 folded before Flop (didn't bet)
+Seat 5: Meek Bill folded before Flop
+Seat 8: GambleFUN (button) showed [Qc Tc] and lost
+Seat 9: bigsoowoop (small blind) showed [Ad Kd] and won ($4388.02)
+
+PokerStars Hand #1346407060:  Hold'em No Limit ($50.00/$100.00 USD) - 2022/08/20 04:30:13 ET
+Table 'WPN_7 Day No Rathole 50/100 NLH' 9-max Seat #9 is the button
+Seat 2: Viklor123 ($2517.50 in chips)
+Seat 3: TIKITAKA11 ($22454.14 in chips)
+Seat 5: Meek Bill ($146538.27 in chips)
+Seat 8: GambleFUN ($1000.00 in chips)
+Seat 9: bigsoowoop ($2856.49 in chips)
+Viklor123: posts small blind $50.00
+TIKITAKA11: posts big blind $100.00
+*** HOLE CARDS ***
+Meek Bill: folds
+GambleFUN: folds
+bigsoowoop: folds
+Viklor123: raises $170.00 to $270.00
+TIKITAKA11: raises $22184.14 to $22454.14 and is all-in
+Viklor123: folds
+Uncalled bet ($22184.14) returned to TIKITAKA11
+TIKITAKA11 collected $540.00 from pot
+TIKITAKA11: doesn't show hand
+*** SUMMARY ***
+Total pot $540.00 | Rake $0.00
+Seat 2: Viklor123 (small blind) folded before Flop
+Seat 3: TIKITAKA11 (big blind) collected ($540.00)
+Seat 5: Meek Bill folded before Flop (didn't bet)
+Seat 8: GambleFUN folded before Flop (didn't bet)
+Seat 9: bigsoowoop (button) folded before Flop (didn't bet)
+
+PokerStars Hand #1346407901:  Hold'em No Limit ($50.00/$100.00 USD) - 2022/08/20 04:31:06 ET
+Table 'WPN_7 Day No Rathole 50/100 NLH' 9-max Seat #2 is the button
+Seat 2: Viklor123 ($2247.50 in chips)
+Seat 3: TIKITAKA11 ($22724.14 in chips)
+Seat 5: Meek Bill ($146538.27 in chips)
+Seat 8: GambleFUN ($1000.00 in chips)
+Seat 9: bigsoowoop ($2856.49 in chips)
+TIKITAKA11: posts small blind $50.00
+Meek Bill: posts big blind $100.00
+*** HOLE CARDS ***
+GambleFUN: folds
+bigsoowoop: folds
+Viklor123: folds
+TIKITAKA11: folds
+Uncalled bet ($50.00) returned to Meek Bill
+Meek Bill collected $100.00 from pot
+Meek Bill: doesn't show hand
+*** SUMMARY ***
+Total pot $100.00 | Rake $0.00
+Seat 2: Viklor123 (button) folded before Flop (didn't bet)
+Seat 3: TIKITAKA11 (small blind) folded before Flop
+Seat 5: Meek Bill (big blind) collected ($100.00)
+Seat 8: GambleFUN folded before Flop (didn't bet)
+Seat 9: bigsoowoop folded before Flop (didn't bet)
+
+PokerStars Hand #1346408200:  Hold'em No Limit ($50.00/$100.00 USD) - 2022/08/20 04:31:24 ET
+Table 'WPN_7 Day No Rathole 50/100 NLH' 9-max Seat #3 is the button
+Seat 2: Viklor123 ($2247.50 in chips)
+Seat 3: TIKITAKA11 ($22674.14 in chips)
+Seat 5: Meek Bill ($146588.27 in chips)
+Seat 8: GambleFUN ($1000.00 in chips)
+Seat 9: bigsoowoop ($2856.49 in chips)
+Meek Bill: posts small blind $50.00
+bigsoowoop: posts big blind $100.00
+*** HOLE CARDS ***
+Viklor123: folds
+TIKITAKA11: folds
+Meek Bill: raises $200.00 to $300.00
+bigsoowoop: raises $700.00 to $1000.00
+Meek Bill: calls $700.00
+*** FLOP *** [Jc 7h 2s]
+Meek Bill: checks
+bigsoowoop: bets $1350.00
+Meek Bill: calls $1350.00
+*** TURN *** [Jc 7h 2s] [3h]
+Meek Bill: checks
+bigsoowoop: checks
+*** RIVER *** [Jc 7h 2s 3h] [6s]
+Meek Bill: bets $144238.27 and is all-in
+bigsoowoop: calls $4894.51 and is all-in
+Uncalled bet ($139343.76) returned to Meek Bill
+*** SHOW DOWN ***
+Meek Bill: shows [Jd 8d]
+bigsoowoop: shows [Kd 2d]
+Meek Bill collected $14486.77 from pot
+*** SUMMARY ***
+Total pot $14489.02 | Rake $2.25
+Board [Jc 7h 2s 3h 6s]
+Seat 2: Viklor123 folded before Flop (didn't bet)
+Seat 3: TIKITAKA11 (button) folded before Flop (didn't bet)
+Seat 5: Meek Bill (small blind) showed [Jd 8d] and won ($14486.77)
+Seat 9: bigsoowoop (big blind) showed [Kd 2d] and lost
+
+PokerStars Hand #1346411178:  Hold'em No Limit ($50.00/$100.00 USD) - 2022/08/20 04:34:36 ET
+Table 'WPN_7 Day No Rathole 50/100 NLH' 9-max Seat #5 is the button
+Seat 2: Viklor123 ($2247.50 in chips)
+Seat 3: TIKITAKA11 ($22674.14 in chips)
+Seat 5: Meek Bill ($153830.53 in chips)
+Seat 9: bigsoowoop ($1000.00 in chips)
+bigsoowoop: posts small blind $50.00
+TIKITAKA11: posts big blind $100.00
+*** HOLE CARDS ***
+Meek Bill: raises $100.00 to $200.00
+bigsoowoop: folds
+TIKITAKA11: calls $100.00
+*** FLOP *** [As 2h 4h]
+TIKITAKA11: checks
+Meek Bill: checks
+*** TURN *** [As 2h 4h] [8d]
+TIKITAKA11: checks
+Meek Bill: checks
+*** RIVER *** [As 2h 4h 8d] [6d]
+TIKITAKA11: checks
+Meek Bill: bets $248.50
+TIKITAKA11: folds
+Uncalled bet ($248.50) returned to Meek Bill
+Meek Bill collected $448.25 from pot
+Meek Bill: doesn't show hand
+*** SUMMARY ***
+Total pot $450.00 | Rake $1.75
+Board [As 2h 4h 8d 6d]
+Seat 3: TIKITAKA11 (big blind) folded on the River
+Seat 5: Meek Bill (button) collected ($448.25)
+Seat 9: bigsoowoop (small blind) folded before Flop
+
+PokerStars Hand #1346412220:  Hold'em No Limit ($50.00/$100.00 USD) - 2022/08/20 04:35:42 ET
+Table 'WPN_7 Day No Rathole 50/100 NLH' 9-max Seat #9 is the button
+Seat 3: TIKITAKA11 ($22474.14 in chips)
+Seat 5: Meek Bill ($154078.78 in chips)
+Seat 9: bigsoowoop ($1000.00 in chips)
+TIKITAKA11: posts small blind $50.00
+Meek Bill: posts big blind $100.00
+*** HOLE CARDS ***
+bigsoowoop: folds
+TIKITAKA11: raises $200.00 to $300.00
+Meek Bill: raises $700.00 to $1000.00
+TIKITAKA11: calls $700.00
+*** FLOP *** [Qc As 5s]
+TIKITAKA11: checks
+Meek Bill: bets $500.00
+TIKITAKA11: calls $500.00
+*** TURN *** [Qc As 5s] [2s]
+TIKITAKA11: checks
+Meek Bill: checks
+*** RIVER *** [Qc As 5s 2s] [Ad]
+TIKITAKA11: bets $300.00
+Meek Bill: folds
+Uncalled bet ($300.00) returned to TIKITAKA11
+TIKITAKA11 collected $2998.25 from pot
+TIKITAKA11: doesn't show hand
+*** SUMMARY ***
+Total pot $3000.00 | Rake $1.75
+Board [Qc As 5s 2s Ad]
+Seat 3: TIKITAKA11 (small blind) collected ($2998.25)
+Seat 5: Meek Bill (big blind) folded on the River
+Seat 9: bigsoowoop (button) folded before Flop (didn't bet)
+
+PokerStars Hand #1346413836:  Hold'em No Limit ($50.00/$100.00 USD) - 2022/08/20 04:37:29 ET
+Table 'WPN_7 Day No Rathole 50/100 NLH' 9-max Seat #3 is the button
+Seat 3: TIKITAKA11 ($23972.39 in chips)
+Seat 5: Meek Bill ($152578.78 in chips)
+Seat 9: bigsoowoop ($1000.00 in chips)
+Meek Bill: posts small blind $50.00
+bigsoowoop: posts big blind $100.00
+*** HOLE CARDS ***
+TIKITAKA11: raises $100.00 to $200.00
+Meek Bill: folds
+bigsoowoop: folds
+Uncalled bet ($100.00) returned to TIKITAKA11
+TIKITAKA11 collected $250.00 from pot
+TIKITAKA11: doesn't show hand
+*** SUMMARY ***
+Total pot $250.00 | Rake $0.00
+Seat 3: TIKITAKA11 (button) collected ($250.00)
+Seat 5: Meek Bill (small blind) folded before Flop
+Seat 9: bigsoowoop (big blind) folded before Flop
+
+PokerStars Hand #1346414327:  Hold'em No Limit ($50.00/$100.00 USD) - 2022/08/20 04:37:58 ET
+Table 'WPN_7 Day No Rathole 50/100 NLH' 9-max Seat #5 is the button
+Seat 3: TIKITAKA11 ($24122.39 in chips)
+Seat 5: Meek Bill ($152528.78 in chips)
+Seat 9: bigsoowoop ($900.00 in chips)
+bigsoowoop: posts small blind $50.00
+TIKITAKA11: posts big blind $100.00
+*** HOLE CARDS ***
+Meek Bill: folds
+bigsoowoop: raises $900.00 to $1000.00 and is all-in
+TIKITAKA11: folds
+Uncalled bet ($900.00) returned to bigsoowoop
+bigsoowoop collected $200.00 from pot
+bigsoowoop: doesn't show hand
+*** SUMMARY ***
+Total pot $200.00 | Rake $0.00
+Seat 3: TIKITAKA11 (big blind) folded before Flop
+Seat 5: Meek Bill (button) folded before Flop (didn't bet)
+Seat 9: bigsoowoop (small blind) collected ($200.00)
+
+PokerStars Hand #1346414613:  Hold'em No Limit ($50.00/$100.00 USD) - 2022/08/20 04:38:17 ET
+Table 'WPN_7 Day No Rathole 50/100 NLH' 9-max Seat #9 is the button
+Seat 3: TIKITAKA11 ($24022.39 in chips)
+Seat 5: Meek Bill ($152528.78 in chips)
+Seat 9: bigsoowoop ($1100.00 in chips)
+TIKITAKA11: posts small blind $50.00
+Meek Bill: posts big blind $100.00
+*** HOLE CARDS ***
+bigsoowoop: raises $1000.00 to $1100.00 and is all-in
+TIKITAKA11: folds
+Meek Bill: folds
+Uncalled bet ($1000.00) returned to bigsoowoop
+bigsoowoop collected $250.00 from pot
+bigsoowoop: doesn't show hand
+*** SUMMARY ***
+Total pot $250.00 | Rake $0.00
+Seat 3: TIKITAKA11 (small blind) folded before Flop
+Seat 5: Meek Bill (big blind) folded before Flop
+Seat 9: bigsoowoop (button) collected ($250.00)
+
+PokerStars Hand #1346414872:  Hold'em No Limit ($50.00/$100.00 USD) - 2022/08/20 04:38:36 ET
+Table 'WPN_7 Day No Rathole 50/100 NLH' 9-max Seat #3 is the button
+Seat 3: TIKITAKA11 ($23972.39 in chips)
+Seat 5: Meek Bill ($152428.78 in chips)
+Seat 9: bigsoowoop ($1250.00 in chips)
+Meek Bill: posts small blind $50.00
+bigsoowoop: posts big blind $100.00
+*** HOLE CARDS ***
+TIKITAKA11: raises $100.00 to $200.00
+Meek Bill: folds
+bigsoowoop: raises $1050.00 to $1250.00 and is all-in
+TIKITAKA11: folds
+Uncalled bet ($1050.00) returned to bigsoowoop
+bigsoowoop collected $450.00 from pot
+bigsoowoop: doesn't show hand
+*** SUMMARY ***
+Total pot $450.00 | Rake $0.00
+Seat 3: TIKITAKA11 (button) folded before Flop
+Seat 5: Meek Bill (small blind) folded before Flop
+Seat 9: bigsoowoop (big blind) collected ($450.00)
+
+PokerStars Hand #1346415330:  Hold'em No Limit ($50.00/$100.00 USD) - 2022/08/20 04:39:05 ET
+Table 'WPN_7 Day No Rathole 50/100 NLH' 9-max Seat #5 is the button
+Seat 3: TIKITAKA11 ($23772.39 in chips)
+Seat 5: Meek Bill ($152378.78 in chips)
+Seat 9: bigsoowoop ($1500.00 in chips)
+bigsoowoop: posts small blind $50.00
+TIKITAKA11: posts big blind $100.00
+*** HOLE CARDS ***
+Meek Bill: raises $100.00 to $200.00
+bigsoowoop: folds
+TIKITAKA11: calls $100.00
+*** FLOP *** [Jc 5s Td]
+TIKITAKA11: checks
+Meek Bill: bets $287.50
+TIKITAKA11: calls $287.50
+*** TURN *** [Jc 5s Td] [Qs]
+TIKITAKA11: checks
+Meek Bill: bets $1025.00
+TIKITAKA11: folds
+Uncalled bet ($1025.00) returned to Meek Bill
+Meek Bill collected $1023.25 from pot
+Meek Bill: doesn't show hand
+*** SUMMARY ***
+Total pot $1025.00 | Rake $1.75
+Board [Jc 5s Td Qs]
+Seat 3: TIKITAKA11 (big blind) folded on the Turn
+Seat 5: Meek Bill (button) collected ($1023.25)
+Seat 9: bigsoowoop (small blind) folded before Flop
+
+PokerStars Hand #1346416206:  Hold'em No Limit ($50.00/$100.00 USD) - 2022/08/20 04:40:00 ET
+Table 'WPN_7 Day No Rathole 50/100 NLH' 9-max Seat #9 is the button
+Seat 3: TIKITAKA11 ($23284.89 in chips)
+Seat 5: Meek Bill ($152914.53 in chips)
+Seat 9: bigsoowoop ($1450.00 in chips)
+TIKITAKA11: posts small blind $50.00
+Meek Bill: posts big blind $100.00
+*** HOLE CARDS ***
+bigsoowoop: folds
+TIKITAKA11: raises $200.00 to $300.00
+Meek Bill: folds
+Uncalled bet ($200.00) returned to TIKITAKA11
+TIKITAKA11 collected $200.00 from pot
+TIKITAKA11: doesn't show hand
+*** SUMMARY ***
+Total pot $200.00 | Rake $0.00
+Seat 3: TIKITAKA11 (small blind) collected ($200.00)
+Seat 5: Meek Bill (big blind) folded before Flop
+Seat 9: bigsoowoop (button) folded before Flop (didn't bet)
+
+PokerStars Hand #1346416536:  Hold'em No Limit ($50.00/$100.00 USD) - 2022/08/20 04:40:21 ET
+Table 'WPN_7 Day No Rathole 50/100 NLH' 9-max Seat #3 is the button
+Seat 3: TIKITAKA11 ($23384.89 in chips)
+Seat 5: Meek Bill ($152814.53 in chips)
+Seat 9: bigsoowoop ($1450.00 in chips)
+Meek Bill: posts small blind $50.00
+bigsoowoop: posts big blind $100.00
+*** HOLE CARDS ***
+TIKITAKA11: folds
+Meek Bill: raises $152714.53 to $152814.53 and is all-in
+bigsoowoop: folds
+Uncalled bet ($152714.53) returned to Meek Bill
+Meek Bill collected $200.00 from pot
+Meek Bill: doesn't show hand
+*** SUMMARY ***
+Total pot $200.00 | Rake $0.00
+Seat 3: TIKITAKA11 (button) folded before Flop (didn't bet)
+Seat 5: Meek Bill (small blind) collected ($200.00)
+Seat 9: bigsoowoop (big blind) folded before Flop
+
+PokerStars Hand #1346416939:  Hold'em No Limit ($50.00/$100.00 USD) - 2022/08/20 04:40:45 ET
+Table 'WPN_7 Day No Rathole 50/100 NLH' 9-max Seat #5 is the button
+Seat 3: TIKITAKA11 ($23384.89 in chips)
+Seat 5: Meek Bill ($152914.53 in chips)
+Seat 9: bigsoowoop ($1350.00 in chips)
+bigsoowoop: posts small blind $50.00
+TIKITAKA11: posts big blind $100.00
+*** HOLE CARDS ***
+Meek Bill: raises $100.00 to $200.00
+bigsoowoop: folds
+TIKITAKA11: calls $100.00
+*** FLOP *** [4c Ks 6s]
+TIKITAKA11: checks
+Meek Bill: bets $148.50
+TIKITAKA11: calls $148.50
+*** TURN *** [4c Ks 6s] [2s]
+TIKITAKA11: checks
+Meek Bill: checks
+*** RIVER *** [4c Ks 6s 2s] [Jd]
+TIKITAKA11: checks
+Meek Bill: checks
+*** SHOW DOWN ***
+TIKITAKA11: shows [5d Kd]
+Meek Bill: mucks hand
+TIKITAKA11 collected $745.25 from pot
+*** SUMMARY ***
+Total pot $747.00 | Rake $1.75
+Board [4c Ks 6s 2s Jd]
+Seat 3: TIKITAKA11 (big blind) showed [5d Kd] and won ($745.25)
+Seat 5: Meek Bill (button) mucked
+Seat 9: bigsoowoop (small blind) folded before Flop
+
+PokerStars Hand #1346417859:  Hold'em No Limit ($50.00/$100.00 USD) - 2022/08/20 04:41:44 ET
+Table 'WPN_7 Day No Rathole 50/100 NLH' 9-max Seat #9 is the button
+Seat 3: TIKITAKA11 ($23781.64 in chips)
+Seat 5: Meek Bill ($152566.03 in chips)
+Seat 9: bigsoowoop ($1300.00 in chips)
+TIKITAKA11: posts small blind $50.00
+Meek Bill: posts big blind $100.00
+*** HOLE CARDS ***
+bigsoowoop: folds
+TIKITAKA11: raises $200.00 to $300.00
+Meek Bill: folds
+Uncalled bet ($200.00) returned to TIKITAKA11
+TIKITAKA11 collected $200.00 from pot
+TIKITAKA11: doesn't show hand
+*** SUMMARY ***
+Total pot $200.00 | Rake $0.00
+Seat 3: TIKITAKA11 (small blind) collected ($200.00)
+Seat 5: Meek Bill (big blind) folded before Flop
+Seat 9: bigsoowoop (button) folded before Flop (didn't bet)
+
+PokerStars Hand #1346418130:  Hold'em No Limit ($50.00/$100.00 USD) - 2022/08/20 04:42:01 ET
+Table 'WPN_7 Day No Rathole 50/100 NLH' 9-max Seat #3 is the button
+Seat 3: TIKITAKA11 ($23881.64 in chips)
+Seat 5: Meek Bill ($152466.03 in chips)
+Seat 9: bigsoowoop ($1300.00 in chips)
+Meek Bill: posts small blind $50.00
+bigsoowoop: posts big blind $100.00
+*** HOLE CARDS ***
+TIKITAKA11: raises $100.00 to $200.00
+Meek Bill: folds
+bigsoowoop: folds
+Uncalled bet ($100.00) returned to TIKITAKA11
+TIKITAKA11 collected $250.00 from pot
+TIKITAKA11: doesn't show hand
+*** SUMMARY ***
+Total pot $250.00 | Rake $0.00
+Seat 3: TIKITAKA11 (button) collected ($250.00)
+Seat 5: Meek Bill (small blind) folded before Flop
+Seat 9: bigsoowoop (big blind) folded before Flop
+
+PokerStars Hand #1346418990:  Hold'em No Limit ($50.00/$100.00 USD) - 2022/08/20 04:42:57 ET
+Table 'WPN_7 Day No Rathole 50/100 NLH' 9-max Seat #5 is the button
+Seat 3: TIKITAKA11 ($24031.64 in chips)
+Seat 5: Meek Bill ($152416.03 in chips)
+Seat 9: bigsoowoop ($1200.00 in chips)
+bigsoowoop: posts small blind $50.00
+TIKITAKA11: posts big blind $100.00
+*** HOLE CARDS ***
+Meek Bill: folds
+bigsoowoop: raises $1100.00 to $1200.00 and is all-in
+TIKITAKA11: folds
+Uncalled bet ($1100.00) returned to bigsoowoop
+bigsoowoop collected $200.00 from pot
+bigsoowoop: doesn't show hand
+*** SUMMARY ***
+Total pot $200.00 | Rake $0.00
+Seat 3: TIKITAKA11 (big blind) folded before Flop
+Seat 5: Meek Bill (button) folded before Flop (didn't bet)
+Seat 9: bigsoowoop (small blind) collected ($200.00)
+
+PokerStars Hand #1346443853:  Hold'em No Limit ($50.00/$100.00 USD) - 2022/08/20 05:13:34 ET
+Table 'WPN_7 Day No Rathole 50/100 NLH' 9-max Seat #1 is the button
+Seat 1: DrStrange1 ($700.00 in chips)
+Seat 3: TIKITAKA11 ($24230.39 in chips)
+DrStrange1: posts small blind $50.00
+TIKITAKA11: posts big blind $100.00
+*** HOLE CARDS ***
+DrStrange1: raises $600.00 to $700.00 and is all-in
+TIKITAKA11: calls $600.00
+*** FLOP *** [5d Th Qc]
+*** TURN *** [5d Th Qc] [Ac]
+*** RIVER *** [5d Th Qc Ac] [3h]
+*** SHOW DOWN ***
+DrStrange1: shows [Td Qs]
+TIKITAKA11: shows [Qd Kh]
+DrStrange1 collected $1398.75 from pot
+*** SUMMARY ***
+Total pot $1400.00 | Rake $1.25
+Board [5d Th Qc Ac 3h]
+Seat 1: DrStrange1 (button) (small blind) showed [Td Qs] and won ($1398.75)
+Seat 3: TIKITAKA11 (big blind) showed [Qd Kh] and lost
+
+PokerStars Hand #1346444176:  Hold'em No Limit ($50.00/$100.00 USD) - 2022/08/20 05:13:58 ET
+Table 'WPN_7 Day No Rathole 50/100 NLH' 9-max Seat #3 is the button
+Seat 1: DrStrange1 ($1398.75 in chips)
+Seat 3: TIKITAKA11 ($23530.39 in chips)
+TIKITAKA11: posts small blind $50.00
+DrStrange1: posts big blind $100.00
+*** HOLE CARDS ***
+TIKITAKA11: raises $100.00 to $200.00
+DrStrange1: calls $100.00
+*** FLOP *** [Ad 7d 6s]
+DrStrange1: checks
+TIKITAKA11: bets $120.00
+DrStrange1: folds
+Uncalled bet ($120.00) returned to TIKITAKA11
+TIKITAKA11 collected $398.75 from pot
+TIKITAKA11: doesn't show hand
+*** SUMMARY ***
+Total pot $400.00 | Rake $1.25
+Board [Ad 7d 6s]
+Seat 1: DrStrange1 (big blind) folded on the Flop
+Seat 3: TIKITAKA11 (button) (small blind) collected ($398.75)
+
+PokerStars Hand #1346444517:  Hold'em No Limit ($50.00/$100.00 USD) - 2022/08/20 05:14:21 ET
+Table 'WPN_7 Day No Rathole 50/100 NLH' 9-max Seat #1 is the button
+Seat 1: DrStrange1 ($1198.75 in chips)
+Seat 3: TIKITAKA11 ($23729.14 in chips)
+DrStrange1: posts small blind $50.00
+TIKITAKA11: posts big blind $100.00
+*** HOLE CARDS ***
+DrStrange1: raises $100.00 to $200.00
+TIKITAKA11: calls $100.00
+*** FLOP *** [4h Jd 9c]
+TIKITAKA11: checks
+DrStrange1: bets $300.00
+TIKITAKA11: folds
+Uncalled bet ($300.00) returned to DrStrange1
+DrStrange1 collected $398.75 from pot
+DrStrange1: doesn't show hand
+*** SUMMARY ***
+Total pot $400.00 | Rake $1.25
+Board [4h Jd 9c]
+Seat 1: DrStrange1 (button) (small blind) collected ($398.75)
+Seat 3: TIKITAKA11 (big blind) folded on the Flop
+
+PokerStars Hand #1346445090:  Hold'em No Limit ($50.00/$100.00 USD) - 2022/08/20 05:15:01 ET
+Table 'WPN_7 Day No Rathole 50/100 NLH' 9-max Seat #3 is the button
+Seat 1: DrStrange1 ($1397.50 in chips)
+Seat 3: TIKITAKA11 ($23529.14 in chips)
+TIKITAKA11: posts small blind $50.00
+DrStrange1: posts big blind $100.00
+*** HOLE CARDS ***
+TIKITAKA11: folds
+Uncalled bet ($50.00) returned to DrStrange1
+DrStrange1 collected $100.00 from pot
+DrStrange1: doesn't show hand
+*** SUMMARY ***
+Total pot $100.00 | Rake $0.00
+Seat 1: DrStrange1 (big blind) collected ($100.00)
+Seat 3: TIKITAKA11 (button) (small blind) folded before Flop
+
+PokerStars Hand #1346445308:  Hold'em No Limit ($50.00/$100.00 USD) - 2022/08/20 05:15:15 ET
+Table 'WPN_7 Day No Rathole 50/100 NLH' 9-max Seat #1 is the button
+Seat 1: DrStrange1 ($1447.50 in chips)
+Seat 3: TIKITAKA11 ($23479.14 in chips)
+DrStrange1: posts small blind $50.00
+TIKITAKA11: posts big blind $100.00
+*** HOLE CARDS ***
+DrStrange1: raises $100.00 to $200.00
+TIKITAKA11: calls $100.00
+*** FLOP *** [7c 4h Ac]
+TIKITAKA11: checks
+DrStrange1: bets $100.00
+TIKITAKA11: folds
+Uncalled bet ($100.00) returned to DrStrange1
+DrStrange1 collected $398.75 from pot
+DrStrange1: doesn't show hand
+*** SUMMARY ***
+Total pot $400.00 | Rake $1.25
+Board [7c 4h Ac]
+Seat 1: DrStrange1 (button) (small blind) collected ($398.75)
+Seat 3: TIKITAKA11 (big blind) folded on the Flop
+
+PokerStars Hand #1346445870:  Hold'em No Limit ($50.00/$100.00 USD) - 2022/08/20 05:15:56 ET
+Table 'WPN_7 Day No Rathole 50/100 NLH' 9-max Seat #3 is the button
+Seat 1: DrStrange1 ($1646.25 in chips)
+Seat 3: TIKITAKA11 ($23279.14 in chips)
+TIKITAKA11: posts small blind $50.00
+DrStrange1: posts big blind $100.00
+*** HOLE CARDS ***
+TIKITAKA11: raises $23179.14 to $23279.14 and is all-in
+DrStrange1: folds
+Uncalled bet ($23179.14) returned to TIKITAKA11
+TIKITAKA11 collected $200.00 from pot
+TIKITAKA11: doesn't show hand
+*** SUMMARY ***
+Total pot $200.00 | Rake $0.00
+Seat 1: DrStrange1 (big blind) folded before Flop
+Seat 3: TIKITAKA11 (button) (small blind) collected ($200.00)
+
+PokerStars Hand #1346446152:  Hold'em No Limit ($50.00/$100.00 USD) - 2022/08/20 05:16:17 ET
+Table 'WPN_7 Day No Rathole 50/100 NLH' 9-max Seat #1 is the button
+Seat 1: DrStrange1 ($1546.25 in chips)
+Seat 3: TIKITAKA11 ($23379.14 in chips)
+DrStrange1: posts small blind $50.00
+TIKITAKA11: posts big blind $100.00
+*** HOLE CARDS ***
+DrStrange1: calls $50.00
+TIKITAKA11: checks
+*** FLOP *** [4h 2s Js]
+TIKITAKA11: checks
+DrStrange1: bets $100.00
+TIKITAKA11: raises $250.00 to $350.00
+DrStrange1: folds
+Uncalled bet ($250.00) returned to TIKITAKA11
+TIKITAKA11 collected $398.75 from pot
+TIKITAKA11: doesn't show hand
+*** SUMMARY ***
+Total pot $400.00 | Rake $1.25
+Board [4h 2s Js]
+Seat 1: DrStrange1 (button) (small blind) folded on the Flop
+Seat 3: TIKITAKA11 (big blind) collected ($398.75)
+
+PokerStars Hand #1346446754:  Hold'em No Limit ($50.00/$100.00 USD) - 2022/08/20 05:16:58 ET
+Table 'WPN_7 Day No Rathole 50/100 NLH' 9-max Seat #3 is the button
+Seat 1: DrStrange1 ($1346.25 in chips)
+Seat 3: TIKITAKA11 ($23577.89 in chips)
+TIKITAKA11: posts small blind $50.00
+DrStrange1: posts big blind $100.00
+*** HOLE CARDS ***
+TIKITAKA11: raises $23477.89 to $23577.89 and is all-in
+DrStrange1: folds
+Uncalled bet ($23477.89) returned to TIKITAKA11
+TIKITAKA11 collected $200.00 from pot
+TIKITAKA11: doesn't show hand
+*** SUMMARY ***
+Total pot $200.00 | Rake $0.00
+Seat 1: DrStrange1 (big blind) folded before Flop
+Seat 3: TIKITAKA11 (button) (small blind) collected ($200.00)
+
+PokerStars Hand #1346446989:  Hold'em No Limit ($50.00/$100.00 USD) - 2022/08/20 05:17:16 ET
+Table 'WPN_7 Day No Rathole 50/100 NLH' 9-max Seat #1 is the button
+Seat 1: DrStrange1 ($1246.25 in chips)
+Seat 3: TIKITAKA11 ($23677.89 in chips)
+DrStrange1: posts small blind $50.00
+TIKITAKA11: posts big blind $100.00
+*** HOLE CARDS ***
+DrStrange1: folds
+Uncalled bet ($50.00) returned to TIKITAKA11
+TIKITAKA11 collected $100.00 from pot
+TIKITAKA11: doesn't show hand
+*** SUMMARY ***
+Total pot $100.00 | Rake $0.00
+Seat 1: DrStrange1 (button) (small blind) folded before Flop
+Seat 3: TIKITAKA11 (big blind) collected ($100.00)
+
+PokerStars Hand #1346447119:  Hold'em No Limit ($50.00/$100.00 USD) - 2022/08/20 05:17:27 ET
+Table 'WPN_7 Day No Rathole 50/100 NLH' 9-max Seat #3 is the button
+Seat 1: DrStrange1 ($1196.25 in chips)
+Seat 3: TIKITAKA11 ($23727.89 in chips)
+TIKITAKA11: posts small blind $50.00
+DrStrange1: posts big blind $100.00
+*** HOLE CARDS ***
+TIKITAKA11: calls $50.00
+DrStrange1: raises $1096.25 to $1196.25 and is all-in
+TIKITAKA11: folds
+Uncalled bet ($1096.25) returned to DrStrange1
+DrStrange1 collected $200.00 from pot
+DrStrange1: doesn't show hand
+*** SUMMARY ***
+Total pot $200.00 | Rake $0.00
+Seat 1: DrStrange1 (big blind) collected ($200.00)
+Seat 3: TIKITAKA11 (button) (small blind) folded before Flop
+
+PokerStars Hand #1346447451:  Hold'em No Limit ($50.00/$100.00 USD) - 2022/08/20 05:17:51 ET
+Table 'WPN_7 Day No Rathole 50/100 NLH' 9-max Seat #1 is the button
+Seat 1: DrStrange1 ($1296.25 in chips)
+Seat 3: TIKITAKA11 ($23627.89 in chips)
+DrStrange1: posts small blind $50.00
+TIKITAKA11: posts big blind $100.00
+*** HOLE CARDS ***
+DrStrange1: calls $50.00
+TIKITAKA11: checks
+*** FLOP *** [6s 7c 5s]
+TIKITAKA11: checks
+DrStrange1: bets $100.00
+TIKITAKA11: folds
+Uncalled bet ($100.00) returned to DrStrange1
+DrStrange1 collected $198.75 from pot
+DrStrange1: doesn't show hand
+*** SUMMARY ***
+Total pot $200.00 | Rake $1.25
+Board [6s 7c 5s]
+Seat 1: DrStrange1 (button) (small blind) collected ($198.75)
+Seat 3: TIKITAKA11 (big blind) folded on the Flop
+
+PokerStars Hand #1346447970:  Hold'em No Limit ($50.00/$100.00 USD) - 2022/08/20 05:18:28 ET
+Table 'WPN_7 Day No Rathole 50/100 NLH' 9-max Seat #1 is the button
+Seat 1: DrStrange1 ($1395.00 in chips)
+Seat 2: bigsoowoop ($1300.00 in chips)
+Seat 3: TIKITAKA11 ($23527.89 in chips)
+Seat 4: BeAlive ($1700.00 in chips)
+TIKITAKA11: posts small blind $50.00
+BeAlive: posts big blind $100.00
+*** HOLE CARDS ***
+DrStrange1: folds
+TIKITAKA11: raises $23427.89 to $23527.89 and is all-in
+BeAlive: folds
+Uncalled bet ($23427.89) returned to TIKITAKA11
+TIKITAKA11 collected $200.00 from pot
+TIKITAKA11: doesn't show hand
+*** SUMMARY ***
+Total pot $200.00 | Rake $0.00
+Seat 1: DrStrange1 (button) folded before Flop (didn't bet)
+Seat 3: TIKITAKA11 (small blind) collected ($200.00)
+Seat 4: BeAlive (big blind) folded before Flop
+
+PokerStars Hand #1346448317:  Hold'em No Limit ($50.00/$100.00 USD) - 2022/08/20 05:18:52 ET
+Table 'WPN_7 Day No Rathole 50/100 NLH' 9-max Seat #3 is the button
+Seat 1: DrStrange1 ($1395.00 in chips)
+Seat 2: bigsoowoop ($1300.00 in chips)
+Seat 3: TIKITAKA11 ($23627.89 in chips)
+Seat 4: BeAlive ($1600.00 in chips)
+Seat 9: Viklor123 ($2247.50 in chips)
+BeAlive: posts small blind $50.00
+Viklor123: posts big blind $100.00
+*** HOLE CARDS ***
+DrStrange1: folds
+TIKITAKA11: raises $100.00 to $200.00
+BeAlive: folds
+Viklor123: calls $100.00
+*** FLOP *** [As 8h 4d]
+Viklor123: checks
+TIKITAKA11: bets $135.00
+Viklor123: calls $135.00
+*** TURN *** [As 8h 4d] [8s]
+Viklor123: bets $432.00
+TIKITAKA11: folds
+Uncalled bet ($432.00) returned to Viklor123
+Viklor123 collected $717.75 from pot
+Viklor123: doesn't show hand
+*** SUMMARY ***
+Total pot $720.00 | Rake $2.25
+Board [As 8h 4d 8s]
+Seat 1: DrStrange1 folded before Flop (didn't bet)
+Seat 3: TIKITAKA11 (button) folded on the Turn
+Seat 4: BeAlive (small blind) folded before Flop
+Seat 9: Viklor123 (big blind) collected ($717.75)
+
+PokerStars Hand #1346449342:  Hold'em No Limit ($50.00/$100.00 USD) - 2022/08/20 05:20:09 ET
+Table 'WPN_7 Day No Rathole 50/100 NLH' 9-max Seat #4 is the button
+Seat 1: DrStrange1 ($1395.00 in chips)
+Seat 2: bigsoowoop ($1300.00 in chips)
+Seat 3: TIKITAKA11 ($23292.89 in chips)
+Seat 4: BeAlive ($1550.00 in chips)
+Seat 5: honey_badger ($3366.72 in chips)
+Seat 6: az96 ($2289.25 in chips)
+Seat 9: Viklor123 ($2630.25 in chips)
+Viklor123: posts small blind $50.00
+DrStrange1: posts big blind $100.00
+*** HOLE CARDS ***
+TIKITAKA11: folds
+BeAlive: folds
+Viklor123: folds
+Uncalled bet ($50.00) returned to DrStrange1
+DrStrange1 collected $100.00 from pot
+DrStrange1: doesn't show hand
+*** SUMMARY ***
+Total pot $100.00 | Rake $0.00
+Seat 1: DrStrange1 (big blind) collected ($100.00)
+Seat 3: TIKITAKA11 folded before Flop (didn't bet)
+Seat 4: BeAlive (button) folded before Flop (didn't bet)
+Seat 9: Viklor123 (small blind) folded before Flop
+
+PokerStars Hand #1346449619:  Hold'em No Limit ($50.00/$100.00 USD) - 2022/08/20 05:20:29 ET
+Table 'WPN_7 Day No Rathole 50/100 NLH' 9-max Seat #9 is the button
+Seat 1: DrStrange1 ($1445.00 in chips)
+Seat 2: bigsoowoop ($1300.00 in chips)
+Seat 3: TIKITAKA11 ($23292.89 in chips)
+Seat 4: BeAlive ($1550.00 in chips)
+Seat 5: honey_badger ($3366.72 in chips)
+Seat 6: az96 ($2289.25 in chips)
+Seat 9: Viklor123 ($2580.25 in chips)
+DrStrange1: posts small blind $50.00
+bigsoowoop: posts big blind $100.00
+*** HOLE CARDS ***
+TIKITAKA11: folds
+BeAlive: folds
+Viklor123: raises $2480.25 to $2580.25 and is all-in
+DrStrange1: folds
+bigsoowoop: folds
+Uncalled bet ($2480.25) returned to Viklor123
+Viklor123 collected $250.00 from pot
+Viklor123: doesn't show hand
+*** SUMMARY ***
+Total pot $250.00 | Rake $0.00
+Seat 1: DrStrange1 (small blind) folded before Flop
+Seat 2: bigsoowoop (big blind) folded before Flop
+Seat 3: TIKITAKA11 folded before Flop (didn't bet)
+Seat 4: BeAlive folded before Flop (didn't bet)
+Seat 9: Viklor123 (button) collected ($250.00)
+
+PokerStars Hand #1346450080:  Hold'em No Limit ($50.00/$100.00 USD) - 2022/08/20 05:21:00 ET
+Table 'WPN_7 Day No Rathole 50/100 NLH' 9-max Seat #1 is the button
+Seat 1: DrStrange1 ($1395.00 in chips)
+Seat 2: bigsoowoop ($1200.00 in chips)
+Seat 4: BeAlive ($1550.00 in chips)
+Seat 5: honey_badger ($3366.72 in chips)
+Seat 6: az96 ($2289.25 in chips)
+Seat 9: Viklor123 ($2730.25 in chips)
+bigsoowoop: posts small blind $50.00
+BeAlive: posts big blind $100.00
+*** HOLE CARDS ***
+Viklor123: folds
+DrStrange1: folds
+bigsoowoop: raises $1100.00 to $1200.00 and is all-in
+BeAlive: calls $1100.00
+*** FLOP *** [2s 5c 7d]
+*** TURN *** [2s 5c 7d] [3d]
+*** RIVER *** [2s 5c 7d 3d] [5d]
+*** SHOW DOWN ***
+BeAlive: shows [As 6h]
+bigsoowoop: shows [9h Kc]
+BeAlive collected $2397.75 from pot
+*** SUMMARY ***
+Total pot $2400.00 | Rake $2.25
+Board [2s 5c 7d 3d 5d]
+Seat 1: DrStrange1 (button) folded before Flop (didn't bet)
+Seat 2: bigsoowoop (small blind) showed [9h Kc] and lost
+Seat 4: BeAlive (big blind) showed [As 6h] and won ($2397.75)
+Seat 9: Viklor123 folded before Flop (didn't bet)
+
+PokerStars Hand #1346450783:  Hold'em No Limit ($50.00/$100.00 USD) - 2022/08/20 05:21:50 ET
+Table 'WPN_7 Day No Rathole 50/100 NLH' 9-max Seat #2 is the button
+Seat 1: DrStrange1 ($1395.00 in chips)
+Seat 2: bigsoowoop ($1000.00 in chips)
+Seat 4: BeAlive ($2747.75 in chips)
+Seat 5: honey_badger ($3366.72 in chips)
+Seat 6: az96 ($2289.25 in chips)
+Seat 9: Viklor123 ($2730.25 in chips)
+BeAlive: posts small blind $50.00
+honey_badger: posts big blind $100.00
+*** HOLE CARDS ***
+Viklor123: folds
+DrStrange1: calls $100.00
+bigsoowoop: raises $900.00 to $1000.00 and is all-in
+BeAlive: folds
+honey_badger: folds
+DrStrange1: calls $900.00
+*** FLOP *** [4d 5s Tc]
+*** TURN *** [4d 5s Tc] [8c]
+*** RIVER *** [4d 5s Tc 8c] [9d]
+*** SHOW DOWN ***
+DrStrange1: shows [8d 8s]
+bigsoowoop: shows [Qd Qc]
+DrStrange1 collected $2147.00 from pot
+*** SUMMARY ***
+Total pot $2150.00 | Rake $3.00
+Board [4d 5s Tc 8c 9d]
+Seat 1: DrStrange1 showed [8d 8s] and won ($2147.00)
+Seat 2: bigsoowoop (button) showed [Qd Qc] and lost
+Seat 4: BeAlive (small blind) folded before Flop
+Seat 5: honey_badger (big blind) folded before Flop
+Seat 9: Viklor123 folded before Flop (didn't bet)
+
+PokerStars Hand #1346451185:  Hold'em No Limit ($50.00/$100.00 USD) - 2022/08/20 05:22:20 ET
+Table 'WPN_7 Day No Rathole 50/100 NLH' 9-max Seat #4 is the button
+Seat 1: DrStrange1 ($2542.00 in chips)
+Seat 2: bigsoowoop ($1000.00 in chips)
+Seat 4: BeAlive ($2697.75 in chips)
+Seat 5: honey_badger ($3266.72 in chips)
+Seat 6: az96 ($2289.25 in chips)
+Seat 9: Viklor123 ($2730.25 in chips)
+honey_badger: posts small blind $50.00
+az96: posts big blind $100.00
+*** HOLE CARDS ***
+Viklor123: raises $100.00 to $200.00
+DrStrange1: folds
+bigsoowoop: folds
+BeAlive: folds
+honey_badger: folds
+az96: folds
+Uncalled bet ($100.00) returned to Viklor123
+Viklor123 collected $250.00 from pot
+Viklor123: doesn't show hand
+*** SUMMARY ***
+Total pot $250.00 | Rake $0.00
+Seat 1: DrStrange1 folded before Flop (didn't bet)
+Seat 2: bigsoowoop folded before Flop (didn't bet)
+Seat 4: BeAlive (button) folded before Flop (didn't bet)
+Seat 5: honey_badger (small blind) folded before Flop
+Seat 6: az96 (big blind) folded before Flop
+Seat 9: Viklor123 collected ($250.00)
+
+PokerStars Hand #1346451581:  Hold'em No Limit ($50.00/$100.00 USD) - 2022/08/20 05:22:49 ET
+Table 'WPN_7 Day No Rathole 50/100 NLH' 9-max Seat #5 is the button
+Seat 1: DrStrange1 ($2542.00 in chips)
+Seat 2: bigsoowoop ($1000.00 in chips)
+Seat 4: BeAlive ($2697.75 in chips)
+Seat 5: honey_badger ($3216.72 in chips)
+Seat 6: az96 ($2189.25 in chips)
+Seat 9: Viklor123 ($2880.25 in chips)
+az96: posts small blind $50.00
+Viklor123: posts big blind $100.00
+*** HOLE CARDS ***
+DrStrange1: folds
+bigsoowoop: folds
+BeAlive: folds
+honey_badger: folds
+az96: folds
+Uncalled bet ($50.00) returned to Viklor123
+Viklor123 collected $100.00 from pot
+Viklor123: doesn't show hand
+*** SUMMARY ***
+Total pot $100.00 | Rake $0.00
+Seat 1: DrStrange1 folded before Flop (didn't bet)
+Seat 2: bigsoowoop folded before Flop (didn't bet)
+Seat 4: BeAlive folded before Flop (didn't bet)
+Seat 5: honey_badger (button) folded before Flop (didn't bet)
+Seat 6: az96 (small blind) folded before Flop
+Seat 9: Viklor123 (big blind) collected ($100.00)
+
+PokerStars Hand #1346451786:  Hold'em No Limit ($50.00/$100.00 USD) - 2022/08/20 05:23:03 ET
+Table 'WPN_7 Day No Rathole 50/100 NLH' 9-max Seat #6 is the button
+Seat 1: DrStrange1 ($2542.00 in chips)
+Seat 2: bigsoowoop ($1000.00 in chips)
+Seat 4: BeAlive ($2697.75 in chips)
+Seat 5: honey_badger ($3216.72 in chips)
+Seat 6: az96 ($2139.25 in chips)
+Seat 9: Viklor123 ($2930.25 in chips)
+Viklor123: posts small blind $50.00
+DrStrange1: posts big blind $100.00
+*** HOLE CARDS ***
+bigsoowoop: folds
+BeAlive: folds
+honey_badger: folds
+az96: folds
+Viklor123: calls $50.00
+DrStrange1: raises $150.00 to $250.00
+Viklor123: calls $150.00
+*** FLOP *** [5c Td Kc]
+Viklor123: checks
+DrStrange1: bets $250.00
+Viklor123: folds
+Uncalled bet ($250.00) returned to DrStrange1
+DrStrange1 collected $497.00 from pot
+DrStrange1: doesn't show hand
+*** SUMMARY ***
+Total pot $500.00 | Rake $3.00
+Board [5c Td Kc]
+Seat 1: DrStrange1 (big blind) collected ($497.00)
+Seat 2: bigsoowoop folded before Flop (didn't bet)
+Seat 4: BeAlive folded before Flop (didn't bet)
+Seat 5: honey_badger folded before Flop (didn't bet)
+Seat 6: az96 (button) folded before Flop (didn't bet)
+Seat 9: Viklor123 (small blind) folded on the Flop
+
+PokerStars Hand #1346390148:  Hold'em No Limit ($50.00/$100.00 USD) - 2022/08/20 04:12:47 ET
+Table 'WPN_7 Day No Rathole 50/100 NLH' 9-max Seat #7 is the button
+Seat 1: sycoutlet1 ($900.00 in chips)
+Seat 3: TIKITAKA11 ($22677.14 in chips)
+Seat 5: Meek Bill ($146914.77 in chips)
+Seat 6: Gektorrrr ($3072.50 in chips)
+Seat 7: Sabazius ($4588.50 in chips)
+sycoutlet1: posts small blind $50.00
+TIKITAKA11: posts big blind $100.00
+*** HOLE CARDS ***
+Meek Bill: raises $100.00 to $200.00
+Gektorrrr: folds
+Sabazius: folds
+sycoutlet1: calls $150.00
+TIKITAKA11: calls $100.00
+*** FLOP *** [8c Ac Tc]
+sycoutlet1: checks
+TIKITAKA11: checks
+Meek Bill: checks
+*** TURN *** [8c Ac Tc] [6s]
+sycoutlet1: checks
+TIKITAKA11: bets $396.00
+Meek Bill: folds
+sycoutlet1: folds
+Uncalled bet ($396.00) returned to TIKITAKA11
+TIKITAKA11 collected $597.00 from pot
+TIKITAKA11: doesn't show hand
+*** SUMMARY ***
+Total pot $600.00 | Rake $3.00
+Board [8c Ac Tc 6s]
+Seat 1: sycoutlet1 (small blind) folded on the Turn
+Seat 3: TIKITAKA11 (big blind) collected ($597.00)
+Seat 5: Meek Bill folded on the Turn
+Seat 6: Gektorrrr folded before Flop (didn't bet)
+Seat 7: Sabazius (button) folded before Flop (didn't bet)
+
+PokerStars Hand #1346390853:  Hold'em No Limit ($50.00/$100.00 USD) - 2022/08/20 04:13:32 ET
+Table 'WPN_7 Day No Rathole 50/100 NLH' 9-max Seat #1 is the button
+Seat 1: sycoutlet1 ($700.00 in chips)
+Seat 3: TIKITAKA11 ($23074.14 in chips)
+Seat 5: Meek Bill ($146714.77 in chips)
+Seat 6: Gektorrrr ($3072.50 in chips)
+Seat 7: Sabazius ($4588.50 in chips)
+Seat 8: GambleFUN ($2695.51 in chips)
+TIKITAKA11: posts small blind $50.00
+Meek Bill: posts big blind $100.00
+*** HOLE CARDS ***
+Gektorrrr: folds
+Sabazius: folds
+sycoutlet1: folds
+TIKITAKA11: calls $50.00
+Meek Bill: raises $250.00 to $350.00
+TIKITAKA11: folds
+Uncalled bet ($250.00) returned to Meek Bill
+Meek Bill collected $200.00 from pot
+Meek Bill: doesn't show hand
+*** SUMMARY ***
+Total pot $200.00 | Rake $0.00
+Seat 1: sycoutlet1 (button) folded before Flop (didn't bet)
+Seat 3: TIKITAKA11 (small blind) folded before Flop
+Seat 5: Meek Bill (big blind) collected ($200.00)
+Seat 6: Gektorrrr folded before Flop (didn't bet)
+Seat 7: Sabazius folded before Flop (didn't bet)
+
+PokerStars Hand #1346391319:  Hold'em No Limit ($50.00/$100.00 USD) - 2022/08/20 04:14:00 ET
+Table 'WPN_7 Day No Rathole 50/100 NLH' 9-max Seat #3 is the button
+Seat 1: sycoutlet1 ($700.00 in chips)
+Seat 3: TIKITAKA11 ($22974.14 in chips)
+Seat 5: Meek Bill ($146814.77 in chips)
+Seat 6: Gektorrrr ($3072.50 in chips)
+Seat 7: Sabazius ($4588.50 in chips)
+Seat 8: GambleFUN ($2695.51 in chips)
+Meek Bill: posts small blind $50.00
+Gektorrrr: posts big blind $100.00
+*** HOLE CARDS ***
+Sabazius: raises $120.00 to $220.00
+sycoutlet1: folds
+TIKITAKA11: folds
+Meek Bill: folds
+Gektorrrr: folds
+Uncalled bet ($120.00) returned to Sabazius
+Sabazius collected $250.00 from pot
+Sabazius: doesn't show hand
+*** SUMMARY ***
+Total pot $250.00 | Rake $0.00
+Seat 1: sycoutlet1 folded before Flop (didn't bet)
+Seat 3: TIKITAKA11 (button) folded before Flop (didn't bet)
+Seat 5: Meek Bill (small blind) folded before Flop
+Seat 6: Gektorrrr (big blind) folded before Flop
+Seat 7: Sabazius collected ($250.00)
+
+PokerStars Hand #1346391701:  Hold'em No Limit ($50.00/$100.00 USD) - 2022/08/20 04:14:23 ET
+Table 'WPN_7 Day No Rathole 50/100 NLH' 9-max Seat #5 is the button
+Seat 1: sycoutlet1 ($700.00 in chips)
+Seat 3: TIKITAKA11 ($22974.14 in chips)
+Seat 5: Meek Bill ($146764.77 in chips)
+Seat 6: Gektorrrr ($2972.50 in chips)
+Seat 7: Sabazius ($4738.50 in chips)
+Seat 8: GambleFUN ($2695.51 in chips)
+Gektorrrr: posts small blind $50.00
+Sabazius: posts big blind $100.00
+*** HOLE CARDS ***
+sycoutlet1: folds
+TIKITAKA11: raises $100.00 to $200.00
+Meek Bill: folds
+Gektorrrr: folds
+Sabazius: folds
+Uncalled bet ($100.00) returned to TIKITAKA11
+TIKITAKA11 collected $250.00 from pot
+TIKITAKA11: doesn't show hand
+*** SUMMARY ***
+Total pot $250.00 | Rake $0.00
+Seat 1: sycoutlet1 folded before Flop (didn't bet)
+Seat 3: TIKITAKA11 collected ($250.00)
+Seat 5: Meek Bill (button) folded before Flop (didn't bet)
+Seat 6: Gektorrrr (small blind) folded before Flop
+Seat 7: Sabazius (big blind) folded before Flop
+
+PokerStars Hand #1346386035:  Hold'em No Limit ($50.00/$100.00 USD) - 2022/08/20 04:08:26 ET
+Table 'WPN_7 Day No Rathole 50/100 NLH' 9-max Seat #4 is the button
+Seat 2: Sabazius ($4588.50 in chips)
+Seat 3: TIKITAKA11 ($23203.39 in chips)
+Seat 4: bigsoowoop ($5402.00 in chips)
+Seat 5: Meek Bill ($146294.02 in chips)
+Meek Bill: posts small blind $50.00
+TIKITAKA11: posts big blind $100.00
+*** HOLE CARDS ***
+bigsoowoop: folds
+Meek Bill: raises $200.00 to $300.00
+TIKITAKA11: calls $200.00
+*** FLOP *** [9d 5d Qh]
+Meek Bill: checks
+TIKITAKA11: checks
+*** TURN *** [9d 5d Qh] [4s]
+Meek Bill: bets $450.00
+TIKITAKA11: folds
+Uncalled bet ($450.00) returned to Meek Bill
+Meek Bill collected $598.25 from pot
+Meek Bill: doesn't show hand
+*** SUMMARY ***
+Total pot $600.00 | Rake $1.75
+Board [9d 5d Qh 4s]
+Seat 3: TIKITAKA11 (big blind) folded on the Turn
+Seat 4: bigsoowoop (button) folded before Flop (didn't bet)
+Seat 5: Meek Bill (small blind) collected ($598.25)
+
+PokerStars Hand #1346386727:  Hold'em No Limit ($50.00/$100.00 USD) - 2022/08/20 04:09:10 ET
+Table 'WPN_7 Day No Rathole 50/100 NLH' 9-max Seat #3 is the button
+Seat 3: TIKITAKA11 ($22903.39 in chips)
+Seat 5: Meek Bill ($146592.27 in chips)
+TIKITAKA11: posts small blind $50.00
+Meek Bill: posts big blind $100.00
+*** HOLE CARDS ***
+TIKITAKA11: raises $150.00 to $250.00
+Meek Bill: calls $150.00
+*** FLOP *** [7c Qd Ac]
+Meek Bill: checks
+TIKITAKA11: checks
+*** TURN *** [7c Qd Ac] [6d]
+Meek Bill: checks
+TIKITAKA11: checks
+*** RIVER *** [7c Qd Ac 6d] [5s]
+Meek Bill: checks
+TIKITAKA11: checks
+*** SHOW DOWN ***
+Meek Bill: shows [6h 9c]
+TIKITAKA11: mucks hand
+Meek Bill collected $498.75 from pot
+*** SUMMARY ***
+Total pot $500.00 | Rake $1.25
+Board [7c Qd Ac 6d 5s]
+Seat 3: TIKITAKA11 (button) (small blind) mucked
+Seat 5: Meek Bill (big blind) showed [6h 9c] and won ($498.75)
+
+PokerStars Hand #1346387693:  Hold'em No Limit ($50.00/$100.00 USD) - 2022/08/20 04:10:13 ET
+Table 'WPN_7 Day No Rathole 50/100 NLH' 9-max Seat #5 is the button
+Seat 3: TIKITAKA11 ($22653.39 in chips)
+Seat 5: Meek Bill ($146841.02 in chips)
+Meek Bill: posts small blind $50.00
+TIKITAKA11: posts big blind $100.00
+*** HOLE CARDS ***
+Meek Bill: folds
+Uncalled bet ($50.00) returned to TIKITAKA11
+TIKITAKA11 collected $100.00 from pot
+TIKITAKA11: doesn't show hand
+*** SUMMARY ***
+Total pot $100.00 | Rake $0.00
+Seat 3: TIKITAKA11 (big blind) collected ($100.00)
+Seat 5: Meek Bill (button) (small blind) folded before Flop
+
+PokerStars Hand #1346387850:  Hold'em No Limit ($50.00/$100.00 USD) - 2022/08/20 04:10:23 ET
+Table 'WPN_7 Day No Rathole 50/100 NLH' 9-max Seat #3 is the button
+Seat 3: TIKITAKA11 ($22703.39 in chips)
+Seat 5: Meek Bill ($146791.02 in chips)
+TIKITAKA11: posts small blind $50.00
+Meek Bill: posts big blind $100.00
+*** HOLE CARDS ***
+TIKITAKA11: raises $150.00 to $250.00
+Meek Bill: calls $150.00
+*** FLOP *** [As 8d Ad]
+Meek Bill: checks
+TIKITAKA11: bets $150.00
+Meek Bill: folds
+Uncalled bet ($150.00) returned to TIKITAKA11
+TIKITAKA11 collected $498.75 from pot
+TIKITAKA11: doesn't show hand
+*** SUMMARY ***
+Total pot $500.00 | Rake $1.25
+Board [As 8d Ad]
+Seat 3: TIKITAKA11 (button) (small blind) collected ($498.75)
+Seat 5: Meek Bill (big blind) folded on the Flop
+
+PokerStars Hand #1346388204:  Hold'em No Limit ($50.00/$100.00 USD) - 2022/08/20 04:10:46 ET
+Table 'WPN_7 Day No Rathole 50/100 NLH' 9-max Seat #5 is the button
+Seat 3: TIKITAKA11 ($22952.14 in chips)
+Seat 5: Meek Bill ($146541.02 in chips)
+Meek Bill: posts small blind $50.00
+TIKITAKA11: posts big blind $100.00
+*** HOLE CARDS ***
+Meek Bill: raises $150.00 to $250.00
+TIKITAKA11: calls $150.00
+*** FLOP *** [3s Kc Qc]
+TIKITAKA11: checks
+Meek Bill: bets $125.00
+TIKITAKA11: calls $125.00
+*** TURN *** [3s Kc Qc] [4c]
+TIKITAKA11: checks
+Meek Bill: checks
+*** RIVER *** [3s Kc Qc 4c] [Qd]
+TIKITAKA11: checks
+Meek Bill: bets $512.50
+TIKITAKA11: folds
+Uncalled bet ($512.50) returned to Meek Bill
+Meek Bill collected $748.75 from pot
+Meek Bill: doesn't show hand
+*** SUMMARY ***
+Total pot $750.00 | Rake $1.25
+Board [3s Kc Qc 4c Qd]
+Seat 3: TIKITAKA11 (big blind) folded on the River
+Seat 5: Meek Bill (button) (small blind) collected ($748.75)
+
+PokerStars Hand #1346389222:  Hold'em No Limit ($50.00/$100.00 USD) - 2022/08/20 04:11:49 ET
+Table 'WPN_7 Day No Rathole 50/100 NLH' 9-max Seat #3 is the button
+Seat 1: sycoutlet1 ($1000.00 in chips)
+Seat 3: TIKITAKA11 ($22577.14 in chips)
+Seat 5: Meek Bill ($146914.77 in chips)
+Seat 6: Gektorrrr ($3072.50 in chips)
+TIKITAKA11: posts small blind $50.00
+Meek Bill: posts big blind $100.00
+*** HOLE CARDS ***
+TIKITAKA11: raises $150.00 to $250.00
+Meek Bill: folds
+Uncalled bet ($150.00) returned to TIKITAKA11
+TIKITAKA11 collected $200.00 from pot
+TIKITAKA11: doesn't show hand
+*** SUMMARY ***
+Total pot $200.00 | Rake $0.00
+Seat 3: TIKITAKA11 (button) (small blind) collected ($200.00)
+Seat 5: Meek Bill (big blind) folded before Flop
+
+PokerStars Hand #1346389425:  Hold'em No Limit ($50.00/$100.00 USD) - 2022/08/20 04:12:02 ET
+Table 'WPN_7 Day No Rathole 50/100 NLH' 9-max Seat #3 is the button
+Seat 1: sycoutlet1 ($1000.00 in chips)
+Seat 3: TIKITAKA11 ($22677.14 in chips)
+Seat 5: Meek Bill ($146814.77 in chips)
+Seat 6: Gektorrrr ($3072.50 in chips)
+Meek Bill: posts small blind $50.00
+Gektorrrr: posts big blind $100.00
+*** HOLE CARDS ***
+TIKITAKA11: folds
+Meek Bill: raises $150.00 to $250.00
+Gektorrrr: folds
+Uncalled bet ($150.00) returned to Meek Bill
+Meek Bill collected $200.00 from pot
+Meek Bill: doesn't show hand
+*** SUMMARY ***
+Total pot $200.00 | Rake $0.00
+Seat 3: TIKITAKA11 (button) folded before Flop (didn't bet)
+Seat 5: Meek Bill (small blind) collected ($200.00)
+Seat 6: Gektorrrr (big blind) folded before Flop
+
+PokerStars Hand #1346389783:  Hold'em No Limit ($50.00/$100.00 USD) - 2022/08/20 04:12:25 ET
+Table 'WPN_7 Day No Rathole 50/100 NLH' 9-max Seat #5 is the button
+Seat 1: sycoutlet1 ($1000.00 in chips)
+Seat 3: TIKITAKA11 ($22677.14 in chips)
+Seat 5: Meek Bill ($146914.77 in chips)
+Seat 6: Gektorrrr ($2972.50 in chips)
+Seat 7: Sabazius ($4588.50 in chips)
+Gektorrrr: posts small blind $50.00
+Sabazius: posts big blind $100.00
+*** HOLE CARDS ***
+TIKITAKA11: folds
+Meek Bill: folds
+Gektorrrr: folds
+Uncalled bet ($50.00) returned to Sabazius
+Sabazius collected $100.00 from pot
+Sabazius: doesn't show hand
+*** SUMMARY ***
+Total pot $100.00 | Rake $0.00
+Seat 3: TIKITAKA11 folded before Flop (didn't bet)
+Seat 5: Meek Bill (button) folded before Flop (didn't bet)
+Seat 6: Gektorrrr (small blind) folded before Flop
+Seat 7: Sabazius (big blind) collected ($100.00)
+
+PokerStars Hand #1346389930:  Hold'em No Limit ($50.00/$100.00 USD) - 2022/08/20 04:12:34 ET
+Table 'WPN_7 Day No Rathole 50/100 NLH' 9-max Seat #6 is the button
+Seat 1: sycoutlet1 ($1000.00 in chips)
+Seat 3: TIKITAKA11 ($22677.14 in chips)
+Seat 5: Meek Bill ($146914.77 in chips)
+Seat 6: Gektorrrr ($2922.50 in chips)
+Seat 7: Sabazius ($4638.50 in chips)
+Sabazius: posts small blind $50.00
+sycoutlet1: posts big blind $100.00
+*** HOLE CARDS ***
+TIKITAKA11: folds
+Meek Bill: folds
+Gektorrrr: raises $100.00 to $200.00
+Sabazius: folds
+sycoutlet1: folds
+Uncalled bet ($100.00) returned to Gektorrrr
+Gektorrrr collected $250.00 from pot
+Gektorrrr: doesn't show hand
+*** SUMMARY ***
+Total pot $250.00 | Rake $0.00
+Seat 1: sycoutlet1 (big blind) folded before Flop
+Seat 3: TIKITAKA11 folded before Flop (didn't bet)
+Seat 5: Meek Bill folded before Flop (didn't bet)
+Seat 6: Gektorrrr (button) collected ($250.00)
+Seat 7: Sabazius (small blind) folded before Flop
+
+PokerStars Hand #1346385204:  Hold'em No Limit ($50.00/$100.00 USD) - 2022/08/20 04:07:34 ET
+Table 'WPN_7 Day No Rathole 50/100 NLH' 9-max Seat #3 is the button
+Seat 2: Sabazius ($4808.50 in chips)
+Seat 3: TIKITAKA11 ($23203.39 in chips)
+Seat 4: bigsoowoop ($5452.00 in chips)
+Seat 5: Meek Bill ($146024.02 in chips)
+bigsoowoop: posts small blind $50.00
+Meek Bill: posts big blind $100.00
+*** HOLE CARDS ***
+Sabazius: raises $120.00 to $220.00
+TIKITAKA11: folds
+bigsoowoop: folds
+Meek Bill: raises $640.00 to $860.00
+Sabazius: folds
+Uncalled bet ($640.00) returned to Meek Bill
+Meek Bill collected $490.00 from pot
+Meek Bill: doesn't show hand
+*** SUMMARY ***
+Total pot $490.00 | Rake $0.00
+Seat 2: Sabazius folded before Flop
+Seat 3: TIKITAKA11 (button) folded before Flop (didn't bet)
+Seat 4: bigsoowoop (small blind) folded before Flop
+Seat 5: Meek Bill (big blind) collected ($490.00)
+
+PokerStars Hand #1346384491:  Hold'em No Limit ($50.00/$100.00 USD) - 2022/08/20 04:06:51 ET
+Table 'WPN_7 Day No Rathole 50/100 NLH' 9-max Seat #2 is the button
+Seat 2: Sabazius ($4808.50 in chips)
+Seat 3: TIKITAKA11 ($23303.39 in chips)
+Seat 4: bigsoowoop ($5352.00 in chips)
+TIKITAKA11: posts small blind $50.00
+bigsoowoop: posts big blind $100.00
+*** HOLE CARDS ***
+Sabazius: folds
+TIKITAKA11: calls $50.00
+bigsoowoop: raises $250.00 to $350.00
+TIKITAKA11: folds
+Uncalled bet ($250.00) returned to bigsoowoop
+bigsoowoop collected $200.00 from pot
+bigsoowoop: doesn't show hand
+*** SUMMARY ***
+Total pot $200.00 | Rake $0.00
+Seat 2: Sabazius (button) folded before Flop (didn't bet)
+Seat 3: TIKITAKA11 (small blind) folded before Flop
+Seat 4: bigsoowoop (big blind) collected ($200.00)
+
+PokerStars Hand #1346261405:  Hold'em No Limit ($50.00/$100.00 USD) - 2022/08/20 02:17:49 ET
+Table 'WPN_7 Day No Rathole 50/100 NLH' 9-max Seat #2 is the button
+Seat 2: TIKITAKA11 ($23089.64 in chips)
+Seat 7: FreeRakeback ($3611.68 in chips)
+Seat 9: Sabazius ($4975.25 in chips)
+FreeRakeback: posts small blind $50.00
+Sabazius: posts big blind $100.00
+*** HOLE CARDS ***
+TIKITAKA11: raises $100.00 to $200.00
+FreeRakeback: folds
+Sabazius: calls $100.00
+*** FLOP *** [9c 2d 9d]
+Sabazius: checks
+TIKITAKA11: checks
+*** TURN *** [9c 2d 9d] [4h]
+Sabazius: bets $700.00
+TIKITAKA11: folds
+Uncalled bet ($700.00) returned to Sabazius
+Sabazius collected $448.25 from pot
+Sabazius: doesn't show hand
+*** SUMMARY ***
+Total pot $450.00 | Rake $1.75
+Board [9c 2d 9d 4h]
+Seat 2: TIKITAKA11 (button) folded on the Turn
+Seat 7: FreeRakeback (small blind) folded before Flop
+Seat 9: Sabazius (big blind) collected ($448.25)
+
+PokerStars Hand #1346258121:  Hold'em No Limit ($50.00/$100.00 USD) - 2022/08/20 02:15:19 ET
+Table 'WPN_7 Day No Rathole 50/100 NLH' 9-max Seat #9 is the button
+Seat 2: TIKITAKA11 ($23189.64 in chips)
+Seat 7: FreeRakeback ($6025.18 in chips)
+Seat 9: Sabazius ($2463.50 in chips)
+TIKITAKA11: posts small blind $50.00
+FreeRakeback: posts big blind $100.00
+*** HOLE CARDS ***
+Sabazius: folds
+TIKITAKA11: calls $50.00
+FreeRakeback: raises $200.00 to $300.00
+TIKITAKA11: folds
+Uncalled bet ($200.00) returned to FreeRakeback
+FreeRakeback collected $200.00 from pot
+FreeRakeback: doesn't show hand
+*** SUMMARY ***
+Total pot $200.00 | Rake $0.00
+Seat 2: TIKITAKA11 (small blind) folded before Flop
+Seat 7: FreeRakeback (big blind) collected ($200.00)
+Seat 9: Sabazius (button) folded before Flop (didn't bet)
+
+PokerStars Hand #1346259730:  Hold'em No Limit ($50.00/$100.00 USD) - 2022/08/20 02:16:31 ET
+Table 'WPN_7 Day No Rathole 50/100 NLH' 9-max Seat #2 is the button
+Seat 2: TIKITAKA11 ($23089.64 in chips)
+Seat 7: FreeRakeback ($6125.18 in chips)
+Seat 9: Sabazius ($2463.50 in chips)
+FreeRakeback: posts small blind $50.00
+Sabazius: posts big blind $100.00
+*** HOLE CARDS ***
+TIKITAKA11: folds
+FreeRakeback: folds
+Uncalled bet ($50.00) returned to Sabazius
+Sabazius collected $100.00 from pot
+Sabazius: doesn't show hand
+*** SUMMARY ***
+Total pot $100.00 | Rake $0.00
+Seat 2: TIKITAKA11 (button) folded before Flop (didn't bet)
+Seat 7: FreeRakeback (small blind) folded before Flop
+Seat 9: Sabazius (big blind) collected ($100.00)
+
+PokerStars Hand #1346260090:  Hold'em No Limit ($50.00/$100.00 USD) - 2022/08/20 02:16:47 ET
+Table 'WPN_7 Day No Rathole 50/100 NLH' 9-max Seat #7 is the button
+Seat 2: TIKITAKA11 ($23089.64 in chips)
+Seat 7: FreeRakeback ($6075.18 in chips)
+Seat 9: Sabazius ($2513.50 in chips)
+Sabazius: posts small blind $50.00
+TIKITAKA11: posts big blind $100.00
+*** HOLE CARDS ***
+FreeRakeback: folds
+Sabazius: folds
+Uncalled bet ($50.00) returned to TIKITAKA11
+TIKITAKA11 collected $100.00 from pot
+TIKITAKA11: doesn't show hand
+*** SUMMARY ***
+Total pot $100.00 | Rake $0.00
+Seat 2: TIKITAKA11 (big blind) collected ($100.00)
+Seat 7: FreeRakeback (button) folded before Flop (didn't bet)
+Seat 9: Sabazius (small blind) folded before Flop
+
+PokerStars Hand #1346260564:  Hold'em No Limit ($50.00/$100.00 USD) - 2022/08/20 02:17:09 ET
+Table 'WPN_7 Day No Rathole 50/100 NLH' 9-max Seat #9 is the button
+Seat 2: TIKITAKA11 ($23139.64 in chips)
+Seat 7: FreeRakeback ($6075.18 in chips)
+Seat 9: Sabazius ($2463.50 in chips)
+TIKITAKA11: posts small blind $50.00
+FreeRakeback: posts big blind $100.00
+*** HOLE CARDS ***
+Sabazius: raises $100.00 to $200.00
+TIKITAKA11: folds
+FreeRakeback: raises $5875.18 to $6075.18 and is all-in
+Sabazius: calls $2263.50 and is all-in
+Uncalled bet ($3611.68) returned to FreeRakeback
+*** FIRST FLOP *** [7d Qd 5h]
+*** FIRST TURN *** [7d Qd 5h] [4c]
+*** FIRST RIVER *** [7d Qd 5h 4c] [2s]
+*** SECOND FLOP *** [Kc Js 3d]
+*** SECOND TURN *** [Kc Js 3d] [9h]
+*** SECOND RIVER *** [Kc Js 3d 9h] [Jd]
+*** FIRST SHOW DOWN ***
+Sabazius: shows [Qh Qs]
+FreeRakeback: shows [7c As]
+Sabazius collected $2487.63 from pot
+*** SECOND SHOW DOWN ***
+Sabazius: shows [Qh Qs]
+FreeRakeback: shows [7c As]
+Sabazius collected $2487.62 from pot
+*** SUMMARY ***
+Total pot $4977.00 | Rake $1.75
+Hand was run twice
+FIRST Board [7d Qd 5h 4c 2s]
+SECOND Board [Kc Js 3d 9h Jd]
+Seat 2: TIKITAKA11 (small blind) folded before Flop
+Seat 7: FreeRakeback (big blind) showed [7c As] and lost, and lost
+Seat 9: Sabazius (button) showed [Qh Qs] and won ($2487.63), and won ($2487.62)
+
+PokerStars Hand #1346256677:  Hold'em No Limit ($50.00/$100.00 USD) - 2022/08/20 02:14:12 ET
+Table 'WPN_7 Day No Rathole 50/100 NLH' 9-max Seat #9 is the button
+Seat 2: TIKITAKA11 ($23389.64 in chips)
+Seat 7: FreeRakeback ($5675.18 in chips)
+Seat 9: Sabazius ($2613.50 in chips)
+TIKITAKA11: posts small blind $50.00
+FreeRakeback: posts big blind $100.00
+*** HOLE CARDS ***
+Sabazius: folds
+TIKITAKA11: raises $200.00 to $300.00
+FreeRakeback: folds
+Uncalled bet ($200.00) returned to TIKITAKA11
+TIKITAKA11 collected $200.00 from pot
+TIKITAKA11: doesn't show hand
+*** SUMMARY ***
+Total pot $200.00 | Rake $0.00
+Seat 2: TIKITAKA11 (small blind) collected ($200.00)
+Seat 7: FreeRakeback (big blind) folded before Flop
+Seat 9: Sabazius (button) folded before Flop (didn't bet)
+
+PokerStars Hand #1346257244:  Hold'em No Limit ($50.00/$100.00 USD) - 2022/08/20 02:14:38 ET
+Table 'WPN_7 Day No Rathole 50/100 NLH' 9-max Seat #2 is the button
+Seat 2: TIKITAKA11 ($23489.64 in chips)
+Seat 7: FreeRakeback ($5575.18 in chips)
+Seat 9: Sabazius ($2613.50 in chips)
+FreeRakeback: posts small blind $50.00
+Sabazius: posts big blind $100.00
+*** HOLE CARDS ***
+TIKITAKA11: raises $100.00 to $200.00
+FreeRakeback: raises $600.00 to $800.00
+Sabazius: folds
+TIKITAKA11: folds
+Uncalled bet ($600.00) returned to FreeRakeback
+FreeRakeback collected $500.00 from pot
+FreeRakeback: doesn't show hand
+*** SUMMARY ***
+Total pot $500.00 | Rake $0.00
+Seat 2: TIKITAKA11 (button) folded before Flop
+Seat 7: FreeRakeback (small blind) collected ($500.00)
+Seat 9: Sabazius (big blind) folded before Flop
+
+PokerStars Hand #1346257784:  Hold'em No Limit ($50.00/$100.00 USD) - 2022/08/20 02:15:03 ET
+Table 'WPN_7 Day No Rathole 50/100 NLH' 9-max Seat #7 is the button
+Seat 2: TIKITAKA11 ($23289.64 in chips)
+Seat 7: FreeRakeback ($5875.18 in chips)
+Seat 9: Sabazius ($2513.50 in chips)
+Sabazius: posts small blind $50.00
+TIKITAKA11: posts big blind $100.00
+*** HOLE CARDS ***
+FreeRakeback: raises $100.00 to $200.00
+Sabazius: folds
+TIKITAKA11: folds
+Uncalled bet ($100.00) returned to FreeRakeback
+FreeRakeback collected $250.00 from pot
+FreeRakeback: doesn't show hand
+*** SUMMARY ***
+Total pot $250.00 | Rake $0.00
+Seat 2: TIKITAKA11 (big blind) folded before Flop
+Seat 7: FreeRakeback (button) collected ($250.00)
+Seat 9: Sabazius (small blind) folded before Flop
+
+PokerStars Hand #1346252699:  Hold'em No Limit ($50.00/$100.00 USD) - 2022/08/20 02:11:07 ET
+Table 'WPN_7 Day No Rathole 50/100 NLH' 9-max Seat #2 is the button
+Seat 1: alanwatts15 ($850.00 in chips)
+Seat 2: TIKITAKA11 ($23489.64 in chips)
+Seat 7: FreeRakeback ($5425.18 in chips)
+Seat 8: notvrygud ($1147.00 in chips)
+Seat 9: Sabazius ($2715.00 in chips)
+FreeRakeback: posts small blind $50.00
+notvrygud: posts big blind $100.00
+*** HOLE CARDS ***
+Sabazius: folds
+alanwatts15: folds
+TIKITAKA11: folds
+FreeRakeback: raises $5325.18 to $5425.18 and is all-in
+notvrygud: folds
+Uncalled bet ($5325.18) returned to FreeRakeback
+FreeRakeback collected $200.00 from pot
+FreeRakeback: doesn't show hand
+*** SUMMARY ***
+Total pot $200.00 | Rake $0.00
+Seat 1: alanwatts15 folded before Flop (didn't bet)
+Seat 2: TIKITAKA11 (button) folded before Flop (didn't bet)
+Seat 7: FreeRakeback (small blind) collected ($200.00)
+Seat 8: notvrygud (big blind) folded before Flop
+Seat 9: Sabazius folded before Flop (didn't bet)
+
+PokerStars Hand #1346253304:  Hold'em No Limit ($50.00/$100.00 USD) - 2022/08/20 02:11:36 ET
+Table 'WPN_7 Day No Rathole 50/100 NLH' 9-max Seat #7 is the button
+Seat 1: alanwatts15 ($850.00 in chips)
+Seat 2: TIKITAKA11 ($23489.64 in chips)
+Seat 7: FreeRakeback ($5525.18 in chips)
+Seat 8: notvrygud ($1047.00 in chips)
+Seat 9: Sabazius ($2715.00 in chips)
+notvrygud: posts small blind $50.00
+Sabazius: posts big blind $100.00
+*** HOLE CARDS ***
+alanwatts15: folds
+TIKITAKA11: folds
+FreeRakeback: folds
+notvrygud: folds
+Uncalled bet ($50.00) returned to Sabazius
+Sabazius collected $100.00 from pot
+Sabazius: doesn't show hand
+*** SUMMARY ***
+Total pot $100.00 | Rake $0.00
+Seat 1: alanwatts15 folded before Flop (didn't bet)
+Seat 2: TIKITAKA11 folded before Flop (didn't bet)
+Seat 7: FreeRakeback (button) folded before Flop (didn't bet)
+Seat 8: notvrygud (small blind) folded before Flop
+Seat 9: Sabazius (big blind) collected ($100.00)
+
+PokerStars Hand #1346253586:  Hold'em No Limit ($50.00/$100.00 USD) - 2022/08/20 02:11:48 ET
+Table 'WPN_7 Day No Rathole 50/100 NLH' 9-max Seat #8 is the button
+Seat 1: alanwatts15 ($850.00 in chips)
+Seat 2: TIKITAKA11 ($23489.64 in chips)
+Seat 7: FreeRakeback ($5525.18 in chips)
+Seat 8: notvrygud ($997.00 in chips)
+Seat 9: Sabazius ($2765.00 in chips)
+Sabazius: posts small blind $50.00
+alanwatts15: posts big blind $100.00
+*** HOLE CARDS ***
+TIKITAKA11: folds
+FreeRakeback: raises $100.00 to $200.00
+notvrygud: folds
+Sabazius: folds
+alanwatts15: folds
+Uncalled bet ($100.00) returned to FreeRakeback
+FreeRakeback collected $250.00 from pot
+FreeRakeback: doesn't show hand
+*** SUMMARY ***
+Total pot $250.00 | Rake $0.00
+Seat 1: alanwatts15 (big blind) folded before Flop
+Seat 2: TIKITAKA11 folded before Flop (didn't bet)
+Seat 7: FreeRakeback collected ($250.00)
+Seat 8: notvrygud (button) folded before Flop (didn't bet)
+Seat 9: Sabazius (small blind) folded before Flop
+
+PokerStars Hand #1346254030:  Hold'em No Limit ($50.00/$100.00 USD) - 2022/08/20 02:12:08 ET
+Table 'WPN_7 Day No Rathole 50/100 NLH' 9-max Seat #9 is the button
+Seat 1: alanwatts15 ($750.00 in chips)
+Seat 2: TIKITAKA11 ($23489.64 in chips)
+Seat 7: FreeRakeback ($5675.18 in chips)
+Seat 8: notvrygud ($997.00 in chips)
+Seat 9: Sabazius ($2715.00 in chips)
+alanwatts15: posts small blind $50.00
+TIKITAKA11: posts big blind $100.00
+*** HOLE CARDS ***
+FreeRakeback: folds
+notvrygud: folds
+Sabazius: raises $120.00 to $220.00
+alanwatts15: raises $530.00 to $750.00 and is all-in
+TIKITAKA11: folds
+Sabazius: calls $530.00
+*** FIRST FLOP *** [8c 4s 2d]
+*** FIRST TURN *** [8c 4s 2d] [Kc]
+*** FIRST RIVER *** [8c 4s 2d Kc] [7d]
+*** SECOND FLOP *** [9h As 6h]
+*** SECOND TURN *** [9h As 6h] [Js]
+*** SECOND RIVER *** [9h As 6h Js] [Kh]
+*** FIRST SHOW DOWN ***
+alanwatts15: shows [7c 7h]
+Sabazius: shows [5s Ks]
+alanwatts15 collected $798.50 from pot
+*** SECOND SHOW DOWN ***
+alanwatts15: shows [7c 7h]
+Sabazius: shows [5s Ks]
+Sabazius collected $798.50 from pot
+*** SUMMARY ***
+Total pot $1600.00 | Rake $3.00
+Hand was run twice
+FIRST Board [8c 4s 2d Kc 7d]
+SECOND Board [9h As 6h Js Kh]
+Seat 1: alanwatts15 (small blind) showed [7c 7h] and won ($798.50), and lost
+Seat 2: TIKITAKA11 (big blind) folded before Flop
+Seat 7: FreeRakeback folded before Flop (didn't bet)
+Seat 8: notvrygud folded before Flop (didn't bet)
+Seat 9: Sabazius (button) showed [5s Ks] and lost, and won ($798.50)
+
+PokerStars Hand #1346255195:  Hold'em No Limit ($50.00/$100.00 USD) - 2022/08/20 02:13:02 ET
+Table 'WPN_7 Day No Rathole 50/100 NLH' 9-max Seat #1 is the button
+Seat 1: alanwatts15 ($798.50 in chips)
+Seat 2: TIKITAKA11 ($23389.64 in chips)
+Seat 7: FreeRakeback ($5675.18 in chips)
+Seat 8: notvrygud ($997.00 in chips)
+Seat 9: Sabazius ($2763.50 in chips)
+TIKITAKA11: posts small blind $50.00
+FreeRakeback: posts big blind $100.00
+*** HOLE CARDS ***
+notvrygud: folds
+Sabazius: folds
+alanwatts15: folds
+TIKITAKA11: folds
+Uncalled bet ($50.00) returned to FreeRakeback
+FreeRakeback collected $100.00 from pot
+FreeRakeback: doesn't show hand
+*** SUMMARY ***
+Total pot $100.00 | Rake $0.00
+Seat 1: alanwatts15 (button) folded before Flop (didn't bet)
+Seat 2: TIKITAKA11 (small blind) folded before Flop
+Seat 7: FreeRakeback (big blind) collected ($100.00)
+Seat 8: notvrygud folded before Flop (didn't bet)
+Seat 9: Sabazius folded before Flop (didn't bet)
+
+PokerStars Hand #1346255615:  Hold'em No Limit ($50.00/$100.00 USD) - 2022/08/20 02:13:21 ET
+Table 'WPN_7 Day No Rathole 50/100 NLH' 9-max Seat #2 is the button
+Seat 1: alanwatts15 ($798.50 in chips)
+Seat 2: TIKITAKA11 ($23339.64 in chips)
+Seat 7: FreeRakeback ($5725.18 in chips)
+Seat 8: notvrygud ($997.00 in chips)
+Seat 9: Sabazius ($2763.50 in chips)
+FreeRakeback: posts small blind $50.00
+Sabazius: posts big blind $100.00
+*** HOLE CARDS ***
+alanwatts15: raises $698.50 to $798.50 and is all-in
+TIKITAKA11: folds
+FreeRakeback: folds
+Sabazius: folds
+Uncalled bet ($698.50) returned to alanwatts15
+alanwatts15 collected $250.00 from pot
+alanwatts15: doesn't show hand
+*** SUMMARY ***
+Total pot $250.00 | Rake $0.00
+Seat 1: alanwatts15 collected ($250.00)
+Seat 2: TIKITAKA11 (button) folded before Flop (didn't bet)
+Seat 7: FreeRakeback (small blind) folded before Flop
+Seat 9: Sabazius (big blind) folded before Flop
+
+PokerStars Hand #1346256435:  Hold'em No Limit ($50.00/$100.00 USD) - 2022/08/20 02:14:00 ET
+Table 'WPN_7 Day No Rathole 50/100 NLH' 9-max Seat #7 is the button
+Seat 1: alanwatts15 ($948.50 in chips)
+Seat 2: TIKITAKA11 ($23339.64 in chips)
+Seat 7: FreeRakeback ($5675.18 in chips)
+Seat 9: Sabazius ($2663.50 in chips)
+Sabazius: posts small blind $50.00
+TIKITAKA11: posts big blind $100.00
+*** HOLE CARDS ***
+FreeRakeback: folds
+Sabazius: folds
+Uncalled bet ($50.00) returned to TIKITAKA11
+TIKITAKA11 collected $100.00 from pot
+TIKITAKA11: doesn't show hand
+*** SUMMARY ***
+Total pot $100.00 | Rake $0.00
+Seat 2: TIKITAKA11 (big blind) collected ($100.00)
+Seat 7: FreeRakeback (button) folded before Flop (didn't bet)
+Seat 9: Sabazius (small blind) folded before Flop
+
+PokerStars Hand #1346251558:  Hold'em No Limit ($50.00/$100.00 USD) - 2022/08/20 02:10:14 ET
+Table 'WPN_7 Day No Rathole 50/100 NLH' 9-max Seat #1 is the button
+Seat 1: alanwatts15 ($850.00 in chips)
+Seat 2: TIKITAKA11 ($23539.64 in chips)
+Seat 7: FreeRakeback ($5525.18 in chips)
+Seat 8: notvrygud ($1000.00 in chips)
+Seat 9: Sabazius ($2715.00 in chips)
+TIKITAKA11: posts small blind $50.00
+FreeRakeback: posts big blind $100.00
+*** HOLE CARDS ***
+notvrygud: calls $100.00
+Sabazius: folds
+alanwatts15: folds
+TIKITAKA11: folds
+FreeRakeback: checks
+*** FLOP *** [7c 2s Ah]
+FreeRakeback: checks
+notvrygud: bets $100.00
+FreeRakeback: folds
+Uncalled bet ($100.00) returned to notvrygud
+notvrygud collected $247.00 from pot
+notvrygud: doesn't show hand
+*** SUMMARY ***
+Total pot $250.00 | Rake $3.00
+Board [7c 2s Ah]
+Seat 1: alanwatts15 (button) folded before Flop (didn't bet)
+Seat 2: TIKITAKA11 (small blind) folded before Flop
+Seat 7: FreeRakeback (big blind) folded on the Flop
+Seat 8: notvrygud collected ($247.00)
+Seat 9: Sabazius folded before Flop (didn't bet)
+
+PokerStars Hand #1346244311:  Hold'em No Limit ($50.00/$100.00 USD) - 2022/08/20 02:04:46 ET
+Table 'WPN_7 Day No Rathole 50/100 NLH' 9-max Seat #2 is the button
+Seat 2: TIKITAKA11 ($23256.14 in chips)
+Seat 7: FreeRakeback ($4478.18 in chips)
+Seat 8: notvrygud ($1497.00 in chips)
+Seat 9: Sabazius ($2318.50 in chips)
+FreeRakeback: posts small blind $50.00
+Sabazius: posts big blind $100.00
+*** HOLE CARDS ***
+TIKITAKA11: folds
+FreeRakeback: calls $50.00
+Sabazius: checks
+*** FLOP *** [Qc Ac 9h]
+FreeRakeback: checks
+Sabazius: checks
+*** TURN *** [Qc Ac 9h] [6s]
+FreeRakeback: checks
+Sabazius: checks
+*** RIVER *** [Qc Ac 9h 6s] [9s]
+FreeRakeback: checks
+Sabazius: bets $100.00
+FreeRakeback: folds
+Uncalled bet ($100.00) returned to Sabazius
+Sabazius collected $198.25 from pot
+Sabazius: doesn't show hand
+*** SUMMARY ***
+Total pot $200.00 | Rake $1.75
+Board [Qc Ac 9h 6s 9s]
+Seat 2: TIKITAKA11 (button) folded before Flop (didn't bet)
+Seat 7: FreeRakeback (small blind) folded on the River
+Seat 9: Sabazius (big blind) collected ($198.25)
+
+PokerStars Hand #1346245825:  Hold'em No Limit ($50.00/$100.00 USD) - 2022/08/20 02:05:54 ET
+Table 'WPN_7 Day No Rathole 50/100 NLH' 9-max Seat #7 is the button
+Seat 2: TIKITAKA11 ($23256.14 in chips)
+Seat 7: FreeRakeback ($4378.18 in chips)
+Seat 9: Sabazius ($2416.75 in chips)
+Sabazius: posts small blind $50.00
+TIKITAKA11: posts big blind $100.00
+*** HOLE CARDS ***
+FreeRakeback: folds
+Sabazius: raises $200.00 to $300.00
+TIKITAKA11: calls $200.00
+*** FLOP *** [5d Ac 6d]
+Sabazius: bets $300.00
+TIKITAKA11: folds
+Uncalled bet ($300.00) returned to Sabazius
+Sabazius collected $598.25 from pot
+Sabazius: doesn't show hand
+*** SUMMARY ***
+Total pot $600.00 | Rake $1.75
+Board [5d Ac 6d]
+Seat 2: TIKITAKA11 (big blind) folded on the Flop
+Seat 7: FreeRakeback (button) folded before Flop (didn't bet)
+Seat 9: Sabazius (small blind) collected ($598.25)
+
+PokerStars Hand #1346246654:  Hold'em No Limit ($50.00/$100.00 USD) - 2022/08/20 02:06:32 ET
+Table 'WPN_7 Day No Rathole 50/100 NLH' 9-max Seat #9 is the button
+Seat 2: TIKITAKA11 ($22956.14 in chips)
+Seat 7: FreeRakeback ($4378.18 in chips)
+Seat 9: Sabazius ($2715.00 in chips)
+TIKITAKA11: posts small blind $50.00
+FreeRakeback: posts big blind $100.00
+*** HOLE CARDS ***
+Sabazius: folds
+TIKITAKA11: calls $50.00
+FreeRakeback: checks
+*** FLOP *** [As 9c Tc]
+TIKITAKA11: bets $100.00
+FreeRakeback: folds
+Uncalled bet ($100.00) returned to TIKITAKA11
+TIKITAKA11 collected $198.25 from pot
+TIKITAKA11: doesn't show hand
+*** SUMMARY ***
+Total pot $200.00 | Rake $1.75
+Board [As 9c Tc]
+Seat 2: TIKITAKA11 (small blind) collected ($198.25)
+Seat 7: FreeRakeback (big blind) folded on the Flop
+Seat 9: Sabazius (button) folded before Flop (didn't bet)
+
+PokerStars Hand #1346247325:  Hold'em No Limit ($50.00/$100.00 USD) - 2022/08/20 02:07:02 ET
+Table 'WPN_7 Day No Rathole 50/100 NLH' 9-max Seat #2 is the button
+Seat 1: alanwatts15 ($1000.00 in chips)
+Seat 2: TIKITAKA11 ($23054.39 in chips)
+Seat 7: FreeRakeback ($4278.18 in chips)
+Seat 8: notvrygud ($1497.00 in chips)
+Seat 9: Sabazius ($2715.00 in chips)
+FreeRakeback: posts small blind $50.00
+notvrygud: posts big blind $100.00
+*** HOLE CARDS ***
+Sabazius: folds
+TIKITAKA11: raises $100.00 to $200.00
+FreeRakeback: folds
+notvrygud: calls $100.00
+*** FLOP *** [Jc 7c 4h]
+notvrygud: checks
+TIKITAKA11: checks
+*** TURN *** [Jc 7c 4h] [9h]
+notvrygud: bets $337.50
+TIKITAKA11: calls $337.50
+*** RIVER *** [Jc 7c 4h 9h] [Ks]
+notvrygud: checks
+TIKITAKA11: bets $1000.00
+notvrygud: folds
+Uncalled bet ($1000.00) returned to TIKITAKA11
+TIKITAKA11 collected $1122.75 from pot
+TIKITAKA11: doesn't show hand
+*** SUMMARY ***
+Total pot $1125.00 | Rake $2.25
+Board [Jc 7c 4h 9h Ks]
+Seat 2: TIKITAKA11 (button) collected ($1122.75)
+Seat 7: FreeRakeback (small blind) folded before Flop
+Seat 8: notvrygud (big blind) folded on the River
+Seat 9: Sabazius folded before Flop (didn't bet)
+
+PokerStars Hand #1346249386:  Hold'em No Limit ($50.00/$100.00 USD) - 2022/08/20 02:08:37 ET
+Table 'WPN_7 Day No Rathole 50/100 NLH' 9-max Seat #7 is the button
+Seat 1: alanwatts15 ($1000.00 in chips)
+Seat 2: TIKITAKA11 ($23639.64 in chips)
+Seat 7: FreeRakeback ($4228.18 in chips)
+Seat 8: notvrygud ($959.50 in chips)
+Seat 9: Sabazius ($2715.00 in chips)
+notvrygud: posts small blind $50.00
+Sabazius: posts big blind $100.00
+*** HOLE CARDS ***
+TIKITAKA11: folds
+FreeRakeback: folds
+notvrygud: folds
+Uncalled bet ($50.00) returned to Sabazius
+Sabazius collected $100.00 from pot
+Sabazius: doesn't show hand
+*** SUMMARY ***
+Total pot $100.00 | Rake $0.00
+Seat 2: TIKITAKA11 folded before Flop (didn't bet)
+Seat 7: FreeRakeback (button) folded before Flop (didn't bet)
+Seat 8: notvrygud (small blind) folded before Flop
+Seat 9: Sabazius (big blind) collected ($100.00)
+
+PokerStars Hand #1346249917:  Hold'em No Limit ($50.00/$100.00 USD) - 2022/08/20 02:09:02 ET
+Table 'WPN_7 Day No Rathole 50/100 NLH' 9-max Seat #8 is the button
+Seat 1: alanwatts15 ($1000.00 in chips)
+Seat 2: TIKITAKA11 ($23639.64 in chips)
+Seat 7: FreeRakeback ($4228.18 in chips)
+Seat 8: notvrygud ($950.00 in chips)
+Seat 9: Sabazius ($2765.00 in chips)
+Sabazius: posts small blind $50.00
+alanwatts15: posts big blind $100.00
+*** HOLE CARDS ***
+TIKITAKA11: folds
+FreeRakeback: folds
+notvrygud: raises $900.00 to $1000.00 and is all-in
+Sabazius: folds
+alanwatts15: folds
+Uncalled bet ($900.00) returned to notvrygud
+notvrygud collected $250.00 from pot
+notvrygud: doesn't show hand
+*** SUMMARY ***
+Total pot $250.00 | Rake $0.00
+Seat 1: alanwatts15 (big blind) folded before Flop
+Seat 2: TIKITAKA11 folded before Flop (didn't bet)
+Seat 7: FreeRakeback folded before Flop (didn't bet)
+Seat 8: notvrygud (button) collected ($250.00)
+Seat 9: Sabazius (small blind) folded before Flop
+
+PokerStars Hand #1346250547:  Hold'em No Limit ($50.00/$100.00 USD) - 2022/08/20 02:09:30 ET
+Table 'WPN_7 Day No Rathole 50/100 NLH' 9-max Seat #9 is the button
+Seat 1: alanwatts15 ($900.00 in chips)
+Seat 2: TIKITAKA11 ($23639.64 in chips)
+Seat 7: FreeRakeback ($4228.18 in chips)
+Seat 8: notvrygud ($1150.00 in chips)
+Seat 9: Sabazius ($2715.00 in chips)
+alanwatts15: posts small blind $50.00
+TIKITAKA11: posts big blind $100.00
+*** HOLE CARDS ***
+FreeRakeback: raises $100.00 to $200.00
+notvrygud: raises $950.00 to $1150.00 and is all-in
+Sabazius: folds
+alanwatts15: folds
+TIKITAKA11: folds
+FreeRakeback: calls $950.00
+*** FLOP *** [4h Kd Jd]
+*** TURN *** [4h Kd Jd] [8d]
+*** RIVER *** [4h Kd Jd 8d] [5s]
+*** SHOW DOWN ***
+FreeRakeback: shows [9s 9c]
+notvrygud: shows [3h Ah]
+FreeRakeback collected $2447.00 from pot
+*** SUMMARY ***
+Total pot $2450.00 | Rake $3.00
+Board [4h Kd Jd 8d 5s]
+Seat 1: alanwatts15 (small blind) folded before Flop
+Seat 2: TIKITAKA11 (big blind) folded before Flop
+Seat 7: FreeRakeback showed [9s 9c] and won ($2447.00)
+Seat 8: notvrygud showed [3h Ah] and lost
+Seat 9: Sabazius (button) folded before Flop (didn't bet)
+
+PokerStars Hand #1346241895:  Hold'em No Limit ($50.00/$100.00 USD) - 2022/08/20 02:02:57 ET
+Table 'WPN_7 Day No Rathole 50/100 NLH' 9-max Seat #8 is the button
+Seat 2: TIKITAKA11 ($21885.29 in chips)
+Seat 7: FreeRakeback ($5951.28 in chips)
+Seat 8: notvrygud ($1347.00 in chips)
+Seat 9: Sabazius ($2368.50 in chips)
+Sabazius: posts small blind $50.00
+TIKITAKA11: posts big blind $100.00
+*** HOLE CARDS ***
+FreeRakeback: raises $100.00 to $200.00
+notvrygud: folds
+Sabazius: folds
+TIKITAKA11: calls $100.00
+*** FLOP *** [2s 9d Kd]
+TIKITAKA11: checks
+FreeRakeback: bets $125.37
+TIKITAKA11: calls $125.37
+*** TURN *** [2s 9d Kd] [2c]
+TIKITAKA11: checks
+FreeRakeback: bets $1047.73
+TIKITAKA11: calls $1047.73
+*** RIVER *** [2s 9d Kd 2c] [8h]
+TIKITAKA11: checks
+FreeRakeback: checks
+*** SHOW DOWN ***
+TIKITAKA11: shows [7d Kc]
+FreeRakeback: mucks hand
+TIKITAKA11 collected $2793.95 from pot
+*** SUMMARY ***
+Total pot $2796.20 | Rake $2.25
+Board [2s 9d Kd 2c 8h]
+Seat 2: TIKITAKA11 (big blind) showed [7d Kc] and won ($2793.95)
+Seat 7: FreeRakeback mucked
+Seat 8: notvrygud (button) folded before Flop (didn't bet)
+Seat 9: Sabazius (small blind) folded before Flop
+
+PokerStars Hand #1346238951:  Hold'em No Limit ($50.00/$100.00 USD) - 2022/08/20 02:00:22 ET
+Table 'WPN_7 Day No Rathole 50/100 NLH' 9-max Seat #7 is the button
+Seat 2: TIKITAKA11 ($21885.29 in chips)
+Seat 7: FreeRakeback ($6001.28 in chips)
+Seat 8: notvrygud ($1198.75 in chips)
+FreeRakeback: posts small blind $50.00
+notvrygud: posts big blind $100.00
+*** HOLE CARDS ***
+FreeRakeback: raises $5901.28 to $6001.28 and is all-in
+notvrygud: folds
+Uncalled bet ($5901.28) returned to FreeRakeback
+FreeRakeback collected $200.00 from pot
+FreeRakeback: doesn't show hand
+*** SUMMARY ***
+Total pot $200.00 | Rake $0.00
+Seat 7: FreeRakeback (button) (small blind) collected ($200.00)
+Seat 8: notvrygud (big blind) folded before Flop
+
+PokerStars Hand #1346239239:  Hold'em No Limit ($50.00/$100.00 USD) - 2022/08/20 02:00:41 ET
+Table 'WPN_7 Day No Rathole 50/100 NLH' 9-max Seat #7 is the button
+Seat 2: TIKITAKA11 ($21885.29 in chips)
+Seat 7: FreeRakeback ($6101.28 in chips)
+Seat 8: notvrygud ($1098.75 in chips)
+notvrygud: posts small blind $50.00
+TIKITAKA11: posts big blind $100.00
+*** HOLE CARDS ***
+FreeRakeback: folds
+notvrygud: folds
+Uncalled bet ($50.00) returned to TIKITAKA11
+TIKITAKA11 collected $100.00 from pot
+TIKITAKA11: doesn't show hand
+*** SUMMARY ***
+Total pot $100.00 | Rake $0.00
+Seat 2: TIKITAKA11 (big blind) collected ($100.00)
+Seat 7: FreeRakeback (button) folded before Flop (didn't bet)
+Seat 8: notvrygud (small blind) folded before Flop
+
+PokerStars Hand #1346239469:  Hold'em No Limit ($50.00/$100.00 USD) - 2022/08/20 02:00:56 ET
+Table 'WPN_7 Day No Rathole 50/100 NLH' 9-max Seat #8 is the button
+Seat 2: TIKITAKA11 ($21935.29 in chips)
+Seat 7: FreeRakeback ($6101.28 in chips)
+Seat 8: notvrygud ($1048.75 in chips)
+TIKITAKA11: posts small blind $50.00
+FreeRakeback: posts big blind $100.00
+*** HOLE CARDS ***
+notvrygud: calls $100.00
+TIKITAKA11: calls $50.00
+FreeRakeback: checks
+*** FLOP *** [8s Ah 6h]
+TIKITAKA11: checks
+FreeRakeback: checks
+notvrygud: checks
+*** TURN *** [8s Ah 6h] [6s]
+TIKITAKA11: bets $100.00
+FreeRakeback: folds
+notvrygud: raises $150.00 to $250.00
+TIKITAKA11: folds
+Uncalled bet ($150.00) returned to notvrygud
+notvrygud collected $498.25 from pot
+notvrygud: doesn't show hand
+*** SUMMARY ***
+Total pot $500.00 | Rake $1.75
+Board [8s Ah 6h 6s]
+Seat 2: TIKITAKA11 (small blind) folded on the Turn
+Seat 7: FreeRakeback (big blind) folded on the Turn
+Seat 8: notvrygud (button) collected ($498.25)
+
+PokerStars Hand #1346240928:  Hold'em No Limit ($50.00/$100.00 USD) - 2022/08/20 02:02:09 ET
+Table 'WPN_7 Day No Rathole 50/100 NLH' 9-max Seat #2 is the button
+Seat 2: TIKITAKA11 ($21735.29 in chips)
+Seat 7: FreeRakeback ($6001.28 in chips)
+Seat 8: notvrygud ($1347.00 in chips)
+FreeRakeback: posts small blind $50.00
+notvrygud: posts big blind $100.00
+*** HOLE CARDS ***
+TIKITAKA11: folds
+FreeRakeback: folds
+Uncalled bet ($50.00) returned to notvrygud
+notvrygud collected $100.00 from pot
+notvrygud: doesn't show hand
+*** SUMMARY ***
+Total pot $100.00 | Rake $0.00
+Seat 2: TIKITAKA11 (button) folded before Flop (didn't bet)
+Seat 7: FreeRakeback (small blind) folded before Flop
+Seat 8: notvrygud (big blind) collected ($100.00)
+
+PokerStars Hand #1346241256:  Hold'em No Limit ($50.00/$100.00 USD) - 2022/08/20 02:02:25 ET
+Table 'WPN_7 Day No Rathole 50/100 NLH' 9-max Seat #7 is the button
+Seat 2: TIKITAKA11 ($21735.29 in chips)
+Seat 7: FreeRakeback ($5951.28 in chips)
+Seat 8: notvrygud ($1397.00 in chips)
+Seat 9: Sabazius ($2468.50 in chips)
+notvrygud: posts small blind $50.00
+Sabazius: posts big blind $100.00
+*** HOLE CARDS ***
+TIKITAKA11: raises $100.00 to $200.00
+FreeRakeback: folds
+notvrygud: folds
+Sabazius: folds
+Uncalled bet ($100.00) returned to TIKITAKA11
+TIKITAKA11 collected $250.00 from pot
+TIKITAKA11: doesn't show hand
+*** SUMMARY ***
+Total pot $250.00 | Rake $0.00
+Seat 2: TIKITAKA11 collected ($250.00)
+Seat 7: FreeRakeback (button) folded before Flop (didn't bet)
+Seat 8: notvrygud (small blind) folded before Flop
+Seat 9: Sabazius (big blind) folded before Flop
+
+PokerStars Hand #1346237944:  Hold'em No Limit ($50.00/$100.00 USD) - 2022/08/20 01:58:47 ET
+Table 'WPN_7 Day No Rathole 50/100 NLH' 9-max Seat #9 is the button
+Seat 2: TIKITAKA11 ($21565.29 in chips)
+Seat 7: FreeRakeback ($6201.28 in chips)
+Seat 8: notvrygud ($1000.00 in chips)
+Seat 9: Sabazius ($2688.50 in chips)
+TIKITAKA11: posts small blind $50.00
+notvrygud: posts big blind $100.00
+*** HOLE CARDS ***
+Sabazius: raises $120.00 to $220.00
+TIKITAKA11: raises $420.00 to $640.00
+notvrygud: folds
+Sabazius: folds
+Uncalled bet ($420.00) returned to TIKITAKA11
+TIKITAKA11 collected $540.00 from pot
+TIKITAKA11: doesn't show hand
+*** SUMMARY ***
+Total pot $540.00 | Rake $0.00
+Seat 2: TIKITAKA11 (small blind) collected ($540.00)
+Seat 8: notvrygud (big blind) folded before Flop
+Seat 9: Sabazius (button) folded before Flop
+
+PokerStars Hand #1346236199:  Hold'em No Limit ($50.00/$100.00 USD) - 2022/08/20 01:56:00 ET
+Table 'WPN_7 Day No Rathole 50/100 NLH' 9-max Seat #2 is the button
+Seat 2: TIKITAKA11 ($19994.44 in chips)
+Seat 7: FreeRakeback ($7574.38 in chips)
+TIKITAKA11: posts small blind $50.00
+FreeRakeback: posts big blind $100.00
+*** HOLE CARDS ***
+TIKITAKA11: raises $150.00 to $250.00
+FreeRakeback: folds
+Uncalled bet ($150.00) returned to TIKITAKA11
+TIKITAKA11 collected $200.00 from pot
+TIKITAKA11: doesn't show hand
+*** SUMMARY ***
+Total pot $200.00 | Rake $0.00
+Seat 2: TIKITAKA11 (button) (small blind) collected ($200.00)
+Seat 7: FreeRakeback (big blind) folded before Flop
+
+PokerStars Hand #1346236737:  Hold'em No Limit ($50.00/$100.00 USD) - 2022/08/20 01:56:54 ET
+Table 'WPN_7 Day No Rathole 50/100 NLH' 9-max Seat #2 is the button
+Seat 2: TIKITAKA11 ($20144.44 in chips)
+Seat 7: FreeRakeback ($7474.38 in chips)
+Seat 8: notvrygud ($1000.00 in chips)
+Seat 9: Sabazius ($2838.50 in chips)
+FreeRakeback: posts small blind $50.00
+notvrygud: posts big blind $100.00
+*** HOLE CARDS ***
+TIKITAKA11: folds
+FreeRakeback: folds
+Uncalled bet ($50.00) returned to notvrygud
+notvrygud collected $100.00 from pot
+notvrygud: doesn't show hand
+*** SUMMARY ***
+Total pot $100.00 | Rake $0.00
+Seat 2: TIKITAKA11 (button) folded before Flop (didn't bet)
+Seat 7: FreeRakeback (small blind) folded before Flop
+Seat 8: notvrygud (big blind) collected ($100.00)
+
+PokerStars Hand #1346236911:  Hold'em No Limit ($50.00/$100.00 USD) - 2022/08/20 01:57:08 ET
+Table 'WPN_7 Day No Rathole 50/100 NLH' 9-max Seat #7 is the button
+Seat 2: TIKITAKA11 ($20144.44 in chips)
+Seat 7: FreeRakeback ($7424.38 in chips)
+Seat 8: notvrygud ($1050.00 in chips)
+Seat 9: Sabazius ($2838.50 in chips)
+notvrygud: posts small blind $50.00
+Sabazius: posts big blind $100.00
+*** HOLE CARDS ***
+TIKITAKA11: folds
+FreeRakeback: raises $100.00 to $200.00
+notvrygud: folds
+Sabazius: folds
+Uncalled bet ($100.00) returned to FreeRakeback
+FreeRakeback collected $250.00 from pot
+FreeRakeback: doesn't show hand
+*** SUMMARY ***
+Total pot $250.00 | Rake $0.00
+Seat 2: TIKITAKA11 folded before Flop (didn't bet)
+Seat 7: FreeRakeback (button) collected ($250.00)
+Seat 8: notvrygud (small blind) folded before Flop
+Seat 9: Sabazius (big blind) folded before Flop
+
+PokerStars Hand #1346237062:  Hold'em No Limit ($50.00/$100.00 USD) - 2022/08/20 01:57:22 ET
+Table 'WPN_7 Day No Rathole 50/100 NLH' 9-max Seat #8 is the button
+Seat 2: TIKITAKA11 ($20144.44 in chips)
+Seat 7: FreeRakeback ($7574.38 in chips)
+Seat 8: notvrygud ($1000.00 in chips)
+Seat 9: Sabazius ($2738.50 in chips)
+Sabazius: posts small blind $50.00
+TIKITAKA11: posts big blind $100.00
+*** HOLE CARDS ***
+FreeRakeback: raises $100.00 to $200.00
+notvrygud: folds
+Sabazius: folds
+TIKITAKA11: calls $100.00
+*** FLOP *** [4s Kh Jd]
+TIKITAKA11: checks
+FreeRakeback: bets $125.37
+TIKITAKA11: calls $125.37
+*** TURN *** [4s Kh Jd] [7d]
+TIKITAKA11: checks
+FreeRakeback: bets $1047.73
+TIKITAKA11: raises $1398.10 to $2445.83
+FreeRakeback: folds
+Uncalled bet ($1398.10) returned to TIKITAKA11
+TIKITAKA11 collected $2793.95 from pot
+TIKITAKA11: doesn't show hand
+*** SUMMARY ***
+Total pot $2796.20 | Rake $2.25
+Board [4s Kh Jd 7d]
+Seat 2: TIKITAKA11 (big blind) collected ($2793.95)
+Seat 7: FreeRakeback folded on the Turn
+Seat 8: notvrygud (button) folded before Flop (didn't bet)
+Seat 9: Sabazius (small blind) folded before Flop
+
+PokerStars Hand #1346193002:  Hold'em No Limit ($50.00/$100.00 USD) - 2022/08/20 01:21:51 ET
+Table 'WPN_7 Day No Rathole 50/100 NLH' 9-max Seat #2 is the button
+Seat 2: TIKITAKA11 ($20044.44 in chips)
+Seat 3: ninesevenoff ($20276.08 in chips)
+TIKITAKA11: posts small blind $50.00
+ninesevenoff: posts big blind $100.00
+*** HOLE CARDS ***
+TIKITAKA11: raises $150.00 to $250.00
+ninesevenoff: folds
+Uncalled bet ($150.00) returned to TIKITAKA11
+TIKITAKA11 collected $200.00 from pot
+TIKITAKA11: doesn't show hand
+*** SUMMARY ***
+Total pot $200.00 | Rake $0.00
+Seat 2: TIKITAKA11 (button) (small blind) collected ($200.00)
+Seat 3: ninesevenoff (big blind) folded before Flop
+
+PokerStars Hand #1346193254:  Hold'em No Limit ($50.00/$100.00 USD) - 2022/08/20 01:22:04 ET
+Table 'WPN_7 Day No Rathole 50/100 NLH' 9-max Seat #3 is the button
+Seat 2: TIKITAKA11 ($20144.44 in chips)
+Seat 3: ninesevenoff ($20176.08 in chips)
+ninesevenoff: posts small blind $50.00
+TIKITAKA11: posts big blind $100.00
+*** HOLE CARDS ***
+ninesevenoff: raises $150.00 to $250.00
+TIKITAKA11: folds
+Uncalled bet ($150.00) returned to ninesevenoff
+ninesevenoff collected $200.00 from pot
+ninesevenoff: doesn't show hand
+*** SUMMARY ***
+Total pot $200.00 | Rake $0.00
+Seat 2: TIKITAKA11 (big blind) folded before Flop
+Seat 3: ninesevenoff (button) (small blind) collected ($200.00)
+
+PokerStars Hand #1346124971:  Hold'em No Limit ($50.00/$100.00 USD) - 2022/08/20 00:24:59 ET
+Table 'WPN_7 Day No Rathole 50/100 NLH' 9-max Seat #1 is the button
+Seat 1: dramamaker ($1048.75 in chips)
+Seat 2: FreeRakeback ($7624.38 in chips)
+Seat 3: Sabazius ($1947.00 in chips)
+FreeRakeback: posts small blind $50.00
+Sabazius: posts big blind $100.00
+*** HOLE CARDS ***
+dramamaker: folds
+FreeRakeback: folds
+Uncalled bet ($50.00) returned to Sabazius
+Sabazius collected $100.00 from pot
+Sabazius: doesn't show hand
+*** SUMMARY ***
+Total pot $100.00 | Rake $0.00
+Seat 1: dramamaker (button) folded before Flop (didn't bet)
+Seat 2: FreeRakeback (small blind) folded before Flop
+Seat 3: Sabazius (big blind) collected ($100.00)
+
+PokerStars Hand #1346125362:  Hold'em No Limit ($50.00/$100.00 USD) - 2022/08/20 00:25:19 ET
+Table 'WPN_7 Day No Rathole 50/100 NLH' 9-max Seat #2 is the button
+Seat 1: dramamaker ($1048.75 in chips)
+Seat 2: FreeRakeback ($7574.38 in chips)
+Seat 3: Sabazius ($1997.00 in chips)
+Seat 4: Meek Bill ($146867.77 in chips)
+Sabazius: posts small blind $50.00
+Meek Bill: posts big blind $100.00
+*** HOLE CARDS ***
+dramamaker: folds
+FreeRakeback: folds
+Sabazius: raises $150.00 to $250.00
+Meek Bill: calls $150.00
+*** FLOP *** [7c 3c Js]
+Sabazius: bets $125.00
+Meek Bill: calls $125.00
+*** TURN *** [7c 3c Js] [Qc]
+Sabazius: bets $187.50
+Meek Bill: calls $187.50
+*** RIVER *** [7c 3c Js Qc] [Qs]
+Sabazius: bets $281.25
+Meek Bill: calls $281.25
+*** SHOW DOWN ***
+Sabazius: shows [Jc 6c]
+Meek Bill: mucks hand
+Sabazius collected $1685.25 from pot
+*** SUMMARY ***
+Total pot $1687.50 | Rake $2.25
+Board [7c 3c Js Qc Qs]
+Seat 1: dramamaker folded before Flop (didn't bet)
+Seat 2: FreeRakeback (button) folded before Flop (didn't bet)
+Seat 3: Sabazius (small blind) showed [Jc 6c] and won ($1685.25)
+Seat 4: Meek Bill (big blind) mucked
+
+PokerStars Hand #1346124159:  Hold'em No Limit ($50.00/$100.00 USD) - 2022/08/20 00:24:20 ET
+Table 'WPN_7 Day No Rathole 50/100 NLH' 9-max Seat #2 is the button
+Seat 1: dramamaker ($1000.00 in chips)
+Seat 2: FreeRakeback ($7674.38 in chips)
+FreeRakeback: posts small blind $50.00
+dramamaker: posts big blind $100.00
+*** HOLE CARDS ***
+FreeRakeback: calls $50.00
+dramamaker: checks
+*** FLOP *** [7c 9d 9s]
+dramamaker: checks
+FreeRakeback: checks
+*** TURN *** [7c 9d 9s] [4s]
+dramamaker: bets $100.00
+FreeRakeback: folds
+Uncalled bet ($100.00) returned to dramamaker
+dramamaker collected $198.75 from pot
+dramamaker: doesn't show hand
+*** SUMMARY ***
+Total pot $200.00 | Rake $1.25
+Board [7c 9d 9s 4s]
+Seat 1: dramamaker (big blind) collected ($198.75)
+Seat 2: FreeRakeback (button) (small blind) folded on the Turn
+
+PokerStars Hand #1346124810:  Hold'em No Limit ($50.00/$100.00 USD) - 2022/08/20 00:24:52 ET
+Table 'WPN_7 Day No Rathole 50/100 NLH' 9-max Seat #1 is the button
+Seat 1: dramamaker ($1098.75 in chips)
+Seat 2: FreeRakeback ($7574.38 in chips)
+Seat 3: Sabazius ($1947.00 in chips)
+dramamaker: posts small blind $50.00
+FreeRakeback: posts big blind $100.00
+*** HOLE CARDS ***
+dramamaker: folds
+Uncalled bet ($50.00) returned to FreeRakeback
+FreeRakeback collected $100.00 from pot
+FreeRakeback: doesn't show hand
+*** SUMMARY ***
+Total pot $100.00 | Rake $0.00
+Seat 1: dramamaker (button) (small blind) folded before Flop
+Seat 2: FreeRakeback (big blind) collected ($100.00)
+
+PokerStars Hand #1345900557:  Hold'em No Limit ($50.00/$100.00 USD) - 2022/08/19 21:18:21 ET
+Table 'WPN_7 Day No Rathole 50/100 NLH' 9-max Seat #7 is the button
+Seat 1: ghahreman ($1000.00 in chips)
+Seat 7: moneybyebye ($41658.83 in chips)
+moneybyebye: posts small blind $50.00
+ghahreman: posts big blind $100.00
+*** HOLE CARDS ***
+moneybyebye: raises $1150.00 to $1250.00
+ghahreman: folds
+Uncalled bet ($1150.00) returned to moneybyebye
+moneybyebye collected $200.00 from pot
+moneybyebye: doesn't show hand
+*** SUMMARY ***
+Total pot $200.00 | Rake $0.00
+Seat 1: ghahreman (big blind) folded before Flop
+Seat 7: moneybyebye (button) (small blind) collected ($200.00)
+
+PokerStars Hand #1345900826:  Hold'em No Limit ($50.00/$100.00 USD) - 2022/08/19 21:18:34 ET
+Table 'WPN_7 Day No Rathole 50/100 NLH' 9-max Seat #1 is the button
+Seat 1: ghahreman ($900.00 in chips)
+Seat 7: moneybyebye ($41758.83 in chips)
+ghahreman: posts small blind $50.00
+moneybyebye: posts big blind $100.00
+*** HOLE CARDS ***
+ghahreman: folds
+Uncalled bet ($50.00) returned to moneybyebye
+moneybyebye collected $100.00 from pot
+moneybyebye: doesn't show hand
+*** SUMMARY ***
+Total pot $100.00 | Rake $0.00
+Seat 1: ghahreman (button) (small blind) folded before Flop
+Seat 7: moneybyebye (big blind) collected ($100.00)
+
+PokerStars Hand #1345901008:  Hold'em No Limit ($50.00/$100.00 USD) - 2022/08/19 21:18:42 ET
+Table 'WPN_7 Day No Rathole 50/100 NLH' 9-max Seat #7 is the button
+Seat 1: ghahreman ($850.00 in chips)
+Seat 7: moneybyebye ($41808.83 in chips)
+moneybyebye: posts small blind $50.00
+ghahreman: posts big blind $100.00
+*** HOLE CARDS ***
+moneybyebye: raises $1150.00 to $1250.00
+ghahreman: folds
+Uncalled bet ($1150.00) returned to moneybyebye
+moneybyebye collected $200.00 from pot
+moneybyebye: doesn't show hand
+*** SUMMARY ***
+Total pot $200.00 | Rake $0.00
+Seat 1: ghahreman (big blind) folded before Flop
+Seat 7: moneybyebye (button) (small blind) collected ($200.00)
+
+PokerStars Hand #1345901254:  Hold'em No Limit ($50.00/$100.00 USD) - 2022/08/19 21:18:54 ET
+Table 'WPN_7 Day No Rathole 50/100 NLH' 9-max Seat #7 is the button
+Seat 1: ghahreman ($750.00 in chips)
+Seat 2: Sabazius ($5590.99 in chips)
+Seat 7: moneybyebye ($41908.83 in chips)
+ghahreman: posts small blind $50.00
+Sabazius: posts big blind $100.00
+*** HOLE CARDS ***
+moneybyebye: raises $100.00 to $200.00
+ghahreman: raises $550.00 to $750.00 and is all-in
+Sabazius: folds
+moneybyebye: calls $550.00
+*** FLOP *** [4d 8s Td]
+*** TURN *** [4d 8s Td] [9s]
+*** RIVER *** [4d 8s Td 9s] [Ad]
+*** SHOW DOWN ***
+moneybyebye: shows [Ac 9d]
+ghahreman: shows [Kd 7h]
+moneybyebye collected $1598.25 from pot
+*** SUMMARY ***
+Total pot $1600.00 | Rake $1.75
+Board [4d 8s Td 9s Ad]
+Seat 1: ghahreman (small blind) showed [Kd 7h] and lost
+Seat 2: Sabazius (big blind) folded before Flop
+Seat 7: moneybyebye (button) showed [Ac 9d] and won ($1598.25)
+
+PokerStars Hand #1345901780:  Hold'em No Limit ($50.00/$100.00 USD) - 2022/08/19 21:19:19 ET
+Table 'WPN_7 Day No Rathole 50/100 NLH' 9-max Seat #1 is the button
+Seat 2: Sabazius ($5490.99 in chips)
+Seat 3: eddjennings ($15753.83 in chips)
+Seat 7: moneybyebye ($42757.08 in chips)
+Sabazius: posts small blind $50.00
+eddjennings: posts big blind $100.00
+*** HOLE CARDS ***
+moneybyebye: folds
+Sabazius: folds
+Uncalled bet ($50.00) returned to eddjennings
+eddjennings collected $100.00 from pot
+eddjennings: doesn't show hand
+*** SUMMARY ***
+Total pot $100.00 | Rake $0.00
+Seat 2: Sabazius (small blind) folded before Flop
+Seat 3: eddjennings (big blind) collected ($100.00)
+Seat 7: moneybyebye folded before Flop (didn't bet)
+
+PokerStars Hand #1345901984:  Hold'em No Limit ($50.00/$100.00 USD) - 2022/08/19 21:19:30 ET
+Table 'WPN_7 Day No Rathole 50/100 NLH' 9-max Seat #2 is the button
+Seat 1: ghahreman ($1000.00 in chips)
+Seat 2: Sabazius ($5440.99 in chips)
+Seat 3: eddjennings ($15803.83 in chips)
+Seat 7: moneybyebye ($42757.08 in chips)
+eddjennings: posts small blind $50.00
+moneybyebye: posts big blind $100.00
+*** HOLE CARDS ***
+ghahreman: folds
+Sabazius: raises $120.00 to $220.00
+eddjennings: folds
+moneybyebye: folds
+Uncalled bet ($120.00) returned to Sabazius
+Sabazius collected $250.00 from pot
+Sabazius: doesn't show hand
+*** SUMMARY ***
+Total pot $250.00 | Rake $0.00
+Seat 1: ghahreman folded before Flop (didn't bet)
+Seat 2: Sabazius (button) collected ($250.00)
+Seat 3: eddjennings (small blind) folded before Flop
+Seat 7: moneybyebye (big blind) folded before Flop
+
+PokerStars Hand #1345902509:  Hold'em No Limit ($50.00/$100.00 USD) - 2022/08/19 21:19:54 ET
+Table 'WPN_7 Day No Rathole 50/100 NLH' 9-max Seat #3 is the button
+Seat 1: ghahreman ($1000.00 in chips)
+Seat 2: Sabazius ($5590.99 in chips)
+Seat 3: eddjennings ($15753.83 in chips)
+Seat 7: moneybyebye ($42657.08 in chips)
+moneybyebye: posts small blind $50.00
+ghahreman: posts big blind $100.00
+*** HOLE CARDS ***
+Sabazius: folds
+eddjennings: raises $100.00 to $200.00
+moneybyebye: folds
+ghahreman: folds
+Uncalled bet ($100.00) returned to eddjennings
+eddjennings collected $250.00 from pot
+eddjennings: doesn't show hand
+*** SUMMARY ***
+Total pot $250.00 | Rake $0.00
+Seat 1: ghahreman (big blind) folded before Flop
+Seat 2: Sabazius folded before Flop (didn't bet)
+Seat 3: eddjennings (button) collected ($250.00)
+Seat 7: moneybyebye (small blind) folded before Flop
+
+PokerStars Hand #1345902960:  Hold'em No Limit ($50.00/$100.00 USD) - 2022/08/19 21:20:16 ET
+Table 'WPN_7 Day No Rathole 50/100 NLH' 9-max Seat #7 is the button
+Seat 1: ghahreman ($900.00 in chips)
+Seat 2: Sabazius ($5590.99 in chips)
+Seat 3: eddjennings ($15903.83 in chips)
+Seat 7: moneybyebye ($42607.08 in chips)
+ghahreman: posts small blind $50.00
+Sabazius: posts big blind $100.00
+*** HOLE CARDS ***
+eddjennings: raises $120.00 to $220.00
+moneybyebye: folds
+ghahreman: raises $680.00 to $900.00 and is all-in
+Sabazius: folds
+eddjennings: calls $680.00
+*** FLOP *** [Js 7h 6d]
+*** TURN *** [Js 7h 6d] [8h]
+*** RIVER *** [Js 7h 6d 8h] [6c]
+*** SHOW DOWN ***
+eddjennings: shows [Jh Kc]
+ghahreman: shows [3h 3c]
+eddjennings collected $1897.75 from pot
+*** SUMMARY ***
+Total pot $1900.00 | Rake $2.25
+Board [Js 7h 6d 8h 6c]
+Seat 1: ghahreman (small blind) showed [3h 3c] and lost
+Seat 2: Sabazius (big blind) folded before Flop
+Seat 3: eddjennings showed [Jh Kc] and won ($1897.75)
+Seat 7: moneybyebye (button) folded before Flop (didn't bet)
+
+PokerStars Hand #1345903626:  Hold'em No Limit ($50.00/$100.00 USD) - 2022/08/19 21:20:47 ET
+Table 'WPN_7 Day No Rathole 50/100 NLH' 9-max Seat #1 is the button
+Seat 2: Sabazius ($5490.99 in chips)
+Seat 3: eddjennings ($16901.58 in chips)
+Seat 7: moneybyebye ($42607.08 in chips)
+Sabazius: posts small blind $50.00
+moneybyebye: posts big blind $100.00
+*** HOLE CARDS ***
+Sabazius: raises $200.00 to $300.00
+moneybyebye: folds
+Uncalled bet ($200.00) returned to Sabazius
+Sabazius collected $200.00 from pot
+Sabazius: doesn't show hand
+*** SUMMARY ***
+Total pot $200.00 | Rake $0.00
+Seat 2: Sabazius (small blind) collected ($200.00)
+Seat 7: moneybyebye (big blind) folded before Flop
+
+PokerStars Hand #1345904114:  Hold'em No Limit ($50.00/$100.00 USD) - 2022/08/19 21:21:11 ET
+Table 'WPN_7 Day No Rathole 50/100 NLH' 9-max Seat #2 is the button
+Seat 1: ghahreman ($1000.00 in chips)
+Seat 2: Sabazius ($5590.99 in chips)
+Seat 7: moneybyebye ($42507.08 in chips)
+moneybyebye: posts small blind $50.00
+ghahreman: posts big blind $100.00
+*** HOLE CARDS ***
+Sabazius: raises $120.00 to $220.00
+moneybyebye: raises $680.00 to $900.00
+ghahreman: folds
+Sabazius: raises $4690.99 to $5590.99 and is all-in
+moneybyebye: calls $4690.99
+*** FLOP *** [Th Qd 4h]
+*** TURN *** [Th Qd 4h] [7c]
+*** RIVER *** [Th Qd 4h 7c] [6d]
+*** SHOW DOWN ***
+moneybyebye: shows [Ts Td]
+Sabazius: shows [Jc Jd]
+moneybyebye collected $11280.23 from pot
+*** SUMMARY ***
+Total pot $11281.98 | Rake $1.75
+Board [Th Qd 4h 7c 6d]
+Seat 1: ghahreman (big blind) folded before Flop
+Seat 2: Sabazius (button) showed [Jc Jd] and lost
+Seat 7: moneybyebye (small blind) showed [Ts Td] and won ($11280.23)
+
+PokerStars Hand #1345905447:  Hold'em No Limit ($50.00/$100.00 USD) - 2022/08/19 21:22:12 ET
+Table 'WPN_7 Day No Rathole 50/100 NLH' 9-max Seat #7 is the button
+Seat 1: ghahreman ($900.00 in chips)
+Seat 2: Sabazius ($1000.00 in chips)
+Seat 3: eddjennings ($16901.58 in chips)
+Seat 7: moneybyebye ($48196.32 in chips)
+ghahreman: posts small blind $50.00
+Sabazius: posts big blind $100.00
+*** HOLE CARDS ***
+moneybyebye: folds
+ghahreman: folds
+Uncalled bet ($50.00) returned to Sabazius
+Sabazius collected $100.00 from pot
+Sabazius: doesn't show hand
+*** SUMMARY ***
+Total pot $100.00 | Rake $0.00
+Seat 1: ghahreman (small blind) folded before Flop
+Seat 2: Sabazius (big blind) collected ($100.00)
+Seat 7: moneybyebye (button) folded before Flop (didn't bet)
+
+PokerStars Hand #1345905734:  Hold'em No Limit ($50.00/$100.00 USD) - 2022/08/19 21:22:25 ET
+Table 'WPN_7 Day No Rathole 50/100 NLH' 9-max Seat #1 is the button
+Seat 1: ghahreman ($850.00 in chips)
+Seat 2: Sabazius ($1050.00 in chips)
+Seat 3: eddjennings ($16901.58 in chips)
+Seat 7: moneybyebye ($48196.32 in chips)
+Sabazius: posts small blind $50.00
+eddjennings: posts big blind $100.00
+*** HOLE CARDS ***
+moneybyebye: folds
+ghahreman: raises $750.00 to $850.00 and is all-in
+Sabazius: folds
+eddjennings: folds
+Uncalled bet ($750.00) returned to ghahreman
+ghahreman collected $250.00 from pot
+ghahreman: doesn't show hand
+*** SUMMARY ***
+Total pot $250.00 | Rake $0.00
+Seat 1: ghahreman (button) collected ($250.00)
+Seat 2: Sabazius (small blind) folded before Flop
+Seat 3: eddjennings (big blind) folded before Flop
+Seat 7: moneybyebye folded before Flop (didn't bet)
+
+PokerStars Hand #1345906169:  Hold'em No Limit ($50.00/$100.00 USD) - 2022/08/19 21:22:46 ET
+Table 'WPN_7 Day No Rathole 50/100 NLH' 9-max Seat #2 is the button
+Seat 1: ghahreman ($1000.00 in chips)
+Seat 2: Sabazius ($1000.00 in chips)
+Seat 3: eddjennings ($16801.58 in chips)
+Seat 7: moneybyebye ($48196.32 in chips)
+eddjennings: posts small blind $50.00
+moneybyebye: posts big blind $100.00
+*** HOLE CARDS ***
+ghahreman: raises $900.00 to $1000.00 and is all-in
+Sabazius: folds
+eddjennings: folds
+moneybyebye: folds
+Uncalled bet ($900.00) returned to ghahreman
+ghahreman collected $250.00 from pot
+ghahreman: doesn't show hand
+*** SUMMARY ***
+Total pot $250.00 | Rake $0.00
+Seat 1: ghahreman collected ($250.00)
+Seat 2: Sabazius (button) folded before Flop (didn't bet)
+Seat 3: eddjennings (small blind) folded before Flop
+Seat 7: moneybyebye (big blind) folded before Flop
+
+PokerStars Hand #1345906486:  Hold'em No Limit ($50.00/$100.00 USD) - 2022/08/19 21:23:01 ET
+Table 'WPN_7 Day No Rathole 50/100 NLH' 9-max Seat #3 is the button
+Seat 1: ghahreman ($1150.00 in chips)
+Seat 2: Sabazius ($1000.00 in chips)
+Seat 3: eddjennings ($16751.58 in chips)
+Seat 7: moneybyebye ($48096.32 in chips)
+moneybyebye: posts small blind $50.00
+ghahreman: posts big blind $100.00
+*** HOLE CARDS ***
+Sabazius: folds
+eddjennings: folds
+moneybyebye: folds
+Uncalled bet ($50.00) returned to ghahreman
+ghahreman collected $100.00 from pot
+ghahreman: doesn't show hand
+*** SUMMARY ***
+Total pot $100.00 | Rake $0.00
+Seat 1: ghahreman (big blind) collected ($100.00)
+Seat 2: Sabazius folded before Flop (didn't bet)
+Seat 3: eddjennings (button) folded before Flop (didn't bet)
+Seat 7: moneybyebye (small blind) folded before Flop
+
+PokerStars Hand #1345906763:  Hold'em No Limit ($50.00/$100.00 USD) - 2022/08/19 21:23:14 ET
+Table 'WPN_7 Day No Rathole 50/100 NLH' 9-max Seat #7 is the button
+Seat 1: ghahreman ($1200.00 in chips)
+Seat 2: Sabazius ($1000.00 in chips)
+Seat 3: eddjennings ($16751.58 in chips)
+Seat 7: moneybyebye ($48046.32 in chips)
+ghahreman: posts small blind $50.00
+Sabazius: posts big blind $100.00
+*** HOLE CARDS ***
+eddjennings: raises $150.00 to $250.00
+moneybyebye: folds
+ghahreman: folds
+Sabazius: folds
+Uncalled bet ($150.00) returned to eddjennings
+eddjennings collected $250.00 from pot
+eddjennings: doesn't show hand
+*** SUMMARY ***
+Total pot $250.00 | Rake $0.00
+Seat 1: ghahreman (small blind) folded before Flop
+Seat 2: Sabazius (big blind) folded before Flop
+Seat 3: eddjennings collected ($250.00)
+Seat 7: moneybyebye (button) folded before Flop (didn't bet)
+
+PokerStars Hand #1345907111:  Hold'em No Limit ($50.00/$100.00 USD) - 2022/08/19 21:23:29 ET
+Table 'WPN_7 Day No Rathole 50/100 NLH' 9-max Seat #1 is the button
+Seat 1: ghahreman ($1150.00 in chips)
+Seat 2: Sabazius ($900.00 in chips)
+Seat 3: eddjennings ($16901.58 in chips)
+Seat 4: Gizineni ($6082.14 in chips)
+Seat 7: moneybyebye ($48046.32 in chips)
+Sabazius: posts small blind $50.00
+eddjennings: posts big blind $100.00
+*** HOLE CARDS ***
+moneybyebye: raises $100.00 to $200.00
+ghahreman: folds
+Sabazius: folds
+eddjennings: calls $100.00
+*** FLOP *** [As Th 8h]
+eddjennings: checks
+moneybyebye: bets $130.00
+eddjennings: calls $130.00
+*** TURN *** [As Th 8h] [8s]
+eddjennings: bets $225.00
+moneybyebye: calls $225.00
+*** RIVER *** [As Th 8h 8s] [7s]
+eddjennings: bets $157.00
+moneybyebye: calls $157.00
+*** SHOW DOWN ***
+eddjennings: shows [8d 9c]
+moneybyebye: mucks hand
+eddjennings collected $1471.75 from pot
+*** SUMMARY ***
+Total pot $1474.00 | Rake $2.25
+Board [As Th 8h 8s 7s]
+Seat 1: ghahreman (button) folded before Flop (didn't bet)
+Seat 2: Sabazius (small blind) folded before Flop
+Seat 3: eddjennings (big blind) showed [8d 9c] and won ($1471.75)
+Seat 7: moneybyebye mucked
+
+PokerStars Hand #1345909024:  Hold'em No Limit ($50.00/$100.00 USD) - 2022/08/19 21:24:59 ET
+Table 'WPN_7 Day No Rathole 50/100 NLH' 9-max Seat #2 is the button
+Seat 1: ghahreman ($1150.00 in chips)
+Seat 2: Sabazius ($1000.00 in chips)
+Seat 3: eddjennings ($17661.33 in chips)
+Seat 4: Gizineni ($6082.14 in chips)
+Seat 5: songo24 ($2151.48 in chips)
+Seat 6: FreeRakeback ($6554.63 in chips)
+Seat 7: moneybyebye ($47334.32 in chips)
+Seat 8: Simulacra ($1000.00 in chips)
+eddjennings: posts small blind $50.00
+Gizineni: posts big blind $100.00
+*** HOLE CARDS ***
+moneybyebye: folds
+ghahreman: folds
+Sabazius: folds
+eddjennings: raises $200.00 to $300.00
+Gizineni: folds
+Uncalled bet ($200.00) returned to eddjennings
+eddjennings collected $200.00 from pot
+eddjennings: doesn't show hand
+*** SUMMARY ***
+Total pot $200.00 | Rake $0.00
+Seat 1: ghahreman folded before Flop (didn't bet)
+Seat 2: Sabazius (button) folded before Flop (didn't bet)
+Seat 3: eddjennings (small blind) collected ($200.00)
+Seat 4: Gizineni (big blind) folded before Flop
+Seat 7: moneybyebye folded before Flop (didn't bet)
+
+PokerStars Hand #1345909472:  Hold'em No Limit ($50.00/$100.00 USD) - 2022/08/19 21:25:20 ET
+Table 'WPN_7 Day No Rathole 50/100 NLH' 9-max Seat #3 is the button
+Seat 1: ghahreman ($1150.00 in chips)
+Seat 2: Sabazius ($1000.00 in chips)
+Seat 3: eddjennings ($17761.33 in chips)
+Seat 4: Gizineni ($5982.14 in chips)
+Seat 5: songo24 ($2151.48 in chips)
+Seat 6: FreeRakeback ($6554.63 in chips)
+Seat 7: moneybyebye ($47334.32 in chips)
+Seat 8: Simulacra ($1000.00 in chips)
+Gizineni: posts small blind $50.00
+songo24: posts big blind $100.00
+*** HOLE CARDS ***
+moneybyebye: raises $100.00 to $200.00
+ghahreman: folds
+Sabazius: folds
+eddjennings: folds
+Gizineni: folds
+songo24: folds
+Uncalled bet ($100.00) returned to moneybyebye
+moneybyebye collected $250.00 from pot
+moneybyebye: doesn't show hand
+*** SUMMARY ***
+Total pot $250.00 | Rake $0.00
+Seat 1: ghahreman folded before Flop (didn't bet)
+Seat 2: Sabazius folded before Flop (didn't bet)
+Seat 3: eddjennings (button) folded before Flop (didn't bet)
+Seat 4: Gizineni (small blind) folded before Flop
+Seat 5: songo24 (big blind) folded before Flop
+Seat 7: moneybyebye collected ($250.00)
+
+PokerStars Hand #1345909891:  Hold'em No Limit ($50.00/$100.00 USD) - 2022/08/19 21:25:40 ET
+Table 'WPN_7 Day No Rathole 50/100 NLH' 9-max Seat #4 is the button
+Seat 1: ghahreman ($1150.00 in chips)
+Seat 2: Sabazius ($1000.00 in chips)
+Seat 3: eddjennings ($17761.33 in chips)
+Seat 4: Gizineni ($5932.14 in chips)
+Seat 5: songo24 ($2051.48 in chips)
+Seat 6: FreeRakeback ($6554.63 in chips)
+Seat 7: moneybyebye ($47484.32 in chips)
+Seat 8: Simulacra ($1000.00 in chips)
+songo24: posts small blind $50.00
+FreeRakeback: posts big blind $100.00
+*** HOLE CARDS ***
+moneybyebye: folds
+ghahreman: raises $1050.00 to $1150.00 and is all-in
+Sabazius: folds
+eddjennings: folds
+Gizineni: folds
+songo24: folds
+FreeRakeback: folds
+Uncalled bet ($1050.00) returned to ghahreman
+ghahreman collected $250.00 from pot
+ghahreman: doesn't show hand
+*** SUMMARY ***
+Total pot $250.00 | Rake $0.00
+Seat 1: ghahreman collected ($250.00)
+Seat 2: Sabazius folded before Flop (didn't bet)
+Seat 3: eddjennings folded before Flop (didn't bet)
+Seat 4: Gizineni (button) folded before Flop (didn't bet)
+Seat 5: songo24 (small blind) folded before Flop
+Seat 6: FreeRakeback (big blind) folded before Flop
+Seat 7: moneybyebye folded before Flop (didn't bet)
+
+PokerStars Hand #1345910547:  Hold'em No Limit ($50.00/$100.00 USD) - 2022/08/19 21:26:11 ET
+Table 'WPN_7 Day No Rathole 50/100 NLH' 9-max Seat #5 is the button
+Seat 1: ghahreman ($1300.00 in chips)
+Seat 2: Sabazius ($1000.00 in chips)
+Seat 3: eddjennings ($17761.33 in chips)
+Seat 4: Gizineni ($5932.14 in chips)
+Seat 5: songo24 ($2001.48 in chips)
+Seat 6: FreeRakeback ($6454.63 in chips)
+Seat 7: moneybyebye ($47484.32 in chips)
+Seat 8: Simulacra ($1000.00 in chips)
+FreeRakeback: posts small blind $50.00
+moneybyebye: posts big blind $100.00
+*** HOLE CARDS ***
+ghahreman: folds
+Sabazius: folds
+eddjennings: folds
+Gizineni: folds
+songo24: raises $100.00 to $200.00
+FreeRakeback: folds
+moneybyebye: folds
+Uncalled bet ($100.00) returned to songo24
+songo24 collected $250.00 from pot
+songo24: doesn't show hand
+*** SUMMARY ***
+Total pot $250.00 | Rake $0.00
+Seat 1: ghahreman folded before Flop (didn't bet)
+Seat 2: Sabazius folded before Flop (didn't bet)
+Seat 3: eddjennings folded before Flop (didn't bet)
+Seat 4: Gizineni folded before Flop (didn't bet)
+Seat 5: songo24 (button) collected ($250.00)
+Seat 6: FreeRakeback (small blind) folded before Flop
+Seat 7: moneybyebye (big blind) folded before Flop
+
+PokerStars Hand #1345911261:  Hold'em No Limit ($50.00/$100.00 USD) - 2022/08/19 21:26:44 ET
+Table 'WPN_7 Day No Rathole 50/100 NLH' 9-max Seat #6 is the button
+Seat 1: ghahreman ($1300.00 in chips)
+Seat 2: Sabazius ($1000.00 in chips)
+Seat 3: eddjennings ($17761.33 in chips)
+Seat 4: Gizineni ($5932.14 in chips)
+Seat 5: songo24 ($2151.48 in chips)
+Seat 6: FreeRakeback ($6404.63 in chips)
+Seat 7: moneybyebye ($47384.32 in chips)
+Seat 8: Simulacra ($1000.00 in chips)
+moneybyebye: posts small blind $50.00
+Simulacra: posts big blind $100.00
+*** HOLE CARDS ***
+ghahreman: folds
+Sabazius: folds
+eddjennings: folds
+Gizineni: folds
+songo24: folds
+FreeRakeback: folds
+moneybyebye: raises $1150.00 to $1250.00
+Simulacra: folds
+Uncalled bet ($1150.00) returned to moneybyebye
+moneybyebye collected $200.00 from pot
+moneybyebye: doesn't show hand
+*** SUMMARY ***
+Total pot $200.00 | Rake $0.00
+Seat 1: ghahreman folded before Flop (didn't bet)
+Seat 2: Sabazius folded before Flop (didn't bet)
+Seat 3: eddjennings folded before Flop (didn't bet)
+Seat 4: Gizineni folded before Flop (didn't bet)
+Seat 5: songo24 folded before Flop (didn't bet)
+Seat 6: FreeRakeback (button) folded before Flop (didn't bet)
+Seat 7: moneybyebye (small blind) collected ($200.00)
+Seat 8: Simulacra (big blind) folded before Flop
+
+PokerStars Hand #1345912276:  Hold'em No Limit ($50.00/$100.00 USD) - 2022/08/19 21:27:33 ET
+Table 'WPN_7 Day No Rathole 50/100 NLH' 9-max Seat #7 is the button
+Seat 1: ghahreman ($1300.00 in chips)
+Seat 2: Sabazius ($1000.00 in chips)
+Seat 3: eddjennings ($17761.33 in chips)
+Seat 4: Gizineni ($5932.14 in chips)
+Seat 5: songo24 ($2151.48 in chips)
+Seat 6: FreeRakeback ($6404.63 in chips)
+Seat 7: moneybyebye ($47484.32 in chips)
+Seat 8: Simulacra ($900.00 in chips)
+Simulacra: posts small blind $50.00
+ghahreman: posts big blind $100.00
+*** HOLE CARDS ***
+Sabazius: folds
+eddjennings: folds
+Gizineni: folds
+songo24: raises $100.00 to $200.00
+FreeRakeback: folds
+moneybyebye: folds
+Simulacra: raises $800.00 to $1000.00 and is all-in
+ghahreman: folds
+songo24: calls $800.00
+*** FIRST FLOP *** [9c Js 9h]
+*** FIRST TURN *** [9c Js 9h] [Ts]
+*** FIRST RIVER *** [9c Js 9h Ts] [5c]
+*** SECOND FLOP *** [Qh Td Qc]
+*** SECOND TURN *** [Qh Td Qc] [Kh]
+*** SECOND RIVER *** [Qh Td Qc Kh] [4d]
+*** FIRST SHOW DOWN ***
+songo24: shows [Ac Jc]
+Simulacra: shows [Kd Jh]
+songo24 collected $1048.50 from pot
+*** SECOND SHOW DOWN ***
+songo24: shows [Ac Jc]
+Simulacra: shows [Kd Jh]
+songo24 collected $1048.50 from pot
+*** SUMMARY ***
+Total pot $2100.00 | Rake $3.00
+Hand was run twice
+FIRST Board [9c Js 9h Ts 5c]
+SECOND Board [Qh Td Qc Kh 4d]
+Seat 1: ghahreman (big blind) folded before Flop
+Seat 2: Sabazius folded before Flop (didn't bet)
+Seat 3: eddjennings folded before Flop (didn't bet)
+Seat 4: Gizineni folded before Flop (didn't bet)
+Seat 5: songo24 showed [Ac Jc] and won ($1048.50), and won ($1048.50)
+Seat 6: FreeRakeback folded before Flop (didn't bet)
+Seat 7: moneybyebye (button) folded before Flop (didn't bet)
+Seat 8: Simulacra (small blind) showed [Kd Jh] and lost, and lost
+
+PokerStars Hand #1345913256:  Hold'em No Limit ($50.00/$100.00 USD) - 2022/08/19 21:28:18 ET
+Table 'WPN_7 Day No Rathole 50/100 NLH' 9-max Seat #8 is the button
+Seat 1: ghahreman ($1200.00 in chips)
+Seat 2: Sabazius ($1000.00 in chips)
+Seat 3: eddjennings ($17761.33 in chips)
+Seat 4: Gizineni ($5932.14 in chips)
+Seat 5: songo24 ($3248.48 in chips)
+Seat 6: FreeRakeback ($6404.63 in chips)
+Seat 7: moneybyebye ($47484.32 in chips)
+Seat 8: Simulacra ($1000.00 in chips)
+ghahreman: posts small blind $50.00
+Sabazius: posts big blind $100.00
+*** HOLE CARDS ***
+eddjennings: folds
+Gizineni: folds
+songo24: folds
+FreeRakeback: raises $100.00 to $200.00
+moneybyebye: folds
+Simulacra: folds
+ghahreman: folds
+Sabazius: calls $100.00
+*** FLOP *** [8d 2c Ac]
+Sabazius: checks
+FreeRakeback: bets $100.00
+Sabazius: folds
+Uncalled bet ($100.00) returned to FreeRakeback
+FreeRakeback collected $447.00 from pot
+FreeRakeback: doesn't show hand
+*** SUMMARY ***
+Total pot $450.00 | Rake $3.00
+Board [8d 2c Ac]
+Seat 1: ghahreman (small blind) folded before Flop
+Seat 2: Sabazius (big blind) folded on the Flop
+Seat 3: eddjennings folded before Flop (didn't bet)
+Seat 4: Gizineni folded before Flop (didn't bet)
+Seat 5: songo24 folded before Flop (didn't bet)
+Seat 6: FreeRakeback collected ($447.00)
+Seat 7: moneybyebye folded before Flop (didn't bet)
+Seat 8: Simulacra (button) folded before Flop (didn't bet)
+
+PokerStars Hand #1345914185:  Hold'em No Limit ($50.00/$100.00 USD) - 2022/08/19 21:29:02 ET
+Table 'WPN_7 Day No Rathole 50/100 NLH' 9-max Seat #1 is the button
+Seat 1: ghahreman ($1150.00 in chips)
+Seat 2: Sabazius ($800.00 in chips)
+Seat 3: eddjennings ($17761.33 in chips)
+Seat 4: Gizineni ($5932.14 in chips)
+Seat 5: songo24 ($3248.48 in chips)
+Seat 6: FreeRakeback ($6651.63 in chips)
+Seat 7: moneybyebye ($47484.32 in chips)
+Seat 8: Simulacra ($1000.00 in chips)
+Sabazius: posts small blind $50.00
+eddjennings: posts big blind $100.00
+*** HOLE CARDS ***
+Gizineni: folds
+songo24: folds
+FreeRakeback: folds
+moneybyebye: folds
+Simulacra: folds
+ghahreman: raises $1050.00 to $1150.00 and is all-in
+Sabazius: calls $950.00 and is all-in
+eddjennings: folds
+Uncalled bet ($150.00) returned to ghahreman
+*** FLOP *** [3c 4c Kc]
+*** TURN *** [3c 4c Kc] [Ah]
+*** RIVER *** [3c 4c Kc Ah] [7d]
+*** SHOW DOWN ***
+Sabazius: shows [Tc Qc]
+ghahreman: shows [9d 9s]
+Sabazius collected $2097.00 from pot
+*** SUMMARY ***
+Total pot $2100.00 | Rake $3.00
+Board [3c 4c Kc Ah 7d]
+Seat 1: ghahreman (button) showed [9d 9s] and lost
+Seat 2: Sabazius (small blind) showed [Tc Qc] and won ($2097.00)
+Seat 3: eddjennings (big blind) folded before Flop
+Seat 4: Gizineni folded before Flop (didn't bet)
+Seat 5: songo24 folded before Flop (didn't bet)
+Seat 6: FreeRakeback folded before Flop (didn't bet)
+Seat 7: moneybyebye folded before Flop (didn't bet)
+Seat 8: Simulacra folded before Flop (didn't bet)
+
+PokerStars Hand #1345915323:  Hold'em No Limit ($50.00/$100.00 USD) - 2022/08/19 21:29:55 ET
+Table 'WPN_7 Day No Rathole 50/100 NLH' 9-max Seat #2 is the button
+Seat 2: Sabazius ($2097.00 in chips)
+Seat 3: eddjennings ($17661.33 in chips)
+Seat 4: Gizineni ($5932.14 in chips)
+Seat 5: songo24 ($3248.48 in chips)
+Seat 6: FreeRakeback ($6651.63 in chips)
+Seat 7: moneybyebye ($47484.32 in chips)
+Seat 8: Simulacra ($1000.00 in chips)
+eddjennings: posts small blind $50.00
+Gizineni: posts big blind $100.00
+*** HOLE CARDS ***
+songo24: raises $100.00 to $200.00
+FreeRakeback: folds
+moneybyebye: folds
+Simulacra: folds
+Sabazius: folds
+eddjennings: folds
+Gizineni: folds
+Uncalled bet ($100.00) returned to songo24
+songo24 collected $250.00 from pot
+songo24: doesn't show hand
+*** SUMMARY ***
+Total pot $250.00 | Rake $0.00
+Seat 2: Sabazius (button) folded before Flop (didn't bet)
+Seat 3: eddjennings (small blind) folded before Flop
+Seat 4: Gizineni (big blind) folded before Flop
+Seat 5: songo24 collected ($250.00)
+Seat 6: FreeRakeback folded before Flop (didn't bet)
+Seat 7: moneybyebye folded before Flop (didn't bet)
+Seat 8: Simulacra folded before Flop (didn't bet)
+
+PokerStars Hand #1345915995:  Hold'em No Limit ($50.00/$100.00 USD) - 2022/08/19 21:30:28 ET
+Table 'WPN_7 Day No Rathole 50/100 NLH' 9-max Seat #3 is the button
+Seat 2: Sabazius ($2097.00 in chips)
+Seat 3: eddjennings ($17611.33 in chips)
+Seat 4: Gizineni ($5832.14 in chips)
+Seat 5: songo24 ($3398.48 in chips)
+Seat 6: FreeRakeback ($6651.63 in chips)
+Seat 7: moneybyebye ($47484.32 in chips)
+Seat 8: Simulacra ($1000.00 in chips)
+Gizineni: posts small blind $50.00
+songo24: posts big blind $100.00
+*** HOLE CARDS ***
+FreeRakeback: folds
+moneybyebye: folds
+Simulacra: folds
+Sabazius: folds
+eddjennings: folds
+Gizineni: raises $200.00 to $300.00
+songo24: folds
+Uncalled bet ($200.00) returned to Gizineni
+Gizineni collected $200.00 from pot
+Gizineni: doesn't show hand
+*** SUMMARY ***
+Total pot $200.00 | Rake $0.00
+Seat 2: Sabazius folded before Flop (didn't bet)
+Seat 3: eddjennings (button) folded before Flop (didn't bet)
+Seat 4: Gizineni (small blind) collected ($200.00)
+Seat 5: songo24 (big blind) folded before Flop
+Seat 6: FreeRakeback folded before Flop (didn't bet)
+Seat 7: moneybyebye folded before Flop (didn't bet)
+Seat 8: Simulacra folded before Flop (didn't bet)
+
+PokerStars Hand #1345916513:  Hold'em No Limit ($50.00/$100.00 USD) - 2022/08/19 21:30:53 ET
+Table 'WPN_7 Day No Rathole 50/100 NLH' 9-max Seat #4 is the button
+Seat 2: Sabazius ($2097.00 in chips)
+Seat 3: eddjennings ($17611.33 in chips)
+Seat 4: Gizineni ($5932.14 in chips)
+Seat 5: songo24 ($3298.48 in chips)
+Seat 6: FreeRakeback ($6651.63 in chips)
+Seat 7: moneybyebye ($47484.32 in chips)
+Seat 8: Simulacra ($1000.00 in chips)
+songo24: posts small blind $50.00
+moneybyebye: posts big blind $100.00
+*** HOLE CARDS ***
+Simulacra: folds
+Sabazius: folds
+eddjennings: folds
+Gizineni: folds
+songo24: folds
+Uncalled bet ($50.00) returned to moneybyebye
+moneybyebye collected $100.00 from pot
+moneybyebye: doesn't show hand
+*** SUMMARY ***
+Total pot $100.00 | Rake $0.00
+Seat 2: Sabazius folded before Flop (didn't bet)
+Seat 3: eddjennings folded before Flop (didn't bet)
+Seat 4: Gizineni (button) folded before Flop (didn't bet)
+Seat 5: songo24 (small blind) folded before Flop
+Seat 7: moneybyebye (big blind) collected ($100.00)
+Seat 8: Simulacra folded before Flop (didn't bet)
+
+PokerStars Hand #1345917139:  Hold'em No Limit ($50.00/$100.00 USD) - 2022/08/19 21:31:22 ET
+Table 'WPN_7 Day No Rathole 50/100 NLH' 9-max Seat #5 is the button
+Seat 2: Sabazius ($2097.00 in chips)
+Seat 3: eddjennings ($17611.33 in chips)
+Seat 4: Gizineni ($5932.14 in chips)
+Seat 5: songo24 ($3248.48 in chips)
+Seat 7: moneybyebye ($47534.32 in chips)
+Seat 8: Simulacra ($1000.00 in chips)
+moneybyebye: posts small blind $50.00
+eddjennings: posts big blind $100.00
+*** HOLE CARDS ***
+Gizineni: folds
+songo24: raises $100.00 to $200.00
+moneybyebye: folds
+eddjennings: calls $100.00
+*** FLOP *** [5c 3s Qd]
+eddjennings: checks
+songo24: bets $148.50
+eddjennings: raises $359.50 to $508.00
+songo24: folds
+Uncalled bet ($359.50) returned to eddjennings
+eddjennings collected $744.75 from pot
+eddjennings: doesn't show hand
+*** SUMMARY ***
+Total pot $747.00 | Rake $2.25
+Board [5c 3s Qd]
+Seat 3: eddjennings (big blind) collected ($744.75)
+Seat 4: Gizineni folded before Flop (didn't bet)
+Seat 5: songo24 (button) folded on the Flop
+Seat 7: moneybyebye (small blind) folded before Flop
+
+PokerStars Hand #1345918184:  Hold'em No Limit ($50.00/$100.00 USD) - 2022/08/19 21:32:10 ET
+Table 'WPN_7 Day No Rathole 50/100 NLH' 9-max Seat #7 is the button
+Seat 3: eddjennings ($18007.58 in chips)
+Seat 5: songo24 ($2899.98 in chips)
+Seat 7: moneybyebye ($47484.32 in chips)
+eddjennings: posts small blind $50.00
+moneybyebye: posts big blind $100.00
+*** HOLE CARDS ***
+eddjennings: folds
+Uncalled bet ($50.00) returned to moneybyebye
+moneybyebye collected $100.00 from pot
+moneybyebye: doesn't show hand
+*** SUMMARY ***
+Total pot $100.00 | Rake $0.00
+Seat 3: eddjennings (small blind) folded before Flop
+Seat 7: moneybyebye (button) (big blind) collected ($100.00)
+
+PokerStars Hand #1345992271:  Hold'em No Limit ($50.00/$100.00 USD) - 2022/08/19 22:35:10 ET
+Table 'WPN_7 Day No Rathole 50/100 NLH' 9-max Seat #3 is the button
+Seat 3: DoublelegTD ($15598.56 in chips)
+Seat 4: Doctapopashot ($850.00 in chips)
+DoublelegTD: posts small blind $50.00
+Doctapopashot: posts big blind $100.00
+*** HOLE CARDS ***
+DoublelegTD: folds
+Uncalled bet ($50.00) returned to Doctapopashot
+Doctapopashot collected $100.00 from pot
+Doctapopashot: doesn't show hand
+*** SUMMARY ***
+Total pot $100.00 | Rake $0.00
+Seat 3: DoublelegTD (button) (small blind) folded before Flop
+Seat 4: Doctapopashot (big blind) collected ($100.00)
+
+PokerStars Hand #1345992580:  Hold'em No Limit ($50.00/$100.00 USD) - 2022/08/19 22:35:26 ET
+Table 'WPN_7 Day No Rathole 50/100 NLH' 9-max Seat #4 is the button
+Seat 3: DoublelegTD ($15548.56 in chips)
+Seat 4: Doctapopashot ($900.00 in chips)
+Doctapopashot: posts small blind $50.00
+DoublelegTD: posts big blind $100.00
+*** HOLE CARDS ***
+Doctapopashot: folds
+Uncalled bet ($50.00) returned to DoublelegTD
+DoublelegTD collected $100.00 from pot
+DoublelegTD: doesn't show hand
+*** SUMMARY ***
+Total pot $100.00 | Rake $0.00
+Seat 3: DoublelegTD (big blind) collected ($100.00)
+Seat 4: Doctapopashot (button) (small blind) folded before Flop
+
+PokerStars Hand #1345992770:  Hold'em No Limit ($50.00/$100.00 USD) - 2022/08/19 22:35:35 ET
+Table 'WPN_7 Day No Rathole 50/100 NLH' 9-max Seat #3 is the button
+Seat 3: DoublelegTD ($15598.56 in chips)
+Seat 4: Doctapopashot ($850.00 in chips)
+DoublelegTD: posts small blind $50.00
+Doctapopashot: posts big blind $100.00
+*** HOLE CARDS ***
+DoublelegTD: folds
+Uncalled bet ($50.00) returned to Doctapopashot
+Doctapopashot collected $100.00 from pot
+Doctapopashot: doesn't show hand
+*** SUMMARY ***
+Total pot $100.00 | Rake $0.00
+Seat 3: DoublelegTD (button) (small blind) folded before Flop
+Seat 4: Doctapopashot (big blind) collected ($100.00)
+
+PokerStars Hand #1345992975:  Hold'em No Limit ($50.00/$100.00 USD) - 2022/08/19 22:35:44 ET
+Table 'WPN_7 Day No Rathole 50/100 NLH' 9-max Seat #4 is the button
+Seat 3: DoublelegTD ($15548.56 in chips)
+Seat 4: Doctapopashot ($900.00 in chips)
+Doctapopashot: posts small blind $50.00
+DoublelegTD: posts big blind $100.00
+*** HOLE CARDS ***
+Doctapopashot: raises $800.00 to $900.00 and is all-in
+DoublelegTD: folds
+Uncalled bet ($800.00) returned to Doctapopashot
+Doctapopashot collected $200.00 from pot
+Doctapopashot: doesn't show hand
+*** SUMMARY ***
+Total pot $200.00 | Rake $0.00
+Seat 3: DoublelegTD (big blind) folded before Flop
+Seat 4: Doctapopashot (button) (small blind) collected ($200.00)
+
+PokerStars Hand #1345993226:  Hold'em No Limit ($50.00/$100.00 USD) - 2022/08/19 22:35:56 ET
+Table 'WPN_7 Day No Rathole 50/100 NLH' 9-max Seat #3 is the button
+Seat 3: DoublelegTD ($15448.56 in chips)
+Seat 4: Doctapopashot ($1000.00 in chips)
+Seat 5: NijeGreska ($1539.00 in chips)
+DoublelegTD: posts small blind $50.00
+Doctapopashot: posts big blind $100.00
+*** HOLE CARDS ***
+DoublelegTD: folds
+Uncalled bet ($50.00) returned to Doctapopashot
+Doctapopashot collected $100.00 from pot
+Doctapopashot: doesn't show hand
+*** SUMMARY ***
+Total pot $100.00 | Rake $0.00
+Seat 3: DoublelegTD (button) (small blind) folded before Flop
+Seat 4: Doctapopashot (big blind) collected ($100.00)
+
+PokerStars Hand #1345993420:  Hold'em No Limit ($50.00/$100.00 USD) - 2022/08/19 22:36:05 ET
+Table 'WPN_7 Day No Rathole 50/100 NLH' 9-max Seat #3 is the button
+Seat 3: DoublelegTD ($15398.56 in chips)
+Seat 4: Doctapopashot ($1050.00 in chips)
+Seat 5: NijeGreska ($1539.00 in chips)
+Doctapopashot: posts small blind $50.00
+NijeGreska: posts big blind $100.00
+*** HOLE CARDS ***
+DoublelegTD: folds
+Doctapopashot: raises $950.00 to $1050.00 and is all-in
+NijeGreska: calls $950.00
+*** FLOP *** [Td Kd Ks]
+*** TURN *** [Td Kd Ks] [8d]
+*** RIVER *** [Td Kd Ks 8d] [Js]
+*** SHOW DOWN ***
+NijeGreska: shows [Ad Qs]
+Doctapopashot: shows [Kc 3h]
+NijeGreska collected $2098.25 from pot
+*** SUMMARY ***
+Total pot $2100.00 | Rake $1.75
+Board [Td Kd Ks 8d Js]
+Seat 3: DoublelegTD (button) folded before Flop (didn't bet)
+Seat 4: Doctapopashot (small blind) showed [Kc 3h] and lost
+Seat 5: NijeGreska (big blind) showed [Ad Qs] and won ($2098.25)
+
+PokerStars Hand #1345993989:  Hold'em No Limit ($50.00/$100.00 USD) - 2022/08/19 22:36:33 ET
+Table 'WPN_7 Day No Rathole 50/100 NLH' 9-max Seat #4 is the button
+Seat 3: DoublelegTD ($15398.56 in chips)
+Seat 5: NijeGreska ($2587.25 in chips)
+Seat 6: Sabazius ($2097.00 in chips)
+Seat 7: Gizineni ($5932.14 in chips)
+NijeGreska: posts small blind $50.00
+Sabazius: posts big blind $100.00
+*** HOLE CARDS ***
+DoublelegTD: folds
+NijeGreska: calls $50.00
+Sabazius: checks
+*** FLOP *** [Ac Qc 3s]
+NijeGreska: bets $100.00
+Sabazius: folds
+Uncalled bet ($100.00) returned to NijeGreska
+NijeGreska collected $198.25 from pot
+NijeGreska: doesn't show hand
+*** SUMMARY ***
+Total pot $200.00 | Rake $1.75
+Board [Ac Qc 3s]
+Seat 3: DoublelegTD folded before Flop (didn't bet)
+Seat 5: NijeGreska (small blind) collected ($198.25)
+Seat 6: Sabazius (big blind) folded on the Flop
+
+PokerStars Hand #1345995016:  Hold'em No Limit ($50.00/$100.00 USD) - 2022/08/19 22:37:23 ET
+Table 'WPN_7 Day No Rathole 50/100 NLH' 9-max Seat #5 is the button
+Seat 3: DoublelegTD ($15398.56 in chips)
+Seat 5: NijeGreska ($2685.50 in chips)
+Seat 6: Sabazius ($1997.00 in chips)
+Seat 7: Gizineni ($5932.14 in chips)
+Seat 8: Doctapopashot ($1000.00 in chips)
+Seat 9: songo24 ($2899.98 in chips)
+Sabazius: posts small blind $50.00
+Gizineni: posts big blind $100.00
+*** HOLE CARDS ***
+DoublelegTD: folds
+NijeGreska: folds
+Sabazius: raises $150.00 to $250.00
+Gizineni: folds
+Uncalled bet ($150.00) returned to Sabazius
+Sabazius collected $200.00 from pot
+Sabazius: doesn't show hand
+*** SUMMARY ***
+Total pot $200.00 | Rake $0.00
+Seat 3: DoublelegTD folded before Flop (didn't bet)
+Seat 5: NijeGreska (button) folded before Flop (didn't bet)
+Seat 6: Sabazius (small blind) collected ($200.00)
+Seat 7: Gizineni (big blind) folded before Flop
+
+PokerStars Hand #1345995514:  Hold'em No Limit ($50.00/$100.00 USD) - 2022/08/19 22:37:48 ET
+Table 'WPN_7 Day No Rathole 50/100 NLH' 9-max Seat #6 is the button
+Seat 1: BeAlive ($1000.00 in chips)
+Seat 3: DoublelegTD ($15398.56 in chips)
+Seat 5: NijeGreska ($2685.50 in chips)
+Seat 6: Sabazius ($2097.00 in chips)
+Seat 7: Gizineni ($5832.14 in chips)
+Seat 8: Doctapopashot ($1000.00 in chips)
+Seat 9: songo24 ($2899.98 in chips)
+Gizineni: posts small blind $50.00
+Doctapopashot: posts big blind $100.00
+*** HOLE CARDS ***
+DoublelegTD: folds
+NijeGreska: folds
+Sabazius: folds
+Gizineni: calls $50.00
+Doctapopashot: checks
+*** FLOP *** [5c 2h 6s]
+Gizineni: checks
+Doctapopashot: bets $100.00
+Gizineni: calls $100.00
+*** TURN *** [5c 2h 6s] [Jh]
+Gizineni: checks
+Doctapopashot: checks
+*** RIVER *** [5c 2h 6s Jh] [4c]
+Gizineni: checks
+Doctapopashot: bets $240.00
+Gizineni: raises $880.00 to $1120.00
+Doctapopashot: folds
+Uncalled bet ($880.00) returned to Gizineni
+Gizineni collected $877.00 from pot
+Gizineni: doesn't show hand
+*** SUMMARY ***
+Total pot $880.00 | Rake $3.00
+Board [5c 2h 6s Jh 4c]
+Seat 3: DoublelegTD folded before Flop (didn't bet)
+Seat 5: NijeGreska folded before Flop (didn't bet)
+Seat 6: Sabazius (button) folded before Flop (didn't bet)
+Seat 7: Gizineni (small blind) collected ($877.00)
+Seat 8: Doctapopashot (big blind) folded on the River
+
+PokerStars Hand #1345996827:  Hold'em No Limit ($50.00/$100.00 USD) - 2022/08/19 22:38:52 ET
+Table 'WPN_7 Day No Rathole 50/100 NLH' 9-max Seat #7 is the button
+Seat 1: BeAlive ($1000.00 in chips)
+Seat 3: DoublelegTD ($15398.56 in chips)
+Seat 5: NijeGreska ($2685.50 in chips)
+Seat 6: Sabazius ($2097.00 in chips)
+Seat 7: Gizineni ($6269.14 in chips)
+Seat 8: Doctapopashot ($560.00 in chips)
+Seat 9: songo24 ($2899.98 in chips)
+Doctapopashot: posts small blind $50.00
+songo24: posts big blind $100.00
+*** HOLE CARDS ***
+DoublelegTD: folds
+NijeGreska: folds
+Sabazius: folds
+Gizineni: raises $100.00 to $200.00
+Doctapopashot: folds
+songo24: folds
+Uncalled bet ($100.00) returned to Gizineni
+Gizineni collected $250.00 from pot
+Gizineni: doesn't show hand
+*** SUMMARY ***
+Total pot $250.00 | Rake $0.00
+Seat 3: DoublelegTD folded before Flop (didn't bet)
+Seat 5: NijeGreska folded before Flop (didn't bet)
+Seat 6: Sabazius folded before Flop (didn't bet)
+Seat 7: Gizineni (button) collected ($250.00)
+Seat 8: Doctapopashot (small blind) folded before Flop
+Seat 9: songo24 (big blind) folded before Flop
+
+PokerStars Hand #1345997104:  Hold'em No Limit ($50.00/$100.00 USD) - 2022/08/19 22:39:06 ET
+Table 'WPN_7 Day No Rathole 50/100 NLH' 9-max Seat #8 is the button
+Seat 1: BeAlive ($1000.00 in chips)
+Seat 3: DoublelegTD ($15398.56 in chips)
+Seat 5: NijeGreska ($2685.50 in chips)
+Seat 6: Sabazius ($2097.00 in chips)
+Seat 7: Gizineni ($6419.14 in chips)
+Seat 8: Doctapopashot ($510.00 in chips)
+Seat 9: songo24 ($2799.98 in chips)
+songo24: posts small blind $50.00
+BeAlive: posts big blind $100.00
+*** HOLE CARDS ***
+DoublelegTD: folds
+NijeGreska: folds
+Sabazius: folds
+Gizineni: folds
+Doctapopashot: raises $410.00 to $510.00 and is all-in
+songo24: calls $460.00
+BeAlive: folds
+*** FLOP *** [Jd Jc 6s]
+*** TURN *** [Jd Jc 6s] [Kh]
+*** RIVER *** [Jd Jc 6s Kh] [4d]
+*** SHOW DOWN ***
+songo24: shows [8h Ah]
+Doctapopashot: shows [7h Ad]
+songo24 collected $1117.00 from pot
+*** SUMMARY ***
+Total pot $1120.00 | Rake $3.00
+Board [Jd Jc 6s Kh 4d]
+Seat 1: BeAlive (big blind) folded before Flop
+Seat 3: DoublelegTD folded before Flop (didn't bet)
+Seat 5: NijeGreska folded before Flop (didn't bet)
+Seat 6: Sabazius folded before Flop (didn't bet)
+Seat 7: Gizineni folded before Flop (didn't bet)
+Seat 8: Doctapopashot (button) showed [7h Ad] and lost
+Seat 9: songo24 (small blind) showed [8h Ah] and won ($1117.00)
+
+PokerStars Hand #1345997769:  Hold'em No Limit ($50.00/$100.00 USD) - 2022/08/19 22:39:39 ET
+Table 'WPN_7 Day No Rathole 50/100 NLH' 9-max Seat #9 is the button
+Seat 1: BeAlive ($1000.00 in chips)
+Seat 3: DoublelegTD ($15398.56 in chips)
+Seat 5: NijeGreska ($2685.50 in chips)
+Seat 6: Sabazius ($2097.00 in chips)
+Seat 7: Gizineni ($6419.14 in chips)
+Seat 8: Doctapopashot ($1000.00 in chips)
+Seat 9: songo24 ($3406.98 in chips)
+BeAlive: posts small blind $50.00
+DoublelegTD: posts big blind $100.00
+*** HOLE CARDS ***
+NijeGreska: folds
+Sabazius: folds
+Gizineni: folds
+Doctapopashot: raises $900.00 to $1000.00 and is all-in
+songo24: folds
+BeAlive: calls $950.00 and is all-in
+DoublelegTD: folds
+*** FLOP *** [3c 2h 5c]
+*** TURN *** [3c 2h 5c] [Td]
+*** RIVER *** [3c 2h 5c Td] [5s]
+*** SHOW DOWN ***
+Doctapopashot: shows [Ah Ac]
+BeAlive: shows [8c As]
+Doctapopashot collected $2097.00 from pot
+*** SUMMARY ***
+Total pot $2100.00 | Rake $3.00
+Board [3c 2h 5c Td 5s]
+Seat 1: BeAlive (small blind) showed [8c As] and lost
+Seat 3: DoublelegTD (big blind) folded before Flop
+Seat 5: NijeGreska folded before Flop (didn't bet)
+Seat 6: Sabazius folded before Flop (didn't bet)
+Seat 7: Gizineni folded before Flop (didn't bet)
+Seat 8: Doctapopashot showed [Ah Ac] and won ($2097.00)
+Seat 9: songo24 (button) folded before Flop (didn't bet)
+
+PokerStars Hand #1345998471:  Hold'em No Limit ($50.00/$100.00 USD) - 2022/08/19 22:40:11 ET
+Table 'WPN_7 Day No Rathole 50/100 NLH' 9-max Seat #1 is the button
+Seat 1: BeAlive ($1000.00 in chips)
+Seat 3: DoublelegTD ($15298.56 in chips)
+Seat 5: NijeGreska ($2685.50 in chips)
+Seat 6: Sabazius ($2097.00 in chips)
+Seat 7: Gizineni ($6419.14 in chips)
+Seat 8: Doctapopashot ($2097.00 in chips)
+Seat 9: songo24 ($3406.98 in chips)
+DoublelegTD: posts small blind $50.00
+NijeGreska: posts big blind $100.00
+*** HOLE CARDS ***
+Sabazius: folds
+Gizineni: raises $100.00 to $200.00
+Doctapopashot: raises $1897.00 to $2097.00 and is all-in
+songo24: folds
+BeAlive: folds
+DoublelegTD: folds
+NijeGreska: folds
+Gizineni: folds
+Uncalled bet ($1897.00) returned to Doctapopashot
+Doctapopashot collected $550.00 from pot
+Doctapopashot: doesn't show hand
+*** SUMMARY ***
+Total pot $550.00 | Rake $0.00
+Seat 1: BeAlive (button) folded before Flop (didn't bet)
+Seat 3: DoublelegTD (small blind) folded before Flop
+Seat 5: NijeGreska (big blind) folded before Flop
+Seat 6: Sabazius folded before Flop (didn't bet)
+Seat 7: Gizineni folded before Flop
+Seat 8: Doctapopashot collected ($550.00)
+Seat 9: songo24 folded before Flop (didn't bet)
+
+PokerStars Hand #1345998987:  Hold'em No Limit ($50.00/$100.00 USD) - 2022/08/19 22:40:38 ET
+Table 'WPN_7 Day No Rathole 50/100 NLH' 9-max Seat #3 is the button
+Seat 1: BeAlive ($1000.00 in chips)
+Seat 3: DoublelegTD ($15248.56 in chips)
+Seat 5: NijeGreska ($2585.50 in chips)
+Seat 6: Sabazius ($2097.00 in chips)
+Seat 7: Gizineni ($6219.14 in chips)
+Seat 8: Doctapopashot ($2447.00 in chips)
+Seat 9: songo24 ($3406.98 in chips)
+NijeGreska: posts small blind $50.00
+Sabazius: posts big blind $100.00
+*** HOLE CARDS ***
+Gizineni: folds
+Doctapopashot: raises $2347.00 to $2447.00 and is all-in
+songo24: raises $959.98 to $3406.98 and is all-in
+BeAlive: folds
+DoublelegTD: folds
+NijeGreska: folds
+Sabazius: folds
+Uncalled bet ($959.98) returned to songo24
+*** FLOP *** [6s 8d Tc]
+*** TURN *** [6s 8d Tc] [5s]
+*** RIVER *** [6s 8d Tc 5s] [4h]
+*** SHOW DOWN ***
+Doctapopashot: shows [Qh As]
+songo24: shows [Qc Ac]
+Doctapopashot collected $2520.50 from pot
+songo24 collected $2520.50 from pot
+*** SUMMARY ***
+Total pot $5044.00 | Rake $3.00
+Board [6s 8d Tc 5s 4h]
+Seat 1: BeAlive folded before Flop (didn't bet)
+Seat 3: DoublelegTD (button) folded before Flop (didn't bet)
+Seat 5: NijeGreska (small blind) folded before Flop
+Seat 6: Sabazius (big blind) folded before Flop
+Seat 7: Gizineni folded before Flop (didn't bet)
+Seat 8: Doctapopashot showed [Qh As] and won ($2520.50)
+Seat 9: songo24 showed [Qc Ac] and won ($2520.50)
+
+PokerStars Hand #1345999585:  Hold'em No Limit ($50.00/$100.00 USD) - 2022/08/19 22:41:09 ET
+Table 'WPN_7 Day No Rathole 50/100 NLH' 9-max Seat #5 is the button
+Seat 1: BeAlive ($1000.00 in chips)
+Seat 3: DoublelegTD ($15248.56 in chips)
+Seat 5: NijeGreska ($2535.50 in chips)
+Seat 6: Sabazius ($1997.00 in chips)
+Seat 7: Gizineni ($6219.14 in chips)
+Seat 8: Doctapopashot ($2520.50 in chips)
+Seat 9: songo24 ($3480.48 in chips)
+Sabazius: posts small blind $50.00
+Gizineni: posts big blind $100.00
+*** HOLE CARDS ***
+Doctapopashot: folds
+songo24: folds
+BeAlive: folds
+DoublelegTD: raises $100.00 to $200.00
+NijeGreska: raises $275.00 to $475.00
+Sabazius: folds
+Gizineni: folds
+DoublelegTD: folds
+Uncalled bet ($275.00) returned to NijeGreska
+NijeGreska collected $550.00 from pot
+NijeGreska: doesn't show hand
+*** SUMMARY ***
+Total pot $550.00 | Rake $0.00
+Seat 1: BeAlive folded before Flop (didn't bet)
+Seat 3: DoublelegTD folded before Flop
+Seat 5: NijeGreska (button) collected ($550.00)
+Seat 6: Sabazius (small blind) folded before Flop
+Seat 7: Gizineni (big blind) folded before Flop
+Seat 8: Doctapopashot folded before Flop (didn't bet)
+Seat 9: songo24 folded before Flop (didn't bet)
+
+PokerStars Hand #1346000259:  Hold'em No Limit ($50.00/$100.00 USD) - 2022/08/19 22:41:42 ET
+Table 'WPN_7 Day No Rathole 50/100 NLH' 9-max Seat #6 is the button
+Seat 1: BeAlive ($1000.00 in chips)
+Seat 3: DoublelegTD ($15048.56 in chips)
+Seat 5: NijeGreska ($2885.50 in chips)
+Seat 6: Sabazius ($1947.00 in chips)
+Seat 7: Gizineni ($6119.14 in chips)
+Seat 8: Doctapopashot ($2520.50 in chips)
+Seat 9: songo24 ($3480.48 in chips)
+Gizineni: posts small blind $50.00
+Doctapopashot: posts big blind $100.00
+*** HOLE CARDS ***
+songo24: raises $100.00 to $200.00
+BeAlive: folds
+DoublelegTD: folds
+NijeGreska: folds
+Sabazius: folds
+Gizineni: folds
+Doctapopashot: folds
+Uncalled bet ($100.00) returned to songo24
+songo24 collected $250.00 from pot
+songo24: doesn't show hand
+*** SUMMARY ***
+Total pot $250.00 | Rake $0.00
+Seat 1: BeAlive folded before Flop (didn't bet)
+Seat 3: DoublelegTD folded before Flop (didn't bet)
+Seat 5: NijeGreska folded before Flop (didn't bet)
+Seat 6: Sabazius (button) folded before Flop (didn't bet)
+Seat 7: Gizineni (small blind) folded before Flop
+Seat 8: Doctapopashot (big blind) folded before Flop
+Seat 9: songo24 collected ($250.00)
+
+PokerStars Hand #1346000642:  Hold'em No Limit ($50.00/$100.00 USD) - 2022/08/19 22:42:00 ET
+Table 'WPN_7 Day No Rathole 50/100 NLH' 9-max Seat #7 is the button
+Seat 1: BeAlive ($1000.00 in chips)
+Seat 3: DoublelegTD ($15048.56 in chips)
+Seat 5: NijeGreska ($2885.50 in chips)
+Seat 6: Sabazius ($1947.00 in chips)
+Seat 7: Gizineni ($6069.14 in chips)
+Seat 8: Doctapopashot ($2420.50 in chips)
+Seat 9: songo24 ($3630.48 in chips)
+Doctapopashot: posts small blind $50.00
+songo24: posts big blind $100.00
+*** HOLE CARDS ***
+BeAlive: folds
+DoublelegTD: raises $100.00 to $200.00
+NijeGreska: folds
+Sabazius: folds
+Gizineni: folds
+Doctapopashot: folds
+songo24: folds
+Uncalled bet ($100.00) returned to DoublelegTD
+DoublelegTD collected $250.00 from pot
+DoublelegTD: doesn't show hand
+*** SUMMARY ***
+Total pot $250.00 | Rake $0.00
+Seat 1: BeAlive folded before Flop (didn't bet)
+Seat 3: DoublelegTD collected ($250.00)
+Seat 5: NijeGreska folded before Flop (didn't bet)
+Seat 6: Sabazius folded before Flop (didn't bet)
+Seat 7: Gizineni (button) folded before Flop (didn't bet)
+Seat 8: Doctapopashot (small blind) folded before Flop
+Seat 9: songo24 (big blind) folded before Flop
+
+PokerStars Hand #1346001189:  Hold'em No Limit ($50.00/$100.00 USD) - 2022/08/19 22:42:29 ET
+Table 'WPN_7 Day No Rathole 50/100 NLH' 9-max Seat #8 is the button
+Seat 1: BeAlive ($1000.00 in chips)
+Seat 3: DoublelegTD ($15198.56 in chips)
+Seat 5: NijeGreska ($2885.50 in chips)
+Seat 6: Sabazius ($1947.00 in chips)
+Seat 7: Gizineni ($6069.14 in chips)
+Seat 8: Doctapopashot ($2370.50 in chips)
+Seat 9: songo24 ($3530.48 in chips)
+songo24: posts small blind $50.00
+DoublelegTD: posts big blind $100.00
+*** HOLE CARDS ***
+NijeGreska: folds
+Sabazius: folds
+Gizineni: folds
+Doctapopashot: raises $100.00 to $200.00
+songo24: folds
+DoublelegTD: calls $100.00
+*** FLOP *** [Kd As Jh]
+DoublelegTD: checks
+Doctapopashot: bets $126.00
+DoublelegTD: calls $126.00
+*** TURN *** [Kd As Jh] [6c]
+DoublelegTD: checks
+Doctapopashot: bets $415.90
+DoublelegTD: calls $415.90
+*** RIVER *** [Kd As Jh 6c] [5c]
+DoublelegTD: checks
+Doctapopashot: bets $1628.60 and is all-in
+DoublelegTD: calls $1628.60
+*** SHOW DOWN ***
+DoublelegTD: shows [3d Ah]
+Doctapopashot: shows [8h 9h]
+DoublelegTD collected $4788.00 from pot
+*** SUMMARY ***
+Total pot $4791.00 | Rake $3.00
+Board [Kd As Jh 6c 5c]
+Seat 3: DoublelegTD (big blind) showed [3d Ah] and won ($4788.00)
+Seat 5: NijeGreska folded before Flop (didn't bet)
+Seat 6: Sabazius folded before Flop (didn't bet)
+Seat 7: Gizineni folded before Flop (didn't bet)
+Seat 8: Doctapopashot (button) showed [8h 9h] and lost
+Seat 9: songo24 (small blind) folded before Flop
+
+PokerStars Hand #1346002662:  Hold'em No Limit ($50.00/$100.00 USD) - 2022/08/19 22:43:42 ET
+Table 'WPN_7 Day No Rathole 50/100 NLH' 9-max Seat #9 is the button
+Seat 3: DoublelegTD ($17616.06 in chips)
+Seat 5: NijeGreska ($2885.50 in chips)
+Seat 6: Sabazius ($1947.00 in chips)
+Seat 7: Gizineni ($6069.14 in chips)
+Seat 9: songo24 ($3480.48 in chips)
+DoublelegTD: posts small blind $50.00
+Gizineni: posts big blind $100.00
+*** HOLE CARDS ***
+songo24: raises $100.00 to $200.00
+DoublelegTD: folds
+Gizineni: folds
+Uncalled bet ($100.00) returned to songo24
+songo24 collected $250.00 from pot
+songo24: doesn't show hand
+*** SUMMARY ***
+Total pot $250.00 | Rake $0.00
+Seat 3: DoublelegTD (small blind) folded before Flop
+Seat 7: Gizineni (big blind) folded before Flop
+Seat 9: songo24 (button) collected ($250.00)
+
+PokerStars Hand #1346003644:  Hold'em No Limit ($50.00/$100.00 USD) - 2022/08/19 22:44:32 ET
+Table 'WPN_7 Day No Rathole 50/100 NLH' 9-max Seat #7 is the button
+Seat 3: DoublelegTD ($17566.06 in chips)
+Seat 7: Gizineni ($5919.14 in chips)
+Gizineni: posts small blind $50.00
+DoublelegTD: posts big blind $100.00
+*** HOLE CARDS ***
+Gizineni: raises $120.00 to $220.00
+DoublelegTD: calls $120.00
+*** FLOP *** [7c Qc 7h]
+DoublelegTD: checks
+Gizineni: checks
+*** TURN *** [7c Qc 7h] [Qd]
+DoublelegTD: checks
+Gizineni: bets $120.00
+DoublelegTD: calls $120.00
+*** RIVER *** [7c Qc 7h Qd] [4c]
+DoublelegTD: checks
+Gizineni: checks
+*** SHOW DOWN ***
+Gizineni: shows [As 5h]
+DoublelegTD: mucks hand
+Gizineni collected $678.75 from pot
+*** SUMMARY ***
+Total pot $680.00 | Rake $1.25
+Board [7c Qc 7h Qd 4c]
+Seat 3: DoublelegTD (big blind) mucked
+Seat 7: Gizineni (button) (small blind) showed [As 5h] and won ($678.75)
+
+PokerStars Hand #1346004761:  Hold'em No Limit ($50.00/$100.00 USD) - 2022/08/19 22:45:29 ET
+Table 'WPN_7 Day No Rathole 50/100 NLH' 9-max Seat #3 is the button
+Seat 3: DoublelegTD ($17226.06 in chips)
+Seat 7: Gizineni ($6307.89 in chips)
+DoublelegTD: posts small blind $50.00
+Gizineni: posts big blind $100.00
+*** HOLE CARDS ***
+DoublelegTD: raises $100.00 to $200.00
+Gizineni: raises $500.00 to $700.00
+DoublelegTD: folds
+Uncalled bet ($500.00) returned to Gizineni
+Gizineni collected $400.00 from pot
+Gizineni: doesn't show hand
+*** SUMMARY ***
+Total pot $400.00 | Rake $0.00
+Seat 3: DoublelegTD (button) (small blind) folded before Flop
+Seat 7: Gizineni (big blind) collected ($400.00)
+
+PokerStars Hand #1346029482:  Hold'em No Limit ($50.00/$100.00 USD) - 2022/08/19 23:09:07 ET
+Table 'WPN_7 Day No Rathole 50/100 NLH' 9-max Seat #8 is the button
+Seat 3: DoublelegTD ($17344.81 in chips)
+Seat 8: FreeRakeback ($6331.63 in chips)
+FreeRakeback: posts small blind $50.00
+DoublelegTD: posts big blind $100.00
+*** HOLE CARDS ***
+FreeRakeback: raises $120.00 to $220.00
+DoublelegTD: raises $620.00 to $840.00
+FreeRakeback: calls $620.00
+*** FLOP *** [6h 7s Kc]
+DoublelegTD: bets $504.00
+FreeRakeback: calls $504.00
+*** TURN *** [6h 7s Kc] [8c]
+DoublelegTD: checks
+FreeRakeback: bets $802.29
+DoublelegTD: folds
+Uncalled bet ($802.29) returned to FreeRakeback
+FreeRakeback collected $2686.75 from pot
+FreeRakeback: doesn't show hand
+*** SUMMARY ***
+Total pot $2688.00 | Rake $1.25
+Board [6h 7s Kc 8c]
+Seat 3: DoublelegTD (big blind) folded on the Turn
+Seat 8: FreeRakeback (button) (small blind) collected ($2686.75)
+

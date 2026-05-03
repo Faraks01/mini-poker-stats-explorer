@@ -1,0 +1,220 @@
+
+Hand #1903797148 - Holdem(No Limit) - $25/$50 - 2023/10/22 06:12:05 UTC
+Carlisle 6-max Seat #1 is the button
+Seat 1: SeaLlama ($8064.01)
+Seat 3: Burundos254 ($5770.69)
+Seat 4: SigadiSogadi ($4650)
+Seat 5: Tahoelife ($5000)
+Seat 6: RA2 ($5000)
+SeaLlama posts ante $250
+Burundos254 posts ante $250
+SigadiSogadi posts ante $250
+*** HOLE CARDS *** 
+*** FLOP *** [7h Kc 7s]
+Main pot $748.25 | Rake $1.75
+Burundos254 checks
+SigadiSogadi checks
+SeaLlama bets $187
+Burundos254 calls $187
+SigadiSogadi folds
+*** TURN *** [7h Kc 7s] [4h]
+Main pot $1122.25 | Rake $1.75
+Burundos254 checks
+SeaLlama checks
+*** RIVER *** [7h Kc 7s 4h] [9s]
+Main pot $1122.25 | Rake $1.75
+Burundos254 bets $841.68
+SeaLlama folds
+Uncalled bet ($841.68) returned to Burundos254
+Burundos254 does not show
+*** SUMMARY ***
+BombPot
+Total pot $1122.25 | Rake $1.75
+Seat 1: SeaLlama (button) folded on the River
+Seat 3: Burundos254 did not showed and won $1122.25
+Seat 4: SigadiSogadi folded on the Flop
+
+
+Hand #1903802008 - Holdem(No Limit) - $25/$50 - 2023/10/22 06:20:10 UTC
+Carlisle 6-max Seat #4 is the button
+Seat 1: SeaLlama ($7701.88)
+Seat 3: Burundos254 ($5000)
+Seat 4: SigadiSogadi ($6140)
+SeaLlama posts ante $250
+Burundos254 posts ante $250
+SigadiSogadi posts ante $250
+*** HOLE CARDS *** 
+*** FLOP *** [2d As Jh]
+Main pot $748.25 | Rake $1.75
+SeaLlama checks
+Burundos254 bets $187
+SigadiSogadi calls $187
+SeaLlama calls $187
+*** TURN *** [2d As Jh] [2s]
+Main pot $1309.25 | Rake $1.75
+SeaLlama checks
+Burundos254 checks
+SigadiSogadi checks
+*** RIVER *** [2d As Jh 2s] [6d]
+Main pot $1309.25 | Rake $1.75
+SeaLlama checks
+Burundos254 checks
+SigadiSogadi checks
+*** SHOW DOWN ***
+Main pot $1309.25 | Rake $1.75
+SigadiSogadi shows [Js 8c]
+SigadiSogadi collected $1309.25 from main pot
+*** SUMMARY ***
+BombPot
+Total pot $1309.25 | Rake $1.75
+Seat 1: SeaLlama did not showed and lost
+Seat 3: Burundos254 did not showed and lost
+Seat 4: SigadiSogadi (button) showed [Js 8c] and won $1309.25 with TwoPair [Js Jh 2s 2d As]
+
+
+Hand #1903813965 - Holdem(No Limit) - $25/$50 - 2023/10/22 06:43:05 UTC
+Carlisle 6-max Seat #1 is the button
+Seat 1: SeaLlama ($7102.59)
+Seat 3: Burundos254 ($5010.75)
+Seat 4: SigadiSogadi ($12687)
+SeaLlama posts ante $250
+Burundos254 posts ante $250
+SigadiSogadi posts ante $250
+*** HOLE CARDS *** 
+*** FLOP *** [3h 4h Kh]
+Main pot $748.25 | Rake $1.75
+Burundos254 checks
+SigadiSogadi checks
+SeaLlama checks
+*** TURN *** [3h 4h Kh] [2s]
+Main pot $748.25 | Rake $1.75
+Burundos254 checks
+SigadiSogadi checks
+SeaLlama checks
+*** RIVER *** [3h 4h Kh 2s] [8h]
+Main pot $748.25 | Rake $1.75
+Burundos254 bets $561.18
+SigadiSogadi folds
+SeaLlama folds
+Uncalled bet ($561.18) returned to Burundos254
+Burundos254 does not show
+*** SUMMARY ***
+BombPot
+Total pot $748.25 | Rake $1.75
+Seat 1: SeaLlama (button) folded on the River
+Seat 3: Burundos254 did not showed and won $748.25
+Seat 4: SigadiSogadi folded on the River
+
+
+Hand #1903817068 - Holdem(No Limit) - $25/$50 - 2023/10/22 06:49:52 UTC
+Carlisle 6-max Seat #1 is the button
+Seat 1: SeaLlama ($6363.34)
+Seat 3: Burundos254 ($6253.25)
+Seat 4: SigadiSogadi ($12175)
+SeaLlama posts ante $250
+Burundos254 posts ante $250
+SigadiSogadi posts ante $250
+*** HOLE CARDS *** 
+*** FLOP *** [5c Ks 2c]
+Main pot $748.25 | Rake $1.75
+Burundos254 checks
+SigadiSogadi checks
+SeaLlama bets $247
+Burundos254 folds
+SigadiSogadi calls $247
+*** TURN *** [5c Ks 2c] [2d]
+Main pot $1242.25 | Rake $1.75
+SigadiSogadi checks
+SeaLlama checks
+*** RIVER *** [5c Ks 2c 2d] [Kh]
+Main pot $1242.25 | Rake $1.75
+SigadiSogadi bets $933
+SeaLlama calls $933
+*** SHOW DOWN ***
+Main pot $1242.25 | Rake $1.75
+SeaLlama shows [5s Qd]
+SeaLlama collected $3108.25 from main pot
+*** SUMMARY ***
+BombPot
+Total pot $3108.25 | Rake $1.75
+Seat 1: SeaLlama (button) showed [5s Qd] and won $3108.25 with TwoPair [Ks Kh 5s 5c Qd]
+Seat 3: Burundos254 folded on the Flop
+Seat 4: SigadiSogadi did not showed and lost
+
+
+Hand #1903878135 - Holdem(No Limit) - $25/$50 - 2023/10/22 09:51:11 UTC
+Carlisle 6-max Seat #2 is the button
+Seat 1: Pr.Lupine ($5000)
+Seat 2: fonStierlitz ($5000)
+Seat 3: TheMestresis ($5000)
+Seat 5: GARMONISTIK ($5000)
+Seat 6: uhhhyesandno ($5000)
+fonStierlitz posts ante $250
+GARMONISTIK posts ante $250
+*** HOLE CARDS *** 
+*** FLOP *** [Jd 7d 4s]
+Main pot $498.75 | Rake $1.25
+GARMONISTIK bets $75
+fonStierlitz calls $75
+*** TURN *** [Jd 7d 4s] [7h]
+Main pot $648.75 | Rake $1.25
+GARMONISTIK bets $487.50
+fonStierlitz folds
+Uncalled bet ($487.50) returned to GARMONISTIK
+GARMONISTIK does not show
+*** SUMMARY ***
+BombPot
+Total pot $648.75 | Rake $1.25
+Seat 2: fonStierlitz (button) folded on the Turn
+Seat 5: GARMONISTIK did not showed and won $648.75
+
+
+Hand #1903878380 - Holdem(No Limit) - $25/$50 - 2023/10/22 09:53:11 UTC
+Carlisle 6-max Seat #6 is the button
+Seat 1: Pr.Lupine ($2000)
+Seat 2: fonStierlitz ($5000)
+Seat 3: TheMestresis ($5000)
+Seat 4: honey_badger ($5000)
+Seat 5: GARMONISTIK ($5323.75)
+Seat 6: uhhhyesandno ($5000)
+Pr.Lupine posts ante $250
+fonStierlitz posts ante $250
+TheMestresis posts ante $250
+GARMONISTIK posts ante $250
+uhhhyesandno posts ante $250
+*** HOLE CARDS *** 
+*** FLOP *** [6h Kd 2h]
+Main pot $1247 | Rake $3
+Pr.Lupine checks
+fonStierlitz checks
+TheMestresis checks
+GARMONISTIK checks
+uhhhyesandno checks
+*** TURN *** [6h Kd 2h] [Jc]
+Main pot $1247 | Rake $3
+Pr.Lupine checks
+fonStierlitz checks
+TheMestresis checks
+GARMONISTIK checks
+uhhhyesandno checks
+*** RIVER *** [6h Kd 2h Jc] [9h]
+Main pot $1247 | Rake $3
+Pr.Lupine checks
+fonStierlitz bets $312.50
+TheMestresis calls $312.50
+GARMONISTIK folds
+uhhhyesandno folds
+Pr.Lupine folds
+*** SHOW DOWN ***
+Main pot $1247 | Rake $3
+fonStierlitz shows [Qs Td]
+fonStierlitz collected $1872 from main pot
+*** SUMMARY ***
+BombPot
+Total pot $1872 | Rake $3
+Seat 1: Pr.Lupine folded on the River
+Seat 2: fonStierlitz showed [Qs Td] and won $1872 with Straight [Kd Qs Jc Td 9h]
+Seat 3: TheMestresis did not showed and lost
+Seat 5: GARMONISTIK folded on the River
+Seat 6: uhhhyesandno (button) folded on the River
+

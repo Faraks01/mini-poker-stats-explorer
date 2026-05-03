@@ -1,0 +1,497 @@
+PokerStars Hand #1491886003:  Hold'em No Limit ($75.00/$150.00 USD) - 2022/12/20 05:41:52 ET
+Table 'WPN_7 Day No Rathole 75/150 NLH' 9-max Seat #1 is the button
+Seat 1: BrandonAces ($1350.00 in chips)
+Seat 2: HornyOldMan ($10662.47 in chips)
+BrandonAces: posts small blind $75.00
+HornyOldMan: posts big blind $150.00
+*** HOLE CARDS ***
+BrandonAces: folds
+Uncalled bet ($75.00) returned to HornyOldMan
+HornyOldMan collected $150.00 from pot
+HornyOldMan: doesn't show hand
+*** SUMMARY ***
+Total pot $150.00 | Rake $0.00
+Seat 1: BrandonAces (button) (small blind) folded before Flop
+Seat 2: HornyOldMan (big blind) collected ($150.00)
+
+PokerStars Hand #1491886218:  Hold'em No Limit ($75.00/$150.00 USD) - 2022/12/20 05:42:06 ET
+Table 'WPN_7 Day No Rathole 75/150 NLH' 9-max Seat #2 is the button
+Seat 1: BrandonAces ($1425.00 in chips)
+Seat 2: HornyOldMan ($10737.47 in chips)
+HornyOldMan: posts small blind $75.00
+BrandonAces: posts big blind $150.00
+*** HOLE CARDS ***
+HornyOldMan: raises $10587.47 to $10737.47 and is all-in
+BrandonAces: folds
+Uncalled bet ($10587.47) returned to HornyOldMan
+HornyOldMan collected $300.00 from pot
+HornyOldMan: doesn't show hand
+*** SUMMARY ***
+Total pot $300.00 | Rake $0.00
+Seat 1: BrandonAces (big blind) folded before Flop
+Seat 2: HornyOldMan (button) (small blind) collected ($300.00)
+
+PokerStars Hand #1491886462:  Hold'em No Limit ($75.00/$150.00 USD) - 2022/12/20 05:42:22 ET
+Table 'WPN_7 Day No Rathole 75/150 NLH' 9-max Seat #1 is the button
+Seat 1: BrandonAces ($1350.00 in chips)
+Seat 2: HornyOldMan ($10887.47 in chips)
+Seat 3: DoublelegTD ($3144.13 in chips)
+BrandonAces: posts small blind $75.00
+HornyOldMan: posts big blind $150.00
+*** HOLE CARDS ***
+BrandonAces: raises $1350.00 to $1500.00 and is all-in
+HornyOldMan: calls $1350.00
+*** FLOP *** [Jd 5s Ac]
+*** TURN *** [Jd 5s Ac] [Qd]
+*** RIVER *** [Jd 5s Ac Qd] [6c]
+*** SHOW DOWN ***
+HornyOldMan: shows [Ad Kh]
+BrandonAces: shows [8s Ts]
+HornyOldMan collected $2998.75 from pot
+*** SUMMARY ***
+Total pot $3000.00 | Rake $1.25
+Board [Jd 5s Ac Qd 6c]
+Seat 1: BrandonAces (button) (small blind) showed [8s Ts] and lost
+Seat 2: HornyOldMan (big blind) showed [Ad Kh] and won ($2998.75)
+
+PokerStars Hand #1491886842:  Hold'em No Limit ($75.00/$150.00 USD) - 2022/12/20 05:42:45 ET
+Table 'WPN_7 Day No Rathole 75/150 NLH' 9-max Seat #2 is the button
+Seat 2: HornyOldMan ($12386.22 in chips)
+Seat 3: DoublelegTD ($3144.13 in chips)
+HornyOldMan: posts small blind $75.00
+DoublelegTD: posts big blind $150.00
+*** HOLE CARDS ***
+HornyOldMan: raises $150.00 to $300.00
+DoublelegTD: calls $150.00
+*** FLOP *** [9s 2s 8c]
+DoublelegTD: checks
+HornyOldMan: bets $374.37
+DoublelegTD: raises $2360.29 to $2734.66
+HornyOldMan: raises $2360.29 to $5094.95
+DoublelegTD: calls $109.47 and is all-in
+Uncalled bet ($2250.82) returned to HornyOldMan
+*** FIRST TURN *** [9s 2s 8c] [Js]
+*** FIRST RIVER *** [9s 2s 8c Js] [Ts]
+*** SECOND TURN *** [9s 2s 8c] [Qs]
+*** SECOND RIVER *** [9s 2s 8c Qs] [Jh]
+*** FIRST SHOW DOWN ***
+HornyOldMan: shows [Kc Ks]
+DoublelegTD: shows [9h 6h]
+HornyOldMan collected $3143.51 from pot
+*** SECOND SHOW DOWN ***
+HornyOldMan: shows [Kc Ks]
+DoublelegTD: shows [9h 6h]
+HornyOldMan collected $3143.50 from pot
+*** SUMMARY ***
+Total pot $6288.26 | Rake $1.25
+Hand was run twice
+FIRST Board [9s 2s 8c Js Ts]
+SECOND Board [9s 2s 8c Qs Jh]
+Seat 2: HornyOldMan (button) (small blind) showed [Kc Ks] and won ($3143.51), and won ($3143.50)
+Seat 3: DoublelegTD (big blind) showed [9h 6h] and lost, and lost
+
+PokerStars Hand #1491888309:  Hold'em No Limit ($75.00/$150.00 USD) - 2022/12/20 05:44:17 ET
+Table 'WPN_7 Day No Rathole 75/150 NLH' 9-max Seat #3 is the button
+Seat 2: HornyOldMan ($15529.10 in chips)
+Seat 3: DoublelegTD ($1500.00 in chips)
+DoublelegTD: posts small blind $75.00
+HornyOldMan: posts big blind $150.00
+*** HOLE CARDS ***
+DoublelegTD: folds
+Uncalled bet ($75.00) returned to HornyOldMan
+HornyOldMan collected $150.00 from pot
+HornyOldMan: doesn't show hand
+*** SUMMARY ***
+Total pot $150.00 | Rake $0.00
+Seat 2: HornyOldMan (big blind) collected ($150.00)
+Seat 3: DoublelegTD (button) (small blind) folded before Flop
+
+PokerStars Hand #1491901910:  Hold'em No Limit ($75.00/$150.00 USD) - 2022/12/20 06:01:15 ET
+Table 'WPN_7 Day No Rathole 75/150 NLH' 9-max Seat #1 is the button
+Seat 1: spicymayo ($1500.00 in chips)
+Seat 2: HornyOldMan ($17102.85 in chips)
+spicymayo: posts small blind $75.00
+HornyOldMan: posts big blind $150.00
+*** HOLE CARDS ***
+spicymayo: raises $1350.00 to $1500.00 and is all-in
+HornyOldMan: folds
+Uncalled bet ($1350.00) returned to spicymayo
+spicymayo collected $300.00 from pot
+spicymayo: doesn't show hand
+*** SUMMARY ***
+Total pot $300.00 | Rake $0.00
+Seat 1: spicymayo (button) (small blind) collected ($300.00)
+Seat 2: HornyOldMan (big blind) folded before Flop
+
+PokerStars Hand #1491902038:  Hold'em No Limit ($75.00/$150.00 USD) - 2022/12/20 06:01:27 ET
+Table 'WPN_7 Day No Rathole 75/150 NLH' 9-max Seat #2 is the button
+Seat 1: spicymayo ($1650.00 in chips)
+Seat 2: HornyOldMan ($16952.85 in chips)
+HornyOldMan: posts small blind $75.00
+spicymayo: posts big blind $150.00
+*** HOLE CARDS ***
+HornyOldMan: calls $75.00
+spicymayo: checks
+*** FLOP *** [Th 3s Qs]
+spicymayo: checks
+HornyOldMan: bets $150.00
+spicymayo: folds
+Uncalled bet ($150.00) returned to HornyOldMan
+HornyOldMan collected $298.75 from pot
+HornyOldMan: doesn't show hand
+*** SUMMARY ***
+Total pot $300.00 | Rake $1.25
+Board [Th 3s Qs]
+Seat 1: spicymayo (big blind) folded on the Flop
+Seat 2: HornyOldMan (button) (small blind) collected ($298.75)
+
+PokerStars Hand #1491902705:  Hold'em No Limit ($75.00/$150.00 USD) - 2022/12/20 06:02:08 ET
+Table 'WPN_7 Day No Rathole 75/150 NLH' 9-max Seat #1 is the button
+Seat 1: spicymayo ($1500.00 in chips)
+Seat 2: HornyOldMan ($17101.60 in chips)
+spicymayo: posts small blind $75.00
+HornyOldMan: posts big blind $150.00
+*** HOLE CARDS ***
+spicymayo: calls $75.00
+HornyOldMan: checks
+*** FLOP *** [5h 7h 3d]
+HornyOldMan: checks
+spicymayo: bets $150.00
+HornyOldMan: calls $150.00
+*** TURN *** [5h 7h 3d] [Tc]
+HornyOldMan: checks
+spicymayo: checks
+*** RIVER *** [5h 7h 3d Tc] [4s]
+HornyOldMan: checks
+spicymayo: checks
+*** SHOW DOWN ***
+HornyOldMan: shows [4h Qc]
+spicymayo: mucks hand
+HornyOldMan collected $598.75 from pot
+*** SUMMARY ***
+Total pot $600.00 | Rake $1.25
+Board [5h 7h 3d Tc 4s]
+Seat 1: spicymayo (button) (small blind) mucked
+Seat 2: HornyOldMan (big blind) showed [4h Qc] and won ($598.75)
+
+PokerStars Hand #1491903678:  Hold'em No Limit ($75.00/$150.00 USD) - 2022/12/20 06:03:17 ET
+Table 'WPN_7 Day No Rathole 75/150 NLH' 9-max Seat #2 is the button
+Seat 1: spicymayo ($1500.00 in chips)
+Seat 2: HornyOldMan ($17400.35 in chips)
+HornyOldMan: posts small blind $75.00
+spicymayo: posts big blind $150.00
+*** HOLE CARDS ***
+HornyOldMan: raises $17250.35 to $17400.35 and is all-in
+spicymayo: folds
+Uncalled bet ($17250.35) returned to HornyOldMan
+HornyOldMan collected $300.00 from pot
+HornyOldMan: doesn't show hand
+*** SUMMARY ***
+Total pot $300.00 | Rake $0.00
+Seat 1: spicymayo (big blind) folded before Flop
+Seat 2: HornyOldMan (button) (small blind) collected ($300.00)
+
+PokerStars Hand #1491903900:  Hold'em No Limit ($75.00/$150.00 USD) - 2022/12/20 06:03:32 ET
+Table 'WPN_7 Day No Rathole 75/150 NLH' 9-max Seat #1 is the button
+Seat 1: spicymayo ($1350.00 in chips)
+Seat 2: HornyOldMan ($17550.35 in chips)
+spicymayo: posts small blind $75.00
+HornyOldMan: posts big blind $150.00
+*** HOLE CARDS ***
+spicymayo: raises $1350.00 to $1500.00 and is all-in
+HornyOldMan: calls $1350.00
+*** FLOP *** [2c 6s As]
+*** TURN *** [2c 6s As] [Kc]
+*** RIVER *** [2c 6s As Kc] [Td]
+*** SHOW DOWN ***
+HornyOldMan: shows [Kd Tc]
+spicymayo: shows [7d Kh]
+HornyOldMan collected $2998.75 from pot
+*** SUMMARY ***
+Total pot $3000.00 | Rake $1.25
+Board [2c 6s As Kc Td]
+Seat 1: spicymayo (button) (small blind) showed [7d Kh] and lost
+Seat 2: HornyOldMan (big blind) showed [Kd Tc] and won ($2998.75)
+
+PokerStars Hand #1491904316:  Hold'em No Limit ($75.00/$150.00 USD) - 2022/12/20 06:04:00 ET
+Table 'WPN_7 Day No Rathole 75/150 NLH' 9-max Seat #2 is the button
+Seat 1: spicymayo ($1500.00 in chips)
+Seat 2: HornyOldMan ($19049.10 in chips)
+HornyOldMan: posts small blind $75.00
+spicymayo: posts big blind $150.00
+*** HOLE CARDS ***
+HornyOldMan: raises $18899.10 to $19049.10 and is all-in
+spicymayo: calls $1350.00 and is all-in
+Uncalled bet ($17549.10) returned to HornyOldMan
+*** FLOP *** [Qd 3h Jd]
+*** TURN *** [Qd 3h Jd] [8c]
+*** RIVER *** [Qd 3h Jd 8c] [4c]
+*** SHOW DOWN ***
+spicymayo: shows [7c Jc]
+HornyOldMan: shows [2c 2s]
+spicymayo collected $2998.75 from pot
+*** SUMMARY ***
+Total pot $3000.00 | Rake $1.25
+Board [Qd 3h Jd 8c 4c]
+Seat 1: spicymayo (big blind) showed [7c Jc] and won ($2998.75)
+Seat 2: HornyOldMan (button) (small blind) showed [2c 2s] and lost
+
+PokerStars Hand #1491904838:  Hold'em No Limit ($75.00/$150.00 USD) - 2022/12/20 06:04:35 ET
+Table 'WPN_7 Day No Rathole 75/150 NLH' 9-max Seat #1 is the button
+Seat 1: spicymayo ($2998.75 in chips)
+Seat 2: HornyOldMan ($17549.10 in chips)
+spicymayo: posts small blind $75.00
+HornyOldMan: posts big blind $150.00
+*** HOLE CARDS ***
+spicymayo: calls $75.00
+HornyOldMan: checks
+*** FLOP *** [4c Kd Kc]
+HornyOldMan: checks
+spicymayo: bets $150.00
+HornyOldMan: calls $150.00
+*** TURN *** [4c Kd Kc] [2c]
+HornyOldMan: checks
+spicymayo: bets $395.17
+HornyOldMan: folds
+Uncalled bet ($395.17) returned to spicymayo
+spicymayo collected $598.75 from pot
+spicymayo: doesn't show hand
+*** SUMMARY ***
+Total pot $600.00 | Rake $1.25
+Board [4c Kd Kc 2c]
+Seat 1: spicymayo (button) (small blind) collected ($598.75)
+Seat 2: HornyOldMan (big blind) folded on the Turn
+
+PokerStars Hand #1491905838:  Hold'em No Limit ($75.00/$150.00 USD) - 2022/12/20 06:05:46 ET
+Table 'WPN_7 Day No Rathole 75/150 NLH' 9-max Seat #2 is the button
+Seat 1: spicymayo ($3297.50 in chips)
+Seat 2: HornyOldMan ($17249.10 in chips)
+HornyOldMan: posts small blind $75.00
+spicymayo: posts big blind $150.00
+*** HOLE CARDS ***
+HornyOldMan: raises $150.00 to $300.00
+spicymayo: folds
+Uncalled bet ($150.00) returned to HornyOldMan
+HornyOldMan collected $300.00 from pot
+HornyOldMan: doesn't show hand
+*** SUMMARY ***
+Total pot $300.00 | Rake $0.00
+Seat 1: spicymayo (big blind) folded before Flop
+Seat 2: HornyOldMan (button) (small blind) collected ($300.00)
+
+PokerStars Hand #1491905977:  Hold'em No Limit ($75.00/$150.00 USD) - 2022/12/20 06:05:56 ET
+Table 'WPN_7 Day No Rathole 75/150 NLH' 9-max Seat #1 is the button
+Seat 1: spicymayo ($3147.50 in chips)
+Seat 2: HornyOldMan ($17399.10 in chips)
+spicymayo: posts small blind $75.00
+HornyOldMan: posts big blind $150.00
+*** HOLE CARDS ***
+spicymayo: folds
+Uncalled bet ($75.00) returned to HornyOldMan
+HornyOldMan collected $150.00 from pot
+HornyOldMan: doesn't show hand
+*** SUMMARY ***
+Total pot $150.00 | Rake $0.00
+Seat 1: spicymayo (button) (small blind) folded before Flop
+Seat 2: HornyOldMan (big blind) collected ($150.00)
+
+PokerStars Hand #1491906282:  Hold'em No Limit ($75.00/$150.00 USD) - 2022/12/20 06:06:16 ET
+Table 'WPN_7 Day No Rathole 75/150 NLH' 9-max Seat #2 is the button
+Seat 1: spicymayo ($3072.50 in chips)
+Seat 2: HornyOldMan ($17474.10 in chips)
+HornyOldMan: posts small blind $75.00
+spicymayo: posts big blind $150.00
+*** HOLE CARDS ***
+HornyOldMan: folds
+Uncalled bet ($75.00) returned to spicymayo
+spicymayo collected $150.00 from pot
+spicymayo: doesn't show hand
+*** SUMMARY ***
+Total pot $150.00 | Rake $0.00
+Seat 1: spicymayo (big blind) collected ($150.00)
+Seat 2: HornyOldMan (button) (small blind) folded before Flop
+
+PokerStars Hand #1491906543:  Hold'em No Limit ($75.00/$150.00 USD) - 2022/12/20 06:06:35 ET
+Table 'WPN_7 Day No Rathole 75/150 NLH' 9-max Seat #1 is the button
+Seat 1: spicymayo ($3147.50 in chips)
+Seat 2: HornyOldMan ($17399.10 in chips)
+spicymayo: posts small blind $75.00
+HornyOldMan: posts big blind $150.00
+*** HOLE CARDS ***
+spicymayo: raises $150.00 to $300.00
+HornyOldMan: calls $150.00
+*** FLOP *** [Ks Qc 2d]
+HornyOldMan: checks
+spicymayo: bets $150.00
+HornyOldMan: calls $150.00
+*** TURN *** [Ks Qc 2d] [As]
+HornyOldMan: checks
+spicymayo: bets $443.17
+HornyOldMan: folds
+Uncalled bet ($443.17) returned to spicymayo
+spicymayo collected $898.75 from pot
+spicymayo: doesn't show hand
+*** SUMMARY ***
+Total pot $900.00 | Rake $1.25
+Board [Ks Qc 2d As]
+Seat 1: spicymayo (button) (small blind) collected ($898.75)
+Seat 2: HornyOldMan (big blind) folded on the Turn
+
+PokerStars Hand #1491907456:  Hold'em No Limit ($75.00/$150.00 USD) - 2022/12/20 06:07:39 ET
+Table 'WPN_7 Day No Rathole 75/150 NLH' 9-max Seat #2 is the button
+Seat 1: spicymayo ($3596.25 in chips)
+Seat 2: HornyOldMan ($16949.10 in chips)
+HornyOldMan: posts small blind $75.00
+spicymayo: posts big blind $150.00
+*** HOLE CARDS ***
+HornyOldMan: calls $75.00
+spicymayo: checks
+*** FLOP *** [5c 6h Qc]
+spicymayo: checks
+HornyOldMan: checks
+*** TURN *** [5c 6h Qc] [Qs]
+spicymayo: checks
+HornyOldMan: bets $195.00
+spicymayo: folds
+Uncalled bet ($195.00) returned to HornyOldMan
+HornyOldMan collected $298.75 from pot
+HornyOldMan: doesn't show hand
+*** SUMMARY ***
+Total pot $300.00 | Rake $1.25
+Board [5c 6h Qc Qs]
+Seat 1: spicymayo (big blind) folded on the Turn
+Seat 2: HornyOldMan (button) (small blind) collected ($298.75)
+
+PokerStars Hand #1491908368:  Hold'em No Limit ($75.00/$150.00 USD) - 2022/12/20 06:08:44 ET
+Table 'WPN_7 Day No Rathole 75/150 NLH' 9-max Seat #1 is the button
+Seat 1: spicymayo ($3446.25 in chips)
+Seat 2: HornyOldMan ($17097.85 in chips)
+spicymayo: posts small blind $75.00
+HornyOldMan: posts big blind $150.00
+*** HOLE CARDS ***
+spicymayo: calls $75.00
+HornyOldMan: checks
+*** FLOP *** [Jc Ac 3c]
+HornyOldMan: checks
+spicymayo: checks
+*** TURN *** [Jc Ac 3c] [Jh]
+HornyOldMan: checks
+spicymayo: checks
+*** RIVER *** [Jc Ac 3c Jh] [6h]
+HornyOldMan: checks
+spicymayo: checks
+*** SHOW DOWN ***
+HornyOldMan: shows [4h 3h]
+spicymayo: mucks hand
+HornyOldMan collected $298.75 from pot
+*** SUMMARY ***
+Total pot $300.00 | Rake $1.25
+Board [Jc Ac 3c Jh 6h]
+Seat 1: spicymayo (button) (small blind) mucked
+Seat 2: HornyOldMan (big blind) showed [4h 3h] and won ($298.75)
+
+PokerStars Hand #1491909413:  Hold'em No Limit ($75.00/$150.00 USD) - 2022/12/20 06:09:56 ET
+Table 'WPN_7 Day No Rathole 75/150 NLH' 9-max Seat #2 is the button
+Seat 1: spicymayo ($3296.25 in chips)
+Seat 2: HornyOldMan ($17246.60 in chips)
+HornyOldMan: posts small blind $75.00
+spicymayo: posts big blind $150.00
+*** HOLE CARDS ***
+HornyOldMan: raises $150.00 to $300.00
+spicymayo: calls $150.00
+*** FLOP *** [7s 6h Jc]
+spicymayo: checks
+HornyOldMan: bets $179.62
+spicymayo: raises $482.27 to $661.89
+HornyOldMan: calls $482.27
+*** TURN *** [7s 6h Jc] [Jd]
+spicymayo: checks
+HornyOldMan: checks
+*** RIVER *** [7s 6h Jc Jd] [5c]
+spicymayo: checks
+HornyOldMan: checks
+*** SHOW DOWN ***
+spicymayo: shows [7d 6d]
+HornyOldMan: mucks hand
+spicymayo collected $1922.53 from pot
+*** SUMMARY ***
+Total pot $1923.78 | Rake $1.25
+Board [7s 6h Jc Jd 5c]
+Seat 1: spicymayo (big blind) showed [7d 6d] and won ($1922.53)
+Seat 2: HornyOldMan (button) (small blind) mucked
+
+PokerStars Hand #1491910720:  Hold'em No Limit ($75.00/$150.00 USD) - 2022/12/20 06:11:25 ET
+Table 'WPN_7 Day No Rathole 75/150 NLH' 9-max Seat #1 is the button
+Seat 1: spicymayo ($4256.89 in chips)
+Seat 2: HornyOldMan ($16284.71 in chips)
+spicymayo: posts small blind $75.00
+HornyOldMan: posts big blind $150.00
+*** HOLE CARDS ***
+spicymayo: raises $180.00 to $330.00
+HornyOldMan: calls $180.00
+*** FLOP *** [Ad Qs Jc]
+HornyOldMan: checks
+spicymayo: bets $284.77
+HornyOldMan: calls $284.77
+*** TURN *** [Ad Qs Jc] [Ah]
+HornyOldMan: checks
+spicymayo: checks
+*** RIVER *** [Ad Qs Jc Ah] [9h]
+HornyOldMan: checks
+spicymayo: bets $1698.94
+HornyOldMan: raises $6939.25 to $8638.19
+spicymayo: calls $1943.18 and is all-in
+Uncalled bet ($4996.07) returned to HornyOldMan
+*** SHOW DOWN ***
+HornyOldMan: shows [Th Ks]
+spicymayo: shows [2d Ac]
+HornyOldMan collected $8512.53 from pot
+*** SUMMARY ***
+Total pot $8513.78 | Rake $1.25
+Board [Ad Qs Jc Ah 9h]
+Seat 1: spicymayo (button) (small blind) showed [2d Ac] and lost
+Seat 2: HornyOldMan (big blind) showed [Th Ks] and won ($8512.53)
+
+PokerStars Hand #1491912783:  Hold'em No Limit ($75.00/$150.00 USD) - 2022/12/20 06:13:49 ET
+Table 'WPN_7 Day No Rathole 75/150 NLH' 9-max Seat #2 is the button
+Seat 1: spicymayo ($1500.00 in chips)
+Seat 2: HornyOldMan ($20540.35 in chips)
+HornyOldMan: posts small blind $75.00
+spicymayo: posts big blind $150.00
+*** HOLE CARDS ***
+HornyOldMan: calls $75.00
+spicymayo: checks
+*** FLOP *** [Qd 4d 7h]
+spicymayo: checks
+HornyOldMan: bets $150.00
+spicymayo: calls $150.00
+*** TURN *** [Qd 4d 7h] [2d]
+spicymayo: checks
+HornyOldMan: bets $299.37
+spicymayo: folds
+Uncalled bet ($299.37) returned to HornyOldMan
+HornyOldMan collected $598.75 from pot
+HornyOldMan: doesn't show hand
+*** SUMMARY ***
+Total pot $600.00 | Rake $1.25
+Board [Qd 4d 7h 2d]
+Seat 1: spicymayo (big blind) folded on the Turn
+Seat 2: HornyOldMan (button) (small blind) collected ($598.75)
+
+PokerStars Hand #1491913717:  Hold'em No Limit ($75.00/$150.00 USD) - 2022/12/20 06:14:58 ET
+Table 'WPN_7 Day No Rathole 75/150 NLH' 9-max Seat #1 is the button
+Seat 1: spicymayo ($1200.00 in chips)
+Seat 2: HornyOldMan ($20839.10 in chips)
+spicymayo: posts small blind $75.00
+HornyOldMan: posts big blind $150.00
+*** HOLE CARDS ***
+spicymayo: raises $1350.00 to $1500.00 and is all-in
+HornyOldMan: folds
+Uncalled bet ($1350.00) returned to spicymayo
+spicymayo collected $300.00 from pot
+spicymayo: doesn't show hand
+*** SUMMARY ***
+Total pot $300.00 | Rake $0.00
+Seat 1: spicymayo (button) (small blind) collected ($300.00)
+Seat 2: HornyOldMan (big blind) folded before Flop
+

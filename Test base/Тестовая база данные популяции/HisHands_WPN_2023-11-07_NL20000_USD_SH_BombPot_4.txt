@@ -1,0 +1,107 @@
+
+Hand #1922173139 - Holdem(No Limit) - $100/$200 - 2023/11/07 04:38:52 UTC
+Cartersville 6-max Seat #4 is the button
+Seat 1: eldoofus ($10000)
+Seat 4: lol voidaments ($20000)
+eldoofus posts ante $1000
+lol voidaments posts ante $1000
+*** HOLE CARDS *** 
+*** FLOP *** [Qc 5h Js]
+Main pot $1998.75 | Rake $1.25
+eldoofus checks
+lol voidaments bets $1000
+eldoofus folds
+Uncalled bet ($1000) returned to lol voidaments
+lol voidaments does not show
+*** SUMMARY ***
+BombPot
+Total pot $1998.75 | Rake $1.25
+Seat 1: eldoofus folded on the Flop
+Seat 4: lol voidaments (button) did not showed and won $1998.75
+
+
+Hand #1922219908 - Holdem(No Limit) - $100/$200 - 2023/11/07 05:33:10 UTC
+Cartersville 6-max Seat #2 is the button
+Seat 2: alanwatts15 ($20000)
+Seat 5: PR0DIGY ($20000)
+alanwatts15 posts ante $1000
+PR0DIGY posts ante $1000
+*** HOLE CARDS *** 
+*** FLOP *** [2c Tc 6s]
+Main pot $1998.75 | Rake $1.25
+PR0DIGY checks
+alanwatts15 checks
+*** TURN *** [2c Tc 6s] [3d]
+Main pot $1998.75 | Rake $1.25
+PR0DIGY bets $1499.06
+alanwatts15 calls $1499.06
+*** RIVER *** [2c Tc 6s 3d] [8d]
+Main pot $4996.87 | Rake $1.25
+PR0DIGY checks
+alanwatts15 checks
+*** SHOW DOWN ***
+Main pot $4996.87 | Rake $1.25
+alanwatts15 shows [Qc 2h]
+alanwatts15 collected $4996.87 from main pot
+*** SUMMARY ***
+BombPot
+Total pot $4996.87 | Rake $1.25
+Seat 2: alanwatts15 (button) showed [Qc 2h] and won $4996.87 with OnePair [2h 2c Qc Tc 8d]
+Seat 5: PR0DIGY did not showed and lost
+
+
+Hand #1922795441 - Holdem(No Limit) - $100/$200 - 2023/11/07 20:36:06 UTC
+Cartersville 6-max Seat #5 is the button
+Seat 2: ib3tyoug4y ($8000)
+Seat 5: vesnapisarovic ($20000)
+Seat 6: ShemaleHunter ($20000)
+ib3tyoug4y posts ante $1000
+vesnapisarovic posts ante $1000
+*** HOLE CARDS *** 
+*** FLOP *** [6c Kd 5c]
+Main pot $1998.75 | Rake $1.25
+ib3tyoug4y checks
+vesnapisarovic bets $580
+ib3tyoug4y folds
+Uncalled bet ($580) returned to vesnapisarovic
+vesnapisarovic does not show
+*** SUMMARY ***
+BombPot
+Total pot $1998.75 | Rake $1.25
+Seat 2: ib3tyoug4y folded on the Flop
+Seat 5: vesnapisarovic (button) did not showed and won $1998.75
+
+
+Hand #1922796428 - Holdem(No Limit) - $100/$200 - 2023/11/07 20:37:36 UTC
+Cartersville 6-max Seat #6 is the button
+Seat 2: ib3tyoug4y ($20000)
+Seat 5: vesnapisarovic ($20998.75)
+Seat 6: ShemaleHunter ($8000)
+vesnapisarovic posts ante $1000
+ShemaleHunter posts ante $1000
+*** HOLE CARDS *** 
+*** FLOP *** [3c 6h 3h]
+Main pot $1998.75 | Rake $1.25
+vesnapisarovic checks
+ShemaleHunter checks
+*** TURN *** [3c 6h 3h] [Td]
+Main pot $1998.75 | Rake $1.25
+vesnapisarovic bets $1500
+ShemaleHunter calls $1500
+*** RIVER *** [3c 6h 3h Td] [4c]
+Main pot $4998.75 | Rake $1.25
+vesnapisarovic bets $18498.75 and is all-in
+ShemaleHunter calls $5500 and is all-in
+Uncalled bet ($12998.75) returned to vesnapisarovic
+vesnapisarovic does not show
+*** SHOW DOWN ***
+Main pot $4998.75 | Rake $1.25
+vesnapisarovic shows [Tc Ad]
+ShemaleHunter shows [6c 2c]
+vesnapisarovic collected $15998.75 from main pot
+*** SUMMARY ***
+BombPot
+Total pot $15998.75 | Rake $1.25
+Seat 5: vesnapisarovic showed [Tc Ad] and won $15998.75 with TwoPair [Td Tc 3h 3c Ad]
+Seat 6: ShemaleHunter (button) showed [6c 2c] and lost
+

@@ -1,0 +1,30 @@
+Hand #1912011621 - Holdem(No Limit) - $50/$100 - 2023/10/29 14:48:20 UTC
+Prowers 6-max Seat #2 is the button
+Seat 2: 7SkyAroundMe ($10000)
+Seat 5: TIKITAKA11 ($10000)
+7SkyAroundMe posts ante $500
+TIKITAKA11 posts ante $500
+*** HOLE CARDS *** 
+*** FLOP *** [9d 4d Tc]
+Main pot $998.75 | Rake $1.25
+TIKITAKA11 checks
+7SkyAroundMe bets $100
+TIKITAKA11 calls $100
+*** TURN *** [9d 4d Tc] [5c]
+Main pot $1198.75 | Rake $1.25
+TIKITAKA11 bets $900
+7SkyAroundMe calls $900
+*** RIVER *** [9d 4d Tc 5c] [Js]
+Main pot $2998.75 | Rake $1.25
+TIKITAKA11 checks
+7SkyAroundMe checks
+*** SHOW DOWN ***
+Main pot $2998.75 | Rake $1.25
+TIKITAKA11 shows [9h 3h]
+TIKITAKA11 collected $2998.75 from main pot
+*** SUMMARY ***
+BombPot
+Total pot $2998.75 | Rake $1.25
+Seat 2: 7SkyAroundMe (button) did not showed and lost
+Seat 5: TIKITAKA11 showed [9h 3h] and won $2998.75 with OnePair [9h 9d Js Tc 5c]
+

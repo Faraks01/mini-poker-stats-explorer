@@ -1,0 +1,100 @@
+PokerStars Hand #1502404383:  Hold'em No Limit ($75.00/$150.00 USD) - 2022/12/29 10:00:58 ET
+Table 'WPN_7 Day No Rathole 75/150 NLH' 9-max Seat #1 is the button
+Seat 1: eldoofus ($1575.00 in chips)
+Seat 2: THECAGE ($20954.97 in chips)
+Seat 3: IdoGoats ($9439.30 in chips)
+THECAGE: posts small blind $75.00
+IdoGoats: posts big blind $150.00
+*** HOLE CARDS ***
+eldoofus: folds
+THECAGE: folds
+Uncalled bet ($75.00) returned to IdoGoats
+IdoGoats collected $150.00 from pot
+IdoGoats: doesn't show hand
+*** SUMMARY ***
+Total pot $150.00 | Rake $0.00
+Seat 1: eldoofus (button) folded before Flop (didn't bet)
+Seat 2: THECAGE (small blind) folded before Flop
+Seat 3: IdoGoats (big blind) collected ($150.00)
+
+PokerStars Hand #1502404439:  Hold'em No Limit ($75.00/$150.00 USD) - 2022/12/29 10:01:07 ET
+Table 'WPN_7 Day No Rathole 75/150 NLH' 9-max Seat #2 is the button
+Seat 1: eldoofus ($1575.00 in chips)
+Seat 2: THECAGE ($20879.97 in chips)
+Seat 3: IdoGoats ($9514.30 in chips)
+IdoGoats: posts small blind $75.00
+THECAGE: posts big blind $150.00
+*** HOLE CARDS ***
+IdoGoats: folds
+Uncalled bet ($75.00) returned to THECAGE
+THECAGE collected $150.00 from pot
+THECAGE: doesn't show hand
+*** SUMMARY ***
+Total pot $150.00 | Rake $0.00
+Seat 2: THECAGE (button) (big blind) collected ($150.00)
+Seat 3: IdoGoats (small blind) folded before Flop
+
+PokerStars Hand #1502405026:  Hold'em No Limit ($75.00/$150.00 USD) - 2022/12/29 10:02:58 ET
+Table 'WPN_7 Day No Rathole 75/150 NLH' 9-max Seat #3 is the button
+Seat 3: IdoGoats ($9439.30 in chips)
+Seat 8: Gizineni ($7500.59 in chips)
+IdoGoats: posts small blind $75.00
+Gizineni: posts big blind $150.00
+*** HOLE CARDS ***
+IdoGoats: raises $150.00 to $300.00
+Gizineni: calls $150.00
+*** FLOP *** [Jd 3s 8h]
+Gizineni: checks
+IdoGoats: bets $200.00
+Gizineni: raises $675.00 to $875.00
+IdoGoats: calls $675.00
+*** TURN *** [Jd 3s 8h] [4s]
+Gizineni: bets $1912.50
+IdoGoats: calls $1912.50
+*** RIVER *** [Jd 3s 8h 4s] [Ks]
+Gizineni: bets $4413.09 and is all-in
+IdoGoats: calls $4413.09
+*** SHOW DOWN ***
+Gizineni: shows [Ad Jc]
+IdoGoats: shows [Qc 8s]
+Gizineni collected $14999.93 from pot
+*** SUMMARY ***
+Total pot $15001.18 | Rake $1.25
+Board [Jd 3s 8h 4s Ks]
+Seat 3: IdoGoats (button) (small blind) showed [Qc 8s] and lost
+Seat 8: Gizineni (big blind) showed [Ad Jc] and won ($14999.93)
+
+PokerStars Hand #1502405759:  Hold'em No Limit ($75.00/$150.00 USD) - 2022/12/29 10:05:20 ET
+Table 'WPN_7 Day No Rathole 75/150 NLH' 9-max Seat #8 is the button
+Seat 4: ATARAX1A ($1500.00 in chips)
+Seat 8: Gizineni ($14924.93 in chips)
+Gizineni: posts small blind $75.00
+ATARAX1A: posts big blind $150.00
+*** HOLE CARDS ***
+Gizineni: folds
+Uncalled bet ($75.00) returned to ATARAX1A
+ATARAX1A collected $150.00 from pot
+ATARAX1A: doesn't show hand
+*** SUMMARY ***
+Total pot $150.00 | Rake $0.00
+Seat 4: ATARAX1A (big blind) collected ($150.00)
+Seat 8: Gizineni (button) (small blind) folded before Flop
+
+PokerStars Hand #1501770009:  Hold'em No Limit ($75.00/$150.00 USD) - 2022/12/28 22:42:20 ET
+Table 'WPN_7 Day No Rathole 75/150 NLH' 9-max Seat #6 is the button
+Seat 2: Gizineni ($7350.59 in chips)
+Seat 6: Haftbefehl ($1575.00 in chips)
+Haftbefehl: posts small blind $75.00
+Gizineni: posts big blind $150.00
+*** HOLE CARDS ***
+Haftbefehl: calls $75.00
+Gizineni: raises $1500.00 to $1650.00
+Haftbefehl: folds
+Uncalled bet ($1500.00) returned to Gizineni
+Gizineni collected $300.00 from pot
+Gizineni: doesn't show hand
+*** SUMMARY ***
+Total pot $300.00 | Rake $0.00
+Seat 2: Gizineni (big blind) collected ($300.00)
+Seat 6: Haftbefehl (button) (small blind) folded before Flop
+

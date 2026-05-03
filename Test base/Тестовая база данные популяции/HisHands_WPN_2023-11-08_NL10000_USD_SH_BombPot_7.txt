@@ -1,0 +1,193 @@
+
+Hand #1922830190 - Holdem(No Limit) - $50/$100 - 2023/11/07 21:08:55 UTC
+Coulterville 6-max Seat #5 is the button
+Seat 1: Simulacra ($10000)
+Seat 2: xplo1t4bl3 ($10389.15)
+Seat 5: CWestmoreland ($10000)
+Seat 6: epsteinsboy ($10000)
+xplo1t4bl3 posts ante $500
+CWestmoreland posts ante $500
+epsteinsboy posts ante $500
+*** HOLE CARDS *** 
+*** FLOP *** [8h 9s 9d]
+Main pot $1498.25 | Rake $1.75
+epsteinsboy checks
+xplo1t4bl3 checks
+CWestmoreland checks
+*** TURN *** [8h 9s 9d] [5h]
+Main pot $1498.25 | Rake $1.75
+epsteinsboy checks
+xplo1t4bl3 bets $750
+CWestmoreland calls $750
+epsteinsboy calls $750
+*** RIVER *** [8h 9s 9d 5h] [Jd]
+Main pot $3748.25 | Rake $1.75
+epsteinsboy checks
+xplo1t4bl3 bets $1125
+CWestmoreland calls $1125
+epsteinsboy folds
+*** SHOW DOWN ***
+Main pot $3748.25 | Rake $1.75
+xplo1t4bl3 shows [3h 9h]
+CWestmoreland shows [7d 9c]
+xplo1t4bl3 collected $2999.13 from main pot
+CWestmoreland collected $2999.12 from main pot
+*** SUMMARY ***
+BombPot
+Total pot $5998.25 | Rake $1.75
+Seat 2: xplo1t4bl3 showed [3h 9h] and won $2999.13 with ThreeOfAKind [9s 9d 9c Jd 8h]
+Seat 5: CWestmoreland (button) showed [7d 9c] and won $2999.12 with ThreeOfAKind [9s 9d 9c Jd 8h]
+Seat 6: epsteinsboy folded on the River
+
+
+Hand #1923232508 - Holdem(No Limit) - $50/$100 - 2023/11/08 03:00:50 UTC
+Coulterville 6-max Seat #1 is the button
+Seat 1: Burundos254 ($10000)
+Seat 4: lol voidaments ($10000)
+Burundos254 posts ante $500
+lol voidaments posts ante $500
+*** HOLE CARDS *** 
+*** FLOP *** [6c Jh Td]
+Main pot $998.75 | Rake $1.25
+lol voidaments checks
+Burundos254 bets $299.62
+lol voidaments folds
+Uncalled bet ($299.62) returned to Burundos254
+Burundos254 does not show
+*** SUMMARY ***
+BombPot
+Total pot $998.75 | Rake $1.25
+Seat 1: Burundos254 (button) did not showed and won $998.75
+Seat 4: lol voidaments folded on the Flop
+
+
+Hand #1923493229 - Holdem(No Limit) - $50/$100 - 2023/11/08 08:46:26 UTC
+Coulterville 6-max Seat #5 is the button
+Seat 2: vesnapisarovic ($10000)
+Seat 5: PR0DIGY ($10000)
+vesnapisarovic posts ante $500
+PR0DIGY posts ante $500
+*** HOLE CARDS *** 
+*** FLOP *** [6s 2c 8s]
+Main pot $998.75 | Rake $1.25
+vesnapisarovic checks
+PR0DIGY checks
+*** TURN *** [6s 2c 8s] [Kc]
+Main pot $998.75 | Rake $1.25
+vesnapisarovic bets $1500
+PR0DIGY folds
+Uncalled bet ($1500) returned to vesnapisarovic
+vesnapisarovic does not show
+*** SUMMARY ***
+BombPot
+Total pot $998.75 | Rake $1.25
+Seat 2: vesnapisarovic did not showed and won $998.75
+Seat 5: PR0DIGY (button) folded on the Turn
+
+
+Hand #1923554016 - Holdem(No Limit) - $50/$100 - 2023/11/08 11:39:11 UTC
+Coulterville 6-max Seat #2 is the button
+Seat 2: TIKITAKA11 ($10000)
+Seat 5: PR0DIGY ($10000)
+TIKITAKA11 posts ante $500
+PR0DIGY posts ante $500
+*** HOLE CARDS *** 
+*** FLOP *** [5h 5d 4s]
+Main pot $998.75 | Rake $1.25
+PR0DIGY checks
+TIKITAKA11 checks
+*** TURN *** [5h 5d 4s] [2c]
+Main pot $998.75 | Rake $1.25
+PR0DIGY bets $749.06
+TIKITAKA11 calls $749.06
+*** RIVER *** [5h 5d 4s 2c] [9h]
+Main pot $2496.87 | Rake $1.25
+PR0DIGY bets $1872.65
+TIKITAKA11 calls $1872.65
+*** SHOW DOWN ***
+Main pot $2496.87 | Rake $1.25
+TIKITAKA11 shows [9c 3c]
+TIKITAKA11 collected $6242.17 from main pot
+*** SUMMARY ***
+BombPot
+Total pot $6242.17 | Rake $1.25
+Seat 2: TIKITAKA11 (button) showed [9c 3c] and won $6242.17 with TwoPair [9h 9c 5h 5d 4s]
+Seat 5: PR0DIGY did not showed and lost
+
+
+Hand #1923555303 - Holdem(No Limit) - $50/$100 - 2023/11/08 11:42:41 UTC
+Coulterville 6-max Seat #5 is the button
+Seat 2: TIKITAKA11 ($14144.34)
+Seat 5: PR0DIGY ($10000)
+TIKITAKA11 posts ante $500
+PR0DIGY posts ante $500
+*** HOLE CARDS *** 
+*** FLOP *** [Tc 2c Kc]
+Main pot $998.75 | Rake $1.25
+TIKITAKA11 checks
+PR0DIGY checks
+*** TURN *** [Tc 2c Kc] [4s]
+Main pot $998.75 | Rake $1.25
+TIKITAKA11 checks
+PR0DIGY bets $749.06
+TIKITAKA11 calls $749.06
+*** RIVER *** [Tc 2c Kc 4s] [3d]
+Main pot $2496.87 | Rake $1.25
+TIKITAKA11 checks
+PR0DIGY bets $1872.65
+TIKITAKA11 folds
+Uncalled bet ($1872.65) returned to PR0DIGY
+PR0DIGY does not show
+*** SUMMARY ***
+BombPot
+Total pot $2496.87 | Rake $1.25
+Seat 2: TIKITAKA11 folded on the River
+Seat 5: PR0DIGY (button) did not showed and won $2496.87
+
+
+Hand #1923568109 - Holdem(No Limit) - $50/$100 - 2023/11/08 12:20:20 UTC
+Coulterville 6-max Seat #2 is the button
+Seat 2: CWestmoreland ($10000)
+Seat 5: PR0DIGY ($10097.81)
+CWestmoreland posts ante $500
+PR0DIGY posts ante $500
+*** HOLE CARDS *** 
+*** FLOP *** [9s 7c Js]
+Main pot $998.75 | Rake $1.25
+PR0DIGY checks
+CWestmoreland bets $499.37
+PR0DIGY calls $499.37
+*** TURN *** [9s 7c Js] [8s]
+Main pot $1997.49 | Rake $1.25
+PR0DIGY checks
+CWestmoreland bets $1318
+PR0DIGY folds
+Uncalled bet ($1318) returned to CWestmoreland
+CWestmoreland does not show
+*** SUMMARY ***
+BombPot
+Total pot $1997.49 | Rake $1.25
+Seat 2: CWestmoreland (button) did not showed and won $1997.49
+Seat 5: PR0DIGY folded on the Turn
+
+
+Hand #1923570611 - Holdem(No Limit) - $50/$100 - 2023/11/08 12:26:34 UTC
+Coulterville 6-max Seat #5 is the button
+Seat 2: CWestmoreland ($20565.14)
+Seat 5: PR0DIGY ($10000)
+CWestmoreland posts ante $500
+PR0DIGY posts ante $500
+*** HOLE CARDS *** 
+*** FLOP *** [Qd 9s Qs]
+Main pot $998.75 | Rake $1.25
+CWestmoreland checks
+PR0DIGY bets $289.63
+CWestmoreland folds
+Uncalled bet ($289.63) returned to PR0DIGY
+PR0DIGY does not show
+*** SUMMARY ***
+BombPot
+Total pot $998.75 | Rake $1.25
+Seat 2: CWestmoreland folded on the Flop
+Seat 5: PR0DIGY (button) did not showed and won $998.75
+

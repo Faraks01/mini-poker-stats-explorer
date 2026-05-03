@@ -1,0 +1,633 @@
+PokerStars Hand #1531397095:  Hold'em No Limit ($75.00/$150.00 USD) - 2023/01/21 08:44:57 ET
+Table 'WPN_7 Day No Rathole 75/150 NLH' 9-max Seat #2 is the button
+Seat 2: lmpala_zOrg ($1650.00 in chips)
+Seat 6: orgi69 ($1500.00 in chips)
+Seat 7: alanwatts15 ($6982.75 in chips)
+Seat 8: ATARAX1A ($1500.00 in chips)
+Seat 9: el0el ($5817.95 in chips)
+orgi69: posts small blind $75.00
+alanwatts15: posts big blind $150.00
+*** HOLE CARDS ***
+lmpala_zOrg: raises $1500.00 to $1650.00 and is all-in
+orgi69: calls $1425.00 and is all-in
+alanwatts15: folds
+Uncalled bet ($150.00) returned to lmpala_zOrg
+*** FLOP *** [2s 2h Tc]
+*** TURN *** [2s 2h Tc] [4s]
+*** RIVER *** [2s 2h Tc 4s] [Ad]
+*** SHOW DOWN ***
+orgi69: shows [Ah Kh]
+lmpala_zOrg: shows [7c 7s]
+orgi69 collected $3148.25 from pot
+*** SUMMARY ***
+Total pot $3150.00 | Rake $1.75
+Board [2s 2h Tc 4s Ad]
+Seat 2: lmpala_zOrg (button) showed [7c 7s] and lost
+Seat 6: orgi69 (small blind) showed [Ah Kh] and won ($3148.25)
+Seat 7: alanwatts15 (big blind) folded before Flop
+
+PokerStars Hand #1531397418:  Hold'em No Limit ($75.00/$150.00 USD) - 2023/01/21 08:45:34 ET
+Table 'WPN_7 Day No Rathole 75/150 NLH' 9-max Seat #6 is the button
+Seat 1: zas911 ($44346.50 in chips)
+Seat 2: lmpala_zOrg ($1500.00 in chips)
+Seat 3: Thelittle200 ($11800.05 in chips)
+Seat 6: orgi69 ($3148.25 in chips)
+Seat 7: alanwatts15 ($6832.75 in chips)
+Seat 8: ATARAX1A ($1500.00 in chips)
+Seat 9: el0el ($5817.95 in chips)
+alanwatts15: posts small blind $75.00
+ATARAX1A: posts big blind $150.00
+*** HOLE CARDS ***
+lmpala_zOrg: folds
+orgi69: folds
+alanwatts15: raises $6682.75 to $6832.75 and is all-in
+ATARAX1A: folds
+Uncalled bet ($6682.75) returned to alanwatts15
+alanwatts15 collected $300.00 from pot
+alanwatts15: doesn't show hand
+*** SUMMARY ***
+Total pot $300.00 | Rake $0.00
+Seat 2: lmpala_zOrg folded before Flop (didn't bet)
+Seat 6: orgi69 (button) folded before Flop (didn't bet)
+Seat 7: alanwatts15 (small blind) collected ($300.00)
+Seat 8: ATARAX1A (big blind) folded before Flop
+
+PokerStars Hand #1531397568:  Hold'em No Limit ($75.00/$150.00 USD) - 2023/01/21 08:45:53 ET
+Table 'WPN_7 Day No Rathole 75/150 NLH' 9-max Seat #7 is the button
+Seat 1: zas911 ($44346.50 in chips)
+Seat 2: lmpala_zOrg ($1500.00 in chips)
+Seat 3: Thelittle200 ($11800.05 in chips)
+Seat 4: honey_badger ($1500.00 in chips)
+Seat 6: orgi69 ($3148.25 in chips)
+Seat 7: alanwatts15 ($6982.75 in chips)
+Seat 8: ATARAX1A ($1350.00 in chips)
+Seat 9: el0el ($5817.95 in chips)
+ATARAX1A: posts small blind $75.00
+el0el: posts big blind $150.00
+*** HOLE CARDS ***
+lmpala_zOrg: folds
+orgi69: folds
+alanwatts15: raises $150.00 to $300.00
+ATARAX1A: folds
+el0el: raises $975.00 to $1275.00
+alanwatts15: calls $975.00
+*** FLOP *** [2h 2s Jc]
+el0el: bets $866.25
+alanwatts15: folds
+Uncalled bet ($866.25) returned to el0el
+el0el collected $2622.00 from pot
+el0el: doesn't show hand
+*** SUMMARY ***
+Total pot $2625.00 | Rake $3.00
+Board [2h 2s Jc]
+Seat 2: lmpala_zOrg folded before Flop (didn't bet)
+Seat 6: orgi69 folded before Flop (didn't bet)
+Seat 7: alanwatts15 (button) folded on the Flop
+Seat 8: ATARAX1A (small blind) folded before Flop
+Seat 9: el0el (big blind) collected ($2622.00)
+
+PokerStars Hand #1531398003:  Hold'em No Limit ($75.00/$150.00 USD) - 2023/01/21 08:46:45 ET
+Table 'WPN_7 Day No Rathole 75/150 NLH' 9-max Seat #8 is the button
+Seat 1: zas911 ($44346.50 in chips)
+Seat 2: lmpala_zOrg ($1500.00 in chips)
+Seat 3: Thelittle200 ($11800.05 in chips)
+Seat 4: honey_badger ($1500.00 in chips)
+Seat 6: orgi69 ($3148.25 in chips)
+Seat 7: alanwatts15 ($5707.75 in chips)
+Seat 8: ATARAX1A ($1500.00 in chips)
+Seat 9: el0el ($7164.95 in chips)
+el0el: posts small blind $75.00
+zas911: posts big blind $150.00
+*** HOLE CARDS ***
+lmpala_zOrg: folds
+orgi69: folds
+alanwatts15: folds
+ATARAX1A: folds
+el0el: folds
+Uncalled bet ($75.00) returned to zas911
+zas911 collected $150.00 from pot
+zas911: doesn't show hand
+*** SUMMARY ***
+Total pot $150.00 | Rake $0.00
+Seat 1: zas911 (big blind) collected ($150.00)
+Seat 2: lmpala_zOrg folded before Flop (didn't bet)
+Seat 6: orgi69 folded before Flop (didn't bet)
+Seat 7: alanwatts15 folded before Flop (didn't bet)
+Seat 8: ATARAX1A (button) folded before Flop (didn't bet)
+Seat 9: el0el (small blind) folded before Flop
+
+PokerStars Hand #1531398216:  Hold'em No Limit ($75.00/$150.00 USD) - 2023/01/21 08:47:11 ET
+Table 'WPN_7 Day No Rathole 75/150 NLH' 9-max Seat #9 is the button
+Seat 1: zas911 ($44421.50 in chips)
+Seat 2: lmpala_zOrg ($1500.00 in chips)
+Seat 3: Thelittle200 ($11800.05 in chips)
+Seat 4: honey_badger ($1500.00 in chips)
+Seat 6: orgi69 ($3148.25 in chips)
+Seat 7: alanwatts15 ($5707.75 in chips)
+Seat 8: ATARAX1A ($1500.00 in chips)
+Seat 9: el0el ($7089.95 in chips)
+zas911: posts small blind $75.00
+Thelittle200: posts big blind $150.00
+*** HOLE CARDS ***
+orgi69: folds
+alanwatts15: raises $150.00 to $300.00
+ATARAX1A: folds
+el0el: folds
+zas911: folds
+Thelittle200: folds
+Uncalled bet ($150.00) returned to alanwatts15
+alanwatts15 collected $375.00 from pot
+alanwatts15: doesn't show hand
+*** SUMMARY ***
+Total pot $375.00 | Rake $0.00
+Seat 1: zas911 (small blind) folded before Flop
+Seat 3: Thelittle200 (big blind) folded before Flop
+Seat 6: orgi69 folded before Flop (didn't bet)
+Seat 7: alanwatts15 collected ($375.00)
+Seat 8: ATARAX1A folded before Flop (didn't bet)
+Seat 9: el0el (button) folded before Flop (didn't bet)
+
+PokerStars Hand #1531398481:  Hold'em No Limit ($75.00/$150.00 USD) - 2023/01/21 08:47:43 ET
+Table 'WPN_7 Day No Rathole 75/150 NLH' 9-max Seat #1 is the button
+Seat 1: zas911 ($44346.50 in chips)
+Seat 3: Thelittle200 ($11650.05 in chips)
+Seat 5: Ganbian Beef ($1799.12 in chips)
+Seat 6: orgi69 ($3148.25 in chips)
+Seat 7: alanwatts15 ($5932.75 in chips)
+Seat 8: ATARAX1A ($1500.00 in chips)
+Seat 9: el0el ($7089.95 in chips)
+Thelittle200: posts small blind $75.00
+Ganbian Beef: posts big blind $150.00
+*** HOLE CARDS ***
+orgi69: folds
+alanwatts15: raises $150.00 to $300.00
+ATARAX1A: folds
+el0el: folds
+zas911: folds
+Thelittle200: folds
+Ganbian Beef: raises $1499.12 to $1799.12 and is all-in
+alanwatts15: folds
+Uncalled bet ($1499.12) returned to Ganbian Beef
+Ganbian Beef collected $675.00 from pot
+Ganbian Beef: doesn't show hand
+*** SUMMARY ***
+Total pot $675.00 | Rake $0.00
+Seat 1: zas911 (button) folded before Flop (didn't bet)
+Seat 3: Thelittle200 (small blind) folded before Flop
+Seat 5: Ganbian Beef (big blind) collected ($675.00)
+Seat 6: orgi69 folded before Flop (didn't bet)
+Seat 7: alanwatts15 folded before Flop
+Seat 8: ATARAX1A folded before Flop (didn't bet)
+Seat 9: el0el folded before Flop (didn't bet)
+
+PokerStars Hand #1531398682:  Hold'em No Limit ($75.00/$150.00 USD) - 2023/01/21 08:48:09 ET
+Table 'WPN_7 Day No Rathole 75/150 NLH' 9-max Seat #3 is the button
+Seat 1: zas911 ($44346.50 in chips)
+Seat 3: Thelittle200 ($11575.05 in chips)
+Seat 5: Ganbian Beef ($2174.12 in chips)
+Seat 6: orgi69 ($3148.25 in chips)
+Seat 7: alanwatts15 ($5632.75 in chips)
+Seat 8: ATARAX1A ($1500.00 in chips)
+Seat 9: el0el ($7089.95 in chips)
+Ganbian Beef: posts small blind $75.00
+orgi69: posts big blind $150.00
+*** HOLE CARDS ***
+alanwatts15: raises $150.00 to $300.00
+ATARAX1A: folds
+el0el: folds
+zas911: folds
+Thelittle200: folds
+Ganbian Beef: raises $1874.12 to $2174.12 and is all-in
+orgi69: folds
+alanwatts15: folds
+Uncalled bet ($1874.12) returned to Ganbian Beef
+Ganbian Beef collected $750.00 from pot
+Ganbian Beef: doesn't show hand
+*** SUMMARY ***
+Total pot $750.00 | Rake $0.00
+Seat 1: zas911 folded before Flop (didn't bet)
+Seat 3: Thelittle200 (button) folded before Flop (didn't bet)
+Seat 5: Ganbian Beef (small blind) collected ($750.00)
+Seat 6: orgi69 (big blind) folded before Flop
+Seat 7: alanwatts15 folded before Flop
+Seat 8: ATARAX1A folded before Flop (didn't bet)
+Seat 9: el0el folded before Flop (didn't bet)
+
+PokerStars Hand #1530972923:  Hold'em No Limit ($75.00/$150.00 USD) - 2023/01/21 01:57:11 ET
+Table 'WPN_7 Day No Rathole 75/150 NLH' 9-max Seat #3 is the button
+Seat 2: zas911 ($44901.50 in chips)
+Seat 3: Thelittle200 ($11471.30 in chips)
+Thelittle200: posts small blind $75.00
+zas911: posts big blind $150.00
+*** HOLE CARDS ***
+Thelittle200: raises $180.00 to $330.00
+zas911: calls $180.00
+*** FLOP *** [2s 6h Ks]
+zas911: checks
+Thelittle200: bets $217.50
+zas911: folds
+Uncalled bet ($217.50) returned to Thelittle200
+Thelittle200 collected $658.75 from pot
+Thelittle200: doesn't show hand
+*** SUMMARY ***
+Total pot $660.00 | Rake $1.25
+Board [2s 6h Ks]
+Seat 2: zas911 (big blind) folded on the Flop
+Seat 3: Thelittle200 (button) (small blind) collected ($658.75)
+
+PokerStars Hand #1531196524:  Hold'em No Limit ($75.00/$150.00 USD) - 2023/01/21 04:39:29 ET
+Table 'WPN_7 Day No Rathole 75/150 NLH' 9-max Seat #2 is the button
+Seat 1: spicymayo ($1725.00 in chips)
+Seat 2: lmpala_zOrg ($1821.88 in chips)
+lmpala_zOrg: posts small blind $75.00
+spicymayo: posts big blind $150.00
+*** HOLE CARDS ***
+lmpala_zOrg: calls $75.00
+spicymayo: checks
+*** FLOP *** [Tc 8d 5s]
+spicymayo: checks
+lmpala_zOrg: checks
+*** TURN *** [Tc 8d 5s] [9h]
+spicymayo: bets $347.17
+lmpala_zOrg: folds
+Uncalled bet ($347.17) returned to spicymayo
+spicymayo collected $298.75 from pot
+spicymayo: doesn't show hand
+*** SUMMARY ***
+Total pot $300.00 | Rake $1.25
+Board [Tc 8d 5s 9h]
+Seat 1: spicymayo (big blind) collected ($298.75)
+Seat 2: lmpala_zOrg (button) (small blind) folded on the Turn
+
+PokerStars Hand #1531197514:  Hold'em No Limit ($75.00/$150.00 USD) - 2023/01/21 04:40:17 ET
+Table 'WPN_7 Day No Rathole 75/150 NLH' 9-max Seat #1 is the button
+Seat 1: spicymayo ($1873.75 in chips)
+Seat 2: lmpala_zOrg ($1671.88 in chips)
+Seat 3: Thelittle200 ($11800.05 in chips)
+Seat 4: _COBKA_PBET_ ($3182.25 in chips)
+spicymayo: posts small blind $75.00
+lmpala_zOrg: posts big blind $150.00
+*** HOLE CARDS ***
+spicymayo: calls $75.00
+lmpala_zOrg: checks
+*** FLOP *** [3d Ac 9h]
+lmpala_zOrg: checks
+spicymayo: bets $197.17
+lmpala_zOrg: raises $272.17 to $469.34
+spicymayo: calls $272.17
+*** TURN *** [3d Ac 9h] [Kc]
+lmpala_zOrg: checks
+spicymayo: bets $234.35
+lmpala_zOrg: calls $234.35
+*** RIVER *** [3d Ac 9h Kc] [Js]
+lmpala_zOrg: checks
+spicymayo: bets $1020.06 and is all-in
+lmpala_zOrg: calls $818.19 and is all-in
+Uncalled bet ($201.87) returned to spicymayo
+*** SHOW DOWN ***
+lmpala_zOrg: shows [Jc 9s]
+spicymayo: shows [6h 7s]
+lmpala_zOrg collected $3342.51 from pot
+*** SUMMARY ***
+Total pot $3343.76 | Rake $1.25
+Board [3d Ac 9h Kc Js]
+Seat 1: spicymayo (button) (small blind) showed [6h 7s] and lost
+Seat 2: lmpala_zOrg (big blind) showed [Jc 9s] and won ($3342.51)
+
+PokerStars Hand #1531199702:  Hold'em No Limit ($75.00/$150.00 USD) - 2023/01/21 04:42:07 ET
+Table 'WPN_7 Day No Rathole 75/150 NLH' 9-max Seat #1 is the button
+Seat 1: spicymayo ($1500.00 in chips)
+Seat 2: lmpala_zOrg ($3342.51 in chips)
+Seat 3: Thelittle200 ($11800.05 in chips)
+Seat 4: _COBKA_PBET_ ($3182.25 in chips)
+Seat 5: HornyOldMan ($28602.60 in chips)
+Seat 6: zas911 ($44571.50 in chips)
+lmpala_zOrg: posts small blind $75.00
+Thelittle200: posts big blind $150.00
+*** HOLE CARDS ***
+spicymayo: folds
+lmpala_zOrg: folds
+Uncalled bet ($75.00) returned to Thelittle200
+Thelittle200 collected $150.00 from pot
+Thelittle200: doesn't show hand
+*** SUMMARY ***
+Total pot $150.00 | Rake $0.00
+Seat 1: spicymayo (button) folded before Flop (didn't bet)
+Seat 2: lmpala_zOrg (small blind) folded before Flop
+Seat 3: Thelittle200 (big blind) collected ($150.00)
+
+PokerStars Hand #1531199919:  Hold'em No Limit ($75.00/$150.00 USD) - 2023/01/21 04:42:19 ET
+Table 'WPN_7 Day No Rathole 75/150 NLH' 9-max Seat #2 is the button
+Seat 1: spicymayo ($1500.00 in chips)
+Seat 2: lmpala_zOrg ($3267.51 in chips)
+Seat 3: Thelittle200 ($11875.05 in chips)
+Seat 4: _COBKA_PBET_ ($3182.25 in chips)
+Seat 5: HornyOldMan ($28602.60 in chips)
+Seat 6: zas911 ($44571.50 in chips)
+Thelittle200: posts small blind $75.00
+_COBKA_PBET_: posts big blind $150.00
+*** HOLE CARDS ***
+spicymayo: folds
+lmpala_zOrg: folds
+Thelittle200: folds
+Uncalled bet ($75.00) returned to _COBKA_PBET_
+_COBKA_PBET_ collected $150.00 from pot
+_COBKA_PBET_: doesn't show hand
+*** SUMMARY ***
+Total pot $150.00 | Rake $0.00
+Seat 1: spicymayo folded before Flop (didn't bet)
+Seat 2: lmpala_zOrg (button) folded before Flop (didn't bet)
+Seat 3: Thelittle200 (small blind) folded before Flop
+Seat 4: _COBKA_PBET_ (big blind) collected ($150.00)
+
+PokerStars Hand #1531200251:  Hold'em No Limit ($75.00/$150.00 USD) - 2023/01/21 04:42:36 ET
+Table 'WPN_7 Day No Rathole 75/150 NLH' 9-max Seat #3 is the button
+Seat 2: lmpala_zOrg ($3267.51 in chips)
+Seat 3: Thelittle200 ($11800.05 in chips)
+Seat 4: _COBKA_PBET_ ($3257.25 in chips)
+Seat 5: HornyOldMan ($28602.60 in chips)
+Seat 6: zas911 ($44571.50 in chips)
+_COBKA_PBET_: posts small blind $75.00
+HornyOldMan: posts big blind $150.00
+*** HOLE CARDS ***
+lmpala_zOrg: raises $150.00 to $300.00
+Thelittle200: folds
+_COBKA_PBET_: folds
+HornyOldMan: calls $150.00
+*** FLOP *** [Qc 9c As]
+HornyOldMan: checks
+lmpala_zOrg: bets $222.01
+HornyOldMan: calls $222.01
+*** TURN *** [Qc 9c As] [Jd]
+HornyOldMan: checks
+lmpala_zOrg: bets $764.26
+HornyOldMan: folds
+Uncalled bet ($764.26) returned to lmpala_zOrg
+lmpala_zOrg collected $1116.77 from pot
+lmpala_zOrg: doesn't show hand
+*** SUMMARY ***
+Total pot $1119.02 | Rake $2.25
+Board [Qc 9c As Jd]
+Seat 2: lmpala_zOrg collected ($1116.77)
+Seat 3: Thelittle200 (button) folded before Flop (didn't bet)
+Seat 4: _COBKA_PBET_ (small blind) folded before Flop
+Seat 5: HornyOldMan (big blind) folded on the Turn
+
+PokerStars Hand #1531201853:  Hold'em No Limit ($75.00/$150.00 USD) - 2023/01/21 04:43:58 ET
+Table 'WPN_7 Day No Rathole 75/150 NLH' 9-max Seat #4 is the button
+Seat 2: lmpala_zOrg ($3862.27 in chips)
+Seat 3: Thelittle200 ($11800.05 in chips)
+Seat 4: _COBKA_PBET_ ($3182.25 in chips)
+Seat 5: HornyOldMan ($28080.59 in chips)
+Seat 6: zas911 ($44571.50 in chips)
+Seat 7: notvrygud ($9609.75 in chips)
+HornyOldMan: posts small blind $75.00
+zas911: posts big blind $150.00
+*** HOLE CARDS ***
+lmpala_zOrg: folds
+Thelittle200: folds
+_COBKA_PBET_: folds
+HornyOldMan: raises $300.00 to $450.00
+zas911: folds
+Uncalled bet ($300.00) returned to HornyOldMan
+HornyOldMan collected $300.00 from pot
+HornyOldMan: doesn't show hand
+*** SUMMARY ***
+Total pot $300.00 | Rake $0.00
+Seat 2: lmpala_zOrg folded before Flop (didn't bet)
+Seat 3: Thelittle200 folded before Flop (didn't bet)
+Seat 4: _COBKA_PBET_ (button) folded before Flop (didn't bet)
+Seat 5: HornyOldMan (small blind) collected ($300.00)
+Seat 6: zas911 (big blind) folded before Flop
+
+PokerStars Hand #1531202170:  Hold'em No Limit ($75.00/$150.00 USD) - 2023/01/21 04:44:14 ET
+Table 'WPN_7 Day No Rathole 75/150 NLH' 9-max Seat #5 is the button
+Seat 2: lmpala_zOrg ($3862.27 in chips)
+Seat 3: Thelittle200 ($11800.05 in chips)
+Seat 4: _COBKA_PBET_ ($3182.25 in chips)
+Seat 5: HornyOldMan ($28230.59 in chips)
+Seat 6: zas911 ($44421.50 in chips)
+Seat 7: notvrygud ($9609.75 in chips)
+zas911: posts small blind $75.00
+notvrygud: posts big blind $150.00
+*** HOLE CARDS ***
+lmpala_zOrg: folds
+Thelittle200: folds
+_COBKA_PBET_: folds
+HornyOldMan: raises $200.00 to $350.00
+zas911: folds
+notvrygud: calls $200.00
+*** FLOP *** [6d Ah Qs]
+notvrygud: checks
+HornyOldMan: checks
+*** TURN *** [6d Ah Qs] [4h]
+notvrygud: checks
+HornyOldMan: checks
+*** RIVER *** [6d Ah Qs 4h] [5c]
+notvrygud: checks
+HornyOldMan: checks
+*** SHOW DOWN ***
+notvrygud: shows [As 5s]
+HornyOldMan: mucks hand
+notvrygud collected $772.00 from pot
+*** SUMMARY ***
+Total pot $775.00 | Rake $3.00
+Board [6d Ah Qs 4h 5c]
+Seat 2: lmpala_zOrg folded before Flop (didn't bet)
+Seat 3: Thelittle200 folded before Flop (didn't bet)
+Seat 4: _COBKA_PBET_ folded before Flop (didn't bet)
+Seat 5: HornyOldMan (button) mucked
+Seat 6: zas911 (small blind) folded before Flop
+Seat 7: notvrygud (big blind) showed [As 5s] and won ($772.00)
+
+PokerStars Hand #1531203957:  Hold'em No Limit ($75.00/$150.00 USD) - 2023/01/21 04:45:44 ET
+Table 'WPN_7 Day No Rathole 75/150 NLH' 9-max Seat #6 is the button
+Seat 2: lmpala_zOrg ($3862.27 in chips)
+Seat 3: Thelittle200 ($11800.05 in chips)
+Seat 4: _COBKA_PBET_ ($3182.25 in chips)
+Seat 5: HornyOldMan ($27880.59 in chips)
+Seat 6: zas911 ($44346.50 in chips)
+Seat 7: notvrygud ($10031.75 in chips)
+notvrygud: posts small blind $75.00
+HornyOldMan: posts big blind $150.00
+*** HOLE CARDS ***
+zas911: folds
+notvrygud: folds
+Uncalled bet ($75.00) returned to HornyOldMan
+HornyOldMan collected $150.00 from pot
+HornyOldMan: doesn't show hand
+*** SUMMARY ***
+Total pot $150.00 | Rake $0.00
+Seat 5: HornyOldMan (big blind) collected ($150.00)
+Seat 6: zas911 (button) folded before Flop (didn't bet)
+Seat 7: notvrygud (small blind) folded before Flop
+
+PokerStars Hand #1531204511:  Hold'em No Limit ($75.00/$150.00 USD) - 2023/01/21 04:46:13 ET
+Table 'WPN_7 Day No Rathole 75/150 NLH' 9-max Seat #5 is the button
+Seat 2: lmpala_zOrg ($3862.27 in chips)
+Seat 5: HornyOldMan ($27880.59 in chips)
+HornyOldMan: posts small blind $75.00
+lmpala_zOrg: posts big blind $150.00
+*** HOLE CARDS ***
+HornyOldMan: raises $150.00 to $300.00
+lmpala_zOrg: calls $150.00
+*** FLOP *** [Jc Ah 9s]
+lmpala_zOrg: checks
+HornyOldMan: checks
+*** TURN *** [Jc Ah 9s] [2c]
+lmpala_zOrg: checks
+HornyOldMan: checks
+*** RIVER *** [Jc Ah 9s 2c] [5c]
+lmpala_zOrg: checks
+HornyOldMan: checks
+*** SHOW DOWN ***
+HornyOldMan: shows [4h Ks]
+lmpala_zOrg: mucks hand
+HornyOldMan collected $598.75 from pot
+*** SUMMARY ***
+Total pot $600.00 | Rake $1.25
+Board [Jc Ah 9s 2c 5c]
+Seat 2: lmpala_zOrg (big blind) mucked
+Seat 5: HornyOldMan (button) (small blind) showed [4h Ks] and won ($598.75)
+
+PokerStars Hand #1531206569:  Hold'em No Limit ($75.00/$150.00 USD) - 2023/01/21 04:47:58 ET
+Table 'WPN_7 Day No Rathole 75/150 NLH' 9-max Seat #2 is the button
+Seat 2: lmpala_zOrg ($3562.27 in chips)
+Seat 5: HornyOldMan ($28254.34 in chips)
+lmpala_zOrg: posts small blind $75.00
+HornyOldMan: posts big blind $150.00
+*** HOLE CARDS ***
+lmpala_zOrg: raises $150.00 to $300.00
+HornyOldMan: calls $150.00
+*** FLOP *** [9d Kd Ac]
+HornyOldMan: checks
+lmpala_zOrg: bets $300.00
+HornyOldMan: calls $300.00
+*** TURN *** [9d Kd Ac] [5h]
+HornyOldMan: checks
+lmpala_zOrg: bets $1200.00
+HornyOldMan: raises $2699.06 to $3899.06
+lmpala_zOrg: calls $1762.27 and is all-in
+Uncalled bet ($936.79) returned to HornyOldMan
+*** RIVER *** [9d Kd Ac 5h] [Ts]
+*** SHOW DOWN ***
+HornyOldMan: shows [As 5s]
+lmpala_zOrg: shows [Kh 5c]
+HornyOldMan collected $7123.29 from pot
+*** SUMMARY ***
+Total pot $7124.54 | Rake $1.25
+Board [9d Kd Ac 5h Ts]
+Seat 2: lmpala_zOrg (button) (small blind) showed [Kh 5c] and lost
+Seat 5: HornyOldMan (big blind) showed [As 5s] and won ($7123.29)
+
+PokerStars Hand #1531208315:  Hold'em No Limit ($75.00/$150.00 USD) - 2023/01/21 04:49:28 ET
+Table 'WPN_7 Day No Rathole 75/150 NLH' 9-max Seat #5 is the button
+Seat 2: lmpala_zOrg ($1500.00 in chips)
+Seat 5: HornyOldMan ($31815.36 in chips)
+HornyOldMan: posts small blind $75.00
+lmpala_zOrg: posts big blind $150.00
+*** HOLE CARDS ***
+HornyOldMan: raises $31665.36 to $31815.36 and is all-in
+lmpala_zOrg: folds
+Uncalled bet ($31665.36) returned to HornyOldMan
+HornyOldMan collected $300.00 from pot
+HornyOldMan: doesn't show hand
+*** SUMMARY ***
+Total pot $300.00 | Rake $0.00
+Seat 2: lmpala_zOrg (big blind) folded before Flop
+Seat 5: HornyOldMan (button) (small blind) collected ($300.00)
+
+PokerStars Hand #1531208557:  Hold'em No Limit ($75.00/$150.00 USD) - 2023/01/21 04:49:41 ET
+Table 'WPN_7 Day No Rathole 75/150 NLH' 9-max Seat #2 is the button
+Seat 2: lmpala_zOrg ($1350.00 in chips)
+Seat 5: HornyOldMan ($31965.36 in chips)
+lmpala_zOrg: posts small blind $75.00
+HornyOldMan: posts big blind $150.00
+*** HOLE CARDS ***
+lmpala_zOrg: raises $1350.00 to $1500.00 and is all-in
+HornyOldMan: calls $1350.00
+*** FLOP *** [3d Ah Js]
+*** TURN *** [3d Ah Js] [8s]
+*** RIVER *** [3d Ah Js 8s] [4c]
+*** SHOW DOWN ***
+HornyOldMan: shows [Ts As]
+lmpala_zOrg: shows [Qs Jc]
+HornyOldMan collected $2998.75 from pot
+*** SUMMARY ***
+Total pot $3000.00 | Rake $1.25
+Board [3d Ah Js 8s 4c]
+Seat 2: lmpala_zOrg (button) (small blind) showed [Qs Jc] and lost
+Seat 5: HornyOldMan (big blind) showed [Ts As] and won ($2998.75)
+
+PokerStars Hand #1530735749:  Hold'em No Limit ($75.00/$150.00 USD) - 2023/01/20 23:02:02 ET
+Table 'WPN_7 Day No Rathole 75/150 NLH' 9-max Seat #2 is the button
+Seat 2: Ollin22333 ($2694.68 in chips)
+Seat 3: Thelittle200 ($11696.30 in chips)
+Seat 4: DoublelegTD ($1500.00 in chips)
+Thelittle200: posts small blind $75.00
+DoublelegTD: posts big blind $150.00
+*** HOLE CARDS ***
+Ollin22333: calls $150.00
+Thelittle200: folds
+DoublelegTD: checks
+*** FLOP *** [7s 4d Ah]
+DoublelegTD: checks
+Ollin22333: bets $225.00
+DoublelegTD: folds
+Uncalled bet ($225.00) returned to Ollin22333
+Ollin22333 collected $373.25 from pot
+Ollin22333: doesn't show hand
+*** SUMMARY ***
+Total pot $375.00 | Rake $1.75
+Board [7s 4d Ah]
+Seat 2: Ollin22333 (button) collected ($373.25)
+Seat 3: Thelittle200 (small blind) folded before Flop
+Seat 4: DoublelegTD (big blind) folded on the Flop
+
+PokerStars Hand #1530736158:  Hold'em No Limit ($75.00/$150.00 USD) - 2023/01/20 23:02:20 ET
+Table 'WPN_7 Day No Rathole 75/150 NLH' 9-max Seat #3 is the button
+Seat 2: Ollin22333 ($2917.93 in chips)
+Seat 3: Thelittle200 ($11621.30 in chips)
+Seat 4: DoublelegTD ($1350.00 in chips)
+Seat 6: NijeGreska ($1500.00 in chips)
+DoublelegTD: posts small blind $75.00
+NijeGreska: posts big blind $150.00
+*** HOLE CARDS ***
+Ollin22333: raises $150.00 to $300.00
+Thelittle200: folds
+DoublelegTD: raises $1200.00 to $1500.00 and is all-in
+NijeGreska: folds
+Ollin22333: folds
+Uncalled bet ($1200.00) returned to DoublelegTD
+DoublelegTD collected $750.00 from pot
+DoublelegTD: doesn't show hand
+*** SUMMARY ***
+Total pot $750.00 | Rake $0.00
+Seat 2: Ollin22333 folded before Flop
+Seat 3: Thelittle200 (button) folded before Flop (didn't bet)
+Seat 4: DoublelegTD (small blind) collected ($750.00)
+Seat 6: NijeGreska (big blind) folded before Flop
+
+PokerStars Hand #1530736703:  Hold'em No Limit ($75.00/$150.00 USD) - 2023/01/20 23:02:43 ET
+Table 'WPN_7 Day No Rathole 75/150 NLH' 9-max Seat #4 is the button
+Seat 2: Ollin22333 ($2617.93 in chips)
+Seat 3: Thelittle200 ($11621.30 in chips)
+Seat 4: DoublelegTD ($1950.00 in chips)
+Seat 6: NijeGreska ($1500.00 in chips)
+NijeGreska: posts small blind $75.00
+Ollin22333: posts big blind $150.00
+*** HOLE CARDS ***
+Thelittle200: folds
+DoublelegTD: folds
+NijeGreska: raises $1350.00 to $1500.00 and is all-in
+Ollin22333: folds
+Uncalled bet ($1350.00) returned to NijeGreska
+NijeGreska collected $300.00 from pot
+NijeGreska: doesn't show hand
+*** SUMMARY ***
+Total pot $300.00 | Rake $0.00
+Seat 2: Ollin22333 (big blind) folded before Flop
+Seat 3: Thelittle200 folded before Flop (didn't bet)
+Seat 4: DoublelegTD (button) folded before Flop (didn't bet)
+Seat 6: NijeGreska (small blind) collected ($300.00)
+

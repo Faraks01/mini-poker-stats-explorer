@@ -1,0 +1,1305 @@
+PokerStars Hand #1493997105:  Hold'em No Limit ($75.00/$150.00 USD) - 2022/12/22 02:29:46 ET
+Table 'WPN_7 Day No Rathole 75/150 NLH' 9-max Seat #1 is the button
+Seat 1: spicymayo ($3298.75 in chips)
+Seat 7: oneplusone ($54880.63 in chips)
+spicymayo: posts small blind $75.00
+oneplusone: posts big blind $150.00
+*** HOLE CARDS ***
+spicymayo: raises $150.00 to $300.00
+oneplusone: raises $54580.63 to $54880.63 and is all-in
+spicymayo: folds
+Uncalled bet ($54580.63) returned to oneplusone
+oneplusone collected $600.00 from pot
+oneplusone: doesn't show hand
+*** SUMMARY ***
+Total pot $600.00 | Rake $0.00
+Seat 1: spicymayo (button) (small blind) folded before Flop
+Seat 7: oneplusone (big blind) collected ($600.00)
+
+PokerStars Hand #1493997464:  Hold'em No Limit ($75.00/$150.00 USD) - 2022/12/22 02:30:03 ET
+Table 'WPN_7 Day No Rathole 75/150 NLH' 9-max Seat #7 is the button
+Seat 1: spicymayo ($2998.75 in chips)
+Seat 7: oneplusone ($55180.63 in chips)
+oneplusone: posts small blind $75.00
+spicymayo: posts big blind $150.00
+*** HOLE CARDS ***
+oneplusone: calls $75.00
+spicymayo: checks
+*** FLOP *** [5d Qd 7c]
+spicymayo: checks
+oneplusone: bets $225.00
+spicymayo: calls $225.00
+*** TURN *** [5d Qd 7c] [5c]
+spicymayo: checks
+oneplusone: checks
+*** RIVER *** [5d Qd 7c 5c] [4d]
+spicymayo: checks
+oneplusone: bets $52493.17
+spicymayo: calls $2623.75 and is all-in
+Uncalled bet ($49869.42) returned to oneplusone
+*** SHOW DOWN ***
+oneplusone: shows [8d Jd]
+spicymayo: shows [8s Qh]
+oneplusone collected $5996.25 from pot
+*** SUMMARY ***
+Total pot $5997.50 | Rake $1.25
+Board [5d Qd 7c 5c 4d]
+Seat 1: spicymayo (big blind) showed [8s Qh] and lost
+Seat 7: oneplusone (button) (small blind) showed [8d Jd] and won ($5996.25)
+
+PokerStars Hand #1494000366:  Hold'em No Limit ($75.00/$150.00 USD) - 2022/12/22 02:32:12 ET
+Table 'WPN_7 Day No Rathole 75/150 NLH' 9-max Seat #7 is the button
+Seat 1: spicymayo ($1500.00 in chips)
+Seat 2: b00ma ($1500.00 in chips)
+Seat 7: oneplusone ($58178.13 in chips)
+spicymayo: posts small blind $75.00
+b00ma: posts big blind $150.00
+*** HOLE CARDS ***
+oneplusone: raises $58028.13 to $58178.13 and is all-in
+spicymayo: calls $1425.00 and is all-in
+b00ma: folds
+Uncalled bet ($56678.13) returned to oneplusone
+*** FLOP *** [9c 4d Js]
+*** TURN *** [9c 4d Js] [5d]
+*** RIVER *** [9c 4d Js 5d] [9h]
+*** SHOW DOWN ***
+spicymayo: shows [Ah Jh]
+oneplusone: shows [Ts Qs]
+spicymayo collected $3148.25 from pot
+*** SUMMARY ***
+Total pot $3150.00 | Rake $1.75
+Board [9c 4d Js 5d 9h]
+Seat 1: spicymayo (small blind) showed [Ah Jh] and won ($3148.25)
+Seat 2: b00ma (big blind) folded before Flop
+Seat 7: oneplusone (button) showed [Ts Qs] and lost
+
+PokerStars Hand #1494000911:  Hold'em No Limit ($75.00/$150.00 USD) - 2022/12/22 02:32:37 ET
+Table 'WPN_7 Day No Rathole 75/150 NLH' 9-max Seat #1 is the button
+Seat 1: spicymayo ($3148.25 in chips)
+Seat 2: b00ma ($1500.00 in chips)
+Seat 3: alanwatts15 ($5306.75 in chips)
+Seat 7: oneplusone ($56678.13 in chips)
+b00ma: posts small blind $75.00
+alanwatts15: posts big blind $150.00
+*** HOLE CARDS ***
+oneplusone: raises $150.00 to $300.00
+spicymayo: folds
+b00ma: folds
+alanwatts15: calls $150.00
+*** FLOP *** [3s 4h As]
+alanwatts15: checks
+oneplusone: bets $222.75
+alanwatts15: calls $222.75
+*** TURN *** [3s 4h As] [Jc]
+alanwatts15: checks
+oneplusone: checks
+*** RIVER *** [3s 4h As Jc] [3c]
+alanwatts15: bets $335.00
+oneplusone: calls $335.00
+*** SHOW DOWN ***
+alanwatts15: shows [Ah 7s]
+oneplusone: mucks hand
+alanwatts15 collected $1788.25 from pot
+*** SUMMARY ***
+Total pot $1790.50 | Rake $2.25
+Board [3s 4h As Jc 3c]
+Seat 1: spicymayo (button) folded before Flop (didn't bet)
+Seat 2: b00ma (small blind) folded before Flop
+Seat 3: alanwatts15 (big blind) showed [Ah 7s] and won ($1788.25)
+Seat 7: oneplusone mucked
+
+PokerStars Hand #1494002360:  Hold'em No Limit ($75.00/$150.00 USD) - 2022/12/22 02:33:43 ET
+Table 'WPN_7 Day No Rathole 75/150 NLH' 9-max Seat #2 is the button
+Seat 1: spicymayo ($3148.25 in chips)
+Seat 2: b00ma ($1500.00 in chips)
+Seat 3: alanwatts15 ($6237.25 in chips)
+Seat 7: oneplusone ($55820.38 in chips)
+alanwatts15: posts small blind $75.00
+oneplusone: posts big blind $150.00
+*** HOLE CARDS ***
+spicymayo: folds
+b00ma: folds
+alanwatts15: folds
+Uncalled bet ($75.00) returned to oneplusone
+oneplusone collected $150.00 from pot
+oneplusone: doesn't show hand
+*** SUMMARY ***
+Total pot $150.00 | Rake $0.00
+Seat 1: spicymayo folded before Flop (didn't bet)
+Seat 2: b00ma (button) folded before Flop (didn't bet)
+Seat 3: alanwatts15 (small blind) folded before Flop
+Seat 7: oneplusone (big blind) collected ($150.00)
+
+PokerStars Hand #1494002815:  Hold'em No Limit ($75.00/$150.00 USD) - 2022/12/22 02:34:02 ET
+Table 'WPN_7 Day No Rathole 75/150 NLH' 9-max Seat #3 is the button
+Seat 2: b00ma ($1500.00 in chips)
+Seat 3: alanwatts15 ($6162.25 in chips)
+Seat 7: oneplusone ($55895.38 in chips)
+oneplusone: posts small blind $75.00
+b00ma: posts big blind $150.00
+*** HOLE CARDS ***
+alanwatts15: folds
+oneplusone: folds
+Uncalled bet ($75.00) returned to b00ma
+b00ma collected $150.00 from pot
+b00ma: doesn't show hand
+*** SUMMARY ***
+Total pot $150.00 | Rake $0.00
+Seat 2: b00ma (big blind) collected ($150.00)
+Seat 3: alanwatts15 (button) folded before Flop (didn't bet)
+Seat 7: oneplusone (small blind) folded before Flop
+
+PokerStars Hand #1494003062:  Hold'em No Limit ($75.00/$150.00 USD) - 2022/12/22 02:34:13 ET
+Table 'WPN_7 Day No Rathole 75/150 NLH' 9-max Seat #2 is the button
+Seat 2: b00ma ($1575.00 in chips)
+Seat 7: oneplusone ($55820.38 in chips)
+b00ma: posts small blind $75.00
+oneplusone: posts big blind $150.00
+*** HOLE CARDS ***
+b00ma: raises $1425.00 to $1575.00 and is all-in
+oneplusone: calls $1425.00
+*** FLOP *** [6s 3h 2h]
+*** TURN *** [6s 3h 2h] [7d]
+*** RIVER *** [6s 3h 2h 7d] [Kh]
+*** SHOW DOWN ***
+b00ma: shows [8h Ah]
+oneplusone: shows [8d Qh]
+b00ma collected $3148.75 from pot
+*** SUMMARY ***
+Total pot $3150.00 | Rake $1.25
+Board [6s 3h 2h 7d Kh]
+Seat 2: b00ma (button) (small blind) showed [8h Ah] and won ($3148.75)
+Seat 7: oneplusone (big blind) showed [8d Qh] and lost
+
+PokerStars Hand #1493815279:  Hold'em No Limit ($75.00/$150.00 USD) - 2022/12/21 23:52:22 ET
+Table 'WPN_7 Day No Rathole 75/150 NLH' 9-max Seat #7 is the button
+Seat 2: chop-ch0p ($6238.60 in chips)
+Seat 7: bot35 ($2698.75 in chips)
+bot35: posts small blind $75.00
+chop-ch0p: posts big blind $150.00
+*** HOLE CARDS ***
+bot35: folds
+Uncalled bet ($75.00) returned to chop-ch0p
+chop-ch0p collected $150.00 from pot
+chop-ch0p: doesn't show hand
+*** SUMMARY ***
+Total pot $150.00 | Rake $0.00
+Seat 2: chop-ch0p (big blind) collected ($150.00)
+Seat 7: bot35 (button) (small blind) folded before Flop
+
+PokerStars Hand #1493828433:  Hold'em No Limit ($75.00/$150.00 USD) - 2022/12/22 00:07:33 ET
+Table 'WPN_7 Day No Rathole 75/150 NLH' 9-max Seat #7 is the button
+Seat 2: chop-ch0p ($6013.60 in chips)
+Seat 7: oneplusone ($66132.08 in chips)
+oneplusone: posts small blind $75.00
+chop-ch0p: posts big blind $150.00
+*** HOLE CARDS ***
+oneplusone: raises $180.00 to $330.00
+chop-ch0p: folds
+Uncalled bet ($180.00) returned to oneplusone
+oneplusone collected $300.00 from pot
+oneplusone: doesn't show hand
+*** SUMMARY ***
+Total pot $300.00 | Rake $0.00
+Seat 2: chop-ch0p (big blind) folded before Flop
+Seat 7: oneplusone (button) (small blind) collected ($300.00)
+
+PokerStars Hand #1493828638:  Hold'em No Limit ($75.00/$150.00 USD) - 2022/12/22 00:07:44 ET
+Table 'WPN_7 Day No Rathole 75/150 NLH' 9-max Seat #7 is the button
+Seat 7: oneplusone ($66282.08 in chips)
+Seat 8: CWestmoreland ($1500.00 in chips)
+oneplusone: posts small blind $75.00
+CWestmoreland: posts big blind $150.00
+*** HOLE CARDS ***
+oneplusone: folds
+Uncalled bet ($75.00) returned to CWestmoreland
+CWestmoreland collected $150.00 from pot
+CWestmoreland: doesn't show hand
+*** SUMMARY ***
+Total pot $150.00 | Rake $0.00
+Seat 7: oneplusone (button) (small blind) folded before Flop
+Seat 8: CWestmoreland (big blind) collected ($150.00)
+
+PokerStars Hand #1493828950:  Hold'em No Limit ($75.00/$150.00 USD) - 2022/12/22 00:08:01 ET
+Table 'WPN_7 Day No Rathole 75/150 NLH' 9-max Seat #8 is the button
+Seat 7: oneplusone ($66207.08 in chips)
+Seat 8: CWestmoreland ($1575.00 in chips)
+CWestmoreland: posts small blind $75.00
+oneplusone: posts big blind $150.00
+*** HOLE CARDS ***
+CWestmoreland: raises $1200.00 to $1350.00
+oneplusone: folds
+Uncalled bet ($1200.00) returned to CWestmoreland
+CWestmoreland collected $300.00 from pot
+CWestmoreland: doesn't show hand
+*** SUMMARY ***
+Total pot $300.00 | Rake $0.00
+Seat 7: oneplusone (big blind) folded before Flop
+Seat 8: CWestmoreland (button) (small blind) collected ($300.00)
+
+PokerStars Hand #1493860994:  Hold'em No Limit ($75.00/$150.00 USD) - 2022/12/22 00:35:31 ET
+Table 'WPN_7 Day No Rathole 75/150 NLH' 9-max Seat #7 is the button
+Seat 2: bot35 ($2848.75 in chips)
+Seat 7: oneplusone ($65982.08 in chips)
+oneplusone: posts small blind $75.00
+bot35: posts big blind $150.00
+*** HOLE CARDS ***
+oneplusone: folds
+Uncalled bet ($75.00) returned to bot35
+bot35 collected $150.00 from pot
+bot35: doesn't show hand
+*** SUMMARY ***
+Total pot $150.00 | Rake $0.00
+Seat 2: bot35 (big blind) collected ($150.00)
+Seat 7: oneplusone (button) (small blind) folded before Flop
+
+PokerStars Hand #1493861246:  Hold'em No Limit ($75.00/$150.00 USD) - 2022/12/22 00:35:43 ET
+Table 'WPN_7 Day No Rathole 75/150 NLH' 9-max Seat #2 is the button
+Seat 2: bot35 ($2923.75 in chips)
+Seat 7: oneplusone ($65982.08 in chips)
+bot35: posts small blind $75.00
+oneplusone: posts big blind $150.00
+*** HOLE CARDS ***
+bot35: raises $150.00 to $300.00
+oneplusone: folds
+Uncalled bet ($150.00) returned to bot35
+bot35 collected $300.00 from pot
+bot35: doesn't show hand
+*** SUMMARY ***
+Total pot $300.00 | Rake $0.00
+Seat 2: bot35 (button) (small blind) collected ($300.00)
+Seat 7: oneplusone (big blind) folded before Flop
+
+PokerStars Hand #1493864010:  Hold'em No Limit ($75.00/$150.00 USD) - 2022/12/22 00:38:03 ET
+Table 'WPN_7 Day No Rathole 75/150 NLH' 9-max Seat #7 is the button
+Seat 2: bot35 ($3073.75 in chips)
+Seat 7: oneplusone ($65832.08 in chips)
+oneplusone: posts small blind $75.00
+bot35: posts big blind $150.00
+*** HOLE CARDS ***
+oneplusone: raises $150.00 to $300.00
+bot35: folds
+Uncalled bet ($150.00) returned to oneplusone
+oneplusone collected $300.00 from pot
+oneplusone: doesn't show hand
+*** SUMMARY ***
+Total pot $300.00 | Rake $0.00
+Seat 2: bot35 (big blind) folded before Flop
+Seat 7: oneplusone (button) (small blind) collected ($300.00)
+
+PokerStars Hand #1493864407:  Hold'em No Limit ($75.00/$150.00 USD) - 2022/12/22 00:38:22 ET
+Table 'WPN_7 Day No Rathole 75/150 NLH' 9-max Seat #2 is the button
+Seat 2: bot35 ($2923.75 in chips)
+Seat 7: oneplusone ($65982.08 in chips)
+bot35: posts small blind $75.00
+oneplusone: posts big blind $150.00
+*** HOLE CARDS ***
+bot35: folds
+Uncalled bet ($75.00) returned to oneplusone
+oneplusone collected $150.00 from pot
+oneplusone: doesn't show hand
+*** SUMMARY ***
+Total pot $150.00 | Rake $0.00
+Seat 2: bot35 (button) (small blind) folded before Flop
+Seat 7: oneplusone (big blind) collected ($150.00)
+
+PokerStars Hand #1493864608:  Hold'em No Limit ($75.00/$150.00 USD) - 2022/12/22 00:38:32 ET
+Table 'WPN_7 Day No Rathole 75/150 NLH' 9-max Seat #7 is the button
+Seat 2: bot35 ($2848.75 in chips)
+Seat 7: oneplusone ($66057.08 in chips)
+oneplusone: posts small blind $75.00
+bot35: posts big blind $150.00
+*** HOLE CARDS ***
+oneplusone: folds
+Uncalled bet ($75.00) returned to bot35
+bot35 collected $150.00 from pot
+bot35: doesn't show hand
+*** SUMMARY ***
+Total pot $150.00 | Rake $0.00
+Seat 2: bot35 (big blind) collected ($150.00)
+Seat 7: oneplusone (button) (small blind) folded before Flop
+
+PokerStars Hand #1493864837:  Hold'em No Limit ($75.00/$150.00 USD) - 2022/12/22 00:38:43 ET
+Table 'WPN_7 Day No Rathole 75/150 NLH' 9-max Seat #2 is the button
+Seat 2: bot35 ($2923.75 in chips)
+Seat 7: oneplusone ($65982.08 in chips)
+bot35: posts small blind $75.00
+oneplusone: posts big blind $150.00
+*** HOLE CARDS ***
+bot35: calls $75.00
+oneplusone: raises $65832.08 to $65982.08 and is all-in
+bot35: folds
+Uncalled bet ($65832.08) returned to oneplusone
+oneplusone collected $300.00 from pot
+oneplusone: doesn't show hand
+*** SUMMARY ***
+Total pot $300.00 | Rake $0.00
+Seat 2: bot35 (button) (small blind) folded before Flop
+Seat 7: oneplusone (big blind) collected ($300.00)
+
+PokerStars Hand #1493865145:  Hold'em No Limit ($75.00/$150.00 USD) - 2022/12/22 00:38:59 ET
+Table 'WPN_7 Day No Rathole 75/150 NLH' 9-max Seat #7 is the button
+Seat 2: bot35 ($2773.75 in chips)
+Seat 7: oneplusone ($66132.08 in chips)
+oneplusone: posts small blind $75.00
+bot35: posts big blind $150.00
+*** HOLE CARDS ***
+oneplusone: folds
+Uncalled bet ($75.00) returned to bot35
+bot35 collected $150.00 from pot
+bot35: doesn't show hand
+*** SUMMARY ***
+Total pot $150.00 | Rake $0.00
+Seat 2: bot35 (big blind) collected ($150.00)
+Seat 7: oneplusone (button) (small blind) folded before Flop
+
+PokerStars Hand #1493865343:  Hold'em No Limit ($75.00/$150.00 USD) - 2022/12/22 00:39:09 ET
+Table 'WPN_7 Day No Rathole 75/150 NLH' 9-max Seat #2 is the button
+Seat 2: bot35 ($2848.75 in chips)
+Seat 7: oneplusone ($66057.08 in chips)
+bot35: posts small blind $75.00
+oneplusone: posts big blind $150.00
+*** HOLE CARDS ***
+bot35: raises $150.00 to $300.00
+oneplusone: raises $65757.08 to $66057.08 and is all-in
+bot35: folds
+Uncalled bet ($65757.08) returned to oneplusone
+oneplusone collected $600.00 from pot
+oneplusone: doesn't show hand
+*** SUMMARY ***
+Total pot $600.00 | Rake $0.00
+Seat 2: bot35 (button) (small blind) folded before Flop
+Seat 7: oneplusone (big blind) collected ($600.00)
+
+PokerStars Hand #1493865645:  Hold'em No Limit ($75.00/$150.00 USD) - 2022/12/22 00:39:24 ET
+Table 'WPN_7 Day No Rathole 75/150 NLH' 9-max Seat #7 is the button
+Seat 2: bot35 ($2548.75 in chips)
+Seat 7: oneplusone ($66357.08 in chips)
+oneplusone: posts small blind $75.00
+bot35: posts big blind $150.00
+*** HOLE CARDS ***
+oneplusone: calls $75.00
+bot35: checks
+*** FLOP *** [Jc 6s Th]
+bot35: checks
+oneplusone: bets $150.00
+bot35: folds
+Uncalled bet ($150.00) returned to oneplusone
+oneplusone collected $298.75 from pot
+oneplusone: doesn't show hand
+*** SUMMARY ***
+Total pot $300.00 | Rake $1.25
+Board [Jc 6s Th]
+Seat 2: bot35 (big blind) folded on the Flop
+Seat 7: oneplusone (button) (small blind) collected ($298.75)
+
+PokerStars Hand #1493866260:  Hold'em No Limit ($75.00/$150.00 USD) - 2022/12/22 00:39:56 ET
+Table 'WPN_7 Day No Rathole 75/150 NLH' 9-max Seat #2 is the button
+Seat 2: bot35 ($2398.75 in chips)
+Seat 7: oneplusone ($66505.83 in chips)
+bot35: posts small blind $75.00
+oneplusone: posts big blind $150.00
+*** HOLE CARDS ***
+bot35: raises $150.00 to $300.00
+oneplusone: calls $150.00
+*** FLOP *** [Th 6s 4s]
+oneplusone: checks
+bot35: checks
+*** TURN *** [Th 6s 4s] [6c]
+oneplusone: checks
+bot35: checks
+*** RIVER *** [Th 6s 4s 6c] [4h]
+oneplusone: bets $450.00
+bot35: folds
+Uncalled bet ($450.00) returned to oneplusone
+oneplusone collected $598.75 from pot
+oneplusone: doesn't show hand
+*** SUMMARY ***
+Total pot $600.00 | Rake $1.25
+Board [Th 6s 4s 6c 4h]
+Seat 2: bot35 (button) (small blind) folded on the River
+Seat 7: oneplusone (big blind) collected ($598.75)
+
+PokerStars Hand #1493867821:  Hold'em No Limit ($75.00/$150.00 USD) - 2022/12/22 00:41:16 ET
+Table 'WPN_7 Day No Rathole 75/150 NLH' 9-max Seat #7 is the button
+Seat 2: bot35 ($2098.75 in chips)
+Seat 7: oneplusone ($66804.58 in chips)
+oneplusone: posts small blind $75.00
+bot35: posts big blind $150.00
+*** HOLE CARDS ***
+oneplusone: calls $75.00
+bot35: checks
+*** FLOP *** [2d Tc Jc]
+bot35: checks
+oneplusone: bets $150.00
+bot35: raises $375.00 to $525.00
+oneplusone: calls $375.00
+*** TURN *** [2d Tc Jc] [7s]
+bot35: bets $1423.75 and is all-in
+oneplusone: calls $1423.75
+*** RIVER *** [2d Tc Jc 7s] [8d]
+*** SHOW DOWN ***
+bot35: shows [Qs 9c]
+oneplusone: shows [Qc Qh]
+bot35 collected $4196.25 from pot
+*** SUMMARY ***
+Total pot $4197.50 | Rake $1.25
+Board [2d Tc Jc 7s 8d]
+Seat 2: bot35 (big blind) showed [Qs 9c] and won ($4196.25)
+Seat 7: oneplusone (button) (small blind) showed [Qc Qh] and lost
+
+PokerStars Hand #1493869017:  Hold'em No Limit ($75.00/$150.00 USD) - 2022/12/22 00:42:16 ET
+Table 'WPN_7 Day No Rathole 75/150 NLH' 9-max Seat #2 is the button
+Seat 2: bot35 ($4196.25 in chips)
+Seat 7: oneplusone ($64705.83 in chips)
+bot35: posts small blind $75.00
+oneplusone: posts big blind $150.00
+*** HOLE CARDS ***
+bot35: raises $150.00 to $300.00
+oneplusone: raises $600.00 to $900.00
+bot35: folds
+Uncalled bet ($600.00) returned to oneplusone
+oneplusone collected $600.00 from pot
+oneplusone: doesn't show hand
+*** SUMMARY ***
+Total pot $600.00 | Rake $0.00
+Seat 2: bot35 (button) (small blind) folded before Flop
+Seat 7: oneplusone (big blind) collected ($600.00)
+
+PokerStars Hand #1493869445:  Hold'em No Limit ($75.00/$150.00 USD) - 2022/12/22 00:42:37 ET
+Table 'WPN_7 Day No Rathole 75/150 NLH' 9-max Seat #7 is the button
+Seat 2: bot35 ($3896.25 in chips)
+Seat 7: oneplusone ($65005.83 in chips)
+oneplusone: posts small blind $75.00
+bot35: posts big blind $150.00
+*** HOLE CARDS ***
+oneplusone: raises $150.00 to $300.00
+bot35: calls $150.00
+*** FLOP *** [Ac 6h 8s]
+bot35: checks
+oneplusone: bets $300.00
+bot35: calls $300.00
+*** TURN *** [Ac 6h 8s] [7c]
+bot35: checks
+oneplusone: bets $600.00
+bot35: calls $600.00
+*** RIVER *** [Ac 6h 8s 7c] [5s]
+bot35: bets $2696.25 and is all-in
+oneplusone: calls $2696.25
+*** SHOW DOWN ***
+bot35: shows [9d Tc]
+oneplusone: shows [9c 9h]
+bot35 collected $7791.25 from pot
+*** SUMMARY ***
+Total pot $7792.50 | Rake $1.25
+Board [Ac 6h 8s 7c 5s]
+Seat 2: bot35 (big blind) showed [9d Tc] and won ($7791.25)
+Seat 7: oneplusone (button) (small blind) showed [9c 9h] and lost
+
+PokerStars Hand #1493870991:  Hold'em No Limit ($75.00/$150.00 USD) - 2022/12/22 00:43:56 ET
+Table 'WPN_7 Day No Rathole 75/150 NLH' 9-max Seat #2 is the button
+Seat 2: bot35 ($7791.25 in chips)
+Seat 7: oneplusone ($61109.58 in chips)
+bot35: posts small blind $75.00
+oneplusone: posts big blind $150.00
+*** HOLE CARDS ***
+bot35: raises $150.00 to $300.00
+oneplusone: folds
+Uncalled bet ($150.00) returned to bot35
+bot35 collected $300.00 from pot
+bot35: doesn't show hand
+*** SUMMARY ***
+Total pot $300.00 | Rake $0.00
+Seat 2: bot35 (button) (small blind) collected ($300.00)
+Seat 7: oneplusone (big blind) folded before Flop
+
+PokerStars Hand #1493871686:  Hold'em No Limit ($75.00/$150.00 USD) - 2022/12/22 00:44:31 ET
+Table 'WPN_7 Day No Rathole 75/150 NLH' 9-max Seat #7 is the button
+Seat 2: bot35 ($7941.25 in chips)
+Seat 7: oneplusone ($60959.58 in chips)
+oneplusone: posts small blind $75.00
+bot35: posts big blind $150.00
+*** HOLE CARDS ***
+oneplusone: folds
+Uncalled bet ($75.00) returned to bot35
+bot35 collected $150.00 from pot
+bot35: doesn't show hand
+*** SUMMARY ***
+Total pot $150.00 | Rake $0.00
+Seat 2: bot35 (big blind) collected ($150.00)
+Seat 7: oneplusone (button) (small blind) folded before Flop
+
+PokerStars Hand #1493871882:  Hold'em No Limit ($75.00/$150.00 USD) - 2022/12/22 00:44:41 ET
+Table 'WPN_7 Day No Rathole 75/150 NLH' 9-max Seat #2 is the button
+Seat 2: bot35 ($8016.25 in chips)
+Seat 7: oneplusone ($60884.58 in chips)
+bot35: posts small blind $75.00
+oneplusone: posts big blind $150.00
+*** HOLE CARDS ***
+bot35: raises $150.00 to $300.00
+oneplusone: raises $900.00 to $1200.00
+bot35: calls $900.00
+*** FLOP *** [7c 7d Jh]
+oneplusone: bets $1200.00
+bot35: folds
+Uncalled bet ($1200.00) returned to oneplusone
+oneplusone collected $2398.75 from pot
+oneplusone: doesn't show hand
+*** SUMMARY ***
+Total pot $2400.00 | Rake $1.25
+Board [7c 7d Jh]
+Seat 2: bot35 (button) (small blind) folded on the Flop
+Seat 7: oneplusone (big blind) collected ($2398.75)
+
+PokerStars Hand #1493872540:  Hold'em No Limit ($75.00/$150.00 USD) - 2022/12/22 00:45:14 ET
+Table 'WPN_7 Day No Rathole 75/150 NLH' 9-max Seat #2 is the button
+Seat 1: IAmTheJeff ($9882.00 in chips)
+Seat 2: bot35 ($6816.25 in chips)
+Seat 7: oneplusone ($62083.33 in chips)
+oneplusone: posts small blind $75.00
+IAmTheJeff: posts big blind $150.00
+*** HOLE CARDS ***
+bot35: folds
+oneplusone: raises $300.00 to $450.00
+IAmTheJeff: calls $300.00
+*** FLOP *** [4d 3c 3h]
+oneplusone: bets $297.00
+IAmTheJeff: raises $447.00 to $744.00
+oneplusone: folds
+Uncalled bet ($447.00) returned to IAmTheJeff
+IAmTheJeff collected $1492.25 from pot
+IAmTheJeff: doesn't show hand
+*** SUMMARY ***
+Total pot $1494.00 | Rake $1.75
+Board [4d 3c 3h]
+Seat 1: IAmTheJeff (big blind) collected ($1492.25)
+Seat 2: bot35 (button) folded before Flop (didn't bet)
+Seat 7: oneplusone (small blind) folded on the Flop
+
+PokerStars Hand #1493873037:  Hold'em No Limit ($75.00/$150.00 USD) - 2022/12/22 00:45:41 ET
+Table 'WPN_7 Day No Rathole 75/150 NLH' 9-max Seat #7 is the button
+Seat 1: IAmTheJeff ($10627.25 in chips)
+Seat 2: bot35 ($6816.25 in chips)
+Seat 7: oneplusone ($61336.33 in chips)
+IAmTheJeff: posts small blind $75.00
+bot35: posts big blind $150.00
+*** HOLE CARDS ***
+oneplusone: folds
+IAmTheJeff: folds
+Uncalled bet ($75.00) returned to bot35
+bot35 collected $150.00 from pot
+bot35: doesn't show hand
+*** SUMMARY ***
+Total pot $150.00 | Rake $0.00
+Seat 1: IAmTheJeff (small blind) folded before Flop
+Seat 2: bot35 (big blind) collected ($150.00)
+Seat 7: oneplusone (button) folded before Flop (didn't bet)
+
+PokerStars Hand #1493873413:  Hold'em No Limit ($75.00/$150.00 USD) - 2022/12/22 00:46:00 ET
+Table 'WPN_7 Day No Rathole 75/150 NLH' 9-max Seat #1 is the button
+Seat 1: IAmTheJeff ($10552.25 in chips)
+Seat 2: bot35 ($6891.25 in chips)
+Seat 7: oneplusone ($61336.33 in chips)
+bot35: posts small blind $75.00
+oneplusone: posts big blind $150.00
+*** HOLE CARDS ***
+IAmTheJeff: raises $225.00 to $375.00
+bot35: folds
+oneplusone: raises $1125.00 to $1500.00
+IAmTheJeff: calls $1125.00
+*** FLOP *** [7d 9c Th]
+oneplusone: checks
+IAmTheJeff: checks
+*** TURN *** [7d 9c Th] [Ac]
+oneplusone: checks
+IAmTheJeff: checks
+*** RIVER *** [7d 9c Th Ac] [4d]
+oneplusone: checks
+IAmTheJeff: bets $618.75
+oneplusone: calls $618.75
+*** SHOW DOWN ***
+IAmTheJeff: shows [Js As]
+oneplusone: mucks hand
+IAmTheJeff collected $4310.75 from pot
+*** SUMMARY ***
+Total pot $4312.50 | Rake $1.75
+Board [7d 9c Th Ac 4d]
+Seat 1: IAmTheJeff (button) showed [Js As] and won ($4310.75)
+Seat 2: bot35 (small blind) folded before Flop
+Seat 7: oneplusone (big blind) mucked
+
+PokerStars Hand #1493874102:  Hold'em No Limit ($75.00/$150.00 USD) - 2022/12/22 00:46:34 ET
+Table 'WPN_7 Day No Rathole 75/150 NLH' 9-max Seat #2 is the button
+Seat 1: IAmTheJeff ($12744.25 in chips)
+Seat 2: bot35 ($6816.25 in chips)
+Seat 7: oneplusone ($59217.58 in chips)
+oneplusone: posts small blind $75.00
+IAmTheJeff: posts big blind $150.00
+*** HOLE CARDS ***
+bot35: raises $150.00 to $300.00
+oneplusone: folds
+IAmTheJeff: calls $150.00
+*** FLOP *** [3c 3h 2d]
+IAmTheJeff: checks
+bot35: bets $337.50
+IAmTheJeff: raises $412.50 to $750.00
+bot35: calls $412.50
+*** TURN *** [3c 3h 2d] [2c]
+IAmTheJeff: checks
+bot35: bets $700.00
+IAmTheJeff: calls $700.00
+*** RIVER *** [3c 3h 2d 2c] [Tc]
+IAmTheJeff: checks
+bot35: checks
+*** SHOW DOWN ***
+IAmTheJeff: shows [8s As]
+bot35: mucks hand
+IAmTheJeff collected $3573.25 from pot
+*** SUMMARY ***
+Total pot $3575.00 | Rake $1.75
+Board [3c 3h 2d 2c Tc]
+Seat 1: IAmTheJeff (big blind) showed [8s As] and won ($3573.25)
+Seat 2: bot35 (button) mucked
+Seat 7: oneplusone (small blind) folded before Flop
+
+PokerStars Hand #1493875550:  Hold'em No Limit ($75.00/$150.00 USD) - 2022/12/22 00:47:49 ET
+Table 'WPN_7 Day No Rathole 75/150 NLH' 9-max Seat #7 is the button
+Seat 1: IAmTheJeff ($14567.50 in chips)
+Seat 2: bot35 ($5066.25 in chips)
+Seat 7: oneplusone ($59142.58 in chips)
+IAmTheJeff: posts small blind $75.00
+bot35: posts big blind $150.00
+*** HOLE CARDS ***
+oneplusone: raises $165.00 to $315.00
+IAmTheJeff: folds
+bot35: folds
+Uncalled bet ($165.00) returned to oneplusone
+oneplusone collected $375.00 from pot
+oneplusone: doesn't show hand
+*** SUMMARY ***
+Total pot $375.00 | Rake $0.00
+Seat 1: IAmTheJeff (small blind) folded before Flop
+Seat 2: bot35 (big blind) folded before Flop
+Seat 7: oneplusone (button) collected ($375.00)
+
+PokerStars Hand #1493875825:  Hold'em No Limit ($75.00/$150.00 USD) - 2022/12/22 00:48:03 ET
+Table 'WPN_7 Day No Rathole 75/150 NLH' 9-max Seat #1 is the button
+Seat 1: IAmTheJeff ($14492.50 in chips)
+Seat 2: bot35 ($4916.25 in chips)
+Seat 7: oneplusone ($59367.58 in chips)
+bot35: posts small blind $75.00
+oneplusone: posts big blind $150.00
+*** HOLE CARDS ***
+IAmTheJeff: folds
+bot35: raises $225.00 to $375.00
+oneplusone: raises $58992.58 to $59367.58 and is all-in
+bot35: folds
+Uncalled bet ($58992.58) returned to oneplusone
+oneplusone collected $750.00 from pot
+oneplusone: doesn't show hand
+*** SUMMARY ***
+Total pot $750.00 | Rake $0.00
+Seat 1: IAmTheJeff (button) folded before Flop (didn't bet)
+Seat 2: bot35 (small blind) folded before Flop
+Seat 7: oneplusone (big blind) collected ($750.00)
+
+PokerStars Hand #1493876248:  Hold'em No Limit ($75.00/$150.00 USD) - 2022/12/22 00:48:24 ET
+Table 'WPN_7 Day No Rathole 75/150 NLH' 9-max Seat #2 is the button
+Seat 1: IAmTheJeff ($14492.50 in chips)
+Seat 2: bot35 ($4541.25 in chips)
+Seat 7: oneplusone ($59742.58 in chips)
+oneplusone: posts small blind $75.00
+IAmTheJeff: posts big blind $150.00
+*** HOLE CARDS ***
+bot35: folds
+oneplusone: folds
+Uncalled bet ($75.00) returned to IAmTheJeff
+IAmTheJeff collected $150.00 from pot
+IAmTheJeff: doesn't show hand
+*** SUMMARY ***
+Total pot $150.00 | Rake $0.00
+Seat 1: IAmTheJeff (big blind) collected ($150.00)
+Seat 2: bot35 (button) folded before Flop (didn't bet)
+Seat 7: oneplusone (small blind) folded before Flop
+
+PokerStars Hand #1493876478:  Hold'em No Limit ($75.00/$150.00 USD) - 2022/12/22 00:48:36 ET
+Table 'WPN_7 Day No Rathole 75/150 NLH' 9-max Seat #7 is the button
+Seat 1: IAmTheJeff ($14567.50 in chips)
+Seat 2: bot35 ($4541.25 in chips)
+Seat 7: oneplusone ($59667.58 in chips)
+IAmTheJeff: posts small blind $75.00
+bot35: posts big blind $150.00
+*** HOLE CARDS ***
+oneplusone: folds
+IAmTheJeff: raises $225.00 to $375.00
+bot35: calls $225.00
+*** FLOP *** [Qc 4d Ks]
+IAmTheJeff: checks
+bot35: checks
+*** TURN *** [Qc 4d Ks] [9s]
+IAmTheJeff: checks
+bot35: bets $500.00
+IAmTheJeff: folds
+Uncalled bet ($500.00) returned to bot35
+bot35 collected $748.25 from pot
+bot35: doesn't show hand
+*** SUMMARY ***
+Total pot $750.00 | Rake $1.75
+Board [Qc 4d Ks 9s]
+Seat 1: IAmTheJeff (small blind) folded on the Turn
+Seat 2: bot35 (big blind) collected ($748.25)
+Seat 7: oneplusone (button) folded before Flop (didn't bet)
+
+PokerStars Hand #1493877198:  Hold'em No Limit ($75.00/$150.00 USD) - 2022/12/22 00:49:12 ET
+Table 'WPN_7 Day No Rathole 75/150 NLH' 9-max Seat #1 is the button
+Seat 1: IAmTheJeff ($14192.50 in chips)
+Seat 2: bot35 ($4914.50 in chips)
+Seat 7: oneplusone ($59667.58 in chips)
+bot35: posts small blind $75.00
+oneplusone: posts big blind $150.00
+*** HOLE CARDS ***
+IAmTheJeff: folds
+bot35: raises $225.00 to $375.00
+oneplusone: folds
+Uncalled bet ($225.00) returned to bot35
+bot35 collected $300.00 from pot
+bot35: doesn't show hand
+*** SUMMARY ***
+Total pot $300.00 | Rake $0.00
+Seat 1: IAmTheJeff (button) folded before Flop (didn't bet)
+Seat 2: bot35 (small blind) collected ($300.00)
+Seat 7: oneplusone (big blind) folded before Flop
+
+PokerStars Hand #1493877574:  Hold'em No Limit ($75.00/$150.00 USD) - 2022/12/22 00:49:31 ET
+Table 'WPN_7 Day No Rathole 75/150 NLH' 9-max Seat #2 is the button
+Seat 1: IAmTheJeff ($14192.50 in chips)
+Seat 2: bot35 ($5064.50 in chips)
+Seat 7: oneplusone ($59517.58 in chips)
+oneplusone: posts small blind $75.00
+IAmTheJeff: posts big blind $150.00
+*** HOLE CARDS ***
+bot35: folds
+oneplusone: folds
+Uncalled bet ($75.00) returned to IAmTheJeff
+IAmTheJeff collected $150.00 from pot
+IAmTheJeff: doesn't show hand
+*** SUMMARY ***
+Total pot $150.00 | Rake $0.00
+Seat 1: IAmTheJeff (big blind) collected ($150.00)
+Seat 2: bot35 (button) folded before Flop (didn't bet)
+Seat 7: oneplusone (small blind) folded before Flop
+
+PokerStars Hand #1493877845:  Hold'em No Limit ($75.00/$150.00 USD) - 2022/12/22 00:49:45 ET
+Table 'WPN_7 Day No Rathole 75/150 NLH' 9-max Seat #7 is the button
+Seat 1: IAmTheJeff ($14267.50 in chips)
+Seat 2: bot35 ($5064.50 in chips)
+Seat 7: oneplusone ($59442.58 in chips)
+IAmTheJeff: posts small blind $75.00
+bot35: posts big blind $150.00
+*** HOLE CARDS ***
+oneplusone: folds
+IAmTheJeff: folds
+Uncalled bet ($75.00) returned to bot35
+bot35 collected $150.00 from pot
+bot35: doesn't show hand
+*** SUMMARY ***
+Total pot $150.00 | Rake $0.00
+Seat 1: IAmTheJeff (small blind) folded before Flop
+Seat 2: bot35 (big blind) collected ($150.00)
+Seat 7: oneplusone (button) folded before Flop (didn't bet)
+
+PokerStars Hand #1493878051:  Hold'em No Limit ($75.00/$150.00 USD) - 2022/12/22 00:49:55 ET
+Table 'WPN_7 Day No Rathole 75/150 NLH' 9-max Seat #1 is the button
+Seat 1: IAmTheJeff ($14192.50 in chips)
+Seat 2: bot35 ($5139.50 in chips)
+Seat 7: oneplusone ($59442.58 in chips)
+bot35: posts small blind $75.00
+oneplusone: posts big blind $150.00
+*** HOLE CARDS ***
+IAmTheJeff: folds
+bot35: raises $225.00 to $375.00
+oneplusone: raises $750.00 to $1125.00
+bot35: folds
+Uncalled bet ($750.00) returned to oneplusone
+oneplusone collected $750.00 from pot
+oneplusone: doesn't show hand
+*** SUMMARY ***
+Total pot $750.00 | Rake $0.00
+Seat 1: IAmTheJeff (button) folded before Flop (didn't bet)
+Seat 2: bot35 (small blind) folded before Flop
+Seat 7: oneplusone (big blind) collected ($750.00)
+
+PokerStars Hand #1493878680:  Hold'em No Limit ($75.00/$150.00 USD) - 2022/12/22 00:50:27 ET
+Table 'WPN_7 Day No Rathole 75/150 NLH' 9-max Seat #2 is the button
+Seat 1: IAmTheJeff ($14192.50 in chips)
+Seat 2: bot35 ($4764.50 in chips)
+Seat 7: oneplusone ($59817.58 in chips)
+oneplusone: posts small blind $75.00
+IAmTheJeff: posts big blind $150.00
+*** HOLE CARDS ***
+bot35: folds
+oneplusone: raises $300.00 to $450.00
+IAmTheJeff: folds
+Uncalled bet ($300.00) returned to oneplusone
+oneplusone collected $300.00 from pot
+oneplusone: doesn't show hand
+*** SUMMARY ***
+Total pot $300.00 | Rake $0.00
+Seat 1: IAmTheJeff (big blind) folded before Flop
+Seat 2: bot35 (button) folded before Flop (didn't bet)
+Seat 7: oneplusone (small blind) collected ($300.00)
+
+PokerStars Hand #1493878964:  Hold'em No Limit ($75.00/$150.00 USD) - 2022/12/22 00:50:41 ET
+Table 'WPN_7 Day No Rathole 75/150 NLH' 9-max Seat #7 is the button
+Seat 1: IAmTheJeff ($14042.50 in chips)
+Seat 2: bot35 ($4764.50 in chips)
+Seat 7: oneplusone ($59967.58 in chips)
+IAmTheJeff: posts small blind $75.00
+bot35: posts big blind $150.00
+*** HOLE CARDS ***
+oneplusone: folds
+IAmTheJeff: raises $225.00 to $375.00
+bot35: calls $225.00
+*** FLOP *** [7h Td 9s]
+IAmTheJeff: bets $225.00
+bot35: calls $225.00
+*** TURN *** [7h Td 9s] [7s]
+IAmTheJeff: bets $375.00
+bot35: folds
+Uncalled bet ($375.00) returned to IAmTheJeff
+IAmTheJeff collected $1198.25 from pot
+IAmTheJeff: doesn't show hand
+*** SUMMARY ***
+Total pot $1200.00 | Rake $1.75
+Board [7h Td 9s 7s]
+Seat 1: IAmTheJeff (small blind) collected ($1198.25)
+Seat 2: bot35 (big blind) folded on the Turn
+Seat 7: oneplusone (button) folded before Flop (didn't bet)
+
+PokerStars Hand #1493879816:  Hold'em No Limit ($75.00/$150.00 USD) - 2022/12/22 00:51:25 ET
+Table 'WPN_7 Day No Rathole 75/150 NLH' 9-max Seat #1 is the button
+Seat 1: IAmTheJeff ($14640.75 in chips)
+Seat 2: bot35 ($4164.50 in chips)
+Seat 7: oneplusone ($59967.58 in chips)
+bot35: posts small blind $75.00
+oneplusone: posts big blind $150.00
+*** HOLE CARDS ***
+IAmTheJeff: raises $225.00 to $375.00
+bot35: raises $825.00 to $1200.00
+oneplusone: folds
+IAmTheJeff: calls $825.00
+*** FLOP *** [Ts 4d Kd]
+bot35: bets $637.50
+IAmTheJeff: raises $12803.25 to $13440.75 and is all-in
+bot35: calls $2327.00 and is all-in
+Uncalled bet ($10476.25) returned to IAmTheJeff
+*** TURN *** [Ts 4d Kd] [Jd]
+*** RIVER *** [Ts 4d Kd Jd] [8s]
+*** SHOW DOWN ***
+IAmTheJeff: shows [7d Ad]
+bot35: shows [Ac Kc]
+IAmTheJeff collected $8477.25 from pot
+*** SUMMARY ***
+Total pot $8479.00 | Rake $1.75
+Board [Ts 4d Kd Jd 8s]
+Seat 1: IAmTheJeff (button) showed [7d Ad] and won ($8477.25)
+Seat 2: bot35 (small blind) showed [Ac Kc] and lost
+Seat 7: oneplusone (big blind) folded before Flop
+
+PokerStars Hand #1493880711:  Hold'em No Limit ($75.00/$150.00 USD) - 2022/12/22 00:52:11 ET
+Table 'WPN_7 Day No Rathole 75/150 NLH' 9-max Seat #2 is the button
+Seat 1: IAmTheJeff ($18953.50 in chips)
+Seat 2: bot35 ($1500.00 in chips)
+Seat 7: oneplusone ($59817.58 in chips)
+oneplusone: posts small blind $75.00
+IAmTheJeff: posts big blind $150.00
+*** HOLE CARDS ***
+bot35: folds
+oneplusone: folds
+Uncalled bet ($75.00) returned to IAmTheJeff
+IAmTheJeff collected $150.00 from pot
+IAmTheJeff: doesn't show hand
+*** SUMMARY ***
+Total pot $150.00 | Rake $0.00
+Seat 1: IAmTheJeff (big blind) collected ($150.00)
+Seat 2: bot35 (button) folded before Flop (didn't bet)
+Seat 7: oneplusone (small blind) folded before Flop
+
+PokerStars Hand #1493880969:  Hold'em No Limit ($75.00/$150.00 USD) - 2022/12/22 00:52:23 ET
+Table 'WPN_7 Day No Rathole 75/150 NLH' 9-max Seat #7 is the button
+Seat 1: IAmTheJeff ($19028.50 in chips)
+Seat 2: bot35 ($1500.00 in chips)
+Seat 7: oneplusone ($59742.58 in chips)
+IAmTheJeff: posts small blind $75.00
+bot35: posts big blind $150.00
+*** HOLE CARDS ***
+oneplusone: raises $150.00 to $300.00
+IAmTheJeff: folds
+bot35: folds
+Uncalled bet ($150.00) returned to oneplusone
+oneplusone collected $375.00 from pot
+oneplusone: doesn't show hand
+*** SUMMARY ***
+Total pot $375.00 | Rake $0.00
+Seat 1: IAmTheJeff (small blind) folded before Flop
+Seat 2: bot35 (big blind) folded before Flop
+Seat 7: oneplusone (button) collected ($375.00)
+
+PokerStars Hand #1493881305:  Hold'em No Limit ($75.00/$150.00 USD) - 2022/12/22 00:52:40 ET
+Table 'WPN_7 Day No Rathole 75/150 NLH' 9-max Seat #1 is the button
+Seat 1: IAmTheJeff ($18953.50 in chips)
+Seat 2: bot35 ($1350.00 in chips)
+Seat 7: oneplusone ($59967.58 in chips)
+bot35: posts small blind $75.00
+oneplusone: posts big blind $150.00
+*** HOLE CARDS ***
+IAmTheJeff: folds
+bot35: folds
+Uncalled bet ($75.00) returned to oneplusone
+oneplusone collected $150.00 from pot
+oneplusone: doesn't show hand
+*** SUMMARY ***
+Total pot $150.00 | Rake $0.00
+Seat 1: IAmTheJeff (button) folded before Flop (didn't bet)
+Seat 2: bot35 (small blind) folded before Flop
+Seat 7: oneplusone (big blind) collected ($150.00)
+
+PokerStars Hand #1493881516:  Hold'em No Limit ($75.00/$150.00 USD) - 2022/12/22 00:52:51 ET
+Table 'WPN_7 Day No Rathole 75/150 NLH' 9-max Seat #2 is the button
+Seat 1: IAmTheJeff ($18953.50 in chips)
+Seat 2: bot35 ($1425.00 in chips)
+Seat 7: oneplusone ($60042.58 in chips)
+oneplusone: posts small blind $75.00
+IAmTheJeff: posts big blind $150.00
+*** HOLE CARDS ***
+bot35: folds
+oneplusone: raises $300.00 to $450.00
+IAmTheJeff: calls $300.00
+*** FLOP *** [Jh Qd 9c]
+oneplusone: bets $297.00
+IAmTheJeff: calls $297.00
+*** TURN *** [Jh Qd 9c] [Qc]
+oneplusone: bets $493.02
+IAmTheJeff: folds
+Uncalled bet ($493.02) returned to oneplusone
+oneplusone collected $1492.25 from pot
+oneplusone: doesn't show hand
+*** SUMMARY ***
+Total pot $1494.00 | Rake $1.75
+Board [Jh Qd 9c Qc]
+Seat 1: IAmTheJeff (big blind) folded on the Turn
+Seat 2: bot35 (button) folded before Flop (didn't bet)
+Seat 7: oneplusone (small blind) collected ($1492.25)
+
+PokerStars Hand #1493882172:  Hold'em No Limit ($75.00/$150.00 USD) - 2022/12/22 00:53:23 ET
+Table 'WPN_7 Day No Rathole 75/150 NLH' 9-max Seat #7 is the button
+Seat 1: IAmTheJeff ($18206.50 in chips)
+Seat 2: bot35 ($1425.00 in chips)
+Seat 7: oneplusone ($60787.83 in chips)
+IAmTheJeff: posts small blind $75.00
+bot35: posts big blind $150.00
+*** HOLE CARDS ***
+oneplusone: folds
+IAmTheJeff: folds
+Uncalled bet ($75.00) returned to bot35
+bot35 collected $150.00 from pot
+bot35: doesn't show hand
+*** SUMMARY ***
+Total pot $150.00 | Rake $0.00
+Seat 1: IAmTheJeff (small blind) folded before Flop
+Seat 2: bot35 (big blind) collected ($150.00)
+Seat 7: oneplusone (button) folded before Flop (didn't bet)
+
+PokerStars Hand #1493882399:  Hold'em No Limit ($75.00/$150.00 USD) - 2022/12/22 00:53:33 ET
+Table 'WPN_7 Day No Rathole 75/150 NLH' 9-max Seat #1 is the button
+Seat 1: IAmTheJeff ($18131.50 in chips)
+Seat 2: bot35 ($1500.00 in chips)
+Seat 7: oneplusone ($60787.83 in chips)
+bot35: posts small blind $75.00
+oneplusone: posts big blind $150.00
+*** HOLE CARDS ***
+IAmTheJeff: folds
+bot35: folds
+Uncalled bet ($75.00) returned to oneplusone
+oneplusone collected $150.00 from pot
+oneplusone: doesn't show hand
+*** SUMMARY ***
+Total pot $150.00 | Rake $0.00
+Seat 1: IAmTheJeff (button) folded before Flop (didn't bet)
+Seat 2: bot35 (small blind) folded before Flop
+Seat 7: oneplusone (big blind) collected ($150.00)
+
+PokerStars Hand #1493882622:  Hold'em No Limit ($75.00/$150.00 USD) - 2022/12/22 00:53:46 ET
+Table 'WPN_7 Day No Rathole 75/150 NLH' 9-max Seat #2 is the button
+Seat 1: IAmTheJeff ($18131.50 in chips)
+Seat 2: bot35 ($1425.00 in chips)
+Seat 7: oneplusone ($60862.83 in chips)
+oneplusone: posts small blind $75.00
+IAmTheJeff: posts big blind $150.00
+*** HOLE CARDS ***
+bot35: folds
+oneplusone: folds
+Uncalled bet ($75.00) returned to IAmTheJeff
+IAmTheJeff collected $150.00 from pot
+IAmTheJeff: doesn't show hand
+*** SUMMARY ***
+Total pot $150.00 | Rake $0.00
+Seat 1: IAmTheJeff (big blind) collected ($150.00)
+Seat 2: bot35 (button) folded before Flop (didn't bet)
+Seat 7: oneplusone (small blind) folded before Flop
+
+PokerStars Hand #1493882892:  Hold'em No Limit ($75.00/$150.00 USD) - 2022/12/22 00:53:59 ET
+Table 'WPN_7 Day No Rathole 75/150 NLH' 9-max Seat #7 is the button
+Seat 1: IAmTheJeff ($18206.50 in chips)
+Seat 2: bot35 ($1425.00 in chips)
+Seat 7: oneplusone ($60787.83 in chips)
+IAmTheJeff: posts small blind $75.00
+bot35: posts big blind $150.00
+*** HOLE CARDS ***
+oneplusone: raises $150.00 to $300.00
+IAmTheJeff: calls $225.00
+bot35: folds
+*** FLOP *** [6c 8c 8s]
+IAmTheJeff: checks
+oneplusone: bets $375.00
+IAmTheJeff: raises $675.00 to $1050.00
+oneplusone: folds
+Uncalled bet ($675.00) returned to IAmTheJeff
+IAmTheJeff collected $1498.25 from pot
+IAmTheJeff: doesn't show hand
+*** SUMMARY ***
+Total pot $1500.00 | Rake $1.75
+Board [6c 8c 8s]
+Seat 1: IAmTheJeff (small blind) collected ($1498.25)
+Seat 2: bot35 (big blind) folded before Flop
+Seat 7: oneplusone (button) folded on the Flop
+
+PokerStars Hand #1493883640:  Hold'em No Limit ($75.00/$150.00 USD) - 2022/12/22 00:54:37 ET
+Table 'WPN_7 Day No Rathole 75/150 NLH' 9-max Seat #1 is the button
+Seat 1: IAmTheJeff ($19029.75 in chips)
+Seat 2: bot35 ($1275.00 in chips)
+Seat 7: oneplusone ($60112.83 in chips)
+bot35: posts small blind $75.00
+oneplusone: posts big blind $150.00
+*** HOLE CARDS ***
+IAmTheJeff: folds
+bot35: raises $1125.00 to $1275.00 and is all-in
+oneplusone: folds
+Uncalled bet ($1125.00) returned to bot35
+bot35 collected $300.00 from pot
+bot35: doesn't show hand
+*** SUMMARY ***
+Total pot $300.00 | Rake $0.00
+Seat 1: IAmTheJeff (button) folded before Flop (didn't bet)
+Seat 2: bot35 (small blind) collected ($300.00)
+Seat 7: oneplusone (big blind) folded before Flop
+
+PokerStars Hand #1493883944:  Hold'em No Limit ($75.00/$150.00 USD) - 2022/12/22 00:54:53 ET
+Table 'WPN_7 Day No Rathole 75/150 NLH' 9-max Seat #2 is the button
+Seat 1: IAmTheJeff ($19029.75 in chips)
+Seat 2: bot35 ($1425.00 in chips)
+Seat 7: oneplusone ($59962.83 in chips)
+oneplusone: posts small blind $75.00
+IAmTheJeff: posts big blind $150.00
+*** HOLE CARDS ***
+bot35: folds
+oneplusone: folds
+Uncalled bet ($75.00) returned to IAmTheJeff
+IAmTheJeff collected $150.00 from pot
+IAmTheJeff: doesn't show hand
+*** SUMMARY ***
+Total pot $150.00 | Rake $0.00
+Seat 1: IAmTheJeff (big blind) collected ($150.00)
+Seat 2: bot35 (button) folded before Flop (didn't bet)
+Seat 7: oneplusone (small blind) folded before Flop
+
+PokerStars Hand #1493884175:  Hold'em No Limit ($75.00/$150.00 USD) - 2022/12/22 00:55:10 ET
+Table 'WPN_7 Day No Rathole 75/150 NLH' 9-max Seat #7 is the button
+Seat 1: IAmTheJeff ($19104.75 in chips)
+Seat 2: bot35 ($1425.00 in chips)
+Seat 7: oneplusone ($59887.83 in chips)
+IAmTheJeff: posts small blind $75.00
+bot35: posts big blind $150.00
+*** HOLE CARDS ***
+oneplusone: folds
+IAmTheJeff: raises $225.00 to $375.00
+bot35: folds
+Uncalled bet ($225.00) returned to IAmTheJeff
+IAmTheJeff collected $300.00 from pot
+IAmTheJeff: doesn't show hand
+*** SUMMARY ***
+Total pot $300.00 | Rake $0.00
+Seat 1: IAmTheJeff (small blind) collected ($300.00)
+Seat 2: bot35 (big blind) folded before Flop
+Seat 7: oneplusone (button) folded before Flop (didn't bet)
+
+PokerStars Hand #1493884365:  Hold'em No Limit ($75.00/$150.00 USD) - 2022/12/22 00:55:27 ET
+Table 'WPN_7 Day No Rathole 75/150 NLH' 9-max Seat #1 is the button
+Seat 1: IAmTheJeff ($19254.75 in chips)
+Seat 2: bot35 ($1275.00 in chips)
+Seat 7: oneplusone ($59887.83 in chips)
+bot35: posts small blind $75.00
+oneplusone: posts big blind $150.00
+*** HOLE CARDS ***
+IAmTheJeff: raises $225.00 to $375.00
+bot35: folds
+oneplusone: calls $225.00
+*** FLOP *** [8s 9s 8c]
+oneplusone: checks
+IAmTheJeff: checks
+*** TURN *** [8s 9s 8c] [4s]
+oneplusone: bets $412.50
+IAmTheJeff: calls $412.50
+*** RIVER *** [8s 9s 8c 4s] [Qs]
+oneplusone: checks
+IAmTheJeff: bets $637.50
+oneplusone: folds
+Uncalled bet ($637.50) returned to IAmTheJeff
+IAmTheJeff collected $1648.25 from pot
+IAmTheJeff: doesn't show hand
+*** SUMMARY ***
+Total pot $1650.00 | Rake $1.75
+Board [8s 9s 8c 4s Qs]
+Seat 1: IAmTheJeff (button) collected ($1648.25)
+Seat 2: bot35 (small blind) folded before Flop
+Seat 7: oneplusone (big blind) folded on the River
+
+PokerStars Hand #1493884843:  Hold'em No Limit ($75.00/$150.00 USD) - 2022/12/22 00:56:16 ET
+Table 'WPN_7 Day No Rathole 75/150 NLH' 9-max Seat #2 is the button
+Seat 1: IAmTheJeff ($20115.50 in chips)
+Seat 2: bot35 ($1200.00 in chips)
+Seat 7: oneplusone ($59100.33 in chips)
+oneplusone: posts small blind $75.00
+IAmTheJeff: posts big blind $150.00
+*** HOLE CARDS ***
+bot35: raises $1050.00 to $1200.00 and is all-in
+oneplusone: folds
+IAmTheJeff: calls $1050.00
+*** FLOP *** [Td 5s Jh]
+*** TURN *** [Td 5s Jh] [Kc]
+*** RIVER *** [Td 5s Jh Kc] [Ts]
+*** SHOW DOWN ***
+IAmTheJeff: shows [Jd Js]
+bot35: shows [Kd Qh]
+IAmTheJeff collected $2473.25 from pot
+*** SUMMARY ***
+Total pot $2475.00 | Rake $1.75
+Board [Td 5s Jh Kc Ts]
+Seat 1: IAmTheJeff (big blind) showed [Jd Js] and won ($2473.25)
+Seat 2: bot35 (button) showed [Kd Qh] and lost
+Seat 7: oneplusone (small blind) folded before Flop
+
+PokerStars Hand #1493885148:  Hold'em No Limit ($75.00/$150.00 USD) - 2022/12/22 00:56:44 ET
+Table 'WPN_7 Day No Rathole 75/150 NLH' 9-max Seat #1 is the button
+Seat 1: IAmTheJeff ($21388.75 in chips)
+Seat 7: oneplusone ($59025.33 in chips)
+IAmTheJeff: posts small blind $75.00
+oneplusone: posts big blind $150.00
+*** HOLE CARDS ***
+IAmTheJeff: folds
+Uncalled bet ($75.00) returned to oneplusone
+oneplusone collected $150.00 from pot
+oneplusone: doesn't show hand
+*** SUMMARY ***
+Total pot $150.00 | Rake $0.00
+Seat 1: IAmTheJeff (button) (small blind) folded before Flop
+Seat 7: oneplusone (big blind) collected ($150.00)
+
+PokerStars Hand #1493885244:  Hold'em No Limit ($75.00/$150.00 USD) - 2022/12/22 00:56:55 ET
+Table 'WPN_7 Day No Rathole 75/150 NLH' 9-max Seat #7 is the button
+Seat 1: IAmTheJeff ($21313.75 in chips)
+Seat 2: bot35 ($1500.00 in chips)
+Seat 7: oneplusone ($59100.33 in chips)
+oneplusone: posts small blind $75.00
+IAmTheJeff: posts big blind $150.00
+*** HOLE CARDS ***
+oneplusone: raises $300.00 to $450.00
+IAmTheJeff: calls $300.00
+*** FLOP *** [9h 6c 8c]
+IAmTheJeff: checks
+oneplusone: checks
+*** TURN *** [9h 6c 8c] [Ah]
+IAmTheJeff: bets $375.00
+oneplusone: calls $375.00
+*** RIVER *** [9h 6c 8c Ah] [9s]
+IAmTheJeff: checks
+oneplusone: bets $2380.95
+IAmTheJeff: calls $2380.95
+*** SHOW DOWN ***
+IAmTheJeff: shows [9c Kc]
+oneplusone: mucks hand
+IAmTheJeff collected $6410.65 from pot
+*** SUMMARY ***
+Total pot $6411.90 | Rake $1.25
+Board [9h 6c 8c Ah 9s]
+Seat 1: IAmTheJeff (big blind) showed [9c Kc] and won ($6410.65)
+Seat 7: oneplusone (button) (small blind) mucked
+
+PokerStars Hand #1493885897:  Hold'em No Limit ($75.00/$150.00 USD) - 2022/12/22 00:58:00 ET
+Table 'WPN_7 Day No Rathole 75/150 NLH' 9-max Seat #7 is the button
+Seat 1: IAmTheJeff ($24518.45 in chips)
+Seat 2: bot35 ($1500.00 in chips)
+Seat 4: b00ma ($1500.00 in chips)
+Seat 7: oneplusone ($55894.38 in chips)
+IAmTheJeff: posts small blind $75.00
+bot35: posts big blind $150.00
+*** HOLE CARDS ***
+oneplusone: folds
+IAmTheJeff: folds
+Uncalled bet ($75.00) returned to bot35
+bot35 collected $150.00 from pot
+bot35: doesn't show hand
+*** SUMMARY ***
+Total pot $150.00 | Rake $0.00
+Seat 1: IAmTheJeff (small blind) folded before Flop
+Seat 2: bot35 (big blind) collected ($150.00)
+Seat 7: oneplusone (button) folded before Flop (didn't bet)
+
+PokerStars Hand #1493886076:  Hold'em No Limit ($75.00/$150.00 USD) - 2022/12/22 00:58:19 ET
+Table 'WPN_7 Day No Rathole 75/150 NLH' 9-max Seat #1 is the button
+Seat 1: IAmTheJeff ($24443.45 in chips)
+Seat 2: bot35 ($1575.00 in chips)
+Seat 4: b00ma ($1500.00 in chips)
+Seat 7: oneplusone ($55894.38 in chips)
+bot35: posts small blind $75.00
+b00ma: posts big blind $150.00
+*** HOLE CARDS ***
+oneplusone: folds
+IAmTheJeff: raises $225.00 to $375.00
+bot35: raises $1200.00 to $1575.00 and is all-in
+b00ma: folds
+IAmTheJeff: calls $1200.00
+*** FLOP *** [Kd 8d 5s]
+*** TURN *** [Kd 8d 5s] [7h]
+*** RIVER *** [Kd 8d 5s 7h] [2d]
+*** SHOW DOWN ***
+IAmTheJeff: shows [Kh Th]
+bot35: shows [Qs Qh]
+IAmTheJeff collected $3297.75 from pot
+*** SUMMARY ***
+Total pot $3300.00 | Rake $2.25
+Board [Kd 8d 5s 7h 2d]
+Seat 1: IAmTheJeff (button) showed [Kh Th] and won ($3297.75)
+Seat 2: bot35 (small blind) showed [Qs Qh] and lost
+Seat 4: b00ma (big blind) folded before Flop
+Seat 7: oneplusone folded before Flop (didn't bet)
+
+PokerStars Hand #1493886393:  Hold'em No Limit ($75.00/$150.00 USD) - 2022/12/22 00:58:50 ET
+Table 'WPN_7 Day No Rathole 75/150 NLH' 9-max Seat #2 is the button
+Seat 1: IAmTheJeff ($26166.20 in chips)
+Seat 4: b00ma ($1500.00 in chips)
+Seat 7: oneplusone ($55894.38 in chips)
+b00ma: posts small blind $75.00
+oneplusone: posts big blind $150.00
+*** HOLE CARDS ***
+IAmTheJeff: folds
+b00ma: folds
+Uncalled bet ($75.00) returned to oneplusone
+oneplusone collected $150.00 from pot
+oneplusone: doesn't show hand
+*** SUMMARY ***
+Total pot $150.00 | Rake $0.00
+Seat 1: IAmTheJeff folded before Flop (didn't bet)
+Seat 4: b00ma (small blind) folded before Flop
+Seat 7: oneplusone (big blind) collected ($150.00)
+

@@ -1,0 +1,365 @@
+PokerStars Hand #1530077224:  Hold'em No Limit ($25.00/$50.00 USD) - 2023/01/20 10:08:31 ET
+Table 'WPN_7 Day No Rathole 25/50 NLH 9-Max' 9-max Seat #7 is the button
+Seat 2: yourmytralala ($1290.63 in chips)
+Seat 3: alanwatts15 ($500.00 in chips)
+Seat 7: moneybyebye ($7491.76 in chips)
+moneybyebye: posts small blind $25.00
+yourmytralala: posts big blind $50.00
+*** HOLE CARDS ***
+moneybyebye: raises $50.00 to $100.00
+yourmytralala: folds
+Uncalled bet ($50.00) returned to moneybyebye
+moneybyebye collected $100.00 from pot
+moneybyebye: doesn't show hand
+*** SUMMARY ***
+Total pot $100.00 | Rake $0.00
+Seat 2: yourmytralala (big blind) folded before Flop
+Seat 7: moneybyebye (button) (small blind) collected ($100.00)
+
+PokerStars Hand #1530077521:  Hold'em No Limit ($25.00/$50.00 USD) - 2023/01/20 10:09:10 ET
+Table 'WPN_7 Day No Rathole 25/50 NLH 9-Max' 9-max Seat #7 is the button
+Seat 2: yourmytralala ($1240.63 in chips)
+Seat 3: alanwatts15 ($500.00 in chips)
+Seat 7: moneybyebye ($7541.76 in chips)
+yourmytralala: posts small blind $25.00
+alanwatts15: posts big blind $50.00
+*** HOLE CARDS ***
+moneybyebye: folds
+yourmytralala: raises $1190.63 to $1240.63 and is all-in
+alanwatts15: calls $450.00 and is all-in
+Uncalled bet ($740.63) returned to yourmytralala
+*** FIRST FLOP *** [3c 5c Td]
+*** FIRST TURN *** [3c 5c Td] [9d]
+*** FIRST RIVER *** [3c 5c Td 9d] [2d]
+*** SECOND FLOP *** [8h 6c 6s]
+*** SECOND TURN *** [8h 6c 6s] [As]
+*** SECOND RIVER *** [8h 6c 6s As] [3h]
+*** FIRST SHOW DOWN ***
+yourmytralala: shows [8d Ad]
+alanwatts15: shows [7s Ks]
+yourmytralala collected $499.13 from pot
+*** SECOND SHOW DOWN ***
+yourmytralala: shows [8d Ad]
+alanwatts15: shows [7s Ks]
+yourmytralala collected $499.12 from pot
+*** SUMMARY ***
+Total pot $1000.00 | Rake $1.75
+Hand was run twice
+FIRST Board [3c 5c Td 9d 2d]
+SECOND Board [8h 6c 6s As 3h]
+Seat 2: yourmytralala (small blind) showed [8d Ad] and won ($499.13), and won ($499.12)
+Seat 3: alanwatts15 (big blind) showed [7s Ks] and lost, and lost
+Seat 7: moneybyebye (button) folded before Flop (didn't bet)
+
+PokerStars Hand #1530077860:  Hold'em No Limit ($25.00/$50.00 USD) - 2023/01/20 10:09:51 ET
+Table 'WPN_7 Day No Rathole 25/50 NLH 9-Max' 9-max Seat #2 is the button
+Seat 2: yourmytralala ($1738.88 in chips)
+Seat 3: alanwatts15 ($500.00 in chips)
+Seat 7: moneybyebye ($7541.76 in chips)
+Seat 8: notvrygud ($15583.29 in chips)
+alanwatts15: posts small blind $25.00
+moneybyebye: posts big blind $50.00
+*** HOLE CARDS ***
+yourmytralala: folds
+alanwatts15: raises $450.00 to $500.00 and is all-in
+moneybyebye: calls $450.00
+*** FLOP *** [Ks 3h Tc]
+*** TURN *** [Ks 3h Tc] [Ad]
+*** RIVER *** [Ks 3h Tc Ad] [As]
+*** SHOW DOWN ***
+alanwatts15: shows [9s Ah]
+moneybyebye: shows [Js Kh]
+alanwatts15 collected $998.25 from pot
+*** SUMMARY ***
+Total pot $1000.00 | Rake $1.75
+Board [Ks 3h Tc Ad As]
+Seat 2: yourmytralala (button) folded before Flop (didn't bet)
+Seat 3: alanwatts15 (small blind) showed [9s Ah] and won ($998.25)
+Seat 7: moneybyebye (big blind) showed [Js Kh] and lost
+
+PokerStars Hand #1530012227:  Hold'em No Limit ($25.00/$50.00 USD) - 2023/01/20 08:12:10 ET
+Table 'WPN_7 Day No Rathole 25/50 NLH 9-Max' 9-max Seat #2 is the button
+Seat 1: WonkaJam ($500.00 in chips)
+Seat 2: lmpala_zOrg ($500.00 in chips)
+lmpala_zOrg: posts small blind $25.00
+WonkaJam: posts big blind $50.00
+*** HOLE CARDS ***
+lmpala_zOrg: calls $25.00
+WonkaJam: checks
+*** FLOP *** [9h 7c 4d]
+WonkaJam: bets $450.00 and is all-in
+lmpala_zOrg: calls $450.00 and is all-in
+*** TURN *** [9h 7c 4d] [Qd]
+*** RIVER *** [9h 7c 4d Qd] [Kd]
+*** SHOW DOWN ***
+lmpala_zOrg: shows [Ts Th]
+WonkaJam: shows [8s 6h]
+lmpala_zOrg collected $998.75 from pot
+*** SUMMARY ***
+Total pot $1000.00 | Rake $1.25
+Board [9h 7c 4d Qd Kd]
+Seat 1: WonkaJam (big blind) showed [8s 6h] and lost
+Seat 2: lmpala_zOrg (button) (small blind) showed [Ts Th] and won ($998.75)
+
+PokerStars Hand #1529526383:  Hold'em No Limit ($25.00/$50.00 USD) - 2023/01/20 01:20:08 ET
+Table 'WPN_7 Day No Rathole 25/50 NLH 9-Max' 9-max Seat #7 is the button
+Seat 2: zas911 ($15322.03 in chips)
+Seat 7: OGORRA ($18760.84 in chips)
+OGORRA: posts small blind $25.00
+zas911: posts big blind $50.00
+*** HOLE CARDS ***
+OGORRA: raises $80.00 to $130.00
+zas911: folds
+Uncalled bet ($80.00) returned to OGORRA
+OGORRA collected $100.00 from pot
+OGORRA: doesn't show hand
+*** SUMMARY ***
+Total pot $100.00 | Rake $0.00
+Seat 2: zas911 (big blind) folded before Flop
+Seat 7: OGORRA (button) (small blind) collected ($100.00)
+
+PokerStars Hand #1529319473:  Hold'em No Limit ($25.00/$50.00 USD) - 2023/01/19 22:55:48 ET
+Table 'WPN_7 Day No Rathole 25/50 NLH 9-Max' 9-max Seat #7 is the button
+Seat 3: DoublelegTD ($7122.00 in chips)
+Seat 7: OGORRA ($18140.84 in chips)
+OGORRA: posts small blind $25.00
+DoublelegTD: posts big blind $50.00
+*** HOLE CARDS ***
+OGORRA: raises $80.00 to $130.00
+DoublelegTD: calls $80.00
+*** FLOP *** [3c Td Jd]
+DoublelegTD: checks
+OGORRA: bets $80.60
+DoublelegTD: folds
+Uncalled bet ($80.60) returned to OGORRA
+OGORRA collected $258.75 from pot
+OGORRA: doesn't show hand
+*** SUMMARY ***
+Total pot $260.00 | Rake $1.25
+Board [3c Td Jd]
+Seat 3: DoublelegTD (big blind) folded on the Flop
+Seat 7: OGORRA (button) (small blind) collected ($258.75)
+
+PokerStars Hand #1529389825:  Hold'em No Limit ($25.00/$50.00 USD) - 2023/01/19 23:41:06 ET
+Table 'WPN_7 Day No Rathole 25/50 NLH 9-Max' 9-max Seat #7 is the button
+Seat 2: Donsterling ($2195.25 in chips)
+Seat 7: OGORRA ($18269.59 in chips)
+OGORRA: posts small blind $25.00
+Donsterling: posts big blind $50.00
+*** HOLE CARDS ***
+OGORRA: folds
+Uncalled bet ($25.00) returned to Donsterling
+Donsterling collected $50.00 from pot
+Donsterling: doesn't show hand
+*** SUMMARY ***
+Total pot $50.00 | Rake $0.00
+Seat 2: Donsterling (big blind) collected ($50.00)
+Seat 7: OGORRA (button) (small blind) folded before Flop
+
+PokerStars Hand #1529390083:  Hold'em No Limit ($25.00/$50.00 USD) - 2023/01/19 23:41:16 ET
+Table 'WPN_7 Day No Rathole 25/50 NLH 9-Max' 9-max Seat #2 is the button
+Seat 2: Donsterling ($2220.25 in chips)
+Seat 7: OGORRA ($18244.59 in chips)
+Donsterling: posts small blind $25.00
+OGORRA: posts big blind $50.00
+*** HOLE CARDS ***
+Donsterling: calls $25.00
+OGORRA: checks
+*** FLOP *** [Tc 6d 8s]
+OGORRA: checks
+Donsterling: checks
+*** TURN *** [Tc 6d 8s] [6h]
+OGORRA: checks
+Donsterling: checks
+*** RIVER *** [Tc 6d 8s 6h] [Qs]
+OGORRA: bets $100.00
+Donsterling: folds
+Uncalled bet ($100.00) returned to OGORRA
+OGORRA collected $98.75 from pot
+OGORRA: doesn't show hand
+*** SUMMARY ***
+Total pot $100.00 | Rake $1.25
+Board [Tc 6d 8s 6h Qs]
+Seat 2: Donsterling (button) (small blind) folded on the River
+Seat 7: OGORRA (big blind) collected ($98.75)
+
+PokerStars Hand #1529391150:  Hold'em No Limit ($25.00/$50.00 USD) - 2023/01/19 23:41:57 ET
+Table 'WPN_7 Day No Rathole 25/50 NLH 9-Max' 9-max Seat #7 is the button
+Seat 2: Donsterling ($2170.25 in chips)
+Seat 7: OGORRA ($18293.34 in chips)
+OGORRA: posts small blind $25.00
+Donsterling: posts big blind $50.00
+*** HOLE CARDS ***
+OGORRA: folds
+Uncalled bet ($25.00) returned to Donsterling
+Donsterling collected $50.00 from pot
+Donsterling: doesn't show hand
+*** SUMMARY ***
+Total pot $50.00 | Rake $0.00
+Seat 2: Donsterling (big blind) collected ($50.00)
+Seat 7: OGORRA (button) (small blind) folded before Flop
+
+PokerStars Hand #1529391487:  Hold'em No Limit ($25.00/$50.00 USD) - 2023/01/19 23:42:09 ET
+Table 'WPN_7 Day No Rathole 25/50 NLH 9-Max' 9-max Seat #2 is the button
+Seat 2: Donsterling ($2195.25 in chips)
+Seat 7: OGORRA ($18268.34 in chips)
+Donsterling: posts small blind $25.00
+OGORRA: posts big blind $50.00
+*** HOLE CARDS ***
+Donsterling: calls $25.00
+OGORRA: checks
+*** FLOP *** [7s Qh 3s]
+OGORRA: checks
+Donsterling: checks
+*** TURN *** [7s Qh 3s] [6c]
+OGORRA: checks
+Donsterling: bets $75.00
+OGORRA: folds
+Uncalled bet ($75.00) returned to Donsterling
+Donsterling collected $98.75 from pot
+Donsterling: doesn't show hand
+*** SUMMARY ***
+Total pot $100.00 | Rake $1.25
+Board [7s Qh 3s 6c]
+Seat 2: Donsterling (button) (small blind) collected ($98.75)
+Seat 7: OGORRA (big blind) folded on the Turn
+
+PokerStars Hand #1529392470:  Hold'em No Limit ($25.00/$50.00 USD) - 2023/01/19 23:42:46 ET
+Table 'WPN_7 Day No Rathole 25/50 NLH 9-Max' 9-max Seat #2 is the button
+Seat 2: Donsterling ($2244.00 in chips)
+Seat 7: OGORRA ($18218.34 in chips)
+Seat 8: DoublelegTD ($6992.00 in chips)
+OGORRA: posts small blind $25.00
+DoublelegTD: posts big blind $50.00
+*** HOLE CARDS ***
+Donsterling: calls $50.00
+OGORRA: folds
+DoublelegTD: checks
+*** FLOP *** [4s Tc Ad]
+DoublelegTD: checks
+Donsterling: bets $50.00
+DoublelegTD: folds
+Uncalled bet ($50.00) returned to Donsterling
+Donsterling collected $123.25 from pot
+Donsterling: doesn't show hand
+*** SUMMARY ***
+Total pot $125.00 | Rake $1.75
+Board [4s Tc Ad]
+Seat 2: Donsterling (button) collected ($123.25)
+Seat 7: OGORRA (small blind) folded before Flop
+Seat 8: DoublelegTD (big blind) folded on the Flop
+
+PokerStars Hand #1529393124:  Hold'em No Limit ($25.00/$50.00 USD) - 2023/01/19 23:43:11 ET
+Table 'WPN_7 Day No Rathole 25/50 NLH 9-Max' 9-max Seat #7 is the button
+Seat 2: Donsterling ($2317.25 in chips)
+Seat 7: OGORRA ($18193.34 in chips)
+Seat 8: DoublelegTD ($6942.00 in chips)
+DoublelegTD: posts small blind $25.00
+Donsterling: posts big blind $50.00
+*** HOLE CARDS ***
+OGORRA: raises $63.75 to $113.75
+DoublelegTD: folds
+Donsterling: raises $2203.50 to $2317.25 and is all-in
+OGORRA: folds
+Uncalled bet ($2203.50) returned to Donsterling
+Donsterling collected $252.50 from pot
+Donsterling: doesn't show hand
+*** SUMMARY ***
+Total pot $252.50 | Rake $0.00
+Seat 2: Donsterling (big blind) collected ($252.50)
+Seat 7: OGORRA (button) folded before Flop
+Seat 8: DoublelegTD (small blind) folded before Flop
+
+PokerStars Hand #1529394202:  Hold'em No Limit ($25.00/$50.00 USD) - 2023/01/19 23:43:49 ET
+Table 'WPN_7 Day No Rathole 25/50 NLH 9-Max' 9-max Seat #8 is the button
+Seat 2: Donsterling ($2456.00 in chips)
+Seat 7: OGORRA ($18079.59 in chips)
+Seat 8: DoublelegTD ($6917.00 in chips)
+Donsterling: posts small blind $25.00
+OGORRA: posts big blind $50.00
+*** HOLE CARDS ***
+DoublelegTD: raises $100.00 to $150.00
+Donsterling: folds
+OGORRA: folds
+Uncalled bet ($100.00) returned to DoublelegTD
+DoublelegTD collected $125.00 from pot
+DoublelegTD: doesn't show hand
+*** SUMMARY ***
+Total pot $125.00 | Rake $0.00
+Seat 2: Donsterling (small blind) folded before Flop
+Seat 7: OGORRA (big blind) folded before Flop
+Seat 8: DoublelegTD (button) collected ($125.00)
+
+PokerStars Hand #1529394618:  Hold'em No Limit ($25.00/$50.00 USD) - 2023/01/19 23:44:05 ET
+Table 'WPN_7 Day No Rathole 25/50 NLH 9-Max' 9-max Seat #2 is the button
+Seat 2: Donsterling ($2431.00 in chips)
+Seat 7: OGORRA ($18029.59 in chips)
+Seat 8: DoublelegTD ($6992.00 in chips)
+OGORRA: posts small blind $25.00
+DoublelegTD: posts big blind $50.00
+*** HOLE CARDS ***
+Donsterling: folds
+OGORRA: folds
+Uncalled bet ($25.00) returned to DoublelegTD
+DoublelegTD collected $50.00 from pot
+DoublelegTD: doesn't show hand
+*** SUMMARY ***
+Total pot $50.00 | Rake $0.00
+Seat 2: Donsterling (button) folded before Flop (didn't bet)
+Seat 7: OGORRA (small blind) folded before Flop
+Seat 8: DoublelegTD (big blind) collected ($50.00)
+
+PokerStars Hand #1529394968:  Hold'em No Limit ($25.00/$50.00 USD) - 2023/01/19 23:44:19 ET
+Table 'WPN_7 Day No Rathole 25/50 NLH 9-Max' 9-max Seat #8 is the button
+Seat 7: OGORRA ($18004.59 in chips)
+Seat 8: DoublelegTD ($7017.00 in chips)
+DoublelegTD: posts small blind $25.00
+OGORRA: posts big blind $50.00
+*** HOLE CARDS ***
+DoublelegTD: raises $75.00 to $125.00
+OGORRA: calls $75.00
+*** FLOP *** [9s Ts 3d]
+OGORRA: checks
+DoublelegTD: bets $250.00
+OGORRA: calls $250.00
+*** TURN *** [9s Ts 3d] [Ks]
+OGORRA: checks
+DoublelegTD: bets $562.50
+OGORRA: calls $562.50
+*** RIVER *** [9s Ts 3d Ks] [Td]
+OGORRA: checks
+DoublelegTD: checks
+*** SHOW DOWN ***
+OGORRA: shows [8s Js]
+DoublelegTD: mucks hand
+OGORRA collected $1873.75 from pot
+*** SUMMARY ***
+Total pot $1875.00 | Rake $1.25
+Board [9s Ts 3d Ks Td]
+Seat 7: OGORRA (big blind) showed [8s Js] and won ($1873.75)
+Seat 8: DoublelegTD (button) (small blind) mucked
+
+PokerStars Hand #1529397164:  Hold'em No Limit ($25.00/$50.00 USD) - 2023/01/19 23:45:39 ET
+Table 'WPN_7 Day No Rathole 25/50 NLH 9-Max' 9-max Seat #7 is the button
+Seat 7: OGORRA ($18940.84 in chips)
+Seat 8: DoublelegTD ($6079.50 in chips)
+OGORRA: posts small blind $25.00
+DoublelegTD: posts big blind $50.00
+*** HOLE CARDS ***
+OGORRA: raises $80.00 to $130.00
+DoublelegTD: calls $80.00
+*** FLOP *** [3s 2d Ac]
+DoublelegTD: checks
+OGORRA: checks
+*** TURN *** [3s 2d Ac] [5s]
+DoublelegTD: bets $325.00
+OGORRA: folds
+Uncalled bet ($325.00) returned to DoublelegTD
+DoublelegTD collected $258.75 from pot
+DoublelegTD: doesn't show hand
+*** SUMMARY ***
+Total pot $260.00 | Rake $1.25
+Board [3s 2d Ac 5s]
+Seat 7: OGORRA (button) (small blind) folded on the Turn
+Seat 8: DoublelegTD (big blind) collected ($258.75)
+

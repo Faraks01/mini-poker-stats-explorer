@@ -1,0 +1,110 @@
+Hand #1927710774 - Holdem(No Limit) - $50/$100 - 2023/11/12 00:26:43 UTC
+Coulterville 6-max Seat #1 is the button
+Seat 1: burittolover ($5164.71)
+Seat 2: 7SkyAroundMe ($10000)
+Seat 3: loliufg ($10000)
+Seat 4: jackstack99999 ($10000)
+Seat 5: Burundos254 ($10000)
+burittolover posts ante $500
+7SkyAroundMe posts ante $500
+*** HOLE CARDS *** 
+*** FLOP *** [6d Qs 5c]
+Main pot $998.75 | Rake $1.25
+7SkyAroundMe checks
+burittolover checks
+*** TURN *** [6d Qs 5c] [3h]
+Main pot $998.75 | Rake $1.25
+7SkyAroundMe checks
+burittolover checks
+*** RIVER *** [6d Qs 5c 3h] [5h]
+Main pot $998.75 | Rake $1.25
+7SkyAroundMe checks
+burittolover checks
+*** SHOW DOWN ***
+Main pot $998.75 | Rake $1.25
+7SkyAroundMe shows [Kc Js]
+7SkyAroundMe collected $998.75 from main pot
+*** SUMMARY ***
+BombPot
+Total pot $998.75 | Rake $1.25
+Seat 1: burittolover (button) did not showed and lost
+Seat 2: 7SkyAroundMe showed [Kc Js] and won $998.75 with OnePair [5h 5c Kc Qs Js]
+
+
+Hand #1927728864 - Holdem(No Limit) - $50/$100 - 2023/11/12 00:44:10 UTC
+Coulterville 6-max Seat #2 is the button
+Seat 1: TrickySpot ($4000)
+Seat 2: 7SkyAroundMe ($12183.50)
+Seat 3: ULTIMATEBOT ($10000)
+Seat 4: burittolover ($4353.96)
+Seat 5: Burundos254 ($10022)
+Seat 6: jackstack99999 ($11546)
+TrickySpot posts ante $500
+7SkyAroundMe posts ante $500
+ULTIMATEBOT posts ante $500
+burittolover posts ante $500
+Burundos254 posts ante $500
+jackstack99999 posts ante $500
+*** HOLE CARDS *** 
+*** FLOP *** [4c Qc Jh]
+Main pot $2997 | Rake $3
+ULTIMATEBOT checks
+burittolover bets $570
+Burundos254 folds
+jackstack99999 folds
+TrickySpot raises $1490 to $1490
+7SkyAroundMe folds
+ULTIMATEBOT folds
+burittolover raises $3283.96 to $3853.96 and is all-in
+TrickySpot calls $2010 and is all-in
+Uncalled bet ($353.96) returned to burittolover
+burittolover does not show
+*** TURN *** [4c Qc Jh] [Js]
+Main pot $9997 | Rake $3
+*** RIVER *** [4c Qc Jh Js] [7c]
+Main pot $9997 | Rake $3
+*** SHOW DOWN ***
+Main pot $9997 | Rake $3
+TrickySpot shows [Qs 6s]
+burittolover shows [9c Ts]
+TrickySpot collected $9997 from main pot
+*** SUMMARY ***
+BombPot
+Total pot $9997 | Rake $3
+Seat 1: TrickySpot showed [Qs 6s] and won $9997 with TwoPair [Qs Qc Js Jh 7c]
+Seat 2: 7SkyAroundMe (button) folded on the Flop
+Seat 3: ULTIMATEBOT folded on the Flop
+Seat 4: burittolover showed [9c Ts] and lost
+Seat 5: Burundos254 folded on the Flop
+Seat 6: jackstack99999 folded on the Flop
+
+
+Hand #1928137271 - Holdem(No Limit) - $50/$100 - 2023/11/12 08:36:39 UTC
+Coulterville 6-max Seat #4 is the button
+Seat 2: 7SkyAroundMe ($10000)
+Seat 3: _COBKA_PBET_ ($10000)
+Seat 4: StNinzCharity ($10000)
+Seat 5: alanwatts15 ($10000)
+Seat 6: orgi69 ($10000)
+7SkyAroundMe posts ante $500
+StNinzCharity posts ante $500
+*** HOLE CARDS *** 
+*** FLOP *** [8c 9c Tc]
+Main pot $998.75 | Rake $1.25
+7SkyAroundMe checks
+StNinzCharity bets $200
+7SkyAroundMe raises $900 to $900
+StNinzCharity calls $700
+*** TURN *** [8c 9c Tc] [2c]
+Main pot $2798.75 | Rake $1.25
+7SkyAroundMe checks
+StNinzCharity bets $839
+7SkyAroundMe folds
+Uncalled bet ($839) returned to StNinzCharity
+StNinzCharity does not show
+*** SUMMARY ***
+BombPot
+Total pot $2798.75 | Rake $1.25
+Seat 2: 7SkyAroundMe folded on the Turn
+Seat 4: StNinzCharity (button) did not showed and won $2798.75
+

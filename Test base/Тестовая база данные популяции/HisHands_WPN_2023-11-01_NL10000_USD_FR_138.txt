@@ -1,0 +1,3342 @@
+Hand #1915301091 - Holdem(No Limit) - $50/$100 - 2023/11/01 03:41:54 UTC
+7 Day No Rathole 50/100 NLH 9-max Seat #2 is the button
+Seat 2: Luis Coppel ($1000)
+Seat 3: lmpala_zOrg ($1900)
+Seat 4: Amancio_017 ($10000)
+Luis Coppel posts the small blind $50
+lmpala_zOrg posts the big blind $100
+*** HOLE CARDS *** 
+Luis Coppel calls $50
+lmpala_zOrg checks
+*** FLOP *** [8s 8h 3d]
+Main pot $198.75 | Rake $1.25
+lmpala_zOrg checks
+Luis Coppel checks
+*** TURN *** [8s 8h 3d] [Kd]
+Main pot $198.75 | Rake $1.25
+lmpala_zOrg checks
+Luis Coppel checks
+*** RIVER *** [8s 8h 3d Kd] [3h]
+Main pot $198.75 | Rake $1.25
+lmpala_zOrg bets $149.06
+Luis Coppel calls $149.06
+*** SHOW DOWN ***
+Main pot $198.75 | Rake $1.25
+lmpala_zOrg shows [Kc 3s]
+lmpala_zOrg collected $496.87 from main pot
+*** SUMMARY ***
+Total pot $496.87 | Rake $1.25
+Seat 2: Luis Coppel (small blind) did not showed and lost
+Seat 3: lmpala_zOrg (big blind) showed [Kc 3s] and won $496.87 with FullHouse [3s 3h 3d Kd Kc]
+
+
+Hand #1915301924 - Holdem(No Limit) - $50/$100 - 2023/11/01 03:43:00 UTC
+7 Day No Rathole 50/100 NLH 9-max Seat #2 is the button
+Seat 2: Luis Coppel ($10000)
+Seat 3: lmpala_zOrg ($2147.81)
+Seat 4: Amancio_017 ($1000)
+lmpala_zOrg posts the small blind $50
+Amancio_017 posts the big blind $100
+*** HOLE CARDS *** 
+Luis Coppel folds
+lmpala_zOrg raises $150 to $200
+Amancio_017 calls $100
+*** FLOP *** [4s 7c 2d]
+Main pot $398.25 | Rake $1.75
+lmpala_zOrg bets $200
+Amancio_017 calls $200
+*** TURN *** [4s 7c 2d] [6c]
+Main pot $798.25 | Rake $1.75
+lmpala_zOrg checks
+Amancio_017 bets $600 and is all-in
+lmpala_zOrg calls $600
+*** RIVER *** [4s 7c 2d 6c] [9d]
+Main pot $1998.25 | Rake $1.75
+*** SHOW DOWN ***
+Main pot $1998.25 | Rake $1.75
+Amancio_017 shows [Tc 7d]
+lmpala_zOrg shows [2c Qc]
+Amancio_017 collected $1998.25 from main pot
+*** SUMMARY ***
+Total pot $1998.25 | Rake $1.75
+Seat 2: Luis Coppel (button) folded on the Pre-Flop and did not bet
+Seat 3: lmpala_zOrg (small blind) showed [2c Qc] and lost
+Seat 4: Amancio_017 (big blind) showed [Tc 7d] and won $1998.25 with OnePair [7d 7c Tc 9d 6c]
+
+
+Hand #1915302784 - Holdem(No Limit) - $50/$100 - 2023/11/01 03:43:16 UTC
+7 Day No Rathole 50/100 NLH 9-max Seat #3 is the button
+Seat 2: Luis Coppel ($1000)
+Seat 3: lmpala_zOrg ($10000)
+Seat 4: Amancio_017 ($1998.25)
+Amancio_017 posts the small blind $50
+Luis Coppel posts the big blind $100
+*** HOLE CARDS *** 
+lmpala_zOrg folds
+Amancio_017 raises $1948.25 to $1998.25 and is all-in
+Luis Coppel calls $900 and is all-in
+Uncalled bet ($998.25) returned to Amancio_017
+Amancio_017 does not show
+*** RUN IT TWICE ***
+*** FLOP 1 *** [6h Ks 3d]
+Main pot 1 $999.12 | Rake $0.88
+*** TURN 1 *** [6h Ks 3d] [Kc]
+Main pot 1 $999.12 | Rake $0.88
+*** RIVER 1 *** [6h Ks 3d Kc] [7d]
+Main pot 1 $999.12 | Rake $0.88
+*** SHOW DOWN 1 ***
+Main pot 1 $999.12 | Rake $0.88
+Luis Coppel shows [Ac Jc]
+Amancio_017 shows [Jh 9h]
+Luis Coppel collected $999.13 from main pot 1
+*** FLOP 2 *** [4d Qh Ad]
+Main pot 2 $999.13 | Rake $0.87
+*** TURN 2 *** [4d Qh Ad] [2h]
+Main pot 2 $999.13 | Rake $0.87
+*** RIVER 2 *** [4d Qh Ad 2h] [6s]
+Main pot 2 $999.13 | Rake $0.87
+*** SHOW DOWN 2 ***
+Main pot 2 $999.13 | Rake $0.87
+Luis Coppel shows [Ac Jc]
+Luis Coppel collected $999.12 from main pot 2
+*** SUMMARY ***
+Total pot $1998.25 | Rake $1.75
+Board 1 [6h Ks 3d Kc 7d]
+Seat 2: Luis Coppel (big blind) showed [Ac Jc] and won $999.13 with OnePair [Ks Kc Ac Jc 7d]
+Seat 3: lmpala_zOrg (button) folded on the Pre-Flop and did not bet
+Seat 4: Amancio_017 (small blind) showed [Jh 9h] and lost
+Board 2 [4d Qh Ad 2h 6s]
+Seat 2: Luis Coppel (big blind) showed [Ac Jc] and won $999.13 with OnePair [Ks Kc Ac Jc 7d]
+Seat 3: lmpala_zOrg (button) folded on the Pre-Flop and did not bet
+Seat 4: Amancio_017 (small blind) showed [Jh 9h] and lost
+
+
+Hand #1915303150 - Holdem(No Limit) - $50/$100 - 2023/11/01 03:44:04 UTC
+7 Day No Rathole 50/100 NLH 9-max Seat #4 is the button
+Seat 2: Luis Coppel ($1998.25)
+Seat 3: lmpala_zOrg ($1147.81)
+Seat 4: Amancio_017 ($1000)
+Luis Coppel posts the small blind $50
+lmpala_zOrg posts the big blind $100
+*** HOLE CARDS *** 
+Amancio_017 raises $200 to $200
+Luis Coppel folds
+lmpala_zOrg calls $100
+*** FLOP *** [Qs 7d 8d]
+Main pot $448.25 | Rake $1.75
+lmpala_zOrg checks
+Amancio_017 bets $148.50
+lmpala_zOrg raises $947.81 to $947.81 and is all-in
+Amancio_017 calls $651.50 and is all-in
+Uncalled bet ($147.81) returned to lmpala_zOrg
+lmpala_zOrg does not show
+*** RUN IT TWICE ***
+*** TURN 1 *** [Qs 7d 8d] [2d]
+Main pot 1 $1024.12 | Rake $0.88
+*** RIVER 1 *** [Qs 7d 8d 2d] [Tc]
+Main pot 1 $1024.12 | Rake $0.88
+*** SHOW DOWN 1 ***
+Main pot 1 $1024.12 | Rake $0.88
+Amancio_017 shows [Kd Qc]
+lmpala_zOrg shows [Jh Td]
+Amancio_017 collected $1024.13 from main pot 1
+*** TURN 2 *** [Qs 7d 8d] [2s]
+Main pot 2 $1024.13 | Rake $0.87
+*** RIVER 2 *** [Qs 7d 8d 2s] [As]
+Main pot 2 $1024.13 | Rake $0.87
+*** SHOW DOWN 2 ***
+Main pot 2 $1024.13 | Rake $0.87
+lmpala_zOrg shows [Jh Td]
+Amancio_017 collected $1024.12 from main pot 2
+*** SUMMARY ***
+Total pot $2048.25 | Rake $1.75
+Board 1 [Qs 7d 8d 2d Tc]
+Seat 2: Luis Coppel (small blind) folded on the Pre-Flop
+Seat 3: lmpala_zOrg (big blind) showed [Jh Td] and lost
+Seat 4: Amancio_017 (button) showed [Kd Qc] and won $1024.13 with OnePair [Qs Qc Kd Tc 8d]
+Board 2 [Qs 7d 8d 2s As]
+Seat 2: Luis Coppel (small blind) folded on the Pre-Flop
+Seat 3: lmpala_zOrg (big blind) showed [Jh Td] and lost
+Seat 4: Amancio_017 (button) showed [Kd Qc] and won $1024.13 with OnePair [Qs Qc Kd Tc 8d]
+
+
+Hand #1915303753 - Holdem(No Limit) - $50/$100 - 2023/11/01 03:44:47 UTC
+7 Day No Rathole 50/100 NLH 9-max Seat #2 is the button
+Seat 2: Luis Coppel ($1948.25)
+Seat 3: lmpala_zOrg ($1000)
+Seat 4: Amancio_017 ($10000)
+Seat 5: Haftbefehl ($10000)
+lmpala_zOrg posts the small blind $50
+Luis Coppel posts the big blind $100
+*** HOLE CARDS *** 
+lmpala_zOrg raises $950 to $1000 and is all-in
+Luis Coppel calls $900
+*** RUN IT TWICE ***
+*** FLOP 1 *** [4s Qs Js]
+Main pot 1 $999.37 | Rake $0.63
+*** TURN 1 *** [4s Qs Js] [6s]
+Main pot 1 $999.37 | Rake $0.63
+*** RIVER 1 *** [4s Qs Js 6s] [9h]
+Main pot 1 $999.37 | Rake $0.63
+*** SHOW DOWN 1 ***
+Main pot 1 $999.37 | Rake $0.63
+Luis Coppel shows [Kc 8d]
+lmpala_zOrg shows [5h Kh]
+Luis Coppel collected $999.38 from main pot 1
+*** FLOP 2 *** [5s 7h 7c]
+Main pot 2 $999.38 | Rake $0.62
+*** TURN 2 *** [5s 7h 7c] [Jd]
+Main pot 2 $999.38 | Rake $0.62
+*** RIVER 2 *** [5s 7h 7c Jd] [Ad]
+Main pot 2 $999.38 | Rake $0.62
+*** SHOW DOWN 2 ***
+Main pot 2 $999.38 | Rake $0.62
+Luis Coppel shows [Kc 8d]
+lmpala_zOrg collected $999.37 from main pot 2
+*** SUMMARY ***
+Total pot $1998.75 | Rake $1.25
+Board 1 [4s Qs Js 6s 9h]
+Seat 2: Luis Coppel (big blind) showed [Kc 8d] and won $999.38 with HighCard [Kc Qs Js 9h 8d]
+Seat 3: lmpala_zOrg (small blind) showed [5h Kh] and lost
+Board 2 [5s 7h 7c Jd Ad]
+Seat 2: Luis Coppel (big blind) showed [Kc 8d] and lost
+Seat 3: lmpala_zOrg (small blind) showed [5h Kh] and won $0 with HighCard [Kc Qs Js 9h 8d]
+
+
+Hand #1915304303 - Holdem(No Limit) - $50/$100 - 2023/11/01 03:45:25 UTC
+7 Day No Rathole 50/100 NLH 9-max Seat #2 is the button
+Seat 2: Luis Coppel ($1947.63)
+Seat 3: lmpala_zOrg ($1000)
+Seat 5: Haftbefehl ($10000)
+Luis Coppel posts the small blind $50
+lmpala_zOrg posts the big blind $100
+*** HOLE CARDS *** 
+Luis Coppel calls $50
+lmpala_zOrg raises $900 to $1000 and is all-in
+Luis Coppel calls $900
+*** RUN IT TWICE ***
+*** FLOP 1 *** [2h 5h 2d]
+Main pot 1 $999.37 | Rake $0.63
+*** TURN 1 *** [2h 5h 2d] [6d]
+Main pot 1 $999.37 | Rake $0.63
+*** RIVER 1 *** [2h 5h 2d 6d] [Ks]
+Main pot 1 $999.37 | Rake $0.63
+*** SHOW DOWN 1 ***
+Main pot 1 $999.37 | Rake $0.63
+lmpala_zOrg shows [3c Kd]
+Luis Coppel shows [Tc 9c]
+lmpala_zOrg collected $999.38 from main pot 1
+*** FLOP 2 *** [Jc Qs 6s]
+Main pot 2 $999.38 | Rake $0.62
+*** TURN 2 *** [Jc Qs 6s] [6h]
+Main pot 2 $999.38 | Rake $0.62
+*** RIVER 2 *** [Jc Qs 6s 6h] [5d]
+Main pot 2 $999.38 | Rake $0.62
+*** SHOW DOWN 2 ***
+Main pot 2 $999.38 | Rake $0.62
+Luis Coppel shows [Tc 9c]
+lmpala_zOrg collected $999.37 from main pot 2
+*** SUMMARY ***
+Total pot $1998.75 | Rake $1.25
+Board 1 [2h 5h 2d 6d Ks]
+Seat 2: Luis Coppel (small blind) showed [Tc 9c] and lost
+Seat 3: lmpala_zOrg (big blind) showed [3c Kd] and won $999.38 with TwoPair [Ks Kd 2h 2d 6d]
+Board 2 [Jc Qs 6s 6h 5d]
+Seat 2: Luis Coppel (small blind) showed [Tc 9c] and lost
+Seat 3: lmpala_zOrg (big blind) showed [3c Kd] and won $999.38 with TwoPair [Ks Kd 2h 2d 6d]
+
+
+Hand #1915304783 - Holdem(No Limit) - $50/$100 - 2023/11/01 03:45:53 UTC
+7 Day No Rathole 50/100 NLH 9-max Seat #3 is the button
+Seat 2: Luis Coppel ($1000)
+Seat 3: lmpala_zOrg ($1998.75)
+lmpala_zOrg posts the small blind $50
+Luis Coppel posts the big blind $100
+*** HOLE CARDS *** 
+lmpala_zOrg folds
+*** SUMMARY ***
+Total pot $150
+Seat 2: Luis Coppel (big blind) did not showed and won $150
+Seat 3: lmpala_zOrg (small blind) folded on the Pre-Flop
+
+
+Hand #1915304953 - Holdem(No Limit) - $50/$100 - 2023/11/01 03:46:08 UTC
+7 Day No Rathole 50/100 NLH 9-max Seat #2 is the button
+Seat 2: Luis Coppel ($1050)
+Seat 3: lmpala_zOrg ($1948.75)
+Luis Coppel posts the small blind $50
+lmpala_zOrg posts the big blind $100
+*** HOLE CARDS *** 
+Luis Coppel raises $1000 to $1050 and is all-in
+lmpala_zOrg folds
+Uncalled bet ($950) returned to Luis Coppel
+Luis Coppel does not show
+*** SUMMARY ***
+Total pot $200
+Seat 2: Luis Coppel (small blind) did not showed and won $200
+Seat 3: lmpala_zOrg (big blind) folded on the Pre-Flop
+
+
+Hand #1915305151 - Holdem(No Limit) - $50/$100 - 2023/11/01 03:46:42 UTC
+7 Day No Rathole 50/100 NLH 9-max Seat #3 is the button
+Seat 2: Luis Coppel ($1150)
+Seat 3: lmpala_zOrg ($1848.75)
+lmpala_zOrg posts the small blind $50
+Luis Coppel posts the big blind $100
+*** HOLE CARDS *** 
+lmpala_zOrg calls $50
+Luis Coppel checks
+*** FLOP *** [6d Kd 9s]
+Main pot $198.75 | Rake $1.25
+Luis Coppel checks
+lmpala_zOrg bets $100
+Luis Coppel calls $100
+*** TURN *** [6d Kd 9s] [Qh]
+Main pot $398.75 | Rake $1.25
+Luis Coppel checks
+lmpala_zOrg bets $250
+Luis Coppel folds
+Uncalled bet ($250) returned to lmpala_zOrg
+lmpala_zOrg does not show
+*** SUMMARY ***
+Total pot $398.75 | Rake $1.25
+Seat 2: Luis Coppel (big blind) folded on the Turn
+Seat 3: lmpala_zOrg (small blind) did not showed and won $398.75
+
+
+Hand #1915305604 - Holdem(No Limit) - $50/$100 - 2023/11/01 03:46:54 UTC
+7 Day No Rathole 50/100 NLH 9-max Seat #2 is the button
+Seat 2: Luis Coppel ($1000)
+Seat 3: lmpala_zOrg ($2047.50)
+Luis Coppel posts the small blind $50
+lmpala_zOrg posts the big blind $100
+*** HOLE CARDS *** 
+Luis Coppel raises $950 to $1000 and is all-in
+lmpala_zOrg folds
+Uncalled bet ($900) returned to Luis Coppel
+Luis Coppel does not show
+*** SUMMARY ***
+Total pot $200
+Seat 2: Luis Coppel (small blind) did not showed and won $200
+Seat 3: lmpala_zOrg (big blind) folded on the Pre-Flop
+
+
+Hand #1915305744 - Holdem(No Limit) - $50/$100 - 2023/11/01 03:47:07 UTC
+7 Day No Rathole 50/100 NLH 9-max Seat #3 is the button
+Seat 2: Luis Coppel ($1100)
+Seat 3: lmpala_zOrg ($1947.50)
+lmpala_zOrg posts the small blind $50
+Luis Coppel posts the big blind $100
+*** HOLE CARDS *** 
+lmpala_zOrg folds
+*** SUMMARY ***
+Total pot $150
+Seat 2: Luis Coppel (big blind) did not showed and won $150
+Seat 3: lmpala_zOrg (small blind) folded on the Pre-Flop
+
+
+Hand #1915305900 - Holdem(No Limit) - $50/$100 - 2023/11/01 03:47:42 UTC
+7 Day No Rathole 50/100 NLH 9-max Seat #2 is the button
+Seat 2: Luis Coppel ($1150)
+Seat 3: lmpala_zOrg ($1897.50)
+Luis Coppel posts the small blind $50
+lmpala_zOrg posts the big blind $100
+*** HOLE CARDS *** 
+Luis Coppel calls $50
+lmpala_zOrg checks
+*** FLOP *** [4s Jd Qc]
+Main pot $198.75 | Rake $1.25
+lmpala_zOrg checks
+Luis Coppel checks
+*** TURN *** [4s Jd Qc] [8h]
+Main pot $198.75 | Rake $1.25
+lmpala_zOrg checks
+Luis Coppel checks
+*** RIVER *** [4s Jd Qc 8h] [6c]
+Main pot $198.75 | Rake $1.25
+lmpala_zOrg checks
+Luis Coppel checks
+*** SHOW DOWN ***
+Main pot $198.75 | Rake $1.25
+Luis Coppel shows [4d Ad]
+Luis Coppel collected $198.75 from main pot
+*** SUMMARY ***
+Total pot $198.75 | Rake $1.25
+Seat 2: Luis Coppel (small blind) showed [4d Ad] and won $198.75 with OnePair [4s 4d Ad Qc Jd]
+Seat 3: lmpala_zOrg (big blind) did not showed and lost
+
+
+Hand #1915306393 - Holdem(No Limit) - $50/$100 - 2023/11/01 03:48:03 UTC
+7 Day No Rathole 50/100 NLH 9-max Seat #3 is the button
+Seat 2: Luis Coppel ($1248.75)
+Seat 3: lmpala_zOrg ($1797.50)
+lmpala_zOrg posts the small blind $50
+Luis Coppel posts the big blind $100
+*** HOLE CARDS *** 
+lmpala_zOrg calls $50
+Luis Coppel checks
+*** FLOP *** [2d Ad Jh]
+Main pot $198.75 | Rake $1.25
+Luis Coppel checks
+lmpala_zOrg bets $100
+Luis Coppel folds
+Uncalled bet ($100) returned to lmpala_zOrg
+lmpala_zOrg does not show
+*** SUMMARY ***
+Total pot $198.75 | Rake $1.25
+Seat 2: Luis Coppel (big blind) folded on the Flop
+Seat 3: lmpala_zOrg (small blind) did not showed and won $198.75
+
+
+Hand #1915306629 - Holdem(No Limit) - $50/$100 - 2023/11/01 03:48:38 UTC
+7 Day No Rathole 50/100 NLH 9-max Seat #2 is the button
+Seat 2: Luis Coppel ($1148.75)
+Seat 3: lmpala_zOrg ($1896.25)
+Luis Coppel posts the small blind $50
+lmpala_zOrg posts the big blind $100
+*** HOLE CARDS *** 
+Luis Coppel calls $50
+lmpala_zOrg checks
+*** FLOP *** [Jc Kc 3c]
+Main pot $198.75 | Rake $1.25
+lmpala_zOrg checks
+Luis Coppel checks
+*** TURN *** [Jc Kc 3c] [5h]
+Main pot $198.75 | Rake $1.25
+lmpala_zOrg checks
+Luis Coppel checks
+*** RIVER *** [Jc Kc 3c 5h] [Qh]
+Main pot $198.75 | Rake $1.25
+lmpala_zOrg checks
+Luis Coppel checks
+*** SHOW DOWN ***
+Main pot $198.75 | Rake $1.25
+lmpala_zOrg shows [9s 5d]
+lmpala_zOrg collected $198.75 from main pot
+*** SUMMARY ***
+Total pot $198.75 | Rake $1.25
+Seat 2: Luis Coppel (small blind) did not showed and lost
+Seat 3: lmpala_zOrg (big blind) showed [9s 5d] and won $198.75 with OnePair [5h 5d Kc Qh Jc]
+
+
+Hand #1915307074 - Holdem(No Limit) - $50/$100 - 2023/11/01 03:48:52 UTC
+7 Day No Rathole 50/100 NLH 9-max Seat #3 is the button
+Seat 2: Luis Coppel ($1048.75)
+Seat 3: lmpala_zOrg ($1995)
+lmpala_zOrg posts the small blind $50
+Luis Coppel posts the big blind $100
+*** HOLE CARDS *** 
+lmpala_zOrg raises $1945 to $1995 and is all-in
+Luis Coppel folds
+Uncalled bet ($1895) returned to lmpala_zOrg
+lmpala_zOrg does not show
+*** SUMMARY ***
+Total pot $200
+Seat 2: Luis Coppel (big blind) folded on the Pre-Flop
+Seat 3: lmpala_zOrg (small blind) did not showed and won $200
+
+
+Hand #1915307243 - Holdem(No Limit) - $50/$100 - 2023/11/01 03:49:03 UTC
+7 Day No Rathole 50/100 NLH 9-max Seat #2 is the button
+Seat 2: Luis Coppel ($1000)
+Seat 3: lmpala_zOrg ($2095)
+Luis Coppel posts the small blind $50
+lmpala_zOrg posts the big blind $100
+*** HOLE CARDS *** 
+Luis Coppel calls $50
+lmpala_zOrg raises $1995 to $2095 and is all-in
+Luis Coppel folds
+Uncalled bet ($1995) returned to lmpala_zOrg
+lmpala_zOrg does not show
+*** SUMMARY ***
+Total pot $200
+Seat 2: Luis Coppel (small blind) folded on the Pre-Flop
+Seat 3: lmpala_zOrg (big blind) did not showed and won $200
+
+
+Hand #1915307395 - Holdem(No Limit) - $50/$100 - 2023/11/01 03:49:17 UTC
+7 Day No Rathole 50/100 NLH 9-max Seat #3 is the button
+Seat 2: Luis Coppel ($1000)
+Seat 3: lmpala_zOrg ($2195)
+lmpala_zOrg posts the small blind $50
+Luis Coppel posts the big blind $100
+*** HOLE CARDS *** 
+lmpala_zOrg raises $2145 to $2195 and is all-in
+Luis Coppel folds
+Uncalled bet ($2095) returned to lmpala_zOrg
+lmpala_zOrg does not show
+*** SUMMARY ***
+Total pot $200
+Seat 2: Luis Coppel (big blind) folded on the Pre-Flop
+Seat 3: lmpala_zOrg (small blind) did not showed and won $200
+
+
+Hand #1915307571 - Holdem(No Limit) - $50/$100 - 2023/11/01 03:49:28 UTC
+7 Day No Rathole 50/100 NLH 9-max Seat #2 is the button
+Seat 2: Luis Coppel ($1000)
+Seat 3: lmpala_zOrg ($2295)
+Luis Coppel posts the small blind $50
+lmpala_zOrg posts the big blind $100
+*** HOLE CARDS *** 
+Luis Coppel folds
+*** SUMMARY ***
+Total pot $150
+Seat 2: Luis Coppel (small blind) folded on the Pre-Flop
+Seat 3: lmpala_zOrg (big blind) did not showed and won $150
+
+
+Hand #1915307702 - Holdem(No Limit) - $50/$100 - 2023/11/01 03:49:42 UTC
+7 Day No Rathole 50/100 NLH 9-max Seat #3 is the button
+Seat 2: Luis Coppel ($1000)
+Seat 3: lmpala_zOrg ($2345)
+lmpala_zOrg posts the small blind $50
+Luis Coppel posts the big blind $100
+*** HOLE CARDS *** 
+lmpala_zOrg raises $2295 to $2345 and is all-in
+Luis Coppel folds
+Uncalled bet ($2245) returned to lmpala_zOrg
+lmpala_zOrg does not show
+*** SUMMARY ***
+Total pot $200
+Seat 2: Luis Coppel (big blind) folded on the Pre-Flop
+Seat 3: lmpala_zOrg (small blind) did not showed and won $200
+
+
+Hand #1915307874 - Holdem(No Limit) - $50/$100 - 2023/11/01 03:50:17 UTC
+7 Day No Rathole 50/100 NLH 9-max Seat #2 is the button
+Seat 2: Luis Coppel ($1000)
+Seat 3: lmpala_zOrg ($2445)
+Luis Coppel posts the small blind $50
+lmpala_zOrg posts the big blind $100
+*** HOLE CARDS *** 
+Luis Coppel calls $50
+lmpala_zOrg checks
+*** FLOP *** [Th 3h 7c]
+Main pot $198.75 | Rake $1.25
+lmpala_zOrg checks
+Luis Coppel checks
+*** TURN *** [Th 3h 7c] [Ah]
+Main pot $198.75 | Rake $1.25
+lmpala_zOrg checks
+Luis Coppel bets $100
+lmpala_zOrg folds
+Uncalled bet ($100) returned to Luis Coppel
+Luis Coppel does not show
+*** SUMMARY ***
+Total pot $198.75 | Rake $1.25
+Seat 2: Luis Coppel (small blind) did not showed and won $198.75
+Seat 3: lmpala_zOrg (big blind) folded on the Turn
+
+
+Hand #1915308312 - Holdem(No Limit) - $50/$100 - 2023/11/01 03:50:33 UTC
+7 Day No Rathole 50/100 NLH 9-max Seat #3 is the button
+Seat 2: Luis Coppel ($1098.75)
+Seat 3: lmpala_zOrg ($2345)
+lmpala_zOrg posts the small blind $50
+Luis Coppel posts the big blind $100
+*** HOLE CARDS *** 
+lmpala_zOrg calls $50
+Luis Coppel raises $150 to $250
+lmpala_zOrg folds
+Uncalled bet ($150) returned to Luis Coppel
+Luis Coppel does not show
+*** SUMMARY ***
+Total pot $200
+Seat 2: Luis Coppel (big blind) did not showed and won $200
+Seat 3: lmpala_zOrg (small blind) folded on the Pre-Flop
+
+
+Hand #1915308519 - Holdem(No Limit) - $50/$100 - 2023/11/01 03:51:00 UTC
+7 Day No Rathole 50/100 NLH 9-max Seat #2 is the button
+Seat 2: Luis Coppel ($1198.75)
+Seat 3: lmpala_zOrg ($2245)
+Luis Coppel posts the small blind $50
+lmpala_zOrg posts the big blind $100
+*** HOLE CARDS *** 
+Luis Coppel calls $50
+lmpala_zOrg checks
+*** FLOP *** [3s Jd 5h]
+Main pot $198.75 | Rake $1.25
+lmpala_zOrg checks
+Luis Coppel bets $100
+lmpala_zOrg folds
+Uncalled bet ($100) returned to Luis Coppel
+Luis Coppel does not show
+*** SUMMARY ***
+Total pot $198.75 | Rake $1.25
+Seat 2: Luis Coppel (small blind) did not showed and won $198.75
+Seat 3: lmpala_zOrg (big blind) folded on the Flop
+
+
+Hand #1915308856 - Holdem(No Limit) - $50/$100 - 2023/11/01 03:51:36 UTC
+7 Day No Rathole 50/100 NLH 9-max Seat #3 is the button
+Seat 2: Luis Coppel ($1297.50)
+Seat 3: lmpala_zOrg ($2145)
+lmpala_zOrg posts the small blind $50
+Luis Coppel posts the big blind $100
+*** HOLE CARDS *** 
+lmpala_zOrg calls $50
+Luis Coppel checks
+*** FLOP *** [Js 8s 5h]
+Main pot $198.75 | Rake $1.25
+Luis Coppel checks
+lmpala_zOrg checks
+*** TURN *** [Js 8s 5h] [Jh]
+Main pot $198.75 | Rake $1.25
+Luis Coppel bets $248.75
+lmpala_zOrg folds
+Uncalled bet ($248.75) returned to Luis Coppel
+Luis Coppel does not show
+*** SUMMARY ***
+Total pot $198.75 | Rake $1.25
+Seat 2: Luis Coppel (big blind) did not showed and won $198.75
+Seat 3: lmpala_zOrg (small blind) folded on the Turn
+
+
+Hand #1915309303 - Holdem(No Limit) - $50/$100 - 2023/11/01 03:52:29 UTC
+7 Day No Rathole 50/100 NLH 9-max Seat #2 is the button
+Seat 2: Luis Coppel ($1396.25)
+Seat 3: lmpala_zOrg ($2045)
+Luis Coppel posts the small blind $50
+lmpala_zOrg posts the big blind $100
+*** HOLE CARDS *** 
+Luis Coppel calls $50
+lmpala_zOrg checks
+*** FLOP *** [Ac 4h Kd]
+Main pot $198.75 | Rake $1.25
+lmpala_zOrg checks
+Luis Coppel bets $100
+lmpala_zOrg calls $100
+*** TURN *** [Ac 4h Kd] [Ad]
+Main pot $398.75 | Rake $1.25
+lmpala_zOrg checks
+Luis Coppel checks
+*** RIVER *** [Ac 4h Kd Ad] [8s]
+Main pot $398.75 | Rake $1.25
+lmpala_zOrg bets $150
+Luis Coppel folds
+Uncalled bet ($150) returned to lmpala_zOrg
+lmpala_zOrg does not show
+*** SUMMARY ***
+Total pot $398.75 | Rake $1.25
+Seat 2: Luis Coppel (small blind) folded on the River
+Seat 3: lmpala_zOrg (big blind) did not showed and won $398.75
+
+
+Hand #1915309979 - Holdem(No Limit) - $50/$100 - 2023/11/01 03:52:46 UTC
+7 Day No Rathole 50/100 NLH 9-max Seat #3 is the button
+Seat 2: Luis Coppel ($1196.25)
+Seat 3: lmpala_zOrg ($2243.75)
+lmpala_zOrg posts the small blind $50
+Luis Coppel posts the big blind $100
+*** HOLE CARDS *** 
+lmpala_zOrg calls $50
+Luis Coppel raises $1096.25 to $1196.25 and is all-in
+lmpala_zOrg folds
+Uncalled bet ($1096.25) returned to Luis Coppel
+Luis Coppel does not show
+*** SUMMARY ***
+Total pot $200
+Seat 2: Luis Coppel (big blind) did not showed and won $200
+Seat 3: lmpala_zOrg (small blind) folded on the Pre-Flop
+
+
+Hand #1915310217 - Holdem(No Limit) - $50/$100 - 2023/11/01 03:53:07 UTC
+7 Day No Rathole 50/100 NLH 9-max Seat #2 is the button
+Seat 2: Luis Coppel ($1296.25)
+Seat 3: lmpala_zOrg ($2143.75)
+Luis Coppel posts the small blind $50
+lmpala_zOrg posts the big blind $100
+*** HOLE CARDS *** 
+Luis Coppel calls $50
+lmpala_zOrg raises $200 to $300
+Luis Coppel folds
+Uncalled bet ($200) returned to lmpala_zOrg
+lmpala_zOrg does not show
+*** SUMMARY ***
+Total pot $200
+Seat 2: Luis Coppel (small blind) folded on the Pre-Flop
+Seat 3: lmpala_zOrg (big blind) did not showed and won $200
+
+
+Hand #1915310489 - Holdem(No Limit) - $50/$100 - 2023/11/01 03:53:40 UTC
+7 Day No Rathole 50/100 NLH 9-max Seat #3 is the button
+Seat 2: Luis Coppel ($1196.25)
+Seat 3: lmpala_zOrg ($2243.75)
+lmpala_zOrg posts the small blind $50
+Luis Coppel posts the big blind $100
+*** HOLE CARDS *** 
+lmpala_zOrg calls $50
+Luis Coppel checks
+*** FLOP *** [4d Jh 8h]
+Main pot $198.75 | Rake $1.25
+Luis Coppel checks
+lmpala_zOrg bets $100
+Luis Coppel raises $250 to $250
+lmpala_zOrg folds
+Uncalled bet ($150) returned to Luis Coppel
+Luis Coppel does not show
+*** SUMMARY ***
+Total pot $398.75 | Rake $1.25
+Seat 2: Luis Coppel (big blind) did not showed and won $398.75
+Seat 3: lmpala_zOrg (small blind) folded on the Flop
+
+
+Hand #1915310903 - Holdem(No Limit) - $50/$100 - 2023/11/01 03:54:30 UTC
+7 Day No Rathole 50/100 NLH 9-max Seat #2 is the button
+Seat 2: Luis Coppel ($1395)
+Seat 3: lmpala_zOrg ($2043.75)
+Luis Coppel posts the small blind $50
+lmpala_zOrg posts the big blind $100
+*** HOLE CARDS *** 
+Luis Coppel calls $50
+lmpala_zOrg checks
+*** FLOP *** [Jd Qs Qh]
+Main pot $198.75 | Rake $1.25
+lmpala_zOrg checks
+Luis Coppel checks
+*** TURN *** [Jd Qs Qh] [Ah]
+Main pot $198.75 | Rake $1.25
+lmpala_zOrg checks
+Luis Coppel checks
+*** RIVER *** [Jd Qs Qh Ah] [3s]
+Main pot $198.75 | Rake $1.25
+lmpala_zOrg checks
+Luis Coppel bets $149.06
+lmpala_zOrg folds
+Uncalled bet ($149.06) returned to Luis Coppel
+Luis Coppel does not show
+*** SUMMARY ***
+Total pot $198.75 | Rake $1.25
+Seat 2: Luis Coppel (small blind) did not showed and won $198.75
+Seat 3: lmpala_zOrg (big blind) folded on the River
+
+
+Hand #1915311509 - Holdem(No Limit) - $50/$100 - 2023/11/01 03:55:08 UTC
+7 Day No Rathole 50/100 NLH 9-max Seat #3 is the button
+Seat 2: Luis Coppel ($1493.75)
+Seat 3: lmpala_zOrg ($1943.75)
+lmpala_zOrg posts the small blind $50
+Luis Coppel posts the big blind $100
+*** HOLE CARDS *** 
+lmpala_zOrg calls $50
+Luis Coppel checks
+*** FLOP *** [8d 2h 5c]
+Main pot $198.75 | Rake $1.25
+Luis Coppel checks
+lmpala_zOrg checks
+*** TURN *** [8d 2h 5c] [Kc]
+Main pot $198.75 | Rake $1.25
+Luis Coppel checks
+lmpala_zOrg checks
+*** RIVER *** [8d 2h 5c Kc] [5d]
+Main pot $198.75 | Rake $1.25
+Luis Coppel checks
+lmpala_zOrg checks
+*** SHOW DOWN ***
+Main pot $198.75 | Rake $1.25
+lmpala_zOrg shows [Th Ac]
+lmpala_zOrg collected $198.75 from main pot
+*** SUMMARY ***
+Total pot $198.75 | Rake $1.25
+Seat 2: Luis Coppel (big blind) did not showed and lost
+Seat 3: lmpala_zOrg (small blind) showed [Th Ac] and won $198.75 with OnePair [5d 5c Ac Kc Th]
+
+
+Hand #1915311939 - Holdem(No Limit) - $50/$100 - 2023/11/01 03:55:32 UTC
+7 Day No Rathole 50/100 NLH 9-max Seat #2 is the button
+Seat 2: Luis Coppel ($1393.75)
+Seat 3: lmpala_zOrg ($2042.50)
+Luis Coppel posts the small blind $50
+lmpala_zOrg posts the big blind $100
+*** HOLE CARDS *** 
+Luis Coppel calls $50
+lmpala_zOrg checks
+*** FLOP *** [8d Ah As]
+Main pot $198.75 | Rake $1.25
+lmpala_zOrg checks
+Luis Coppel bets $100
+lmpala_zOrg folds
+Uncalled bet ($100) returned to Luis Coppel
+Luis Coppel does not show
+*** SUMMARY ***
+Total pot $198.75 | Rake $1.25
+Seat 2: Luis Coppel (small blind) did not showed and won $198.75
+Seat 3: lmpala_zOrg (big blind) folded on the Flop
+
+
+Hand #1915312124 - Holdem(No Limit) - $50/$100 - 2023/11/01 03:56:46 UTC
+7 Day No Rathole 50/100 NLH 9-max Seat #3 is the button
+Seat 2: Luis Coppel ($1492.50)
+Seat 3: lmpala_zOrg ($1942.50)
+lmpala_zOrg posts the small blind $50
+Luis Coppel posts the big blind $100
+*** HOLE CARDS *** 
+lmpala_zOrg raises $150 to $200
+Luis Coppel calls $100
+*** FLOP *** [Qc Ts 9s]
+Main pot $398.75 | Rake $1.25
+Luis Coppel checks
+lmpala_zOrg bets $100
+Luis Coppel raises $297.58 to $297.58
+lmpala_zOrg calls $197.58
+*** TURN *** [Qc Ts 9s] [5s]
+Main pot $993.91 | Rake $1.25
+Luis Coppel checks
+lmpala_zOrg bets $250
+Luis Coppel calls $250
+*** RIVER *** [Qc Ts 9s 5s] [9d]
+Main pot $1493.91 | Rake $1.25
+Luis Coppel checks
+lmpala_zOrg checks
+*** SHOW DOWN ***
+Main pot $1493.91 | Rake $1.25
+Luis Coppel shows [Js Qs]
+Luis Coppel collected $1493.91 from main pot
+*** SUMMARY ***
+Total pot $1493.91 | Rake $1.25
+Seat 2: Luis Coppel (big blind) showed [Js Qs] and won $1493.91 with Flush [Qs Js Ts 9s 5s]
+Seat 3: lmpala_zOrg (small blind) did not showed and lost
+
+
+Hand #1915312695 - Holdem(No Limit) - $50/$100 - 2023/11/01 03:57:47 UTC
+7 Day No Rathole 50/100 NLH 9-max Seat #2 is the button
+Seat 2: Luis Coppel ($2238.83)
+Seat 3: lmpala_zOrg ($1194.92)
+Luis Coppel posts the small blind $50
+lmpala_zOrg posts the big blind $100
+*** HOLE CARDS *** 
+Luis Coppel calls $50
+lmpala_zOrg checks
+*** FLOP *** [5d Js Ks]
+Main pot $198.75 | Rake $1.25
+lmpala_zOrg checks
+Luis Coppel checks
+*** TURN *** [5d Js Ks] [8h]
+Main pot $198.75 | Rake $1.25
+lmpala_zOrg checks
+Luis Coppel checks
+*** RIVER *** [5d Js Ks 8h] [As]
+Main pot $198.75 | Rake $1.25
+lmpala_zOrg checks
+Luis Coppel bets $149.06
+lmpala_zOrg folds
+Uncalled bet ($149.06) returned to Luis Coppel
+Luis Coppel does not show
+*** SUMMARY ***
+Total pot $198.75 | Rake $1.25
+Seat 2: Luis Coppel (small blind) did not showed and won $198.75
+Seat 3: lmpala_zOrg (big blind) folded on the River
+
+
+Hand #1915313165 - Holdem(No Limit) - $50/$100 - 2023/11/01 03:58:04 UTC
+7 Day No Rathole 50/100 NLH 9-max Seat #3 is the button
+Seat 2: Luis Coppel ($2337.58)
+Seat 3: lmpala_zOrg ($1094.92)
+lmpala_zOrg posts the small blind $50
+Luis Coppel posts the big blind $100
+*** HOLE CARDS *** 
+lmpala_zOrg calls $50
+Luis Coppel raises $300 to $400
+lmpala_zOrg folds
+Uncalled bet ($300) returned to Luis Coppel
+Luis Coppel does not show
+*** SUMMARY ***
+Total pot $200
+Seat 2: Luis Coppel (big blind) did not showed and won $200
+Seat 3: lmpala_zOrg (small blind) folded on the Pre-Flop
+
+
+Hand #1915313297 - Holdem(No Limit) - $50/$100 - 2023/11/01 03:58:12 UTC
+7 Day No Rathole 50/100 NLH 9-max Seat #2 is the button
+Seat 2: Luis Coppel ($2437.58)
+Seat 3: lmpala_zOrg ($1000)
+Luis Coppel posts the small blind $50
+lmpala_zOrg posts the big blind $100
+*** HOLE CARDS *** 
+Luis Coppel folds
+*** SUMMARY ***
+Total pot $150
+Seat 2: Luis Coppel (small blind) folded on the Pre-Flop
+Seat 3: lmpala_zOrg (big blind) did not showed and won $150
+
+
+Hand #1915313365 - Holdem(No Limit) - $50/$100 - 2023/11/01 03:58:52 UTC
+7 Day No Rathole 50/100 NLH 9-max Seat #3 is the button
+Seat 2: Luis Coppel ($2387.58)
+Seat 3: lmpala_zOrg ($1050)
+lmpala_zOrg posts the small blind $50
+Luis Coppel posts the big blind $100
+*** HOLE CARDS *** 
+lmpala_zOrg calls $50
+Luis Coppel checks
+*** FLOP *** [8d Kh 2s]
+Main pot $198.75 | Rake $1.25
+Luis Coppel checks
+lmpala_zOrg checks
+*** TURN *** [8d Kh 2s] [Qc]
+Main pot $198.75 | Rake $1.25
+Luis Coppel checks
+lmpala_zOrg bets $100
+Luis Coppel calls $100
+*** RIVER *** [8d Kh 2s Qc] [3d]
+Main pot $398.75 | Rake $1.25
+Luis Coppel checks
+lmpala_zOrg bets $850 and is all-in
+Luis Coppel calls $850
+*** SHOW DOWN ***
+Main pot $398.75 | Rake $1.25
+lmpala_zOrg shows [8h 3h]
+Luis Coppel shows [4d Qd]
+lmpala_zOrg collected $2098.75 from main pot
+*** SUMMARY ***
+Total pot $2098.75 | Rake $1.25
+Seat 2: Luis Coppel (big blind) showed [4d Qd] and lost
+Seat 3: lmpala_zOrg (small blind) showed [8h 3h] and won $2098.75 with TwoPair [8h 8d 3h 3d Kh]
+
+
+Hand #1915313684 - Holdem(No Limit) - $50/$100 - 2023/11/01 03:59:07 UTC
+7 Day No Rathole 50/100 NLH 9-max Seat #2 is the button
+Seat 2: Luis Coppel ($1337.58)
+Seat 3: lmpala_zOrg ($2098.75)
+Luis Coppel posts the small blind $50
+lmpala_zOrg posts the big blind $100
+*** HOLE CARDS *** 
+Luis Coppel calls $50
+lmpala_zOrg raises $1998.75 to $2098.75 and is all-in
+Luis Coppel folds
+Uncalled bet ($1998.75) returned to lmpala_zOrg
+lmpala_zOrg does not show
+*** SUMMARY ***
+Total pot $200
+Seat 2: Luis Coppel (small blind) folded on the Pre-Flop
+Seat 3: lmpala_zOrg (big blind) did not showed and won $200
+
+
+Hand #1915313783 - Holdem(No Limit) - $50/$100 - 2023/11/01 03:59:30 UTC
+7 Day No Rathole 50/100 NLH 9-max Seat #3 is the button
+Seat 2: Luis Coppel ($1237.58)
+Seat 3: lmpala_zOrg ($2198.75)
+lmpala_zOrg posts the small blind $50
+Luis Coppel posts the big blind $100
+*** HOLE CARDS *** 
+lmpala_zOrg raises $2148.75 to $2198.75 and is all-in
+Luis Coppel folds
+Uncalled bet ($2098.75) returned to lmpala_zOrg
+lmpala_zOrg does not show
+*** SUMMARY ***
+Total pot $200
+Seat 2: Luis Coppel (big blind) folded on the Pre-Flop
+Seat 3: lmpala_zOrg (small blind) did not showed and won $200
+
+
+Hand #1915313957 - Holdem(No Limit) - $50/$100 - 2023/11/01 03:59:38 UTC
+7 Day No Rathole 50/100 NLH 9-max Seat #2 is the button
+Seat 2: Luis Coppel ($1137.58)
+Seat 3: lmpala_zOrg ($2298.75)
+Luis Coppel posts the small blind $50
+lmpala_zOrg posts the big blind $100
+*** HOLE CARDS *** 
+Luis Coppel folds
+*** SUMMARY ***
+Total pot $150
+Seat 2: Luis Coppel (small blind) folded on the Pre-Flop
+Seat 3: lmpala_zOrg (big blind) did not showed and won $150
+
+
+Hand #1915314007 - Holdem(No Limit) - $50/$100 - 2023/11/01 04:00:04 UTC
+7 Day No Rathole 50/100 NLH 9-max Seat #3 is the button
+Seat 2: Luis Coppel ($1087.58)
+Seat 3: lmpala_zOrg ($2348.75)
+lmpala_zOrg posts the small blind $50
+Luis Coppel posts the big blind $100
+*** HOLE CARDS *** 
+lmpala_zOrg calls $50
+Luis Coppel checks
+*** FLOP *** [8c 8s 4c]
+Main pot $198.75 | Rake $1.25
+Luis Coppel checks
+lmpala_zOrg bets $100
+Luis Coppel folds
+Uncalled bet ($100) returned to lmpala_zOrg
+lmpala_zOrg does not show
+*** SUMMARY ***
+Total pot $198.75 | Rake $1.25
+Seat 2: Luis Coppel (big blind) folded on the Flop
+Seat 3: lmpala_zOrg (small blind) did not showed and won $198.75
+
+
+Hand #1915314207 - Holdem(No Limit) - $50/$100 - 2023/11/01 04:00:19 UTC
+7 Day No Rathole 50/100 NLH 9-max Seat #2 is the button
+Seat 2: Luis Coppel ($1000)
+Seat 3: lmpala_zOrg ($2447.50)
+Luis Coppel posts the small blind $50
+lmpala_zOrg posts the big blind $100
+*** HOLE CARDS *** 
+Luis Coppel calls $50
+lmpala_zOrg raises $2347.50 to $2447.50 and is all-in
+Luis Coppel calls $900 and is all-in
+Uncalled bet ($1447.50) returned to lmpala_zOrg
+lmpala_zOrg does not show
+*** RUN IT TWICE ***
+*** FLOP 1 *** [4s 3d 7d]
+Main pot 1 $999.37 | Rake $0.63
+*** TURN 1 *** [4s 3d 7d] [8c]
+Main pot 1 $999.37 | Rake $0.63
+*** RIVER 1 *** [4s 3d 7d 8c] [Jh]
+Main pot 1 $999.37 | Rake $0.63
+*** SHOW DOWN 1 ***
+Main pot 1 $999.37 | Rake $0.63
+Luis Coppel shows [Ts Qd]
+lmpala_zOrg shows [5h 6c]
+lmpala_zOrg collected $999.38 from main pot 1
+*** FLOP 2 *** [3s 9s As]
+Main pot 2 $999.38 | Rake $0.62
+*** TURN 2 *** [3s 9s As] [Kh]
+Main pot 2 $999.38 | Rake $0.62
+*** RIVER 2 *** [3s 9s As Kh] [9c]
+Main pot 2 $999.38 | Rake $0.62
+*** SHOW DOWN 2 ***
+Main pot 2 $999.38 | Rake $0.62
+Luis Coppel shows [Ts Qd]
+Luis Coppel collected $999.37 from main pot 2
+*** SUMMARY ***
+Total pot $1998.75 | Rake $1.25
+Board 1 [4s 3d 7d 8c Jh]
+Seat 2: Luis Coppel (small blind) showed [Ts Qd] and lost
+Seat 3: lmpala_zOrg (big blind) showed [5h 6c] and won $999.38 with Straight [8c 7d 6c 5h 4s]
+Board 2 [3s 9s As Kh 9c]
+Seat 2: Luis Coppel (small blind) showed [Ts Qd] and won $0 with Straight [8c 7d 6c 5h 4s]
+Seat 3: lmpala_zOrg (big blind) showed [5h 6c] and lost
+
+
+Hand #1915314560 - Holdem(No Limit) - $50/$100 - 2023/11/01 04:00:47 UTC
+7 Day No Rathole 50/100 NLH 9-max Seat #3 is the button
+Seat 2: Luis Coppel ($1000)
+Seat 3: lmpala_zOrg ($2446.88)
+lmpala_zOrg posts the small blind $50
+Luis Coppel posts the big blind $100
+*** HOLE CARDS *** 
+lmpala_zOrg raises $2396.88 to $2446.88 and is all-in
+Luis Coppel calls $900 and is all-in
+Uncalled bet ($1446.88) returned to lmpala_zOrg
+lmpala_zOrg does not show
+*** RUN IT TWICE ***
+*** FLOP 1 *** [7d Kc Js]
+Main pot 1 $999.37 | Rake $0.63
+*** TURN 1 *** [7d Kc Js] [Qs]
+Main pot 1 $999.37 | Rake $0.63
+*** RIVER 1 *** [7d Kc Js Qs] [Jh]
+Main pot 1 $999.37 | Rake $0.63
+*** SHOW DOWN 1 ***
+Main pot 1 $999.37 | Rake $0.63
+Luis Coppel shows [7c Ks]
+lmpala_zOrg shows [9c As]
+Luis Coppel collected $999.38 from main pot 1
+*** FLOP 2 *** [2d 8d 8s]
+Main pot 2 $999.38 | Rake $0.62
+*** TURN 2 *** [2d 8d 8s] [6d]
+Main pot 2 $999.38 | Rake $0.62
+*** RIVER 2 *** [2d 8d 8s 6d] [Qd]
+Main pot 2 $999.38 | Rake $0.62
+*** SHOW DOWN 2 ***
+Main pot 2 $999.38 | Rake $0.62
+Luis Coppel shows [7c Ks]
+lmpala_zOrg collected $999.37 from main pot 2
+*** SUMMARY ***
+Total pot $1998.75 | Rake $1.25
+Board 1 [7d Kc Js Qs Jh]
+Seat 2: Luis Coppel (big blind) showed [7c Ks] and won $999.38 with TwoPair [Ks Kc Js Jh Qs]
+Seat 3: lmpala_zOrg (small blind) showed [9c As] and lost
+Board 2 [2d 8d 8s 6d Qd]
+Seat 2: Luis Coppel (big blind) showed [7c Ks] and lost
+Seat 3: lmpala_zOrg (small blind) showed [9c As] and won $0 with TwoPair [Ks Kc Js Jh Qs]
+
+
+Hand #1915314851 - Holdem(No Limit) - $50/$100 - 2023/11/01 04:01:16 UTC
+7 Day No Rathole 50/100 NLH 9-max Seat #2 is the button
+Seat 2: Luis Coppel ($1000)
+Seat 3: lmpala_zOrg ($2446.25)
+Luis Coppel posts the small blind $50
+lmpala_zOrg posts the big blind $100
+*** HOLE CARDS *** 
+Luis Coppel raises $950 to $1000 and is all-in
+lmpala_zOrg folds
+Uncalled bet ($900) returned to Luis Coppel
+Luis Coppel does not show
+*** SUMMARY ***
+Total pot $200
+Seat 2: Luis Coppel (small blind) did not showed and won $200
+Seat 3: lmpala_zOrg (big blind) folded on the Pre-Flop
+
+
+Hand #1915315033 - Holdem(No Limit) - $50/$100 - 2023/11/01 04:01:39 UTC
+7 Day No Rathole 50/100 NLH 9-max Seat #3 is the button
+Seat 2: Luis Coppel ($1100)
+Seat 3: lmpala_zOrg ($2346.25)
+lmpala_zOrg posts the small blind $50
+Luis Coppel posts the big blind $100
+*** HOLE CARDS *** 
+lmpala_zOrg calls $50
+Luis Coppel checks
+*** FLOP *** [6h Kd 2h]
+Main pot $198.75 | Rake $1.25
+Luis Coppel checks
+lmpala_zOrg bets $100
+Luis Coppel folds
+Uncalled bet ($100) returned to lmpala_zOrg
+lmpala_zOrg does not show
+*** SUMMARY ***
+Total pot $198.75 | Rake $1.25
+Seat 2: Luis Coppel (big blind) folded on the Flop
+Seat 3: lmpala_zOrg (small blind) did not showed and won $198.75
+
+
+Hand #1915315317 - Holdem(No Limit) - $50/$100 - 2023/11/01 04:01:54 UTC
+7 Day No Rathole 50/100 NLH 9-max Seat #2 is the button
+Seat 2: Luis Coppel ($1000)
+Seat 3: lmpala_zOrg ($2445)
+Luis Coppel posts the small blind $50
+lmpala_zOrg posts the big blind $100
+*** HOLE CARDS *** 
+Luis Coppel calls $50
+lmpala_zOrg raises $2345 to $2445 and is all-in
+Luis Coppel folds
+Uncalled bet ($2345) returned to lmpala_zOrg
+lmpala_zOrg does not show
+*** SUMMARY ***
+Total pot $200
+Seat 2: Luis Coppel (small blind) folded on the Pre-Flop
+Seat 3: lmpala_zOrg (big blind) did not showed and won $200
+
+
+Hand #1915315495 - Holdem(No Limit) - $50/$100 - 2023/11/01 04:02:15 UTC
+7 Day No Rathole 50/100 NLH 9-max Seat #3 is the button
+Seat 2: Luis Coppel ($1000)
+Seat 3: lmpala_zOrg ($2545)
+lmpala_zOrg posts the small blind $50
+Luis Coppel posts the big blind $100
+*** HOLE CARDS *** 
+lmpala_zOrg calls $50
+Luis Coppel checks
+*** FLOP *** [4d 3h Tc]
+Main pot $198.75 | Rake $1.25
+Luis Coppel checks
+lmpala_zOrg bets $100
+Luis Coppel folds
+Uncalled bet ($100) returned to lmpala_zOrg
+lmpala_zOrg does not show
+*** SUMMARY ***
+Total pot $198.75 | Rake $1.25
+Seat 2: Luis Coppel (big blind) folded on the Flop
+Seat 3: lmpala_zOrg (small blind) did not showed and won $198.75
+
+
+Hand #1915315781 - Holdem(No Limit) - $50/$100 - 2023/11/01 04:02:25 UTC
+7 Day No Rathole 50/100 NLH 9-max Seat #2 is the button
+Seat 2: Luis Coppel ($1000)
+Seat 3: lmpala_zOrg ($2643.75)
+Luis Coppel posts the small blind $50
+lmpala_zOrg posts the big blind $100
+*** HOLE CARDS *** 
+Luis Coppel raises $950 to $1000 and is all-in
+lmpala_zOrg folds
+Uncalled bet ($900) returned to Luis Coppel
+Luis Coppel does not show
+*** SUMMARY ***
+Total pot $200
+Seat 2: Luis Coppel (small blind) did not showed and won $200
+Seat 3: lmpala_zOrg (big blind) folded on the Pre-Flop
+
+
+Hand #1915315919 - Holdem(No Limit) - $50/$100 - 2023/11/01 04:02:41 UTC
+7 Day No Rathole 50/100 NLH 9-max Seat #3 is the button
+Seat 2: Luis Coppel ($1100)
+Seat 3: lmpala_zOrg ($2543.75)
+lmpala_zOrg posts the small blind $50
+Luis Coppel posts the big blind $100
+*** HOLE CARDS *** 
+lmpala_zOrg calls $50
+Luis Coppel raises $150 to $250
+lmpala_zOrg folds
+Uncalled bet ($150) returned to Luis Coppel
+Luis Coppel does not show
+*** SUMMARY ***
+Total pot $200
+Seat 2: Luis Coppel (big blind) did not showed and won $200
+Seat 3: lmpala_zOrg (small blind) folded on the Pre-Flop
+
+
+Hand #1915316107 - Holdem(No Limit) - $50/$100 - 2023/11/01 04:03:03 UTC
+7 Day No Rathole 50/100 NLH 9-max Seat #2 is the button
+Seat 2: Luis Coppel ($1200)
+Seat 3: lmpala_zOrg ($2443.75)
+Luis Coppel posts the small blind $50
+lmpala_zOrg posts the big blind $100
+*** HOLE CARDS *** 
+Luis Coppel calls $50
+lmpala_zOrg raises $200 to $300
+Luis Coppel folds
+Uncalled bet ($200) returned to lmpala_zOrg
+lmpala_zOrg does not show
+*** SUMMARY ***
+Total pot $200
+Seat 2: Luis Coppel (small blind) folded on the Pre-Flop
+Seat 3: lmpala_zOrg (big blind) did not showed and won $200
+
+
+Hand #1915316437 - Holdem(No Limit) - $50/$100 - 2023/11/01 04:03:14 UTC
+7 Day No Rathole 50/100 NLH 9-max Seat #3 is the button
+Seat 2: Luis Coppel ($1100)
+Seat 3: lmpala_zOrg ($2543.75)
+lmpala_zOrg posts the small blind $50
+Luis Coppel posts the big blind $100
+*** HOLE CARDS *** 
+lmpala_zOrg raises $2493.75 to $2543.75 and is all-in
+Luis Coppel folds
+Uncalled bet ($2443.75) returned to lmpala_zOrg
+lmpala_zOrg does not show
+*** SUMMARY ***
+Total pot $200
+Seat 2: Luis Coppel (big blind) folded on the Pre-Flop
+Seat 3: lmpala_zOrg (small blind) did not showed and won $200
+
+
+Hand #1915316574 - Holdem(No Limit) - $50/$100 - 2023/11/01 04:04:12 UTC
+7 Day No Rathole 50/100 NLH 9-max Seat #2 is the button
+Seat 2: Luis Coppel ($1000)
+Seat 3: lmpala_zOrg ($2643.75)
+Luis Coppel posts the small blind $50
+lmpala_zOrg posts the big blind $100
+*** HOLE CARDS *** 
+Luis Coppel calls $50
+lmpala_zOrg checks
+*** FLOP *** [4s As 3d]
+Main pot $198.75 | Rake $1.25
+lmpala_zOrg checks
+Luis Coppel checks
+*** TURN *** [4s As 3d] [Jd]
+Main pot $198.75 | Rake $1.25
+lmpala_zOrg checks
+Luis Coppel checks
+*** RIVER *** [4s As 3d Jd] [2s]
+Main pot $198.75 | Rake $1.25
+lmpala_zOrg checks
+Luis Coppel bets $149.06
+lmpala_zOrg calls $149.06
+*** SHOW DOWN ***
+Main pot $198.75 | Rake $1.25
+Luis Coppel shows [5s 3h]
+Luis Coppel collected $496.87 from main pot
+*** SUMMARY ***
+Total pot $496.87 | Rake $1.25
+Seat 2: Luis Coppel (small blind) showed [5s 3h] and won $496.87 with Straight [5s 4s 3h 2s As]
+Seat 3: lmpala_zOrg (big blind) did not showed and lost
+
+
+Hand #1915317366 - Holdem(No Limit) - $50/$100 - 2023/11/01 04:04:34 UTC
+7 Day No Rathole 50/100 NLH 9-max Seat #3 is the button
+Seat 2: Luis Coppel ($1247.81)
+Seat 3: lmpala_zOrg ($2394.69)
+Seat 4: 2highhh2play ($10000)
+lmpala_zOrg posts the small blind $50
+Luis Coppel posts the big blind $100
+*** HOLE CARDS *** 
+lmpala_zOrg calls $50
+Luis Coppel checks
+*** FLOP *** [7h Qd Kd]
+Main pot $198.75 | Rake $1.25
+Luis Coppel checks
+lmpala_zOrg bets $100
+Luis Coppel folds
+Uncalled bet ($100) returned to lmpala_zOrg
+lmpala_zOrg does not show
+*** SUMMARY ***
+Total pot $198.75 | Rake $1.25
+Seat 2: Luis Coppel (big blind) folded on the Flop
+Seat 3: lmpala_zOrg (small blind) did not showed and won $198.75
+
+
+Hand #1915317649 - Holdem(No Limit) - $50/$100 - 2023/11/01 04:05:35 UTC
+7 Day No Rathole 50/100 NLH 9-max Seat #2 is the button
+Seat 2: Luis Coppel ($1147.81)
+Seat 3: lmpala_zOrg ($2493.44)
+Seat 4: 2highhh2play ($10000)
+Luis Coppel posts the small blind $50
+lmpala_zOrg posts the big blind $100
+*** HOLE CARDS *** 
+Luis Coppel calls $50
+lmpala_zOrg checks
+*** FLOP *** [2c 6s 3s]
+Main pot $198.75 | Rake $1.25
+lmpala_zOrg checks
+Luis Coppel checks
+*** TURN *** [2c 6s 3s] [Js]
+Main pot $198.75 | Rake $1.25
+lmpala_zOrg bets $149.06
+Luis Coppel calls $149.06
+*** RIVER *** [2c 6s 3s Js] [7c]
+Main pot $496.87 | Rake $1.25
+lmpala_zOrg bets $422.65
+Luis Coppel folds
+Uncalled bet ($422.65) returned to lmpala_zOrg
+lmpala_zOrg does not show
+*** SUMMARY ***
+Total pot $496.87 | Rake $1.25
+Seat 2: Luis Coppel (small blind) folded on the River
+Seat 3: lmpala_zOrg (big blind) did not showed and won $496.87
+
+
+Hand #1915318470 - Holdem(No Limit) - $50/$100 - 2023/11/01 04:05:54 UTC
+7 Day No Rathole 50/100 NLH 9-max Seat #2 is the button
+Seat 2: Luis Coppel ($10000)
+Seat 3: lmpala_zOrg ($2741.25)
+Seat 4: 2highhh2play ($1000)
+lmpala_zOrg posts the small blind $50
+2highhh2play posts the big blind $100
+*** HOLE CARDS *** 
+Luis Coppel folds
+lmpala_zOrg raises $2691.25 to $2741.25 and is all-in
+2highhh2play folds
+Uncalled bet ($2641.25) returned to lmpala_zOrg
+lmpala_zOrg does not show
+*** SUMMARY ***
+Total pot $200
+Seat 2: Luis Coppel (button) folded on the Pre-Flop and did not bet
+Seat 3: lmpala_zOrg (small blind) did not showed and won $200
+Seat 4: 2highhh2play (big blind) folded on the Pre-Flop
+
+
+Hand #1915318717 - Holdem(No Limit) - $50/$100 - 2023/11/01 04:06:10 UTC
+7 Day No Rathole 50/100 NLH 9-max Seat #3 is the button
+Seat 2: Luis Coppel ($1000)
+Seat 3: lmpala_zOrg ($10000)
+Seat 4: 2highhh2play ($1000)
+2highhh2play posts the small blind $50
+Luis Coppel posts the big blind $100
+*** HOLE CARDS *** 
+lmpala_zOrg folds
+2highhh2play raises $950 to $1000 and is all-in
+Luis Coppel folds
+Uncalled bet ($900) returned to 2highhh2play
+2highhh2play does not show
+*** SUMMARY ***
+Total pot $200
+Seat 2: Luis Coppel (big blind) folded on the Pre-Flop
+Seat 3: lmpala_zOrg (button) folded on the Pre-Flop and did not bet
+Seat 4: 2highhh2play (small blind) did not showed and won $200
+
+
+Hand #1915318935 - Holdem(No Limit) - $50/$100 - 2023/11/01 04:06:24 UTC
+7 Day No Rathole 50/100 NLH 9-max Seat #4 is the button
+Seat 2: Luis Coppel ($1000)
+Seat 3: lmpala_zOrg ($2841.25)
+Seat 4: 2highhh2play ($10000)
+Luis Coppel posts the small blind $50
+lmpala_zOrg posts the big blind $100
+*** HOLE CARDS *** 
+2highhh2play folds
+Luis Coppel folds
+*** SUMMARY ***
+Total pot $150
+Seat 2: Luis Coppel (small blind) folded on the Pre-Flop
+Seat 3: lmpala_zOrg (big blind) did not showed and won $150
+Seat 4: 2highhh2play (button) folded on the Pre-Flop and did not bet
+
+
+Hand #1915319088 - Holdem(No Limit) - $50/$100 - 2023/11/01 04:07:00 UTC
+7 Day No Rathole 50/100 NLH 9-max Seat #3 is the button
+Seat 2: Luis Coppel ($1000)
+Seat 3: lmpala_zOrg ($2891.25)
+lmpala_zOrg posts the small blind $50
+Luis Coppel posts the big blind $100
+*** HOLE CARDS *** 
+lmpala_zOrg calls $50
+Luis Coppel checks
+*** FLOP *** [7d 4c Jh]
+Main pot $198.75 | Rake $1.25
+Luis Coppel checks
+lmpala_zOrg checks
+*** TURN *** [7d 4c Jh] [4d]
+Main pot $198.75 | Rake $1.25
+Luis Coppel checks
+lmpala_zOrg checks
+*** RIVER *** [7d 4c Jh 4d] [Kh]
+Main pot $198.75 | Rake $1.25
+Luis Coppel checks
+lmpala_zOrg checks
+*** SHOW DOWN ***
+Main pot $198.75 | Rake $1.25
+Luis Coppel shows [Js Td]
+Luis Coppel collected $198.75 from main pot
+*** SUMMARY ***
+Total pot $198.75 | Rake $1.25
+Seat 2: Luis Coppel (big blind) showed [Js Td] and won $198.75 with TwoPair [Js Jh 4d 4c Kh]
+Seat 3: lmpala_zOrg (small blind) did not showed and lost
+
+
+Hand #1915319600 - Holdem(No Limit) - $50/$100 - 2023/11/01 04:07:13 UTC
+7 Day No Rathole 50/100 NLH 9-max Seat #2 is the button
+Seat 2: Luis Coppel ($1098.75)
+Seat 3: lmpala_zOrg ($2791.25)
+Luis Coppel posts the small blind $50
+lmpala_zOrg posts the big blind $100
+*** HOLE CARDS *** 
+Luis Coppel calls $50
+lmpala_zOrg raises $2691.25 to $2791.25 and is all-in
+Luis Coppel calls $998.75 and is all-in
+Uncalled bet ($1692.50) returned to lmpala_zOrg
+lmpala_zOrg does not show
+*** FLOP *** [Kd Jh Qc]
+Main pot $2196.25 | Rake $1.25
+*** TURN *** [Kd Jh Qc] [2d]
+Main pot $2196.25 | Rake $1.25
+*** RIVER *** [Kd Jh Qc 2d] [Ah]
+Main pot $2196.25 | Rake $1.25
+*** SHOW DOWN ***
+Main pot $2196.25 | Rake $1.25
+Luis Coppel shows [Js As]
+lmpala_zOrg shows [3s 3c]
+Luis Coppel collected $2196.25 from main pot
+*** SUMMARY ***
+Total pot $2196.25 | Rake $1.25
+Seat 2: Luis Coppel (small blind) showed [Js As] and won $2196.25 with TwoPair [As Ah Js Jh Kd]
+Seat 3: lmpala_zOrg (big blind) showed [3s 3c] and lost
+
+
+Hand #1915319873 - Holdem(No Limit) - $50/$100 - 2023/11/01 04:07:58 UTC
+7 Day No Rathole 50/100 NLH 9-max Seat #3 is the button
+Seat 2: Luis Coppel ($2196.25)
+Seat 3: lmpala_zOrg ($1692.50)
+lmpala_zOrg posts the small blind $50
+Luis Coppel posts the big blind $100
+*** HOLE CARDS *** 
+lmpala_zOrg calls $50
+Luis Coppel checks
+*** FLOP *** [9h Ac 2s]
+Main pot $198.75 | Rake $1.25
+Luis Coppel checks
+lmpala_zOrg bets $100
+Luis Coppel folds
+Uncalled bet ($100) returned to lmpala_zOrg
+lmpala_zOrg does not show
+*** SUMMARY ***
+Total pot $198.75 | Rake $1.25
+Seat 2: Luis Coppel (big blind) folded on the Flop
+Seat 3: lmpala_zOrg (small blind) did not showed and won $198.75
+
+
+Hand #1915320319 - Holdem(No Limit) - $50/$100 - 2023/11/01 04:08:18 UTC
+7 Day No Rathole 50/100 NLH 9-max Seat #2 is the button
+Seat 2: Luis Coppel ($2096.25)
+Seat 3: lmpala_zOrg ($1791.25)
+Luis Coppel posts the small blind $50
+lmpala_zOrg posts the big blind $100
+*** HOLE CARDS *** 
+Luis Coppel calls $50
+lmpala_zOrg raises $1691.25 to $1791.25 and is all-in
+Luis Coppel folds
+Uncalled bet ($1691.25) returned to lmpala_zOrg
+lmpala_zOrg does not show
+*** SUMMARY ***
+Total pot $200
+Seat 2: Luis Coppel (small blind) folded on the Pre-Flop
+Seat 3: lmpala_zOrg (big blind) did not showed and won $200
+
+
+Hand #1915320578 - Holdem(No Limit) - $50/$100 - 2023/11/01 04:08:58 UTC
+7 Day No Rathole 50/100 NLH 9-max Seat #3 is the button
+Seat 2: Luis Coppel ($1996.25)
+Seat 3: lmpala_zOrg ($1891.25)
+lmpala_zOrg posts the small blind $50
+Luis Coppel posts the big blind $100
+*** HOLE CARDS *** 
+lmpala_zOrg calls $50
+Luis Coppel checks
+*** FLOP *** [5s 4s 5h]
+Main pot $198.75 | Rake $1.25
+Luis Coppel checks
+lmpala_zOrg bets $100
+Luis Coppel calls $100
+*** TURN *** [5s 4s 5h] [Kh]
+Main pot $398.75 | Rake $1.25
+Luis Coppel checks
+lmpala_zOrg checks
+*** RIVER *** [5s 4s 5h Kh] [Qc]
+Main pot $398.75 | Rake $1.25
+Luis Coppel checks
+lmpala_zOrg checks
+*** SHOW DOWN ***
+Main pot $398.75 | Rake $1.25
+lmpala_zOrg shows [As 6d]
+lmpala_zOrg collected $398.75 from main pot
+*** SUMMARY ***
+Total pot $398.75 | Rake $1.25
+Seat 2: Luis Coppel (big blind) did not showed and lost
+Seat 3: lmpala_zOrg (small blind) showed [As 6d] and won $398.75 with OnePair [5s 5h As Kh Qc]
+
+
+Hand #1915321127 - Holdem(No Limit) - $50/$100 - 2023/11/01 04:09:56 UTC
+7 Day No Rathole 50/100 NLH 9-max Seat #2 is the button
+Seat 2: Luis Coppel ($1796.25)
+Seat 3: lmpala_zOrg ($2090)
+Luis Coppel posts the small blind $50
+lmpala_zOrg posts the big blind $100
+*** HOLE CARDS *** 
+Luis Coppel calls $50
+lmpala_zOrg checks
+*** FLOP *** [2c 9h Ad]
+Main pot $198.75 | Rake $1.25
+lmpala_zOrg checks
+Luis Coppel bets $100
+lmpala_zOrg calls $100
+*** TURN *** [2c 9h Ad] [4s]
+Main pot $398.75 | Rake $1.25
+lmpala_zOrg checks
+Luis Coppel checks
+*** RIVER *** [2c 9h Ad 4s] [Jh]
+Main pot $398.75 | Rake $1.25
+lmpala_zOrg bets $250
+Luis Coppel calls $250
+*** SHOW DOWN ***
+Main pot $398.75 | Rake $1.25
+lmpala_zOrg shows [9s Jd]
+lmpala_zOrg collected $898.75 from main pot
+*** SUMMARY ***
+Total pot $898.75 | Rake $1.25
+Seat 2: Luis Coppel (small blind) did not showed and lost
+Seat 3: lmpala_zOrg (big blind) showed [9s Jd] and won $898.75 with TwoPair [Jh Jd 9s 9h Ad]
+
+
+Hand #1915321904 - Holdem(No Limit) - $50/$100 - 2023/11/01 04:10:11 UTC
+7 Day No Rathole 50/100 NLH 9-max Seat #3 is the button
+Seat 2: Luis Coppel ($1346.25)
+Seat 3: lmpala_zOrg ($2538.75)
+lmpala_zOrg posts the small blind $50
+Luis Coppel posts the big blind $100
+*** HOLE CARDS *** 
+lmpala_zOrg calls $50
+Luis Coppel raises $1246.25 to $1346.25 and is all-in
+lmpala_zOrg folds
+Uncalled bet ($1246.25) returned to Luis Coppel
+Luis Coppel does not show
+*** SUMMARY ***
+Total pot $200
+Seat 2: Luis Coppel (big blind) did not showed and won $200
+Seat 3: lmpala_zOrg (small blind) folded on the Pre-Flop
+
+
+Hand #1915322090 - Holdem(No Limit) - $50/$100 - 2023/11/01 04:10:48 UTC
+7 Day No Rathole 50/100 NLH 9-max Seat #2 is the button
+Seat 2: Luis Coppel ($1446.25)
+Seat 3: lmpala_zOrg ($2438.75)
+Luis Coppel posts the small blind $50
+lmpala_zOrg posts the big blind $100
+*** HOLE CARDS *** 
+Luis Coppel raises $150 to $200
+lmpala_zOrg calls $100
+*** FLOP *** [7d Td Qh]
+Main pot $398.75 | Rake $1.25
+lmpala_zOrg checks
+Luis Coppel checks
+*** TURN *** [7d Td Qh] [Js]
+Main pot $398.75 | Rake $1.25
+lmpala_zOrg bets $200
+Luis Coppel calls $200
+*** RIVER *** [7d Td Qh Js] [Ah]
+Main pot $798.75 | Rake $1.25
+lmpala_zOrg checks
+Luis Coppel checks
+*** SHOW DOWN ***
+Main pot $798.75 | Rake $1.25
+Luis Coppel shows [6h Qs]
+Luis Coppel collected $798.75 from main pot
+*** SUMMARY ***
+Total pot $798.75 | Rake $1.25
+Seat 2: Luis Coppel (small blind) showed [6h Qs] and won $798.75 with OnePair [Qs Qh Ah Js Td]
+Seat 3: lmpala_zOrg (big blind) did not showed and lost
+
+
+Hand #1915322617 - Holdem(No Limit) - $50/$100 - 2023/11/01 04:11:04 UTC
+7 Day No Rathole 50/100 NLH 9-max Seat #3 is the button
+Seat 2: Luis Coppel ($1845)
+Seat 3: lmpala_zOrg ($2038.75)
+lmpala_zOrg posts the small blind $50
+Luis Coppel posts the big blind $100
+*** HOLE CARDS *** 
+lmpala_zOrg calls $50
+Luis Coppel raises $1745 to $1845 and is all-in
+lmpala_zOrg folds
+Uncalled bet ($1745) returned to Luis Coppel
+Luis Coppel does not show
+*** SUMMARY ***
+Total pot $200
+Seat 2: Luis Coppel (big blind) did not showed and won $200
+Seat 3: lmpala_zOrg (small blind) folded on the Pre-Flop
+
+
+Hand #1915322806 - Holdem(No Limit) - $50/$100 - 2023/11/01 04:11:22 UTC
+7 Day No Rathole 50/100 NLH 9-max Seat #2 is the button
+Seat 2: Luis Coppel ($1945)
+Seat 3: lmpala_zOrg ($1938.75)
+Luis Coppel posts the small blind $50
+lmpala_zOrg posts the big blind $100
+*** HOLE CARDS *** 
+Luis Coppel calls $50
+lmpala_zOrg raises $250 to $350
+Luis Coppel raises $1845 to $1945 and is all-in
+lmpala_zOrg calls $1588.75 and is all-in
+Uncalled bet ($6.25) returned to Luis Coppel
+Luis Coppel does not show
+*** RUN IT TWICE ***
+*** FLOP 1 *** [9s 6h Th]
+Main pot 1 $1938.12 | Rake $0.63
+*** TURN 1 *** [9s 6h Th] [4s]
+Main pot 1 $1938.12 | Rake $0.63
+*** RIVER 1 *** [9s 6h Th 4s] [8s]
+Main pot 1 $1938.12 | Rake $0.63
+*** SHOW DOWN 1 ***
+Main pot 1 $1938.12 | Rake $0.63
+Luis Coppel shows [5c 5s]
+lmpala_zOrg shows [Ks Ts]
+lmpala_zOrg collected $1938.13 from main pot 1
+*** FLOP 2 *** [Js 3c 7h]
+Main pot 2 $1938.13 | Rake $0.62
+*** TURN 2 *** [Js 3c 7h] [2h]
+Main pot 2 $1938.13 | Rake $0.62
+*** RIVER 2 *** [Js 3c 7h 2h] [8c]
+Main pot 2 $1938.13 | Rake $0.62
+*** SHOW DOWN 2 ***
+Main pot 2 $1938.13 | Rake $0.62
+Luis Coppel shows [5c 5s]
+Luis Coppel collected $1938.12 from main pot 2
+*** SUMMARY ***
+Total pot $3876.25 | Rake $1.25
+Board 1 [9s 6h Th 4s 8s]
+Seat 2: Luis Coppel (small blind) showed [5c 5s] and lost
+Seat 3: lmpala_zOrg (big blind) showed [Ks Ts] and won $1938.13 with Flush [Ks Ts 9s 8s 4s]
+Board 2 [Js 3c 7h 2h 8c]
+Seat 2: Luis Coppel (small blind) showed [5c 5s] and won $0 with Flush [Ks Ts 9s 8s 4s]
+Seat 3: lmpala_zOrg (big blind) showed [Ks Ts] and lost
+
+
+Hand #1915323243 - Holdem(No Limit) - $50/$100 - 2023/11/01 04:11:49 UTC
+7 Day No Rathole 50/100 NLH 9-max Seat #3 is the button
+Seat 2: Luis Coppel ($1944.37)
+Seat 3: lmpala_zOrg ($1938.13)
+lmpala_zOrg posts the small blind $50
+Luis Coppel posts the big blind $100
+*** HOLE CARDS *** 
+lmpala_zOrg folds
+*** SUMMARY ***
+Total pot $150
+Seat 2: Luis Coppel (big blind) did not showed and won $150
+Seat 3: lmpala_zOrg (small blind) folded on the Pre-Flop
+
+
+Hand #1915323410 - Holdem(No Limit) - $50/$100 - 2023/11/01 04:12:03 UTC
+7 Day No Rathole 50/100 NLH 9-max Seat #2 is the button
+Seat 2: Luis Coppel ($1994.37)
+Seat 3: lmpala_zOrg ($1888.13)
+Luis Coppel posts the small blind $50
+lmpala_zOrg posts the big blind $100
+*** HOLE CARDS *** 
+Luis Coppel calls $50
+lmpala_zOrg raises $1788.13 to $1888.13 and is all-in
+Luis Coppel folds
+Uncalled bet ($1788.13) returned to lmpala_zOrg
+lmpala_zOrg does not show
+*** SUMMARY ***
+Total pot $200
+Seat 2: Luis Coppel (small blind) folded on the Pre-Flop
+Seat 3: lmpala_zOrg (big blind) did not showed and won $200
+
+
+Hand #1915323595 - Holdem(No Limit) - $50/$100 - 2023/11/01 04:13:02 UTC
+7 Day No Rathole 50/100 NLH 9-max Seat #3 is the button
+Seat 2: Luis Coppel ($1894.37)
+Seat 3: lmpala_zOrg ($1988.13)
+lmpala_zOrg posts the small blind $50
+Luis Coppel posts the big blind $100
+*** HOLE CARDS *** 
+lmpala_zOrg calls $50
+Luis Coppel checks
+*** FLOP *** [5c 4h Qd]
+Main pot $198.75 | Rake $1.25
+Luis Coppel checks
+lmpala_zOrg checks
+*** TURN *** [5c 4h Qd] [2d]
+Main pot $198.75 | Rake $1.25
+Luis Coppel checks
+lmpala_zOrg bets $149.06
+Luis Coppel calls $149.06
+*** RIVER *** [5c 4h Qd 2d] [7s]
+Main pot $496.87 | Rake $1.25
+Luis Coppel checks
+lmpala_zOrg bets $372.65
+Luis Coppel folds
+Uncalled bet ($372.65) returned to lmpala_zOrg
+lmpala_zOrg does not show
+*** SUMMARY ***
+Total pot $496.87 | Rake $1.25
+Seat 2: Luis Coppel (big blind) folded on the River
+Seat 3: lmpala_zOrg (small blind) did not showed and won $496.87
+
+
+Hand #1915324405 - Holdem(No Limit) - $50/$100 - 2023/11/01 04:13:59 UTC
+7 Day No Rathole 50/100 NLH 9-max Seat #2 is the button
+Seat 2: Luis Coppel ($1645.31)
+Seat 3: lmpala_zOrg ($2235.94)
+Luis Coppel posts the small blind $50
+lmpala_zOrg posts the big blind $100
+*** HOLE CARDS *** 
+Luis Coppel calls $50
+lmpala_zOrg checks
+*** FLOP *** [Th 8c Qs]
+Main pot $198.75 | Rake $1.25
+lmpala_zOrg checks
+Luis Coppel bets $100
+lmpala_zOrg calls $100
+*** TURN *** [Th 8c Qs] [3s]
+Main pot $398.75 | Rake $1.25
+lmpala_zOrg checks
+Luis Coppel bets $398.75
+lmpala_zOrg calls $398.75
+*** RIVER *** [Th 8c Qs 3s] [3c]
+Main pot $1196.25 | Rake $1.25
+lmpala_zOrg checks
+Luis Coppel checks
+*** SHOW DOWN ***
+Main pot $1196.25 | Rake $1.25
+lmpala_zOrg shows [Td Jh]
+lmpala_zOrg collected $1196.25 from main pot
+*** SUMMARY ***
+Total pot $1196.25 | Rake $1.25
+Seat 2: Luis Coppel (small blind) did not showed and lost
+Seat 3: lmpala_zOrg (big blind) showed [Td Jh] and won $1196.25 with TwoPair [Th Td 3s 3c Qs]
+
+
+Hand #1915325170 - Holdem(No Limit) - $50/$100 - 2023/11/01 04:14:13 UTC
+7 Day No Rathole 50/100 NLH 9-max Seat #3 is the button
+Seat 2: Luis Coppel ($1046.56)
+Seat 3: lmpala_zOrg ($2833.44)
+lmpala_zOrg posts the small blind $50
+Luis Coppel posts the big blind $100
+*** HOLE CARDS *** 
+lmpala_zOrg calls $50
+Luis Coppel raises $946.56 to $1046.56 and is all-in
+lmpala_zOrg calls $946.56
+*** FLOP *** [9c 7d 9d]
+Main pot $2091.87 | Rake $1.25
+*** TURN *** [9c 7d 9d] [Qc]
+Main pot $2091.87 | Rake $1.25
+*** RIVER *** [9c 7d 9d Qc] [Ks]
+Main pot $2091.87 | Rake $1.25
+*** SHOW DOWN ***
+Main pot $2091.87 | Rake $1.25
+Luis Coppel shows [Kh 6s]
+lmpala_zOrg shows [Qh Jh]
+Luis Coppel collected $2091.87 from main pot
+*** SUMMARY ***
+Total pot $2091.87 | Rake $1.25
+Seat 2: Luis Coppel (big blind) showed [Kh 6s] and won $2091.87 with TwoPair [Ks Kh 9d 9c Qc]
+Seat 3: lmpala_zOrg (small blind) showed [Qh Jh] and lost
+
+
+Hand #1915325462 - Holdem(No Limit) - $50/$100 - 2023/11/01 04:15:41 UTC
+7 Day No Rathole 50/100 NLH 9-max Seat #2 is the button
+Seat 2: Luis Coppel ($2091.87)
+Seat 3: lmpala_zOrg ($1786.88)
+Luis Coppel posts the small blind $50
+lmpala_zOrg posts the big blind $100
+*** HOLE CARDS *** 
+Luis Coppel calls $50
+lmpala_zOrg raises $200 to $300
+Luis Coppel calls $200
+*** FLOP *** [Js 3s Jc]
+Main pot $598.75 | Rake $1.25
+lmpala_zOrg checks
+Luis Coppel checks
+*** TURN *** [Js 3s Jc] [2s]
+Main pot $598.75 | Rake $1.25
+lmpala_zOrg checks
+Luis Coppel bets $197.58
+lmpala_zOrg calls $197.58
+*** RIVER *** [Js 3s Jc 2s] [4d]
+Main pot $993.91 | Rake $1.25
+lmpala_zOrg checks
+Luis Coppel bets $1594.29 and is all-in
+lmpala_zOrg folds
+Uncalled bet ($1594.29) returned to Luis Coppel
+Luis Coppel does not show
+*** SUMMARY ***
+Total pot $993.91 | Rake $1.25
+Seat 2: Luis Coppel (small blind) did not showed and won $993.91
+Seat 3: lmpala_zOrg (big blind) folded on the River
+
+
+Hand #1915326539 - Holdem(No Limit) - $50/$100 - 2023/11/01 04:16:19 UTC
+7 Day No Rathole 50/100 NLH 9-max Seat #3 is the button
+Seat 2: Luis Coppel ($2588.20)
+Seat 3: lmpala_zOrg ($1289.30)
+lmpala_zOrg posts the small blind $50
+Luis Coppel posts the big blind $100
+*** HOLE CARDS *** 
+lmpala_zOrg calls $50
+Luis Coppel checks
+*** FLOP *** [4c 2h 2d]
+Main pot $198.75 | Rake $1.25
+Luis Coppel checks
+lmpala_zOrg checks
+*** TURN *** [4c 2h 2d] [Jc]
+Main pot $198.75 | Rake $1.25
+Luis Coppel checks
+lmpala_zOrg checks
+*** RIVER *** [4c 2h 2d Jc] [Kd]
+Main pot $198.75 | Rake $1.25
+Luis Coppel checks
+lmpala_zOrg bets $149.06
+Luis Coppel calls $149.06
+*** SHOW DOWN ***
+Main pot $198.75 | Rake $1.25
+lmpala_zOrg shows [Kh 6h]
+lmpala_zOrg collected $496.87 from main pot
+*** SUMMARY ***
+Total pot $496.87 | Rake $1.25
+Seat 2: Luis Coppel (big blind) did not showed and lost
+Seat 3: lmpala_zOrg (small blind) showed [Kh 6h] and won $496.87 with TwoPair [Kh Kd 2h 2d Jc]
+
+
+Hand #1915327093 - Holdem(No Limit) - $50/$100 - 2023/11/01 04:16:55 UTC
+7 Day No Rathole 50/100 NLH 9-max Seat #2 is the button
+Seat 2: Luis Coppel ($2339.14)
+Seat 3: lmpala_zOrg ($1537.11)
+Luis Coppel posts the small blind $50
+lmpala_zOrg posts the big blind $100
+*** HOLE CARDS *** 
+Luis Coppel calls $50
+lmpala_zOrg checks
+*** FLOP *** [Qs 2h 9s]
+Main pot $198.75 | Rake $1.25
+lmpala_zOrg checks
+Luis Coppel checks
+*** TURN *** [Qs 2h 9s] [Kh]
+Main pot $198.75 | Rake $1.25
+lmpala_zOrg checks
+Luis Coppel bets $198.75
+lmpala_zOrg folds
+Uncalled bet ($198.75) returned to Luis Coppel
+Luis Coppel does not show
+*** SUMMARY ***
+Total pot $198.75 | Rake $1.25
+Seat 2: Luis Coppel (small blind) did not showed and won $198.75
+Seat 3: lmpala_zOrg (big blind) folded on the Turn
+
+
+Hand #1915327574 - Holdem(No Limit) - $50/$100 - 2023/11/01 04:17:06 UTC
+7 Day No Rathole 50/100 NLH 9-max Seat #3 is the button
+Seat 2: Luis Coppel ($2437.89)
+Seat 3: lmpala_zOrg ($1437.11)
+lmpala_zOrg posts the small blind $50
+Luis Coppel posts the big blind $100
+*** HOLE CARDS *** 
+lmpala_zOrg folds
+*** SUMMARY ***
+Total pot $150
+Seat 2: Luis Coppel (big blind) did not showed and won $150
+Seat 3: lmpala_zOrg (small blind) folded on the Pre-Flop
+
+
+Hand #1915327729 - Holdem(No Limit) - $50/$100 - 2023/11/01 04:18:01 UTC
+7 Day No Rathole 50/100 NLH 9-max Seat #2 is the button
+Seat 2: Luis Coppel ($2487.89)
+Seat 3: lmpala_zOrg ($1387.11)
+Luis Coppel posts the small blind $50
+lmpala_zOrg posts the big blind $100
+*** HOLE CARDS *** 
+Luis Coppel calls $50
+lmpala_zOrg checks
+*** FLOP *** [Ah Qd 7c]
+Main pot $198.75 | Rake $1.25
+lmpala_zOrg checks
+Luis Coppel bets $100
+lmpala_zOrg calls $100
+*** TURN *** [Ah Qd 7c] [Kd]
+Main pot $398.75 | Rake $1.25
+lmpala_zOrg checks
+Luis Coppel bets $299.06
+lmpala_zOrg folds
+Uncalled bet ($299.06) returned to Luis Coppel
+Luis Coppel does not show
+*** SUMMARY ***
+Total pot $398.75 | Rake $1.25
+Seat 2: Luis Coppel (small blind) did not showed and won $398.75
+Seat 3: lmpala_zOrg (big blind) folded on the Turn
+
+
+Hand #1915328490 - Holdem(No Limit) - $50/$100 - 2023/11/01 04:18:11 UTC
+7 Day No Rathole 50/100 NLH 9-max Seat #3 is the button
+Seat 2: Luis Coppel ($2686.64)
+Seat 3: lmpala_zOrg ($1187.11)
+lmpala_zOrg posts the small blind $50
+Luis Coppel posts the big blind $100
+*** HOLE CARDS *** 
+lmpala_zOrg folds
+*** SUMMARY ***
+Total pot $150
+Seat 2: Luis Coppel (big blind) did not showed and won $150
+Seat 3: lmpala_zOrg (small blind) folded on the Pre-Flop
+
+
+Hand #1915328609 - Holdem(No Limit) - $50/$100 - 2023/11/01 04:18:31 UTC
+7 Day No Rathole 50/100 NLH 9-max Seat #2 is the button
+Seat 2: Luis Coppel ($2736.64)
+Seat 3: lmpala_zOrg ($1137.11)
+Luis Coppel posts the small blind $50
+lmpala_zOrg posts the big blind $100
+*** HOLE CARDS *** 
+Luis Coppel raises $2686.64 to $2736.64 and is all-in
+lmpala_zOrg folds
+Uncalled bet ($2636.64) returned to Luis Coppel
+Luis Coppel does not show
+*** SUMMARY ***
+Total pot $200
+Seat 2: Luis Coppel (small blind) did not showed and won $200
+Seat 3: lmpala_zOrg (big blind) folded on the Pre-Flop
+
+
+Hand #1915328882 - Holdem(No Limit) - $50/$100 - 2023/11/01 04:18:40 UTC
+7 Day No Rathole 50/100 NLH 9-max Seat #3 is the button
+Seat 2: Luis Coppel ($2836.64)
+Seat 3: lmpala_zOrg ($1037.11)
+lmpala_zOrg posts the small blind $50
+Luis Coppel posts the big blind $100
+*** HOLE CARDS *** 
+lmpala_zOrg folds
+*** SUMMARY ***
+Total pot $150
+Seat 2: Luis Coppel (big blind) did not showed and won $150
+Seat 3: lmpala_zOrg (small blind) folded on the Pre-Flop
+
+
+Hand #1915329007 - Holdem(No Limit) - $50/$100 - 2023/11/01 04:19:07 UTC
+7 Day No Rathole 50/100 NLH 9-max Seat #2 is the button
+Seat 2: Luis Coppel ($2886.64)
+Seat 3: lmpala_zOrg ($1000)
+Luis Coppel posts the small blind $50
+lmpala_zOrg posts the big blind $100
+*** HOLE CARDS *** 
+Luis Coppel calls $50
+lmpala_zOrg raises $150 to $250
+Luis Coppel folds
+Uncalled bet ($150) returned to lmpala_zOrg
+lmpala_zOrg does not show
+*** SUMMARY ***
+Total pot $200
+Seat 2: Luis Coppel (small blind) folded on the Pre-Flop
+Seat 3: lmpala_zOrg (big blind) did not showed and won $200
+
+
+Hand #1915329389 - Holdem(No Limit) - $50/$100 - 2023/11/01 04:19:21 UTC
+7 Day No Rathole 50/100 NLH 9-max Seat #3 is the button
+Seat 2: Luis Coppel ($2786.64)
+Seat 3: lmpala_zOrg ($1100)
+lmpala_zOrg posts the small blind $50
+Luis Coppel posts the big blind $100
+*** HOLE CARDS *** 
+lmpala_zOrg calls $50
+Luis Coppel raises $100 to $200
+lmpala_zOrg folds
+Uncalled bet ($100) returned to Luis Coppel
+Luis Coppel does not show
+*** SUMMARY ***
+Total pot $200
+Seat 2: Luis Coppel (big blind) did not showed and won $200
+Seat 3: lmpala_zOrg (small blind) folded on the Pre-Flop
+
+
+Hand #1915329577 - Holdem(No Limit) - $50/$100 - 2023/11/01 04:19:30 UTC
+7 Day No Rathole 50/100 NLH 9-max Seat #2 is the button
+Seat 2: Luis Coppel ($2886.64)
+Seat 3: lmpala_zOrg ($1000)
+Luis Coppel posts the small blind $50
+lmpala_zOrg posts the big blind $100
+*** HOLE CARDS *** 
+Luis Coppel folds
+*** SUMMARY ***
+Total pot $150
+Seat 2: Luis Coppel (small blind) folded on the Pre-Flop
+Seat 3: lmpala_zOrg (big blind) did not showed and won $150
+
+
+Hand #1915329707 - Holdem(No Limit) - $50/$100 - 2023/11/01 04:19:45 UTC
+7 Day No Rathole 50/100 NLH 9-max Seat #3 is the button
+Seat 2: Luis Coppel ($2836.64)
+Seat 3: lmpala_zOrg ($1050)
+lmpala_zOrg posts the small blind $50
+Luis Coppel posts the big blind $100
+*** HOLE CARDS *** 
+lmpala_zOrg calls $50
+Luis Coppel raises $150 to $250
+lmpala_zOrg folds
+Uncalled bet ($150) returned to Luis Coppel
+Luis Coppel does not show
+*** SUMMARY ***
+Total pot $200
+Seat 2: Luis Coppel (big blind) did not showed and won $200
+Seat 3: lmpala_zOrg (small blind) folded on the Pre-Flop
+
+
+Hand #1915329914 - Holdem(No Limit) - $50/$100 - 2023/11/01 04:20:21 UTC
+7 Day No Rathole 50/100 NLH 9-max Seat #2 is the button
+Seat 2: Luis Coppel ($2936.64)
+Seat 3: lmpala_zOrg ($1000)
+Luis Coppel posts the small blind $50
+lmpala_zOrg posts the big blind $100
+*** HOLE CARDS *** 
+Luis Coppel calls $50
+lmpala_zOrg checks
+*** FLOP *** [As 3s 4d]
+Main pot $198.75 | Rake $1.25
+lmpala_zOrg checks
+Luis Coppel checks
+*** TURN *** [As 3s 4d] [3d]
+Main pot $198.75 | Rake $1.25
+lmpala_zOrg bets $150
+Luis Coppel folds
+Uncalled bet ($150) returned to lmpala_zOrg
+lmpala_zOrg does not show
+*** SUMMARY ***
+Total pot $198.75 | Rake $1.25
+Seat 2: Luis Coppel (small blind) folded on the Turn
+Seat 3: lmpala_zOrg (big blind) did not showed and won $198.75
+
+
+Hand #1915330389 - Holdem(No Limit) - $50/$100 - 2023/11/01 04:20:48 UTC
+7 Day No Rathole 50/100 NLH 9-max Seat #3 is the button
+Seat 2: Luis Coppel ($2836.64)
+Seat 3: lmpala_zOrg ($1098.75)
+lmpala_zOrg posts the small blind $50
+Luis Coppel posts the big blind $100
+*** HOLE CARDS *** 
+lmpala_zOrg calls $50
+Luis Coppel checks
+*** FLOP *** [7c 2h 9c]
+Main pot $198.75 | Rake $1.25
+Luis Coppel checks
+lmpala_zOrg bets $149.06
+Luis Coppel folds
+Uncalled bet ($149.06) returned to lmpala_zOrg
+lmpala_zOrg does not show
+*** SUMMARY ***
+Total pot $198.75 | Rake $1.25
+Seat 2: Luis Coppel (big blind) folded on the Flop
+Seat 3: lmpala_zOrg (small blind) did not showed and won $198.75
+
+
+Hand #1915330773 - Holdem(No Limit) - $50/$100 - 2023/11/01 04:21:32 UTC
+7 Day No Rathole 50/100 NLH 9-max Seat #2 is the button
+Seat 2: Luis Coppel ($2736.64)
+Seat 3: lmpala_zOrg ($1197.50)
+Luis Coppel posts the small blind $50
+lmpala_zOrg posts the big blind $100
+*** HOLE CARDS *** 
+Luis Coppel calls $50
+lmpala_zOrg checks
+*** FLOP *** [2c 8d 8c]
+Main pot $198.75 | Rake $1.25
+lmpala_zOrg checks
+Luis Coppel checks
+*** TURN *** [2c 8d 8c] [4c]
+Main pot $198.75 | Rake $1.25
+lmpala_zOrg checks
+Luis Coppel checks
+*** RIVER *** [2c 8d 8c 4c] [3s]
+Main pot $198.75 | Rake $1.25
+lmpala_zOrg checks
+Luis Coppel bets $149.06
+lmpala_zOrg calls $149.06
+*** SHOW DOWN ***
+Main pot $198.75 | Rake $1.25
+Luis Coppel shows [5s As]
+Luis Coppel collected $496.87 from main pot
+*** SUMMARY ***
+Total pot $496.87 | Rake $1.25
+Seat 2: Luis Coppel (small blind) showed [5s As] and won $496.87 with Straight [5s 4c 3s 2c As]
+Seat 3: lmpala_zOrg (big blind) did not showed and lost
+
+
+Hand #1915331387 - Holdem(No Limit) - $50/$100 - 2023/11/01 04:21:43 UTC
+7 Day No Rathole 50/100 NLH 9-max Seat #3 is the button
+Seat 2: Luis Coppel ($2984.45)
+Seat 3: lmpala_zOrg ($1000)
+lmpala_zOrg posts the small blind $50
+Luis Coppel posts the big blind $100
+*** HOLE CARDS *** 
+lmpala_zOrg raises $950 to $1000 and is all-in
+Luis Coppel calls $900
+*** RUN IT TWICE ***
+*** FLOP 1 *** [Td Kh 7d]
+Main pot 1 $999.37 | Rake $0.63
+*** TURN 1 *** [Td Kh 7d] [3h]
+Main pot 1 $999.37 | Rake $0.63
+*** RIVER 1 *** [Td Kh 7d 3h] [2c]
+Main pot 1 $999.37 | Rake $0.63
+*** SHOW DOWN 1 ***
+Main pot 1 $999.37 | Rake $0.63
+Luis Coppel shows [Ah 6d]
+lmpala_zOrg shows [9h Tc]
+lmpala_zOrg collected $999.38 from main pot 1
+*** FLOP 2 *** [Jh 9d As]
+Main pot 2 $999.38 | Rake $0.62
+*** TURN 2 *** [Jh 9d As] [Qd]
+Main pot 2 $999.38 | Rake $0.62
+*** RIVER 2 *** [Jh 9d As Qd] [7c]
+Main pot 2 $999.38 | Rake $0.62
+*** SHOW DOWN 2 ***
+Main pot 2 $999.38 | Rake $0.62
+Luis Coppel shows [Ah 6d]
+Luis Coppel collected $999.37 from main pot 2
+*** SUMMARY ***
+Total pot $1998.75 | Rake $1.25
+Board 1 [Td Kh 7d 3h 2c]
+Seat 2: Luis Coppel (big blind) showed [Ah 6d] and lost
+Seat 3: lmpala_zOrg (small blind) showed [9h Tc] and won $999.38 with OnePair [Td Tc Kh 9h 7d]
+Board 2 [Jh 9d As Qd 7c]
+Seat 2: Luis Coppel (big blind) showed [Ah 6d] and won $0 with OnePair [Td Tc Kh 9h 7d]
+Seat 3: lmpala_zOrg (small blind) showed [9h Tc] and lost
+
+
+Hand #1915331718 - Holdem(No Limit) - $50/$100 - 2023/11/01 04:22:43 UTC
+7 Day No Rathole 50/100 NLH 9-max Seat #2 is the button
+Seat 2: Luis Coppel ($2983.82)
+Seat 3: lmpala_zOrg ($1000)
+Luis Coppel posts the small blind $50
+lmpala_zOrg posts the big blind $100
+*** HOLE CARDS *** 
+Luis Coppel calls $50
+lmpala_zOrg checks
+*** FLOP *** [2s 9c 7d]
+Main pot $198.75 | Rake $1.25
+lmpala_zOrg checks
+Luis Coppel checks
+*** TURN *** [2s 9c 7d] [Ah]
+Main pot $198.75 | Rake $1.25
+lmpala_zOrg checks
+Luis Coppel bets $248.75
+lmpala_zOrg folds
+Uncalled bet ($248.75) returned to Luis Coppel
+Luis Coppel does not show
+*** SUMMARY ***
+Total pot $198.75 | Rake $1.25
+Seat 2: Luis Coppel (small blind) did not showed and won $198.75
+Seat 3: lmpala_zOrg (big blind) folded on the Turn
+
+
+Hand #1915332340 - Holdem(No Limit) - $50/$100 - 2023/11/01 04:23:09 UTC
+7 Day No Rathole 50/100 NLH 9-max Seat #3 is the button
+Seat 2: Luis Coppel ($3082.57)
+Seat 3: lmpala_zOrg ($1000)
+lmpala_zOrg posts the small blind $50
+Luis Coppel posts the big blind $100
+*** HOLE CARDS *** 
+lmpala_zOrg calls $50
+Luis Coppel raises $300 to $400
+lmpala_zOrg raises $900 to $1000 and is all-in
+Luis Coppel folds
+Uncalled bet ($600) returned to lmpala_zOrg
+lmpala_zOrg does not show
+*** SUMMARY ***
+Total pot $800
+Seat 2: Luis Coppel (big blind) folded on the Pre-Flop
+Seat 3: lmpala_zOrg (small blind) did not showed and won $800
+
+
+Hand #1915332747 - Holdem(No Limit) - $50/$100 - 2023/11/01 04:23:30 UTC
+7 Day No Rathole 50/100 NLH 9-max Seat #3 is the button
+Seat 2: Luis Coppel ($2682.57)
+Seat 3: lmpala_zOrg ($1400)
+lmpala_zOrg posts the small blind $50
+Luis Coppel posts the big blind $100
+*** HOLE CARDS *** 
+lmpala_zOrg raises $150 to $200
+Luis Coppel raises $2582.57 to $2682.57 and is all-in
+lmpala_zOrg folds
+Uncalled bet ($2482.57) returned to Luis Coppel
+Luis Coppel does not show
+*** SUMMARY ***
+Total pot $400
+Seat 2: Luis Coppel (big blind) did not showed and won $400
+Seat 3: lmpala_zOrg (small blind) folded on the Pre-Flop
+
+
+Hand #1915332960 - Holdem(No Limit) - $50/$100 - 2023/11/01 04:24:04 UTC
+7 Day No Rathole 50/100 NLH 9-max Seat #2 is the button
+Seat 2: Luis Coppel ($2882.57)
+Seat 3: lmpala_zOrg ($1200)
+Luis Coppel posts the small blind $50
+lmpala_zOrg posts the big blind $100
+*** HOLE CARDS *** 
+Luis Coppel calls $50
+lmpala_zOrg checks
+*** FLOP *** [3c 6h 3h]
+Main pot $198.75 | Rake $1.25
+lmpala_zOrg checks
+Luis Coppel checks
+*** TURN *** [3c 6h 3h] [Th]
+Main pot $198.75 | Rake $1.25
+lmpala_zOrg bets $200
+Luis Coppel folds
+Uncalled bet ($200) returned to lmpala_zOrg
+lmpala_zOrg does not show
+*** SUMMARY ***
+Total pot $198.75 | Rake $1.25
+Seat 2: Luis Coppel (small blind) folded on the Turn
+Seat 3: lmpala_zOrg (big blind) did not showed and won $198.75
+
+
+Hand #1915333434 - Holdem(No Limit) - $50/$100 - 2023/11/01 04:24:20 UTC
+7 Day No Rathole 50/100 NLH 9-max Seat #3 is the button
+Seat 2: Luis Coppel ($2782.57)
+Seat 3: lmpala_zOrg ($1298.75)
+lmpala_zOrg posts the small blind $50
+Luis Coppel posts the big blind $100
+*** HOLE CARDS *** 
+lmpala_zOrg calls $50
+Luis Coppel raises $2682.57 to $2782.57 and is all-in
+lmpala_zOrg folds
+Uncalled bet ($2682.57) returned to Luis Coppel
+Luis Coppel does not show
+*** SUMMARY ***
+Total pot $200
+Seat 2: Luis Coppel (big blind) did not showed and won $200
+Seat 3: lmpala_zOrg (small blind) folded on the Pre-Flop
+
+
+Hand #1915333635 - Holdem(No Limit) - $50/$100 - 2023/11/01 04:24:38 UTC
+7 Day No Rathole 50/100 NLH 9-max Seat #2 is the button
+Seat 2: Luis Coppel ($2882.57)
+Seat 3: lmpala_zOrg ($1198.75)
+Luis Coppel posts the small blind $50
+lmpala_zOrg posts the big blind $100
+*** HOLE CARDS *** 
+Luis Coppel calls $50
+lmpala_zOrg raises $200 to $300
+Luis Coppel folds
+Uncalled bet ($200) returned to lmpala_zOrg
+lmpala_zOrg does not show
+*** SUMMARY ***
+Total pot $200
+Seat 2: Luis Coppel (small blind) folded on the Pre-Flop
+Seat 3: lmpala_zOrg (big blind) did not showed and won $200
+
+
+Hand #1915333877 - Holdem(No Limit) - $50/$100 - 2023/11/01 04:25:13 UTC
+7 Day No Rathole 50/100 NLH 9-max Seat #3 is the button
+Seat 2: Luis Coppel ($2782.57)
+Seat 3: lmpala_zOrg ($1298.75)
+lmpala_zOrg posts the small blind $50
+Luis Coppel posts the big blind $100
+*** HOLE CARDS *** 
+lmpala_zOrg calls $50
+Luis Coppel checks
+*** FLOP *** [7h Qs Jh]
+Main pot $198.75 | Rake $1.25
+Luis Coppel checks
+lmpala_zOrg bets $100
+Luis Coppel calls $100
+*** TURN *** [7h Qs Jh] [Ad]
+Main pot $398.75 | Rake $1.25
+Luis Coppel checks
+lmpala_zOrg bets $299.06
+Luis Coppel folds
+Uncalled bet ($299.06) returned to lmpala_zOrg
+lmpala_zOrg does not show
+*** SUMMARY ***
+Total pot $398.75 | Rake $1.25
+Seat 2: Luis Coppel (big blind) folded on the Turn
+Seat 3: lmpala_zOrg (small blind) did not showed and won $398.75
+
+
+Hand #1915334336 - Holdem(No Limit) - $50/$100 - 2023/11/01 04:25:41 UTC
+7 Day No Rathole 50/100 NLH 9-max Seat #2 is the button
+Seat 2: Luis Coppel ($2582.57)
+Seat 3: lmpala_zOrg ($1497.50)
+Luis Coppel posts the small blind $50
+lmpala_zOrg posts the big blind $100
+*** HOLE CARDS *** 
+Luis Coppel calls $50
+lmpala_zOrg checks
+*** FLOP *** [Kc 8s 8d]
+Main pot $198.75 | Rake $1.25
+lmpala_zOrg checks
+Luis Coppel bets $100
+lmpala_zOrg folds
+Uncalled bet ($100) returned to Luis Coppel
+Luis Coppel does not show
+*** SUMMARY ***
+Total pot $198.75 | Rake $1.25
+Seat 2: Luis Coppel (small blind) did not showed and won $198.75
+Seat 3: lmpala_zOrg (big blind) folded on the Flop
+
+
+Hand #1915334727 - Holdem(No Limit) - $50/$100 - 2023/11/01 04:26:03 UTC
+7 Day No Rathole 50/100 NLH 9-max Seat #3 is the button
+Seat 2: Luis Coppel ($2681.32)
+Seat 3: lmpala_zOrg ($1397.50)
+lmpala_zOrg posts the small blind $50
+Luis Coppel posts the big blind $100
+*** HOLE CARDS *** 
+lmpala_zOrg calls $50
+Luis Coppel checks
+*** FLOP *** [6c 4d 9d]
+Main pot $198.75 | Rake $1.25
+Luis Coppel checks
+lmpala_zOrg bets $150
+Luis Coppel folds
+Uncalled bet ($150) returned to lmpala_zOrg
+lmpala_zOrg does not show
+*** SUMMARY ***
+Total pot $198.75 | Rake $1.25
+Seat 2: Luis Coppel (big blind) folded on the Flop
+Seat 3: lmpala_zOrg (small blind) did not showed and won $198.75
+
+
+Hand #1915335004 - Holdem(No Limit) - $50/$100 - 2023/11/01 04:26:14 UTC
+7 Day No Rathole 50/100 NLH 9-max Seat #2 is the button
+Seat 2: Luis Coppel ($2581.32)
+Seat 3: lmpala_zOrg ($1496.25)
+Luis Coppel posts the small blind $50
+lmpala_zOrg posts the big blind $100
+*** HOLE CARDS *** 
+Luis Coppel raises $2531.32 to $2581.32 and is all-in
+lmpala_zOrg folds
+Uncalled bet ($2481.32) returned to Luis Coppel
+Luis Coppel does not show
+*** SUMMARY ***
+Total pot $200
+Seat 2: Luis Coppel (small blind) did not showed and won $200
+Seat 3: lmpala_zOrg (big blind) folded on the Pre-Flop
+
+
+Hand #1915335152 - Holdem(No Limit) - $50/$100 - 2023/11/01 04:26:30 UTC
+7 Day No Rathole 50/100 NLH 9-max Seat #3 is the button
+Seat 2: Luis Coppel ($2681.32)
+Seat 3: lmpala_zOrg ($1396.25)
+lmpala_zOrg posts the small blind $50
+Luis Coppel posts the big blind $100
+*** HOLE CARDS *** 
+lmpala_zOrg raises $150 to $200
+Luis Coppel folds
+Uncalled bet ($100) returned to lmpala_zOrg
+lmpala_zOrg does not show
+*** SUMMARY ***
+Total pot $200
+Seat 2: Luis Coppel (big blind) folded on the Pre-Flop
+Seat 3: lmpala_zOrg (small blind) did not showed and won $200
+
+
+Hand #1915335351 - Holdem(No Limit) - $50/$100 - 2023/11/01 04:26:46 UTC
+7 Day No Rathole 50/100 NLH 9-max Seat #2 is the button
+Seat 2: Luis Coppel ($2581.32)
+Seat 3: lmpala_zOrg ($1496.25)
+Luis Coppel posts the small blind $50
+lmpala_zOrg posts the big blind $100
+*** HOLE CARDS *** 
+Luis Coppel calls $50
+lmpala_zOrg raises $200 to $300
+Luis Coppel folds
+Uncalled bet ($200) returned to lmpala_zOrg
+lmpala_zOrg does not show
+*** SUMMARY ***
+Total pot $200
+Seat 2: Luis Coppel (small blind) folded on the Pre-Flop
+Seat 3: lmpala_zOrg (big blind) did not showed and won $200
+
+
+Hand #1915335550 - Holdem(No Limit) - $50/$100 - 2023/11/01 04:27:00 UTC
+7 Day No Rathole 50/100 NLH 9-max Seat #3 is the button
+Seat 2: Luis Coppel ($2481.32)
+Seat 3: lmpala_zOrg ($1596.25)
+lmpala_zOrg posts the small blind $50
+Luis Coppel posts the big blind $100
+*** HOLE CARDS *** 
+lmpala_zOrg calls $50
+Luis Coppel raises $2381.32 to $2481.32 and is all-in
+lmpala_zOrg folds
+Uncalled bet ($2381.32) returned to Luis Coppel
+Luis Coppel does not show
+*** SUMMARY ***
+Total pot $200
+Seat 2: Luis Coppel (big blind) did not showed and won $200
+Seat 3: lmpala_zOrg (small blind) folded on the Pre-Flop
+
+
+Hand #1915335761 - Holdem(No Limit) - $50/$100 - 2023/11/01 04:27:35 UTC
+7 Day No Rathole 50/100 NLH 9-max Seat #2 is the button
+Seat 2: Luis Coppel ($2581.32)
+Seat 3: lmpala_zOrg ($1496.25)
+Luis Coppel posts the small blind $50
+lmpala_zOrg posts the big blind $100
+*** HOLE CARDS *** 
+Luis Coppel raises $150 to $200
+lmpala_zOrg calls $100
+*** FLOP *** [7c Jh 5d]
+Main pot $398.75 | Rake $1.25
+lmpala_zOrg checks
+Luis Coppel bets $199.37
+lmpala_zOrg folds
+Uncalled bet ($199.37) returned to Luis Coppel
+Luis Coppel does not show
+*** SUMMARY ***
+Total pot $398.75 | Rake $1.25
+Seat 2: Luis Coppel (small blind) did not showed and won $398.75
+Seat 3: lmpala_zOrg (big blind) folded on the Flop
+
+
+Hand #1915336209 - Holdem(No Limit) - $50/$100 - 2023/11/01 04:27:54 UTC
+7 Day No Rathole 50/100 NLH 9-max Seat #3 is the button
+Seat 2: Luis Coppel ($2780.07)
+Seat 3: lmpala_zOrg ($1296.25)
+lmpala_zOrg posts the small blind $50
+Luis Coppel posts the big blind $100
+*** HOLE CARDS *** 
+lmpala_zOrg calls $50
+Luis Coppel raises $350 to $450
+lmpala_zOrg folds
+Uncalled bet ($350) returned to Luis Coppel
+Luis Coppel does not show
+*** SUMMARY ***
+Total pot $200
+Seat 2: Luis Coppel (big blind) did not showed and won $200
+Seat 3: lmpala_zOrg (small blind) folded on the Pre-Flop
+
+
+Hand #1915336451 - Holdem(No Limit) - $50/$100 - 2023/11/01 04:28:45 UTC
+7 Day No Rathole 50/100 NLH 9-max Seat #2 is the button
+Seat 2: Luis Coppel ($2880.07)
+Seat 3: lmpala_zOrg ($1196.25)
+Luis Coppel posts the small blind $50
+lmpala_zOrg posts the big blind $100
+*** HOLE CARDS *** 
+Luis Coppel calls $50
+lmpala_zOrg checks
+*** FLOP *** [Ad Jh 6d]
+Main pot $198.75 | Rake $1.25
+lmpala_zOrg checks
+Luis Coppel checks
+*** TURN *** [Ad Jh 6d] [Td]
+Main pot $198.75 | Rake $1.25
+lmpala_zOrg bets $100
+Luis Coppel calls $100
+*** RIVER *** [Ad Jh 6d Td] [Kh]
+Main pot $398.75 | Rake $1.25
+lmpala_zOrg checks
+Luis Coppel bets $299.06
+lmpala_zOrg folds
+Uncalled bet ($299.06) returned to Luis Coppel
+Luis Coppel does not show
+*** SUMMARY ***
+Total pot $398.75 | Rake $1.25
+Seat 2: Luis Coppel (small blind) did not showed and won $398.75
+Seat 3: lmpala_zOrg (big blind) folded on the River
+
+
+Hand #1915337129 - Holdem(No Limit) - $50/$100 - 2023/11/01 04:29:17 UTC
+7 Day No Rathole 50/100 NLH 9-max Seat #3 is the button
+Seat 2: Luis Coppel ($3078.82)
+Seat 3: lmpala_zOrg ($1000)
+lmpala_zOrg posts the small blind $50
+Luis Coppel posts the big blind $100
+*** HOLE CARDS *** 
+lmpala_zOrg calls $50
+Luis Coppel checks
+*** FLOP *** [Ts 8h 9h]
+Main pot $198.75 | Rake $1.25
+Luis Coppel checks
+lmpala_zOrg bets $149.06
+Luis Coppel folds
+Uncalled bet ($149.06) returned to lmpala_zOrg
+lmpala_zOrg does not show
+*** SUMMARY ***
+Total pot $198.75 | Rake $1.25
+Seat 2: Luis Coppel (big blind) folded on the Flop
+Seat 3: lmpala_zOrg (small blind) did not showed and won $198.75
+
+
+Hand #1915337544 - Holdem(No Limit) - $50/$100 - 2023/11/01 04:29:37 UTC
+7 Day No Rathole 50/100 NLH 9-max Seat #2 is the button
+Seat 2: Luis Coppel ($2978.82)
+Seat 3: lmpala_zOrg ($1098.75)
+Luis Coppel posts the small blind $50
+lmpala_zOrg posts the big blind $100
+*** HOLE CARDS *** 
+Luis Coppel calls $50
+lmpala_zOrg raises $300 to $400
+Luis Coppel raises $2878.82 to $2978.82 and is all-in
+lmpala_zOrg calls $698.75 and is all-in
+Uncalled bet ($1880.07) returned to Luis Coppel
+Luis Coppel does not show
+*** RUN IT TWICE ***
+*** FLOP 1 *** [7c 5c 6h]
+Main pot 1 $1098.12 | Rake $0.63
+*** TURN 1 *** [7c 5c 6h] [8d]
+Main pot 1 $1098.12 | Rake $0.63
+*** RIVER 1 *** [7c 5c 6h 8d] [Tc]
+Main pot 1 $1098.12 | Rake $0.63
+*** SHOW DOWN 1 ***
+Main pot 1 $1098.12 | Rake $0.63
+Luis Coppel shows [Ad 4d]
+lmpala_zOrg shows [6c 6d]
+Luis Coppel collected $1098.13 from main pot 1
+*** FLOP 2 *** [Th 3h Jd]
+Main pot 2 $1098.13 | Rake $0.62
+*** TURN 2 *** [Th 3h Jd] [Qc]
+Main pot 2 $1098.13 | Rake $0.62
+*** RIVER 2 *** [Th 3h Jd Qc] [2c]
+Main pot 2 $1098.13 | Rake $0.62
+*** SHOW DOWN 2 ***
+Main pot 2 $1098.13 | Rake $0.62
+Luis Coppel shows [Ad 4d]
+lmpala_zOrg collected $1098.12 from main pot 2
+*** SUMMARY ***
+Total pot $2196.25 | Rake $1.25
+Board 1 [7c 5c 6h 8d Tc]
+Seat 2: Luis Coppel (small blind) showed [Ad 4d] and won $1098.13 with Straight [8d 7c 6h 5c 4d]
+Seat 3: lmpala_zOrg (big blind) showed [6c 6d] and lost
+Board 2 [Th 3h Jd Qc 2c]
+Seat 2: Luis Coppel (small blind) showed [Ad 4d] and lost
+Seat 3: lmpala_zOrg (big blind) showed [6c 6d] and won $0 with Straight [8d 7c 6h 5c 4d]
+
+
+Hand #1915338021 - Holdem(No Limit) - $50/$100 - 2023/11/01 04:30:24 UTC
+7 Day No Rathole 50/100 NLH 9-max Seat #3 is the button
+Seat 2: Luis Coppel ($2978.20)
+Seat 3: lmpala_zOrg ($1098.12)
+lmpala_zOrg posts the small blind $50
+Luis Coppel posts the big blind $100
+*** HOLE CARDS *** 
+lmpala_zOrg calls $50
+Luis Coppel checks
+*** FLOP *** [3h Tc 5d]
+Main pot $198.75 | Rake $1.25
+Luis Coppel checks
+lmpala_zOrg bets $149.06
+Luis Coppel folds
+Uncalled bet ($149.06) returned to lmpala_zOrg
+lmpala_zOrg does not show
+*** SUMMARY ***
+Total pot $198.75 | Rake $1.25
+Seat 2: Luis Coppel (big blind) folded on the Flop
+Seat 3: lmpala_zOrg (small blind) did not showed and won $198.75
+
+
+Hand #1915338424 - Holdem(No Limit) - $50/$100 - 2023/11/01 04:31:10 UTC
+7 Day No Rathole 50/100 NLH 9-max Seat #2 is the button
+Seat 2: Luis Coppel ($2878.20)
+Seat 3: lmpala_zOrg ($1196.87)
+Luis Coppel posts the small blind $50
+lmpala_zOrg posts the big blind $100
+*** HOLE CARDS *** 
+Luis Coppel calls $50
+lmpala_zOrg checks
+*** FLOP *** [3s Js Tc]
+Main pot $198.75 | Rake $1.25
+lmpala_zOrg checks
+Luis Coppel checks
+*** TURN *** [3s Js Tc] [3d]
+Main pot $198.75 | Rake $1.25
+lmpala_zOrg checks
+Luis Coppel checks
+*** RIVER *** [3s Js Tc 3d] [5s]
+Main pot $198.75 | Rake $1.25
+lmpala_zOrg checks
+Luis Coppel checks
+*** SHOW DOWN ***
+Main pot $198.75 | Rake $1.25
+lmpala_zOrg shows [Jc 5h]
+lmpala_zOrg collected $198.75 from main pot
+*** SUMMARY ***
+Total pot $198.75 | Rake $1.25
+Seat 2: Luis Coppel (small blind) did not showed and lost
+Seat 3: lmpala_zOrg (big blind) showed [Jc 5h] and won $198.75 with TwoPair [Js Jc 5s 5h Tc]
+
+
+Hand #1915339046 - Holdem(No Limit) - $50/$100 - 2023/11/01 04:31:28 UTC
+7 Day No Rathole 50/100 NLH 9-max Seat #3 is the button
+Seat 2: Luis Coppel ($2778.20)
+Seat 3: lmpala_zOrg ($1295.62)
+lmpala_zOrg posts the small blind $50
+Luis Coppel posts the big blind $100
+*** HOLE CARDS *** 
+lmpala_zOrg calls $50
+Luis Coppel raises $350 to $450
+lmpala_zOrg folds
+Uncalled bet ($350) returned to Luis Coppel
+Luis Coppel does not show
+*** SUMMARY ***
+Total pot $200
+Seat 2: Luis Coppel (big blind) did not showed and won $200
+Seat 3: lmpala_zOrg (small blind) folded on the Pre-Flop
+
+
+Hand #1915339276 - Holdem(No Limit) - $50/$100 - 2023/11/01 04:32:03 UTC
+7 Day No Rathole 50/100 NLH 9-max Seat #2 is the button
+Seat 2: Luis Coppel ($2878.20)
+Seat 3: lmpala_zOrg ($1195.62)
+Luis Coppel posts the small blind $50
+lmpala_zOrg posts the big blind $100
+*** HOLE CARDS *** 
+Luis Coppel calls $50
+lmpala_zOrg checks
+*** FLOP *** [3h 3d 8h]
+Main pot $198.75 | Rake $1.25
+lmpala_zOrg checks
+Luis Coppel checks
+*** TURN *** [3h 3d 8h] [Qc]
+Main pot $198.75 | Rake $1.25
+lmpala_zOrg bets $300
+Luis Coppel folds
+Uncalled bet ($300) returned to lmpala_zOrg
+lmpala_zOrg does not show
+*** SUMMARY ***
+Total pot $198.75 | Rake $1.25
+Seat 2: Luis Coppel (small blind) folded on the Turn
+Seat 3: lmpala_zOrg (big blind) did not showed and won $198.75
+
+
+Hand #1915339721 - Holdem(No Limit) - $50/$100 - 2023/11/01 04:32:55 UTC
+7 Day No Rathole 50/100 NLH 9-max Seat #3 is the button
+Seat 2: Luis Coppel ($2778.20)
+Seat 3: lmpala_zOrg ($1294.37)
+lmpala_zOrg posts the small blind $50
+Luis Coppel posts the big blind $100
+*** HOLE CARDS *** 
+lmpala_zOrg calls $50
+Luis Coppel checks
+*** FLOP *** [6s 8h Td]
+Main pot $198.75 | Rake $1.25
+Luis Coppel checks
+lmpala_zOrg checks
+*** TURN *** [6s 8h Td] [2s]
+Main pot $198.75 | Rake $1.25
+Luis Coppel bets $248.75
+lmpala_zOrg folds
+Uncalled bet ($248.75) returned to Luis Coppel
+Luis Coppel does not show
+*** SUMMARY ***
+Total pot $198.75 | Rake $1.25
+Seat 2: Luis Coppel (big blind) did not showed and won $198.75
+Seat 3: lmpala_zOrg (small blind) folded on the Turn
+
+
+Hand #1915340405 - Holdem(No Limit) - $50/$100 - 2023/11/01 04:33:14 UTC
+7 Day No Rathole 50/100 NLH 9-max Seat #2 is the button
+Seat 2: Luis Coppel ($2876.95)
+Seat 3: lmpala_zOrg ($1194.37)
+Luis Coppel posts the small blind $50
+lmpala_zOrg posts the big blind $100
+*** HOLE CARDS *** 
+Luis Coppel calls $50
+lmpala_zOrg raises $300 to $400
+Luis Coppel folds
+Uncalled bet ($300) returned to lmpala_zOrg
+lmpala_zOrg does not show
+*** SUMMARY ***
+Total pot $200
+Seat 2: Luis Coppel (small blind) folded on the Pre-Flop
+Seat 3: lmpala_zOrg (big blind) did not showed and won $200
+
+
+Hand #1915340667 - Holdem(No Limit) - $50/$100 - 2023/11/01 04:34:13 UTC
+7 Day No Rathole 50/100 NLH 9-max Seat #3 is the button
+Seat 2: Luis Coppel ($2776.95)
+Seat 3: lmpala_zOrg ($1294.37)
+lmpala_zOrg posts the small blind $50
+Luis Coppel posts the big blind $100
+*** HOLE CARDS *** 
+lmpala_zOrg calls $50
+Luis Coppel checks
+*** FLOP *** [Qs 9c Kc]
+Main pot $198.75 | Rake $1.25
+Luis Coppel checks
+lmpala_zOrg checks
+*** TURN *** [Qs 9c Kc] [6d]
+Main pot $198.75 | Rake $1.25
+Luis Coppel checks
+lmpala_zOrg checks
+*** RIVER *** [Qs 9c Kc 6d] [7d]
+Main pot $198.75 | Rake $1.25
+Luis Coppel checks
+lmpala_zOrg bets $100
+Luis Coppel raises $399.06 to $399.06
+lmpala_zOrg folds
+Uncalled bet ($299.06) returned to Luis Coppel
+Luis Coppel does not show
+*** SUMMARY ***
+Total pot $398.75 | Rake $1.25
+Seat 2: Luis Coppel (big blind) did not showed and won $398.75
+Seat 3: lmpala_zOrg (small blind) folded on the River
+
+
+Hand #1915341459 - Holdem(No Limit) - $50/$100 - 2023/11/01 04:34:50 UTC
+7 Day No Rathole 50/100 NLH 9-max Seat #2 is the button
+Seat 2: Luis Coppel ($2975.70)
+Seat 3: lmpala_zOrg ($1094.37)
+Luis Coppel posts the small blind $50
+lmpala_zOrg posts the big blind $100
+*** HOLE CARDS *** 
+Luis Coppel calls $50
+lmpala_zOrg checks
+*** FLOP *** [Th Jd 7d]
+Main pot $198.75 | Rake $1.25
+lmpala_zOrg checks
+Luis Coppel checks
+*** TURN *** [Th Jd 7d] [4h]
+Main pot $198.75 | Rake $1.25
+lmpala_zOrg checks
+Luis Coppel checks
+*** RIVER *** [Th Jd 7d 4h] [9h]
+Main pot $198.75 | Rake $1.25
+lmpala_zOrg checks
+Luis Coppel checks
+*** SHOW DOWN ***
+Main pot $198.75 | Rake $1.25
+lmpala_zOrg shows [7h 5d]
+lmpala_zOrg collected $198.75 from main pot
+*** SUMMARY ***
+Total pot $198.75 | Rake $1.25
+Seat 2: Luis Coppel (small blind) did not showed and lost
+Seat 3: lmpala_zOrg (big blind) showed [7h 5d] and won $198.75 with OnePair [7h 7d Jd Th 9h]
+
+
+Hand #1915341949 - Holdem(No Limit) - $50/$100 - 2023/11/01 04:35:33 UTC
+7 Day No Rathole 50/100 NLH 9-max Seat #3 is the button
+Seat 2: Luis Coppel ($2875.70)
+Seat 3: lmpala_zOrg ($1193.12)
+Seat 4: Pr.Lupine ($10000)
+lmpala_zOrg posts the small blind $50
+Luis Coppel posts the big blind $100
+*** HOLE CARDS *** 
+lmpala_zOrg calls $50
+Luis Coppel checks
+*** FLOP *** [5h 8d 2h]
+Main pot $198.75 | Rake $1.25
+Luis Coppel checks
+lmpala_zOrg checks
+*** TURN *** [5h 8d 2h] [5s]
+Main pot $198.75 | Rake $1.25
+Luis Coppel bets $149.06
+lmpala_zOrg calls $149.06
+*** RIVER *** [5h 8d 2h 5s] [5c]
+Main pot $496.87 | Rake $1.25
+Luis Coppel checks
+lmpala_zOrg checks
+*** SHOW DOWN ***
+Main pot $496.87 | Rake $1.25
+lmpala_zOrg shows [Kc Js]
+lmpala_zOrg collected $496.87 from main pot
+*** SUMMARY ***
+Total pot $496.87 | Rake $1.25
+Seat 2: Luis Coppel (big blind) did not showed and lost
+Seat 3: lmpala_zOrg (small blind) showed [Kc Js] and won $496.87 with ThreeOfAKind [5s 5h 5c Kc Js]
+
+
+Hand #1915342486 - Holdem(No Limit) - $50/$100 - 2023/11/01 04:36:19 UTC
+7 Day No Rathole 50/100 NLH 9-max Seat #2 is the button
+Seat 2: Luis Coppel ($2626.64)
+Seat 3: lmpala_zOrg ($1440.93)
+Seat 4: Pr.Lupine ($10000)
+Luis Coppel posts the small blind $50
+lmpala_zOrg posts the big blind $100
+*** HOLE CARDS *** 
+Luis Coppel calls $50
+lmpala_zOrg checks
+*** FLOP *** [Th 2s 5h]
+Main pot $198.75 | Rake $1.25
+lmpala_zOrg checks
+Luis Coppel checks
+*** TURN *** [Th 2s 5h] [4s]
+Main pot $198.75 | Rake $1.25
+lmpala_zOrg checks
+Luis Coppel checks
+*** RIVER *** [Th 2s 5h 4s] [Qd]
+Main pot $198.75 | Rake $1.25
+lmpala_zOrg bets $100
+Luis Coppel folds
+Uncalled bet ($100) returned to lmpala_zOrg
+lmpala_zOrg does not show
+*** SUMMARY ***
+Total pot $198.75 | Rake $1.25
+Seat 2: Luis Coppel (small blind) folded on the River
+Seat 3: lmpala_zOrg (big blind) did not showed and won $198.75
+
+
+Hand #1915343066 - Holdem(No Limit) - $50/$100 - 2023/11/01 04:36:34 UTC
+7 Day No Rathole 50/100 NLH 9-max Seat #2 is the button
+Seat 2: Luis Coppel ($10000)
+Seat 3: lmpala_zOrg ($1539.68)
+Seat 4: Pr.Lupine ($1285.78)
+lmpala_zOrg posts the small blind $50
+Pr.Lupine posts the big blind $100
+*** HOLE CARDS *** 
+Luis Coppel folds
+lmpala_zOrg raises $1489.68 to $1539.68 and is all-in
+Pr.Lupine folds
+Uncalled bet ($1439.68) returned to lmpala_zOrg
+lmpala_zOrg does not show
+*** SUMMARY ***
+Total pot $200
+Seat 2: Luis Coppel (button) folded on the Pre-Flop and did not bet
+Seat 3: lmpala_zOrg (small blind) did not showed and won $200
+Seat 4: Pr.Lupine (big blind) folded on the Pre-Flop
+
+
+Hand #1915343265 - Holdem(No Limit) - $50/$100 - 2023/11/01 04:36:57 UTC
+7 Day No Rathole 50/100 NLH 9-max Seat #3 is the button
+Seat 2: Luis Coppel ($2526.64)
+Seat 3: lmpala_zOrg ($1639.68)
+Seat 4: Pr.Lupine ($1185.78)
+Pr.Lupine posts the small blind $50
+Luis Coppel posts the big blind $100
+*** HOLE CARDS *** 
+lmpala_zOrg raises $200 to $200
+Pr.Lupine folds
+Luis Coppel folds
+Uncalled bet ($100) returned to lmpala_zOrg
+lmpala_zOrg does not show
+*** SUMMARY ***
+Total pot $250
+Seat 2: Luis Coppel (big blind) folded on the Pre-Flop
+Seat 3: lmpala_zOrg (button) did not showed and won $250
+Seat 4: Pr.Lupine (small blind) folded on the Pre-Flop
+
+
+Hand #1915343613 - Holdem(No Limit) - $50/$100 - 2023/11/01 04:37:10 UTC
+7 Day No Rathole 50/100 NLH 9-max Seat #4 is the button
+Seat 2: Luis Coppel ($2426.64)
+Seat 3: lmpala_zOrg ($1789.68)
+Seat 4: Pr.Lupine ($10000)
+Luis Coppel posts the small blind $50
+lmpala_zOrg posts the big blind $100
+*** HOLE CARDS *** 
+Pr.Lupine folds
+Luis Coppel folds
+*** SUMMARY ***
+Total pot $150
+Seat 2: Luis Coppel (small blind) folded on the Pre-Flop
+Seat 3: lmpala_zOrg (big blind) did not showed and won $150
+Seat 4: Pr.Lupine (button) folded on the Pre-Flop and did not bet
+
+
+Hand #1915343747 - Holdem(No Limit) - $50/$100 - 2023/11/01 04:37:34 UTC
+7 Day No Rathole 50/100 NLH 9-max Seat #2 is the button
+Seat 2: Luis Coppel ($10000)
+Seat 3: lmpala_zOrg ($1839.68)
+Seat 4: Pr.Lupine ($1135.78)
+lmpala_zOrg posts the small blind $50
+Pr.Lupine posts the big blind $100
+*** HOLE CARDS *** 
+Luis Coppel folds
+lmpala_zOrg calls $50
+Pr.Lupine raises $1035.78 to $1135.78 and is all-in
+lmpala_zOrg folds
+Uncalled bet ($1035.78) returned to Pr.Lupine
+Pr.Lupine does not show
+*** SUMMARY ***
+Total pot $200
+Seat 2: Luis Coppel (button) folded on the Pre-Flop and did not bet
+Seat 3: lmpala_zOrg (small blind) folded on the Pre-Flop
+Seat 4: Pr.Lupine (big blind) did not showed and won $200
+
+
+Hand #1915344061 - Holdem(No Limit) - $50/$100 - 2023/11/01 04:37:49 UTC
+7 Day No Rathole 50/100 NLH 9-max Seat #3 is the button
+Seat 2: Luis Coppel ($2376.64)
+Seat 3: lmpala_zOrg ($1739.68)
+Seat 4: Pr.Lupine ($1235.78)
+Pr.Lupine posts the small blind $50
+Luis Coppel posts the big blind $100
+*** HOLE CARDS *** 
+lmpala_zOrg raises $200 to $200
+Pr.Lupine folds
+Luis Coppel folds
+Uncalled bet ($100) returned to lmpala_zOrg
+lmpala_zOrg does not show
+*** SUMMARY ***
+Total pot $250
+Seat 2: Luis Coppel (big blind) folded on the Pre-Flop
+Seat 3: lmpala_zOrg (button) did not showed and won $250
+Seat 4: Pr.Lupine (small blind) folded on the Pre-Flop
+
+
+Hand #1915344239 - Holdem(No Limit) - $50/$100 - 2023/11/01 04:38:06 UTC
+7 Day No Rathole 50/100 NLH 9-max Seat #4 is the button
+Seat 2: Luis Coppel ($2276.64)
+Seat 3: lmpala_zOrg ($1889.68)
+Seat 4: Pr.Lupine ($10000)
+Luis Coppel posts the small blind $50
+lmpala_zOrg posts the big blind $100
+*** HOLE CARDS *** 
+Pr.Lupine folds
+Luis Coppel raises $2226.64 to $2276.64 and is all-in
+lmpala_zOrg calls $1789.68 and is all-in
+Uncalled bet ($386.96) returned to Luis Coppel
+Luis Coppel does not show
+*** FLOP *** [6s 9d 2c]
+Main pot $3777.61 | Rake $1.75
+*** TURN *** [6s 9d 2c] [Jd]
+Main pot $3777.61 | Rake $1.75
+*** RIVER *** [6s 9d 2c Jd] [Qh]
+Main pot $3777.61 | Rake $1.75
+*** SHOW DOWN ***
+Main pot $3777.61 | Rake $1.75
+Luis Coppel shows [8s Ts]
+lmpala_zOrg shows [Jc Ac]
+Luis Coppel collected $3777.61 from main pot
+*** SUMMARY ***
+Total pot $3777.61 | Rake $1.75
+Seat 2: Luis Coppel (small blind) showed [8s Ts] and won $3777.61 with Straight [Qh Jd Ts 9d 8s]
+Seat 3: lmpala_zOrg (big blind) showed [Jc Ac] and lost
+Seat 4: Pr.Lupine (button) folded on the Pre-Flop and did not bet
+
+
+Hand #1915344653 - Holdem(No Limit) - $50/$100 - 2023/11/01 04:38:35 UTC
+7 Day No Rathole 50/100 NLH 9-max Seat #3 is the button
+Seat 2: Luis Coppel ($4164.57)
+Seat 3: lmpala_zOrg ($1000)
+lmpala_zOrg posts the small blind $50
+Luis Coppel posts the big blind $100
+*** HOLE CARDS *** 
+lmpala_zOrg calls $50
+Luis Coppel raises $4064.57 to $4164.57 and is all-in
+lmpala_zOrg folds
+Uncalled bet ($4064.57) returned to Luis Coppel
+Luis Coppel does not show
+*** SUMMARY ***
+Total pot $200
+Seat 2: Luis Coppel (big blind) did not showed and won $200
+Seat 3: lmpala_zOrg (small blind) folded on the Pre-Flop
+
+
+Hand #1915344847 - Holdem(No Limit) - $50/$100 - 2023/11/01 04:38:58 UTC
+7 Day No Rathole 50/100 NLH 9-max Seat #2 is the button
+Seat 2: Luis Coppel ($4264.57)
+Seat 3: lmpala_zOrg ($1000)
+Luis Coppel posts the small blind $50
+lmpala_zOrg posts the big blind $100
+*** HOLE CARDS *** 
+Luis Coppel calls $50
+lmpala_zOrg raises $250 to $350
+Luis Coppel folds
+Uncalled bet ($250) returned to lmpala_zOrg
+lmpala_zOrg does not show
+*** SUMMARY ***
+Total pot $200
+Seat 2: Luis Coppel (small blind) folded on the Pre-Flop
+Seat 3: lmpala_zOrg (big blind) did not showed and won $200
+
+
+Hand #1915345120 - Holdem(No Limit) - $50/$100 - 2023/11/01 04:39:39 UTC
+7 Day No Rathole 50/100 NLH 9-max Seat #3 is the button
+Seat 2: Luis Coppel ($4164.57)
+Seat 3: lmpala_zOrg ($1100)
+lmpala_zOrg posts the small blind $50
+Luis Coppel posts the big blind $100
+*** HOLE CARDS *** 
+lmpala_zOrg calls $50
+Luis Coppel checks
+*** FLOP *** [3s 4s 7s]
+Main pot $198.75 | Rake $1.25
+Luis Coppel checks
+lmpala_zOrg bets $149.06
+Luis Coppel calls $149.06
+*** TURN *** [3s 4s 7s] [Qd]
+Main pot $496.87 | Rake $1.25
+Luis Coppel checks
+lmpala_zOrg bets $163.97
+Luis Coppel calls $163.97
+*** RIVER *** [3s 4s 7s Qd] [7c]
+Main pot $824.81 | Rake $1.25
+Luis Coppel checks
+lmpala_zOrg checks
+*** SHOW DOWN ***
+Main pot $824.81 | Rake $1.25
+lmpala_zOrg shows [Th Tc]
+lmpala_zOrg collected $824.81 from main pot
+*** SUMMARY ***
+Total pot $824.81 | Rake $1.25
+Seat 2: Luis Coppel (big blind) did not showed and lost
+Seat 3: lmpala_zOrg (small blind) showed [Th Tc] and won $824.81 with TwoPair [Th Tc 7s 7c Qd]
+
+
+Hand #1915345675 - Holdem(No Limit) - $50/$100 - 2023/11/01 04:40:11 UTC
+7 Day No Rathole 50/100 NLH 9-max Seat #2 is the button
+Seat 2: Luis Coppel ($3751.54)
+Seat 3: lmpala_zOrg ($1511.78)
+Luis Coppel posts the small blind $50
+lmpala_zOrg posts the big blind $100
+*** HOLE CARDS *** 
+Luis Coppel calls $50
+lmpala_zOrg checks
+*** FLOP *** [Ah 4d Jc]
+Main pot $198.75 | Rake $1.25
+lmpala_zOrg checks
+Luis Coppel bets $100
+lmpala_zOrg raises $250 to $250
+Luis Coppel folds
+Uncalled bet ($150) returned to lmpala_zOrg
+lmpala_zOrg does not show
+*** SUMMARY ***
+Total pot $398.75 | Rake $1.25
+Seat 2: Luis Coppel (small blind) folded on the Flop
+Seat 3: lmpala_zOrg (big blind) did not showed and won $398.75
+
+
+Hand #1915346061 - Holdem(No Limit) - $50/$100 - 2023/11/01 04:40:37 UTC
+7 Day No Rathole 50/100 NLH 9-max Seat #3 is the button
+Seat 2: Luis Coppel ($3551.54)
+Seat 3: lmpala_zOrg ($1710.53)
+lmpala_zOrg posts the small blind $50
+Luis Coppel posts the big blind $100
+*** HOLE CARDS *** 
+lmpala_zOrg calls $50
+Luis Coppel checks
+*** FLOP *** [4s Tc Jh]
+Main pot $198.75 | Rake $1.25
+Luis Coppel checks
+lmpala_zOrg bets $100
+Luis Coppel folds
+Uncalled bet ($100) returned to lmpala_zOrg
+lmpala_zOrg does not show
+*** SUMMARY ***
+Total pot $198.75 | Rake $1.25
+Seat 2: Luis Coppel (big blind) folded on the Flop
+Seat 3: lmpala_zOrg (small blind) did not showed and won $198.75
+
+
+Hand #1915346384 - Holdem(No Limit) - $50/$100 - 2023/11/01 04:41:30 UTC
+7 Day No Rathole 50/100 NLH 9-max Seat #2 is the button
+Seat 2: Luis Coppel ($3451.54)
+Seat 3: lmpala_zOrg ($1809.28)
+Luis Coppel posts the small blind $50
+lmpala_zOrg posts the big blind $100
+*** HOLE CARDS *** 
+Luis Coppel calls $50
+lmpala_zOrg checks
+*** FLOP *** [Qh Tc 6c]
+Main pot $198.75 | Rake $1.25
+lmpala_zOrg checks
+Luis Coppel checks
+*** TURN *** [Qh Tc 6c] [Jc]
+Main pot $198.75 | Rake $1.25
+lmpala_zOrg bets $100
+Luis Coppel calls $100
+*** RIVER *** [Qh Tc 6c Jc] [4d]
+Main pot $398.75 | Rake $1.25
+lmpala_zOrg bets $1609.28 and is all-in
+Luis Coppel folds
+Uncalled bet ($1609.28) returned to lmpala_zOrg
+lmpala_zOrg does not show
+*** SUMMARY ***
+Total pot $398.75 | Rake $1.25
+Seat 2: Luis Coppel (small blind) folded on the River
+Seat 3: lmpala_zOrg (big blind) did not showed and won $398.75
+
+
+Hand #1915347066 - Holdem(No Limit) - $50/$100 - 2023/11/01 04:42:03 UTC
+7 Day No Rathole 50/100 NLH 9-max Seat #3 is the button
+Seat 2: Luis Coppel ($3251.54)
+Seat 3: lmpala_zOrg ($2008.03)
+lmpala_zOrg posts the small blind $50
+Luis Coppel posts the big blind $100
+*** HOLE CARDS *** 
+lmpala_zOrg raises $150 to $200
+Luis Coppel calls $100
+*** FLOP *** [2d Td Qc]
+Main pot $398.75 | Rake $1.25
+Luis Coppel checks
+lmpala_zOrg checks
+*** TURN *** [2d Td Qc] [8s]
+Main pot $398.75 | Rake $1.25
+Luis Coppel bets $498.75
+lmpala_zOrg folds
+Uncalled bet ($498.75) returned to Luis Coppel
+Luis Coppel does not show
+*** SUMMARY ***
+Total pot $398.75 | Rake $1.25
+Seat 2: Luis Coppel (big blind) did not showed and won $398.75
+Seat 3: lmpala_zOrg (small blind) folded on the Turn
+
+
+Hand #1915347472 - Holdem(No Limit) - $50/$100 - 2023/11/01 04:43:10 UTC
+7 Day No Rathole 50/100 NLH 9-max Seat #2 is the button
+Seat 2: Luis Coppel ($3450.29)
+Seat 3: lmpala_zOrg ($1808.03)
+Luis Coppel posts the small blind $50
+lmpala_zOrg posts the big blind $100
+*** HOLE CARDS *** 
+Luis Coppel calls $50
+lmpala_zOrg raises $200 to $300
+Luis Coppel calls $200
+*** FLOP *** [Ah 6s 5s]
+Main pot $598.75 | Rake $1.25
+lmpala_zOrg bets $449.06
+Luis Coppel calls $449.06
+*** TURN *** [Ah 6s 5s] [7c]
+Main pot $1496.87 | Rake $1.25
+lmpala_zOrg checks
+Luis Coppel checks
+*** RIVER *** [Ah 6s 5s 7c] [8d]
+Main pot $1496.87 | Rake $1.25
+lmpala_zOrg bets $1058.97 and is all-in
+Luis Coppel folds
+Uncalled bet ($1058.97) returned to lmpala_zOrg
+lmpala_zOrg does not show
+*** SUMMARY ***
+Total pot $1496.87 | Rake $1.25
+Seat 2: Luis Coppel (small blind) folded on the River
+Seat 3: lmpala_zOrg (big blind) did not showed and won $1496.87
+
+
+Hand #1915348339 - Holdem(No Limit) - $50/$100 - 2023/11/01 04:44:16 UTC
+7 Day No Rathole 50/100 NLH 9-max Seat #3 is the button
+Seat 2: Luis Coppel ($2701.23)
+Seat 3: lmpala_zOrg ($2555.84)
+lmpala_zOrg posts the small blind $50
+Luis Coppel posts the big blind $100
+*** HOLE CARDS *** 
+lmpala_zOrg raises $150 to $200
+Luis Coppel calls $100
+*** FLOP *** [9h 7d Qs]
+Main pot $398.75 | Rake $1.25
+Luis Coppel checks
+lmpala_zOrg checks
+*** TURN *** [9h 7d Qs] [5d]
+Main pot $398.75 | Rake $1.25
+Luis Coppel bets $598.12
+lmpala_zOrg calls $598.12
+*** RIVER *** [9h 7d Qs 5d] [6h]
+Main pot $1594.99 | Rake $1.25
+Luis Coppel checks
+lmpala_zOrg bets $1757.72 and is all-in
+Luis Coppel calls $1757.72
+*** SHOW DOWN ***
+Main pot $1594.99 | Rake $1.25
+Luis Coppel shows [7s 5c]
+lmpala_zOrg shows [Td Jd]
+Luis Coppel collected $5110.43 from main pot
+*** SUMMARY ***
+Total pot $5110.43 | Rake $1.25
+Seat 2: Luis Coppel (big blind) showed [7s 5c] and won $5110.43 with TwoPair [7s 7d 5d 5c Qs]
+Seat 3: lmpala_zOrg (small blind) showed [Td Jd] and lost
+
+
+Hand #1915349191 - Holdem(No Limit) - $50/$100 - 2023/11/01 04:45:00 UTC
+7 Day No Rathole 50/100 NLH 9-max Seat #2 is the button
+Seat 2: Luis Coppel ($5255.82)
+Seat 3: lmpala_zOrg ($1000)
+Luis Coppel posts the small blind $50
+lmpala_zOrg posts the big blind $100
+*** HOLE CARDS *** 
+Luis Coppel calls $50
+lmpala_zOrg checks
+*** FLOP *** [9h 4h 5d]
+Main pot $198.75 | Rake $1.25
+lmpala_zOrg checks
+Luis Coppel checks
+*** TURN *** [9h 4h 5d] [Tc]
+Main pot $198.75 | Rake $1.25
+lmpala_zOrg checks
+Luis Coppel checks
+*** RIVER *** [9h 4h 5d Tc] [Ks]
+Main pot $198.75 | Rake $1.25
+lmpala_zOrg checks
+Luis Coppel bets $149.06
+lmpala_zOrg calls $149.06
+*** SHOW DOWN ***
+Main pot $198.75 | Rake $1.25
+Luis Coppel shows [Kd Jd]
+Luis Coppel collected $496.87 from main pot
+*** SUMMARY ***
+Total pot $496.87 | Rake $1.25
+Seat 2: Luis Coppel (small blind) showed [Kd Jd] and won $496.87 with OnePair [Ks Kd Jd Tc 9h]
+Seat 3: lmpala_zOrg (big blind) did not showed and lost
+
+
+Hand #1915349748 - Holdem(No Limit) - $50/$100 - 2023/11/01 04:45:56 UTC
+7 Day No Rathole 50/100 NLH 9-max Seat #3 is the button
+Seat 2: Luis Coppel ($5503.63)
+Seat 3: lmpala_zOrg ($1000)
+lmpala_zOrg posts the small blind $50
+Luis Coppel posts the big blind $100
+*** HOLE CARDS *** 
+lmpala_zOrg calls $50
+Luis Coppel checks
+*** FLOP *** [5d 3s 6h]
+Main pot $198.75 | Rake $1.25
+Luis Coppel checks
+lmpala_zOrg bets $149.06
+Luis Coppel calls $149.06
+*** TURN *** [5d 3s 6h] [9s]
+Main pot $496.87 | Rake $1.25
+Luis Coppel checks
+lmpala_zOrg checks
+*** RIVER *** [5d 3s 6h 9s] [6s]
+Main pot $496.87 | Rake $1.25
+Luis Coppel checks
+lmpala_zOrg bets $422.65
+Luis Coppel calls $422.65
+*** SHOW DOWN ***
+Main pot $496.87 | Rake $1.25
+lmpala_zOrg shows [Jd 6d]
+lmpala_zOrg collected $1342.17 from main pot
+*** SUMMARY ***
+Total pot $1342.17 | Rake $1.25
+Seat 2: Luis Coppel (big blind) did not showed and lost
+Seat 3: lmpala_zOrg (small blind) showed [Jd 6d] and won $1342.17 with ThreeOfAKind [6s 6h 6d Jd 9s]
+
+
+Hand #1915350510 - Holdem(No Limit) - $50/$100 - 2023/11/01 04:46:58 UTC
+7 Day No Rathole 50/100 NLH 9-max Seat #2 is the button
+Seat 2: Luis Coppel ($4831.92)
+Seat 3: lmpala_zOrg ($1670.46)
+Luis Coppel posts the small blind $50
+lmpala_zOrg posts the big blind $100
+*** HOLE CARDS *** 
+Luis Coppel calls $50
+lmpala_zOrg raises $200 to $300
+Luis Coppel calls $200
+*** FLOP *** [6c Tc 7d]
+Main pot $598.75 | Rake $1.25
+lmpala_zOrg checks
+Luis Coppel checks
+*** TURN *** [6c Tc 7d] [4d]
+Main pot $598.75 | Rake $1.25
+lmpala_zOrg checks
+Luis Coppel checks
+*** RIVER *** [6c Tc 7d 4d] [Ah]
+Main pot $598.75 | Rake $1.25
+lmpala_zOrg bets $397.59
+Luis Coppel folds
+Uncalled bet ($397.59) returned to lmpala_zOrg
+lmpala_zOrg does not show
+*** SUMMARY ***
+Total pot $598.75 | Rake $1.25
+Seat 2: Luis Coppel (small blind) folded on the River
+Seat 3: lmpala_zOrg (big blind) did not showed and won $598.75
+
+
+Hand #1915351249 - Holdem(No Limit) - $50/$100 - 2023/11/01 04:47:17 UTC
+7 Day No Rathole 50/100 NLH 9-max Seat #3 is the button
+Seat 2: Luis Coppel ($4531.92)
+Seat 3: lmpala_zOrg ($1969.21)
+lmpala_zOrg posts the small blind $50
+Luis Coppel posts the big blind $100
+*** HOLE CARDS *** 
+lmpala_zOrg raises $150 to $200
+Luis Coppel raises $4431.92 to $4531.92 and is all-in
+lmpala_zOrg folds
+Uncalled bet ($4331.92) returned to Luis Coppel
+Luis Coppel does not show
+*** SUMMARY ***
+Total pot $400
+Seat 2: Luis Coppel (big blind) did not showed and won $400
+Seat 3: lmpala_zOrg (small blind) folded on the Pre-Flop
+
+
+Hand #1915418019 - Holdem(No Limit) - $50/$100 - 2023/11/01 06:36:58 UTC
+7 Day No Rathole 50/100 NLH 9-max Seat #3 is the button
+Seat 1: Pr.Lupine ($10000)
+Seat 3: lmpala_zOrg ($1769.21)
+Seat 9: plyman416 ($1000)
+lmpala_zOrg posts the small blind $50
+plyman416 posts the big blind $100
+*** HOLE CARDS *** 
+lmpala_zOrg raises $1719.21 to $1769.21 and is all-in
+plyman416 calls $900 and is all-in
+Uncalled bet ($769.21) returned to lmpala_zOrg
+lmpala_zOrg does not show
+*** FLOP *** [2h As 7s]
+Main pot $1998.75 | Rake $1.25
+*** TURN *** [2h As 7s] [Jh]
+Main pot $1998.75 | Rake $1.25
+*** RIVER *** [2h As 7s Jh] [6d]
+Main pot $1998.75 | Rake $1.25
+*** SHOW DOWN ***
+Main pot $1998.75 | Rake $1.25
+lmpala_zOrg shows [Ah Tc]
+plyman416 shows [Qd Kh]
+lmpala_zOrg collected $1998.75 from main pot
+*** SUMMARY ***
+Total pot $1998.75 | Rake $1.25
+Seat 3: lmpala_zOrg (small blind) showed [Ah Tc] and won $1998.75 with OnePair [As Ah Jh Tc 7s]
+Seat 9: plyman416 (big blind) showed [Qd Kh] and lost
+
+
+Hand #1915418237 - Holdem(No Limit) - $50/$100 - 2023/11/01 06:37:25 UTC
+7 Day No Rathole 50/100 NLH 9-max Seat #3 is the button
+Seat 1: Pr.Lupine ($1185.78)
+Seat 3: lmpala_zOrg ($2767.96)
+Seat 9: plyman416 ($10000)
+lmpala_zOrg posts the small blind $50
+Pr.Lupine posts the big blind $100
+*** HOLE CARDS *** 
+lmpala_zOrg folds
+*** SUMMARY ***
+Total pot $150
+Seat 1: Pr.Lupine (big blind) did not showed and won $150
+Seat 3: lmpala_zOrg (small blind) folded on the Pre-Flop
+
+
+Hand #1915418347 - Holdem(No Limit) - $50/$100 - 2023/11/01 06:37:37 UTC
+7 Day No Rathole 50/100 NLH 9-max Seat #1 is the button
+Seat 1: Pr.Lupine ($1235.78)
+Seat 3: lmpala_zOrg ($2717.96)
+Pr.Lupine posts the small blind $50
+lmpala_zOrg posts the big blind $100
+*** HOLE CARDS *** 
+Pr.Lupine folds
+*** SUMMARY ***
+Total pot $150
+Seat 1: Pr.Lupine (small blind) folded on the Pre-Flop
+Seat 3: lmpala_zOrg (big blind) did not showed and won $150
+
+
+Hand #1915700069 - Holdem(No Limit) - $50/$100 - 2023/11/01 17:14:48 UTC
+7 Day No Rathole 50/100 NLH 9-max Seat #2 is the button
+Seat 1: Luis Coppel ($4731.92)
+Seat 2: yourmytralala ($4630.94)
+yourmytralala posts the small blind $50
+Luis Coppel posts the big blind $100
+*** HOLE CARDS *** 
+yourmytralala raises $170 to $220
+Luis Coppel folds
+Uncalled bet ($120) returned to yourmytralala
+yourmytralala does not show
+*** SUMMARY ***
+Total pot $200
+Seat 1: Luis Coppel (big blind) folded on the Pre-Flop
+Seat 2: yourmytralala (small blind) did not showed and won $200
+
+
+Hand #1915700257 - Holdem(No Limit) - $50/$100 - 2023/11/01 17:15:06 UTC
+7 Day No Rathole 50/100 NLH 9-max Seat #1 is the button
+Seat 1: Luis Coppel ($4631.92)
+Seat 2: yourmytralala ($4730.94)
+Luis Coppel posts the small blind $50
+yourmytralala posts the big blind $100
+*** HOLE CARDS *** 
+Luis Coppel calls $50
+yourmytralala raises $250 to $350
+Luis Coppel folds
+Uncalled bet ($250) returned to yourmytralala
+yourmytralala does not show
+*** SUMMARY ***
+Total pot $200
+Seat 1: Luis Coppel (small blind) folded on the Pre-Flop
+Seat 2: yourmytralala (big blind) did not showed and won $200
+
+
+
+

@@ -1,0 +1,290 @@
+
+Hand #1926935583 - Holdem(No Limit) - $25/$50 - 2023/11/11 06:42:36 UTC
+Indialantic 6-max Seat #4 is the button
+Seat 1: 7SkyAroundMe ($5000)
+Seat 2: bookwo2543 ($5000)
+Seat 3: ULTIMATEBOT ($5000)
+Seat 4: ILuvAvrilLavigne91 ($5000)
+Seat 5: bookwo2543 ($5000)
+7SkyAroundMe posts ante $250
+ILuvAvrilLavigne91 posts ante $250
+*** HOLE CARDS *** 
+*** FLOP *** [9d 8d Qd]
+Main pot $498.75 | Rake $1.25
+7SkyAroundMe checks
+ILuvAvrilLavigne91 checks
+*** TURN *** [9d 8d Qd] [As]
+Main pot $498.75 | Rake $1.25
+7SkyAroundMe checks
+ILuvAvrilLavigne91 checks
+*** RIVER *** [9d 8d Qd As] [9s]
+Main pot $498.75 | Rake $1.25
+7SkyAroundMe checks
+ILuvAvrilLavigne91 bets $374.06
+7SkyAroundMe calls $374.06
+*** SHOW DOWN ***
+Main pot $498.75 | Rake $1.25
+ILuvAvrilLavigne91 shows [Jh 9h]
+ILuvAvrilLavigne91 collected $1246.87 from main pot
+*** SUMMARY ***
+BombPot
+Total pot $1246.87 | Rake $1.25
+Seat 1: 7SkyAroundMe did not showed and lost
+Seat 4: ILuvAvrilLavigne91 (button) showed [Jh 9h] and won $1246.87 with ThreeOfAKind [9s 9h 9d As Qd]
+
+
+Hand #1926936807 - Holdem(No Limit) - $25/$50 - 2023/11/11 06:44:48 UTC
+Indialantic 6-max Seat #4 is the button
+Seat 1: 7SkyAroundMe ($4350.94)
+Seat 3: ULTIMATEBOT ($5025)
+Seat 4: ILuvAvrilLavigne91 ($5622.81)
+Seat 5: orgi69 ($5000)
+Seat 6: maybach1 ($5000)
+7SkyAroundMe posts ante $250
+ULTIMATEBOT posts ante $250
+ILuvAvrilLavigne91 posts ante $250
+orgi69 posts ante $250
+*** HOLE CARDS *** 
+*** FLOP *** [8h 3s 6h]
+Main pot $997.75 | Rake $2.25
+orgi69 checks
+7SkyAroundMe checks
+ULTIMATEBOT checks
+ILuvAvrilLavigne91 checks
+*** TURN *** [8h 3s 6h] [2h]
+Main pot $997.75 | Rake $2.25
+orgi69 checks
+7SkyAroundMe bets $330
+ULTIMATEBOT folds
+ILuvAvrilLavigne91 calls $330
+orgi69 calls $330
+*** RIVER *** [8h 3s 6h 2h] [Kc]
+Main pot $1987.75 | Rake $2.25
+orgi69 checks
+7SkyAroundMe checks
+ILuvAvrilLavigne91 checks
+*** SHOW DOWN ***
+Main pot $1987.75 | Rake $2.25
+orgi69 shows [Td 6s]
+orgi69 collected $1987.75 from main pot
+*** SUMMARY ***
+BombPot
+Total pot $1987.75 | Rake $2.25
+Seat 1: 7SkyAroundMe did not showed and lost
+Seat 3: ULTIMATEBOT folded on the Turn
+Seat 4: ILuvAvrilLavigne91 (button) did not showed and lost
+Seat 5: orgi69 showed [Td 6s] and won $1987.75 with OnePair [6s 6h Kc Td 8h]
+
+
+Hand #1926938290 - Holdem(No Limit) - $25/$50 - 2023/11/11 06:46:25 UTC
+Indialantic 6-max Seat #3 is the button
+Seat 1: 7SkyAroundMe ($3770.94)
+Seat 2: FlyingStyle ($5000)
+Seat 3: ULTIMATEBOT ($5000)
+Seat 4: ILuvAvrilLavigne91 ($5067.81)
+Seat 5: orgi69 ($6407.75)
+Seat 6: maybach1 ($5000)
+7SkyAroundMe posts ante $250
+ULTIMATEBOT posts ante $250
+ILuvAvrilLavigne91 posts ante $250
+orgi69 posts ante $250
+maybach1 posts ante $250
+*** HOLE CARDS *** 
+*** FLOP *** [Jh Qs 5h]
+Main pot $1247 | Rake $3
+ILuvAvrilLavigne91 checks
+orgi69 checks
+maybach1 checks
+7SkyAroundMe bets $125
+ULTIMATEBOT calls $125
+ILuvAvrilLavigne91 folds
+orgi69 folds
+maybach1 folds
+*** TURN *** [Jh Qs 5h] [7d]
+Main pot $1497 | Rake $3
+7SkyAroundMe bets $1500
+ULTIMATEBOT folds
+Uncalled bet ($1500) returned to 7SkyAroundMe
+7SkyAroundMe does not show
+*** SUMMARY ***
+BombPot
+Total pot $1497 | Rake $3
+Seat 1: 7SkyAroundMe did not showed and won $1497
+Seat 3: ULTIMATEBOT (button) folded on the Turn
+Seat 4: ILuvAvrilLavigne91 folded on the Flop
+Seat 5: orgi69 folded on the Flop
+Seat 6: maybach1 folded on the Flop
+
+
+Hand #1926997037 - Holdem(No Limit) - $25/$50 - 2023/11/11 08:35:05 UTC
+Indialantic 6-max Seat #5 is the button
+Seat 1: 7SkyAroundMe ($5009.17)
+Seat 2: FlyingStyle ($5000)
+Seat 5: merkx ($5000)
+7SkyAroundMe posts ante $250
+merkx posts ante $250
+*** HOLE CARDS *** 
+*** FLOP *** [Qd Tc Ks]
+Main pot $498.75 | Rake $1.25
+7SkyAroundMe checks
+merkx checks
+*** TURN *** [Qd Tc Ks] [7c]
+Main pot $498.75 | Rake $1.25
+7SkyAroundMe bets $750
+merkx folds
+Uncalled bet ($750) returned to 7SkyAroundMe
+7SkyAroundMe does not show
+*** SUMMARY ***
+BombPot
+Total pot $498.75 | Rake $1.25
+Seat 1: 7SkyAroundMe did not showed and won $498.75
+Seat 5: merkx (button) folded on the Turn
+
+
+Hand #1927002702 - Holdem(No Limit) - $25/$50 - 2023/11/11 08:48:47 UTC
+Indialantic 6-max Seat #4 is the button
+Seat 1: 7SkyAroundMe ($5370.92)
+Seat 2: FlyingStyle ($5000)
+Seat 3: honey_badger ($7444.80)
+Seat 4: uhhhyesandno ($5065)
+Seat 5: merkx ($5664.21)
+Seat 6: greendogshin ($5422.62)
+7SkyAroundMe posts ante $250
+FlyingStyle posts ante $250
+honey_badger posts ante $250
+uhhhyesandno posts ante $250
+merkx posts ante $250
+greendogshin posts ante $250
+*** HOLE CARDS *** 
+*** FLOP *** [8d 6c 3s]
+Main pot $1497 | Rake $3
+merkx checks
+greendogshin checks
+7SkyAroundMe checks
+FlyingStyle checks
+honey_badger bets $275
+uhhhyesandno calls $275
+merkx calls $275
+greendogshin calls $275
+7SkyAroundMe folds
+FlyingStyle folds
+*** TURN *** [8d 6c 3s] [3d]
+Main pot $2597 | Rake $3
+merkx checks
+greendogshin checks
+honey_badger bets $1250
+uhhhyesandno folds
+merkx calls $1250
+greendogshin folds
+*** RIVER *** [8d 6c 3s 3d] [5h]
+Main pot $5097 | Rake $3
+merkx checks
+honey_badger checks
+*** SHOW DOWN ***
+Main pot $5097 | Rake $3
+honey_badger shows [9d 5d]
+honey_badger collected $5097 from main pot
+*** SUMMARY ***
+BombPot
+Total pot $5097 | Rake $3
+Seat 1: 7SkyAroundMe folded on the Flop
+Seat 2: FlyingStyle folded on the Flop
+Seat 3: honey_badger showed [9d 5d] and won $5097 with TwoPair [5h 5d 3s 3d 9d]
+Seat 4: uhhhyesandno (button) folded on the Turn
+Seat 5: merkx did not showed and lost
+Seat 6: greendogshin folded on the Turn
+
+
+Hand #1927004822 - Holdem(No Limit) - $25/$50 - 2023/11/11 08:52:47 UTC
+Indialantic 6-max Seat #1 is the button
+Seat 1: 7SkyAroundMe ($5120.92)
+Seat 2: FlyingStyle ($5647)
+Seat 3: honey_badger ($10141.80)
+Seat 4: uhhhyesandno ($5000)
+Seat 5: merkx ($5000)
+Seat 6: Jazzman14 ($5000)
+7SkyAroundMe posts ante $250
+FlyingStyle posts ante $250
+honey_badger posts ante $250
+uhhhyesandno posts ante $250
+merkx posts ante $250
+*** HOLE CARDS *** 
+*** FLOP *** [5c Ac 2d]
+Main pot $1247 | Rake $3
+FlyingStyle checks
+honey_badger checks
+uhhhyesandno bets $150
+merkx raises $450 to $450
+7SkyAroundMe folds
+FlyingStyle folds
+honey_badger folds
+uhhhyesandno calls $300
+*** TURN *** [5c Ac 2d] [7d]
+Main pot $2147 | Rake $3
+uhhhyesandno checks
+merkx bets $537.50
+uhhhyesandno folds
+Uncalled bet ($537.50) returned to merkx
+merkx does not show
+*** SUMMARY ***
+BombPot
+Total pot $2147 | Rake $3
+Seat 1: 7SkyAroundMe (button) folded on the Flop
+Seat 2: FlyingStyle folded on the Flop
+Seat 3: honey_badger folded on the Flop
+Seat 4: uhhhyesandno folded on the Turn
+Seat 5: merkx did not showed and won $2147
+
+
+Hand #1927011382 - Holdem(No Limit) - $25/$50 - 2023/11/11 09:10:57 UTC
+Indialantic 6-max Seat #2 is the button
+Seat 1: 7SkyAroundMe ($5241.25)
+Seat 2: FlyingStyle ($5754.85)
+Seat 3: honey_badger ($12614.67)
+Seat 4: uhhhyesandno ($5000)
+Seat 5: merkx ($5147)
+Seat 6: Jazzman14 ($2225)
+7SkyAroundMe posts ante $250
+FlyingStyle posts ante $250
+honey_badger posts ante $250
+uhhhyesandno posts ante $250
+merkx posts ante $250
+Jazzman14 posts ante $250
+*** HOLE CARDS *** 
+*** FLOP *** [Kh 6d 8c]
+Main pot $1497 | Rake $3
+honey_badger bets $275
+uhhhyesandno folds
+merkx raises $550 to $550
+Jazzman14 folds
+7SkyAroundMe folds
+FlyingStyle calls $550
+honey_badger calls $275
+*** TURN *** [Kh 6d 8c] [3d]
+Main pot $3147 | Rake $3
+honey_badger checks
+merkx bets $787.50
+FlyingStyle calls $787.50
+honey_badger folds
+*** RIVER *** [Kh 6d 8c 3d] [7s]
+Main pot $4722 | Rake $3
+merkx checks
+FlyingStyle bets $4167.35 and is all-in
+merkx calls $3559.50 and is all-in
+Uncalled bet ($607.85) returned to FlyingStyle
+FlyingStyle does not show
+*** SHOW DOWN ***
+Main pot $4722 | Rake $3
+FlyingStyle shows [8s 8d]
+merkx shows [Tc Th]
+FlyingStyle collected $11841 from main pot
+*** SUMMARY ***
+BombPot
+Total pot $11841 | Rake $3
+Seat 1: 7SkyAroundMe folded on the Flop
+Seat 2: FlyingStyle (button) showed [8s 8d] and won $11841 with ThreeOfAKind [8s 8d 8c Kh 7s]
+Seat 3: honey_badger folded on the Turn
+Seat 4: uhhhyesandno folded on the Flop
+Seat 5: merkx showed [Tc Th] and lost
+Seat 6: Jazzman14 folded on the Flop
+

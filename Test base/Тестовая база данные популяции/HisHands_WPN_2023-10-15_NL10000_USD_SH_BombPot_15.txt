@@ -1,0 +1,589 @@
+
+Hand #1895460812 - Holdem(No Limit) - $50/$100 - 2023/10/15 00:34:00 UTC
+El Paso 6-max Seat #2 is the button
+Seat 2: TIKITAKA11 ($10000)
+Seat 3: epsteinsboy ($10000)
+Seat 5: Burundos254 ($10000)
+TIKITAKA11 posts ante $500
+Burundos254 posts ante $500
+*** HOLE CARDS *** 
+*** FLOP *** [Qd 3c Th]
+Main pot $998.75 | Rake $1.25
+Burundos254 checks
+TIKITAKA11 bets $200
+Burundos254 calls $200
+*** TURN *** [Qd 3c Th] [8s]
+Main pot $1398.75 | Rake $1.25
+Burundos254 checks
+TIKITAKA11 bets $924
+Burundos254 folds
+Uncalled bet ($924) returned to TIKITAKA11
+TIKITAKA11 does not show
+*** SUMMARY ***
+BombPot
+Total pot $1398.75 | Rake $1.25
+Seat 2: TIKITAKA11 (button) did not showed and won $1398.75
+Seat 5: Burundos254 folded on the Turn
+
+
+Hand #1895593666 - Holdem(No Limit) - $50/$100 - 2023/10/15 02:37:15 UTC
+El Paso 6-max Seat #1 is the button
+Seat 1: lol voidaments ($10000)
+Seat 2: SigadiSogadi ($10000)
+Seat 3: epsteinsboy ($10000)
+Seat 4: shaysguy ($4000)
+Seat 5: Sabazius ($10000)
+Seat 6: TeaDrunkard ($10000)
+lol voidaments posts ante $500
+shaysguy posts ante $500
+*** HOLE CARDS *** 
+*** FLOP *** [Ad As Ts]
+Main pot $998.75 | Rake $1.25
+shaysguy checks
+lol voidaments checks
+*** TURN *** [Ad As Ts] [2d]
+Main pot $998.75 | Rake $1.25
+shaysguy checks
+lol voidaments bets $300
+shaysguy calls $300
+*** RIVER *** [Ad As Ts 2d] [Qh]
+Main pot $1598.75 | Rake $1.25
+shaysguy checks
+lol voidaments checks
+*** SHOW DOWN ***
+Main pot $1598.75 | Rake $1.25
+lol voidaments shows [3h 3s]
+lol voidaments collected $1598.75 from main pot
+*** SUMMARY ***
+BombPot
+Total pot $1598.75 | Rake $1.25
+Seat 1: lol voidaments (button) showed [3h 3s] and won $1598.75 with TwoPair [As Ad 3s 3h Qh]
+Seat 4: shaysguy did not showed and lost
+
+
+Hand #1895599622 - Holdem(No Limit) - $50/$100 - 2023/10/15 02:43:56 UTC
+El Paso 6-max Seat #6 is the button
+Seat 1: lol voidaments ($10398.75)
+Seat 2: SigadiSogadi ($4781.99)
+Seat 3: epsteinsboy ($10000)
+Seat 4: shaysguy ($2849.50)
+Seat 5: Sabazius ($4297)
+Seat 6: TeaDrunkard ($4477.51)
+lol voidaments posts ante $500
+SigadiSogadi posts ante $500
+epsteinsboy posts ante $500
+shaysguy posts ante $500
+Sabazius posts ante $500
+TeaDrunkard posts ante $500
+*** HOLE CARDS *** 
+*** FLOP *** [Qd Tc Qs]
+Main pot $2997 | Rake $3
+lol voidaments checks
+SigadiSogadi bets $300
+epsteinsboy folds
+shaysguy calls $300
+Sabazius folds
+TeaDrunkard folds
+lol voidaments folds
+*** TURN *** [Qd Tc Qs] [4d]
+Main pot $3597 | Rake $3
+SigadiSogadi bets $300
+shaysguy raises $600 to $600
+SigadiSogadi calls $300
+*** RIVER *** [Qd Tc Qs 4d] [Ts]
+Main pot $4797 | Rake $3
+SigadiSogadi bets $2400
+shaysguy calls $1449.50 and is all-in
+Uncalled bet ($950.50) returned to SigadiSogadi
+SigadiSogadi does not show
+*** SHOW DOWN ***
+Main pot $4797 | Rake $3
+shaysguy shows [Ks Qh]
+SigadiSogadi shows [2c 2s]
+shaysguy collected $7696 from main pot
+*** SUMMARY ***
+BombPot
+Total pot $7696 | Rake $3
+Seat 1: lol voidaments folded on the Flop
+Seat 2: SigadiSogadi showed [2c 2s] and lost
+Seat 3: epsteinsboy folded on the Flop
+Seat 4: shaysguy showed [Ks Qh] and won $7696 with FullHouse [Qs Qh Qd Ts Tc]
+Seat 5: Sabazius folded on the Flop
+Seat 6: TeaDrunkard (button) folded on the Flop
+
+
+Hand #1895619072 - Holdem(No Limit) - $50/$100 - 2023/10/15 03:07:30 UTC
+El Paso 6-max Seat #5 is the button
+Seat 1: lol voidaments ($12667.75)
+Seat 2: SigadiSogadi ($11609.50)
+Seat 3: epsteinsboy ($10050)
+Seat 4: shaysguy ($3830)
+Seat 5: Sabazius ($5077.50)
+Seat 6: TeaDrunkard ($4000)
+lol voidaments posts ante $500
+SigadiSogadi posts ante $500
+epsteinsboy posts ante $500
+shaysguy posts ante $500
+Sabazius posts ante $500
+TeaDrunkard posts ante $500
+*** HOLE CARDS *** 
+*** FLOP *** [Jd 5d Qh]
+Main pot $2997 | Rake $3
+TeaDrunkard bets $300
+lol voidaments folds
+SigadiSogadi folds
+epsteinsboy folds
+shaysguy folds
+Sabazius calls $300
+*** TURN *** [Jd 5d Qh] [7s]
+Main pot $3597 | Rake $3
+TeaDrunkard bets $1187.01
+Sabazius folds
+Uncalled bet ($1187.01) returned to TeaDrunkard
+TeaDrunkard does not show
+*** SUMMARY ***
+BombPot
+Total pot $3597 | Rake $3
+Seat 1: lol voidaments folded on the Flop
+Seat 2: SigadiSogadi folded on the Flop
+Seat 3: epsteinsboy folded on the Flop
+Seat 4: shaysguy folded on the Flop
+Seat 5: Sabazius (button) folded on the Turn
+Seat 6: TeaDrunkard did not showed and won $3597
+
+
+Hand #1895627553 - Holdem(No Limit) - $50/$100 - 2023/10/15 03:17:56 UTC
+El Paso 6-max Seat #5 is the button
+Seat 1: lol voidaments ($10894.75)
+Seat 2: SigadiSogadi ($11259.50)
+Seat 3: epsteinsboy ($14329)
+Seat 4: shaysguy ($10000)
+Seat 5: Sabazius ($5684.50)
+Seat 6: TeaDrunkard ($7109)
+lol voidaments posts ante $500
+SigadiSogadi posts ante $500
+epsteinsboy posts ante $500
+Sabazius posts ante $500
+TeaDrunkard posts ante $500
+*** HOLE CARDS *** 
+*** FLOP *** [5s Th Kh]
+Main pot $2497 | Rake $3
+TeaDrunkard checks
+lol voidaments checks
+SigadiSogadi checks
+epsteinsboy bets $624
+Sabazius calls $624
+TeaDrunkard folds
+lol voidaments folds
+SigadiSogadi folds
+*** TURN *** [5s Th Kh] [4d]
+Main pot $3745 | Rake $3
+epsteinsboy bets $1123
+Sabazius calls $1123
+*** RIVER *** [5s Th Kh 4d] [Jh]
+Main pot $5991 | Rake $3
+epsteinsboy bets $8986
+Sabazius calls $3437.50 and is all-in
+Uncalled bet ($5548.50) returned to epsteinsboy
+epsteinsboy does not show
+*** SHOW DOWN ***
+Main pot $5991 | Rake $3
+Sabazius shows [8h Qh]
+epsteinsboy shows [Qc Ad]
+Sabazius collected $12866 from main pot
+*** SUMMARY ***
+BombPot
+Total pot $12866 | Rake $3
+Seat 1: lol voidaments folded on the Flop
+Seat 2: SigadiSogadi folded on the Flop
+Seat 3: epsteinsboy showed [Qc Ad] and lost
+Seat 5: Sabazius (button) showed [8h Qh] and won $12866 with Flush [Kh Qh Jh Th 8h]
+Seat 6: TeaDrunkard folded on the Flop
+
+
+Hand #1895652828 - Holdem(No Limit) - $50/$100 - 2023/10/15 03:46:21 UTC
+El Paso 6-max Seat #2 is the button
+Seat 1: lol voidaments ($10000)
+Seat 2: SigadiSogadi ($15338)
+Seat 3: epsteinsboy ($8390)
+Seat 4: shaysguy ($4319.50)
+Seat 5: SchnapsAttaks ($4000)
+Seat 6: Luis Coppel ($10000)
+lol voidaments posts ante $500
+SigadiSogadi posts ante $500
+epsteinsboy posts ante $500
+shaysguy posts ante $500
+SchnapsAttaks posts ante $500
+*** HOLE CARDS *** 
+*** FLOP *** [Kd Ks 9c]
+Main pot $2497 | Rake $3
+epsteinsboy checks
+shaysguy bets $555
+SchnapsAttaks folds
+lol voidaments folds
+SigadiSogadi raises $1360 to $1360
+epsteinsboy folds
+shaysguy calls $805
+*** TURN *** [Kd Ks 9c] [Ts]
+Main pot $5217 | Rake $3
+shaysguy checks
+SigadiSogadi bets $855
+shaysguy calls $855
+*** RIVER *** [Kd Ks 9c Ts] [9s]
+Main pot $6927 | Rake $3
+shaysguy bets $1604.50 and is all-in
+SigadiSogadi folds
+Uncalled bet ($1604.50) returned to shaysguy
+shaysguy does not show
+*** SUMMARY ***
+BombPot
+Total pot $6927 | Rake $3
+Seat 1: lol voidaments folded on the Flop
+Seat 2: SigadiSogadi (button) folded on the River
+Seat 3: epsteinsboy folded on the Flop
+Seat 4: shaysguy did not showed and won $6927
+Seat 5: SchnapsAttaks folded on the Flop
+
+
+Hand #1895656569 - Holdem(No Limit) - $50/$100 - 2023/10/15 03:50:24 UTC
+El Paso 6-max Seat #3 is the button
+Seat 1: lol voidaments ($10000)
+Seat 2: SigadiSogadi ($14287)
+Seat 3: epsteinsboy ($8040)
+Seat 4: shaysguy ($7441.50)
+Seat 5: SchnapsAttaks ($9850)
+Seat 6: alanwatts15 ($10000)
+lol voidaments posts ante $500
+SigadiSogadi posts ante $500
+epsteinsboy posts ante $500
+shaysguy posts ante $500
+SchnapsAttaks posts ante $500
+alanwatts15 posts ante $500
+*** HOLE CARDS *** 
+*** FLOP *** [5h 4h Td]
+Main pot $2997 | Rake $3
+shaysguy checks
+SchnapsAttaks checks
+alanwatts15 checks
+lol voidaments checks
+SigadiSogadi checks
+epsteinsboy checks
+*** TURN *** [5h 4h Td] [Kd]
+Main pot $2997 | Rake $3
+shaysguy checks
+SchnapsAttaks bets $989
+alanwatts15 folds
+lol voidaments raises $3478 to $3478
+SigadiSogadi raises $13787 to $13787 and is all-in
+epsteinsboy folds
+shaysguy folds
+SchnapsAttaks folds
+lol voidaments folds
+Uncalled bet ($10309) returned to SigadiSogadi
+SigadiSogadi does not show
+*** SUMMARY ***
+BombPot
+Total pot $10942 | Rake $3
+Seat 1: lol voidaments folded on the Turn
+Seat 2: SigadiSogadi did not showed and won $10942
+Seat 3: epsteinsboy (button) folded on the Turn
+Seat 4: shaysguy folded on the Turn
+Seat 5: SchnapsAttaks folded on the Turn
+Seat 6: alanwatts15 folded on the Turn
+
+
+Hand #1895666258 - Holdem(No Limit) - $50/$100 - 2023/10/15 04:04:21 UTC
+El Paso 6-max Seat #5 is the button
+Seat 1: lol voidaments ($10000)
+Seat 2: SigadiSogadi ($20435.50)
+Seat 3: epsteinsboy ($8121)
+Seat 4: shaysguy ($8576.60)
+Seat 5: SchnapsAttaks ($9950)
+Seat 6: Sabazius ($5072)
+lol voidaments posts ante $500
+SigadiSogadi posts ante $500
+epsteinsboy posts ante $500
+shaysguy posts ante $500
+SchnapsAttaks posts ante $500
+Sabazius posts ante $500
+*** HOLE CARDS *** 
+*** FLOP *** [3h 2d 8h]
+Main pot $2997 | Rake $3
+Sabazius bets $300
+lol voidaments calls $300
+SigadiSogadi folds
+epsteinsboy calls $300
+shaysguy calls $300
+SchnapsAttaks folds
+*** TURN *** [3h 2d 8h] [Jh]
+Main pot $4197 | Rake $3
+Sabazius checks
+lol voidaments checks
+epsteinsboy checks
+shaysguy checks
+*** RIVER *** [3h 2d 8h Jh] [Ad]
+Main pot $4197 | Rake $3
+Sabazius checks
+lol voidaments checks
+epsteinsboy checks
+shaysguy checks
+*** SHOW DOWN ***
+Main pot $4197 | Rake $3
+lol voidaments shows [6s 8s]
+lol voidaments collected $4197 from main pot
+*** SUMMARY ***
+BombPot
+Total pot $4197 | Rake $3
+Seat 1: lol voidaments showed [6s 8s] and won $4197 with OnePair [8s 8h Ad Jh 6s]
+Seat 2: SigadiSogadi folded on the Flop
+Seat 3: epsteinsboy did not showed and lost
+Seat 4: shaysguy did not showed and lost
+Seat 5: SchnapsAttaks (button) folded on the Flop
+Seat 6: Sabazius did not showed and lost
+
+
+Hand #1895683681 - Holdem(No Limit) - $50/$100 - 2023/10/15 04:22:39 UTC
+El Paso 6-max Seat #2 is the button
+Seat 1: lol voidaments ($21023)
+Seat 2: SigadiSogadi ($17820)
+Seat 3: epsteinsboy ($10000)
+Seat 4: shaysguy ($12893.10)
+Seat 5: SchnapsAttaks ($10150)
+Seat 6: Sabazius ($3482)
+lol voidaments posts ante $500
+SigadiSogadi posts ante $500
+epsteinsboy posts ante $500
+shaysguy posts ante $500
+SchnapsAttaks posts ante $500
+Sabazius posts ante $500
+*** HOLE CARDS *** 
+*** FLOP *** [3d 3h 7d]
+Main pot $2997 | Rake $3
+epsteinsboy checks
+shaysguy checks
+SchnapsAttaks checks
+Sabazius checks
+lol voidaments checks
+SigadiSogadi checks
+*** TURN *** [3d 3h 7d] [Kd]
+Main pot $2997 | Rake $3
+epsteinsboy checks
+shaysguy bets $1500
+SchnapsAttaks folds
+Sabazius folds
+lol voidaments folds
+SigadiSogadi calls $1500
+epsteinsboy folds
+*** RIVER *** [3d 3h 7d Kd] [Jd]
+Main pot $5997 | Rake $3
+shaysguy checks
+SigadiSogadi checks
+*** SHOW DOWN ***
+Main pot $5997 | Rake $3
+shaysguy shows [6c 3c]
+shaysguy collected $5997 from main pot
+*** SUMMARY ***
+BombPot
+Total pot $5997 | Rake $3
+Seat 1: lol voidaments folded on the Turn
+Seat 2: SigadiSogadi (button) did not showed and lost
+Seat 3: epsteinsboy folded on the Turn
+Seat 4: shaysguy showed [6c 3c] and won $5997 with ThreeOfAKind [3h 3d 3c Kd Jd]
+Seat 5: SchnapsAttaks folded on the Turn
+Seat 6: Sabazius folded on the Turn
+
+
+Hand #1895702218 - Holdem(No Limit) - $50/$100 - 2023/10/15 04:42:45 UTC
+El Paso 6-max Seat #4 is the button
+Seat 1: IdoGoats ($10000)
+Seat 2: SigadiSogadi ($14556.50)
+Seat 3: epsteinsboy ($10188.80)
+Seat 4: shaysguy ($16563.10)
+Seat 5: SchnapsAttaks ($11604.50)
+Seat 6: Sabazius ($5617.20)
+SigadiSogadi posts ante $500
+epsteinsboy posts ante $500
+shaysguy posts ante $500
+SchnapsAttaks posts ante $500
+Sabazius posts ante $500
+*** HOLE CARDS *** 
+*** FLOP *** [Qh 5d Qd]
+Main pot $2497 | Rake $3
+SchnapsAttaks bets $250
+Sabazius raises $800 to $800
+SigadiSogadi folds
+epsteinsboy folds
+shaysguy calls $800
+SchnapsAttaks folds
+*** TURN *** [Qh 5d Qd] [8h]
+Main pot $4347 | Rake $3
+Sabazius bets $1435.50
+shaysguy raises $6851.25 to $6851.25
+Sabazius calls $2881.70 and is all-in
+Uncalled bet ($2534.05) returned to shaysguy
+shaysguy does not show
+*** RUN IT TWICE ***
+*** RIVER 1 *** [Qh 5d Qd 8h] [6s]
+Main pot 1 $6490.70 | Rake $1.50
+*** SHOW DOWN 1 ***
+Main pot 1 $6490.70 | Rake $1.50
+shaysguy shows [Th Qs]
+Sabazius shows [Qc 7c]
+shaysguy collected $6490.70 from main pot 1
+*** RIVER 2 *** [Qh 5d Qd 8h] [As]
+Main pot 2 $6490.70 | Rake $1.50
+*** SHOW DOWN 2 ***
+Main pot 2 $6490.70 | Rake $1.50
+shaysguy shows [Th Qs]
+shaysguy collected $6490.70 from main pot 2
+*** SUMMARY ***
+BombPot
+Total pot $12981.40 | Rake $3
+Board 1 [Qh 5d Qd 8h 6s]
+Seat 2: SigadiSogadi folded on the Flop
+Seat 3: epsteinsboy folded on the Flop
+Seat 4: shaysguy (button) showed [Th Qs] and won $6490.70 with ThreeOfAKind [Qs Qh Qd Th 8h]
+Seat 5: SchnapsAttaks folded on the Flop
+Seat 6: Sabazius showed [Qc 7c] and lost
+Board 2 [Qh 5d Qd 8h As]
+Seat 2: SigadiSogadi folded on the Flop
+Seat 3: epsteinsboy folded on the Flop
+Seat 4: shaysguy (button) showed [Th Qs] and won $6490.70 with ThreeOfAKind [Qs Qh Qd Th 8h]
+Seat 5: SchnapsAttaks folded on the Flop
+Seat 6: Sabazius showed [Qc 7c] and lost
+
+
+Hand #1895755496 - Holdem(No Limit) - $50/$100 - 2023/10/15 05:56:58 UTC
+El Paso 6-max Seat #3 is the button
+Seat 1: lol voidaments ($10000)
+Seat 3: SeaLlama ($10000)
+lol voidaments posts ante $500
+SeaLlama posts ante $500
+*** HOLE CARDS *** 
+*** FLOP *** [Jh Kh Qc]
+Main pot $998.75 | Rake $1.25
+lol voidaments bets $720
+SeaLlama folds
+Uncalled bet ($720) returned to lol voidaments
+lol voidaments does not show
+*** SUMMARY ***
+BombPot
+Total pot $998.75 | Rake $1.25
+Seat 1: lol voidaments did not showed and won $998.75
+Seat 3: SeaLlama (button) folded on the Flop
+
+
+Hand #1895783289 - Holdem(No Limit) - $50/$100 - 2023/10/15 06:50:10 UTC
+El Paso 6-max Seat #2 is the button
+Seat 1: HornyOldMan ($10000)
+Seat 2: SeaLlama ($10000)
+Seat 5: alanwatts15 ($10000)
+Seat 6: IdoGoats ($10000)
+SeaLlama posts ante $500
+alanwatts15 posts ante $500
+*** HOLE CARDS *** 
+*** FLOP *** [6h 3c Jh]
+Main pot $998.75 | Rake $1.25
+alanwatts15 checks
+SeaLlama checks
+*** TURN *** [6h 3c Jh] [9h]
+Main pot $998.75 | Rake $1.25
+alanwatts15 checks
+SeaLlama checks
+*** RIVER *** [6h 3c Jh 9h] [4h]
+Main pot $998.75 | Rake $1.25
+alanwatts15 bets $300
+SeaLlama calls $300
+*** SHOW DOWN ***
+Main pot $998.75 | Rake $1.25
+SeaLlama shows [8s 4d]
+SeaLlama collected $1598.75 from main pot
+*** SUMMARY ***
+BombPot
+Total pot $1598.75 | Rake $1.25
+Seat 2: SeaLlama (button) showed [8s 4d] and won $1598.75 with OnePair [4h 4d Jh 9h 8s]
+Seat 5: alanwatts15 did not showed and lost
+
+
+Hand #1895808112 - Holdem(No Limit) - $50/$100 - 2023/10/15 07:44:48 UTC
+El Paso 6-max Seat #5 is the button
+Seat 2: PR0DIGY ($10000)
+Seat 5: alanwatts15 ($13747.50)
+PR0DIGY posts ante $500
+alanwatts15 posts ante $500
+*** HOLE CARDS *** 
+*** FLOP *** [2s Ac 2h]
+Main pot $998.75 | Rake $1.25
+PR0DIGY bets $289.63
+alanwatts15 calls $289.63
+*** TURN *** [2s Ac 2h] [7c]
+Main pot $1578.01 | Rake $1.25
+PR0DIGY bets $1973
+alanwatts15 folds
+Uncalled bet ($1973) returned to PR0DIGY
+PR0DIGY does not show
+*** SUMMARY ***
+BombPot
+Total pot $1578.01 | Rake $1.25
+Seat 2: PR0DIGY did not showed and won $1578.01
+Seat 5: alanwatts15 (button) folded on the Turn
+
+
+Hand #1895977496 - Holdem(No Limit) - $50/$100 - 2023/10/15 14:46:13 UTC
+El Paso 6-max Seat #5 is the button
+Seat 2: TIKITAKA11 ($10000)
+Seat 5: shaysguy ($4000)
+TIKITAKA11 posts ante $500
+shaysguy posts ante $500
+*** HOLE CARDS *** 
+*** FLOP *** [5s 4c Qc]
+Main pot $998.75 | Rake $1.25
+TIKITAKA11 checks
+shaysguy bets $250
+TIKITAKA11 raises $1000 to $1000
+shaysguy calls $750
+*** TURN *** [5s 4c Qc] [Jd]
+Main pot $2998.75 | Rake $1.25
+TIKITAKA11 checks
+shaysguy bets $1050
+TIKITAKA11 calls $1050
+*** RIVER *** [5s 4c Qc Jd] [3d]
+Main pot $5098.75 | Rake $1.25
+TIKITAKA11 checks
+shaysguy bets $1450 and is all-in
+TIKITAKA11 calls $1450
+*** SHOW DOWN ***
+Main pot $5098.75 | Rake $1.25
+shaysguy shows [5h 5c]
+TIKITAKA11 shows [Jc 3c]
+shaysguy collected $7998.75 from main pot
+*** SUMMARY ***
+BombPot
+Total pot $7998.75 | Rake $1.25
+Seat 2: TIKITAKA11 showed [Jc 3c] and lost
+Seat 5: shaysguy (button) showed [5h 5c] and won $7998.75 with ThreeOfAKind [5s 5h 5c Qc Jd]
+
+
+Hand #1895979158 - Holdem(No Limit) - $50/$100 - 2023/10/15 14:47:51 UTC
+El Paso 6-max Seat #2 is the button
+Seat 2: TIKITAKA11 ($10000)
+Seat 5: shaysguy ($11647.50)
+TIKITAKA11 posts ante $500
+shaysguy posts ante $500
+*** HOLE CARDS *** 
+*** FLOP *** [3c Qs 3s]
+Main pot $998.75 | Rake $1.25
+shaysguy checks
+TIKITAKA11 checks
+*** TURN *** [3c Qs 3s] [5h]
+Main pot $998.75 | Rake $1.25
+shaysguy bets $750
+TIKITAKA11 folds
+Uncalled bet ($750) returned to shaysguy
+shaysguy does not show
+*** SUMMARY ***
+BombPot
+Total pot $998.75 | Rake $1.25
+Seat 2: TIKITAKA11 (button) folded on the Turn
+Seat 5: shaysguy did not showed and won $998.75
+

@@ -1,0 +1,97 @@
+Hand #1791268019 - Holdem(No Limit) - $50/$100 - 2023/07/22 00:40:27 UTC
+7 Day No Rathole 50/100 NLH 9-max Seat #1 is the button
+Seat 1: THECAGE ($10750.54)
+Seat 6: CPUrul0r ($1000)
+THECAGE posts the small blind $50
+CPUrul0r posts the big blind $100
+*** HOLE CARDS *** 
+THECAGE calls $50
+CPUrul0r raises $900 to $1000 and is all-in
+THECAGE folds
+Uncalled bet ($900) returned to CPUrul0r
+CPUrul0r does not show
+*** SUMMARY ***
+Total pot $200
+Seat 1: THECAGE (small blind) folded on the Pre-Flop
+Seat 6: CPUrul0r (big blind) did not showed and won $200
+
+
+Hand #1791268631 - Holdem(No Limit) - $50/$100 - 2023/07/22 00:40:48 UTC
+7 Day No Rathole 50/100 NLH 9-max Seat #6 is the button
+Seat 1: THECAGE ($10650.54)
+Seat 6: CPUrul0r ($1100)
+CPUrul0r posts the small blind $50
+THECAGE posts the big blind $100
+*** HOLE CARDS *** 
+CPUrul0r raises $1050 to $1100 and is all-in
+THECAGE calls $1000
+*** RUN IT TWICE ***
+*** FLOP 1 *** [Th 9s Tc]
+Main pot 1 $1099.37 | Rake $0.63
+*** TURN 1 *** [Th 9s Tc] [8h]
+Main pot 1 $1099.37 | Rake $0.63
+*** RIVER 1 *** [Th 9s Tc 8h] [Ad]
+Main pot 1 $1099.37 | Rake $0.63
+*** SHOW DOWN 1 ***
+Main pot 1 $1099.37 | Rake $0.63
+THECAGE shows [8d Ac] (a combo of some cards [Ad Ac Th Tc 9s])
+CPUrul0r shows [Ts 7s] (a combo of some cards [Ts Th Tc Ad 9s])
+CPUrul0r collected $1099.38 from main pot 1
+*** FLOP 2 *** [Qc Jc 2d]
+Main pot 2 $1099.38 | Rake $0.62
+*** TURN 2 *** [Qc Jc 2d] [3c]
+Main pot 2 $1099.38 | Rake $0.62
+*** RIVER 2 *** [Qc Jc 2d 3c] [Qh]
+Main pot 2 $1099.38 | Rake $0.62
+*** SHOW DOWN 2 ***
+Main pot 2 $1099.38 | Rake $0.62
+THECAGE shows [8d Ac] (a combo of some cards [Qh Qc Ac Jc 8d])
+CPUrul0r shows [Ts 7s] (a combo of some cards [Qh Qc Jc Ts 7s])
+THECAGE collected $1099.37 from main pot 2
+*** SUMMARY ***
+Total pot $2198.75 | Rake $1.25
+Board 1 [Th 9s Tc 8h Ad]
+Seat 1: THECAGE (big blind) showed [8d Ac] and lost with a
+Seat 6: CPUrul0r (small blind) showed [Ts 7s] and won $1099.38 with ThreeOfAKind [Ts Th Tc Ad 9s]
+Board 2 [Qc Jc 2d 3c Qh]
+Seat 1: THECAGE (big blind) showed [8d Ac] and won $1099.37 with OnePair [Qh Qc Ac Jc 8d]
+Seat 6: CPUrul0r (small blind) showed [Ts 7s] and lost with a
+
+
+Hand #1791280799 - Holdem(No Limit) - $50/$100 - 2023/07/22 00:50:56 UTC
+7 Day No Rathole 50/100 NLH 9-max Seat #1 is the button
+Seat 1: THECAGE ($10649.91)
+Seat 2: chop-ch0p ($1000)
+Seat 6: CPUrul0r ($10000)
+THECAGE posts the small blind $50
+chop-ch0p posts the big blind $100
+*** HOLE CARDS *** 
+THECAGE raises $10599.91 to $10649.91 and is all-in
+chop-ch0p folds
+Uncalled bet ($10549.91) returned to THECAGE
+THECAGE does not show
+*** SUMMARY ***
+Total pot $200
+Seat 1: THECAGE (small blind) did not showed and won $200
+Seat 2: chop-ch0p (big blind) folded on the Pre-Flop
+
+
+Hand #1791281235 - Holdem(No Limit) - $50/$100 - 2023/07/22 00:51:16 UTC
+7 Day No Rathole 50/100 NLH 9-max Seat #2 is the button
+Seat 1: THECAGE ($10749.91)
+Seat 2: chop-ch0p ($1000)
+chop-ch0p posts the small blind $50
+THECAGE posts the big blind $100
+*** HOLE CARDS *** 
+chop-ch0p raises $950 to $1000 and is all-in
+THECAGE folds
+Uncalled bet ($900) returned to chop-ch0p
+chop-ch0p does not show
+*** SUMMARY ***
+Total pot $200
+Seat 1: THECAGE (big blind) folded on the Pre-Flop
+Seat 2: chop-ch0p (small blind) did not showed and won $200
+
+
+
+

@@ -1,0 +1,62 @@
+Hand #1914345463 - Holdem(No Limit) - $50/$100 - 2023/10/31 05:00:14 UTC
+Prowers 6-max Seat #2 is the button
+Seat 2: 7SkyAroundMe ($10000)
+Seat 5: PR0DIGY ($10000)
+7SkyAroundMe posts ante $500
+PR0DIGY posts ante $500
+*** HOLE CARDS *** 
+*** FLOP *** [9c Jh 9d]
+Main pot $998.75 | Rake $1.25
+PR0DIGY checks
+7SkyAroundMe bets $200
+PR0DIGY calls $200
+*** TURN *** [9c Jh 9d] [As]
+Main pot $1398.75 | Rake $1.25
+PR0DIGY checks
+7SkyAroundMe checks
+*** RIVER *** [9c Jh 9d As] [3c]
+Main pot $1398.75 | Rake $1.25
+PR0DIGY checks
+7SkyAroundMe checks
+*** SHOW DOWN ***
+Main pot $1398.75 | Rake $1.25
+7SkyAroundMe shows [4c 4s]
+7SkyAroundMe collected $1398.75 from main pot
+*** SUMMARY ***
+BombPot
+Total pot $1398.75 | Rake $1.25
+Seat 2: 7SkyAroundMe (button) showed [4c 4s] and won $1398.75 with TwoPair [9d 9c 4s 4c As]
+Seat 5: PR0DIGY did not showed and lost
+
+
+Hand #1914780369 - Holdem(No Limit) - $50/$100 - 2023/10/31 18:45:35 UTC
+Prowers 6-max Seat #5 is the button
+Seat 2: vesnapisarovic ($10000)
+Seat 5: CWestmoreland ($10000)
+vesnapisarovic posts ante $500
+CWestmoreland posts ante $500
+*** HOLE CARDS *** 
+*** FLOP *** [Qd Ad 2d]
+Main pot $998.75 | Rake $1.25
+vesnapisarovic checks
+CWestmoreland checks
+*** TURN *** [Qd Ad 2d] [3c]
+Main pot $998.75 | Rake $1.25
+vesnapisarovic checks
+CWestmoreland bets $499.37
+vesnapisarovic calls $499.37
+*** RIVER *** [Qd Ad 2d 3c] [3d]
+Main pot $1997.49 | Rake $1.25
+vesnapisarovic checks
+CWestmoreland bets $1498.11
+vesnapisarovic calls $1498.11
+*** SHOW DOWN ***
+Main pot $1997.49 | Rake $1.25
+vesnapisarovic shows [3h 9d]
+vesnapisarovic collected $4993.71 from main pot
+*** SUMMARY ***
+BombPot
+Total pot $4993.71 | Rake $1.25
+Seat 2: vesnapisarovic showed [3h 9d] and won $4993.71 with Flush [Ad Qd 9d 3d 2d]
+Seat 5: CWestmoreland (button) did not showed and lost
+

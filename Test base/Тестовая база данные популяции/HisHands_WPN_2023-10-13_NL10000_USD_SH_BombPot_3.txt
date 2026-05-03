@@ -1,0 +1,129 @@
+
+Hand #1893630601 - Holdem(No Limit) - $50/$100 - 2023/10/13 06:41:39 UTC
+El Paso 6-max Seat #5 is the button
+Seat 1: ghahreman ($6752.53)
+Seat 2: oneplusone ($24927.19)
+Seat 3: IdoGoats ($6504.50)
+Seat 4: Burundos254 ($14273.33)
+Seat 5: lol voidaments ($10000)
+Seat 6: SeaLlama ($18187.81)
+ghahreman posts ante $500
+oneplusone posts ante $500
+IdoGoats posts ante $500
+Burundos254 posts ante $500
+lol voidaments posts ante $500
+SeaLlama posts ante $500
+*** HOLE CARDS *** 
+*** FLOP *** [7c Td Tc]
+Main pot $2997 | Rake $3
+SeaLlama checks
+ghahreman checks
+oneplusone checks
+IdoGoats bets $500
+Burundos254 folds
+lol voidaments folds
+SeaLlama calls $500
+ghahreman folds
+oneplusone folds
+*** TURN *** [7c Td Tc] [Ks]
+Main pot $3997 | Rake $3
+SeaLlama checks
+IdoGoats checks
+*** RIVER *** [7c Td Tc Ks] [Kh]
+Main pot $3997 | Rake $3
+SeaLlama bets $4000
+IdoGoats calls $4000
+*** SHOW DOWN ***
+Main pot $3997 | Rake $3
+SeaLlama shows [Th 8h]
+SeaLlama collected $11997 from main pot
+*** SUMMARY ***
+BombPot
+Total pot $11997 | Rake $3
+Seat 1: ghahreman folded on the Flop
+Seat 2: oneplusone folded on the Flop
+Seat 3: IdoGoats did not showed and lost
+Seat 4: Burundos254 folded on the Flop
+Seat 5: lol voidaments (button) folded on the Flop
+Seat 6: SeaLlama showed [Th 8h] and won $11997 with FullHouse [Th Td Tc Ks Kh]
+
+
+Hand #1893636345 - Holdem(No Limit) - $50/$100 - 2023/10/13 06:51:40 UTC
+El Paso 6-max Seat #4 is the button
+Seat 1: ghahreman ($5974.53)
+Seat 2: oneplusone ($24959.19)
+Seat 3: IdoGoats ($6495)
+Seat 4: Burundos254 ($12412.33)
+Seat 5: lol voidaments ($11147)
+Seat 6: SeaLlama ($24684.81)
+ghahreman posts ante $500
+oneplusone posts ante $500
+IdoGoats posts ante $500
+Burundos254 posts ante $500
+lol voidaments posts ante $500
+SeaLlama posts ante $500
+*** HOLE CARDS *** 
+*** FLOP *** [8c 3c Qc]
+Main pot $2997 | Rake $3
+lol voidaments checks
+SeaLlama checks
+ghahreman checks
+oneplusone bets $350
+IdoGoats calls $350
+Burundos254 folds
+lol voidaments folds
+SeaLlama calls $350
+ghahreman folds
+*** TURN *** [8c 3c Qc] [5s]
+Main pot $4047 | Rake $3
+SeaLlama checks
+oneplusone bets $1525
+IdoGoats calls $1525
+SeaLlama folds
+*** RIVER *** [8c 3c Qc 5s] [9c]
+Main pot $7097 | Rake $3
+oneplusone bets $4336
+IdoGoats folds
+Uncalled bet ($4336) returned to oneplusone
+oneplusone does not show
+*** SUMMARY ***
+BombPot
+Total pot $7097 | Rake $3
+Seat 1: ghahreman folded on the Flop
+Seat 2: oneplusone did not showed and won $7097
+Seat 3: IdoGoats folded on the River
+Seat 4: Burundos254 (button) folded on the Flop
+Seat 5: lol voidaments folded on the Flop
+Seat 6: SeaLlama folded on the Turn
+
+
+Hand #1893655637 - Holdem(No Limit) - $50/$100 - 2023/10/13 07:29:13 UTC
+El Paso 6-max Seat #5 is the button
+Seat 2: oneplusone ($30548.37)
+Seat 5: iWasOnly17 ($10000)
+oneplusone posts ante $500
+iWasOnly17 posts ante $500
+*** HOLE CARDS *** 
+*** FLOP *** [7h Ac Qd]
+Main pot $998.75 | Rake $1.25
+oneplusone checks
+iWasOnly17 checks
+*** TURN *** [7h Ac Qd] [Qc]
+Main pot $998.75 | Rake $1.25
+oneplusone bets $330
+iWasOnly17 raises $1360 to $1360
+oneplusone calls $1030
+*** RIVER *** [7h Ac Qd Qc] [Jd]
+Main pot $3718.75 | Rake $1.25
+oneplusone checks
+iWasOnly17 checks
+*** SHOW DOWN ***
+Main pot $3718.75 | Rake $1.25
+oneplusone shows [5h Qh]
+oneplusone collected $3718.75 from main pot
+*** SUMMARY ***
+BombPot
+Total pot $3718.75 | Rake $1.25
+Seat 2: oneplusone showed [5h Qh] and won $3718.75 with ThreeOfAKind [Qh Qd Qc Ac Jd]
+Seat 5: iWasOnly17 (button) did not showed and lost
+

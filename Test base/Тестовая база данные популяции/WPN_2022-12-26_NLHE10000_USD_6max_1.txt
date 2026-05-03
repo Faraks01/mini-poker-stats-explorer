@@ -1,0 +1,707 @@
+PokerStars Hand #1498965397:  Hold'em No Limit ($50.00/$100.00 USD) - 2022/12/26 16:00:44 ET
+Table 'WPN_Poway' 6-max Seat #6 is the button
+Seat 1: borntotilt ($11040.15 in chips)
+Seat 4: TIKITAKA11 ($12255.60 in chips)
+Seat 5: SigadiSogadi ($9850.00 in chips)
+Seat 6: iWasOnly17 ($9850.00 in chips)
+borntotilt: posts small blind $50.00
+TIKITAKA11: posts big blind $100.00
+*** HOLE CARDS ***
+SigadiSogadi: raises $120.00 to $220.00
+iWasOnly17: calls $220.00
+borntotilt: folds
+TIKITAKA11: calls $120.00
+*** FLOP *** [Td Ah 6c]
+TIKITAKA11: checks
+SigadiSogadi: checks
+iWasOnly17: checks
+*** TURN *** [Td Ah 6c] [Qd]
+TIKITAKA11: bets $504.10
+SigadiSogadi: calls $504.10
+iWasOnly17: folds
+*** RIVER *** [Td Ah 6c Qd] [5c]
+TIKITAKA11: bets $1718.20
+SigadiSogadi: calls $1718.20
+*** SHOW DOWN ***
+SigadiSogadi: shows [As Th]
+TIKITAKA11: mucks hand
+SigadiSogadi collected $5152.35 from pot
+*** SUMMARY ***
+Total pot $5154.60 | Rake $2.25
+Board [Td Ah 6c Qd 5c]
+Seat 1: borntotilt (small blind) folded before Flop
+Seat 4: TIKITAKA11 (big blind) mucked
+Seat 5: SigadiSogadi showed [As Th] and won ($5152.35)
+Seat 6: iWasOnly17 (button) folded on the Turn
+
+PokerStars Hand #1498966085:  Hold'em No Limit ($50.00/$100.00 USD) - 2022/12/26 16:02:07 ET
+Table 'WPN_Poway' 6-max Seat #1 is the button
+Seat 1: borntotilt ($10990.15 in chips)
+Seat 4: TIKITAKA11 ($10000.00 in chips)
+Seat 5: SigadiSogadi ($12560.05 in chips)
+Seat 6: iWasOnly17 ($9630.00 in chips)
+TIKITAKA11: posts small blind $50.00
+borntotilt: posts big blind $100.00
+*** HOLE CARDS ***
+TIKITAKA11: raises $200.00 to $300.00
+borntotilt: folds
+Uncalled bet ($200.00) returned to TIKITAKA11
+TIKITAKA11 collected $200.00 from pot
+TIKITAKA11: doesn't show hand
+*** SUMMARY ***
+Total pot $200.00 | Rake $0.00
+Seat 1: borntotilt (button) (big blind) folded before Flop
+Seat 4: TIKITAKA11 (small blind) collected ($200.00)
+
+PokerStars Hand #1498963965:  Hold'em No Limit ($50.00/$100.00 USD) - 2022/12/26 15:57:17 ET
+Table 'WPN_Poway' 6-max Seat #4 is the button
+Seat 1: borntotilt ($12998.75 in chips)
+Seat 4: TIKITAKA11 ($10000.00 in chips)
+borntotilt: posts the ante $500.00
+TIKITAKA11: posts the ante $500.00
+*** HOLE CARDS ***
+*** FLOP *** [Js 8h Kd]
+borntotilt: checks
+TIKITAKA11: bets $270.00
+borntotilt: calls $270.00
+*** TURN *** [Js 8h Kd] [Qc]
+borntotilt: checks
+TIKITAKA11: checks
+*** RIVER *** [Js 8h Kd Qc] [4s]
+borntotilt: checks
+TIKITAKA11: bets $1093.40
+borntotilt: folds
+Uncalled bet ($1093.40) returned to TIKITAKA11
+TIKITAKA11 collected $1538.75 from pot
+TIKITAKA11: doesn't show hand
+*** SUMMARY ***
+Total pot $1540.00 | Rake $1.25
+Board [Js 8h Kd Qc 4s]
+Seat 1: borntotilt folded on the River
+Seat 4: TIKITAKA11 (button) collected ($1538.75)
+
+PokerStars Hand #1498891266:  Hold'em No Limit ($50.00/$100.00 USD) - 2022/12/26 13:12:22 ET
+Table 'WPN_Poway' 6-max Seat #1 is the button
+Seat 1: J0hnMcclean ($10000.00 in chips)
+Seat 4: SigadiSogadi ($10000.00 in chips)
+J0hnMcclean: posts the ante $500.00
+SigadiSogadi: posts the ante $500.00
+*** HOLE CARDS ***
+*** FLOP *** [As Jd 4h]
+SigadiSogadi: checks
+J0hnMcclean: bets $300.00
+SigadiSogadi: raises $1200.00 to $1500.00
+J0hnMcclean: folds
+Uncalled bet ($1200.00) returned to SigadiSogadi
+SigadiSogadi collected $1598.75 from pot
+SigadiSogadi: doesn't show hand
+*** SUMMARY ***
+Total pot $1600.00 | Rake $1.25
+Board [As Jd 4h]
+Seat 1: J0hnMcclean (button) folded on the Flop
+Seat 4: SigadiSogadi collected ($1598.75)
+
+PokerStars Hand #1498915364:  Hold'em No Limit ($50.00/$100.00 USD) - 2022/12/26 14:20:02 ET
+Table 'WPN_Poway' 6-max Seat #4 is the button
+Seat 1: borntotilt ($10000.00 in chips)
+Seat 4: SigadiSogadi ($10798.75 in chips)
+borntotilt: posts the ante $500.00
+SigadiSogadi: posts the ante $500.00
+*** HOLE CARDS ***
+*** FLOP *** [Tc Kd Jh]
+borntotilt: checks
+SigadiSogadi: checks
+*** TURN *** [Tc Kd Jh] [8h]
+borntotilt: bets $700.00
+SigadiSogadi: raises $1800.00 to $2500.00
+borntotilt: raises $1800.00 to $4300.00
+SigadiSogadi: folds
+Uncalled bet ($1800.00) returned to borntotilt
+borntotilt collected $5998.75 from pot
+borntotilt: doesn't show hand
+*** SUMMARY ***
+Total pot $6000.00 | Rake $1.25
+Board [Tc Kd Jh 8h]
+Seat 1: borntotilt collected ($5998.75)
+Seat 4: SigadiSogadi (button) folded on the Turn
+
+PokerStars Hand #1498399394:  Hold'em No Limit ($50.00/$100.00 USD) - 2022/12/26 00:52:38 ET
+Table 'WPN_Powhattan' 6-max Seat #2 is the button
+Seat 2: THENIGHTKING1 ($4498.75 in chips)
+Seat 6: 7SkyAroundMe ($11415.00 in chips)
+THENIGHTKING1: posts small blind $50.00
+7SkyAroundMe: posts big blind $100.00
+*** HOLE CARDS ***
+THENIGHTKING1: raises $120.00 to $220.00
+7SkyAroundMe: calls $120.00
+*** FLOP *** [5c 8s Ts]
+7SkyAroundMe: checks
+THENIGHTKING1: checks
+*** TURN *** [5c 8s Ts] [2h]
+7SkyAroundMe: checks
+THENIGHTKING1: checks
+*** RIVER *** [5c 8s Ts 2h] [9d]
+7SkyAroundMe: bets $200.00
+THENIGHTKING1: folds
+Uncalled bet ($200.00) returned to 7SkyAroundMe
+7SkyAroundMe collected $438.75 from pot
+7SkyAroundMe: doesn't show hand
+*** SUMMARY ***
+Total pot $440.00 | Rake $1.25
+Board [5c 8s Ts 2h 9d]
+Seat 2: THENIGHTKING1 (button) (small blind) folded on the River
+Seat 6: 7SkyAroundMe (big blind) collected ($438.75)
+
+PokerStars Hand #1498397739:  Hold'em No Limit ($50.00/$100.00 USD) - 2022/12/26 00:51:14 ET
+Table 'WPN_Powhattan' 6-max Seat #6 is the button
+Seat 2: THENIGHTKING1 ($4000.00 in chips)
+Seat 6: 7SkyAroundMe ($11915.00 in chips)
+7SkyAroundMe: posts small blind $50.00
+THENIGHTKING1: posts big blind $100.00
+*** HOLE CARDS ***
+7SkyAroundMe: raises $100.00 to $200.00
+THENIGHTKING1: calls $100.00
+*** FLOP *** [Kd 6s Td]
+THENIGHTKING1: checks
+7SkyAroundMe: bets $300.00
+THENIGHTKING1: calls $300.00
+*** TURN *** [Kd 6s Td] [8c]
+THENIGHTKING1: checks
+7SkyAroundMe: checks
+*** RIVER *** [Kd 6s Td 8c] [5c]
+THENIGHTKING1: checks
+7SkyAroundMe: checks
+*** SHOW DOWN ***
+THENIGHTKING1: shows [5h Kh]
+7SkyAroundMe: mucks hand
+THENIGHTKING1 collected $998.75 from pot
+*** SUMMARY ***
+Total pot $1000.00 | Rake $1.25
+Board [Kd 6s Td 8c 5c]
+Seat 2: THENIGHTKING1 (big blind) showed [5h Kh] and won ($998.75)
+Seat 6: 7SkyAroundMe (button) (small blind) mucked
+
+PokerStars Hand #1498395893:  Hold'em No Limit ($50.00/$100.00 USD) - 2022/12/26 00:49:43 ET
+Table 'WPN_Powhattan' 6-max Seat #1 is the button
+Seat 1: chop-ch0p ($11747.75 in chips)
+Seat 4: zas911 ($9227.50 in chips)
+Seat 6: 7SkyAroundMe ($12665.00 in chips)
+zas911: posts small blind $50.00
+7SkyAroundMe: posts big blind $100.00
+*** HOLE CARDS ***
+chop-ch0p: folds
+zas911: raises $200.00 to $300.00
+7SkyAroundMe: calls $200.00
+*** FLOP *** [4c 2d 3d]
+zas911: checks
+7SkyAroundMe: checks
+*** TURN *** [4c 2d 3d] [9c]
+zas911: bets $450.00
+7SkyAroundMe: calls $450.00
+*** RIVER *** [4c 2d 3d 9c] [Jh]
+zas911: bets $1125.00
+7SkyAroundMe: folds
+Uncalled bet ($1125.00) returned to zas911
+zas911 collected $1498.25 from pot
+zas911: doesn't show hand
+*** SUMMARY ***
+Total pot $1500.00 | Rake $1.75
+Board [4c 2d 3d 9c Jh]
+Seat 1: chop-ch0p (button) folded before Flop (didn't bet)
+Seat 4: zas911 (small blind) collected ($1498.25)
+Seat 6: 7SkyAroundMe (big blind) folded on the River
+
+PokerStars Hand #1498393735:  Hold'em No Limit ($50.00/$100.00 USD) - 2022/12/26 00:47:56 ET
+Table 'WPN_Powhattan' 6-max Seat #6 is the button
+Seat 1: chop-ch0p ($11797.75 in chips)
+Seat 3: Sauhuo ($10000.00 in chips)
+Seat 4: zas911 ($11022.00 in chips)
+Seat 5: KingThang ($4000.00 in chips)
+Seat 6: 7SkyAroundMe ($10822.25 in chips)
+chop-ch0p: posts small blind $50.00
+zas911: posts big blind $100.00
+*** HOLE CARDS ***
+7SkyAroundMe: raises $150.00 to $250.00
+chop-ch0p: folds
+zas911: calls $150.00
+*** FLOP *** [5s 4s Qh]
+zas911: checks
+7SkyAroundMe: bets $181.50
+zas911: raises $506.50 to $688.00
+7SkyAroundMe: raises $856.50 to $1544.50
+zas911: calls $856.50
+*** TURN *** [5s 4s Qh] [2c]
+zas911: checks
+7SkyAroundMe: bets $1817.00
+zas911: folds
+Uncalled bet ($1817.00) returned to 7SkyAroundMe
+7SkyAroundMe collected $3637.25 from pot
+7SkyAroundMe: doesn't show hand
+*** SUMMARY ***
+Total pot $3639.00 | Rake $1.75
+Board [5s 4s Qh 2c]
+Seat 1: chop-ch0p (small blind) folded before Flop
+Seat 4: zas911 (big blind) folded on the Turn
+Seat 6: 7SkyAroundMe (button) collected ($3637.25)
+
+PokerStars Hand #1498391110:  Hold'em No Limit ($50.00/$100.00 USD) - 2022/12/26 00:46:01 ET
+Table 'WPN_Powhattan' 6-max Seat #3 is the button
+Seat 1: chop-ch0p ($10000.00 in chips)
+Seat 3: Sauhuo ($10000.00 in chips)
+Seat 4: zas911 ($11522.00 in chips)
+Seat 6: 7SkyAroundMe ($11622.25 in chips)
+chop-ch0p: posts the ante $500.00
+Sauhuo: posts the ante $500.00
+zas911: posts the ante $500.00
+7SkyAroundMe: posts the ante $500.00
+*** HOLE CARDS ***
+*** FLOP *** [6h 4s 6c]
+zas911: checks
+7SkyAroundMe: checks
+chop-ch0p: bets $300.00
+Sauhuo: folds
+zas911: folds
+7SkyAroundMe: calls $300.00
+*** TURN *** [6h 4s 6c] [4d]
+7SkyAroundMe: checks
+chop-ch0p: bets $858.00
+7SkyAroundMe: folds
+Uncalled bet ($858.00) returned to chop-ch0p
+chop-ch0p collected $2597.75 from pot
+chop-ch0p: doesn't show hand
+*** SUMMARY ***
+Total pot $2600.00 | Rake $2.25
+Board [6h 4s 6c 4d]
+Seat 1: chop-ch0p collected ($2597.75)
+Seat 3: Sauhuo (button) folded on the Flop
+Seat 4: zas911 folded on the Flop
+Seat 6: 7SkyAroundMe folded on the Turn
+
+PokerStars Hand #1498388012:  Hold'em No Limit ($50.00/$100.00 USD) - 2022/12/26 00:43:14 ET
+Table 'WPN_Powhattan' 6-max Seat #3 is the button
+Seat 1: chop-ch0p ($11448.60 in chips)
+Seat 3: Sauhuo ($10000.00 in chips)
+Seat 6: 7SkyAroundMe ($7635.00 in chips)
+7SkyAroundMe: posts small blind $50.00
+chop-ch0p: posts big blind $100.00
+*** HOLE CARDS ***
+Sauhuo: folds
+7SkyAroundMe: calls $50.00
+chop-ch0p: raises $250.00 to $350.00
+7SkyAroundMe: calls $250.00
+*** FLOP *** [6d Qh 4d]
+7SkyAroundMe: checks
+chop-ch0p: bets $350.00
+7SkyAroundMe: calls $350.00
+*** TURN *** [6d Qh 4d] [8h]
+7SkyAroundMe: checks
+chop-ch0p: checks
+*** RIVER *** [6d Qh 4d 8h] [Ts]
+7SkyAroundMe: bets $924.00
+chop-ch0p: calls $924.00
+*** SHOW DOWN ***
+7SkyAroundMe: shows [Js Qc]
+chop-ch0p: mucks hand
+7SkyAroundMe collected $3246.25 from pot
+*** SUMMARY ***
+Total pot $3248.00 | Rake $1.75
+Board [6d Qh 4d 8h Ts]
+Seat 1: chop-ch0p (big blind) mucked
+Seat 3: Sauhuo (button) folded before Flop (didn't bet)
+Seat 6: 7SkyAroundMe (small blind) showed [Js Qc] and won ($3246.25)
+
+PokerStars Hand #1498386238:  Hold'em No Limit ($50.00/$100.00 USD) - 2022/12/26 00:41:51 ET
+Table 'WPN_Powhattan' 6-max Seat #2 is the button
+Seat 1: chop-ch0p ($11448.60 in chips)
+Seat 2: HuntersNR1 ($9739.50 in chips)
+Seat 3: Sauhuo ($9900.00 in chips)
+Seat 4: zas911 ($11522.00 in chips)
+Seat 5: TaurusM00n ($7268.66 in chips)
+Seat 6: 7SkyAroundMe ($10060.00 in chips)
+Sauhuo: posts small blind $50.00
+7SkyAroundMe: posts big blind $100.00
+*** HOLE CARDS ***
+chop-ch0p: folds
+HuntersNR1: raises $150.00 to $250.00
+Sauhuo: folds
+7SkyAroundMe: raises $950.00 to $1200.00
+HuntersNR1: raises $1225.00 to $2425.00
+7SkyAroundMe: calls $1225.00
+*** FLOP *** [7d 7c 4d]
+7SkyAroundMe: checks
+HuntersNR1: bets $980.00
+7SkyAroundMe: folds
+Uncalled bet ($980.00) returned to HuntersNR1
+HuntersNR1 collected $4897.75 from pot
+HuntersNR1: doesn't show hand
+*** SUMMARY ***
+Total pot $4900.00 | Rake $2.25
+Board [7d 7c 4d]
+Seat 1: chop-ch0p folded before Flop (didn't bet)
+Seat 2: HuntersNR1 (button) collected ($4897.75)
+Seat 3: Sauhuo (small blind) folded before Flop
+Seat 6: 7SkyAroundMe (big blind) folded on the Flop
+
+PokerStars Hand #1498385470:  Hold'em No Limit ($50.00/$100.00 USD) - 2022/12/26 00:41:14 ET
+Table 'WPN_Powhattan' 6-max Seat #1 is the button
+Seat 1: chop-ch0p ($11298.60 in chips)
+Seat 2: HuntersNR1 ($9789.50 in chips)
+Seat 3: Sauhuo ($10000.00 in chips)
+Seat 4: zas911 ($11522.00 in chips)
+Seat 5: TaurusM00n ($7268.66 in chips)
+Seat 6: 7SkyAroundMe ($10060.00 in chips)
+HuntersNR1: posts small blind $50.00
+Sauhuo: posts big blind $100.00
+*** HOLE CARDS ***
+zas911: folds
+TaurusM00n: folds
+7SkyAroundMe: folds
+chop-ch0p: raises $150.00 to $250.00
+HuntersNR1: folds
+Sauhuo: folds
+Uncalled bet ($150.00) returned to chop-ch0p
+chop-ch0p collected $250.00 from pot
+chop-ch0p: doesn't show hand
+*** SUMMARY ***
+Total pot $250.00 | Rake $0.00
+Seat 1: chop-ch0p (button) collected ($250.00)
+Seat 2: HuntersNR1 (small blind) folded before Flop
+Seat 3: Sauhuo (big blind) folded before Flop
+Seat 4: zas911 folded before Flop (didn't bet)
+Seat 5: TaurusM00n folded before Flop (didn't bet)
+Seat 6: 7SkyAroundMe folded before Flop (didn't bet)
+
+PokerStars Hand #1498383180:  Hold'em No Limit ($50.00/$100.00 USD) - 2022/12/26 00:39:26 ET
+Table 'WPN_Powhattan' 6-max Seat #6 is the button
+Seat 1: chop-ch0p ($11348.60 in chips)
+Seat 2: HuntersNR1 ($11264.50 in chips)
+Seat 3: James12627 ($3023.50 in chips)
+Seat 4: zas911 ($10000.00 in chips)
+Seat 5: TaurusM00n ($7268.66 in chips)
+Seat 6: 7SkyAroundMe ($10060.00 in chips)
+chop-ch0p: posts small blind $50.00
+HuntersNR1: posts big blind $100.00
+*** HOLE CARDS ***
+James12627: folds
+zas911: raises $125.00 to $225.00
+TaurusM00n: folds
+7SkyAroundMe: folds
+chop-ch0p: folds
+HuntersNR1: calls $125.00
+*** FLOP *** [9s 7d 9c]
+HuntersNR1: checks
+zas911: bets $250.00
+HuntersNR1: calls $250.00
+*** TURN *** [9s 7d 9c] [7h]
+HuntersNR1: bets $100.00
+zas911: calls $100.00
+*** RIVER *** [9s 7d 9c 7h] [Tc]
+HuntersNR1: checks
+zas911: bets $900.00
+HuntersNR1: calls $900.00
+*** SHOW DOWN ***
+zas911: shows [8c 7c]
+HuntersNR1: mucks hand
+zas911 collected $2997.00 from pot
+*** SUMMARY ***
+Total pot $3000.00 | Rake $3.00
+Board [9s 7d 9c 7h Tc]
+Seat 1: chop-ch0p (small blind) folded before Flop
+Seat 2: HuntersNR1 (big blind) mucked
+Seat 3: James12627 folded before Flop (didn't bet)
+Seat 4: zas911 showed [8c 7c] and won ($2997.00)
+Seat 5: TaurusM00n folded before Flop (didn't bet)
+Seat 6: 7SkyAroundMe (button) folded before Flop (didn't bet)
+
+PokerStars Hand #1498380182:  Hold'em No Limit ($50.00/$100.00 USD) - 2022/12/26 00:37:07 ET
+Table 'WPN_Powhattan' 6-max Seat #5 is the button
+Seat 1: chop-ch0p ($9601.90 in chips)
+Seat 2: HuntersNR1 ($11264.50 in chips)
+Seat 3: James12627 ($3895.10 in chips)
+Seat 4: zas911 ($10000.00 in chips)
+Seat 5: TaurusM00n ($7508.66 in chips)
+Seat 6: 7SkyAroundMe ($10300.00 in chips)
+7SkyAroundMe: posts small blind $50.00
+chop-ch0p: posts big blind $100.00
+*** HOLE CARDS ***
+HuntersNR1: folds
+James12627: raises $140.00 to $240.00
+zas911: folds
+TaurusM00n: calls $240.00
+7SkyAroundMe: calls $190.00
+chop-ch0p: calls $140.00
+*** FLOP *** [3h 9d Td]
+7SkyAroundMe: checks
+chop-ch0p: checks
+James12627: checks
+TaurusM00n: checks
+*** TURN *** [3h 9d Td] [Th]
+7SkyAroundMe: checks
+chop-ch0p: checks
+James12627: bets $631.60
+TaurusM00n: folds
+7SkyAroundMe: folds
+chop-ch0p: calls $631.60
+*** RIVER *** [3h 9d Td Th] [8d]
+chop-ch0p: checks
+James12627: checks
+*** SHOW DOWN ***
+chop-ch0p: shows [5d Ad]
+James12627: mucks hand
+chop-ch0p collected $2220.20 from pot
+*** SUMMARY ***
+Total pot $2223.20 | Rake $3.00
+Board [3h 9d Td Th 8d]
+Seat 1: chop-ch0p (big blind) showed [5d Ad] and won ($2220.20)
+Seat 2: HuntersNR1 folded before Flop (didn't bet)
+Seat 3: James12627 mucked
+Seat 4: zas911 folded before Flop (didn't bet)
+Seat 5: TaurusM00n (button) folded on the Turn
+Seat 6: 7SkyAroundMe (small blind) folded on the Turn
+
+PokerStars Hand #1498379502:  Hold'em No Limit ($50.00/$100.00 USD) - 2022/12/26 00:36:34 ET
+Table 'WPN_Powhattan' 6-max Seat #4 is the button
+Seat 1: chop-ch0p ($9601.90 in chips)
+Seat 2: HuntersNR1 ($11264.50 in chips)
+Seat 3: James12627 ($3895.10 in chips)
+Seat 4: zas911 ($10000.00 in chips)
+Seat 5: TaurusM00n ($7808.66 in chips)
+Seat 6: 7SkyAroundMe ($9880.00 in chips)
+TaurusM00n: posts small blind $50.00
+7SkyAroundMe: posts big blind $100.00
+*** HOLE CARDS ***
+chop-ch0p: folds
+HuntersNR1: folds
+James12627: folds
+zas911: folds
+TaurusM00n: raises $200.00 to $300.00
+7SkyAroundMe: raises $600.00 to $900.00
+TaurusM00n: folds
+Uncalled bet ($600.00) returned to 7SkyAroundMe
+7SkyAroundMe collected $600.00 from pot
+7SkyAroundMe: doesn't show hand
+*** SUMMARY ***
+Total pot $600.00 | Rake $0.00
+Seat 1: chop-ch0p folded before Flop (didn't bet)
+Seat 2: HuntersNR1 folded before Flop (didn't bet)
+Seat 3: James12627 folded before Flop (didn't bet)
+Seat 4: zas911 (button) folded before Flop (didn't bet)
+Seat 5: TaurusM00n (small blind) folded before Flop
+Seat 6: 7SkyAroundMe (big blind) collected ($600.00)
+
+PokerStars Hand #1498377669:  Hold'em No Limit ($50.00/$100.00 USD) - 2022/12/26 00:35:09 ET
+Table 'WPN_Powhattan' 6-max Seat #3 is the button
+Seat 1: chop-ch0p ($10000.00 in chips)
+Seat 2: HuntersNR1 ($11264.50 in chips)
+Seat 3: James12627 ($3350.00 in chips)
+Seat 4: zas911 ($10000.00 in chips)
+Seat 5: TaurusM00n ($7908.66 in chips)
+Seat 6: 7SkyAroundMe ($9880.00 in chips)
+zas911: posts small blind $50.00
+TaurusM00n: posts big blind $100.00
+*** HOLE CARDS ***
+7SkyAroundMe: folds
+chop-ch0p: raises $110.00 to $210.00
+HuntersNR1: folds
+James12627: calls $210.00
+zas911: folds
+TaurusM00n: folds
+*** FLOP *** [3s Ac 8s]
+chop-ch0p: bets $188.10
+James12627: calls $188.10
+*** TURN *** [3s Ac 8s] [4h]
+chop-ch0p: checks
+James12627: bets $340.63
+chop-ch0p: folds
+Uncalled bet ($340.63) returned to James12627
+James12627 collected $943.20 from pot
+James12627: doesn't show hand
+*** SUMMARY ***
+Total pot $946.20 | Rake $3.00
+Board [3s Ac 8s 4h]
+Seat 1: chop-ch0p folded on the Turn
+Seat 2: HuntersNR1 folded before Flop (didn't bet)
+Seat 3: James12627 (button) collected ($943.20)
+Seat 4: zas911 (small blind) folded before Flop
+Seat 5: TaurusM00n (big blind) folded before Flop
+Seat 6: 7SkyAroundMe folded before Flop (didn't bet)
+
+PokerStars Hand #1498375632:  Hold'em No Limit ($50.00/$100.00 USD) - 2022/12/26 00:33:32 ET
+Table 'WPN_Powhattan' 6-max Seat #2 is the button
+Seat 1: chop-ch0p ($10000.00 in chips)
+Seat 2: HuntersNR1 ($10000.00 in chips)
+Seat 3: James12627 ($3400.00 in chips)
+Seat 4: zas911 ($9775.00 in chips)
+Seat 5: TaurusM00n ($7908.66 in chips)
+Seat 6: 7SkyAroundMe ($10997.50 in chips)
+James12627: posts small blind $50.00
+zas911: posts big blind $100.00
+*** HOLE CARDS ***
+TaurusM00n: folds
+7SkyAroundMe: raises $120.00 to $220.00
+chop-ch0p: folds
+HuntersNR1: raises $500.00 to $720.00
+James12627: folds
+zas911: folds
+7SkyAroundMe: calls $500.00
+*** FLOP *** [9c 6c 8s]
+7SkyAroundMe: checks
+HuntersNR1: checks
+*** TURN *** [9c 6c 8s] [7c]
+7SkyAroundMe: bets $397.50
+HuntersNR1: raises $1588.75 to $1986.25
+7SkyAroundMe: folds
+Uncalled bet ($1588.75) returned to HuntersNR1
+HuntersNR1 collected $2382.00 from pot
+HuntersNR1: doesn't show hand
+*** SUMMARY ***
+Total pot $2385.00 | Rake $3.00
+Board [9c 6c 8s 7c]
+Seat 1: chop-ch0p folded before Flop (didn't bet)
+Seat 2: HuntersNR1 (button) collected ($2382.00)
+Seat 3: James12627 (small blind) folded before Flop
+Seat 4: zas911 (big blind) folded before Flop
+Seat 5: TaurusM00n folded before Flop (didn't bet)
+Seat 6: 7SkyAroundMe folded on the Turn
+
+PokerStars Hand #1498375066:  Hold'em No Limit ($50.00/$100.00 USD) - 2022/12/26 00:33:05 ET
+Table 'WPN_Powhattan' 6-max Seat #1 is the button
+Seat 1: chop-ch0p ($10000.00 in chips)
+Seat 2: HuntersNR1 ($9900.00 in chips)
+Seat 3: James12627 ($3500.00 in chips)
+Seat 4: zas911 ($9775.00 in chips)
+Seat 5: TaurusM00n ($7908.66 in chips)
+Seat 6: 7SkyAroundMe ($10997.50 in chips)
+HuntersNR1: posts small blind $50.00
+James12627: posts big blind $100.00
+*** HOLE CARDS ***
+zas911: folds
+TaurusM00n: folds
+7SkyAroundMe: folds
+chop-ch0p: folds
+HuntersNR1: raises $200.00 to $300.00
+James12627: folds
+Uncalled bet ($200.00) returned to HuntersNR1
+HuntersNR1 collected $200.00 from pot
+HuntersNR1: doesn't show hand
+*** SUMMARY ***
+Total pot $200.00 | Rake $0.00
+Seat 1: chop-ch0p (button) folded before Flop (didn't bet)
+Seat 2: HuntersNR1 (small blind) collected ($200.00)
+Seat 3: James12627 (big blind) folded before Flop
+Seat 4: zas911 folded before Flop (didn't bet)
+Seat 5: TaurusM00n folded before Flop (didn't bet)
+Seat 6: 7SkyAroundMe folded before Flop (didn't bet)
+
+PokerStars Hand #1498373586:  Hold'em No Limit ($50.00/$100.00 USD) - 2022/12/26 00:32:09 ET
+Table 'WPN_Powhattan' 6-max Seat #6 is the button
+Seat 3: James12627 ($4000.00 in chips)
+Seat 4: zas911 ($10000.00 in chips)
+Seat 6: 7SkyAroundMe ($10498.75 in chips)
+James12627: posts the ante $500.00
+7SkyAroundMe: posts the ante $500.00
+*** HOLE CARDS ***
+*** FLOP *** [4s Jc 2s]
+James12627: checks
+7SkyAroundMe: bets $250.00
+James12627: folds
+Uncalled bet ($250.00) returned to 7SkyAroundMe
+7SkyAroundMe collected $998.75 from pot
+7SkyAroundMe: doesn't show hand
+*** SUMMARY ***
+Total pot $1000.00 | Rake $1.25
+Board [4s Jc 2s]
+Seat 3: James12627 folded on the Flop
+Seat 6: 7SkyAroundMe (button) collected ($998.75)
+
+PokerStars Hand #1498374517:  Hold'em No Limit ($50.00/$100.00 USD) - 2022/12/26 00:32:39 ET
+Table 'WPN_Powhattan' 6-max Seat #6 is the button
+Seat 1: chop-ch0p ($10000.00 in chips)
+Seat 2: HuntersNR1 ($10000.00 in chips)
+Seat 3: James12627 ($3500.00 in chips)
+Seat 4: zas911 ($10000.00 in chips)
+Seat 5: TaurusM00n ($7533.66 in chips)
+Seat 6: 7SkyAroundMe ($10997.50 in chips)
+chop-ch0p: posts small blind $50.00
+HuntersNR1: posts big blind $100.00
+*** HOLE CARDS ***
+James12627: folds
+zas911: raises $125.00 to $225.00
+TaurusM00n: raises $475.00 to $700.00
+7SkyAroundMe: folds
+chop-ch0p: folds
+HuntersNR1: folds
+zas911: folds
+Uncalled bet ($475.00) returned to TaurusM00n
+TaurusM00n collected $600.00 from pot
+TaurusM00n: doesn't show hand
+*** SUMMARY ***
+Total pot $600.00 | Rake $0.00
+Seat 1: chop-ch0p (small blind) folded before Flop
+Seat 2: HuntersNR1 (big blind) folded before Flop
+Seat 3: James12627 folded before Flop (didn't bet)
+Seat 4: zas911 folded before Flop
+Seat 5: TaurusM00n collected ($600.00)
+Seat 6: 7SkyAroundMe (button) folded before Flop (didn't bet)
+
+PokerStars Hand #1498362014:  Hold'em No Limit ($50.00/$100.00 USD) - 2022/12/26 00:23:16 ET
+Table 'WPN_Powhattan' 6-max Seat #6 is the button
+Seat 3: OGORRA ($4498.75 in chips)
+Seat 6: 7SkyAroundMe ($10000.00 in chips)
+OGORRA: posts the ante $500.00
+7SkyAroundMe: posts the ante $500.00
+*** HOLE CARDS ***
+*** FLOP *** [5c Qh 3c]
+OGORRA: checks
+7SkyAroundMe: bets $250.00
+OGORRA: folds
+Uncalled bet ($250.00) returned to 7SkyAroundMe
+7SkyAroundMe collected $998.75 from pot
+7SkyAroundMe: doesn't show hand
+*** SUMMARY ***
+Total pot $1000.00 | Rake $1.25
+Board [5c Qh 3c]
+Seat 3: OGORRA folded on the Flop
+Seat 6: 7SkyAroundMe (button) collected ($998.75)
+
+PokerStars Hand #1498249324:  Hold'em No Limit ($50.00/$100.00 USD) - 2022/12/25 22:56:39 ET
+Table 'WPN_Eagle Lake' 6-max Seat #6 is the button
+Seat 3: OGORRA ($3032.00 in chips)
+Seat 6: TIKITAKA11 ($10966.75 in chips)
+TIKITAKA11: posts small blind $50.00
+OGORRA: posts big blind $100.00
+*** HOLE CARDS ***
+TIKITAKA11: raises $100.00 to $200.00
+OGORRA: folds
+Uncalled bet ($100.00) returned to TIKITAKA11
+TIKITAKA11 collected $200.00 from pot
+TIKITAKA11: doesn't show hand
+*** SUMMARY ***
+Total pot $200.00 | Rake $0.00
+Seat 3: OGORRA (big blind) folded before Flop
+Seat 6: TIKITAKA11 (button) (small blind) collected ($200.00)
+
+PokerStars Hand #1498247893:  Hold'em No Limit ($50.00/$100.00 USD) - 2022/12/25 22:54:43 ET
+Table 'WPN_Steger' 6-max Seat #6 is the button
+Seat 3: OGORRA ($4000.00 in chips)
+Seat 6: TIKITAKA11 ($10000.00 in chips)
+OGORRA: posts the ante $500.00
+TIKITAKA11: posts the ante $500.00
+*** HOLE CARDS ***
+*** FLOP *** [3s Ac 6s]
+OGORRA: checks
+TIKITAKA11: bets $200.00
+OGORRA: calls $200.00
+*** TURN *** [3s Ac 6s] [9h]
+OGORRA: checks
+TIKITAKA11: bets $994.00
+OGORRA: folds
+Uncalled bet ($994.00) returned to TIKITAKA11
+TIKITAKA11 collected $1398.75 from pot
+TIKITAKA11: doesn't show hand
+*** SUMMARY ***
+Total pot $1400.00 | Rake $1.25
+Board [3s Ac 6s 9h]
+Seat 3: OGORRA folded on the Turn
+Seat 6: TIKITAKA11 (button) collected ($1398.75)
+

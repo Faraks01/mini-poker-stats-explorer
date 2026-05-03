@@ -1,0 +1,1262 @@
+Hand #1775839928 - Holdem(No Limit) - $50/$100 - 2023/07/09 21:15:11 UTC
+7 Day No Rathole 50/100 NLH 9-max Seat #3 is the button
+Seat 2: Sabazius ($1150)
+Seat 3: MaxHendrix ($1973.69)
+Seat 4: Gizineni ($10000)
+MaxHendrix posts the small blind $50
+Sabazius posts the big blind $100
+*** HOLE CARDS *** 
+MaxHendrix calls $50
+Sabazius raises $300 to $400
+MaxHendrix calls $300
+*** FLOP *** [9h Ac As]
+Main pot $798.75 | Rake $1.25
+Sabazius bets $150
+MaxHendrix folds
+Uncalled bet ($150) returned to Sabazius
+Sabazius does not show
+*** SUMMARY ***
+Total pot $798.75 | Rake $1.25
+Seat 2: Sabazius (big blind) did not showed and won $798.75
+Seat 3: MaxHendrix (small blind) folded on the Flop
+
+
+Hand #1775841781 - Holdem(No Limit) - $50/$100 - 2023/07/09 21:15:19 UTC
+7 Day No Rathole 50/100 NLH 9-max Seat #2 is the button
+Seat 2: Sabazius ($1548.75)
+Seat 3: MaxHendrix ($1573.69)
+Seat 4: Gizineni ($10000)
+Sabazius posts the small blind $50
+MaxHendrix posts the big blind $100
+*** HOLE CARDS *** 
+Sabazius folds
+*** SUMMARY ***
+Total pot $150
+Seat 2: Sabazius (small blind) folded on the Pre-Flop
+Seat 3: MaxHendrix (big blind) did not showed and won $150
+
+
+Hand #1775842072 - Holdem(No Limit) - $50/$100 - 2023/07/09 21:15:47 UTC
+7 Day No Rathole 50/100 NLH 9-max Seat #2 is the button
+Seat 2: Sabazius ($10000)
+Seat 3: MaxHendrix ($1623.69)
+Seat 4: Gizineni ($2359.56)
+Seat 5: FlyingStyle ($10000)
+MaxHendrix posts the small blind $50
+Gizineni posts the big blind $100
+*** HOLE CARDS *** 
+Sabazius folds
+MaxHendrix raises $1573.69 to $1623.69 and is all-in
+Gizineni folds
+Uncalled bet ($1523.69) returned to MaxHendrix
+MaxHendrix does not show
+*** SUMMARY ***
+Total pot $200
+Seat 2: Sabazius (button) folded on the Pre-Flop and did not bet
+Seat 3: MaxHendrix (small blind) did not showed and won $200
+Seat 4: Gizineni (big blind) folded on the Pre-Flop
+
+
+Hand #1775842979 - Holdem(No Limit) - $50/$100 - 2023/07/09 21:16:17 UTC
+7 Day No Rathole 50/100 NLH 9-max Seat #3 is the button
+Seat 2: Sabazius ($10000)
+Seat 3: MaxHendrix ($10000)
+Seat 4: Gizineni ($2259.56)
+Seat 5: FlyingStyle ($1000)
+Gizineni posts the small blind $50
+FlyingStyle posts the big blind $100
+*** HOLE CARDS *** 
+Sabazius folds
+MaxHendrix folds
+Gizineni calls $50
+FlyingStyle raises $900 to $1000 and is all-in
+Gizineni calls $900
+*** RUN IT TWICE ***
+*** FLOP 1 *** [6c Qs 6d]
+Main pot 1 $998.87 | Rake $1.13
+*** TURN 1 *** [6c Qs 6d] [Td]
+Main pot 1 $998.87 | Rake $1.13
+*** RIVER 1 *** [6c Qs 6d Td] [7h]
+Main pot 1 $998.87 | Rake $1.13
+*** SHOW DOWN 1 ***
+Main pot 1 $998.87 | Rake $1.13
+Gizineni shows [Th Tc] (a combo of some cards [Th Td Tc 6d 6c])
+FlyingStyle shows [Ac 7s] (a combo of some cards [7s 7h 6d 6c Ac])
+Gizineni collected $998.88 from main pot 1
+*** FLOP 2 *** [7d 3d 9h]
+Main pot 2 $998.88 | Rake $1.12
+*** TURN 2 *** [7d 3d 9h] [9c]
+Main pot 2 $998.88 | Rake $1.12
+*** RIVER 2 *** [7d 3d 9h 9c] [Ts]
+Main pot 2 $998.88 | Rake $1.12
+*** SHOW DOWN 2 ***
+Main pot 2 $998.88 | Rake $1.12
+Gizineni shows [Th Tc] (a combo of some cards [Ts Th Tc 9h 9c])
+FlyingStyle shows [Ac 7s] (a combo of some cards [9h 9c 7s 7d Ac])
+Gizineni collected $998.87 from main pot 2
+*** SUMMARY ***
+Total pot $1997.75 | Rake $2.25
+Board 1 [6c Qs 6d Td 7h]
+Seat 2: Sabazius folded on the Pre-Flop and did not bet
+Seat 3: MaxHendrix (button) folded on the Pre-Flop and did not bet
+Seat 4: Gizineni (small blind) showed [Th Tc] and won $998.88 with FullHouse [Th Td Tc 6d 6c]
+Seat 5: FlyingStyle (big blind) showed [Ac 7s] and lost with a
+Board 2 [7d 3d 9h 9c Ts]
+Seat 2: Sabazius folded on the Pre-Flop and did not bet
+Seat 3: MaxHendrix (button) folded on the Pre-Flop and did not bet
+Seat 4: Gizineni (small blind) showed [Th Tc] and won $998.87 with FullHouse [Ts Th Tc 9h 9c]
+Seat 5: FlyingStyle (big blind) showed [Ac 7s] and lost with a
+
+
+Hand #1775844473 - Holdem(No Limit) - $50/$100 - 2023/07/09 21:16:50 UTC
+7 Day No Rathole 50/100 NLH 9-max Seat #4 is the button
+Seat 2: Sabazius ($10000)
+Seat 3: MaxHendrix ($1723.69)
+Seat 4: Gizineni ($10000)
+Seat 5: FlyingStyle ($1000)
+FlyingStyle posts the small blind $50
+MaxHendrix posts the big blind $100
+*** HOLE CARDS *** 
+Gizineni folds
+FlyingStyle raises $950 to $1000 and is all-in
+MaxHendrix calls $900
+*** RUN IT TWICE ***
+*** FLOP 1 *** [9c 7s Jh]
+Main pot 1 $999.12 | Rake $0.88
+*** TURN 1 *** [9c 7s Jh] [Ts]
+Main pot 1 $999.12 | Rake $0.88
+*** RIVER 1 *** [9c 7s Jh Ts] [Kh]
+Main pot 1 $999.12 | Rake $0.88
+*** SHOW DOWN 1 ***
+Main pot 1 $999.12 | Rake $0.88
+MaxHendrix shows [9s 9h] (a combo of some cards [9s 9h 9c Kh Jh])
+FlyingStyle shows [Ac 3h] (a combo of some cards [Ac Kh Jh Ts 9c])
+MaxHendrix collected $999.13 from main pot 1
+*** FLOP 2 *** [Ks 8h 5d]
+Main pot 2 $999.13 | Rake $0.87
+*** TURN 2 *** [Ks 8h 5d] [6d]
+Main pot 2 $999.13 | Rake $0.87
+*** RIVER 2 *** [Ks 8h 5d 6d] [4h]
+Main pot 2 $999.13 | Rake $0.87
+*** SHOW DOWN 2 ***
+Main pot 2 $999.13 | Rake $0.87
+MaxHendrix shows [9s 9h] (a combo of some cards [9s 9h Ks 8h 6d])
+FlyingStyle shows [Ac 3h] (a combo of some cards [Ac Ks 8h 6d 5d])
+MaxHendrix collected $999.12 from main pot 2
+*** SUMMARY ***
+Total pot $1998.25 | Rake $1.75
+Board 1 [9c 7s Jh Ts Kh]
+Seat 3: MaxHendrix (big blind) showed [9s 9h] and won $999.13 with ThreeOfAKind [9s 9h 9c Kh Jh]
+Seat 4: Gizineni (button) folded on the Pre-Flop and did not bet
+Seat 5: FlyingStyle (small blind) showed [Ac 3h] and lost with a
+Board 2 [Ks 8h 5d 6d 4h]
+Seat 3: MaxHendrix (big blind) showed [9s 9h] and won $999.12 with OnePair [9s 9h Ks 8h 6d]
+Seat 4: Gizineni (button) folded on the Pre-Flop and did not bet
+Seat 5: FlyingStyle (small blind) showed [Ac 3h] and lost with a
+
+
+Hand #1775845584 - Holdem(No Limit) - $50/$100 - 2023/07/09 21:17:26 UTC
+7 Day No Rathole 50/100 NLH 9-max Seat #3 is the button
+Seat 2: Sabazius ($10000)
+Seat 3: MaxHendrix ($2721.94)
+Seat 5: FlyingStyle ($1000)
+MaxHendrix posts the small blind $50
+FlyingStyle posts the big blind $100
+*** HOLE CARDS *** 
+MaxHendrix calls $50
+FlyingStyle raises $900 to $1000 and is all-in
+MaxHendrix folds
+Uncalled bet ($900) returned to FlyingStyle
+FlyingStyle does not show
+*** SUMMARY ***
+Total pot $200
+Seat 3: MaxHendrix (small blind) folded on the Pre-Flop
+Seat 5: FlyingStyle (big blind) did not showed and won $200
+
+
+Hand #1775846305 - Holdem(No Limit) - $50/$100 - 2023/07/09 21:17:36 UTC
+7 Day No Rathole 50/100 NLH 9-max Seat #5 is the button
+Seat 3: MaxHendrix ($2621.94)
+Seat 5: FlyingStyle ($1100)
+FlyingStyle posts the small blind $50
+MaxHendrix posts the big blind $100
+*** HOLE CARDS *** 
+FlyingStyle raises $1050 to $1100 and is all-in
+MaxHendrix folds
+Uncalled bet ($1000) returned to FlyingStyle
+FlyingStyle does not show
+*** SUMMARY ***
+Total pot $200
+Seat 3: MaxHendrix (big blind) folded on the Pre-Flop
+Seat 5: FlyingStyle (small blind) did not showed and won $200
+
+
+Hand #1775846606 - Holdem(No Limit) - $50/$100 - 2023/07/09 21:17:44 UTC
+7 Day No Rathole 50/100 NLH 9-max Seat #3 is the button
+Seat 3: MaxHendrix ($2521.94)
+Seat 5: FlyingStyle ($1200)
+MaxHendrix posts the small blind $50
+FlyingStyle posts the big blind $100
+*** HOLE CARDS *** 
+MaxHendrix folds
+*** SUMMARY ***
+Total pot $150
+Seat 3: MaxHendrix (small blind) folded on the Pre-Flop
+Seat 5: FlyingStyle (big blind) did not showed and won $150
+
+
+Hand #1775846918 - Holdem(No Limit) - $50/$100 - 2023/07/09 21:17:51 UTC
+7 Day No Rathole 50/100 NLH 9-max Seat #5 is the button
+Seat 3: MaxHendrix ($2471.94)
+Seat 5: FlyingStyle ($1250)
+FlyingStyle posts the small blind $50
+MaxHendrix posts the big blind $100
+*** HOLE CARDS *** 
+FlyingStyle folds
+*** SUMMARY ***
+Total pot $150
+Seat 3: MaxHendrix (big blind) did not showed and won $150
+Seat 5: FlyingStyle (small blind) folded on the Pre-Flop
+
+
+Hand #1775879307 - Holdem(No Limit) - $50/$100 - 2023/07/09 21:34:15 UTC
+7 Day No Rathole 50/100 NLH 9-max Seat #3 is the button
+Seat 2: Sabazius ($1498.75)
+Seat 3: MaxHendrix ($2521.94)
+MaxHendrix posts the small blind $50
+Sabazius posts the big blind $100
+*** HOLE CARDS *** 
+MaxHendrix folds
+*** SUMMARY ***
+Total pot $150
+Seat 2: Sabazius (big blind) did not showed and won $150
+Seat 3: MaxHendrix (small blind) folded on the Pre-Flop
+
+
+Hand #1775879846 - Holdem(No Limit) - $50/$100 - 2023/07/09 21:34:32 UTC
+7 Day No Rathole 50/100 NLH 9-max Seat #2 is the button
+Seat 2: Sabazius ($1548.75)
+Seat 3: MaxHendrix ($2471.94)
+Sabazius posts the small blind $50
+MaxHendrix posts the big blind $100
+*** HOLE CARDS *** 
+Sabazius raises $150 to $200
+MaxHendrix raises $2371.94 to $2471.94 and is all-in
+Sabazius calls $1348.75 and is all-in
+Uncalled bet ($923.19) returned to MaxHendrix
+MaxHendrix does not show
+*** RUN IT TWICE ***
+*** FLOP 1 *** [Ac Kd Th]
+Main pot 1 $1548.12 | Rake $0.63
+*** TURN 1 *** [Ac Kd Th] [9h]
+Main pot 1 $1548.12 | Rake $0.63
+*** RIVER 1 *** [Ac Kd Th 9h] [Ts]
+Main pot 1 $1548.12 | Rake $0.63
+*** SHOW DOWN 1 ***
+Main pot 1 $1548.12 | Rake $0.63
+Sabazius shows [9d 9s] (a combo of some cards [9s 9h 9d Ts Th])
+MaxHendrix shows [Kh Qc] (a combo of some cards [Kh Kd Ts Th Ac])
+Sabazius collected $1548.13 from main pot 1
+*** FLOP 2 *** [7d 5c Ad]
+Main pot 2 $1548.13 | Rake $0.62
+*** TURN 2 *** [7d 5c Ad] [7h]
+Main pot 2 $1548.13 | Rake $0.62
+*** RIVER 2 *** [7d 5c Ad 7h] [3d]
+Main pot 2 $1548.13 | Rake $0.62
+*** SHOW DOWN 2 ***
+Main pot 2 $1548.13 | Rake $0.62
+Sabazius shows [9d 9s] (a combo of some cards [9s 9d 7h 7d Ad])
+MaxHendrix shows [Kh Qc] (a combo of some cards [7h 7d Ad Kh Qc])
+Sabazius collected $1548.12 from main pot 2
+*** SUMMARY ***
+Total pot $3096.25 | Rake $1.25
+Board 1 [Ac Kd Th 9h Ts]
+Seat 2: Sabazius (small blind) showed [9d 9s] and won $1548.13 with FullHouse [9s 9h 9d Ts Th]
+Seat 3: MaxHendrix (big blind) showed [Kh Qc] and lost with a
+Board 2 [7d 5c Ad 7h 3d]
+Seat 2: Sabazius (small blind) showed [9d 9s] and won $1548.12 with TwoPair [9s 9d 7h 7d Ad]
+Seat 3: MaxHendrix (big blind) showed [Kh Qc] and lost with a
+
+
+Hand #1775880972 - Holdem(No Limit) - $50/$100 - 2023/07/09 21:35:07 UTC
+7 Day No Rathole 50/100 NLH 9-max Seat #3 is the button
+Seat 2: Sabazius ($3096.25)
+Seat 3: MaxHendrix ($1000)
+MaxHendrix posts the small blind $50
+Sabazius posts the big blind $100
+*** HOLE CARDS *** 
+MaxHendrix calls $50
+Sabazius raises $150 to $250
+MaxHendrix raises $900 to $1000 and is all-in
+Sabazius calls $750
+*** RUN IT TWICE ***
+*** FLOP 1 *** [6d Td 2h]
+Main pot 1 $999.37 | Rake $0.63
+*** TURN 1 *** [6d Td 2h] [8s]
+Main pot 1 $999.37 | Rake $0.63
+*** RIVER 1 *** [6d Td 2h 8s] [2d]
+Main pot 1 $999.37 | Rake $0.63
+*** SHOW DOWN 1 ***
+Main pot 1 $999.37 | Rake $0.63
+Sabazius shows [Qd Qc] (a combo of some cards [Qd Qc 2h 2d Td])
+MaxHendrix shows [As Jc] (a combo of some cards [2h 2d As Jc Td])
+Sabazius collected $999.38 from main pot 1
+*** FLOP 2 *** [9h Tc 4h]
+Main pot 2 $999.38 | Rake $0.62
+*** TURN 2 *** [9h Tc 4h] [7s]
+Main pot 2 $999.38 | Rake $0.62
+*** RIVER 2 *** [9h Tc 4h 7s] [8h]
+Main pot 2 $999.38 | Rake $0.62
+*** SHOW DOWN 2 ***
+Main pot 2 $999.38 | Rake $0.62
+Sabazius shows [Qd Qc] (a combo of some cards [Qd Qc Tc 9h 8h])
+MaxHendrix shows [As Jc] (a combo of some cards [Jc Tc 9h 8h 7s])
+MaxHendrix collected $999.37 from main pot 2
+*** SUMMARY ***
+Total pot $1998.75 | Rake $1.25
+Board 1 [6d Td 2h 8s 2d]
+Seat 2: Sabazius (big blind) showed [Qd Qc] and won $999.38 with TwoPair [Qd Qc 2h 2d Td]
+Seat 3: MaxHendrix (small blind) showed [As Jc] and lost with a
+Board 2 [9h Tc 4h 7s 8h]
+Seat 2: Sabazius (big blind) showed [Qd Qc] and lost with a
+Seat 3: MaxHendrix (small blind) showed [As Jc] and won $999.37 with Straight [Jc Tc 9h 8h 7s]
+
+
+Hand #1775882143 - Holdem(No Limit) - $50/$100 - 2023/07/09 21:35:33 UTC
+7 Day No Rathole 50/100 NLH 9-max Seat #2 is the button
+Seat 2: Sabazius ($3095.63)
+Seat 3: MaxHendrix ($1000)
+Seat 4: FlyingStyle ($10000)
+Sabazius posts the small blind $50
+MaxHendrix posts the big blind $100
+*** HOLE CARDS *** 
+Sabazius folds
+*** SUMMARY ***
+Total pot $150
+Seat 2: Sabazius (small blind) folded on the Pre-Flop
+Seat 3: MaxHendrix (big blind) did not showed and won $150
+
+
+Hand #1775882599 - Holdem(No Limit) - $50/$100 - 2023/07/09 21:35:50 UTC
+7 Day No Rathole 50/100 NLH 9-max Seat #2 is the button
+Seat 2: Sabazius ($3045.63)
+Seat 3: MaxHendrix ($1050)
+Seat 4: FlyingStyle ($1200)
+Seat 5: NijeGreska ($10000)
+MaxHendrix posts the small blind $50
+FlyingStyle posts the big blind $100
+*** HOLE CARDS *** 
+Sabazius raises $2995.63 to $2995.63
+MaxHendrix folds
+FlyingStyle calls $1100 and is all-in
+Uncalled bet ($1795.63) returned to Sabazius
+Sabazius does not show
+*** RUN IT TWICE ***
+*** FLOP 1 *** [7c 9h 5c]
+Main pot 1 $1224.12 | Rake $0.88
+*** TURN 1 *** [7c 9h 5c] [2h]
+Main pot 1 $1224.12 | Rake $0.88
+*** RIVER 1 *** [7c 9h 5c 2h] [Qc]
+Main pot 1 $1224.12 | Rake $0.88
+*** SHOW DOWN 1 ***
+Main pot 1 $1224.12 | Rake $0.88
+Sabazius shows [Kc Jd] (a combo of some cards [Kc Qc Jd 9h 7c])
+FlyingStyle shows [7d Ah] (a combo of some cards [7d 7c Ah Qc 9h])
+FlyingStyle collected $1224.13 from main pot 1
+*** FLOP 2 *** [Kh 3h Jh]
+Main pot 2 $1224.13 | Rake $0.87
+*** TURN 2 *** [Kh 3h Jh] [Jc]
+Main pot 2 $1224.13 | Rake $0.87
+*** RIVER 2 *** [Kh 3h Jh Jc] [8c]
+Main pot 2 $1224.13 | Rake $0.87
+*** SHOW DOWN 2 ***
+Main pot 2 $1224.13 | Rake $0.87
+Sabazius shows [Kc Jd] (a combo of some cards [Jh Jd Jc Kh Kc])
+FlyingStyle shows [7d Ah] (a combo of some cards [Jh Jc Ah Kh 8c])
+Sabazius collected $1224.12 from main pot 2
+*** SUMMARY ***
+Total pot $2448.25 | Rake $1.75
+Board 1 [7c 9h 5c 2h Qc]
+Seat 2: Sabazius (button) showed [Kc Jd] and lost with a
+Seat 3: MaxHendrix (small blind) folded on the Pre-Flop
+Seat 4: FlyingStyle (big blind) showed [7d Ah] and won $1224.13 with OnePair [7d 7c Ah Qc 9h]
+Board 2 [Kh 3h Jh Jc 8c]
+Seat 2: Sabazius (button) showed [Kc Jd] and won $1224.12 with FullHouse [Jh Jd Jc Kh Kc]
+Seat 3: MaxHendrix (small blind) folded on the Pre-Flop
+Seat 4: FlyingStyle (big blind) showed [7d Ah] and lost with a
+
+
+Hand #1775883692 - Holdem(No Limit) - $50/$100 - 2023/07/09 21:36:29 UTC
+7 Day No Rathole 50/100 NLH 9-max Seat #3 is the button
+Seat 2: Sabazius ($10000)
+Seat 3: MaxHendrix ($1000)
+Seat 4: FlyingStyle ($1224.13)
+Seat 5: NijeGreska ($10000)
+FlyingStyle posts the small blind $50
+MaxHendrix posts the big blind $100
+*** HOLE CARDS *** 
+FlyingStyle raises $1174.13 to $1224.13 and is all-in
+MaxHendrix calls $900 and is all-in
+Uncalled bet ($224.13) returned to FlyingStyle
+FlyingStyle does not show
+*** RUN IT TWICE ***
+*** FLOP 1 *** [8d 4h 6s]
+Main pot 1 $999.37 | Rake $0.63
+*** TURN 1 *** [8d 4h 6s] [3c]
+Main pot 1 $999.37 | Rake $0.63
+*** RIVER 1 *** [8d 4h 6s 3c] [3s]
+Main pot 1 $999.37 | Rake $0.63
+*** SHOW DOWN 1 ***
+Main pot 1 $999.37 | Rake $0.63
+MaxHendrix shows [9d 9c] (a combo of some cards [9d 9c 3s 3c 8d])
+FlyingStyle shows [8h Jd] (a combo of some cards [8h 8d 3s 3c Jd])
+MaxHendrix collected $999.38 from main pot 1
+*** FLOP 2 *** [3d Qs 3h]
+Main pot 2 $999.38 | Rake $0.62
+*** TURN 2 *** [3d Qs 3h] [2c]
+Main pot 2 $999.38 | Rake $0.62
+*** RIVER 2 *** [3d Qs 3h 2c] [5d]
+Main pot 2 $999.38 | Rake $0.62
+*** SHOW DOWN 2 ***
+Main pot 2 $999.38 | Rake $0.62
+MaxHendrix shows [9d 9c] (a combo of some cards [9d 9c 3h 3d Qs])
+FlyingStyle shows [8h Jd] (a combo of some cards [3h 3d Qs Jd 8h])
+MaxHendrix collected $999.37 from main pot 2
+*** SUMMARY ***
+Total pot $1998.75 | Rake $1.25
+Board 1 [8d 4h 6s 3c 3s]
+Seat 3: MaxHendrix (big blind) showed [9d 9c] and won $999.38 with TwoPair [9d 9c 3s 3c 8d]
+Seat 4: FlyingStyle (small blind) showed [8h Jd] and lost with a
+Board 2 [3d Qs 3h 2c 5d]
+Seat 3: MaxHendrix (big blind) showed [9d 9c] and won $999.37 with TwoPair [9d 9c 3h 3d Qs]
+Seat 4: FlyingStyle (small blind) showed [8h Jd] and lost with a
+
+
+Hand #1775885125 - Holdem(No Limit) - $50/$100 - 2023/07/09 21:37:13 UTC
+7 Day No Rathole 50/100 NLH 9-max Seat #3 is the button
+Seat 3: MaxHendrix ($1998.75)
+Seat 4: FlyingStyle ($1000)
+Seat 5: 6-7BTC ($10000)
+Seat 6: Gizineni ($10000)
+MaxHendrix posts the small blind $50
+FlyingStyle posts the big blind $100
+*** HOLE CARDS *** 
+MaxHendrix calls $50
+FlyingStyle checks
+*** FLOP *** [Th 4d 9s]
+Main pot $198.75 | Rake $1.25
+FlyingStyle checks
+MaxHendrix bets $100
+FlyingStyle folds
+Uncalled bet ($100) returned to MaxHendrix
+MaxHendrix does not show
+*** SUMMARY ***
+Total pot $198.75 | Rake $1.25
+Seat 3: MaxHendrix (small blind) did not showed and won $198.75
+Seat 4: FlyingStyle (big blind) folded on the Flop
+
+
+Hand #1775886078 - Holdem(No Limit) - $50/$100 - 2023/07/09 21:37:40 UTC
+7 Day No Rathole 50/100 NLH 9-max Seat #3 is the button
+Seat 3: MaxHendrix ($2097.50)
+Seat 4: FlyingStyle ($1000)
+Seat 5: 6-7BTC ($1150)
+Seat 6: Gizineni ($10000)
+FlyingStyle posts the small blind $50
+6-7BTC posts the big blind $100
+*** HOLE CARDS *** 
+MaxHendrix raises $2097.50 to $2097.50 and is all-in
+FlyingStyle folds
+6-7BTC folds
+Uncalled bet ($1997.50) returned to MaxHendrix
+MaxHendrix does not show
+*** SUMMARY ***
+Total pot $250
+Seat 3: MaxHendrix (button) did not showed and won $250
+Seat 4: FlyingStyle (small blind) folded on the Pre-Flop
+Seat 5: 6-7BTC (big blind) folded on the Pre-Flop
+
+
+Hand #1775887053 - Holdem(No Limit) - $50/$100 - 2023/07/09 21:37:58 UTC
+7 Day No Rathole 50/100 NLH 9-max Seat #4 is the button
+Seat 3: MaxHendrix ($10000)
+Seat 4: FlyingStyle ($1000)
+Seat 5: 6-7BTC ($1050)
+Seat 6: Gizineni ($3257.31)
+6-7BTC posts the small blind $50
+Gizineni posts the big blind $100
+*** HOLE CARDS *** 
+MaxHendrix folds
+FlyingStyle raises $1000 to $1000 and is all-in
+6-7BTC folds
+Gizineni folds
+Uncalled bet ($900) returned to FlyingStyle
+FlyingStyle does not show
+*** SUMMARY ***
+Total pot $250
+Seat 3: MaxHendrix folded on the Pre-Flop and did not bet
+Seat 4: FlyingStyle (button) did not showed and won $250
+Seat 5: 6-7BTC (small blind) folded on the Pre-Flop
+Seat 6: Gizineni (big blind) folded on the Pre-Flop
+
+
+Hand #1775887656 - Holdem(No Limit) - $50/$100 - 2023/07/09 21:38:39 UTC
+7 Day No Rathole 50/100 NLH 9-max Seat #5 is the button
+Seat 3: MaxHendrix ($2247.50)
+Seat 4: FlyingStyle ($10000)
+Seat 5: 6-7BTC ($1000)
+Seat 6: Gizineni ($3157.31)
+Gizineni posts the small blind $50
+MaxHendrix posts the big blind $100
+*** HOLE CARDS *** 
+FlyingStyle folds
+6-7BTC raises $200 to $200
+Gizineni folds
+MaxHendrix raises $2147.50 to $2247.50 and is all-in
+6-7BTC calls $800 and is all-in
+Uncalled bet ($1247.50) returned to MaxHendrix
+MaxHendrix does not show
+*** RUN IT TWICE ***
+*** FLOP 1 *** [Tc 3s 3h]
+Main pot 1 $1023.87 | Rake $1.13
+*** TURN 1 *** [Tc 3s 3h] [2h]
+Main pot 1 $1023.87 | Rake $1.13
+*** RIVER 1 *** [Tc 3s 3h 2h] [4c]
+Main pot 1 $1023.87 | Rake $1.13
+*** SHOW DOWN 1 ***
+Main pot 1 $1023.87 | Rake $1.13
+MaxHendrix shows [Ac Ad] (a combo of some cards [Ad Ac 3s 3h Tc])
+6-7BTC shows [Td Jd] (a combo of some cards [Td Tc 3s 3h Jd])
+MaxHendrix collected $1023.88 from main pot 1
+*** FLOP 2 *** [7s Js 6d]
+Main pot 2 $1023.88 | Rake $1.12
+*** TURN 2 *** [7s Js 6d] [Qh]
+Main pot 2 $1023.88 | Rake $1.12
+*** RIVER 2 *** [7s Js 6d Qh] [Qs]
+Main pot 2 $1023.88 | Rake $1.12
+*** SHOW DOWN 2 ***
+Main pot 2 $1023.88 | Rake $1.12
+MaxHendrix shows [Ac Ad] (a combo of some cards [Ad Ac Qs Qh Js])
+6-7BTC shows [Td Jd] (a combo of some cards [Qs Qh Js Jd Td])
+MaxHendrix collected $1023.87 from main pot 2
+*** SUMMARY ***
+Total pot $2047.75 | Rake $2.25
+Board 1 [Tc 3s 3h 2h 4c]
+Seat 3: MaxHendrix (big blind) showed [Ac Ad] and won $1023.88 with TwoPair [Ad Ac 3s 3h Tc]
+Seat 4: FlyingStyle folded on the Pre-Flop and did not bet
+Seat 5: 6-7BTC (button) showed [Td Jd] and lost with a
+Seat 6: Gizineni (small blind) folded on the Pre-Flop
+Board 2 [7s Js 6d Qh Qs]
+Seat 3: MaxHendrix (big blind) showed [Ac Ad] and won $1023.87 with TwoPair [Ad Ac Qs Qh Js]
+Seat 4: FlyingStyle folded on the Pre-Flop and did not bet
+Seat 5: 6-7BTC (button) showed [Td Jd] and lost with a
+Seat 6: Gizineni (small blind) folded on the Pre-Flop
+
+
+Hand #1776312804 - Holdem(No Limit) - $50/$100 - 2023/07/10 01:54:06 UTC
+7 Day No Rathole 50/100 NLH 9-max Seat #3 is the button
+Seat 3: MaxHendrix ($3295.25)
+Seat 9: Kevin Kookies ($1000)
+MaxHendrix posts the small blind $50
+Kevin Kookies posts the big blind $100
+*** HOLE CARDS *** 
+MaxHendrix folds
+*** SUMMARY ***
+Total pot $150
+Seat 3: MaxHendrix (small blind) folded on the Pre-Flop
+Seat 9: Kevin Kookies (big blind) did not showed and won $150
+
+
+Hand #1776353894 - Holdem(No Limit) - $50/$100 - 2023/07/10 02:27:27 UTC
+7 Day No Rathole 50/100 NLH 9-max Seat #7 is the button
+Seat 7: Amancio_017 ($1130)
+Seat 8: bigsoowoop ($4039.69)
+Amancio_017 posts the small blind $50
+bigsoowoop posts the big blind $100
+*** HOLE CARDS *** 
+Amancio_017 raises $150 to $200
+bigsoowoop calls $100
+*** FLOP *** [6c Jd 7h]
+Main pot $398.75 | Rake $1.25
+bigsoowoop checks
+Amancio_017 bets $132
+bigsoowoop folds
+Uncalled bet ($132) returned to Amancio_017
+Amancio_017 does not show
+*** SUMMARY ***
+Total pot $398.75 | Rake $1.25
+Seat 7: Amancio_017 (small blind) did not showed and won $398.75
+Seat 8: bigsoowoop (big blind) folded on the Flop
+
+
+Hand #1776354487 - Holdem(No Limit) - $50/$100 - 2023/07/10 02:27:49 UTC
+7 Day No Rathole 50/100 NLH 9-max Seat #8 is the button
+Seat 1: ILuvAvrilLavigne91 ($10000)
+Seat 7: Amancio_017 ($1328.75)
+Seat 8: bigsoowoop ($3839.69)
+Seat 9: opportunity2 ($10000)
+bigsoowoop posts the small blind $50
+Amancio_017 posts the big blind $100
+*** HOLE CARDS *** 
+bigsoowoop raises $3789.69 to $3839.69 and is all-in
+Amancio_017 folds
+Uncalled bet ($3739.69) returned to bigsoowoop
+bigsoowoop does not show
+*** SUMMARY ***
+Total pot $200
+Seat 7: Amancio_017 (big blind) folded on the Pre-Flop
+Seat 8: bigsoowoop (small blind) did not showed and won $200
+
+
+Hand #1776354952 - Holdem(No Limit) - $50/$100 - 2023/07/10 02:27:58 UTC
+7 Day No Rathole 50/100 NLH 9-max Seat #7 is the button
+Seat 1: ILuvAvrilLavigne91 ($10000)
+Seat 7: Amancio_017 ($1228.75)
+Seat 8: bigsoowoop ($3939.69)
+Seat 9: opportunity2 ($10000)
+Amancio_017 posts the small blind $50
+bigsoowoop posts the big blind $100
+*** HOLE CARDS *** 
+Amancio_017 raises $1178.75 to $1228.75 and is all-in
+bigsoowoop calls $1128.75
+*** FLOP *** [4s 3s 2h]
+Main pot $2456.25 | Rake $1.25
+*** TURN *** [4s 3s 2h] [5s]
+Main pot $2456.25 | Rake $1.25
+*** RIVER *** [4s 3s 2h 5s] [Kh]
+Main pot $2456.25 | Rake $1.25
+*** SHOW DOWN ***
+Main pot $2456.25 | Rake $1.25
+Amancio_017 shows [9d Ah] (a combo of some cards [5s 4s 3s 2h Ah])
+bigsoowoop shows [Qc Tc] (a combo of some cards [Kh Qc Tc 5s 4s])
+Amancio_017 collected $2456.25 from main pot
+*** SUMMARY ***
+Total pot $2456.25 | Rake $1.25
+Seat 7: Amancio_017 (small blind) showed [9d Ah] and won $2456.25 with Straight [5s 4s 3s 2h Ah]
+Seat 8: bigsoowoop (big blind) showed [Qc Tc] and lost
+
+
+Hand #1776355458 - Holdem(No Limit) - $50/$100 - 2023/07/10 02:28:33 UTC
+7 Day No Rathole 50/100 NLH 9-max Seat #7 is the button
+Seat 1: ILuvAvrilLavigne91 ($10000)
+Seat 2: MaxHendrix ($10000)
+Seat 3: Gizineni ($10000)
+Seat 7: Amancio_017 ($10000)
+Seat 8: bigsoowoop ($2710.94)
+Seat 9: opportunity2 ($3909.74)
+bigsoowoop posts the small blind $50
+opportunity2 posts the big blind $100
+*** HOLE CARDS *** 
+Amancio_017 folds
+bigsoowoop raises $230 to $280
+opportunity2 raises $3809.74 to $3909.74 and is all-in
+bigsoowoop calls $2430.94 and is all-in
+Uncalled bet ($1198.80) returned to opportunity2
+opportunity2 does not show
+*** RUN IT TWICE ***
+*** FLOP 1 *** [Kh Td 8h]
+Main pot 1 $2710.06 | Rake $0.88
+*** TURN 1 *** [Kh Td 8h] [Ts]
+Main pot 1 $2710.06 | Rake $0.88
+*** RIVER 1 *** [Kh Td 8h Ts] [3c]
+Main pot 1 $2710.06 | Rake $0.88
+*** SHOW DOWN 1 ***
+Main pot 1 $2710.06 | Rake $0.88
+bigsoowoop shows [Jh Jd] (a combo of some cards [Jh Jd Ts Td Kh])
+opportunity2 shows [5h 5c] (a combo of some cards [Ts Td 5h 5c Kh])
+bigsoowoop collected $2710.07 from main pot 1
+*** FLOP 2 *** [7c Qs 7s]
+Main pot 2 $2710.07 | Rake $0.87
+*** TURN 2 *** [7c Qs 7s] [4d]
+Main pot 2 $2710.07 | Rake $0.87
+*** RIVER 2 *** [7c Qs 7s 4d] [5d]
+Main pot 2 $2710.07 | Rake $0.87
+*** SHOW DOWN 2 ***
+Main pot 2 $2710.07 | Rake $0.87
+bigsoowoop shows [Jh Jd] (a combo of some cards [Jh Jd 7s 7c Qs])
+opportunity2 shows [5h 5c] (a combo of some cards [5h 5d 5c 7s 7c])
+opportunity2 collected $2710.06 from main pot 2
+*** SUMMARY ***
+Total pot $5420.13 | Rake $1.75
+Board 1 [Kh Td 8h Ts 3c]
+Seat 7: Amancio_017 (button) folded on the Pre-Flop and did not bet
+Seat 8: bigsoowoop (small blind) showed [Jh Jd] and won $2710.07 with TwoPair [Jh Jd Ts Td Kh]
+Seat 9: opportunity2 (big blind) showed [5h 5c] and lost with a
+Board 2 [7c Qs 7s 4d 5d]
+Seat 7: Amancio_017 (button) folded on the Pre-Flop and did not bet
+Seat 8: bigsoowoop (small blind) showed [Jh Jd] and lost with a
+Seat 9: opportunity2 (big blind) showed [5h 5c] and won $2710.06 with FullHouse [5h 5d 5c 7s 7c]
+
+
+Hand #1776358181 - Holdem(No Limit) - $50/$100 - 2023/07/10 02:30:40 UTC
+7 Day No Rathole 50/100 NLH 9-max Seat #1 is the button
+Seat 1: ILuvAvrilLavigne91 ($10000)
+Seat 2: MaxHendrix ($5802.32)
+Seat 3: Gizineni ($3107.31)
+Seat 5: THECAGE ($10000)
+Seat 6: Kevin Kookies ($10000)
+Seat 7: Amancio_017 ($10000)
+Seat 8: bigsoowoop ($10000)
+Seat 9: opportunity2 ($10000)
+MaxHendrix posts the small blind $50
+Gizineni posts the big blind $100
+*** HOLE CARDS *** 
+Amancio_017 folds
+bigsoowoop folds
+opportunity2 folds
+ILuvAvrilLavigne91 folds
+MaxHendrix raises $200 to $250
+Gizineni folds
+Uncalled bet ($150) returned to MaxHendrix
+MaxHendrix does not show
+*** SUMMARY ***
+Total pot $200
+Seat 1: ILuvAvrilLavigne91 (button) folded on the Pre-Flop and did not bet
+Seat 2: MaxHendrix (small blind) did not showed and won $200
+Seat 3: Gizineni (big blind) folded on the Pre-Flop
+Seat 7: Amancio_017 folded on the Pre-Flop and did not bet
+Seat 8: bigsoowoop folded on the Pre-Flop and did not bet
+Seat 9: opportunity2 folded on the Pre-Flop and did not bet
+
+
+Hand #1776358567 - Holdem(No Limit) - $50/$100 - 2023/07/10 02:31:06 UTC
+7 Day No Rathole 50/100 NLH 9-max Seat #2 is the button
+Seat 1: ILuvAvrilLavigne91 ($10000)
+Seat 2: MaxHendrix ($10000)
+Seat 3: Gizineni ($3007.31)
+Seat 5: THECAGE ($18363.52)
+Seat 6: Kevin Kookies ($10000)
+Seat 7: Amancio_017 ($2456.25)
+Seat 8: bigsoowoop ($10000)
+Seat 9: opportunity2 ($10000)
+Gizineni posts the small blind $50
+THECAGE posts the big blind $100
+*** HOLE CARDS *** 
+Amancio_017 raises $200 to $200
+bigsoowoop folds
+opportunity2 folds
+ILuvAvrilLavigne91 folds
+MaxHendrix folds
+Gizineni folds
+THECAGE folds
+Uncalled bet ($100) returned to Amancio_017
+Amancio_017 does not show
+*** SUMMARY ***
+Total pot $250
+Seat 1: ILuvAvrilLavigne91 folded on the Pre-Flop and did not bet
+Seat 2: MaxHendrix (button) folded on the Pre-Flop and did not bet
+Seat 3: Gizineni (small blind) folded on the Pre-Flop
+Seat 5: THECAGE (big blind) folded on the Pre-Flop
+Seat 7: Amancio_017 did not showed and won $250
+Seat 8: bigsoowoop folded on the Pre-Flop and did not bet
+Seat 9: opportunity2 folded on the Pre-Flop and did not bet
+
+
+Hand #1776359072 - Holdem(No Limit) - $50/$100 - 2023/07/10 02:31:38 UTC
+7 Day No Rathole 50/100 NLH 9-max Seat #3 is the button
+Seat 1: ILuvAvrilLavigne91 ($1251.35)
+Seat 2: MaxHendrix ($10000)
+Seat 3: Gizineni ($10000)
+Seat 5: THECAGE ($18263.52)
+Seat 6: Kevin Kookies ($1050)
+Seat 7: Amancio_017 ($10000)
+Seat 8: bigsoowoop ($10000)
+Seat 9: opportunity2 ($10000)
+THECAGE posts the small blind $50
+Kevin Kookies posts the big blind $100
+*** HOLE CARDS *** 
+Amancio_017 folds
+bigsoowoop folds
+opportunity2 folds
+ILuvAvrilLavigne91 raises $1251.35 to $1251.35 and is all-in
+MaxHendrix folds
+Gizineni folds
+THECAGE folds
+Kevin Kookies calls $950 and is all-in
+Uncalled bet ($201.35) returned to ILuvAvrilLavigne91
+ILuvAvrilLavigne91 does not show
+*** RUN IT TWICE ***
+*** FLOP 1 *** [5s 3s 8s]
+Main pot 1 $1073.50 | Rake $1.50
+*** TURN 1 *** [5s 3s 8s] [8h]
+Main pot 1 $1073.50 | Rake $1.50
+*** RIVER 1 *** [5s 3s 8s 8h] [Qh]
+Main pot 1 $1073.50 | Rake $1.50
+*** SHOW DOWN 1 ***
+Main pot 1 $1073.50 | Rake $1.50
+ILuvAvrilLavigne91 shows [Jc Jh] (a combo of some cards [Jh Jc 8s 8h Qh])
+Kevin Kookies shows [7h 7c] (a combo of some cards [8s 8h 7h 7c Qh])
+ILuvAvrilLavigne91 collected $1073.50 from main pot 1
+*** FLOP 2 *** [2d 9h Ac]
+Main pot 2 $1073.50 | Rake $1.50
+*** TURN 2 *** [2d 9h Ac] [6h]
+Main pot 2 $1073.50 | Rake $1.50
+*** RIVER 2 *** [2d 9h Ac 6h] [9c]
+Main pot 2 $1073.50 | Rake $1.50
+*** SHOW DOWN 2 ***
+Main pot 2 $1073.50 | Rake $1.50
+ILuvAvrilLavigne91 shows [Jc Jh] (a combo of some cards [Jh Jc 9h 9c Ac])
+Kevin Kookies shows [7h 7c] (a combo of some cards [9h 9c 7h 7c Ac])
+ILuvAvrilLavigne91 collected $1073.50 from main pot 2
+*** SUMMARY ***
+Total pot $2147 | Rake $3
+Board 1 [5s 3s 8s 8h Qh]
+Seat 1: ILuvAvrilLavigne91 showed [Jc Jh] and won $1073.50 with TwoPair [Jh Jc 8s 8h Qh]
+Seat 2: MaxHendrix folded on the Pre-Flop and did not bet
+Seat 3: Gizineni (button) folded on the Pre-Flop and did not bet
+Seat 5: THECAGE (small blind) folded on the Pre-Flop
+Seat 6: Kevin Kookies (big blind) showed [7h 7c] and lost with a
+Seat 7: Amancio_017 folded on the Pre-Flop and did not bet
+Seat 8: bigsoowoop folded on the Pre-Flop and did not bet
+Seat 9: opportunity2 folded on the Pre-Flop and did not bet
+Board 2 [2d 9h Ac 6h 9c]
+Seat 1: ILuvAvrilLavigne91 showed [Jc Jh] and won $1073.50 with TwoPair [Jh Jc 9h 9c Ac]
+Seat 2: MaxHendrix folded on the Pre-Flop and did not bet
+Seat 3: Gizineni (button) folded on the Pre-Flop and did not bet
+Seat 5: THECAGE (small blind) folded on the Pre-Flop
+Seat 6: Kevin Kookies (big blind) showed [7h 7c] and lost with a
+Seat 7: Amancio_017 folded on the Pre-Flop and did not bet
+Seat 8: bigsoowoop folded on the Pre-Flop and did not bet
+Seat 9: opportunity2 folded on the Pre-Flop and did not bet
+
+
+Hand #1776360025 - Holdem(No Limit) - $50/$100 - 2023/07/10 02:32:17 UTC
+7 Day No Rathole 50/100 NLH 9-max Seat #5 is the button
+Seat 1: ILuvAvrilLavigne91 ($10000)
+Seat 2: MaxHendrix ($10000)
+Seat 3: Gizineni ($2957.31)
+Seat 5: THECAGE ($10000)
+Seat 6: Kevin Kookies ($10000)
+Seat 7: Amancio_017 ($10000)
+Seat 8: bigsoowoop ($1000)
+Seat 9: opportunity2 ($10000)
+bigsoowoop posts the big blind $100
+*** HOLE CARDS *** 
+opportunity2 folds
+ILuvAvrilLavigne91 folds
+MaxHendrix folds
+Gizineni raises $220 to $220
+THECAGE folds
+bigsoowoop folds
+Uncalled bet ($120) returned to Gizineni
+Gizineni does not show
+*** SUMMARY ***
+Total pot $200
+Seat 1: ILuvAvrilLavigne91 folded on the Pre-Flop and did not bet
+Seat 2: MaxHendrix folded on the Pre-Flop and did not bet
+Seat 3: Gizineni did not showed and won $200
+Seat 5: THECAGE (button) folded on the Pre-Flop and did not bet
+Seat 8: bigsoowoop (big blind) folded on the Pre-Flop
+Seat 9: opportunity2 folded on the Pre-Flop and did not bet
+
+
+Hand #1776360525 - Holdem(No Limit) - $50/$100 - 2023/07/10 02:32:33 UTC
+7 Day No Rathole 50/100 NLH 9-max Seat #6 is the button
+Seat 1: ILuvAvrilLavigne91 ($10000)
+Seat 2: MaxHendrix ($5902.32)
+Seat 3: Gizineni ($10000)
+Seat 5: THECAGE ($10000)
+Seat 8: bigsoowoop ($1000)
+Seat 9: opportunity2 ($10000)
+bigsoowoop posts the small blind $50
+MaxHendrix posts the big blind $100
+*** HOLE CARDS *** 
+Gizineni folds
+THECAGE folds
+bigsoowoop raises $950 to $1000 and is all-in
+MaxHendrix calls $900
+*** RUN IT TWICE ***
+*** FLOP 1 *** [Ts Kc 2s]
+Main pot 1 $998.87 | Rake $1.13
+*** TURN 1 *** [Ts Kc 2s] [6h]
+Main pot 1 $998.87 | Rake $1.13
+*** RIVER 1 *** [Ts Kc 2s 6h] [5d]
+Main pot 1 $998.87 | Rake $1.13
+*** SHOW DOWN 1 ***
+Main pot 1 $998.87 | Rake $1.13
+MaxHendrix shows [Ks 7d] (a combo of some cards [Ks Kc Ts 7d 6h])
+bigsoowoop shows [2c Ad] (a combo of some cards [2s 2c Ad Kc Ts])
+MaxHendrix collected $998.88 from main pot 1
+*** FLOP 2 *** [6s Ah 4d]
+Main pot 2 $998.88 | Rake $1.12
+*** TURN 2 *** [6s Ah 4d] [5c]
+Main pot 2 $998.88 | Rake $1.12
+*** RIVER 2 *** [6s Ah 4d 5c] [Kd]
+Main pot 2 $998.88 | Rake $1.12
+*** SHOW DOWN 2 ***
+Main pot 2 $998.88 | Rake $1.12
+MaxHendrix shows [Ks 7d] (a combo of some cards [Ks Kd Ah 7d 6s])
+bigsoowoop shows [2c Ad] (a combo of some cards [Ah Ad Kd 6s 5c])
+bigsoowoop collected $998.87 from main pot 2
+*** SUMMARY ***
+Total pot $1997.75 | Rake $2.25
+Board 1 [Ts Kc 2s 6h 5d]
+Seat 2: MaxHendrix (big blind) showed [Ks 7d] and won $998.88 with OnePair [Ks Kc Ts 7d 6h]
+Seat 3: Gizineni folded on the Pre-Flop and did not bet
+Seat 5: THECAGE folded on the Pre-Flop and did not bet
+Seat 8: bigsoowoop (small blind) showed [2c Ad] and lost with a
+Board 2 [6s Ah 4d 5c Kd]
+Seat 2: MaxHendrix (big blind) showed [Ks 7d] and lost with a
+Seat 3: Gizineni folded on the Pre-Flop and did not bet
+Seat 5: THECAGE folded on the Pre-Flop and did not bet
+Seat 8: bigsoowoop (small blind) showed [2c Ad] and won $998.87 with OnePair [Ah Ad Kd 6s 5c]
+
+
+Hand #1776361340 - Holdem(No Limit) - $50/$100 - 2023/07/10 02:33:11 UTC
+7 Day No Rathole 50/100 NLH 9-max Seat #2 is the button
+Seat 2: MaxHendrix ($5901.20)
+Seat 5: THECAGE ($10000)
+Seat 8: bigsoowoop ($1000)
+MaxHendrix posts the small blind $50
+bigsoowoop posts the big blind $100
+*** HOLE CARDS *** 
+MaxHendrix calls $50
+bigsoowoop raises $900 to $1000 and is all-in
+MaxHendrix folds
+Uncalled bet ($900) returned to bigsoowoop
+bigsoowoop does not show
+*** SUMMARY ***
+Total pot $200
+Seat 2: MaxHendrix (small blind) folded on the Pre-Flop
+Seat 8: bigsoowoop (big blind) did not showed and won $200
+
+
+Hand #1776361767 - Holdem(No Limit) - $50/$100 - 2023/07/10 02:33:30 UTC
+7 Day No Rathole 50/100 NLH 9-max Seat #8 is the button
+Seat 2: MaxHendrix ($5801.20)
+Seat 5: THECAGE ($10000)
+Seat 8: bigsoowoop ($1100)
+bigsoowoop posts the small blind $50
+MaxHendrix posts the big blind $100
+*** HOLE CARDS *** 
+bigsoowoop raises $1050 to $1100 and is all-in
+MaxHendrix folds
+Uncalled bet ($1000) returned to bigsoowoop
+bigsoowoop does not show
+*** SUMMARY ***
+Total pot $200
+Seat 2: MaxHendrix (big blind) folded on the Pre-Flop
+Seat 8: bigsoowoop (small blind) did not showed and won $200
+
+
+Hand #1776362016 - Holdem(No Limit) - $50/$100 - 2023/07/10 02:33:44 UTC
+7 Day No Rathole 50/100 NLH 9-max Seat #2 is the button
+Seat 2: MaxHendrix ($5701.20)
+Seat 5: THECAGE ($10000)
+Seat 8: bigsoowoop ($1200)
+MaxHendrix posts the small blind $50
+bigsoowoop posts the big blind $100
+*** HOLE CARDS *** 
+MaxHendrix calls $50
+bigsoowoop raises $200 to $300
+MaxHendrix folds
+Uncalled bet ($200) returned to bigsoowoop
+bigsoowoop does not show
+*** SUMMARY ***
+Total pot $200
+Seat 2: MaxHendrix (small blind) folded on the Pre-Flop
+Seat 8: bigsoowoop (big blind) did not showed and won $200
+
+
+Hand #1776362321 - Holdem(No Limit) - $50/$100 - 2023/07/10 02:33:57 UTC
+7 Day No Rathole 50/100 NLH 9-max Seat #8 is the button
+Seat 2: MaxHendrix ($5601.20)
+Seat 8: bigsoowoop ($1300)
+bigsoowoop posts the small blind $50
+MaxHendrix posts the big blind $100
+*** HOLE CARDS *** 
+bigsoowoop raises $1250 to $1300 and is all-in
+MaxHendrix folds
+Uncalled bet ($1200) returned to bigsoowoop
+bigsoowoop does not show
+*** SUMMARY ***
+Total pot $200
+Seat 2: MaxHendrix (big blind) folded on the Pre-Flop
+Seat 8: bigsoowoop (small blind) did not showed and won $200
+
+
+Hand #1776362579 - Holdem(No Limit) - $50/$100 - 2023/07/10 02:34:11 UTC
+7 Day No Rathole 50/100 NLH 9-max Seat #2 is the button
+Seat 2: MaxHendrix ($5501.20)
+Seat 8: bigsoowoop ($1400)
+MaxHendrix posts the small blind $50
+bigsoowoop posts the big blind $100
+*** HOLE CARDS *** 
+MaxHendrix calls $50
+bigsoowoop raises $1300 to $1400 and is all-in
+MaxHendrix folds
+Uncalled bet ($1300) returned to bigsoowoop
+bigsoowoop does not show
+*** SUMMARY ***
+Total pot $200
+Seat 2: MaxHendrix (small blind) folded on the Pre-Flop
+Seat 8: bigsoowoop (big blind) did not showed and won $200
+
+
+Hand #1776362872 - Holdem(No Limit) - $50/$100 - 2023/07/10 02:34:27 UTC
+7 Day No Rathole 50/100 NLH 9-max Seat #8 is the button
+Seat 2: MaxHendrix ($5401.20)
+Seat 8: bigsoowoop ($1500)
+bigsoowoop posts the small blind $50
+MaxHendrix posts the big blind $100
+*** HOLE CARDS *** 
+bigsoowoop calls $50
+MaxHendrix checks
+*** FLOP *** [5c Jh Kc]
+Main pot $198.75 | Rake $1.25
+MaxHendrix checks
+bigsoowoop bets $100
+MaxHendrix folds
+Uncalled bet ($100) returned to bigsoowoop
+bigsoowoop does not show
+*** SUMMARY ***
+Total pot $198.75 | Rake $1.25
+Seat 2: MaxHendrix (big blind) folded on the Flop
+Seat 8: bigsoowoop (small blind) did not showed and won $198.75
+
+
+Hand #1776363202 - Holdem(No Limit) - $50/$100 - 2023/07/10 02:34:39 UTC
+7 Day No Rathole 50/100 NLH 9-max Seat #2 is the button
+Seat 2: MaxHendrix ($5301.20)
+Seat 8: bigsoowoop ($1598.75)
+MaxHendrix posts the small blind $50
+bigsoowoop posts the big blind $100
+*** HOLE CARDS *** 
+MaxHendrix calls $50
+bigsoowoop raises $1498.75 to $1598.75 and is all-in
+MaxHendrix folds
+Uncalled bet ($1498.75) returned to bigsoowoop
+bigsoowoop does not show
+*** SUMMARY ***
+Total pot $200
+Seat 2: MaxHendrix (small blind) folded on the Pre-Flop
+Seat 8: bigsoowoop (big blind) did not showed and won $200
+
+
+Hand #1776363440 - Holdem(No Limit) - $50/$100 - 2023/07/10 02:35:00 UTC
+7 Day No Rathole 50/100 NLH 9-max Seat #8 is the button
+Seat 2: MaxHendrix ($5201.20)
+Seat 8: bigsoowoop ($1698.75)
+bigsoowoop posts the small blind $50
+MaxHendrix posts the big blind $100
+*** HOLE CARDS *** 
+bigsoowoop calls $50
+MaxHendrix checks
+*** FLOP *** [Ac 2h Ks]
+Main pot $198.75 | Rake $1.25
+MaxHendrix checks
+bigsoowoop bets $100
+MaxHendrix calls $100
+*** TURN *** [Ac 2h Ks] [9h]
+Main pot $398.75 | Rake $1.25
+MaxHendrix checks
+bigsoowoop checks
+*** RIVER *** [Ac 2h Ks 9h] [4h]
+Main pot $398.75 | Rake $1.25
+MaxHendrix checks
+bigsoowoop checks
+*** SUMMARY ***
+Total pot $398.75 | Rake $1.25
+Seat 2: MaxHendrix (big blind) did not showed and won $398.75
+Seat 8: bigsoowoop (small blind) did not showed and lost
+
+
+Hand #1776363942 - Holdem(No Limit) - $50/$100 - 2023/07/10 02:35:18 UTC
+7 Day No Rathole 50/100 NLH 9-max Seat #2 is the button
+Seat 2: MaxHendrix ($5399.95)
+Seat 8: bigsoowoop ($1498.75)
+MaxHendrix posts the small blind $50
+bigsoowoop posts the big blind $100
+*** HOLE CARDS *** 
+MaxHendrix calls $50
+bigsoowoop raises $200 to $300
+MaxHendrix raises $5299.95 to $5399.95 and is all-in
+bigsoowoop calls $1198.75 and is all-in
+Uncalled bet ($3901.20) returned to MaxHendrix
+MaxHendrix does not show
+*** FLOP *** [8d Kc 2c]
+Main pot $2996.25 | Rake $1.25
+*** TURN *** [8d Kc 2c] [7h]
+Main pot $2996.25 | Rake $1.25
+*** RIVER *** [8d Kc 2c 7h] [7s]
+Main pot $2996.25 | Rake $1.25
+*** SHOW DOWN ***
+Main pot $2996.25 | Rake $1.25
+MaxHendrix shows [Th Ah] (a combo of some cards [7s 7h Ah Kc Th])
+bigsoowoop shows [Jc Ac] (a combo of some cards [7s 7h Ac Kc Jc])
+bigsoowoop collected $2996.25 from main pot
+*** SUMMARY ***
+Total pot $2996.25 | Rake $1.25
+Seat 2: MaxHendrix (small blind) showed [Th Ah] and lost
+Seat 8: bigsoowoop (big blind) showed [Jc Ac] and won $2996.25 with OnePair [7s 7h Ac Kc Jc]
+
+
+Hand #1776364547 - Holdem(No Limit) - $50/$100 - 2023/07/10 02:36:02 UTC
+7 Day No Rathole 50/100 NLH 9-max Seat #8 is the button
+Seat 2: MaxHendrix ($3901.20)
+Seat 8: bigsoowoop ($2996.25)
+bigsoowoop posts the small blind $50
+MaxHendrix posts the big blind $100
+*** HOLE CARDS *** 
+bigsoowoop raises $150 to $200
+MaxHendrix calls $100
+*** FLOP *** [8s Js 4s]
+Main pot $398.75 | Rake $1.25
+MaxHendrix checks
+bigsoowoop bets $100
+MaxHendrix calls $100
+*** TURN *** [8s Js 4s] [9h]
+Main pot $598.75 | Rake $1.25
+MaxHendrix checks
+bigsoowoop checks
+*** RIVER *** [8s Js 4s 9h] [Ah]
+Main pot $598.75 | Rake $1.25
+MaxHendrix checks
+bigsoowoop checks
+*** SUMMARY ***
+Total pot $598.75 | Rake $1.25
+Seat 2: MaxHendrix (big blind) did not showed and lost
+Seat 8: bigsoowoop (small blind) did not showed and won $598.75
+
+
+Hand #1776365226 - Holdem(No Limit) - $50/$100 - 2023/07/10 02:36:12 UTC
+7 Day No Rathole 50/100 NLH 9-max Seat #2 is the button
+Seat 2: MaxHendrix ($3601.20)
+Seat 8: bigsoowoop ($3295)
+MaxHendrix posts the small blind $50
+bigsoowoop posts the big blind $100
+*** HOLE CARDS *** 
+MaxHendrix folds
+*** SHOW DOWN ***
+bigsoowoop shows [Jc -]
+bigsoowoop collected $150 from main pot
+*** SUMMARY ***
+Total pot $150
+Seat 2: MaxHendrix (small blind) folded on the Pre-Flop
+Seat 8: bigsoowoop (big blind) showed [Jc -] and won $150 with a
+
+
+Hand #1776365422 - Holdem(No Limit) - $50/$100 - 2023/07/10 02:36:25 UTC
+7 Day No Rathole 50/100 NLH 9-max Seat #8 is the button
+Seat 2: MaxHendrix ($3551.20)
+Seat 8: bigsoowoop ($3345)
+bigsoowoop posts the small blind $50
+MaxHendrix posts the big blind $100
+*** HOLE CARDS *** 
+bigsoowoop folds
+*** SUMMARY ***
+Total pot $150
+Seat 2: MaxHendrix (big blind) did not showed and won $150
+Seat 8: bigsoowoop (small blind) folded on the Pre-Flop
+
+
+Hand #1776365649 - Holdem(No Limit) - $50/$100 - 2023/07/10 02:36:32 UTC
+7 Day No Rathole 50/100 NLH 9-max Seat #2 is the button
+Seat 2: MaxHendrix ($3601.20)
+Seat 8: bigsoowoop ($3295)
+MaxHendrix posts the small blind $50
+bigsoowoop posts the big blind $100
+*** HOLE CARDS *** 
+MaxHendrix folds
+*** SHOW DOWN ***
+bigsoowoop shows [4s 8c]
+bigsoowoop collected $150 from main pot
+*** SUMMARY ***
+Total pot $150
+Seat 2: MaxHendrix (small blind) folded on the Pre-Flop
+Seat 8: bigsoowoop (big blind) showed [4s 8c] and won $150 with a
+
+
+Hand #1776365813 - Holdem(No Limit) - $50/$100 - 2023/07/10 02:36:40 UTC
+7 Day No Rathole 50/100 NLH 9-max Seat #8 is the button
+Seat 2: MaxHendrix ($3551.20)
+Seat 8: bigsoowoop ($3345)
+bigsoowoop posts the small blind $50
+MaxHendrix posts the big blind $100
+*** HOLE CARDS *** 
+bigsoowoop folds
+*** SUMMARY ***
+Total pot $150
+Seat 2: MaxHendrix (big blind) did not showed and won $150
+Seat 8: bigsoowoop (small blind) folded on the Pre-Flop
+
+
+Hand #1776365939 - Holdem(No Limit) - $50/$100 - 2023/07/10 02:37:18 UTC
+7 Day No Rathole 50/100 NLH 9-max Seat #2 is the button
+Seat 2: MaxHendrix ($3601.20)
+Seat 8: bigsoowoop ($3295)
+Seat 9: Sabazius ($10000)
+MaxHendrix posts the small blind $50
+bigsoowoop posts the big blind $100
+*** HOLE CARDS *** 
+MaxHendrix raises $150 to $200
+bigsoowoop calls $100
+*** FLOP *** [5c 9c 3h]
+Main pot $398.75 | Rake $1.25
+bigsoowoop checks
+MaxHendrix checks
+*** TURN *** [5c 9c 3h] [Kd]
+Main pot $398.75 | Rake $1.25
+bigsoowoop checks
+MaxHendrix checks
+*** RIVER *** [5c 9c 3h Kd] [2c]
+Main pot $398.75 | Rake $1.25
+bigsoowoop bets $300
+MaxHendrix folds
+Uncalled bet ($300) returned to bigsoowoop
+bigsoowoop does not show
+*** SUMMARY ***
+Total pot $398.75 | Rake $1.25
+Seat 2: MaxHendrix (small blind) folded on the River
+Seat 8: bigsoowoop (big blind) did not showed and won $398.75
+
+
+Hand #1776366739 - Holdem(No Limit) - $50/$100 - 2023/07/10 02:38:25 UTC
+7 Day No Rathole 50/100 NLH 9-max Seat #2 is the button
+Seat 2: MaxHendrix ($10000)
+Seat 8: bigsoowoop ($3493.75)
+Seat 9: Sabazius ($3069.75)
+bigsoowoop posts the small blind $50
+Sabazius posts the big blind $100
+*** HOLE CARDS *** 
+MaxHendrix folds
+bigsoowoop calls $50
+Sabazius checks
+*** FLOP *** [9d Td 4s]
+Main pot $198.25 | Rake $1.75
+bigsoowoop bets $100
+Sabazius calls $100
+*** TURN *** [9d Td 4s] [3d]
+Main pot $398.25 | Rake $1.75
+bigsoowoop bets $300
+Sabazius calls $300
+*** RIVER *** [9d Td 4s 3d] [5d]
+Main pot $998.25 | Rake $1.75
+bigsoowoop checks
+Sabazius bets $2569.75 and is all-in
+bigsoowoop folds
+Uncalled bet ($2569.75) returned to Sabazius
+Sabazius does not show
+*** SUMMARY ***
+Total pot $998.25 | Rake $1.75
+Seat 2: MaxHendrix (button) folded on the Pre-Flop and did not bet
+Seat 8: bigsoowoop (small blind) folded on the River
+Seat 9: Sabazius (big blind) did not showed and won $998.25
+
+
+Hand #1776368101 - Holdem(No Limit) - $50/$100 - 2023/07/10 02:38:48 UTC
+7 Day No Rathole 50/100 NLH 9-max Seat #9 is the button
+Seat 8: bigsoowoop ($2993.75)
+Seat 9: Sabazius ($3568)
+Sabazius posts the small blind $50
+bigsoowoop posts the big blind $100
+*** HOLE CARDS *** 
+Sabazius folds
+*** SUMMARY ***
+Total pot $150
+Seat 8: bigsoowoop (big blind) did not showed and won $150
+Seat 9: Sabazius (small blind) folded on the Pre-Flop
+
+
+
+

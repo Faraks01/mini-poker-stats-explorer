@@ -1,0 +1,96 @@
+Hand #1833244868 - Holdem(No Limit) - $25/$50 - 2023/08/24 16:28:31 UTC
+Ohlman 9-max Seat #2 is the button
+Seat 1: yourmytralala ($1000)
+Seat 2: Nimble123 ($1000)
+Seat 3: SebTozzi ($5000)
+Nimble123 posts the small blind $25
+yourmytralala posts the big blind $50
+*** HOLE CARDS *** 
+Nimble123 calls $25
+yourmytralala checks
+*** FLOP *** [Qc Qs 2d]
+Main pot $98.75 | Rake $1.25
+yourmytralala checks
+Nimble123 bets $50
+yourmytralala folds
+Uncalled bet ($50) returned to Nimble123
+Nimble123 does not show
+*** SUMMARY ***
+Total pot $98.75 | Rake $1.25
+Seat 1: yourmytralala (big blind) folded on the Flop
+Seat 2: Nimble123 (small blind) did not showed and won $98.75
+
+
+Hand #1833246003 - Holdem(No Limit) - $25/$50 - 2023/08/24 16:30:44 UTC
+Ohlman 9-max Seat #1 is the button
+Seat 1: yourmytralala ($1000)
+Seat 2: Nimble123 ($1197.50)
+Seat 3: SebTozzi ($1000)
+Nimble123 posts the small blind $25
+SebTozzi posts the big blind $50
+*** HOLE CARDS *** 
+yourmytralala raises $100 to $100
+Nimble123 folds
+SebTozzi calls $50
+*** FLOP *** [2h Jh 9h]
+Main pot $223.25 | Rake $1.75
+SebTozzi checks
+yourmytralala bets $50
+SebTozzi calls $50
+*** TURN *** [2h Jh 9h] [Tc]
+Main pot $323.25 | Rake $1.75
+SebTozzi checks
+yourmytralala bets $162.50
+SebTozzi raises $850 to $850 and is all-in
+yourmytralala calls $687.50 and is all-in
+*** RUN IT TWICE ***
+*** RIVER 1 *** [2h Jh 9h Tc] [9c]
+Main pot 1 $1011.62 | Rake $0.88
+*** SHOW DOWN 1 ***
+Main pot 1 $1011.62 | Rake $0.88
+yourmytralala shows [Kh 4h] (a combo of some cards [Kh Jh 9h 4h 2h])
+SebTozzi shows [Th 7h] (a combo of some cards [Jh Th 9h 7h 2h])
+yourmytralala collected $1011.63 from main pot 1
+*** RIVER 2 *** [2h Jh 9h Tc] [6d]
+Main pot 2 $1011.63 | Rake $0.87
+*** SHOW DOWN 2 ***
+Main pot 2 $1011.63 | Rake $0.87
+yourmytralala shows [Kh 4h] (a combo of some cards [Kh Jh 9h 4h 2h])
+SebTozzi shows [Th 7h] (a combo of some cards [Jh Th 9h 7h 2h])
+yourmytralala collected $1011.62 from main pot 2
+*** SUMMARY ***
+Total pot $2023.25 | Rake $1.75
+Board 1 [2h Jh 9h Tc 9c]
+Seat 1: yourmytralala (button) showed [Kh 4h] and won $1011.63 with Flush [Kh Jh 9h 4h 2h]
+Seat 2: Nimble123 (small blind) folded on the Pre-Flop
+Seat 3: SebTozzi (big blind) showed [Th 7h] and lost with a
+Board 2 [2h Jh 9h Tc 6d]
+Seat 1: yourmytralala (button) showed [Kh 4h] and won $1011.62 with Flush [Kh Jh 9h 4h 2h]
+Seat 2: Nimble123 (small blind) folded on the Pre-Flop
+Seat 3: SebTozzi (big blind) showed [Th 7h] and lost with a
+
+
+Hand #1833247830 - Holdem(No Limit) - $25/$50 - 2023/08/24 16:31:33 UTC
+Ohlman 9-max Seat #2 is the button
+Seat 1: yourmytralala ($5000)
+Seat 2: Nimble123 ($1172.50)
+Seat 3: SebTozzi ($1000)
+SebTozzi posts the small blind $25
+Nimble123 posts the big blind $50
+*** HOLE CARDS *** 
+SebTozzi calls $25
+Nimble123 checks
+*** FLOP *** [Kc Tc 2s]
+Main pot $98.75 | Rake $1.25
+SebTozzi bets $50
+Nimble123 folds
+Uncalled bet ($50) returned to SebTozzi
+SebTozzi does not show
+*** SUMMARY ***
+Total pot $98.75 | Rake $1.25
+Seat 2: Nimble123 (big blind) folded on the Flop
+Seat 3: SebTozzi (small blind) did not showed and won $98.75
+
+
+
+

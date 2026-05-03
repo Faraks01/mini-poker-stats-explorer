@@ -1,0 +1,250 @@
+PokerStars Hand #1511013689:  Hold'em No Limit ($200.00/$400.00 USD) - 2023/01/06 02:11:45 ET
+Table 'WPN_7 Day No Rathole 200/400 NLH - Limited Time' 9-max Seat #2 is the button
+Seat 2: HornyOldMan ($6797.50 in chips)
+Seat 7: CPUrul0r ($24815.32 in chips)
+Seat 8: Sabazius ($16991.75 in chips)
+CPUrul0r: posts small blind $200.00
+Sabazius: posts big blind $400.00
+*** HOLE CARDS ***
+HornyOldMan: folds
+CPUrul0r: folds
+Uncalled bet ($200.00) returned to Sabazius
+Sabazius collected $400.00 from pot
+Sabazius: doesn't show hand
+*** SUMMARY ***
+Total pot $400.00 | Rake $0.00
+Seat 2: HornyOldMan (button) folded before Flop (didn't bet)
+Seat 7: CPUrul0r (small blind) folded before Flop
+Seat 8: Sabazius (big blind) collected ($400.00)
+
+PokerStars Hand #1511014076:  Hold'em No Limit ($200.00/$400.00 USD) - 2023/01/06 02:12:02 ET
+Table 'WPN_7 Day No Rathole 200/400 NLH - Limited Time' 9-max Seat #8 is the button
+Seat 7: CPUrul0r ($24615.32 in chips)
+Seat 8: Sabazius ($16991.75 in chips)
+Sabazius: posts small blind $200.00
+CPUrul0r: posts big blind $400.00
+*** HOLE CARDS ***
+Sabazius: raises $480.00 to $880.00
+CPUrul0r: raises $2480.00 to $3360.00
+Sabazius: calls $2480.00
+*** FLOP *** [Td Th 3s]
+CPUrul0r: bets $1680.00
+Sabazius: calls $1680.00
+*** TURN *** [Td Th 3s] [Qh]
+CPUrul0r: checks
+Sabazius: bets $2520.00
+CPUrul0r: calls $2520.00
+*** RIVER *** [Td Th 3s Qh] [2s]
+CPUrul0r: checks
+Sabazius: bets $9631.75 and is all-in
+CPUrul0r: calls $9631.75
+*** SHOW DOWN ***
+CPUrul0r: shows [5d 5c]
+Sabazius: shows [5s 4s]
+CPUrul0r collected $34382.25 from pot
+*** SUMMARY ***
+Total pot $34383.50 | Rake $1.25
+Board [Td Th 3s Qh 2s]
+Seat 7: CPUrul0r (big blind) showed [5d 5c] and won ($34382.25)
+Seat 8: Sabazius (button) (small blind) showed [5s 4s] and lost
+
+PokerStars Hand #1511017645:  Hold'em No Limit ($200.00/$400.00 USD) - 2023/01/06 02:14:36 ET
+Table 'WPN_7 Day No Rathole 200/400 NLH - Limited Time' 9-max Seat #7 is the button
+Seat 7: CPUrul0r ($41805.82 in chips)
+Seat 8: Sabazius ($4000.00 in chips)
+Seat 9: DoublelegTD ($4000.00 in chips)
+CPUrul0r: posts small blind $200.00
+Sabazius: posts big blind $400.00
+*** HOLE CARDS ***
+CPUrul0r: raises $41405.82 to $41805.82 and is all-in
+Sabazius: folds
+Uncalled bet ($41405.82) returned to CPUrul0r
+CPUrul0r collected $800.00 from pot
+CPUrul0r: doesn't show hand
+*** SUMMARY ***
+Total pot $800.00 | Rake $0.00
+Seat 7: CPUrul0r (button) (small blind) collected ($800.00)
+Seat 8: Sabazius (big blind) folded before Flop
+
+PokerStars Hand #1511017914:  Hold'em No Limit ($200.00/$400.00 USD) - 2023/01/06 02:14:48 ET
+Table 'WPN_7 Day No Rathole 200/400 NLH - Limited Time' 9-max Seat #7 is the button
+Seat 7: CPUrul0r ($42205.82 in chips)
+Seat 9: DoublelegTD ($4000.00 in chips)
+CPUrul0r: posts small blind $200.00
+DoublelegTD: posts big blind $400.00
+*** HOLE CARDS ***
+CPUrul0r: folds
+Uncalled bet ($200.00) returned to DoublelegTD
+DoublelegTD collected $400.00 from pot
+DoublelegTD: doesn't show hand
+*** SUMMARY ***
+Total pot $400.00 | Rake $0.00
+Seat 7: CPUrul0r (button) (small blind) folded before Flop
+Seat 9: DoublelegTD (big blind) collected ($400.00)
+
+PokerStars Hand #1511018094:  Hold'em No Limit ($200.00/$400.00 USD) - 2023/01/06 02:14:55 ET
+Table 'WPN_7 Day No Rathole 200/400 NLH - Limited Time' 9-max Seat #9 is the button
+Seat 7: CPUrul0r ($42005.82 in chips)
+Seat 9: DoublelegTD ($4200.00 in chips)
+DoublelegTD: posts small blind $200.00
+CPUrul0r: posts big blind $400.00
+*** HOLE CARDS ***
+DoublelegTD: folds
+Uncalled bet ($200.00) returned to CPUrul0r
+CPUrul0r collected $400.00 from pot
+CPUrul0r: doesn't show hand
+*** SUMMARY ***
+Total pot $400.00 | Rake $0.00
+Seat 7: CPUrul0r (big blind) collected ($400.00)
+Seat 9: DoublelegTD (button) (small blind) folded before Flop
+
+PokerStars Hand #1511034143:  Hold'em No Limit ($200.00/$400.00 USD) - 2023/01/06 02:26:26 ET
+Table 'WPN_7 Day No Rathole 200/400 NLH - Limited Time' 9-max Seat #7 is the button
+Seat 2: Sabazius ($4400.00 in chips)
+Seat 7: CPUrul0r ($41805.82 in chips)
+CPUrul0r: posts small blind $200.00
+Sabazius: posts big blind $400.00
+*** HOLE CARDS ***
+CPUrul0r: raises $41405.82 to $41805.82 and is all-in
+Sabazius: calls $4000.00 and is all-in
+Uncalled bet ($37405.82) returned to CPUrul0r
+*** FIRST FLOP *** [3h 5h 3d]
+*** FIRST TURN *** [3h 5h 3d] [9d]
+*** FIRST RIVER *** [3h 5h 3d 9d] [8d]
+*** SECOND FLOP *** [2c 9c 7h]
+*** SECOND TURN *** [2c 9c 7h] [8h]
+*** SECOND RIVER *** [2c 9c 7h 8h] [3s]
+*** FIRST SHOW DOWN ***
+Sabazius: shows [Ts 9s]
+CPUrul0r: shows [5d 7d]
+CPUrul0r collected $4399.38 from pot
+*** SECOND SHOW DOWN ***
+Sabazius: shows [Ts 9s]
+CPUrul0r: shows [5d 7d]
+Sabazius collected $4399.37 from pot
+*** SUMMARY ***
+Total pot $8800.00 | Rake $1.25
+Hand was run twice
+FIRST Board [3h 5h 3d 9d 8d]
+SECOND Board [2c 9c 7h 8h 3s]
+Seat 2: Sabazius (big blind) showed [Ts 9s] and lost, and won ($4399.37)
+Seat 7: CPUrul0r (button) (small blind) showed [5d 7d] and won ($4399.38), and lost
+
+PokerStars Hand #1511035006:  Hold'em No Limit ($200.00/$400.00 USD) - 2023/01/06 02:27:02 ET
+Table 'WPN_7 Day No Rathole 200/400 NLH - Limited Time' 9-max Seat #2 is the button
+Seat 2: Sabazius ($4399.37 in chips)
+Seat 7: CPUrul0r ($41805.20 in chips)
+Sabazius: posts small blind $200.00
+CPUrul0r: posts big blind $400.00
+*** HOLE CARDS ***
+Sabazius: raises $3999.37 to $4399.37 and is all-in
+CPUrul0r: folds
+Uncalled bet ($3999.37) returned to Sabazius
+Sabazius collected $800.00 from pot
+Sabazius: doesn't show hand
+*** SUMMARY ***
+Total pot $800.00 | Rake $0.00
+Seat 2: Sabazius (button) (small blind) collected ($800.00)
+Seat 7: CPUrul0r (big blind) folded before Flop
+
+PokerStars Hand #1511035694:  Hold'em No Limit ($200.00/$400.00 USD) - 2023/01/06 02:27:32 ET
+Table 'WPN_7 Day No Rathole 200/400 NLH - Limited Time' 9-max Seat #7 is the button
+Seat 2: Sabazius ($4799.37 in chips)
+Seat 3: DoublelegTD ($4000.00 in chips)
+Seat 4: TIKITAKA11 ($66253.47 in chips)
+Seat 7: CPUrul0r ($41405.20 in chips)
+CPUrul0r: posts small blind $200.00
+Sabazius: posts big blind $400.00
+*** HOLE CARDS ***
+CPUrul0r: raises $41005.20 to $41405.20 and is all-in
+Sabazius: folds
+Uncalled bet ($41005.20) returned to CPUrul0r
+CPUrul0r collected $800.00 from pot
+CPUrul0r: doesn't show hand
+*** SUMMARY ***
+Total pot $800.00 | Rake $0.00
+Seat 2: Sabazius (big blind) folded before Flop
+Seat 7: CPUrul0r (button) (small blind) collected ($800.00)
+
+PokerStars Hand #1511035921:  Hold'em No Limit ($200.00/$400.00 USD) - 2023/01/06 02:27:42 ET
+Table 'WPN_7 Day No Rathole 200/400 NLH - Limited Time' 9-max Seat #7 is the button
+Seat 2: Sabazius ($4399.37 in chips)
+Seat 3: DoublelegTD ($4000.00 in chips)
+Seat 4: TIKITAKA11 ($66253.47 in chips)
+Seat 7: CPUrul0r ($41805.20 in chips)
+Sabazius: posts small blind $200.00
+DoublelegTD: posts big blind $400.00
+*** HOLE CARDS ***
+CPUrul0r: raises $41405.20 to $41805.20 and is all-in
+Sabazius: folds
+DoublelegTD: folds
+Uncalled bet ($41405.20) returned to CPUrul0r
+CPUrul0r collected $1000.00 from pot
+CPUrul0r: doesn't show hand
+*** SUMMARY ***
+Total pot $1000.00 | Rake $0.00
+Seat 2: Sabazius (small blind) folded before Flop
+Seat 3: DoublelegTD (big blind) folded before Flop
+Seat 7: CPUrul0r (button) collected ($1000.00)
+
+PokerStars Hand #1511036231:  Hold'em No Limit ($200.00/$400.00 USD) - 2023/01/06 02:27:55 ET
+Table 'WPN_7 Day No Rathole 200/400 NLH - Limited Time' 9-max Seat #2 is the button
+Seat 2: Sabazius ($4199.37 in chips)
+Seat 3: DoublelegTD ($3600.00 in chips)
+Seat 4: TIKITAKA11 ($66253.47 in chips)
+Seat 7: CPUrul0r ($42405.20 in chips)
+DoublelegTD: posts small blind $200.00
+TIKITAKA11: posts big blind $400.00
+*** HOLE CARDS ***
+CPUrul0r: folds
+Sabazius: folds
+DoublelegTD: folds
+Uncalled bet ($200.00) returned to TIKITAKA11
+TIKITAKA11 collected $400.00 from pot
+TIKITAKA11: doesn't show hand
+*** SUMMARY ***
+Total pot $400.00 | Rake $0.00
+Seat 2: Sabazius (button) folded before Flop (didn't bet)
+Seat 3: DoublelegTD (small blind) folded before Flop
+Seat 4: TIKITAKA11 (big blind) collected ($400.00)
+Seat 7: CPUrul0r folded before Flop (didn't bet)
+
+PokerStars Hand #1510634880:  Hold'em No Limit ($200.00/$400.00 USD) - 2023/01/05 21:09:49 ET
+Table 'WPN_7 Day No Rathole 200/400 NLH - Limited Time' 9-max Seat #7 is the button
+Seat 2: oneplusone ($104211.16 in chips)
+Seat 3: Sabazius ($16391.75 in chips)
+Seat 7: orgi69 ($27825.90 in chips)
+oneplusone: posts small blind $200.00
+Sabazius: posts big blind $400.00
+*** HOLE CARDS ***
+orgi69: folds
+oneplusone: folds
+Uncalled bet ($200.00) returned to Sabazius
+Sabazius collected $400.00 from pot
+Sabazius: doesn't show hand
+*** SUMMARY ***
+Total pot $400.00 | Rake $0.00
+Seat 2: oneplusone (small blind) folded before Flop
+Seat 3: Sabazius (big blind) collected ($400.00)
+Seat 7: orgi69 (button) folded before Flop (didn't bet)
+
+PokerStars Hand #1510635071:  Hold'em No Limit ($200.00/$400.00 USD) - 2023/01/05 21:09:57 ET
+Table 'WPN_7 Day No Rathole 200/400 NLH - Limited Time' 9-max Seat #2 is the button
+Seat 2: oneplusone ($104011.16 in chips)
+Seat 3: Sabazius ($16591.75 in chips)
+Seat 7: orgi69 ($27825.90 in chips)
+Sabazius: posts small blind $200.00
+orgi69: posts big blind $400.00
+*** HOLE CARDS ***
+oneplusone: folds
+Sabazius: raises $800.00 to $1200.00
+orgi69: folds
+Uncalled bet ($800.00) returned to Sabazius
+Sabazius collected $800.00 from pot
+Sabazius: doesn't show hand
+*** SUMMARY ***
+Total pot $800.00 | Rake $0.00
+Seat 2: oneplusone (button) folded before Flop (didn't bet)
+Seat 3: Sabazius (small blind) collected ($800.00)
+Seat 7: orgi69 (big blind) folded before Flop
+

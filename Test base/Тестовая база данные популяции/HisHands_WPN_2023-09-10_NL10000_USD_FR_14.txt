@@ -1,0 +1,403 @@
+Hand #1854355529 - Holdem(No Limit) - $50/$100 - 2023/09/10 17:47:32 UTC
+7 Day No Rathole 50/100 NLH 9-max Seat #2 is the button
+Seat 1: Rockington ($1298.75)
+Seat 2: Nimble123 ($1468.17)
+Nimble123 posts the small blind $50
+Rockington posts the big blind $100
+*** HOLE CARDS *** 
+Nimble123 raises $1418.17 to $1468.17 and is all-in
+Rockington calls $1198.75 and is all-in
+Uncalled bet ($169.42) returned to Nimble123
+Nimble123 does not show
+*** FLOP *** [Kh Ad 8d]
+Main pot $2596.25 | Rake $1.25
+*** TURN *** [Kh Ad 8d] [3d]
+Main pot $2596.25 | Rake $1.25
+*** RIVER *** [Kh Ad 8d 3d] [5h]
+Main pot $2596.25 | Rake $1.25
+*** SHOW DOWN ***
+Main pot $2596.25 | Rake $1.25
+Rockington shows [Ac 7s] (a combo of some cards [Ad Ac Kh 8d 7s])
+Nimble123 shows [As Qd] (a combo of some cards [As Ad Kh Qd 8d])
+Nimble123 collected $2596.25 from main pot
+*** SUMMARY ***
+Total pot $2596.25 | Rake $1.25
+Seat 1: Rockington (big blind) showed [Ac 7s] and lost
+Seat 2: Nimble123 (small blind) showed [As Qd] and won $2596.25 with OnePair [As Ad Kh Qd 8d]
+
+
+Hand #1854356508 - Holdem(No Limit) - $50/$100 - 2023/09/10 17:48:29 UTC
+7 Day No Rathole 50/100 NLH 9-max Seat #2 is the button
+Seat 1: Rockington ($10000)
+Seat 2: Nimble123 ($2765.67)
+Seat 3: Haftbefehl ($4197.96)
+Seat 4: SebTozzi ($10000)
+Seat 5: b00ma ($10000)
+Nimble123 posts the small blind $50
+Haftbefehl posts the big blind $100
+*** HOLE CARDS *** 
+Nimble123 raises $150 to $200
+Haftbefehl raises $450 to $550
+Nimble123 calls $350
+*** FLOP *** [9s 9h 6s]
+Main pot $1098.75 | Rake $1.25
+Haftbefehl bets $363
+Nimble123 folds
+Uncalled bet ($363) returned to Haftbefehl
+Haftbefehl does not show
+*** SUMMARY ***
+Total pot $1098.75 | Rake $1.25
+Seat 2: Nimble123 (small blind) folded on the Flop
+Seat 3: Haftbefehl (big blind) did not showed and won $1098.75
+
+
+Hand #1854357847 - Holdem(No Limit) - $50/$100 - 2023/09/10 17:49:22 UTC
+7 Day No Rathole 50/100 NLH 9-max Seat #2 is the button
+Seat 1: Rockington ($10000)
+Seat 2: Nimble123 ($10000)
+Seat 3: Haftbefehl ($4746.71)
+Seat 4: SebTozzi ($4396)
+Seat 5: b00ma ($10000)
+Seat 6: J0hnMcclean ($10000)
+Haftbefehl posts the small blind $50
+SebTozzi posts the big blind $100
+*** HOLE CARDS *** 
+Nimble123 folds
+Haftbefehl raises $200 to $250
+SebTozzi calls $150
+*** FLOP *** [Js 8s 6c]
+Main pot $498.25 | Rake $1.75
+Haftbefehl checks
+SebTozzi checks
+*** TURN *** [Js 8s 6c] [Td]
+Main pot $498.25 | Rake $1.75
+Haftbefehl bets $375
+SebTozzi folds
+Uncalled bet ($375) returned to Haftbefehl
+Haftbefehl does not show
+*** SUMMARY ***
+Total pot $498.25 | Rake $1.75
+Seat 2: Nimble123 (button) folded on the Pre-Flop and did not bet
+Seat 3: Haftbefehl (small blind) did not showed and won $498.25
+Seat 4: SebTozzi (big blind) folded on the Turn
+
+
+Hand #1854359437 - Holdem(No Limit) - $50/$100 - 2023/09/10 17:49:38 UTC
+7 Day No Rathole 50/100 NLH 9-max Seat #3 is the button
+Seat 1: Rockington ($10000)
+Seat 2: Nimble123 ($10000)
+Seat 3: Haftbefehl ($4994.96)
+Seat 4: SebTozzi ($4146)
+Seat 5: b00ma ($2147.50)
+Seat 6: J0hnMcclean ($10000)
+SebTozzi posts the small blind $50
+b00ma posts the big blind $100
+*** HOLE CARDS *** 
+Nimble123 folds
+Haftbefehl raises $200 to $200
+SebTozzi folds
+b00ma folds
+Uncalled bet ($100) returned to Haftbefehl
+Haftbefehl does not show
+*** SUMMARY ***
+Total pot $250
+Seat 2: Nimble123 folded on the Pre-Flop and did not bet
+Seat 3: Haftbefehl (button) did not showed and won $250
+Seat 4: SebTozzi (small blind) folded on the Pre-Flop
+Seat 5: b00ma (big blind) folded on the Pre-Flop
+
+
+Hand #1854359969 - Holdem(No Limit) - $50/$100 - 2023/09/10 17:50:20 UTC
+7 Day No Rathole 50/100 NLH 9-max Seat #4 is the button
+Seat 1: Rockington ($10000)
+Seat 2: Nimble123 ($2215.67)
+Seat 3: Haftbefehl ($10000)
+Seat 4: SebTozzi ($10000)
+Seat 5: b00ma ($2047.50)
+Seat 6: J0hnMcclean ($23240.83)
+b00ma posts the small blind $50
+J0hnMcclean posts the big blind $100
+*** HOLE CARDS *** 
+Nimble123 raises $200 to $200
+SebTozzi folds
+b00ma folds
+J0hnMcclean calls $100
+*** FLOP *** [6c 3s Jd]
+Main pot $447.75 | Rake $2.25
+J0hnMcclean checks
+Nimble123 bets $134.32
+J0hnMcclean calls $134.32
+*** TURN *** [6c 3s Jd] [Qh]
+Main pot $716.39 | Rake $2.25
+J0hnMcclean checks
+Nimble123 bets $429.83
+J0hnMcclean raises $2794 to $2794
+Nimble123 folds
+Uncalled bet ($2364.17) returned to J0hnMcclean
+J0hnMcclean does not show
+*** SUMMARY ***
+Total pot $1576.05 | Rake $2.25
+Seat 2: Nimble123 folded on the Turn
+Seat 4: SebTozzi (button) folded on the Pre-Flop and did not bet
+Seat 5: b00ma (small blind) folded on the Pre-Flop
+Seat 6: J0hnMcclean (big blind) did not showed and won $1576.05
+
+
+Hand #1854361260 - Holdem(No Limit) - $50/$100 - 2023/09/10 17:50:57 UTC
+7 Day No Rathole 50/100 NLH 9-max Seat #5 is the button
+Seat 1: Rockington ($1000)
+Seat 2: Nimble123 ($10000)
+Seat 3: Haftbefehl ($10000)
+Seat 4: SebTozzi ($10000)
+Seat 5: b00ma ($1997.50)
+Seat 6: J0hnMcclean ($24052.73)
+J0hnMcclean posts the small blind $50
+Rockington posts the big blind $100
+*** HOLE CARDS *** 
+Nimble123 folds
+Haftbefehl folds
+SebTozzi folds
+b00ma raises $200 to $200
+J0hnMcclean raises $2200 to $2250
+Rockington folds
+b00ma calls $1797.50 and is all-in
+Uncalled bet ($252.50) returned to J0hnMcclean
+J0hnMcclean does not show
+*** RUN IT TWICE ***
+*** FLOP 1 *** [3c Th 5s]
+Main pot 1 $2046 | Rake $1.50
+*** TURN 1 *** [3c Th 5s] [5h]
+Main pot 1 $2046 | Rake $1.50
+*** RIVER 1 *** [3c Th 5s 5h] [4h]
+Main pot 1 $2046 | Rake $1.50
+*** SHOW DOWN 1 ***
+Main pot 1 $2046 | Rake $1.50
+b00ma shows [Ac Ts] (a combo of some cards [Ts Th 5s 5h Ac])
+J0hnMcclean shows [Qs Ah] (a combo of some cards [5s 5h Ah Qs Th])
+b00ma collected $2046 from main pot 1
+*** FLOP 2 *** [2h 7c 2c]
+Main pot 2 $2046 | Rake $1.50
+*** TURN 2 *** [2h 7c 2c] [5c]
+Main pot 2 $2046 | Rake $1.50
+*** RIVER 2 *** [2h 7c 2c 5c] [7d]
+Main pot 2 $2046 | Rake $1.50
+*** SHOW DOWN 2 ***
+Main pot 2 $2046 | Rake $1.50
+b00ma shows [Ac Ts] (a combo of some cards [7d 7c 2h 2c Ac])
+J0hnMcclean shows [Qs Ah] (a combo of some cards [7d 7c 2h 2c Ah])
+b00ma collected $1023 from main pot 2
+J0hnMcclean collected $1023 from main pot 2
+*** SUMMARY ***
+Total pot $4092 | Rake $3
+Board 1 [3c Th 5s 5h 4h]
+Seat 1: Rockington (big blind) folded on the Pre-Flop
+Seat 2: Nimble123 folded on the Pre-Flop and did not bet
+Seat 3: Haftbefehl folded on the Pre-Flop and did not bet
+Seat 4: SebTozzi folded on the Pre-Flop and did not bet
+Seat 5: b00ma (button) showed [Ac Ts] and won $2046 with TwoPair [Ts Th 5s 5h Ac]
+Seat 6: J0hnMcclean (small blind) showed [Qs Ah] and lost with a
+Board 2 [2h 7c 2c 5c 7d]
+Seat 1: Rockington (big blind) folded on the Pre-Flop
+Seat 2: Nimble123 folded on the Pre-Flop and did not bet
+Seat 3: Haftbefehl folded on the Pre-Flop and did not bet
+Seat 4: SebTozzi folded on the Pre-Flop and did not bet
+Seat 5: b00ma (button) showed [Ac Ts] and won $1023 with TwoPair [7d 7c 2h 2c Ah]
+Seat 6: J0hnMcclean (small blind) showed [Qs Ah] and won $1023 with TwoPair [7d 7c 2h 2c Ah]
+
+
+Hand #1854362864 - Holdem(No Limit) - $50/$100 - 2023/09/10 17:51:26 UTC
+7 Day No Rathole 50/100 NLH 9-max Seat #6 is the button
+Seat 1: Rockington ($900)
+Seat 3: Haftbefehl ($5144.96)
+Seat 4: SebTozzi ($10000)
+Seat 5: b00ma ($10000)
+Seat 6: J0hnMcclean ($10000)
+Rockington posts the small blind $50
+Haftbefehl posts the big blind $100
+*** HOLE CARDS *** 
+SebTozzi folds
+b00ma folds
+J0hnMcclean folds
+Rockington folds
+*** SUMMARY ***
+Total pot $150
+Seat 1: Rockington (small blind) folded on the Pre-Flop
+Seat 3: Haftbefehl (big blind) did not showed and won $150
+Seat 4: SebTozzi folded on the Pre-Flop and did not bet
+Seat 5: b00ma folded on the Pre-Flop and did not bet
+Seat 6: J0hnMcclean (button) folded on the Pre-Flop and did not bet
+
+
+Hand #1854363400 - Holdem(No Limit) - $50/$100 - 2023/09/10 17:51:38 UTC
+7 Day No Rathole 50/100 NLH 9-max Seat #1 is the button
+Seat 1: Rockington ($10000)
+Seat 3: Haftbefehl ($5194.96)
+Seat 4: SebTozzi ($10000)
+Seat 5: b00ma ($3069)
+Seat 6: J0hnMcclean ($10000)
+Haftbefehl posts the small blind $50
+b00ma posts the big blind $100
+*** HOLE CARDS *** 
+J0hnMcclean folds
+Rockington folds
+Haftbefehl folds
+*** SUMMARY ***
+Total pot $150
+Seat 1: Rockington (button) folded on the Pre-Flop and did not bet
+Seat 3: Haftbefehl (small blind) folded on the Pre-Flop
+Seat 5: b00ma (big blind) did not showed and won $150
+Seat 6: J0hnMcclean folded on the Pre-Flop and did not bet
+
+
+Hand #1854363761 - Holdem(No Limit) - $50/$100 - 2023/09/10 17:51:52 UTC
+7 Day No Rathole 50/100 NLH 9-max Seat #3 is the button
+Seat 1: Rockington ($10000)
+Seat 3: Haftbefehl ($10000)
+Seat 4: SebTozzi ($10000)
+Seat 5: b00ma ($3119)
+Seat 6: J0hnMcclean ($23078.23)
+b00ma posts the small blind $50
+J0hnMcclean posts the big blind $100
+*** HOLE CARDS *** 
+Rockington folds
+Haftbefehl folds
+b00ma folds
+*** SUMMARY ***
+Total pot $150
+Seat 1: Rockington folded on the Pre-Flop and did not bet
+Seat 3: Haftbefehl (button) folded on the Pre-Flop and did not bet
+Seat 5: b00ma (small blind) folded on the Pre-Flop
+Seat 6: J0hnMcclean (big blind) did not showed and won $150
+
+
+Hand #1854364218 - Holdem(No Limit) - $50/$100 - 2023/09/10 17:52:01 UTC
+7 Day No Rathole 50/100 NLH 9-max Seat #5 is the button
+Seat 1: Rockington ($850)
+Seat 3: Haftbefehl ($10000)
+Seat 4: SebTozzi ($10000)
+Seat 5: b00ma ($10000)
+Seat 6: J0hnMcclean ($23128.23)
+J0hnMcclean posts the small blind $50
+Rockington posts the big blind $100
+*** HOLE CARDS *** 
+Haftbefehl folds
+b00ma folds
+J0hnMcclean folds
+*** SUMMARY ***
+Total pot $150
+Seat 1: Rockington (big blind) did not showed and won $150
+Seat 3: Haftbefehl folded on the Pre-Flop and did not bet
+Seat 5: b00ma (button) folded on the Pre-Flop and did not bet
+Seat 6: J0hnMcclean (small blind) folded on the Pre-Flop
+
+
+Hand #1854364535 - Holdem(No Limit) - $50/$100 - 2023/09/10 17:52:21 UTC
+7 Day No Rathole 50/100 NLH 9-max Seat #6 is the button
+Seat 1: Rockington ($900)
+Seat 3: Haftbefehl ($5144.96)
+Seat 5: b00ma ($10000)
+Seat 6: J0hnMcclean ($10000)
+Rockington posts the small blind $50
+Haftbefehl posts the big blind $100
+*** HOLE CARDS *** 
+b00ma folds
+J0hnMcclean folds
+Rockington raises $850 to $900 and is all-in
+Haftbefehl calls $800
+*** FLOP *** [Jh Ts 5d]
+Main pot $1797.75 | Rake $2.25
+*** TURN *** [Jh Ts 5d] [Tc]
+Main pot $1797.75 | Rake $2.25
+*** RIVER *** [Jh Ts 5d Tc] [3s]
+Main pot $1797.75 | Rake $2.25
+*** SHOW DOWN ***
+Main pot $1797.75 | Rake $2.25
+Rockington shows [Ks Jd] (a combo of some cards [Jh Jd Ts Tc Ks])
+Haftbefehl shows [Qs Js] (a combo of some cards [Js Jh Ts Tc Qs])
+Rockington collected $1797.75 from main pot
+*** SUMMARY ***
+Total pot $1797.75 | Rake $2.25
+Seat 1: Rockington (small blind) showed [Ks Jd] and won $1797.75 with TwoPair [Jh Jd Ts Tc Ks]
+Seat 3: Haftbefehl (big blind) showed [Qs Js] and lost
+Seat 5: b00ma folded on the Pre-Flop and did not bet
+Seat 6: J0hnMcclean (button) folded on the Pre-Flop and did not bet
+
+
+Hand #1854365680 - Holdem(No Limit) - $50/$100 - 2023/09/10 17:52:49 UTC
+7 Day No Rathole 50/100 NLH 9-max Seat #1 is the button
+Seat 1: Rockington ($1797.75)
+Seat 3: Haftbefehl ($4244.96)
+Seat 5: b00ma ($3069)
+Seat 6: J0hnMcclean ($10000)
+Haftbefehl posts the small blind $50
+b00ma posts the big blind $100
+*** HOLE CARDS *** 
+J0hnMcclean folds
+Rockington raises $200 to $200
+Haftbefehl folds
+b00ma raises $2969 to $3069 and is all-in
+Rockington calls $1597.75 and is all-in
+Uncalled bet ($1271.25) returned to b00ma
+b00ma does not show
+*** FLOP *** [4c 7s Td]
+Main pot $3643.25 | Rake $2.25
+*** TURN *** [4c 7s Td] [4s]
+Main pot $3643.25 | Rake $2.25
+*** RIVER *** [4c 7s Td 4s] [Ac]
+Main pot $3643.25 | Rake $2.25
+*** SHOW DOWN ***
+Main pot $3643.25 | Rake $2.25
+Rockington shows [6h 6d] (a combo of some cards [6h 6d 4s 4c Ac])
+b00ma shows [5c As] (a combo of some cards [As Ac 4s 4c Td])
+b00ma collected $3643.25 from main pot
+*** SUMMARY ***
+Total pot $3643.25 | Rake $2.25
+Seat 1: Rockington (button) showed [6h 6d] and lost
+Seat 3: Haftbefehl (small blind) folded on the Pre-Flop
+Seat 5: b00ma (big blind) showed [5c As] and won $3643.25 with TwoPair [As Ac 4s 4c Td]
+Seat 6: J0hnMcclean folded on the Pre-Flop and did not bet
+
+
+Hand #1854366648 - Holdem(No Limit) - $50/$100 - 2023/09/10 17:53:31 UTC
+7 Day No Rathole 50/100 NLH 9-max Seat #3 is the button
+Seat 1: Rockington ($10000)
+Seat 3: Haftbefehl ($4194.96)
+Seat 5: b00ma ($4914.50)
+Seat 6: J0hnMcclean ($23078.23)
+b00ma posts the small blind $50
+J0hnMcclean posts the big blind $100
+*** HOLE CARDS *** 
+Haftbefehl raises $200 to $200
+b00ma folds
+J0hnMcclean calls $100
+*** FLOP *** [Js 3h 9s]
+Main pot $448.25 | Rake $1.75
+J0hnMcclean checks
+Haftbefehl bets $337.50
+J0hnMcclean folds
+Uncalled bet ($337.50) returned to Haftbefehl
+Haftbefehl does not show
+*** SUMMARY ***
+Total pot $448.25 | Rake $1.75
+Seat 3: Haftbefehl (button) did not showed and won $448.25
+Seat 5: b00ma (small blind) folded on the Pre-Flop
+Seat 6: J0hnMcclean (big blind) folded on the Flop
+
+
+Hand #1854367562 - Holdem(No Limit) - $50/$100 - 2023/09/10 17:53:44 UTC
+7 Day No Rathole 50/100 NLH 9-max Seat #6 is the button
+Seat 3: Haftbefehl ($10000)
+Seat 5: b00ma ($4864.50)
+Seat 6: J0hnMcclean ($22878.23)
+J0hnMcclean posts the small blind $50
+b00ma posts the big blind $100
+*** HOLE CARDS *** 
+J0hnMcclean folds
+*** SUMMARY ***
+Total pot $150
+Seat 5: b00ma (big blind) did not showed and won $150
+Seat 6: J0hnMcclean (small blind) folded on the Pre-Flop
+
+
+
+

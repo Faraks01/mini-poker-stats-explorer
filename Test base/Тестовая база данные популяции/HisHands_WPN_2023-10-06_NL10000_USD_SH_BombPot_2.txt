@@ -1,0 +1,61 @@
+
+Hand #1885714060 - Holdem(No Limit) - $50/$100 - 2023/10/06 00:50:32 UTC
+Woodland 6-max Seat #2 is the button
+Seat 2: PR0DIGY ($10559.18)
+Seat 3: DonaldPutIn_ ($10000)
+Seat 4: CWestmoreland ($10526.20)
+Seat 5: Sabazius ($3700)
+Seat 6: DonaldPutIn_ ($10000)
+PR0DIGY posts ante $500
+CWestmoreland posts ante $500
+Sabazius posts ante $500
+*** HOLE CARDS *** 
+*** FLOP *** [4h 4d 8h]
+Main pot $1498.25 | Rake $1.75
+CWestmoreland checks
+Sabazius checks
+PR0DIGY bets $434.49
+CWestmoreland raises $1144.65 to $1144.65
+Sabazius folds
+PR0DIGY folds
+Uncalled bet ($710.16) returned to CWestmoreland
+CWestmoreland does not show
+*** SUMMARY ***
+BombPot
+Total pot $2367.23 | Rake $1.75
+Seat 2: PR0DIGY (button) folded on the Flop
+Seat 4: CWestmoreland did not showed and won $2367.23
+Seat 5: Sabazius folded on the Flop
+
+
+Hand #1885723362 - Holdem(No Limit) - $50/$100 - 2023/10/06 01:03:04 UTC
+Woodland 6-max Seat #4 is the button
+Seat 2: PR0DIGY ($10000)
+Seat 4: CWestmoreland ($26017.05)
+PR0DIGY posts ante $500
+CWestmoreland posts ante $500
+*** HOLE CARDS *** 
+*** FLOP *** [6c 4c Ks]
+Main pot $998.75 | Rake $1.25
+PR0DIGY bets $289.63
+CWestmoreland raises $1078.63 to $1078.63
+PR0DIGY calls $789
+*** TURN *** [6c 4c Ks] [Tc]
+Main pot $3156.01 | Rake $1.25
+PR0DIGY checks
+CWestmoreland checks
+*** RIVER *** [6c 4c Ks Tc] [Jd]
+Main pot $3156.01 | Rake $1.25
+PR0DIGY checks
+CWestmoreland bets $1578
+PR0DIGY calls $1578
+*** SHOW DOWN ***
+Main pot $3156.01 | Rake $1.25
+PR0DIGY shows [6d Jc]
+PR0DIGY collected $6312.01 from main pot
+*** SUMMARY ***
+BombPot
+Total pot $6312.01 | Rake $1.25
+Seat 2: PR0DIGY showed [6d Jc] and won $6312.01 with TwoPair [Jd Jc 6d 6c Ks]
+Seat 4: CWestmoreland (button) did not showed and lost
+

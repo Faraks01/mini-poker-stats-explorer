@@ -1,0 +1,841 @@
+
+Hand #1942314098 - Holdem(No Limit) - $25/$50 - 2023/11/24 03:24:02 UTC
+Tiskilwa 6-max Seat #4 is the button
+Seat 1: gorbashove ($5000)
+Seat 4: 7SkyAroundMe ($12623.83)
+gorbashove posts ante $250
+7SkyAroundMe posts ante $250
+*** HOLE CARDS *** 
+*** FLOP *** [7d Kh 9s]
+Main pot $498.75 | Rake $1.25
+gorbashove bets $164.50
+7SkyAroundMe folds
+Uncalled bet ($164.50) returned to gorbashove
+gorbashove does not show
+*** SUMMARY ***
+BombPot
+Total pot $498.75 | Rake $1.25
+Seat 1: gorbashove did not showed and won $498.75
+Seat 4: 7SkyAroundMe (button) folded on the Flop
+
+
+Hand #1942320091 - Holdem(No Limit) - $25/$50 - 2023/11/24 03:32:22 UTC
+Tiskilwa 6-max Seat #1 is the button
+Seat 1: gorbashove ($4821.60)
+Seat 2: ILuvAvrilLavigne91 ($5000)
+Seat 3: Maxence72 ($5000)
+Seat 4: ULTIMATEBOT ($5000)
+Seat 5: xplo1t4bl3 ($5000)
+Seat 6: maybach1 ($5396.90)
+gorbashove posts ante $250
+ILuvAvrilLavigne91 posts ante $250
+ULTIMATEBOT posts ante $250
+xplo1t4bl3 posts ante $250
+maybach1 posts ante $250
+*** HOLE CARDS *** 
+*** FLOP *** [4c Ks 4h]
+Main pot $1247 | Rake $3
+ILuvAvrilLavigne91 checks
+ULTIMATEBOT checks
+xplo1t4bl3 checks
+maybach1 checks
+gorbashove checks
+*** TURN *** [4c Ks 4h] [2d]
+Main pot $1247 | Rake $3
+ILuvAvrilLavigne91 checks
+ULTIMATEBOT checks
+xplo1t4bl3 checks
+maybach1 checks
+gorbashove checks
+*** RIVER *** [4c Ks 4h 2d] [Ts]
+Main pot $1247 | Rake $3
+ILuvAvrilLavigne91 checks
+ULTIMATEBOT bets $274.28
+xplo1t4bl3 folds
+maybach1 folds
+gorbashove raises $2069.50 to $2069.50
+ILuvAvrilLavigne91 calls $2069.50
+ULTIMATEBOT folds
+*** SHOW DOWN ***
+Main pot $1247 | Rake $3
+gorbashove shows [Kh Kc]
+gorbashove collected $5660.28 from main pot
+*** SUMMARY ***
+BombPot
+Total pot $5660.28 | Rake $3
+Seat 1: gorbashove (button) showed [Kh Kc] and won $5660.28 with FullHouse [Ks Kh Kc 4h 4c]
+Seat 2: ILuvAvrilLavigne91 did not showed and lost
+Seat 4: ULTIMATEBOT folded on the River
+Seat 5: xplo1t4bl3 folded on the River
+Seat 6: maybach1 folded on the River
+
+
+Hand #1942334981 - Holdem(No Limit) - $25/$50 - 2023/11/24 03:45:17 UTC
+Tiskilwa 6-max Seat #6 is the button
+Seat 1: gorbashove ($6503.07)
+Seat 2: ILuvAvrilLavigne91 ($8717.99)
+Seat 3: Maxence72 ($5000)
+Seat 6: maybach1 ($5125)
+gorbashove posts ante $250
+ILuvAvrilLavigne91 posts ante $250
+Maxence72 posts ante $250
+maybach1 posts ante $250
+*** HOLE CARDS *** 
+*** FLOP *** [9d Ah 4c]
+Main pot $997.75 | Rake $2.25
+gorbashove checks
+ILuvAvrilLavigne91 checks
+Maxence72 bets $305
+maybach1 calls $305
+gorbashove folds
+ILuvAvrilLavigne91 folds
+*** TURN *** [9d Ah 4c] [Ks]
+Main pot $1607.75 | Rake $2.25
+Maxence72 checks
+maybach1 checks
+*** RIVER *** [9d Ah 4c Ks] [Qh]
+Main pot $1607.75 | Rake $2.25
+Maxence72 checks
+maybach1 checks
+*** SHOW DOWN ***
+Main pot $1607.75 | Rake $2.25
+Maxence72 shows [7c 9c]
+maybach1 shows [Td 9s]
+Maxence72 collected $803.88 from main pot
+maybach1 collected $803.87 from main pot
+*** SUMMARY ***
+BombPot
+Total pot $1607.75 | Rake $2.25
+Seat 1: gorbashove folded on the Flop
+Seat 2: ILuvAvrilLavigne91 folded on the Flop
+Seat 3: Maxence72 showed [7c 9c] and won $803.88 with OnePair [9s 9d Ah Ks Qh]
+Seat 6: maybach1 (button) showed [Td 9s] and won $803.87 with OnePair [9s 9d Ah Ks Qh]
+
+
+Hand #1942341786 - Holdem(No Limit) - $25/$50 - 2023/11/24 03:53:32 UTC
+Tiskilwa 6-max Seat #4 is the button
+Seat 1: gorbashove ($6249.44)
+Seat 2: ILuvAvrilLavigne91 ($8642.99)
+Seat 3: Maxence72 ($5346.63)
+Seat 4: ULTIMATEBOT ($5000)
+Seat 5: orgi69 ($5000)
+Seat 6: maybach1 ($5098)
+gorbashove posts ante $250
+ILuvAvrilLavigne91 posts ante $250
+Maxence72 posts ante $250
+ULTIMATEBOT posts ante $250
+orgi69 posts ante $250
+maybach1 posts ante $250
+*** HOLE CARDS *** 
+*** FLOP *** [6s Ts 4d]
+Main pot $1497 | Rake $3
+orgi69 checks
+maybach1 checks
+gorbashove checks
+ILuvAvrilLavigne91 checks
+Maxence72 checks
+ULTIMATEBOT checks
+*** TURN *** [6s Ts 4d] [Kc]
+Main pot $1497 | Rake $3
+orgi69 checks
+maybach1 checks
+gorbashove checks
+ILuvAvrilLavigne91 bets $374.25
+Maxence72 folds
+ULTIMATEBOT calls $374.25
+orgi69 folds
+maybach1 folds
+gorbashove folds
+*** RIVER *** [6s Ts 4d Kc] [4s]
+Main pot $2245.50 | Rake $3
+ILuvAvrilLavigne91 checks
+ULTIMATEBOT checks
+*** SHOW DOWN ***
+Main pot $2245.50 | Rake $3
+ILuvAvrilLavigne91 shows [Qh Kd]
+ILuvAvrilLavigne91 collected $2245.50 from main pot
+*** SUMMARY ***
+BombPot
+Total pot $2245.50 | Rake $3
+Seat 1: gorbashove folded on the Turn
+Seat 2: ILuvAvrilLavigne91 showed [Qh Kd] and won $2245.50 with TwoPair [Kd Kc 4s 4d Qh]
+Seat 3: Maxence72 folded on the Turn
+Seat 4: ULTIMATEBOT (button) did not showed and lost
+Seat 5: orgi69 folded on the Turn
+Seat 6: maybach1 folded on the Turn
+
+
+Hand #1942358309 - Holdem(No Limit) - $25/$50 - 2023/11/24 04:12:43 UTC
+Tiskilwa 6-max Seat #1 is the button
+Seat 1: gorbashove ($6617.09)
+Seat 2: ILuvAvrilLavigne91 ($9789.98)
+Seat 5: orgi69 ($5930.36)
+gorbashove posts ante $250
+ILuvAvrilLavigne91 posts ante $250
+orgi69 posts ante $250
+*** HOLE CARDS *** 
+*** FLOP *** [3d Jc 6h]
+Main pot $748.25 | Rake $1.75
+ILuvAvrilLavigne91 checks
+orgi69 checks
+gorbashove checks
+*** TURN *** [3d Jc 6h] [Kd]
+Main pot $748.25 | Rake $1.75
+ILuvAvrilLavigne91 bets $374.12
+orgi69 raises $1422.01 to $1422.01
+gorbashove folds
+ILuvAvrilLavigne91 folds
+Uncalled bet ($1047.89) returned to orgi69
+orgi69 does not show
+*** SUMMARY ***
+BombPot
+Total pot $1496.49 | Rake $1.75
+Seat 1: gorbashove (button) folded on the Turn
+Seat 2: ILuvAvrilLavigne91 folded on the Turn
+Seat 5: orgi69 did not showed and won $1496.49
+
+
+Hand #1942364246 - Holdem(No Limit) - $25/$50 - 2023/11/24 04:21:15 UTC
+Tiskilwa 6-max Seat #4 is the button
+Seat 1: gorbashove ($6497.66)
+Seat 2: ILuvAvrilLavigne91 ($9005.79)
+Seat 3: PR0DIGY ($5000)
+Seat 4: PANDAisEVIL ($5000)
+Seat 5: orgi69 ($7110.48)
+Seat 6: _COBKA_PBET_ ($5000)
+gorbashove posts ante $250
+ILuvAvrilLavigne91 posts ante $250
+PR0DIGY posts ante $250
+PANDAisEVIL posts ante $250
+orgi69 posts ante $250
+_COBKA_PBET_ posts ante $250
+*** HOLE CARDS *** 
+*** FLOP *** [3d Kh 3c]
+Main pot $1497 | Rake $3
+orgi69 checks
+_COBKA_PBET_ checks
+gorbashove checks
+ILuvAvrilLavigne91 checks
+PR0DIGY checks
+PANDAisEVIL checks
+*** TURN *** [3d Kh 3c] [9s]
+Main pot $1497 | Rake $3
+orgi69 checks
+_COBKA_PBET_ checks
+gorbashove checks
+ILuvAvrilLavigne91 checks
+PR0DIGY checks
+PANDAisEVIL bets $494.01
+orgi69 calls $494.01
+_COBKA_PBET_ folds
+gorbashove folds
+ILuvAvrilLavigne91 raises $2108.52 to $2108.52
+PR0DIGY folds
+PANDAisEVIL calls $1614.51
+orgi69 folds
+*** RIVER *** [3d Kh 3c 9s] [Ac]
+Main pot $6208.05 | Rake $3
+ILuvAvrilLavigne91 checks
+PANDAisEVIL bets $621
+ILuvAvrilLavigne91 folds
+Uncalled bet ($621) returned to PANDAisEVIL
+PANDAisEVIL does not show
+*** SUMMARY ***
+BombPot
+Total pot $6208.05 | Rake $3
+Seat 1: gorbashove folded on the Turn
+Seat 2: ILuvAvrilLavigne91 folded on the River
+Seat 3: PR0DIGY folded on the Turn
+Seat 4: PANDAisEVIL (button) did not showed and won $6208.05
+Seat 5: orgi69 folded on the Turn
+Seat 6: _COBKA_PBET_ folded on the Turn
+
+
+Hand #1942377756 - Holdem(No Limit) - $25/$50 - 2023/11/24 04:33:59 UTC
+Tiskilwa 6-max Seat #2 is the button
+Seat 1: gorbashove ($6487.66)
+Seat 2: ILuvAvrilLavigne91 ($6508.15)
+Seat 3: PR0DIGY ($5000)
+Seat 5: orgi69 ($6130.43)
+Seat 6: _COBKA_PBET_ ($5572.75)
+gorbashove posts ante $250
+ILuvAvrilLavigne91 posts ante $250
+PR0DIGY posts ante $250
+orgi69 posts ante $250
+_COBKA_PBET_ posts ante $250
+*** HOLE CARDS *** 
+*** FLOP *** [Jh 8d Ac]
+Main pot $1247 | Rake $3
+PR0DIGY checks
+orgi69 bets $847.66
+_COBKA_PBET_ folds
+gorbashove folds
+ILuvAvrilLavigne91 folds
+PR0DIGY folds
+Uncalled bet ($847.66) returned to orgi69
+orgi69 does not show
+*** SUMMARY ***
+BombPot
+Total pot $1247 | Rake $3
+Seat 1: gorbashove folded on the Flop
+Seat 2: ILuvAvrilLavigne91 (button) folded on the Flop
+Seat 3: PR0DIGY folded on the Flop
+Seat 5: orgi69 did not showed and won $1247
+Seat 6: _COBKA_PBET_ folded on the Flop
+
+
+Hand #1942398505 - Holdem(No Limit) - $25/$50 - 2023/11/24 04:59:25 UTC
+Tiskilwa 6-max Seat #4 is the button
+Seat 1: gorbashove ($6319.66)
+Seat 2: ILuvAvrilLavigne91 ($5865.65)
+Seat 3: PR0DIGY ($5287.87)
+Seat 4: xplo1t4bl3 ($12067.06)
+Seat 5: orgi69 ($5000)
+Seat 6: _COBKA_PBET_ ($5734.75)
+gorbashove posts ante $250
+ILuvAvrilLavigne91 posts ante $250
+PR0DIGY posts ante $250
+xplo1t4bl3 posts ante $250
+_COBKA_PBET_ posts ante $250
+*** HOLE CARDS *** 
+*** FLOP *** [6c Qs Kd]
+Main pot $1247 | Rake $3
+_COBKA_PBET_ checks
+gorbashove checks
+ILuvAvrilLavigne91 bets $311.75
+PR0DIGY folds
+xplo1t4bl3 folds
+_COBKA_PBET_ folds
+gorbashove folds
+Uncalled bet ($311.75) returned to ILuvAvrilLavigne91
+ILuvAvrilLavigne91 does not show
+*** SUMMARY ***
+BombPot
+Total pot $1247 | Rake $3
+Seat 1: gorbashove folded on the Flop
+Seat 2: ILuvAvrilLavigne91 did not showed and won $1247
+Seat 3: PR0DIGY folded on the Flop
+Seat 4: xplo1t4bl3 (button) folded on the Flop
+Seat 6: _COBKA_PBET_ folded on the Flop
+
+
+Hand #1942409951 - Holdem(No Limit) - $25/$50 - 2023/11/24 05:15:00 UTC
+Tiskilwa 6-max Seat #3 is the button
+Seat 2: ILuvAvrilLavigne91 ($6600.15)
+Seat 3: PR0DIGY ($5001.87)
+Seat 4: xplo1t4bl3 ($16168.56)
+Seat 5: orgi69 ($6520.25)
+ILuvAvrilLavigne91 posts ante $250
+PR0DIGY posts ante $250
+xplo1t4bl3 posts ante $250
+orgi69 posts ante $250
+*** HOLE CARDS *** 
+*** FLOP *** [Kd 7h Js]
+Main pot $997.75 | Rake $2.25
+xplo1t4bl3 bets $100
+orgi69 calls $100
+ILuvAvrilLavigne91 raises $748.87 to $748.87
+PR0DIGY folds
+xplo1t4bl3 calls $648.87
+orgi69 calls $648.87
+*** TURN *** [Kd 7h Js] [9h]
+Main pot $3244.36 | Rake $2.25
+xplo1t4bl3 checks
+orgi69 checks
+ILuvAvrilLavigne91 bets $973.30
+xplo1t4bl3 calls $973.30
+orgi69 raises $5521.38 to $5521.38 and is all-in
+ILuvAvrilLavigne91 folds
+xplo1t4bl3 folds
+Uncalled bet ($4548.08) returned to orgi69
+orgi69 does not show
+*** SUMMARY ***
+BombPot
+Total pot $6164.26 | Rake $2.25
+Seat 2: ILuvAvrilLavigne91 folded on the Turn
+Seat 3: PR0DIGY (button) folded on the Flop
+Seat 4: xplo1t4bl3 folded on the Turn
+Seat 5: orgi69 did not showed and won $6164.26
+
+
+Hand #1942419511 - Holdem(No Limit) - $25/$50 - 2023/11/24 05:24:59 UTC
+Tiskilwa 6-max Seat #2 is the button
+Seat 2: ILuvAvrilLavigne91 ($5593.12)
+Seat 3: PR0DIGY ($5684.75)
+Seat 5: orgi69 ($10126.46)
+ILuvAvrilLavigne91 posts ante $250
+PR0DIGY posts ante $250
+orgi69 posts ante $250
+*** HOLE CARDS *** 
+*** FLOP *** [9d 5c Qc]
+Main pot $748.25 | Rake $1.75
+PR0DIGY checks
+orgi69 checks
+ILuvAvrilLavigne91 checks
+*** TURN *** [9d 5c Qc] [Ah]
+Main pot $748.25 | Rake $1.75
+PR0DIGY bets $561.18
+orgi69 folds
+ILuvAvrilLavigne91 folds
+Uncalled bet ($561.18) returned to PR0DIGY
+PR0DIGY does not show
+*** SUMMARY ***
+BombPot
+Total pot $748.25 | Rake $1.75
+Seat 2: ILuvAvrilLavigne91 (button) folded on the Turn
+Seat 3: PR0DIGY did not showed and won $748.25
+Seat 5: orgi69 folded on the Turn
+
+
+Hand #1942430742 - Holdem(No Limit) - $25/$50 - 2023/11/24 05:39:28 UTC
+Tiskilwa 6-max Seat #3 is the button
+Seat 2: ILuvAvrilLavigne91 ($5228.60)
+Seat 3: PR0DIGY ($5756.47)
+Seat 4: xplo1t4bl3 ($13989.79)
+Seat 5: orgi69 ($10070.09)
+Seat 6: 7SkyAroundMe ($5705)
+ILuvAvrilLavigne91 posts ante $250
+PR0DIGY posts ante $250
+xplo1t4bl3 posts ante $250
+orgi69 posts ante $250
+7SkyAroundMe posts ante $250
+*** HOLE CARDS *** 
+*** FLOP *** [3s 8h 9d]
+Main pot $1247 | Rake $3
+xplo1t4bl3 checks
+orgi69 checks
+7SkyAroundMe bets $125
+ILuvAvrilLavigne91 folds
+PR0DIGY folds
+xplo1t4bl3 raises $500 to $500
+orgi69 calls $500
+7SkyAroundMe calls $375
+*** TURN *** [3s 8h 9d] [Tc]
+Main pot $2747 | Rake $3
+xplo1t4bl3 checks
+orgi69 bets $1648.20
+7SkyAroundMe folds
+xplo1t4bl3 calls $1648.20
+*** RIVER *** [3s 8h 9d Tc] [9c]
+Main pot $6043.40 | Rake $3
+xplo1t4bl3 checks
+orgi69 bets $7671.89 and is all-in
+xplo1t4bl3 folds
+Uncalled bet ($7671.89) returned to orgi69
+orgi69 does not show
+*** SUMMARY ***
+BombPot
+Total pot $6043.40 | Rake $3
+Seat 2: ILuvAvrilLavigne91 folded on the Flop
+Seat 3: PR0DIGY (button) folded on the Flop
+Seat 4: xplo1t4bl3 folded on the River
+Seat 5: orgi69 did not showed and won $6043.40
+Seat 6: 7SkyAroundMe folded on the Turn
+
+
+Hand #1942438043 - Holdem(No Limit) - $25/$50 - 2023/11/24 05:46:44 UTC
+Tiskilwa 6-max Seat #5 is the button
+Seat 2: ILuvAvrilLavigne91 ($5379.57)
+Seat 3: IscoopU ($5000)
+Seat 5: orgi69 ($13473.47)
+Seat 6: 7SkyAroundMe ($5000)
+ILuvAvrilLavigne91 posts ante $250
+orgi69 posts ante $250
+7SkyAroundMe posts ante $250
+*** HOLE CARDS *** 
+*** FLOP *** [Ah 3h Qh]
+Main pot $748.25 | Rake $1.75
+7SkyAroundMe bets $75
+ILuvAvrilLavigne91 folds
+orgi69 folds
+Uncalled bet ($75) returned to 7SkyAroundMe
+7SkyAroundMe does not show
+*** SUMMARY ***
+BombPot
+Total pot $748.25 | Rake $1.75
+Seat 2: ILuvAvrilLavigne91 folded on the Flop
+Seat 5: orgi69 (button) folded on the Flop
+Seat 6: 7SkyAroundMe did not showed and won $748.25
+
+
+Hand #1942458324 - Holdem(No Limit) - $25/$50 - 2023/11/24 06:16:53 UTC
+Tiskilwa 6-max Seat #6 is the button
+Seat 3: SeaLlama ($5000)
+Seat 6: 7SkyAroundMe ($6534.52)
+SeaLlama posts ante $250
+7SkyAroundMe posts ante $250
+*** HOLE CARDS *** 
+*** FLOP *** [Kd 5s 6d]
+Main pot $498.75 | Rake $1.25
+SeaLlama checks
+7SkyAroundMe checks
+*** TURN *** [Kd 5s 6d] [5h]
+Main pot $498.75 | Rake $1.25
+SeaLlama checks
+7SkyAroundMe checks
+*** RIVER *** [Kd 5s 6d 5h] [5d]
+Main pot $498.75 | Rake $1.25
+SeaLlama checks
+7SkyAroundMe checks
+*** SHOW DOWN ***
+Main pot $498.75 | Rake $1.25
+SeaLlama shows [4c Tc]
+SeaLlama collected $498.75 from main pot
+*** SUMMARY ***
+BombPot
+Total pot $498.75 | Rake $1.25
+Seat 3: SeaLlama showed [4c Tc] and won $498.75 with ThreeOfAKind [5s 5h 5d Kd Tc]
+Seat 6: 7SkyAroundMe (button) did not showed and lost
+
+
+Hand #1942567487 - Holdem(No Limit) - $25/$50 - 2023/11/24 09:57:31 UTC
+Tiskilwa 6-max Seat #4 is the button
+Seat 1: AsesArgentos ($682.67)
+Seat 2: lmpala_zOrg ($5309.25)
+Seat 3: Ovalete ($5000)
+Seat 4: v3MGA ($5000)
+AsesArgentos posts ante $250
+lmpala_zOrg posts ante $250
+Ovalete posts ante $250
+v3MGA posts ante $250
+*** HOLE CARDS *** 
+*** FLOP *** [Jc 3s 8s]
+Main pot $997.75 | Rake $2.25
+AsesArgentos bets $432.67 and is all-in
+lmpala_zOrg folds
+Ovalete folds
+v3MGA calls $432.67
+*** TURN *** [Jc 3s 8s] [Kc]
+Main pot $1863.09 | Rake $2.25
+*** RIVER *** [Jc 3s 8s Kc] [5c]
+Main pot $1863.09 | Rake $2.25
+*** SHOW DOWN ***
+Main pot $1863.09 | Rake $2.25
+AsesArgentos shows [Kh 5d]
+v3MGA shows [6h 8d]
+AsesArgentos collected $1863.09 from main pot
+*** SUMMARY ***
+BombPot
+Total pot $1863.09 | Rake $2.25
+Seat 1: AsesArgentos showed [Kh 5d] and won $1863.09 with TwoPair [Kh Kc 5d 5c Jc]
+Seat 2: lmpala_zOrg folded on the Flop
+Seat 3: Ovalete folded on the Flop
+Seat 4: v3MGA (button) showed [6h 8d] and lost
+
+
+Hand #1942572178 - Holdem(No Limit) - $25/$50 - 2023/11/24 10:14:28 UTC
+Tiskilwa 6-max Seat #2 is the button
+Seat 1: AsesArgentos ($2414.89)
+Seat 2: lmpala_zOrg ($7053.53)
+Seat 3: Ovalete ($5000)
+Seat 4: v3MGA ($5000)
+Seat 5: IdoGoats ($8047)
+AsesArgentos posts ante $250
+lmpala_zOrg posts ante $250
+Ovalete posts ante $250
+v3MGA posts ante $250
+IdoGoats posts ante $250
+*** HOLE CARDS *** 
+*** FLOP *** [Kd 2h 9s]
+Main pot $1247 | Rake $3
+Ovalete checks
+v3MGA checks
+IdoGoats checks
+AsesArgentos checks
+lmpala_zOrg bets $150
+Ovalete raises $754.57 to $754.57
+v3MGA calls $754.57
+IdoGoats folds
+AsesArgentos folds
+lmpala_zOrg folds
+*** TURN *** [Kd 2h 9s] [4h]
+Main pot $2906.14 | Rake $3
+Ovalete checks
+v3MGA bets $959
+Ovalete raises $3995.43 to $3995.43 and is all-in
+v3MGA folds
+Uncalled bet ($3036.43) returned to Ovalete
+Ovalete does not show
+*** SUMMARY ***
+BombPot
+Total pot $4824.14 | Rake $3
+Seat 1: AsesArgentos folded on the Flop
+Seat 2: lmpala_zOrg (button) folded on the Flop
+Seat 3: Ovalete did not showed and won $4824.14
+Seat 4: v3MGA folded on the Turn
+Seat 5: IdoGoats folded on the Flop
+
+
+Hand #1942631529 - Holdem(No Limit) - $25/$50 - 2023/11/24 13:14:20 UTC
+Tiskilwa 6-max Seat #3 is the button
+Seat 1: Simulacra ($2325)
+Seat 2: oneplusone ($5000)
+Seat 3: GYakobishvili ($5223.25)
+Seat 4: HornyOldMan ($5000)
+Seat 5: KMarkakis ($5000)
+Simulacra posts ante $250
+oneplusone posts ante $250
+GYakobishvili posts ante $250
+*** HOLE CARDS *** 
+*** FLOP *** [Ts 9h 3c]
+Main pot $748.25 | Rake $1.75
+Simulacra checks
+oneplusone checks
+GYakobishvili checks
+*** TURN *** [Ts 9h 3c] [Jc]
+Main pot $748.25 | Rake $1.75
+Simulacra bets $397.50
+oneplusone folds
+GYakobishvili folds
+Uncalled bet ($397.50) returned to Simulacra
+Simulacra does not show
+*** SUMMARY ***
+BombPot
+Total pot $748.25 | Rake $1.75
+Seat 1: Simulacra did not showed and won $748.25
+Seat 2: oneplusone folded on the Turn
+Seat 3: GYakobishvili (button) folded on the Turn
+
+
+Hand #1942635696 - Holdem(No Limit) - $25/$50 - 2023/11/24 13:25:19 UTC
+Tiskilwa 6-max Seat #3 is the button
+Seat 2: oneplusone ($5000)
+Seat 3: GYakobishvili ($5916.91)
+Seat 6: AleajactaSUCK ($5725)
+oneplusone posts ante $250
+GYakobishvili posts ante $250
+AleajactaSUCK posts ante $250
+*** HOLE CARDS *** 
+*** FLOP *** [Jh Qs Qc]
+Main pot $748.25 | Rake $1.75
+AleajactaSUCK checks
+oneplusone checks
+GYakobishvili bets $187.50
+AleajactaSUCK raises $625 to $625
+oneplusone folds
+GYakobishvili calls $437.50
+*** TURN *** [Jh Qs Qc] [5h]
+Main pot $1998.25 | Rake $1.75
+AleajactaSUCK bets $1000
+GYakobishvili calls $1000
+*** RIVER *** [Jh Qs Qc 5h] [4h]
+Main pot $3998.25 | Rake $1.75
+AleajactaSUCK bets $3850 and is all-in
+GYakobishvili folds
+Uncalled bet ($3850) returned to AleajactaSUCK
+AleajactaSUCK does not show
+*** SUMMARY ***
+BombPot
+Total pot $3998.25 | Rake $1.75
+Seat 2: oneplusone folded on the Flop
+Seat 3: GYakobishvili (button) folded on the River
+Seat 6: AleajactaSUCK did not showed and won $3998.25
+
+
+Hand #1942642290 - Holdem(No Limit) - $25/$50 - 2023/11/24 13:41:10 UTC
+Tiskilwa 6-max Seat #2 is the button
+Seat 2: oneplusone ($7298.75)
+Seat 3: GYakobishvili ($8563.90)
+oneplusone posts ante $250
+GYakobishvili posts ante $250
+*** HOLE CARDS *** 
+*** FLOP *** [2h 8c 9d]
+Main pot $498.75 | Rake $1.25
+GYakobishvili checks
+oneplusone bets $375
+GYakobishvili raises $1199 to $1199
+oneplusone calls $824
+*** TURN *** [2h 8c 9d] [4h]
+Main pot $2896.75 | Rake $1.25
+GYakobishvili bets $1911.50
+oneplusone raises $5849.75 to $5849.75 and is all-in
+GYakobishvili folds
+Uncalled bet ($3938.25) returned to oneplusone
+oneplusone does not show
+*** SUMMARY ***
+BombPot
+Total pot $6719.75 | Rake $1.25
+Seat 2: oneplusone (button) did not showed and won $6719.75
+Seat 3: GYakobishvili folded on the Turn
+
+
+Hand #1942645288 - Holdem(No Limit) - $25/$50 - 2023/11/24 13:48:01 UTC
+Tiskilwa 6-max Seat #3 is the button
+Seat 2: oneplusone ($9717.75)
+Seat 3: GYakobishvili ($6138.65)
+oneplusone posts ante $250
+GYakobishvili posts ante $250
+*** HOLE CARDS *** 
+*** FLOP *** [7c 4s 9c]
+Main pot $498.75 | Rake $1.25
+oneplusone bets $250
+GYakobishvili calls $250
+*** TURN *** [7c 4s 9c] [9s]
+Main pot $998.75 | Rake $1.25
+oneplusone checks
+GYakobishvili bets $998.50
+oneplusone calls $998.50
+*** RIVER *** [7c 4s 9c 9s] [Qd]
+Main pot $2995.75 | Rake $1.25
+oneplusone checks
+GYakobishvili bets $3300
+oneplusone calls $3300
+*** SHOW DOWN ***
+Main pot $2995.75 | Rake $1.25
+GYakobishvili shows [9h 8c]
+GYakobishvili collected $9595.75 from main pot
+*** SUMMARY ***
+BombPot
+Total pot $9595.75 | Rake $1.25
+Seat 2: oneplusone did not showed and lost
+Seat 3: GYakobishvili (button) showed [9h 8c] and won $9595.75 with ThreeOfAKind [9s 9h 9c Qd 8c]
+
+
+Hand #1942657068 - Holdem(No Limit) - $25/$50 - 2023/11/24 14:16:57 UTC
+Tiskilwa 6-max Seat #1 is the button
+Seat 1: GYakobishvili ($8800.37)
+Seat 2: oneplusone ($7276.78)
+Seat 3: yourmytralala ($5000)
+GYakobishvili posts ante $250
+oneplusone posts ante $250
+*** HOLE CARDS *** 
+*** FLOP *** [4d Td 9c]
+Main pot $498.75 | Rake $1.25
+oneplusone checks
+GYakobishvili bets $165
+oneplusone calls $165
+*** TURN *** [4d Td 9c] [Qc]
+Main pot $828.75 | Rake $1.25
+oneplusone checks
+GYakobishvili checks
+*** RIVER *** [4d Td 9c Qc] [2h]
+Main pot $828.75 | Rake $1.25
+oneplusone checks
+GYakobishvili checks
+*** SHOW DOWN ***
+Main pot $828.75 | Rake $1.25
+GYakobishvili shows [8c 9s]
+GYakobishvili collected $828.75 from main pot
+*** SUMMARY ***
+BombPot
+Total pot $828.75 | Rake $1.25
+Seat 1: GYakobishvili (button) showed [8c 9s] and won $828.75 with OnePair [9s 9c Qc Td 8c]
+Seat 2: oneplusone did not showed and lost
+
+
+Hand #1942660805 - Holdem(No Limit) - $25/$50 - 2023/11/24 14:23:57 UTC
+Tiskilwa 6-max Seat #1 is the button
+Seat 1: GYakobishvili ($7927.96)
+Seat 2: oneplusone ($8595.94)
+GYakobishvili posts ante $250
+oneplusone posts ante $250
+*** HOLE CARDS *** 
+*** FLOP *** [Jh 8c 6d]
+Main pot $498.75 | Rake $1.25
+oneplusone checks
+GYakobishvili bets $245
+oneplusone calls $245
+*** TURN *** [Jh 8c 6d] [9s]
+Main pot $988.75 | Rake $1.25
+oneplusone checks
+GYakobishvili checks
+*** RIVER *** [Jh 8c 6d 9s] [4c]
+Main pot $988.75 | Rake $1.25
+oneplusone bets $495
+GYakobishvili calls $495
+*** SHOW DOWN ***
+Main pot $988.75 | Rake $1.25
+oneplusone shows [6c 4s]
+oneplusone collected $1978.75 from main pot
+*** SUMMARY ***
+BombPot
+Total pot $1978.75 | Rake $1.25
+Seat 1: GYakobishvili (button) did not showed and lost
+Seat 2: oneplusone showed [6c 4s] and won $1978.75 with TwoPair [6d 6c 4s 4c Jh]
+
+
+Hand #1942668484 - Holdem(No Limit) - $25/$50 - 2023/11/24 14:40:16 UTC
+Tiskilwa 6-max Seat #2 is the button
+Seat 1: GYakobishvili ($11389.51)
+Seat 2: oneplusone ($5118.14)
+GYakobishvili posts ante $250
+oneplusone posts ante $250
+*** HOLE CARDS *** 
+*** FLOP *** [9c 3s Ts]
+Main pot $498.75 | Rake $1.25
+GYakobishvili checks
+oneplusone checks
+*** TURN *** [9c 3s Ts] [Jh]
+Main pot $498.75 | Rake $1.25
+GYakobishvili bets $245
+oneplusone calls $245
+*** RIVER *** [9c 3s Ts Jh] [2d]
+Main pot $988.75 | Rake $1.25
+GYakobishvili bets $652.50
+oneplusone raises $4623.14 to $4623.14 and is all-in
+GYakobishvili folds
+Uncalled bet ($3970.64) returned to oneplusone
+oneplusone does not show
+*** SUMMARY ***
+BombPot
+Total pot $2293.75 | Rake $1.25
+Seat 1: GYakobishvili folded on the River
+Seat 2: oneplusone (button) did not showed and won $2293.75
+
+
+Hand #1942801456 - Holdem(No Limit) - $25/$50 - 2023/11/24 17:45:23 UTC
+Tiskilwa 6-max Seat #5 is the button
+Seat 2: fonStierlitz ($5000)
+Seat 5: orgi69 ($5000)
+fonStierlitz posts ante $250
+orgi69 posts ante $250
+*** HOLE CARDS *** 
+*** FLOP *** [Jc 8c 3d]
+Main pot $498.75 | Rake $1.25
+fonStierlitz checks
+orgi69 bets $124.68
+fonStierlitz folds
+Uncalled bet ($124.68) returned to orgi69
+orgi69 does not show
+*** SUMMARY ***
+BombPot
+Total pot $498.75 | Rake $1.25
+Seat 2: fonStierlitz folded on the Flop
+Seat 5: orgi69 (button) did not showed and won $498.75
+
+
+Hand #1942811842 - Holdem(No Limit) - $25/$50 - 2023/11/24 17:57:56 UTC
+Tiskilwa 6-max Seat #5 is the button
+Seat 1: AleajactaSUCK ($5000)
+Seat 2: fonStierlitz ($6283.50)
+Seat 3: Super2018 ($5000)
+Seat 5: orgi69 ($5577.44)
+AleajactaSUCK posts ante $250
+fonStierlitz posts ante $250
+orgi69 posts ante $250
+*** HOLE CARDS *** 
+*** FLOP *** [Qh 5c Qc]
+Main pot $748.25 | Rake $1.75
+AleajactaSUCK checks
+fonStierlitz checks
+orgi69 checks
+*** TURN *** [Qh 5c Qc] [Ah]
+Main pot $748.25 | Rake $1.75
+AleajactaSUCK checks
+fonStierlitz bets $562.50
+orgi69 folds
+AleajactaSUCK calls $562.50
+*** RIVER *** [Qh 5c Qc Ah] [Js]
+Main pot $1873.25 | Rake $1.75
+AleajactaSUCK checks
+fonStierlitz bets $1406.25
+AleajactaSUCK folds
+Uncalled bet ($1406.25) returned to fonStierlitz
+fonStierlitz does not show
+*** SUMMARY ***
+BombPot
+Total pot $1873.25 | Rake $1.75
+Seat 1: AleajactaSUCK folded on the River
+Seat 2: fonStierlitz did not showed and won $1873.25
+Seat 5: orgi69 (button) folded on the Turn
+

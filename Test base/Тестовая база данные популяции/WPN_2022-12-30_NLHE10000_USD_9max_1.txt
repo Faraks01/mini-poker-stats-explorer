@@ -1,0 +1,1134 @@
+PokerStars Hand #1503525475:  Hold'em No Limit ($50.00/$100.00 USD) - 2022/12/30 08:01:02 ET
+Table 'WPN_7 Day No Rathole 50/100 NLH' 9-max Seat #3 is the button
+Seat 1: ghahreman ($1797.00 in chips)
+Seat 2: THECAGE ($6635.96 in chips)
+Seat 3: FlyingStyle ($9754.02 in chips)
+Seat 4: notvrygud ($3402.35 in chips)
+notvrygud: posts small blind $50.00
+ghahreman: posts big blind $100.00
+*** HOLE CARDS ***
+THECAGE: folds
+FlyingStyle: folds
+notvrygud: raises $100.00 to $200.00
+ghahreman: calls $100.00
+*** FLOP *** [Td 5d 5s]
+notvrygud: checks
+ghahreman: checks
+*** TURN *** [Td 5d 5s] [3d]
+notvrygud: checks
+ghahreman: bets $200.00
+notvrygud: calls $200.00
+*** RIVER *** [Td 5d 5s 3d] [Qc]
+notvrygud: checks
+ghahreman: checks
+*** SHOW DOWN ***
+ghahreman: shows [5h 7c]
+notvrygud: mucks hand
+ghahreman collected $797.75 from pot
+*** SUMMARY ***
+Total pot $800.00 | Rake $2.25
+Board [Td 5d 5s 3d Qc]
+Seat 1: ghahreman (big blind) showed [5h 7c] and won ($797.75)
+Seat 2: THECAGE folded before Flop (didn't bet)
+Seat 3: FlyingStyle (button) folded before Flop (didn't bet)
+Seat 4: notvrygud (small blind) mucked
+
+PokerStars Hand #1503525991:  Hold'em No Limit ($50.00/$100.00 USD) - 2022/12/30 08:02:05 ET
+Table 'WPN_7 Day No Rathole 50/100 NLH' 9-max Seat #4 is the button
+Seat 1: ghahreman ($2194.75 in chips)
+Seat 2: THECAGE ($6635.96 in chips)
+Seat 3: FlyingStyle ($9754.02 in chips)
+Seat 4: notvrygud ($3002.35 in chips)
+ghahreman: posts small blind $50.00
+THECAGE: posts big blind $100.00
+*** HOLE CARDS ***
+FlyingStyle: raises $100.00 to $200.00
+notvrygud: folds
+ghahreman: folds
+THECAGE: folds
+Uncalled bet ($100.00) returned to FlyingStyle
+FlyingStyle collected $250.00 from pot
+FlyingStyle: doesn't show hand
+*** SUMMARY ***
+Total pot $250.00 | Rake $0.00
+Seat 1: ghahreman (small blind) folded before Flop
+Seat 2: THECAGE (big blind) folded before Flop
+Seat 3: FlyingStyle collected ($250.00)
+Seat 4: notvrygud (button) folded before Flop (didn't bet)
+
+PokerStars Hand #1503526124:  Hold'em No Limit ($50.00/$100.00 USD) - 2022/12/30 08:02:19 ET
+Table 'WPN_7 Day No Rathole 50/100 NLH' 9-max Seat #1 is the button
+Seat 1: ghahreman ($2144.75 in chips)
+Seat 2: THECAGE ($6535.96 in chips)
+Seat 3: FlyingStyle ($9904.02 in chips)
+Seat 4: notvrygud ($3002.35 in chips)
+THECAGE: posts small blind $50.00
+FlyingStyle: posts big blind $100.00
+*** HOLE CARDS ***
+notvrygud: raises $100.00 to $200.00
+ghahreman: folds
+THECAGE: folds
+FlyingStyle: folds
+Uncalled bet ($100.00) returned to notvrygud
+notvrygud collected $250.00 from pot
+notvrygud: doesn't show hand
+*** SUMMARY ***
+Total pot $250.00 | Rake $0.00
+Seat 1: ghahreman (button) folded before Flop (didn't bet)
+Seat 2: THECAGE (small blind) folded before Flop
+Seat 3: FlyingStyle (big blind) folded before Flop
+Seat 4: notvrygud collected ($250.00)
+
+PokerStars Hand #1503526267:  Hold'em No Limit ($50.00/$100.00 USD) - 2022/12/30 08:02:35 ET
+Table 'WPN_7 Day No Rathole 50/100 NLH' 9-max Seat #2 is the button
+Seat 1: ghahreman ($2144.75 in chips)
+Seat 2: THECAGE ($6485.96 in chips)
+Seat 3: FlyingStyle ($9804.02 in chips)
+Seat 4: notvrygud ($3152.35 in chips)
+FlyingStyle: posts small blind $50.00
+notvrygud: posts big blind $100.00
+*** HOLE CARDS ***
+ghahreman: folds
+THECAGE: folds
+FlyingStyle: folds
+Uncalled bet ($50.00) returned to notvrygud
+notvrygud collected $100.00 from pot
+notvrygud: doesn't show hand
+*** SUMMARY ***
+Total pot $100.00 | Rake $0.00
+Seat 1: ghahreman folded before Flop (didn't bet)
+Seat 2: THECAGE (button) folded before Flop (didn't bet)
+Seat 3: FlyingStyle (small blind) folded before Flop
+Seat 4: notvrygud (big blind) collected ($100.00)
+
+PokerStars Hand #1503526400:  Hold'em No Limit ($50.00/$100.00 USD) - 2022/12/30 08:02:50 ET
+Table 'WPN_7 Day No Rathole 50/100 NLH' 9-max Seat #3 is the button
+Seat 1: ghahreman ($2144.75 in chips)
+Seat 2: THECAGE ($6485.96 in chips)
+Seat 3: FlyingStyle ($9754.02 in chips)
+Seat 4: notvrygud ($3202.35 in chips)
+notvrygud: posts small blind $50.00
+ghahreman: posts big blind $100.00
+*** HOLE CARDS ***
+THECAGE: folds
+FlyingStyle: folds
+notvrygud: raises $3102.35 to $3202.35 and is all-in
+ghahreman: folds
+Uncalled bet ($3102.35) returned to notvrygud
+notvrygud collected $200.00 from pot
+notvrygud: doesn't show hand
+*** SUMMARY ***
+Total pot $200.00 | Rake $0.00
+Seat 1: ghahreman (big blind) folded before Flop
+Seat 2: THECAGE folded before Flop (didn't bet)
+Seat 3: FlyingStyle (button) folded before Flop (didn't bet)
+Seat 4: notvrygud (small blind) collected ($200.00)
+
+PokerStars Hand #1503526653:  Hold'em No Limit ($50.00/$100.00 USD) - 2022/12/30 08:03:17 ET
+Table 'WPN_7 Day No Rathole 50/100 NLH' 9-max Seat #4 is the button
+Seat 1: ghahreman ($2044.75 in chips)
+Seat 2: THECAGE ($6485.96 in chips)
+Seat 3: FlyingStyle ($9754.02 in chips)
+Seat 4: notvrygud ($3302.35 in chips)
+ghahreman: posts small blind $50.00
+THECAGE: posts big blind $100.00
+*** HOLE CARDS ***
+FlyingStyle: folds
+notvrygud: raises $100.00 to $200.00
+ghahreman: folds
+THECAGE: folds
+Uncalled bet ($100.00) returned to notvrygud
+notvrygud collected $250.00 from pot
+notvrygud: doesn't show hand
+*** SUMMARY ***
+Total pot $250.00 | Rake $0.00
+Seat 1: ghahreman (small blind) folded before Flop
+Seat 2: THECAGE (big blind) folded before Flop
+Seat 3: FlyingStyle folded before Flop (didn't bet)
+Seat 4: notvrygud (button) collected ($250.00)
+
+PokerStars Hand #1503526861:  Hold'em No Limit ($50.00/$100.00 USD) - 2022/12/30 08:03:42 ET
+Table 'WPN_7 Day No Rathole 50/100 NLH' 9-max Seat #1 is the button
+Seat 1: ghahreman ($1994.75 in chips)
+Seat 2: THECAGE ($6385.96 in chips)
+Seat 3: FlyingStyle ($9754.02 in chips)
+Seat 4: notvrygud ($3452.35 in chips)
+THECAGE: posts small blind $50.00
+FlyingStyle: posts big blind $100.00
+*** HOLE CARDS ***
+notvrygud: folds
+ghahreman: raises $200.00 to $300.00
+THECAGE: raises $525.00 to $825.00
+FlyingStyle: folds
+ghahreman: raises $1169.75 to $1994.75 and is all-in
+THECAGE: calls $1169.75
+*** FLOP *** [5s Js Ac]
+*** TURN *** [5s Js Ac] [5d]
+*** RIVER *** [5s Js Ac 5d] [Qc]
+*** SHOW DOWN ***
+THECAGE: shows [Ks Qs]
+ghahreman: shows [7h 7s]
+THECAGE collected $4087.25 from pot
+*** SUMMARY ***
+Total pot $4089.50 | Rake $2.25
+Board [5s Js Ac 5d Qc]
+Seat 1: ghahreman (button) showed [7h 7s] and lost
+Seat 2: THECAGE (small blind) showed [Ks Qs] and won ($4087.25)
+Seat 3: FlyingStyle (big blind) folded before Flop
+Seat 4: notvrygud folded before Flop (didn't bet)
+
+PokerStars Hand #1503527278:  Hold'em No Limit ($50.00/$100.00 USD) - 2022/12/30 08:04:30 ET
+Table 'WPN_7 Day No Rathole 50/100 NLH' 9-max Seat #2 is the button
+Seat 2: THECAGE ($8478.46 in chips)
+Seat 3: FlyingStyle ($9654.02 in chips)
+Seat 4: notvrygud ($3452.35 in chips)
+FlyingStyle: posts small blind $50.00
+THECAGE: posts big blind $100.00
+*** HOLE CARDS ***
+FlyingStyle: raises $130.00 to $230.00
+THECAGE: calls $130.00
+*** FLOP *** [Kh 3c Js]
+FlyingStyle: checks
+THECAGE: bets $229.00
+FlyingStyle: folds
+Uncalled bet ($229.00) returned to THECAGE
+THECAGE collected $458.75 from pot
+THECAGE: doesn't show hand
+*** SUMMARY ***
+Total pot $460.00 | Rake $1.25
+Board [Kh 3c Js]
+Seat 2: THECAGE (button) (big blind) collected ($458.75)
+Seat 3: FlyingStyle (small blind) folded on the Flop
+
+PokerStars Hand #1503527737:  Hold'em No Limit ($50.00/$100.00 USD) - 2022/12/30 08:05:26 ET
+Table 'WPN_7 Day No Rathole 50/100 NLH' 9-max Seat #2 is the button
+Seat 1: ghahreman ($1000.00 in chips)
+Seat 2: THECAGE ($8707.21 in chips)
+Seat 3: FlyingStyle ($9424.02 in chips)
+Seat 4: notvrygud ($3452.35 in chips)
+THECAGE: posts small blind $50.00
+FlyingStyle: posts big blind $100.00
+*** HOLE CARDS ***
+THECAGE: raises $150.00 to $250.00
+FlyingStyle: calls $150.00
+*** FLOP *** [5c 2h As]
+FlyingStyle: checks
+THECAGE: bets $160.00
+FlyingStyle: calls $160.00
+*** TURN *** [5c 2h As] [6h]
+FlyingStyle: checks
+THECAGE: checks
+*** RIVER *** [5c 2h As 6h] [3d]
+FlyingStyle: checks
+THECAGE: bets $409.00
+FlyingStyle: raises $409.00 to $818.00
+THECAGE: raises $1792.88 to $2610.88
+FlyingStyle: calls $1792.88
+*** SHOW DOWN ***
+THECAGE: shows [4s 4c]
+FlyingStyle: shows [4d Ah]
+THECAGE collected $3020.26 from pot
+FlyingStyle collected $3020.25 from pot
+*** SUMMARY ***
+Total pot $6041.76 | Rake $1.25
+Board [5c 2h As 6h 3d]
+Seat 2: THECAGE (button) (small blind) showed [4s 4c] and won ($3020.26)
+Seat 3: FlyingStyle (big blind) showed [4d Ah] and won ($3020.25)
+
+PokerStars Hand #1503528803:  Hold'em No Limit ($50.00/$100.00 USD) - 2022/12/30 08:07:25 ET
+Table 'WPN_7 Day No Rathole 50/100 NLH' 9-max Seat #2 is the button
+Seat 1: ghahreman ($1000.00 in chips)
+Seat 2: THECAGE ($8706.59 in chips)
+Seat 3: FlyingStyle ($9423.39 in chips)
+Seat 4: notvrygud ($3452.35 in chips)
+FlyingStyle: posts small blind $50.00
+notvrygud: posts big blind $100.00
+*** HOLE CARDS ***
+THECAGE: raises $100.00 to $200.00
+FlyingStyle: folds
+notvrygud: folds
+Uncalled bet ($100.00) returned to THECAGE
+THECAGE collected $250.00 from pot
+THECAGE: doesn't show hand
+*** SUMMARY ***
+Total pot $250.00 | Rake $0.00
+Seat 2: THECAGE (button) collected ($250.00)
+Seat 3: FlyingStyle (small blind) folded before Flop
+Seat 4: notvrygud (big blind) folded before Flop
+
+PokerStars Hand #1503529020:  Hold'em No Limit ($50.00/$100.00 USD) - 2022/12/30 08:07:50 ET
+Table 'WPN_7 Day No Rathole 50/100 NLH' 9-max Seat #3 is the button
+Seat 1: ghahreman ($1000.00 in chips)
+Seat 2: THECAGE ($8856.59 in chips)
+Seat 3: FlyingStyle ($9373.39 in chips)
+Seat 4: notvrygud ($3352.35 in chips)
+notvrygud: posts small blind $50.00
+ghahreman: posts big blind $100.00
+*** HOLE CARDS ***
+THECAGE: folds
+FlyingStyle: folds
+notvrygud: raises $3252.35 to $3352.35 and is all-in
+ghahreman: folds
+Uncalled bet ($3252.35) returned to notvrygud
+notvrygud collected $200.00 from pot
+notvrygud: doesn't show hand
+*** SUMMARY ***
+Total pot $200.00 | Rake $0.00
+Seat 1: ghahreman (big blind) folded before Flop
+Seat 2: THECAGE folded before Flop (didn't bet)
+Seat 3: FlyingStyle (button) folded before Flop (didn't bet)
+Seat 4: notvrygud (small blind) collected ($200.00)
+
+PokerStars Hand #1503529266:  Hold'em No Limit ($50.00/$100.00 USD) - 2022/12/30 08:08:18 ET
+Table 'WPN_7 Day No Rathole 50/100 NLH' 9-max Seat #4 is the button
+Seat 1: ghahreman ($900.00 in chips)
+Seat 2: THECAGE ($8856.59 in chips)
+Seat 3: FlyingStyle ($9373.39 in chips)
+Seat 4: notvrygud ($3452.35 in chips)
+ghahreman: posts small blind $50.00
+THECAGE: posts big blind $100.00
+*** HOLE CARDS ***
+FlyingStyle: raises $100.00 to $200.00
+notvrygud: folds
+ghahreman: folds
+THECAGE: folds
+Uncalled bet ($100.00) returned to FlyingStyle
+FlyingStyle collected $250.00 from pot
+FlyingStyle: doesn't show hand
+*** SUMMARY ***
+Total pot $250.00 | Rake $0.00
+Seat 1: ghahreman (small blind) folded before Flop
+Seat 2: THECAGE (big blind) folded before Flop
+Seat 3: FlyingStyle collected ($250.00)
+Seat 4: notvrygud (button) folded before Flop (didn't bet)
+
+PokerStars Hand #1503529440:  Hold'em No Limit ($50.00/$100.00 USD) - 2022/12/30 08:08:35 ET
+Table 'WPN_7 Day No Rathole 50/100 NLH' 9-max Seat #1 is the button
+Seat 1: ghahreman ($850.00 in chips)
+Seat 2: THECAGE ($8756.59 in chips)
+Seat 3: FlyingStyle ($9523.39 in chips)
+Seat 4: notvrygud ($3452.35 in chips)
+THECAGE: posts small blind $50.00
+FlyingStyle: posts big blind $100.00
+*** HOLE CARDS ***
+notvrygud: folds
+ghahreman: raises $750.00 to $850.00 and is all-in
+THECAGE: folds
+FlyingStyle: calls $750.00
+*** FIRST FLOP *** [Jh 5h 6s]
+*** FIRST TURN *** [Jh 5h 6s] [8c]
+*** FIRST RIVER *** [Jh 5h 6s 8c] [Kc]
+*** SECOND FLOP *** [Ks 3c 9h]
+*** SECOND TURN *** [Ks 3c 9h] [8d]
+*** SECOND RIVER *** [Ks 3c 9h 8d] [7d]
+*** FIRST SHOW DOWN ***
+FlyingStyle: shows [Kh Qs]
+ghahreman: shows [Ac Qh]
+FlyingStyle collected $873.88 from pot
+*** SECOND SHOW DOWN ***
+FlyingStyle: shows [Kh Qs]
+ghahreman: shows [Ac Qh]
+FlyingStyle collected $873.87 from pot
+*** SUMMARY ***
+Total pot $1750.00 | Rake $2.25
+Hand was run twice
+FIRST Board [Jh 5h 6s 8c Kc]
+SECOND Board [Ks 3c 9h 8d 7d]
+Seat 1: ghahreman (button) showed [Ac Qh] and lost, and lost
+Seat 2: THECAGE (small blind) folded before Flop
+Seat 3: FlyingStyle (big blind) showed [Kh Qs] and won ($873.88), and won ($873.87)
+Seat 4: notvrygud folded before Flop (didn't bet)
+
+PokerStars Hand #1503529678:  Hold'em No Limit ($50.00/$100.00 USD) - 2022/12/30 08:09:04 ET
+Table 'WPN_7 Day No Rathole 50/100 NLH' 9-max Seat #2 is the button
+Seat 2: THECAGE ($8706.59 in chips)
+Seat 3: FlyingStyle ($10421.14 in chips)
+Seat 4: notvrygud ($3452.35 in chips)
+FlyingStyle: posts small blind $50.00
+THECAGE: posts big blind $100.00
+*** HOLE CARDS ***
+FlyingStyle: raises $130.00 to $230.00
+THECAGE: calls $130.00
+*** FLOP *** [8c Tc Qd]
+FlyingStyle: bets $105.80
+THECAGE: calls $105.80
+*** TURN *** [8c Tc Qd] [6h]
+FlyingStyle: checks
+THECAGE: checks
+*** RIVER *** [8c Tc Qd 6h] [7s]
+FlyingStyle: bets $154.46
+THECAGE: calls $154.46
+*** SHOW DOWN ***
+THECAGE: shows [8h Kh]
+FlyingStyle: mucks hand
+THECAGE collected $979.27 from pot
+*** SUMMARY ***
+Total pot $980.52 | Rake $1.25
+Board [8c Tc Qd 6h 7s]
+Seat 2: THECAGE (button) (big blind) showed [8h Kh] and won ($979.27)
+Seat 3: FlyingStyle (small blind) mucked
+
+PokerStars Hand #1503530219:  Hold'em No Limit ($50.00/$100.00 USD) - 2022/12/30 08:10:08 ET
+Table 'WPN_7 Day No Rathole 50/100 NLH' 9-max Seat #2 is the button
+Seat 2: THECAGE ($9195.60 in chips)
+Seat 3: FlyingStyle ($9930.88 in chips)
+THECAGE: posts small blind $50.00
+FlyingStyle: posts big blind $100.00
+*** HOLE CARDS ***
+THECAGE: raises $150.00 to $250.00
+FlyingStyle: calls $150.00
+*** FLOP *** [Jd 6c Kd]
+FlyingStyle: checks
+THECAGE: checks
+*** TURN *** [Jd 6c Kd] [Ac]
+FlyingStyle: checks
+THECAGE: bets $365.00
+FlyingStyle: calls $365.00
+*** RIVER *** [Jd 6c Kd Ac] [As]
+FlyingStyle: checks
+THECAGE: bets $1771.20
+FlyingStyle: folds
+Uncalled bet ($1771.20) returned to THECAGE
+THECAGE collected $1228.75 from pot
+THECAGE: doesn't show hand
+*** SUMMARY ***
+Total pot $1230.00 | Rake $1.25
+Board [Jd 6c Kd Ac As]
+Seat 2: THECAGE (button) (small blind) collected ($1228.75)
+Seat 3: FlyingStyle (big blind) folded on the River
+
+PokerStars Hand #1503530769:  Hold'em No Limit ($50.00/$100.00 USD) - 2022/12/30 08:11:13 ET
+Table 'WPN_7 Day No Rathole 50/100 NLH' 9-max Seat #2 is the button
+Seat 1: ghahreman ($1000.00 in chips)
+Seat 2: THECAGE ($9809.35 in chips)
+Seat 3: FlyingStyle ($9315.88 in chips)
+FlyingStyle: posts small blind $50.00
+ghahreman: posts big blind $100.00
+*** HOLE CARDS ***
+THECAGE: raises $100.00 to $200.00
+FlyingStyle: folds
+ghahreman: calls $100.00
+*** FLOP *** [Jh 6s Qs]
+ghahreman: bets $800.00 and is all-in
+THECAGE: folds
+Uncalled bet ($800.00) returned to ghahreman
+ghahreman collected $448.25 from pot
+ghahreman: doesn't show hand
+*** SUMMARY ***
+Total pot $450.00 | Rake $1.75
+Board [Jh 6s Qs]
+Seat 1: ghahreman (big blind) collected ($448.25)
+Seat 2: THECAGE (button) folded on the Flop
+Seat 3: FlyingStyle (small blind) folded before Flop
+
+PokerStars Hand #1503530957:  Hold'em No Limit ($50.00/$100.00 USD) - 2022/12/30 08:11:35 ET
+Table 'WPN_7 Day No Rathole 50/100 NLH' 9-max Seat #3 is the button
+Seat 1: ghahreman ($1248.25 in chips)
+Seat 2: THECAGE ($9609.35 in chips)
+Seat 3: FlyingStyle ($9265.88 in chips)
+ghahreman: posts small blind $50.00
+THECAGE: posts big blind $100.00
+*** HOLE CARDS ***
+FlyingStyle: folds
+ghahreman: folds
+Uncalled bet ($50.00) returned to THECAGE
+THECAGE collected $100.00 from pot
+THECAGE: doesn't show hand
+*** SUMMARY ***
+Total pot $100.00 | Rake $0.00
+Seat 1: ghahreman (small blind) folded before Flop
+Seat 2: THECAGE (big blind) collected ($100.00)
+Seat 3: FlyingStyle (button) folded before Flop (didn't bet)
+
+PokerStars Hand #1503531064:  Hold'em No Limit ($50.00/$100.00 USD) - 2022/12/30 08:11:46 ET
+Table 'WPN_7 Day No Rathole 50/100 NLH' 9-max Seat #1 is the button
+Seat 1: ghahreman ($1198.25 in chips)
+Seat 2: THECAGE ($9659.35 in chips)
+Seat 3: FlyingStyle ($9265.88 in chips)
+THECAGE: posts small blind $50.00
+FlyingStyle: posts big blind $100.00
+*** HOLE CARDS ***
+ghahreman: folds
+THECAGE: folds
+Uncalled bet ($50.00) returned to FlyingStyle
+FlyingStyle collected $100.00 from pot
+FlyingStyle: doesn't show hand
+*** SUMMARY ***
+Total pot $100.00 | Rake $0.00
+Seat 1: ghahreman (button) folded before Flop (didn't bet)
+Seat 2: THECAGE (small blind) folded before Flop
+Seat 3: FlyingStyle (big blind) collected ($100.00)
+
+PokerStars Hand #1503531247:  Hold'em No Limit ($50.00/$100.00 USD) - 2022/12/30 08:12:08 ET
+Table 'WPN_7 Day No Rathole 50/100 NLH' 9-max Seat #2 is the button
+Seat 1: ghahreman ($1198.25 in chips)
+Seat 2: THECAGE ($9609.35 in chips)
+Seat 3: FlyingStyle ($9315.88 in chips)
+FlyingStyle: posts small blind $50.00
+ghahreman: posts big blind $100.00
+*** HOLE CARDS ***
+THECAGE: folds
+FlyingStyle: folds
+Uncalled bet ($50.00) returned to ghahreman
+ghahreman collected $100.00 from pot
+ghahreman: doesn't show hand
+*** SUMMARY ***
+Total pot $100.00 | Rake $0.00
+Seat 1: ghahreman (big blind) collected ($100.00)
+Seat 2: THECAGE (button) folded before Flop (didn't bet)
+Seat 3: FlyingStyle (small blind) folded before Flop
+
+PokerStars Hand #1503531337:  Hold'em No Limit ($50.00/$100.00 USD) - 2022/12/30 08:12:19 ET
+Table 'WPN_7 Day No Rathole 50/100 NLH' 9-max Seat #3 is the button
+Seat 1: ghahreman ($1248.25 in chips)
+Seat 2: THECAGE ($9609.35 in chips)
+Seat 3: FlyingStyle ($9265.88 in chips)
+ghahreman: posts small blind $50.00
+THECAGE: posts big blind $100.00
+*** HOLE CARDS ***
+FlyingStyle: folds
+ghahreman: folds
+Uncalled bet ($50.00) returned to THECAGE
+THECAGE collected $100.00 from pot
+THECAGE: doesn't show hand
+*** SUMMARY ***
+Total pot $100.00 | Rake $0.00
+Seat 1: ghahreman (small blind) folded before Flop
+Seat 2: THECAGE (big blind) collected ($100.00)
+Seat 3: FlyingStyle (button) folded before Flop (didn't bet)
+
+PokerStars Hand #1503531533:  Hold'em No Limit ($50.00/$100.00 USD) - 2022/12/30 08:12:41 ET
+Table 'WPN_7 Day No Rathole 50/100 NLH' 9-max Seat #1 is the button
+Seat 1: ghahreman ($1198.25 in chips)
+Seat 2: THECAGE ($9659.35 in chips)
+Seat 3: FlyingStyle ($9265.88 in chips)
+THECAGE: posts small blind $50.00
+FlyingStyle: posts big blind $100.00
+*** HOLE CARDS ***
+ghahreman: raises $1098.25 to $1198.25 and is all-in
+THECAGE: folds
+FlyingStyle: calls $1098.25
+*** FIRST FLOP *** [3h 8s 2h]
+*** FIRST TURN *** [3h 8s 2h] [4h]
+*** FIRST RIVER *** [3h 8s 2h 4h] [Tc]
+*** SECOND FLOP *** [2c 3c 9c]
+*** SECOND TURN *** [2c 3c 9c] [9d]
+*** SECOND RIVER *** [2c 3c 9c 9d] [6d]
+*** FIRST SHOW DOWN ***
+ghahreman: shows [Th Ks]
+FlyingStyle: shows [As 8c]
+ghahreman collected $1222.38 from pot
+*** SECOND SHOW DOWN ***
+ghahreman: shows [Th Ks]
+FlyingStyle: shows [As 8c]
+FlyingStyle collected $1222.37 from pot
+*** SUMMARY ***
+Total pot $2446.50 | Rake $1.75
+Hand was run twice
+FIRST Board [3h 8s 2h 4h Tc]
+SECOND Board [2c 3c 9c 9d 6d]
+Seat 1: ghahreman (button) showed [Th Ks] and won ($1222.38), and lost
+Seat 2: THECAGE (small blind) folded before Flop
+Seat 3: FlyingStyle (big blind) showed [As 8c] and lost, and won ($1222.37)
+
+PokerStars Hand #1503531820:  Hold'em No Limit ($50.00/$100.00 USD) - 2022/12/30 08:13:15 ET
+Table 'WPN_7 Day No Rathole 50/100 NLH' 9-max Seat #2 is the button
+Seat 1: ghahreman ($1222.38 in chips)
+Seat 2: THECAGE ($9609.35 in chips)
+Seat 3: FlyingStyle ($9290.00 in chips)
+FlyingStyle: posts small blind $50.00
+ghahreman: posts big blind $100.00
+*** HOLE CARDS ***
+THECAGE: folds
+FlyingStyle: raises $9190.00 to $9290.00 and is all-in
+ghahreman: folds
+Uncalled bet ($9190.00) returned to FlyingStyle
+FlyingStyle collected $200.00 from pot
+FlyingStyle: doesn't show hand
+*** SUMMARY ***
+Total pot $200.00 | Rake $0.00
+Seat 1: ghahreman (big blind) folded before Flop
+Seat 2: THECAGE (button) folded before Flop (didn't bet)
+Seat 3: FlyingStyle (small blind) collected ($200.00)
+
+PokerStars Hand #1503531988:  Hold'em No Limit ($50.00/$100.00 USD) - 2022/12/30 08:13:38 ET
+Table 'WPN_7 Day No Rathole 50/100 NLH' 9-max Seat #3 is the button
+Seat 1: ghahreman ($1122.38 in chips)
+Seat 2: THECAGE ($9609.35 in chips)
+Seat 3: FlyingStyle ($9390.00 in chips)
+ghahreman: posts small blind $50.00
+THECAGE: posts big blind $100.00
+*** HOLE CARDS ***
+FlyingStyle: raises $100.00 to $200.00
+ghahreman: raises $922.38 to $1122.38 and is all-in
+THECAGE: folds
+FlyingStyle: folds
+Uncalled bet ($922.38) returned to ghahreman
+ghahreman collected $500.00 from pot
+ghahreman: doesn't show hand
+*** SUMMARY ***
+Total pot $500.00 | Rake $0.00
+Seat 1: ghahreman (small blind) collected ($500.00)
+Seat 2: THECAGE (big blind) folded before Flop
+Seat 3: FlyingStyle (button) folded before Flop
+
+PokerStars Hand #1503532120:  Hold'em No Limit ($50.00/$100.00 USD) - 2022/12/30 08:13:54 ET
+Table 'WPN_7 Day No Rathole 50/100 NLH' 9-max Seat #1 is the button
+Seat 1: ghahreman ($1422.38 in chips)
+Seat 2: THECAGE ($9509.35 in chips)
+Seat 3: FlyingStyle ($9190.00 in chips)
+THECAGE: posts small blind $50.00
+FlyingStyle: posts big blind $100.00
+*** HOLE CARDS ***
+ghahreman: folds
+THECAGE: folds
+Uncalled bet ($50.00) returned to FlyingStyle
+FlyingStyle collected $100.00 from pot
+FlyingStyle: doesn't show hand
+*** SUMMARY ***
+Total pot $100.00 | Rake $0.00
+Seat 1: ghahreman (button) folded before Flop (didn't bet)
+Seat 2: THECAGE (small blind) folded before Flop
+Seat 3: FlyingStyle (big blind) collected ($100.00)
+
+PokerStars Hand #1503532210:  Hold'em No Limit ($50.00/$100.00 USD) - 2022/12/30 08:14:05 ET
+Table 'WPN_7 Day No Rathole 50/100 NLH' 9-max Seat #2 is the button
+Seat 1: ghahreman ($1422.38 in chips)
+Seat 2: THECAGE ($9459.35 in chips)
+Seat 3: FlyingStyle ($9240.00 in chips)
+FlyingStyle: posts small blind $50.00
+ghahreman: posts big blind $100.00
+*** HOLE CARDS ***
+THECAGE: raises $100.00 to $200.00
+FlyingStyle: folds
+ghahreman: folds
+Uncalled bet ($100.00) returned to THECAGE
+THECAGE collected $250.00 from pot
+THECAGE: doesn't show hand
+*** SUMMARY ***
+Total pot $250.00 | Rake $0.00
+Seat 1: ghahreman (big blind) folded before Flop
+Seat 2: THECAGE (button) collected ($250.00)
+Seat 3: FlyingStyle (small blind) folded before Flop
+
+PokerStars Hand #1503532370:  Hold'em No Limit ($50.00/$100.00 USD) - 2022/12/30 08:14:23 ET
+Table 'WPN_7 Day No Rathole 50/100 NLH' 9-max Seat #3 is the button
+Seat 1: ghahreman ($1322.38 in chips)
+Seat 2: THECAGE ($9609.35 in chips)
+Seat 3: FlyingStyle ($9190.00 in chips)
+ghahreman: posts small blind $50.00
+THECAGE: posts big blind $100.00
+*** HOLE CARDS ***
+FlyingStyle: raises $100.00 to $200.00
+ghahreman: folds
+THECAGE: folds
+Uncalled bet ($100.00) returned to FlyingStyle
+FlyingStyle collected $250.00 from pot
+FlyingStyle: doesn't show hand
+*** SUMMARY ***
+Total pot $250.00 | Rake $0.00
+Seat 1: ghahreman (small blind) folded before Flop
+Seat 2: THECAGE (big blind) folded before Flop
+Seat 3: FlyingStyle (button) collected ($250.00)
+
+PokerStars Hand #1503532526:  Hold'em No Limit ($50.00/$100.00 USD) - 2022/12/30 08:14:40 ET
+Table 'WPN_7 Day No Rathole 50/100 NLH' 9-max Seat #1 is the button
+Seat 1: ghahreman ($1272.38 in chips)
+Seat 2: THECAGE ($9509.35 in chips)
+Seat 3: FlyingStyle ($9340.00 in chips)
+THECAGE: posts small blind $50.00
+FlyingStyle: posts big blind $100.00
+*** HOLE CARDS ***
+ghahreman: raises $1172.38 to $1272.38 and is all-in
+THECAGE: calls $1222.38
+FlyingStyle: folds
+*** FLOP *** [Qd 3s Kd]
+*** TURN *** [Qd 3s Kd] [Ts]
+*** RIVER *** [Qd 3s Kd Ts] [9d]
+*** SHOW DOWN ***
+ghahreman: shows [5c 5h]
+THECAGE: shows [8c Ah]
+ghahreman collected $2643.01 from pot
+*** SUMMARY ***
+Total pot $2644.76 | Rake $1.75
+Board [Qd 3s Kd Ts 9d]
+Seat 1: ghahreman (button) showed [5c 5h] and won ($2643.01)
+Seat 2: THECAGE (small blind) showed [8c Ah] and lost
+Seat 3: FlyingStyle (big blind) folded before Flop
+
+PokerStars Hand #1503532764:  Hold'em No Limit ($50.00/$100.00 USD) - 2022/12/30 08:15:09 ET
+Table 'WPN_7 Day No Rathole 50/100 NLH' 9-max Seat #2 is the button
+Seat 1: ghahreman ($2643.01 in chips)
+Seat 2: THECAGE ($8236.97 in chips)
+Seat 3: FlyingStyle ($9240.00 in chips)
+FlyingStyle: posts small blind $50.00
+ghahreman: posts big blind $100.00
+*** HOLE CARDS ***
+THECAGE: raises $100.00 to $200.00
+FlyingStyle: folds
+ghahreman: folds
+Uncalled bet ($100.00) returned to THECAGE
+THECAGE collected $250.00 from pot
+THECAGE: doesn't show hand
+*** SUMMARY ***
+Total pot $250.00 | Rake $0.00
+Seat 1: ghahreman (big blind) folded before Flop
+Seat 2: THECAGE (button) collected ($250.00)
+Seat 3: FlyingStyle (small blind) folded before Flop
+
+PokerStars Hand #1503532914:  Hold'em No Limit ($50.00/$100.00 USD) - 2022/12/30 08:15:25 ET
+Table 'WPN_7 Day No Rathole 50/100 NLH' 9-max Seat #3 is the button
+Seat 1: ghahreman ($2543.01 in chips)
+Seat 2: THECAGE ($8386.97 in chips)
+Seat 3: FlyingStyle ($9190.00 in chips)
+ghahreman: posts small blind $50.00
+THECAGE: posts big blind $100.00
+*** HOLE CARDS ***
+FlyingStyle: folds
+ghahreman: calls $50.00
+THECAGE: checks
+*** FLOP *** [2h 8h 9h]
+ghahreman: checks
+THECAGE: bets $100.00
+ghahreman: folds
+Uncalled bet ($100.00) returned to THECAGE
+THECAGE collected $198.25 from pot
+THECAGE: doesn't show hand
+*** SUMMARY ***
+Total pot $200.00 | Rake $1.75
+Board [2h 8h 9h]
+Seat 1: ghahreman (small blind) folded on the Flop
+Seat 2: THECAGE (big blind) collected ($198.25)
+Seat 3: FlyingStyle (button) folded before Flop (didn't bet)
+
+PokerStars Hand #1503533152:  Hold'em No Limit ($50.00/$100.00 USD) - 2022/12/30 08:15:55 ET
+Table 'WPN_7 Day No Rathole 50/100 NLH' 9-max Seat #1 is the button
+Seat 1: ghahreman ($2443.01 in chips)
+Seat 2: THECAGE ($8485.22 in chips)
+Seat 3: FlyingStyle ($9190.00 in chips)
+THECAGE: posts small blind $50.00
+FlyingStyle: posts big blind $100.00
+*** HOLE CARDS ***
+ghahreman: folds
+THECAGE: folds
+Uncalled bet ($50.00) returned to FlyingStyle
+FlyingStyle collected $100.00 from pot
+FlyingStyle: doesn't show hand
+*** SUMMARY ***
+Total pot $100.00 | Rake $0.00
+Seat 1: ghahreman (button) folded before Flop (didn't bet)
+Seat 2: THECAGE (small blind) folded before Flop
+Seat 3: FlyingStyle (big blind) collected ($100.00)
+
+PokerStars Hand #1503533243:  Hold'em No Limit ($50.00/$100.00 USD) - 2022/12/30 08:16:07 ET
+Table 'WPN_7 Day No Rathole 50/100 NLH' 9-max Seat #2 is the button
+Seat 1: ghahreman ($2443.01 in chips)
+Seat 2: THECAGE ($8435.22 in chips)
+Seat 3: FlyingStyle ($9240.00 in chips)
+FlyingStyle: posts small blind $50.00
+ghahreman: posts big blind $100.00
+*** HOLE CARDS ***
+THECAGE: folds
+FlyingStyle: raises $150.00 to $250.00
+ghahreman: calls $150.00
+*** FLOP *** [Kd Jh Jc]
+FlyingStyle: bets $115.00
+ghahreman: folds
+Uncalled bet ($115.00) returned to FlyingStyle
+FlyingStyle collected $498.25 from pot
+FlyingStyle: doesn't show hand
+*** SUMMARY ***
+Total pot $500.00 | Rake $1.75
+Board [Kd Jh Jc]
+Seat 1: ghahreman (big blind) folded on the Flop
+Seat 2: THECAGE (button) folded before Flop (didn't bet)
+Seat 3: FlyingStyle (small blind) collected ($498.25)
+
+PokerStars Hand #1503533433:  Hold'em No Limit ($50.00/$100.00 USD) - 2022/12/30 08:16:31 ET
+Table 'WPN_7 Day No Rathole 50/100 NLH' 9-max Seat #3 is the button
+Seat 1: ghahreman ($2193.01 in chips)
+Seat 2: THECAGE ($8435.22 in chips)
+Seat 3: FlyingStyle ($9488.25 in chips)
+ghahreman: posts small blind $50.00
+THECAGE: posts big blind $100.00
+*** HOLE CARDS ***
+FlyingStyle: folds
+ghahreman: raises $2093.01 to $2193.01 and is all-in
+THECAGE: folds
+Uncalled bet ($2093.01) returned to ghahreman
+ghahreman collected $200.00 from pot
+ghahreman: doesn't show hand
+*** SUMMARY ***
+Total pot $200.00 | Rake $0.00
+Seat 1: ghahreman (small blind) collected ($200.00)
+Seat 2: THECAGE (big blind) folded before Flop
+Seat 3: FlyingStyle (button) folded before Flop (didn't bet)
+
+PokerStars Hand #1503533650:  Hold'em No Limit ($50.00/$100.00 USD) - 2022/12/30 08:16:55 ET
+Table 'WPN_7 Day No Rathole 50/100 NLH' 9-max Seat #1 is the button
+Seat 1: ghahreman ($2293.01 in chips)
+Seat 2: THECAGE ($8335.22 in chips)
+Seat 3: FlyingStyle ($9488.25 in chips)
+THECAGE: posts small blind $50.00
+FlyingStyle: posts big blind $100.00
+*** HOLE CARDS ***
+ghahreman: folds
+THECAGE: raises $200.00 to $300.00
+FlyingStyle: calls $200.00
+*** FLOP *** [As Th 9s]
+THECAGE: bets $150.00
+FlyingStyle: calls $150.00
+*** TURN *** [As Th 9s] [6c]
+THECAGE: bets $225.00
+FlyingStyle: calls $225.00
+*** RIVER *** [As Th 9s 6c] [2d]
+THECAGE: bets $337.50
+FlyingStyle: raises $2148.50 to $2486.00
+THECAGE: folds
+Uncalled bet ($2148.50) returned to FlyingStyle
+FlyingStyle collected $2023.25 from pot
+FlyingStyle: doesn't show hand
+*** SUMMARY ***
+Total pot $2025.00 | Rake $1.75
+Board [As Th 9s 6c 2d]
+Seat 1: ghahreman (button) folded before Flop (didn't bet)
+Seat 2: THECAGE (small blind) folded on the River
+Seat 3: FlyingStyle (big blind) collected ($2023.25)
+
+PokerStars Hand #1503534794:  Hold'em No Limit ($50.00/$100.00 USD) - 2022/12/30 08:19:06 ET
+Table 'WPN_7 Day No Rathole 50/100 NLH' 9-max Seat #2 is the button
+Seat 1: ghahreman ($2293.01 in chips)
+Seat 2: THECAGE ($7322.72 in chips)
+Seat 3: FlyingStyle ($10499.00 in chips)
+FlyingStyle: posts small blind $50.00
+ghahreman: posts big blind $100.00
+*** HOLE CARDS ***
+THECAGE: raises $100.00 to $200.00
+FlyingStyle: raises $750.00 to $950.00
+ghahreman: folds
+THECAGE: folds
+Uncalled bet ($750.00) returned to FlyingStyle
+FlyingStyle collected $500.00 from pot
+FlyingStyle: doesn't show hand
+*** SUMMARY ***
+Total pot $500.00 | Rake $0.00
+Seat 1: ghahreman (big blind) folded before Flop
+Seat 2: THECAGE (button) folded before Flop
+Seat 3: FlyingStyle (small blind) collected ($500.00)
+
+PokerStars Hand #1503535077:  Hold'em No Limit ($50.00/$100.00 USD) - 2022/12/30 08:19:37 ET
+Table 'WPN_7 Day No Rathole 50/100 NLH' 9-max Seat #3 is the button
+Seat 1: ghahreman ($2193.01 in chips)
+Seat 2: THECAGE ($7122.72 in chips)
+Seat 3: FlyingStyle ($10799.00 in chips)
+ghahreman: posts small blind $50.00
+THECAGE: posts big blind $100.00
+*** HOLE CARDS ***
+FlyingStyle: raises $100.00 to $200.00
+ghahreman: folds
+THECAGE: calls $100.00
+*** FLOP *** [5d 7c Jc]
+THECAGE: checks
+FlyingStyle: checks
+*** TURN *** [5d 7c Jc] [2c]
+THECAGE: bets $328.50
+FlyingStyle: calls $328.50
+*** RIVER *** [5d 7c Jc 2c] [Ts]
+THECAGE: bets $1594.08
+FlyingStyle: calls $1594.08
+*** SHOW DOWN ***
+THECAGE: shows [8c 9d]
+FlyingStyle: mucks hand
+THECAGE collected $4293.41 from pot
+*** SUMMARY ***
+Total pot $4295.16 | Rake $1.75
+Board [5d 7c Jc 2c Ts]
+Seat 1: ghahreman (small blind) folded before Flop
+Seat 2: THECAGE (big blind) showed [8c 9d] and won ($4293.41)
+Seat 3: FlyingStyle (button) mucked
+
+PokerStars Hand #1503535907:  Hold'em No Limit ($50.00/$100.00 USD) - 2022/12/30 08:21:13 ET
+Table 'WPN_7 Day No Rathole 50/100 NLH' 9-max Seat #1 is the button
+Seat 1: ghahreman ($2143.01 in chips)
+Seat 2: THECAGE ($9293.55 in chips)
+Seat 3: FlyingStyle ($8676.42 in chips)
+THECAGE: posts small blind $50.00
+FlyingStyle: posts big blind $100.00
+*** HOLE CARDS ***
+ghahreman: raises $200.00 to $300.00
+THECAGE: folds
+FlyingStyle: folds
+Uncalled bet ($200.00) returned to ghahreman
+ghahreman collected $250.00 from pot
+ghahreman: doesn't show hand
+*** SUMMARY ***
+Total pot $250.00 | Rake $0.00
+Seat 1: ghahreman (button) collected ($250.00)
+Seat 2: THECAGE (small blind) folded before Flop
+Seat 3: FlyingStyle (big blind) folded before Flop
+
+PokerStars Hand #1503536099:  Hold'em No Limit ($50.00/$100.00 USD) - 2022/12/30 08:21:33 ET
+Table 'WPN_7 Day No Rathole 50/100 NLH' 9-max Seat #2 is the button
+Seat 1: ghahreman ($2293.01 in chips)
+Seat 2: THECAGE ($9243.55 in chips)
+Seat 3: FlyingStyle ($8576.42 in chips)
+FlyingStyle: posts small blind $50.00
+ghahreman: posts big blind $100.00
+*** HOLE CARDS ***
+THECAGE: raises $100.00 to $200.00
+FlyingStyle: folds
+ghahreman: calls $100.00
+*** FLOP *** [As Qs 5d]
+ghahreman: checks
+THECAGE: checks
+*** TURN *** [As Qs 5d] [Ah]
+ghahreman: checks
+THECAGE: bets $328.50
+ghahreman: folds
+Uncalled bet ($328.50) returned to THECAGE
+THECAGE collected $448.25 from pot
+THECAGE: doesn't show hand
+*** SUMMARY ***
+Total pot $450.00 | Rake $1.75
+Board [As Qs 5d Ah]
+Seat 1: ghahreman (big blind) folded on the Turn
+Seat 2: THECAGE (button) collected ($448.25)
+Seat 3: FlyingStyle (small blind) folded before Flop
+
+PokerStars Hand #1503536462:  Hold'em No Limit ($50.00/$100.00 USD) - 2022/12/30 08:22:17 ET
+Table 'WPN_7 Day No Rathole 50/100 NLH' 9-max Seat #3 is the button
+Seat 1: ghahreman ($2093.01 in chips)
+Seat 2: THECAGE ($9491.80 in chips)
+Seat 3: FlyingStyle ($8526.42 in chips)
+ghahreman: posts small blind $50.00
+THECAGE: posts big blind $100.00
+*** HOLE CARDS ***
+FlyingStyle: raises $100.00 to $200.00
+ghahreman: raises $650.00 to $850.00
+THECAGE: raises $650.00 to $1500.00
+FlyingStyle: folds
+ghahreman: raises $593.01 to $2093.01 and is all-in
+THECAGE: calls $593.01
+*** FLOP *** [Kc 3d 5h]
+*** TURN *** [Kc 3d 5h] [7h]
+*** RIVER *** [Kc 3d 5h 7h] [4c]
+*** SHOW DOWN ***
+THECAGE: shows [Jd Jh]
+ghahreman: shows [Ad Qd]
+THECAGE collected $4384.27 from pot
+*** SUMMARY ***
+Total pot $4386.02 | Rake $1.75
+Board [Kc 3d 5h 7h 4c]
+Seat 1: ghahreman (small blind) showed [Ad Qd] and lost
+Seat 2: THECAGE (big blind) showed [Jd Jh] and won ($4384.27)
+Seat 3: FlyingStyle (button) folded before Flop
+
+PokerStars Hand #1503536951:  Hold'em No Limit ($50.00/$100.00 USD) - 2022/12/30 08:23:14 ET
+Table 'WPN_7 Day No Rathole 50/100 NLH' 9-max Seat #2 is the button
+Seat 2: THECAGE ($11783.06 in chips)
+Seat 3: FlyingStyle ($8326.42 in chips)
+THECAGE: posts small blind $50.00
+FlyingStyle: posts big blind $100.00
+*** HOLE CARDS ***
+THECAGE: folds
+Uncalled bet ($50.00) returned to FlyingStyle
+FlyingStyle collected $100.00 from pot
+FlyingStyle: doesn't show hand
+*** SUMMARY ***
+Total pot $100.00 | Rake $0.00
+Seat 2: THECAGE (button) (small blind) folded before Flop
+Seat 3: FlyingStyle (big blind) collected ($100.00)
+
+PokerStars Hand #1503537067:  Hold'em No Limit ($50.00/$100.00 USD) - 2022/12/30 08:23:28 ET
+Table 'WPN_7 Day No Rathole 50/100 NLH' 9-max Seat #3 is the button
+Seat 2: THECAGE ($11733.06 in chips)
+Seat 3: FlyingStyle ($8376.42 in chips)
+FlyingStyle: posts small blind $50.00
+THECAGE: posts big blind $100.00
+*** HOLE CARDS ***
+FlyingStyle: raises $130.00 to $230.00
+THECAGE: raises $770.00 to $1000.00
+FlyingStyle: folds
+Uncalled bet ($770.00) returned to THECAGE
+THECAGE collected $460.00 from pot
+THECAGE: doesn't show hand
+*** SUMMARY ***
+Total pot $460.00 | Rake $0.00
+Seat 2: THECAGE (big blind) collected ($460.00)
+Seat 3: FlyingStyle (button) (small blind) folded before Flop
+
+PokerStars Hand #1503537342:  Hold'em No Limit ($50.00/$100.00 USD) - 2022/12/30 08:24:03 ET
+Table 'WPN_7 Day No Rathole 50/100 NLH' 9-max Seat #2 is the button
+Seat 2: THECAGE ($11963.06 in chips)
+Seat 3: FlyingStyle ($8146.42 in chips)
+THECAGE: posts small blind $50.00
+FlyingStyle: posts big blind $100.00
+*** HOLE CARDS ***
+THECAGE: raises $150.00 to $250.00
+FlyingStyle: folds
+Uncalled bet ($150.00) returned to THECAGE
+THECAGE collected $200.00 from pot
+THECAGE: doesn't show hand
+*** SUMMARY ***
+Total pot $200.00 | Rake $0.00
+Seat 2: THECAGE (button) (small blind) collected ($200.00)
+Seat 3: FlyingStyle (big blind) folded before Flop
+
+PokerStars Hand #1503537509:  Hold'em No Limit ($50.00/$100.00 USD) - 2022/12/30 08:24:20 ET
+Table 'WPN_7 Day No Rathole 50/100 NLH' 9-max Seat #3 is the button
+Seat 2: THECAGE ($12063.06 in chips)
+Seat 3: FlyingStyle ($8046.42 in chips)
+FlyingStyle: posts small blind $50.00
+THECAGE: posts big blind $100.00
+*** HOLE CARDS ***
+FlyingStyle: raises $130.00 to $230.00
+THECAGE: raises $770.00 to $1000.00
+FlyingStyle: calls $770.00
+*** FLOP *** [5d 8d 9d]
+THECAGE: checks
+FlyingStyle: checks
+*** TURN *** [5d 8d 9d] [Qs]
+THECAGE: bets $640.00
+FlyingStyle: calls $640.00
+*** RIVER *** [5d 8d 9d Qs] [9c]
+THECAGE: checks
+FlyingStyle: checks
+*** SHOW DOWN ***
+THECAGE: shows [Jd Js]
+FlyingStyle: mucks hand
+THECAGE collected $3278.75 from pot
+*** SUMMARY ***
+Total pot $3280.00 | Rake $1.25
+Board [5d 8d 9d Qs 9c]
+Seat 2: THECAGE (big blind) showed [Jd Js] and won ($3278.75)
+Seat 3: FlyingStyle (button) (small blind) mucked
+
+PokerStars Hand #1503000889:  Hold'em No Limit ($50.00/$100.00 USD) - 2022/12/29 23:37:13 ET
+Table 'WPN_7 Day No Rathole 50/100 NLH' 9-max Seat #2 is the button
+Seat 2: Gizineni ($1798.75 in chips)
+Seat 7: Seesee123 ($1000.00 in chips)
+Gizineni: posts small blind $50.00
+Seesee123: posts big blind $100.00
+*** HOLE CARDS ***
+Gizineni: raises $1000.00 to $1100.00
+Seesee123: calls $900.00 and is all-in
+Uncalled bet ($100.00) returned to Gizineni
+*** FLOP *** [2d 3c Js]
+*** TURN *** [2d 3c Js] [4h]
+*** RIVER *** [2d 3c Js 4h] [2h]
+*** SHOW DOWN ***
+Seesee123: shows [3h 3d]
+Gizineni: shows [5c 7c]
+Seesee123 collected $1998.75 from pot
+*** SUMMARY ***
+Total pot $2000.00 | Rake $1.25
+Board [2d 3c Js 4h 2h]
+Seat 2: Gizineni (button) (small blind) showed [5c 7c] and lost
+Seat 7: Seesee123 (big blind) showed [3h 3d] and won ($1998.75)
+
+PokerStars Hand #1503001429:  Hold'em No Limit ($50.00/$100.00 USD) - 2022/12/29 23:37:37 ET
+Table 'WPN_7 Day No Rathole 50/100 NLH' 9-max Seat #7 is the button
+Seat 2: Gizineni ($1000.00 in chips)
+Seat 7: Seesee123 ($1998.75 in chips)
+Seesee123: posts small blind $50.00
+Gizineni: posts big blind $100.00
+*** HOLE CARDS ***
+Seesee123: raises $1898.75 to $1998.75 and is all-in
+Gizineni: folds
+Uncalled bet ($1898.75) returned to Seesee123
+Seesee123 collected $200.00 from pot
+Seesee123: doesn't show hand
+*** SUMMARY ***
+Total pot $200.00 | Rake $0.00
+Seat 2: Gizineni (big blind) folded before Flop
+Seat 7: Seesee123 (button) (small blind) collected ($200.00)
+
+PokerStars Hand #1503001658:  Hold'em No Limit ($50.00/$100.00 USD) - 2022/12/29 23:37:47 ET
+Table 'WPN_7 Day No Rathole 50/100 NLH' 9-max Seat #2 is the button
+Seat 2: Gizineni ($900.00 in chips)
+Seat 7: Seesee123 ($2098.75 in chips)
+Gizineni: posts small blind $50.00
+Seesee123: posts big blind $100.00
+*** HOLE CARDS ***
+Gizineni: calls $50.00
+Seesee123: checks
+*** FLOP *** [6h 8d 3h]
+Seesee123: checks
+Gizineni: bets $100.00
+Seesee123: folds
+Uncalled bet ($100.00) returned to Gizineni
+Gizineni collected $198.75 from pot
+Gizineni: doesn't show hand
+*** SUMMARY ***
+Total pot $200.00 | Rake $1.25
+Board [6h 8d 3h]
+Seat 2: Gizineni (button) (small blind) collected ($198.75)
+Seat 7: Seesee123 (big blind) folded on the Flop
+
+PokerStars Hand #1503001986:  Hold'em No Limit ($50.00/$100.00 USD) - 2022/12/29 23:38:03 ET
+Table 'WPN_7 Day No Rathole 50/100 NLH' 9-max Seat #7 is the button
+Seat 2: Gizineni ($1098.75 in chips)
+Seat 7: Seesee123 ($1998.75 in chips)
+Seesee123: posts small blind $50.00
+Gizineni: posts big blind $100.00
+*** HOLE CARDS ***
+Seesee123: folds
+Uncalled bet ($50.00) returned to Gizineni
+Gizineni collected $100.00 from pot
+Gizineni: doesn't show hand
+*** SUMMARY ***
+Total pot $100.00 | Rake $0.00
+Seat 2: Gizineni (big blind) collected ($100.00)
+Seat 7: Seesee123 (button) (small blind) folded before Flop
+
+PokerStars Hand #1502953765:  Hold'em No Limit ($50.00/$100.00 USD) - 2022/12/29 23:02:31 ET
+Table 'WPN_7 Day No Rathole 50/100 NLH' 9-max Seat #7 is the button
+Seat 2: Gizineni ($1548.75 in chips)
+Seat 7: Seesee123 ($1050.00 in chips)
+Seesee123: posts small blind $50.00
+Gizineni: posts big blind $100.00
+*** HOLE CARDS ***
+Seesee123: calls $50.00
+Gizineni: raises $1448.75 to $1548.75 and is all-in
+Seesee123: folds
+Uncalled bet ($1448.75) returned to Gizineni
+Gizineni collected $200.00 from pot
+Gizineni: doesn't show hand
+*** SUMMARY ***
+Total pot $200.00 | Rake $0.00
+Seat 2: Gizineni (big blind) collected ($200.00)
+Seat 7: Seesee123 (button) (small blind) folded before Flop
+
+PokerStars Hand #1502954065:  Hold'em No Limit ($50.00/$100.00 USD) - 2022/12/29 23:02:45 ET
+Table 'WPN_7 Day No Rathole 50/100 NLH' 9-max Seat #2 is the button
+Seat 2: Gizineni ($1648.75 in chips)
+Seat 7: Seesee123 ($950.00 in chips)
+Gizineni: posts small blind $50.00
+Seesee123: posts big blind $100.00
+*** HOLE CARDS ***
+Gizineni: raises $1000.00 to $1100.00
+Seesee123: folds
+Uncalled bet ($1000.00) returned to Gizineni
+Gizineni collected $200.00 from pot
+Gizineni: doesn't show hand
+*** SUMMARY ***
+Total pot $200.00 | Rake $0.00
+Seat 2: Gizineni (button) (small blind) collected ($200.00)
+Seat 7: Seesee123 (big blind) folded before Flop
+
+PokerStars Hand #1502954224:  Hold'em No Limit ($50.00/$100.00 USD) - 2022/12/29 23:02:55 ET
+Table 'WPN_7 Day No Rathole 50/100 NLH' 9-max Seat #7 is the button
+Seat 2: Gizineni ($1748.75 in chips)
+Seat 7: Seesee123 ($850.00 in chips)
+Seesee123: posts small blind $50.00
+Gizineni: posts big blind $100.00
+*** HOLE CARDS ***
+Seesee123: folds
+Uncalled bet ($50.00) returned to Gizineni
+Gizineni collected $100.00 from pot
+Gizineni: doesn't show hand
+*** SUMMARY ***
+Total pot $100.00 | Rake $0.00
+Seat 2: Gizineni (big blind) collected ($100.00)
+Seat 7: Seesee123 (button) (small blind) folded before Flop
+

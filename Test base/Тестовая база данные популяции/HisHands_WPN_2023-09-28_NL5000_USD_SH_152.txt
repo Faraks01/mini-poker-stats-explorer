@@ -1,0 +1,4195 @@
+Hand #1875806792 - Holdem(No Limit) - $25/$50 - 2023/09/27 21:00:08 UTC
+Bison 6-max Seat #3 is the button
+Seat 1: SeaLlama ($6600.25)
+Seat 3: Pr.Lupine ($2473.25)
+Seat 4: CWestmoreland ($5592.16)
+CWestmoreland posts the small blind $25
+SeaLlama posts the big blind $50
+*** HOLE CARDS *** 
+Pr.Lupine raises $125 to $125
+CWestmoreland folds
+SeaLlama folds
+Uncalled bet ($75) returned to Pr.Lupine
+Pr.Lupine does not show
+*** SUMMARY ***
+Total pot $125
+Seat 1: SeaLlama (big blind) folded on the Pre-Flop
+Seat 3: Pr.Lupine (button) did not showed and won $125
+Seat 4: CWestmoreland (small blind) folded on the Pre-Flop
+
+
+Hand #1875806728 - Holdem(No Limit) - $25/$50 - 2023/09/27 21:01:15 UTC
+Grand 6-max Seat #4 is the button
+Seat 1: Shazamm999 ($5000)
+Seat 2: Pr.Lupine ($5000)
+Seat 3: johnstark ($5000)
+Seat 4: iBetMyWifeGLGG ($5000)
+Seat 5: RealEnough ($2997)
+Seat 6: Simulacra ($2000)
+RealEnough posts the small blind $25
+Simulacra posts the big blind $50
+*** HOLE CARDS *** 
+Shazamm999 folds
+Pr.Lupine folds
+johnstark folds
+iBetMyWifeGLGG folds
+RealEnough raises $100 to $125
+Simulacra calls $75
+*** FLOP *** [2d 7h 7d]
+Main pot $247 | Rake $3
+RealEnough checks
+Simulacra checks
+*** TURN *** [2d 7h 7d] [5h]
+Main pot $247 | Rake $3
+RealEnough checks
+Simulacra checks
+*** RIVER *** [2d 7h 7d 5h] [Qd]
+Main pot $247 | Rake $3
+RealEnough bets $74.10
+Simulacra calls $74.10
+*** SUMMARY ***
+Total pot $395.20 | Rake $3
+Seat 1: Shazamm999 folded on the Pre-Flop and did not bet
+Seat 2: Pr.Lupine folded on the Pre-Flop and did not bet
+Seat 3: johnstark folded on the Pre-Flop and did not bet
+Seat 4: iBetMyWifeGLGG (button) folded on the Pre-Flop and did not bet
+Seat 5: RealEnough (small blind) did not showed and won $395.20
+Seat 6: Simulacra (big blind) did not showed and lost
+
+
+Hand #1875806968 - Holdem(No Limit) - $25/$50 - 2023/09/27 21:01:26 UTC
+Bison 6-max Seat #4 is the button
+Seat 1: SeaLlama ($6550.25)
+Seat 3: Pr.Lupine ($2548.25)
+Seat 4: CWestmoreland ($5567.16)
+SeaLlama posts the small blind $25
+Pr.Lupine posts the big blind $50
+*** HOLE CARDS *** 
+CWestmoreland raises $125 to $125
+SeaLlama folds
+Pr.Lupine calls $75
+*** FLOP *** [Tc 5c Qs]
+Main pot $273.25 | Rake $1.75
+Pr.Lupine checks
+CWestmoreland bets $81.97
+Pr.Lupine calls $81.97
+*** TURN *** [Tc 5c Qs] [3s]
+Main pot $437.19 | Rake $1.75
+Pr.Lupine checks
+CWestmoreland checks
+*** RIVER *** [Tc 5c Qs 3s] [7c]
+Main pot $437.19 | Rake $1.75
+Pr.Lupine bets $329.20
+CWestmoreland folds
+Uncalled bet ($329.20) returned to Pr.Lupine
+Pr.Lupine does not show
+*** SUMMARY ***
+Total pot $437.19 | Rake $1.75
+Seat 1: SeaLlama (small blind) folded on the Pre-Flop
+Seat 3: Pr.Lupine (big blind) did not showed and won $437.19
+Seat 4: CWestmoreland (button) folded on the River
+
+
+Hand #1875807777 - Holdem(No Limit) - $25/$50 - 2023/09/27 21:02:14 UTC
+Grand 6-max Seat #5 is the button
+Seat 1: Shazamm999 ($2023.75)
+Seat 2: Pr.Lupine ($5000)
+Seat 3: johnstark ($1100)
+Seat 4: iBetMyWifeGLGG ($5000)
+Seat 5: RealEnough ($3193.10)
+Seat 6: Simulacra ($2000)
+Simulacra posts the small blind $25
+Shazamm999 posts the big blind $50
+*** HOLE CARDS *** 
+Pr.Lupine folds
+johnstark raises $100 to $100
+iBetMyWifeGLGG folds
+RealEnough raises $250 to $250
+Simulacra folds
+Shazamm999 calls $200
+johnstark raises $1000 to $1100 and is all-in
+RealEnough raises $2943.10 to $3193.10 and is all-in
+Shazamm999 folds
+Uncalled bet ($2093.10) returned to RealEnough
+RealEnough does not show
+*** RUN IT TWICE ***
+*** FLOP 1 *** [6d 8d 4d]
+Main pot 1 $1236 | Rake $1.50
+*** TURN 1 *** [6d 8d 4d] [3s]
+Main pot 1 $1236 | Rake $1.50
+*** RIVER 1 *** [6d 8d 4d 3s] [4h]
+Main pot 1 $1236 | Rake $1.50
+*** SHOW DOWN 1 ***
+Main pot 1 $1236 | Rake $1.50
+johnstark shows [Jc Jh] (a combo of some cards [Jh Jc 4h 4d 8d])
+RealEnough shows [Kh Ac] (a combo of some cards [4h 4d Ac Kh 8d])
+johnstark collected $1236 from main pot 1
+*** FLOP 2 *** [6h 7s 3d]
+Main pot 2 $1236 | Rake $1.50
+*** TURN 2 *** [6h 7s 3d] [Ts]
+Main pot 2 $1236 | Rake $1.50
+*** RIVER 2 *** [6h 7s 3d Ts] [5h]
+Main pot 2 $1236 | Rake $1.50
+*** SHOW DOWN 2 ***
+Main pot 2 $1236 | Rake $1.50
+johnstark shows [Jc Jh] (a combo of some cards [Jh Jc Ts 7s 6h])
+RealEnough shows [Kh Ac] (a combo of some cards [Ac Kh Ts 7s 6h])
+johnstark collected $1236 from main pot 2
+*** SUMMARY ***
+Total pot $2472 | Rake $3
+Board 1 [6d 8d 4d 3s 4h]
+Seat 1: Shazamm999 (big blind) folded on the Pre-Flop
+Seat 2: Pr.Lupine folded on the Pre-Flop and did not bet
+Seat 3: johnstark showed [Jc Jh] and won $1236 with TwoPair [Jh Jc 4h 4d 8d]
+Seat 4: iBetMyWifeGLGG folded on the Pre-Flop and did not bet
+Seat 5: RealEnough (button) showed [Kh Ac] and lost with a
+Seat 6: Simulacra (small blind) folded on the Pre-Flop
+Board 2 [6h 7s 3d Ts 5h]
+Seat 1: Shazamm999 (big blind) folded on the Pre-Flop
+Seat 2: Pr.Lupine folded on the Pre-Flop and did not bet
+Seat 3: johnstark showed [Jc Jh] and won $1236 with OnePair [Jh Jc Ts 7s 6h]
+Seat 4: iBetMyWifeGLGG folded on the Pre-Flop and did not bet
+Seat 5: RealEnough (button) showed [Kh Ac] and lost with a
+Seat 6: Simulacra (small blind) folded on the Pre-Flop
+
+
+Hand #1875807890 - Holdem(No Limit) - $25/$50 - 2023/09/27 21:02:32 UTC
+Bison 6-max Seat #1 is the button
+Seat 1: SeaLlama ($5000)
+Seat 3: Pr.Lupine ($2778.47)
+Seat 4: CWestmoreland ($5360.19)
+Pr.Lupine posts the small blind $25
+CWestmoreland posts the big blind $50
+*** HOLE CARDS *** 
+SeaLlama folds
+Pr.Lupine raises $125 to $150
+CWestmoreland calls $100
+*** FLOP *** [3c Ad Jh]
+Main pot $298.25 | Rake $1.75
+Pr.Lupine bets $75
+CWestmoreland calls $75
+*** TURN *** [3c Ad Jh] [8h]
+Main pot $448.25 | Rake $1.75
+Pr.Lupine checks
+CWestmoreland checks
+*** RIVER *** [3c Ad Jh 8h] [Tc]
+Main pot $448.25 | Rake $1.75
+Pr.Lupine checks
+CWestmoreland checks
+*** SUMMARY ***
+Total pot $448.25 | Rake $1.75
+Seat 1: SeaLlama (button) folded on the Pre-Flop and did not bet
+Seat 3: Pr.Lupine (small blind) did not showed and lost
+Seat 4: CWestmoreland (big blind) did not showed and won $448.25
+
+
+Hand #1875809199 - Holdem(No Limit) - $25/$50 - 2023/09/27 21:03:12 UTC
+Bison 6-max Seat #3 is the button
+Seat 1: SeaLlama ($5000)
+Seat 3: Pr.Lupine ($2553.47)
+Seat 4: CWestmoreland ($5583.44)
+CWestmoreland posts the small blind $25
+Pr.Lupine posts the big blind $50
+*** HOLE CARDS *** 
+CWestmoreland raises $125 to $150
+Pr.Lupine folds
+Uncalled bet ($100) returned to CWestmoreland
+CWestmoreland does not show
+*** SUMMARY ***
+Total pot $100
+Seat 3: Pr.Lupine (big blind) folded on the Pre-Flop
+Seat 4: CWestmoreland (small blind) did not showed and won $100
+
+
+Hand #1875809900 - Holdem(No Limit) - $25/$50 - 2023/09/27 21:03:25 UTC
+Bison 6-max Seat #3 is the button
+Seat 1: SeaLlama ($5000)
+Seat 3: Pr.Lupine ($2503.47)
+Seat 4: CWestmoreland ($5633.44)
+Pr.Lupine posts the small blind $25
+CWestmoreland posts the big blind $50
+*** HOLE CARDS *** 
+Pr.Lupine folds
+*** SUMMARY ***
+Total pot $75
+Seat 3: Pr.Lupine (small blind) folded on the Pre-Flop
+Seat 4: CWestmoreland (big blind) did not showed and won $75
+
+
+Hand #1875809082 - Holdem(No Limit) - $25/$50 - 2023/09/27 21:03:42 UTC
+Grand 6-max Seat #6 is the button
+Seat 1: Shazamm999 ($1773.75)
+Seat 2: Pr.Lupine ($1000)
+Seat 3: johnstark ($5000)
+Seat 4: iBetMyWifeGLGG ($5000)
+Seat 5: RealEnough ($2093.10)
+Seat 6: Simulacra ($5000)
+Shazamm999 posts the small blind $25
+Pr.Lupine posts the big blind $50
+*** HOLE CARDS *** 
+johnstark folds
+iBetMyWifeGLGG folds
+RealEnough raises $125 to $125
+Simulacra folds
+Shazamm999 raises $175 to $200
+Pr.Lupine folds
+RealEnough calls $75
+*** FLOP *** [Jd 4h Js]
+Main pot $447 | Rake $3
+Shazamm999 bets $450
+RealEnough folds
+Uncalled bet ($450) returned to Shazamm999
+Shazamm999 does not show
+*** SUMMARY ***
+Total pot $447 | Rake $3
+Seat 1: Shazamm999 (small blind) did not showed and won $447
+Seat 2: Pr.Lupine (big blind) folded on the Pre-Flop
+Seat 3: johnstark folded on the Pre-Flop and did not bet
+Seat 4: iBetMyWifeGLGG folded on the Pre-Flop and did not bet
+Seat 5: RealEnough folded on the Flop
+Seat 6: Simulacra (button) folded on the Pre-Flop and did not bet
+
+
+Hand #1875810449 - Holdem(No Limit) - $25/$50 - 2023/09/27 21:04:01 UTC
+Grand 6-max Seat #1 is the button
+Seat 1: Shazamm999 ($5000)
+Seat 2: Pr.Lupine ($1000)
+Seat 3: johnstark ($2472)
+Seat 4: iBetMyWifeGLGG ($1000)
+Seat 5: RealEnough ($5000)
+Seat 6: Simulacra ($5000)
+Pr.Lupine posts the small blind $25
+johnstark posts the big blind $50
+*** HOLE CARDS *** 
+iBetMyWifeGLGG raises $100 to $100
+RealEnough folds
+Simulacra folds
+Shazamm999 folds
+Pr.Lupine folds
+johnstark folds
+Uncalled bet ($50) returned to iBetMyWifeGLGG
+iBetMyWifeGLGG does not show
+*** SUMMARY ***
+Total pot $125
+Seat 1: Shazamm999 (button) folded on the Pre-Flop and did not bet
+Seat 2: Pr.Lupine (small blind) folded on the Pre-Flop
+Seat 3: johnstark (big blind) folded on the Pre-Flop
+Seat 4: iBetMyWifeGLGG did not showed and won $125
+Seat 5: RealEnough folded on the Pre-Flop and did not bet
+Seat 6: Simulacra folded on the Pre-Flop and did not bet
+
+
+Hand #1875810146 - Holdem(No Limit) - $25/$50 - 2023/09/27 21:04:02 UTC
+Bison 6-max Seat #4 is the button
+Seat 1: SeaLlama ($5000)
+Seat 3: Pr.Lupine ($2478.47)
+Seat 4: CWestmoreland ($5658.44)
+CWestmoreland posts the small blind $25
+Pr.Lupine posts the big blind $50
+*** HOLE CARDS *** 
+CWestmoreland raises $100 to $125
+Pr.Lupine calls $75
+*** FLOP *** [Td Kd 7d]
+Main pot $248.75 | Rake $1.25
+Pr.Lupine checks
+CWestmoreland bets $74.62
+Pr.Lupine folds
+Uncalled bet ($74.62) returned to CWestmoreland
+CWestmoreland does not show
+*** SUMMARY ***
+Total pot $248.75 | Rake $1.25
+Seat 3: Pr.Lupine (big blind) folded on the Flop
+Seat 4: CWestmoreland (small blind) did not showed and won $248.75
+
+
+Hand #1875810836 - Holdem(No Limit) - $25/$50 - 2023/09/27 21:04:24 UTC
+Grand 6-max Seat #2 is the button
+Seat 1: Shazamm999 ($5000)
+Seat 2: Pr.Lupine ($5000)
+Seat 3: johnstark ($2422)
+Seat 4: iBetMyWifeGLGG ($1075)
+Seat 5: RealEnough ($5000)
+Seat 6: Simulacra ($5000)
+johnstark posts the small blind $25
+iBetMyWifeGLGG posts the big blind $50
+*** HOLE CARDS *** 
+RealEnough folds
+Simulacra folds
+Shazamm999 folds
+Pr.Lupine folds
+johnstark raises $115 to $140
+iBetMyWifeGLGG folds
+Uncalled bet ($90) returned to johnstark
+johnstark does not show
+*** SUMMARY ***
+Total pot $100
+Seat 1: Shazamm999 folded on the Pre-Flop and did not bet
+Seat 2: Pr.Lupine (button) folded on the Pre-Flop and did not bet
+Seat 3: johnstark (small blind) did not showed and won $100
+Seat 4: iBetMyWifeGLGG (big blind) folded on the Pre-Flop
+Seat 5: RealEnough folded on the Pre-Flop and did not bet
+Seat 6: Simulacra folded on the Pre-Flop and did not bet
+
+
+Hand #1875811366 - Holdem(No Limit) - $25/$50 - 2023/09/27 21:05:02 UTC
+Grand 6-max Seat #3 is the button
+Seat 1: Shazamm999 ($5000)
+Seat 2: Pr.Lupine ($5000)
+Seat 3: johnstark ($2472)
+Seat 4: iBetMyWifeGLGG ($1025)
+Seat 5: RealEnough ($2000)
+Seat 6: Simulacra ($5000)
+iBetMyWifeGLGG posts the small blind $25
+RealEnough posts the big blind $50
+*** HOLE CARDS *** 
+Simulacra folds
+Shazamm999 folds
+Pr.Lupine folds
+johnstark raises $100 to $100
+iBetMyWifeGLGG raises $1000 to $1025 and is all-in
+RealEnough folds
+johnstark folds
+Uncalled bet ($925) returned to iBetMyWifeGLGG
+iBetMyWifeGLGG does not show
+*** SUMMARY ***
+Total pot $250
+Seat 1: Shazamm999 folded on the Pre-Flop and did not bet
+Seat 2: Pr.Lupine folded on the Pre-Flop and did not bet
+Seat 3: johnstark (button) folded on the Pre-Flop and did not bet
+Seat 4: iBetMyWifeGLGG (small blind) did not showed and won $250
+Seat 5: RealEnough (big blind) folded on the Pre-Flop
+Seat 6: Simulacra folded on the Pre-Flop and did not bet
+
+
+Hand #1875812154 - Holdem(No Limit) - $25/$50 - 2023/09/27 21:06:22 UTC
+Grand 6-max Seat #4 is the button
+Seat 1: Shazamm999 ($2020.75)
+Seat 2: Pr.Lupine ($1000)
+Seat 3: johnstark ($5000)
+Seat 4: iBetMyWifeGLGG ($5000)
+Seat 5: RealEnough ($2000)
+Seat 6: Simulacra ($2000)
+RealEnough posts the small blind $25
+Simulacra posts the big blind $50
+*** HOLE CARDS *** 
+Shazamm999 calls $50
+Pr.Lupine raises $150 to $150
+johnstark folds
+iBetMyWifeGLGG folds
+RealEnough folds
+Simulacra calls $100
+Shazamm999 calls $100
+*** FLOP *** [3d 6s 4d]
+Main pot $472 | Rake $3
+Simulacra checks
+Shazamm999 checks
+Pr.Lupine bets $150
+Simulacra folds
+Shazamm999 calls $150
+*** TURN *** [3d 6s 4d] [9d]
+Main pot $772 | Rake $3
+Shazamm999 checks
+Pr.Lupine bets $700 and is all-in
+Shazamm999 calls $700
+*** RIVER *** [3d 6s 4d 9d] [Kh]
+Main pot $2172 | Rake $3
+*** SHOW DOWN ***
+Main pot $2172 | Rake $3
+Shazamm999 shows [Ad 7s] (a combo of some cards [Ad Kh 9d 7s 6s])
+Pr.Lupine shows [As Ac] (a combo of some cards [As Ac Kh 9d 6s])
+Pr.Lupine collected $2172 from main pot
+*** SUMMARY ***
+Total pot $2172 | Rake $3
+Seat 1: Shazamm999 showed [Ad 7s] and lost
+Seat 2: Pr.Lupine showed [As Ac] and won $2172 with OnePair [As Ac Kh 9d 6s]
+Seat 3: johnstark folded on the Pre-Flop and did not bet
+Seat 4: iBetMyWifeGLGG (button) folded on the Pre-Flop and did not bet
+Seat 5: RealEnough (small blind) folded on the Pre-Flop
+Seat 6: Simulacra (big blind) folded on the Flop
+
+
+Hand #1875813887 - Holdem(No Limit) - $25/$50 - 2023/09/27 21:06:53 UTC
+Grand 6-max Seat #5 is the button
+Seat 1: Shazamm999 ($1020.75)
+Seat 2: Pr.Lupine ($5000)
+Seat 3: johnstark ($5000)
+Seat 4: iBetMyWifeGLGG ($5000)
+Seat 5: RealEnough ($5000)
+Seat 6: Simulacra ($2000)
+Simulacra posts the small blind $25
+Shazamm999 posts the big blind $50
+*** HOLE CARDS *** 
+Pr.Lupine folds
+johnstark folds
+iBetMyWifeGLGG folds
+RealEnough folds
+Simulacra folds
+*** SUMMARY ***
+Total pot $75
+Seat 1: Shazamm999 (big blind) did not showed and won $75
+Seat 2: Pr.Lupine folded on the Pre-Flop and did not bet
+Seat 3: johnstark folded on the Pre-Flop and did not bet
+Seat 4: iBetMyWifeGLGG folded on the Pre-Flop and did not bet
+Seat 5: RealEnough (button) folded on the Pre-Flop and did not bet
+Seat 6: Simulacra (small blind) folded on the Pre-Flop
+
+
+Hand #1875814408 - Holdem(No Limit) - $25/$50 - 2023/09/27 21:07:19 UTC
+Grand 6-max Seat #6 is the button
+Seat 1: Shazamm999 ($1045.75)
+Seat 2: Pr.Lupine ($2172)
+Seat 3: johnstark ($2372)
+Seat 4: iBetMyWifeGLGG ($5000)
+Seat 5: RealEnough ($5000)
+Seat 6: Simulacra ($5000)
+Shazamm999 posts the small blind $25
+Pr.Lupine posts the big blind $50
+*** HOLE CARDS *** 
+johnstark raises $125 to $125
+iBetMyWifeGLGG folds
+RealEnough folds
+Simulacra folds
+Shazamm999 folds
+Pr.Lupine folds
+Uncalled bet ($75) returned to johnstark
+johnstark does not show
+*** SUMMARY ***
+Total pot $125
+Seat 1: Shazamm999 (small blind) folded on the Pre-Flop
+Seat 2: Pr.Lupine (big blind) folded on the Pre-Flop
+Seat 3: johnstark did not showed and won $125
+Seat 4: iBetMyWifeGLGG folded on the Pre-Flop and did not bet
+Seat 5: RealEnough folded on the Pre-Flop and did not bet
+Seat 6: Simulacra (button) folded on the Pre-Flop and did not bet
+
+
+Hand #1875814972 - Holdem(No Limit) - $25/$50 - 2023/09/27 21:07:35 UTC
+Grand 6-max Seat #1 is the button
+Seat 1: Shazamm999 ($5000)
+Seat 2: Pr.Lupine ($2122)
+Seat 3: johnstark ($2447)
+Seat 4: iBetMyWifeGLGG ($5000)
+Seat 5: RealEnough ($5000)
+Seat 6: Simulacra ($5000)
+Pr.Lupine posts the small blind $25
+johnstark posts the big blind $50
+*** HOLE CARDS *** 
+iBetMyWifeGLGG folds
+RealEnough folds
+Simulacra folds
+Shazamm999 folds
+Pr.Lupine folds
+*** SUMMARY ***
+Total pot $75
+Seat 1: Shazamm999 (button) folded on the Pre-Flop and did not bet
+Seat 2: Pr.Lupine (small blind) folded on the Pre-Flop
+Seat 3: johnstark (big blind) did not showed and won $75
+Seat 4: iBetMyWifeGLGG folded on the Pre-Flop and did not bet
+Seat 5: RealEnough folded on the Pre-Flop and did not bet
+Seat 6: Simulacra folded on the Pre-Flop and did not bet
+
+
+Hand #1875815310 - Holdem(No Limit) - $25/$50 - 2023/09/27 21:08:42 UTC
+Grand 6-max Seat #2 is the button
+Seat 1: Shazamm999 ($1020.75)
+Seat 2: Pr.Lupine ($2097)
+Seat 3: johnstark ($2472)
+Seat 4: iBetMyWifeGLGG ($1175)
+Seat 5: RealEnough ($5000)
+Seat 6: Simulacra ($5000)
+johnstark posts the small blind $25
+iBetMyWifeGLGG posts the big blind $50
+*** HOLE CARDS *** 
+RealEnough folds
+Simulacra folds
+Shazamm999 calls $50
+Pr.Lupine raises $150 to $150
+johnstark folds
+iBetMyWifeGLGG folds
+Shazamm999 calls $100
+*** FLOP *** [8s Th Qh]
+Main pot $372 | Rake $3
+Shazamm999 bets $375
+Pr.Lupine raises $1947 to $1947 and is all-in
+Shazamm999 calls $495.75 and is all-in
+Uncalled bet ($1076.25) returned to Pr.Lupine
+Pr.Lupine does not show
+*** TURN *** [8s Th Qh] [4h]
+Main pot $2113.50 | Rake $3
+*** RIVER *** [8s Th Qh 4h] [Jc]
+Main pot $2113.50 | Rake $3
+*** SHOW DOWN ***
+Main pot $2113.50 | Rake $3
+Shazamm999 shows [4s Qs] (a combo of some cards [Qs Qh 4s 4h Jc])
+Pr.Lupine shows [Qd Ts] (a combo of some cards [Qh Qd Ts Th Jc])
+Pr.Lupine collected $2113.50 from main pot
+*** SUMMARY ***
+Total pot $2113.50 | Rake $3
+Seat 1: Shazamm999 showed [4s Qs] and lost
+Seat 2: Pr.Lupine (button) showed [Qd Ts] and won $2113.50 with TwoPair [Qh Qd Ts Th Jc]
+Seat 3: johnstark (small blind) folded on the Pre-Flop
+Seat 4: iBetMyWifeGLGG (big blind) folded on the Pre-Flop
+Seat 5: RealEnough folded on the Pre-Flop and did not bet
+Seat 6: Simulacra folded on the Pre-Flop and did not bet
+
+
+Hand #1875816813 - Holdem(No Limit) - $25/$50 - 2023/09/27 21:10:23 UTC
+Grand 6-max Seat #3 is the button
+Seat 1: Sabazius ($5000)
+Seat 2: Pr.Lupine ($5000)
+Seat 3: johnstark ($2447)
+Seat 4: iBetMyWifeGLGG ($1125)
+Seat 5: RealEnough ($2000)
+Seat 6: Simulacra ($2000)
+iBetMyWifeGLGG posts the small blind $25
+RealEnough posts the big blind $50
+*** HOLE CARDS *** 
+Simulacra raises $112.50 to $112.50
+Pr.Lupine folds
+johnstark raises $400 to $400
+iBetMyWifeGLGG folds
+RealEnough folds
+Simulacra calls $287.50
+*** FLOP *** [6s Tc Qd]
+Main pot $872 | Rake $3
+Simulacra checks
+johnstark checks
+*** TURN *** [6s Tc Qd] [Qs]
+Main pot $872 | Rake $3
+Simulacra checks
+johnstark checks
+*** RIVER *** [6s Tc Qd Qs] [8h]
+Main pot $872 | Rake $3
+Simulacra checks
+johnstark checks
+*** SUMMARY ***
+Total pot $872 | Rake $3
+Seat 2: Pr.Lupine folded on the Pre-Flop and did not bet
+Seat 3: johnstark (button) did not showed and won $872
+Seat 4: iBetMyWifeGLGG (small blind) folded on the Pre-Flop
+Seat 5: RealEnough (big blind) folded on the Pre-Flop
+Seat 6: Simulacra did not showed and lost
+
+
+Hand #1875818771 - Holdem(No Limit) - $25/$50 - 2023/09/27 21:10:43 UTC
+Grand 6-max Seat #4 is the button
+Seat 1: Sabazius ($1000)
+Seat 2: Pr.Lupine ($5000)
+Seat 3: johnstark ($5000)
+Seat 4: iBetMyWifeGLGG ($1100)
+Seat 5: RealEnough ($2000)
+Seat 6: Simulacra ($5000)
+RealEnough posts the small blind $25
+Sabazius posts the big blind $50
+*** HOLE CARDS *** 
+Pr.Lupine folds
+johnstark folds
+iBetMyWifeGLGG raises $100 to $100
+RealEnough folds
+Sabazius folds
+Uncalled bet ($50) returned to iBetMyWifeGLGG
+iBetMyWifeGLGG does not show
+*** SUMMARY ***
+Total pot $125
+Seat 1: Sabazius (big blind) folded on the Pre-Flop
+Seat 2: Pr.Lupine folded on the Pre-Flop and did not bet
+Seat 3: johnstark folded on the Pre-Flop and did not bet
+Seat 4: iBetMyWifeGLGG (button) did not showed and won $125
+Seat 5: RealEnough (small blind) folded on the Pre-Flop
+
+
+Hand #1875820440 - Holdem(No Limit) - $25/$50 - 2023/09/27 21:12:07 UTC
+Gulf Breeze 6-max Seat #2 is the button
+Seat 2: Pr.Lupine ($1000)
+Seat 5: Shazamm999 ($2000)
+Pr.Lupine posts the small blind $25
+Shazamm999 posts the big blind $50
+*** HOLE CARDS *** 
+Pr.Lupine folds
+*** SUMMARY ***
+Total pot $75
+Seat 2: Pr.Lupine (small blind) folded on the Pre-Flop
+Seat 5: Shazamm999 (big blind) did not showed and won $75
+
+
+Hand #1875820826 - Holdem(No Limit) - $25/$50 - 2023/09/27 21:12:19 UTC
+Gulf Breeze 6-max Seat #5 is the button
+Seat 2: Pr.Lupine ($1000)
+Seat 5: Shazamm999 ($2025)
+Shazamm999 posts the small blind $25
+Pr.Lupine posts the big blind $50
+*** HOLE CARDS *** 
+Shazamm999 folds
+*** SUMMARY ***
+Total pot $75
+Seat 2: Pr.Lupine (big blind) did not showed and won $75
+Seat 5: Shazamm999 (small blind) folded on the Pre-Flop
+
+
+Hand #1875821079 - Holdem(No Limit) - $25/$50 - 2023/09/27 21:12:33 UTC
+Gulf Breeze 6-max Seat #2 is the button
+Seat 2: Pr.Lupine ($1025)
+Seat 5: Shazamm999 ($2000)
+Pr.Lupine posts the small blind $25
+Shazamm999 posts the big blind $50
+*** HOLE CARDS *** 
+Pr.Lupine raises $75 to $100
+Shazamm999 folds
+Uncalled bet ($50) returned to Pr.Lupine
+Pr.Lupine does not show
+*** SUMMARY ***
+Total pot $100
+Seat 2: Pr.Lupine (small blind) did not showed and won $100
+Seat 5: Shazamm999 (big blind) folded on the Pre-Flop
+
+
+Hand #1875821360 - Holdem(No Limit) - $25/$50 - 2023/09/27 21:12:52 UTC
+Gulf Breeze 6-max Seat #5 is the button
+Seat 2: Pr.Lupine ($1075)
+Seat 5: Shazamm999 ($1950)
+Shazamm999 posts the small blind $25
+Pr.Lupine posts the big blind $50
+*** HOLE CARDS *** 
+Shazamm999 raises $100 to $125
+Pr.Lupine folds
+Uncalled bet ($75) returned to Shazamm999
+Shazamm999 does not show
+*** SUMMARY ***
+Total pot $100
+Seat 2: Pr.Lupine (big blind) folded on the Pre-Flop
+Seat 5: Shazamm999 (small blind) did not showed and won $100
+
+
+Hand #1875821767 - Holdem(No Limit) - $25/$50 - 2023/09/27 21:13:06 UTC
+Gulf Breeze 6-max Seat #2 is the button
+Seat 2: Pr.Lupine ($1025)
+Seat 5: Shazamm999 ($2000)
+Pr.Lupine posts the small blind $25
+Shazamm999 posts the big blind $50
+*** HOLE CARDS *** 
+Pr.Lupine folds
+*** SUMMARY ***
+Total pot $75
+Seat 2: Pr.Lupine (small blind) folded on the Pre-Flop
+Seat 5: Shazamm999 (big blind) did not showed and won $75
+
+
+Hand #1875822581 - Holdem(No Limit) - $25/$50 - 2023/09/27 21:13:46 UTC
+Grand 6-max Seat #1 is the button
+Seat 1: Sabazius ($1000)
+Seat 3: johnstark ($5000)
+Seat 4: iBetMyWifeGLGG ($5000)
+Seat 5: RealEnough ($2000)
+Sabazius posts the small blind $25
+RealEnough posts the big blind $50
+*** HOLE CARDS *** 
+Sabazius folds
+*** SUMMARY ***
+Total pot $75
+Seat 1: Sabazius (small blind) folded on the Pre-Flop
+Seat 5: RealEnough (big blind) did not showed and won $75
+
+
+Hand #1875822062 - Holdem(No Limit) - $25/$50 - 2023/09/27 21:14:07 UTC
+Gulf Breeze 6-max Seat #5 is the button
+Seat 2: Pr.Lupine ($1000)
+Seat 5: Shazamm999 ($2025)
+Shazamm999 posts the small blind $25
+Pr.Lupine posts the big blind $50
+*** HOLE CARDS *** 
+Shazamm999 calls $25
+Pr.Lupine checks
+*** FLOP *** [Td 5c 2c]
+Main pot $98.75 | Rake $1.25
+Pr.Lupine checks
+Shazamm999 checks
+*** TURN *** [Td 5c 2c] [3s]
+Main pot $98.75 | Rake $1.25
+Pr.Lupine bets $50
+Shazamm999 calls $50
+*** RIVER *** [Td 5c 2c 3s] [5s]
+Main pot $198.75 | Rake $1.25
+Pr.Lupine checks
+Shazamm999 bets $200
+Pr.Lupine calls $200
+*** SUMMARY ***
+Total pot $598.75 | Rake $1.25
+Seat 2: Pr.Lupine (big blind) did not showed and lost
+Seat 5: Shazamm999 (small blind) did not showed and won $598.75
+
+
+Hand #1875823368 - Holdem(No Limit) - $25/$50 - 2023/09/27 21:14:39 UTC
+Gulf Breeze 6-max Seat #2 is the button
+Seat 2: Pr.Lupine ($1000)
+Seat 5: Shazamm999 ($2323.75)
+Pr.Lupine posts the small blind $25
+Shazamm999 posts the big blind $50
+*** HOLE CARDS *** 
+Pr.Lupine calls $25
+Shazamm999 checks
+*** FLOP *** [3s Jh 9d]
+Main pot $98.75 | Rake $1.25
+Shazamm999 checks
+Pr.Lupine checks
+*** TURN *** [3s Jh 9d] [Qc]
+Main pot $98.75 | Rake $1.25
+Shazamm999 bets $100
+Pr.Lupine folds
+Uncalled bet ($100) returned to Shazamm999
+Shazamm999 does not show
+*** SUMMARY ***
+Total pot $98.75 | Rake $1.25
+Seat 2: Pr.Lupine (small blind) folded on the Turn
+Seat 5: Shazamm999 (big blind) did not showed and won $98.75
+
+
+Hand #1875823967 - Holdem(No Limit) - $25/$50 - 2023/09/27 21:15:38 UTC
+Gulf Breeze 6-max Seat #5 is the button
+Seat 2: Pr.Lupine ($1000)
+Seat 3: RealEnough ($5000)
+Seat 5: Shazamm999 ($2372.50)
+Seat 6: iBetMyWifeGLGG ($5000)
+Shazamm999 posts the small blind $25
+Pr.Lupine posts the big blind $50
+*** HOLE CARDS *** 
+Shazamm999 calls $25
+Pr.Lupine raises $125 to $175
+Shazamm999 calls $125
+*** FLOP *** [3d 5d 7c]
+Main pot $348.75 | Rake $1.25
+Pr.Lupine checks
+Shazamm999 checks
+*** TURN *** [3d 5d 7c] [Th]
+Main pot $348.75 | Rake $1.25
+Pr.Lupine checks
+Shazamm999 checks
+*** RIVER *** [3d 5d 7c Th] [2d]
+Main pot $348.75 | Rake $1.25
+Pr.Lupine checks
+Shazamm999 bets $300
+Pr.Lupine folds
+Uncalled bet ($300) returned to Shazamm999
+Shazamm999 does not show
+*** SUMMARY ***
+Total pot $348.75 | Rake $1.25
+Seat 2: Pr.Lupine (big blind) folded on the River
+Seat 5: Shazamm999 (small blind) did not showed and won $348.75
+
+
+Hand #1875825191 - Holdem(No Limit) - $25/$50 - 2023/09/27 21:16:04 UTC
+Gulf Breeze 6-max Seat #5 is the button
+Seat 2: Pr.Lupine ($1000)
+Seat 3: RealEnough ($2000)
+Seat 5: Shazamm999 ($5000)
+Seat 6: iBetMyWifeGLGG ($5000)
+Pr.Lupine posts the small blind $25
+RealEnough posts the big blind $50
+*** HOLE CARDS *** 
+Shazamm999 folds
+Pr.Lupine raises $100 to $125
+RealEnough raises $525 to $575
+Pr.Lupine raises $875 to $1000 and is all-in
+RealEnough calls $425
+*** RUN IT TWICE ***
+*** FLOP 1 *** [2d 6c 5h]
+Main pot 1 $999.12 | Rake $0.88
+*** TURN 1 *** [2d 6c 5h] [Th]
+Main pot 1 $999.12 | Rake $0.88
+*** RIVER 1 *** [2d 6c 5h Th] [7d]
+Main pot 1 $999.12 | Rake $0.88
+*** SHOW DOWN 1 ***
+Main pot 1 $999.12 | Rake $0.88
+Pr.Lupine shows [Qc Qh] (a combo of some cards [Qh Qc Th 7d 6c])
+RealEnough shows [9h Ah] (a combo of some cards [Ah Th 9h 7d 6c])
+Pr.Lupine collected $999.13 from main pot 1
+*** FLOP 2 *** [6d Ad 7h]
+Main pot 2 $999.13 | Rake $0.87
+*** TURN 2 *** [6d Ad 7h] [3s]
+Main pot 2 $999.13 | Rake $0.87
+*** RIVER 2 *** [6d Ad 7h 3s] [4s]
+Main pot 2 $999.13 | Rake $0.87
+*** SHOW DOWN 2 ***
+Main pot 2 $999.13 | Rake $0.87
+Pr.Lupine shows [Qc Qh] (a combo of some cards [Qh Qc Ad 7h 6d])
+RealEnough shows [9h Ah] (a combo of some cards [Ah Ad 9h 7h 6d])
+RealEnough collected $999.12 from main pot 2
+*** SUMMARY ***
+Total pot $1998.25 | Rake $1.75
+Board 1 [2d 6c 5h Th 7d]
+Seat 2: Pr.Lupine (small blind) showed [Qc Qh] and won $999.13 with OnePair [Qh Qc Th 7d 6c]
+Seat 3: RealEnough (big blind) showed [9h Ah] and lost with a
+Seat 5: Shazamm999 (button) folded on the Pre-Flop and did not bet
+Board 2 [6d Ad 7h 3s 4s]
+Seat 2: Pr.Lupine (small blind) showed [Qc Qh] and lost with a
+Seat 3: RealEnough (big blind) showed [9h Ah] and won $999.12 with OnePair [Ah Ad 9h 7h 6d]
+Seat 5: Shazamm999 (button) folded on the Pre-Flop and did not bet
+
+
+Hand #1875822897 - Holdem(No Limit) - $25/$50 - 2023/09/27 21:16:26 UTC
+Grand 6-max Seat #5 is the button
+Seat 1: Sabazius ($975)
+Seat 5: RealEnough ($2025)
+Seat 6: Pr.Lupine ($5000)
+RealEnough posts the small blind $25
+Sabazius posts the big blind $50
+*** HOLE CARDS *** 
+RealEnough calls $25
+Sabazius checks
+*** FLOP *** [4h 6s 9h]
+Main pot $98.75 | Rake $1.25
+Sabazius checks
+RealEnough bets $75.05
+Sabazius calls $75.05
+*** TURN *** [4h 6s 9h] [2c]
+Main pot $248.85 | Rake $1.25
+Sabazius checks
+RealEnough bets $248.85
+Sabazius calls $248.85
+*** RIVER *** [4h 6s 9h 2c] [As]
+Main pot $746.55 | Rake $1.25
+Sabazius checks
+RealEnough bets $1119.82
+Sabazius folds
+Uncalled bet ($1119.82) returned to RealEnough
+RealEnough does not show
+*** SUMMARY ***
+Total pot $746.55 | Rake $1.25
+Seat 1: Sabazius (big blind) folded on the River
+Seat 5: RealEnough (small blind) did not showed and won $746.55
+
+
+Hand #1875828261 - Holdem(No Limit) - $25/$50 - 2023/09/27 21:18:28 UTC
+Gulf Breeze 6-max Seat #2 is the button
+Seat 1: nutsforme100 ($5000)
+Seat 2: Pr.Lupine ($5000)
+Seat 3: RealEnough ($2000)
+Seat 4: mlchelangelo ($1000)
+Seat 5: Shazamm999 ($2794.50)
+Seat 6: iBetMyWifeGLGG ($5000)
+RealEnough posts the small blind $25
+mlchelangelo posts the big blind $50
+*** HOLE CARDS *** 
+Shazamm999 raises $143.75 to $143.75
+Pr.Lupine folds
+RealEnough folds
+mlchelangelo folds
+Uncalled bet ($93.75) returned to Shazamm999
+Shazamm999 does not show
+*** SUMMARY ***
+Total pot $125
+Seat 2: Pr.Lupine (button) folded on the Pre-Flop and did not bet
+Seat 3: RealEnough (small blind) folded on the Pre-Flop
+Seat 4: mlchelangelo (big blind) folded on the Pre-Flop
+Seat 5: Shazamm999 did not showed and won $125
+
+
+Hand #1875828738 - Holdem(No Limit) - $25/$50 - 2023/09/27 21:18:40 UTC
+Gulf Breeze 6-max Seat #3 is the button
+Seat 1: nutsforme100 ($5000)
+Seat 2: Pr.Lupine ($5000)
+Seat 3: RealEnough ($5000)
+Seat 4: mlchelangelo ($2000)
+Seat 5: Shazamm999 ($2869.50)
+Seat 6: iBetMyWifeGLGG ($5000)
+mlchelangelo posts the small blind $25
+Shazamm999 posts the big blind $50
+*** HOLE CARDS *** 
+Pr.Lupine folds
+RealEnough folds
+mlchelangelo folds
+*** SUMMARY ***
+Total pot $75
+Seat 2: Pr.Lupine folded on the Pre-Flop and did not bet
+Seat 3: RealEnough (button) folded on the Pre-Flop and did not bet
+Seat 4: mlchelangelo (small blind) folded on the Pre-Flop
+Seat 5: Shazamm999 (big blind) did not showed and won $75
+
+
+Hand #1875828976 - Holdem(No Limit) - $25/$50 - 2023/09/27 21:19:20 UTC
+Gulf Breeze 6-max Seat #4 is the button
+Seat 1: nutsforme100 ($2000)
+Seat 2: Pr.Lupine ($5000)
+Seat 3: RealEnough ($2000)
+Seat 4: mlchelangelo ($5000)
+Seat 5: Shazamm999 ($2894.50)
+Seat 6: iBetMyWifeGLGG ($5000)
+Shazamm999 posts the small blind $25
+nutsforme100 posts the big blind $50
+*** HOLE CARDS *** 
+Pr.Lupine folds
+RealEnough raises $100 to $100
+mlchelangelo folds
+Shazamm999 calls $75
+nutsforme100 raises $350 to $400
+RealEnough folds
+Shazamm999 folds
+Uncalled bet ($300) returned to nutsforme100
+nutsforme100 does not show
+*** SUMMARY ***
+Total pot $300
+Seat 1: nutsforme100 (big blind) did not showed and won $300
+Seat 2: Pr.Lupine folded on the Pre-Flop and did not bet
+Seat 3: RealEnough folded on the Pre-Flop and did not bet
+Seat 4: mlchelangelo (button) folded on the Pre-Flop and did not bet
+Seat 5: Shazamm999 (small blind) folded on the Pre-Flop
+
+
+Hand #1875829821 - Holdem(No Limit) - $25/$50 - 2023/09/27 21:19:36 UTC
+Gulf Breeze 6-max Seat #5 is the button
+Seat 1: nutsforme100 ($2200)
+Seat 2: Pr.Lupine ($1048.25)
+Seat 3: RealEnough ($5000)
+Seat 4: mlchelangelo ($5000)
+Seat 5: Shazamm999 ($5000)
+Seat 6: iBetMyWifeGLGG ($5000)
+nutsforme100 posts the small blind $25
+Pr.Lupine posts the big blind $50
+*** HOLE CARDS *** 
+RealEnough folds
+mlchelangelo folds
+Shazamm999 folds
+nutsforme100 folds
+*** SUMMARY ***
+Total pot $75
+Seat 1: nutsforme100 (small blind) folded on the Pre-Flop
+Seat 2: Pr.Lupine (big blind) did not showed and won $75
+Seat 3: RealEnough folded on the Pre-Flop and did not bet
+Seat 4: mlchelangelo folded on the Pre-Flop and did not bet
+Seat 5: Shazamm999 (button) folded on the Pre-Flop and did not bet
+
+
+Hand #1875830152 - Holdem(No Limit) - $25/$50 - 2023/09/27 21:20:58 UTC
+Gulf Breeze 6-max Seat #1 is the button
+Seat 1: nutsforme100 ($5000)
+Seat 2: Pr.Lupine ($1073.25)
+Seat 3: RealEnough ($2000)
+Seat 4: mlchelangelo ($5000)
+Seat 5: Shazamm999 ($2794.50)
+Seat 6: iBetMyWifeGLGG ($5000)
+Pr.Lupine posts the small blind $25
+RealEnough posts the big blind $50
+*** HOLE CARDS *** 
+mlchelangelo folds
+Shazamm999 calls $50
+nutsforme100 folds
+Pr.Lupine calls $25
+RealEnough checks
+*** FLOP *** [7h Ah Kc]
+Main pot $147 | Rake $3
+Pr.Lupine checks
+RealEnough checks
+Shazamm999 checks
+*** TURN *** [7h Ah Kc] [2d]
+Main pot $147 | Rake $3
+Pr.Lupine checks
+RealEnough checks
+Shazamm999 checks
+*** RIVER *** [7h Ah Kc 2d] [As]
+Main pot $147 | Rake $3
+Pr.Lupine checks
+RealEnough bets $111.72
+Shazamm999 raises $391.80 to $391.80
+Pr.Lupine folds
+RealEnough folds
+Uncalled bet ($280.08) returned to Shazamm999
+Shazamm999 does not show
+*** SUMMARY ***
+Total pot $370.44 | Rake $3
+Seat 1: nutsforme100 (button) folded on the Pre-Flop and did not bet
+Seat 2: Pr.Lupine (small blind) folded on the River
+Seat 3: RealEnough (big blind) folded on the River
+Seat 4: mlchelangelo folded on the Pre-Flop and did not bet
+Seat 5: Shazamm999 did not showed and won $370.44
+
+
+Hand #1875831913 - Holdem(No Limit) - $25/$50 - 2023/09/27 21:21:17 UTC
+Gulf Breeze 6-max Seat #2 is the button
+Seat 1: nutsforme100 ($5000)
+Seat 2: Pr.Lupine ($5000)
+Seat 3: RealEnough ($2000)
+Seat 4: mlchelangelo ($1975)
+Seat 5: Shazamm999 ($5000)
+Seat 6: iBetMyWifeGLGG ($5000)
+RealEnough posts the small blind $25
+mlchelangelo posts the big blind $50
+*** HOLE CARDS *** 
+Shazamm999 folds
+nutsforme100 folds
+Pr.Lupine folds
+RealEnough folds
+*** SUMMARY ***
+Total pot $75
+Seat 1: nutsforme100 folded on the Pre-Flop and did not bet
+Seat 2: Pr.Lupine (button) folded on the Pre-Flop and did not bet
+Seat 3: RealEnough (small blind) folded on the Pre-Flop
+Seat 4: mlchelangelo (big blind) did not showed and won $75
+Seat 5: Shazamm999 folded on the Pre-Flop and did not bet
+
+
+Hand #1875832339 - Holdem(No Limit) - $25/$50 - 2023/09/27 21:21:52 UTC
+Gulf Breeze 6-max Seat #3 is the button
+Seat 1: nutsforme100 ($2175)
+Seat 2: Pr.Lupine ($1023.25)
+Seat 3: RealEnough ($5000)
+Seat 4: mlchelangelo ($2000)
+Seat 5: JohnMcShen ($5000)
+Seat 6: iBetMyWifeGLGG ($5000)
+mlchelangelo posts the small blind $25
+nutsforme100 posts the big blind $50
+*** HOLE CARDS *** 
+Pr.Lupine raises $100 to $100
+RealEnough folds
+mlchelangelo raises $275 to $300
+nutsforme100 folds
+Pr.Lupine folds
+Uncalled bet ($200) returned to mlchelangelo
+mlchelangelo does not show
+*** SUMMARY ***
+Total pot $250
+Seat 1: nutsforme100 (big blind) folded on the Pre-Flop
+Seat 2: Pr.Lupine folded on the Pre-Flop and did not bet
+Seat 3: RealEnough (button) folded on the Pre-Flop and did not bet
+Seat 4: mlchelangelo (small blind) did not showed and won $250
+
+
+Hand #1875833125 - Holdem(No Limit) - $25/$50 - 2023/09/27 21:22:40 UTC
+Bison 6-max Seat #4 is the button
+Seat 1: mlchelangelo ($5000)
+Seat 2: lol voidaments ($5000)
+Seat 4: CWestmoreland ($6030.94)
+Seat 5: SeaLlama ($6275.25)
+Seat 6: Sabazius ($5000)
+CWestmoreland posts the small blind $25
+SeaLlama posts the big blind $50
+*** HOLE CARDS *** 
+CWestmoreland raises $100 to $125
+SeaLlama calls $75
+*** FLOP *** [5h Qs 7s]
+Main pot $248.75 | Rake $1.25
+SeaLlama checks
+CWestmoreland bets $74.62
+SeaLlama calls $74.62
+*** TURN *** [5h Qs 7s] [8c]
+Main pot $397.99 | Rake $1.25
+SeaLlama checks
+CWestmoreland checks
+*** RIVER *** [5h Qs 7s 8c] [5d]
+Main pot $397.99 | Rake $1.25
+SeaLlama bets $596.50
+CWestmoreland calls $596.50
+*** SUMMARY ***
+Total pot $1590.99 | Rake $1.25
+Seat 4: CWestmoreland (small blind) did not showed and won $1590.99
+Seat 5: SeaLlama (big blind) did not showed and lost
+
+
+Hand #1875833082 - Holdem(No Limit) - $25/$50 - 2023/09/27 21:22:42 UTC
+Gulf Breeze 6-max Seat #4 is the button
+Seat 1: nutsforme100 ($2125)
+Seat 2: Pr.Lupine ($5000)
+Seat 3: RealEnough ($2000)
+Seat 4: mlchelangelo ($5000)
+Seat 5: JohnMcShen ($5000)
+Seat 6: iBetMyWifeGLGG ($5000)
+nutsforme100 posts the small blind $25
+RealEnough posts the big blind $50
+*** HOLE CARDS *** 
+mlchelangelo folds
+nutsforme100 raises $100 to $125
+RealEnough calls $75
+*** FLOP *** [3s 2s 7s]
+Main pot $248.25 | Rake $1.75
+nutsforme100 checks
+RealEnough bets $124.12
+nutsforme100 folds
+Uncalled bet ($124.12) returned to RealEnough
+RealEnough does not show
+*** SHOW DOWN ***
+Main pot $248.25 | Rake $1.75
+RealEnough shows [- 9c] (a combo of some cards [9c 8h 7s 3s 2s])
+RealEnough collected $248.25 from main pot
+*** SUMMARY ***
+Total pot $248.25 | Rake $1.75
+Seat 1: nutsforme100 (small blind) folded on the Flop
+Seat 3: RealEnough (big blind) showed [- 9c] and won $248.25 with a
+Seat 4: mlchelangelo (button) folded on the Pre-Flop and did not bet
+
+
+Hand #1875836115 - Holdem(No Limit) - $25/$50 - 2023/09/27 21:24:27 UTC
+Gulf Breeze 6-max Seat #3 is the button
+Seat 1: nutsforme100 ($5000)
+Seat 2: Pr.Lupine ($1000)
+Seat 3: RealEnough ($2123.25)
+Seat 4: mlchelangelo ($5000)
+Seat 6: iBetMyWifeGLGG ($5000)
+RealEnough posts the small blind $25
+Pr.Lupine posts the big blind $50
+*** HOLE CARDS *** 
+RealEnough raises $75 to $100
+Pr.Lupine folds
+Uncalled bet ($50) returned to RealEnough
+RealEnough does not show
+*** SUMMARY ***
+Total pot $100
+Seat 2: Pr.Lupine (big blind) folded on the Pre-Flop
+Seat 3: RealEnough (small blind) did not showed and won $100
+
+
+Hand #1875834166 - Holdem(No Limit) - $25/$50 - 2023/09/27 21:24:38 UTC
+Bison 6-max Seat #4 is the button
+Seat 1: mlchelangelo ($5000)
+Seat 2: lol voidaments ($5000)
+Seat 3: Pr.Lupine ($5000)
+Seat 4: CWestmoreland ($6825.81)
+Seat 5: SeaLlama ($5479.13)
+Seat 6: Sabazius ($2000)
+SeaLlama posts the small blind $25
+Sabazius posts the big blind $50
+*** HOLE CARDS *** 
+CWestmoreland raises $125 to $125
+SeaLlama folds
+Sabazius calls $75
+*** FLOP *** [3d 2d Th]
+Main pot $273.25 | Rake $1.75
+Sabazius checks
+CWestmoreland bets $81.97
+Sabazius calls $81.97
+*** TURN *** [3d 2d Th] [Kd]
+Main pot $437.19 | Rake $1.75
+Sabazius checks
+CWestmoreland bets $277.89
+Sabazius calls $277.89
+*** RIVER *** [3d 2d Th Kd] [Tc]
+Main pot $992.97 | Rake $1.75
+Sabazius checks
+CWestmoreland bets $1539.45
+Sabazius calls $1515.14 and is all-in
+Uncalled bet ($24.31) returned to CWestmoreland
+CWestmoreland does not show
+*** SHOW DOWN ***
+Main pot $992.97 | Rake $1.75
+CWestmoreland shows [Jd 8h] (a combo of some cards [Th Tc Kd Jd 8h])
+Sabazius shows [Kh 3h] (a combo of some cards [Kh Kd Th Tc 3h])
+Sabazius collected $4023.25 from main pot
+*** SUMMARY ***
+Total pot $4023.25 | Rake $1.75
+Seat 4: CWestmoreland (button) showed [Jd 8h] and lost
+Seat 5: SeaLlama (small blind) folded on the Pre-Flop
+Seat 6: Sabazius (big blind) showed [Kh 3h] and won $4023.25 with TwoPair [Kh Kd Th Tc 3h]
+
+
+Hand #1875836439 - Holdem(No Limit) - $25/$50 - 2023/09/27 21:25:33 UTC
+Gulf Breeze 6-max Seat #2 is the button
+Seat 2: Pr.Lupine ($1000)
+Seat 3: RealEnough ($2173.25)
+Pr.Lupine posts the small blind $25
+RealEnough posts the big blind $50
+*** HOLE CARDS *** 
+Pr.Lupine raises $75 to $100
+RealEnough calls $50
+*** FLOP *** [7s Kd 5c]
+Main pot $198.75 | Rake $1.25
+RealEnough checks
+Pr.Lupine checks
+*** TURN *** [7s Kd 5c] [Td]
+Main pot $198.75 | Rake $1.25
+RealEnough checks
+Pr.Lupine bets $150
+RealEnough raises $2059.50 to $2059.50
+Pr.Lupine calls $750 and is all-in
+Uncalled bet ($1159.50) returned to RealEnough
+RealEnough does not show
+*** RUN IT TWICE ***
+*** RIVER 1 *** [7s Kd 5c Td] [8h]
+Main pot 1 $999.37 | Rake $0.63
+*** SHOW DOWN 1 ***
+Main pot 1 $999.37 | Rake $0.63
+Pr.Lupine shows [Ts Th] (a combo of some cards [Ts Th Td Kd 8h])
+RealEnough shows [5d 7h] (a combo of some cards [7s 7h 5d 5c Kd])
+Pr.Lupine collected $999.38 from main pot 1
+*** RIVER 2 *** [7s Kd 5c Td] [Qh]
+Main pot 2 $999.38 | Rake $0.62
+*** SHOW DOWN 2 ***
+Main pot 2 $999.38 | Rake $0.62
+Pr.Lupine shows [Ts Th] (a combo of some cards [Ts Th Td Kd Qh])
+RealEnough shows [5d 7h] (a combo of some cards [7s 7h 5d 5c Kd])
+Pr.Lupine collected $999.37 from main pot 2
+*** SUMMARY ***
+Total pot $1998.75 | Rake $1.25
+Board 1 [7s Kd 5c Td 8h]
+Seat 2: Pr.Lupine (small blind) showed [Ts Th] and won $999.38 with ThreeOfAKind [Ts Th Td Kd 8h]
+Seat 3: RealEnough (big blind) showed [5d 7h] and lost with a
+Board 2 [7s Kd 5c Td Qh]
+Seat 2: Pr.Lupine (small blind) showed [Ts Th] and won $999.37 with ThreeOfAKind [Ts Th Td Kd Qh]
+Seat 3: RealEnough (big blind) showed [5d 7h] and lost with a
+
+
+Hand #1875836675 - Holdem(No Limit) - $25/$50 - 2023/09/27 21:25:37 UTC
+Bison 6-max Seat #5 is the button
+Seat 1: mlchelangelo ($2000)
+Seat 2: lol voidaments ($5000)
+Seat 3: Pr.Lupine ($5000)
+Seat 4: CWestmoreland ($5000)
+Seat 5: SeaLlama ($5000)
+Seat 6: Sabazius ($4023.25)
+Sabazius posts the small blind $25
+mlchelangelo posts the big blind $50
+*** HOLE CARDS *** 
+CWestmoreland folds
+SeaLlama folds
+Sabazius raises $125 to $150
+mlchelangelo calls $100
+*** FLOP *** [8c 5h 3d]
+Main pot $297.75 | Rake $2.25
+Sabazius checks
+mlchelangelo checks
+*** TURN *** [8c 5h 3d] [2s]
+Main pot $297.75 | Rake $2.25
+Sabazius bets $400
+mlchelangelo folds
+Uncalled bet ($400) returned to Sabazius
+Sabazius does not show
+*** SUMMARY ***
+Total pot $297.75 | Rake $2.25
+Seat 1: mlchelangelo (big blind) folded on the Turn
+Seat 4: CWestmoreland folded on the Pre-Flop and did not bet
+Seat 5: SeaLlama (button) folded on the Pre-Flop and did not bet
+Seat 6: Sabazius (small blind) did not showed and won $297.75
+
+
+Hand #1875837891 - Holdem(No Limit) - $25/$50 - 2023/09/27 21:25:58 UTC
+Bison 6-max Seat #6 is the button
+Seat 1: mlchelangelo ($1850)
+Seat 2: lol voidaments ($5000)
+Seat 3: Pr.Lupine ($5000)
+Seat 4: CWestmoreland ($5000)
+Seat 5: SeaLlama ($5454.13)
+Seat 6: Sabazius ($5000)
+mlchelangelo posts the small blind $25
+lol voidaments posts the big blind $50
+*** HOLE CARDS *** 
+CWestmoreland folds
+SeaLlama raises $105 to $105
+Sabazius folds
+mlchelangelo folds
+lol voidaments folds
+Uncalled bet ($55) returned to SeaLlama
+SeaLlama does not show
+*** SUMMARY ***
+Total pot $125
+Seat 1: mlchelangelo (small blind) folded on the Pre-Flop
+Seat 2: lol voidaments (big blind) folded on the Pre-Flop
+Seat 4: CWestmoreland folded on the Pre-Flop and did not bet
+Seat 5: SeaLlama did not showed and won $125
+Seat 6: Sabazius (button) folded on the Pre-Flop and did not bet
+
+
+Hand #1875838376 - Holdem(No Limit) - $25/$50 - 2023/09/27 21:26:19 UTC
+Bison 6-max Seat #1 is the button
+Seat 1: mlchelangelo ($5000)
+Seat 2: lol voidaments ($5000)
+Seat 3: Pr.Lupine ($2353.47)
+Seat 4: CWestmoreland ($5000)
+Seat 5: SeaLlama ($5000)
+Seat 6: Sabazius ($5000)
+lol voidaments posts the small blind $25
+Pr.Lupine posts the big blind $50
+*** HOLE CARDS *** 
+CWestmoreland raises $100 to $100
+SeaLlama folds
+Sabazius folds
+mlchelangelo folds
+lol voidaments folds
+Pr.Lupine folds
+Uncalled bet ($50) returned to CWestmoreland
+CWestmoreland does not show
+*** SUMMARY ***
+Total pot $125
+Seat 1: mlchelangelo (button) folded on the Pre-Flop and did not bet
+Seat 2: lol voidaments (small blind) folded on the Pre-Flop
+Seat 3: Pr.Lupine (big blind) folded on the Pre-Flop
+Seat 4: CWestmoreland did not showed and won $125
+Seat 5: SeaLlama folded on the Pre-Flop and did not bet
+Seat 6: Sabazius folded on the Pre-Flop and did not bet
+
+
+Hand #1875838822 - Holdem(No Limit) - $25/$50 - 2023/09/27 21:27:49 UTC
+Bison 6-max Seat #2 is the button
+Seat 1: mlchelangelo ($5000)
+Seat 2: lol voidaments ($5000)
+Seat 3: Pr.Lupine ($2303.47)
+Seat 4: CWestmoreland ($5075)
+Seat 5: SeaLlama ($5529.13)
+Seat 6: Sabazius ($4171)
+Pr.Lupine posts the small blind $25
+CWestmoreland posts the big blind $50
+*** HOLE CARDS *** 
+SeaLlama raises $100 to $100
+Sabazius raises $325 to $325
+mlchelangelo folds
+lol voidaments folds
+Pr.Lupine folds
+CWestmoreland folds
+SeaLlama calls $225
+*** FLOP *** [5s 9s 6c]
+Main pot $722 | Rake $3
+SeaLlama checks
+Sabazius checks
+*** TURN *** [5s 9s 6c] [9h]
+Main pot $722 | Rake $3
+SeaLlama checks
+Sabazius checks
+*** RIVER *** [5s 9s 6c 9h] [7d]
+Main pot $722 | Rake $3
+SeaLlama checks
+Sabazius checks
+*** SUMMARY ***
+Total pot $722 | Rake $3
+Seat 1: mlchelangelo folded on the Pre-Flop and did not bet
+Seat 2: lol voidaments (button) folded on the Pre-Flop and did not bet
+Seat 3: Pr.Lupine (small blind) folded on the Pre-Flop
+Seat 4: CWestmoreland (big blind) folded on the Pre-Flop
+Seat 5: SeaLlama did not showed and lost
+Seat 6: Sabazius did not showed and won $722
+
+
+Hand #1875840786 - Holdem(No Limit) - $25/$50 - 2023/09/27 21:28:19 UTC
+Bison 6-max Seat #3 is the button
+Seat 1: mlchelangelo ($5000)
+Seat 2: lol voidaments ($5000)
+Seat 3: Pr.Lupine ($5000)
+Seat 4: CWestmoreland ($5025)
+Seat 5: SeaLlama ($5204.13)
+Seat 6: iBetMyWifeGLGG ($5000)
+CWestmoreland posts the small blind $25
+SeaLlama posts the big blind $50
+*** HOLE CARDS *** 
+iBetMyWifeGLGG folds
+mlchelangelo folds
+lol voidaments folds
+Pr.Lupine folds
+CWestmoreland raises $125 to $150
+SeaLlama folds
+Uncalled bet ($100) returned to CWestmoreland
+CWestmoreland does not show
+*** SUMMARY ***
+Total pot $100
+Seat 1: mlchelangelo folded on the Pre-Flop and did not bet
+Seat 2: lol voidaments folded on the Pre-Flop and did not bet
+Seat 3: Pr.Lupine (button) folded on the Pre-Flop and did not bet
+Seat 4: CWestmoreland (small blind) did not showed and won $100
+Seat 5: SeaLlama (big blind) folded on the Pre-Flop
+Seat 6: iBetMyWifeGLGG folded on the Pre-Flop and did not bet
+
+
+Hand #1875841373 - Holdem(No Limit) - $25/$50 - 2023/09/27 21:28:44 UTC
+Bison 6-max Seat #4 is the button
+Seat 1: mlchelangelo ($5000)
+Seat 2: lol voidaments ($5000)
+Seat 3: Pr.Lupine ($5000)
+Seat 4: CWestmoreland ($5075)
+Seat 5: SeaLlama ($5154.13)
+Seat 6: iBetMyWifeGLGG ($5000)
+SeaLlama posts the small blind $25
+mlchelangelo posts the big blind $50
+*** HOLE CARDS *** 
+lol voidaments folds
+Pr.Lupine folds
+CWestmoreland raises $125 to $125
+SeaLlama folds
+mlchelangelo folds
+Uncalled bet ($75) returned to CWestmoreland
+CWestmoreland does not show
+*** SUMMARY ***
+Total pot $125
+Seat 1: mlchelangelo (big blind) folded on the Pre-Flop
+Seat 2: lol voidaments folded on the Pre-Flop and did not bet
+Seat 3: Pr.Lupine folded on the Pre-Flop and did not bet
+Seat 4: CWestmoreland (button) did not showed and won $125
+Seat 5: SeaLlama (small blind) folded on the Pre-Flop
+
+
+Hand #1875841868 - Holdem(No Limit) - $25/$50 - 2023/09/27 21:29:13 UTC
+Bison 6-max Seat #5 is the button
+Seat 1: mlchelangelo ($4950)
+Seat 2: lol voidaments ($5000)
+Seat 3: Pr.Lupine ($2278.47)
+Seat 4: CWestmoreland ($5000)
+Seat 5: SeaLlama ($5129.13)
+Seat 6: iBetMyWifeGLGG ($5000)
+mlchelangelo posts the small blind $25
+Pr.Lupine posts the big blind $50
+*** HOLE CARDS *** 
+CWestmoreland folds
+SeaLlama raises $125 to $125
+mlchelangelo raises $525 to $550
+Pr.Lupine folds
+SeaLlama folds
+Uncalled bet ($425) returned to mlchelangelo
+mlchelangelo does not show
+*** SUMMARY ***
+Total pot $300
+Seat 1: mlchelangelo (small blind) did not showed and won $300
+Seat 3: Pr.Lupine (big blind) folded on the Pre-Flop
+Seat 4: CWestmoreland folded on the Pre-Flop and did not bet
+Seat 5: SeaLlama (button) folded on the Pre-Flop and did not bet
+
+
+Hand #1875844192 - Holdem(No Limit) - $25/$50 - 2023/09/27 21:31:45 UTC
+Bison 6-max Seat #1 is the button
+Seat 1: mlchelangelo ($4875)
+Seat 3: Pr.Lupine ($3726.22)
+Seat 4: CWestmoreland ($5000)
+Seat 5: SeaLlama ($5000)
+Pr.Lupine posts the small blind $25
+CWestmoreland posts the big blind $50
+*** HOLE CARDS *** 
+SeaLlama folds
+mlchelangelo raises $100 to $100
+Pr.Lupine folds
+CWestmoreland calls $50
+*** FLOP *** [Kh Ah Qh]
+Main pot $222.75 | Rake $2.25
+CWestmoreland checks
+mlchelangelo bets $56.25
+CWestmoreland calls $56.25
+*** TURN *** [Kh Ah Qh] [Kc]
+Main pot $335.25 | Rake $2.25
+CWestmoreland checks
+mlchelangelo checks
+*** RIVER *** [Kh Ah Qh Kc] [5h]
+Main pot $335.25 | Rake $2.25
+CWestmoreland checks
+mlchelangelo checks
+*** SUMMARY ***
+Total pot $335.25 | Rake $2.25
+Seat 1: mlchelangelo (button) did not showed and won $167.62
+Seat 3: Pr.Lupine (small blind) folded on the Pre-Flop
+Seat 4: CWestmoreland (big blind) did not showed and won $167.63
+Seat 5: SeaLlama folded on the Pre-Flop and did not bet
+
+
+Hand #1875845668 - Holdem(No Limit) - $25/$50 - 2023/09/27 21:34:04 UTC
+Bison 6-max Seat #3 is the button
+Seat 1: mlchelangelo ($5000)
+Seat 3: Pr.Lupine ($5000)
+Seat 4: CWestmoreland ($5011.38)
+Seat 5: SeaLlama ($5000)
+CWestmoreland posts the small blind $25
+SeaLlama posts the big blind $50
+*** HOLE CARDS *** 
+mlchelangelo folds
+Pr.Lupine folds
+CWestmoreland raises $125 to $150
+SeaLlama raises $400 to $450
+CWestmoreland raises $900 to $1050
+SeaLlama calls $600
+*** FLOP *** [Jd 9h Kc]
+Main pot $2097.75 | Rake $2.25
+CWestmoreland bets $349.43
+SeaLlama calls $349.43
+*** TURN *** [Jd 9h Kc] [2s]
+Main pot $2796.61 | Rake $2.25
+CWestmoreland bets $524.15
+SeaLlama calls $524.15
+*** RIVER *** [Jd 9h Kc 2s] [8d]
+Main pot $3844.91 | Rake $2.25
+CWestmoreland bets $961.22
+SeaLlama calls $961.22
+*** SUMMARY ***
+Total pot $5767.35 | Rake $2.25
+Seat 1: mlchelangelo folded on the Pre-Flop and did not bet
+Seat 3: Pr.Lupine (button) folded on the Pre-Flop and did not bet
+Seat 4: CWestmoreland (small blind) did not showed and won $5767.35
+Seat 5: SeaLlama (big blind) did not showed and lost
+
+
+Hand #1875848568 - Holdem(No Limit) - $25/$50 - 2023/09/27 21:34:23 UTC
+Bison 6-max Seat #4 is the button
+Seat 1: mlchelangelo ($5000)
+Seat 3: Pr.Lupine ($3701.22)
+Seat 4: CWestmoreland ($5000)
+Seat 5: SeaLlama ($5000)
+SeaLlama posts the small blind $25
+Pr.Lupine posts the big blind $50
+*** HOLE CARDS *** 
+CWestmoreland folds
+SeaLlama folds
+*** SUMMARY ***
+Total pot $75
+Seat 3: Pr.Lupine (big blind) did not showed and won $75
+Seat 4: CWestmoreland (button) folded on the Pre-Flop and did not bet
+Seat 5: SeaLlama (small blind) folded on the Pre-Flop
+
+
+Hand #1875848927 - Holdem(No Limit) - $25/$50 - 2023/09/27 21:35:46 UTC
+Bison 6-max Seat #5 is the button
+Seat 1: mlchelangelo ($5000)
+Seat 3: Pr.Lupine ($3726.22)
+Seat 4: CWestmoreland ($7893.93)
+Seat 5: SeaLlama ($5000)
+Pr.Lupine posts the small blind $25
+CWestmoreland posts the big blind $50
+*** HOLE CARDS *** 
+SeaLlama raises $125 to $125
+Pr.Lupine folds
+CWestmoreland calls $75
+*** FLOP *** [9s 3c 5d]
+Main pot $273.25 | Rake $1.75
+CWestmoreland checks
+SeaLlama checks
+*** TURN *** [9s 3c 5d] [As]
+Main pot $273.25 | Rake $1.75
+CWestmoreland checks
+SeaLlama bets $180
+CWestmoreland raises $1129.87 to $1129.87
+SeaLlama calls $949.87
+*** RIVER *** [9s 3c 5d As] [6s]
+Main pot $2532.99 | Rake $1.75
+CWestmoreland bets $1266.49
+SeaLlama calls $1266.49
+*** SUMMARY ***
+Total pot $5065.97 | Rake $1.75
+Seat 3: Pr.Lupine (small blind) folded on the Pre-Flop
+Seat 4: CWestmoreland (big blind) did not showed and lost
+Seat 5: SeaLlama (button) did not showed and won $5065.97
+
+
+Hand #1875850700 - Holdem(No Limit) - $25/$50 - 2023/09/27 21:36:13 UTC
+Bison 6-max Seat #3 is the button
+Seat 3: Pr.Lupine ($3701.22)
+Seat 4: CWestmoreland ($5372.57)
+Seat 5: SeaLlama ($7544.61)
+CWestmoreland posts the small blind $25
+SeaLlama posts the big blind $50
+*** HOLE CARDS *** 
+Pr.Lupine raises $125 to $125
+CWestmoreland folds
+SeaLlama folds
+Uncalled bet ($75) returned to Pr.Lupine
+Pr.Lupine does not show
+*** SUMMARY ***
+Total pot $125
+Seat 3: Pr.Lupine (button) did not showed and won $125
+Seat 4: CWestmoreland (small blind) folded on the Pre-Flop
+Seat 5: SeaLlama (big blind) folded on the Pre-Flop
+
+
+Hand #1875851212 - Holdem(No Limit) - $25/$50 - 2023/09/27 21:36:23 UTC
+Bison 6-max Seat #4 is the button
+Seat 3: Pr.Lupine ($3776.22)
+Seat 4: CWestmoreland ($5000)
+Seat 5: SeaLlama ($7494.61)
+SeaLlama posts the small blind $25
+Pr.Lupine posts the big blind $50
+*** HOLE CARDS *** 
+CWestmoreland folds
+SeaLlama folds
+*** SUMMARY ***
+Total pot $75
+Seat 3: Pr.Lupine (big blind) did not showed and won $75
+Seat 4: CWestmoreland (button) folded on the Pre-Flop and did not bet
+Seat 5: SeaLlama (small blind) folded on the Pre-Flop
+
+
+Hand #1875851414 - Holdem(No Limit) - $25/$50 - 2023/09/27 21:36:44 UTC
+Bison 6-max Seat #5 is the button
+Seat 3: Pr.Lupine ($3801.22)
+Seat 4: CWestmoreland ($5347.57)
+Seat 5: SeaLlama ($5000)
+Pr.Lupine posts the small blind $25
+CWestmoreland posts the big blind $50
+*** HOLE CARDS *** 
+SeaLlama folds
+Pr.Lupine folds
+*** SUMMARY ***
+Total pot $75
+Seat 3: Pr.Lupine (small blind) folded on the Pre-Flop
+Seat 4: CWestmoreland (big blind) did not showed and won $75
+Seat 5: SeaLlama (button) folded on the Pre-Flop and did not bet
+
+
+Hand #1875851838 - Holdem(No Limit) - $25/$50 - 2023/09/27 21:37:00 UTC
+Bison 6-max Seat #3 is the button
+Seat 3: Pr.Lupine ($3776.22)
+Seat 4: CWestmoreland ($5372.57)
+Seat 5: SeaLlama ($7469.61)
+CWestmoreland posts the small blind $25
+SeaLlama posts the big blind $50
+*** HOLE CARDS *** 
+Pr.Lupine raises $125 to $125
+CWestmoreland folds
+SeaLlama folds
+Uncalled bet ($75) returned to Pr.Lupine
+Pr.Lupine does not show
+*** SUMMARY ***
+Total pot $125
+Seat 3: Pr.Lupine (button) did not showed and won $125
+Seat 4: CWestmoreland (small blind) folded on the Pre-Flop
+Seat 5: SeaLlama (big blind) folded on the Pre-Flop
+
+
+Hand #1875852168 - Holdem(No Limit) - $25/$50 - 2023/09/27 21:37:15 UTC
+Bison 6-max Seat #4 is the button
+Seat 3: Pr.Lupine ($3851.22)
+Seat 4: CWestmoreland ($5347.57)
+Seat 5: SeaLlama ($7419.61)
+SeaLlama posts the small blind $25
+Pr.Lupine posts the big blind $50
+*** HOLE CARDS *** 
+CWestmoreland raises $125 to $125
+SeaLlama folds
+Pr.Lupine folds
+Uncalled bet ($75) returned to CWestmoreland
+CWestmoreland does not show
+*** SUMMARY ***
+Total pot $125
+Seat 3: Pr.Lupine (big blind) folded on the Pre-Flop
+Seat 4: CWestmoreland (button) did not showed and won $125
+Seat 5: SeaLlama (small blind) folded on the Pre-Flop
+
+
+Hand #1875852511 - Holdem(No Limit) - $25/$50 - 2023/09/27 21:38:09 UTC
+Bison 6-max Seat #5 is the button
+Seat 3: Pr.Lupine ($3801.22)
+Seat 4: CWestmoreland ($5422.57)
+Seat 5: SeaLlama ($5000)
+Pr.Lupine posts the small blind $25
+CWestmoreland posts the big blind $50
+*** HOLE CARDS *** 
+SeaLlama folds
+Pr.Lupine raises $125 to $150
+CWestmoreland calls $100
+*** FLOP *** [Ac 6d Qc]
+Main pot $298.25 | Rake $1.75
+Pr.Lupine checks
+CWestmoreland checks
+*** TURN *** [Ac 6d Qc] [6h]
+Main pot $298.25 | Rake $1.75
+Pr.Lupine checks
+CWestmoreland bets $298.68
+Pr.Lupine folds
+Uncalled bet ($298.68) returned to CWestmoreland
+CWestmoreland does not show
+*** SUMMARY ***
+Total pot $298.25 | Rake $1.75
+Seat 3: Pr.Lupine (small blind) folded on the Turn
+Seat 4: CWestmoreland (big blind) did not showed and won $298.25
+Seat 5: SeaLlama (button) folded on the Pre-Flop and did not bet
+
+
+Hand #1875853636 - Holdem(No Limit) - $25/$50 - 2023/09/27 21:38:35 UTC
+Bison 6-max Seat #3 is the button
+Seat 3: Pr.Lupine ($3651.22)
+Seat 4: CWestmoreland ($5570.82)
+Seat 5: SeaLlama ($7394.61)
+CWestmoreland posts the small blind $25
+SeaLlama posts the big blind $50
+*** HOLE CARDS *** 
+Pr.Lupine raises $125 to $125
+CWestmoreland raises $525 to $550
+SeaLlama folds
+Pr.Lupine folds
+Uncalled bet ($425) returned to CWestmoreland
+CWestmoreland does not show
+*** SUMMARY ***
+Total pot $300
+Seat 3: Pr.Lupine (button) folded on the Pre-Flop and did not bet
+Seat 4: CWestmoreland (small blind) did not showed and won $300
+Seat 5: SeaLlama (big blind) folded on the Pre-Flop
+
+
+Hand #1875854144 - Holdem(No Limit) - $25/$50 - 2023/09/27 21:38:52 UTC
+Bison 6-max Seat #4 is the button
+Seat 3: Pr.Lupine ($3526.22)
+Seat 4: CWestmoreland ($5745.82)
+Seat 5: SeaLlama ($7344.61)
+SeaLlama posts the small blind $25
+Pr.Lupine posts the big blind $50
+*** HOLE CARDS *** 
+CWestmoreland raises $125 to $125
+SeaLlama folds
+Pr.Lupine folds
+Uncalled bet ($75) returned to CWestmoreland
+CWestmoreland does not show
+*** SUMMARY ***
+Total pot $125
+Seat 3: Pr.Lupine (big blind) folded on the Pre-Flop
+Seat 4: CWestmoreland (button) did not showed and won $125
+Seat 5: SeaLlama (small blind) folded on the Pre-Flop
+
+
+Hand #1875854504 - Holdem(No Limit) - $25/$50 - 2023/09/27 21:39:20 UTC
+Bison 6-max Seat #5 is the button
+Seat 3: Pr.Lupine ($3476.22)
+Seat 4: CWestmoreland ($5820.82)
+Seat 5: SeaLlama ($7319.61)
+Pr.Lupine posts the small blind $25
+CWestmoreland posts the big blind $50
+*** HOLE CARDS *** 
+SeaLlama raises $125 to $125
+Pr.Lupine raises $475 to $500
+CWestmoreland folds
+SeaLlama folds
+Uncalled bet ($375) returned to Pr.Lupine
+Pr.Lupine does not show
+*** SUMMARY ***
+Total pot $300
+Seat 3: Pr.Lupine (small blind) did not showed and won $300
+Seat 4: CWestmoreland (big blind) folded on the Pre-Flop
+Seat 5: SeaLlama (button) folded on the Pre-Flop and did not bet
+
+
+Hand #1875855101 - Holdem(No Limit) - $25/$50 - 2023/09/27 21:39:38 UTC
+Bison 6-max Seat #3 is the button
+Seat 3: Pr.Lupine ($3651.22)
+Seat 4: CWestmoreland ($5770.82)
+Seat 5: SeaLlama ($7194.61)
+CWestmoreland posts the small blind $25
+SeaLlama posts the big blind $50
+*** HOLE CARDS *** 
+Pr.Lupine raises $125 to $125
+CWestmoreland folds
+SeaLlama folds
+Uncalled bet ($75) returned to Pr.Lupine
+Pr.Lupine does not show
+*** SUMMARY ***
+Total pot $125
+Seat 3: Pr.Lupine (button) did not showed and won $125
+Seat 4: CWestmoreland (small blind) folded on the Pre-Flop
+Seat 5: SeaLlama (big blind) folded on the Pre-Flop
+
+
+Hand #1875855458 - Holdem(No Limit) - $25/$50 - 2023/09/27 21:40:12 UTC
+Bison 6-max Seat #4 is the button
+Seat 3: Pr.Lupine ($3726.22)
+Seat 4: CWestmoreland ($5745.82)
+Seat 5: SeaLlama ($7144.61)
+SeaLlama posts the small blind $25
+Pr.Lupine posts the big blind $50
+*** HOLE CARDS *** 
+CWestmoreland raises $125 to $125
+SeaLlama folds
+Pr.Lupine calls $75
+*** FLOP *** [5d Qc 8h]
+Main pot $273.25 | Rake $1.75
+Pr.Lupine checks
+CWestmoreland bets $204.93
+Pr.Lupine folds
+Uncalled bet ($204.93) returned to CWestmoreland
+CWestmoreland does not show
+*** SUMMARY ***
+Total pot $273.25 | Rake $1.75
+Seat 3: Pr.Lupine (big blind) folded on the Flop
+Seat 4: CWestmoreland (button) did not showed and won $273.25
+Seat 5: SeaLlama (small blind) folded on the Pre-Flop
+
+
+Hand #1875856125 - Holdem(No Limit) - $25/$50 - 2023/09/27 21:40:23 UTC
+Bison 6-max Seat #5 is the button
+Seat 3: Pr.Lupine ($3601.22)
+Seat 4: CWestmoreland ($5000)
+Seat 5: SeaLlama ($7119.61)
+Pr.Lupine posts the small blind $25
+SeaLlama posts the big blind $50
+*** HOLE CARDS *** 
+Pr.Lupine folds
+*** SUMMARY ***
+Total pot $75
+Seat 3: Pr.Lupine (small blind) folded on the Pre-Flop
+Seat 5: SeaLlama (big blind) did not showed and won $75
+
+
+Hand #1876256611 - Holdem(No Limit) - $25/$50 - 2023/09/28 03:36:56 UTC
+Bison 6-max Seat #5 is the button
+Seat 1: Shkipan ($2000)
+Seat 2: Burundos254 ($5000)
+Seat 3: IdoGoats ($5000)
+Seat 4: mlchelangelo ($2000)
+Seat 5: iWasOnly17 ($5000)
+Seat 6: HornyOldMan ($5000)
+HornyOldMan posts the small blind $25
+Shkipan posts the big blind $50
+*** HOLE CARDS *** 
+Burundos254 folds
+IdoGoats folds
+mlchelangelo raises $100 to $100
+iWasOnly17 raises $300 to $300
+HornyOldMan folds
+Shkipan folds
+mlchelangelo raises $1900 to $2000 and is all-in
+iWasOnly17 folds
+Uncalled bet ($1700) returned to mlchelangelo
+mlchelangelo does not show
+*** SUMMARY ***
+Total pot $675
+Seat 1: Shkipan (big blind) folded on the Pre-Flop
+Seat 2: Burundos254 folded on the Pre-Flop and did not bet
+Seat 3: IdoGoats folded on the Pre-Flop and did not bet
+Seat 4: mlchelangelo did not showed and won $675
+Seat 5: iWasOnly17 (button) folded on the Pre-Flop and did not bet
+Seat 6: HornyOldMan (small blind) folded on the Pre-Flop
+
+
+Hand #1876257362 - Holdem(No Limit) - $25/$50 - 2023/09/28 03:37:17 UTC
+Bison 6-max Seat #6 is the button
+Seat 1: Shkipan ($2000)
+Seat 2: Burundos254 ($5000)
+Seat 3: IdoGoats ($5000)
+Seat 4: mlchelangelo ($2375)
+Seat 5: iWasOnly17 ($5000)
+Seat 6: HornyOldMan ($5000)
+Shkipan posts the small blind $25
+mlchelangelo posts the big blind $50
+*** HOLE CARDS *** 
+iWasOnly17 folds
+HornyOldMan folds
+Shkipan folds
+*** SUMMARY ***
+Total pot $75
+Seat 1: Shkipan (small blind) folded on the Pre-Flop
+Seat 4: mlchelangelo (big blind) did not showed and won $75
+Seat 5: iWasOnly17 folded on the Pre-Flop and did not bet
+Seat 6: HornyOldMan (button) folded on the Pre-Flop and did not bet
+
+
+Hand #1876257725 - Holdem(No Limit) - $25/$50 - 2023/09/28 03:37:32 UTC
+Bison 6-max Seat #1 is the button
+Seat 1: Shkipan ($5000)
+Seat 2: Burundos254 ($5000)
+Seat 3: IdoGoats ($5000)
+Seat 4: mlchelangelo ($2400)
+Seat 5: iWasOnly17 ($5000)
+Seat 6: HornyOldMan ($5000)
+mlchelangelo posts the small blind $25
+iWasOnly17 posts the big blind $50
+*** HOLE CARDS *** 
+HornyOldMan folds
+Shkipan folds
+mlchelangelo folds
+*** SUMMARY ***
+Total pot $75
+Seat 1: Shkipan (button) folded on the Pre-Flop and did not bet
+Seat 4: mlchelangelo (small blind) folded on the Pre-Flop
+Seat 5: iWasOnly17 (big blind) did not showed and won $75
+Seat 6: HornyOldMan folded on the Pre-Flop and did not bet
+
+
+Hand #1876257911 - Holdem(No Limit) - $25/$50 - 2023/09/28 03:37:48 UTC
+Bison 6-max Seat #4 is the button
+Seat 1: Shkipan ($2000)
+Seat 2: Burundos254 ($5000)
+Seat 3: IdoGoats ($5000)
+Seat 4: mlchelangelo ($2375)
+Seat 5: iWasOnly17 ($5025)
+Seat 6: HornyOldMan ($5000)
+iWasOnly17 posts the small blind $25
+Shkipan posts the big blind $50
+*** HOLE CARDS *** 
+mlchelangelo raises $100 to $100
+iWasOnly17 folds
+Shkipan folds
+Uncalled bet ($50) returned to mlchelangelo
+mlchelangelo does not show
+*** SUMMARY ***
+Total pot $125
+Seat 1: Shkipan (big blind) folded on the Pre-Flop
+Seat 4: mlchelangelo (button) did not showed and won $125
+Seat 5: iWasOnly17 (small blind) folded on the Pre-Flop
+
+
+Hand #1876258242 - Holdem(No Limit) - $25/$50 - 2023/09/28 03:38:14 UTC
+Bison 6-max Seat #5 is the button
+Seat 1: Shkipan ($2000)
+Seat 2: Burundos254 ($5000)
+Seat 3: IdoGoats ($5000)
+Seat 4: mlchelangelo ($5000)
+Seat 5: iWasOnly17 ($5000)
+Shkipan posts the small blind $25
+iWasOnly17 posts the big blind $50
+*** HOLE CARDS *** 
+Shkipan calls $25
+iWasOnly17 checks
+*** FLOP *** [Jd 5c Js]
+Main pot $98.75 | Rake $1.25
+Shkipan bets $50
+iWasOnly17 folds
+Uncalled bet ($50) returned to Shkipan
+Shkipan does not show
+*** SUMMARY ***
+Total pot $98.75 | Rake $1.25
+Seat 1: Shkipan (small blind) did not showed and won $98.75
+Seat 5: iWasOnly17 (big blind) folded on the Flop
+
+
+Hand #1876258728 - Holdem(No Limit) - $25/$50 - 2023/09/28 03:38:30 UTC
+Bison 6-max Seat #5 is the button
+Seat 1: Shkipan ($2048.75)
+Seat 2: Burundos254 ($5000)
+Seat 3: IdoGoats ($5000)
+Seat 5: iWasOnly17 ($5000)
+iWasOnly17 posts the small blind $25
+Shkipan posts the big blind $50
+*** HOLE CARDS *** 
+iWasOnly17 raises $85 to $110
+Shkipan folds
+Uncalled bet ($60) returned to iWasOnly17
+iWasOnly17 does not show
+*** SUMMARY ***
+Total pot $100
+Seat 1: Shkipan (big blind) folded on the Pre-Flop
+Seat 5: iWasOnly17 (small blind) did not showed and won $100
+
+
+Hand #1876258996 - Holdem(No Limit) - $25/$50 - 2023/09/28 03:39:33 UTC
+Bison 6-max Seat #1 is the button
+Seat 1: Shkipan ($2000)
+Seat 2: Burundos254 ($5000)
+Seat 3: IdoGoats ($5000)
+Seat 5: iWasOnly17 ($5050)
+Shkipan posts the small blind $25
+iWasOnly17 posts the big blind $50
+*** HOLE CARDS *** 
+Shkipan raises $85 to $110
+iWasOnly17 calls $60
+*** FLOP *** [8d Ts 4c]
+Main pot $218.75 | Rake $1.25
+iWasOnly17 checks
+Shkipan bets $165
+iWasOnly17 calls $165
+*** TURN *** [8d Ts 4c] [6h]
+Main pot $548.75 | Rake $1.25
+iWasOnly17 checks
+Shkipan checks
+*** RIVER *** [8d Ts 4c 6h] [3h]
+Main pot $548.75 | Rake $1.25
+iWasOnly17 checks
+Shkipan checks
+*** SUMMARY ***
+Total pot $548.75 | Rake $1.25
+Seat 1: Shkipan (small blind) did not showed and lost
+Seat 5: iWasOnly17 (big blind) did not showed and won $548.75
+
+
+Hand #1876286657 - Holdem(No Limit) - $25/$50 - 2023/09/28 04:09:51 UTC
+Bison 6-max Seat #5 is the button
+Seat 3: orgi69 ($5000)
+Seat 5: iWasOnly17 ($5323.75)
+iWasOnly17 posts the small blind $25
+orgi69 posts the big blind $50
+*** HOLE CARDS *** 
+iWasOnly17 folds
+*** SUMMARY ***
+Total pot $75
+Seat 3: orgi69 (big blind) did not showed and won $75
+Seat 5: iWasOnly17 (small blind) folded on the Pre-Flop
+
+
+Hand #1876286847 - Holdem(No Limit) - $25/$50 - 2023/09/28 04:10:33 UTC
+Bison 6-max Seat #3 is the button
+Seat 1: IdoGoats ($5000)
+Seat 2: Burundos254 ($5000)
+Seat 3: orgi69 ($5025)
+Seat 4: AleajactaSUCK ($5000)
+Seat 5: iWasOnly17 ($5298.75)
+Seat 6: alanwatts15 ($5000)
+orgi69 posts the small blind $25
+iWasOnly17 posts the big blind $50
+*** HOLE CARDS *** 
+orgi69 raises $90 to $115
+iWasOnly17 calls $65
+*** FLOP *** [Td 5s 5c]
+Main pot $228.75 | Rake $1.25
+iWasOnly17 checks
+orgi69 checks
+*** TURN *** [Td 5s 5c] [2h]
+Main pot $228.75 | Rake $1.25
+iWasOnly17 bets $625
+orgi69 folds
+Uncalled bet ($625) returned to iWasOnly17
+iWasOnly17 does not show
+*** SUMMARY ***
+Total pot $228.75 | Rake $1.25
+Seat 3: orgi69 (small blind) folded on the Turn
+Seat 5: iWasOnly17 (big blind) did not showed and won $228.75
+
+
+Hand #1876287557 - Holdem(No Limit) - $25/$50 - 2023/09/28 04:10:42 UTC
+Bison 6-max Seat #3 is the button
+Seat 1: IdoGoats ($5000)
+Seat 2: Burundos254 ($5000)
+Seat 3: orgi69 ($5000)
+Seat 4: AleajactaSUCK ($5000)
+Seat 5: iWasOnly17 ($5412.50)
+Seat 6: alanwatts15 ($5000)
+iWasOnly17 posts the small blind $25
+alanwatts15 posts the big blind $50
+*** HOLE CARDS *** 
+orgi69 folds
+iWasOnly17 folds
+*** SUMMARY ***
+Total pot $75
+Seat 3: orgi69 (button) folded on the Pre-Flop and did not bet
+Seat 5: iWasOnly17 (small blind) folded on the Pre-Flop
+Seat 6: alanwatts15 (big blind) did not showed and won $75
+
+
+Hand #1876287719 - Holdem(No Limit) - $25/$50 - 2023/09/28 04:13:02 UTC
+Bison 6-max Seat #5 is the button
+Seat 1: IdoGoats ($2000)
+Seat 2: Burundos254 ($5000)
+Seat 3: orgi69 ($5000)
+Seat 4: AleajactaSUCK ($5000)
+Seat 5: iWasOnly17 ($5387.50)
+Seat 6: alanwatts15 ($5025)
+alanwatts15 posts the small blind $25
+IdoGoats posts the big blind $50
+*** HOLE CARDS *** 
+orgi69 folds
+iWasOnly17 raises $110 to $110
+alanwatts15 raises $475 to $500
+IdoGoats folds
+iWasOnly17 raises $990 to $1100
+alanwatts15 calls $600
+*** FLOP *** [8h Kc 9d]
+Main pot $2247.75 | Rake $2.25
+alanwatts15 checks
+iWasOnly17 bets $550
+alanwatts15 raises $1225 to $1225
+iWasOnly17 calls $675
+*** TURN *** [8h Kc 9d] [9s]
+Main pot $4697.75 | Rake $2.25
+alanwatts15 checks
+iWasOnly17 checks
+*** RIVER *** [8h Kc 9d 9s] [Qs]
+Main pot $4697.75 | Rake $2.25
+alanwatts15 checks
+iWasOnly17 checks
+*** SUMMARY ***
+Total pot $4697.75 | Rake $2.25
+Seat 1: IdoGoats (big blind) folded on the Pre-Flop
+Seat 3: orgi69 folded on the Pre-Flop and did not bet
+Seat 5: iWasOnly17 (button) did not showed and won $4697.75
+Seat 6: alanwatts15 (small blind) did not showed and lost
+
+
+Hand #1876293955 - Holdem(No Limit) - $25/$50 - 2023/09/28 04:17:10 UTC
+Bison 6-max Seat #6 is the button
+Seat 1: IdoGoats ($2000)
+Seat 2: Burundos254 ($5000)
+Seat 3: orgi69 ($5000)
+Seat 4: AleajactaSUCK ($5000)
+Seat 5: iWasOnly17 ($5000)
+Seat 6: alanwatts15 ($5000)
+IdoGoats posts the small blind $25
+orgi69 posts the big blind $50
+*** HOLE CARDS *** 
+iWasOnly17 folds
+alanwatts15 folds
+IdoGoats raises $100 to $125
+orgi69 folds
+Uncalled bet ($75) returned to IdoGoats
+IdoGoats does not show
+*** SUMMARY ***
+Total pot $100
+Seat 1: IdoGoats (small blind) did not showed and won $100
+Seat 3: orgi69 (big blind) folded on the Pre-Flop
+Seat 5: iWasOnly17 folded on the Pre-Flop and did not bet
+Seat 6: alanwatts15 (button) folded on the Pre-Flop and did not bet
+
+
+Hand #1876294214 - Holdem(No Limit) - $25/$50 - 2023/09/28 04:17:25 UTC
+Bison 6-max Seat #1 is the button
+Seat 1: IdoGoats ($5000)
+Seat 2: Burundos254 ($5000)
+Seat 3: orgi69 ($5000)
+Seat 4: AleajactaSUCK ($5000)
+Seat 5: iWasOnly17 ($7510.25)
+Seat 6: alanwatts15 ($5000)
+orgi69 posts the small blind $25
+AleajactaSUCK posts the big blind $50
+*** HOLE CARDS *** 
+iWasOnly17 raises $110 to $110
+alanwatts15 folds
+IdoGoats folds
+orgi69 folds
+AleajactaSUCK folds
+Uncalled bet ($60) returned to iWasOnly17
+iWasOnly17 does not show
+*** SUMMARY ***
+Total pot $125
+Seat 1: IdoGoats (button) folded on the Pre-Flop and did not bet
+Seat 3: orgi69 (small blind) folded on the Pre-Flop
+Seat 4: AleajactaSUCK (big blind) folded on the Pre-Flop
+Seat 5: iWasOnly17 did not showed and won $125
+Seat 6: alanwatts15 folded on the Pre-Flop and did not bet
+
+
+Hand #1876294475 - Holdem(No Limit) - $25/$50 - 2023/09/28 04:18:32 UTC
+Bison 6-max Seat #3 is the button
+Seat 1: IdoGoats ($5000)
+Seat 2: Burundos254 ($5000)
+Seat 3: orgi69 ($5000)
+Seat 4: AleajactaSUCK ($5000)
+Seat 5: iWasOnly17 ($7585.25)
+Seat 6: alanwatts15 ($5000)
+AleajactaSUCK posts the small blind $25
+iWasOnly17 posts the big blind $50
+*** HOLE CARDS *** 
+alanwatts15 folds
+IdoGoats folds
+orgi69 folds
+AleajactaSUCK raises $100 to $125
+iWasOnly17 calls $75
+*** FLOP *** [Tc 4d 2c]
+Main pot $247 | Rake $3
+AleajactaSUCK checks
+iWasOnly17 checks
+*** TURN *** [Tc 4d 2c] [3d]
+Main pot $247 | Rake $3
+AleajactaSUCK bets $165
+iWasOnly17 folds
+Uncalled bet ($165) returned to AleajactaSUCK
+AleajactaSUCK does not show
+*** SUMMARY ***
+Total pot $247 | Rake $3
+Seat 1: IdoGoats folded on the Pre-Flop and did not bet
+Seat 3: orgi69 (button) folded on the Pre-Flop and did not bet
+Seat 4: AleajactaSUCK (small blind) did not showed and won $247
+Seat 5: iWasOnly17 (big blind) folded on the Turn
+Seat 6: alanwatts15 folded on the Pre-Flop and did not bet
+
+
+Hand #1876295578 - Holdem(No Limit) - $25/$50 - 2023/09/28 04:18:53 UTC
+Bison 6-max Seat #4 is the button
+Seat 1: IdoGoats ($5000)
+Seat 2: Burundos254 ($5000)
+Seat 3: orgi69 ($5000)
+Seat 4: AleajactaSUCK ($5000)
+Seat 5: iWasOnly17 ($7460.25)
+Seat 6: alanwatts15 ($5000)
+iWasOnly17 posts the small blind $25
+orgi69 posts the big blind $50
+*** HOLE CARDS *** 
+AleajactaSUCK folds
+iWasOnly17 raises $125 to $150
+orgi69 folds
+Uncalled bet ($100) returned to iWasOnly17
+iWasOnly17 does not show
+*** SUMMARY ***
+Total pot $100
+Seat 3: orgi69 (big blind) folded on the Pre-Flop
+Seat 4: AleajactaSUCK (button) folded on the Pre-Flop and did not bet
+Seat 5: iWasOnly17 (small blind) did not showed and won $100
+
+
+Hand #1876326947 - Holdem(No Limit) - $25/$50 - 2023/09/28 04:54:07 UTC
+Bison 6-max Seat #5 is the button
+Seat 1: AleajactaSUCK ($5000)
+Seat 2: ILuvAvrilLavigne91 ($5000)
+Seat 3: IdoGoats ($5000)
+Seat 4: epsteinsboy ($5000)
+Seat 5: iWasOnly17 ($5000)
+Seat 6: uhhhyesandno ($5000)
+uhhhyesandno posts the small blind $25
+AleajactaSUCK posts the big blind $50
+*** HOLE CARDS *** 
+ILuvAvrilLavigne91 folds
+IdoGoats folds
+epsteinsboy folds
+iWasOnly17 folds
+uhhhyesandno raises $125 to $150
+AleajactaSUCK calls $100
+*** FLOP *** [9h As 9d]
+Main pot $297 | Rake $3
+uhhhyesandno bets $74.25
+AleajactaSUCK folds
+Uncalled bet ($74.25) returned to uhhhyesandno
+uhhhyesandno does not show
+*** SUMMARY ***
+Total pot $297 | Rake $3
+Seat 1: AleajactaSUCK (big blind) folded on the Flop
+Seat 2: ILuvAvrilLavigne91 folded on the Pre-Flop and did not bet
+Seat 3: IdoGoats folded on the Pre-Flop and did not bet
+Seat 4: epsteinsboy folded on the Pre-Flop and did not bet
+Seat 5: iWasOnly17 (button) folded on the Pre-Flop and did not bet
+Seat 6: uhhhyesandno (small blind) did not showed and won $297
+
+
+Hand #1876327462 - Holdem(No Limit) - $25/$50 - 2023/09/28 04:54:44 UTC
+Bison 6-max Seat #6 is the button
+Seat 1: AleajactaSUCK ($5000)
+Seat 2: ILuvAvrilLavigne91 ($5248.75)
+Seat 3: lol voidaments ($5000)
+Seat 4: epsteinsboy ($5000)
+Seat 5: iWasOnly17 ($5000)
+Seat 6: uhhhyesandno ($5147)
+AleajactaSUCK posts the small blind $25
+ILuvAvrilLavigne91 posts the big blind $50
+*** HOLE CARDS *** 
+lol voidaments folds
+epsteinsboy folds
+iWasOnly17 folds
+uhhhyesandno raises $125 to $125
+AleajactaSUCK folds
+ILuvAvrilLavigne91 raises $500 to $550
+uhhhyesandno folds
+Uncalled bet ($425) returned to ILuvAvrilLavigne91
+ILuvAvrilLavigne91 does not show
+*** SUMMARY ***
+Total pot $275
+Seat 1: AleajactaSUCK (small blind) folded on the Pre-Flop
+Seat 2: ILuvAvrilLavigne91 (big blind) did not showed and won $275
+Seat 3: lol voidaments folded on the Pre-Flop and did not bet
+Seat 4: epsteinsboy folded on the Pre-Flop and did not bet
+Seat 5: iWasOnly17 folded on the Pre-Flop and did not bet
+Seat 6: uhhhyesandno (button) folded on the Pre-Flop and did not bet
+
+
+Hand #1876327991 - Holdem(No Limit) - $25/$50 - 2023/09/28 04:55:00 UTC
+Bison 6-max Seat #1 is the button
+Seat 1: AleajactaSUCK ($5000)
+Seat 2: ILuvAvrilLavigne91 ($5398.75)
+Seat 3: lol voidaments ($5000)
+Seat 4: epsteinsboy ($5000)
+Seat 5: iWasOnly17 ($5000)
+Seat 6: uhhhyesandno ($5000)
+ILuvAvrilLavigne91 posts the small blind $25
+lol voidaments posts the big blind $50
+*** HOLE CARDS *** 
+epsteinsboy folds
+iWasOnly17 folds
+uhhhyesandno folds
+AleajactaSUCK folds
+ILuvAvrilLavigne91 folds
+*** SUMMARY ***
+Total pot $75
+Seat 1: AleajactaSUCK (button) folded on the Pre-Flop and did not bet
+Seat 2: ILuvAvrilLavigne91 (small blind) folded on the Pre-Flop
+Seat 3: lol voidaments (big blind) did not showed and won $75
+Seat 4: epsteinsboy folded on the Pre-Flop and did not bet
+Seat 5: iWasOnly17 folded on the Pre-Flop and did not bet
+Seat 6: uhhhyesandno folded on the Pre-Flop and did not bet
+
+
+Hand #1876328181 - Holdem(No Limit) - $25/$50 - 2023/09/28 04:56:20 UTC
+Bison 6-max Seat #2 is the button
+Seat 1: AleajactaSUCK ($5000)
+Seat 2: ILuvAvrilLavigne91 ($5000)
+Seat 3: lol voidaments ($5025)
+Seat 4: Burundos254 ($5000)
+Seat 5: iWasOnly17 ($7260.25)
+Seat 6: uhhhyesandno ($5000)
+lol voidaments posts the small blind $25
+iWasOnly17 posts the big blind $50
+*** HOLE CARDS *** 
+uhhhyesandno folds
+AleajactaSUCK folds
+ILuvAvrilLavigne91 folds
+lol voidaments raises $125 to $150
+iWasOnly17 calls $100
+*** FLOP *** [6d Jd 8s]
+Main pot $297 | Rake $3
+lol voidaments bets $90
+iWasOnly17 calls $90
+*** TURN *** [6d Jd 8s] [5c]
+Main pot $477 | Rake $3
+lol voidaments bets $345.60
+iWasOnly17 calls $345.60
+*** RIVER *** [6d Jd 8s 5c] [5s]
+Main pot $1168.20 | Rake $3
+lol voidaments checks
+iWasOnly17 checks
+*** SUMMARY ***
+Total pot $1168.20 | Rake $3
+Seat 1: AleajactaSUCK folded on the Pre-Flop and did not bet
+Seat 2: ILuvAvrilLavigne91 (button) folded on the Pre-Flop and did not bet
+Seat 3: lol voidaments (small blind) did not showed and won $1168.20
+Seat 5: iWasOnly17 (big blind) did not showed and lost
+Seat 6: uhhhyesandno folded on the Pre-Flop and did not bet
+
+
+Hand #1876329825 - Holdem(No Limit) - $25/$50 - 2023/09/28 04:58:52 UTC
+Bison 6-max Seat #3 is the button
+Seat 1: AleajactaSUCK ($5000)
+Seat 2: ILuvAvrilLavigne91 ($5123.75)
+Seat 3: lol voidaments ($5000)
+Seat 4: Burundos254 ($5000)
+Seat 5: iWasOnly17 ($5299.65)
+Seat 6: uhhhyesandno ($5000)
+iWasOnly17 posts the small blind $25
+ILuvAvrilLavigne91 posts the big blind $50
+*** HOLE CARDS *** 
+lol voidaments folds
+iWasOnly17 raises $125 to $150
+ILuvAvrilLavigne91 folds
+Uncalled bet ($100) returned to iWasOnly17
+iWasOnly17 does not show
+*** SUMMARY ***
+Total pot $100
+Seat 2: ILuvAvrilLavigne91 (big blind) folded on the Pre-Flop
+Seat 3: lol voidaments (button) folded on the Pre-Flop and did not bet
+Seat 5: iWasOnly17 (small blind) did not showed and won $100
+
+
+Hand #1876329972 - Holdem(No Limit) - $25/$50 - 2023/09/28 04:59:18 UTC
+Bison 6-max Seat #5 is the button
+Seat 2: ILuvAvrilLavigne91 ($5073.75)
+Seat 3: lol voidaments ($5000)
+Seat 4: Burundos254 ($5000)
+Seat 5: iWasOnly17 ($5349.65)
+ILuvAvrilLavigne91 posts the small blind $25
+Burundos254 posts the big blind $50
+*** HOLE CARDS *** 
+iWasOnly17 raises $125 to $125
+ILuvAvrilLavigne91 folds
+Burundos254 folds
+Uncalled bet ($75) returned to iWasOnly17
+iWasOnly17 does not show
+*** SUMMARY ***
+Total pot $125
+Seat 2: ILuvAvrilLavigne91 (small blind) folded on the Pre-Flop
+Seat 4: Burundos254 (big blind) folded on the Pre-Flop
+Seat 5: iWasOnly17 (button) did not showed and won $125
+
+
+Hand #1876330168 - Holdem(No Limit) - $25/$50 - 2023/09/28 05:00:15 UTC
+Bison 6-max Seat #2 is the button
+Seat 2: ILuvAvrilLavigne91 ($5048.75)
+Seat 3: lol voidaments ($5000)
+Seat 4: Burundos254 ($5000)
+Seat 5: iWasOnly17 ($5424.65)
+Burundos254 posts the small blind $25
+iWasOnly17 posts the big blind $50
+*** HOLE CARDS *** 
+ILuvAvrilLavigne91 raises $125 to $125
+Burundos254 folds
+iWasOnly17 calls $75
+*** FLOP *** [4h As Td]
+Main pot $273.25 | Rake $1.75
+iWasOnly17 checks
+ILuvAvrilLavigne91 checks
+*** TURN *** [4h As Td] [Jh]
+Main pot $273.25 | Rake $1.75
+iWasOnly17 checks
+ILuvAvrilLavigne91 bets $204.93
+iWasOnly17 folds
+Uncalled bet ($204.93) returned to ILuvAvrilLavigne91
+ILuvAvrilLavigne91 does not show
+*** SUMMARY ***
+Total pot $273.25 | Rake $1.75
+Seat 2: ILuvAvrilLavigne91 (button) did not showed and won $273.25
+Seat 4: Burundos254 (small blind) folded on the Pre-Flop
+Seat 5: iWasOnly17 (big blind) folded on the Turn
+
+
+Hand #1876330610 - Holdem(No Limit) - $25/$50 - 2023/09/28 05:00:29 UTC
+Bison 6-max Seat #4 is the button
+Seat 2: ILuvAvrilLavigne91 ($5197)
+Seat 4: Burundos254 ($5000)
+Seat 5: iWasOnly17 ($5299.65)
+iWasOnly17 posts the small blind $25
+ILuvAvrilLavigne91 posts the big blind $50
+*** HOLE CARDS *** 
+Burundos254 folds
+iWasOnly17 folds
+*** SUMMARY ***
+Total pot $75
+Seat 2: ILuvAvrilLavigne91 (big blind) did not showed and won $75
+Seat 4: Burundos254 (button) folded on the Pre-Flop and did not bet
+Seat 5: iWasOnly17 (small blind) folded on the Pre-Flop
+
+
+Hand #1876330745 - Holdem(No Limit) - $25/$50 - 2023/09/28 05:02:04 UTC
+Bison 6-max Seat #5 is the button
+Seat 1: lol voidaments ($5000)
+Seat 2: ILuvAvrilLavigne91 ($5222)
+Seat 4: Burundos254 ($5000)
+Seat 5: iWasOnly17 ($5000)
+ILuvAvrilLavigne91 posts the small blind $25
+Burundos254 posts the big blind $50
+*** HOLE CARDS *** 
+iWasOnly17 folds
+ILuvAvrilLavigne91 raises $125 to $150
+Burundos254 raises $400 to $450
+ILuvAvrilLavigne91 calls $300
+*** FLOP *** [5d 9c Js]
+Main pot $898.25 | Rake $1.75
+ILuvAvrilLavigne91 checks
+Burundos254 checks
+*** TURN *** [5d 9c Js] [Qd]
+Main pot $898.25 | Rake $1.75
+ILuvAvrilLavigne91 checks
+Burundos254 checks
+*** RIVER *** [5d 9c Js Qd] [7s]
+Main pot $898.25 | Rake $1.75
+ILuvAvrilLavigne91 checks
+Burundos254 checks
+*** SUMMARY ***
+Total pot $898.25 | Rake $1.75
+Seat 2: ILuvAvrilLavigne91 (small blind) did not showed and won $898.25
+Seat 4: Burundos254 (big blind) did not showed and lost
+Seat 5: iWasOnly17 (button) folded on the Pre-Flop and did not bet
+
+
+Hand #1876331870 - Holdem(No Limit) - $25/$50 - 2023/09/28 05:02:17 UTC
+Bison 6-max Seat #2 is the button
+Seat 1: lol voidaments ($5000)
+Seat 2: ILuvAvrilLavigne91 ($5000)
+Seat 4: Burundos254 ($5000)
+Seat 5: iWasOnly17 ($5274.65)
+Burundos254 posts the small blind $25
+iWasOnly17 posts the big blind $50
+*** HOLE CARDS *** 
+ILuvAvrilLavigne91 folds
+Burundos254 folds
+*** SUMMARY ***
+Total pot $75
+Seat 2: ILuvAvrilLavigne91 (button) folded on the Pre-Flop and did not bet
+Seat 4: Burundos254 (small blind) folded on the Pre-Flop
+Seat 5: iWasOnly17 (big blind) did not showed and won $75
+
+
+Hand #1876332017 - Holdem(No Limit) - $25/$50 - 2023/09/28 05:02:36 UTC
+Bison 6-max Seat #4 is the button
+Seat 1: lol voidaments ($5357.60)
+Seat 2: ILuvAvrilLavigne91 ($5000)
+Seat 4: Burundos254 ($5000)
+Seat 5: iWasOnly17 ($5299.65)
+iWasOnly17 posts the small blind $25
+lol voidaments posts the big blind $50
+*** HOLE CARDS *** 
+ILuvAvrilLavigne91 folds
+Burundos254 folds
+iWasOnly17 folds
+*** SUMMARY ***
+Total pot $75
+Seat 1: lol voidaments (big blind) did not showed and won $75
+Seat 2: ILuvAvrilLavigne91 folded on the Pre-Flop and did not bet
+Seat 4: Burundos254 (button) folded on the Pre-Flop and did not bet
+Seat 5: iWasOnly17 (small blind) folded on the Pre-Flop
+
+
+Hand #1876332234 - Holdem(No Limit) - $25/$50 - 2023/09/28 05:04:12 UTC
+Bison 6-max Seat #5 is the button
+Seat 1: lol voidaments ($5382.60)
+Seat 2: ILuvAvrilLavigne91 ($5670.25)
+Seat 4: Burundos254 ($5000)
+Seat 5: iWasOnly17 ($5274.65)
+lol voidaments posts the small blind $25
+ILuvAvrilLavigne91 posts the big blind $50
+*** HOLE CARDS *** 
+Burundos254 folds
+iWasOnly17 raises $125 to $125
+lol voidaments folds
+ILuvAvrilLavigne91 raises $500 to $550
+iWasOnly17 calls $425
+*** FLOP *** [Qc 6h Ah]
+Main pot $1122.75 | Rake $2.25
+ILuvAvrilLavigne91 checks
+iWasOnly17 checks
+*** TURN *** [Qc 6h Ah] [4c]
+Main pot $1122.75 | Rake $2.25
+ILuvAvrilLavigne91 checks
+iWasOnly17 checks
+*** RIVER *** [Qc 6h Ah 4c] [5h]
+Main pot $1122.75 | Rake $2.25
+ILuvAvrilLavigne91 checks
+iWasOnly17 checks
+*** SUMMARY ***
+Total pot $1122.75 | Rake $2.25
+Seat 1: lol voidaments (small blind) folded on the Pre-Flop
+Seat 2: ILuvAvrilLavigne91 (big blind) did not showed and lost
+Seat 4: Burundos254 folded on the Pre-Flop and did not bet
+Seat 5: iWasOnly17 (button) did not showed and won $1122.75
+
+
+Hand #1876333516 - Holdem(No Limit) - $25/$50 - 2023/09/28 05:04:35 UTC
+Bison 6-max Seat #1 is the button
+Seat 1: lol voidaments ($5000)
+Seat 2: ILuvAvrilLavigne91 ($5120.25)
+Seat 4: Burundos254 ($5000)
+Seat 5: iWasOnly17 ($5000)
+Seat 6: epsteinsboy ($5000)
+ILuvAvrilLavigne91 posts the small blind $25
+Burundos254 posts the big blind $50
+*** HOLE CARDS *** 
+iWasOnly17 folds
+lol voidaments folds
+ILuvAvrilLavigne91 raises $125 to $150
+Burundos254 folds
+Uncalled bet ($100) returned to ILuvAvrilLavigne91
+ILuvAvrilLavigne91 does not show
+*** SUMMARY ***
+Total pot $100
+Seat 1: lol voidaments (button) folded on the Pre-Flop and did not bet
+Seat 2: ILuvAvrilLavigne91 (small blind) did not showed and won $100
+Seat 4: Burundos254 (big blind) folded on the Pre-Flop
+Seat 5: iWasOnly17 folded on the Pre-Flop and did not bet
+
+
+Hand #1876333793 - Holdem(No Limit) - $25/$50 - 2023/09/28 05:04:53 UTC
+Bison 6-max Seat #2 is the button
+Seat 1: lol voidaments ($5000)
+Seat 2: ILuvAvrilLavigne91 ($5000)
+Seat 3: yourmomishhot ($5000)
+Seat 4: Burundos254 ($5000)
+Seat 5: iWasOnly17 ($5847.40)
+Seat 6: epsteinsboy ($5000)
+Burundos254 posts the small blind $25
+iWasOnly17 posts the big blind $50
+*** HOLE CARDS *** 
+lol voidaments folds
+ILuvAvrilLavigne91 folds
+Burundos254 raises $125 to $150
+iWasOnly17 folds
+Uncalled bet ($100) returned to Burundos254
+Burundos254 does not show
+*** SUMMARY ***
+Total pot $100
+Seat 1: lol voidaments folded on the Pre-Flop and did not bet
+Seat 2: ILuvAvrilLavigne91 (button) folded on the Pre-Flop and did not bet
+Seat 4: Burundos254 (small blind) did not showed and won $100
+Seat 5: iWasOnly17 (big blind) folded on the Pre-Flop
+
+
+Hand #1876334019 - Holdem(No Limit) - $25/$50 - 2023/09/28 05:05:07 UTC
+Bison 6-max Seat #4 is the button
+Seat 1: lol voidaments ($5357.60)
+Seat 2: ILuvAvrilLavigne91 ($5000)
+Seat 3: yourmomishhot ($5000)
+Seat 4: Burundos254 ($5000)
+Seat 5: iWasOnly17 ($5797.40)
+Seat 6: epsteinsboy ($5000)
+iWasOnly17 posts the small blind $25
+lol voidaments posts the big blind $50
+*** HOLE CARDS *** 
+ILuvAvrilLavigne91 folds
+Burundos254 folds
+iWasOnly17 folds
+*** SUMMARY ***
+Total pot $75
+Seat 1: lol voidaments (big blind) did not showed and won $75
+Seat 2: ILuvAvrilLavigne91 folded on the Pre-Flop and did not bet
+Seat 4: Burundos254 (button) folded on the Pre-Flop and did not bet
+Seat 5: iWasOnly17 (small blind) folded on the Pre-Flop
+
+
+Hand #1876335156 - Holdem(No Limit) - $25/$50 - 2023/09/28 05:06:30 UTC
+Marathon 6-max Seat #1 is the button
+Seat 1: ILuvAvrilLavigne91 ($5000)
+Seat 2: SeaLlama ($5000)
+Seat 3: alanwatts15 ($5000)
+ILuvAvrilLavigne91 posts the small blind $25
+SeaLlama posts the big blind $50
+*** HOLE CARDS *** 
+ILuvAvrilLavigne91 folds
+*** SUMMARY ***
+Total pot $75
+Seat 1: ILuvAvrilLavigne91 (small blind) folded on the Pre-Flop
+Seat 2: SeaLlama (big blind) did not showed and won $75
+
+
+Hand #1876335296 - Holdem(No Limit) - $25/$50 - 2023/09/28 05:06:53 UTC
+Marathon 6-max Seat #1 is the button
+Seat 1: ILuvAvrilLavigne91 ($5000)
+Seat 2: SeaLlama ($5000)
+Seat 3: alanwatts15 ($5000)
+Seat 4: uhhhyesandno ($5000)
+Seat 5: henk-annie1955 ($5000)
+Seat 6: HornyOldMan ($5000)
+ILuvAvrilLavigne91 posts the small blind $25
+alanwatts15 posts the big blind $50
+*** HOLE CARDS *** 
+ILuvAvrilLavigne91 raises $100 to $125
+alanwatts15 calls $75
+*** FLOP *** [Jh Ac Qc]
+Main pot $248.75 | Rake $1.25
+alanwatts15 checks
+ILuvAvrilLavigne91 bets $124.37
+alanwatts15 folds
+Uncalled bet ($124.37) returned to ILuvAvrilLavigne91
+ILuvAvrilLavigne91 does not show
+*** SUMMARY ***
+Total pot $248.75 | Rake $1.25
+Seat 1: ILuvAvrilLavigne91 (small blind) did not showed and won $248.75
+Seat 3: alanwatts15 (big blind) folded on the Flop
+
+
+Hand #1876334204 - Holdem(No Limit) - $25/$50 - 2023/09/28 05:07:18 UTC
+Bison 6-max Seat #5 is the button
+Seat 1: lol voidaments ($5382.60)
+Seat 2: ILuvAvrilLavigne91 ($5170.25)
+Seat 3: yourmomishhot ($5000)
+Seat 4: Burundos254 ($5000)
+Seat 5: iWasOnly17 ($5000)
+Seat 6: alanwatts15 ($5000)
+lol voidaments posts the small blind $25
+ILuvAvrilLavigne91 posts the big blind $50
+*** HOLE CARDS *** 
+Burundos254 folds
+iWasOnly17 folds
+lol voidaments raises $125 to $150
+ILuvAvrilLavigne91 calls $100
+*** FLOP *** [2h As Td]
+Main pot $297.75 | Rake $2.25
+lol voidaments bets $90
+ILuvAvrilLavigne91 calls $90
+*** TURN *** [2h As Td] [Kd]
+Main pot $477.75 | Rake $2.25
+lol voidaments checks
+ILuvAvrilLavigne91 bets $358.31
+lol voidaments raises $1219.87 to $1219.87
+ILuvAvrilLavigne91 calls $861.56
+*** RIVER *** [2h As Td Kd] [Ks]
+Main pot $2917.49 | Rake $2.25
+lol voidaments bets $3922.73 and is all-in
+ILuvAvrilLavigne91 calls $3710.38 and is all-in
+Uncalled bet ($212.35) returned to lol voidaments
+lol voidaments does not show
+*** SHOW DOWN ***
+Main pot $2917.49 | Rake $2.25
+lol voidaments shows [Jc 9d] (a combo of some cards [Ks Kd As Jc Td])
+ILuvAvrilLavigne91 shows [Qd Jh] (a combo of some cards [As Ks Qd Jh Td])
+ILuvAvrilLavigne91 collected $10338.25 from main pot
+*** SUMMARY ***
+Total pot $10338.25 | Rake $2.25
+Seat 1: lol voidaments (small blind) showed [Jc 9d] and lost
+Seat 2: ILuvAvrilLavigne91 (big blind) showed [Qd Jh] and won $10338.25 with Straight [As Ks Qd Jh Td]
+Seat 4: Burundos254 folded on the Pre-Flop and did not bet
+Seat 5: iWasOnly17 (button) folded on the Pre-Flop and did not bet
+
+
+Hand #1876335588 - Holdem(No Limit) - $25/$50 - 2023/09/28 05:07:25 UTC
+Marathon 6-max Seat #1 is the button
+Seat 1: ILuvAvrilLavigne91 ($5123.75)
+Seat 2: SeaLlama ($5000)
+Seat 3: alanwatts15 ($5000)
+Seat 4: uhhhyesandno ($5000)
+Seat 5: henk-annie1955 ($5000)
+Seat 6: epsteinsboy ($5000)
+alanwatts15 posts the small blind $25
+uhhhyesandno posts the big blind $50
+*** HOLE CARDS *** 
+ILuvAvrilLavigne91 raises $125 to $125
+alanwatts15 folds
+uhhhyesandno calls $75
+*** FLOP *** [7c 5c 8c]
+Main pot $273.25 | Rake $1.75
+uhhhyesandno checks
+ILuvAvrilLavigne91 bets $81.97
+uhhhyesandno folds
+Uncalled bet ($81.97) returned to ILuvAvrilLavigne91
+ILuvAvrilLavigne91 does not show
+*** SUMMARY ***
+Total pot $273.25 | Rake $1.75
+Seat 1: ILuvAvrilLavigne91 (button) did not showed and won $273.25
+Seat 3: alanwatts15 (small blind) folded on the Pre-Flop
+Seat 4: uhhhyesandno (big blind) folded on the Flop
+
+
+Hand #1876335998 - Holdem(No Limit) - $25/$50 - 2023/09/28 05:07:57 UTC
+Marathon 6-max Seat #3 is the button
+Seat 1: ILuvAvrilLavigne91 ($5000)
+Seat 2: SeaLlama ($5025)
+Seat 3: alanwatts15 ($5000)
+Seat 4: uhhhyesandno ($5000)
+Seat 5: henk-annie1955 ($5000)
+Seat 6: epsteinsboy ($5000)
+uhhhyesandno posts the small blind $25
+epsteinsboy posts the big blind $50
+SeaLlama posts $50
+*** HOLE CARDS *** 
+ILuvAvrilLavigne91 folds
+SeaLlama checks
+alanwatts15 folds
+uhhhyesandno folds
+epsteinsboy checks
+*** FLOP *** [4s 3c 3h]
+Main pot $122 | Rake $3
+epsteinsboy checks
+SeaLlama bets $100
+epsteinsboy folds
+Uncalled bet ($100) returned to SeaLlama
+SeaLlama does not show
+*** SUMMARY ***
+Total pot $122 | Rake $3
+Seat 1: ILuvAvrilLavigne91 folded on the Pre-Flop and did not bet
+Seat 2: SeaLlama did not showed and won $122
+Seat 3: alanwatts15 (button) folded on the Pre-Flop and did not bet
+Seat 4: uhhhyesandno (small blind) folded on the Pre-Flop
+Seat 6: epsteinsboy (big blind) folded on the Flop
+
+
+Hand #1876335937 - Holdem(No Limit) - $25/$50 - 2023/09/28 05:07:58 UTC
+Bison 6-max Seat #1 is the button
+Seat 1: lol voidaments ($5000)
+Seat 2: ILuvAvrilLavigne91 ($10338.25)
+Seat 3: yourmomishhot ($5000)
+Seat 4: Burundos254 ($5000)
+Seat 5: iWasOnly17 ($5772.40)
+Seat 6: alanwatts15 ($5000)
+ILuvAvrilLavigne91 posts the small blind $25
+yourmomishhot posts the big blind $50
+*** HOLE CARDS *** 
+Burundos254 folds
+iWasOnly17 raises $110 to $110
+lol voidaments raises $360 to $360
+ILuvAvrilLavigne91 folds
+yourmomishhot folds
+iWasOnly17 calls $250
+*** FLOP *** [Ad 5d 6s]
+Main pot $792 | Rake $3
+iWasOnly17 checks
+lol voidaments bets $238.50
+iWasOnly17 folds
+Uncalled bet ($238.50) returned to lol voidaments
+lol voidaments does not show
+*** SUMMARY ***
+Total pot $792 | Rake $3
+Seat 1: lol voidaments (button) did not showed and won $792
+Seat 2: ILuvAvrilLavigne91 (small blind) folded on the Pre-Flop
+Seat 3: yourmomishhot (big blind) folded on the Pre-Flop
+Seat 4: Burundos254 folded on the Pre-Flop and did not bet
+Seat 5: iWasOnly17 folded on the Flop
+
+
+Hand #1876336409 - Holdem(No Limit) - $25/$50 - 2023/09/28 05:08:17 UTC
+Marathon 6-max Seat #4 is the button
+Seat 1: ILuvAvrilLavigne91 ($5272)
+Seat 2: SeaLlama ($5000)
+Seat 3: alanwatts15 ($5000)
+Seat 4: uhhhyesandno ($5000)
+Seat 5: yourmomishhot ($5000)
+Seat 6: epsteinsboy ($5000)
+epsteinsboy posts the small blind $25
+ILuvAvrilLavigne91 posts the big blind $50
+*** HOLE CARDS *** 
+SeaLlama folds
+alanwatts15 folds
+uhhhyesandno raises $125 to $125
+epsteinsboy folds
+ILuvAvrilLavigne91 folds
+Uncalled bet ($75) returned to uhhhyesandno
+uhhhyesandno does not show
+*** SUMMARY ***
+Total pot $125
+Seat 1: ILuvAvrilLavigne91 (big blind) folded on the Pre-Flop
+Seat 2: SeaLlama folded on the Pre-Flop and did not bet
+Seat 3: alanwatts15 folded on the Pre-Flop and did not bet
+Seat 4: uhhhyesandno (button) did not showed and won $125
+Seat 6: epsteinsboy (small blind) folded on the Pre-Flop
+
+
+Hand #1876336432 - Holdem(No Limit) - $25/$50 - 2023/09/28 05:08:49 UTC
+Bison 6-max Seat #2 is the button
+Seat 1: lol voidaments ($5000)
+Seat 2: ILuvAvrilLavigne91 ($10313.25)
+Seat 3: yourmomishhot ($5000)
+Seat 4: Burundos254 ($5050)
+Seat 5: iWasOnly17 ($5000)
+Seat 6: alanwatts15 ($5000)
+yourmomishhot posts the small blind $25
+Burundos254 posts the big blind $50
+*** HOLE CARDS *** 
+iWasOnly17 folds
+lol voidaments folds
+ILuvAvrilLavigne91 raises $125 to $125
+yourmomishhot folds
+Burundos254 calls $75
+*** FLOP *** [Qh 5c 3s]
+Main pot $272 | Rake $3
+Burundos254 checks
+ILuvAvrilLavigne91 bets $81.60
+Burundos254 folds
+Uncalled bet ($81.60) returned to ILuvAvrilLavigne91
+ILuvAvrilLavigne91 does not show
+*** SUMMARY ***
+Total pot $272 | Rake $3
+Seat 1: lol voidaments folded on the Pre-Flop and did not bet
+Seat 2: ILuvAvrilLavigne91 (button) did not showed and won $272
+Seat 3: yourmomishhot (small blind) folded on the Pre-Flop
+Seat 4: Burundos254 (big blind) folded on the Flop
+Seat 5: iWasOnly17 folded on the Pre-Flop and did not bet
+
+
+Hand #1876336662 - Holdem(No Limit) - $25/$50 - 2023/09/28 05:09:23 UTC
+Marathon 6-max Seat #6 is the button
+Seat 1: ILuvAvrilLavigne91 ($5222)
+Seat 2: SeaLlama ($5097)
+Seat 3: alanwatts15 ($5000)
+Seat 4: uhhhyesandno ($5000)
+Seat 5: yourmomishhot ($5000)
+Seat 6: epsteinsboy ($5000)
+ILuvAvrilLavigne91 posts the small blind $25
+SeaLlama posts the big blind $50
+*** HOLE CARDS *** 
+alanwatts15 raises $125 to $125
+uhhhyesandno folds
+epsteinsboy folds
+ILuvAvrilLavigne91 folds
+SeaLlama calls $75
+*** FLOP *** [5d 3s 6h]
+Main pot $272 | Rake $3
+SeaLlama checks
+alanwatts15 checks
+*** TURN *** [5d 3s 6h] [8c]
+Main pot $272 | Rake $3
+SeaLlama bets $70.02
+alanwatts15 calls $70.02
+*** RIVER *** [5d 3s 6h 8c] [9h]
+Main pot $412.04 | Rake $3
+SeaLlama bets $125.10
+alanwatts15 folds
+Uncalled bet ($125.10) returned to SeaLlama
+SeaLlama does not show
+*** SUMMARY ***
+Total pot $412.04 | Rake $3
+Seat 1: ILuvAvrilLavigne91 (small blind) folded on the Pre-Flop
+Seat 2: SeaLlama (big blind) did not showed and won $412.04
+Seat 3: alanwatts15 folded on the River
+Seat 4: uhhhyesandno folded on the Pre-Flop and did not bet
+Seat 6: epsteinsboy (button) folded on the Pre-Flop and did not bet
+
+
+Hand #1876337092 - Holdem(No Limit) - $25/$50 - 2023/09/28 05:09:27 UTC
+Bison 6-max Seat #3 is the button
+Seat 1: lol voidaments ($5000)
+Seat 2: ILuvAvrilLavigne91 ($10460.25)
+Seat 3: yourmomishhot ($5000)
+Seat 4: Burundos254 ($5000)
+Seat 5: iWasOnly17 ($5412.40)
+Seat 6: alanwatts15 ($5000)
+Burundos254 posts the small blind $25
+iWasOnly17 posts the big blind $50
+*** HOLE CARDS *** 
+lol voidaments folds
+ILuvAvrilLavigne91 raises $125 to $125
+yourmomishhot raises $400 to $400
+Burundos254 folds
+iWasOnly17 folds
+ILuvAvrilLavigne91 raises $1025 to $1150
+yourmomishhot raises $4600 to $5000 and is all-in
+ILuvAvrilLavigne91 folds
+Uncalled bet ($3850) returned to yourmomishhot
+yourmomishhot does not show
+*** SUMMARY ***
+Total pot $2375
+Seat 1: lol voidaments folded on the Pre-Flop and did not bet
+Seat 2: ILuvAvrilLavigne91 folded on the Pre-Flop and did not bet
+Seat 3: yourmomishhot (button) did not showed and won $2375
+Seat 4: Burundos254 (small blind) folded on the Pre-Flop
+Seat 5: iWasOnly17 (big blind) folded on the Pre-Flop
+
+
+Hand #1876337523 - Holdem(No Limit) - $25/$50 - 2023/09/28 05:09:43 UTC
+Marathon 6-max Seat #1 is the button
+Seat 1: ILuvAvrilLavigne91 ($5197)
+Seat 2: SeaLlama ($5314.02)
+Seat 3: alanwatts15 ($5000)
+Seat 4: uhhhyesandno ($5000)
+Seat 5: yourmomishhot ($5000)
+Seat 6: epsteinsboy ($5000)
+SeaLlama posts the small blind $25
+yourmomishhot posts the big blind $50
+*** HOLE CARDS *** 
+epsteinsboy folds
+ILuvAvrilLavigne91 raises $125 to $125
+SeaLlama folds
+yourmomishhot raises $500 to $550
+ILuvAvrilLavigne91 folds
+Uncalled bet ($425) returned to yourmomishhot
+yourmomishhot does not show
+*** SUMMARY ***
+Total pot $275
+Seat 1: ILuvAvrilLavigne91 (button) folded on the Pre-Flop and did not bet
+Seat 2: SeaLlama (small blind) folded on the Pre-Flop
+Seat 5: yourmomishhot (big blind) did not showed and won $275
+Seat 6: epsteinsboy folded on the Pre-Flop and did not bet
+
+
+Hand #1876337584 - Holdem(No Limit) - $25/$50 - 2023/09/28 05:10:29 UTC
+Bison 6-max Seat #4 is the button
+Seat 1: AleajactaSUCK ($5000)
+Seat 2: ILuvAvrilLavigne91 ($5000)
+Seat 3: yourmomishhot ($6225)
+Seat 4: Burundos254 ($5000)
+Seat 5: iWasOnly17 ($5362.40)
+Seat 6: alanwatts15 ($5000)
+iWasOnly17 posts the small blind $25
+alanwatts15 posts the big blind $50
+*** HOLE CARDS *** 
+AleajactaSUCK folds
+ILuvAvrilLavigne91 folds
+yourmomishhot raises $110 to $110
+Burundos254 folds
+iWasOnly17 folds
+alanwatts15 calls $60
+*** FLOP *** [4c 6h 3c]
+Main pot $242 | Rake $3
+alanwatts15 checks
+yourmomishhot checks
+*** TURN *** [4c 6h 3c] [6d]
+Main pot $242 | Rake $3
+alanwatts15 bets $183.75
+yourmomishhot folds
+Uncalled bet ($183.75) returned to alanwatts15
+alanwatts15 does not show
+*** SUMMARY ***
+Total pot $242 | Rake $3
+Seat 1: AleajactaSUCK folded on the Pre-Flop and did not bet
+Seat 2: ILuvAvrilLavigne91 folded on the Pre-Flop and did not bet
+Seat 3: yourmomishhot folded on the Turn
+Seat 4: Burundos254 (button) folded on the Pre-Flop and did not bet
+Seat 5: iWasOnly17 (small blind) folded on the Pre-Flop
+Seat 6: alanwatts15 (big blind) did not showed and won $242
+
+
+Hand #1876337809 - Holdem(No Limit) - $25/$50 - 2023/09/28 05:11:29 UTC
+Marathon 6-max Seat #2 is the button
+Seat 1: ILuvAvrilLavigne91 ($5000)
+Seat 2: SeaLlama ($5289.02)
+Seat 3: AleajactaSUCK ($5000)
+Seat 4: uhhhyesandno ($5000)
+Seat 5: yourmomishhot ($5150)
+Seat 6: epsteinsboy ($5000)
+yourmomishhot posts the small blind $25
+SeaLlama posts the big blind $50
+*** HOLE CARDS *** 
+yourmomishhot raises $125 to $150
+SeaLlama calls $100
+*** FLOP *** [Qh 7h 2h]
+Main pot $298.75 | Rake $1.25
+yourmomishhot checks
+SeaLlama checks
+*** TURN *** [Qh 7h 2h] [9d]
+Main pot $298.75 | Rake $1.25
+yourmomishhot checks
+SeaLlama bets $106.31
+yourmomishhot calls $106.31
+*** RIVER *** [Qh 7h 2h 9d] [Th]
+Main pot $511.37 | Rake $1.25
+yourmomishhot bets $508.83
+SeaLlama raises $2039.11 to $2039.11
+yourmomishhot folds
+Uncalled bet ($1530.28) returned to SeaLlama
+SeaLlama does not show
+*** SUMMARY ***
+Total pot $1529.03 | Rake $1.25
+Seat 2: SeaLlama (big blind) did not showed and won $1529.03
+Seat 5: yourmomishhot (small blind) folded on the River
+
+
+Hand #1876340197 - Holdem(No Limit) - $25/$50 - 2023/09/28 05:13:01 UTC
+Bison 6-max Seat #5 is the button
+Seat 1: AleajactaSUCK ($8619)
+Seat 2: ILuvAvrilLavigne91 ($5000)
+Seat 3: yourmomishhot ($5000)
+Seat 4: Burundos254 ($5000)
+Seat 5: iWasOnly17 ($5000)
+Seat 6: alanwatts15 ($5000)
+alanwatts15 posts the small blind $25
+AleajactaSUCK posts the big blind $50
+*** HOLE CARDS *** 
+ILuvAvrilLavigne91 folds
+yourmomishhot folds
+Burundos254 folds
+iWasOnly17 folds
+alanwatts15 folds
+*** SUMMARY ***
+Total pot $75
+Seat 1: AleajactaSUCK (big blind) did not showed and won $75
+Seat 2: ILuvAvrilLavigne91 folded on the Pre-Flop and did not bet
+Seat 3: yourmomishhot folded on the Pre-Flop and did not bet
+Seat 4: Burundos254 folded on the Pre-Flop and did not bet
+Seat 5: iWasOnly17 (button) folded on the Pre-Flop and did not bet
+Seat 6: alanwatts15 (small blind) folded on the Pre-Flop
+
+
+Hand #1876340370 - Holdem(No Limit) - $25/$50 - 2023/09/28 05:13:13 UTC
+Bison 6-max Seat #6 is the button
+Seat 1: AleajactaSUCK ($8644)
+Seat 2: ILuvAvrilLavigne91 ($5000)
+Seat 3: yourmomishhot ($5000)
+Seat 4: Burundos254 ($5000)
+Seat 5: iWasOnly17 ($5000)
+Seat 6: alanwatts15 ($5000)
+AleajactaSUCK posts the small blind $25
+Burundos254 posts the big blind $50
+*** HOLE CARDS *** 
+iWasOnly17 folds
+alanwatts15 folds
+AleajactaSUCK folds
+*** SUMMARY ***
+Total pot $75
+Seat 1: AleajactaSUCK (small blind) folded on the Pre-Flop
+Seat 4: Burundos254 (big blind) did not showed and won $75
+Seat 5: iWasOnly17 folded on the Pre-Flop and did not bet
+Seat 6: alanwatts15 (button) folded on the Pre-Flop and did not bet
+
+
+Hand #1876340521 - Holdem(No Limit) - $25/$50 - 2023/09/28 05:13:35 UTC
+Bison 6-max Seat #1 is the button
+Seat 1: AleajactaSUCK ($5000)
+Seat 3: yourmomishhot ($5000)
+Seat 4: Burundos254 ($5025)
+Seat 5: iWasOnly17 ($5087.40)
+Seat 6: alanwatts15 ($5000)
+Burundos254 posts the small blind $25
+iWasOnly17 posts the big blind $50
+*** HOLE CARDS *** 
+alanwatts15 folds
+AleajactaSUCK folds
+Burundos254 folds
+*** SUMMARY ***
+Total pot $75
+Seat 1: AleajactaSUCK (button) folded on the Pre-Flop and did not bet
+Seat 4: Burundos254 (small blind) folded on the Pre-Flop
+Seat 5: iWasOnly17 (big blind) did not showed and won $75
+Seat 6: alanwatts15 folded on the Pre-Flop and did not bet
+
+
+Hand #1876425658 - Holdem(No Limit) - $25/$50 - 2023/09/28 07:33:08 UTC
+Grand 6-max Seat #2 is the button
+Seat 1: yourmytralala ($1000)
+Seat 2: Pr.Lupine ($1000)
+Pr.Lupine posts the small blind $25
+yourmytralala posts the big blind $50
+*** HOLE CARDS *** 
+Pr.Lupine calls $25
+yourmytralala raises $950 to $1000 and is all-in
+Pr.Lupine folds
+Uncalled bet ($950) returned to yourmytralala
+yourmytralala does not show
+*** SUMMARY ***
+Total pot $100
+Seat 1: yourmytralala (big blind) did not showed and won $100
+Seat 2: Pr.Lupine (small blind) folded on the Pre-Flop
+
+
+Hand #1876779652 - Holdem(No Limit) - $25/$50 - 2023/09/28 18:19:19 UTC
+Bison 6-max Seat #1 is the button
+Seat 1: 6-7BTC ($5000)
+Seat 4: mlchelangelo ($5000)
+Seat 5: Simulacra ($2000)
+6-7BTC posts the small blind $25
+Simulacra posts the big blind $50
+*** HOLE CARDS *** 
+6-7BTC raises $91 to $116
+Simulacra folds
+Uncalled bet ($66) returned to 6-7BTC
+6-7BTC does not show
+*** SUMMARY ***
+Total pot $100
+Seat 1: 6-7BTC (small blind) did not showed and won $100
+Seat 5: Simulacra (big blind) folded on the Pre-Flop
+
+
+Hand #1876779940 - Holdem(No Limit) - $25/$50 - 2023/09/28 18:19:49 UTC
+Bison 6-max Seat #5 is the button
+Seat 1: 6-7BTC ($5050)
+Seat 5: Simulacra ($2000)
+Simulacra posts the small blind $25
+6-7BTC posts the big blind $50
+*** HOLE CARDS *** 
+Simulacra raises $75 to $100
+6-7BTC raises $300 to $350
+Simulacra folds
+Uncalled bet ($250) returned to 6-7BTC
+6-7BTC does not show
+*** SUMMARY ***
+Total pot $200
+Seat 1: 6-7BTC (big blind) did not showed and won $200
+Seat 5: Simulacra (small blind) folded on the Pre-Flop
+
+
+Hand #1876916144 - Holdem(No Limit) - $25/$50 - 2023/09/28 20:08:53 UTC
+Grand 6-max Seat #2 is the button
+Seat 1: tiagojlle ($1000)
+Seat 2: johnstark ($1000)
+johnstark posts the small blind $25
+tiagojlle posts the big blind $50
+*** HOLE CARDS *** 
+johnstark calls $25
+tiagojlle checks
+*** FLOP *** [6d 2h 9c]
+Main pot $98.75 | Rake $1.25
+tiagojlle bets $75
+johnstark folds
+Uncalled bet ($75) returned to tiagojlle
+tiagojlle does not show
+*** SUMMARY ***
+Total pot $98.75 | Rake $1.25
+Seat 1: tiagojlle (big blind) did not showed and won $98.75
+Seat 2: johnstark (small blind) folded on the Flop
+
+
+Hand #1876916707 - Holdem(No Limit) - $25/$50 - 2023/09/28 20:09:34 UTC
+Grand 6-max Seat #1 is the button
+Seat 1: tiagojlle ($1048.75)
+Seat 2: johnstark ($1000)
+tiagojlle posts the small blind $25
+johnstark posts the big blind $50
+*** HOLE CARDS *** 
+tiagojlle calls $25
+johnstark raises $150 to $200
+tiagojlle calls $150
+*** FLOP *** [Qc 7h 3s]
+Main pot $398.75 | Rake $1.25
+johnstark bets $100
+tiagojlle calls $100
+*** TURN *** [Qc 7h 3s] [7d]
+Main pot $598.75 | Rake $1.25
+johnstark checks
+tiagojlle bets $450
+johnstark folds
+Uncalled bet ($450) returned to tiagojlle
+tiagojlle does not show
+*** SUMMARY ***
+Total pot $598.75 | Rake $1.25
+Seat 1: tiagojlle (small blind) did not showed and won $598.75
+Seat 2: johnstark (big blind) folded on the Turn
+
+
+Hand #1876917598 - Holdem(No Limit) - $25/$50 - 2023/09/28 20:10:05 UTC
+Grand 6-max Seat #2 is the button
+Seat 1: tiagojlle ($1347.50)
+Seat 2: johnstark ($1000)
+Seat 3: FlyingStyle ($5000)
+johnstark posts the small blind $25
+tiagojlle posts the big blind $50
+*** HOLE CARDS *** 
+johnstark calls $25
+tiagojlle checks
+*** FLOP *** [As 8s Qd]
+Main pot $98.75 | Rake $1.25
+tiagojlle checks
+johnstark bets $50
+tiagojlle calls $50
+*** TURN *** [As 8s Qd] [3h]
+Main pot $198.75 | Rake $1.25
+tiagojlle checks
+johnstark checks
+*** RIVER *** [As 8s Qd 3h] [5c]
+Main pot $198.75 | Rake $1.25
+tiagojlle checks
+johnstark checks
+*** SUMMARY ***
+Total pot $198.75 | Rake $1.25
+Seat 1: tiagojlle (big blind) did not showed and lost
+Seat 2: johnstark (small blind) did not showed and won $198.75
+
+
+Hand #1876918318 - Holdem(No Limit) - $25/$50 - 2023/09/28 20:10:44 UTC
+Grand 6-max Seat #1 is the button
+Seat 1: tiagojlle ($1247.50)
+Seat 2: johnstark ($1098.75)
+Seat 3: FlyingStyle ($5000)
+Seat 6: mlchelangelo ($5000)
+tiagojlle posts the small blind $25
+johnstark posts the big blind $50
+*** HOLE CARDS *** 
+tiagojlle raises $75 to $100
+johnstark calls $50
+*** FLOP *** [Js Ad 4d]
+Main pot $198.75 | Rake $1.25
+johnstark checks
+tiagojlle checks
+*** TURN *** [Js Ad 4d] [Ah]
+Main pot $198.75 | Rake $1.25
+johnstark bets $100
+tiagojlle folds
+Uncalled bet ($100) returned to johnstark
+johnstark does not show
+*** SUMMARY ***
+Total pot $198.75 | Rake $1.25
+Seat 1: tiagojlle (small blind) folded on the Turn
+Seat 2: johnstark (big blind) did not showed and won $198.75
+
+
+Hand #1876919253 - Holdem(No Limit) - $25/$50 - 2023/09/28 20:11:12 UTC
+Grand 6-max Seat #1 is the button
+Seat 1: tiagojlle ($1147.50)
+Seat 2: johnstark ($1197.50)
+Seat 3: FlyingStyle ($2000)
+Seat 6: mlchelangelo ($5000)
+johnstark posts the small blind $25
+FlyingStyle posts the big blind $50
+*** HOLE CARDS *** 
+tiagojlle raises $143.75 to $143.75
+johnstark folds
+FlyingStyle raises $1950 to $2000 and is all-in
+tiagojlle calls $1003.75 and is all-in
+Uncalled bet ($852.50) returned to FlyingStyle
+FlyingStyle does not show
+*** RUN IT TWICE ***
+*** FLOP 1 *** [4h Kh 9c]
+Main pot 1 $1159.12 | Rake $0.88
+*** TURN 1 *** [4h Kh 9c] [6s]
+Main pot 1 $1159.12 | Rake $0.88
+*** RIVER 1 *** [4h Kh 9c 6s] [Th]
+Main pot 1 $1159.12 | Rake $0.88
+*** SHOW DOWN 1 ***
+Main pot 1 $1159.12 | Rake $0.88
+tiagojlle shows [Jc 7c] (a combo of some cards [Kh Jc Th 9c 7c])
+FlyingStyle shows [Qs Kd] (a combo of some cards [Kh Kd Qs Th 9c])
+FlyingStyle collected $1159.13 from main pot 1
+*** FLOP 2 *** [6h 9d Qh]
+Main pot 2 $1159.13 | Rake $0.87
+*** TURN 2 *** [6h 9d Qh] [8h]
+Main pot 2 $1159.13 | Rake $0.87
+*** RIVER 2 *** [6h 9d Qh 8h] [Js]
+Main pot 2 $1159.13 | Rake $0.87
+*** SHOW DOWN 2 ***
+Main pot 2 $1159.13 | Rake $0.87
+tiagojlle shows [Jc 7c] (a combo of some cards [Js Jc Qh 9d 8h])
+FlyingStyle shows [Qs Kd] (a combo of some cards [Qs Qh Kd Js 9d])
+FlyingStyle collected $1159.12 from main pot 2
+*** SUMMARY ***
+Total pot $2318.25 | Rake $1.75
+Board 1 [4h Kh 9c 6s Th]
+Seat 1: tiagojlle (button) showed [Jc 7c] and lost with a
+Seat 2: johnstark (small blind) folded on the Pre-Flop
+Seat 3: FlyingStyle (big blind) showed [Qs Kd] and won $1159.13 with OnePair [Kh Kd Qs Th 9c]
+Board 2 [6h 9d Qh 8h Js]
+Seat 1: tiagojlle (button) showed [Jc 7c] and lost with a
+Seat 2: johnstark (small blind) folded on the Pre-Flop
+Seat 3: FlyingStyle (big blind) showed [Qs Kd] and won $1159.12 with OnePair [Qs Qh Kd Js 9d]
+
+
+Hand #1876920250 - Holdem(No Limit) - $25/$50 - 2023/09/28 20:11:44 UTC
+Grand 6-max Seat #3 is the button
+Seat 1: tiagojlle ($5000)
+Seat 2: johnstark ($1172.50)
+Seat 3: FlyingStyle ($3170.75)
+Seat 6: mlchelangelo ($5000)
+FlyingStyle posts the small blind $25
+johnstark posts the big blind $50
+*** HOLE CARDS *** 
+FlyingStyle raises $3145.75 to $3170.75 and is all-in
+johnstark folds
+Uncalled bet ($3120.75) returned to FlyingStyle
+FlyingStyle does not show
+*** SUMMARY ***
+Total pot $100
+Seat 2: johnstark (big blind) folded on the Pre-Flop
+Seat 3: FlyingStyle (small blind) did not showed and won $100
+
+
+Hand #1876920676 - Holdem(No Limit) - $25/$50 - 2023/09/28 20:11:56 UTC
+Grand 6-max Seat #2 is the button
+Seat 1: tiagojlle ($5000)
+Seat 2: johnstark ($1122.50)
+Seat 3: FlyingStyle ($3220.75)
+Seat 4: KOLXO3HuK ($5000)
+Seat 6: mlchelangelo ($5000)
+johnstark posts the small blind $25
+FlyingStyle posts the big blind $50
+*** HOLE CARDS *** 
+johnstark folds
+*** SUMMARY ***
+Total pot $75
+Seat 2: johnstark (small blind) folded on the Pre-Flop
+Seat 3: FlyingStyle (big blind) did not showed and won $75
+
+
+Hand #1876920975 - Holdem(No Limit) - $25/$50 - 2023/09/28 20:12:08 UTC
+Grand 6-max Seat #2 is the button
+Seat 1: tiagojlle ($5000)
+Seat 2: johnstark ($5000)
+Seat 3: FlyingStyle ($3245.75)
+Seat 4: KOLXO3HuK ($1000)
+Seat 6: mlchelangelo ($5000)
+FlyingStyle posts the small blind $25
+KOLXO3HuK posts the big blind $50
+*** HOLE CARDS *** 
+johnstark folds
+FlyingStyle folds
+*** SHOW DOWN ***
+KOLXO3HuK shows [Qd Kd]
+KOLXO3HuK collected $75 from main pot
+*** SUMMARY ***
+Total pot $75
+Seat 2: johnstark (button) folded on the Pre-Flop and did not bet
+Seat 3: FlyingStyle (small blind) folded on the Pre-Flop
+Seat 4: KOLXO3HuK (big blind) showed [Qd Kd] and won $75 with a
+
+
+Hand #1876921297 - Holdem(No Limit) - $25/$50 - 2023/09/28 20:12:27 UTC
+Grand 6-max Seat #3 is the button
+Seat 1: tiagojlle ($1000)
+Seat 2: johnstark ($5000)
+Seat 3: FlyingStyle ($5000)
+Seat 4: KOLXO3HuK ($1025)
+Seat 6: mlchelangelo ($5000)
+KOLXO3HuK posts the small blind $25
+tiagojlle posts the big blind $50
+*** HOLE CARDS *** 
+johnstark folds
+FlyingStyle folds
+KOLXO3HuK folds
+*** SUMMARY ***
+Total pot $75
+Seat 1: tiagojlle (big blind) did not showed and won $75
+Seat 2: johnstark folded on the Pre-Flop and did not bet
+Seat 3: FlyingStyle (button) folded on the Pre-Flop and did not bet
+Seat 4: KOLXO3HuK (small blind) folded on the Pre-Flop
+
+
+Hand #1876921717 - Holdem(No Limit) - $25/$50 - 2023/09/28 20:13:31 UTC
+Grand 6-max Seat #4 is the button
+Seat 1: tiagojlle ($1025)
+Seat 2: johnstark ($1097.50)
+Seat 3: FlyingStyle ($5000)
+Seat 4: KOLXO3HuK ($1000)
+Seat 6: mlchelangelo ($5000)
+tiagojlle posts the small blind $25
+johnstark posts the big blind $50
+*** HOLE CARDS *** 
+FlyingStyle folds
+KOLXO3HuK raises $100 to $100
+tiagojlle calls $75
+johnstark folds
+*** FLOP *** [Tc Ks 6h]
+Main pot $247.75 | Rake $2.25
+tiagojlle checks
+KOLXO3HuK bets $75
+tiagojlle calls $75
+*** TURN *** [Tc Ks 6h] [Td]
+Main pot $397.75 | Rake $2.25
+tiagojlle checks
+KOLXO3HuK checks
+*** RIVER *** [Tc Ks 6h Td] [7s]
+Main pot $397.75 | Rake $2.25
+tiagojlle bets $300
+KOLXO3HuK folds
+Uncalled bet ($300) returned to tiagojlle
+tiagojlle does not show
+*** SUMMARY ***
+Total pot $397.75 | Rake $2.25
+Seat 1: tiagojlle (small blind) did not showed and won $397.75
+Seat 2: johnstark (big blind) folded on the Pre-Flop
+Seat 3: FlyingStyle folded on the Pre-Flop and did not bet
+Seat 4: KOLXO3HuK (button) folded on the River
+
+
+Hand #1876923247 - Holdem(No Limit) - $25/$50 - 2023/09/28 20:14:32 UTC
+Grand 6-max Seat #1 is the button
+Seat 1: tiagojlle ($5000)
+Seat 2: johnstark ($1047.50)
+Seat 3: FlyingStyle ($3220.75)
+Seat 4: KOLXO3HuK ($2000)
+Seat 5: ShemaleHunter ($5000)
+Seat 6: mlchelangelo ($5000)
+johnstark posts the small blind $25
+FlyingStyle posts the big blind $50
+*** HOLE CARDS *** 
+KOLXO3HuK raises $112.50 to $112.50
+tiagojlle folds
+johnstark folds
+FlyingStyle raises $350 to $400
+KOLXO3HuK calls $287.50
+*** FLOP *** [3h Kc Ad]
+Main pot $822.75 | Rake $2.25
+FlyingStyle bets $387.75
+KOLXO3HuK folds
+Uncalled bet ($387.75) returned to FlyingStyle
+FlyingStyle does not show
+*** SUMMARY ***
+Total pot $822.75 | Rake $2.25
+Seat 1: tiagojlle (button) folded on the Pre-Flop and did not bet
+Seat 2: johnstark (small blind) folded on the Pre-Flop
+Seat 3: FlyingStyle (big blind) did not showed and won $822.75
+Seat 4: KOLXO3HuK folded on the Flop
+
+
+Hand #1876924692 - Holdem(No Limit) - $25/$50 - 2023/09/28 20:14:58 UTC
+Grand 6-max Seat #2 is the button
+Seat 1: tiagojlle ($1247.75)
+Seat 2: johnstark ($5000)
+Seat 3: FlyingStyle ($3643.50)
+Seat 4: KOLXO3HuK ($1600)
+Seat 6: mlchelangelo ($5000)
+FlyingStyle posts the small blind $25
+KOLXO3HuK posts the big blind $50
+*** HOLE CARDS *** 
+tiagojlle raises $143.75 to $143.75
+johnstark folds
+FlyingStyle folds
+KOLXO3HuK calls $93.75
+*** FLOP *** [8s As 2c]
+Main pot $310.25 | Rake $2.25
+KOLXO3HuK checks
+tiagojlle bets $234.37
+KOLXO3HuK folds
+Uncalled bet ($234.37) returned to tiagojlle
+tiagojlle does not show
+*** SUMMARY ***
+Total pot $310.25 | Rake $2.25
+Seat 1: tiagojlle did not showed and won $310.25
+Seat 2: johnstark (button) folded on the Pre-Flop and did not bet
+Seat 3: FlyingStyle (small blind) folded on the Pre-Flop
+Seat 4: KOLXO3HuK (big blind) folded on the Flop
+
+
+Hand #1876925260 - Holdem(No Limit) - $25/$50 - 2023/09/28 20:15:31 UTC
+Grand 6-max Seat #3 is the button
+Seat 1: tiagojlle ($1414.25)
+Seat 2: johnstark ($5000)
+Seat 3: FlyingStyle ($5000)
+Seat 4: KOLXO3HuK ($1456.25)
+Seat 6: mlchelangelo ($5000)
+KOLXO3HuK posts the small blind $25
+tiagojlle posts the big blind $50
+*** HOLE CARDS *** 
+johnstark folds
+FlyingStyle folds
+KOLXO3HuK raises $100 to $125
+tiagojlle calls $75
+*** FLOP *** [8h 6h 6s]
+Main pot $247.75 | Rake $2.25
+KOLXO3HuK checks
+tiagojlle bets $250
+KOLXO3HuK folds
+Uncalled bet ($250) returned to tiagojlle
+tiagojlle does not show
+*** SUMMARY ***
+Total pot $247.75 | Rake $2.25
+Seat 1: tiagojlle (big blind) did not showed and won $247.75
+Seat 2: johnstark folded on the Pre-Flop and did not bet
+Seat 3: FlyingStyle (button) folded on the Pre-Flop and did not bet
+Seat 4: KOLXO3HuK (small blind) folded on the Flop
+
+
+Hand #1876926039 - Holdem(No Limit) - $25/$50 - 2023/09/28 20:16:04 UTC
+Grand 6-max Seat #4 is the button
+Seat 1: tiagojlle ($1537)
+Seat 2: johnstark ($1022.50)
+Seat 3: FlyingStyle ($3618.50)
+Seat 4: KOLXO3HuK ($5000)
+Seat 6: mlchelangelo ($5000)
+tiagojlle posts the small blind $25
+johnstark posts the big blind $50
+*** HOLE CARDS *** 
+FlyingStyle raises $100 to $100
+KOLXO3HuK folds
+tiagojlle calls $75
+johnstark folds
+*** FLOP *** [Ad Kc 9s]
+Main pot $247.75 | Rake $2.25
+tiagojlle checks
+FlyingStyle bets $80
+tiagojlle folds
+Uncalled bet ($80) returned to FlyingStyle
+FlyingStyle does not show
+*** SUMMARY ***
+Total pot $247.75 | Rake $2.25
+Seat 1: tiagojlle (small blind) folded on the Flop
+Seat 2: johnstark (big blind) folded on the Pre-Flop
+Seat 3: FlyingStyle did not showed and won $247.75
+Seat 4: KOLXO3HuK (button) folded on the Pre-Flop and did not bet
+
+
+Hand #1876926828 - Holdem(No Limit) - $25/$50 - 2023/09/28 20:16:36 UTC
+Grand 6-max Seat #1 is the button
+Seat 1: tiagojlle ($1437)
+Seat 2: johnstark ($1000)
+Seat 3: FlyingStyle ($3766.25)
+Seat 4: KOLXO3HuK ($1331.25)
+Seat 6: mlchelangelo ($5000)
+johnstark posts the small blind $25
+FlyingStyle posts the big blind $50
+*** HOLE CARDS *** 
+KOLXO3HuK raises $112.50 to $112.50
+tiagojlle raises $337.50 to $337.50
+johnstark folds
+FlyingStyle folds
+KOLXO3HuK folds
+Uncalled bet ($225) returned to tiagojlle
+tiagojlle does not show
+*** SUMMARY ***
+Total pot $300
+Seat 1: tiagojlle (button) did not showed and won $300
+Seat 2: johnstark (small blind) folded on the Pre-Flop
+Seat 3: FlyingStyle (big blind) folded on the Pre-Flop
+Seat 4: KOLXO3HuK folded on the Pre-Flop and did not bet
+
+
+Hand #1876927528 - Holdem(No Limit) - $25/$50 - 2023/09/28 20:16:57 UTC
+Grand 6-max Seat #2 is the button
+Seat 1: tiagojlle ($1624.50)
+Seat 2: johnstark ($5000)
+Seat 3: FlyingStyle ($3716.25)
+Seat 4: KOLXO3HuK ($1218.75)
+Seat 6: mlchelangelo ($5000)
+FlyingStyle posts the small blind $25
+KOLXO3HuK posts the big blind $50
+*** HOLE CARDS *** 
+tiagojlle raises $143.75 to $143.75
+johnstark folds
+FlyingStyle folds
+KOLXO3HuK raises $1168.75 to $1218.75 and is all-in
+tiagojlle calls $1075
+*** RUN IT TWICE ***
+*** FLOP 1 *** [5d 2s 7d]
+Main pot 1 $1230.12 | Rake $1.13
+*** TURN 1 *** [5d 2s 7d] [4s]
+Main pot 1 $1230.12 | Rake $1.13
+*** RIVER 1 *** [5d 2s 7d 4s] [Ad]
+Main pot 1 $1230.12 | Rake $1.13
+*** SHOW DOWN 1 ***
+Main pot 1 $1230.12 | Rake $1.13
+tiagojlle shows [Jh 9h] (a combo of some cards [Ad Jh 9h 7d 5d])
+KOLXO3HuK shows [3h 3d] (a combo of some cards [5d 4s 3h 2s Ad])
+KOLXO3HuK collected $1230.13 from main pot 1
+*** FLOP 2 *** [3s 5s 9d]
+Main pot 2 $1230.13 | Rake $1.12
+*** TURN 2 *** [3s 5s 9d] [5c]
+Main pot 2 $1230.13 | Rake $1.12
+*** RIVER 2 *** [3s 5s 9d 5c] [Jc]
+Main pot 2 $1230.13 | Rake $1.12
+*** SHOW DOWN 2 ***
+Main pot 2 $1230.13 | Rake $1.12
+tiagojlle shows [Jh 9h] (a combo of some cards [Jh Jc 9h 9d 5s])
+KOLXO3HuK shows [3h 3d] (a combo of some cards [3s 3h 3d 5s 5c])
+KOLXO3HuK collected $1230.12 from main pot 2
+*** SUMMARY ***
+Total pot $2460.25 | Rake $2.25
+Board 1 [5d 2s 7d 4s Ad]
+Seat 1: tiagojlle showed [Jh 9h] and lost with a
+Seat 2: johnstark (button) folded on the Pre-Flop and did not bet
+Seat 3: FlyingStyle (small blind) folded on the Pre-Flop
+Seat 4: KOLXO3HuK (big blind) showed [3h 3d] and won $1230.13 with Straight [5d 4s 3h 2s Ad]
+Board 2 [3s 5s 9d 5c Jc]
+Seat 1: tiagojlle showed [Jh 9h] and lost with a
+Seat 2: johnstark (button) folded on the Pre-Flop and did not bet
+Seat 3: FlyingStyle (small blind) folded on the Pre-Flop
+Seat 4: KOLXO3HuK (big blind) showed [3h 3d] and won $1230.12 with FullHouse [3s 3h 3d 5s 5c]
+
+
+Hand #1876928316 - Holdem(No Limit) - $25/$50 - 2023/09/28 20:17:33 UTC
+Grand 6-max Seat #3 is the button
+Seat 1: tiagojlle ($405.75)
+Seat 2: johnstark ($5000)
+Seat 3: FlyingStyle ($5000)
+Seat 4: KOLXO3HuK ($2460.25)
+Seat 6: mlchelangelo ($1000)
+KOLXO3HuK posts the small blind $25
+mlchelangelo posts the big blind $50
+*** HOLE CARDS *** 
+tiagojlle raises $405.75 to $405.75 and is all-in
+johnstark folds
+FlyingStyle folds
+KOLXO3HuK folds
+mlchelangelo folds
+Uncalled bet ($355.75) returned to tiagojlle
+tiagojlle does not show
+*** SUMMARY ***
+Total pot $125
+Seat 1: tiagojlle did not showed and won $125
+Seat 2: johnstark folded on the Pre-Flop and did not bet
+Seat 3: FlyingStyle (button) folded on the Pre-Flop and did not bet
+Seat 4: KOLXO3HuK (small blind) folded on the Pre-Flop
+Seat 6: mlchelangelo (big blind) folded on the Pre-Flop
+
+
+Hand #1876928803 - Holdem(No Limit) - $25/$50 - 2023/09/28 20:17:46 UTC
+Grand 6-max Seat #4 is the button
+Seat 1: tiagojlle ($480.75)
+Seat 2: johnstark ($5000)
+Seat 3: FlyingStyle ($5000)
+Seat 4: KOLXO3HuK ($5000)
+Seat 6: mlchelangelo ($950)
+mlchelangelo posts the small blind $25
+tiagojlle posts the big blind $50
+*** HOLE CARDS *** 
+johnstark folds
+FlyingStyle folds
+KOLXO3HuK folds
+mlchelangelo raises $925 to $950 and is all-in
+tiagojlle calls $430.75 and is all-in
+Uncalled bet ($469.25) returned to mlchelangelo
+mlchelangelo does not show
+*** FLOP *** [2d Ks Jc]
+Main pot $958.50 | Rake $3
+*** TURN *** [2d Ks Jc] [3c]
+Main pot $958.50 | Rake $3
+*** RIVER *** [2d Ks Jc 3c] [Qh]
+Main pot $958.50 | Rake $3
+*** SHOW DOWN ***
+Main pot $958.50 | Rake $3
+tiagojlle shows [Jh Js] (a combo of some cards [Js Jh Jc Ks Qh])
+mlchelangelo shows [Ac 3d] (a combo of some cards [3d 3c Ac Ks Qh])
+tiagojlle collected $958.50 from main pot
+*** SUMMARY ***
+Total pot $958.50 | Rake $3
+Seat 1: tiagojlle (big blind) showed [Jh Js] and won $958.50 with ThreeOfAKind [Js Jh Jc Ks Qh]
+Seat 2: johnstark folded on the Pre-Flop and did not bet
+Seat 3: FlyingStyle folded on the Pre-Flop and did not bet
+Seat 4: KOLXO3HuK (button) folded on the Pre-Flop and did not bet
+Seat 6: mlchelangelo (small blind) showed [Ac 3d] and lost
+
+
+Hand #1876929445 - Holdem(No Limit) - $25/$50 - 2023/09/28 20:18:14 UTC
+Grand 6-max Seat #6 is the button
+Seat 1: tiagojlle ($958.50)
+Seat 2: johnstark ($1000)
+Seat 3: FlyingStyle ($5000)
+Seat 4: KOLXO3HuK ($5000)
+Seat 6: mlchelangelo ($5000)
+tiagojlle posts the small blind $25
+johnstark posts the big blind $50
+*** HOLE CARDS *** 
+FlyingStyle folds
+KOLXO3HuK folds
+mlchelangelo folds
+tiagojlle folds
+*** SUMMARY ***
+Total pot $75
+Seat 1: tiagojlle (small blind) folded on the Pre-Flop
+Seat 2: johnstark (big blind) did not showed and won $75
+Seat 3: FlyingStyle folded on the Pre-Flop and did not bet
+Seat 4: KOLXO3HuK folded on the Pre-Flop and did not bet
+Seat 6: mlchelangelo (button) folded on the Pre-Flop and did not bet
+
+
+Hand #1876929737 - Holdem(No Limit) - $25/$50 - 2023/09/28 20:18:40 UTC
+Grand 6-max Seat #1 is the button
+Seat 1: tiagojlle ($5000)
+Seat 2: johnstark ($1025)
+Seat 3: FlyingStyle ($3691.25)
+Seat 4: KOLXO3HuK ($2435.25)
+Seat 6: mlchelangelo ($5000)
+johnstark posts the small blind $25
+FlyingStyle posts the big blind $50
+*** HOLE CARDS *** 
+KOLXO3HuK raises $112.50 to $112.50
+mlchelangelo folds
+tiagojlle folds
+johnstark folds
+FlyingStyle folds
+Uncalled bet ($62.50) returned to KOLXO3HuK
+KOLXO3HuK does not show
+*** SUMMARY ***
+Total pot $125
+Seat 1: tiagojlle (button) folded on the Pre-Flop and did not bet
+Seat 2: johnstark (small blind) folded on the Pre-Flop
+Seat 3: FlyingStyle (big blind) folded on the Pre-Flop
+Seat 4: KOLXO3HuK did not showed and won $125
+Seat 6: mlchelangelo folded on the Pre-Flop and did not bet
+
+
+Hand #1876930330 - Holdem(No Limit) - $25/$50 - 2023/09/28 20:19:08 UTC
+Grand 6-max Seat #2 is the button
+Seat 1: tiagojlle ($933.50)
+Seat 2: johnstark ($5000)
+Seat 3: FlyingStyle ($3641.25)
+Seat 4: KOLXO3HuK ($2510.25)
+Seat 6: mlchelangelo ($5000)
+FlyingStyle posts the small blind $25
+KOLXO3HuK posts the big blind $50
+*** HOLE CARDS *** 
+mlchelangelo folds
+tiagojlle raises $143.75 to $143.75
+johnstark folds
+FlyingStyle folds
+KOLXO3HuK folds
+Uncalled bet ($93.75) returned to tiagojlle
+tiagojlle does not show
+*** SUMMARY ***
+Total pot $125
+Seat 1: tiagojlle did not showed and won $125
+Seat 2: johnstark (button) folded on the Pre-Flop and did not bet
+Seat 3: FlyingStyle (small blind) folded on the Pre-Flop
+Seat 4: KOLXO3HuK (big blind) folded on the Pre-Flop
+Seat 6: mlchelangelo folded on the Pre-Flop and did not bet
+
+
+Hand #1876930939 - Holdem(No Limit) - $25/$50 - 2023/09/28 20:19:40 UTC
+Grand 6-max Seat #3 is the button
+Seat 1: tiagojlle ($5000)
+Seat 2: johnstark ($5000)
+Seat 3: FlyingStyle ($3616.25)
+Seat 4: KOLXO3HuK ($2460.25)
+Seat 6: mlchelangelo ($1000)
+KOLXO3HuK posts the small blind $25
+mlchelangelo posts the big blind $50
+*** HOLE CARDS *** 
+tiagojlle folds
+johnstark folds
+FlyingStyle raises $100 to $100
+KOLXO3HuK folds
+mlchelangelo folds
+Uncalled bet ($50) returned to FlyingStyle
+FlyingStyle does not show
+*** SUMMARY ***
+Total pot $125
+Seat 1: tiagojlle folded on the Pre-Flop and did not bet
+Seat 2: johnstark folded on the Pre-Flop and did not bet
+Seat 3: FlyingStyle (button) did not showed and won $125
+Seat 4: KOLXO3HuK (small blind) folded on the Pre-Flop
+Seat 6: mlchelangelo (big blind) folded on the Pre-Flop
+
+
+Hand #1876931657 - Holdem(No Limit) - $25/$50 - 2023/09/28 20:20:36 UTC
+Grand 6-max Seat #4 is the button
+Seat 1: tiagojlle ($1008.50)
+Seat 2: johnstark ($5000)
+Seat 3: FlyingStyle ($5000)
+Seat 4: KOLXO3HuK ($2435.25)
+Seat 6: mlchelangelo ($950)
+mlchelangelo posts the small blind $25
+tiagojlle posts the big blind $50
+*** HOLE CARDS *** 
+johnstark folds
+FlyingStyle folds
+KOLXO3HuK raises $100 to $100
+mlchelangelo folds
+tiagojlle calls $50
+*** FLOP *** [Kh Kc 5s]
+Main pot $222 | Rake $3
+tiagojlle checks
+KOLXO3HuK bets $50
+tiagojlle calls $50
+*** TURN *** [Kh Kc 5s] [Jd]
+Main pot $322 | Rake $3
+tiagojlle checks
+KOLXO3HuK checks
+*** RIVER *** [Kh Kc 5s Jd] [4c]
+Main pot $322 | Rake $3
+tiagojlle bets $243.75
+KOLXO3HuK calls $243.75
+*** SUMMARY ***
+Total pot $809.50 | Rake $3
+Seat 1: tiagojlle (big blind) did not showed and won $809.50
+Seat 2: johnstark folded on the Pre-Flop and did not bet
+Seat 3: FlyingStyle folded on the Pre-Flop and did not bet
+Seat 4: KOLXO3HuK (button) did not showed and lost
+Seat 6: mlchelangelo (small blind) folded on the Pre-Flop
+
+
+Hand #1876932925 - Holdem(No Limit) - $25/$50 - 2023/09/28 20:22:12 UTC
+Grand 6-max Seat #6 is the button
+Seat 1: tiagojlle ($1424.25)
+Seat 2: johnstark ($1000)
+Seat 3: FlyingStyle ($3691.25)
+Seat 4: KOLXO3HuK ($5000)
+Seat 6: mlchelangelo ($5000)
+tiagojlle posts the small blind $25
+johnstark posts the big blind $50
+*** HOLE CARDS *** 
+FlyingStyle raises $100 to $100
+KOLXO3HuK folds
+mlchelangelo folds
+tiagojlle folds
+johnstark calls $50
+*** FLOP *** [Qh 9d 2s]
+Main pot $222 | Rake $3
+johnstark checks
+FlyingStyle bets $51.75
+johnstark calls $51.75
+*** TURN *** [Qh 9d 2s] [Th]
+Main pot $325.50 | Rake $3
+johnstark checks
+FlyingStyle checks
+*** RIVER *** [Qh 9d 2s Th] [Jd]
+Main pot $325.50 | Rake $3
+johnstark checks
+FlyingStyle checks
+*** SUMMARY ***
+Total pot $325.50 | Rake $3
+Seat 1: tiagojlle (small blind) folded on the Pre-Flop
+Seat 2: johnstark (big blind) did not showed and lost
+Seat 3: FlyingStyle did not showed and won $325.50
+Seat 4: KOLXO3HuK folded on the Pre-Flop and did not bet
+Seat 6: mlchelangelo (button) folded on the Pre-Flop and did not bet
+
+
+Hand #1876935036 - Holdem(No Limit) - $25/$50 - 2023/09/28 20:23:54 UTC
+Grand 6-max Seat #1 is the button
+Seat 1: tiagojlle ($5000)
+Seat 2: johnstark ($1000)
+Seat 3: FlyingStyle ($3865)
+Seat 4: KOLXO3HuK ($5000)
+Seat 6: mlchelangelo ($925)
+johnstark posts the small blind $25
+FlyingStyle posts the big blind $50
+*** HOLE CARDS *** 
+KOLXO3HuK folds
+mlchelangelo raises $100 to $100
+tiagojlle folds
+johnstark folds
+FlyingStyle calls $50
+*** FLOP *** [5s 6h Ah]
+Main pot $222 | Rake $3
+FlyingStyle checks
+mlchelangelo bets $56.25
+FlyingStyle raises $139.87 to $139.87
+mlchelangelo calls $83.62
+*** TURN *** [5s 6h Ah] [Jd]
+Main pot $501.74 | Rake $3
+FlyingStyle checks
+mlchelangelo checks
+*** RIVER *** [5s 6h Ah Jd] [Ad]
+Main pot $501.74 | Rake $3
+FlyingStyle checks
+mlchelangelo checks
+*** SUMMARY ***
+Total pot $501.74 | Rake $3
+Seat 1: tiagojlle (button) folded on the Pre-Flop and did not bet
+Seat 2: johnstark (small blind) folded on the Pre-Flop
+Seat 3: FlyingStyle (big blind) did not showed and lost
+Seat 4: KOLXO3HuK folded on the Pre-Flop and did not bet
+Seat 6: mlchelangelo did not showed and won $501.74
+
+
+Hand #1876937263 - Holdem(No Limit) - $25/$50 - 2023/09/28 20:24:19 UTC
+Grand 6-max Seat #2 is the button
+Seat 1: tiagojlle ($1399.25)
+Seat 2: johnstark ($5000)
+Seat 3: FlyingStyle ($3625.13)
+Seat 4: KOLXO3HuK ($2041.50)
+Seat 6: mlchelangelo ($5000)
+FlyingStyle posts the small blind $25
+KOLXO3HuK posts the big blind $50
+*** HOLE CARDS *** 
+mlchelangelo folds
+tiagojlle raises $143.75 to $143.75
+johnstark folds
+FlyingStyle folds
+KOLXO3HuK folds
+Uncalled bet ($93.75) returned to tiagojlle
+tiagojlle does not show
+*** SUMMARY ***
+Total pot $125
+Seat 1: tiagojlle did not showed and won $125
+Seat 2: johnstark (button) folded on the Pre-Flop and did not bet
+Seat 3: FlyingStyle (small blind) folded on the Pre-Flop
+Seat 4: KOLXO3HuK (big blind) folded on the Pre-Flop
+Seat 6: mlchelangelo folded on the Pre-Flop and did not bet
+
+
+Hand #1876937751 - Holdem(No Limit) - $25/$50 - 2023/09/28 20:25:20 UTC
+Grand 6-max Seat #3 is the button
+Seat 1: tiagojlle ($1474.25)
+Seat 2: johnstark ($5000)
+Seat 3: FlyingStyle ($5000)
+Seat 4: KOLXO3HuK ($1991.50)
+Seat 6: mlchelangelo ($5000)
+KOLXO3HuK posts the small blind $25
+tiagojlle posts the big blind $50
+*** HOLE CARDS *** 
+johnstark folds
+FlyingStyle folds
+KOLXO3HuK raises $100 to $125
+tiagojlle calls $75
+*** FLOP *** [8c Ah 4s]
+Main pot $247.75 | Rake $2.25
+KOLXO3HuK bets $75
+tiagojlle calls $75
+*** TURN *** [8c Ah 4s] [7h]
+Main pot $397.75 | Rake $2.25
+KOLXO3HuK bets $300
+tiagojlle calls $300
+*** RIVER *** [8c Ah 4s 7h] [6s]
+Main pot $997.75 | Rake $2.25
+KOLXO3HuK bets $250
+tiagojlle calls $250
+*** SUMMARY ***
+Total pot $1497.75 | Rake $2.25
+Seat 1: tiagojlle (big blind) did not showed and lost
+Seat 2: johnstark folded on the Pre-Flop and did not bet
+Seat 3: FlyingStyle (button) folded on the Pre-Flop and did not bet
+Seat 4: KOLXO3HuK (small blind) did not showed and won $1497.75
+
+
+Hand #1876939087 - Holdem(No Limit) - $25/$50 - 2023/09/28 20:26:21 UTC
+Grand 6-max Seat #4 is the button
+Seat 1: tiagojlle ($724.25)
+Seat 2: johnstark ($1000)
+Seat 3: FlyingStyle ($5000)
+Seat 4: KOLXO3HuK ($2739.25)
+Seat 5: KARMASUTRA ($5000)
+Seat 6: mlchelangelo ($5000)
+tiagojlle posts the small blind $25
+johnstark posts the big blind $50
+*** HOLE CARDS *** 
+FlyingStyle folds
+KOLXO3HuK raises $112.50 to $112.50
+tiagojlle calls $87.50
+johnstark folds
+*** FLOP *** [9s Kd Kh]
+Main pot $272.75 | Rake $2.25
+tiagojlle checks
+KOLXO3HuK bets $50
+tiagojlle raises $100 to $100
+KOLXO3HuK raises $100 to $150
+tiagojlle folds
+Uncalled bet ($50) returned to KOLXO3HuK
+KOLXO3HuK does not show
+*** SUMMARY ***
+Total pot $472.75 | Rake $2.25
+Seat 1: tiagojlle (small blind) folded on the Flop
+Seat 2: johnstark (big blind) folded on the Pre-Flop
+Seat 3: FlyingStyle folded on the Pre-Flop and did not bet
+Seat 4: KOLXO3HuK (button) did not showed and won $472.75
+
+
+Hand #1876940345 - Holdem(No Limit) - $25/$50 - 2023/09/28 20:26:38 UTC
+Grand 6-max Seat #1 is the button
+Seat 1: tiagojlle ($511.75)
+Seat 2: johnstark ($1000)
+Seat 3: FlyingStyle ($3600.13)
+Seat 4: KOLXO3HuK ($5000)
+Seat 5: KARMASUTRA ($5000)
+johnstark posts the small blind $25
+FlyingStyle posts the big blind $50
+*** HOLE CARDS *** 
+KOLXO3HuK folds
+tiagojlle raises $511.75 to $511.75 and is all-in
+johnstark folds
+FlyingStyle folds
+Uncalled bet ($461.75) returned to tiagojlle
+tiagojlle does not show
+*** SUMMARY ***
+Total pot $125
+Seat 1: tiagojlle (button) did not showed and won $125
+Seat 2: johnstark (small blind) folded on the Pre-Flop
+Seat 3: FlyingStyle (big blind) folded on the Pre-Flop
+Seat 4: KOLXO3HuK folded on the Pre-Flop and did not bet
+
+
+Hand #1876940712 - Holdem(No Limit) - $25/$50 - 2023/09/28 20:27:04 UTC
+Grand 6-max Seat #2 is the button
+Seat 1: tiagojlle ($586.75)
+Seat 2: johnstark ($5000)
+Seat 3: FlyingStyle ($3550.13)
+Seat 4: KOLXO3HuK ($2999.50)
+Seat 5: KARMASUTRA ($5000)
+FlyingStyle posts the small blind $25
+KOLXO3HuK posts the big blind $50
+*** HOLE CARDS *** 
+tiagojlle raises $586.75 to $586.75 and is all-in
+johnstark folds
+FlyingStyle calls $561.75
+KOLXO3HuK folds
+*** RUN IT TWICE ***
+*** FLOP 1 *** [Ts 5d 6s]
+Main pot 1 $610.62 | Rake $1.13
+*** TURN 1 *** [Ts 5d 6s] [Ac]
+Main pot 1 $610.62 | Rake $1.13
+*** RIVER 1 *** [Ts 5d 6s Ac] [5h]
+Main pot 1 $610.62 | Rake $1.13
+*** SHOW DOWN 1 ***
+Main pot 1 $610.62 | Rake $1.13
+tiagojlle shows [2h 2s] (a combo of some cards [5h 5d 2s 2h Ac])
+FlyingStyle shows [8h Ad] (a combo of some cards [Ad Ac 5h 5d Ts])
+FlyingStyle collected $610.63 from main pot 1
+*** FLOP 2 *** [Kh 9h Jh]
+Main pot 2 $610.63 | Rake $1.12
+*** TURN 2 *** [Kh 9h Jh] [Qd]
+Main pot 2 $610.63 | Rake $1.12
+*** RIVER 2 *** [Kh 9h Jh Qd] [9d]
+Main pot 2 $610.63 | Rake $1.12
+*** SHOW DOWN 2 ***
+Main pot 2 $610.63 | Rake $1.12
+tiagojlle shows [2h 2s] (a combo of some cards [9h 9d 2s 2h Kh])
+FlyingStyle shows [8h Ad] (a combo of some cards [9h 9d Ad Kh Qd])
+tiagojlle collected $610.62 from main pot 2
+*** SUMMARY ***
+Total pot $1221.25 | Rake $2.25
+Board 1 [Ts 5d 6s Ac 5h]
+Seat 1: tiagojlle showed [2h 2s] and lost with a
+Seat 2: johnstark (button) folded on the Pre-Flop and did not bet
+Seat 3: FlyingStyle (small blind) showed [8h Ad] and won $610.63 with TwoPair [Ad Ac 5h 5d Ts]
+Seat 4: KOLXO3HuK (big blind) folded on the Pre-Flop
+Board 2 [Kh 9h Jh Qd 9d]
+Seat 1: tiagojlle showed [2h 2s] and won $610.62 with TwoPair [9h 9d 2s 2h Kh]
+Seat 2: johnstark (button) folded on the Pre-Flop and did not bet
+Seat 3: FlyingStyle (small blind) showed [8h Ad] and lost with a
+Seat 4: KOLXO3HuK (big blind) folded on the Pre-Flop
+
+
+Hand #1876941621 - Holdem(No Limit) - $25/$50 - 2023/09/28 20:28:14 UTC
+Grand 6-max Seat #3 is the button
+Seat 1: tiagojlle ($610.62)
+Seat 2: johnstark ($1000)
+Seat 3: FlyingStyle ($5000)
+Seat 4: KOLXO3HuK ($2949.50)
+Seat 5: KARMASUTRA ($5000)
+KOLXO3HuK posts the small blind $25
+tiagojlle posts the big blind $50
+*** HOLE CARDS *** 
+johnstark raises $100 to $100
+FlyingStyle folds
+KOLXO3HuK calls $75
+tiagojlle calls $50
+*** FLOP *** [Td As 5c]
+Main pot $297.75 | Rake $2.25
+KOLXO3HuK checks
+tiagojlle checks
+johnstark bets $75
+KOLXO3HuK folds
+tiagojlle folds
+Uncalled bet ($75) returned to johnstark
+johnstark does not show
+*** SUMMARY ***
+Total pot $297.75 | Rake $2.25
+Seat 1: tiagojlle (big blind) folded on the Flop
+Seat 2: johnstark did not showed and won $297.75
+Seat 3: FlyingStyle (button) folded on the Pre-Flop and did not bet
+Seat 4: KOLXO3HuK (small blind) folded on the Flop
+
+
+Hand #1876942810 - Holdem(No Limit) - $25/$50 - 2023/09/28 20:28:33 UTC
+Grand 6-max Seat #4 is the button
+Seat 1: tiagojlle ($510.62)
+Seat 2: johnstark ($1197.75)
+Seat 3: FlyingStyle ($5000)
+Seat 4: KOLXO3HuK ($5000)
+Seat 5: KARMASUTRA ($5000)
+tiagojlle posts the small blind $25
+johnstark posts the big blind $50
+*** HOLE CARDS *** 
+FlyingStyle folds
+KOLXO3HuK folds
+tiagojlle raises $485.62 to $510.62 and is all-in
+johnstark calls $460.62
+*** RUN IT TWICE ***
+*** FLOP 1 *** [5c 2d 3d]
+Main pot 1 $509.49 | Rake $1.13
+*** TURN 1 *** [5c 2d 3d] [7s]
+Main pot 1 $509.49 | Rake $1.13
+*** RIVER 1 *** [5c 2d 3d 7s] [5h]
+Main pot 1 $509.49 | Rake $1.13
+*** SHOW DOWN 1 ***
+Main pot 1 $509.49 | Rake $1.13
+tiagojlle shows [9h 6d] (a combo of some cards [5h 5c 9h 7s 6d])
+johnstark shows [9c 9s] (a combo of some cards [9s 9c 5h 5c 7s])
+johnstark collected $509.50 from main pot 1
+*** FLOP 2 *** [Ad 2h Jc]
+Main pot 2 $509.50 | Rake $1.12
+*** TURN 2 *** [Ad 2h Jc] [Ac]
+Main pot 2 $509.50 | Rake $1.12
+*** RIVER 2 *** [Ad 2h Jc Ac] [6h]
+Main pot 2 $509.50 | Rake $1.12
+*** SHOW DOWN 2 ***
+Main pot 2 $509.50 | Rake $1.12
+tiagojlle shows [9h 6d] (a combo of some cards [Ad Ac 6h 6d Jc])
+johnstark shows [9c 9s] (a combo of some cards [Ad Ac 9s 9c Jc])
+johnstark collected $509.49 from main pot 2
+*** SUMMARY ***
+Total pot $1018.99 | Rake $2.25
+Board 1 [5c 2d 3d 7s 5h]
+Seat 1: tiagojlle (small blind) showed [9h 6d] and lost with a
+Seat 2: johnstark (big blind) showed [9c 9s] and won $509.50 with TwoPair [9s 9c 5h 5c 7s]
+Seat 3: FlyingStyle folded on the Pre-Flop and did not bet
+Seat 4: KOLXO3HuK (button) folded on the Pre-Flop and did not bet
+Board 2 [Ad 2h Jc Ac 6h]
+Seat 1: tiagojlle (small blind) showed [9h 6d] and lost with a
+Seat 2: johnstark (big blind) showed [9c 9s] and won $509.49 with TwoPair [Ad Ac 9s 9c Jc]
+Seat 3: FlyingStyle folded on the Pre-Flop and did not bet
+Seat 4: KOLXO3HuK (button) folded on the Pre-Flop and did not bet
+
+
+Hand #1876943522 - Holdem(No Limit) - $25/$50 - 2023/09/28 20:29:33 UTC
+Grand 6-max Seat #1 is the button
+Seat 1: tiagojlle ($5000)
+Seat 2: johnstark ($1706.12)
+Seat 3: FlyingStyle ($3574.01)
+Seat 4: KOLXO3HuK ($5000)
+Seat 5: KARMASUTRA ($5000)
+johnstark posts the small blind $25
+FlyingStyle posts the big blind $50
+*** HOLE CARDS *** 
+KOLXO3HuK folds
+johnstark calls $25
+FlyingStyle raises $225 to $275
+johnstark folds
+Uncalled bet ($225) returned to FlyingStyle
+FlyingStyle does not show
+*** SUMMARY ***
+Total pot $100
+Seat 2: johnstark (small blind) folded on the Pre-Flop
+Seat 3: FlyingStyle (big blind) did not showed and won $100
+Seat 4: KOLXO3HuK folded on the Pre-Flop and did not bet
+
+
+Hand #1876944509 - Holdem(No Limit) - $25/$50 - 2023/09/28 20:29:43 UTC
+Grand 6-max Seat #2 is the button
+Seat 2: johnstark ($5000)
+Seat 3: FlyingStyle ($3624.01)
+Seat 4: KOLXO3HuK ($2849.50)
+Seat 5: KARMASUTRA ($5000)
+FlyingStyle posts the small blind $25
+KOLXO3HuK posts the big blind $50
+*** HOLE CARDS *** 
+johnstark folds
+FlyingStyle folds
+*** SUMMARY ***
+Total pot $75
+Seat 2: johnstark (button) folded on the Pre-Flop and did not bet
+Seat 3: FlyingStyle (small blind) folded on the Pre-Flop
+Seat 4: KOLXO3HuK (big blind) did not showed and won $75
+
+
+Hand #1876946495 - Holdem(No Limit) - $25/$50 - 2023/09/28 20:31:17 UTC
+Grand 6-max Seat #5 is the button
+Seat 2: indiego ($1000)
+Seat 3: FlyingStyle ($5000)
+Seat 4: KOLXO3HuK ($5000)
+Seat 5: KARMASUTRA ($1000)
+KARMASUTRA posts the small blind $25
+indiego posts the big blind $50
+*** HOLE CARDS *** 
+KARMASUTRA folds
+*** SUMMARY ***
+Total pot $75
+Seat 2: indiego (big blind) did not showed and won $75
+Seat 5: KARMASUTRA (small blind) folded on the Pre-Flop
+
+
+Hand #1876946714 - Holdem(No Limit) - $25/$50 - 2023/09/28 20:31:25 UTC
+Grand 6-max Seat #2 is the button
+Seat 2: indiego ($1025)
+Seat 5: KARMASUTRA ($1000)
+indiego posts the small blind $25
+KARMASUTRA posts the big blind $50
+*** HOLE CARDS *** 
+indiego folds
+*** SUMMARY ***
+Total pot $75
+Seat 2: indiego (small blind) folded on the Pre-Flop
+Seat 5: KARMASUTRA (big blind) did not showed and won $75
+
+
+Hand #1876946877 - Holdem(No Limit) - $25/$50 - 2023/09/28 20:31:31 UTC
+Grand 6-max Seat #5 is the button
+Seat 2: indiego ($1000)
+Seat 5: KARMASUTRA ($1025)
+KARMASUTRA posts the small blind $25
+indiego posts the big blind $50
+*** HOLE CARDS *** 
+KARMASUTRA folds
+*** SUMMARY ***
+Total pot $75
+Seat 2: indiego (big blind) did not showed and won $75
+Seat 5: KARMASUTRA (small blind) folded on the Pre-Flop
+
+
+Hand #1876947024 - Holdem(No Limit) - $25/$50 - 2023/09/28 20:31:38 UTC
+Grand 6-max Seat #2 is the button
+Seat 2: indiego ($1025)
+Seat 5: KARMASUTRA ($1000)
+indiego posts the small blind $25
+KARMASUTRA posts the big blind $50
+*** HOLE CARDS *** 
+indiego folds
+*** SUMMARY ***
+Total pot $75
+Seat 2: indiego (small blind) folded on the Pre-Flop
+Seat 5: KARMASUTRA (big blind) did not showed and won $75
+
+
+
+

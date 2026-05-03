@@ -1,0 +1,53 @@
+
+Hand #1909557337 - Holdem(No Limit) - $50/$100 - 2023/10/27 02:48:43 UTC
+Mark 6-max Seat #3 is the button
+Seat 2: lol voidaments ($10000)
+Seat 3: RealMenRathole ($10000)
+Seat 6: 7SkyAroundMe ($10000)
+RealMenRathole posts ante $500
+7SkyAroundMe posts ante $500
+*** HOLE CARDS *** 
+*** FLOP *** [3s 6h Ah]
+Main pot $998.75 | Rake $1.25
+7SkyAroundMe checks
+RealMenRathole bets $250
+7SkyAroundMe folds
+Uncalled bet ($250) returned to RealMenRathole
+RealMenRathole does not show
+*** SUMMARY ***
+BombPot
+Total pot $998.75 | Rake $1.25
+Seat 3: RealMenRathole (button) did not showed and won $998.75
+Seat 6: 7SkyAroundMe folded on the Flop
+
+
+Hand #1909560058 - Holdem(No Limit) - $50/$100 - 2023/10/27 02:51:44 UTC
+Mark 6-max Seat #2 is the button
+Seat 2: lol voidaments ($13015.01)
+Seat 3: RealMenRathole ($10000)
+Seat 6: 7SkyAroundMe ($10000)
+lol voidaments posts ante $500
+7SkyAroundMe posts ante $500
+*** HOLE CARDS *** 
+*** FLOP *** [Tc 3c 6s]
+Main pot $998.75 | Rake $1.25
+7SkyAroundMe checks
+lol voidaments checks
+*** TURN *** [Tc 3c 6s] [Th]
+Main pot $998.75 | Rake $1.25
+7SkyAroundMe checks
+lol voidaments checks
+*** RIVER *** [Tc 3c 6s Th] [Jd]
+Main pot $998.75 | Rake $1.25
+7SkyAroundMe bets $500
+lol voidaments calls $500
+*** SHOW DOWN ***
+Main pot $998.75 | Rake $1.25
+lol voidaments shows [3s Kd]
+lol voidaments collected $1998.75 from main pot
+*** SUMMARY ***
+BombPot
+Total pot $1998.75 | Rake $1.25
+Seat 2: lol voidaments (button) showed [3s Kd] and won $1998.75 with TwoPair [Th Tc 3s 3c Kd]
+Seat 6: 7SkyAroundMe did not showed and lost
+

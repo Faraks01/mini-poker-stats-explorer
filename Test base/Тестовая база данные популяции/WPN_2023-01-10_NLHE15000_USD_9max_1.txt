@@ -1,0 +1,3170 @@
+PokerStars Hand #1516203970:  Hold'em No Limit ($75.00/$150.00 USD) - 2023/01/10 03:18:57 ET
+Table 'WPN_7 Day No Rathole 75/150 NLH' 9-max Seat #3 is the button
+Seat 1: el0el ($8115.51 in chips)
+Seat 2: degen1990 ($9621.00 in chips)
+Seat 3: Haftbefehl ($1500.00 in chips)
+Seat 4: bigsoowoop ($12236.76 in chips)
+Seat 5: recruitme ($6363.00 in chips)
+Seat 7: DoublelegTD ($12044.63 in chips)
+Seat 8: b00ma ($1650.00 in chips)
+Seat 9: shipum7 ($1500.00 in chips)
+bigsoowoop: posts small blind $75.00
+recruitme: posts big blind $150.00
+*** HOLE CARDS ***
+DoublelegTD: folds
+b00ma: folds
+shipum7: folds
+el0el: folds
+degen1990: folds
+Haftbefehl: folds
+bigsoowoop: folds
+Uncalled bet ($75.00) returned to recruitme
+recruitme collected $150.00 from pot
+recruitme: doesn't show hand
+*** SUMMARY ***
+Total pot $150.00 | Rake $0.00
+Seat 1: el0el folded before Flop (didn't bet)
+Seat 2: degen1990 folded before Flop (didn't bet)
+Seat 3: Haftbefehl (button) folded before Flop (didn't bet)
+Seat 4: bigsoowoop (small blind) folded before Flop
+Seat 5: recruitme (big blind) collected ($150.00)
+Seat 7: DoublelegTD folded before Flop (didn't bet)
+Seat 8: b00ma folded before Flop (didn't bet)
+Seat 9: shipum7 folded before Flop (didn't bet)
+
+PokerStars Hand #1516204367:  Hold'em No Limit ($75.00/$150.00 USD) - 2023/01/10 03:19:17 ET
+Table 'WPN_7 Day No Rathole 75/150 NLH' 9-max Seat #4 is the button
+Seat 1: el0el ($8115.51 in chips)
+Seat 2: degen1990 ($9621.00 in chips)
+Seat 3: Haftbefehl ($1500.00 in chips)
+Seat 4: bigsoowoop ($12161.76 in chips)
+Seat 5: recruitme ($6438.00 in chips)
+Seat 6: CPUrul0r ($2794.72 in chips)
+Seat 7: DoublelegTD ($12044.63 in chips)
+Seat 8: b00ma ($1650.00 in chips)
+Seat 9: shipum7 ($1500.00 in chips)
+recruitme: posts small blind $75.00
+CPUrul0r: posts big blind $150.00
+*** HOLE CARDS ***
+DoublelegTD: folds
+b00ma: folds
+shipum7: folds
+el0el: folds
+degen1990: raises $180.00 to $330.00
+Haftbefehl: folds
+bigsoowoop: folds
+recruitme: calls $255.00
+CPUrul0r: folds
+*** FLOP *** [5s 7c Ac]
+recruitme: checks
+degen1990: checks
+*** TURN *** [5s 7c Ac] [4s]
+recruitme: checks
+degen1990: checks
+*** RIVER *** [5s 7c Ac 4s] [3s]
+recruitme: bets $405.00
+degen1990: folds
+Uncalled bet ($405.00) returned to recruitme
+recruitme collected $807.00 from pot
+recruitme: doesn't show hand
+*** SUMMARY ***
+Total pot $810.00 | Rake $3.00
+Board [5s 7c Ac 4s 3s]
+Seat 1: el0el folded before Flop (didn't bet)
+Seat 2: degen1990 folded on the River
+Seat 3: Haftbefehl folded before Flop (didn't bet)
+Seat 4: bigsoowoop (button) folded before Flop (didn't bet)
+Seat 5: recruitme (small blind) collected ($807.00)
+Seat 6: CPUrul0r (big blind) folded before Flop
+Seat 7: DoublelegTD folded before Flop (didn't bet)
+Seat 8: b00ma folded before Flop (didn't bet)
+Seat 9: shipum7 folded before Flop (didn't bet)
+
+PokerStars Hand #1516206122:  Hold'em No Limit ($75.00/$150.00 USD) - 2023/01/10 03:20:40 ET
+Table 'WPN_7 Day No Rathole 75/150 NLH' 9-max Seat #5 is the button
+Seat 1: el0el ($8115.51 in chips)
+Seat 2: degen1990 ($9291.00 in chips)
+Seat 3: Haftbefehl ($1500.00 in chips)
+Seat 4: bigsoowoop ($12161.76 in chips)
+Seat 5: recruitme ($6915.00 in chips)
+Seat 6: CPUrul0r ($2644.72 in chips)
+Seat 7: DoublelegTD ($12044.63 in chips)
+Seat 8: b00ma ($1650.00 in chips)
+Seat 9: shipum7 ($1500.00 in chips)
+CPUrul0r: posts small blind $75.00
+DoublelegTD: posts big blind $150.00
+*** HOLE CARDS ***
+b00ma: folds
+shipum7: folds
+el0el: folds
+degen1990: folds
+Haftbefehl: raises $1350.00 to $1500.00 and is all-in
+bigsoowoop: folds
+recruitme: folds
+CPUrul0r: folds
+DoublelegTD: calls $1350.00
+*** FLOP *** [Jh Qd 6h]
+*** TURN *** [Jh Qd 6h] [4d]
+*** RIVER *** [Jh Qd 6h 4d] [Ad]
+*** SHOW DOWN ***
+Haftbefehl: shows [9d Td]
+DoublelegTD: shows [As 9c]
+Haftbefehl collected $3072.00 from pot
+*** SUMMARY ***
+Total pot $3075.00 | Rake $3.00
+Board [Jh Qd 6h 4d Ad]
+Seat 1: el0el folded before Flop (didn't bet)
+Seat 2: degen1990 folded before Flop (didn't bet)
+Seat 3: Haftbefehl showed [9d Td] and won ($3072.00)
+Seat 4: bigsoowoop folded before Flop (didn't bet)
+Seat 5: recruitme (button) folded before Flop (didn't bet)
+Seat 6: CPUrul0r (small blind) folded before Flop
+Seat 7: DoublelegTD (big blind) showed [As 9c] and lost
+Seat 8: b00ma folded before Flop (didn't bet)
+Seat 9: shipum7 folded before Flop (didn't bet)
+
+PokerStars Hand #1516207373:  Hold'em No Limit ($75.00/$150.00 USD) - 2023/01/10 03:21:41 ET
+Table 'WPN_7 Day No Rathole 75/150 NLH' 9-max Seat #6 is the button
+Seat 1: el0el ($8115.51 in chips)
+Seat 2: degen1990 ($9291.00 in chips)
+Seat 3: Haftbefehl ($3072.00 in chips)
+Seat 4: bigsoowoop ($12161.76 in chips)
+Seat 5: recruitme ($6915.00 in chips)
+Seat 6: CPUrul0r ($2569.72 in chips)
+Seat 7: DoublelegTD ($10544.63 in chips)
+Seat 8: b00ma ($1650.00 in chips)
+Seat 9: shipum7 ($1500.00 in chips)
+DoublelegTD: posts small blind $75.00
+b00ma: posts big blind $150.00
+*** HOLE CARDS ***
+shipum7: folds
+el0el: folds
+degen1990: folds
+Haftbefehl: folds
+bigsoowoop: folds
+recruitme: folds
+CPUrul0r: raises $150.00 to $300.00
+DoublelegTD: folds
+b00ma: calls $150.00
+*** FLOP *** [2c 4c 6h]
+b00ma: checks
+CPUrul0r: checks
+*** TURN *** [2c 4c 6h] [5d]
+b00ma: checks
+CPUrul0r: checks
+*** RIVER *** [2c 4c 6h 5d] [3s]
+b00ma: bets $1350.00 and is all-in
+CPUrul0r: calls $1350.00
+*** SHOW DOWN ***
+CPUrul0r: shows [5s Ks]
+b00ma: shows [9h Js]
+CPUrul0r collected $1686.00 from pot
+b00ma collected $1686.00 from pot
+*** SUMMARY ***
+Total pot $3375.00 | Rake $3.00
+Board [2c 4c 6h 5d 3s]
+Seat 1: el0el folded before Flop (didn't bet)
+Seat 2: degen1990 folded before Flop (didn't bet)
+Seat 3: Haftbefehl folded before Flop (didn't bet)
+Seat 4: bigsoowoop folded before Flop (didn't bet)
+Seat 5: recruitme folded before Flop (didn't bet)
+Seat 6: CPUrul0r (button) showed [5s Ks] and won ($1686.00)
+Seat 7: DoublelegTD (small blind) folded before Flop
+Seat 8: b00ma (big blind) showed [9h Js] and won ($1686.00)
+Seat 9: shipum7 folded before Flop (didn't bet)
+
+PokerStars Hand #1516208987:  Hold'em No Limit ($75.00/$150.00 USD) - 2023/01/10 03:22:59 ET
+Table 'WPN_7 Day No Rathole 75/150 NLH' 9-max Seat #7 is the button
+Seat 1: el0el ($8115.51 in chips)
+Seat 2: degen1990 ($9291.00 in chips)
+Seat 3: Haftbefehl ($3072.00 in chips)
+Seat 4: bigsoowoop ($12161.76 in chips)
+Seat 5: recruitme ($6915.00 in chips)
+Seat 6: CPUrul0r ($2605.72 in chips)
+Seat 7: DoublelegTD ($10469.63 in chips)
+Seat 8: b00ma ($1686.00 in chips)
+Seat 9: shipum7 ($1500.00 in chips)
+b00ma: posts small blind $75.00
+shipum7: posts big blind $150.00
+*** HOLE CARDS ***
+el0el: folds
+degen1990: folds
+Haftbefehl: folds
+bigsoowoop: folds
+recruitme: raises $150.00 to $300.00
+CPUrul0r: folds
+DoublelegTD: folds
+b00ma: folds
+shipum7: folds
+Uncalled bet ($150.00) returned to recruitme
+recruitme collected $375.00 from pot
+recruitme: doesn't show hand
+*** SUMMARY ***
+Total pot $375.00 | Rake $0.00
+Seat 1: el0el folded before Flop (didn't bet)
+Seat 2: degen1990 folded before Flop (didn't bet)
+Seat 3: Haftbefehl folded before Flop (didn't bet)
+Seat 4: bigsoowoop folded before Flop (didn't bet)
+Seat 5: recruitme collected ($375.00)
+Seat 6: CPUrul0r folded before Flop (didn't bet)
+Seat 7: DoublelegTD (button) folded before Flop (didn't bet)
+Seat 8: b00ma (small blind) folded before Flop
+Seat 9: shipum7 (big blind) folded before Flop
+
+PokerStars Hand #1516209517:  Hold'em No Limit ($75.00/$150.00 USD) - 2023/01/10 03:23:25 ET
+Table 'WPN_7 Day No Rathole 75/150 NLH' 9-max Seat #8 is the button
+Seat 1: el0el ($8115.51 in chips)
+Seat 2: degen1990 ($9291.00 in chips)
+Seat 3: Haftbefehl ($3072.00 in chips)
+Seat 4: bigsoowoop ($12161.76 in chips)
+Seat 5: recruitme ($7140.00 in chips)
+Seat 6: CPUrul0r ($2605.72 in chips)
+Seat 7: DoublelegTD ($10469.63 in chips)
+Seat 8: b00ma ($1611.00 in chips)
+Seat 9: shipum7 ($1350.00 in chips)
+shipum7: posts small blind $75.00
+el0el: posts big blind $150.00
+*** HOLE CARDS ***
+degen1990: folds
+Haftbefehl: folds
+bigsoowoop: folds
+recruitme: folds
+CPUrul0r: folds
+DoublelegTD: raises $150.00 to $300.00
+b00ma: folds
+shipum7: raises $1050.00 to $1350.00 and is all-in
+el0el: folds
+DoublelegTD: calls $1050.00
+*** FLOP *** [Kd 6h 6d]
+*** TURN *** [Kd 6h 6d] [9d]
+*** RIVER *** [Kd 6h 6d 9d] [Qs]
+*** SHOW DOWN ***
+DoublelegTD: shows [As Ah]
+shipum7: shows [Ac Ks]
+DoublelegTD collected $2847.00 from pot
+*** SUMMARY ***
+Total pot $2850.00 | Rake $3.00
+Board [Kd 6h 6d 9d Qs]
+Seat 1: el0el (big blind) folded before Flop
+Seat 2: degen1990 folded before Flop (didn't bet)
+Seat 3: Haftbefehl folded before Flop (didn't bet)
+Seat 4: bigsoowoop folded before Flop (didn't bet)
+Seat 5: recruitme folded before Flop (didn't bet)
+Seat 6: CPUrul0r folded before Flop (didn't bet)
+Seat 7: DoublelegTD showed [As Ah] and won ($2847.00)
+Seat 8: b00ma (button) folded before Flop (didn't bet)
+Seat 9: shipum7 (small blind) showed [Ac Ks] and lost
+
+PokerStars Hand #1516210278:  Hold'em No Limit ($75.00/$150.00 USD) - 2023/01/10 03:24:04 ET
+Table 'WPN_7 Day No Rathole 75/150 NLH' 9-max Seat #9 is the button
+Seat 1: el0el ($7965.51 in chips)
+Seat 2: degen1990 ($9291.00 in chips)
+Seat 3: Haftbefehl ($3072.00 in chips)
+Seat 4: bigsoowoop ($12161.76 in chips)
+Seat 5: recruitme ($7140.00 in chips)
+Seat 6: CPUrul0r ($2605.72 in chips)
+Seat 7: DoublelegTD ($11966.63 in chips)
+Seat 8: b00ma ($1611.00 in chips)
+el0el: posts small blind $75.00
+degen1990: posts big blind $150.00
+*** HOLE CARDS ***
+Haftbefehl: folds
+bigsoowoop: folds
+recruitme: folds
+CPUrul0r: folds
+DoublelegTD: folds
+b00ma: folds
+el0el: folds
+Uncalled bet ($75.00) returned to degen1990
+degen1990 collected $150.00 from pot
+degen1990: doesn't show hand
+*** SUMMARY ***
+Total pot $150.00 | Rake $0.00
+Seat 1: el0el (small blind) folded before Flop
+Seat 2: degen1990 (big blind) collected ($150.00)
+Seat 3: Haftbefehl folded before Flop (didn't bet)
+Seat 4: bigsoowoop folded before Flop (didn't bet)
+Seat 5: recruitme folded before Flop (didn't bet)
+Seat 6: CPUrul0r folded before Flop (didn't bet)
+Seat 7: DoublelegTD folded before Flop (didn't bet)
+Seat 8: b00ma folded before Flop (didn't bet)
+
+PokerStars Hand #1516210677:  Hold'em No Limit ($75.00/$150.00 USD) - 2023/01/10 03:24:23 ET
+Table 'WPN_7 Day No Rathole 75/150 NLH' 9-max Seat #1 is the button
+Seat 1: el0el ($7890.51 in chips)
+Seat 2: degen1990 ($9366.00 in chips)
+Seat 3: Haftbefehl ($3072.00 in chips)
+Seat 4: bigsoowoop ($12161.76 in chips)
+Seat 5: recruitme ($7140.00 in chips)
+Seat 6: CPUrul0r ($2605.72 in chips)
+Seat 7: DoublelegTD ($11966.63 in chips)
+Seat 8: b00ma ($1611.00 in chips)
+degen1990: posts small blind $75.00
+Haftbefehl: posts big blind $150.00
+*** HOLE CARDS ***
+bigsoowoop: folds
+recruitme: folds
+CPUrul0r: folds
+DoublelegTD: folds
+b00ma: folds
+el0el: raises $150.00 to $300.00
+degen1990: folds
+Haftbefehl: folds
+Uncalled bet ($150.00) returned to el0el
+el0el collected $375.00 from pot
+el0el: doesn't show hand
+*** SUMMARY ***
+Total pot $375.00 | Rake $0.00
+Seat 1: el0el (button) collected ($375.00)
+Seat 2: degen1990 (small blind) folded before Flop
+Seat 3: Haftbefehl (big blind) folded before Flop
+Seat 4: bigsoowoop folded before Flop (didn't bet)
+Seat 5: recruitme folded before Flop (didn't bet)
+Seat 6: CPUrul0r folded before Flop (didn't bet)
+Seat 7: DoublelegTD folded before Flop (didn't bet)
+Seat 8: b00ma folded before Flop (didn't bet)
+
+PokerStars Hand #1516211133:  Hold'em No Limit ($75.00/$150.00 USD) - 2023/01/10 03:24:44 ET
+Table 'WPN_7 Day No Rathole 75/150 NLH' 9-max Seat #2 is the button
+Seat 1: el0el ($8115.51 in chips)
+Seat 2: degen1990 ($9291.00 in chips)
+Seat 3: Haftbefehl ($2922.00 in chips)
+Seat 4: bigsoowoop ($12161.76 in chips)
+Seat 5: recruitme ($7140.00 in chips)
+Seat 6: CPUrul0r ($2605.72 in chips)
+Seat 7: DoublelegTD ($11966.63 in chips)
+Seat 8: b00ma ($1611.00 in chips)
+Haftbefehl: posts small blind $75.00
+bigsoowoop: posts big blind $150.00
+*** HOLE CARDS ***
+recruitme: folds
+CPUrul0r: folds
+DoublelegTD: folds
+b00ma: folds
+el0el: folds
+degen1990: folds
+Haftbefehl: folds
+Uncalled bet ($75.00) returned to bigsoowoop
+bigsoowoop collected $150.00 from pot
+bigsoowoop: doesn't show hand
+*** SUMMARY ***
+Total pot $150.00 | Rake $0.00
+Seat 1: el0el folded before Flop (didn't bet)
+Seat 2: degen1990 (button) folded before Flop (didn't bet)
+Seat 3: Haftbefehl (small blind) folded before Flop
+Seat 4: bigsoowoop (big blind) collected ($150.00)
+Seat 5: recruitme folded before Flop (didn't bet)
+Seat 6: CPUrul0r folded before Flop (didn't bet)
+Seat 7: DoublelegTD folded before Flop (didn't bet)
+Seat 8: b00ma folded before Flop (didn't bet)
+
+PokerStars Hand #1516211409:  Hold'em No Limit ($75.00/$150.00 USD) - 2023/01/10 03:24:57 ET
+Table 'WPN_7 Day No Rathole 75/150 NLH' 9-max Seat #3 is the button
+Seat 1: el0el ($8115.51 in chips)
+Seat 2: degen1990 ($9291.00 in chips)
+Seat 3: Haftbefehl ($2847.00 in chips)
+Seat 4: bigsoowoop ($12236.76 in chips)
+Seat 5: recruitme ($7140.00 in chips)
+Seat 6: CPUrul0r ($2605.72 in chips)
+Seat 7: DoublelegTD ($11966.63 in chips)
+Seat 8: b00ma ($1611.00 in chips)
+bigsoowoop: posts small blind $75.00
+recruitme: posts big blind $150.00
+*** HOLE CARDS ***
+CPUrul0r: folds
+DoublelegTD: folds
+b00ma: folds
+el0el: folds
+degen1990: folds
+Haftbefehl: raises $2697.00 to $2847.00 and is all-in
+bigsoowoop: folds
+recruitme: folds
+Uncalled bet ($2697.00) returned to Haftbefehl
+Haftbefehl collected $375.00 from pot
+Haftbefehl: doesn't show hand
+*** SUMMARY ***
+Total pot $375.00 | Rake $0.00
+Seat 1: el0el folded before Flop (didn't bet)
+Seat 2: degen1990 folded before Flop (didn't bet)
+Seat 3: Haftbefehl (button) collected ($375.00)
+Seat 4: bigsoowoop (small blind) folded before Flop
+Seat 5: recruitme (big blind) folded before Flop
+Seat 6: CPUrul0r folded before Flop (didn't bet)
+Seat 7: DoublelegTD folded before Flop (didn't bet)
+Seat 8: b00ma folded before Flop (didn't bet)
+
+PokerStars Hand #1516211841:  Hold'em No Limit ($75.00/$150.00 USD) - 2023/01/10 03:25:17 ET
+Table 'WPN_7 Day No Rathole 75/150 NLH' 9-max Seat #4 is the button
+Seat 1: el0el ($8115.51 in chips)
+Seat 2: degen1990 ($9291.00 in chips)
+Seat 3: Haftbefehl ($3072.00 in chips)
+Seat 4: bigsoowoop ($12161.76 in chips)
+Seat 5: recruitme ($6990.00 in chips)
+Seat 6: CPUrul0r ($2605.72 in chips)
+Seat 7: DoublelegTD ($11966.63 in chips)
+Seat 8: b00ma ($1611.00 in chips)
+recruitme: posts small blind $75.00
+CPUrul0r: posts big blind $150.00
+*** HOLE CARDS ***
+DoublelegTD: raises $150.00 to $300.00
+b00ma: folds
+el0el: folds
+degen1990: folds
+Haftbefehl: folds
+bigsoowoop: folds
+recruitme: folds
+CPUrul0r: calls $150.00
+*** FLOP *** [2c Ks 5s]
+CPUrul0r: checks
+DoublelegTD: bets $202.50
+CPUrul0r: folds
+Uncalled bet ($202.50) returned to DoublelegTD
+DoublelegTD collected $672.00 from pot
+DoublelegTD: doesn't show hand
+*** SUMMARY ***
+Total pot $675.00 | Rake $3.00
+Board [2c Ks 5s]
+Seat 1: el0el folded before Flop (didn't bet)
+Seat 2: degen1990 folded before Flop (didn't bet)
+Seat 3: Haftbefehl folded before Flop (didn't bet)
+Seat 4: bigsoowoop (button) folded before Flop (didn't bet)
+Seat 5: recruitme (small blind) folded before Flop
+Seat 6: CPUrul0r (big blind) folded on the Flop
+Seat 7: DoublelegTD collected ($672.00)
+Seat 8: b00ma folded before Flop (didn't bet)
+
+PokerStars Hand #1516212407:  Hold'em No Limit ($75.00/$150.00 USD) - 2023/01/10 03:25:45 ET
+Table 'WPN_7 Day No Rathole 75/150 NLH' 9-max Seat #5 is the button
+Seat 1: el0el ($8115.51 in chips)
+Seat 2: degen1990 ($9291.00 in chips)
+Seat 3: Haftbefehl ($3072.00 in chips)
+Seat 4: bigsoowoop ($12161.76 in chips)
+Seat 5: recruitme ($6915.00 in chips)
+Seat 6: CPUrul0r ($2305.72 in chips)
+Seat 7: DoublelegTD ($12338.63 in chips)
+Seat 8: b00ma ($1611.00 in chips)
+CPUrul0r: posts small blind $75.00
+DoublelegTD: posts big blind $150.00
+*** HOLE CARDS ***
+b00ma: folds
+el0el: folds
+degen1990: folds
+Haftbefehl: folds
+bigsoowoop: folds
+recruitme: folds
+CPUrul0r: raises $195.00 to $345.00
+DoublelegTD: calls $195.00
+*** FLOP *** [7s 9c 5h]
+CPUrul0r: bets $1960.72 and is all-in
+DoublelegTD: folds
+Uncalled bet ($1960.72) returned to CPUrul0r
+CPUrul0r collected $687.00 from pot
+CPUrul0r: doesn't show hand
+*** SUMMARY ***
+Total pot $690.00 | Rake $3.00
+Board [7s 9c 5h]
+Seat 1: el0el folded before Flop (didn't bet)
+Seat 2: degen1990 folded before Flop (didn't bet)
+Seat 3: Haftbefehl folded before Flop (didn't bet)
+Seat 4: bigsoowoop folded before Flop (didn't bet)
+Seat 5: recruitme (button) folded before Flop (didn't bet)
+Seat 6: CPUrul0r (small blind) collected ($687.00)
+Seat 7: DoublelegTD (big blind) folded on the Flop
+Seat 8: b00ma folded before Flop (didn't bet)
+
+PokerStars Hand #1516213504:  Hold'em No Limit ($75.00/$150.00 USD) - 2023/01/10 03:26:38 ET
+Table 'WPN_7 Day No Rathole 75/150 NLH' 9-max Seat #6 is the button
+Seat 1: el0el ($8115.51 in chips)
+Seat 2: degen1990 ($9291.00 in chips)
+Seat 3: Haftbefehl ($3072.00 in chips)
+Seat 4: bigsoowoop ($12161.76 in chips)
+Seat 5: recruitme ($6915.00 in chips)
+Seat 6: CPUrul0r ($2647.72 in chips)
+Seat 7: DoublelegTD ($11993.63 in chips)
+DoublelegTD: posts small blind $75.00
+el0el: posts big blind $150.00
+*** HOLE CARDS ***
+degen1990: raises $150.00 to $300.00
+Haftbefehl: folds
+bigsoowoop: folds
+recruitme: folds
+CPUrul0r: folds
+DoublelegTD: folds
+el0el: folds
+Uncalled bet ($150.00) returned to degen1990
+degen1990 collected $375.00 from pot
+degen1990: doesn't show hand
+*** SUMMARY ***
+Total pot $375.00 | Rake $0.00
+Seat 1: el0el (big blind) folded before Flop
+Seat 2: degen1990 collected ($375.00)
+Seat 3: Haftbefehl folded before Flop (didn't bet)
+Seat 4: bigsoowoop folded before Flop (didn't bet)
+Seat 5: recruitme folded before Flop (didn't bet)
+Seat 6: CPUrul0r (button) folded before Flop (didn't bet)
+Seat 7: DoublelegTD (small blind) folded before Flop
+
+PokerStars Hand #1516213798:  Hold'em No Limit ($75.00/$150.00 USD) - 2023/01/10 03:26:51 ET
+Table 'WPN_7 Day No Rathole 75/150 NLH' 9-max Seat #7 is the button
+Seat 1: el0el ($7965.51 in chips)
+Seat 2: degen1990 ($9516.00 in chips)
+Seat 3: Haftbefehl ($3072.00 in chips)
+Seat 4: bigsoowoop ($12161.76 in chips)
+Seat 5: recruitme ($6915.00 in chips)
+Seat 6: CPUrul0r ($2647.72 in chips)
+Seat 7: DoublelegTD ($11918.63 in chips)
+el0el: posts small blind $75.00
+degen1990: posts big blind $150.00
+*** HOLE CARDS ***
+Haftbefehl: folds
+bigsoowoop: folds
+recruitme: raises $150.00 to $300.00
+CPUrul0r: folds
+DoublelegTD: folds
+el0el: folds
+degen1990: folds
+Uncalled bet ($150.00) returned to recruitme
+recruitme collected $375.00 from pot
+recruitme: doesn't show hand
+*** SUMMARY ***
+Total pot $375.00 | Rake $0.00
+Seat 1: el0el (small blind) folded before Flop
+Seat 2: degen1990 (big blind) folded before Flop
+Seat 3: Haftbefehl folded before Flop (didn't bet)
+Seat 4: bigsoowoop folded before Flop (didn't bet)
+Seat 5: recruitme collected ($375.00)
+Seat 6: CPUrul0r folded before Flop (didn't bet)
+Seat 7: DoublelegTD (button) folded before Flop (didn't bet)
+
+PokerStars Hand #1516214293:  Hold'em No Limit ($75.00/$150.00 USD) - 2023/01/10 03:27:14 ET
+Table 'WPN_7 Day No Rathole 75/150 NLH' 9-max Seat #1 is the button
+Seat 1: el0el ($7890.51 in chips)
+Seat 2: degen1990 ($9366.00 in chips)
+Seat 3: Haftbefehl ($3072.00 in chips)
+Seat 4: bigsoowoop ($12161.76 in chips)
+Seat 5: recruitme ($7140.00 in chips)
+Seat 6: CPUrul0r ($2647.72 in chips)
+Seat 7: DoublelegTD ($11918.63 in chips)
+degen1990: posts small blind $75.00
+Haftbefehl: posts big blind $150.00
+*** HOLE CARDS ***
+bigsoowoop: folds
+recruitme: folds
+CPUrul0r: folds
+DoublelegTD: folds
+el0el: folds
+degen1990: folds
+Uncalled bet ($75.00) returned to Haftbefehl
+Haftbefehl collected $150.00 from pot
+Haftbefehl: doesn't show hand
+*** SUMMARY ***
+Total pot $150.00 | Rake $0.00
+Seat 1: el0el (button) folded before Flop (didn't bet)
+Seat 2: degen1990 (small blind) folded before Flop
+Seat 3: Haftbefehl (big blind) collected ($150.00)
+Seat 4: bigsoowoop folded before Flop (didn't bet)
+Seat 5: recruitme folded before Flop (didn't bet)
+Seat 6: CPUrul0r folded before Flop (didn't bet)
+Seat 7: DoublelegTD folded before Flop (didn't bet)
+
+PokerStars Hand #1516214723:  Hold'em No Limit ($75.00/$150.00 USD) - 2023/01/10 03:27:36 ET
+Table 'WPN_7 Day No Rathole 75/150 NLH' 9-max Seat #2 is the button
+Seat 1: el0el ($7890.51 in chips)
+Seat 2: degen1990 ($9291.00 in chips)
+Seat 3: Haftbefehl ($3147.00 in chips)
+Seat 4: bigsoowoop ($12161.76 in chips)
+Seat 5: recruitme ($7140.00 in chips)
+Seat 6: CPUrul0r ($2647.72 in chips)
+Seat 7: DoublelegTD ($11918.63 in chips)
+Seat 9: Meek Bill ($7621.50 in chips)
+Haftbefehl: posts small blind $75.00
+bigsoowoop: posts big blind $150.00
+*** HOLE CARDS ***
+recruitme: folds
+CPUrul0r: folds
+DoublelegTD: folds
+el0el: folds
+degen1990: folds
+Haftbefehl: folds
+Uncalled bet ($75.00) returned to bigsoowoop
+bigsoowoop collected $150.00 from pot
+bigsoowoop: doesn't show hand
+*** SUMMARY ***
+Total pot $150.00 | Rake $0.00
+Seat 1: el0el folded before Flop (didn't bet)
+Seat 2: degen1990 (button) folded before Flop (didn't bet)
+Seat 3: Haftbefehl (small blind) folded before Flop
+Seat 4: bigsoowoop (big blind) collected ($150.00)
+Seat 5: recruitme folded before Flop (didn't bet)
+Seat 6: CPUrul0r folded before Flop (didn't bet)
+Seat 7: DoublelegTD folded before Flop (didn't bet)
+
+PokerStars Hand #1516215021:  Hold'em No Limit ($75.00/$150.00 USD) - 2023/01/10 03:27:50 ET
+Table 'WPN_7 Day No Rathole 75/150 NLH' 9-max Seat #3 is the button
+Seat 1: el0el ($7890.51 in chips)
+Seat 2: degen1990 ($9291.00 in chips)
+Seat 3: Haftbefehl ($3072.00 in chips)
+Seat 4: bigsoowoop ($12236.76 in chips)
+Seat 5: recruitme ($7140.00 in chips)
+Seat 6: CPUrul0r ($2647.72 in chips)
+Seat 7: DoublelegTD ($11918.63 in chips)
+Seat 9: Meek Bill ($7621.50 in chips)
+bigsoowoop: posts small blind $75.00
+recruitme: posts big blind $150.00
+*** HOLE CARDS ***
+CPUrul0r: folds
+DoublelegTD: folds
+el0el: folds
+degen1990: folds
+Haftbefehl: folds
+bigsoowoop: folds
+Uncalled bet ($75.00) returned to recruitme
+recruitme collected $150.00 from pot
+recruitme: doesn't show hand
+*** SUMMARY ***
+Total pot $150.00 | Rake $0.00
+Seat 1: el0el folded before Flop (didn't bet)
+Seat 2: degen1990 folded before Flop (didn't bet)
+Seat 3: Haftbefehl (button) folded before Flop (didn't bet)
+Seat 4: bigsoowoop (small blind) folded before Flop
+Seat 5: recruitme (big blind) collected ($150.00)
+Seat 6: CPUrul0r folded before Flop (didn't bet)
+Seat 7: DoublelegTD folded before Flop (didn't bet)
+
+PokerStars Hand #1516215397:  Hold'em No Limit ($75.00/$150.00 USD) - 2023/01/10 03:28:08 ET
+Table 'WPN_7 Day No Rathole 75/150 NLH' 9-max Seat #4 is the button
+Seat 1: el0el ($7890.51 in chips)
+Seat 2: degen1990 ($9291.00 in chips)
+Seat 3: Haftbefehl ($3072.00 in chips)
+Seat 4: bigsoowoop ($12161.76 in chips)
+Seat 5: recruitme ($7215.00 in chips)
+Seat 6: CPUrul0r ($2647.72 in chips)
+Seat 7: DoublelegTD ($11918.63 in chips)
+Seat 9: Meek Bill ($7621.50 in chips)
+recruitme: posts small blind $75.00
+CPUrul0r: posts big blind $150.00
+*** HOLE CARDS ***
+DoublelegTD: folds
+el0el: folds
+degen1990: folds
+Haftbefehl: folds
+bigsoowoop: folds
+recruitme: folds
+Uncalled bet ($75.00) returned to CPUrul0r
+CPUrul0r collected $150.00 from pot
+CPUrul0r: doesn't show hand
+*** SUMMARY ***
+Total pot $150.00 | Rake $0.00
+Seat 1: el0el folded before Flop (didn't bet)
+Seat 2: degen1990 folded before Flop (didn't bet)
+Seat 3: Haftbefehl folded before Flop (didn't bet)
+Seat 4: bigsoowoop (button) folded before Flop (didn't bet)
+Seat 5: recruitme (small blind) folded before Flop
+Seat 6: CPUrul0r (big blind) collected ($150.00)
+Seat 7: DoublelegTD folded before Flop (didn't bet)
+
+PokerStars Hand #1516215877:  Hold'em No Limit ($75.00/$150.00 USD) - 2023/01/10 03:28:30 ET
+Table 'WPN_7 Day No Rathole 75/150 NLH' 9-max Seat #5 is the button
+Seat 1: el0el ($7890.51 in chips)
+Seat 2: degen1990 ($9291.00 in chips)
+Seat 3: Haftbefehl ($3072.00 in chips)
+Seat 4: bigsoowoop ($12161.76 in chips)
+Seat 5: recruitme ($7140.00 in chips)
+Seat 6: CPUrul0r ($2722.72 in chips)
+Seat 7: DoublelegTD ($11918.63 in chips)
+Seat 9: Meek Bill ($7621.50 in chips)
+CPUrul0r: posts small blind $75.00
+DoublelegTD: posts big blind $150.00
+*** HOLE CARDS ***
+el0el: folds
+degen1990: folds
+Haftbefehl: raises $150.00 to $300.00
+bigsoowoop: folds
+recruitme: calls $300.00
+CPUrul0r: folds
+DoublelegTD: folds
+*** FLOP *** [2s 7c Kd]
+Haftbefehl: checks
+recruitme: bets $281.25
+Haftbefehl: calls $281.25
+*** TURN *** [2s 7c Kd] [4d]
+Haftbefehl: checks
+recruitme: bets $543.75
+Haftbefehl: calls $543.75
+*** RIVER *** [2s 7c Kd 4d] [4s]
+Haftbefehl: checks
+recruitme: bets $2006.25
+Haftbefehl: calls $1947.00 and is all-in
+Uncalled bet ($59.25) returned to recruitme
+*** SHOW DOWN ***
+Haftbefehl: shows [Qd Kc]
+recruitme: shows [Qh Kh]
+Haftbefehl collected $3183.00 from pot
+recruitme collected $3183.00 from pot
+*** SUMMARY ***
+Total pot $6369.00 | Rake $3.00
+Board [2s 7c Kd 4d 4s]
+Seat 1: el0el folded before Flop (didn't bet)
+Seat 2: degen1990 folded before Flop (didn't bet)
+Seat 3: Haftbefehl showed [Qd Kc] and won ($3183.00)
+Seat 4: bigsoowoop folded before Flop (didn't bet)
+Seat 5: recruitme (button) showed [Qh Kh] and won ($3183.00)
+Seat 6: CPUrul0r (small blind) folded before Flop
+Seat 7: DoublelegTD (big blind) folded before Flop
+
+PokerStars Hand #1516217604:  Hold'em No Limit ($75.00/$150.00 USD) - 2023/01/10 03:29:53 ET
+Table 'WPN_7 Day No Rathole 75/150 NLH' 9-max Seat #6 is the button
+Seat 1: el0el ($7890.51 in chips)
+Seat 2: degen1990 ($9291.00 in chips)
+Seat 3: Haftbefehl ($3183.00 in chips)
+Seat 4: bigsoowoop ($12161.76 in chips)
+Seat 5: recruitme ($7251.00 in chips)
+Seat 6: CPUrul0r ($2647.72 in chips)
+Seat 7: DoublelegTD ($11768.63 in chips)
+Seat 9: Meek Bill ($7621.50 in chips)
+DoublelegTD: posts small blind $75.00
+Meek Bill: posts big blind $150.00
+*** HOLE CARDS ***
+el0el: folds
+degen1990: folds
+Haftbefehl: raises $150.00 to $300.00
+bigsoowoop: folds
+recruitme: folds
+CPUrul0r: folds
+DoublelegTD: folds
+Meek Bill: folds
+Uncalled bet ($150.00) returned to Haftbefehl
+Haftbefehl collected $375.00 from pot
+Haftbefehl: doesn't show hand
+*** SUMMARY ***
+Total pot $375.00 | Rake $0.00
+Seat 1: el0el folded before Flop (didn't bet)
+Seat 2: degen1990 folded before Flop (didn't bet)
+Seat 3: Haftbefehl collected ($375.00)
+Seat 4: bigsoowoop folded before Flop (didn't bet)
+Seat 5: recruitme folded before Flop (didn't bet)
+Seat 6: CPUrul0r (button) folded before Flop (didn't bet)
+Seat 7: DoublelegTD (small blind) folded before Flop
+Seat 9: Meek Bill (big blind) folded before Flop
+
+PokerStars Hand #1516217909:  Hold'em No Limit ($75.00/$150.00 USD) - 2023/01/10 03:30:08 ET
+Table 'WPN_7 Day No Rathole 75/150 NLH' 9-max Seat #7 is the button
+Seat 1: el0el ($7890.51 in chips)
+Seat 2: degen1990 ($9291.00 in chips)
+Seat 3: Haftbefehl ($3408.00 in chips)
+Seat 4: bigsoowoop ($12161.76 in chips)
+Seat 5: recruitme ($7251.00 in chips)
+Seat 6: CPUrul0r ($2647.72 in chips)
+Seat 7: DoublelegTD ($11693.63 in chips)
+Seat 9: Meek Bill ($7471.50 in chips)
+Meek Bill: posts small blind $75.00
+el0el: posts big blind $150.00
+*** HOLE CARDS ***
+degen1990: folds
+Haftbefehl: folds
+bigsoowoop: folds
+recruitme: folds
+CPUrul0r: folds
+DoublelegTD: raises $180.00 to $330.00
+Meek Bill: folds
+el0el: calls $180.00
+*** FLOP *** [4d 2s Jc]
+el0el: checks
+DoublelegTD: checks
+*** TURN *** [4d 2s Jc] [3h]
+el0el: bets $551.25
+DoublelegTD: folds
+Uncalled bet ($551.25) returned to el0el
+el0el collected $732.00 from pot
+el0el: doesn't show hand
+*** SUMMARY ***
+Total pot $735.00 | Rake $3.00
+Board [4d 2s Jc 3h]
+Seat 1: el0el (big blind) collected ($732.00)
+Seat 2: degen1990 folded before Flop (didn't bet)
+Seat 3: Haftbefehl folded before Flop (didn't bet)
+Seat 4: bigsoowoop folded before Flop (didn't bet)
+Seat 5: recruitme folded before Flop (didn't bet)
+Seat 6: CPUrul0r folded before Flop (didn't bet)
+Seat 7: DoublelegTD (button) folded on the Turn
+Seat 9: Meek Bill (small blind) folded before Flop
+
+PokerStars Hand #1516219060:  Hold'em No Limit ($75.00/$150.00 USD) - 2023/01/10 03:31:05 ET
+Table 'WPN_7 Day No Rathole 75/150 NLH' 9-max Seat #9 is the button
+Seat 1: el0el ($8292.51 in chips)
+Seat 2: degen1990 ($9291.00 in chips)
+Seat 3: Haftbefehl ($3408.00 in chips)
+Seat 4: bigsoowoop ($12161.76 in chips)
+Seat 5: recruitme ($7251.00 in chips)
+Seat 6: CPUrul0r ($2647.72 in chips)
+Seat 7: DoublelegTD ($11363.63 in chips)
+Seat 8: b00ma ($1611.00 in chips)
+Seat 9: Meek Bill ($7396.50 in chips)
+el0el: posts small blind $75.00
+degen1990: posts big blind $150.00
+*** HOLE CARDS ***
+Haftbefehl: folds
+bigsoowoop: folds
+recruitme: folds
+CPUrul0r: folds
+DoublelegTD: folds
+Meek Bill: folds
+el0el: raises $225.00 to $375.00
+degen1990: folds
+Uncalled bet ($225.00) returned to el0el
+el0el collected $300.00 from pot
+el0el: doesn't show hand
+*** SUMMARY ***
+Total pot $300.00 | Rake $0.00
+Seat 1: el0el (small blind) collected ($300.00)
+Seat 2: degen1990 (big blind) folded before Flop
+Seat 3: Haftbefehl folded before Flop (didn't bet)
+Seat 4: bigsoowoop folded before Flop (didn't bet)
+Seat 5: recruitme folded before Flop (didn't bet)
+Seat 6: CPUrul0r folded before Flop (didn't bet)
+Seat 7: DoublelegTD folded before Flop (didn't bet)
+Seat 9: Meek Bill (button) folded before Flop (didn't bet)
+
+PokerStars Hand #1516219714:  Hold'em No Limit ($75.00/$150.00 USD) - 2023/01/10 03:31:36 ET
+Table 'WPN_7 Day No Rathole 75/150 NLH' 9-max Seat #1 is the button
+Seat 1: el0el ($8442.51 in chips)
+Seat 2: degen1990 ($9141.00 in chips)
+Seat 3: Haftbefehl ($3408.00 in chips)
+Seat 4: bigsoowoop ($12161.76 in chips)
+Seat 5: recruitme ($7251.00 in chips)
+Seat 6: CPUrul0r ($2647.72 in chips)
+Seat 7: DoublelegTD ($11363.63 in chips)
+Seat 8: b00ma ($1611.00 in chips)
+Seat 9: Meek Bill ($7396.50 in chips)
+degen1990: posts small blind $75.00
+Haftbefehl: posts big blind $150.00
+*** HOLE CARDS ***
+bigsoowoop: folds
+recruitme: folds
+CPUrul0r: folds
+DoublelegTD: raises $150.00 to $300.00
+Meek Bill: folds
+el0el: folds
+degen1990: folds
+Haftbefehl: folds
+Uncalled bet ($150.00) returned to DoublelegTD
+DoublelegTD collected $375.00 from pot
+DoublelegTD: doesn't show hand
+*** SUMMARY ***
+Total pot $375.00 | Rake $0.00
+Seat 1: el0el (button) folded before Flop (didn't bet)
+Seat 2: degen1990 (small blind) folded before Flop
+Seat 3: Haftbefehl (big blind) folded before Flop
+Seat 4: bigsoowoop folded before Flop (didn't bet)
+Seat 5: recruitme folded before Flop (didn't bet)
+Seat 6: CPUrul0r folded before Flop (didn't bet)
+Seat 7: DoublelegTD collected ($375.00)
+Seat 9: Meek Bill folded before Flop (didn't bet)
+
+PokerStars Hand #1516220068:  Hold'em No Limit ($75.00/$150.00 USD) - 2023/01/10 03:31:53 ET
+Table 'WPN_7 Day No Rathole 75/150 NLH' 9-max Seat #2 is the button
+Seat 1: el0el ($8442.51 in chips)
+Seat 2: degen1990 ($9066.00 in chips)
+Seat 3: Haftbefehl ($3258.00 in chips)
+Seat 4: bigsoowoop ($12161.76 in chips)
+Seat 5: recruitme ($7251.00 in chips)
+Seat 6: CPUrul0r ($2647.72 in chips)
+Seat 7: DoublelegTD ($11588.63 in chips)
+Seat 8: b00ma ($1611.00 in chips)
+Seat 9: Meek Bill ($7396.50 in chips)
+Haftbefehl: posts small blind $75.00
+bigsoowoop: posts big blind $150.00
+*** HOLE CARDS ***
+recruitme: folds
+CPUrul0r: folds
+DoublelegTD: folds
+Meek Bill: folds
+el0el: folds
+degen1990: folds
+Haftbefehl: folds
+Uncalled bet ($75.00) returned to bigsoowoop
+bigsoowoop collected $150.00 from pot
+bigsoowoop: doesn't show hand
+*** SUMMARY ***
+Total pot $150.00 | Rake $0.00
+Seat 1: el0el folded before Flop (didn't bet)
+Seat 2: degen1990 (button) folded before Flop (didn't bet)
+Seat 3: Haftbefehl (small blind) folded before Flop
+Seat 4: bigsoowoop (big blind) collected ($150.00)
+Seat 5: recruitme folded before Flop (didn't bet)
+Seat 6: CPUrul0r folded before Flop (didn't bet)
+Seat 7: DoublelegTD folded before Flop (didn't bet)
+Seat 9: Meek Bill folded before Flop (didn't bet)
+
+PokerStars Hand #1516220617:  Hold'em No Limit ($75.00/$150.00 USD) - 2023/01/10 03:32:20 ET
+Table 'WPN_7 Day No Rathole 75/150 NLH' 9-max Seat #3 is the button
+Seat 1: el0el ($8442.51 in chips)
+Seat 2: degen1990 ($9066.00 in chips)
+Seat 3: Haftbefehl ($3183.00 in chips)
+Seat 4: bigsoowoop ($12236.76 in chips)
+Seat 5: recruitme ($7251.00 in chips)
+Seat 6: CPUrul0r ($2647.72 in chips)
+Seat 7: DoublelegTD ($11588.63 in chips)
+Seat 8: b00ma ($1611.00 in chips)
+Seat 9: Meek Bill ($7396.50 in chips)
+bigsoowoop: posts small blind $75.00
+recruitme: posts big blind $150.00
+*** HOLE CARDS ***
+CPUrul0r: folds
+DoublelegTD: folds
+Meek Bill: folds
+el0el: folds
+degen1990: folds
+Haftbefehl: folds
+bigsoowoop: raises $300.00 to $450.00
+recruitme: calls $300.00
+*** FLOP *** [7d 5c 9h]
+bigsoowoop: checks
+recruitme: checks
+*** TURN *** [7d 5c 9h] [9c]
+bigsoowoop: checks
+recruitme: checks
+*** RIVER *** [7d 5c 9h 9c] [2s]
+bigsoowoop: bets $1125.00
+recruitme: folds
+Uncalled bet ($1125.00) returned to bigsoowoop
+bigsoowoop collected $897.00 from pot
+bigsoowoop: doesn't show hand
+*** SUMMARY ***
+Total pot $900.00 | Rake $3.00
+Board [7d 5c 9h 9c 2s]
+Seat 1: el0el folded before Flop (didn't bet)
+Seat 2: degen1990 folded before Flop (didn't bet)
+Seat 3: Haftbefehl (button) folded before Flop (didn't bet)
+Seat 4: bigsoowoop (small blind) collected ($897.00)
+Seat 5: recruitme (big blind) folded on the River
+Seat 6: CPUrul0r folded before Flop (didn't bet)
+Seat 7: DoublelegTD folded before Flop (didn't bet)
+Seat 9: Meek Bill folded before Flop (didn't bet)
+
+PokerStars Hand #1516222072:  Hold'em No Limit ($75.00/$150.00 USD) - 2023/01/10 03:33:31 ET
+Table 'WPN_7 Day No Rathole 75/150 NLH' 9-max Seat #4 is the button
+Seat 1: el0el ($8442.51 in chips)
+Seat 2: degen1990 ($9066.00 in chips)
+Seat 3: Haftbefehl ($3183.00 in chips)
+Seat 4: bigsoowoop ($12683.76 in chips)
+Seat 5: recruitme ($6801.00 in chips)
+Seat 6: CPUrul0r ($2647.72 in chips)
+Seat 7: DoublelegTD ($11588.63 in chips)
+Seat 8: b00ma ($1611.00 in chips)
+Seat 9: Meek Bill ($7396.50 in chips)
+recruitme: posts small blind $75.00
+CPUrul0r: posts big blind $150.00
+*** HOLE CARDS ***
+DoublelegTD: folds
+Meek Bill: folds
+el0el: folds
+degen1990: folds
+Haftbefehl: folds
+bigsoowoop: folds
+recruitme: folds
+Uncalled bet ($75.00) returned to CPUrul0r
+CPUrul0r collected $150.00 from pot
+CPUrul0r: doesn't show hand
+*** SUMMARY ***
+Total pot $150.00 | Rake $0.00
+Seat 1: el0el folded before Flop (didn't bet)
+Seat 2: degen1990 folded before Flop (didn't bet)
+Seat 3: Haftbefehl folded before Flop (didn't bet)
+Seat 4: bigsoowoop (button) folded before Flop (didn't bet)
+Seat 5: recruitme (small blind) folded before Flop
+Seat 6: CPUrul0r (big blind) collected ($150.00)
+Seat 7: DoublelegTD folded before Flop (didn't bet)
+Seat 9: Meek Bill folded before Flop (didn't bet)
+
+PokerStars Hand #1516222534:  Hold'em No Limit ($75.00/$150.00 USD) - 2023/01/10 03:33:54 ET
+Table 'WPN_7 Day No Rathole 75/150 NLH' 9-max Seat #5 is the button
+Seat 1: el0el ($8442.51 in chips)
+Seat 2: degen1990 ($9066.00 in chips)
+Seat 3: Haftbefehl ($3183.00 in chips)
+Seat 4: bigsoowoop ($12683.76 in chips)
+Seat 5: recruitme ($6726.00 in chips)
+Seat 6: CPUrul0r ($2722.72 in chips)
+Seat 7: DoublelegTD ($11588.63 in chips)
+Seat 8: b00ma ($1611.00 in chips)
+Seat 9: Meek Bill ($7396.50 in chips)
+CPUrul0r: posts small blind $75.00
+DoublelegTD: posts big blind $150.00
+*** HOLE CARDS ***
+Meek Bill: folds
+el0el: folds
+degen1990: folds
+Haftbefehl: folds
+bigsoowoop: raises $150.00 to $300.00
+recruitme: folds
+CPUrul0r: folds
+DoublelegTD: folds
+Uncalled bet ($150.00) returned to bigsoowoop
+bigsoowoop collected $375.00 from pot
+bigsoowoop: doesn't show hand
+*** SUMMARY ***
+Total pot $375.00 | Rake $0.00
+Seat 1: el0el folded before Flop (didn't bet)
+Seat 2: degen1990 folded before Flop (didn't bet)
+Seat 3: Haftbefehl folded before Flop (didn't bet)
+Seat 4: bigsoowoop collected ($375.00)
+Seat 5: recruitme (button) folded before Flop (didn't bet)
+Seat 6: CPUrul0r (small blind) folded before Flop
+Seat 7: DoublelegTD (big blind) folded before Flop
+Seat 9: Meek Bill folded before Flop (didn't bet)
+
+PokerStars Hand #1516223451:  Hold'em No Limit ($75.00/$150.00 USD) - 2023/01/10 03:34:38 ET
+Table 'WPN_7 Day No Rathole 75/150 NLH' 9-max Seat #6 is the button
+Seat 1: el0el ($8442.51 in chips)
+Seat 2: degen1990 ($9066.00 in chips)
+Seat 3: Haftbefehl ($3183.00 in chips)
+Seat 4: bigsoowoop ($12908.76 in chips)
+Seat 5: recruitme ($6726.00 in chips)
+Seat 6: CPUrul0r ($2647.72 in chips)
+Seat 7: DoublelegTD ($11438.63 in chips)
+Seat 8: b00ma ($1611.00 in chips)
+Seat 9: Meek Bill ($7396.50 in chips)
+DoublelegTD: posts small blind $75.00
+b00ma: posts big blind $150.00
+*** HOLE CARDS ***
+Meek Bill: folds
+el0el: folds
+degen1990: folds
+Haftbefehl: folds
+bigsoowoop: folds
+recruitme: folds
+CPUrul0r: folds
+DoublelegTD: folds
+Uncalled bet ($75.00) returned to b00ma
+b00ma collected $150.00 from pot
+b00ma: doesn't show hand
+*** SUMMARY ***
+Total pot $150.00 | Rake $0.00
+Seat 1: el0el folded before Flop (didn't bet)
+Seat 2: degen1990 folded before Flop (didn't bet)
+Seat 3: Haftbefehl folded before Flop (didn't bet)
+Seat 4: bigsoowoop folded before Flop (didn't bet)
+Seat 5: recruitme folded before Flop (didn't bet)
+Seat 6: CPUrul0r (button) folded before Flop (didn't bet)
+Seat 7: DoublelegTD (small blind) folded before Flop
+Seat 8: b00ma (big blind) collected ($150.00)
+Seat 9: Meek Bill folded before Flop (didn't bet)
+
+PokerStars Hand #1516223914:  Hold'em No Limit ($75.00/$150.00 USD) - 2023/01/10 03:35:00 ET
+Table 'WPN_7 Day No Rathole 75/150 NLH' 9-max Seat #7 is the button
+Seat 1: el0el ($8442.51 in chips)
+Seat 2: degen1990 ($9066.00 in chips)
+Seat 3: Haftbefehl ($3183.00 in chips)
+Seat 4: bigsoowoop ($12908.76 in chips)
+Seat 5: recruitme ($6726.00 in chips)
+Seat 6: CPUrul0r ($2647.72 in chips)
+Seat 7: DoublelegTD ($11363.63 in chips)
+Seat 8: b00ma ($1686.00 in chips)
+Seat 9: Meek Bill ($7396.50 in chips)
+b00ma: posts small blind $75.00
+Meek Bill: posts big blind $150.00
+*** HOLE CARDS ***
+el0el: folds
+degen1990: raises $150.00 to $300.00
+Haftbefehl: folds
+bigsoowoop: folds
+recruitme: folds
+CPUrul0r: folds
+DoublelegTD: folds
+b00ma: folds
+Meek Bill: folds
+Uncalled bet ($150.00) returned to degen1990
+degen1990 collected $375.00 from pot
+degen1990: doesn't show hand
+*** SUMMARY ***
+Total pot $375.00 | Rake $0.00
+Seat 1: el0el folded before Flop (didn't bet)
+Seat 2: degen1990 collected ($375.00)
+Seat 3: Haftbefehl folded before Flop (didn't bet)
+Seat 4: bigsoowoop folded before Flop (didn't bet)
+Seat 5: recruitme folded before Flop (didn't bet)
+Seat 6: CPUrul0r folded before Flop (didn't bet)
+Seat 7: DoublelegTD (button) folded before Flop (didn't bet)
+Seat 8: b00ma (small blind) folded before Flop
+Seat 9: Meek Bill (big blind) folded before Flop
+
+PokerStars Hand #1516224482:  Hold'em No Limit ($75.00/$150.00 USD) - 2023/01/10 03:35:27 ET
+Table 'WPN_7 Day No Rathole 75/150 NLH' 9-max Seat #8 is the button
+Seat 1: el0el ($8442.51 in chips)
+Seat 2: degen1990 ($9291.00 in chips)
+Seat 3: Haftbefehl ($3183.00 in chips)
+Seat 4: bigsoowoop ($12908.76 in chips)
+Seat 5: recruitme ($6726.00 in chips)
+Seat 6: CPUrul0r ($2647.72 in chips)
+Seat 7: DoublelegTD ($11363.63 in chips)
+Seat 8: b00ma ($1611.00 in chips)
+Seat 9: Meek Bill ($7246.50 in chips)
+Meek Bill: posts small blind $75.00
+degen1990: posts big blind $150.00
+*** HOLE CARDS ***
+Haftbefehl: raises $150.00 to $300.00
+bigsoowoop: folds
+recruitme: folds
+CPUrul0r: folds
+DoublelegTD: folds
+b00ma: folds
+Meek Bill: folds
+degen1990: raises $8991.00 to $9291.00 and is all-in
+Haftbefehl: folds
+Uncalled bet ($8991.00) returned to degen1990
+degen1990 collected $675.00 from pot
+degen1990: doesn't show hand
+*** SUMMARY ***
+Total pot $675.00 | Rake $0.00
+Seat 2: degen1990 (big blind) collected ($675.00)
+Seat 3: Haftbefehl folded before Flop
+Seat 4: bigsoowoop folded before Flop (didn't bet)
+Seat 5: recruitme folded before Flop (didn't bet)
+Seat 6: CPUrul0r folded before Flop (didn't bet)
+Seat 7: DoublelegTD folded before Flop (didn't bet)
+Seat 8: b00ma (button) folded before Flop (didn't bet)
+Seat 9: Meek Bill (small blind) folded before Flop
+
+PokerStars Hand #1516225024:  Hold'em No Limit ($75.00/$150.00 USD) - 2023/01/10 03:35:55 ET
+Table 'WPN_7 Day No Rathole 75/150 NLH' 9-max Seat #9 is the button
+Seat 2: degen1990 ($9666.00 in chips)
+Seat 3: Haftbefehl ($2883.00 in chips)
+Seat 4: bigsoowoop ($12908.76 in chips)
+Seat 5: recruitme ($6726.00 in chips)
+Seat 6: CPUrul0r ($2647.72 in chips)
+Seat 7: DoublelegTD ($11363.63 in chips)
+Seat 8: b00ma ($1611.00 in chips)
+Seat 9: Meek Bill ($7171.50 in chips)
+degen1990: posts small blind $75.00
+Haftbefehl: posts big blind $150.00
+*** HOLE CARDS ***
+bigsoowoop: folds
+recruitme: folds
+CPUrul0r: folds
+DoublelegTD: folds
+b00ma: folds
+Meek Bill: folds
+degen1990: folds
+Uncalled bet ($75.00) returned to Haftbefehl
+Haftbefehl collected $150.00 from pot
+Haftbefehl: doesn't show hand
+*** SUMMARY ***
+Total pot $150.00 | Rake $0.00
+Seat 2: degen1990 (small blind) folded before Flop
+Seat 3: Haftbefehl (big blind) collected ($150.00)
+Seat 4: bigsoowoop folded before Flop (didn't bet)
+Seat 5: recruitme folded before Flop (didn't bet)
+Seat 6: CPUrul0r folded before Flop (didn't bet)
+Seat 7: DoublelegTD folded before Flop (didn't bet)
+Seat 8: b00ma folded before Flop (didn't bet)
+Seat 9: Meek Bill (button) folded before Flop (didn't bet)
+
+PokerStars Hand #1516225586:  Hold'em No Limit ($75.00/$150.00 USD) - 2023/01/10 03:36:22 ET
+Table 'WPN_7 Day No Rathole 75/150 NLH' 9-max Seat #2 is the button
+Seat 2: degen1990 ($9591.00 in chips)
+Seat 3: Haftbefehl ($2958.00 in chips)
+Seat 4: bigsoowoop ($12908.76 in chips)
+Seat 5: recruitme ($6726.00 in chips)
+Seat 6: CPUrul0r ($2647.72 in chips)
+Seat 7: DoublelegTD ($11363.63 in chips)
+Seat 8: b00ma ($1611.00 in chips)
+Seat 9: Meek Bill ($7171.50 in chips)
+Haftbefehl: posts small blind $75.00
+bigsoowoop: posts big blind $150.00
+*** HOLE CARDS ***
+recruitme: folds
+CPUrul0r: folds
+DoublelegTD: folds
+b00ma: raises $1461.00 to $1611.00 and is all-in
+Meek Bill: folds
+degen1990: folds
+Haftbefehl: folds
+bigsoowoop: folds
+Uncalled bet ($1461.00) returned to b00ma
+b00ma collected $375.00 from pot
+b00ma: doesn't show hand
+*** SUMMARY ***
+Total pot $375.00 | Rake $0.00
+Seat 2: degen1990 (button) folded before Flop (didn't bet)
+Seat 3: Haftbefehl (small blind) folded before Flop
+Seat 4: bigsoowoop (big blind) folded before Flop
+Seat 5: recruitme folded before Flop (didn't bet)
+Seat 6: CPUrul0r folded before Flop (didn't bet)
+Seat 7: DoublelegTD folded before Flop (didn't bet)
+Seat 8: b00ma collected ($375.00)
+Seat 9: Meek Bill folded before Flop (didn't bet)
+
+PokerStars Hand #1516226356:  Hold'em No Limit ($75.00/$150.00 USD) - 2023/01/10 03:37:01 ET
+Table 'WPN_7 Day No Rathole 75/150 NLH' 9-max Seat #3 is the button
+Seat 1: uhhhyesandno ($1575.00 in chips)
+Seat 2: degen1990 ($9591.00 in chips)
+Seat 3: Haftbefehl ($2883.00 in chips)
+Seat 4: bigsoowoop ($12758.76 in chips)
+Seat 5: recruitme ($6726.00 in chips)
+Seat 6: CPUrul0r ($2647.72 in chips)
+Seat 7: DoublelegTD ($11363.63 in chips)
+Seat 8: b00ma ($1836.00 in chips)
+Seat 9: Meek Bill ($7171.50 in chips)
+bigsoowoop: posts small blind $75.00
+recruitme: posts big blind $150.00
+*** HOLE CARDS ***
+CPUrul0r: folds
+DoublelegTD: folds
+b00ma: folds
+Meek Bill: folds
+degen1990: raises $150.00 to $300.00
+Haftbefehl: folds
+bigsoowoop: folds
+recruitme: folds
+Uncalled bet ($150.00) returned to degen1990
+degen1990 collected $375.00 from pot
+degen1990: doesn't show hand
+*** SUMMARY ***
+Total pot $375.00 | Rake $0.00
+Seat 2: degen1990 collected ($375.00)
+Seat 3: Haftbefehl (button) folded before Flop (didn't bet)
+Seat 4: bigsoowoop (small blind) folded before Flop
+Seat 5: recruitme (big blind) folded before Flop
+Seat 6: CPUrul0r folded before Flop (didn't bet)
+Seat 7: DoublelegTD folded before Flop (didn't bet)
+Seat 8: b00ma folded before Flop (didn't bet)
+Seat 9: Meek Bill folded before Flop (didn't bet)
+
+PokerStars Hand #1516227000:  Hold'em No Limit ($75.00/$150.00 USD) - 2023/01/10 03:37:32 ET
+Table 'WPN_7 Day No Rathole 75/150 NLH' 9-max Seat #4 is the button
+Seat 1: uhhhyesandno ($1575.00 in chips)
+Seat 2: degen1990 ($9816.00 in chips)
+Seat 3: Haftbefehl ($2883.00 in chips)
+Seat 4: bigsoowoop ($12683.76 in chips)
+Seat 5: recruitme ($6576.00 in chips)
+Seat 6: CPUrul0r ($2647.72 in chips)
+Seat 7: DoublelegTD ($11363.63 in chips)
+Seat 8: b00ma ($1836.00 in chips)
+Seat 9: Meek Bill ($7171.50 in chips)
+recruitme: posts small blind $75.00
+CPUrul0r: posts big blind $150.00
+*** HOLE CARDS ***
+DoublelegTD: folds
+b00ma: folds
+Meek Bill: folds
+degen1990: raises $150.00 to $300.00
+Haftbefehl: folds
+bigsoowoop: folds
+recruitme: folds
+CPUrul0r: folds
+Uncalled bet ($150.00) returned to degen1990
+degen1990 collected $375.00 from pot
+degen1990: doesn't show hand
+*** SUMMARY ***
+Total pot $375.00 | Rake $0.00
+Seat 2: degen1990 collected ($375.00)
+Seat 3: Haftbefehl folded before Flop (didn't bet)
+Seat 4: bigsoowoop (button) folded before Flop (didn't bet)
+Seat 5: recruitme (small blind) folded before Flop
+Seat 6: CPUrul0r (big blind) folded before Flop
+Seat 7: DoublelegTD folded before Flop (didn't bet)
+Seat 8: b00ma folded before Flop (didn't bet)
+Seat 9: Meek Bill folded before Flop (didn't bet)
+
+PokerStars Hand #1516227429:  Hold'em No Limit ($75.00/$150.00 USD) - 2023/01/10 03:37:52 ET
+Table 'WPN_7 Day No Rathole 75/150 NLH' 9-max Seat #5 is the button
+Seat 1: uhhhyesandno ($1575.00 in chips)
+Seat 2: degen1990 ($10041.00 in chips)
+Seat 3: Haftbefehl ($2883.00 in chips)
+Seat 4: bigsoowoop ($12683.76 in chips)
+Seat 5: recruitme ($6501.00 in chips)
+Seat 6: CPUrul0r ($2497.72 in chips)
+Seat 7: DoublelegTD ($11363.63 in chips)
+Seat 8: b00ma ($1836.00 in chips)
+Seat 9: Meek Bill ($7171.50 in chips)
+CPUrul0r: posts small blind $75.00
+DoublelegTD: posts big blind $150.00
+*** HOLE CARDS ***
+b00ma: folds
+Meek Bill: folds
+degen1990: folds
+Haftbefehl: folds
+bigsoowoop: folds
+recruitme: folds
+CPUrul0r: folds
+Uncalled bet ($75.00) returned to DoublelegTD
+DoublelegTD collected $150.00 from pot
+DoublelegTD: doesn't show hand
+*** SUMMARY ***
+Total pot $150.00 | Rake $0.00
+Seat 2: degen1990 folded before Flop (didn't bet)
+Seat 3: Haftbefehl folded before Flop (didn't bet)
+Seat 4: bigsoowoop folded before Flop (didn't bet)
+Seat 5: recruitme (button) folded before Flop (didn't bet)
+Seat 6: CPUrul0r (small blind) folded before Flop
+Seat 7: DoublelegTD (big blind) collected ($150.00)
+Seat 8: b00ma folded before Flop (didn't bet)
+Seat 9: Meek Bill folded before Flop (didn't bet)
+
+PokerStars Hand #1516228035:  Hold'em No Limit ($75.00/$150.00 USD) - 2023/01/10 03:38:21 ET
+Table 'WPN_7 Day No Rathole 75/150 NLH' 9-max Seat #6 is the button
+Seat 1: uhhhyesandno ($1575.00 in chips)
+Seat 2: degen1990 ($10041.00 in chips)
+Seat 3: Haftbefehl ($2883.00 in chips)
+Seat 4: bigsoowoop ($12683.76 in chips)
+Seat 5: recruitme ($6501.00 in chips)
+Seat 6: CPUrul0r ($2422.72 in chips)
+Seat 7: DoublelegTD ($11438.63 in chips)
+Seat 8: b00ma ($1836.00 in chips)
+Seat 9: Meek Bill ($7171.50 in chips)
+DoublelegTD: posts small blind $75.00
+b00ma: posts big blind $150.00
+*** HOLE CARDS ***
+Meek Bill: folds
+degen1990: raises $150.00 to $300.00
+Haftbefehl: folds
+bigsoowoop: folds
+recruitme: folds
+CPUrul0r: folds
+DoublelegTD: folds
+b00ma: folds
+Uncalled bet ($150.00) returned to degen1990
+degen1990 collected $375.00 from pot
+degen1990: doesn't show hand
+*** SUMMARY ***
+Total pot $375.00 | Rake $0.00
+Seat 2: degen1990 collected ($375.00)
+Seat 3: Haftbefehl folded before Flop (didn't bet)
+Seat 4: bigsoowoop folded before Flop (didn't bet)
+Seat 5: recruitme folded before Flop (didn't bet)
+Seat 6: CPUrul0r (button) folded before Flop (didn't bet)
+Seat 7: DoublelegTD (small blind) folded before Flop
+Seat 8: b00ma (big blind) folded before Flop
+Seat 9: Meek Bill folded before Flop (didn't bet)
+
+PokerStars Hand #1516228510:  Hold'em No Limit ($75.00/$150.00 USD) - 2023/01/10 03:38:44 ET
+Table 'WPN_7 Day No Rathole 75/150 NLH' 9-max Seat #7 is the button
+Seat 1: uhhhyesandno ($1575.00 in chips)
+Seat 2: degen1990 ($10266.00 in chips)
+Seat 3: Haftbefehl ($2883.00 in chips)
+Seat 4: bigsoowoop ($12683.76 in chips)
+Seat 5: recruitme ($6501.00 in chips)
+Seat 6: CPUrul0r ($2422.72 in chips)
+Seat 7: DoublelegTD ($11363.63 in chips)
+Seat 8: b00ma ($1686.00 in chips)
+Seat 9: Meek Bill ($7171.50 in chips)
+b00ma: posts small blind $75.00
+Meek Bill: posts big blind $150.00
+*** HOLE CARDS ***
+degen1990: folds
+Haftbefehl: folds
+bigsoowoop: folds
+recruitme: raises $150.00 to $300.00
+CPUrul0r: folds
+DoublelegTD: folds
+b00ma: folds
+Meek Bill: raises $900.00 to $1200.00
+recruitme: raises $5301.00 to $6501.00 and is all-in
+Meek Bill: calls $5301.00
+*** FLOP *** [4h 8h 7d]
+*** TURN *** [4h 8h 7d] [6s]
+*** RIVER *** [4h 8h 7d 6s] [Qc]
+*** SHOW DOWN ***
+recruitme: shows [Ks Kh]
+Meek Bill: shows [Js Jc]
+recruitme collected $13074.00 from pot
+*** SUMMARY ***
+Total pot $13077.00 | Rake $3.00
+Board [4h 8h 7d 6s Qc]
+Seat 2: degen1990 folded before Flop (didn't bet)
+Seat 3: Haftbefehl folded before Flop (didn't bet)
+Seat 4: bigsoowoop folded before Flop (didn't bet)
+Seat 5: recruitme showed [Ks Kh] and won ($13074.00)
+Seat 6: CPUrul0r folded before Flop (didn't bet)
+Seat 7: DoublelegTD (button) folded before Flop (didn't bet)
+Seat 8: b00ma (small blind) folded before Flop
+Seat 9: Meek Bill (big blind) showed [Js Jc] and lost
+
+PokerStars Hand #1516229853:  Hold'em No Limit ($75.00/$150.00 USD) - 2023/01/10 03:39:51 ET
+Table 'WPN_7 Day No Rathole 75/150 NLH' 9-max Seat #8 is the button
+Seat 1: uhhhyesandno ($1575.00 in chips)
+Seat 2: degen1990 ($10266.00 in chips)
+Seat 3: Haftbefehl ($2883.00 in chips)
+Seat 4: bigsoowoop ($12683.76 in chips)
+Seat 5: recruitme ($13074.00 in chips)
+Seat 6: CPUrul0r ($2422.72 in chips)
+Seat 7: DoublelegTD ($11363.63 in chips)
+Seat 8: b00ma ($1611.00 in chips)
+Seat 9: Meek Bill ($1500.00 in chips)
+Meek Bill: posts small blind $75.00
+uhhhyesandno: posts big blind $150.00
+*** HOLE CARDS ***
+degen1990: folds
+Haftbefehl: folds
+bigsoowoop: folds
+recruitme: folds
+CPUrul0r: folds
+DoublelegTD: raises $1650.00 to $1800.00
+b00ma: folds
+Meek Bill: folds
+uhhhyesandno: folds
+Uncalled bet ($1650.00) returned to DoublelegTD
+DoublelegTD collected $375.00 from pot
+DoublelegTD: doesn't show hand
+*** SUMMARY ***
+Total pot $375.00 | Rake $0.00
+Seat 1: uhhhyesandno (big blind) folded before Flop
+Seat 2: degen1990 folded before Flop (didn't bet)
+Seat 3: Haftbefehl folded before Flop (didn't bet)
+Seat 4: bigsoowoop folded before Flop (didn't bet)
+Seat 5: recruitme folded before Flop (didn't bet)
+Seat 6: CPUrul0r folded before Flop (didn't bet)
+Seat 7: DoublelegTD collected ($375.00)
+Seat 8: b00ma (button) folded before Flop (didn't bet)
+Seat 9: Meek Bill (small blind) folded before Flop
+
+PokerStars Hand #1516230766:  Hold'em No Limit ($75.00/$150.00 USD) - 2023/01/10 03:40:35 ET
+Table 'WPN_7 Day No Rathole 75/150 NLH' 9-max Seat #9 is the button
+Seat 1: uhhhyesandno ($1425.00 in chips)
+Seat 2: degen1990 ($10266.00 in chips)
+Seat 3: Haftbefehl ($2883.00 in chips)
+Seat 4: bigsoowoop ($12683.76 in chips)
+Seat 5: recruitme ($13074.00 in chips)
+Seat 6: CPUrul0r ($2422.72 in chips)
+Seat 7: DoublelegTD ($11588.63 in chips)
+Seat 8: b00ma ($1611.00 in chips)
+Seat 9: Meek Bill ($1500.00 in chips)
+uhhhyesandno: posts small blind $75.00
+degen1990: posts big blind $150.00
+*** HOLE CARDS ***
+Haftbefehl: folds
+bigsoowoop: folds
+recruitme: folds
+CPUrul0r: folds
+DoublelegTD: folds
+b00ma: folds
+Meek Bill: raises $1350.00 to $1500.00 and is all-in
+uhhhyesandno: calls $1425.00 and is all-in
+degen1990: folds
+*** FLOP *** [Th Ah 6h]
+*** TURN *** [Th Ah 6h] [Kh]
+*** RIVER *** [Th Ah 6h Kh] [7h]
+*** SHOW DOWN ***
+uhhhyesandno: shows [9h Ad]
+Meek Bill: shows [Js Ks]
+uhhhyesandno collected $3147.00 from pot
+*** SUMMARY ***
+Total pot $3150.00 | Rake $3.00
+Board [Th Ah 6h Kh 7h]
+Seat 1: uhhhyesandno (small blind) showed [9h Ad] and won ($3147.00)
+Seat 2: degen1990 (big blind) folded before Flop
+Seat 3: Haftbefehl folded before Flop (didn't bet)
+Seat 4: bigsoowoop folded before Flop (didn't bet)
+Seat 5: recruitme folded before Flop (didn't bet)
+Seat 6: CPUrul0r folded before Flop (didn't bet)
+Seat 7: DoublelegTD folded before Flop (didn't bet)
+Seat 8: b00ma folded before Flop (didn't bet)
+Seat 9: Meek Bill (button) showed [Js Ks] and lost
+
+PokerStars Hand #1516231632:  Hold'em No Limit ($75.00/$150.00 USD) - 2023/01/10 03:41:19 ET
+Table 'WPN_7 Day No Rathole 75/150 NLH' 9-max Seat #1 is the button
+Seat 1: uhhhyesandno ($3147.00 in chips)
+Seat 2: degen1990 ($10116.00 in chips)
+Seat 3: Haftbefehl ($2883.00 in chips)
+Seat 4: bigsoowoop ($12683.76 in chips)
+Seat 5: recruitme ($13074.00 in chips)
+Seat 6: CPUrul0r ($2422.72 in chips)
+Seat 7: DoublelegTD ($11588.63 in chips)
+Seat 8: b00ma ($1611.00 in chips)
+Seat 9: Meek Bill ($1500.00 in chips)
+degen1990: posts small blind $75.00
+Haftbefehl: posts big blind $150.00
+*** HOLE CARDS ***
+bigsoowoop: folds
+recruitme: raises $150.00 to $300.00
+CPUrul0r: raises $2122.72 to $2422.72 and is all-in
+DoublelegTD: folds
+b00ma: folds
+Meek Bill: folds
+uhhhyesandno: folds
+degen1990: folds
+Haftbefehl: raises $460.28 to $2883.00 and is all-in
+recruitme: folds
+Uncalled bet ($460.28) returned to Haftbefehl
+*** FLOP *** [7d Ac Th]
+*** TURN *** [7d Ac Th] [Kh]
+*** RIVER *** [7d Ac Th Kh] [7h]
+*** SHOW DOWN ***
+CPUrul0r: shows [Kd Td]
+Haftbefehl: shows [Jc Jh]
+CPUrul0r collected $5217.44 from pot
+*** SUMMARY ***
+Total pot $5220.44 | Rake $3.00
+Board [7d Ac Th Kh 7h]
+Seat 1: uhhhyesandno (button) folded before Flop (didn't bet)
+Seat 2: degen1990 (small blind) folded before Flop
+Seat 3: Haftbefehl (big blind) showed [Jc Jh] and lost
+Seat 4: bigsoowoop folded before Flop (didn't bet)
+Seat 5: recruitme folded before Flop
+Seat 6: CPUrul0r showed [Kd Td] and won ($5217.44)
+Seat 7: DoublelegTD folded before Flop (didn't bet)
+Seat 8: b00ma folded before Flop (didn't bet)
+Seat 9: Meek Bill folded before Flop (didn't bet)
+
+PokerStars Hand #1516232825:  Hold'em No Limit ($75.00/$150.00 USD) - 2023/01/10 03:42:19 ET
+Table 'WPN_7 Day No Rathole 75/150 NLH' 9-max Seat #2 is the button
+Seat 1: uhhhyesandno ($3147.00 in chips)
+Seat 2: degen1990 ($10041.00 in chips)
+Seat 3: Haftbefehl ($1500.00 in chips)
+Seat 4: bigsoowoop ($12683.76 in chips)
+Seat 5: recruitme ($12774.00 in chips)
+Seat 6: CPUrul0r ($5217.44 in chips)
+Seat 7: DoublelegTD ($11588.63 in chips)
+Seat 8: b00ma ($1611.00 in chips)
+Seat 9: Meek Bill ($1500.00 in chips)
+Haftbefehl: posts small blind $75.00
+bigsoowoop: posts big blind $150.00
+*** HOLE CARDS ***
+recruitme: folds
+CPUrul0r: folds
+DoublelegTD: raises $150.00 to $300.00
+b00ma: folds
+Meek Bill: folds
+uhhhyesandno: folds
+degen1990: folds
+Haftbefehl: folds
+bigsoowoop: raises $1050.00 to $1350.00
+DoublelegTD: folds
+Uncalled bet ($1050.00) returned to bigsoowoop
+bigsoowoop collected $675.00 from pot
+bigsoowoop: doesn't show hand
+*** SUMMARY ***
+Total pot $675.00 | Rake $0.00
+Seat 1: uhhhyesandno folded before Flop (didn't bet)
+Seat 2: degen1990 (button) folded before Flop (didn't bet)
+Seat 3: Haftbefehl (small blind) folded before Flop
+Seat 4: bigsoowoop (big blind) collected ($675.00)
+Seat 5: recruitme folded before Flop (didn't bet)
+Seat 6: CPUrul0r folded before Flop (didn't bet)
+Seat 7: DoublelegTD folded before Flop
+Seat 8: b00ma folded before Flop (didn't bet)
+Seat 9: Meek Bill folded before Flop (didn't bet)
+
+PokerStars Hand #1516233626:  Hold'em No Limit ($75.00/$150.00 USD) - 2023/01/10 03:42:59 ET
+Table 'WPN_7 Day No Rathole 75/150 NLH' 9-max Seat #3 is the button
+Seat 1: uhhhyesandno ($3147.00 in chips)
+Seat 2: degen1990 ($10041.00 in chips)
+Seat 3: Haftbefehl ($1500.00 in chips)
+Seat 4: bigsoowoop ($13058.76 in chips)
+Seat 5: ExpansiveMan ($3220.74 in chips)
+Seat 6: CPUrul0r ($5217.44 in chips)
+Seat 7: DoublelegTD ($11288.63 in chips)
+Seat 8: b00ma ($1611.00 in chips)
+Seat 9: Meek Bill ($1500.00 in chips)
+bigsoowoop: posts small blind $75.00
+ExpansiveMan: posts big blind $150.00
+*** HOLE CARDS ***
+CPUrul0r: folds
+DoublelegTD: folds
+b00ma: raises $1461.00 to $1611.00 and is all-in
+Meek Bill: folds
+uhhhyesandno: folds
+degen1990: folds
+Haftbefehl: folds
+bigsoowoop: folds
+ExpansiveMan: folds
+Uncalled bet ($1461.00) returned to b00ma
+b00ma collected $375.00 from pot
+b00ma: doesn't show hand
+*** SUMMARY ***
+Total pot $375.00 | Rake $0.00
+Seat 1: uhhhyesandno folded before Flop (didn't bet)
+Seat 2: degen1990 folded before Flop (didn't bet)
+Seat 3: Haftbefehl (button) folded before Flop (didn't bet)
+Seat 4: bigsoowoop (small blind) folded before Flop
+Seat 5: ExpansiveMan (big blind) folded before Flop
+Seat 6: CPUrul0r folded before Flop (didn't bet)
+Seat 7: DoublelegTD folded before Flop (didn't bet)
+Seat 8: b00ma collected ($375.00)
+Seat 9: Meek Bill folded before Flop (didn't bet)
+
+PokerStars Hand #1516234093:  Hold'em No Limit ($75.00/$150.00 USD) - 2023/01/10 03:43:24 ET
+Table 'WPN_7 Day No Rathole 75/150 NLH' 9-max Seat #4 is the button
+Seat 1: uhhhyesandno ($3147.00 in chips)
+Seat 2: degen1990 ($10041.00 in chips)
+Seat 3: Haftbefehl ($1500.00 in chips)
+Seat 4: bigsoowoop ($12983.76 in chips)
+Seat 5: ExpansiveMan ($3070.74 in chips)
+Seat 6: CPUrul0r ($5217.44 in chips)
+Seat 7: DoublelegTD ($11288.63 in chips)
+Seat 8: b00ma ($1836.00 in chips)
+Seat 9: Meek Bill ($1500.00 in chips)
+ExpansiveMan: posts small blind $75.00
+CPUrul0r: posts big blind $150.00
+*** HOLE CARDS ***
+DoublelegTD: folds
+b00ma: folds
+Meek Bill: folds
+uhhhyesandno: folds
+degen1990: folds
+Haftbefehl: raises $1350.00 to $1500.00 and is all-in
+bigsoowoop: folds
+ExpansiveMan: folds
+CPUrul0r: folds
+Uncalled bet ($1350.00) returned to Haftbefehl
+Haftbefehl collected $375.00 from pot
+Haftbefehl: doesn't show hand
+*** SUMMARY ***
+Total pot $375.00 | Rake $0.00
+Seat 1: uhhhyesandno folded before Flop (didn't bet)
+Seat 2: degen1990 folded before Flop (didn't bet)
+Seat 3: Haftbefehl collected ($375.00)
+Seat 4: bigsoowoop (button) folded before Flop (didn't bet)
+Seat 5: ExpansiveMan (small blind) folded before Flop
+Seat 6: CPUrul0r (big blind) folded before Flop
+Seat 7: DoublelegTD folded before Flop (didn't bet)
+Seat 8: b00ma folded before Flop (didn't bet)
+Seat 9: Meek Bill folded before Flop (didn't bet)
+
+PokerStars Hand #1516234545:  Hold'em No Limit ($75.00/$150.00 USD) - 2023/01/10 03:43:47 ET
+Table 'WPN_7 Day No Rathole 75/150 NLH' 9-max Seat #5 is the button
+Seat 1: uhhhyesandno ($3147.00 in chips)
+Seat 2: degen1990 ($10041.00 in chips)
+Seat 3: Haftbefehl ($1725.00 in chips)
+Seat 4: bigsoowoop ($12983.76 in chips)
+Seat 5: ExpansiveMan ($2995.74 in chips)
+Seat 6: CPUrul0r ($5067.44 in chips)
+Seat 7: DoublelegTD ($11288.63 in chips)
+Seat 8: b00ma ($1836.00 in chips)
+Seat 9: Meek Bill ($1500.00 in chips)
+CPUrul0r: posts small blind $75.00
+uhhhyesandno: posts big blind $150.00
+*** HOLE CARDS ***
+degen1990: folds
+Haftbefehl: folds
+bigsoowoop: folds
+ExpansiveMan: raises $150.00 to $300.00
+CPUrul0r: folds
+uhhhyesandno: calls $150.00
+*** FLOP *** [5d Kh Js]
+uhhhyesandno: checks
+ExpansiveMan: checks
+*** TURN *** [5d Kh Js] [2c]
+uhhhyesandno: bets $504.00
+ExpansiveMan: folds
+Uncalled bet ($504.00) returned to uhhhyesandno
+uhhhyesandno collected $672.00 from pot
+uhhhyesandno: doesn't show hand
+*** SUMMARY ***
+Total pot $675.00 | Rake $3.00
+Board [5d Kh Js 2c]
+Seat 1: uhhhyesandno (big blind) collected ($672.00)
+Seat 2: degen1990 folded before Flop (didn't bet)
+Seat 3: Haftbefehl folded before Flop (didn't bet)
+Seat 4: bigsoowoop folded before Flop (didn't bet)
+Seat 5: ExpansiveMan (button) folded on the Turn
+Seat 6: CPUrul0r (small blind) folded before Flop
+
+PokerStars Hand #1516202858:  Hold'em No Limit ($75.00/$150.00 USD) - 2023/01/10 03:18:04 ET
+Table 'WPN_7 Day No Rathole 75/150 NLH' 9-max Seat #2 is the button
+Seat 1: el0el ($8115.51 in chips)
+Seat 2: degen1990 ($9621.00 in chips)
+Seat 3: Haftbefehl ($1256.25 in chips)
+Seat 4: bigsoowoop ($12386.76 in chips)
+Seat 5: recruitme ($7338.00 in chips)
+Seat 6: CPUrul0r ($2794.72 in chips)
+Seat 7: DoublelegTD ($10847.63 in chips)
+Seat 8: b00ma ($1650.00 in chips)
+Seat 9: shipum7 ($1500.00 in chips)
+Haftbefehl: posts small blind $75.00
+bigsoowoop: posts big blind $150.00
+*** HOLE CARDS ***
+recruitme: raises $150.00 to $300.00
+CPUrul0r: folds
+DoublelegTD: raises $675.00 to $975.00
+b00ma: folds
+shipum7: folds
+el0el: folds
+degen1990: folds
+Haftbefehl: folds
+bigsoowoop: folds
+recruitme: calls $675.00
+*** FLOP *** [6s 2h 8h]
+recruitme: checks
+DoublelegTD: bets $1237.50
+recruitme: folds
+Uncalled bet ($1237.50) returned to DoublelegTD
+DoublelegTD collected $2172.00 from pot
+DoublelegTD: doesn't show hand
+*** SUMMARY ***
+Total pot $2175.00 | Rake $3.00
+Board [6s 2h 8h]
+Seat 1: el0el folded before Flop (didn't bet)
+Seat 2: degen1990 (button) folded before Flop (didn't bet)
+Seat 3: Haftbefehl (small blind) folded before Flop
+Seat 4: bigsoowoop (big blind) folded before Flop
+Seat 5: recruitme folded on the Flop
+Seat 6: CPUrul0r folded before Flop (didn't bet)
+Seat 7: DoublelegTD collected ($2172.00)
+Seat 8: b00ma folded before Flop (didn't bet)
+Seat 9: shipum7 folded before Flop (didn't bet)
+
+PokerStars Hand #1516201954:  Hold'em No Limit ($75.00/$150.00 USD) - 2023/01/10 03:17:23 ET
+Table 'WPN_7 Day No Rathole 75/150 NLH' 9-max Seat #1 is the button
+Seat 1: el0el ($8115.51 in chips)
+Seat 2: degen1990 ($9696.00 in chips)
+Seat 3: Haftbefehl ($1725.00 in chips)
+Seat 4: bigsoowoop ($12386.76 in chips)
+Seat 5: recruitme ($7338.00 in chips)
+Seat 6: CPUrul0r ($2253.97 in chips)
+Seat 7: DoublelegTD ($10847.63 in chips)
+Seat 8: b00ma ($1650.00 in chips)
+Seat 9: shipum7 ($1500.00 in chips)
+degen1990: posts small blind $75.00
+Haftbefehl: posts big blind $150.00
+*** HOLE CARDS ***
+bigsoowoop: folds
+recruitme: folds
+CPUrul0r: raises $150.00 to $300.00
+DoublelegTD: folds
+b00ma: folds
+shipum7: folds
+el0el: folds
+degen1990: folds
+Haftbefehl: calls $150.00
+*** FLOP *** [2h 4d 6s]
+Haftbefehl: bets $168.75
+CPUrul0r: raises $1785.22 to $1953.97 and is all-in
+Haftbefehl: folds
+Uncalled bet ($1785.22) returned to CPUrul0r
+CPUrul0r collected $1009.50 from pot
+CPUrul0r: doesn't show hand
+*** SUMMARY ***
+Total pot $1012.50 | Rake $3.00
+Board [2h 4d 6s]
+Seat 1: el0el (button) folded before Flop (didn't bet)
+Seat 2: degen1990 (small blind) folded before Flop
+Seat 3: Haftbefehl (big blind) folded on the Flop
+Seat 4: bigsoowoop folded before Flop (didn't bet)
+Seat 5: recruitme folded before Flop (didn't bet)
+Seat 6: CPUrul0r collected ($1009.50)
+Seat 7: DoublelegTD folded before Flop (didn't bet)
+Seat 8: b00ma folded before Flop (didn't bet)
+Seat 9: shipum7 folded before Flop (didn't bet)
+
+PokerStars Hand #1516201336:  Hold'em No Limit ($75.00/$150.00 USD) - 2023/01/10 03:16:54 ET
+Table 'WPN_7 Day No Rathole 75/150 NLH' 9-max Seat #9 is the button
+Seat 1: el0el ($8190.51 in chips)
+Seat 2: degen1990 ($9846.00 in chips)
+Seat 3: Haftbefehl ($1725.00 in chips)
+Seat 4: bigsoowoop ($12386.76 in chips)
+Seat 5: recruitme ($7338.00 in chips)
+Seat 6: CPUrul0r ($2028.97 in chips)
+Seat 7: DoublelegTD ($10847.63 in chips)
+Seat 8: b00ma ($1650.00 in chips)
+Seat 9: shipum7 ($1500.00 in chips)
+el0el: posts small blind $75.00
+degen1990: posts big blind $150.00
+*** HOLE CARDS ***
+Haftbefehl: folds
+bigsoowoop: folds
+recruitme: folds
+CPUrul0r: raises $1878.97 to $2028.97 and is all-in
+DoublelegTD: folds
+b00ma: folds
+shipum7: folds
+el0el: folds
+degen1990: folds
+Uncalled bet ($1878.97) returned to CPUrul0r
+CPUrul0r collected $375.00 from pot
+CPUrul0r: doesn't show hand
+*** SUMMARY ***
+Total pot $375.00 | Rake $0.00
+Seat 1: el0el (small blind) folded before Flop
+Seat 2: degen1990 (big blind) folded before Flop
+Seat 3: Haftbefehl folded before Flop (didn't bet)
+Seat 4: bigsoowoop folded before Flop (didn't bet)
+Seat 5: recruitme folded before Flop (didn't bet)
+Seat 6: CPUrul0r collected ($375.00)
+Seat 7: DoublelegTD folded before Flop (didn't bet)
+Seat 8: b00ma folded before Flop (didn't bet)
+Seat 9: shipum7 (button) folded before Flop (didn't bet)
+
+PokerStars Hand #1516192153:  Hold'em No Limit ($75.00/$150.00 USD) - 2023/01/10 03:09:51 ET
+Table 'WPN_7 Day No Rathole 75/150 NLH' 9-max Seat #3 is the button
+Seat 1: el0el ($8040.51 in chips)
+Seat 2: degen1990 ($10119.00 in chips)
+Seat 3: Haftbefehl ($1500.00 in chips)
+Seat 4: bigsoowoop ($12836.76 in chips)
+Seat 5: recruitme ($6666.00 in chips)
+Seat 7: DoublelegTD ($10430.63 in chips)
+bigsoowoop: posts small blind $75.00
+recruitme: posts big blind $150.00
+*** HOLE CARDS ***
+DoublelegTD: folds
+el0el: folds
+degen1990: folds
+Haftbefehl: folds
+bigsoowoop: folds
+Uncalled bet ($75.00) returned to recruitme
+recruitme collected $150.00 from pot
+recruitme: doesn't show hand
+*** SUMMARY ***
+Total pot $150.00 | Rake $0.00
+Seat 1: el0el folded before Flop (didn't bet)
+Seat 2: degen1990 folded before Flop (didn't bet)
+Seat 3: Haftbefehl (button) folded before Flop (didn't bet)
+Seat 4: bigsoowoop (small blind) folded before Flop
+Seat 5: recruitme (big blind) collected ($150.00)
+Seat 7: DoublelegTD folded before Flop (didn't bet)
+
+PokerStars Hand #1516192661:  Hold'em No Limit ($75.00/$150.00 USD) - 2023/01/10 03:10:13 ET
+Table 'WPN_7 Day No Rathole 75/150 NLH' 9-max Seat #4 is the button
+Seat 1: el0el ($8040.51 in chips)
+Seat 2: degen1990 ($10119.00 in chips)
+Seat 3: Haftbefehl ($1500.00 in chips)
+Seat 4: bigsoowoop ($12761.76 in chips)
+Seat 5: recruitme ($6741.00 in chips)
+Seat 7: DoublelegTD ($10430.63 in chips)
+recruitme: posts small blind $75.00
+DoublelegTD: posts big blind $150.00
+*** HOLE CARDS ***
+el0el: folds
+degen1990: folds
+Haftbefehl: folds
+bigsoowoop: folds
+recruitme: raises $150.00 to $300.00
+DoublelegTD: raises $750.00 to $1050.00
+recruitme: folds
+Uncalled bet ($750.00) returned to DoublelegTD
+DoublelegTD collected $600.00 from pot
+DoublelegTD: doesn't show hand
+*** SUMMARY ***
+Total pot $600.00 | Rake $0.00
+Seat 1: el0el folded before Flop (didn't bet)
+Seat 2: degen1990 folded before Flop (didn't bet)
+Seat 3: Haftbefehl folded before Flop (didn't bet)
+Seat 4: bigsoowoop (button) folded before Flop (didn't bet)
+Seat 5: recruitme (small blind) folded before Flop
+Seat 7: DoublelegTD (big blind) collected ($600.00)
+
+PokerStars Hand #1516193390:  Hold'em No Limit ($75.00/$150.00 USD) - 2023/01/10 03:10:47 ET
+Table 'WPN_7 Day No Rathole 75/150 NLH' 9-max Seat #5 is the button
+Seat 1: el0el ($8040.51 in chips)
+Seat 2: degen1990 ($10119.00 in chips)
+Seat 3: Haftbefehl ($1500.00 in chips)
+Seat 4: bigsoowoop ($12761.76 in chips)
+Seat 5: recruitme ($6441.00 in chips)
+Seat 7: DoublelegTD ($10730.63 in chips)
+DoublelegTD: posts small blind $75.00
+el0el: posts big blind $150.00
+*** HOLE CARDS ***
+degen1990: folds
+Haftbefehl: raises $150.00 to $300.00
+bigsoowoop: folds
+recruitme: folds
+DoublelegTD: folds
+el0el: raises $1275.00 to $1575.00
+Haftbefehl: folds
+Uncalled bet ($1275.00) returned to el0el
+el0el collected $675.00 from pot
+el0el: doesn't show hand
+*** SUMMARY ***
+Total pot $675.00 | Rake $0.00
+Seat 1: el0el (big blind) collected ($675.00)
+Seat 2: degen1990 folded before Flop (didn't bet)
+Seat 3: Haftbefehl folded before Flop
+Seat 4: bigsoowoop folded before Flop (didn't bet)
+Seat 5: recruitme (button) folded before Flop (didn't bet)
+Seat 7: DoublelegTD (small blind) folded before Flop
+
+PokerStars Hand #1516194078:  Hold'em No Limit ($75.00/$150.00 USD) - 2023/01/10 03:11:18 ET
+Table 'WPN_7 Day No Rathole 75/150 NLH' 9-max Seat #7 is the button
+Seat 1: el0el ($8415.51 in chips)
+Seat 2: degen1990 ($10119.00 in chips)
+Seat 3: Haftbefehl ($1500.00 in chips)
+Seat 4: bigsoowoop ($12761.76 in chips)
+Seat 5: recruitme ($6441.00 in chips)
+Seat 6: CPUrul0r ($2253.97 in chips)
+Seat 7: DoublelegTD ($10655.63 in chips)
+el0el: posts small blind $75.00
+degen1990: posts big blind $150.00
+*** HOLE CARDS ***
+Haftbefehl: folds
+bigsoowoop: folds
+recruitme: folds
+DoublelegTD: folds
+el0el: folds
+Uncalled bet ($75.00) returned to degen1990
+degen1990 collected $150.00 from pot
+degen1990: doesn't show hand
+*** SUMMARY ***
+Total pot $150.00 | Rake $0.00
+Seat 1: el0el (small blind) folded before Flop
+Seat 2: degen1990 (big blind) collected ($150.00)
+Seat 3: Haftbefehl folded before Flop (didn't bet)
+Seat 4: bigsoowoop folded before Flop (didn't bet)
+Seat 5: recruitme folded before Flop (didn't bet)
+Seat 7: DoublelegTD (button) folded before Flop (didn't bet)
+
+PokerStars Hand #1516194812:  Hold'em No Limit ($75.00/$150.00 USD) - 2023/01/10 03:11:52 ET
+Table 'WPN_7 Day No Rathole 75/150 NLH' 9-max Seat #1 is the button
+Seat 1: el0el ($8340.51 in chips)
+Seat 2: degen1990 ($10194.00 in chips)
+Seat 3: Haftbefehl ($1500.00 in chips)
+Seat 4: bigsoowoop ($12761.76 in chips)
+Seat 5: recruitme ($6441.00 in chips)
+Seat 6: CPUrul0r ($2253.97 in chips)
+Seat 7: DoublelegTD ($10655.63 in chips)
+degen1990: posts small blind $75.00
+Haftbefehl: posts big blind $150.00
+*** HOLE CARDS ***
+bigsoowoop: folds
+recruitme: folds
+DoublelegTD: raises $150.00 to $300.00
+el0el: folds
+degen1990: folds
+Haftbefehl: folds
+Uncalled bet ($150.00) returned to DoublelegTD
+DoublelegTD collected $375.00 from pot
+DoublelegTD: doesn't show hand
+*** SUMMARY ***
+Total pot $375.00 | Rake $0.00
+Seat 1: el0el (button) folded before Flop (didn't bet)
+Seat 2: degen1990 (small blind) folded before Flop
+Seat 3: Haftbefehl (big blind) folded before Flop
+Seat 4: bigsoowoop folded before Flop (didn't bet)
+Seat 5: recruitme folded before Flop (didn't bet)
+Seat 7: DoublelegTD collected ($375.00)
+
+PokerStars Hand #1516195261:  Hold'em No Limit ($75.00/$150.00 USD) - 2023/01/10 03:12:13 ET
+Table 'WPN_7 Day No Rathole 75/150 NLH' 9-max Seat #2 is the button
+Seat 1: el0el ($8340.51 in chips)
+Seat 2: degen1990 ($10119.00 in chips)
+Seat 3: Haftbefehl ($1500.00 in chips)
+Seat 4: bigsoowoop ($12761.76 in chips)
+Seat 5: recruitme ($6441.00 in chips)
+Seat 6: CPUrul0r ($2253.97 in chips)
+Seat 7: DoublelegTD ($10880.63 in chips)
+Haftbefehl: posts small blind $75.00
+bigsoowoop: posts big blind $150.00
+*** HOLE CARDS ***
+recruitme: folds
+DoublelegTD: raises $150.00 to $300.00
+el0el: folds
+degen1990: folds
+Haftbefehl: folds
+bigsoowoop: calls $150.00
+*** FLOP *** [2h Jd 7c]
+bigsoowoop: checks
+DoublelegTD: bets $168.75
+bigsoowoop: folds
+Uncalled bet ($168.75) returned to DoublelegTD
+DoublelegTD collected $672.00 from pot
+DoublelegTD: doesn't show hand
+*** SUMMARY ***
+Total pot $675.00 | Rake $3.00
+Board [2h Jd 7c]
+Seat 1: el0el folded before Flop (didn't bet)
+Seat 2: degen1990 (button) folded before Flop (didn't bet)
+Seat 3: Haftbefehl (small blind) folded before Flop
+Seat 4: bigsoowoop (big blind) folded on the Flop
+Seat 5: recruitme folded before Flop (didn't bet)
+Seat 7: DoublelegTD collected ($672.00)
+
+PokerStars Hand #1516195934:  Hold'em No Limit ($75.00/$150.00 USD) - 2023/01/10 03:12:44 ET
+Table 'WPN_7 Day No Rathole 75/150 NLH' 9-max Seat #3 is the button
+Seat 1: el0el ($8340.51 in chips)
+Seat 2: degen1990 ($10119.00 in chips)
+Seat 3: Haftbefehl ($1500.00 in chips)
+Seat 4: bigsoowoop ($12461.76 in chips)
+Seat 5: recruitme ($6441.00 in chips)
+Seat 6: CPUrul0r ($2253.97 in chips)
+Seat 7: DoublelegTD ($11252.63 in chips)
+bigsoowoop: posts small blind $75.00
+recruitme: posts big blind $150.00
+*** HOLE CARDS ***
+DoublelegTD: folds
+el0el: folds
+degen1990: folds
+Haftbefehl: raises $1350.00 to $1500.00 and is all-in
+bigsoowoop: folds
+recruitme: folds
+Uncalled bet ($1350.00) returned to Haftbefehl
+Haftbefehl collected $375.00 from pot
+Haftbefehl: doesn't show hand
+*** SUMMARY ***
+Total pot $375.00 | Rake $0.00
+Seat 1: el0el folded before Flop (didn't bet)
+Seat 2: degen1990 folded before Flop (didn't bet)
+Seat 3: Haftbefehl (button) collected ($375.00)
+Seat 4: bigsoowoop (small blind) folded before Flop
+Seat 5: recruitme (big blind) folded before Flop
+Seat 7: DoublelegTD folded before Flop (didn't bet)
+
+PokerStars Hand #1516196346:  Hold'em No Limit ($75.00/$150.00 USD) - 2023/01/10 03:13:04 ET
+Table 'WPN_7 Day No Rathole 75/150 NLH' 9-max Seat #4 is the button
+Seat 1: el0el ($8340.51 in chips)
+Seat 2: degen1990 ($10119.00 in chips)
+Seat 3: Haftbefehl ($1725.00 in chips)
+Seat 4: bigsoowoop ($12386.76 in chips)
+Seat 5: recruitme ($6291.00 in chips)
+Seat 6: CPUrul0r ($2253.97 in chips)
+Seat 7: DoublelegTD ($11252.63 in chips)
+recruitme: posts small blind $75.00
+CPUrul0r: posts big blind $150.00
+*** HOLE CARDS ***
+DoublelegTD: folds
+el0el: folds
+degen1990: raises $150.00 to $300.00
+Haftbefehl: folds
+bigsoowoop: folds
+recruitme: calls $225.00
+CPUrul0r: folds
+*** FLOP *** [3c 6h 5c]
+recruitme: checks
+degen1990: bets $375.00
+recruitme: raises $750.00 to $1125.00
+degen1990: folds
+Uncalled bet ($750.00) returned to recruitme
+recruitme collected $1497.00 from pot
+recruitme: doesn't show hand
+*** SUMMARY ***
+Total pot $1500.00 | Rake $3.00
+Board [3c 6h 5c]
+Seat 1: el0el folded before Flop (didn't bet)
+Seat 2: degen1990 folded on the Flop
+Seat 3: Haftbefehl folded before Flop (didn't bet)
+Seat 4: bigsoowoop (button) folded before Flop (didn't bet)
+Seat 5: recruitme (small blind) collected ($1497.00)
+Seat 6: CPUrul0r (big blind) folded before Flop
+Seat 7: DoublelegTD folded before Flop (didn't bet)
+
+PokerStars Hand #1516198067:  Hold'em No Limit ($75.00/$150.00 USD) - 2023/01/10 03:14:20 ET
+Table 'WPN_7 Day No Rathole 75/150 NLH' 9-max Seat #5 is the button
+Seat 1: el0el ($8340.51 in chips)
+Seat 2: degen1990 ($9444.00 in chips)
+Seat 3: Haftbefehl ($1725.00 in chips)
+Seat 4: bigsoowoop ($12386.76 in chips)
+Seat 5: recruitme ($7113.00 in chips)
+Seat 6: CPUrul0r ($2103.97 in chips)
+Seat 7: DoublelegTD ($11252.63 in chips)
+Seat 8: b00ma ($1500.00 in chips)
+CPUrul0r: posts small blind $75.00
+DoublelegTD: posts big blind $150.00
+*** HOLE CARDS ***
+el0el: folds
+degen1990: raises $180.00 to $330.00
+Haftbefehl: folds
+bigsoowoop: folds
+recruitme: folds
+CPUrul0r: folds
+DoublelegTD: calls $180.00
+*** FLOP *** [4s Ac 8c]
+DoublelegTD: checks
+degen1990: bets $367.50
+DoublelegTD: folds
+Uncalled bet ($367.50) returned to degen1990
+degen1990 collected $732.00 from pot
+degen1990: doesn't show hand
+*** SUMMARY ***
+Total pot $735.00 | Rake $3.00
+Board [4s Ac 8c]
+Seat 1: el0el folded before Flop (didn't bet)
+Seat 2: degen1990 collected ($732.00)
+Seat 3: Haftbefehl folded before Flop (didn't bet)
+Seat 4: bigsoowoop folded before Flop (didn't bet)
+Seat 5: recruitme (button) folded before Flop (didn't bet)
+Seat 6: CPUrul0r (small blind) folded before Flop
+Seat 7: DoublelegTD (big blind) folded on the Flop
+
+PokerStars Hand #1516198952:  Hold'em No Limit ($75.00/$150.00 USD) - 2023/01/10 03:15:02 ET
+Table 'WPN_7 Day No Rathole 75/150 NLH' 9-max Seat #6 is the button
+Seat 1: el0el ($8340.51 in chips)
+Seat 2: degen1990 ($9846.00 in chips)
+Seat 3: Haftbefehl ($1725.00 in chips)
+Seat 4: bigsoowoop ($12386.76 in chips)
+Seat 5: recruitme ($7113.00 in chips)
+Seat 6: CPUrul0r ($2028.97 in chips)
+Seat 7: DoublelegTD ($10922.63 in chips)
+Seat 8: b00ma ($1500.00 in chips)
+Seat 9: shipum7 ($1500.00 in chips)
+DoublelegTD: posts small blind $75.00
+b00ma: posts big blind $150.00
+*** HOLE CARDS ***
+el0el: folds
+degen1990: folds
+Haftbefehl: folds
+bigsoowoop: folds
+recruitme: raises $150.00 to $300.00
+CPUrul0r: folds
+DoublelegTD: folds
+b00ma: folds
+Uncalled bet ($150.00) returned to recruitme
+recruitme collected $375.00 from pot
+recruitme: doesn't show hand
+*** SUMMARY ***
+Total pot $375.00 | Rake $0.00
+Seat 1: el0el folded before Flop (didn't bet)
+Seat 2: degen1990 folded before Flop (didn't bet)
+Seat 3: Haftbefehl folded before Flop (didn't bet)
+Seat 4: bigsoowoop folded before Flop (didn't bet)
+Seat 5: recruitme collected ($375.00)
+Seat 6: CPUrul0r (button) folded before Flop (didn't bet)
+Seat 7: DoublelegTD (small blind) folded before Flop
+Seat 8: b00ma (big blind) folded before Flop
+
+PokerStars Hand #1516199725:  Hold'em No Limit ($75.00/$150.00 USD) - 2023/01/10 03:15:38 ET
+Table 'WPN_7 Day No Rathole 75/150 NLH' 9-max Seat #7 is the button
+Seat 1: el0el ($8340.51 in chips)
+Seat 2: degen1990 ($9846.00 in chips)
+Seat 3: Haftbefehl ($1725.00 in chips)
+Seat 4: bigsoowoop ($12386.76 in chips)
+Seat 5: recruitme ($7338.00 in chips)
+Seat 6: CPUrul0r ($2028.97 in chips)
+Seat 7: DoublelegTD ($10847.63 in chips)
+Seat 8: b00ma ($1500.00 in chips)
+Seat 9: shipum7 ($1500.00 in chips)
+b00ma: posts small blind $75.00
+shipum7: posts big blind $150.00
+*** HOLE CARDS ***
+el0el: folds
+degen1990: folds
+Haftbefehl: folds
+bigsoowoop: folds
+recruitme: folds
+CPUrul0r: folds
+DoublelegTD: folds
+b00ma: raises $1350.00 to $1500.00 and is all-in
+shipum7: folds
+Uncalled bet ($1350.00) returned to b00ma
+b00ma collected $300.00 from pot
+b00ma: doesn't show hand
+*** SUMMARY ***
+Total pot $300.00 | Rake $0.00
+Seat 1: el0el folded before Flop (didn't bet)
+Seat 2: degen1990 folded before Flop (didn't bet)
+Seat 3: Haftbefehl folded before Flop (didn't bet)
+Seat 4: bigsoowoop folded before Flop (didn't bet)
+Seat 5: recruitme folded before Flop (didn't bet)
+Seat 6: CPUrul0r folded before Flop (didn't bet)
+Seat 7: DoublelegTD (button) folded before Flop (didn't bet)
+Seat 8: b00ma (small blind) collected ($300.00)
+Seat 9: shipum7 (big blind) folded before Flop
+
+PokerStars Hand #1516200722:  Hold'em No Limit ($75.00/$150.00 USD) - 2023/01/10 03:16:25 ET
+Table 'WPN_7 Day No Rathole 75/150 NLH' 9-max Seat #8 is the button
+Seat 1: el0el ($8340.51 in chips)
+Seat 2: degen1990 ($9846.00 in chips)
+Seat 3: Haftbefehl ($1725.00 in chips)
+Seat 4: bigsoowoop ($12386.76 in chips)
+Seat 5: recruitme ($7338.00 in chips)
+Seat 6: CPUrul0r ($2028.97 in chips)
+Seat 7: DoublelegTD ($10847.63 in chips)
+Seat 8: b00ma ($1650.00 in chips)
+Seat 9: shipum7 ($1350.00 in chips)
+shipum7: posts small blind $75.00
+el0el: posts big blind $150.00
+*** HOLE CARDS ***
+degen1990: folds
+Haftbefehl: folds
+bigsoowoop: folds
+recruitme: folds
+CPUrul0r: folds
+DoublelegTD: folds
+b00ma: folds
+shipum7: raises $1200.00 to $1350.00 and is all-in
+el0el: folds
+Uncalled bet ($1200.00) returned to shipum7
+shipum7 collected $300.00 from pot
+shipum7: doesn't show hand
+*** SUMMARY ***
+Total pot $300.00 | Rake $0.00
+Seat 1: el0el (big blind) folded before Flop
+Seat 2: degen1990 folded before Flop (didn't bet)
+Seat 3: Haftbefehl folded before Flop (didn't bet)
+Seat 4: bigsoowoop folded before Flop (didn't bet)
+Seat 5: recruitme folded before Flop (didn't bet)
+Seat 6: CPUrul0r folded before Flop (didn't bet)
+Seat 7: DoublelegTD folded before Flop (didn't bet)
+Seat 8: b00ma (button) folded before Flop (didn't bet)
+Seat 9: shipum7 (small blind) collected ($300.00)
+
+PokerStars Hand #1516191443:  Hold'em No Limit ($75.00/$150.00 USD) - 2023/01/10 03:09:19 ET
+Table 'WPN_7 Day No Rathole 75/150 NLH' 9-max Seat #2 is the button
+Seat 1: el0el ($8040.51 in chips)
+Seat 2: degen1990 ($10119.00 in chips)
+Seat 3: Haftbefehl ($1575.00 in chips)
+Seat 4: bigsoowoop ($13136.76 in chips)
+Seat 5: recruitme ($6666.00 in chips)
+Seat 7: DoublelegTD ($10058.63 in chips)
+Haftbefehl: posts small blind $75.00
+bigsoowoop: posts big blind $150.00
+*** HOLE CARDS ***
+recruitme: folds
+DoublelegTD: raises $150.00 to $300.00
+el0el: folds
+degen1990: folds
+Haftbefehl: folds
+bigsoowoop: calls $150.00
+*** FLOP *** [9c Qd Ad]
+bigsoowoop: checks
+DoublelegTD: bets $168.75
+bigsoowoop: folds
+Uncalled bet ($168.75) returned to DoublelegTD
+DoublelegTD collected $672.00 from pot
+DoublelegTD: doesn't show hand
+*** SUMMARY ***
+Total pot $675.00 | Rake $3.00
+Board [9c Qd Ad]
+Seat 1: el0el folded before Flop (didn't bet)
+Seat 2: degen1990 (button) folded before Flop (didn't bet)
+Seat 3: Haftbefehl (small blind) folded before Flop
+Seat 4: bigsoowoop (big blind) folded on the Flop
+Seat 5: recruitme folded before Flop (didn't bet)
+Seat 7: DoublelegTD collected ($672.00)
+
+PokerStars Hand #1516189767:  Hold'em No Limit ($75.00/$150.00 USD) - 2023/01/10 03:08:02 ET
+Table 'WPN_7 Day No Rathole 75/150 NLH' 9-max Seat #1 is the button
+Seat 1: el0el ($8040.51 in chips)
+Seat 2: degen1990 ($10194.00 in chips)
+Seat 3: Haftbefehl ($1725.00 in chips)
+Seat 4: bigsoowoop ($16358.76 in chips)
+Seat 5: recruitme ($3222.00 in chips)
+Seat 7: DoublelegTD ($10058.63 in chips)
+degen1990: posts small blind $75.00
+Haftbefehl: posts big blind $150.00
+*** HOLE CARDS ***
+bigsoowoop: raises $150.00 to $300.00
+recruitme: raises $2922.00 to $3222.00 and is all-in
+DoublelegTD: folds
+el0el: folds
+degen1990: folds
+Haftbefehl: folds
+bigsoowoop: calls $2922.00
+*** FLOP *** [Ks Qh 8d]
+*** TURN *** [Ks Qh 8d] [Ad]
+*** RIVER *** [Ks Qh 8d Ad] [Th]
+*** SHOW DOWN ***
+recruitme: shows [Ah Kd]
+bigsoowoop: shows [Qc Kc]
+recruitme collected $6666.00 from pot
+*** SUMMARY ***
+Total pot $6669.00 | Rake $3.00
+Board [Ks Qh 8d Ad Th]
+Seat 1: el0el (button) folded before Flop (didn't bet)
+Seat 2: degen1990 (small blind) folded before Flop
+Seat 3: Haftbefehl (big blind) folded before Flop
+Seat 4: bigsoowoop showed [Qc Kc] and lost
+Seat 5: recruitme showed [Ah Kd] and won ($6666.00)
+Seat 7: DoublelegTD folded before Flop (didn't bet)
+
+PokerStars Hand #1516188574:  Hold'em No Limit ($75.00/$150.00 USD) - 2023/01/10 03:07:09 ET
+Table 'WPN_7 Day No Rathole 75/150 NLH' 9-max Seat #5 is the button
+Seat 1: el0el ($8265.51 in chips)
+Seat 2: degen1990 ($10344.00 in chips)
+Seat 3: Haftbefehl ($2511.67 in chips)
+Seat 4: bigsoowoop ($16358.76 in chips)
+Seat 5: recruitme ($1275.00 in chips)
+Seat 7: DoublelegTD ($10133.63 in chips)
+DoublelegTD: posts small blind $75.00
+el0el: posts big blind $150.00
+*** HOLE CARDS ***
+Haftbefehl: raises $150.00 to $300.00
+bigsoowoop: folds
+recruitme: raises $1200.00 to $1500.00 and is all-in
+DoublelegTD: folds
+el0el: folds
+Haftbefehl: calls $1200.00
+*** FLOP *** [6s 4c 6c]
+*** TURN *** [6s 4c 6c] [6h]
+*** RIVER *** [6s 4c 6c 6h] [Qc]
+*** SHOW DOWN ***
+recruitme: shows [Ah 4s]
+Haftbefehl: shows [Jh Ad]
+recruitme collected $3222.00 from pot
+*** SUMMARY ***
+Total pot $3225.00 | Rake $3.00
+Board [6s 4c 6c 6h Qc]
+Seat 1: el0el (big blind) folded before Flop
+Seat 3: Haftbefehl showed [Jh Ad] and lost
+Seat 4: bigsoowoop folded before Flop (didn't bet)
+Seat 5: recruitme (button) showed [Ah 4s] and won ($3222.00)
+Seat 7: DoublelegTD (small blind) folded before Flop
+
+PokerStars Hand #1516189342:  Hold'em No Limit ($75.00/$150.00 USD) - 2023/01/10 03:07:44 ET
+Table 'WPN_7 Day No Rathole 75/150 NLH' 9-max Seat #7 is the button
+Seat 1: el0el ($8115.51 in chips)
+Seat 2: degen1990 ($10344.00 in chips)
+Seat 3: Haftbefehl ($1500.00 in chips)
+Seat 4: bigsoowoop ($16358.76 in chips)
+Seat 5: recruitme ($3222.00 in chips)
+Seat 7: DoublelegTD ($10058.63 in chips)
+el0el: posts small blind $75.00
+degen1990: posts big blind $150.00
+*** HOLE CARDS ***
+Haftbefehl: raises $1350.00 to $1500.00 and is all-in
+bigsoowoop: folds
+recruitme: folds
+DoublelegTD: folds
+el0el: folds
+degen1990: folds
+Uncalled bet ($1350.00) returned to Haftbefehl
+Haftbefehl collected $375.00 from pot
+Haftbefehl: doesn't show hand
+*** SUMMARY ***
+Total pot $375.00 | Rake $0.00
+Seat 1: el0el (small blind) folded before Flop
+Seat 2: degen1990 (big blind) folded before Flop
+Seat 3: Haftbefehl collected ($375.00)
+Seat 4: bigsoowoop folded before Flop (didn't bet)
+Seat 5: recruitme folded before Flop (didn't bet)
+Seat 7: DoublelegTD (button) folded before Flop (didn't bet)
+
+PokerStars Hand #1516187867:  Hold'em No Limit ($75.00/$150.00 USD) - 2023/01/10 03:06:37 ET
+Table 'WPN_7 Day No Rathole 75/150 NLH' 9-max Seat #3 is the button
+Seat 1: el0el ($8265.51 in chips)
+Seat 2: degen1990 ($10344.00 in chips)
+Seat 3: Haftbefehl ($2511.67 in chips)
+Seat 4: bigsoowoop ($16208.76 in chips)
+Seat 5: recruitme ($1500.00 in chips)
+Seat 6: alanwatts15 ($1875.00 in chips)
+Seat 7: DoublelegTD ($10058.63 in chips)
+bigsoowoop: posts small blind $75.00
+recruitme: posts big blind $150.00
+*** HOLE CARDS ***
+alanwatts15: folds
+DoublelegTD: folds
+el0el: folds
+Haftbefehl: folds
+bigsoowoop: raises $225.00 to $375.00
+recruitme: folds
+Uncalled bet ($225.00) returned to bigsoowoop
+bigsoowoop collected $300.00 from pot
+bigsoowoop: doesn't show hand
+*** SUMMARY ***
+Total pot $300.00 | Rake $0.00
+Seat 1: el0el folded before Flop (didn't bet)
+Seat 3: Haftbefehl (button) folded before Flop (didn't bet)
+Seat 4: bigsoowoop (small blind) collected ($300.00)
+Seat 5: recruitme (big blind) folded before Flop
+Seat 6: alanwatts15 folded before Flop (didn't bet)
+Seat 7: DoublelegTD folded before Flop (didn't bet)
+
+PokerStars Hand #1516188266:  Hold'em No Limit ($75.00/$150.00 USD) - 2023/01/10 03:06:55 ET
+Table 'WPN_7 Day No Rathole 75/150 NLH' 9-max Seat #4 is the button
+Seat 1: el0el ($8265.51 in chips)
+Seat 2: degen1990 ($10344.00 in chips)
+Seat 3: Haftbefehl ($2511.67 in chips)
+Seat 4: bigsoowoop ($16358.76 in chips)
+Seat 5: recruitme ($1350.00 in chips)
+Seat 7: DoublelegTD ($10058.63 in chips)
+recruitme: posts small blind $75.00
+DoublelegTD: posts big blind $150.00
+*** HOLE CARDS ***
+el0el: folds
+Haftbefehl: folds
+bigsoowoop: folds
+recruitme: folds
+Uncalled bet ($75.00) returned to DoublelegTD
+DoublelegTD collected $150.00 from pot
+DoublelegTD: doesn't show hand
+*** SUMMARY ***
+Total pot $150.00 | Rake $0.00
+Seat 1: el0el folded before Flop (didn't bet)
+Seat 3: Haftbefehl folded before Flop (didn't bet)
+Seat 4: bigsoowoop (button) folded before Flop (didn't bet)
+Seat 5: recruitme (small blind) folded before Flop
+Seat 7: DoublelegTD (big blind) collected ($150.00)
+
+PokerStars Hand #1516186923:  Hold'em No Limit ($75.00/$150.00 USD) - 2023/01/10 03:05:54 ET
+Table 'WPN_7 Day No Rathole 75/150 NLH' 9-max Seat #2 is the button
+Seat 1: el0el ($7893.51 in chips)
+Seat 2: degen1990 ($10344.00 in chips)
+Seat 3: Haftbefehl ($2586.67 in chips)
+Seat 4: bigsoowoop ($16508.76 in chips)
+Seat 5: recruitme ($1500.00 in chips)
+Seat 6: alanwatts15 ($1875.00 in chips)
+Seat 7: DoublelegTD ($10058.63 in chips)
+Haftbefehl: posts small blind $75.00
+bigsoowoop: posts big blind $150.00
+*** HOLE CARDS ***
+recruitme: folds
+alanwatts15: folds
+DoublelegTD: folds
+el0el: raises $150.00 to $300.00
+Haftbefehl: folds
+bigsoowoop: calls $150.00
+*** FLOP *** [Td 2s Js]
+bigsoowoop: checks
+el0el: bets $506.25
+bigsoowoop: folds
+Uncalled bet ($506.25) returned to el0el
+el0el collected $672.00 from pot
+el0el: doesn't show hand
+*** SUMMARY ***
+Total pot $675.00 | Rake $3.00
+Board [Td 2s Js]
+Seat 1: el0el collected ($672.00)
+Seat 3: Haftbefehl (small blind) folded before Flop
+Seat 4: bigsoowoop (big blind) folded on the Flop
+Seat 5: recruitme folded before Flop (didn't bet)
+Seat 6: alanwatts15 folded before Flop (didn't bet)
+Seat 7: DoublelegTD folded before Flop (didn't bet)
+
+PokerStars Hand #1516186209:  Hold'em No Limit ($75.00/$150.00 USD) - 2023/01/10 03:05:22 ET
+Table 'WPN_7 Day No Rathole 75/150 NLH' 9-max Seat #1 is the button
+Seat 1: el0el ($7893.51 in chips)
+Seat 3: Haftbefehl ($2586.67 in chips)
+Seat 4: bigsoowoop ($16508.76 in chips)
+Seat 6: alanwatts15 ($1875.00 in chips)
+Seat 7: DoublelegTD ($10058.63 in chips)
+Haftbefehl: posts big blind $150.00
+*** HOLE CARDS ***
+alanwatts15: folds
+DoublelegTD: folds
+el0el: folds
+Haftbefehl collected $150.00 from pot
+Haftbefehl: doesn't show hand
+*** SUMMARY ***
+Total pot $150.00 | Rake $0.00
+Seat 1: el0el (button) folded before Flop (didn't bet)
+Seat 3: Haftbefehl (big blind) collected ($150.00)
+Seat 6: alanwatts15 folded before Flop (didn't bet)
+Seat 7: DoublelegTD folded before Flop (didn't bet)
+
+PokerStars Hand #1516185255:  Hold'em No Limit ($75.00/$150.00 USD) - 2023/01/10 03:04:40 ET
+Table 'WPN_7 Day No Rathole 75/150 NLH' 9-max Seat #7 is the button
+Seat 1: el0el ($5796.51 in chips)
+Seat 2: degen1990 ($10494.00 in chips)
+Seat 3: Haftbefehl ($2586.67 in chips)
+Seat 5: recruitme ($1950.00 in chips)
+Seat 6: alanwatts15 ($1875.00 in chips)
+Seat 7: DoublelegTD ($10058.63 in chips)
+el0el: posts small blind $75.00
+degen1990: posts big blind $150.00
+*** HOLE CARDS ***
+recruitme: raises $225.00 to $375.00
+alanwatts15: folds
+DoublelegTD: folds
+el0el: raises $5421.51 to $5796.51 and is all-in
+degen1990: folds
+recruitme: calls $1575.00 and is all-in
+Uncalled bet ($3846.51) returned to el0el
+*** FLOP *** [5d Td 5c]
+*** TURN *** [5d Td 5c] [Ah]
+*** RIVER *** [5d Td 5c Ah] [9s]
+*** SHOW DOWN ***
+el0el: shows [As Kd]
+recruitme: shows [8d 8c]
+el0el collected $4047.00 from pot
+*** SUMMARY ***
+Total pot $4050.00 | Rake $3.00
+Board [5d Td 5c Ah 9s]
+Seat 1: el0el (small blind) showed [As Kd] and won ($4047.00)
+Seat 2: degen1990 (big blind) folded before Flop
+Seat 5: recruitme showed [8d 8c] and lost
+Seat 6: alanwatts15 folded before Flop (didn't bet)
+Seat 7: DoublelegTD (button) folded before Flop (didn't bet)
+
+PokerStars Hand #1516184110:  Hold'em No Limit ($75.00/$150.00 USD) - 2023/01/10 03:03:48 ET
+Table 'WPN_7 Day No Rathole 75/150 NLH' 9-max Seat #5 is the button
+Seat 1: el0el ($5946.51 in chips)
+Seat 5: recruitme ($1725.00 in chips)
+Seat 6: alanwatts15 ($1725.00 in chips)
+Seat 7: DoublelegTD ($10283.63 in chips)
+alanwatts15: posts small blind $75.00
+DoublelegTD: posts big blind $150.00
+*** HOLE CARDS ***
+el0el: folds
+recruitme: raises $1575.00 to $1725.00 and is all-in
+alanwatts15: folds
+DoublelegTD: folds
+Uncalled bet ($1575.00) returned to recruitme
+recruitme collected $375.00 from pot
+recruitme: doesn't show hand
+*** SUMMARY ***
+Total pot $375.00 | Rake $0.00
+Seat 1: el0el folded before Flop (didn't bet)
+Seat 5: recruitme (button) collected ($375.00)
+Seat 6: alanwatts15 (small blind) folded before Flop
+Seat 7: DoublelegTD (big blind) folded before Flop
+
+PokerStars Hand #1516184492:  Hold'em No Limit ($75.00/$150.00 USD) - 2023/01/10 03:04:05 ET
+Table 'WPN_7 Day No Rathole 75/150 NLH' 9-max Seat #6 is the button
+Seat 1: el0el ($5946.51 in chips)
+Seat 2: degen1990 ($10494.00 in chips)
+Seat 3: Haftbefehl ($2586.67 in chips)
+Seat 5: recruitme ($1950.00 in chips)
+Seat 6: alanwatts15 ($1650.00 in chips)
+Seat 7: DoublelegTD ($10133.63 in chips)
+DoublelegTD: posts small blind $75.00
+el0el: posts big blind $150.00
+*** HOLE CARDS ***
+recruitme: folds
+alanwatts15: raises $1500.00 to $1650.00 and is all-in
+DoublelegTD: folds
+el0el: folds
+Uncalled bet ($1500.00) returned to alanwatts15
+alanwatts15 collected $375.00 from pot
+alanwatts15: doesn't show hand
+*** SUMMARY ***
+Total pot $375.00 | Rake $0.00
+Seat 1: el0el (big blind) folded before Flop
+Seat 5: recruitme folded before Flop (didn't bet)
+Seat 6: alanwatts15 (button) collected ($375.00)
+Seat 7: DoublelegTD (small blind) folded before Flop
+
+PokerStars Hand #1516139708:  Hold'em No Limit ($75.00/$150.00 USD) - 2023/01/10 02:28:30 ET
+Table 'WPN_7 Day No Rathole 75/150 NLH' 9-max Seat #6 is the button
+Seat 1: spicymayo ($10778.69 in chips)
+Seat 6: CPUrul0r ($2997.50 in chips)
+CPUrul0r: posts small blind $75.00
+spicymayo: posts big blind $150.00
+*** HOLE CARDS ***
+CPUrul0r: raises $150.00 to $300.00
+spicymayo: raises $2797.19 to $3097.19
+CPUrul0r: calls $2697.50 and is all-in
+Uncalled bet ($99.69) returned to spicymayo
+*** FLOP *** [4s 5h Qc]
+*** TURN *** [4s 5h Qc] [4h]
+*** RIVER *** [4s 5h Qc 4h] [7d]
+*** SHOW DOWN ***
+CPUrul0r: shows [8d As]
+spicymayo: shows [Jc Kh]
+CPUrul0r collected $5993.75 from pot
+*** SUMMARY ***
+Total pot $5995.00 | Rake $1.25
+Board [4s 5h Qc 4h 7d]
+Seat 1: spicymayo (big blind) showed [Jc Kh] and lost
+Seat 6: CPUrul0r (button) (small blind) showed [8d As] and won ($5993.75)
+
+PokerStars Hand #1516140375:  Hold'em No Limit ($75.00/$150.00 USD) - 2023/01/10 02:28:57 ET
+Table 'WPN_7 Day No Rathole 75/150 NLH' 9-max Seat #1 is the button
+Seat 1: spicymayo ($7781.19 in chips)
+Seat 6: CPUrul0r ($5993.75 in chips)
+spicymayo: posts small blind $75.00
+CPUrul0r: posts big blind $150.00
+*** HOLE CARDS ***
+spicymayo: raises $180.00 to $330.00
+CPUrul0r: calls $180.00
+*** FLOP *** [8s Qd Ad]
+CPUrul0r: checks
+spicymayo: bets $217.38
+CPUrul0r: folds
+Uncalled bet ($217.38) returned to spicymayo
+spicymayo collected $658.75 from pot
+spicymayo: doesn't show hand
+*** SUMMARY ***
+Total pot $660.00 | Rake $1.25
+Board [8s Qd Ad]
+Seat 1: spicymayo (button) (small blind) collected ($658.75)
+Seat 6: CPUrul0r (big blind) folded on the Flop
+
+PokerStars Hand #1516140883:  Hold'em No Limit ($75.00/$150.00 USD) - 2023/01/10 02:29:20 ET
+Table 'WPN_7 Day No Rathole 75/150 NLH' 9-max Seat #6 is the button
+Seat 1: spicymayo ($8109.94 in chips)
+Seat 6: CPUrul0r ($5663.75 in chips)
+CPUrul0r: posts small blind $75.00
+spicymayo: posts big blind $150.00
+*** HOLE CARDS ***
+CPUrul0r: raises $150.00 to $300.00
+spicymayo: raises $750.00 to $1050.00
+CPUrul0r: folds
+Uncalled bet ($750.00) returned to spicymayo
+spicymayo collected $600.00 from pot
+spicymayo: doesn't show hand
+*** SUMMARY ***
+Total pot $600.00 | Rake $0.00
+Seat 1: spicymayo (big blind) collected ($600.00)
+Seat 6: CPUrul0r (button) (small blind) folded before Flop
+
+PokerStars Hand #1516141336:  Hold'em No Limit ($75.00/$150.00 USD) - 2023/01/10 02:29:39 ET
+Table 'WPN_7 Day No Rathole 75/150 NLH' 9-max Seat #1 is the button
+Seat 1: spicymayo ($8409.94 in chips)
+Seat 6: CPUrul0r ($5363.75 in chips)
+spicymayo: posts small blind $75.00
+CPUrul0r: posts big blind $150.00
+*** HOLE CARDS ***
+spicymayo: raises $180.00 to $330.00
+CPUrul0r: folds
+Uncalled bet ($180.00) returned to spicymayo
+spicymayo collected $300.00 from pot
+spicymayo: doesn't show hand
+*** SUMMARY ***
+Total pot $300.00 | Rake $0.00
+Seat 1: spicymayo (button) (small blind) collected ($300.00)
+Seat 6: CPUrul0r (big blind) folded before Flop
+
+PokerStars Hand #1516141656:  Hold'em No Limit ($75.00/$150.00 USD) - 2023/01/10 02:29:53 ET
+Table 'WPN_7 Day No Rathole 75/150 NLH' 9-max Seat #6 is the button
+Seat 1: spicymayo ($8559.94 in chips)
+Seat 6: CPUrul0r ($5213.75 in chips)
+CPUrul0r: posts small blind $75.00
+spicymayo: posts big blind $150.00
+*** HOLE CARDS ***
+CPUrul0r: raises $180.00 to $330.00
+spicymayo: folds
+Uncalled bet ($180.00) returned to CPUrul0r
+CPUrul0r collected $300.00 from pot
+CPUrul0r: doesn't show hand
+*** SUMMARY ***
+Total pot $300.00 | Rake $0.00
+Seat 1: spicymayo (big blind) folded before Flop
+Seat 6: CPUrul0r (button) (small blind) collected ($300.00)
+
+PokerStars Hand #1516141936:  Hold'em No Limit ($75.00/$150.00 USD) - 2023/01/10 02:30:04 ET
+Table 'WPN_7 Day No Rathole 75/150 NLH' 9-max Seat #6 is the button
+Seat 1: spicymayo ($8409.94 in chips)
+Seat 2: DoublelegTD ($5416.94 in chips)
+Seat 6: CPUrul0r ($5363.75 in chips)
+spicymayo: posts small blind $75.00
+DoublelegTD: posts big blind $150.00
+*** HOLE CARDS ***
+CPUrul0r: raises $180.00 to $330.00
+spicymayo: folds
+DoublelegTD: calls $180.00
+*** FLOP *** [2d 7h 3h]
+DoublelegTD: checks
+CPUrul0r: bets $225.00
+DoublelegTD: folds
+Uncalled bet ($225.00) returned to CPUrul0r
+CPUrul0r collected $733.25 from pot
+CPUrul0r: doesn't show hand
+*** SUMMARY ***
+Total pot $735.00 | Rake $1.75
+Board [2d 7h 3h]
+Seat 1: spicymayo (small blind) folded before Flop
+Seat 2: DoublelegTD (big blind) folded on the Flop
+Seat 6: CPUrul0r (button) collected ($733.25)
+
+PokerStars Hand #1516142447:  Hold'em No Limit ($75.00/$150.00 USD) - 2023/01/10 02:30:27 ET
+Table 'WPN_7 Day No Rathole 75/150 NLH' 9-max Seat #1 is the button
+Seat 1: spicymayo ($8334.94 in chips)
+Seat 2: DoublelegTD ($5086.94 in chips)
+Seat 6: CPUrul0r ($5767.00 in chips)
+DoublelegTD: posts small blind $75.00
+CPUrul0r: posts big blind $150.00
+*** HOLE CARDS ***
+spicymayo: raises $180.00 to $330.00
+DoublelegTD: folds
+CPUrul0r: calls $180.00
+*** FLOP *** [4d 7d 6c]
+CPUrul0r: checks
+spicymayo: bets $483.94
+CPUrul0r: calls $483.94
+*** TURN *** [4d 7d 6c] [3c]
+CPUrul0r: bets $425.72
+spicymayo: calls $425.72
+*** RIVER *** [4d 7d 6c 3c] [5h]
+CPUrul0r: bets $2550.00
+spicymayo: folds
+Uncalled bet ($2550.00) returned to CPUrul0r
+CPUrul0r collected $2552.57 from pot
+CPUrul0r: doesn't show hand
+*** SUMMARY ***
+Total pot $2554.32 | Rake $1.75
+Board [4d 7d 6c 3c 5h]
+Seat 1: spicymayo (button) folded on the River
+Seat 2: DoublelegTD (small blind) folded before Flop
+Seat 6: CPUrul0r (big blind) collected ($2552.57)
+
+PokerStars Hand #1516144530:  Hold'em No Limit ($75.00/$150.00 USD) - 2023/01/10 02:31:57 ET
+Table 'WPN_7 Day No Rathole 75/150 NLH' 9-max Seat #2 is the button
+Seat 1: spicymayo ($7095.28 in chips)
+Seat 2: DoublelegTD ($5011.94 in chips)
+Seat 3: uhhhyesandno ($1536.00 in chips)
+Seat 5: degen1990 ($10494.00 in chips)
+Seat 6: CPUrul0r ($7079.91 in chips)
+CPUrul0r: posts small blind $75.00
+DoublelegTD: posts big blind $150.00
+*** HOLE CARDS ***
+CPUrul0r: raises $300.00 to $450.00
+DoublelegTD: calls $300.00
+*** FLOP *** [6s 5h 8s]
+CPUrul0r: checks
+DoublelegTD: checks
+*** TURN *** [6s 5h 8s] [Qc]
+CPUrul0r: bets $900.00
+DoublelegTD: calls $900.00
+*** RIVER *** [6s 5h 8s Qc] [8h]
+CPUrul0r: checks
+DoublelegTD: bets $3661.94 and is all-in
+CPUrul0r: calls $3661.94
+*** SHOW DOWN ***
+DoublelegTD: shows [7c 8c]
+CPUrul0r: shows [Kh Qs]
+DoublelegTD collected $10022.63 from pot
+*** SUMMARY ***
+Total pot $10023.88 | Rake $1.25
+Board [6s 5h 8s Qc 8h]
+Seat 2: DoublelegTD (button) (big blind) showed [7c 8c] and won ($10022.63)
+Seat 6: CPUrul0r (small blind) showed [Kh Qs] and lost
+
+PokerStars Hand #1516146526:  Hold'em No Limit ($75.00/$150.00 USD) - 2023/01/10 02:33:23 ET
+Table 'WPN_7 Day No Rathole 75/150 NLH' 9-max Seat #6 is the button
+Seat 2: DoublelegTD ($10022.63 in chips)
+Seat 3: uhhhyesandno ($1536.00 in chips)
+Seat 4: Meek Bill ($7621.50 in chips)
+Seat 5: degen1990 ($10494.00 in chips)
+Seat 6: CPUrul0r ($2067.97 in chips)
+Seat 7: bigsoowoop ($16136.76 in chips)
+DoublelegTD: posts small blind $75.00
+uhhhyesandno: posts big blind $150.00
+*** HOLE CARDS ***
+CPUrul0r: folds
+DoublelegTD: raises $1650.00 to $1800.00
+uhhhyesandno: folds
+Uncalled bet ($1650.00) returned to DoublelegTD
+DoublelegTD collected $300.00 from pot
+DoublelegTD: doesn't show hand
+*** SUMMARY ***
+Total pot $300.00 | Rake $0.00
+Seat 2: DoublelegTD (small blind) collected ($300.00)
+Seat 3: uhhhyesandno (big blind) folded before Flop
+Seat 6: CPUrul0r (button) folded before Flop (didn't bet)
+
+PokerStars Hand #1516146947:  Hold'em No Limit ($75.00/$150.00 USD) - 2023/01/10 02:33:41 ET
+Table 'WPN_7 Day No Rathole 75/150 NLH' 9-max Seat #2 is the button
+Seat 2: DoublelegTD ($10172.63 in chips)
+Seat 3: uhhhyesandno ($1386.00 in chips)
+Seat 4: Meek Bill ($7621.50 in chips)
+Seat 5: degen1990 ($10494.00 in chips)
+Seat 6: CPUrul0r ($2067.97 in chips)
+Seat 7: bigsoowoop ($16136.76 in chips)
+Seat 8: alanwatts15 ($1500.00 in chips)
+uhhhyesandno: posts small blind $75.00
+Meek Bill: posts big blind $150.00
+*** HOLE CARDS ***
+CPUrul0r: folds
+DoublelegTD: folds
+uhhhyesandno: folds
+Uncalled bet ($75.00) returned to Meek Bill
+Meek Bill collected $150.00 from pot
+Meek Bill: doesn't show hand
+*** SUMMARY ***
+Total pot $150.00 | Rake $0.00
+Seat 2: DoublelegTD (button) folded before Flop (didn't bet)
+Seat 3: uhhhyesandno (small blind) folded before Flop
+Seat 4: Meek Bill (big blind) collected ($150.00)
+Seat 6: CPUrul0r folded before Flop (didn't bet)
+
+PokerStars Hand #1516147335:  Hold'em No Limit ($75.00/$150.00 USD) - 2023/01/10 02:33:58 ET
+Table 'WPN_7 Day No Rathole 75/150 NLH' 9-max Seat #3 is the button
+Seat 2: DoublelegTD ($10172.63 in chips)
+Seat 3: uhhhyesandno ($1425.00 in chips)
+Seat 4: Meek Bill ($7696.50 in chips)
+Seat 5: degen1990 ($10494.00 in chips)
+Seat 6: CPUrul0r ($2067.97 in chips)
+Seat 7: bigsoowoop ($16136.76 in chips)
+Seat 8: alanwatts15 ($1500.00 in chips)
+Meek Bill: posts small blind $75.00
+degen1990: posts big blind $150.00
+*** HOLE CARDS ***
+CPUrul0r: raises $150.00 to $300.00
+DoublelegTD: folds
+uhhhyesandno: folds
+Meek Bill: folds
+degen1990: folds
+Uncalled bet ($150.00) returned to CPUrul0r
+CPUrul0r collected $375.00 from pot
+CPUrul0r: doesn't show hand
+*** SUMMARY ***
+Total pot $375.00 | Rake $0.00
+Seat 2: DoublelegTD folded before Flop (didn't bet)
+Seat 3: uhhhyesandno (button) folded before Flop (didn't bet)
+Seat 4: Meek Bill (small blind) folded before Flop
+Seat 5: degen1990 (big blind) folded before Flop
+Seat 6: CPUrul0r collected ($375.00)
+
+PokerStars Hand #1516147685:  Hold'em No Limit ($75.00/$150.00 USD) - 2023/01/10 02:34:13 ET
+Table 'WPN_7 Day No Rathole 75/150 NLH' 9-max Seat #4 is the button
+Seat 2: DoublelegTD ($10172.63 in chips)
+Seat 3: uhhhyesandno ($1425.00 in chips)
+Seat 4: Meek Bill ($7621.50 in chips)
+Seat 5: degen1990 ($10344.00 in chips)
+Seat 6: CPUrul0r ($2292.97 in chips)
+Seat 7: bigsoowoop ($16136.76 in chips)
+Seat 8: alanwatts15 ($1500.00 in chips)
+degen1990: posts small blind $75.00
+CPUrul0r: posts big blind $150.00
+*** HOLE CARDS ***
+DoublelegTD: folds
+uhhhyesandno: folds
+Meek Bill: folds
+degen1990: raises $225.00 to $375.00
+CPUrul0r: folds
+Uncalled bet ($225.00) returned to degen1990
+degen1990 collected $300.00 from pot
+degen1990: doesn't show hand
+*** SUMMARY ***
+Total pot $300.00 | Rake $0.00
+Seat 2: DoublelegTD folded before Flop (didn't bet)
+Seat 3: uhhhyesandno folded before Flop (didn't bet)
+Seat 4: Meek Bill (button) folded before Flop (didn't bet)
+Seat 5: degen1990 (small blind) collected ($300.00)
+Seat 6: CPUrul0r (big blind) folded before Flop
+
+PokerStars Hand #1516148171:  Hold'em No Limit ($75.00/$150.00 USD) - 2023/01/10 02:34:34 ET
+Table 'WPN_7 Day No Rathole 75/150 NLH' 9-max Seat #5 is the button
+Seat 2: DoublelegTD ($10172.63 in chips)
+Seat 3: uhhhyesandno ($1425.00 in chips)
+Seat 4: Meek Bill ($7621.50 in chips)
+Seat 5: degen1990 ($10494.00 in chips)
+Seat 6: CPUrul0r ($2142.97 in chips)
+Seat 7: bigsoowoop ($16136.76 in chips)
+Seat 8: alanwatts15 ($1500.00 in chips)
+CPUrul0r: posts small blind $75.00
+bigsoowoop: posts big blind $150.00
+*** HOLE CARDS ***
+DoublelegTD: folds
+uhhhyesandno: folds
+Meek Bill: folds
+degen1990: folds
+CPUrul0r: raises $1992.97 to $2142.97 and is all-in
+bigsoowoop: folds
+Uncalled bet ($1992.97) returned to CPUrul0r
+CPUrul0r collected $300.00 from pot
+CPUrul0r: doesn't show hand
+*** SUMMARY ***
+Total pot $300.00 | Rake $0.00
+Seat 2: DoublelegTD folded before Flop (didn't bet)
+Seat 3: uhhhyesandno folded before Flop (didn't bet)
+Seat 4: Meek Bill folded before Flop (didn't bet)
+Seat 5: degen1990 (button) folded before Flop (didn't bet)
+Seat 6: CPUrul0r (small blind) collected ($300.00)
+Seat 7: bigsoowoop (big blind) folded before Flop
+
+PokerStars Hand #1516148844:  Hold'em No Limit ($75.00/$150.00 USD) - 2023/01/10 02:35:02 ET
+Table 'WPN_7 Day No Rathole 75/150 NLH' 9-max Seat #6 is the button
+Seat 2: DoublelegTD ($10172.63 in chips)
+Seat 3: uhhhyesandno ($1425.00 in chips)
+Seat 4: Meek Bill ($7621.50 in chips)
+Seat 5: degen1990 ($10494.00 in chips)
+Seat 6: CPUrul0r ($2292.97 in chips)
+Seat 7: bigsoowoop ($15986.76 in chips)
+Seat 8: alanwatts15 ($1500.00 in chips)
+bigsoowoop: posts small blind $75.00
+alanwatts15: posts big blind $150.00
+*** HOLE CARDS ***
+DoublelegTD: raises $150.00 to $300.00
+uhhhyesandno: folds
+Meek Bill: folds
+degen1990: folds
+CPUrul0r: raises $1992.97 to $2292.97 and is all-in
+bigsoowoop: folds
+alanwatts15: folds
+DoublelegTD: calls $1992.97
+*** FIRST FLOP *** [6h 5d Tc]
+*** FIRST TURN *** [6h 5d Tc] [2c]
+*** FIRST RIVER *** [6h 5d Tc 2c] [Td]
+*** SECOND FLOP *** [9d 3c Qs]
+*** SECOND TURN *** [9d 3c Qs] [Ah]
+*** SECOND RIVER *** [9d 3c Qs Ah] [Qc]
+*** FIRST SHOW DOWN ***
+DoublelegTD: shows [Kh As]
+CPUrul0r: shows [Kd Qd]
+DoublelegTD collected $2403.97 from pot
+*** SECOND SHOW DOWN ***
+DoublelegTD: shows [Kh As]
+CPUrul0r: shows [Kd Qd]
+CPUrul0r collected $2403.97 from pot
+*** SUMMARY ***
+Total pot $4810.94 | Rake $3.00
+Hand was run twice
+FIRST Board [6h 5d Tc 2c Td]
+SECOND Board [9d 3c Qs Ah Qc]
+Seat 2: DoublelegTD showed [Kh As] and won ($2403.97), and lost
+Seat 3: uhhhyesandno folded before Flop (didn't bet)
+Seat 4: Meek Bill folded before Flop (didn't bet)
+Seat 5: degen1990 folded before Flop (didn't bet)
+Seat 6: CPUrul0r (button) showed [Kd Qd] and lost, and won ($2403.97)
+Seat 7: bigsoowoop (small blind) folded before Flop
+Seat 8: alanwatts15 (big blind) folded before Flop
+
+PokerStars Hand #1516149640:  Hold'em No Limit ($75.00/$150.00 USD) - 2023/01/10 02:35:39 ET
+Table 'WPN_7 Day No Rathole 75/150 NLH' 9-max Seat #7 is the button
+Seat 2: DoublelegTD ($10283.63 in chips)
+Seat 3: uhhhyesandno ($1425.00 in chips)
+Seat 4: Meek Bill ($7621.50 in chips)
+Seat 5: degen1990 ($10494.00 in chips)
+Seat 6: CPUrul0r ($2403.97 in chips)
+Seat 7: bigsoowoop ($15911.76 in chips)
+Seat 8: alanwatts15 ($1500.00 in chips)
+alanwatts15: posts small blind $75.00
+uhhhyesandno: posts big blind $150.00
+*** HOLE CARDS ***
+Meek Bill: folds
+degen1990: folds
+CPUrul0r: folds
+bigsoowoop: raises $15761.76 to $15911.76 and is all-in
+alanwatts15: folds
+uhhhyesandno: folds
+Uncalled bet ($15761.76) returned to bigsoowoop
+bigsoowoop collected $375.00 from pot
+bigsoowoop: doesn't show hand
+*** SUMMARY ***
+Total pot $375.00 | Rake $0.00
+Seat 3: uhhhyesandno (big blind) folded before Flop
+Seat 4: Meek Bill folded before Flop (didn't bet)
+Seat 5: degen1990 folded before Flop (didn't bet)
+Seat 6: CPUrul0r folded before Flop (didn't bet)
+Seat 7: bigsoowoop (button) collected ($375.00)
+Seat 8: alanwatts15 (small blind) folded before Flop
+
+PokerStars Hand #1516150453:  Hold'em No Limit ($75.00/$150.00 USD) - 2023/01/10 02:36:15 ET
+Table 'WPN_7 Day No Rathole 75/150 NLH' 9-max Seat #8 is the button
+Seat 3: uhhhyesandno ($1350.00 in chips)
+Seat 4: Meek Bill ($7621.50 in chips)
+Seat 5: degen1990 ($10494.00 in chips)
+Seat 6: CPUrul0r ($2403.97 in chips)
+Seat 7: bigsoowoop ($16136.76 in chips)
+Seat 8: alanwatts15 ($1500.00 in chips)
+uhhhyesandno: posts small blind $75.00
+alanwatts15: posts big blind $150.00
+*** HOLE CARDS ***
+uhhhyesandno: folds
+Uncalled bet ($75.00) returned to alanwatts15
+alanwatts15 collected $150.00 from pot
+alanwatts15: doesn't show hand
+*** SUMMARY ***
+Total pot $150.00 | Rake $0.00
+Seat 3: uhhhyesandno (small blind) folded before Flop
+Seat 8: alanwatts15 (button) (big blind) collected ($150.00)
+
+PokerStars Hand #1516157596:  Hold'em No Limit ($75.00/$150.00 USD) - 2023/01/10 02:41:25 ET
+Table 'WPN_7 Day No Rathole 75/150 NLH' 9-max Seat #3 is the button
+Seat 3: uhhhyesandno ($1425.00 in chips)
+Seat 8: CPUrul0r ($2403.97 in chips)
+uhhhyesandno: posts small blind $75.00
+CPUrul0r: posts big blind $150.00
+*** HOLE CARDS ***
+uhhhyesandno: folds
+Uncalled bet ($75.00) returned to CPUrul0r
+CPUrul0r collected $150.00 from pot
+CPUrul0r: doesn't show hand
+*** SUMMARY ***
+Total pot $150.00 | Rake $0.00
+Seat 3: uhhhyesandno (button) (small blind) folded before Flop
+Seat 8: CPUrul0r (big blind) collected ($150.00)
+
+PokerStars Hand #1516157911:  Hold'em No Limit ($75.00/$150.00 USD) - 2023/01/10 02:41:39 ET
+Table 'WPN_7 Day No Rathole 75/150 NLH' 9-max Seat #3 is the button
+Seat 3: uhhhyesandno ($1425.00 in chips)
+Seat 8: CPUrul0r ($2478.97 in chips)
+Seat 9: alanwatts15 ($1575.00 in chips)
+CPUrul0r: posts small blind $75.00
+alanwatts15: posts big blind $150.00
+*** HOLE CARDS ***
+uhhhyesandno: folds
+CPUrul0r: raises $2328.97 to $2478.97 and is all-in
+alanwatts15: folds
+Uncalled bet ($2328.97) returned to CPUrul0r
+CPUrul0r collected $300.00 from pot
+CPUrul0r: doesn't show hand
+*** SUMMARY ***
+Total pot $300.00 | Rake $0.00
+Seat 3: uhhhyesandno (button) folded before Flop (didn't bet)
+Seat 8: CPUrul0r (small blind) collected ($300.00)
+Seat 9: alanwatts15 (big blind) folded before Flop
+
+PokerStars Hand #1516158310:  Hold'em No Limit ($75.00/$150.00 USD) - 2023/01/10 02:41:56 ET
+Table 'WPN_7 Day No Rathole 75/150 NLH' 9-max Seat #8 is the button
+Seat 1: bigsoowoop ($16136.76 in chips)
+Seat 3: uhhhyesandno ($1425.00 in chips)
+Seat 8: CPUrul0r ($2628.97 in chips)
+Seat 9: alanwatts15 ($1425.00 in chips)
+alanwatts15: posts small blind $75.00
+bigsoowoop: posts big blind $150.00
+*** HOLE CARDS ***
+uhhhyesandno: folds
+CPUrul0r: folds
+alanwatts15: raises $1350.00 to $1500.00 and is all-in
+bigsoowoop: folds
+Uncalled bet ($1350.00) returned to alanwatts15
+alanwatts15 collected $300.00 from pot
+alanwatts15: doesn't show hand
+*** SUMMARY ***
+Total pot $300.00 | Rake $0.00
+Seat 1: bigsoowoop (big blind) folded before Flop
+Seat 3: uhhhyesandno folded before Flop (didn't bet)
+Seat 8: CPUrul0r (button) folded before Flop (didn't bet)
+Seat 9: alanwatts15 (small blind) collected ($300.00)
+
+PokerStars Hand #1516158754:  Hold'em No Limit ($75.00/$150.00 USD) - 2023/01/10 02:42:15 ET
+Table 'WPN_7 Day No Rathole 75/150 NLH' 9-max Seat #9 is the button
+Seat 1: bigsoowoop ($15986.76 in chips)
+Seat 2: el0el ($6021.51 in chips)
+Seat 3: uhhhyesandno ($1425.00 in chips)
+Seat 4: DoublelegTD ($10283.63 in chips)
+Seat 5: orgi69 ($1844.62 in chips)
+Seat 6: jrSuited18 ($1500.00 in chips)
+Seat 8: CPUrul0r ($2628.97 in chips)
+Seat 9: alanwatts15 ($1650.00 in chips)
+bigsoowoop: posts small blind $75.00
+el0el: posts big blind $150.00
+*** HOLE CARDS ***
+uhhhyesandno: folds
+CPUrul0r: folds
+alanwatts15: folds
+bigsoowoop: raises $300.00 to $450.00
+el0el: folds
+Uncalled bet ($300.00) returned to bigsoowoop
+bigsoowoop collected $300.00 from pot
+bigsoowoop: doesn't show hand
+*** SUMMARY ***
+Total pot $300.00 | Rake $0.00
+Seat 1: bigsoowoop (small blind) collected ($300.00)
+Seat 2: el0el (big blind) folded before Flop
+Seat 3: uhhhyesandno folded before Flop (didn't bet)
+Seat 8: CPUrul0r folded before Flop (didn't bet)
+Seat 9: alanwatts15 (button) folded before Flop (didn't bet)
+
+PokerStars Hand #1516159406:  Hold'em No Limit ($75.00/$150.00 USD) - 2023/01/10 02:42:43 ET
+Table 'WPN_7 Day No Rathole 75/150 NLH' 9-max Seat #1 is the button
+Seat 1: bigsoowoop ($16136.76 in chips)
+Seat 2: el0el ($5871.51 in chips)
+Seat 3: uhhhyesandno ($1425.00 in chips)
+Seat 5: orgi69 ($1844.62 in chips)
+Seat 6: jrSuited18 ($1500.00 in chips)
+Seat 8: CPUrul0r ($2628.97 in chips)
+Seat 9: alanwatts15 ($1650.00 in chips)
+el0el: posts small blind $75.00
+orgi69: posts big blind $150.00
+*** HOLE CARDS ***
+CPUrul0r: folds
+alanwatts15: raises $1500.00 to $1650.00 and is all-in
+bigsoowoop: folds
+el0el: folds
+orgi69: folds
+Uncalled bet ($1500.00) returned to alanwatts15
+alanwatts15 collected $375.00 from pot
+alanwatts15: doesn't show hand
+*** SUMMARY ***
+Total pot $375.00 | Rake $0.00
+Seat 1: bigsoowoop (button) folded before Flop (didn't bet)
+Seat 2: el0el (small blind) folded before Flop
+Seat 5: orgi69 (big blind) folded before Flop
+Seat 8: CPUrul0r folded before Flop (didn't bet)
+Seat 9: alanwatts15 collected ($375.00)
+
+PokerStars Hand #1516160101:  Hold'em No Limit ($75.00/$150.00 USD) - 2023/01/10 02:43:13 ET
+Table 'WPN_7 Day No Rathole 75/150 NLH' 9-max Seat #2 is the button
+Seat 1: bigsoowoop ($16136.76 in chips)
+Seat 2: el0el ($5796.51 in chips)
+Seat 3: uhhhyesandno ($1500.00 in chips)
+Seat 5: orgi69 ($1694.62 in chips)
+Seat 6: jrSuited18 ($1500.00 in chips)
+Seat 7: degen1990 ($10494.00 in chips)
+Seat 8: CPUrul0r ($2628.97 in chips)
+Seat 9: alanwatts15 ($1875.00 in chips)
+orgi69: posts small blind $75.00
+jrSuited18: posts big blind $150.00
+*** HOLE CARDS ***
+CPUrul0r: folds
+alanwatts15: folds
+bigsoowoop: folds
+el0el: raises $5646.51 to $5796.51 and is all-in
+orgi69: folds
+jrSuited18: folds
+Uncalled bet ($5646.51) returned to el0el
+el0el collected $375.00 from pot
+el0el: doesn't show hand
+*** SUMMARY ***
+Total pot $375.00 | Rake $0.00
+Seat 1: bigsoowoop folded before Flop (didn't bet)
+Seat 2: el0el (button) collected ($375.00)
+Seat 5: orgi69 (small blind) folded before Flop
+Seat 6: jrSuited18 (big blind) folded before Flop
+Seat 8: CPUrul0r folded before Flop (didn't bet)
+Seat 9: alanwatts15 folded before Flop (didn't bet)
+
+PokerStars Hand #1516160559:  Hold'em No Limit ($75.00/$150.00 USD) - 2023/01/10 02:43:32 ET
+Table 'WPN_7 Day No Rathole 75/150 NLH' 9-max Seat #5 is the button
+Seat 1: bigsoowoop ($16136.76 in chips)
+Seat 2: el0el ($6021.51 in chips)
+Seat 3: uhhhyesandno ($1500.00 in chips)
+Seat 5: orgi69 ($1619.62 in chips)
+Seat 6: jrSuited18 ($1350.00 in chips)
+Seat 8: CPUrul0r ($2628.97 in chips)
+Seat 9: alanwatts15 ($1875.00 in chips)
+jrSuited18: posts small blind $75.00
+CPUrul0r: posts big blind $150.00
+*** HOLE CARDS ***
+alanwatts15: folds
+bigsoowoop: raises $150.00 to $300.00
+el0el: folds
+orgi69: folds
+jrSuited18: folds
+CPUrul0r: calls $150.00
+*** FLOP *** [2s Ah 2c]
+CPUrul0r: checks
+bigsoowoop: bets $168.75
+CPUrul0r: folds
+Uncalled bet ($168.75) returned to bigsoowoop
+bigsoowoop collected $672.00 from pot
+bigsoowoop: doesn't show hand
+*** SUMMARY ***
+Total pot $675.00 | Rake $3.00
+Board [2s Ah 2c]
+Seat 1: bigsoowoop collected ($672.00)
+Seat 2: el0el folded before Flop (didn't bet)
+Seat 5: orgi69 (button) folded before Flop (didn't bet)
+Seat 6: jrSuited18 (small blind) folded before Flop
+Seat 8: CPUrul0r (big blind) folded on the Flop
+Seat 9: alanwatts15 folded before Flop (didn't bet)
+
+PokerStars Hand #1516161492:  Hold'em No Limit ($75.00/$150.00 USD) - 2023/01/10 02:44:11 ET
+Table 'WPN_7 Day No Rathole 75/150 NLH' 9-max Seat #6 is the button
+Seat 1: bigsoowoop ($16508.76 in chips)
+Seat 3: uhhhyesandno ($1500.00 in chips)
+Seat 5: orgi69 ($1619.62 in chips)
+Seat 6: jrSuited18 ($1500.00 in chips)
+Seat 8: CPUrul0r ($2328.97 in chips)
+CPUrul0r: posts small blind $75.00
+uhhhyesandno: posts big blind $150.00
+*** HOLE CARDS ***
+orgi69: folds
+jrSuited18: folds
+CPUrul0r: folds
+Uncalled bet ($75.00) returned to uhhhyesandno
+uhhhyesandno collected $150.00 from pot
+uhhhyesandno: doesn't show hand
+*** SUMMARY ***
+Total pot $150.00 | Rake $0.00
+Seat 3: uhhhyesandno (big blind) collected ($150.00)
+Seat 5: orgi69 folded before Flop (didn't bet)
+Seat 6: jrSuited18 (button) folded before Flop (didn't bet)
+Seat 8: CPUrul0r (small blind) folded before Flop
+
+PokerStars Hand #1516161711:  Hold'em No Limit ($75.00/$150.00 USD) - 2023/01/10 02:44:22 ET
+Table 'WPN_7 Day No Rathole 75/150 NLH' 9-max Seat #8 is the button
+Seat 3: uhhhyesandno ($1575.00 in chips)
+Seat 5: orgi69 ($1619.62 in chips)
+Seat 6: jrSuited18 ($1500.00 in chips)
+Seat 8: CPUrul0r ($2253.97 in chips)
+uhhhyesandno: posts small blind $75.00
+CPUrul0r: posts big blind $150.00
+*** HOLE CARDS ***
+uhhhyesandno: raises $1425.00 to $1575.00 and is all-in
+CPUrul0r: folds
+Uncalled bet ($1425.00) returned to uhhhyesandno
+uhhhyesandno collected $300.00 from pot
+uhhhyesandno: doesn't show hand
+*** SUMMARY ***
+Total pot $300.00 | Rake $0.00
+Seat 3: uhhhyesandno (small blind) collected ($300.00)
+Seat 8: CPUrul0r (button) (big blind) folded before Flop
+
+PokerStars Hand #1516162312:  Hold'em No Limit ($75.00/$150.00 USD) - 2023/01/10 02:44:47 ET
+Table 'WPN_7 Day No Rathole 75/150 NLH' 9-max Seat #8 is the button
+Seat 3: uhhhyesandno ($1725.00 in chips)
+Seat 8: CPUrul0r ($2028.97 in chips)
+CPUrul0r: posts small blind $75.00
+uhhhyesandno: posts big blind $150.00
+*** HOLE CARDS ***
+CPUrul0r: raises $1953.97 to $2103.97 and is all-in
+uhhhyesandno: folds
+Uncalled bet ($1953.97) returned to CPUrul0r
+CPUrul0r collected $300.00 from pot
+CPUrul0r: doesn't show hand
+*** SUMMARY ***
+Total pot $300.00 | Rake $0.00
+Seat 3: uhhhyesandno (big blind) folded before Flop
+Seat 8: CPUrul0r (button) (small blind) collected ($300.00)
+

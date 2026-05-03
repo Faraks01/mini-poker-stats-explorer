@@ -1,0 +1,423 @@
+Hand #1943000241 - Holdem(No Limit) - $100/$200 - 2023/11/24 21:00:42 UTC
+Woodland 6-max Seat #6 is the button
+Seat 2: HuntersNR1 ($50244.75)
+Seat 4: StankPankerton ($20000)
+Seat 6: GYakobishvili ($51419.43)
+HuntersNR1 posts ante $1000
+GYakobishvili posts ante $1000
+*** HOLE CARDS *** 
+*** FLOP *** [5h 9h Qs]
+Main pot $1998.75 | Rake $1.25
+HuntersNR1 checks
+GYakobishvili bets $1540
+HuntersNR1 calls $1540
+*** TURN *** [5h 9h Qs] [Td]
+Main pot $5078.75 | Rake $1.25
+HuntersNR1 checks
+GYakobishvili checks
+*** RIVER *** [5h 9h Qs Td] [As]
+Main pot $5078.75 | Rake $1.25
+HuntersNR1 bets $1524
+GYakobishvili raises $9600 to $9600
+HuntersNR1 folds
+Uncalled bet ($8076) returned to GYakobishvili
+GYakobishvili does not show
+*** SUMMARY ***
+BombPot
+Total pot $8126.75 | Rake $1.25
+Seat 2: HuntersNR1 folded on the River
+Seat 6: GYakobishvili (button) did not showed and won $8126.75
+
+
+Hand #1943019924 - Holdem(No Limit) - $100/$200 - 2023/11/24 21:17:09 UTC
+Woodland 6-max Seat #2 is the button
+Seat 1: MSK20 ($20000)
+Seat 2: HuntersNR1 ($48562.25)
+Seat 5: SeaLlama ($20000)
+HuntersNR1 posts ante $1000
+SeaLlama posts ante $1000
+*** HOLE CARDS *** 
+*** FLOP *** [4d 2s 9d]
+Main pot $1998.75 | Rake $1.25
+SeaLlama checks
+HuntersNR1 bets $600
+SeaLlama calls $600
+*** TURN *** [4d 2s 9d] [Kd]
+Main pot $3198.75 | Rake $1.25
+SeaLlama checks
+HuntersNR1 checks
+*** RIVER *** [4d 2s 9d Kd] [Kh]
+Main pot $3198.75 | Rake $1.25
+SeaLlama bets $800
+HuntersNR1 calls $800
+*** SHOW DOWN ***
+Main pot $3198.75 | Rake $1.25
+HuntersNR1 shows [9s 4c]
+HuntersNR1 collected $4798.75 from main pot
+*** SUMMARY ***
+BombPot
+Total pot $4798.75 | Rake $1.25
+Seat 2: HuntersNR1 (button) showed [9s 4c] and won $4798.75 with TwoPair [Kh Kd 9s 9d 4d]
+Seat 5: SeaLlama did not showed and lost
+
+
+Hand #1943541282 - Holdem(No Limit) - $100/$200 - 2023/11/25 05:12:31 UTC
+Woodland 6-max Seat #5 is the button
+Seat 2: SeaLlama ($20000)
+Seat 5: 7SkyAroundMe ($20000)
+SeaLlama posts ante $1000
+7SkyAroundMe posts ante $1000
+*** HOLE CARDS *** 
+*** FLOP *** [Kd 4c 5s]
+Main pot $1998.75 | Rake $1.25
+SeaLlama checks
+7SkyAroundMe bets $500
+SeaLlama raises $2000 to $2000
+7SkyAroundMe calls $1500
+*** TURN *** [Kd 4c 5s] [Qh]
+Main pot $5998.75 | Rake $1.25
+SeaLlama bets $4500
+7SkyAroundMe folds
+Uncalled bet ($4500) returned to SeaLlama
+SeaLlama does not show
+*** SUMMARY ***
+BombPot
+Total pot $5998.75 | Rake $1.25
+Seat 2: SeaLlama did not showed and won $5998.75
+Seat 5: 7SkyAroundMe (button) folded on the Turn
+
+
+Hand #1943606956 - Holdem(No Limit) - $100/$200 - 2023/11/25 06:40:06 UTC
+Woodland 6-max Seat #5 is the button
+Seat 3: SeaLlama ($20000)
+Seat 5: 7SkyAroundMe ($20498.75)
+SeaLlama posts ante $1000
+7SkyAroundMe posts ante $1000
+*** HOLE CARDS *** 
+*** FLOP *** [3s 7c 2d]
+Main pot $1998.75 | Rake $1.25
+SeaLlama checks
+7SkyAroundMe bets $500
+SeaLlama calls $500
+*** TURN *** [3s 7c 2d] [8c]
+Main pot $2998.75 | Rake $1.25
+SeaLlama checks
+7SkyAroundMe checks
+*** RIVER *** [3s 7c 2d 8c] [3d]
+Main pot $2998.75 | Rake $1.25
+SeaLlama bets $4498
+7SkyAroundMe raises $18998.75 to $18998.75 and is all-in
+SeaLlama folds
+Uncalled bet ($14500.75) returned to 7SkyAroundMe
+7SkyAroundMe does not show
+*** SUMMARY ***
+BombPot
+Total pot $11994.75 | Rake $1.25
+Seat 3: SeaLlama folded on the River
+Seat 5: 7SkyAroundMe (button) did not showed and won $11994.75
+
+
+Hand #1944049329 - Holdem(No Limit) - $100/$200 - 2023/11/25 19:23:24 UTC
+Woodland 6-max Seat #2 is the button
+Seat 1: Joral ($20000)
+Seat 2: CWestmoreland ($20000)
+Seat 4: xplo1t4bl3 ($20000)
+Seat 5: gorbashove ($10000)
+CWestmoreland posts ante $1000
+gorbashove posts ante $1000
+*** HOLE CARDS *** 
+*** FLOP *** [3s 5s 4h]
+Main pot $1998.75 | Rake $1.25
+gorbashove checks
+CWestmoreland checks
+*** TURN *** [3s 5s 4h] [Kc]
+Main pot $1998.75 | Rake $1.25
+gorbashove checks
+CWestmoreland checks
+*** RIVER *** [3s 5s 4h Kc] [4s]
+Main pot $1998.75 | Rake $1.25
+gorbashove checks
+CWestmoreland checks
+*** SHOW DOWN ***
+Main pot $1998.75 | Rake $1.25
+gorbashove shows [9c Ad]
+gorbashove collected $1998.75 from main pot
+*** SUMMARY ***
+BombPot
+Total pot $1998.75 | Rake $1.25
+Seat 2: CWestmoreland (button) did not showed and lost
+Seat 5: gorbashove showed [9c Ad] and won $1998.75 with OnePair [4s 4h Ad Kc 9c]
+
+
+Hand #1944053574 - Holdem(No Limit) - $100/$200 - 2023/11/25 19:27:58 UTC
+Woodland 6-max Seat #6 is the button
+Seat 1: Joral ($8000)
+Seat 2: CWestmoreland ($20600)
+Seat 4: xplo1t4bl3 ($20000)
+Seat 5: gorbashove ($20954.25)
+Seat 6: J0hnMcclean ($20000)
+Joral posts ante $1000
+CWestmoreland posts ante $1000
+xplo1t4bl3 posts ante $1000
+gorbashove posts ante $1000
+J0hnMcclean posts ante $1000
+*** HOLE CARDS *** 
+*** FLOP *** [2s 9c Td]
+Main pot $4997 | Rake $3
+Joral bets $500
+CWestmoreland folds
+xplo1t4bl3 calls $500
+gorbashove folds
+J0hnMcclean folds
+*** TURN *** [2s 9c Td] [4h]
+Main pot $5997 | Rake $3
+Joral bets $2000
+xplo1t4bl3 calls $2000
+*** RIVER *** [2s 9c Td 4h] [2c]
+Main pot $9997 | Rake $3
+Joral bets $4500 and is all-in
+xplo1t4bl3 folds
+Uncalled bet ($4500) returned to Joral
+Joral does not show
+*** SUMMARY ***
+BombPot
+Total pot $9997 | Rake $3
+Seat 1: Joral did not showed and won $9997
+Seat 2: CWestmoreland folded on the Flop
+Seat 4: xplo1t4bl3 folded on the River
+Seat 5: gorbashove folded on the Flop
+Seat 6: J0hnMcclean (button) folded on the Flop
+
+
+Hand #1944067080 - Holdem(No Limit) - $100/$200 - 2023/11/25 19:39:00 UTC
+Woodland 6-max Seat #6 is the button
+Seat 1: Joral ($20597)
+Seat 2: CWestmoreland ($24971.85)
+Seat 3: oneplusone ($20000)
+Seat 4: xplo1t4bl3 ($20927)
+Seat 5: gorbashove ($23646.25)
+Seat 6: J0hnMcclean ($20000)
+Joral posts ante $1000
+CWestmoreland posts ante $1000
+xplo1t4bl3 posts ante $1000
+gorbashove posts ante $1000
+J0hnMcclean posts ante $1000
+*** HOLE CARDS *** 
+*** FLOP *** [2h Qd 8s]
+Main pot $4997 | Rake $3
+Joral checks
+CWestmoreland checks
+xplo1t4bl3 checks
+gorbashove checks
+J0hnMcclean checks
+*** TURN *** [2h Qd 8s] [4h]
+Main pot $4997 | Rake $3
+Joral checks
+CWestmoreland checks
+xplo1t4bl3 bets $3750
+gorbashove folds
+J0hnMcclean folds
+Joral folds
+CWestmoreland calls $3750
+*** RIVER *** [2h Qd 8s 4h] [3c]
+Main pot $12497 | Rake $3
+CWestmoreland checks
+xplo1t4bl3 checks
+*** SHOW DOWN ***
+Main pot $12497 | Rake $3
+CWestmoreland shows [Qc 4c]
+CWestmoreland collected $12497 from main pot
+*** SUMMARY ***
+BombPot
+Total pot $12497 | Rake $3
+Seat 1: Joral folded on the Turn
+Seat 2: CWestmoreland showed [Qc 4c] and won $12497 with TwoPair [Qd Qc 4h 4c 8s]
+Seat 4: xplo1t4bl3 did not showed and lost
+Seat 5: gorbashove folded on the Turn
+Seat 6: J0hnMcclean (button) folded on the Turn
+
+
+Hand #1944081241 - Holdem(No Limit) - $100/$200 - 2023/11/25 19:50:17 UTC
+Woodland 6-max Seat #2 is the button
+Seat 1: Joral ($27391)
+Seat 2: CWestmoreland ($39703.85)
+Seat 4: xplo1t4bl3 ($20000)
+Seat 5: gorbashove ($23083.25)
+Seat 6: J0hnMcclean ($8566)
+Joral posts ante $1000
+CWestmoreland posts ante $1000
+xplo1t4bl3 posts ante $1000
+gorbashove posts ante $1000
+J0hnMcclean posts ante $1000
+*** HOLE CARDS *** 
+*** FLOP *** [Tc 8s 3d]
+Main pot $4997 | Rake $3
+xplo1t4bl3 checks
+gorbashove bets $1250
+J0hnMcclean folds
+Joral folds
+CWestmoreland folds
+xplo1t4bl3 folds
+Uncalled bet ($1250) returned to gorbashove
+gorbashove does not show
+*** SUMMARY ***
+BombPot
+Total pot $4997 | Rake $3
+Seat 1: Joral folded on the Flop
+Seat 2: CWestmoreland (button) folded on the Flop
+Seat 4: xplo1t4bl3 folded on the Flop
+Seat 5: gorbashove did not showed and won $4997
+Seat 6: J0hnMcclean folded on the Flop
+
+
+Hand #1944093809 - Holdem(No Limit) - $100/$200 - 2023/11/25 20:05:36 UTC
+Woodland 6-max Seat #1 is the button
+Seat 1: Joral ($24678.90)
+Seat 2: CWestmoreland ($42284.95)
+Seat 3: iBetMyWifeGLGG ($10782.70)
+Seat 4: xplo1t4bl3 ($20000)
+Seat 5: gorbashove ($25538.55)
+Joral posts ante $1000
+CWestmoreland posts ante $1000
+iBetMyWifeGLGG posts ante $1000
+xplo1t4bl3 posts ante $1000
+gorbashove posts ante $1000
+*** HOLE CARDS *** 
+*** FLOP *** [3h 3d 9s]
+Main pot $4997 | Rake $3
+CWestmoreland checks
+iBetMyWifeGLGG checks
+xplo1t4bl3 checks
+gorbashove checks
+Joral checks
+*** TURN *** [3h 3d 9s] [Qd]
+Main pot $4997 | Rake $3
+CWestmoreland checks
+iBetMyWifeGLGG checks
+xplo1t4bl3 bets $2500
+gorbashove folds
+Joral folds
+CWestmoreland folds
+iBetMyWifeGLGG folds
+Uncalled bet ($2500) returned to xplo1t4bl3
+xplo1t4bl3 does not show
+*** SUMMARY ***
+BombPot
+Total pot $4997 | Rake $3
+Seat 1: Joral (button) folded on the Turn
+Seat 2: CWestmoreland folded on the Turn
+Seat 3: iBetMyWifeGLGG folded on the Turn
+Seat 4: xplo1t4bl3 did not showed and won $4997
+Seat 5: gorbashove folded on the Turn
+
+
+Hand #1944119191 - Holdem(No Limit) - $100/$200 - 2023/11/25 20:24:26 UTC
+Woodland 6-max Seat #4 is the button
+Seat 1: CWestmoreland ($42081.10)
+Seat 3: iBetMyWifeGLGG ($8456.20)
+Seat 4: SeaLlama ($20650)
+Seat 5: gorbashove ($24686.90)
+Seat 6: zas911 ($20000)
+CWestmoreland posts ante $1000
+iBetMyWifeGLGG posts ante $1000
+SeaLlama posts ante $1000
+gorbashove posts ante $1000
+*** HOLE CARDS *** 
+*** FLOP *** [5s 2d 8d]
+Main pot $3997.75 | Rake $2.25
+gorbashove bets $1000
+CWestmoreland raises $2000 to $2000
+iBetMyWifeGLGG folds
+SeaLlama folds
+gorbashove calls $1000
+*** TURN *** [5s 2d 8d] [Ks]
+Main pot $7997.75 | Rake $2.25
+gorbashove checks
+CWestmoreland checks
+*** RIVER *** [5s 2d 8d Ks] [9s]
+Main pot $7997.75 | Rake $2.25
+gorbashove checks
+CWestmoreland checks
+*** SHOW DOWN ***
+Main pot $7997.75 | Rake $2.25
+gorbashove shows [9d 5h]
+gorbashove collected $7997.75 from main pot
+*** SUMMARY ***
+BombPot
+Total pot $7997.75 | Rake $2.25
+Seat 1: CWestmoreland did not showed and lost
+Seat 3: iBetMyWifeGLGG folded on the Flop
+Seat 4: SeaLlama (button) folded on the Flop
+Seat 5: gorbashove showed [9d 5h] and won $7997.75 with TwoPair [9s 9d 5s 5h Ks]
+
+
+Hand #1944134246 - Holdem(No Limit) - $100/$200 - 2023/11/25 20:34:53 UTC
+Woodland 6-max Seat #4 is the button
+Seat 1: CWestmoreland ($39078.85)
+Seat 2: xplo1t4bl3 ($24141)
+Seat 3: iBetMyWifeGLGG ($7493.20)
+Seat 4: SeaLlama ($23791.75)
+Seat 5: gorbashove ($27788.65)
+Seat 6: zas911 ($23480)
+CWestmoreland posts ante $1000
+xplo1t4bl3 posts ante $1000
+iBetMyWifeGLGG posts ante $1000
+SeaLlama posts ante $1000
+gorbashove posts ante $1000
+zas911 posts ante $1000
+*** HOLE CARDS *** 
+*** FLOP *** [Ah 9c Jd]
+Main pot $5997 | Rake $3
+gorbashove checks
+zas911 checks
+CWestmoreland checks
+xplo1t4bl3 checks
+iBetMyWifeGLGG checks
+SeaLlama bets $1500
+gorbashove folds
+zas911 folds
+CWestmoreland folds
+xplo1t4bl3 folds
+iBetMyWifeGLGG folds
+Uncalled bet ($1500) returned to SeaLlama
+SeaLlama does not show
+*** SUMMARY ***
+BombPot
+Total pot $5997 | Rake $3
+Seat 1: CWestmoreland folded on the Flop
+Seat 2: xplo1t4bl3 folded on the Flop
+Seat 3: iBetMyWifeGLGG folded on the Flop
+Seat 4: SeaLlama (button) did not showed and won $5997
+Seat 5: gorbashove folded on the Flop
+Seat 6: zas911 folded on the Flop
+
+
+Hand #1944163813 - Holdem(No Limit) - $100/$200 - 2023/11/25 20:56:34 UTC
+Woodland 6-max Seat #4 is the button
+Seat 1: CWestmoreland ($35909.56)
+Seat 3: iBetMyWifeGLGG ($3841.82)
+Seat 4: SeaLlama ($37762.17)
+CWestmoreland posts ante $1000
+iBetMyWifeGLGG posts ante $1000
+SeaLlama posts ante $1000
+*** HOLE CARDS *** 
+*** FLOP *** [Tc 2d 9s]
+Main pot $2998.25 | Rake $1.75
+CWestmoreland checks
+iBetMyWifeGLGG checks
+SeaLlama checks
+*** TURN *** [Tc 2d 9s] [4s]
+Main pot $2998.25 | Rake $1.75
+CWestmoreland checks
+iBetMyWifeGLGG bets $2841.82 and is all-in
+SeaLlama folds
+CWestmoreland folds
+Uncalled bet ($2841.82) returned to iBetMyWifeGLGG
+iBetMyWifeGLGG does not show
+*** SUMMARY ***
+BombPot
+Total pot $2998.25 | Rake $1.75
+Seat 1: CWestmoreland folded on the Turn
+Seat 3: iBetMyWifeGLGG did not showed and won $2998.25
+Seat 4: SeaLlama (button) folded on the Turn
+

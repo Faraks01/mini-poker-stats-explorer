@@ -1,0 +1,510 @@
+Hand #1934835444 - Holdem(No Limit) - $50/$100 - 2023/11/17 22:57:26 UTC
+Coulterville 6-max Seat #2 is the button
+Seat 2: SigadiSogadi ($10000)
+Seat 5: OhHiMark18 ($10000)
+SigadiSogadi posts ante $500
+OhHiMark18 posts ante $500
+*** HOLE CARDS *** 
+*** FLOP *** [8c 3c 2h]
+Main pot $998.75 | Rake $1.25
+OhHiMark18 checks
+SigadiSogadi checks
+*** TURN *** [8c 3c 2h] [3s]
+Main pot $998.75 | Rake $1.25
+OhHiMark18 bets $750
+SigadiSogadi folds
+Uncalled bet ($750) returned to OhHiMark18
+OhHiMark18 does not show
+*** SUMMARY ***
+BombPot
+Total pot $998.75 | Rake $1.25
+Seat 2: SigadiSogadi (button) folded on the Turn
+Seat 5: OhHiMark18 did not showed and won $998.75
+
+
+Hand #1934914313 - Holdem(No Limit) - $50/$100 - 2023/11/18 00:05:03 UTC
+Coulterville 6-max Seat #6 is the button
+Seat 1: Burundos254 ($10000)
+Seat 2: SigadiSogadi ($9110)
+Seat 3: Pr.Lupine ($10000)
+Seat 4: J0hnMcclean ($10000)
+Seat 5: PR0DIGY ($10288.25)
+Seat 6: lol voidaments ($10398.25)
+SigadiSogadi posts ante $500
+PR0DIGY posts ante $500
+lol voidaments posts ante $500
+*** HOLE CARDS *** 
+*** FLOP *** [6s Js Td]
+Main pot $1498.25 | Rake $1.75
+SigadiSogadi bets $375
+PR0DIGY folds
+lol voidaments calls $375
+*** TURN *** [6s Js Td] [As]
+Main pot $2248.25 | Rake $1.75
+SigadiSogadi checks
+lol voidaments checks
+*** RIVER *** [6s Js Td As] [9h]
+Main pot $2248.25 | Rake $1.75
+SigadiSogadi checks
+lol voidaments bets $1620
+SigadiSogadi raises $8235 to $8235 and is all-in
+lol voidaments calls $6615
+*** SHOW DOWN ***
+Main pot $2248.25 | Rake $1.75
+SigadiSogadi shows [9s Ts]
+lol voidaments shows [9d Th]
+SigadiSogadi collected $18718.25 from main pot
+*** SUMMARY ***
+BombPot
+Total pot $18718.25 | Rake $1.75
+Seat 2: SigadiSogadi showed [9s Ts] and won $18718.25 with Flush [As Js Ts 9s 6s]
+Seat 5: PR0DIGY folded on the Flop
+Seat 6: lol voidaments (button) showed [9d Th] and lost
+
+
+Hand #1934932903 - Holdem(No Limit) - $50/$100 - 2023/11/18 00:20:35 UTC
+Coulterville 6-max Seat #5 is the button
+Seat 1: Burundos254 ($11315.25)
+Seat 2: Simulacra ($4000)
+Seat 3: lol voidaments ($10000)
+Seat 4: J0hnMcclean ($10000)
+Seat 5: PR0DIGY ($14850.50)
+Burundos254 posts ante $500
+Simulacra posts ante $500
+lol voidaments posts ante $500
+J0hnMcclean posts ante $500
+PR0DIGY posts ante $500
+*** HOLE CARDS *** 
+*** FLOP *** [9d 7h 4d]
+Main pot $2497 | Rake $3
+Burundos254 checks
+Simulacra checks
+lol voidaments bets $550
+J0hnMcclean folds
+PR0DIGY calls $550
+Burundos254 calls $550
+Simulacra folds
+*** TURN *** [9d 7h 4d] [Jh]
+Main pot $4147 | Rake $3
+Burundos254 checks
+lol voidaments checks
+PR0DIGY checks
+*** RIVER *** [9d 7h 4d Jh] [Js]
+Main pot $4147 | Rake $3
+Burundos254 checks
+lol voidaments bets $1245
+PR0DIGY calls $1245
+Burundos254 folds
+*** SHOW DOWN ***
+Main pot $4147 | Rake $3
+PR0DIGY shows [7c Tc]
+PR0DIGY collected $6637 from main pot
+*** SUMMARY ***
+BombPot
+Total pot $6637 | Rake $3
+Seat 1: Burundos254 folded on the River
+Seat 2: Simulacra folded on the Flop
+Seat 3: lol voidaments did not showed and lost
+Seat 4: J0hnMcclean folded on the Flop
+Seat 5: PR0DIGY (button) showed [7c Tc] and won $6637 with TwoPair [Js Jh 7h 7c Tc]
+
+
+Hand #1934960451 - Holdem(No Limit) - $50/$100 - 2023/11/18 00:41:28 UTC
+Coulterville 6-max Seat #5 is the button
+Seat 1: Burundos254 ($12873.25)
+Seat 4: J0hnMcclean ($10131)
+Seat 5: PR0DIGY ($19659.99)
+Burundos254 posts ante $500
+J0hnMcclean posts ante $500
+PR0DIGY posts ante $500
+*** HOLE CARDS *** 
+*** FLOP *** [3c 8c 3s]
+Main pot $1498.25 | Rake $1.75
+Burundos254 checks
+J0hnMcclean checks
+PR0DIGY checks
+*** TURN *** [3c 8c 3s] [7h]
+Main pot $1498.25 | Rake $1.75
+Burundos254 checks
+J0hnMcclean checks
+PR0DIGY checks
+*** RIVER *** [3c 8c 3s 7h] [Js]
+Main pot $1498.25 | Rake $1.75
+Burundos254 checks
+J0hnMcclean checks
+PR0DIGY checks
+*** SHOW DOWN ***
+Main pot $1498.25 | Rake $1.75
+Burundos254 shows [7s As]
+Burundos254 collected $1498.25 from main pot
+*** SUMMARY ***
+BombPot
+Total pot $1498.25 | Rake $1.75
+Seat 1: Burundos254 showed [7s As] and won $1498.25 with TwoPair [7s 7h 3s 3c As]
+Seat 4: J0hnMcclean did not showed and lost
+Seat 5: PR0DIGY (button) did not showed and lost
+
+
+Hand #1934972599 - Holdem(No Limit) - $50/$100 - 2023/11/18 00:52:45 UTC
+Coulterville 6-max Seat #5 is the button
+Seat 1: Burundos254 ($23362.25)
+Seat 2: ULTIMATEBOT ($10000)
+Seat 3: lol voidaments ($10000)
+Seat 4: J0hnMcclean ($10100)
+Seat 5: PR0DIGY ($20483.24)
+Seat 6: ShemaleHunter ($10000)
+Burundos254 posts ante $500
+ULTIMATEBOT posts ante $500
+lol voidaments posts ante $500
+J0hnMcclean posts ante $500
+PR0DIGY posts ante $500
+*** HOLE CARDS *** 
+*** FLOP *** [2s 5h 5d]
+Main pot $2497 | Rake $3
+Burundos254 checks
+ULTIMATEBOT checks
+lol voidaments checks
+J0hnMcclean checks
+PR0DIGY checks
+*** TURN *** [2s 5h 5d] [3c]
+Main pot $2497 | Rake $3
+Burundos254 checks
+ULTIMATEBOT bets $499.28
+lol voidaments calls $499.28
+J0hnMcclean folds
+PR0DIGY folds
+Burundos254 calls $499.28
+*** RIVER *** [2s 5h 5d 3c] [6c]
+Main pot $3994.84 | Rake $3
+Burundos254 checks
+ULTIMATEBOT checks
+lol voidaments checks
+*** SHOW DOWN ***
+Main pot $3994.84 | Rake $3
+ULTIMATEBOT shows [6s 2c]
+ULTIMATEBOT collected $3994.84 from main pot
+*** SUMMARY ***
+BombPot
+Total pot $3994.84 | Rake $3
+Seat 1: Burundos254 did not showed and lost
+Seat 2: ULTIMATEBOT showed [6s 2c] and won $3994.84 with TwoPair [6s 6c 5h 5d 3c]
+Seat 3: lol voidaments did not showed and lost
+Seat 4: J0hnMcclean folded on the Turn
+Seat 5: PR0DIGY (button) folded on the Turn
+
+
+Hand #1934989885 - Holdem(No Limit) - $50/$100 - 2023/11/18 01:08:41 UTC
+Coulterville 6-max Seat #4 is the button
+Seat 4: J0hnMcclean ($11117.25)
+Seat 5: PR0DIGY ($21050.61)
+J0hnMcclean posts ante $500
+PR0DIGY posts ante $500
+*** HOLE CARDS *** 
+*** FLOP *** [Kh 7s 6h]
+Main pot $998.75 | Rake $1.25
+PR0DIGY checks
+J0hnMcclean checks
+*** TURN *** [Kh 7s 6h] [8c]
+Main pot $998.75 | Rake $1.25
+PR0DIGY checks
+J0hnMcclean bets $1497
+PR0DIGY folds
+Uncalled bet ($1497) returned to J0hnMcclean
+J0hnMcclean does not show
+*** SUMMARY ***
+BombPot
+Total pot $998.75 | Rake $1.25
+Seat 4: J0hnMcclean (button) did not showed and won $998.75
+Seat 5: PR0DIGY folded on the Turn
+
+
+Hand #1935004092 - Holdem(No Limit) - $50/$100 - 2023/11/18 01:19:52 UTC
+Coulterville 6-max Seat #5 is the button
+Seat 2: lol voidaments ($10563.25)
+Seat 4: J0hnMcclean ($13882.45)
+Seat 5: PR0DIGY ($22957.60)
+lol voidaments posts ante $500
+J0hnMcclean posts ante $500
+PR0DIGY posts ante $500
+*** HOLE CARDS *** 
+*** FLOP *** [Td 8c 3s]
+Main pot $1498.25 | Rake $1.75
+lol voidaments checks
+J0hnMcclean checks
+PR0DIGY bets $749.12
+lol voidaments folds
+J0hnMcclean folds
+Uncalled bet ($749.12) returned to PR0DIGY
+PR0DIGY does not show
+*** SUMMARY ***
+BombPot
+Total pot $1498.25 | Rake $1.75
+Seat 2: lol voidaments folded on the Flop
+Seat 4: J0hnMcclean folded on the Flop
+Seat 5: PR0DIGY (button) did not showed and won $1498.25
+
+
+Hand #1935024375 - Holdem(No Limit) - $50/$100 - 2023/11/18 01:38:43 UTC
+Coulterville 6-max Seat #2 is the button
+Seat 1: SigadiSogadi ($10047.75)
+Seat 2: lol voidaments ($17321.77)
+Seat 3: Burundos254 ($10000)
+Seat 4: J0hnMcclean ($15993.70)
+Seat 5: PR0DIGY ($16960.30)
+Seat 6: ULTIMATEBOT ($10000)
+SigadiSogadi posts ante $500
+lol voidaments posts ante $500
+J0hnMcclean posts ante $500
+PR0DIGY posts ante $500
+*** HOLE CARDS *** 
+*** FLOP *** [Td As Tc]
+Main pot $1997.75 | Rake $2.25
+J0hnMcclean checks
+PR0DIGY checks
+SigadiSogadi bets $200
+lol voidaments folds
+J0hnMcclean calls $200
+PR0DIGY raises $1498.87 to $1498.87
+SigadiSogadi calls $1298.87
+J0hnMcclean folds
+*** TURN *** [Td As Tc] [Qc]
+Main pot $5195.49 | Rake $2.25
+PR0DIGY checks
+SigadiSogadi bets $1299.43
+PR0DIGY calls $1299.43
+*** RIVER *** [Td As Tc Qc] [9s]
+Main pot $7794.35 | Rake $2.25
+PR0DIGY bets $2260.36
+SigadiSogadi folds
+Uncalled bet ($2260.36) returned to PR0DIGY
+PR0DIGY does not show
+*** SUMMARY ***
+BombPot
+Total pot $7794.35 | Rake $2.25
+Seat 1: SigadiSogadi folded on the River
+Seat 2: lol voidaments (button) folded on the Flop
+Seat 4: J0hnMcclean folded on the Flop
+Seat 5: PR0DIGY did not showed and won $7794.35
+
+
+Hand #1935044810 - Holdem(No Limit) - $50/$100 - 2023/11/18 01:56:10 UTC
+Coulterville 6-max Seat #3 is the button
+Seat 2: lol voidaments ($10000)
+Seat 3: Burundos254 ($21910)
+Seat 4: J0hnMcclean ($24519.83)
+Seat 5: PR0DIGY ($23458.82)
+lol voidaments posts ante $500
+Burundos254 posts ante $500
+J0hnMcclean posts ante $500
+PR0DIGY posts ante $500
+*** HOLE CARDS *** 
+*** FLOP *** [Th 4d 3d]
+Main pot $1997.75 | Rake $2.25
+J0hnMcclean checks
+PR0DIGY checks
+lol voidaments bets $440
+Burundos254 calls $440
+J0hnMcclean calls $440
+PR0DIGY folds
+*** TURN *** [Th 4d 3d] [5c]
+Main pot $3317.75 | Rake $2.25
+J0hnMcclean checks
+lol voidaments checks
+Burundos254 checks
+*** RIVER *** [Th 4d 3d 5c] [Jh]
+Main pot $3317.75 | Rake $2.25
+J0hnMcclean bets $2189
+lol voidaments folds
+Burundos254 calls $2189
+*** SHOW DOWN ***
+Main pot $3317.75 | Rake $2.25
+J0hnMcclean shows [Qd Jd]
+J0hnMcclean collected $7695.75 from main pot
+*** SUMMARY ***
+BombPot
+Total pot $7695.75 | Rake $2.25
+Seat 2: lol voidaments folded on the River
+Seat 3: Burundos254 (button) did not showed and lost
+Seat 4: J0hnMcclean showed [Qd Jd] and won $7695.75 with OnePair [Jh Jd Qd Th 5c]
+Seat 5: PR0DIGY folded on the Flop
+
+
+Hand #1935060386 - Holdem(No Limit) - $50/$100 - 2023/11/18 02:12:26 UTC
+Coulterville 6-max Seat #5 is the button
+Seat 3: Burundos254 ($18900.73)
+Seat 4: J0hnMcclean ($32052.58)
+Seat 5: PR0DIGY ($22165.25)
+Burundos254 posts ante $500
+J0hnMcclean posts ante $500
+PR0DIGY posts ante $500
+*** HOLE CARDS *** 
+*** FLOP *** [6c 2h 5c]
+Main pot $1498.25 | Rake $1.75
+Burundos254 checks
+J0hnMcclean bets $494
+PR0DIGY folds
+Burundos254 calls $494
+*** TURN *** [6c 2h 5c] [9s]
+Main pot $2486.25 | Rake $1.75
+Burundos254 checks
+J0hnMcclean bets $1866
+Burundos254 raises $4975.12 to $4975.12
+J0hnMcclean calls $3109.12
+*** RIVER *** [6c 2h 5c 9s] [3d]
+Main pot $12436.49 | Rake $1.75
+Burundos254 bets $12931.61 and is all-in
+J0hnMcclean folds
+Uncalled bet ($12931.61) returned to Burundos254
+Burundos254 does not show
+*** SUMMARY ***
+BombPot
+Total pot $12436.49 | Rake $1.75
+Seat 3: Burundos254 did not showed and won $12436.49
+Seat 4: J0hnMcclean folded on the River
+Seat 5: PR0DIGY (button) folded on the Flop
+
+
+Hand #1935071545 - Holdem(No Limit) - $50/$100 - 2023/11/18 02:20:13 UTC
+Coulterville 6-max Seat #1 is the button
+Seat 1: lol voidaments ($11106.50)
+Seat 3: Burundos254 ($10000)
+Seat 5: J0hnMcclean ($17732.03)
+lol voidaments posts ante $500
+J0hnMcclean posts ante $500
+*** HOLE CARDS *** 
+*** FLOP *** [6c Ac 5s]
+Main pot $998.75 | Rake $1.25
+J0hnMcclean checks
+lol voidaments checks
+*** TURN *** [6c Ac 5s] [8h]
+Main pot $998.75 | Rake $1.25
+J0hnMcclean bets $1497
+lol voidaments calls $1497
+*** RIVER *** [6c Ac 5s 8h] [4s]
+Main pot $3992.75 | Rake $1.25
+J0hnMcclean checks
+lol voidaments bets $3983.31
+J0hnMcclean calls $3983.31
+*** SHOW DOWN ***
+Main pot $3992.75 | Rake $1.25
+J0hnMcclean shows [8d 8c]
+J0hnMcclean collected $11959.37 from main pot
+*** SUMMARY ***
+BombPot
+Total pot $11959.37 | Rake $1.25
+Seat 1: lol voidaments (button) did not showed and lost
+Seat 5: J0hnMcclean showed [8d 8c] and won $11959.37 with ThreeOfAKind [8h 8d 8c Ac 6c]
+
+
+Hand #1935098985 - Holdem(No Limit) - $50/$100 - 2023/11/18 02:42:21 UTC
+Coulterville 6-max Seat #3 is the button
+Seat 1: lol voidaments ($15204.05)
+Seat 3: Burundos254 ($38178.53)
+Seat 4: oneplusone ($10000)
+Seat 5: J0hnMcclean ($12520.29)
+lol voidaments posts ante $500
+Burundos254 posts ante $500
+oneplusone posts ante $500
+J0hnMcclean posts ante $500
+*** HOLE CARDS *** 
+*** FLOP *** [8c Tc Qc]
+Main pot $1997.75 | Rake $2.25
+oneplusone checks
+J0hnMcclean checks
+lol voidaments checks
+Burundos254 bets $399
+oneplusone folds
+J0hnMcclean folds
+lol voidaments folds
+Uncalled bet ($399) returned to Burundos254
+Burundos254 does not show
+*** SUMMARY ***
+BombPot
+Total pot $1997.75 | Rake $2.25
+Seat 1: lol voidaments folded on the Flop
+Seat 3: Burundos254 (button) did not showed and won $1997.75
+Seat 4: oneplusone folded on the Flop
+Seat 5: J0hnMcclean folded on the Flop
+
+
+Hand #1935356374 - Holdem(No Limit) - $50/$100 - 2023/11/18 07:48:33 UTC
+Coulterville 6-max Seat #1 is the button
+Seat 1: uhhhyesandno ($5000)
+Seat 2: abcdonkey ($10000)
+Seat 4: lol voidaments ($10000)
+uhhhyesandno posts ante $500
+lol voidaments posts ante $500
+*** HOLE CARDS *** 
+*** FLOP *** [5d Kd 4d]
+Main pot $998.75 | Rake $1.25
+lol voidaments checks
+uhhhyesandno bets $250
+lol voidaments raises $700 to $700
+uhhhyesandno calls $450
+*** TURN *** [5d Kd 4d] [5h]
+Main pot $2398.75 | Rake $1.25
+lol voidaments checks
+uhhhyesandno bets $600
+lol voidaments folds
+Uncalled bet ($600) returned to uhhhyesandno
+uhhhyesandno does not show
+*** SUMMARY ***
+BombPot
+Total pot $2398.75 | Rake $1.25
+Seat 1: uhhhyesandno (button) did not showed and won $2398.75
+Seat 4: lol voidaments folded on the Turn
+
+
+Hand #1935361120 - Holdem(No Limit) - $50/$100 - 2023/11/18 07:59:13 UTC
+Coulterville 6-max Seat #4 is the button
+Seat 1: 7SkyAroundMe ($10546.55)
+Seat 4: lol voidaments ($10000)
+7SkyAroundMe posts ante $500
+lol voidaments posts ante $500
+*** HOLE CARDS *** 
+*** FLOP *** [8c 8s 5d]
+Main pot $998.75 | Rake $1.25
+7SkyAroundMe checks
+lol voidaments checks
+*** TURN *** [8c 8s 5d] [7s]
+Main pot $998.75 | Rake $1.25
+7SkyAroundMe checks
+lol voidaments checks
+*** RIVER *** [8c 8s 5d 7s] [Qd]
+Main pot $998.75 | Rake $1.25
+7SkyAroundMe checks
+lol voidaments checks
+*** SHOW DOWN ***
+Main pot $998.75 | Rake $1.25
+7SkyAroundMe shows [5s 9d]
+7SkyAroundMe collected $998.75 from main pot
+*** SUMMARY ***
+BombPot
+Total pot $998.75 | Rake $1.25
+Seat 1: 7SkyAroundMe showed [5s 9d] and won $998.75 with TwoPair [8s 8c 5s 5d Qd]
+Seat 4: lol voidaments (button) did not showed and lost
+
+
+Hand #1935796610 - Holdem(No Limit) - $50/$100 - 2023/11/18 20:06:10 UTC
+Coulterville 6-max Seat #2 is the button
+Seat 2: eldelbar ($10000)
+Seat 5: PR0DIGY ($10000)
+eldelbar posts ante $500
+PR0DIGY posts ante $500
+*** HOLE CARDS *** 
+*** FLOP *** [4h Kd 6d]
+Main pot $998.75 | Rake $1.25
+PR0DIGY checks
+eldelbar checks
+*** TURN *** [4h Kd 6d] [4s]
+Main pot $998.75 | Rake $1.25
+PR0DIGY bets $289.63
+eldelbar folds
+Uncalled bet ($289.63) returned to PR0DIGY
+PR0DIGY does not show
+*** SUMMARY ***
+BombPot
+Total pot $998.75 | Rake $1.25
+Seat 2: eldelbar (button) folded on the Turn
+Seat 5: PR0DIGY did not showed and won $998.75
+

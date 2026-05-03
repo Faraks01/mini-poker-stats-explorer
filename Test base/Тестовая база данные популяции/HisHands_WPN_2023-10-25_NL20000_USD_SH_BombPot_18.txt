@@ -1,0 +1,710 @@
+
+Hand #1906853782 - Holdem(No Limit) - $100/$200 - 2023/10/24 21:09:36 UTC
+Ford 6-max Seat #4 is the button
+Seat 1: FlemSnopes ($13128.75)
+Seat 4: TIKITAKA11 ($21865)
+FlemSnopes posts ante $1000
+TIKITAKA11 posts ante $1000
+*** HOLE CARDS *** 
+*** FLOP *** [Jc 4h 9h]
+Main pot $1998.75 | Rake $1.25
+FlemSnopes checks
+TIKITAKA11 bets $400
+FlemSnopes folds
+Uncalled bet ($400) returned to TIKITAKA11
+TIKITAKA11 does not show
+*** SUMMARY ***
+BombPot
+Total pot $1998.75 | Rake $1.25
+Seat 1: FlemSnopes folded on the Flop
+Seat 4: TIKITAKA11 (button) did not showed and won $1998.75
+
+
+Hand #1906860552 - Holdem(No Limit) - $100/$200 - 2023/10/24 21:17:28 UTC
+Ford 6-max Seat #1 is the button
+Seat 1: FlemSnopes ($22272)
+Seat 2: FlyingStyle ($20000)
+Seat 3: SigadiSogadi ($19700)
+Seat 4: TIKITAKA11 ($30214.75)
+Seat 5: opportunity2 ($20000)
+Seat 6: J0hnMcclean ($20495.25)
+FlemSnopes posts ante $1000
+FlyingStyle posts ante $1000
+SigadiSogadi posts ante $1000
+TIKITAKA11 posts ante $1000
+opportunity2 posts ante $1000
+J0hnMcclean posts ante $1000
+*** HOLE CARDS *** 
+*** FLOP *** [9s 6h 2h]
+Main pot $5997 | Rake $3
+FlyingStyle checks
+SigadiSogadi checks
+TIKITAKA11 checks
+opportunity2 bets $900
+J0hnMcclean folds
+FlemSnopes folds
+FlyingStyle folds
+SigadiSogadi calls $900
+TIKITAKA11 folds
+*** TURN *** [9s 6h 2h] [8d]
+Main pot $7797 | Rake $3
+SigadiSogadi checks
+opportunity2 bets $5928
+SigadiSogadi folds
+Uncalled bet ($5928) returned to opportunity2
+opportunity2 does not show
+*** SUMMARY ***
+BombPot
+Total pot $7797 | Rake $3
+Seat 1: FlemSnopes (button) folded on the Flop
+Seat 2: FlyingStyle folded on the Flop
+Seat 3: SigadiSogadi folded on the Turn
+Seat 4: TIKITAKA11 folded on the Flop
+Seat 5: opportunity2 did not showed and won $7797
+Seat 6: J0hnMcclean folded on the Flop
+
+
+Hand #1906877648 - Holdem(No Limit) - $100/$200 - 2023/10/24 21:34:45 UTC
+Ford 6-max Seat #1 is the button
+Seat 1: FlemSnopes ($45470.80)
+Seat 2: FlyingStyle ($26147)
+Seat 3: SigadiSogadi ($19122)
+Seat 4: TIKITAKA11 ($24649.63)
+Seat 5: opportunity2 ($26449.40)
+Seat 6: J0hnMcclean ($20395.25)
+FlemSnopes posts ante $1000
+FlyingStyle posts ante $1000
+SigadiSogadi posts ante $1000
+TIKITAKA11 posts ante $1000
+opportunity2 posts ante $1000
+J0hnMcclean posts ante $1000
+*** HOLE CARDS *** 
+*** FLOP *** [Qc Ad Kh]
+Main pot $5997 | Rake $3
+FlyingStyle bets $898
+SigadiSogadi folds
+TIKITAKA11 raises $2847 to $2847
+opportunity2 folds
+J0hnMcclean folds
+FlemSnopes folds
+FlyingStyle calls $1949
+*** TURN *** [Qc Ad Kh] [4d]
+Main pot $11691 | Rake $3
+FlyingStyle checks
+TIKITAKA11 checks
+*** RIVER *** [Qc Ad Kh 4d] [6c]
+Main pot $11691 | Rake $3
+FlyingStyle checks
+TIKITAKA11 checks
+*** SHOW DOWN ***
+Main pot $11691 | Rake $3
+FlyingStyle shows [Tc Kc]
+FlyingStyle collected $11691 from main pot
+*** SUMMARY ***
+BombPot
+Total pot $11691 | Rake $3
+Seat 1: FlemSnopes (button) folded on the Flop
+Seat 2: FlyingStyle showed [Tc Kc] and won $11691 with OnePair [Kh Kc Ad Qc Tc]
+Seat 3: SigadiSogadi folded on the Flop
+Seat 4: TIKITAKA11 did not showed and lost
+Seat 5: opportunity2 folded on the Flop
+Seat 6: J0hnMcclean folded on the Flop
+
+
+Hand #1906901882 - Holdem(No Limit) - $100/$200 - 2023/10/24 21:58:59 UTC
+Ford 6-max Seat #5 is the button
+Seat 1: FlemSnopes ($37753.76)
+Seat 2: FlyingStyle ($94202.25)
+Seat 3: SigadiSogadi ($12985)
+Seat 4: TIKITAKA11 ($22397)
+Seat 5: opportunity2 ($24808)
+Seat 6: J0hnMcclean ($19700)
+FlemSnopes posts ante $1000
+FlyingStyle posts ante $1000
+SigadiSogadi posts ante $1000
+TIKITAKA11 posts ante $1000
+opportunity2 posts ante $1000
+J0hnMcclean posts ante $1000
+*** HOLE CARDS *** 
+*** FLOP *** [4h 7c 2h]
+Main pot $5997 | Rake $3
+J0hnMcclean checks
+FlemSnopes bets $3000
+FlyingStyle folds
+SigadiSogadi folds
+TIKITAKA11 raises $21397 to $21397 and is all-in
+opportunity2 folds
+J0hnMcclean folds
+FlemSnopes folds
+Uncalled bet ($18397) returned to TIKITAKA11
+TIKITAKA11 does not show
+*** SUMMARY ***
+BombPot
+Total pot $11997 | Rake $3
+Seat 1: FlemSnopes folded on the Flop
+Seat 2: FlyingStyle folded on the Flop
+Seat 3: SigadiSogadi folded on the Flop
+Seat 4: TIKITAKA11 did not showed and won $11997
+Seat 5: opportunity2 (button) folded on the Flop
+Seat 6: J0hnMcclean folded on the Flop
+
+
+Hand #1906917680 - Holdem(No Limit) - $100/$200 - 2023/10/24 22:14:11 UTC
+Ford 6-max Seat #3 is the button
+Seat 1: FlemSnopes ($52071.88)
+Seat 2: FlyingStyle ($80115.13)
+Seat 3: SigadiSogadi ($19284)
+Seat 4: TIKITAKA11 ($31381)
+Seat 5: opportunity2 ($26338)
+Seat 6: J0hnMcclean ($21120)
+FlemSnopes posts ante $1000
+FlyingStyle posts ante $1000
+SigadiSogadi posts ante $1000
+TIKITAKA11 posts ante $1000
+opportunity2 posts ante $1000
+J0hnMcclean posts ante $1000
+*** HOLE CARDS *** 
+*** FLOP *** [7h Ac Jd]
+Main pot $5997 | Rake $3
+TIKITAKA11 checks
+opportunity2 checks
+J0hnMcclean checks
+FlemSnopes checks
+FlyingStyle checks
+SigadiSogadi checks
+*** TURN *** [7h Ac Jd] [Ad]
+Main pot $5997 | Rake $3
+TIKITAKA11 bets $3000
+opportunity2 calls $3000
+J0hnMcclean folds
+FlemSnopes folds
+FlyingStyle folds
+SigadiSogadi folds
+*** RIVER *** [7h Ac Jd Ad] [Qs]
+Main pot $11997 | Rake $3
+TIKITAKA11 checks
+opportunity2 checks
+*** SHOW DOWN ***
+Main pot $11997 | Rake $3
+opportunity2 shows [Jc Kd]
+opportunity2 collected $11997 from main pot
+*** SUMMARY ***
+BombPot
+Total pot $11997 | Rake $3
+Seat 1: FlemSnopes folded on the Turn
+Seat 2: FlyingStyle folded on the Turn
+Seat 3: SigadiSogadi (button) folded on the Turn
+Seat 4: TIKITAKA11 did not showed and lost
+Seat 5: opportunity2 showed [Jc Kd] and won $11997 with TwoPair [Ad Ac Jd Jc Kd]
+Seat 6: J0hnMcclean folded on the Turn
+
+
+Hand #1906933790 - Holdem(No Limit) - $100/$200 - 2023/10/24 22:28:11 UTC
+Ford 6-max Seat #4 is the button
+Seat 1: FlemSnopes ($50849.88)
+Seat 2: FlyingStyle ($78835.33)
+Seat 3: SigadiSogadi ($18700)
+Seat 4: TIKITAKA11 ($26732.80)
+Seat 5: opportunity2 ($40155)
+Seat 6: J0hnMcclean ($21100)
+FlemSnopes posts ante $1000
+FlyingStyle posts ante $1000
+SigadiSogadi posts ante $1000
+TIKITAKA11 posts ante $1000
+opportunity2 posts ante $1000
+J0hnMcclean posts ante $1000
+*** HOLE CARDS *** 
+*** FLOP *** [9h Ks 6h]
+Main pot $5997 | Rake $3
+opportunity2 checks
+J0hnMcclean checks
+FlemSnopes checks
+FlyingStyle bets $880
+SigadiSogadi folds
+TIKITAKA11 calls $880
+opportunity2 calls $880
+J0hnMcclean calls $880
+FlemSnopes calls $880
+*** TURN *** [9h Ks 6h] [2c]
+Main pot $10397 | Rake $3
+opportunity2 checks
+J0hnMcclean checks
+FlemSnopes checks
+FlyingStyle bets $7696
+TIKITAKA11 folds
+opportunity2 folds
+J0hnMcclean folds
+FlemSnopes folds
+Uncalled bet ($7696) returned to FlyingStyle
+FlyingStyle does not show
+*** SUMMARY ***
+BombPot
+Total pot $10397 | Rake $3
+Seat 1: FlemSnopes folded on the Turn
+Seat 2: FlyingStyle did not showed and won $10397
+Seat 3: SigadiSogadi folded on the Flop
+Seat 4: TIKITAKA11 (button) folded on the Turn
+Seat 5: opportunity2 folded on the Turn
+Seat 6: J0hnMcclean folded on the Turn
+
+
+Hand #1906945521 - Holdem(No Limit) - $100/$200 - 2023/10/24 22:37:25 UTC
+Ford 6-max Seat #5 is the button
+Seat 1: FlemSnopes ($41227.88)
+Seat 2: FlyingStyle ($95765.33)
+Seat 3: SigadiSogadi ($20000)
+Seat 4: TIKITAKA11 ($24049.80)
+Seat 5: opportunity2 ($33200)
+Seat 6: J0hnMcclean ($25009)
+FlemSnopes posts ante $1000
+FlyingStyle posts ante $1000
+SigadiSogadi posts ante $1000
+TIKITAKA11 posts ante $1000
+opportunity2 posts ante $1000
+J0hnMcclean posts ante $1000
+*** HOLE CARDS *** 
+*** FLOP *** [8c 2d 4s]
+Main pot $5997 | Rake $3
+J0hnMcclean checks
+FlemSnopes bets $3000
+FlyingStyle calls $3000
+SigadiSogadi folds
+TIKITAKA11 calls $3000
+opportunity2 folds
+J0hnMcclean calls $3000
+*** TURN *** [8c 2d 4s] [9h]
+Main pot $17997 | Rake $3
+J0hnMcclean checks
+FlemSnopes bets $9000
+FlyingStyle folds
+TIKITAKA11 folds
+J0hnMcclean folds
+Uncalled bet ($9000) returned to FlemSnopes
+FlemSnopes does not show
+*** SHOW DOWN ***
+Main pot $17997 | Rake $3
+FlemSnopes shows [Kh Ks]
+FlemSnopes collected $17997 from main pot
+*** SUMMARY ***
+BombPot
+Total pot $17997 | Rake $3
+Seat 1: FlemSnopes showed [Kh Ks] and won $17997 with a
+Seat 2: FlyingStyle folded on the Turn
+Seat 3: SigadiSogadi folded on the Flop
+Seat 4: TIKITAKA11 folded on the Turn
+Seat 5: opportunity2 (button) folded on the Flop
+Seat 6: J0hnMcclean folded on the Turn
+
+
+Hand #1906959709 - Holdem(No Limit) - $100/$200 - 2023/10/24 22:49:13 UTC
+Ford 6-max Seat #4 is the button
+Seat 1: FlemSnopes ($69677.13)
+Seat 2: FlyingStyle ($91462.33)
+Seat 3: SigadiSogadi ($15567)
+Seat 4: TIKITAKA11 ($20000)
+Seat 5: opportunity2 ($34381.48)
+Seat 6: J0hnMcclean ($25297)
+FlemSnopes posts ante $1000
+FlyingStyle posts ante $1000
+SigadiSogadi posts ante $1000
+TIKITAKA11 posts ante $1000
+opportunity2 posts ante $1000
+J0hnMcclean posts ante $1000
+*** HOLE CARDS *** 
+*** FLOP *** [Ks 8c Kh]
+Main pot $5997 | Rake $3
+opportunity2 checks
+J0hnMcclean checks
+FlemSnopes checks
+FlyingStyle bets $898
+SigadiSogadi folds
+TIKITAKA11 raises $1796 to $1796
+opportunity2 folds
+J0hnMcclean folds
+FlemSnopes folds
+FlyingStyle calls $898
+*** TURN *** [Ks 8c Kh] [7c]
+Main pot $9589 | Rake $3
+FlyingStyle checks
+TIKITAKA11 bets $2898
+FlyingStyle folds
+Uncalled bet ($2898) returned to TIKITAKA11
+TIKITAKA11 does not show
+*** SUMMARY ***
+BombPot
+Total pot $9589 | Rake $3
+Seat 1: FlemSnopes folded on the Flop
+Seat 2: FlyingStyle folded on the Turn
+Seat 3: SigadiSogadi folded on the Flop
+Seat 4: TIKITAKA11 (button) did not showed and won $9589
+Seat 5: opportunity2 folded on the Flop
+Seat 6: J0hnMcclean folded on the Flop
+
+
+Hand #1906973615 - Holdem(No Limit) - $100/$200 - 2023/10/24 23:03:53 UTC
+Ford 6-max Seat #6 is the button
+Seat 1: FlemSnopes ($70318.63)
+Seat 2: FlyingStyle ($91653.65)
+Seat 3: SigadiSogadi ($15768.18)
+Seat 4: TIKITAKA11 ($23551)
+Seat 5: opportunity2 ($37409.48)
+Seat 6: J0hnMcclean ($24054)
+FlemSnopes posts ante $1000
+FlyingStyle posts ante $1000
+SigadiSogadi posts ante $1000
+TIKITAKA11 posts ante $1000
+opportunity2 posts ante $1000
+J0hnMcclean posts ante $1000
+*** HOLE CARDS *** 
+*** FLOP *** [Ks Kc Qc]
+Main pot $5997 | Rake $3
+FlemSnopes checks
+FlyingStyle checks
+SigadiSogadi bets $600
+TIKITAKA11 folds
+opportunity2 folds
+J0hnMcclean folds
+FlemSnopes folds
+FlyingStyle folds
+Uncalled bet ($600) returned to SigadiSogadi
+SigadiSogadi does not show
+*** SUMMARY ***
+BombPot
+Total pot $5997 | Rake $3
+Seat 1: FlemSnopes folded on the Flop
+Seat 2: FlyingStyle folded on the Flop
+Seat 3: SigadiSogadi did not showed and won $5997
+Seat 4: TIKITAKA11 folded on the Flop
+Seat 5: opportunity2 folded on the Flop
+Seat 6: J0hnMcclean (button) folded on the Flop
+
+
+Hand #1907020845 - Holdem(No Limit) - $100/$200 - 2023/10/24 23:44:55 UTC
+Ford 6-max Seat #1 is the button
+Seat 1: iWasOnly17 ($20458.75)
+Seat 2: ShemaleHunter ($20000)
+Seat 3: 7SkyAroundMe ($20000)
+Seat 4: TIKITAKA11 ($60459.25)
+iWasOnly17 posts ante $1000
+TIKITAKA11 posts ante $1000
+*** HOLE CARDS *** 
+*** FLOP *** [7h Th 9d]
+Main pot $1998.75 | Rake $1.25
+TIKITAKA11 checks
+iWasOnly17 checks
+*** TURN *** [7h Th 9d] [4c]
+Main pot $1998.75 | Rake $1.25
+TIKITAKA11 bets $1500
+iWasOnly17 calls $1500
+*** RIVER *** [7h Th 9d 4c] [3h]
+Main pot $4998.75 | Rake $1.25
+TIKITAKA11 checks
+iWasOnly17 bets $3750
+TIKITAKA11 raises $57959.25 to $57959.25 and is all-in
+iWasOnly17 folds
+Uncalled bet ($54209.25) returned to TIKITAKA11
+TIKITAKA11 does not show
+*** SUMMARY ***
+BombPot
+Total pot $12498.75 | Rake $1.25
+Seat 1: iWasOnly17 (button) folded on the River
+Seat 4: TIKITAKA11 did not showed and won $12498.75
+
+
+Hand #1907028562 - Holdem(No Limit) - $100/$200 - 2023/10/24 23:51:58 UTC
+Ford 6-max Seat #4 is the button
+Seat 1: iWasOnly17 ($20000)
+Seat 2: CWestmoreland ($20000)
+Seat 4: TIKITAKA11 ($67806.75)
+Seat 5: ShemaleHunter ($20000)
+Seat 6: SeaLlama ($20000)
+iWasOnly17 posts ante $1000
+CWestmoreland posts ante $1000
+TIKITAKA11 posts ante $1000
+SeaLlama posts ante $1000
+*** HOLE CARDS *** 
+*** FLOP *** [Ts 7d Qs]
+Main pot $3997.75 | Rake $2.25
+SeaLlama checks
+iWasOnly17 checks
+CWestmoreland checks
+TIKITAKA11 checks
+*** TURN *** [Ts 7d Qs] [Kd]
+Main pot $3997.75 | Rake $2.25
+SeaLlama bets $4000
+iWasOnly17 folds
+CWestmoreland folds
+TIKITAKA11 folds
+Uncalled bet ($4000) returned to SeaLlama
+SeaLlama does not show
+*** SUMMARY ***
+BombPot
+Total pot $3997.75 | Rake $2.25
+Seat 1: iWasOnly17 folded on the Turn
+Seat 2: CWestmoreland folded on the Turn
+Seat 4: TIKITAKA11 (button) folded on the Turn
+Seat 6: SeaLlama did not showed and won $3997.75
+
+
+Hand #1907042065 - Holdem(No Limit) - $100/$200 - 2023/10/25 00:06:12 UTC
+Ford 6-max Seat #1 is the button
+Seat 1: iWasOnly17 ($22994.37)
+Seat 2: CWestmoreland ($25375.87)
+Seat 4: TIKITAKA11 ($62242.73)
+Seat 6: SeaLlama ($21864.62)
+iWasOnly17 posts ante $1000
+CWestmoreland posts ante $1000
+TIKITAKA11 posts ante $1000
+SeaLlama posts ante $1000
+*** HOLE CARDS *** 
+*** FLOP *** [Qh Kh 6s]
+Main pot $3997.75 | Rake $2.25
+CWestmoreland checks
+TIKITAKA11 checks
+SeaLlama bets $500
+iWasOnly17 folds
+CWestmoreland folds
+TIKITAKA11 folds
+Uncalled bet ($500) returned to SeaLlama
+SeaLlama does not show
+*** SUMMARY ***
+BombPot
+Total pot $3997.75 | Rake $2.25
+Seat 1: iWasOnly17 (button) folded on the Flop
+Seat 2: CWestmoreland folded on the Flop
+Seat 4: TIKITAKA11 folded on the Flop
+Seat 6: SeaLlama did not showed and won $3997.75
+
+
+Hand #1907067694 - Holdem(No Limit) - $100/$200 - 2023/10/25 00:29:24 UTC
+Ford 6-max Seat #5 is the button
+Seat 1: iWasOnly17 ($20051.75)
+Seat 2: 7SkyAroundMe ($20000)
+Seat 3: CWestmoreland ($35552.94)
+Seat 4: TIKITAKA11 ($59085.78)
+Seat 5: uhhhyesandno ($20000)
+Seat 6: SeaLlama ($22516)
+iWasOnly17 posts ante $1000
+7SkyAroundMe posts ante $1000
+CWestmoreland posts ante $1000
+TIKITAKA11 posts ante $1000
+uhhhyesandno posts ante $1000
+SeaLlama posts ante $1000
+*** HOLE CARDS *** 
+*** FLOP *** [As 7s Kc]
+Main pot $5997 | Rake $3
+SeaLlama checks
+iWasOnly17 checks
+7SkyAroundMe checks
+CWestmoreland checks
+TIKITAKA11 bets $300
+uhhhyesandno folds
+SeaLlama calls $300
+iWasOnly17 folds
+7SkyAroundMe calls $300
+CWestmoreland calls $300
+*** TURN *** [As 7s Kc] [Ah]
+Main pot $7197 | Rake $3
+SeaLlama checks
+7SkyAroundMe checks
+CWestmoreland checks
+TIKITAKA11 bets $3600
+SeaLlama folds
+7SkyAroundMe folds
+CWestmoreland folds
+Uncalled bet ($3600) returned to TIKITAKA11
+TIKITAKA11 does not show
+*** SUMMARY ***
+BombPot
+Total pot $7197 | Rake $3
+Seat 1: iWasOnly17 folded on the Flop
+Seat 2: 7SkyAroundMe folded on the Turn
+Seat 3: CWestmoreland folded on the Turn
+Seat 4: TIKITAKA11 did not showed and won $7197
+Seat 5: uhhhyesandno (button) folded on the Flop
+Seat 6: SeaLlama folded on the Turn
+
+
+Hand #1907084168 - Holdem(No Limit) - $100/$200 - 2023/10/25 00:42:55 UTC
+Ford 6-max Seat #6 is the button
+Seat 1: iWasOnly17 ($20000)
+Seat 2: 7SkyAroundMe ($22586)
+Seat 3: CWestmoreland ($57889.94)
+Seat 4: TIKITAKA11 ($69935.53)
+Seat 6: SeaLlama ($20000)
+iWasOnly17 posts ante $1000
+7SkyAroundMe posts ante $1000
+CWestmoreland posts ante $1000
+TIKITAKA11 posts ante $1000
+SeaLlama posts ante $1000
+*** HOLE CARDS *** 
+*** FLOP *** [Js 8h 2h]
+Main pot $4997 | Rake $3
+iWasOnly17 checks
+7SkyAroundMe checks
+CWestmoreland checks
+TIKITAKA11 bets $1000
+SeaLlama calls $1000
+iWasOnly17 folds
+7SkyAroundMe calls $1000
+CWestmoreland folds
+*** TURN *** [Js 8h 2h] [4h]
+Main pot $7997 | Rake $3
+7SkyAroundMe checks
+TIKITAKA11 checks
+SeaLlama checks
+*** RIVER *** [Js 8h 2h 4h] [7h]
+Main pot $7997 | Rake $3
+7SkyAroundMe checks
+TIKITAKA11 bets $6000
+SeaLlama folds
+7SkyAroundMe calls $6000
+*** SHOW DOWN ***
+Main pot $7997 | Rake $3
+TIKITAKA11 shows [Th Td]
+TIKITAKA11 collected $19997 from main pot
+*** SUMMARY ***
+BombPot
+Total pot $19997 | Rake $3
+Seat 1: iWasOnly17 folded on the Flop
+Seat 2: 7SkyAroundMe did not showed and lost
+Seat 3: CWestmoreland folded on the Flop
+Seat 4: TIKITAKA11 showed [Th Td] and won $19997 with Flush [Th 8h 7h 4h 2h]
+Seat 6: SeaLlama (button) folded on the River
+
+
+Hand #1907101264 - Holdem(No Limit) - $100/$200 - 2023/10/25 00:59:23 UTC
+Ford 6-max Seat #4 is the button
+Seat 1: iWasOnly17 ($24438)
+Seat 2: 7SkyAroundMe ($21054.75)
+Seat 3: CWestmoreland ($20000)
+Seat 4: TIKITAKA11 ($88113.53)
+Seat 6: SeaLlama ($20000)
+iWasOnly17 posts ante $1000
+7SkyAroundMe posts ante $1000
+TIKITAKA11 posts ante $1000
+SeaLlama posts ante $1000
+*** HOLE CARDS *** 
+*** FLOP *** [9c Ah Js]
+Main pot $3997.75 | Rake $2.25
+SeaLlama checks
+iWasOnly17 bets $400
+7SkyAroundMe calls $400
+TIKITAKA11 raises $3000 to $3000
+SeaLlama folds
+iWasOnly17 calls $2600
+7SkyAroundMe calls $2600
+*** TURN *** [9c Ah Js] [Jd]
+Main pot $12997.75 | Rake $2.25
+iWasOnly17 checks
+7SkyAroundMe checks
+TIKITAKA11 checks
+*** RIVER *** [9c Ah Js Jd] [7s]
+Main pot $12997.75 | Rake $2.25
+iWasOnly17 bets $9750
+7SkyAroundMe folds
+TIKITAKA11 raises $84113.53 to $84113.53 and is all-in
+iWasOnly17 folds
+Uncalled bet ($74363.53) returned to TIKITAKA11
+TIKITAKA11 does not show
+*** SUMMARY ***
+BombPot
+Total pot $32497.75 | Rake $2.25
+Seat 1: iWasOnly17 folded on the River
+Seat 2: 7SkyAroundMe folded on the River
+Seat 4: TIKITAKA11 (button) did not showed and won $32497.75
+Seat 6: SeaLlama folded on the Flop
+
+
+Hand #1907107344 - Holdem(No Limit) - $100/$200 - 2023/10/25 01:05:04 UTC
+Ford 6-max Seat #4 is the button
+Seat 1: iWasOnly17 ($21327.75)
+Seat 2: 7SkyAroundMe ($14194.75)
+Seat 4: TIKITAKA11 ($106686.78)
+Seat 6: SeaLlama ($22397.75)
+iWasOnly17 posts ante $1000
+7SkyAroundMe posts ante $1000
+TIKITAKA11 posts ante $1000
+SeaLlama posts ante $1000
+*** HOLE CARDS *** 
+*** FLOP *** [6h 5h Ah]
+Main pot $3997.75 | Rake $2.25
+SeaLlama checks
+iWasOnly17 checks
+7SkyAroundMe bets $400
+TIKITAKA11 calls $400
+SeaLlama folds
+iWasOnly17 folds
+*** TURN *** [6h 5h Ah] [8s]
+Main pot $4797.75 | Rake $2.25
+7SkyAroundMe checks
+TIKITAKA11 checks
+*** RIVER *** [6h 5h Ah 8s] [3s]
+Main pot $4797.75 | Rake $2.25
+7SkyAroundMe checks
+TIKITAKA11 checks
+*** SHOW DOWN ***
+Main pot $4797.75 | Rake $2.25
+7SkyAroundMe shows [Qc 8h]
+7SkyAroundMe collected $4797.75 from main pot
+*** SUMMARY ***
+BombPot
+Total pot $4797.75 | Rake $2.25
+Seat 1: iWasOnly17 folded on the Flop
+Seat 2: 7SkyAroundMe showed [Qc 8h] and won $4797.75 with OnePair [8s 8h Ah Qc 6h]
+Seat 4: TIKITAKA11 (button) did not showed and lost
+Seat 6: SeaLlama folded on the Flop
+
+
+Hand #1907438036 - Holdem(No Limit) - $100/$200 - 2023/10/25 07:47:13 UTC
+Havensville 6-max Seat #3 is the button
+Seat 3: vesnapisarovic ($20000)
+Seat 6: 7SkyAroundMe ($20000)
+vesnapisarovic posts ante $1000
+7SkyAroundMe posts ante $1000
+*** HOLE CARDS *** 
+*** FLOP *** [Ac Kh 8h]
+Main pot $1998.75 | Rake $1.25
+7SkyAroundMe checks
+vesnapisarovic bets $580
+7SkyAroundMe calls $580
+*** TURN *** [Ac Kh 8h] [Ad]
+Main pot $3158.75 | Rake $1.25
+7SkyAroundMe checks
+vesnapisarovic checks
+*** RIVER *** [Ac Kh 8h Ad] [3s]
+Main pot $3158.75 | Rake $1.25
+7SkyAroundMe checks
+vesnapisarovic checks
+*** SHOW DOWN ***
+Main pot $3158.75 | Rake $1.25
+7SkyAroundMe shows [2d Kc]
+7SkyAroundMe collected $3158.75 from main pot
+*** SUMMARY ***
+BombPot
+Total pot $3158.75 | Rake $1.25
+Seat 3: vesnapisarovic (button) did not showed and lost
+Seat 6: 7SkyAroundMe showed [2d Kc] and won $3158.75 with TwoPair [Ad Ac Kh Kc 8h]
+
+
+Hand #1907454670 - Holdem(No Limit) - $100/$200 - 2023/10/25 08:25:04 UTC
+Havensville 6-max Seat #6 is the button
+Seat 1: borntotilt ($20000)
+Seat 3: vesnapisarovic ($20000)
+Seat 6: 7SkyAroundMe ($20000)
+borntotilt posts ante $1000
+7SkyAroundMe posts ante $1000
+*** HOLE CARDS *** 
+*** FLOP *** [9c Qc Kh]
+Main pot $1998.75 | Rake $1.25
+borntotilt checks
+7SkyAroundMe bets $500
+borntotilt folds
+Uncalled bet ($500) returned to 7SkyAroundMe
+7SkyAroundMe does not show
+*** SUMMARY ***
+BombPot
+Total pot $1998.75 | Rake $1.25
+Seat 1: borntotilt folded on the Flop
+Seat 6: 7SkyAroundMe (button) did not showed and won $1998.75
+

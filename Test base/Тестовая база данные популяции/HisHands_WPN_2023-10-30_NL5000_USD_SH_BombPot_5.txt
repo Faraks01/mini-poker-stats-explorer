@@ -1,0 +1,188 @@
+
+Hand #1912953855 - Holdem(No Limit) - $25/$50 - 2023/10/29 23:51:45 UTC
+Carlisle 6-max Seat #4 is the button
+Seat 2: PR0DIGY ($5000)
+Seat 4: IAmTheJeff ($3750.01)
+Seat 6: TrickySpot ($5000)
+PR0DIGY posts ante $250
+IAmTheJeff posts ante $250
+*** HOLE CARDS *** 
+*** FLOP *** [Qd 6c Kd]
+Main pot $498.75 | Rake $1.25
+PR0DIGY bets $144.63
+IAmTheJeff calls $144.63
+*** TURN *** [Qd 6c Kd] [7d]
+Main pot $788.01 | Rake $1.25
+PR0DIGY checks
+IAmTheJeff checks
+*** RIVER *** [Qd 6c Kd 7d] [Kc]
+Main pot $788.01 | Rake $1.25
+PR0DIGY bets $1182.01
+IAmTheJeff calls $1182.01
+*** SHOW DOWN ***
+Main pot $788.01 | Rake $1.25
+IAmTheJeff shows [5h 5s]
+IAmTheJeff collected $3152.03 from main pot
+*** SUMMARY ***
+BombPot
+Total pot $3152.03 | Rake $1.25
+Seat 2: PR0DIGY did not showed and lost
+Seat 4: IAmTheJeff (button) showed [5h 5s] and won $3152.03 with TwoPair [Kd Kc 5s 5h Qd]
+
+
+Hand #1912961156 - Holdem(No Limit) - $25/$50 - 2023/10/29 23:57:08 UTC
+Carlisle 6-max Seat #6 is the button
+Seat 2: PR0DIGY ($5000)
+Seat 4: IAmTheJeff ($5646.90)
+Seat 6: TrickySpot ($2328.25)
+PR0DIGY posts ante $250
+IAmTheJeff posts ante $250
+TrickySpot posts ante $250
+*** HOLE CARDS *** 
+*** FLOP *** [5d Qh Kh]
+Main pot $748.25 | Rake $1.75
+PR0DIGY checks
+IAmTheJeff checks
+TrickySpot bets $187.50
+PR0DIGY folds
+IAmTheJeff raises $450 to $450
+TrickySpot folds
+Uncalled bet ($262.50) returned to IAmTheJeff
+IAmTheJeff does not show
+*** SUMMARY ***
+BombPot
+Total pot $1123.25 | Rake $1.75
+Seat 2: PR0DIGY folded on the Flop
+Seat 4: IAmTheJeff did not showed and won $1123.25
+Seat 6: TrickySpot (button) folded on the Flop
+
+
+Hand #1912968613 - Holdem(No Limit) - $25/$50 - 2023/10/30 00:05:02 UTC
+Carlisle 6-max Seat #4 is the button
+Seat 2: PR0DIGY ($5075)
+Seat 4: IAmTheJeff ($6249.40)
+Seat 6: TrickySpot ($2491.25)
+PR0DIGY posts ante $250
+IAmTheJeff posts ante $250
+TrickySpot posts ante $250
+*** HOLE CARDS *** 
+*** FLOP *** [2s 6c 6s]
+Main pot $748.25 | Rake $1.75
+TrickySpot bets $187.50
+PR0DIGY folds
+IAmTheJeff folds
+Uncalled bet ($187.50) returned to TrickySpot
+TrickySpot does not show
+*** SUMMARY ***
+BombPot
+Total pot $748.25 | Rake $1.75
+Seat 2: PR0DIGY folded on the Flop
+Seat 4: IAmTheJeff (button) folded on the Flop
+Seat 6: TrickySpot did not showed and won $748.25
+
+
+Hand #1912997547 - Holdem(No Limit) - $25/$50 - 2023/10/30 00:25:00 UTC
+Carlisle 6-max Seat #6 is the button
+Seat 1: oneplusone ($6905.29)
+Seat 2: PR0DIGY ($5316)
+Seat 3: TIKITAKA11 ($5000)
+Seat 4: IAmTheJeff ($2908.49)
+Seat 5: Sabazius ($1577)
+Seat 6: TrickySpot ($4904.37)
+oneplusone posts ante $250
+PR0DIGY posts ante $250
+TIKITAKA11 posts ante $250
+IAmTheJeff posts ante $250
+Sabazius posts ante $250
+TrickySpot posts ante $250
+*** HOLE CARDS *** 
+*** FLOP *** [4h 4s 9c]
+Main pot $1497 | Rake $3
+oneplusone checks
+PR0DIGY checks
+TIKITAKA11 checks
+IAmTheJeff bets $400
+Sabazius calls $400
+TrickySpot calls $400
+oneplusone folds
+PR0DIGY folds
+TIKITAKA11 folds
+*** TURN *** [4h 4s 9c] [Td]
+Main pot $2697 | Rake $3
+IAmTheJeff bets $2258.49 and is all-in
+Sabazius folds
+TrickySpot calls $2258.49
+*** RUN IT TWICE ***
+*** RIVER 1 *** [4h 4s 9c Td] [2c]
+Main pot 1 $3606.99 | Rake $1.50
+*** SHOW DOWN 1 ***
+Main pot 1 $3606.99 | Rake $1.50
+TrickySpot shows [Tc 4d]
+IAmTheJeff shows [Th 9s]
+TrickySpot collected $3606.99 from main pot 1
+*** RIVER 2 *** [4h 4s 9c Td] [6h]
+Main pot 2 $3606.99 | Rake $1.50
+*** SHOW DOWN 2 ***
+Main pot 2 $3606.99 | Rake $1.50
+IAmTheJeff shows [Th 9s]
+TrickySpot collected $3606.99 from main pot 2
+*** SUMMARY ***
+BombPot
+Total pot $7213.98 | Rake $3
+Board 1 [4h 4s 9c Td 2c]
+Seat 1: oneplusone folded on the Flop
+Seat 2: PR0DIGY folded on the Flop
+Seat 3: TIKITAKA11 folded on the Flop
+Seat 4: IAmTheJeff showed [Th 9s] and lost
+Seat 5: Sabazius folded on the Turn
+Seat 6: TrickySpot (button) showed [Tc 4d] and won $3606.99 with FullHouse [4s 4h 4d Td Tc]
+Board 2 [4h 4s 9c Td 6h]
+Seat 1: oneplusone folded on the Flop
+Seat 2: PR0DIGY folded on the Flop
+Seat 3: TIKITAKA11 folded on the Flop
+Seat 4: IAmTheJeff showed [Th 9s] and lost
+Seat 5: Sabazius folded on the Turn
+Seat 6: TrickySpot (button) showed [Tc 4d] and won $3606.99 with FullHouse [4s 4h 4d Td Tc]
+
+
+Hand #1913422424 - Holdem(No Limit) - $25/$50 - 2023/10/30 10:53:53 UTC
+Carlisle 6-max Seat #5 is the button
+Seat 2: chop-ch0p ($2000)
+Seat 5: GARMONISTIK ($5000)
+chop-ch0p posts ante $250
+GARMONISTIK posts ante $250
+*** HOLE CARDS *** 
+*** FLOP *** [7s Th 8s]
+Main pot $498.75 | Rake $1.25
+chop-ch0p checks
+GARMONISTIK bets $250
+chop-ch0p raises $1750 to $1750 and is all-in
+GARMONISTIK calls $1500
+*** RUN IT TWICE ***
+*** TURN 1 *** [7s Th 8s] [6d]
+Main pot 1 $1999.37 | Rake $0.63
+*** RIVER 1 *** [7s Th 8s 6d] [7d]
+Main pot 1 $1999.37 | Rake $0.63
+*** SHOW DOWN 1 ***
+Main pot 1 $1999.37 | Rake $0.63
+chop-ch0p shows [9c 2h]
+GARMONISTIK shows [8c Tc]
+chop-ch0p collected $1999.38 from main pot 1
+*** TURN 2 *** [7s Th 8s] [Js]
+Main pot 2 $1999.38 | Rake $0.62
+*** RIVER 2 *** [7s Th 8s Js] [8h]
+Main pot 2 $1999.38 | Rake $0.62
+*** SHOW DOWN 2 ***
+Main pot 2 $1999.38 | Rake $0.62
+chop-ch0p shows [9c 2h]
+GARMONISTIK collected $1999.37 from main pot 2
+*** SUMMARY ***
+BombPot
+Total pot $3998.75 | Rake $1.25
+Board 1 [7s Th 8s 6d 7d]
+Seat 2: chop-ch0p showed [9c 2h] and won $1999.38 with Straight [Th 9c 8s 7s 6d]
+Seat 5: GARMONISTIK (button) showed [8c Tc] and lost
+Board 2 [7s Th 8s Js 8h]
+Seat 2: chop-ch0p showed [9c 2h] and lost
+Seat 5: GARMONISTIK (button) showed [8c Tc] and won $0 with Straight [Th 9c 8s 7s 6d]
+

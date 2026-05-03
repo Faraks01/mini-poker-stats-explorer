@@ -1,0 +1,4878 @@
+PokerStars Hand #1495989849:  Hold'em No Limit ($25.00/$50.00 USD) - 2022/12/23 20:56:00 ET
+Table 'WPN_Home' 6-max Seat #2 is the button
+Seat 1: IAmTheJeff ($4322.50 in chips)
+Seat 2: FlyingStyle ($8467.85 in chips)
+Seat 3: dekikun ($6103.57 in chips)
+Seat 4: OGORRA ($4550.00 in chips)
+Seat 5: OhHiMark18 ($5097.00 in chips)
+Seat 6: nutsforme100 ($5175.00 in chips)
+dekikun: posts small blind $25.00
+OGORRA: posts big blind $50.00
+*** HOLE CARDS ***
+OhHiMark18: folds
+nutsforme100: folds
+IAmTheJeff: folds
+FlyingStyle: folds
+dekikun: raises $100.00 to $150.00
+OGORRA: raises $300.00 to $450.00
+dekikun: calls $300.00
+*** FLOP *** [9s 7c 5d]
+dekikun: checks
+OGORRA: checks
+*** TURN *** [9s 7c 5d] [Jd]
+dekikun: checks
+OGORRA: bets $261.00
+dekikun: calls $261.00
+*** RIVER *** [9s 7c 5d Jd] [Tc]
+dekikun: bets $425.70
+OGORRA: folds
+Uncalled bet ($425.70) returned to dekikun
+dekikun collected $1419.00 from pot
+dekikun: doesn't show hand
+*** SUMMARY ***
+Total pot $1422.00 | Rake $3.00
+Board [9s 7c 5d Jd Tc]
+Seat 1: IAmTheJeff folded before Flop (didn't bet)
+Seat 2: FlyingStyle (button) folded before Flop (didn't bet)
+Seat 3: dekikun (small blind) collected ($1419.00)
+Seat 4: OGORRA (big blind) folded on the River
+Seat 5: OhHiMark18 folded before Flop (didn't bet)
+Seat 6: nutsforme100 folded before Flop (didn't bet)
+
+PokerStars Hand #1495988795:  Hold'em No Limit ($25.00/$50.00 USD) - 2022/12/23 20:54:39 ET
+Table 'WPN_Home' 6-max Seat #1 is the button
+Seat 1: IAmTheJeff ($4322.50 in chips)
+Seat 2: FlyingStyle ($8492.85 in chips)
+Seat 3: dekikun ($5974.07 in chips)
+Seat 4: OGORRA ($4625.00 in chips)
+Seat 5: OhHiMark18 ($5097.00 in chips)
+Seat 6: nutsforme100 ($5175.00 in chips)
+FlyingStyle: posts small blind $25.00
+dekikun: posts big blind $50.00
+*** HOLE CARDS ***
+OGORRA: raises $57.50 to $107.50
+OhHiMark18: folds
+nutsforme100: folds
+IAmTheJeff: folds
+FlyingStyle: folds
+dekikun: calls $57.50
+*** FLOP *** [8c 7d Jd]
+dekikun: checks
+OGORRA: checks
+*** TURN *** [8c 7d Jd] [Qs]
+dekikun: checks
+OGORRA: checks
+*** RIVER *** [8c 7d Jd Qs] [8h]
+dekikun: checks
+OGORRA: checks
+*** SHOW DOWN ***
+dekikun: shows [7h 4h]
+OGORRA: mucks hand
+dekikun collected $237.00 from pot
+*** SUMMARY ***
+Total pot $240.00 | Rake $3.00
+Board [8c 7d Jd Qs 8h]
+Seat 1: IAmTheJeff (button) folded before Flop (didn't bet)
+Seat 2: FlyingStyle (small blind) folded before Flop
+Seat 3: dekikun (big blind) showed [7h 4h] and won ($237.00)
+Seat 4: OGORRA mucked
+Seat 5: OhHiMark18 folded before Flop (didn't bet)
+Seat 6: nutsforme100 folded before Flop (didn't bet)
+
+PokerStars Hand #1495988142:  Hold'em No Limit ($25.00/$50.00 USD) - 2022/12/23 20:54:07 ET
+Table 'WPN_Home' 6-max Seat #6 is the button
+Seat 1: IAmTheJeff ($4347.50 in chips)
+Seat 2: FlyingStyle ($8542.85 in chips)
+Seat 3: dekikun ($5974.07 in chips)
+Seat 4: OGORRA ($4625.00 in chips)
+Seat 5: OhHiMark18 ($5097.00 in chips)
+Seat 6: nutsforme100 ($5100.00 in chips)
+IAmTheJeff: posts small blind $25.00
+FlyingStyle: posts big blind $50.00
+*** HOLE CARDS ***
+dekikun: folds
+OGORRA: folds
+OhHiMark18: folds
+nutsforme100: raises $75.00 to $125.00
+IAmTheJeff: folds
+FlyingStyle: folds
+Uncalled bet ($75.00) returned to nutsforme100
+nutsforme100 collected $125.00 from pot
+nutsforme100: doesn't show hand
+*** SUMMARY ***
+Total pot $125.00 | Rake $0.00
+Seat 1: IAmTheJeff (small blind) folded before Flop
+Seat 2: FlyingStyle (big blind) folded before Flop
+Seat 3: dekikun folded before Flop (didn't bet)
+Seat 4: OGORRA folded before Flop (didn't bet)
+Seat 5: OhHiMark18 folded before Flop (didn't bet)
+Seat 6: nutsforme100 (button) collected ($125.00)
+
+PokerStars Hand #1495986782:  Hold'em No Limit ($25.00/$50.00 USD) - 2022/12/23 20:53:02 ET
+Table 'WPN_Home' 6-max Seat #4 is the button
+Seat 1: IAmTheJeff ($4397.50 in chips)
+Seat 2: FlyingStyle ($8542.85 in chips)
+Seat 3: dekikun ($5974.07 in chips)
+Seat 4: OGORRA ($4625.00 in chips)
+Seat 5: OhHiMark18 ($5147.00 in chips)
+Seat 6: nutsforme100 ($5000.00 in chips)
+OhHiMark18: posts small blind $25.00
+nutsforme100: posts big blind $50.00
+*** HOLE CARDS ***
+IAmTheJeff: folds
+FlyingStyle: folds
+dekikun: folds
+OGORRA: folds
+OhHiMark18: calls $25.00
+nutsforme100: raises $125.00 to $175.00
+OhHiMark18: folds
+Uncalled bet ($125.00) returned to nutsforme100
+nutsforme100 collected $100.00 from pot
+nutsforme100: doesn't show hand
+*** SUMMARY ***
+Total pot $100.00 | Rake $0.00
+Seat 1: IAmTheJeff folded before Flop (didn't bet)
+Seat 2: FlyingStyle folded before Flop (didn't bet)
+Seat 3: dekikun folded before Flop (didn't bet)
+Seat 4: OGORRA (button) folded before Flop (didn't bet)
+Seat 5: OhHiMark18 (small blind) folded before Flop
+Seat 6: nutsforme100 (big blind) collected ($100.00)
+
+PokerStars Hand #1495987637:  Hold'em No Limit ($25.00/$50.00 USD) - 2022/12/23 20:53:43 ET
+Table 'WPN_Home' 6-max Seat #5 is the button
+Seat 1: IAmTheJeff ($4397.50 in chips)
+Seat 2: FlyingStyle ($8542.85 in chips)
+Seat 3: dekikun ($5974.07 in chips)
+Seat 4: OGORRA ($4625.00 in chips)
+Seat 5: OhHiMark18 ($5097.00 in chips)
+Seat 6: nutsforme100 ($5050.00 in chips)
+nutsforme100: posts small blind $25.00
+IAmTheJeff: posts big blind $50.00
+*** HOLE CARDS ***
+FlyingStyle: folds
+dekikun: folds
+OGORRA: folds
+OhHiMark18: folds
+nutsforme100: raises $75.00 to $125.00
+IAmTheJeff: folds
+Uncalled bet ($75.00) returned to nutsforme100
+nutsforme100 collected $100.00 from pot
+nutsforme100: doesn't show hand
+*** SUMMARY ***
+Total pot $100.00 | Rake $0.00
+Seat 1: IAmTheJeff (big blind) folded before Flop
+Seat 2: FlyingStyle folded before Flop (didn't bet)
+Seat 3: dekikun folded before Flop (didn't bet)
+Seat 4: OGORRA folded before Flop (didn't bet)
+Seat 5: OhHiMark18 (button) folded before Flop (didn't bet)
+Seat 6: nutsforme100 (small blind) collected ($100.00)
+
+PokerStars Hand #1495985327:  Hold'em No Limit ($25.00/$50.00 USD) - 2022/12/23 20:51:52 ET
+Table 'WPN_Home' 6-max Seat #3 is the button
+Seat 1: IAmTheJeff ($4397.50 in chips)
+Seat 2: FlyingStyle ($8667.85 in chips)
+Seat 3: dekikun ($5974.07 in chips)
+Seat 4: OGORRA ($4650.00 in chips)
+Seat 5: OhHiMark18 ($5000.00 in chips)
+Seat 6: nutsforme100 ($5000.00 in chips)
+OGORRA: posts small blind $25.00
+OhHiMark18: posts big blind $50.00
+*** HOLE CARDS ***
+nutsforme100: folds
+IAmTheJeff: folds
+FlyingStyle: raises $75.00 to $125.00
+dekikun: folds
+OGORRA: folds
+OhHiMark18: calls $75.00
+*** FLOP *** [8s Td As]
+OhHiMark18: checks
+FlyingStyle: checks
+*** TURN *** [8s Td As] [3c]
+OhHiMark18: bets $408.00
+FlyingStyle: folds
+Uncalled bet ($408.00) returned to OhHiMark18
+OhHiMark18 collected $272.00 from pot
+OhHiMark18: doesn't show hand
+*** SUMMARY ***
+Total pot $275.00 | Rake $3.00
+Board [8s Td As 3c]
+Seat 1: IAmTheJeff folded before Flop (didn't bet)
+Seat 2: FlyingStyle folded on the Turn
+Seat 3: dekikun (button) folded before Flop (didn't bet)
+Seat 4: OGORRA (small blind) folded before Flop
+Seat 5: OhHiMark18 (big blind) collected ($272.00)
+Seat 6: nutsforme100 folded before Flop (didn't bet)
+
+PokerStars Hand #1495984895:  Hold'em No Limit ($25.00/$50.00 USD) - 2022/12/23 20:51:32 ET
+Table 'WPN_Home' 6-max Seat #2 is the button
+Seat 1: IAmTheJeff ($4397.50 in chips)
+Seat 2: FlyingStyle ($8667.85 in chips)
+Seat 3: dekikun ($5999.07 in chips)
+Seat 4: OGORRA ($4625.00 in chips)
+Seat 5: OhHiMark18 ($5000.00 in chips)
+Seat 6: nutsforme100 ($5000.00 in chips)
+dekikun: posts small blind $25.00
+OGORRA: posts big blind $50.00
+*** HOLE CARDS ***
+OhHiMark18: folds
+nutsforme100: folds
+IAmTheJeff: folds
+FlyingStyle: folds
+dekikun: folds
+Uncalled bet ($25.00) returned to OGORRA
+OGORRA collected $50.00 from pot
+OGORRA: doesn't show hand
+*** SUMMARY ***
+Total pot $50.00 | Rake $0.00
+Seat 1: IAmTheJeff folded before Flop (didn't bet)
+Seat 2: FlyingStyle (button) folded before Flop (didn't bet)
+Seat 3: dekikun (small blind) folded before Flop
+Seat 4: OGORRA (big blind) collected ($50.00)
+Seat 5: OhHiMark18 folded before Flop (didn't bet)
+Seat 6: nutsforme100 folded before Flop (didn't bet)
+
+PokerStars Hand #1495983434:  Hold'em No Limit ($25.00/$50.00 USD) - 2022/12/23 20:50:22 ET
+Table 'WPN_Home' 6-max Seat #1 is the button
+Seat 1: IAmTheJeff ($4522.50 in chips)
+Seat 2: FlyingStyle ($8692.85 in chips)
+Seat 3: dekikun ($5852.07 in chips)
+Seat 4: OGORRA ($4625.00 in chips)
+Seat 5: OhHiMark18 ($5000.00 in chips)
+Seat 6: nutsforme100 ($5000.00 in chips)
+FlyingStyle: posts small blind $25.00
+dekikun: posts big blind $50.00
+*** HOLE CARDS ***
+OGORRA: folds
+OhHiMark18: folds
+nutsforme100: folds
+IAmTheJeff: raises $75.00 to $125.00
+FlyingStyle: folds
+dekikun: calls $75.00
+*** FLOP *** [4c Qh Td]
+dekikun: checks
+IAmTheJeff: checks
+*** TURN *** [4c Qh Td] [3d]
+dekikun: checks
+IAmTheJeff: checks
+*** RIVER *** [4c Qh Td 3d] [7c]
+dekikun: bets $204.00
+IAmTheJeff: folds
+Uncalled bet ($204.00) returned to dekikun
+dekikun collected $272.00 from pot
+dekikun: doesn't show hand
+*** SUMMARY ***
+Total pot $275.00 | Rake $3.00
+Board [4c Qh Td 3d 7c]
+Seat 1: IAmTheJeff (button) folded on the River
+Seat 2: FlyingStyle (small blind) folded before Flop
+Seat 3: dekikun (big blind) collected ($272.00)
+Seat 4: OGORRA folded before Flop (didn't bet)
+Seat 5: OhHiMark18 folded before Flop (didn't bet)
+Seat 6: nutsforme100 folded before Flop (didn't bet)
+
+PokerStars Hand #1495981765:  Hold'em No Limit ($25.00/$50.00 USD) - 2022/12/23 20:49:05 ET
+Table 'WPN_Home' 6-max Seat #6 is the button
+Seat 1: IAmTheJeff ($4461.50 in chips)
+Seat 2: FlyingStyle ($8631.85 in chips)
+Seat 3: dekikun ($5852.07 in chips)
+Seat 4: OGORRA ($4625.00 in chips)
+Seat 5: OhHiMark18 ($5000.00 in chips)
+Seat 6: nutsforme100 ($5122.00 in chips)
+IAmTheJeff: posts small blind $25.00
+FlyingStyle: posts big blind $50.00
+*** HOLE CARDS ***
+dekikun: folds
+OGORRA: folds
+OhHiMark18: folds
+nutsforme100: raises $75.00 to $125.00
+IAmTheJeff: raises $175.00 to $300.00
+FlyingStyle: raises $675.00 to $975.00
+nutsforme100: folds
+IAmTheJeff: calls $675.00
+*** FLOP *** [9d 3d 7h]
+IAmTheJeff: checks
+FlyingStyle: bets $942.00
+IAmTheJeff: calls $942.00
+*** TURN *** [9d 3d 7h] [4s]
+IAmTheJeff: bets $2544.50 and is all-in
+FlyingStyle: calls $2544.50
+*** FIRST RIVER *** [9d 3d 7h 4s] [Th]
+*** SECOND RIVER *** [9d 3d 7h 4s] [2d]
+*** FIRST SHOW DOWN ***
+IAmTheJeff: shows [9s Ts]
+FlyingStyle: shows [Ks Kc]
+IAmTheJeff collected $4522.50 from pot
+*** SECOND SHOW DOWN ***
+IAmTheJeff: shows [9s Ts]
+FlyingStyle: shows [Ks Kc]
+FlyingStyle collected $4522.50 from pot
+*** SUMMARY ***
+Total pot $9048.00 | Rake $3.00
+Hand was run twice
+FIRST Board [9d 3d 7h 4s Th]
+SECOND Board [9d 3d 7h 4s 2d]
+Seat 1: IAmTheJeff (small blind) showed [9s Ts] and won ($4522.50), and lost
+Seat 2: FlyingStyle (big blind) showed [Ks Kc] and lost, and won ($4522.50)
+Seat 3: dekikun folded before Flop (didn't bet)
+Seat 4: OGORRA folded before Flop (didn't bet)
+Seat 5: OhHiMark18 folded before Flop (didn't bet)
+Seat 6: nutsforme100 (button) folded before Flop
+
+PokerStars Hand #1495981080:  Hold'em No Limit ($25.00/$50.00 USD) - 2022/12/23 20:48:33 ET
+Table 'WPN_Home' 6-max Seat #5 is the button
+Seat 1: IAmTheJeff ($4586.50 in chips)
+Seat 2: FlyingStyle ($8631.85 in chips)
+Seat 3: dekikun ($5852.07 in chips)
+Seat 4: OGORRA ($4625.00 in chips)
+Seat 5: OhHiMark18 ($5000.00 in chips)
+Seat 6: nutsforme100 ($4950.00 in chips)
+nutsforme100: posts small blind $25.00
+IAmTheJeff: posts big blind $50.00
+*** HOLE CARDS ***
+FlyingStyle: folds
+dekikun: folds
+OGORRA: folds
+OhHiMark18: folds
+nutsforme100: raises $75.00 to $125.00
+IAmTheJeff: calls $75.00
+*** FLOP *** [5s Td Ah]
+nutsforme100: bets $57.50
+IAmTheJeff: folds
+Uncalled bet ($57.50) returned to nutsforme100
+nutsforme100 collected $247.00 from pot
+nutsforme100: doesn't show hand
+*** SUMMARY ***
+Total pot $250.00 | Rake $3.00
+Board [5s Td Ah]
+Seat 1: IAmTheJeff (big blind) folded on the Flop
+Seat 2: FlyingStyle folded before Flop (didn't bet)
+Seat 3: dekikun folded before Flop (didn't bet)
+Seat 4: OGORRA folded before Flop (didn't bet)
+Seat 5: OhHiMark18 (button) folded before Flop (didn't bet)
+Seat 6: nutsforme100 (small blind) collected ($247.00)
+
+PokerStars Hand #1495980415:  Hold'em No Limit ($25.00/$50.00 USD) - 2022/12/23 20:48:03 ET
+Table 'WPN_Home' 6-max Seat #4 is the button
+Seat 1: IAmTheJeff ($4586.50 in chips)
+Seat 2: FlyingStyle ($8631.85 in chips)
+Seat 3: dekikun ($5852.07 in chips)
+Seat 4: OGORRA ($4550.00 in chips)
+Seat 5: OhHiMark18 ($5000.00 in chips)
+Seat 6: nutsforme100 ($5000.00 in chips)
+OhHiMark18: posts small blind $25.00
+nutsforme100: posts big blind $50.00
+*** HOLE CARDS ***
+IAmTheJeff: folds
+FlyingStyle: folds
+dekikun: folds
+OGORRA: raises $80.00 to $130.00
+OhHiMark18: folds
+nutsforme100: folds
+Uncalled bet ($80.00) returned to OGORRA
+OGORRA collected $125.00 from pot
+OGORRA: doesn't show hand
+*** SUMMARY ***
+Total pot $125.00 | Rake $0.00
+Seat 1: IAmTheJeff folded before Flop (didn't bet)
+Seat 2: FlyingStyle folded before Flop (didn't bet)
+Seat 3: dekikun folded before Flop (didn't bet)
+Seat 4: OGORRA (button) collected ($125.00)
+Seat 5: OhHiMark18 (small blind) folded before Flop
+Seat 6: nutsforme100 (big blind) folded before Flop
+
+PokerStars Hand #1495976872:  Hold'em No Limit ($25.00/$50.00 USD) - 2022/12/23 20:45:35 ET
+Table 'WPN_Home' 6-max Seat #3 is the button
+Seat 1: IAmTheJeff ($4836.50 in chips)
+Seat 2: FlyingStyle ($5696.25 in chips)
+Seat 3: dekikun ($6551.17 in chips)
+Seat 4: OGORRA ($4717.00 in chips)
+Seat 5: OhHiMark18 ($5000.00 in chips)
+Seat 6: nutsforme100 ($4725.00 in chips)
+IAmTheJeff: posts the ante $250.00
+FlyingStyle: posts the ante $250.00
+dekikun: posts the ante $250.00
+OGORRA: posts the ante $250.00
+OhHiMark18: posts the ante $250.00
+nutsforme100: posts the ante $250.00
+*** HOLE CARDS ***
+*** FLOP *** [Qh 4c 6d]
+OGORRA: checks
+OhHiMark18: checks
+nutsforme100: checks
+IAmTheJeff: checks
+FlyingStyle: checks
+dekikun: bets $449.10
+OGORRA: folds
+OhHiMark18: raises $790.40 to $1239.50
+nutsforme100: folds
+IAmTheJeff: folds
+FlyingStyle: calls $1239.50
+dekikun: folds
+*** TURN *** [Qh 4c 6d] [7d]
+OhHiMark18: checks
+FlyingStyle: checks
+*** RIVER *** [Qh 4c 6d 7d] [9c]
+OhHiMark18: checks
+FlyingStyle: checks
+*** SHOW DOWN ***
+FlyingStyle: shows [5d 7h]
+OhHiMark18: mucks hand
+FlyingStyle collected $4425.10 from pot
+*** SUMMARY ***
+Total pot $4428.10 | Rake $3.00
+Board [Qh 4c 6d 7d 9c]
+Seat 1: IAmTheJeff folded on the Flop
+Seat 2: FlyingStyle showed [5d 7h] and won ($4425.10)
+Seat 3: dekikun (button) folded on the Flop
+Seat 4: OGORRA folded on the Flop
+Seat 5: OhHiMark18 mucked
+Seat 6: nutsforme100 folded on the Flop
+
+PokerStars Hand #1495975843:  Hold'em No Limit ($25.00/$50.00 USD) - 2022/12/23 20:44:31 ET
+Table 'WPN_Home' 6-max Seat #3 is the button
+Seat 1: IAmTheJeff ($5460.75 in chips)
+Seat 2: FlyingStyle ($4875.00 in chips)
+Seat 3: dekikun ($6551.17 in chips)
+Seat 4: OGORRA ($4742.00 in chips)
+Seat 5: OhHiMark18 ($5000.00 in chips)
+Seat 6: nutsforme100 ($4725.00 in chips)
+OGORRA: posts small blind $25.00
+OhHiMark18: posts big blind $50.00
+*** HOLE CARDS ***
+nutsforme100: folds
+IAmTheJeff: raises $75.00 to $125.00
+FlyingStyle: raises $325.00 to $450.00
+dekikun: folds
+OGORRA: folds
+OhHiMark18: folds
+IAmTheJeff: calls $325.00
+*** FLOP *** [Tc 4c 8s]
+IAmTheJeff: checks
+FlyingStyle: bets $174.25
+IAmTheJeff: calls $174.25
+*** TURN *** [Tc 4c 8s] [4h]
+IAmTheJeff: checks
+FlyingStyle: bets $979.39
+IAmTheJeff: folds
+Uncalled bet ($979.39) returned to FlyingStyle
+FlyingStyle collected $1320.50 from pot
+FlyingStyle: doesn't show hand
+*** SUMMARY ***
+Total pot $1323.50 | Rake $3.00
+Board [Tc 4c 8s 4h]
+Seat 1: IAmTheJeff folded on the Turn
+Seat 2: FlyingStyle collected ($1320.50)
+Seat 3: dekikun (button) folded before Flop (didn't bet)
+Seat 4: OGORRA (small blind) folded before Flop
+Seat 5: OhHiMark18 (big blind) folded before Flop
+Seat 6: nutsforme100 folded before Flop (didn't bet)
+
+PokerStars Hand #1495974763:  Hold'em No Limit ($25.00/$50.00 USD) - 2022/12/23 20:43:42 ET
+Table 'WPN_Home' 6-max Seat #2 is the button
+Seat 1: IAmTheJeff ($5460.75 in chips)
+Seat 2: FlyingStyle ($5000.00 in chips)
+Seat 3: dekikun ($6376.17 in chips)
+Seat 4: OGORRA ($4792.00 in chips)
+Seat 5: OhHiMark18 ($5000.00 in chips)
+Seat 6: nutsforme100 ($4725.00 in chips)
+dekikun: posts small blind $25.00
+OGORRA: posts big blind $50.00
+*** HOLE CARDS ***
+nutsforme100: folds
+IAmTheJeff: folds
+FlyingStyle: raises $75.00 to $125.00
+dekikun: raises $425.00 to $550.00
+OGORRA: folds
+FlyingStyle: folds
+Uncalled bet ($425.00) returned to dekikun
+dekikun collected $300.00 from pot
+dekikun: doesn't show hand
+*** SUMMARY ***
+Total pot $300.00 | Rake $0.00
+Seat 1: IAmTheJeff folded before Flop (didn't bet)
+Seat 2: FlyingStyle (button) folded before Flop
+Seat 3: dekikun (small blind) collected ($300.00)
+Seat 4: OGORRA (big blind) folded before Flop
+Seat 6: nutsforme100 folded before Flop (didn't bet)
+
+PokerStars Hand #1495972085:  Hold'em No Limit ($25.00/$50.00 USD) - 2022/12/23 20:41:36 ET
+Table 'WPN_Home' 6-max Seat #1 is the button
+Seat 1: IAmTheJeff ($5460.75 in chips)
+Seat 2: FlyingStyle ($5000.00 in chips)
+Seat 3: dekikun ($4890.00 in chips)
+Seat 4: OGORRA ($4792.00 in chips)
+Seat 6: nutsforme100 ($4725.00 in chips)
+FlyingStyle: posts small blind $25.00
+dekikun: posts big blind $50.00
+*** HOLE CARDS ***
+OGORRA: folds
+nutsforme100: folds
+IAmTheJeff: folds
+FlyingStyle: raises $100.00 to $150.00
+dekikun: calls $100.00
+*** FLOP *** [Qc Kd 4c]
+FlyingStyle: bets $69.00
+dekikun: calls $69.00
+*** TURN *** [Qc Kd 4c] [2c]
+FlyingStyle: bets $140.16
+dekikun: calls $140.16
+*** RIVER *** [Qc Kd 4c 2c] [Ks]
+FlyingStyle: bets $1020.01
+dekikun: calls $1020.01
+*** SHOW DOWN ***
+dekikun: shows [5c 3c]
+FlyingStyle: mucks hand
+dekikun collected $2755.34 from pot
+*** SUMMARY ***
+Total pot $2758.34 | Rake $3.00
+Board [Qc Kd 4c 2c Ks]
+Seat 1: IAmTheJeff (button) folded before Flop (didn't bet)
+Seat 2: FlyingStyle (small blind) mucked
+Seat 3: dekikun (big blind) showed [5c 3c] and won ($2755.34)
+Seat 4: OGORRA folded before Flop (didn't bet)
+Seat 6: nutsforme100 folded before Flop (didn't bet)
+
+PokerStars Hand #1495968685:  Hold'em No Limit ($25.00/$50.00 USD) - 2022/12/23 20:39:13 ET
+Table 'WPN_Home' 6-max Seat #4 is the button
+Seat 1: IAmTheJeff ($5000.00 in chips)
+Seat 3: dekikun ($5000.00 in chips)
+Seat 4: OGORRA ($4625.00 in chips)
+IAmTheJeff: posts the ante $250.00
+OGORRA: posts the ante $250.00
+*** HOLE CARDS ***
+*** FLOP *** [Js 7d 9s]
+IAmTheJeff: bets $125.00
+OGORRA: folds
+Uncalled bet ($125.00) returned to IAmTheJeff
+IAmTheJeff collected $498.75 from pot
+IAmTheJeff: doesn't show hand
+*** SUMMARY ***
+Total pot $500.00 | Rake $1.25
+Board [Js 7d 9s]
+Seat 1: IAmTheJeff collected ($498.75)
+Seat 4: OGORRA (button) folded on the Flop
+
+PokerStars Hand #1495970745:  Hold'em No Limit ($25.00/$50.00 USD) - 2022/12/23 20:40:34 ET
+Table 'WPN_Home' 6-max Seat #6 is the button
+Seat 1: IAmTheJeff ($5138.75 in chips)
+Seat 2: FlyingStyle ($5000.00 in chips)
+Seat 3: dekikun ($4890.00 in chips)
+Seat 4: OGORRA ($4792.00 in chips)
+Seat 6: nutsforme100 ($5000.00 in chips)
+IAmTheJeff: posts small blind $25.00
+FlyingStyle: posts big blind $50.00
+*** HOLE CARDS ***
+dekikun: folds
+OGORRA: folds
+nutsforme100: raises $75.00 to $125.00
+IAmTheJeff: raises $150.00 to $275.00
+FlyingStyle: folds
+nutsforme100: calls $150.00
+*** FLOP *** [9s 6c 9d]
+IAmTheJeff: bets $175.00
+nutsforme100: folds
+Uncalled bet ($175.00) returned to IAmTheJeff
+IAmTheJeff collected $597.00 from pot
+IAmTheJeff: doesn't show hand
+*** SUMMARY ***
+Total pot $600.00 | Rake $3.00
+Board [9s 6c 9d]
+Seat 1: IAmTheJeff (small blind) collected ($597.00)
+Seat 2: FlyingStyle (big blind) folded before Flop
+Seat 3: dekikun folded before Flop (didn't bet)
+Seat 4: OGORRA folded before Flop (didn't bet)
+Seat 6: nutsforme100 (button) folded on the Flop
+
+PokerStars Hand #1495801982:  Hold'em No Limit ($25.00/$50.00 USD) - 2022/12/23 18:09:55 ET
+Table 'WPN_Offerle' 6-max Seat #3 is the button
+Seat 3: OGORRA ($5065.10 in chips)
+Seat 4: FlyingStyle ($5000.00 in chips)
+OGORRA: posts small blind $25.00
+FlyingStyle: posts big blind $50.00
+*** HOLE CARDS ***
+OGORRA: raises $80.00 to $130.00
+FlyingStyle: calls $80.00
+*** FLOP *** [Qd Qh 3s]
+FlyingStyle: checks
+OGORRA: bets $75.40
+FlyingStyle: raises $193.07 to $268.47
+OGORRA: calls $193.07
+*** TURN *** [Qd Qh 3s] [6c]
+FlyingStyle: bets $255.02
+OGORRA: calls $255.02
+*** RIVER *** [Qd Qh 3s 6c] [Td]
+FlyingStyle: bets $300.60
+OGORRA: folds
+Uncalled bet ($300.60) returned to FlyingStyle
+FlyingStyle collected $1305.73 from pot
+FlyingStyle: doesn't show hand
+*** SUMMARY ***
+Total pot $1306.98 | Rake $1.25
+Board [Qd Qh 3s 6c Td]
+Seat 3: OGORRA (button) (small blind) folded on the River
+Seat 4: FlyingStyle (big blind) collected ($1305.73)
+
+PokerStars Hand #1495803898:  Hold'em No Limit ($25.00/$50.00 USD) - 2022/12/23 18:11:48 ET
+Table 'WPN_Offerle' 6-max Seat #4 is the button
+Seat 3: OGORRA ($4411.61 in chips)
+Seat 4: FlyingStyle ($5652.24 in chips)
+FlyingStyle: posts small blind $25.00
+OGORRA: posts big blind $50.00
+*** HOLE CARDS ***
+FlyingStyle: raises $50.00 to $100.00
+OGORRA: calls $50.00
+*** FLOP *** [Ad 7c 2h]
+OGORRA: checks
+FlyingStyle: checks
+*** TURN *** [Ad 7c 2h] [2d]
+OGORRA: bets $300.00
+FlyingStyle: folds
+Uncalled bet ($300.00) returned to OGORRA
+OGORRA collected $198.75 from pot
+OGORRA: doesn't show hand
+*** SUMMARY ***
+Total pot $200.00 | Rake $1.25
+Board [Ad 7c 2h 2d]
+Seat 3: OGORRA (big blind) collected ($198.75)
+Seat 4: FlyingStyle (button) (small blind) folded on the Turn
+
+PokerStars Hand #1495801789:  Hold'em No Limit ($25.00/$50.00 USD) - 2022/12/23 18:09:43 ET
+Table 'WPN_Offerle' 6-max Seat #2 is the button
+Seat 2: MrBaguette ($5493.65 in chips)
+Seat 3: OGORRA ($5115.10 in chips)
+Seat 4: FlyingStyle ($5000.00 in chips)
+MrBaguette: posts small blind $25.00
+OGORRA: posts big blind $50.00
+*** HOLE CARDS ***
+MrBaguette: raises $60.00 to $110.00
+OGORRA: folds
+Uncalled bet ($60.00) returned to MrBaguette
+MrBaguette collected $100.00 from pot
+MrBaguette: doesn't show hand
+*** SUMMARY ***
+Total pot $100.00 | Rake $0.00
+Seat 2: MrBaguette (button) (small blind) collected ($100.00)
+Seat 3: OGORRA (big blind) folded before Flop
+
+PokerStars Hand #1495794184:  Hold'em No Limit ($25.00/$50.00 USD) - 2022/12/23 18:01:53 ET
+Table 'WPN_Offerle' 6-max Seat #2 is the button
+Seat 2: MrBaguette ($5000.00 in chips)
+Seat 4: DoublelegTD ($1988.75 in chips)
+Seat 5: Ovalete ($5000.00 in chips)
+Seat 6: Avalan4 ($5000.00 in chips)
+MrBaguette: posts small blind $25.00
+DoublelegTD: posts big blind $50.00
+*** HOLE CARDS ***
+MrBaguette: folds
+Uncalled bet ($25.00) returned to DoublelegTD
+DoublelegTD collected $50.00 from pot
+DoublelegTD: doesn't show hand
+*** SUMMARY ***
+Total pot $50.00 | Rake $0.00
+Seat 2: MrBaguette (button) (small blind) folded before Flop
+Seat 4: DoublelegTD (big blind) collected ($50.00)
+
+PokerStars Hand #1495793377:  Hold'em No Limit ($25.00/$50.00 USD) - 2022/12/23 18:01:07 ET
+Table 'WPN_Home' 6-max Seat #5 is the button
+Seat 2: DoublelegTD ($2000.00 in chips)
+Seat 4: OGORRA ($4550.00 in chips)
+Seat 5: FlyingStyle ($5000.00 in chips)
+Seat 6: Avalan4 ($5000.00 in chips)
+DoublelegTD: posts the ante $250.00
+OGORRA: posts the ante $250.00
+FlyingStyle: posts the ante $250.00
+Avalan4: posts the ante $250.00
+*** HOLE CARDS ***
+*** FLOP *** [9h 4c 2c]
+Avalan4: checks
+DoublelegTD: checks
+OGORRA: checks
+FlyingStyle: checks
+*** TURN *** [9h 4c 2c] [Qs]
+Avalan4: checks
+DoublelegTD: checks
+OGORRA: bets $915.00
+FlyingStyle: folds
+Avalan4: folds
+DoublelegTD: folds
+Uncalled bet ($915.00) returned to OGORRA
+OGORRA collected $997.75 from pot
+OGORRA: doesn't show hand
+*** SUMMARY ***
+Total pot $1000.00 | Rake $2.25
+Board [9h 4c 2c Qs]
+Seat 2: DoublelegTD folded on the Turn
+Seat 4: OGORRA collected ($997.75)
+Seat 5: FlyingStyle (button) folded on the Turn
+Seat 6: Avalan4 folded on the Turn
+
+PokerStars Hand #1495794298:  Hold'em No Limit ($25.00/$50.00 USD) - 2022/12/23 18:01:59 ET
+Table 'WPN_Offerle' 6-max Seat #4 is the button
+Seat 4: DoublelegTD ($2013.75 in chips)
+Seat 5: Ovalete ($5000.00 in chips)
+Seat 6: Avalan4 ($5000.00 in chips)
+Ovalete: posts small blind $25.00
+Avalan4: posts big blind $50.00
+*** HOLE CARDS ***
+DoublelegTD: raises $50.00 to $100.00
+Ovalete: folds
+Avalan4: calls $50.00
+*** FLOP *** [2c Jc Kd]
+Avalan4: checks
+DoublelegTD: bets $67.50
+Avalan4: raises $280.80 to $348.30
+DoublelegTD: folds
+Uncalled bet ($280.80) returned to Avalan4
+Avalan4 collected $358.25 from pot
+Avalan4: doesn't show hand
+*** SUMMARY ***
+Total pot $360.00 | Rake $1.75
+Board [2c Jc Kd]
+Seat 4: DoublelegTD (button) folded on the Flop
+Seat 5: Ovalete (small blind) folded before Flop
+Seat 6: Avalan4 (big blind) collected ($358.25)
+
+PokerStars Hand #1495794772:  Hold'em No Limit ($25.00/$50.00 USD) - 2022/12/23 18:02:34 ET
+Table 'WPN_Offerle' 6-max Seat #5 is the button
+Seat 3: OGORRA ($2000.00 in chips)
+Seat 4: DoublelegTD ($1846.25 in chips)
+Seat 5: Ovalete ($5000.00 in chips)
+Seat 6: Avalan4 ($5190.75 in chips)
+Avalan4: posts small blind $25.00
+OGORRA: posts big blind $50.00
+*** HOLE CARDS ***
+DoublelegTD: folds
+Ovalete: raises $50.00 to $100.00
+Avalan4: folds
+OGORRA: calls $50.00
+*** FLOP *** [Kh Qs 3h]
+OGORRA: checks
+Ovalete: bets $160.38
+OGORRA: calls $160.38
+*** TURN *** [Kh Qs 3h] [7c]
+OGORRA: checks
+Ovalete: bets $391.32
+OGORRA: folds
+Uncalled bet ($391.32) returned to Ovalete
+Ovalete collected $543.51 from pot
+Ovalete: doesn't show hand
+*** SUMMARY ***
+Total pot $545.76 | Rake $2.25
+Board [Kh Qs 3h 7c]
+Seat 3: OGORRA (big blind) folded on the Turn
+Seat 4: DoublelegTD folded before Flop (didn't bet)
+Seat 5: Ovalete (button) collected ($543.51)
+Seat 6: Avalan4 (small blind) folded before Flop
+
+PokerStars Hand #1495794624:  Hold'em No Limit ($25.00/$50.00 USD) - 2022/12/23 18:02:39 ET
+Table 'WPN_Home' 6-max Seat #5 is the button
+Seat 3: Ovalete ($5000.00 in chips)
+Seat 4: OGORRA ($5297.75 in chips)
+Seat 5: FlyingStyle ($5000.00 in chips)
+Ovalete: posts the ante $250.00
+OGORRA: posts the ante $250.00
+FlyingStyle: posts the ante $250.00
+*** HOLE CARDS ***
+*** FLOP *** [8d 3d 3s]
+Ovalete: checks
+OGORRA: checks
+FlyingStyle: checks
+*** TURN *** [8d 3d 3s] [Ad]
+Ovalete: bets $231.95
+OGORRA: calls $231.95
+FlyingStyle: folds
+*** RIVER *** [8d 3d 3s Ad] [3c]
+Ovalete: bets $872.74
+OGORRA: folds
+Uncalled bet ($872.74) returned to Ovalete
+Ovalete collected $1212.15 from pot
+Ovalete: doesn't show hand
+*** SUMMARY ***
+Total pot $1213.90 | Rake $1.75
+Board [8d 3d 3s Ad 3c]
+Seat 3: Ovalete collected ($1212.15)
+Seat 4: OGORRA folded on the River
+Seat 5: FlyingStyle (button) folded on the Turn
+
+PokerStars Hand #1495796028:  Hold'em No Limit ($25.00/$50.00 USD) - 2022/12/23 18:03:57 ET
+Table 'WPN_Home' 6-max Seat #4 is the button
+Seat 3: Ovalete ($5730.20 in chips)
+Seat 4: OGORRA ($4815.80 in chips)
+Seat 5: FlyingStyle ($5000.00 in chips)
+FlyingStyle: posts small blind $25.00
+OGORRA: posts big blind $50.00
+*** HOLE CARDS ***
+FlyingStyle: raises $50.00 to $100.00
+OGORRA: calls $50.00
+*** FLOP *** [6h 4s Jd]
+FlyingStyle: bets $51.50
+OGORRA: raises $201.50 to $253.00
+FlyingStyle: raises $481.82 to $734.82
+OGORRA: folds
+Uncalled bet ($481.82) returned to FlyingStyle
+FlyingStyle collected $704.75 from pot
+FlyingStyle: doesn't show hand
+*** SUMMARY ***
+Total pot $706.00 | Rake $1.25
+Board [6h 4s Jd]
+Seat 4: OGORRA (button) (big blind) folded on the Flop
+Seat 5: FlyingStyle (small blind) collected ($704.75)
+
+PokerStars Hand #1495795907:  Hold'em No Limit ($25.00/$50.00 USD) - 2022/12/23 18:03:50 ET
+Table 'WPN_Offerle' 6-max Seat #6 is the button
+Seat 3: OGORRA ($1739.62 in chips)
+Seat 4: DoublelegTD ($1846.25 in chips)
+Seat 5: Ovalete ($5283.13 in chips)
+Seat 6: Avalan4 ($5165.75 in chips)
+OGORRA: posts small blind $25.00
+Avalan4: posts big blind $50.00
+*** HOLE CARDS ***
+OGORRA: raises $100.00 to $150.00
+Avalan4: calls $100.00
+*** FLOP *** [Ah 4s 5d]
+OGORRA: checks
+Avalan4: bets $99.00
+OGORRA: raises $249.00 to $348.00
+Avalan4: calls $249.00
+*** TURN *** [Ah 4s 5d] [Qc]
+OGORRA: checks
+Avalan4: bets $627.48
+OGORRA: folds
+Uncalled bet ($627.48) returned to Avalan4
+Avalan4 collected $994.75 from pot
+Avalan4: doesn't show hand
+*** SUMMARY ***
+Total pot $996.00 | Rake $1.25
+Board [Ah 4s 5d Qc]
+Seat 3: OGORRA (small blind) folded on the Turn
+Seat 6: Avalan4 (button) (big blind) collected ($994.75)
+
+PokerStars Hand #1495797196:  Hold'em No Limit ($25.00/$50.00 USD) - 2022/12/23 18:05:10 ET
+Table 'WPN_Home' 6-max Seat #4 is the button
+Seat 4: OGORRA ($4462.80 in chips)
+Seat 5: FlyingStyle ($5351.75 in chips)
+OGORRA: posts small blind $25.00
+FlyingStyle: posts big blind $50.00
+*** HOLE CARDS ***
+OGORRA: raises $80.00 to $130.00
+FlyingStyle: folds
+Uncalled bet ($80.00) returned to OGORRA
+OGORRA collected $100.00 from pot
+OGORRA: doesn't show hand
+*** SUMMARY ***
+Total pot $100.00 | Rake $0.00
+Seat 4: OGORRA (button) (small blind) collected ($100.00)
+Seat 5: FlyingStyle (big blind) folded before Flop
+
+PokerStars Hand #1495797285:  Hold'em No Limit ($25.00/$50.00 USD) - 2022/12/23 18:05:16 ET
+Table 'WPN_Offerle' 6-max Seat #6 is the button
+Seat 3: OGORRA ($4052.00 in chips)
+Seat 6: Avalan4 ($5662.50 in chips)
+Avalan4: posts small blind $25.00
+OGORRA: posts big blind $50.00
+*** HOLE CARDS ***
+Avalan4: folds
+Uncalled bet ($25.00) returned to OGORRA
+OGORRA collected $50.00 from pot
+OGORRA: doesn't show hand
+*** SUMMARY ***
+Total pot $50.00 | Rake $0.00
+Seat 3: OGORRA (big blind) collected ($50.00)
+Seat 6: Avalan4 (button) (small blind) folded before Flop
+
+PokerStars Hand #1495797335:  Hold'em No Limit ($25.00/$50.00 USD) - 2022/12/23 18:05:18 ET
+Table 'WPN_Home' 6-max Seat #5 is the button
+Seat 4: OGORRA ($4600.00 in chips)
+Seat 5: FlyingStyle ($5301.75 in chips)
+FlyingStyle: posts small blind $25.00
+OGORRA: posts big blind $50.00
+*** HOLE CARDS ***
+FlyingStyle: folds
+Uncalled bet ($25.00) returned to OGORRA
+OGORRA collected $50.00 from pot
+OGORRA: doesn't show hand
+*** SUMMARY ***
+Total pot $50.00 | Rake $0.00
+Seat 4: OGORRA (big blind) collected ($50.00)
+Seat 5: FlyingStyle (button) (small blind) folded before Flop
+
+PokerStars Hand #1495797616:  Hold'em No Limit ($25.00/$50.00 USD) - 2022/12/23 18:05:34 ET
+Table 'WPN_Offerle' 6-max Seat #3 is the button
+Seat 2: MrBaguette ($5000.00 in chips)
+Seat 3: OGORRA ($4550.00 in chips)
+OGORRA: posts small blind $25.00
+MrBaguette: posts big blind $50.00
+*** HOLE CARDS ***
+OGORRA: raises $80.00 to $130.00
+MrBaguette: calls $80.00
+*** FLOP *** [8h 5h 5s]
+MrBaguette: checks
+OGORRA: bets $130.00
+MrBaguette: folds
+Uncalled bet ($130.00) returned to OGORRA
+OGORRA collected $258.75 from pot
+OGORRA: doesn't show hand
+*** SUMMARY ***
+Total pot $260.00 | Rake $1.25
+Board [8h 5h 5s]
+Seat 2: MrBaguette (big blind) folded on the Flop
+Seat 3: OGORRA (button) (small blind) collected ($258.75)
+
+PokerStars Hand #1495797988:  Hold'em No Limit ($25.00/$50.00 USD) - 2022/12/23 18:05:58 ET
+Table 'WPN_Offerle' 6-max Seat #2 is the button
+Seat 2: MrBaguette ($4870.00 in chips)
+Seat 3: OGORRA ($4703.75 in chips)
+MrBaguette: posts small blind $25.00
+OGORRA: posts big blind $50.00
+*** HOLE CARDS ***
+MrBaguette: raises $60.00 to $110.00
+OGORRA: folds
+Uncalled bet ($60.00) returned to MrBaguette
+MrBaguette collected $100.00 from pot
+MrBaguette: doesn't show hand
+*** SUMMARY ***
+Total pot $100.00 | Rake $0.00
+Seat 2: MrBaguette (button) (small blind) collected ($100.00)
+Seat 3: OGORRA (big blind) folded before Flop
+
+PokerStars Hand #1495798296:  Hold'em No Limit ($25.00/$50.00 USD) - 2022/12/23 18:06:15 ET
+Table 'WPN_Offerle' 6-max Seat #3 is the button
+Seat 2: MrBaguette ($5050.00 in chips)
+Seat 3: OGORRA ($4653.75 in chips)
+OGORRA: posts small blind $25.00
+MrBaguette: posts big blind $50.00
+*** HOLE CARDS ***
+OGORRA: raises $80.00 to $130.00
+MrBaguette: calls $80.00
+*** FLOP *** [5c Jd 9s]
+MrBaguette: checks
+OGORRA: checks
+*** TURN *** [5c Jd 9s] [Kc]
+MrBaguette: checks
+OGORRA: checks
+*** RIVER *** [5c Jd 9s Kc] [Jh]
+MrBaguette: checks
+OGORRA: checks
+*** SHOW DOWN ***
+OGORRA: shows [3h 3s]
+MrBaguette: mucks hand
+OGORRA collected $258.75 from pot
+*** SUMMARY ***
+Total pot $260.00 | Rake $1.25
+Board [5c Jd 9s Kc Jh]
+Seat 2: MrBaguette (big blind) mucked
+Seat 3: OGORRA (button) (small blind) showed [3h 3s] and won ($258.75)
+
+PokerStars Hand #1495799089:  Hold'em No Limit ($25.00/$50.00 USD) - 2022/12/23 18:07:05 ET
+Table 'WPN_Offerle' 6-max Seat #2 is the button
+Seat 2: MrBaguette ($5000.00 in chips)
+Seat 3: OGORRA ($4782.50 in chips)
+MrBaguette: posts small blind $25.00
+OGORRA: posts big blind $50.00
+*** HOLE CARDS ***
+MrBaguette: raises $60.00 to $110.00
+OGORRA: folds
+Uncalled bet ($60.00) returned to MrBaguette
+MrBaguette collected $100.00 from pot
+MrBaguette: doesn't show hand
+*** SUMMARY ***
+Total pot $100.00 | Rake $0.00
+Seat 2: MrBaguette (button) (small blind) collected ($100.00)
+Seat 3: OGORRA (big blind) folded before Flop
+
+PokerStars Hand #1495799248:  Hold'em No Limit ($25.00/$50.00 USD) - 2022/12/23 18:07:14 ET
+Table 'WPN_Offerle' 6-max Seat #3 is the button
+Seat 2: MrBaguette ($5050.00 in chips)
+Seat 3: OGORRA ($4732.50 in chips)
+OGORRA: posts small blind $25.00
+MrBaguette: posts big blind $50.00
+*** HOLE CARDS ***
+OGORRA: raises $80.00 to $130.00
+MrBaguette: raises $420.00 to $550.00
+OGORRA: calls $420.00
+*** FLOP *** [9c As 6c]
+MrBaguette: bets $330.00
+OGORRA: calls $330.00
+*** TURN *** [9c As 6c] [Jc]
+MrBaguette: checks
+OGORRA: bets $880.00
+MrBaguette: folds
+Uncalled bet ($880.00) returned to OGORRA
+OGORRA collected $1758.75 from pot
+OGORRA: doesn't show hand
+*** SUMMARY ***
+Total pot $1760.00 | Rake $1.25
+Board [9c As 6c Jc]
+Seat 2: MrBaguette (big blind) folded on the Turn
+Seat 3: OGORRA (button) (small blind) collected ($1758.75)
+
+PokerStars Hand #1495800171:  Hold'em No Limit ($25.00/$50.00 USD) - 2022/12/23 18:08:08 ET
+Table 'WPN_Offerle' 6-max Seat #2 is the button
+Seat 2: MrBaguette ($4170.00 in chips)
+Seat 3: OGORRA ($5611.25 in chips)
+MrBaguette: posts small blind $25.00
+OGORRA: posts big blind $50.00
+*** HOLE CARDS ***
+MrBaguette: raises $60.00 to $110.00
+OGORRA: calls $60.00
+*** FLOP *** [4d Th Jh]
+OGORRA: checks
+MrBaguette: bets $96.80
+OGORRA: folds
+Uncalled bet ($96.80) returned to MrBaguette
+MrBaguette collected $218.75 from pot
+MrBaguette: doesn't show hand
+*** SUMMARY ***
+Total pot $220.00 | Rake $1.25
+Board [4d Th Jh]
+Seat 2: MrBaguette (button) (small blind) collected ($218.75)
+Seat 3: OGORRA (big blind) folded on the Flop
+
+PokerStars Hand #1495800485:  Hold'em No Limit ($25.00/$50.00 USD) - 2022/12/23 18:08:26 ET
+Table 'WPN_Offerle' 6-max Seat #3 is the button
+Seat 2: MrBaguette ($5108.75 in chips)
+Seat 3: OGORRA ($5501.25 in chips)
+OGORRA: posts small blind $25.00
+MrBaguette: posts big blind $50.00
+*** HOLE CARDS ***
+OGORRA: raises $80.00 to $130.00
+MrBaguette: calls $80.00
+*** FLOP *** [7d 9s Qh]
+MrBaguette: checks
+OGORRA: bets $75.40
+MrBaguette: raises $180.75 to $256.15
+OGORRA: calls $180.75
+*** TURN *** [7d 9s Qh] [4h]
+MrBaguette: bets $965.37
+OGORRA: folds
+Uncalled bet ($965.37) returned to MrBaguette
+MrBaguette collected $771.05 from pot
+MrBaguette: doesn't show hand
+*** SUMMARY ***
+Total pot $772.30 | Rake $1.25
+Board [7d 9s Qh 4h]
+Seat 2: MrBaguette (big blind) collected ($771.05)
+Seat 3: OGORRA (button) (small blind) folded on the Turn
+
+PokerStars Hand #1495744981:  Hold'em No Limit ($25.00/$50.00 USD) - 2022/12/23 17:04:00 ET
+Table 'WPN_Offerle' 6-max Seat #6 is the button
+Seat 4: DoublelegTD ($2198.75 in chips)
+Seat 6: el0el ($4950.00 in chips)
+el0el: posts small blind $25.00
+DoublelegTD: posts big blind $50.00
+*** HOLE CARDS ***
+el0el: raises $75.00 to $125.00
+DoublelegTD: folds
+Uncalled bet ($75.00) returned to el0el
+el0el collected $100.00 from pot
+el0el: doesn't show hand
+*** SUMMARY ***
+Total pot $100.00 | Rake $0.00
+Seat 4: DoublelegTD (big blind) folded before Flop
+Seat 6: el0el (button) (small blind) collected ($100.00)
+
+PokerStars Hand #1495744792:  Hold'em No Limit ($25.00/$50.00 USD) - 2022/12/23 17:03:47 ET
+Table 'WPN_Offerle' 6-max Seat #4 is the button
+Seat 4: DoublelegTD ($2148.75 in chips)
+Seat 6: el0el ($5000.00 in chips)
+DoublelegTD: posts small blind $25.00
+el0el: posts big blind $50.00
+*** HOLE CARDS ***
+DoublelegTD: raises $50.00 to $100.00
+el0el: folds
+Uncalled bet ($50.00) returned to DoublelegTD
+DoublelegTD collected $100.00 from pot
+DoublelegTD: doesn't show hand
+*** SUMMARY ***
+Total pot $100.00 | Rake $0.00
+Seat 4: DoublelegTD (button) (small blind) collected ($100.00)
+Seat 6: el0el (big blind) folded before Flop
+
+PokerStars Hand #1495744528:  Hold'em No Limit ($25.00/$50.00 USD) - 2022/12/23 17:03:29 ET
+Table 'WPN_Offerle' 6-max Seat #4 is the button
+Seat 4: DoublelegTD ($2098.75 in chips)
+Seat 5: Padishar ($5000.00 in chips)
+DoublelegTD: posts small blind $25.00
+Padishar: posts big blind $50.00
+*** HOLE CARDS ***
+DoublelegTD: raises $50.00 to $100.00
+Padishar: folds
+Uncalled bet ($50.00) returned to DoublelegTD
+DoublelegTD collected $100.00 from pot
+DoublelegTD: doesn't show hand
+*** SUMMARY ***
+Total pot $100.00 | Rake $0.00
+Seat 4: DoublelegTD (button) (small blind) collected ($100.00)
+Seat 5: Padishar (big blind) folded before Flop
+
+PokerStars Hand #1495739034:  Hold'em No Limit ($25.00/$50.00 USD) - 2022/12/23 16:54:04 ET
+Table 'WPN_Offerle' 6-max Seat #4 is the button
+Seat 1: nobutoshi ($5048.75 in chips)
+Seat 4: DoublelegTD ($1950.00 in chips)
+DoublelegTD: posts small blind $25.00
+nobutoshi: posts big blind $50.00
+*** HOLE CARDS ***
+DoublelegTD: raises $50.00 to $100.00
+nobutoshi: calls $50.00
+*** FLOP *** [2h 3s 8h]
+nobutoshi: checks
+DoublelegTD: checks
+*** TURN *** [2h 3s 8h] [Jh]
+nobutoshi: bets $50.00
+DoublelegTD: calls $50.00
+*** RIVER *** [2h 3s 8h Jh] [7s]
+nobutoshi: checks
+DoublelegTD: checks
+*** SHOW DOWN ***
+DoublelegTD: shows [9s 7d]
+nobutoshi: mucks hand
+DoublelegTD collected $298.75 from pot
+*** SUMMARY ***
+Total pot $300.00 | Rake $1.25
+Board [2h 3s 8h Jh 7s]
+Seat 1: nobutoshi (big blind) mucked
+Seat 4: DoublelegTD (button) (small blind) showed [9s 7d] and won ($298.75)
+
+PokerStars Hand #1495738410:  Hold'em No Limit ($25.00/$50.00 USD) - 2022/12/23 16:53:12 ET
+Table 'WPN_Offerle' 6-max Seat #1 is the button
+Seat 1: nobutoshi ($5000.00 in chips)
+Seat 4: DoublelegTD ($2000.00 in chips)
+nobutoshi: posts small blind $25.00
+DoublelegTD: posts big blind $50.00
+*** HOLE CARDS ***
+nobutoshi: calls $25.00
+DoublelegTD: checks
+*** FLOP *** [9c Qs Qc]
+DoublelegTD: checks
+nobutoshi: bets $50.00
+DoublelegTD: folds
+Uncalled bet ($50.00) returned to nobutoshi
+nobutoshi collected $98.75 from pot
+nobutoshi: doesn't show hand
+*** SUMMARY ***
+Total pot $100.00 | Rake $1.25
+Board [9c Qs Qc]
+Seat 1: nobutoshi (button) (small blind) collected ($98.75)
+Seat 4: DoublelegTD (big blind) folded on the Flop
+
+PokerStars Hand #1495697673:  Hold'em No Limit ($25.00/$50.00 USD) - 2022/12/23 15:52:56 ET
+Table 'WPN_Flemingsburg' 6-max Seat #1 is the button
+Seat 1: nobutoshi ($5248.75 in chips)
+Seat 4: TIKITAKA11 ($5000.00 in chips)
+nobutoshi: posts small blind $25.00
+TIKITAKA11: posts big blind $50.00
+*** HOLE CARDS ***
+nobutoshi: folds
+Uncalled bet ($25.00) returned to TIKITAKA11
+TIKITAKA11 collected $50.00 from pot
+TIKITAKA11: doesn't show hand
+*** SUMMARY ***
+Total pot $50.00 | Rake $0.00
+Seat 1: nobutoshi (button) (small blind) folded before Flop
+Seat 4: TIKITAKA11 (big blind) collected ($50.00)
+
+PokerStars Hand #1495697788:  Hold'em No Limit ($25.00/$50.00 USD) - 2022/12/23 15:53:07 ET
+Table 'WPN_Flemingsburg' 6-max Seat #4 is the button
+Seat 1: nobutoshi ($5223.75 in chips)
+Seat 4: TIKITAKA11 ($5025.00 in chips)
+TIKITAKA11: posts small blind $25.00
+nobutoshi: posts big blind $50.00
+*** HOLE CARDS ***
+TIKITAKA11: folds
+Uncalled bet ($25.00) returned to nobutoshi
+nobutoshi collected $50.00 from pot
+nobutoshi: doesn't show hand
+*** SUMMARY ***
+Total pot $50.00 | Rake $0.00
+Seat 1: nobutoshi (big blind) collected ($50.00)
+Seat 4: TIKITAKA11 (button) (small blind) folded before Flop
+
+PokerStars Hand #1495357512:  Hold'em No Limit ($25.00/$50.00 USD) - 2022/12/23 04:48:53 ET
+Table 'WPN_Loganville' 6-max Seat #6 is the button
+Seat 1: THENIGHTKING1 ($4637.46 in chips)
+Seat 2: honey_badger ($5481.50 in chips)
+Seat 3: KOLXO3HuK ($2000.00 in chips)
+Seat 4: StevenDiabolic ($5000.00 in chips)
+Seat 5: PANDAisEVIL ($5392.39 in chips)
+Seat 6: spicymayo ($6164.38 in chips)
+THENIGHTKING1: posts small blind $25.00
+honey_badger: posts big blind $50.00
+*** HOLE CARDS ***
+StevenDiabolic: raises $62.50 to $112.50
+PANDAisEVIL: folds
+spicymayo: folds
+THENIGHTKING1: folds
+honey_badger: folds
+Uncalled bet ($62.50) returned to StevenDiabolic
+StevenDiabolic collected $125.00 from pot
+StevenDiabolic: doesn't show hand
+*** SUMMARY ***
+Total pot $125.00 | Rake $0.00
+Seat 1: THENIGHTKING1 (small blind) folded before Flop
+Seat 2: honey_badger (big blind) folded before Flop
+Seat 4: StevenDiabolic collected ($125.00)
+Seat 5: PANDAisEVIL folded before Flop (didn't bet)
+Seat 6: spicymayo (button) folded before Flop (didn't bet)
+
+PokerStars Hand #1495357895:  Hold'em No Limit ($25.00/$50.00 USD) - 2022/12/23 04:49:13 ET
+Table 'WPN_Loganville' 6-max Seat #1 is the button
+Seat 1: THENIGHTKING1 ($4612.46 in chips)
+Seat 2: honey_badger ($5431.50 in chips)
+Seat 3: KOLXO3HuK ($2000.00 in chips)
+Seat 4: StevenDiabolic ($5075.00 in chips)
+Seat 5: PANDAisEVIL ($5392.39 in chips)
+Seat 6: spicymayo ($6164.38 in chips)
+honey_badger: posts small blind $25.00
+KOLXO3HuK: posts big blind $50.00
+*** HOLE CARDS ***
+StevenDiabolic: folds
+PANDAisEVIL: raises $60.00 to $110.00
+spicymayo: folds
+THENIGHTKING1: raises $290.00 to $400.00
+honey_badger: folds
+KOLXO3HuK: folds
+PANDAisEVIL: folds
+Uncalled bet ($290.00) returned to THENIGHTKING1
+THENIGHTKING1 collected $295.00 from pot
+THENIGHTKING1: doesn't show hand
+*** SUMMARY ***
+Total pot $295.00 | Rake $0.00
+Seat 1: THENIGHTKING1 (button) collected ($295.00)
+Seat 2: honey_badger (small blind) folded before Flop
+Seat 3: KOLXO3HuK (big blind) folded before Flop
+Seat 4: StevenDiabolic folded before Flop (didn't bet)
+Seat 5: PANDAisEVIL folded before Flop
+Seat 6: spicymayo folded before Flop (didn't bet)
+
+PokerStars Hand #1495358380:  Hold'em No Limit ($25.00/$50.00 USD) - 2022/12/23 04:49:41 ET
+Table 'WPN_Loganville' 6-max Seat #2 is the button
+Seat 1: THENIGHTKING1 ($4797.46 in chips)
+Seat 2: honey_badger ($5406.50 in chips)
+Seat 3: KOLXO3HuK ($1950.00 in chips)
+Seat 4: StevenDiabolic ($5075.00 in chips)
+Seat 5: PANDAisEVIL ($5282.39 in chips)
+Seat 6: spicymayo ($6164.38 in chips)
+KOLXO3HuK: posts small blind $25.00
+StevenDiabolic: posts big blind $50.00
+*** HOLE CARDS ***
+PANDAisEVIL: folds
+spicymayo: raises $60.00 to $110.00
+THENIGHTKING1: folds
+honey_badger: folds
+KOLXO3HuK: folds
+StevenDiabolic: folds
+Uncalled bet ($60.00) returned to spicymayo
+spicymayo collected $125.00 from pot
+spicymayo: doesn't show hand
+*** SUMMARY ***
+Total pot $125.00 | Rake $0.00
+Seat 1: THENIGHTKING1 folded before Flop (didn't bet)
+Seat 2: honey_badger (button) folded before Flop (didn't bet)
+Seat 3: KOLXO3HuK (small blind) folded before Flop
+Seat 4: StevenDiabolic (big blind) folded before Flop
+Seat 5: PANDAisEVIL folded before Flop (didn't bet)
+Seat 6: spicymayo collected ($125.00)
+
+PokerStars Hand #1495358715:  Hold'em No Limit ($25.00/$50.00 USD) - 2022/12/23 04:49:59 ET
+Table 'WPN_Loganville' 6-max Seat #3 is the button
+Seat 1: THENIGHTKING1 ($4797.46 in chips)
+Seat 2: honey_badger ($5406.50 in chips)
+Seat 3: KOLXO3HuK ($1925.00 in chips)
+Seat 4: StevenDiabolic ($5025.00 in chips)
+Seat 5: PANDAisEVIL ($5282.39 in chips)
+Seat 6: spicymayo ($6239.38 in chips)
+StevenDiabolic: posts small blind $25.00
+PANDAisEVIL: posts big blind $50.00
+*** HOLE CARDS ***
+spicymayo: raises $60.00 to $110.00
+THENIGHTKING1: folds
+honey_badger: folds
+KOLXO3HuK: raises $147.50 to $257.50
+StevenDiabolic: folds
+PANDAisEVIL: folds
+spicymayo: calls $147.50
+*** FLOP *** [3c 3h Jh]
+spicymayo: checks
+KOLXO3HuK: bets $197.50
+spicymayo: calls $197.50
+*** TURN *** [3c 3h Jh] [Ts]
+spicymayo: checks
+KOLXO3HuK: checks
+*** RIVER *** [3c 3h Jh Ts] [7c]
+spicymayo: bets $5784.38 and is all-in
+KOLXO3HuK: folds
+Uncalled bet ($5784.38) returned to spicymayo
+spicymayo collected $982.00 from pot
+spicymayo: doesn't show hand
+*** SUMMARY ***
+Total pot $985.00 | Rake $3.00
+Board [3c 3h Jh Ts 7c]
+Seat 1: THENIGHTKING1 folded before Flop (didn't bet)
+Seat 2: honey_badger folded before Flop (didn't bet)
+Seat 3: KOLXO3HuK (button) folded on the River
+Seat 4: StevenDiabolic (small blind) folded before Flop
+Seat 5: PANDAisEVIL (big blind) folded before Flop
+Seat 6: spicymayo collected ($982.00)
+
+PokerStars Hand #1495360455:  Hold'em No Limit ($25.00/$50.00 USD) - 2022/12/23 04:51:36 ET
+Table 'WPN_Loganville' 6-max Seat #4 is the button
+Seat 1: THENIGHTKING1 ($4797.46 in chips)
+Seat 2: honey_badger ($5406.50 in chips)
+Seat 3: KOLXO3HuK ($1470.00 in chips)
+Seat 4: StevenDiabolic ($5000.00 in chips)
+Seat 5: PANDAisEVIL ($5232.39 in chips)
+Seat 6: spicymayo ($6766.38 in chips)
+PANDAisEVIL: posts small blind $25.00
+spicymayo: posts big blind $50.00
+*** HOLE CARDS ***
+THENIGHTKING1: folds
+honey_badger: folds
+KOLXO3HuK: folds
+StevenDiabolic: folds
+PANDAisEVIL: raises $60.00 to $110.00
+spicymayo: calls $60.00
+*** FLOP *** [9h 3c 9d]
+PANDAisEVIL: bets $71.61
+spicymayo: raises $193.87 to $265.48
+PANDAisEVIL: calls $193.87
+*** TURN *** [9h 3c 9d] [Jc]
+PANDAisEVIL: checks
+spicymayo: bets $897.55
+PANDAisEVIL: calls $897.55
+*** RIVER *** [9h 3c 9d Jc] [8d]
+PANDAisEVIL: checks
+spicymayo: bets $1858.51
+PANDAisEVIL: calls $1858.51
+*** SHOW DOWN ***
+spicymayo: shows [9s Ac]
+PANDAisEVIL: mucks hand
+spicymayo collected $6260.08 from pot
+*** SUMMARY ***
+Total pot $6263.08 | Rake $3.00
+Board [9h 3c 9d Jc 8d]
+Seat 1: THENIGHTKING1 folded before Flop (didn't bet)
+Seat 2: honey_badger folded before Flop (didn't bet)
+Seat 3: KOLXO3HuK folded before Flop (didn't bet)
+Seat 4: StevenDiabolic (button) folded before Flop (didn't bet)
+Seat 5: PANDAisEVIL (small blind) mucked
+Seat 6: spicymayo (big blind) showed [9s Ac] and won ($6260.08)
+
+PokerStars Hand #1495361201:  Hold'em No Limit ($25.00/$50.00 USD) - 2022/12/23 04:52:18 ET
+Table 'WPN_Del Mar' 6-max Seat #3 is the button
+Seat 1: spicymayo ($5000.00 in chips)
+Seat 2: honey_badger ($8915.18 in chips)
+Seat 3: KOLXO3HuK ($5000.00 in chips)
+Seat 4: StevenDiabolic ($5000.00 in chips)
+Seat 5: THENIGHTKING1 ($2092.96 in chips)
+Seat 6: PANDAisEVIL ($5901.25 in chips)
+StevenDiabolic: posts small blind $25.00
+THENIGHTKING1: posts big blind $50.00
+*** HOLE CARDS ***
+PANDAisEVIL: folds
+spicymayo: folds
+honey_badger: folds
+KOLXO3HuK: raises $62.50 to $112.50
+StevenDiabolic: folds
+THENIGHTKING1: calls $62.50
+*** FLOP *** [Kd 6h Jd]
+THENIGHTKING1: checks
+KOLXO3HuK: bets $75.00
+THENIGHTKING1: calls $75.00
+*** TURN *** [Kd 6h Jd] [2c]
+THENIGHTKING1: checks
+KOLXO3HuK: checks
+*** RIVER *** [Kd 6h Jd 2c] [As]
+THENIGHTKING1: bets $595.50
+KOLXO3HuK: folds
+Uncalled bet ($595.50) returned to THENIGHTKING1
+THENIGHTKING1 collected $397.00 from pot
+THENIGHTKING1: doesn't show hand
+*** SUMMARY ***
+Total pot $400.00 | Rake $3.00
+Board [Kd 6h Jd 2c As]
+Seat 1: spicymayo folded before Flop (didn't bet)
+Seat 2: honey_badger folded before Flop (didn't bet)
+Seat 3: KOLXO3HuK (button) folded on the River
+Seat 4: StevenDiabolic (small blind) folded before Flop
+Seat 5: THENIGHTKING1 (big blind) collected ($397.00)
+Seat 6: PANDAisEVIL folded before Flop (didn't bet)
+
+PokerStars Hand #1495363175:  Hold'em No Limit ($25.00/$50.00 USD) - 2022/12/23 04:54:10 ET
+Table 'WPN_Del Mar' 6-max Seat #4 is the button
+Seat 1: spicymayo ($5000.00 in chips)
+Seat 2: honey_badger ($8915.18 in chips)
+Seat 3: KOLXO3HuK ($4812.50 in chips)
+Seat 4: StevenDiabolic ($5000.00 in chips)
+Seat 5: THENIGHTKING1 ($2302.46 in chips)
+Seat 6: PANDAisEVIL ($5901.25 in chips)
+THENIGHTKING1: posts small blind $25.00
+PANDAisEVIL: posts big blind $50.00
+*** HOLE CARDS ***
+spicymayo: folds
+honey_badger: folds
+KOLXO3HuK: folds
+StevenDiabolic: folds
+THENIGHTKING1: folds
+Uncalled bet ($25.00) returned to PANDAisEVIL
+PANDAisEVIL collected $50.00 from pot
+PANDAisEVIL: doesn't show hand
+*** SUMMARY ***
+Total pot $50.00 | Rake $0.00
+Seat 1: spicymayo folded before Flop (didn't bet)
+Seat 2: honey_badger folded before Flop (didn't bet)
+Seat 3: KOLXO3HuK folded before Flop (didn't bet)
+Seat 4: StevenDiabolic (button) folded before Flop (didn't bet)
+Seat 5: THENIGHTKING1 (small blind) folded before Flop
+Seat 6: PANDAisEVIL (big blind) collected ($50.00)
+
+PokerStars Hand #1495362818:  Hold'em No Limit ($25.00/$50.00 USD) - 2022/12/23 04:53:50 ET
+Table 'WPN_Loganville' 6-max Seat #5 is the button
+Seat 1: THENIGHTKING1 ($4797.46 in chips)
+Seat 2: honey_badger ($5406.50 in chips)
+Seat 3: KOLXO3HuK ($5000.00 in chips)
+Seat 4: StevenDiabolic ($5000.00 in chips)
+Seat 5: PANDAisEVIL ($5000.00 in chips)
+Seat 6: spicymayo ($9894.92 in chips)
+spicymayo: posts small blind $25.00
+THENIGHTKING1: posts big blind $50.00
+*** HOLE CARDS ***
+honey_badger: folds
+KOLXO3HuK: folds
+StevenDiabolic: folds
+PANDAisEVIL: folds
+spicymayo: raises $125.00 to $175.00
+THENIGHTKING1: calls $125.00
+*** FLOP *** [8s 9d 3c]
+spicymayo: checks
+THENIGHTKING1: bets $260.25
+spicymayo: calls $260.25
+*** TURN *** [8s 9d 3c] [5d]
+spicymayo: checks
+THENIGHTKING1: bets $650.62
+spicymayo: folds
+Uncalled bet ($650.62) returned to THENIGHTKING1
+THENIGHTKING1 collected $867.50 from pot
+THENIGHTKING1: doesn't show hand
+*** SUMMARY ***
+Total pot $870.50 | Rake $3.00
+Board [8s 9d 3c 5d]
+Seat 1: THENIGHTKING1 (big blind) collected ($867.50)
+Seat 2: honey_badger folded before Flop (didn't bet)
+Seat 3: KOLXO3HuK folded before Flop (didn't bet)
+Seat 4: StevenDiabolic folded before Flop (didn't bet)
+Seat 5: PANDAisEVIL (button) folded before Flop (didn't bet)
+Seat 6: spicymayo (small blind) folded on the Turn
+
+PokerStars Hand #1495363502:  Hold'em No Limit ($25.00/$50.00 USD) - 2022/12/23 04:54:29 ET
+Table 'WPN_Del Mar' 6-max Seat #5 is the button
+Seat 1: spicymayo ($5000.00 in chips)
+Seat 2: honey_badger ($8915.18 in chips)
+Seat 3: KOLXO3HuK ($4812.50 in chips)
+Seat 4: StevenDiabolic ($5000.00 in chips)
+Seat 5: THENIGHTKING1 ($2277.46 in chips)
+Seat 6: PANDAisEVIL ($5926.25 in chips)
+PANDAisEVIL: posts small blind $25.00
+spicymayo: posts big blind $50.00
+*** HOLE CARDS ***
+honey_badger: folds
+KOLXO3HuK: folds
+StevenDiabolic: raises $62.50 to $112.50
+THENIGHTKING1: folds
+PANDAisEVIL: folds
+spicymayo: calls $62.50
+*** FLOP *** [9h 6d Ts]
+spicymayo: checks
+StevenDiabolic: bets $82.50
+spicymayo: calls $82.50
+*** TURN *** [9h 6d Ts] [2h]
+spicymayo: checks
+StevenDiabolic: checks
+*** RIVER *** [9h 6d Ts 2h] [Qs]
+spicymayo: checks
+StevenDiabolic: bets $207.50
+spicymayo: folds
+Uncalled bet ($207.50) returned to StevenDiabolic
+StevenDiabolic collected $412.00 from pot
+StevenDiabolic: doesn't show hand
+*** SUMMARY ***
+Total pot $415.00 | Rake $3.00
+Board [9h 6d Ts 2h Qs]
+Seat 1: spicymayo (big blind) folded on the River
+Seat 2: honey_badger folded before Flop (didn't bet)
+Seat 3: KOLXO3HuK folded before Flop (didn't bet)
+Seat 4: StevenDiabolic collected ($412.00)
+Seat 5: THENIGHTKING1 (button) folded before Flop (didn't bet)
+Seat 6: PANDAisEVIL (small blind) folded before Flop
+
+PokerStars Hand #1495364274:  Hold'em No Limit ($25.00/$50.00 USD) - 2022/12/23 04:55:21 ET
+Table 'WPN_Loganville' 6-max Seat #6 is the button
+Seat 1: THENIGHTKING1 ($5229.71 in chips)
+Seat 2: honey_badger ($5406.50 in chips)
+Seat 3: KOLXO3HuK ($5000.00 in chips)
+Seat 4: StevenDiabolic ($5000.00 in chips)
+Seat 5: PANDAisEVIL ($5000.00 in chips)
+Seat 6: spicymayo ($9459.67 in chips)
+THENIGHTKING1: posts small blind $25.00
+honey_badger: posts big blind $50.00
+*** HOLE CARDS ***
+KOLXO3HuK: folds
+StevenDiabolic: folds
+PANDAisEVIL: folds
+spicymayo: raises $60.00 to $110.00
+THENIGHTKING1: raises $415.00 to $525.00
+honey_badger: folds
+spicymayo: calls $415.00
+*** FLOP *** [Th 4d Kc]
+THENIGHTKING1: bets $548.50
+spicymayo: folds
+Uncalled bet ($548.50) returned to THENIGHTKING1
+THENIGHTKING1 collected $1097.00 from pot
+THENIGHTKING1: doesn't show hand
+*** SUMMARY ***
+Total pot $1100.00 | Rake $3.00
+Board [Th 4d Kc]
+Seat 1: THENIGHTKING1 (small blind) collected ($1097.00)
+Seat 2: honey_badger (big blind) folded before Flop
+Seat 3: KOLXO3HuK folded before Flop (didn't bet)
+Seat 4: StevenDiabolic folded before Flop (didn't bet)
+Seat 5: PANDAisEVIL folded before Flop (didn't bet)
+Seat 6: spicymayo (button) folded on the Flop
+
+PokerStars Hand #1495364804:  Hold'em No Limit ($25.00/$50.00 USD) - 2022/12/23 04:56:08 ET
+Table 'WPN_Loganville' 6-max Seat #1 is the button
+Seat 1: THENIGHTKING1 ($5801.71 in chips)
+Seat 2: honey_badger ($5356.50 in chips)
+Seat 3: KOLXO3HuK ($5000.00 in chips)
+Seat 4: StevenDiabolic ($5000.00 in chips)
+Seat 5: PANDAisEVIL ($5000.00 in chips)
+Seat 6: spicymayo ($8934.67 in chips)
+honey_badger: posts small blind $25.00
+KOLXO3HuK: posts big blind $50.00
+*** HOLE CARDS ***
+StevenDiabolic: folds
+PANDAisEVIL: folds
+spicymayo: folds
+THENIGHTKING1: raises $75.00 to $125.00
+honey_badger: raises $400.00 to $525.00
+KOLXO3HuK: folds
+THENIGHTKING1: raises $625.00 to $1150.00
+honey_badger: folds
+Uncalled bet ($625.00) returned to THENIGHTKING1
+THENIGHTKING1 collected $1100.00 from pot
+THENIGHTKING1: doesn't show hand
+*** SUMMARY ***
+Total pot $1100.00 | Rake $0.00
+Seat 1: THENIGHTKING1 (button) collected ($1100.00)
+Seat 2: honey_badger (small blind) folded before Flop
+Seat 3: KOLXO3HuK (big blind) folded before Flop
+Seat 4: StevenDiabolic folded before Flop (didn't bet)
+Seat 5: PANDAisEVIL folded before Flop (didn't bet)
+Seat 6: spicymayo folded before Flop (didn't bet)
+
+PokerStars Hand #1495364750:  Hold'em No Limit ($25.00/$50.00 USD) - 2022/12/23 04:56:03 ET
+Table 'WPN_Del Mar' 6-max Seat #6 is the button
+Seat 1: spicymayo ($4805.00 in chips)
+Seat 2: honey_badger ($8915.18 in chips)
+Seat 3: KOLXO3HuK ($4812.50 in chips)
+Seat 4: StevenDiabolic ($5217.00 in chips)
+Seat 5: THENIGHTKING1 ($2277.46 in chips)
+Seat 6: PANDAisEVIL ($5901.25 in chips)
+spicymayo: posts small blind $25.00
+honey_badger: posts big blind $50.00
+*** HOLE CARDS ***
+KOLXO3HuK: folds
+StevenDiabolic: folds
+THENIGHTKING1: folds
+PANDAisEVIL: raises $60.00 to $110.00
+spicymayo: raises $365.00 to $475.00
+honey_badger: folds
+PANDAisEVIL: calls $365.00
+*** FLOP *** [6c 7c 4h]
+spicymayo: bets $479.01
+PANDAisEVIL: calls $479.01
+*** TURN *** [6c 7c 4h] [7d]
+spicymayo: bets $1140.31
+PANDAisEVIL: calls $1140.31
+*** RIVER *** [6c 7c 4h 7d] [5c]
+spicymayo: bets $2905.68 and is all-in
+PANDAisEVIL: calls $2905.68
+*** SHOW DOWN ***
+PANDAisEVIL: shows [4s 4d]
+spicymayo: shows [Kd Qh]
+PANDAisEVIL collected $10047.00 from pot
+*** SUMMARY ***
+Total pot $10050.00 | Rake $3.00
+Board [6c 7c 4h 7d 5c]
+Seat 1: spicymayo (small blind) showed [Kd Qh] and lost
+Seat 2: honey_badger (big blind) folded before Flop
+Seat 3: KOLXO3HuK folded before Flop (didn't bet)
+Seat 4: StevenDiabolic folded before Flop (didn't bet)
+Seat 5: THENIGHTKING1 folded before Flop (didn't bet)
+Seat 6: PANDAisEVIL (button) showed [4s 4d] and won ($10047.00)
+
+PokerStars Hand #1495365880:  Hold'em No Limit ($25.00/$50.00 USD) - 2022/12/23 04:57:49 ET
+Table 'WPN_Del Mar' 6-max Seat #1 is the button
+Seat 1: spicymayo ($5000.00 in chips)
+Seat 2: honey_badger ($8865.18 in chips)
+Seat 3: KOLXO3HuK ($4812.50 in chips)
+Seat 4: StevenDiabolic ($5217.00 in chips)
+Seat 5: THENIGHTKING1 ($2277.46 in chips)
+Seat 6: PANDAisEVIL ($10948.25 in chips)
+honey_badger: posts small blind $25.00
+KOLXO3HuK: posts big blind $50.00
+*** HOLE CARDS ***
+StevenDiabolic: folds
+THENIGHTKING1: raises $75.00 to $125.00
+PANDAisEVIL: folds
+spicymayo: folds
+honey_badger: folds
+KOLXO3HuK: folds
+Uncalled bet ($75.00) returned to THENIGHTKING1
+THENIGHTKING1 collected $125.00 from pot
+THENIGHTKING1: doesn't show hand
+*** SUMMARY ***
+Total pot $125.00 | Rake $0.00
+Seat 1: spicymayo (button) folded before Flop (didn't bet)
+Seat 2: honey_badger (small blind) folded before Flop
+Seat 3: KOLXO3HuK (big blind) folded before Flop
+Seat 4: StevenDiabolic folded before Flop (didn't bet)
+Seat 5: THENIGHTKING1 collected ($125.00)
+Seat 6: PANDAisEVIL folded before Flop (didn't bet)
+
+PokerStars Hand #1495365364:  Hold'em No Limit ($25.00/$50.00 USD) - 2022/12/23 04:57:01 ET
+Table 'WPN_Loganville' 6-max Seat #2 is the button
+Seat 1: THENIGHTKING1 ($6376.71 in chips)
+Seat 2: honey_badger ($4831.50 in chips)
+Seat 3: KOLXO3HuK ($4950.00 in chips)
+Seat 4: StevenDiabolic ($5000.00 in chips)
+Seat 5: PANDAisEVIL ($5000.00 in chips)
+Seat 6: spicymayo ($8934.67 in chips)
+KOLXO3HuK: posts small blind $25.00
+StevenDiabolic: posts big blind $50.00
+*** HOLE CARDS ***
+PANDAisEVIL: folds
+spicymayo: folds
+THENIGHTKING1: raises $75.00 to $125.00
+honey_badger: raises $275.00 to $400.00
+KOLXO3HuK: folds
+StevenDiabolic: folds
+THENIGHTKING1: calls $275.00
+*** FLOP *** [9c 4c Td]
+THENIGHTKING1: checks
+honey_badger: checks
+*** TURN *** [9c 4c Td] [7c]
+THENIGHTKING1: checks
+honey_badger: bets $706.25
+THENIGHTKING1: folds
+Uncalled bet ($706.25) returned to honey_badger
+honey_badger collected $872.00 from pot
+honey_badger: doesn't show hand
+*** SUMMARY ***
+Total pot $875.00 | Rake $3.00
+Board [9c 4c Td 7c]
+Seat 1: THENIGHTKING1 folded on the Turn
+Seat 2: honey_badger (button) collected ($872.00)
+Seat 3: KOLXO3HuK (small blind) folded before Flop
+Seat 4: StevenDiabolic (big blind) folded before Flop
+Seat 5: PANDAisEVIL folded before Flop (didn't bet)
+Seat 6: spicymayo folded before Flop (didn't bet)
+
+PokerStars Hand #1495366042:  Hold'em No Limit ($25.00/$50.00 USD) - 2022/12/23 04:58:04 ET
+Table 'WPN_Del Mar' 6-max Seat #2 is the button
+Seat 1: spicymayo ($5000.00 in chips)
+Seat 2: honey_badger ($8840.18 in chips)
+Seat 3: KOLXO3HuK ($4762.50 in chips)
+Seat 4: StevenDiabolic ($5217.00 in chips)
+Seat 5: THENIGHTKING1 ($2352.46 in chips)
+Seat 6: PANDAisEVIL ($10948.25 in chips)
+KOLXO3HuK: posts small blind $25.00
+StevenDiabolic: posts big blind $50.00
+*** HOLE CARDS ***
+THENIGHTKING1: folds
+PANDAisEVIL: raises $60.00 to $110.00
+spicymayo: folds
+honey_badger: calls $110.00
+KOLXO3HuK: calls $85.00
+StevenDiabolic: calls $60.00
+*** FLOP *** [7d 3d Ah]
+KOLXO3HuK: checks
+StevenDiabolic: checks
+PANDAisEVIL: checks
+honey_badger: checks
+*** TURN *** [7d 3d Ah] [5h]
+KOLXO3HuK: checks
+StevenDiabolic: checks
+PANDAisEVIL: checks
+honey_badger: bets $305.00
+KOLXO3HuK: folds
+StevenDiabolic: raises $905.00 to $1210.00
+PANDAisEVIL: folds
+honey_badger: calls $905.00
+*** RIVER *** [7d 3d Ah 5h] [Qc]
+StevenDiabolic: bets $3897.00 and is all-in
+honey_badger: calls $3897.00
+*** SHOW DOWN ***
+honey_badger: shows [5c 5s]
+StevenDiabolic: shows [3s 3c]
+honey_badger collected $10651.00 from pot
+*** SUMMARY ***
+Total pot $10654.00 | Rake $3.00
+Board [7d 3d Ah 5h Qc]
+Seat 1: spicymayo folded before Flop (didn't bet)
+Seat 2: honey_badger (button) showed [5c 5s] and won ($10651.00)
+Seat 3: KOLXO3HuK (small blind) folded on the Turn
+Seat 4: StevenDiabolic (big blind) showed [3s 3c] and lost
+Seat 5: THENIGHTKING1 folded before Flop (didn't bet)
+Seat 6: PANDAisEVIL folded on the Turn
+
+PokerStars Hand #1495368141:  Hold'em No Limit ($25.00/$50.00 USD) - 2022/12/23 05:00:59 ET
+Table 'WPN_Del Mar' 6-max Seat #4 is the button
+Seat 1: spicymayo ($5000.00 in chips)
+Seat 2: honey_badger ($14274.18 in chips)
+Seat 3: KOLXO3HuK ($5287.00 in chips)
+Seat 4: StevenDiabolic ($4975.00 in chips)
+Seat 5: THENIGHTKING1 ($1739.96 in chips)
+Seat 6: PANDAisEVIL ($10838.25 in chips)
+THENIGHTKING1: posts small blind $25.00
+PANDAisEVIL: posts big blind $50.00
+*** HOLE CARDS ***
+spicymayo: folds
+honey_badger: folds
+KOLXO3HuK: raises $62.50 to $112.50
+StevenDiabolic: folds
+THENIGHTKING1: folds
+PANDAisEVIL: folds
+Uncalled bet ($62.50) returned to KOLXO3HuK
+KOLXO3HuK collected $125.00 from pot
+KOLXO3HuK: doesn't show hand
+*** SUMMARY ***
+Total pot $125.00 | Rake $0.00
+Seat 1: spicymayo folded before Flop (didn't bet)
+Seat 2: honey_badger folded before Flop (didn't bet)
+Seat 3: KOLXO3HuK collected ($125.00)
+Seat 4: StevenDiabolic (button) folded before Flop (didn't bet)
+Seat 5: THENIGHTKING1 (small blind) folded before Flop
+Seat 6: PANDAisEVIL (big blind) folded before Flop
+
+PokerStars Hand #1495367663:  Hold'em No Limit ($25.00/$50.00 USD) - 2022/12/23 05:00:31 ET
+Table 'WPN_Loganville' 6-max Seat #4 is the button
+Seat 1: THENIGHTKING1 ($5976.71 in chips)
+Seat 2: honey_badger ($11016.00 in chips)
+Seat 3: KOLXO3HuK ($4925.00 in chips)
+Seat 4: StevenDiabolic ($4975.00 in chips)
+Seat 5: PANDAisEVIL ($4950.00 in chips)
+Seat 6: spicymayo ($5000.00 in chips)
+PANDAisEVIL: posts small blind $25.00
+spicymayo: posts big blind $50.00
+*** HOLE CARDS ***
+THENIGHTKING1: folds
+honey_badger: folds
+KOLXO3HuK: folds
+StevenDiabolic: folds
+PANDAisEVIL: raises $60.00 to $110.00
+spicymayo: calls $60.00
+*** FLOP *** [2s 2d Jc]
+PANDAisEVIL: checks
+spicymayo: checks
+*** TURN *** [2s 2d Jc] [3c]
+PANDAisEVIL: checks
+spicymayo: bets $143.22
+PANDAisEVIL: calls $143.22
+*** RIVER *** [2s 2d Jc 3c] [6s]
+PANDAisEVIL: checks
+spicymayo: bets $332.27
+PANDAisEVIL: calls $332.27
+*** SHOW DOWN ***
+PANDAisEVIL: shows [Ah Ts]
+spicymayo: mucks hand
+PANDAisEVIL collected $1167.98 from pot
+*** SUMMARY ***
+Total pot $1170.98 | Rake $3.00
+Board [2s 2d Jc 3c 6s]
+Seat 1: THENIGHTKING1 folded before Flop (didn't bet)
+Seat 2: honey_badger folded before Flop (didn't bet)
+Seat 3: KOLXO3HuK folded before Flop (didn't bet)
+Seat 4: StevenDiabolic (button) folded before Flop (didn't bet)
+Seat 5: PANDAisEVIL (small blind) showed [Ah Ts] and won ($1167.98)
+Seat 6: spicymayo (big blind) mucked
+
+PokerStars Hand #1495368606:  Hold'em No Limit ($25.00/$50.00 USD) - 2022/12/23 05:01:30 ET
+Table 'WPN_Del Mar' 6-max Seat #5 is the button
+Seat 1: spicymayo ($5000.00 in chips)
+Seat 2: honey_badger ($14274.18 in chips)
+Seat 3: KOLXO3HuK ($5362.00 in chips)
+Seat 4: StevenDiabolic ($4975.00 in chips)
+Seat 5: THENIGHTKING1 ($2000.00 in chips)
+Seat 6: PANDAisEVIL ($10788.25 in chips)
+PANDAisEVIL: posts small blind $25.00
+spicymayo: posts big blind $50.00
+*** HOLE CARDS ***
+honey_badger: raises $62.50 to $112.50
+KOLXO3HuK: folds
+StevenDiabolic: folds
+THENIGHTKING1: folds
+PANDAisEVIL: folds
+spicymayo: calls $62.50
+*** FLOP *** [Qs 3h 8h]
+spicymayo: checks
+honey_badger: bets $87.50
+spicymayo: folds
+Uncalled bet ($87.50) returned to honey_badger
+honey_badger collected $247.00 from pot
+honey_badger: doesn't show hand
+*** SUMMARY ***
+Total pot $250.00 | Rake $3.00
+Board [Qs 3h 8h]
+Seat 1: spicymayo (big blind) folded on the Flop
+Seat 2: honey_badger collected ($247.00)
+Seat 3: KOLXO3HuK folded before Flop (didn't bet)
+Seat 4: StevenDiabolic folded before Flop (didn't bet)
+Seat 5: THENIGHTKING1 (button) folded before Flop (didn't bet)
+Seat 6: PANDAisEVIL (small blind) folded before Flop
+
+PokerStars Hand #1495369104:  Hold'em No Limit ($25.00/$50.00 USD) - 2022/12/23 05:02:00 ET
+Table 'WPN_Loganville' 6-max Seat #5 is the button
+Seat 1: THENIGHTKING1 ($5976.71 in chips)
+Seat 2: honey_badger ($11016.00 in chips)
+Seat 3: KOLXO3HuK ($4925.00 in chips)
+Seat 4: StevenDiabolic ($4975.00 in chips)
+Seat 5: PANDAisEVIL ($5582.49 in chips)
+Seat 6: spicymayo ($5000.00 in chips)
+spicymayo: posts small blind $25.00
+THENIGHTKING1: posts big blind $50.00
+*** HOLE CARDS ***
+honey_badger: raises $62.50 to $112.50
+KOLXO3HuK: folds
+StevenDiabolic: folds
+PANDAisEVIL: folds
+spicymayo: folds
+THENIGHTKING1: calls $62.50
+*** FLOP *** [Ah 4s 9c]
+THENIGHTKING1: checks
+honey_badger: bets $87.50
+THENIGHTKING1: folds
+Uncalled bet ($87.50) returned to honey_badger
+honey_badger collected $247.00 from pot
+honey_badger: doesn't show hand
+*** SUMMARY ***
+Total pot $250.00 | Rake $3.00
+Board [Ah 4s 9c]
+Seat 1: THENIGHTKING1 (big blind) folded on the Flop
+Seat 2: honey_badger collected ($247.00)
+Seat 3: KOLXO3HuK folded before Flop (didn't bet)
+Seat 4: StevenDiabolic folded before Flop (didn't bet)
+Seat 5: PANDAisEVIL (button) folded before Flop (didn't bet)
+Seat 6: spicymayo (small blind) folded before Flop
+
+PokerStars Hand #1495369236:  Hold'em No Limit ($25.00/$50.00 USD) - 2022/12/23 05:02:08 ET
+Table 'WPN_Del Mar' 6-max Seat #6 is the button
+Seat 1: spicymayo ($4887.50 in chips)
+Seat 2: honey_badger ($14408.68 in chips)
+Seat 3: KOLXO3HuK ($5362.00 in chips)
+Seat 4: StevenDiabolic ($4975.00 in chips)
+Seat 5: THENIGHTKING1 ($2000.00 in chips)
+Seat 6: PANDAisEVIL ($10763.25 in chips)
+spicymayo: posts small blind $25.00
+honey_badger: posts big blind $50.00
+*** HOLE CARDS ***
+KOLXO3HuK: folds
+StevenDiabolic: folds
+THENIGHTKING1: folds
+PANDAisEVIL: folds
+spicymayo: calls $25.00
+honey_badger: checks
+*** FLOP *** [9c 8h 8d]
+spicymayo: checks
+honey_badger: checks
+*** TURN *** [9c 8h 8d] [4h]
+spicymayo: checks
+honey_badger: checks
+*** RIVER *** [9c 8h 8d 4h] [Kh]
+spicymayo: checks
+honey_badger: checks
+*** SHOW DOWN ***
+honey_badger: shows [3d As]
+spicymayo: mucks hand
+honey_badger collected $97.00 from pot
+*** SUMMARY ***
+Total pot $100.00 | Rake $3.00
+Board [9c 8h 8d 4h Kh]
+Seat 1: spicymayo (small blind) mucked
+Seat 2: honey_badger (big blind) showed [3d As] and won ($97.00)
+Seat 3: KOLXO3HuK folded before Flop (didn't bet)
+Seat 4: StevenDiabolic folded before Flop (didn't bet)
+Seat 5: THENIGHTKING1 folded before Flop (didn't bet)
+Seat 6: PANDAisEVIL (button) folded before Flop (didn't bet)
+
+PokerStars Hand #1495369584:  Hold'em No Limit ($25.00/$50.00 USD) - 2022/12/23 05:02:29 ET
+Table 'WPN_Loganville' 6-max Seat #6 is the button
+Seat 1: THENIGHTKING1 ($5864.21 in chips)
+Seat 2: honey_badger ($11150.50 in chips)
+Seat 3: KOLXO3HuK ($4925.00 in chips)
+Seat 4: StevenDiabolic ($4975.00 in chips)
+Seat 5: PANDAisEVIL ($5582.49 in chips)
+Seat 6: spicymayo ($5000.00 in chips)
+THENIGHTKING1: posts small blind $25.00
+honey_badger: posts big blind $50.00
+*** HOLE CARDS ***
+KOLXO3HuK: folds
+StevenDiabolic: folds
+PANDAisEVIL: folds
+spicymayo: folds
+THENIGHTKING1: raises $100.00 to $150.00
+honey_badger: calls $100.00
+*** FLOP *** [4d 4c 6s]
+THENIGHTKING1: checks
+honey_badger: checks
+*** TURN *** [4d 4c 6s] [5c]
+THENIGHTKING1: checks
+honey_badger: bets $125.00
+THENIGHTKING1: folds
+Uncalled bet ($125.00) returned to honey_badger
+honey_badger collected $297.00 from pot
+honey_badger: doesn't show hand
+*** SUMMARY ***
+Total pot $300.00 | Rake $3.00
+Board [4d 4c 6s 5c]
+Seat 1: THENIGHTKING1 (small blind) folded on the Turn
+Seat 2: honey_badger (big blind) collected ($297.00)
+Seat 3: KOLXO3HuK folded before Flop (didn't bet)
+Seat 4: StevenDiabolic folded before Flop (didn't bet)
+Seat 5: PANDAisEVIL folded before Flop (didn't bet)
+Seat 6: spicymayo (button) folded before Flop (didn't bet)
+
+PokerStars Hand #1495370471:  Hold'em No Limit ($25.00/$50.00 USD) - 2022/12/23 05:03:23 ET
+Table 'WPN_Loganville' 6-max Seat #1 is the button
+Seat 1: THENIGHTKING1 ($5714.21 in chips)
+Seat 2: honey_badger ($11297.50 in chips)
+Seat 3: KOLXO3HuK ($4925.00 in chips)
+Seat 4: StevenDiabolic ($4975.00 in chips)
+Seat 5: PANDAisEVIL ($5582.49 in chips)
+Seat 6: spicymayo ($5000.00 in chips)
+honey_badger: posts small blind $25.00
+KOLXO3HuK: posts big blind $50.00
+*** HOLE CARDS ***
+StevenDiabolic: folds
+PANDAisEVIL: folds
+spicymayo: folds
+THENIGHTKING1: folds
+honey_badger: raises $100.00 to $150.00
+KOLXO3HuK: folds
+Uncalled bet ($100.00) returned to honey_badger
+honey_badger collected $100.00 from pot
+honey_badger: doesn't show hand
+*** SUMMARY ***
+Total pot $100.00 | Rake $0.00
+Seat 1: THENIGHTKING1 (button) folded before Flop (didn't bet)
+Seat 2: honey_badger (small blind) collected ($100.00)
+Seat 3: KOLXO3HuK (big blind) folded before Flop
+Seat 4: StevenDiabolic folded before Flop (didn't bet)
+Seat 5: PANDAisEVIL folded before Flop (didn't bet)
+Seat 6: spicymayo folded before Flop (didn't bet)
+
+PokerStars Hand #1495370809:  Hold'em No Limit ($25.00/$50.00 USD) - 2022/12/23 05:03:43 ET
+Table 'WPN_Loganville' 6-max Seat #2 is the button
+Seat 1: THENIGHTKING1 ($5714.21 in chips)
+Seat 2: honey_badger ($11347.50 in chips)
+Seat 3: KOLXO3HuK ($4875.00 in chips)
+Seat 4: StevenDiabolic ($4975.00 in chips)
+Seat 5: PANDAisEVIL ($5582.49 in chips)
+Seat 6: spicymayo ($5000.00 in chips)
+KOLXO3HuK: posts small blind $25.00
+StevenDiabolic: posts big blind $50.00
+*** HOLE CARDS ***
+PANDAisEVIL: raises $60.00 to $110.00
+spicymayo: folds
+THENIGHTKING1: folds
+honey_badger: folds
+KOLXO3HuK: folds
+StevenDiabolic: folds
+Uncalled bet ($60.00) returned to PANDAisEVIL
+PANDAisEVIL collected $125.00 from pot
+PANDAisEVIL: doesn't show hand
+*** SUMMARY ***
+Total pot $125.00 | Rake $0.00
+Seat 1: THENIGHTKING1 folded before Flop (didn't bet)
+Seat 2: honey_badger (button) folded before Flop (didn't bet)
+Seat 3: KOLXO3HuK (small blind) folded before Flop
+Seat 4: StevenDiabolic (big blind) folded before Flop
+Seat 5: PANDAisEVIL collected ($125.00)
+Seat 6: spicymayo folded before Flop (didn't bet)
+
+PokerStars Hand #1495370118:  Hold'em No Limit ($25.00/$50.00 USD) - 2022/12/23 05:03:01 ET
+Table 'WPN_Del Mar' 6-max Seat #1 is the button
+Seat 1: spicymayo ($5000.00 in chips)
+Seat 2: honey_badger ($14455.68 in chips)
+Seat 3: KOLXO3HuK ($5362.00 in chips)
+Seat 4: StevenDiabolic ($4975.00 in chips)
+Seat 5: THENIGHTKING1 ($2000.00 in chips)
+Seat 6: PANDAisEVIL ($10763.25 in chips)
+honey_badger: posts small blind $25.00
+KOLXO3HuK: posts big blind $50.00
+*** HOLE CARDS ***
+StevenDiabolic: folds
+THENIGHTKING1: folds
+PANDAisEVIL: raises $60.00 to $110.00
+spicymayo: folds
+honey_badger: folds
+KOLXO3HuK: calls $60.00
+*** FLOP *** [4s Js 4d]
+KOLXO3HuK: checks
+PANDAisEVIL: bets $79.86
+KOLXO3HuK: raises $152.36 to $232.22
+PANDAisEVIL: calls $152.36
+*** TURN *** [4s Js 4d] [Qd]
+KOLXO3HuK: checks
+PANDAisEVIL: checks
+*** RIVER *** [4s Js 4d Qd] [5s]
+KOLXO3HuK: checks
+PANDAisEVIL: bets $466.00
+KOLXO3HuK: folds
+Uncalled bet ($466.00) returned to PANDAisEVIL
+PANDAisEVIL collected $706.44 from pot
+PANDAisEVIL: doesn't show hand
+*** SUMMARY ***
+Total pot $709.44 | Rake $3.00
+Board [4s Js 4d Qd 5s]
+Seat 1: spicymayo (button) folded before Flop (didn't bet)
+Seat 2: honey_badger (small blind) folded before Flop
+Seat 3: KOLXO3HuK (big blind) folded on the River
+Seat 4: StevenDiabolic folded before Flop (didn't bet)
+Seat 5: THENIGHTKING1 folded before Flop (didn't bet)
+Seat 6: PANDAisEVIL collected ($706.44)
+
+PokerStars Hand #1495371676:  Hold'em No Limit ($25.00/$50.00 USD) - 2022/12/23 05:04:35 ET
+Table 'WPN_Del Mar' 6-max Seat #2 is the button
+Seat 1: spicymayo ($5000.00 in chips)
+Seat 2: honey_badger ($14430.68 in chips)
+Seat 3: KOLXO3HuK ($5019.78 in chips)
+Seat 4: StevenDiabolic ($4975.00 in chips)
+Seat 5: THENIGHTKING1 ($2000.00 in chips)
+Seat 6: PANDAisEVIL ($11127.47 in chips)
+KOLXO3HuK: posts small blind $25.00
+StevenDiabolic: posts big blind $50.00
+*** HOLE CARDS ***
+THENIGHTKING1: folds
+PANDAisEVIL: folds
+spicymayo: folds
+honey_badger: folds
+KOLXO3HuK: folds
+Uncalled bet ($25.00) returned to StevenDiabolic
+StevenDiabolic collected $50.00 from pot
+StevenDiabolic: doesn't show hand
+*** SUMMARY ***
+Total pot $50.00 | Rake $0.00
+Seat 1: spicymayo folded before Flop (didn't bet)
+Seat 2: honey_badger (button) folded before Flop (didn't bet)
+Seat 3: KOLXO3HuK (small blind) folded before Flop
+Seat 4: StevenDiabolic (big blind) collected ($50.00)
+Seat 5: THENIGHTKING1 folded before Flop (didn't bet)
+Seat 6: PANDAisEVIL folded before Flop (didn't bet)
+
+PokerStars Hand #1495371299:  Hold'em No Limit ($25.00/$50.00 USD) - 2022/12/23 05:04:12 ET
+Table 'WPN_Loganville' 6-max Seat #3 is the button
+Seat 1: THENIGHTKING1 ($5714.21 in chips)
+Seat 2: honey_badger ($11347.50 in chips)
+Seat 3: KOLXO3HuK ($4850.00 in chips)
+Seat 4: StevenDiabolic ($4950.00 in chips)
+Seat 5: PANDAisEVIL ($5657.49 in chips)
+Seat 6: spicymayo ($5000.00 in chips)
+StevenDiabolic: posts small blind $25.00
+PANDAisEVIL: posts big blind $50.00
+*** HOLE CARDS ***
+spicymayo: folds
+THENIGHTKING1: folds
+honey_badger: folds
+KOLXO3HuK: folds
+StevenDiabolic: raises $100.00 to $150.00
+PANDAisEVIL: calls $100.00
+*** FLOP *** [4c 3c Ad]
+StevenDiabolic: checks
+PANDAisEVIL: checks
+*** TURN *** [4c 3c Ad] [Ah]
+StevenDiabolic: checks
+PANDAisEVIL: checks
+*** RIVER *** [4c 3c Ad Ah] [Kh]
+StevenDiabolic: checks
+PANDAisEVIL: bets $98.01
+StevenDiabolic: calls $98.01
+*** SHOW DOWN ***
+StevenDiabolic: shows [Qs Tc]
+PANDAisEVIL: mucks hand
+StevenDiabolic collected $493.02 from pot
+*** SUMMARY ***
+Total pot $496.02 | Rake $3.00
+Board [4c 3c Ad Ah Kh]
+Seat 1: THENIGHTKING1 folded before Flop (didn't bet)
+Seat 2: honey_badger folded before Flop (didn't bet)
+Seat 3: KOLXO3HuK (button) folded before Flop (didn't bet)
+Seat 4: StevenDiabolic (small blind) showed [Qs Tc] and won ($493.02)
+Seat 5: PANDAisEVIL (big blind) mucked
+Seat 6: spicymayo folded before Flop (didn't bet)
+
+PokerStars Hand #1495372597:  Hold'em No Limit ($25.00/$50.00 USD) - 2022/12/23 05:05:30 ET
+Table 'WPN_Loganville' 6-max Seat #4 is the button
+Seat 1: THENIGHTKING1 ($5714.21 in chips)
+Seat 2: honey_badger ($11347.50 in chips)
+Seat 3: KOLXO3HuK ($4850.00 in chips)
+Seat 4: StevenDiabolic ($5245.01 in chips)
+Seat 5: PANDAisEVIL ($5409.48 in chips)
+Seat 6: spicymayo ($5000.00 in chips)
+PANDAisEVIL: posts small blind $25.00
+THENIGHTKING1: posts big blind $50.00
+*** HOLE CARDS ***
+honey_badger: folds
+KOLXO3HuK: folds
+StevenDiabolic: folds
+PANDAisEVIL: folds
+Uncalled bet ($25.00) returned to THENIGHTKING1
+THENIGHTKING1 collected $50.00 from pot
+THENIGHTKING1: doesn't show hand
+*** SUMMARY ***
+Total pot $50.00 | Rake $0.00
+Seat 1: THENIGHTKING1 (big blind) collected ($50.00)
+Seat 2: honey_badger folded before Flop (didn't bet)
+Seat 3: KOLXO3HuK folded before Flop (didn't bet)
+Seat 4: StevenDiabolic (button) folded before Flop (didn't bet)
+Seat 5: PANDAisEVIL (small blind) folded before Flop
+
+PokerStars Hand #1495372804:  Hold'em No Limit ($25.00/$50.00 USD) - 2022/12/23 05:05:41 ET
+Table 'WPN_Loganville' 6-max Seat #5 is the button
+Seat 1: THENIGHTKING1 ($5739.21 in chips)
+Seat 2: honey_badger ($11347.50 in chips)
+Seat 3: KOLXO3HuK ($4850.00 in chips)
+Seat 4: StevenDiabolic ($5245.01 in chips)
+Seat 5: PANDAisEVIL ($5384.48 in chips)
+THENIGHTKING1: posts small blind $25.00
+honey_badger: posts big blind $50.00
+*** HOLE CARDS ***
+KOLXO3HuK: folds
+StevenDiabolic: raises $62.50 to $112.50
+PANDAisEVIL: folds
+THENIGHTKING1: folds
+honey_badger: folds
+Uncalled bet ($62.50) returned to StevenDiabolic
+StevenDiabolic collected $125.00 from pot
+StevenDiabolic: doesn't show hand
+*** SUMMARY ***
+Total pot $125.00 | Rake $0.00
+Seat 1: THENIGHTKING1 (small blind) folded before Flop
+Seat 2: honey_badger (big blind) folded before Flop
+Seat 3: KOLXO3HuK folded before Flop (didn't bet)
+Seat 4: StevenDiabolic collected ($125.00)
+Seat 5: PANDAisEVIL (button) folded before Flop (didn't bet)
+
+PokerStars Hand #1495371991:  Hold'em No Limit ($25.00/$50.00 USD) - 2022/12/23 05:04:54 ET
+Table 'WPN_Del Mar' 6-max Seat #3 is the button
+Seat 1: spicymayo ($5000.00 in chips)
+Seat 2: honey_badger ($14430.68 in chips)
+Seat 3: KOLXO3HuK ($4994.78 in chips)
+Seat 4: StevenDiabolic ($5025.00 in chips)
+Seat 5: THENIGHTKING1 ($2000.00 in chips)
+Seat 6: PANDAisEVIL ($11127.47 in chips)
+StevenDiabolic: posts small blind $25.00
+THENIGHTKING1: posts big blind $50.00
+*** HOLE CARDS ***
+PANDAisEVIL: folds
+spicymayo: folds
+honey_badger: raises $62.50 to $112.50
+KOLXO3HuK: folds
+StevenDiabolic: folds
+THENIGHTKING1: calls $62.50
+*** FLOP *** [6s 5h 6d]
+THENIGHTKING1: checks
+honey_badger: checks
+*** TURN *** [6s 5h 6d] [Ts]
+THENIGHTKING1: checks
+honey_badger: bets $87.50
+THENIGHTKING1: calls $87.50
+*** RIVER *** [6s 5h 6d Ts] [2s]
+THENIGHTKING1: checks
+honey_badger: bets $156.25
+THENIGHTKING1: folds
+Uncalled bet ($156.25) returned to honey_badger
+honey_badger collected $422.00 from pot
+honey_badger: doesn't show hand
+*** SUMMARY ***
+Total pot $425.00 | Rake $3.00
+Board [6s 5h 6d Ts 2s]
+Seat 1: spicymayo folded before Flop (didn't bet)
+Seat 2: honey_badger collected ($422.00)
+Seat 3: KOLXO3HuK (button) folded before Flop (didn't bet)
+Seat 4: StevenDiabolic (small blind) folded before Flop
+Seat 5: THENIGHTKING1 (big blind) folded on the River
+Seat 6: PANDAisEVIL folded before Flop (didn't bet)
+
+PokerStars Hand #1495373234:  Hold'em No Limit ($25.00/$50.00 USD) - 2022/12/23 05:06:07 ET
+Table 'WPN_Loganville' 6-max Seat #1 is the button
+Seat 1: THENIGHTKING1 ($5714.21 in chips)
+Seat 2: honey_badger ($11297.50 in chips)
+Seat 3: KOLXO3HuK ($4850.00 in chips)
+Seat 4: StevenDiabolic ($5320.01 in chips)
+Seat 5: PANDAisEVIL ($5384.48 in chips)
+honey_badger: posts small blind $25.00
+KOLXO3HuK: posts big blind $50.00
+*** HOLE CARDS ***
+StevenDiabolic: folds
+PANDAisEVIL: folds
+THENIGHTKING1: raises $75.00 to $125.00
+honey_badger: folds
+KOLXO3HuK: calls $75.00
+*** FLOP *** [Js 3h 8c]
+KOLXO3HuK: checks
+THENIGHTKING1: bets $89.76
+KOLXO3HuK: raises $252.26 to $342.02
+THENIGHTKING1: folds
+Uncalled bet ($252.26) returned to KOLXO3HuK
+KOLXO3HuK collected $451.52 from pot
+KOLXO3HuK: doesn't show hand
+*** SUMMARY ***
+Total pot $454.52 | Rake $3.00
+Board [Js 3h 8c]
+Seat 1: THENIGHTKING1 (button) folded on the Flop
+Seat 2: honey_badger (small blind) folded before Flop
+Seat 3: KOLXO3HuK (big blind) collected ($451.52)
+Seat 4: StevenDiabolic folded before Flop (didn't bet)
+Seat 5: PANDAisEVIL folded before Flop (didn't bet)
+
+PokerStars Hand #1495373873:  Hold'em No Limit ($25.00/$50.00 USD) - 2022/12/23 05:06:41 ET
+Table 'WPN_Loganville' 6-max Seat #2 is the button
+Seat 1: THENIGHTKING1 ($5499.45 in chips)
+Seat 2: honey_badger ($11272.50 in chips)
+Seat 3: KOLXO3HuK ($5086.76 in chips)
+Seat 4: StevenDiabolic ($5320.01 in chips)
+Seat 5: PANDAisEVIL ($5384.48 in chips)
+KOLXO3HuK: posts small blind $25.00
+StevenDiabolic: posts big blind $50.00
+*** HOLE CARDS ***
+PANDAisEVIL: folds
+THENIGHTKING1: raises $75.00 to $125.00
+honey_badger: folds
+KOLXO3HuK: folds
+StevenDiabolic: calls $75.00
+*** FLOP *** [7d Kh 7c]
+StevenDiabolic: checks
+THENIGHTKING1: bets $89.76
+StevenDiabolic: folds
+Uncalled bet ($89.76) returned to THENIGHTKING1
+THENIGHTKING1 collected $272.00 from pot
+THENIGHTKING1: doesn't show hand
+*** SUMMARY ***
+Total pot $275.00 | Rake $3.00
+Board [7d Kh 7c]
+Seat 1: THENIGHTKING1 collected ($272.00)
+Seat 2: honey_badger (button) folded before Flop (didn't bet)
+Seat 3: KOLXO3HuK (small blind) folded before Flop
+Seat 4: StevenDiabolic (big blind) folded on the Flop
+Seat 5: PANDAisEVIL folded before Flop (didn't bet)
+
+PokerStars Hand #1495373338:  Hold'em No Limit ($25.00/$50.00 USD) - 2022/12/23 05:06:12 ET
+Table 'WPN_Del Mar' 6-max Seat #4 is the button
+Seat 1: spicymayo ($5000.00 in chips)
+Seat 2: honey_badger ($14652.68 in chips)
+Seat 3: KOLXO3HuK ($4994.78 in chips)
+Seat 4: StevenDiabolic ($5000.00 in chips)
+Seat 5: THENIGHTKING1 ($1800.00 in chips)
+Seat 6: PANDAisEVIL ($11127.47 in chips)
+THENIGHTKING1: posts small blind $25.00
+PANDAisEVIL: posts big blind $50.00
+*** HOLE CARDS ***
+spicymayo: raises $60.00 to $110.00
+honey_badger: raises $240.00 to $350.00
+KOLXO3HuK: folds
+StevenDiabolic: folds
+THENIGHTKING1: folds
+PANDAisEVIL: folds
+spicymayo: calls $240.00
+*** FLOP *** [4d Jd Qc]
+spicymayo: checks
+honey_badger: bets $268.75
+spicymayo: raises $836.25 to $1105.00
+honey_badger: raises $13197.68 to $14302.68 and is all-in
+spicymayo: calls $3545.00 and is all-in
+Uncalled bet ($9652.68) returned to honey_badger
+*** TURN *** [4d Jd Qc] [2s]
+*** RIVER *** [4d Jd Qc 2s] [9s]
+*** SHOW DOWN ***
+spicymayo: shows [Js Jc]
+honey_badger: shows [Ad Kd]
+spicymayo collected $10072.00 from pot
+*** SUMMARY ***
+Total pot $10075.00 | Rake $3.00
+Board [4d Jd Qc 2s 9s]
+Seat 1: spicymayo showed [Js Jc] and won ($10072.00)
+Seat 2: honey_badger showed [Ad Kd] and lost
+Seat 3: KOLXO3HuK folded before Flop (didn't bet)
+Seat 4: StevenDiabolic (button) folded before Flop (didn't bet)
+Seat 5: THENIGHTKING1 (small blind) folded before Flop
+Seat 6: PANDAisEVIL (big blind) folded before Flop
+
+PokerStars Hand #1495374510:  Hold'em No Limit ($25.00/$50.00 USD) - 2022/12/23 05:07:18 ET
+Table 'WPN_Loganville' 6-max Seat #3 is the button
+Seat 1: THENIGHTKING1 ($5646.45 in chips)
+Seat 2: honey_badger ($11272.50 in chips)
+Seat 3: KOLXO3HuK ($5061.76 in chips)
+Seat 4: StevenDiabolic ($5195.01 in chips)
+Seat 5: PANDAisEVIL ($5384.48 in chips)
+StevenDiabolic: posts small blind $25.00
+THENIGHTKING1: posts big blind $50.00
+*** HOLE CARDS ***
+honey_badger: folds
+KOLXO3HuK: folds
+StevenDiabolic: raises $100.00 to $150.00
+THENIGHTKING1: folds
+Uncalled bet ($100.00) returned to StevenDiabolic
+StevenDiabolic collected $100.00 from pot
+StevenDiabolic: doesn't show hand
+*** SUMMARY ***
+Total pot $100.00 | Rake $0.00
+Seat 1: THENIGHTKING1 (big blind) folded before Flop
+Seat 2: honey_badger folded before Flop (didn't bet)
+Seat 3: KOLXO3HuK (button) folded before Flop (didn't bet)
+Seat 4: StevenDiabolic (small blind) collected ($100.00)
+
+PokerStars Hand #1495375039:  Hold'em No Limit ($25.00/$50.00 USD) - 2022/12/23 05:07:48 ET
+Table 'WPN_Loganville' 6-max Seat #4 is the button
+Seat 1: THENIGHTKING1 ($5596.45 in chips)
+Seat 2: honey_badger ($11272.50 in chips)
+Seat 3: KOLXO3HuK ($5061.76 in chips)
+Seat 4: StevenDiabolic ($5245.01 in chips)
+Seat 6: RealMenRathole ($5000.00 in chips)
+THENIGHTKING1: posts small blind $25.00
+StevenDiabolic: posts big blind $50.00
+*** HOLE CARDS ***
+THENIGHTKING1: folds
+Uncalled bet ($25.00) returned to StevenDiabolic
+StevenDiabolic collected $50.00 from pot
+StevenDiabolic: doesn't show hand
+*** SUMMARY ***
+Total pot $50.00 | Rake $0.00
+Seat 1: THENIGHTKING1 (small blind) folded before Flop
+Seat 4: StevenDiabolic (button) (big blind) collected ($50.00)
+
+PokerStars Hand #1495374697:  Hold'em No Limit ($25.00/$50.00 USD) - 2022/12/23 05:07:29 ET
+Table 'WPN_Del Mar' 6-max Seat #5 is the button
+Seat 1: spicymayo ($10072.00 in chips)
+Seat 2: honey_badger ($9652.68 in chips)
+Seat 3: KOLXO3HuK ($4994.78 in chips)
+Seat 4: StevenDiabolic ($5000.00 in chips)
+Seat 5: THENIGHTKING1 ($2000.00 in chips)
+Seat 6: PANDAisEVIL ($11077.47 in chips)
+PANDAisEVIL: posts small blind $25.00
+honey_badger: posts big blind $50.00
+*** HOLE CARDS ***
+KOLXO3HuK: folds
+StevenDiabolic: raises $62.50 to $112.50
+THENIGHTKING1: folds
+PANDAisEVIL: folds
+honey_badger: folds
+Uncalled bet ($62.50) returned to StevenDiabolic
+StevenDiabolic collected $125.00 from pot
+StevenDiabolic: doesn't show hand
+*** SUMMARY ***
+Total pot $125.00 | Rake $0.00
+Seat 2: honey_badger (big blind) folded before Flop
+Seat 3: KOLXO3HuK folded before Flop (didn't bet)
+Seat 4: StevenDiabolic collected ($125.00)
+Seat 5: THENIGHTKING1 (button) folded before Flop (didn't bet)
+Seat 6: PANDAisEVIL (small blind) folded before Flop
+
+PokerStars Hand #1495375210:  Hold'em No Limit ($25.00/$50.00 USD) - 2022/12/23 05:07:58 ET
+Table 'WPN_Loganville' 6-max Seat #1 is the button
+Seat 1: THENIGHTKING1 ($5571.45 in chips)
+Seat 4: StevenDiabolic ($5270.01 in chips)
+Seat 6: RealMenRathole ($5000.00 in chips)
+StevenDiabolic: posts small blind $25.00
+RealMenRathole: posts big blind $50.00
+*** HOLE CARDS ***
+THENIGHTKING1: folds
+StevenDiabolic: folds
+Uncalled bet ($25.00) returned to RealMenRathole
+RealMenRathole collected $50.00 from pot
+RealMenRathole: doesn't show hand
+*** SUMMARY ***
+Total pot $50.00 | Rake $0.00
+Seat 1: THENIGHTKING1 (button) folded before Flop (didn't bet)
+Seat 4: StevenDiabolic (small blind) folded before Flop
+Seat 6: RealMenRathole (big blind) collected ($50.00)
+
+PokerStars Hand #1495375471:  Hold'em No Limit ($25.00/$50.00 USD) - 2022/12/23 05:08:13 ET
+Table 'WPN_Loganville' 6-max Seat #4 is the button
+Seat 1: THENIGHTKING1 ($5571.45 in chips)
+Seat 4: StevenDiabolic ($5245.01 in chips)
+Seat 6: RealMenRathole ($5025.00 in chips)
+RealMenRathole: posts small blind $25.00
+THENIGHTKING1: posts big blind $50.00
+*** HOLE CARDS ***
+StevenDiabolic: folds
+RealMenRathole: folds
+Uncalled bet ($25.00) returned to THENIGHTKING1
+THENIGHTKING1 collected $50.00 from pot
+THENIGHTKING1: doesn't show hand
+*** SUMMARY ***
+Total pot $50.00 | Rake $0.00
+Seat 1: THENIGHTKING1 (big blind) collected ($50.00)
+Seat 4: StevenDiabolic (button) folded before Flop (didn't bet)
+Seat 6: RealMenRathole (small blind) folded before Flop
+
+PokerStars Hand #1495375997:  Hold'em No Limit ($25.00/$50.00 USD) - 2022/12/23 05:08:43 ET
+Table 'WPN_Loganville' 6-max Seat #6 is the button
+Seat 1: THENIGHTKING1 ($5596.45 in chips)
+Seat 3: KOLXO3HuK ($5061.76 in chips)
+Seat 4: StevenDiabolic ($5245.01 in chips)
+Seat 6: RealMenRathole ($5000.00 in chips)
+THENIGHTKING1: posts small blind $25.00
+KOLXO3HuK: posts big blind $50.00
+*** HOLE CARDS ***
+StevenDiabolic: folds
+RealMenRathole: folds
+THENIGHTKING1: raises $100.00 to $150.00
+KOLXO3HuK: folds
+Uncalled bet ($100.00) returned to THENIGHTKING1
+THENIGHTKING1 collected $100.00 from pot
+THENIGHTKING1: doesn't show hand
+*** SUMMARY ***
+Total pot $100.00 | Rake $0.00
+Seat 1: THENIGHTKING1 (small blind) collected ($100.00)
+Seat 3: KOLXO3HuK (big blind) folded before Flop
+Seat 4: StevenDiabolic folded before Flop (didn't bet)
+Seat 6: RealMenRathole (button) folded before Flop (didn't bet)
+
+PokerStars Hand #1495376425:  Hold'em No Limit ($25.00/$50.00 USD) - 2022/12/23 05:09:07 ET
+Table 'WPN_Loganville' 6-max Seat #1 is the button
+Seat 1: THENIGHTKING1 ($5646.45 in chips)
+Seat 3: KOLXO3HuK ($5011.76 in chips)
+Seat 4: StevenDiabolic ($5245.01 in chips)
+Seat 6: RealMenRathole ($5000.00 in chips)
+KOLXO3HuK: posts small blind $25.00
+THENIGHTKING1: posts big blind $50.00
+*** HOLE CARDS ***
+KOLXO3HuK: folds
+Uncalled bet ($25.00) returned to THENIGHTKING1
+THENIGHTKING1 collected $50.00 from pot
+THENIGHTKING1: doesn't show hand
+*** SUMMARY ***
+Total pot $50.00 | Rake $0.00
+Seat 1: THENIGHTKING1 (button) (big blind) collected ($50.00)
+Seat 3: KOLXO3HuK (small blind) folded before Flop
+
+PokerStars Hand #1495375222:  Hold'em No Limit ($25.00/$50.00 USD) - 2022/12/23 05:07:59 ET
+Table 'WPN_Del Mar' 6-max Seat #6 is the button
+Seat 3: RealMenRathole ($5000.00 in chips)
+Seat 4: StevenDiabolic ($5075.00 in chips)
+Seat 5: THENIGHTKING1 ($2000.00 in chips)
+Seat 6: PANDAisEVIL ($11052.47 in chips)
+RealMenRathole: posts big blind $50.00
+*** HOLE CARDS ***
+StevenDiabolic: folds
+THENIGHTKING1: raises $75.00 to $125.00
+PANDAisEVIL: folds
+RealMenRathole: calls $75.00
+*** FLOP *** [2h 6d 4d]
+RealMenRathole: checks
+THENIGHTKING1: checks
+*** TURN *** [2h 6d 4d] [6h]
+RealMenRathole: bets $81.50
+THENIGHTKING1: calls $81.50
+*** RIVER *** [2h 6d 4d 6h] [5c]
+RealMenRathole: bets $103.25
+THENIGHTKING1: folds
+Uncalled bet ($103.25) returned to RealMenRathole
+RealMenRathole collected $410.75 from pot
+RealMenRathole: doesn't show hand
+*** SUMMARY ***
+Total pot $413.00 | Rake $2.25
+Board [2h 6d 4d 6h 5c]
+Seat 3: RealMenRathole (big blind) collected ($410.75)
+Seat 4: StevenDiabolic folded before Flop (didn't bet)
+Seat 5: THENIGHTKING1 folded on the River
+Seat 6: PANDAisEVIL (button) folded before Flop (didn't bet)
+
+PokerStars Hand #1495497984:  Hold'em No Limit ($25.00/$50.00 USD) - 2022/12/23 07:37:05 ET
+Table 'WPN_Itasca' 6-max Seat #3 is the button
+Seat 1: GrimTrucker ($5000.00 in chips)
+Seat 3: Amancio_017 ($2000.00 in chips)
+Seat 6: asbybee ($2000.00 in chips)
+Amancio_017: posts the ante $250.00
+asbybee: posts the ante $250.00
+*** HOLE CARDS ***
+*** FLOP *** [3s 9s 5c]
+asbybee: bets $1750.00 and is all-in
+Amancio_017: folds
+Uncalled bet ($1750.00) returned to asbybee
+asbybee collected $498.75 from pot
+asbybee: doesn't show hand
+*** SUMMARY ***
+Total pot $500.00 | Rake $1.25
+Board [3s 9s 5c]
+Seat 3: Amancio_017 (button) folded on the Flop
+Seat 6: asbybee collected ($498.75)
+
+PokerStars Hand #1495498578:  Hold'em No Limit ($25.00/$50.00 USD) - 2022/12/23 07:37:46 ET
+Table 'WPN_Itasca' 6-max Seat #3 is the button
+Seat 1: GrimTrucker ($5000.00 in chips)
+Seat 2: SpitItOut ($5000.00 in chips)
+Seat 3: Amancio_017 ($1750.00 in chips)
+Seat 4: honey_badger ($5000.00 in chips)
+Seat 5: TheMestresis ($5000.00 in chips)
+honey_badger: posts small blind $25.00
+TheMestresis: posts big blind $50.00
+*** HOLE CARDS ***
+GrimTrucker: folds
+SpitItOut: raises $75.00 to $125.00
+Amancio_017: folds
+honey_badger: folds
+TheMestresis: folds
+Uncalled bet ($75.00) returned to SpitItOut
+SpitItOut collected $125.00 from pot
+SpitItOut: doesn't show hand
+*** SUMMARY ***
+Total pot $125.00 | Rake $0.00
+Seat 1: GrimTrucker folded before Flop (didn't bet)
+Seat 2: SpitItOut collected ($125.00)
+Seat 3: Amancio_017 (button) folded before Flop (didn't bet)
+Seat 4: honey_badger (small blind) folded before Flop
+Seat 5: TheMestresis (big blind) folded before Flop
+
+PokerStars Hand #1495498787:  Hold'em No Limit ($25.00/$50.00 USD) - 2022/12/23 07:38:23 ET
+Table 'WPN_Itasca' 6-max Seat #5 is the button
+Seat 3: Amancio_017 ($1750.00 in chips)
+Seat 4: honey_badger ($5000.00 in chips)
+Seat 5: TheMestresis ($4950.00 in chips)
+Seat 6: ATARAX1A ($5000.00 in chips)
+Amancio_017: posts the ante $250.00
+honey_badger: posts the ante $250.00
+TheMestresis: posts the ante $250.00
+*** HOLE CARDS ***
+*** FLOP *** [Jh 5d 7c]
+Amancio_017: checks
+honey_badger: checks
+TheMestresis: checks
+*** TURN *** [Jh 5d 7c] [Qc]
+Amancio_017: checks
+honey_badger: checks
+TheMestresis: checks
+*** RIVER *** [Jh 5d 7c Qc] [Kd]
+Amancio_017: checks
+honey_badger: checks
+TheMestresis: bets $561.00
+Amancio_017: folds
+honey_badger: calls $561.00
+*** SHOW DOWN ***
+TheMestresis: shows [Kc 6h]
+honey_badger: mucks hand
+TheMestresis collected $1870.25 from pot
+*** SUMMARY ***
+Total pot $1872.00 | Rake $1.75
+Board [Jh 5d 7c Qc Kd]
+Seat 3: Amancio_017 folded on the River
+Seat 4: honey_badger mucked
+Seat 5: TheMestresis (button) showed [Kc 6h] and won ($1870.25)
+
+PokerStars Hand #1495500182:  Hold'em No Limit ($25.00/$50.00 USD) - 2022/12/23 07:40:17 ET
+Table 'WPN_Itasca' 6-max Seat #4 is the button
+Seat 1: PathfinderPaco ($5000.00 in chips)
+Seat 2: GrimTrucker ($5000.00 in chips)
+Seat 3: Amancio_017 ($5000.00 in chips)
+Seat 4: honey_badger ($5000.00 in chips)
+Seat 5: TheMestresis ($6059.25 in chips)
+Seat 6: ATARAX1A ($5000.00 in chips)
+TheMestresis: posts small blind $25.00
+PathfinderPaco: posts big blind $50.00
+*** HOLE CARDS ***
+Amancio_017: folds
+honey_badger: folds
+TheMestresis: folds
+Uncalled bet ($25.00) returned to PathfinderPaco
+PathfinderPaco collected $50.00 from pot
+PathfinderPaco: doesn't show hand
+*** SUMMARY ***
+Total pot $50.00 | Rake $0.00
+Seat 1: PathfinderPaco (big blind) collected ($50.00)
+Seat 3: Amancio_017 folded before Flop (didn't bet)
+Seat 4: honey_badger (button) folded before Flop (didn't bet)
+Seat 5: TheMestresis (small blind) folded before Flop
+
+PokerStars Hand #1495500439:  Hold'em No Limit ($25.00/$50.00 USD) - 2022/12/23 07:40:41 ET
+Table 'WPN_Itasca' 6-max Seat #5 is the button
+Seat 1: PathfinderPaco ($5025.00 in chips)
+Seat 2: GrimTrucker ($5000.00 in chips)
+Seat 3: Amancio_017 ($5000.00 in chips)
+Seat 4: honey_badger ($5000.00 in chips)
+Seat 5: TheMestresis ($6034.25 in chips)
+PathfinderPaco: posts small blind $25.00
+GrimTrucker: posts big blind $50.00
+*** HOLE CARDS ***
+Amancio_017: folds
+honey_badger: folds
+TheMestresis: raises $75.00 to $125.00
+PathfinderPaco: folds
+GrimTrucker: raises $475.00 to $600.00
+TheMestresis: folds
+Uncalled bet ($475.00) returned to GrimTrucker
+GrimTrucker collected $275.00 from pot
+GrimTrucker: doesn't show hand
+*** SUMMARY ***
+Total pot $275.00 | Rake $0.00
+Seat 1: PathfinderPaco (small blind) folded before Flop
+Seat 2: GrimTrucker (big blind) collected ($275.00)
+Seat 3: Amancio_017 folded before Flop (didn't bet)
+Seat 4: honey_badger folded before Flop (didn't bet)
+Seat 5: TheMestresis (button) folded before Flop
+
+PokerStars Hand #1495500839:  Hold'em No Limit ($25.00/$50.00 USD) - 2022/12/23 07:41:20 ET
+Table 'WPN_Itasca' 6-max Seat #1 is the button
+Seat 1: PathfinderPaco ($5000.00 in chips)
+Seat 2: GrimTrucker ($5150.00 in chips)
+Seat 4: honey_badger ($5000.00 in chips)
+Seat 5: TheMestresis ($5909.25 in chips)
+GrimTrucker: posts small blind $25.00
+PathfinderPaco: posts big blind $50.00
+*** HOLE CARDS ***
+GrimTrucker: folds
+Uncalled bet ($25.00) returned to PathfinderPaco
+PathfinderPaco collected $50.00 from pot
+PathfinderPaco: doesn't show hand
+*** SUMMARY ***
+Total pot $50.00 | Rake $0.00
+Seat 1: PathfinderPaco (button) (big blind) collected ($50.00)
+Seat 2: GrimTrucker (small blind) folded before Flop
+
+PokerStars Hand #1495522786:  Hold'em No Limit ($25.00/$50.00 USD) - 2022/12/23 08:19:08 ET
+Table 'WPN_Energy' 6-max Seat #6 is the button
+Seat 3: Amancio_017 ($2000.00 in chips)
+Seat 6: GrimTrucker ($5000.00 in chips)
+Amancio_017: posts the ante $250.00
+GrimTrucker: posts the ante $250.00
+*** HOLE CARDS ***
+*** FLOP *** [Jh 6d 8s]
+Amancio_017: checks
+GrimTrucker: checks
+*** TURN *** [Jh 6d 8s] [Qs]
+Amancio_017: checks
+GrimTrucker: bets $375.00
+Amancio_017: folds
+Uncalled bet ($375.00) returned to GrimTrucker
+GrimTrucker collected $498.75 from pot
+GrimTrucker: doesn't show hand
+*** SUMMARY ***
+Total pot $500.00 | Rake $1.25
+Board [Jh 6d 8s Qs]
+Seat 3: Amancio_017 folded on the Turn
+Seat 6: GrimTrucker (button) collected ($498.75)
+
+PokerStars Hand #1495523355:  Hold'em No Limit ($25.00/$50.00 USD) - 2022/12/23 08:19:51 ET
+Table 'WPN_Energy' 6-max Seat #3 is the button
+Seat 1: FlyingStyle ($5000.00 in chips)
+Seat 3: Amancio_017 ($1750.00 in chips)
+Seat 6: GrimTrucker ($5248.75 in chips)
+GrimTrucker: posts small blind $25.00
+FlyingStyle: posts big blind $50.00
+*** HOLE CARDS ***
+Amancio_017: raises $62.50 to $112.50
+GrimTrucker: folds
+FlyingStyle: folds
+Uncalled bet ($62.50) returned to Amancio_017
+Amancio_017 collected $125.00 from pot
+Amancio_017: doesn't show hand
+*** SUMMARY ***
+Total pot $125.00 | Rake $0.00
+Seat 1: FlyingStyle (big blind) folded before Flop
+Seat 3: Amancio_017 (button) collected ($125.00)
+Seat 6: GrimTrucker (small blind) folded before Flop
+
+PokerStars Hand #1495523540:  Hold'em No Limit ($25.00/$50.00 USD) - 2022/12/23 08:20:11 ET
+Table 'WPN_Energy' 6-max Seat #6 is the button
+Seat 1: FlyingStyle ($4950.00 in chips)
+Seat 3: Amancio_017 ($5075.00 in chips)
+Seat 6: GrimTrucker ($5223.75 in chips)
+FlyingStyle: posts small blind $25.00
+Amancio_017: posts big blind $50.00
+*** HOLE CARDS ***
+GrimTrucker: raises $75.00 to $125.00
+FlyingStyle: folds
+Amancio_017: calls $75.00
+*** FLOP *** [Ks 5d Jd]
+Amancio_017: checks
+GrimTrucker: checks
+*** TURN *** [Ks 5d Jd] [8d]
+Amancio_017: checks
+GrimTrucker: checks
+*** RIVER *** [Ks 5d Jd 8d] [3c]
+Amancio_017: checks
+GrimTrucker: checks
+*** SHOW DOWN ***
+Amancio_017: shows [4c 5s]
+GrimTrucker: mucks hand
+Amancio_017 collected $273.25 from pot
+*** SUMMARY ***
+Total pot $275.00 | Rake $1.75
+Board [Ks 5d Jd 8d 3c]
+Seat 1: FlyingStyle (small blind) folded before Flop
+Seat 3: Amancio_017 (big blind) showed [4c 5s] and won ($273.25)
+Seat 6: GrimTrucker (button) mucked
+
+PokerStars Hand #1495523902:  Hold'em No Limit ($25.00/$50.00 USD) - 2022/12/23 08:20:47 ET
+Table 'WPN_Energy' 6-max Seat #1 is the button
+Seat 1: FlyingStyle ($5000.00 in chips)
+Seat 2: ATARAX1A ($5000.00 in chips)
+Seat 3: Amancio_017 ($5223.25 in chips)
+Seat 6: GrimTrucker ($5098.75 in chips)
+Amancio_017: posts small blind $25.00
+GrimTrucker: posts big blind $50.00
+*** HOLE CARDS ***
+FlyingStyle: folds
+Amancio_017: folds
+Uncalled bet ($25.00) returned to GrimTrucker
+GrimTrucker collected $50.00 from pot
+GrimTrucker: doesn't show hand
+*** SUMMARY ***
+Total pot $50.00 | Rake $0.00
+Seat 1: FlyingStyle (button) folded before Flop (didn't bet)
+Seat 3: Amancio_017 (small blind) folded before Flop
+Seat 6: GrimTrucker (big blind) collected ($50.00)
+
+PokerStars Hand #1495524019:  Hold'em No Limit ($25.00/$50.00 USD) - 2022/12/23 08:21:00 ET
+Table 'WPN_Energy' 6-max Seat #3 is the button
+Seat 1: FlyingStyle ($5000.00 in chips)
+Seat 2: ATARAX1A ($5000.00 in chips)
+Seat 3: Amancio_017 ($5198.25 in chips)
+Seat 6: GrimTrucker ($5123.75 in chips)
+GrimTrucker: posts small blind $25.00
+ATARAX1A: posts big blind $50.00
+*** HOLE CARDS ***
+Amancio_017: raises $62.50 to $112.50
+GrimTrucker: folds
+ATARAX1A: folds
+Uncalled bet ($62.50) returned to Amancio_017
+Amancio_017 collected $125.00 from pot
+Amancio_017: doesn't show hand
+*** SUMMARY ***
+Total pot $125.00 | Rake $0.00
+Seat 2: ATARAX1A (big blind) folded before Flop
+Seat 3: Amancio_017 (button) collected ($125.00)
+Seat 6: GrimTrucker (small blind) folded before Flop
+
+PokerStars Hand #1495524169:  Hold'em No Limit ($25.00/$50.00 USD) - 2022/12/23 08:21:15 ET
+Table 'WPN_Energy' 6-max Seat #6 is the button
+Seat 2: ATARAX1A ($4950.00 in chips)
+Seat 3: Amancio_017 ($5273.25 in chips)
+Seat 6: GrimTrucker ($5098.75 in chips)
+ATARAX1A: posts small blind $25.00
+Amancio_017: posts big blind $50.00
+*** HOLE CARDS ***
+GrimTrucker: folds
+ATARAX1A: folds
+Uncalled bet ($25.00) returned to Amancio_017
+Amancio_017 collected $50.00 from pot
+Amancio_017: doesn't show hand
+*** SUMMARY ***
+Total pot $50.00 | Rake $0.00
+Seat 2: ATARAX1A (small blind) folded before Flop
+Seat 3: Amancio_017 (big blind) collected ($50.00)
+Seat 6: GrimTrucker (button) folded before Flop (didn't bet)
+
+PokerStars Hand #1495524318:  Hold'em No Limit ($25.00/$50.00 USD) - 2022/12/23 08:21:29 ET
+Table 'WPN_Energy' 6-max Seat #2 is the button
+Seat 2: ATARAX1A ($4975.00 in chips)
+Seat 3: Amancio_017 ($5298.25 in chips)
+Seat 6: GrimTrucker ($5098.75 in chips)
+Amancio_017: posts small blind $25.00
+GrimTrucker: posts big blind $50.00
+*** HOLE CARDS ***
+ATARAX1A: raises $100.00 to $150.00
+Amancio_017: folds
+GrimTrucker: folds
+Uncalled bet ($100.00) returned to ATARAX1A
+ATARAX1A collected $125.00 from pot
+ATARAX1A: doesn't show hand
+*** SUMMARY ***
+Total pot $125.00 | Rake $0.00
+Seat 2: ATARAX1A (button) collected ($125.00)
+Seat 3: Amancio_017 (small blind) folded before Flop
+Seat 6: GrimTrucker (big blind) folded before Flop
+
+PokerStars Hand #1495525890:  Hold'em No Limit ($25.00/$50.00 USD) - 2022/12/23 08:24:19 ET
+Table 'WPN_Energy' 6-max Seat #1 is the button
+Seat 1: ACERACKS777 ($2000.00 in chips)
+Seat 6: GrimTrucker ($5023.75 in chips)
+ACERACKS777: posts the ante $250.00
+GrimTrucker: posts the ante $250.00
+*** HOLE CARDS ***
+*** FLOP *** [As Kd 2s]
+GrimTrucker: checks
+ACERACKS777: bets $250.00
+GrimTrucker: folds
+Uncalled bet ($250.00) returned to ACERACKS777
+ACERACKS777 collected $498.75 from pot
+ACERACKS777: doesn't show hand
+*** SUMMARY ***
+Total pot $500.00 | Rake $1.25
+Board [As Kd 2s]
+Seat 1: ACERACKS777 (button) collected ($498.75)
+Seat 6: GrimTrucker folded on the Flop
+
+PokerStars Hand #1495526232:  Hold'em No Limit ($25.00/$50.00 USD) - 2022/12/23 08:24:39 ET
+Table 'WPN_Energy' 6-max Seat #6 is the button
+Seat 1: ACERACKS777 ($2248.75 in chips)
+Seat 2: NutsBetOnly ($2000.00 in chips)
+Seat 3: rip_ridge ($2000.00 in chips)
+Seat 6: GrimTrucker ($4798.75 in chips)
+ACERACKS777: posts small blind $25.00
+NutsBetOnly: posts big blind $50.00
+*** HOLE CARDS ***
+rip_ridge: raises $62.50 to $112.50
+GrimTrucker: raises $137.50 to $250.00
+ACERACKS777: folds
+NutsBetOnly: folds
+rip_ridge: folds
+Uncalled bet ($137.50) returned to GrimTrucker
+GrimTrucker collected $300.00 from pot
+GrimTrucker: doesn't show hand
+*** SUMMARY ***
+Total pot $300.00 | Rake $0.00
+Seat 1: ACERACKS777 (small blind) folded before Flop
+Seat 2: NutsBetOnly (big blind) folded before Flop
+Seat 3: rip_ridge folded before Flop
+Seat 6: GrimTrucker (button) collected ($300.00)
+
+PokerStars Hand #1495526662:  Hold'em No Limit ($25.00/$50.00 USD) - 2022/12/23 08:25:21 ET
+Table 'WPN_Energy' 6-max Seat #1 is the button
+Seat 1: ACERACKS777 ($2223.75 in chips)
+Seat 2: NutsBetOnly ($2000.00 in chips)
+Seat 3: rip_ridge ($1887.50 in chips)
+Seat 4: PANDAisEVIL ($5000.00 in chips)
+Seat 6: GrimTrucker ($5187.50 in chips)
+NutsBetOnly: posts small blind $25.00
+rip_ridge: posts big blind $50.00
+*** HOLE CARDS ***
+GrimTrucker: folds
+ACERACKS777: folds
+NutsBetOnly: folds
+Uncalled bet ($25.00) returned to rip_ridge
+rip_ridge collected $50.00 from pot
+rip_ridge: doesn't show hand
+*** SUMMARY ***
+Total pot $50.00 | Rake $0.00
+Seat 1: ACERACKS777 (button) folded before Flop (didn't bet)
+Seat 2: NutsBetOnly (small blind) folded before Flop
+Seat 3: rip_ridge (big blind) collected ($50.00)
+Seat 6: GrimTrucker folded before Flop (didn't bet)
+
+PokerStars Hand #1495526820:  Hold'em No Limit ($25.00/$50.00 USD) - 2022/12/23 08:25:37 ET
+Table 'WPN_Energy' 6-max Seat #2 is the button
+Seat 1: ACERACKS777 ($2223.75 in chips)
+Seat 2: NutsBetOnly ($1975.00 in chips)
+Seat 3: rip_ridge ($1912.50 in chips)
+Seat 4: PANDAisEVIL ($5000.00 in chips)
+Seat 5: NijeGreska ($2000.00 in chips)
+Seat 6: GrimTrucker ($5187.50 in chips)
+rip_ridge: posts small blind $25.00
+PANDAisEVIL: posts big blind $50.00
+*** HOLE CARDS ***
+GrimTrucker: folds
+ACERACKS777: raises $50.00 to $100.00
+NutsBetOnly: folds
+rip_ridge: folds
+PANDAisEVIL: calls $50.00
+*** FLOP *** [8h 7d 7s]
+PANDAisEVIL: checks
+ACERACKS777: bets $112.50
+PANDAisEVIL: folds
+Uncalled bet ($112.50) returned to ACERACKS777
+ACERACKS777 collected $222.00 from pot
+ACERACKS777: doesn't show hand
+*** SUMMARY ***
+Total pot $225.00 | Rake $3.00
+Board [8h 7d 7s]
+Seat 1: ACERACKS777 collected ($222.00)
+Seat 2: NutsBetOnly (button) folded before Flop (didn't bet)
+Seat 3: rip_ridge (small blind) folded before Flop
+Seat 4: PANDAisEVIL (big blind) folded on the Flop
+Seat 6: GrimTrucker folded before Flop (didn't bet)
+
+PokerStars Hand #1495527155:  Hold'em No Limit ($25.00/$50.00 USD) - 2022/12/23 08:26:14 ET
+Table 'WPN_Energy' 6-max Seat #3 is the button
+Seat 1: ACERACKS777 ($2345.75 in chips)
+Seat 2: NutsBetOnly ($1975.00 in chips)
+Seat 3: rip_ridge ($1887.50 in chips)
+Seat 4: PANDAisEVIL ($4900.00 in chips)
+Seat 5: NijeGreska ($2000.00 in chips)
+Seat 6: GrimTrucker ($5187.50 in chips)
+PANDAisEVIL: posts small blind $25.00
+NijeGreska: posts big blind $50.00
+*** HOLE CARDS ***
+GrimTrucker: raises $60.00 to $110.00
+ACERACKS777: calls $110.00
+NutsBetOnly: folds
+rip_ridge: folds
+PANDAisEVIL: folds
+NijeGreska: calls $60.00
+*** FLOP *** [Js 3h 9c]
+NijeGreska: checks
+GrimTrucker: checks
+ACERACKS777: bets $177.50
+NijeGreska: folds
+GrimTrucker: calls $177.50
+*** TURN *** [Js 3h 9c] [4c]
+GrimTrucker: checks
+ACERACKS777: bets $355.00
+GrimTrucker: folds
+Uncalled bet ($355.00) returned to ACERACKS777
+ACERACKS777 collected $707.00 from pot
+ACERACKS777: doesn't show hand
+*** SUMMARY ***
+Total pot $710.00 | Rake $3.00
+Board [Js 3h 9c 4c]
+Seat 1: ACERACKS777 collected ($707.00)
+Seat 2: NutsBetOnly folded before Flop (didn't bet)
+Seat 3: rip_ridge (button) folded before Flop (didn't bet)
+Seat 4: PANDAisEVIL (small blind) folded before Flop
+Seat 5: NijeGreska (big blind) folded on the Flop
+Seat 6: GrimTrucker folded on the Turn
+
+PokerStars Hand #1495527896:  Hold'em No Limit ($25.00/$50.00 USD) - 2022/12/23 08:27:33 ET
+Table 'WPN_Energy' 6-max Seat #4 is the button
+Seat 1: ACERACKS777 ($2765.25 in chips)
+Seat 2: NutsBetOnly ($1975.00 in chips)
+Seat 3: rip_ridge ($1887.50 in chips)
+Seat 4: PANDAisEVIL ($5000.00 in chips)
+Seat 5: NijeGreska ($2000.00 in chips)
+Seat 6: GrimTrucker ($4900.00 in chips)
+NijeGreska: posts small blind $25.00
+GrimTrucker: posts big blind $50.00
+*** HOLE CARDS ***
+ACERACKS777: folds
+NutsBetOnly: folds
+rip_ridge: folds
+PANDAisEVIL: folds
+NijeGreska: raises $100.00 to $150.00
+GrimTrucker: calls $100.00
+*** FLOP *** [7h 5c 9s]
+NijeGreska: checks
+GrimTrucker: bets $150.00
+NijeGreska: folds
+Uncalled bet ($150.00) returned to GrimTrucker
+GrimTrucker collected $297.00 from pot
+GrimTrucker: doesn't show hand
+*** SUMMARY ***
+Total pot $300.00 | Rake $3.00
+Board [7h 5c 9s]
+Seat 1: ACERACKS777 folded before Flop (didn't bet)
+Seat 2: NutsBetOnly folded before Flop (didn't bet)
+Seat 3: rip_ridge folded before Flop (didn't bet)
+Seat 4: PANDAisEVIL (button) folded before Flop (didn't bet)
+Seat 5: NijeGreska (small blind) folded on the Flop
+Seat 6: GrimTrucker (big blind) collected ($297.00)
+
+PokerStars Hand #1495528411:  Hold'em No Limit ($25.00/$50.00 USD) - 2022/12/23 08:28:29 ET
+Table 'WPN_Energy' 6-max Seat #5 is the button
+Seat 1: ACERACKS777 ($2765.25 in chips)
+Seat 2: NutsBetOnly ($1975.00 in chips)
+Seat 3: rip_ridge ($3000.00 in chips)
+Seat 4: PANDAisEVIL ($5000.00 in chips)
+Seat 5: NijeGreska ($1850.00 in chips)
+Seat 6: GrimTrucker ($5147.00 in chips)
+GrimTrucker: posts small blind $25.00
+ACERACKS777: posts big blind $50.00
+*** HOLE CARDS ***
+NutsBetOnly: folds
+rip_ridge: folds
+PANDAisEVIL: raises $60.00 to $110.00
+NijeGreska: raises $147.50 to $257.50
+GrimTrucker: folds
+ACERACKS777: folds
+PANDAisEVIL: folds
+Uncalled bet ($147.50) returned to NijeGreska
+NijeGreska collected $295.00 from pot
+NijeGreska: doesn't show hand
+*** SUMMARY ***
+Total pot $295.00 | Rake $0.00
+Seat 1: ACERACKS777 (big blind) folded before Flop
+Seat 2: NutsBetOnly folded before Flop (didn't bet)
+Seat 3: rip_ridge folded before Flop (didn't bet)
+Seat 4: PANDAisEVIL folded before Flop
+Seat 5: NijeGreska (button) collected ($295.00)
+Seat 6: GrimTrucker (small blind) folded before Flop
+
+PokerStars Hand #1495528770:  Hold'em No Limit ($25.00/$50.00 USD) - 2022/12/23 08:29:09 ET
+Table 'WPN_Energy' 6-max Seat #6 is the button
+Seat 1: ACERACKS777 ($2715.25 in chips)
+Seat 2: NutsBetOnly ($1975.00 in chips)
+Seat 3: rip_ridge ($4000.00 in chips)
+Seat 4: PANDAisEVIL ($4890.00 in chips)
+Seat 5: NijeGreska ($2185.00 in chips)
+Seat 6: GrimTrucker ($5122.00 in chips)
+ACERACKS777: posts small blind $25.00
+NutsBetOnly: posts big blind $50.00
+*** HOLE CARDS ***
+rip_ridge: folds
+PANDAisEVIL: raises $60.00 to $110.00
+NijeGreska: folds
+GrimTrucker: folds
+ACERACKS777: calls $85.00
+NutsBetOnly: raises $390.00 to $500.00
+PANDAisEVIL: folds
+ACERACKS777: folds
+Uncalled bet ($390.00) returned to NutsBetOnly
+NutsBetOnly collected $330.00 from pot
+NutsBetOnly: doesn't show hand
+*** SUMMARY ***
+Total pot $330.00 | Rake $0.00
+Seat 1: ACERACKS777 (small blind) folded before Flop
+Seat 2: NutsBetOnly (big blind) collected ($330.00)
+Seat 3: rip_ridge folded before Flop (didn't bet)
+Seat 4: PANDAisEVIL folded before Flop
+Seat 5: NijeGreska folded before Flop (didn't bet)
+Seat 6: GrimTrucker (button) folded before Flop (didn't bet)
+
+PokerStars Hand #1495529192:  Hold'em No Limit ($25.00/$50.00 USD) - 2022/12/23 08:29:54 ET
+Table 'WPN_Energy' 6-max Seat #1 is the button
+Seat 1: ACERACKS777 ($2605.25 in chips)
+Seat 2: NutsBetOnly ($2220.00 in chips)
+Seat 3: rip_ridge ($4000.00 in chips)
+Seat 4: PANDAisEVIL ($5000.00 in chips)
+Seat 5: NijeGreska ($2185.00 in chips)
+Seat 6: GrimTrucker ($5122.00 in chips)
+NutsBetOnly: posts small blind $25.00
+rip_ridge: posts big blind $50.00
+*** HOLE CARDS ***
+PANDAisEVIL: folds
+NijeGreska: folds
+GrimTrucker: raises $60.00 to $110.00
+ACERACKS777: folds
+NutsBetOnly: folds
+rip_ridge: folds
+Uncalled bet ($60.00) returned to GrimTrucker
+GrimTrucker collected $125.00 from pot
+GrimTrucker: doesn't show hand
+*** SUMMARY ***
+Total pot $125.00 | Rake $0.00
+Seat 1: ACERACKS777 (button) folded before Flop (didn't bet)
+Seat 2: NutsBetOnly (small blind) folded before Flop
+Seat 3: rip_ridge (big blind) folded before Flop
+Seat 4: PANDAisEVIL folded before Flop (didn't bet)
+Seat 5: NijeGreska folded before Flop (didn't bet)
+Seat 6: GrimTrucker collected ($125.00)
+
+PokerStars Hand #1495529563:  Hold'em No Limit ($25.00/$50.00 USD) - 2022/12/23 08:30:32 ET
+Table 'WPN_Energy' 6-max Seat #2 is the button
+Seat 1: ACERACKS777 ($2605.25 in chips)
+Seat 2: NutsBetOnly ($2195.00 in chips)
+Seat 3: rip_ridge ($3950.00 in chips)
+Seat 4: PANDAisEVIL ($5000.00 in chips)
+Seat 5: NijeGreska ($2185.00 in chips)
+Seat 6: GrimTrucker ($5197.00 in chips)
+rip_ridge: posts small blind $25.00
+PANDAisEVIL: posts big blind $50.00
+*** HOLE CARDS ***
+NijeGreska: folds
+GrimTrucker: folds
+ACERACKS777: folds
+NutsBetOnly: raises $50.00 to $100.00
+rip_ridge: folds
+PANDAisEVIL: folds
+Uncalled bet ($50.00) returned to NutsBetOnly
+NutsBetOnly collected $125.00 from pot
+NutsBetOnly: doesn't show hand
+*** SUMMARY ***
+Total pot $125.00 | Rake $0.00
+Seat 1: ACERACKS777 folded before Flop (didn't bet)
+Seat 2: NutsBetOnly (button) collected ($125.00)
+Seat 3: rip_ridge (small blind) folded before Flop
+Seat 4: PANDAisEVIL (big blind) folded before Flop
+Seat 5: NijeGreska folded before Flop (didn't bet)
+Seat 6: GrimTrucker folded before Flop (didn't bet)
+
+PokerStars Hand #1495529845:  Hold'em No Limit ($25.00/$50.00 USD) - 2022/12/23 08:31:03 ET
+Table 'WPN_Energy' 6-max Seat #3 is the button
+Seat 1: ACERACKS777 ($2605.25 in chips)
+Seat 2: NutsBetOnly ($2270.00 in chips)
+Seat 3: rip_ridge ($4000.00 in chips)
+Seat 4: PANDAisEVIL ($4950.00 in chips)
+Seat 5: NijeGreska ($2185.00 in chips)
+Seat 6: GrimTrucker ($5197.00 in chips)
+PANDAisEVIL: posts small blind $25.00
+NijeGreska: posts big blind $50.00
+*** HOLE CARDS ***
+GrimTrucker: folds
+ACERACKS777: calls $50.00
+NutsBetOnly: folds
+rip_ridge: folds
+PANDAisEVIL: folds
+NijeGreska: checks
+*** FLOP *** [9s 3s Qd]
+NijeGreska: checks
+ACERACKS777: bets $62.50
+NijeGreska: folds
+Uncalled bet ($62.50) returned to ACERACKS777
+ACERACKS777 collected $122.00 from pot
+ACERACKS777: doesn't show hand
+*** SUMMARY ***
+Total pot $125.00 | Rake $3.00
+Board [9s 3s Qd]
+Seat 1: ACERACKS777 collected ($122.00)
+Seat 2: NutsBetOnly folded before Flop (didn't bet)
+Seat 3: rip_ridge (button) folded before Flop (didn't bet)
+Seat 4: PANDAisEVIL (small blind) folded before Flop
+Seat 5: NijeGreska (big blind) folded on the Flop
+Seat 6: GrimTrucker folded before Flop (didn't bet)
+
+PokerStars Hand #1495530219:  Hold'em No Limit ($25.00/$50.00 USD) - 2022/12/23 08:31:45 ET
+Table 'WPN_Energy' 6-max Seat #4 is the button
+Seat 1: ACERACKS777 ($2677.25 in chips)
+Seat 2: NutsBetOnly ($2270.00 in chips)
+Seat 3: rip_ridge ($4000.00 in chips)
+Seat 4: PANDAisEVIL ($5000.00 in chips)
+Seat 5: NijeGreska ($2135.00 in chips)
+Seat 6: GrimTrucker ($5197.00 in chips)
+NijeGreska: posts small blind $25.00
+GrimTrucker: posts big blind $50.00
+*** HOLE CARDS ***
+ACERACKS777: folds
+NutsBetOnly: folds
+rip_ridge: folds
+PANDAisEVIL: folds
+NijeGreska: folds
+Uncalled bet ($25.00) returned to GrimTrucker
+GrimTrucker collected $50.00 from pot
+GrimTrucker: doesn't show hand
+*** SUMMARY ***
+Total pot $50.00 | Rake $0.00
+Seat 1: ACERACKS777 folded before Flop (didn't bet)
+Seat 2: NutsBetOnly folded before Flop (didn't bet)
+Seat 3: rip_ridge folded before Flop (didn't bet)
+Seat 4: PANDAisEVIL (button) folded before Flop (didn't bet)
+Seat 5: NijeGreska (small blind) folded before Flop
+Seat 6: GrimTrucker (big blind) collected ($50.00)
+
+PokerStars Hand #1495530421:  Hold'em No Limit ($25.00/$50.00 USD) - 2022/12/23 08:32:05 ET
+Table 'WPN_Energy' 6-max Seat #5 is the button
+Seat 1: ACERACKS777 ($2677.25 in chips)
+Seat 2: NutsBetOnly ($2270.00 in chips)
+Seat 3: rip_ridge ($4000.00 in chips)
+Seat 4: PANDAisEVIL ($5000.00 in chips)
+Seat 5: NijeGreska ($2110.00 in chips)
+Seat 6: GrimTrucker ($5222.00 in chips)
+GrimTrucker: posts small blind $25.00
+ACERACKS777: posts big blind $50.00
+*** HOLE CARDS ***
+NutsBetOnly: folds
+rip_ridge: folds
+PANDAisEVIL: raises $60.00 to $110.00
+NijeGreska: folds
+GrimTrucker: folds
+ACERACKS777: folds
+Uncalled bet ($60.00) returned to PANDAisEVIL
+PANDAisEVIL collected $125.00 from pot
+PANDAisEVIL: doesn't show hand
+*** SUMMARY ***
+Total pot $125.00 | Rake $0.00
+Seat 1: ACERACKS777 (big blind) folded before Flop
+Seat 2: NutsBetOnly folded before Flop (didn't bet)
+Seat 3: rip_ridge folded before Flop (didn't bet)
+Seat 4: PANDAisEVIL collected ($125.00)
+Seat 5: NijeGreska (button) folded before Flop (didn't bet)
+Seat 6: GrimTrucker (small blind) folded before Flop
+
+PokerStars Hand #1495530652:  Hold'em No Limit ($25.00/$50.00 USD) - 2022/12/23 08:32:30 ET
+Table 'WPN_Energy' 6-max Seat #6 is the button
+Seat 1: ACERACKS777 ($2627.25 in chips)
+Seat 2: NutsBetOnly ($2270.00 in chips)
+Seat 3: rip_ridge ($4000.00 in chips)
+Seat 4: PANDAisEVIL ($5075.00 in chips)
+Seat 5: NijeGreska ($2110.00 in chips)
+Seat 6: GrimTrucker ($5197.00 in chips)
+ACERACKS777: posts small blind $25.00
+NutsBetOnly: posts big blind $50.00
+*** HOLE CARDS ***
+rip_ridge: folds
+PANDAisEVIL: folds
+NijeGreska: raises $62.50 to $112.50
+GrimTrucker: folds
+ACERACKS777: folds
+NutsBetOnly: calls $62.50
+*** FLOP *** [Jh 6c 2h]
+NutsBetOnly: checks
+NijeGreska: bets $62.50
+NutsBetOnly: folds
+Uncalled bet ($62.50) returned to NijeGreska
+NijeGreska collected $247.00 from pot
+NijeGreska: doesn't show hand
+*** SUMMARY ***
+Total pot $250.00 | Rake $3.00
+Board [Jh 6c 2h]
+Seat 1: ACERACKS777 (small blind) folded before Flop
+Seat 2: NutsBetOnly (big blind) folded on the Flop
+Seat 3: rip_ridge folded before Flop (didn't bet)
+Seat 4: PANDAisEVIL folded before Flop (didn't bet)
+Seat 5: NijeGreska collected ($247.00)
+Seat 6: GrimTrucker (button) folded before Flop (didn't bet)
+
+PokerStars Hand #1495531049:  Hold'em No Limit ($25.00/$50.00 USD) - 2022/12/23 08:33:17 ET
+Table 'WPN_Energy' 6-max Seat #1 is the button
+Seat 1: ACERACKS777 ($2602.25 in chips)
+Seat 2: NutsBetOnly ($2157.50 in chips)
+Seat 3: rip_ridge ($4000.00 in chips)
+Seat 4: PANDAisEVIL ($5075.00 in chips)
+Seat 5: NijeGreska ($2244.50 in chips)
+Seat 6: GrimTrucker ($5197.00 in chips)
+NutsBetOnly: posts small blind $25.00
+rip_ridge: posts big blind $50.00
+*** HOLE CARDS ***
+PANDAisEVIL: folds
+NijeGreska: folds
+GrimTrucker: raises $60.00 to $110.00
+ACERACKS777: calls $110.00
+NutsBetOnly: folds
+rip_ridge: folds
+*** FLOP *** [2s 3c Ad]
+GrimTrucker: checks
+ACERACKS777: bets $147.50
+GrimTrucker: raises $227.00 to $374.50
+ACERACKS777: calls $227.00
+*** TURN *** [2s 3c Ad] [2c]
+GrimTrucker: checks
+ACERACKS777: checks
+*** RIVER *** [2s 3c Ad 2c] [Jd]
+GrimTrucker: checks
+ACERACKS777: checks
+*** SHOW DOWN ***
+ACERACKS777: shows [Ah Th]
+GrimTrucker: mucks hand
+ACERACKS777 collected $1041.00 from pot
+*** SUMMARY ***
+Total pot $1044.00 | Rake $3.00
+Board [2s 3c Ad 2c Jd]
+Seat 1: ACERACKS777 (button) showed [Ah Th] and won ($1041.00)
+Seat 2: NutsBetOnly (small blind) folded before Flop
+Seat 3: rip_ridge (big blind) folded before Flop
+Seat 4: PANDAisEVIL folded before Flop (didn't bet)
+Seat 5: NijeGreska folded before Flop (didn't bet)
+Seat 6: GrimTrucker mucked
+
+PokerStars Hand #1495531999:  Hold'em No Limit ($25.00/$50.00 USD) - 2022/12/23 08:34:58 ET
+Table 'WPN_Energy' 6-max Seat #2 is the button
+Seat 1: ACERACKS777 ($3158.75 in chips)
+Seat 2: NutsBetOnly ($2132.50 in chips)
+Seat 3: rip_ridge ($4000.00 in chips)
+Seat 4: PANDAisEVIL ($5075.00 in chips)
+Seat 5: NijeGreska ($2244.50 in chips)
+Seat 6: GrimTrucker ($5000.00 in chips)
+rip_ridge: posts small blind $25.00
+PANDAisEVIL: posts big blind $50.00
+*** HOLE CARDS ***
+NijeGreska: folds
+GrimTrucker: folds
+ACERACKS777: calls $50.00
+NutsBetOnly: raises $100.00 to $150.00
+rip_ridge: folds
+PANDAisEVIL: folds
+ACERACKS777: calls $100.00
+*** FLOP *** [Th 7h 2c]
+ACERACKS777: checks
+NutsBetOnly: bets $202.50
+ACERACKS777: calls $202.50
+*** TURN *** [Th 7h 2c] [Td]
+ACERACKS777: checks
+NutsBetOnly: checks
+*** RIVER *** [Th 7h 2c Td] [Qc]
+ACERACKS777: checks
+NutsBetOnly: checks
+*** SHOW DOWN ***
+ACERACKS777: shows [Ac 4c]
+NutsBetOnly: shows [As 5s]
+ACERACKS777 collected $388.50 from pot
+NutsBetOnly collected $388.50 from pot
+*** SUMMARY ***
+Total pot $780.00 | Rake $3.00
+Board [Th 7h 2c Td Qc]
+Seat 1: ACERACKS777 showed [Ac 4c] and won ($388.50)
+Seat 2: NutsBetOnly (button) showed [As 5s] and won ($388.50)
+Seat 3: rip_ridge (small blind) folded before Flop
+Seat 4: PANDAisEVIL (big blind) folded before Flop
+Seat 5: NijeGreska folded before Flop (didn't bet)
+Seat 6: GrimTrucker folded before Flop (didn't bet)
+
+PokerStars Hand #1495532547:  Hold'em No Limit ($25.00/$50.00 USD) - 2022/12/23 08:36:13 ET
+Table 'WPN_Energy' 6-max Seat #3 is the button
+Seat 1: ACERACKS777 ($3194.75 in chips)
+Seat 2: NutsBetOnly ($2168.50 in chips)
+Seat 3: rip_ridge ($4000.00 in chips)
+Seat 4: PANDAisEVIL ($5025.00 in chips)
+Seat 5: NijeGreska ($3222.00 in chips)
+Seat 6: GrimTrucker ($5000.00 in chips)
+ACERACKS777: posts the ante $250.00
+NutsBetOnly: posts the ante $250.00
+rip_ridge: posts the ante $250.00
+PANDAisEVIL: posts the ante $250.00
+NijeGreska: posts the ante $250.00
+GrimTrucker: posts the ante $250.00
+*** HOLE CARDS ***
+*** FLOP *** [7c 8d Ks]
+PANDAisEVIL: checks
+NijeGreska: bets $300.00
+GrimTrucker: calls $300.00
+ACERACKS777: folds
+NutsBetOnly: folds
+rip_ridge: calls $300.00
+PANDAisEVIL: calls $300.00
+*** TURN *** [7c 8d Ks] [Th]
+PANDAisEVIL: checks
+NijeGreska: bets $2672.00 and is all-in
+GrimTrucker: folds
+rip_ridge: folds
+PANDAisEVIL: folds
+Uncalled bet ($2672.00) returned to NijeGreska
+NijeGreska collected $2697.00 from pot
+NijeGreska: doesn't show hand
+*** SUMMARY ***
+Total pot $2700.00 | Rake $3.00
+Board [7c 8d Ks Th]
+Seat 1: ACERACKS777 folded on the Flop
+Seat 2: NutsBetOnly folded on the Flop
+Seat 3: rip_ridge (button) folded on the Turn
+Seat 4: PANDAisEVIL folded on the Turn
+Seat 5: NijeGreska collected ($2697.00)
+Seat 6: GrimTrucker folded on the Turn
+
+PokerStars Hand #1495533614:  Hold'em No Limit ($25.00/$50.00 USD) - 2022/12/23 08:38:01 ET
+Table 'WPN_Energy' 6-max Seat #3 is the button
+Seat 1: ACERACKS777 ($2944.75 in chips)
+Seat 2: NutsBetOnly ($2000.00 in chips)
+Seat 3: rip_ridge ($3450.00 in chips)
+Seat 4: PANDAisEVIL ($4475.00 in chips)
+Seat 5: NijeGreska ($5369.00 in chips)
+Seat 6: GrimTrucker ($5000.00 in chips)
+PANDAisEVIL: posts small blind $25.00
+NijeGreska: posts big blind $50.00
+*** HOLE CARDS ***
+GrimTrucker: folds
+ACERACKS777: folds
+NutsBetOnly: folds
+rip_ridge: raises $75.00 to $125.00
+PANDAisEVIL: folds
+NijeGreska: folds
+Uncalled bet ($75.00) returned to rip_ridge
+rip_ridge collected $125.00 from pot
+rip_ridge: doesn't show hand
+*** SUMMARY ***
+Total pot $125.00 | Rake $0.00
+Seat 1: ACERACKS777 folded before Flop (didn't bet)
+Seat 2: NutsBetOnly folded before Flop (didn't bet)
+Seat 3: rip_ridge (button) collected ($125.00)
+Seat 4: PANDAisEVIL (small blind) folded before Flop
+Seat 5: NijeGreska (big blind) folded before Flop
+Seat 6: GrimTrucker folded before Flop (didn't bet)
+
+PokerStars Hand #1495533822:  Hold'em No Limit ($25.00/$50.00 USD) - 2022/12/23 08:38:26 ET
+Table 'WPN_Energy' 6-max Seat #4 is the button
+Seat 1: Amancio_017 ($5273.25 in chips)
+Seat 2: NutsBetOnly ($2000.00 in chips)
+Seat 3: rip_ridge ($3525.00 in chips)
+Seat 4: PANDAisEVIL ($5000.00 in chips)
+Seat 5: NijeGreska ($5319.00 in chips)
+Seat 6: GrimTrucker ($5000.00 in chips)
+NijeGreska: posts small blind $25.00
+GrimTrucker: posts big blind $50.00
+*** HOLE CARDS ***
+NutsBetOnly: raises $50.00 to $100.00
+rip_ridge: folds
+PANDAisEVIL: folds
+NijeGreska: raises $275.00 to $375.00
+GrimTrucker: folds
+NutsBetOnly: calls $275.00
+*** FLOP *** [Qd 8s Jh]
+NijeGreska: bets $325.00
+NutsBetOnly: calls $325.00
+*** TURN *** [Qd 8s Jh] [2d]
+NijeGreska: bets $4619.00 and is all-in
+NutsBetOnly: folds
+Uncalled bet ($4619.00) returned to NijeGreska
+NijeGreska collected $1447.00 from pot
+NijeGreska: doesn't show hand
+*** SUMMARY ***
+Total pot $1450.00 | Rake $3.00
+Board [Qd 8s Jh 2d]
+Seat 2: NutsBetOnly folded on the Turn
+Seat 3: rip_ridge folded before Flop (didn't bet)
+Seat 4: PANDAisEVIL (button) folded before Flop (didn't bet)
+Seat 5: NijeGreska (small blind) collected ($1447.00)
+Seat 6: GrimTrucker (big blind) folded before Flop
+
+PokerStars Hand #1495534414:  Hold'em No Limit ($25.00/$50.00 USD) - 2022/12/23 08:39:34 ET
+Table 'WPN_Energy' 6-max Seat #5 is the button
+Seat 1: Amancio_017 ($5273.25 in chips)
+Seat 2: NutsBetOnly ($1300.00 in chips)
+Seat 3: rip_ridge ($3525.00 in chips)
+Seat 4: PANDAisEVIL ($5000.00 in chips)
+Seat 5: NijeGreska ($6066.00 in chips)
+Seat 6: GrimTrucker ($5000.00 in chips)
+GrimTrucker: posts small blind $25.00
+Amancio_017: posts big blind $50.00
+*** HOLE CARDS ***
+NutsBetOnly: raises $50.00 to $100.00
+rip_ridge: folds
+PANDAisEVIL: folds
+NijeGreska: raises $150.00 to $250.00
+GrimTrucker: folds
+Amancio_017: folds
+NutsBetOnly: folds
+Uncalled bet ($150.00) returned to NijeGreska
+NijeGreska collected $275.00 from pot
+NijeGreska: doesn't show hand
+*** SUMMARY ***
+Total pot $275.00 | Rake $0.00
+Seat 1: Amancio_017 (big blind) folded before Flop
+Seat 2: NutsBetOnly folded before Flop
+Seat 3: rip_ridge folded before Flop (didn't bet)
+Seat 4: PANDAisEVIL folded before Flop (didn't bet)
+Seat 5: NijeGreska (button) collected ($275.00)
+Seat 6: GrimTrucker (small blind) folded before Flop
+
+PokerStars Hand #1495534695:  Hold'em No Limit ($25.00/$50.00 USD) - 2022/12/23 08:40:06 ET
+Table 'WPN_Energy' 6-max Seat #6 is the button
+Seat 1: Amancio_017 ($5223.25 in chips)
+Seat 2: NutsBetOnly ($1900.00 in chips)
+Seat 3: rip_ridge ($3525.00 in chips)
+Seat 4: PANDAisEVIL ($5000.00 in chips)
+Seat 5: NijeGreska ($6241.00 in chips)
+Seat 6: GrimTrucker ($5000.00 in chips)
+Amancio_017: posts small blind $25.00
+PANDAisEVIL: posts big blind $50.00
+*** HOLE CARDS ***
+NijeGreska: raises $62.50 to $112.50
+GrimTrucker: raises $287.50 to $400.00
+Amancio_017: folds
+PANDAisEVIL: folds
+NijeGreska: folds
+Uncalled bet ($287.50) returned to GrimTrucker
+GrimTrucker collected $300.00 from pot
+GrimTrucker: doesn't show hand
+*** SUMMARY ***
+Total pot $300.00 | Rake $0.00
+Seat 1: Amancio_017 (small blind) folded before Flop
+Seat 4: PANDAisEVIL (big blind) folded before Flop
+Seat 5: NijeGreska folded before Flop
+Seat 6: GrimTrucker (button) collected ($300.00)
+
+PokerStars Hand #1495535020:  Hold'em No Limit ($25.00/$50.00 USD) - 2022/12/23 08:40:43 ET
+Table 'WPN_Energy' 6-max Seat #1 is the button
+Seat 1: Amancio_017 ($5198.25 in chips)
+Seat 2: Padishar ($5000.00 in chips)
+Seat 4: PANDAisEVIL ($5000.00 in chips)
+Seat 6: GrimTrucker ($5187.50 in chips)
+PANDAisEVIL: posts small blind $25.00
+GrimTrucker: posts big blind $50.00
+*** HOLE CARDS ***
+Amancio_017: raises $62.50 to $112.50
+PANDAisEVIL: folds
+GrimTrucker: calls $62.50
+*** FLOP *** [8s Kh 9d]
+GrimTrucker: checks
+Amancio_017: bets $82.50
+GrimTrucker: calls $82.50
+*** TURN *** [8s Kh 9d] [Qd]
+GrimTrucker: checks
+Amancio_017: checks
+*** RIVER *** [8s Kh 9d Qd] [7d]
+GrimTrucker: bets $415.00
+Amancio_017: folds
+Uncalled bet ($415.00) returned to GrimTrucker
+GrimTrucker collected $413.25 from pot
+GrimTrucker: doesn't show hand
+*** SUMMARY ***
+Total pot $415.00 | Rake $1.75
+Board [8s Kh 9d Qd 7d]
+Seat 1: Amancio_017 (button) folded on the River
+Seat 4: PANDAisEVIL (small blind) folded before Flop
+Seat 6: GrimTrucker (big blind) collected ($413.25)
+
+PokerStars Hand #1495535467:  Hold'em No Limit ($25.00/$50.00 USD) - 2022/12/23 08:41:36 ET
+Table 'WPN_Energy' 6-max Seat #4 is the button
+Seat 1: Amancio_017 ($5003.25 in chips)
+Seat 2: Padishar ($5000.00 in chips)
+Seat 4: PANDAisEVIL ($5000.00 in chips)
+Seat 5: ATARAX1A ($5075.00 in chips)
+Seat 6: GrimTrucker ($5405.75 in chips)
+GrimTrucker: posts small blind $25.00
+Amancio_017: posts big blind $50.00
+*** HOLE CARDS ***
+PANDAisEVIL: raises $60.00 to $110.00
+GrimTrucker: folds
+Amancio_017: folds
+Uncalled bet ($60.00) returned to PANDAisEVIL
+PANDAisEVIL collected $125.00 from pot
+PANDAisEVIL: doesn't show hand
+*** SUMMARY ***
+Total pot $125.00 | Rake $0.00
+Seat 1: Amancio_017 (big blind) folded before Flop
+Seat 4: PANDAisEVIL (button) collected ($125.00)
+Seat 6: GrimTrucker (small blind) folded before Flop
+
+PokerStars Hand #1495535563:  Hold'em No Limit ($25.00/$50.00 USD) - 2022/12/23 08:41:48 ET
+Table 'WPN_Energy' 6-max Seat #6 is the button
+Seat 1: Amancio_017 ($4953.25 in chips)
+Seat 2: Padishar ($5000.00 in chips)
+Seat 4: PANDAisEVIL ($5075.00 in chips)
+Seat 5: ATARAX1A ($5075.00 in chips)
+Seat 6: GrimTrucker ($5380.75 in chips)
+Amancio_017: posts small blind $25.00
+Padishar: posts big blind $50.00
+*** HOLE CARDS ***
+PANDAisEVIL: raises $60.00 to $110.00
+GrimTrucker: folds
+Amancio_017: folds
+Padishar: folds
+Uncalled bet ($60.00) returned to PANDAisEVIL
+PANDAisEVIL collected $125.00 from pot
+PANDAisEVIL: doesn't show hand
+*** SUMMARY ***
+Total pot $125.00 | Rake $0.00
+Seat 1: Amancio_017 (small blind) folded before Flop
+Seat 2: Padishar (big blind) folded before Flop
+Seat 4: PANDAisEVIL collected ($125.00)
+Seat 6: GrimTrucker (button) folded before Flop (didn't bet)
+
+PokerStars Hand #1495535724:  Hold'em No Limit ($25.00/$50.00 USD) - 2022/12/23 08:42:06 ET
+Table 'WPN_Energy' 6-max Seat #1 is the button
+Seat 1: Amancio_017 ($5000.00 in chips)
+Seat 2: Padishar ($4950.00 in chips)
+Seat 4: PANDAisEVIL ($5150.00 in chips)
+Seat 5: ATARAX1A ($5075.00 in chips)
+Seat 6: GrimTrucker ($5380.75 in chips)
+Padishar: posts small blind $25.00
+ATARAX1A: posts big blind $50.00
+*** HOLE CARDS ***
+GrimTrucker: folds
+Amancio_017: raises $62.50 to $112.50
+Padishar: folds
+ATARAX1A: folds
+Uncalled bet ($62.50) returned to Amancio_017
+Amancio_017 collected $125.00 from pot
+Amancio_017: doesn't show hand
+*** SUMMARY ***
+Total pot $125.00 | Rake $0.00
+Seat 1: Amancio_017 (button) collected ($125.00)
+Seat 2: Padishar (small blind) folded before Flop
+Seat 5: ATARAX1A (big blind) folded before Flop
+Seat 6: GrimTrucker folded before Flop (didn't bet)
+
+PokerStars Hand #1495535896:  Hold'em No Limit ($25.00/$50.00 USD) - 2022/12/23 08:42:25 ET
+Table 'WPN_Energy' 6-max Seat #2 is the button
+Seat 1: Amancio_017 ($5075.00 in chips)
+Seat 2: Padishar ($5000.00 in chips)
+Seat 5: ATARAX1A ($5025.00 in chips)
+Seat 6: GrimTrucker ($5380.75 in chips)
+ATARAX1A: posts small blind $25.00
+GrimTrucker: posts big blind $50.00
+*** HOLE CARDS ***
+Amancio_017: folds
+Padishar: raises $75.00 to $125.00
+ATARAX1A: folds
+GrimTrucker: calls $75.00
+*** FLOP *** [6h 3d Jc]
+GrimTrucker: checks
+Padishar: checks
+*** TURN *** [6h 3d Jc] [Jh]
+GrimTrucker: checks
+Padishar: bets $182.50
+GrimTrucker: calls $182.50
+*** RIVER *** [6h 3d Jc Jh] [7s]
+GrimTrucker: checks
+Padishar: bets $860.50
+GrimTrucker: calls $860.50
+*** SHOW DOWN ***
+Padishar: shows [Jd 8c]
+GrimTrucker: mucks hand
+Padishar collected $2358.75 from pot
+*** SUMMARY ***
+Total pot $2361.00 | Rake $2.25
+Board [6h 3d Jc Jh 7s]
+Seat 1: Amancio_017 folded before Flop (didn't bet)
+Seat 2: Padishar (button) showed [Jd 8c] and won ($2358.75)
+Seat 5: ATARAX1A (small blind) folded before Flop
+Seat 6: GrimTrucker (big blind) mucked
+
+PokerStars Hand #1495536778:  Hold'em No Limit ($25.00/$50.00 USD) - 2022/12/23 08:44:11 ET
+Table 'WPN_Energy' 6-max Seat #5 is the button
+Seat 1: Amancio_017 ($5075.00 in chips)
+Seat 2: Padishar ($6190.75 in chips)
+Seat 5: ATARAX1A ($5000.00 in chips)
+Seat 6: GrimTrucker ($5000.00 in chips)
+GrimTrucker: posts small blind $25.00
+Amancio_017: posts big blind $50.00
+*** HOLE CARDS ***
+Padishar: folds
+ATARAX1A: folds
+GrimTrucker: raises $100.00 to $150.00
+Amancio_017: raises $300.00 to $450.00
+GrimTrucker: folds
+Uncalled bet ($300.00) returned to Amancio_017
+Amancio_017 collected $300.00 from pot
+Amancio_017: doesn't show hand
+*** SUMMARY ***
+Total pot $300.00 | Rake $0.00
+Seat 1: Amancio_017 (big blind) collected ($300.00)
+Seat 2: Padishar folded before Flop (didn't bet)
+Seat 5: ATARAX1A (button) folded before Flop (didn't bet)
+Seat 6: GrimTrucker (small blind) folded before Flop
+
+PokerStars Hand #1495536976:  Hold'em No Limit ($25.00/$50.00 USD) - 2022/12/23 08:44:35 ET
+Table 'WPN_Energy' 6-max Seat #6 is the button
+Seat 1: Amancio_017 ($5225.00 in chips)
+Seat 5: ATARAX1A ($5000.00 in chips)
+Seat 6: GrimTrucker ($4850.00 in chips)
+Amancio_017: posts small blind $25.00
+ATARAX1A: posts big blind $50.00
+*** HOLE CARDS ***
+GrimTrucker: raises $75.00 to $125.00
+Amancio_017: folds
+ATARAX1A: folds
+Uncalled bet ($75.00) returned to GrimTrucker
+GrimTrucker collected $125.00 from pot
+GrimTrucker: doesn't show hand
+*** SUMMARY ***
+Total pot $125.00 | Rake $0.00
+Seat 1: Amancio_017 (small blind) folded before Flop
+Seat 5: ATARAX1A (big blind) folded before Flop
+Seat 6: GrimTrucker (button) collected ($125.00)
+
+PokerStars Hand #1495537105:  Hold'em No Limit ($25.00/$50.00 USD) - 2022/12/23 08:44:53 ET
+Table 'WPN_Energy' 6-max Seat #1 is the button
+Seat 1: Amancio_017 ($5200.00 in chips)
+Seat 5: ATARAX1A ($4950.00 in chips)
+Seat 6: GrimTrucker ($5075.00 in chips)
+ATARAX1A: posts small blind $25.00
+GrimTrucker: posts big blind $50.00
+*** HOLE CARDS ***
+Amancio_017: raises $62.50 to $112.50
+ATARAX1A: folds
+GrimTrucker: folds
+Uncalled bet ($62.50) returned to Amancio_017
+Amancio_017 collected $125.00 from pot
+Amancio_017: doesn't show hand
+*** SUMMARY ***
+Total pot $125.00 | Rake $0.00
+Seat 1: Amancio_017 (button) collected ($125.00)
+Seat 5: ATARAX1A (small blind) folded before Flop
+Seat 6: GrimTrucker (big blind) folded before Flop
+
+PokerStars Hand #1495539058:  Hold'em No Limit ($25.00/$50.00 USD) - 2022/12/23 08:49:18 ET
+Table 'WPN_Flemingsburg' 6-max Seat #3 is the button
+Seat 3: Amancio_017 ($2000.00 in chips)
+Seat 6: GrimTrucker ($5000.00 in chips)
+Amancio_017: posts the ante $250.00
+GrimTrucker: posts the ante $250.00
+*** HOLE CARDS ***
+*** FLOP *** [2h 9d Qs]
+GrimTrucker: checks
+Amancio_017: checks
+*** TURN *** [2h 9d Qs] [4s]
+GrimTrucker: checks
+Amancio_017: checks
+*** RIVER *** [2h 9d Qs 4s] [Qh]
+GrimTrucker: bets $150.00
+Amancio_017: calls $150.00
+*** SHOW DOWN ***
+GrimTrucker: shows [4c Ks]
+Amancio_017: mucks hand
+GrimTrucker collected $798.75 from pot
+*** SUMMARY ***
+Total pot $800.00 | Rake $1.25
+Board [2h 9d Qs 4s Qh]
+Seat 3: Amancio_017 (button) mucked
+Seat 6: GrimTrucker showed [4c Ks] and won ($798.75)
+
+PokerStars Hand #1495539548:  Hold'em No Limit ($25.00/$50.00 USD) - 2022/12/23 08:50:04 ET
+Table 'WPN_Flemingsburg' 6-max Seat #3 is the button
+Seat 1: FlyingStyle ($5000.00 in chips)
+Seat 2: ILoveRoeland2 ($5000.00 in chips)
+Seat 3: Amancio_017 ($5000.00 in chips)
+Seat 4: Pr.Lupine ($2000.00 in chips)
+Seat 6: GrimTrucker ($5398.75 in chips)
+Pr.Lupine: posts small blind $25.00
+GrimTrucker: posts big blind $50.00
+*** HOLE CARDS ***
+FlyingStyle: folds
+ILoveRoeland2: raises $60.00 to $110.00
+Amancio_017: folds
+Pr.Lupine: folds
+GrimTrucker: calls $60.00
+*** FLOP *** [Ah 7c 5s]
+GrimTrucker: checks
+ILoveRoeland2: bets $80.85
+GrimTrucker: folds
+Uncalled bet ($80.85) returned to ILoveRoeland2
+ILoveRoeland2 collected $242.00 from pot
+ILoveRoeland2: doesn't show hand
+*** SUMMARY ***
+Total pot $245.00 | Rake $3.00
+Board [Ah 7c 5s]
+Seat 1: FlyingStyle folded before Flop (didn't bet)
+Seat 2: ILoveRoeland2 collected ($242.00)
+Seat 3: Amancio_017 (button) folded before Flop (didn't bet)
+Seat 4: Pr.Lupine (small blind) folded before Flop
+Seat 6: GrimTrucker (big blind) folded on the Flop
+
+PokerStars Hand #1495539785:  Hold'em No Limit ($25.00/$50.00 USD) - 2022/12/23 08:50:36 ET
+Table 'WPN_Flemingsburg' 6-max Seat #4 is the button
+Seat 2: ILoveRoeland2 ($5132.00 in chips)
+Seat 3: Amancio_017 ($5000.00 in chips)
+Seat 4: Pr.Lupine ($1975.00 in chips)
+Seat 5: ATARAX1A ($5000.00 in chips)
+Seat 6: GrimTrucker ($5288.75 in chips)
+GrimTrucker: posts small blind $25.00
+Amancio_017: posts big blind $50.00
+*** HOLE CARDS ***
+Pr.Lupine: folds
+GrimTrucker: raises $100.00 to $150.00
+Amancio_017: calls $100.00
+*** FLOP *** [4h Kd 2h]
+GrimTrucker: checks
+Amancio_017: checks
+*** TURN *** [4h Kd 2h] [Qc]
+GrimTrucker: bets $450.00
+Amancio_017: folds
+Uncalled bet ($450.00) returned to GrimTrucker
+GrimTrucker collected $298.25 from pot
+GrimTrucker: doesn't show hand
+*** SUMMARY ***
+Total pot $300.00 | Rake $1.75
+Board [4h Kd 2h Qc]
+Seat 3: Amancio_017 (big blind) folded on the Turn
+Seat 4: Pr.Lupine (button) folded before Flop (didn't bet)
+Seat 6: GrimTrucker (small blind) collected ($298.25)
+
+PokerStars Hand #1495540192:  Hold'em No Limit ($25.00/$50.00 USD) - 2022/12/23 08:51:25 ET
+Table 'WPN_Flemingsburg' 6-max Seat #6 is the button
+Seat 3: Amancio_017 ($4850.00 in chips)
+Seat 5: ATARAX1A ($5000.00 in chips)
+Seat 6: GrimTrucker ($5437.00 in chips)
+Amancio_017: posts small blind $25.00
+ATARAX1A: posts big blind $50.00
+*** HOLE CARDS ***
+GrimTrucker: raises $75.00 to $125.00
+Amancio_017: folds
+ATARAX1A: folds
+Uncalled bet ($75.00) returned to GrimTrucker
+GrimTrucker collected $125.00 from pot
+GrimTrucker: doesn't show hand
+*** SUMMARY ***
+Total pot $125.00 | Rake $0.00
+Seat 3: Amancio_017 (small blind) folded before Flop
+Seat 5: ATARAX1A (big blind) folded before Flop
+Seat 6: GrimTrucker (button) collected ($125.00)
+
+PokerStars Hand #1495540343:  Hold'em No Limit ($25.00/$50.00 USD) - 2022/12/23 08:51:43 ET
+Table 'WPN_Flemingsburg' 6-max Seat #3 is the button
+Seat 3: Amancio_017 ($5000.00 in chips)
+Seat 5: ATARAX1A ($4950.00 in chips)
+Seat 6: GrimTrucker ($5512.00 in chips)
+ATARAX1A: posts small blind $25.00
+GrimTrucker: posts big blind $50.00
+*** HOLE CARDS ***
+Amancio_017: folds
+ATARAX1A: folds
+Uncalled bet ($25.00) returned to GrimTrucker
+GrimTrucker collected $50.00 from pot
+GrimTrucker: doesn't show hand
+*** SUMMARY ***
+Total pot $50.00 | Rake $0.00
+Seat 3: Amancio_017 (button) folded before Flop (didn't bet)
+Seat 5: ATARAX1A (small blind) folded before Flop
+Seat 6: GrimTrucker (big blind) collected ($50.00)
+
+PokerStars Hand #1495540453:  Hold'em No Limit ($25.00/$50.00 USD) - 2022/12/23 08:51:57 ET
+Table 'WPN_Flemingsburg' 6-max Seat #5 is the button
+Seat 3: Amancio_017 ($5000.00 in chips)
+Seat 5: ATARAX1A ($4975.00 in chips)
+Seat 6: GrimTrucker ($5537.00 in chips)
+GrimTrucker: posts small blind $25.00
+Amancio_017: posts big blind $50.00
+*** HOLE CARDS ***
+ATARAX1A: raises $100.00 to $150.00
+GrimTrucker: folds
+Amancio_017: folds
+Uncalled bet ($100.00) returned to ATARAX1A
+ATARAX1A collected $125.00 from pot
+ATARAX1A: doesn't show hand
+*** SUMMARY ***
+Total pot $125.00 | Rake $0.00
+Seat 3: Amancio_017 (big blind) folded before Flop
+Seat 5: ATARAX1A (button) collected ($125.00)
+Seat 6: GrimTrucker (small blind) folded before Flop
+
+PokerStars Hand #1495540566:  Hold'em No Limit ($25.00/$50.00 USD) - 2022/12/23 08:52:26 ET
+Table 'WPN_Flemingsburg' 6-max Seat #3 is the button
+Seat 3: Amancio_017 ($4950.00 in chips)
+Seat 5: ATARAX1A ($5075.00 in chips)
+Seat 6: GrimTrucker ($5512.00 in chips)
+Amancio_017: posts the ante $250.00
+ATARAX1A: posts the ante $250.00
+GrimTrucker: posts the ante $250.00
+*** HOLE CARDS ***
+*** FLOP *** [Qd Kc Ac]
+ATARAX1A: checks
+GrimTrucker: checks
+Amancio_017: checks
+*** TURN *** [Qd Kc Ac] [4c]
+ATARAX1A: checks
+GrimTrucker: checks
+Amancio_017: checks
+*** RIVER *** [Qd Kc Ac 4c] [Jc]
+ATARAX1A: checks
+GrimTrucker: checks
+Amancio_017: bets $247.50
+ATARAX1A: calls $247.50
+GrimTrucker: folds
+*** SHOW DOWN ***
+Amancio_017: shows [8c 8s]
+ATARAX1A: mucks hand
+Amancio_017 collected $1243.25 from pot
+*** SUMMARY ***
+Total pot $1245.00 | Rake $1.75
+Board [Qd Kc Ac 4c Jc]
+Seat 3: Amancio_017 (button) showed [8c 8s] and won ($1243.25)
+Seat 5: ATARAX1A mucked
+Seat 6: GrimTrucker folded on the River
+
+PokerStars Hand #1495541081:  Hold'em No Limit ($25.00/$50.00 USD) - 2022/12/23 08:53:18 ET
+Table 'WPN_Flemingsburg' 6-max Seat #6 is the button
+Seat 3: Amancio_017 ($5745.75 in chips)
+Seat 5: ATARAX1A ($5000.00 in chips)
+Seat 6: GrimTrucker ($5262.00 in chips)
+Amancio_017: posts small blind $25.00
+GrimTrucker: posts big blind $50.00
+*** HOLE CARDS ***
+Amancio_017: folds
+Uncalled bet ($25.00) returned to GrimTrucker
+GrimTrucker collected $50.00 from pot
+GrimTrucker: doesn't show hand
+*** SUMMARY ***
+Total pot $50.00 | Rake $0.00
+Seat 3: Amancio_017 (small blind) folded before Flop
+Seat 6: GrimTrucker (button) (big blind) collected ($50.00)
+
+PokerStars Hand #1495541157:  Hold'em No Limit ($25.00/$50.00 USD) - 2022/12/23 08:53:28 ET
+Table 'WPN_Flemingsburg' 6-max Seat #6 is the button
+Seat 3: Amancio_017 ($5720.75 in chips)
+Seat 6: GrimTrucker ($5287.00 in chips)
+GrimTrucker: posts small blind $25.00
+Amancio_017: posts big blind $50.00
+*** HOLE CARDS ***
+GrimTrucker: raises $75.00 to $125.00
+Amancio_017: calls $75.00
+*** FLOP *** [Qd 4s 5h]
+Amancio_017: checks
+GrimTrucker: bets $125.00
+Amancio_017: calls $125.00
+*** TURN *** [Qd 4s 5h] [7d]
+Amancio_017: checks
+GrimTrucker: bets $375.00
+Amancio_017: folds
+Uncalled bet ($375.00) returned to GrimTrucker
+GrimTrucker collected $498.75 from pot
+GrimTrucker: doesn't show hand
+*** SUMMARY ***
+Total pot $500.00 | Rake $1.25
+Board [Qd 4s 5h 7d]
+Seat 3: Amancio_017 (big blind) folded on the Turn
+Seat 6: GrimTrucker (button) (small blind) collected ($498.75)
+
+PokerStars Hand #1495152933:  Hold'em No Limit ($25.00/$50.00 USD) - 2022/12/23 01:59:46 ET
+Table 'WPN_Bushnell' 6-max Seat #5 is the button
+Seat 2: 7SkyAroundMe ($5000.00 in chips)
+Seat 5: StevenDiabolic ($5206.25 in chips)
+StevenDiabolic: posts small blind $25.00
+7SkyAroundMe: posts big blind $50.00
+*** HOLE CARDS ***
+StevenDiabolic: folds
+Uncalled bet ($25.00) returned to 7SkyAroundMe
+7SkyAroundMe collected $50.00 from pot
+7SkyAroundMe: doesn't show hand
+*** SUMMARY ***
+Total pot $50.00 | Rake $0.00
+Seat 2: 7SkyAroundMe (big blind) collected ($50.00)
+Seat 5: StevenDiabolic (button) (small blind) folded before Flop
+
+PokerStars Hand #1495022044:  Hold'em No Limit ($25.00/$50.00 USD) - 2022/12/23 00:13:00 ET
+Table 'WPN_Bushnell' 6-max Seat #5 is the button
+Seat 2: 7SkyAroundMe ($5305.10 in chips)
+Seat 5: MrBaguette ($4925.00 in chips)
+MrBaguette: posts small blind $25.00
+7SkyAroundMe: posts big blind $50.00
+*** HOLE CARDS ***
+MrBaguette: raises $60.00 to $110.00
+7SkyAroundMe: calls $60.00
+*** FLOP *** [3s 9d 3c]
+7SkyAroundMe: checks
+MrBaguette: checks
+*** TURN *** [3s 9d 3c] [6c]
+7SkyAroundMe: bets $55.00
+MrBaguette: calls $55.00
+*** RIVER *** [3s 9d 3c 6c] [7d]
+7SkyAroundMe: checks
+MrBaguette: bets $222.50
+7SkyAroundMe: folds
+Uncalled bet ($222.50) returned to MrBaguette
+MrBaguette collected $328.75 from pot
+MrBaguette: doesn't show hand
+*** SUMMARY ***
+Total pot $330.00 | Rake $1.25
+Board [3s 9d 3c 6c 7d]
+Seat 2: 7SkyAroundMe (big blind) folded on the River
+Seat 5: MrBaguette (button) (small blind) collected ($328.75)
+
+PokerStars Hand #1495021171:  Hold'em No Limit ($25.00/$50.00 USD) - 2022/12/23 00:12:20 ET
+Table 'WPN_Bushnell' 6-max Seat #2 is the button
+Seat 2: 7SkyAroundMe ($5181.35 in chips)
+Seat 5: MrBaguette ($5050.00 in chips)
+7SkyAroundMe: posts small blind $25.00
+MrBaguette: posts big blind $50.00
+*** HOLE CARDS ***
+7SkyAroundMe: raises $75.00 to $125.00
+MrBaguette: calls $75.00
+*** FLOP *** [3d 3c 2h]
+MrBaguette: checks
+7SkyAroundMe: bets $250.00
+MrBaguette: folds
+Uncalled bet ($250.00) returned to 7SkyAroundMe
+7SkyAroundMe collected $248.75 from pot
+7SkyAroundMe: doesn't show hand
+*** SUMMARY ***
+Total pot $250.00 | Rake $1.25
+Board [3d 3c 2h]
+Seat 2: 7SkyAroundMe (button) (small blind) collected ($248.75)
+Seat 5: MrBaguette (big blind) folded on the Flop
+
+PokerStars Hand #1494986349:  Hold'em No Limit ($25.00/$50.00 USD) - 2022/12/22 23:40:48 ET
+Table 'WPN_Barbourmeade' 6-max Seat #4 is the button
+Seat 4: rigggedeck ($2398.75 in chips)
+Seat 5: dekikun ($5000.00 in chips)
+rigggedeck: posts small blind $25.00
+dekikun: posts big blind $50.00
+*** HOLE CARDS ***
+rigggedeck: raises $75.00 to $125.00
+dekikun: calls $75.00
+*** FLOP *** [7c 2c 5s]
+dekikun: checks
+rigggedeck: bets $186.56
+dekikun: calls $186.56
+*** TURN *** [7c 2c 5s] [Qs]
+dekikun: checks
+rigggedeck: checks
+*** RIVER *** [7c 2c 5s Qs] [4c]
+dekikun: bets $932.80
+rigggedeck: folds
+Uncalled bet ($932.80) returned to dekikun
+dekikun collected $621.87 from pot
+dekikun: doesn't show hand
+*** SUMMARY ***
+Total pot $623.12 | Rake $1.25
+Board [7c 2c 5s Qs 4c]
+Seat 4: rigggedeck (button) (small blind) folded on the River
+Seat 5: dekikun (big blind) collected ($621.87)
+
+PokerStars Hand #1494987751:  Hold'em No Limit ($25.00/$50.00 USD) - 2022/12/22 23:41:55 ET
+Table 'WPN_Barbourmeade' 6-max Seat #5 is the button
+Seat 4: rigggedeck ($2087.19 in chips)
+Seat 5: dekikun ($5310.31 in chips)
+dekikun: posts small blind $25.00
+rigggedeck: posts big blind $50.00
+*** HOLE CARDS ***
+dekikun: raises $60.00 to $110.00
+rigggedeck: calls $60.00
+*** FLOP *** [Js 8d 4s]
+rigggedeck: checks
+dekikun: bets $65.62
+rigggedeck: folds
+Uncalled bet ($65.62) returned to dekikun
+dekikun collected $218.75 from pot
+dekikun: doesn't show hand
+*** SUMMARY ***
+Total pot $220.00 | Rake $1.25
+Board [Js 8d 4s]
+Seat 4: rigggedeck (big blind) folded on the Flop
+Seat 5: dekikun (button) (small blind) collected ($218.75)
+
+PokerStars Hand #1494988395:  Hold'em No Limit ($25.00/$50.00 USD) - 2022/12/22 23:42:24 ET
+Table 'WPN_Barbourmeade' 6-max Seat #6 is the button
+Seat 4: rigggedeck ($1977.19 in chips)
+Seat 6: luxpoker ($5000.00 in chips)
+luxpoker: posts small blind $25.00
+rigggedeck: posts big blind $50.00
+*** HOLE CARDS ***
+luxpoker: raises $75.00 to $125.00
+rigggedeck: raises $1852.19 to $1977.19 and is all-in
+luxpoker: folds
+Uncalled bet ($1852.19) returned to rigggedeck
+rigggedeck collected $250.00 from pot
+rigggedeck: doesn't show hand
+*** SUMMARY ***
+Total pot $250.00 | Rake $0.00
+Seat 4: rigggedeck (big blind) collected ($250.00)
+Seat 6: luxpoker (button) (small blind) folded before Flop
+
+PokerStars Hand #1494989482:  Hold'em No Limit ($25.00/$50.00 USD) - 2022/12/22 23:43:14 ET
+Table 'WPN_Barbourmeade' 6-max Seat #4 is the button
+Seat 4: rigggedeck ($2102.19 in chips)
+Seat 6: luxpoker ($4875.00 in chips)
+rigggedeck: posts small blind $25.00
+luxpoker: posts big blind $50.00
+*** HOLE CARDS ***
+rigggedeck: folds
+Uncalled bet ($25.00) returned to luxpoker
+luxpoker collected $50.00 from pot
+luxpoker: doesn't show hand
+*** SUMMARY ***
+Total pot $50.00 | Rake $0.00
+Seat 4: rigggedeck (button) (small blind) folded before Flop
+Seat 6: luxpoker (big blind) collected ($50.00)
+
+PokerStars Hand #1494989925:  Hold'em No Limit ($25.00/$50.00 USD) - 2022/12/22 23:43:36 ET
+Table 'WPN_Barbourmeade' 6-max Seat #4 is the button
+Seat 2: MrBaguette ($2000.00 in chips)
+Seat 4: rigggedeck ($2077.19 in chips)
+rigggedeck: posts small blind $25.00
+MrBaguette: posts big blind $50.00
+*** HOLE CARDS ***
+rigggedeck: raises $75.00 to $125.00
+MrBaguette: folds
+Uncalled bet ($75.00) returned to rigggedeck
+rigggedeck collected $100.00 from pot
+rigggedeck: doesn't show hand
+*** SUMMARY ***
+Total pot $100.00 | Rake $0.00
+Seat 2: MrBaguette (big blind) folded before Flop
+Seat 4: rigggedeck (button) (small blind) collected ($100.00)
+
+PokerStars Hand #1494990148:  Hold'em No Limit ($25.00/$50.00 USD) - 2022/12/22 23:43:46 ET
+Table 'WPN_Barbourmeade' 6-max Seat #2 is the button
+Seat 2: MrBaguette ($1950.00 in chips)
+Seat 4: rigggedeck ($2127.19 in chips)
+MrBaguette: posts small blind $25.00
+rigggedeck: posts big blind $50.00
+*** HOLE CARDS ***
+MrBaguette: raises $50.00 to $100.00
+rigggedeck: calls $50.00
+*** FLOP *** [Kc 6s 9h]
+rigggedeck: checks
+MrBaguette: checks
+*** TURN *** [Kc 6s 9h] [Qd]
+rigggedeck: bets $149.06
+MrBaguette: folds
+Uncalled bet ($149.06) returned to rigggedeck
+rigggedeck collected $198.75 from pot
+rigggedeck: doesn't show hand
+*** SUMMARY ***
+Total pot $200.00 | Rake $1.25
+Board [Kc 6s 9h Qd]
+Seat 2: MrBaguette (button) (small blind) folded on the Turn
+Seat 4: rigggedeck (big blind) collected ($198.75)
+
+PokerStars Hand #1494990787:  Hold'em No Limit ($25.00/$50.00 USD) - 2022/12/22 23:44:31 ET
+Table 'WPN_Barbourmeade' 6-max Seat #4 is the button
+Seat 2: MrBaguette ($4900.00 in chips)
+Seat 4: rigggedeck ($2225.94 in chips)
+MrBaguette: posts the ante $250.00
+rigggedeck: posts the ante $250.00
+*** HOLE CARDS ***
+*** FLOP *** [6d 8h 7h]
+MrBaguette: bets $350.00
+rigggedeck: calls $350.00
+*** TURN *** [6d 8h 7h] [Kh]
+MrBaguette: checks
+rigggedeck: bets $359.62
+MrBaguette: raises $2878.86 to $3238.48
+rigggedeck: calls $1266.32 and is all-in
+Uncalled bet ($1612.54) returned to MrBaguette
+*** FIRST RIVER *** [6d 8h 7h Kh] [Jd]
+*** SECOND RIVER *** [6d 8h 7h Kh] [4c]
+*** FIRST SHOW DOWN ***
+MrBaguette: shows [5s 8c]
+rigggedeck: shows [Ah Ac]
+rigggedeck collected $2225.32 from pot
+*** SECOND SHOW DOWN ***
+MrBaguette: shows [5s 8c]
+rigggedeck: shows [Ah Ac]
+MrBaguette collected $2225.31 from pot
+*** SUMMARY ***
+Total pot $4451.88 | Rake $1.25
+Hand was run twice
+FIRST Board [6d 8h 7h Kh Jd]
+SECOND Board [6d 8h 7h Kh 4c]
+Seat 2: MrBaguette showed [5s 8c] and lost, and won ($2225.31)
+Seat 4: rigggedeck (button) showed [Ah Ac] and won ($2225.32), and lost
+
+PokerStars Hand #1494992612:  Hold'em No Limit ($25.00/$50.00 USD) - 2022/12/22 23:45:43 ET
+Table 'WPN_Barbourmeade' 6-max Seat #4 is the button
+Seat 2: MrBaguette ($5000.00 in chips)
+Seat 4: rigggedeck ($2225.32 in chips)
+rigggedeck: posts small blind $25.00
+MrBaguette: posts big blind $50.00
+*** HOLE CARDS ***
+rigggedeck: raises $75.00 to $125.00
+MrBaguette: folds
+Uncalled bet ($75.00) returned to rigggedeck
+rigggedeck collected $100.00 from pot
+rigggedeck: doesn't show hand
+*** SUMMARY ***
+Total pot $100.00 | Rake $0.00
+Seat 2: MrBaguette (big blind) folded before Flop
+Seat 4: rigggedeck (button) (small blind) collected ($100.00)
+
+PokerStars Hand #1494993078:  Hold'em No Limit ($25.00/$50.00 USD) - 2022/12/22 23:46:05 ET
+Table 'WPN_Barbourmeade' 6-max Seat #2 is the button
+Seat 2: MrBaguette ($4950.00 in chips)
+Seat 4: rigggedeck ($2275.32 in chips)
+MrBaguette: posts small blind $25.00
+rigggedeck: posts big blind $50.00
+*** HOLE CARDS ***
+MrBaguette: raises $50.00 to $100.00
+rigggedeck: calls $50.00
+*** FLOP *** [7c Ks Ad]
+rigggedeck: checks
+MrBaguette: bets $60.00
+rigggedeck: calls $60.00
+*** TURN *** [7c Ks Ad] [7d]
+rigggedeck: checks
+MrBaguette: checks
+*** RIVER *** [7c Ks Ad 7d] [Qc]
+rigggedeck: checks
+MrBaguette: bets $215.00
+rigggedeck: calls $215.00
+*** SHOW DOWN ***
+MrBaguette: shows [2h Ac]
+rigggedeck: mucks hand
+MrBaguette collected $748.75 from pot
+*** SUMMARY ***
+Total pot $750.00 | Rake $1.25
+Board [7c Ks Ad 7d Qc]
+Seat 2: MrBaguette (button) (small blind) showed [2h Ac] and won ($748.75)
+Seat 4: rigggedeck (big blind) mucked
+
+PokerStars Hand #1494994177:  Hold'em No Limit ($25.00/$50.00 USD) - 2022/12/22 23:46:56 ET
+Table 'WPN_Barbourmeade' 6-max Seat #4 is the button
+Seat 2: MrBaguette ($5373.75 in chips)
+Seat 4: rigggedeck ($1900.32 in chips)
+rigggedeck: posts small blind $25.00
+MrBaguette: posts big blind $50.00
+*** HOLE CARDS ***
+rigggedeck: raises $75.00 to $125.00
+MrBaguette: raises $325.00 to $450.00
+rigggedeck: folds
+Uncalled bet ($325.00) returned to MrBaguette
+MrBaguette collected $250.00 from pot
+MrBaguette: doesn't show hand
+*** SUMMARY ***
+Total pot $250.00 | Rake $0.00
+Seat 2: MrBaguette (big blind) collected ($250.00)
+Seat 4: rigggedeck (button) (small blind) folded before Flop
+
+PokerStars Hand #1494994542:  Hold'em No Limit ($25.00/$50.00 USD) - 2022/12/22 23:47:13 ET
+Table 'WPN_Barbourmeade' 6-max Seat #2 is the button
+Seat 2: MrBaguette ($5498.75 in chips)
+Seat 4: rigggedeck ($1775.32 in chips)
+MrBaguette: posts small blind $25.00
+rigggedeck: posts big blind $50.00
+*** HOLE CARDS ***
+MrBaguette: raises $50.00 to $100.00
+rigggedeck: calls $50.00
+*** FLOP *** [8d 6c Jh]
+rigggedeck: checks
+MrBaguette: checks
+*** TURN *** [8d 6c Jh] [8s]
+rigggedeck: checks
+MrBaguette: checks
+*** RIVER *** [8d 6c Jh 8s] [3c]
+rigggedeck: bets $300.00
+MrBaguette: folds
+Uncalled bet ($300.00) returned to rigggedeck
+rigggedeck collected $198.75 from pot
+rigggedeck: doesn't show hand
+*** SUMMARY ***
+Total pot $200.00 | Rake $1.25
+Board [8d 6c Jh 8s 3c]
+Seat 2: MrBaguette (button) (small blind) folded on the River
+Seat 4: rigggedeck (big blind) collected ($198.75)
+
+PokerStars Hand #1494995567:  Hold'em No Limit ($25.00/$50.00 USD) - 2022/12/22 23:48:02 ET
+Table 'WPN_Barbourmeade' 6-max Seat #4 is the button
+Seat 2: MrBaguette ($5398.75 in chips)
+Seat 4: rigggedeck ($1874.07 in chips)
+rigggedeck: posts small blind $25.00
+MrBaguette: posts big blind $50.00
+*** HOLE CARDS ***
+rigggedeck: raises $65.00 to $115.00
+MrBaguette: calls $65.00
+*** FLOP *** [2c Ks Kh]
+MrBaguette: checks
+rigggedeck: checks
+*** TURN *** [2c Ks Kh] [Kc]
+MrBaguette: bets $122.50
+rigggedeck: folds
+Uncalled bet ($122.50) returned to MrBaguette
+MrBaguette collected $228.75 from pot
+MrBaguette: doesn't show hand
+*** SUMMARY ***
+Total pot $230.00 | Rake $1.25
+Board [2c Ks Kh Kc]
+Seat 2: MrBaguette (big blind) collected ($228.75)
+Seat 4: rigggedeck (button) (small blind) folded on the Turn
+
+PokerStars Hand #1494996239:  Hold'em No Limit ($25.00/$50.00 USD) - 2022/12/22 23:48:33 ET
+Table 'WPN_Barbourmeade' 6-max Seat #2 is the button
+Seat 2: MrBaguette ($5512.50 in chips)
+Seat 4: rigggedeck ($1759.07 in chips)
+MrBaguette: posts small blind $25.00
+rigggedeck: posts big blind $50.00
+*** HOLE CARDS ***
+MrBaguette: raises $50.00 to $100.00
+rigggedeck: folds
+Uncalled bet ($50.00) returned to MrBaguette
+MrBaguette collected $100.00 from pot
+MrBaguette: doesn't show hand
+*** SUMMARY ***
+Total pot $100.00 | Rake $0.00
+Seat 2: MrBaguette (button) (small blind) collected ($100.00)
+Seat 4: rigggedeck (big blind) folded before Flop
+
+PokerStars Hand #1494996530:  Hold'em No Limit ($25.00/$50.00 USD) - 2022/12/22 23:48:48 ET
+Table 'WPN_Barbourmeade' 6-max Seat #4 is the button
+Seat 2: MrBaguette ($5562.50 in chips)
+Seat 4: rigggedeck ($1709.07 in chips)
+rigggedeck: posts small blind $25.00
+MrBaguette: posts big blind $50.00
+*** HOLE CARDS ***
+rigggedeck: raises $65.00 to $115.00
+MrBaguette: folds
+Uncalled bet ($65.00) returned to rigggedeck
+rigggedeck collected $100.00 from pot
+rigggedeck: doesn't show hand
+*** SUMMARY ***
+Total pot $100.00 | Rake $0.00
+Seat 2: MrBaguette (big blind) folded before Flop
+Seat 4: rigggedeck (button) (small blind) collected ($100.00)
+
+PokerStars Hand #1494996797:  Hold'em No Limit ($25.00/$50.00 USD) - 2022/12/22 23:49:01 ET
+Table 'WPN_Barbourmeade' 6-max Seat #2 is the button
+Seat 2: MrBaguette ($5512.50 in chips)
+Seat 4: rigggedeck ($1759.07 in chips)
+MrBaguette: posts small blind $25.00
+rigggedeck: posts big blind $50.00
+*** HOLE CARDS ***
+MrBaguette: raises $50.00 to $100.00
+rigggedeck: calls $50.00
+*** FLOP *** [6h Ts 5s]
+rigggedeck: checks
+MrBaguette: checks
+*** TURN *** [6h Ts 5s] [7c]
+rigggedeck: bets $249.06
+MrBaguette: folds
+Uncalled bet ($249.06) returned to rigggedeck
+rigggedeck collected $198.75 from pot
+rigggedeck: doesn't show hand
+*** SUMMARY ***
+Total pot $200.00 | Rake $1.25
+Board [6h Ts 5s 7c]
+Seat 2: MrBaguette (button) (small blind) folded on the Turn
+Seat 4: rigggedeck (big blind) collected ($198.75)
+
+PokerStars Hand #1494997444:  Hold'em No Limit ($25.00/$50.00 USD) - 2022/12/22 23:49:33 ET
+Table 'WPN_Barbourmeade' 6-max Seat #4 is the button
+Seat 2: MrBaguette ($5412.50 in chips)
+Seat 4: rigggedeck ($1857.82 in chips)
+rigggedeck: posts small blind $25.00
+MrBaguette: posts big blind $50.00
+*** HOLE CARDS ***
+rigggedeck: raises $65.00 to $115.00
+MrBaguette: calls $65.00
+*** FLOP *** [7c 8s 2h]
+MrBaguette: checks
+rigggedeck: checks
+*** TURN *** [7c 8s 2h] [Ks]
+MrBaguette: bets $172.50
+rigggedeck: calls $172.50
+*** RIVER *** [7c 8s 2h Ks] [Jc]
+MrBaguette: bets $862.50
+rigggedeck: folds
+Uncalled bet ($862.50) returned to MrBaguette
+MrBaguette collected $573.75 from pot
+MrBaguette: doesn't show hand
+*** SUMMARY ***
+Total pot $575.00 | Rake $1.25
+Board [7c 8s 2h Ks Jc]
+Seat 2: MrBaguette (big blind) collected ($573.75)
+Seat 4: rigggedeck (button) (small blind) folded on the River
+
+PokerStars Hand #1494998365:  Hold'em No Limit ($25.00/$50.00 USD) - 2022/12/22 23:50:17 ET
+Table 'WPN_Barbourmeade' 6-max Seat #2 is the button
+Seat 2: MrBaguette ($5698.75 in chips)
+Seat 4: rigggedeck ($1570.32 in chips)
+MrBaguette: posts small blind $25.00
+rigggedeck: posts big blind $50.00
+*** HOLE CARDS ***
+MrBaguette: raises $50.00 to $100.00
+rigggedeck: folds
+Uncalled bet ($50.00) returned to MrBaguette
+MrBaguette collected $100.00 from pot
+MrBaguette: doesn't show hand
+*** SUMMARY ***
+Total pot $100.00 | Rake $0.00
+Seat 2: MrBaguette (button) (small blind) collected ($100.00)
+Seat 4: rigggedeck (big blind) folded before Flop
+
+PokerStars Hand #1494998578:  Hold'em No Limit ($25.00/$50.00 USD) - 2022/12/22 23:50:27 ET
+Table 'WPN_Barbourmeade' 6-max Seat #4 is the button
+Seat 2: MrBaguette ($5748.75 in chips)
+Seat 4: rigggedeck ($1520.32 in chips)
+rigggedeck: posts small blind $25.00
+MrBaguette: posts big blind $50.00
+*** HOLE CARDS ***
+rigggedeck: raises $50.00 to $100.00
+MrBaguette: calls $50.00
+*** FLOP *** [7c Ac Ad]
+MrBaguette: checks
+rigggedeck: bets $50.00
+MrBaguette: folds
+Uncalled bet ($50.00) returned to rigggedeck
+rigggedeck collected $198.75 from pot
+rigggedeck: doesn't show hand
+*** SUMMARY ***
+Total pot $200.00 | Rake $1.25
+Board [7c Ac Ad]
+Seat 2: MrBaguette (big blind) folded on the Flop
+Seat 4: rigggedeck (button) (small blind) collected ($198.75)
+
+PokerStars Hand #1494999248:  Hold'em No Limit ($25.00/$50.00 USD) - 2022/12/22 23:50:58 ET
+Table 'WPN_Barbourmeade' 6-max Seat #2 is the button
+Seat 2: MrBaguette ($5648.75 in chips)
+Seat 4: rigggedeck ($1619.07 in chips)
+MrBaguette: posts small blind $25.00
+rigggedeck: posts big blind $50.00
+*** HOLE CARDS ***
+MrBaguette: raises $50.00 to $100.00
+rigggedeck: calls $50.00
+*** FLOP *** [Kd 9c Td]
+rigggedeck: checks
+MrBaguette: checks
+*** TURN *** [Kd 9c Td] [3s]
+rigggedeck: bets $298.12
+MrBaguette: folds
+Uncalled bet ($298.12) returned to rigggedeck
+rigggedeck collected $198.75 from pot
+rigggedeck: doesn't show hand
+*** SUMMARY ***
+Total pot $200.00 | Rake $1.25
+Board [Kd 9c Td 3s]
+Seat 2: MrBaguette (button) (small blind) folded on the Turn
+Seat 4: rigggedeck (big blind) collected ($198.75)
+
+PokerStars Hand #1494999887:  Hold'em No Limit ($25.00/$50.00 USD) - 2022/12/22 23:51:29 ET
+Table 'WPN_Barbourmeade' 6-max Seat #4 is the button
+Seat 2: MrBaguette ($5548.75 in chips)
+Seat 4: rigggedeck ($1717.82 in chips)
+rigggedeck: posts small blind $25.00
+MrBaguette: posts big blind $50.00
+*** HOLE CARDS ***
+rigggedeck: raises $50.00 to $100.00
+MrBaguette: raises $5448.75 to $5548.75 and is all-in
+rigggedeck: folds
+Uncalled bet ($5448.75) returned to MrBaguette
+MrBaguette collected $200.00 from pot
+MrBaguette: doesn't show hand
+*** SUMMARY ***
+Total pot $200.00 | Rake $0.00
+Seat 2: MrBaguette (big blind) collected ($200.00)
+Seat 4: rigggedeck (button) (small blind) folded before Flop
+
+PokerStars Hand #1495000184:  Hold'em No Limit ($25.00/$50.00 USD) - 2022/12/22 23:51:43 ET
+Table 'WPN_Barbourmeade' 6-max Seat #2 is the button
+Seat 2: MrBaguette ($5648.75 in chips)
+Seat 4: rigggedeck ($1617.82 in chips)
+MrBaguette: posts small blind $25.00
+rigggedeck: posts big blind $50.00
+*** HOLE CARDS ***
+MrBaguette: raises $50.00 to $100.00
+rigggedeck: folds
+Uncalled bet ($50.00) returned to MrBaguette
+MrBaguette collected $100.00 from pot
+MrBaguette: doesn't show hand
+*** SUMMARY ***
+Total pot $100.00 | Rake $0.00
+Seat 2: MrBaguette (button) (small blind) collected ($100.00)
+Seat 4: rigggedeck (big blind) folded before Flop
+
+PokerStars Hand #1495000427:  Hold'em No Limit ($25.00/$50.00 USD) - 2022/12/22 23:51:55 ET
+Table 'WPN_Barbourmeade' 6-max Seat #4 is the button
+Seat 2: MrBaguette ($5698.75 in chips)
+Seat 4: rigggedeck ($1567.82 in chips)
+rigggedeck: posts small blind $25.00
+MrBaguette: posts big blind $50.00
+*** HOLE CARDS ***
+rigggedeck: raises $65.00 to $115.00
+MrBaguette: calls $65.00
+*** FLOP *** [3c 2c Ts]
+MrBaguette: checks
+rigggedeck: bets $68.62
+MrBaguette: folds
+Uncalled bet ($68.62) returned to rigggedeck
+rigggedeck collected $228.75 from pot
+rigggedeck: doesn't show hand
+*** SUMMARY ***
+Total pot $230.00 | Rake $1.25
+Board [3c 2c Ts]
+Seat 2: MrBaguette (big blind) folded on the Flop
+Seat 4: rigggedeck (button) (small blind) collected ($228.75)
+
+PokerStars Hand #1495014662:  Hold'em No Limit ($25.00/$50.00 USD) - 2022/12/23 00:07:11 ET
+Table 'WPN_Barbourmeade' 6-max Seat #2 is the button
+Seat 2: MrBaguette ($5583.75 in chips)
+Seat 4: rigggedeck ($2027.73 in chips)
+MrBaguette: posts small blind $25.00
+rigggedeck: posts big blind $50.00
+*** HOLE CARDS ***
+MrBaguette: raises $50.00 to $100.00
+rigggedeck: folds
+Uncalled bet ($50.00) returned to MrBaguette
+MrBaguette collected $100.00 from pot
+MrBaguette: doesn't show hand
+*** SUMMARY ***
+Total pot $100.00 | Rake $0.00
+Seat 2: MrBaguette (button) (small blind) collected ($100.00)
+Seat 4: rigggedeck (big blind) folded before Flop
+
+PokerStars Hand #1495014957:  Hold'em No Limit ($25.00/$50.00 USD) - 2022/12/23 00:07:25 ET
+Table 'WPN_Barbourmeade' 6-max Seat #2 is the button
+Seat 2: MrBaguette ($5633.75 in chips)
+Seat 4: rigggedeck ($1977.73 in chips)
+Seat 5: dekikun ($5419.06 in chips)
+rigggedeck: posts small blind $25.00
+dekikun: posts big blind $50.00
+*** HOLE CARDS ***
+MrBaguette: folds
+rigggedeck: raises $100.00 to $150.00
+dekikun: calls $100.00
+*** FLOP *** [4s 8s Kh]
+rigggedeck: checks
+dekikun: checks
+*** TURN *** [4s 8s Kh] [4d]
+rigggedeck: bets $89.47
+dekikun: folds
+Uncalled bet ($89.47) returned to rigggedeck
+rigggedeck collected $298.25 from pot
+rigggedeck: doesn't show hand
+*** SUMMARY ***
+Total pot $300.00 | Rake $1.75
+Board [4s 8s Kh 4d]
+Seat 2: MrBaguette (button) folded before Flop (didn't bet)
+Seat 4: rigggedeck (small blind) collected ($298.25)
+Seat 5: dekikun (big blind) folded on the Turn
+
+PokerStars Hand #1495015981:  Hold'em No Limit ($25.00/$50.00 USD) - 2022/12/23 00:08:12 ET
+Table 'WPN_Barbourmeade' 6-max Seat #4 is the button
+Seat 1: nutsforme100 ($5000.00 in chips)
+Seat 2: MrBaguette ($5633.75 in chips)
+Seat 4: rigggedeck ($2822.99 in chips)
+Seat 5: dekikun ($5269.06 in chips)
+dekikun: posts small blind $25.00
+nutsforme100: posts big blind $50.00
+*** HOLE CARDS ***
+MrBaguette: folds
+rigggedeck: folds
+dekikun: folds
+Uncalled bet ($25.00) returned to nutsforme100
+nutsforme100 collected $50.00 from pot
+nutsforme100: doesn't show hand
+*** SUMMARY ***
+Total pot $50.00 | Rake $0.00
+Seat 1: nutsforme100 (big blind) collected ($50.00)
+Seat 2: MrBaguette folded before Flop (didn't bet)
+Seat 4: rigggedeck (button) folded before Flop (didn't bet)
+Seat 5: dekikun (small blind) folded before Flop
+
+PokerStars Hand #1495016208:  Hold'em No Limit ($25.00/$50.00 USD) - 2022/12/23 00:08:23 ET
+Table 'WPN_Barbourmeade' 6-max Seat #5 is the button
+Seat 1: nutsforme100 ($5025.00 in chips)
+Seat 2: MrBaguette ($5633.75 in chips)
+Seat 4: rigggedeck ($2822.99 in chips)
+Seat 5: dekikun ($5244.06 in chips)
+nutsforme100: posts small blind $25.00
+MrBaguette: posts big blind $50.00
+*** HOLE CARDS ***
+rigggedeck: folds
+dekikun: folds
+nutsforme100: folds
+Uncalled bet ($25.00) returned to MrBaguette
+MrBaguette collected $50.00 from pot
+MrBaguette: doesn't show hand
+*** SUMMARY ***
+Total pot $50.00 | Rake $0.00
+Seat 1: nutsforme100 (small blind) folded before Flop
+Seat 2: MrBaguette (big blind) collected ($50.00)
+Seat 4: rigggedeck folded before Flop (didn't bet)
+Seat 5: dekikun (button) folded before Flop (didn't bet)
+
+PokerStars Hand #1495016457:  Hold'em No Limit ($25.00/$50.00 USD) - 2022/12/23 00:08:35 ET
+Table 'WPN_Barbourmeade' 6-max Seat #1 is the button
+Seat 1: nutsforme100 ($5000.00 in chips)
+Seat 2: MrBaguette ($5658.75 in chips)
+Seat 4: rigggedeck ($2822.99 in chips)
+Seat 5: dekikun ($5244.06 in chips)
+MrBaguette: posts small blind $25.00
+rigggedeck: posts big blind $50.00
+*** HOLE CARDS ***
+dekikun: folds
+nutsforme100: raises $75.00 to $125.00
+MrBaguette: folds
+rigggedeck: calls $75.00
+*** FLOP *** [Ks 4d 8s]
+rigggedeck: checks
+nutsforme100: checks
+*** TURN *** [Ks 4d 8s] [4s]
+rigggedeck: bets $81.82
+nutsforme100: folds
+Uncalled bet ($81.82) returned to rigggedeck
+rigggedeck collected $272.75 from pot
+rigggedeck: doesn't show hand
+*** SUMMARY ***
+Total pot $275.00 | Rake $2.25
+Board [Ks 4d 8s 4s]
+Seat 1: nutsforme100 (button) folded on the Turn
+Seat 2: MrBaguette (small blind) folded before Flop
+Seat 4: rigggedeck (big blind) collected ($272.75)
+Seat 5: dekikun folded before Flop (didn't bet)
+
+PokerStars Hand #1495017426:  Hold'em No Limit ($25.00/$50.00 USD) - 2022/12/23 00:09:21 ET
+Table 'WPN_Barbourmeade' 6-max Seat #2 is the button
+Seat 1: nutsforme100 ($4875.00 in chips)
+Seat 2: MrBaguette ($5633.75 in chips)
+Seat 4: rigggedeck ($2970.74 in chips)
+rigggedeck: posts small blind $25.00
+MrBaguette: posts big blind $50.00
+*** HOLE CARDS ***
+rigggedeck: folds
+Uncalled bet ($25.00) returned to MrBaguette
+MrBaguette collected $50.00 from pot
+MrBaguette: doesn't show hand
+*** SUMMARY ***
+Total pot $50.00 | Rake $0.00
+Seat 2: MrBaguette (button) (big blind) collected ($50.00)
+Seat 4: rigggedeck (small blind) folded before Flop
+
+PokerStars Hand #1495018559:  Hold'em No Limit ($25.00/$50.00 USD) - 2022/12/23 00:10:16 ET
+Table 'WPN_Barbourmeade' 6-max Seat #2 is the button
+Seat 2: MrBaguette ($5658.75 in chips)
+Seat 6: 7SkyAroundMe ($5000.00 in chips)
+MrBaguette: posts small blind $25.00
+7SkyAroundMe: posts big blind $50.00
+*** HOLE CARDS ***
+MrBaguette: raises $60.00 to $110.00
+7SkyAroundMe: calls $60.00
+*** FLOP *** [8s 4c 2h]
+7SkyAroundMe: checks
+MrBaguette: bets $275.00
+7SkyAroundMe: folds
+Uncalled bet ($275.00) returned to MrBaguette
+MrBaguette collected $218.75 from pot
+MrBaguette: doesn't show hand
+*** SUMMARY ***
+Total pot $220.00 | Rake $1.25
+Board [8s 4c 2h]
+Seat 2: MrBaguette (button) (small blind) collected ($218.75)
+Seat 6: 7SkyAroundMe (big blind) folded on the Flop
+
+PokerStars Hand #1495019571:  Hold'em No Limit ($25.00/$50.00 USD) - 2022/12/23 00:11:17 ET
+Table 'WPN_Barbourmeade' 6-max Seat #6 is the button
+Seat 2: MrBaguette ($5767.50 in chips)
+Seat 6: 7SkyAroundMe ($4890.00 in chips)
+MrBaguette: posts the ante $250.00
+7SkyAroundMe: posts the ante $250.00
+*** HOLE CARDS ***
+*** FLOP *** [9c 9d Ks]
+MrBaguette: checks
+7SkyAroundMe: bets $125.00
+MrBaguette: folds
+Uncalled bet ($125.00) returned to 7SkyAroundMe
+7SkyAroundMe collected $498.75 from pot
+7SkyAroundMe: doesn't show hand
+*** SUMMARY ***
+Total pot $500.00 | Rake $1.25
+Board [9c 9d Ks]
+Seat 2: MrBaguette folded on the Flop
+Seat 6: 7SkyAroundMe (button) collected ($498.75)
+
+PokerStars Hand #1495018603:  Hold'em No Limit ($25.00/$50.00 USD) - 2022/12/23 00:10:18 ET
+Table 'WPN_Bushnell' 6-max Seat #5 is the button
+Seat 2: 7SkyAroundMe ($5000.00 in chips)
+Seat 5: MrBaguette ($5000.00 in chips)
+MrBaguette: posts small blind $25.00
+7SkyAroundMe: posts big blind $50.00
+*** HOLE CARDS ***
+MrBaguette: raises $60.00 to $110.00
+7SkyAroundMe: calls $60.00
+*** FLOP *** [2d Kc 8c]
+7SkyAroundMe: checks
+MrBaguette: checks
+*** TURN *** [2d Kc 8c] [Tc]
+7SkyAroundMe: bets $72.60
+MrBaguette: calls $72.60
+*** RIVER *** [2d Kc 8c Tc] [7h]
+7SkyAroundMe: bets $241.03
+MrBaguette: folds
+Uncalled bet ($241.03) returned to 7SkyAroundMe
+7SkyAroundMe collected $363.95 from pot
+7SkyAroundMe: doesn't show hand
+*** SUMMARY ***
+Total pot $365.20 | Rake $1.25
+Board [2d Kc 8c Tc 7h]
+Seat 2: 7SkyAroundMe (big blind) collected ($363.95)
+Seat 5: MrBaguette (button) (small blind) folded on the River
+
+PokerStars Hand #1495020306:  Hold'em No Limit ($25.00/$50.00 USD) - 2022/12/23 00:11:39 ET
+Table 'WPN_Barbourmeade' 6-max Seat #6 is the button
+Seat 2: MrBaguette ($5517.50 in chips)
+Seat 6: 7SkyAroundMe ($5248.75 in chips)
+7SkyAroundMe: posts small blind $25.00
+MrBaguette: posts big blind $50.00
+*** HOLE CARDS ***
+7SkyAroundMe: raises $75.00 to $125.00
+MrBaguette: folds
+Uncalled bet ($75.00) returned to 7SkyAroundMe
+7SkyAroundMe collected $100.00 from pot
+7SkyAroundMe: doesn't show hand
+*** SUMMARY ***
+Total pot $100.00 | Rake $0.00
+Seat 2: MrBaguette (big blind) folded before Flop
+Seat 6: 7SkyAroundMe (button) (small blind) collected ($100.00)
+
+PokerStars Hand #1495020601:  Hold'em No Limit ($25.00/$50.00 USD) - 2022/12/23 00:11:52 ET
+Table 'WPN_Bushnell' 6-max Seat #2 is the button
+Seat 2: 7SkyAroundMe ($5181.35 in chips)
+Seat 5: MrBaguette ($4817.40 in chips)
+7SkyAroundMe: posts small blind $25.00
+MrBaguette: posts big blind $50.00
+*** HOLE CARDS ***
+7SkyAroundMe: raises $75.00 to $125.00
+MrBaguette: folds
+Uncalled bet ($75.00) returned to 7SkyAroundMe
+7SkyAroundMe collected $100.00 from pot
+7SkyAroundMe: doesn't show hand
+*** SUMMARY ***
+Total pot $100.00 | Rake $0.00
+Seat 2: 7SkyAroundMe (button) (small blind) collected ($100.00)
+Seat 5: MrBaguette (big blind) folded before Flop
+
+PokerStars Hand #1495020915:  Hold'em No Limit ($25.00/$50.00 USD) - 2022/12/23 00:12:07 ET
+Table 'WPN_Bushnell' 6-max Seat #5 is the button
+Seat 2: 7SkyAroundMe ($5231.35 in chips)
+Seat 5: MrBaguette ($4950.00 in chips)
+MrBaguette: posts small blind $25.00
+7SkyAroundMe: posts big blind $50.00
+*** HOLE CARDS ***
+MrBaguette: raises $60.00 to $110.00
+7SkyAroundMe: folds
+Uncalled bet ($60.00) returned to MrBaguette
+MrBaguette collected $100.00 from pot
+MrBaguette: doesn't show hand
+*** SUMMARY ***
+Total pot $100.00 | Rake $0.00
+Seat 2: 7SkyAroundMe (big blind) folded before Flop
+Seat 5: MrBaguette (button) (small blind) collected ($100.00)
+
+PokerStars Hand #1494984835:  Hold'em No Limit ($25.00/$50.00 USD) - 2022/12/22 23:39:52 ET
+Table 'WPN_Barbourmeade' 6-max Seat #4 is the button
+Seat 2: nutsforme100 ($5000.00 in chips)
+Seat 4: rigggedeck ($2000.00 in chips)
+Seat 5: dekikun ($5000.00 in chips)
+nutsforme100: posts the ante $250.00
+rigggedeck: posts the ante $250.00
+*** HOLE CARDS ***
+*** FLOP *** [4h Kc 3d]
+nutsforme100: checks
+rigggedeck: bets $150.00
+nutsforme100: calls $150.00
+*** TURN *** [4h Kc 3d] [3s]
+nutsforme100: checks
+rigggedeck: checks
+*** RIVER *** [4h Kc 3d 3s] [Th]
+nutsforme100: checks
+rigggedeck: checks
+*** SHOW DOWN ***
+rigggedeck: shows [4c Ac]
+nutsforme100: mucks hand
+rigggedeck collected $798.75 from pot
+*** SUMMARY ***
+Total pot $800.00 | Rake $1.25
+Board [4h Kc 3d 3s Th]
+Seat 2: nutsforme100 mucked
+Seat 4: rigggedeck (button) showed [4c Ac] and won ($798.75)
+
+PokerStars Hand #1494818091:  Hold'em No Limit ($25.00/$50.00 USD) - 2022/12/22 21:17:36 ET
+Table 'WPN_Fortuna' 6-max Seat #2 is the button
+Seat 1: OGORRA ($9539.75 in chips)
+Seat 3: dekikun ($5000.00 in chips)
+Seat 4: Avalan4 ($5000.00 in chips)
+Seat 5: BlunderSaurus ($5000.00 in chips)
+Seat 6: FlyingStyle ($5000.00 in chips)
+dekikun: posts small blind $25.00
+Avalan4: posts big blind $50.00
+*** HOLE CARDS ***
+BlunderSaurus: raises $60.00 to $110.00
+FlyingStyle: folds
+OGORRA: folds
+dekikun: folds
+Avalan4: folds
+Uncalled bet ($60.00) returned to BlunderSaurus
+BlunderSaurus collected $125.00 from pot
+BlunderSaurus: doesn't show hand
+*** SUMMARY ***
+Total pot $125.00 | Rake $0.00
+Seat 1: OGORRA folded before Flop (didn't bet)
+Seat 3: dekikun (small blind) folded before Flop
+Seat 4: Avalan4 (big blind) folded before Flop
+Seat 5: BlunderSaurus collected ($125.00)
+Seat 6: FlyingStyle folded before Flop (didn't bet)
+
+PokerStars Hand #1494818627:  Hold'em No Limit ($25.00/$50.00 USD) - 2022/12/22 21:18:03 ET
+Table 'WPN_Fortuna' 6-max Seat #3 is the button
+Seat 1: OGORRA ($9539.75 in chips)
+Seat 2: el0el ($5000.00 in chips)
+Seat 3: dekikun ($5000.00 in chips)
+Seat 4: Avalan4 ($4950.00 in chips)
+Seat 5: BlunderSaurus ($5075.00 in chips)
+Seat 6: FlyingStyle ($5000.00 in chips)
+Avalan4: posts small blind $25.00
+el0el: posts big blind $50.00
+*** HOLE CARDS ***
+dekikun: raises $75.00 to $125.00
+Avalan4: folds
+el0el: calls $75.00
+*** FLOP *** [3s Tc Js]
+el0el: checks
+dekikun: bets $81.97
+el0el: folds
+Uncalled bet ($81.97) returned to dekikun
+dekikun collected $273.25 from pot
+dekikun: doesn't show hand
+*** SUMMARY ***
+Total pot $275.00 | Rake $1.75
+Board [3s Tc Js]
+Seat 2: el0el (big blind) folded on the Flop
+Seat 3: dekikun (button) collected ($273.25)
+Seat 4: Avalan4 (small blind) folded before Flop
+
+PokerStars Hand #1494896203:  Hold'em No Limit ($25.00/$50.00 USD) - 2022/12/22 22:26:39 ET
+Table 'WPN_Weldon' 6-max Seat #4 is the button
+Seat 1: nutsforme100 ($5000.00 in chips)
+Seat 3: Avalan4 ($7119.39 in chips)
+Seat 4: OMGHilarious ($4726.00 in chips)
+Seat 5: OGORRA ($4550.00 in chips)
+Seat 6: dekikun ($5000.00 in chips)
+OGORRA: posts small blind $25.00
+dekikun: posts big blind $50.00
+*** HOLE CARDS ***
+Avalan4: folds
+OMGHilarious: raises $75.00 to $125.00
+OGORRA: folds
+dekikun: folds
+Uncalled bet ($75.00) returned to OMGHilarious
+OMGHilarious collected $125.00 from pot
+OMGHilarious: doesn't show hand
+*** SUMMARY ***
+Total pot $125.00 | Rake $0.00
+Seat 3: Avalan4 folded before Flop (didn't bet)
+Seat 4: OMGHilarious (button) collected ($125.00)
+Seat 5: OGORRA (small blind) folded before Flop
+Seat 6: dekikun (big blind) folded before Flop
+
+PokerStars Hand #1494896424:  Hold'em No Limit ($25.00/$50.00 USD) - 2022/12/22 22:26:52 ET
+Table 'WPN_Weldon' 6-max Seat #5 is the button
+Seat 1: nutsforme100 ($5000.00 in chips)
+Seat 3: Avalan4 ($7119.39 in chips)
+Seat 4: OMGHilarious ($4801.00 in chips)
+Seat 5: OGORRA ($4550.00 in chips)
+Seat 6: dekikun ($4950.00 in chips)
+dekikun: posts small blind $25.00
+nutsforme100: posts big blind $50.00
+*** HOLE CARDS ***
+Avalan4: folds
+OMGHilarious: folds
+OGORRA: raises $80.00 to $130.00
+dekikun: folds
+nutsforme100: folds
+Uncalled bet ($80.00) returned to OGORRA
+OGORRA collected $125.00 from pot
+OGORRA: doesn't show hand
+*** SUMMARY ***
+Total pot $125.00 | Rake $0.00
+Seat 1: nutsforme100 (big blind) folded before Flop
+Seat 3: Avalan4 folded before Flop (didn't bet)
+Seat 4: OMGHilarious folded before Flop (didn't bet)
+Seat 5: OGORRA (button) collected ($125.00)
+Seat 6: dekikun (small blind) folded before Flop
+
+PokerStars Hand #1494896991:  Hold'em No Limit ($25.00/$50.00 USD) - 2022/12/22 22:27:21 ET
+Table 'WPN_Weldon' 6-max Seat #6 is the button
+Seat 1: nutsforme100 ($4950.00 in chips)
+Seat 3: Avalan4 ($7119.39 in chips)
+Seat 4: OMGHilarious ($4801.00 in chips)
+Seat 5: OGORRA ($4625.00 in chips)
+Seat 6: dekikun ($5000.00 in chips)
+nutsforme100: posts small blind $25.00
+OGORRA: posts big blind $50.00
+*** HOLE CARDS ***
+dekikun: raises $75.00 to $125.00
+nutsforme100: folds
+OGORRA: calls $75.00
+*** FLOP *** [7c 5h 6d]
+OGORRA: checks
+dekikun: checks
+*** TURN *** [7c 5h 6d] [3d]
+OGORRA: bets $137.50
+dekikun: raises $279.60 to $417.10
+OGORRA: folds
+Uncalled bet ($279.60) returned to dekikun
+dekikun collected $548.25 from pot
+dekikun: doesn't show hand
+*** SUMMARY ***
+Total pot $550.00 | Rake $1.75
+Board [7c 5h 6d 3d]
+Seat 1: nutsforme100 (small blind) folded before Flop
+Seat 5: OGORRA (big blind) folded on the Turn
+Seat 6: dekikun (button) collected ($548.25)
+
+PokerStars Hand #1495969442:  Hold'em No Limit ($25.00/$50.00 USD) - 2022/12/23 20:39:34 ET
+Table 'WPN_Home' 6-max Seat #4 is the button
+Seat 1: IAmTheJeff ($5248.75 in chips)
+Seat 2: FlyingStyle ($5000.00 in chips)
+Seat 3: dekikun ($5000.00 in chips)
+Seat 4: OGORRA ($4375.00 in chips)
+Seat 6: nutsforme100 ($5000.00 in chips)
+nutsforme100: posts small blind $25.00
+IAmTheJeff: posts big blind $50.00
+*** HOLE CARDS ***
+FlyingStyle: folds
+dekikun: raises $60.00 to $110.00
+OGORRA: calls $110.00
+nutsforme100: folds
+IAmTheJeff: calls $60.00
+*** FLOP *** [2c Jh 9c]
+IAmTheJeff: checks
+dekikun: checks
+OGORRA: bets $102.95
+IAmTheJeff: folds
+dekikun: folds
+Uncalled bet ($102.95) returned to OGORRA
+OGORRA collected $352.00 from pot
+OGORRA: doesn't show hand
+*** SUMMARY ***
+Total pot $355.00 | Rake $3.00
+Board [2c Jh 9c]
+Seat 1: IAmTheJeff (big blind) folded on the Flop
+Seat 2: FlyingStyle folded before Flop (didn't bet)
+Seat 3: dekikun folded on the Flop
+Seat 4: OGORRA (button) collected ($352.00)
+Seat 6: nutsforme100 (small blind) folded before Flop
+

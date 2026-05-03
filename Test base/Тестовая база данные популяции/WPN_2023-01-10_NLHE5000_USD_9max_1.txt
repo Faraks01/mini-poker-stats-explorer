@@ -1,0 +1,91 @@
+PokerStars Hand #1516945155:  Hold'em No Limit ($25.00/$50.00 USD) - 2023/01/10 20:36:35 ET
+Table 'WPN_7 Day No Rathole 25/50 NLH 9-Max' 9-max Seat #1 is the button
+Seat 1: Dr.Jekyll ($2239.18 in chips)
+Seat 2: Sabazius ($896.50 in chips)
+Dr.Jekyll: posts small blind $25.00
+Sabazius: posts big blind $50.00
+*** HOLE CARDS ***
+Dr.Jekyll: calls $25.00
+Sabazius: checks
+*** FLOP *** [4c 3d Qh]
+Sabazius: checks
+Dr.Jekyll: bets $50.00
+Sabazius: folds
+Uncalled bet ($50.00) returned to Dr.Jekyll
+Dr.Jekyll collected $98.75 from pot
+Dr.Jekyll: doesn't show hand
+*** SUMMARY ***
+Total pot $100.00 | Rake $1.25
+Board [4c 3d Qh]
+Seat 1: Dr.Jekyll (button) (small blind) collected ($98.75)
+Seat 2: Sabazius (big blind) folded on the Flop
+
+PokerStars Hand #1516160612:  Hold'em No Limit ($25.00/$50.00 USD) - 2023/01/10 02:43:34 ET
+Table 'WPN_7 Day No Rathole 25/50 NLH 9-Max' 9-max Seat #5 is the button
+Seat 1: el0el ($16119.45 in chips)
+Seat 5: Dr.Jekyll ($2117.93 in chips)
+Dr.Jekyll: posts small blind $25.00
+el0el: posts big blind $50.00
+*** HOLE CARDS ***
+Dr.Jekyll: folds
+Uncalled bet ($25.00) returned to el0el
+el0el collected $50.00 from pot
+el0el: doesn't show hand
+*** SUMMARY ***
+Total pot $50.00 | Rake $0.00
+Seat 1: el0el (big blind) collected ($50.00)
+Seat 5: Dr.Jekyll (button) (small blind) folded before Flop
+
+PokerStars Hand #1516160858:  Hold'em No Limit ($25.00/$50.00 USD) - 2023/01/10 02:43:45 ET
+Table 'WPN_7 Day No Rathole 25/50 NLH 9-Max' 9-max Seat #1 is the button
+Seat 1: el0el ($16144.45 in chips)
+Seat 5: Dr.Jekyll ($2092.93 in chips)
+el0el: posts small blind $25.00
+Dr.Jekyll: posts big blind $50.00
+*** HOLE CARDS ***
+el0el: raises $50.00 to $100.00
+Dr.Jekyll: calls $50.00
+*** FLOP *** [Ac Jh 6h]
+Dr.Jekyll: checks
+el0el: checks
+*** TURN *** [Ac Jh 6h] [8c]
+Dr.Jekyll: checks
+el0el: checks
+*** RIVER *** [Ac Jh 6h 8c] [Ad]
+Dr.Jekyll: checks
+el0el: checks
+*** SHOW DOWN ***
+Dr.Jekyll: shows [8d Ts]
+el0el: mucks hand
+Dr.Jekyll collected $198.75 from pot
+*** SUMMARY ***
+Total pot $200.00 | Rake $1.25
+Board [Ac Jh 6h 8c Ad]
+Seat 1: el0el (button) (small blind) mucked
+Seat 5: Dr.Jekyll (big blind) showed [8d Ts] and won ($198.75)
+
+PokerStars Hand #1516161820:  Hold'em No Limit ($25.00/$50.00 USD) - 2023/01/10 02:44:26 ET
+Table 'WPN_7 Day No Rathole 25/50 NLH 9-Max' 9-max Seat #5 is the button
+Seat 1: el0el ($16044.45 in chips)
+Seat 5: Dr.Jekyll ($2191.68 in chips)
+Dr.Jekyll: posts small blind $25.00
+el0el: posts big blind $50.00
+*** HOLE CARDS ***
+Dr.Jekyll: raises $50.00 to $100.00
+el0el: calls $50.00
+*** FLOP *** [Qc 4s 8s]
+el0el: checks
+Dr.Jekyll: checks
+*** TURN *** [Qc 4s 8s] [Td]
+el0el: checks
+Dr.Jekyll: bets $145.00
+el0el: folds
+Uncalled bet ($145.00) returned to Dr.Jekyll
+Dr.Jekyll collected $198.75 from pot
+Dr.Jekyll: doesn't show hand
+*** SUMMARY ***
+Total pot $200.00 | Rake $1.25
+Board [Qc 4s 8s Td]
+Seat 1: el0el (big blind) folded on the Turn
+Seat 5: Dr.Jekyll (button) (small blind) collected ($198.75)
+

@@ -1,0 +1,183 @@
+
+Hand #1926540224 - Holdem(No Limit) - $50/$100 - 2023/11/11 00:28:15 UTC
+Coulterville 6-max Seat #5 is the button
+Seat 2: 7SkyAroundMe ($10623.75)
+Seat 5: SeaLlama ($22387.87)
+7SkyAroundMe posts ante $500
+SeaLlama posts ante $500
+*** HOLE CARDS *** 
+*** FLOP *** [Ac 9s Td]
+Main pot $998.75 | Rake $1.25
+7SkyAroundMe checks
+SeaLlama bets $100
+7SkyAroundMe calls $100
+*** TURN *** [Ac 9s Td] [6d]
+Main pot $1198.75 | Rake $1.25
+7SkyAroundMe checks
+SeaLlama bets $1200
+7SkyAroundMe calls $1200
+*** RIVER *** [Ac 9s Td 6d] [3h]
+Main pot $3598.75 | Rake $1.25
+7SkyAroundMe checks
+SeaLlama checks
+*** SHOW DOWN ***
+Main pot $3598.75 | Rake $1.25
+7SkyAroundMe shows [9h Kc]
+7SkyAroundMe collected $3598.75 from main pot
+*** SUMMARY ***
+BombPot
+Total pot $3598.75 | Rake $1.25
+Seat 2: 7SkyAroundMe showed [9h Kc] and won $3598.75 with OnePair [9s 9h Ac Kc Td]
+Seat 5: SeaLlama (button) did not showed and lost
+
+
+Hand #1926557883 - Holdem(No Limit) - $50/$100 - 2023/11/11 00:41:41 UTC
+Coulterville 6-max Seat #2 is the button
+Seat 2: 7SkyAroundMe ($17620.10)
+Seat 5: SeaLlama ($15377.77)
+7SkyAroundMe posts ante $500
+SeaLlama posts ante $500
+*** HOLE CARDS *** 
+*** FLOP *** [Tc 8d 5h]
+Main pot $998.75 | Rake $1.25
+SeaLlama checks
+7SkyAroundMe bets $100
+SeaLlama calls $100
+*** TURN *** [Tc 8d 5h] [Ac]
+Main pot $1198.75 | Rake $1.25
+SeaLlama checks
+7SkyAroundMe checks
+*** RIVER *** [Tc 8d 5h Ac] [Js]
+Main pot $1198.75 | Rake $1.25
+SeaLlama checks
+7SkyAroundMe checks
+*** SHOW DOWN ***
+Main pot $1198.75 | Rake $1.25
+SeaLlama shows [9h Qd]
+SeaLlama collected $1198.75 from main pot
+*** SUMMARY ***
+BombPot
+Total pot $1198.75 | Rake $1.25
+Seat 2: 7SkyAroundMe (button) did not showed and lost
+Seat 5: SeaLlama showed [9h Qd] and won $1198.75 with Straight [Qd Js Tc 9h 8d]
+
+
+Hand #1926574086 - Holdem(No Limit) - $50/$100 - 2023/11/11 00:53:46 UTC
+Coulterville 6-max Seat #5 is the button
+Seat 2: 7SkyAroundMe ($12774.33)
+Seat 5: SeaLlama ($28631.24)
+7SkyAroundMe posts ante $500
+SeaLlama posts ante $500
+*** HOLE CARDS *** 
+*** FLOP *** [3d Jd Ad]
+Main pot $998.75 | Rake $1.25
+7SkyAroundMe checks
+SeaLlama checks
+*** TURN *** [3d Jd Ad] [3s]
+Main pot $998.75 | Rake $1.25
+7SkyAroundMe bets $250
+SeaLlama folds
+Uncalled bet ($250) returned to 7SkyAroundMe
+7SkyAroundMe does not show
+*** SUMMARY ***
+BombPot
+Total pot $998.75 | Rake $1.25
+Seat 2: 7SkyAroundMe did not showed and won $998.75
+Seat 5: SeaLlama (button) folded on the Turn
+
+
+Hand #1926773305 - Holdem(No Limit) - $50/$100 - 2023/11/11 03:38:37 UTC
+Coulterville 6-max Seat #1 is the button
+Seat 1: jackstack99999 ($10000)
+Seat 4: lol voidaments ($10000)
+Seat 5: uhhhyesandno ($10000)
+Seat 6: honey_badger ($10000)
+jackstack99999 posts ante $500
+lol voidaments posts ante $500
+*** HOLE CARDS *** 
+*** FLOP *** [Jc 8c Qs]
+Main pot $998.75 | Rake $1.25
+lol voidaments checks
+jackstack99999 checks
+*** TURN *** [Jc 8c Qs] [3c]
+Main pot $998.75 | Rake $1.25
+lol voidaments checks
+jackstack99999 checks
+*** RIVER *** [Jc 8c Qs 3c] [3h]
+Main pot $998.75 | Rake $1.25
+lol voidaments checks
+jackstack99999 bets $500
+lol voidaments calls $500
+*** SHOW DOWN ***
+Main pot $998.75 | Rake $1.25
+jackstack99999 shows [2c Jd]
+lol voidaments shows [Js Td]
+jackstack99999 collected $999.37 from main pot
+lol voidaments collected $999.38 from main pot
+*** SUMMARY ***
+BombPot
+Total pot $1998.75 | Rake $1.25
+Seat 1: jackstack99999 (button) showed [2c Jd] and won $999.37 with TwoPair [Js Jc 3h 3c Qs]
+Seat 4: lol voidaments showed [Js Td] and won $999.38 with TwoPair [Js Jc 3h 3c Qs]
+
+
+Hand #1926788185 - Holdem(No Limit) - $50/$100 - 2023/11/11 03:51:31 UTC
+Coulterville 6-max Seat #1 is the button
+Seat 1: jackstack99999 ($10000)
+Seat 4: lol voidaments ($10150)
+jackstack99999 posts ante $500
+lol voidaments posts ante $500
+*** HOLE CARDS *** 
+*** FLOP *** [9d 6s 8h]
+Main pot $998.75 | Rake $1.25
+lol voidaments bets $300
+jackstack99999 calls $300
+*** TURN *** [9d 6s 8h] [2c]
+Main pot $1598.75 | Rake $1.25
+lol voidaments checks
+jackstack99999 checks
+*** RIVER *** [9d 6s 8h 2c] [7d]
+Main pot $1598.75 | Rake $1.25
+lol voidaments bets $480
+jackstack99999 calls $480
+*** SHOW DOWN ***
+Main pot $1598.75 | Rake $1.25
+jackstack99999 shows [Ks 5c]
+jackstack99999 collected $2558.75 from main pot
+*** SUMMARY ***
+BombPot
+Total pot $2558.75 | Rake $1.25
+Seat 1: jackstack99999 (button) showed [Ks 5c] and won $2558.75 with Straight [9d 8h 7d 6s 5c]
+Seat 4: lol voidaments did not showed and lost
+
+
+Hand #1927143885 - Holdem(No Limit) - $50/$100 - 2023/11/11 15:01:52 UTC
+Coulterville 6-max Seat #3 is the button
+Seat 2: 7SkyAroundMe ($10000)
+Seat 3: SeaLlama ($10000)
+Seat 4: FlyingStyle ($10000)
+7SkyAroundMe posts ante $500
+SeaLlama posts ante $500
+*** HOLE CARDS *** 
+*** FLOP *** [3c 9d Td]
+Main pot $998.75 | Rake $1.25
+7SkyAroundMe checks
+SeaLlama checks
+*** TURN *** [3c 9d Td] [6c]
+Main pot $998.75 | Rake $1.25
+7SkyAroundMe checks
+SeaLlama checks
+*** RIVER *** [3c 9d Td 6c] [Jd]
+Main pot $998.75 | Rake $1.25
+7SkyAroundMe checks
+SeaLlama checks
+*** SHOW DOWN ***
+Main pot $998.75 | Rake $1.25
+7SkyAroundMe shows [4d As]
+7SkyAroundMe collected $998.75 from main pot
+*** SUMMARY ***
+BombPot
+Total pot $998.75 | Rake $1.25
+Seat 2: 7SkyAroundMe showed [4d As] and won $998.75 with HighCard [As Jd Td 9d 6c]
+Seat 3: SeaLlama (button) did not showed and lost
+

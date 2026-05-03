@@ -1,0 +1,306 @@
+Hand #1820494914 - Holdem(No Limit) - $50/$100 - 2023/08/14 03:57:12 UTC
+7 Day No Rathole 50/100 NLH 9-max Seat #2 is the button
+Seat 2: Sabazius ($6504.12)
+Seat 7: CPUrul0r ($6481.70)
+Sabazius posts the small blind $50
+CPUrul0r posts the big blind $100
+*** HOLE CARDS *** 
+Sabazius raises $200 to $250
+CPUrul0r calls $150
+*** FLOP *** [3d Qd 9d]
+Main pot $498.75 | Rake $1.25
+CPUrul0r checks
+Sabazius checks
+*** TURN *** [3d Qd 9d] [8h]
+Main pot $498.75 | Rake $1.25
+CPUrul0r checks
+Sabazius bets $375
+CPUrul0r folds
+Uncalled bet ($375) returned to Sabazius
+Sabazius does not show
+*** SUMMARY ***
+Total pot $498.75 | Rake $1.25
+Seat 2: Sabazius (small blind) did not showed and won $498.75
+Seat 7: CPUrul0r (big blind) folded on the Turn
+
+
+Hand #1820495317 - Holdem(No Limit) - $50/$100 - 2023/08/14 03:58:37 UTC
+7 Day No Rathole 50/100 NLH 9-max Seat #7 is the button
+Seat 2: Sabazius ($6752.87)
+Seat 7: CPUrul0r ($6231.70)
+CPUrul0r posts the small blind $50
+Sabazius posts the big blind $100
+*** HOLE CARDS *** 
+CPUrul0r raises $200 to $250
+Sabazius calls $150
+*** FLOP *** [6s 8c 5s]
+Main pot $498.75 | Rake $1.25
+Sabazius checks
+CPUrul0r bets $361
+Sabazius calls $361
+*** TURN *** [6s 8c 5s] [2s]
+Main pot $1220.75 | Rake $1.25
+Sabazius checks
+CPUrul0r checks
+*** RIVER *** [6s 8c 5s 2s] [Ad]
+Main pot $1220.75 | Rake $1.25
+Sabazius checks
+CPUrul0r bets $970
+Sabazius folds
+Uncalled bet ($970) returned to CPUrul0r
+CPUrul0r does not show
+*** SUMMARY ***
+Total pot $1220.75 | Rake $1.25
+Seat 2: Sabazius (big blind) folded on the River
+Seat 7: CPUrul0r (small blind) did not showed and won $1220.75
+
+
+Hand #1820941477 - Holdem(No Limit) - $50/$100 - 2023/08/14 16:55:05 UTC
+7 Day No Rathole 50/100 NLH 9-max Seat #2 is the button
+Seat 2: badquality ($1000)
+Seat 7: DoublelegTD ($8270.56)
+badquality posts the small blind $50
+DoublelegTD posts the big blind $100
+*** HOLE CARDS *** 
+badquality calls $50
+DoublelegTD raises $1100 to $1200
+badquality folds
+Uncalled bet ($1100) returned to DoublelegTD
+DoublelegTD does not show
+*** SUMMARY ***
+Total pot $200
+Seat 2: badquality (small blind) folded on the Pre-Flop
+Seat 7: DoublelegTD (big blind) did not showed and won $200
+
+
+Hand #1820941624 - Holdem(No Limit) - $50/$100 - 2023/08/14 16:55:15 UTC
+7 Day No Rathole 50/100 NLH 9-max Seat #7 is the button
+Seat 2: badquality ($1000)
+Seat 7: DoublelegTD ($8370.56)
+DoublelegTD posts the small blind $50
+badquality posts the big blind $100
+*** HOLE CARDS *** 
+DoublelegTD raises $1150 to $1200
+badquality folds
+Uncalled bet ($1100) returned to DoublelegTD
+DoublelegTD does not show
+*** SUMMARY ***
+Total pot $200
+Seat 2: badquality (big blind) folded on the Pre-Flop
+Seat 7: DoublelegTD (small blind) did not showed and won $200
+
+
+Hand #1820941698 - Holdem(No Limit) - $50/$100 - 2023/08/14 16:55:25 UTC
+7 Day No Rathole 50/100 NLH 9-max Seat #2 is the button
+Seat 2: badquality ($1000)
+Seat 7: DoublelegTD ($8470.56)
+badquality posts the small blind $50
+DoublelegTD posts the big blind $100
+*** HOLE CARDS *** 
+badquality raises $950 to $1000 and is all-in
+DoublelegTD folds
+Uncalled bet ($900) returned to badquality
+badquality does not show
+*** SUMMARY ***
+Total pot $200
+Seat 2: badquality (small blind) did not showed and won $200
+Seat 7: DoublelegTD (big blind) folded on the Pre-Flop
+
+
+Hand #1820941776 - Holdem(No Limit) - $50/$100 - 2023/08/14 16:55:49 UTC
+7 Day No Rathole 50/100 NLH 9-max Seat #7 is the button
+Seat 2: badquality ($1100)
+Seat 7: DoublelegTD ($8370.56)
+DoublelegTD posts the small blind $50
+badquality posts the big blind $100
+*** HOLE CARDS *** 
+DoublelegTD raises $1150 to $1200
+badquality calls $1000 and is all-in
+Uncalled bet ($100) returned to DoublelegTD
+DoublelegTD does not show
+*** FLOP *** [Qd 6c 5d]
+Main pot $2198.75 | Rake $1.25
+*** TURN *** [Qd 6c 5d] [Ad]
+Main pot $2198.75 | Rake $1.25
+*** RIVER *** [Qd 6c 5d Ad] [Th]
+Main pot $2198.75 | Rake $1.25
+*** SHOW DOWN ***
+Main pot $2198.75 | Rake $1.25
+badquality shows [Tc Js] (a combo of some cards [Th Tc Ad Qd Js])
+DoublelegTD shows [3s 3c] (a combo of some cards [3s 3c Ad Qd Th])
+badquality collected $2198.75 from main pot
+*** SUMMARY ***
+Total pot $2198.75 | Rake $1.25
+Seat 2: badquality (big blind) showed [Tc Js] and won $2198.75 with OnePair [Th Tc Ad Qd Js]
+Seat 7: DoublelegTD (small blind) showed [3s 3c] and lost
+
+
+Hand #1820941998 - Holdem(No Limit) - $50/$100 - 2023/08/14 16:56:15 UTC
+7 Day No Rathole 50/100 NLH 9-max Seat #2 is the button
+Seat 2: badquality ($2198.75)
+Seat 7: DoublelegTD ($7270.56)
+Seat 8: oneplusone ($10000)
+badquality posts the small blind $50
+DoublelegTD posts the big blind $100
+*** HOLE CARDS *** 
+badquality folds
+*** SUMMARY ***
+Total pot $150
+Seat 2: badquality (small blind) folded on the Pre-Flop
+Seat 7: DoublelegTD (big blind) did not showed and won $150
+
+
+Hand #1820942118 - Holdem(No Limit) - $50/$100 - 2023/08/14 16:56:38 UTC
+7 Day No Rathole 50/100 NLH 9-max Seat #2 is the button
+Seat 2: badquality ($10000)
+Seat 3: xplo1t4bl3 ($10000)
+Seat 7: DoublelegTD ($7320.56)
+Seat 8: oneplusone ($1566.25)
+DoublelegTD posts the small blind $50
+oneplusone posts the big blind $100
+*** HOLE CARDS *** 
+badquality folds
+DoublelegTD raises $1550 to $1600
+oneplusone calls $1466.25 and is all-in
+Uncalled bet ($33.75) returned to DoublelegTD
+DoublelegTD does not show
+*** FLOP *** [4d 8c 2d]
+Main pot $3130.75 | Rake $1.75
+*** TURN *** [4d 8c 2d] [6s]
+Main pot $3130.75 | Rake $1.75
+*** RIVER *** [4d 8c 2d 6s] [Kc]
+Main pot $3130.75 | Rake $1.75
+*** SHOW DOWN ***
+Main pot $3130.75 | Rake $1.75
+DoublelegTD shows [5s 5h] (a combo of some cards [5s 5h Kc 8c 6s])
+oneplusone shows [As 9h] (a combo of some cards [As Kc 9h 8c 6s])
+DoublelegTD collected $3130.75 from main pot
+*** SUMMARY ***
+Total pot $3130.75 | Rake $1.75
+Seat 2: badquality (button) folded on the Pre-Flop and did not bet
+Seat 7: DoublelegTD (small blind) showed [5s 5h] and won $3130.75 with OnePair [5s 5h Kc 8c 6s]
+Seat 8: oneplusone (big blind) showed [As 9h] and lost
+
+
+Hand #1820942369 - Holdem(No Limit) - $50/$100 - 2023/08/14 16:57:17 UTC
+7 Day No Rathole 50/100 NLH 9-max Seat #7 is the button
+Seat 1: J0hnMcclean ($1000)
+Seat 2: badquality ($10000)
+Seat 3: xplo1t4bl3 ($10000)
+Seat 4: bigsoowoop ($10000)
+Seat 5: MaxHendrix ($10000)
+Seat 7: DoublelegTD ($8885.06)
+Seat 8: oneplusone ($10000)
+J0hnMcclean posts the big blind $100
+*** HOLE CARDS *** 
+badquality folds
+DoublelegTD raises $1200 to $1200
+J0hnMcclean folds
+Uncalled bet ($1100) returned to DoublelegTD
+DoublelegTD does not show
+*** SUMMARY ***
+Total pot $200
+Seat 1: J0hnMcclean (big blind) folded on the Pre-Flop
+Seat 2: badquality folded on the Pre-Flop and did not bet
+Seat 7: DoublelegTD (button) did not showed and won $200
+
+
+Hand #1820942599 - Holdem(No Limit) - $50/$100 - 2023/08/14 16:57:27 UTC
+7 Day No Rathole 50/100 NLH 9-max Seat #8 is the button
+Seat 1: J0hnMcclean ($900)
+Seat 2: badquality ($10000)
+Seat 3: xplo1t4bl3 ($2791.75)
+Seat 4: bigsoowoop ($10000)
+Seat 5: Nimble123 ($10000)
+Seat 7: DoublelegTD ($10000)
+Seat 8: oneplusone ($10000)
+J0hnMcclean posts the small blind $50
+xplo1t4bl3 posts the big blind $100
+*** HOLE CARDS *** 
+DoublelegTD folds
+J0hnMcclean folds
+*** SUMMARY ***
+Total pot $150
+Seat 1: J0hnMcclean (small blind) folded on the Pre-Flop
+Seat 3: xplo1t4bl3 (big blind) did not showed and won $150
+Seat 7: DoublelegTD folded on the Pre-Flop and did not bet
+
+
+Hand #1820942674 - Holdem(No Limit) - $50/$100 - 2023/08/14 16:58:06 UTC
+7 Day No Rathole 50/100 NLH 9-max Seat #1 is the button
+Seat 1: J0hnMcclean ($10000)
+Seat 2: badquality ($10000)
+Seat 3: xplo1t4bl3 ($2841.75)
+Seat 4: bigsoowoop ($7615.26)
+Seat 5: Nimble123 ($10000)
+Seat 7: DoublelegTD ($10000)
+Seat 8: oneplusone ($10000)
+xplo1t4bl3 posts the small blind $50
+bigsoowoop posts the big blind $100
+*** HOLE CARDS *** 
+DoublelegTD folds
+J0hnMcclean folds
+xplo1t4bl3 raises $194 to $244
+bigsoowoop calls $144
+*** FLOP *** [6h 7h Ad]
+Main pot $485.75 | Rake $2.25
+xplo1t4bl3 bets $141.52
+bigsoowoop folds
+Uncalled bet ($141.52) returned to xplo1t4bl3
+xplo1t4bl3 does not show
+*** SUMMARY ***
+Total pot $485.75 | Rake $2.25
+Seat 1: J0hnMcclean (button) folded on the Pre-Flop and did not bet
+Seat 3: xplo1t4bl3 (small blind) did not showed and won $485.75
+Seat 4: bigsoowoop (big blind) folded on the Flop
+Seat 7: DoublelegTD folded on the Pre-Flop and did not bet
+
+
+Hand #1820942967 - Holdem(No Limit) - $50/$100 - 2023/08/14 16:58:15 UTC
+7 Day No Rathole 50/100 NLH 9-max Seat #3 is the button
+Seat 1: J0hnMcclean ($1000)
+Seat 3: xplo1t4bl3 ($10000)
+Seat 4: bigsoowoop ($7371.26)
+Seat 5: Nimble123 ($10000)
+Seat 7: DoublelegTD ($10000)
+bigsoowoop posts the small blind $50
+J0hnMcclean posts the big blind $100
+*** HOLE CARDS *** 
+xplo1t4bl3 folds
+bigsoowoop folds
+*** SUMMARY ***
+Total pot $150
+Seat 1: J0hnMcclean (big blind) did not showed and won $150
+Seat 3: xplo1t4bl3 (button) folded on the Pre-Flop and did not bet
+Seat 4: bigsoowoop (small blind) folded on the Pre-Flop
+
+
+Hand #1820943042 - Holdem(No Limit) - $50/$100 - 2023/08/14 16:58:46 UTC
+7 Day No Rathole 50/100 NLH 9-max Seat #1 is the button
+Seat 1: J0hnMcclean ($1050)
+Seat 4: bigsoowoop ($7321.26)
+Seat 7: DoublelegTD ($10000)
+J0hnMcclean posts the small blind $50
+bigsoowoop posts the big blind $100
+*** HOLE CARDS *** 
+J0hnMcclean calls $50
+bigsoowoop checks
+*** FLOP *** [Kc 5s 8d]
+Main pot $198.75 | Rake $1.25
+bigsoowoop checks
+J0hnMcclean checks
+*** TURN *** [Kc 5s 8d] [Ks]
+Main pot $198.75 | Rake $1.25
+bigsoowoop checks
+J0hnMcclean bets $100
+bigsoowoop folds
+Uncalled bet ($100) returned to J0hnMcclean
+J0hnMcclean does not show
+*** SUMMARY ***
+Total pot $198.75 | Rake $1.25
+Seat 1: J0hnMcclean (small blind) did not showed and won $198.75
+Seat 4: bigsoowoop (big blind) folded on the Turn
+
+
+
+

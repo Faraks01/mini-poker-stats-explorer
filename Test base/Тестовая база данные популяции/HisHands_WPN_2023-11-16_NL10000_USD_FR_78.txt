@@ -1,0 +1,1788 @@
+Hand #1933297782 - Holdem(No Limit) - $50/$100 - 2023/11/16 15:55:09 UTC
+7 Day No Rathole 50/100 NLH 9-max Seat #2 is the button
+Seat 2: lmpala_zOrg ($8242.64)
+Seat 7: CPUrul0r ($1000)
+lmpala_zOrg posts the small blind $50
+CPUrul0r posts the big blind $100
+*** HOLE CARDS *** 
+lmpala_zOrg calls $50
+CPUrul0r raises $180 to $280
+lmpala_zOrg folds
+Uncalled bet ($180) returned to CPUrul0r
+CPUrul0r does not show
+*** SUMMARY ***
+Total pot $200
+Seat 2: lmpala_zOrg (small blind) folded on the Pre-Flop
+Seat 7: CPUrul0r (big blind) did not showed and won $200
+
+
+Hand #1933297896 - Holdem(No Limit) - $50/$100 - 2023/11/16 15:55:40 UTC
+7 Day No Rathole 50/100 NLH 9-max Seat #7 is the button
+Seat 2: lmpala_zOrg ($8142.64)
+Seat 5: xplo1t4bl3 ($10000)
+Seat 7: CPUrul0r ($1100)
+CPUrul0r posts the small blind $50
+lmpala_zOrg posts the big blind $100
+*** HOLE CARDS *** 
+CPUrul0r calls $50
+lmpala_zOrg checks
+*** FLOP *** [2h As Th]
+Main pot $198.75 | Rake $1.25
+lmpala_zOrg checks
+CPUrul0r bets $100
+lmpala_zOrg folds
+Uncalled bet ($100) returned to CPUrul0r
+CPUrul0r does not show
+*** SUMMARY ***
+Total pot $198.75 | Rake $1.25
+Seat 2: lmpala_zOrg (big blind) folded on the Flop
+Seat 7: CPUrul0r (small blind) did not showed and won $198.75
+
+
+Hand #1933298057 - Holdem(No Limit) - $50/$100 - 2023/11/16 15:55:52 UTC
+7 Day No Rathole 50/100 NLH 9-max Seat #7 is the button
+Seat 2: lmpala_zOrg ($8042.64)
+Seat 5: xplo1t4bl3 ($1146.76)
+Seat 7: CPUrul0r ($1198.75)
+lmpala_zOrg posts the small blind $50
+xplo1t4bl3 posts the big blind $100
+*** HOLE CARDS *** 
+CPUrul0r raises $1198.75 to $1198.75 and is all-in
+lmpala_zOrg calls $1148.75
+xplo1t4bl3 folds
+*** FLOP *** [3d 3c 2h]
+Main pot $2495.75 | Rake $1.75
+*** TURN *** [3d 3c 2h] [Jh]
+Main pot $2495.75 | Rake $1.75
+*** RIVER *** [3d 3c 2h Jh] [5c]
+Main pot $2495.75 | Rake $1.75
+*** SHOW DOWN ***
+Main pot $2495.75 | Rake $1.75
+lmpala_zOrg shows [Tc Ts]
+CPUrul0r shows [Td 9d]
+lmpala_zOrg collected $2495.75 from main pot
+*** SUMMARY ***
+Total pot $2495.75 | Rake $1.75
+Seat 2: lmpala_zOrg (small blind) showed [Tc Ts] and won $2495.75 with TwoPair [Ts Tc 3d 3c Jh]
+Seat 5: xplo1t4bl3 (big blind) folded on the Pre-Flop
+Seat 7: CPUrul0r (button) showed [Td 9d] and lost
+
+
+Hand #1933298192 - Holdem(No Limit) - $50/$100 - 2023/11/16 15:57:15 UTC
+7 Day No Rathole 50/100 NLH 9-max Seat #2 is the button
+Seat 2: lmpala_zOrg ($9339.64)
+Seat 5: xplo1t4bl3 ($1046.76)
+Seat 7: CPUrul0r ($10000)
+xplo1t4bl3 posts the small blind $50
+lmpala_zOrg posts the big blind $100
+*** HOLE CARDS *** 
+xplo1t4bl3 raises $170 to $220
+lmpala_zOrg calls $120
+*** FLOP *** [8s 4h 6c]
+Main pot $438.75 | Rake $1.25
+xplo1t4bl3 checks
+lmpala_zOrg bets $125
+xplo1t4bl3 calls $125
+*** TURN *** [8s 4h 6c] [2c]
+Main pot $688.75 | Rake $1.25
+xplo1t4bl3 checks
+lmpala_zOrg checks
+*** RIVER *** [8s 4h 6c 2c] [6h]
+Main pot $688.75 | Rake $1.25
+xplo1t4bl3 checks
+lmpala_zOrg checks
+*** SHOW DOWN ***
+Main pot $688.75 | Rake $1.25
+lmpala_zOrg shows [2d Ks]
+lmpala_zOrg collected $688.75 from main pot
+*** SUMMARY ***
+Total pot $688.75 | Rake $1.25
+Seat 2: lmpala_zOrg (big blind) showed [2d Ks] and won $688.75 with TwoPair [6h 6c 2d 2c Ks]
+Seat 5: xplo1t4bl3 (small blind) did not showed and lost
+
+
+Hand #1933298549 - Holdem(No Limit) - $50/$100 - 2023/11/16 15:57:59 UTC
+7 Day No Rathole 50/100 NLH 9-max Seat #2 is the button
+Seat 2: lmpala_zOrg ($9683.39)
+Seat 5: xplo1t4bl3 ($1000)
+lmpala_zOrg posts the small blind $50
+xplo1t4bl3 posts the big blind $100
+*** HOLE CARDS *** 
+lmpala_zOrg calls $50
+xplo1t4bl3 checks
+*** FLOP *** [5h 8d Ad]
+Main pot $198.75 | Rake $1.25
+xplo1t4bl3 checks
+lmpala_zOrg checks
+*** TURN *** [5h 8d Ad] [9s]
+Main pot $198.75 | Rake $1.25
+xplo1t4bl3 checks
+lmpala_zOrg checks
+*** RIVER *** [5h 8d Ad 9s] [6c]
+Main pot $198.75 | Rake $1.25
+xplo1t4bl3 checks
+lmpala_zOrg checks
+*** SHOW DOWN ***
+Main pot $198.75 | Rake $1.25
+xplo1t4bl3 shows [8h Qs]
+xplo1t4bl3 collected $198.75 from main pot
+*** SUMMARY ***
+Total pot $198.75 | Rake $1.25
+Seat 2: lmpala_zOrg (small blind) did not showed and lost
+Seat 5: xplo1t4bl3 (big blind) showed [8h Qs] and won $198.75 with OnePair [8h 8d Ad Qs 9s]
+
+
+Hand #1933322670 - Holdem(No Limit) - $50/$100 - 2023/11/16 16:29:13 UTC
+7 Day No Rathole 50/100 NLH 9-max Seat #2 is the button
+Seat 2: lmpala_zOrg ($9583.39)
+Seat 7: CPUrul0r ($1000)
+lmpala_zOrg posts the small blind $50
+CPUrul0r posts the big blind $100
+*** HOLE CARDS *** 
+lmpala_zOrg calls $50
+CPUrul0r raises $900 to $1000 and is all-in
+lmpala_zOrg calls $900
+*** FLOP *** [8s 6s Ac]
+Main pot $1998.75 | Rake $1.25
+*** TURN *** [8s 6s Ac] [3d]
+Main pot $1998.75 | Rake $1.25
+*** RIVER *** [8s 6s Ac 3d] [5c]
+Main pot $1998.75 | Rake $1.25
+*** SHOW DOWN ***
+Main pot $1998.75 | Rake $1.25
+CPUrul0r shows [2h 2s]
+lmpala_zOrg shows [Js Kd]
+CPUrul0r collected $1998.75 from main pot
+*** SUMMARY ***
+Total pot $1998.75 | Rake $1.25
+Seat 2: lmpala_zOrg (small blind) showed [Js Kd] and lost
+Seat 7: CPUrul0r (big blind) showed [2h 2s] and won $1998.75 with OnePair [2s 2h Ac 8s 6s]
+
+
+Hand #1933323027 - Holdem(No Limit) - $50/$100 - 2023/11/16 16:29:37 UTC
+7 Day No Rathole 50/100 NLH 9-max Seat #7 is the button
+Seat 2: lmpala_zOrg ($8583.39)
+Seat 7: CPUrul0r ($1998.75)
+CPUrul0r posts the small blind $50
+lmpala_zOrg posts the big blind $100
+*** HOLE CARDS *** 
+CPUrul0r folds
+*** SUMMARY ***
+Total pot $150
+Seat 2: lmpala_zOrg (big blind) did not showed and won $150
+Seat 7: CPUrul0r (small blind) folded on the Pre-Flop
+
+
+Hand #1933323163 - Holdem(No Limit) - $50/$100 - 2023/11/16 16:29:47 UTC
+7 Day No Rathole 50/100 NLH 9-max Seat #2 is the button
+Seat 2: lmpala_zOrg ($8633.39)
+Seat 7: CPUrul0r ($1948.75)
+lmpala_zOrg posts the small blind $50
+CPUrul0r posts the big blind $100
+*** HOLE CARDS *** 
+lmpala_zOrg folds
+*** SUMMARY ***
+Total pot $150
+Seat 2: lmpala_zOrg (small blind) folded on the Pre-Flop
+Seat 7: CPUrul0r (big blind) did not showed and won $150
+
+
+Hand #1933323303 - Holdem(No Limit) - $50/$100 - 2023/11/16 16:29:56 UTC
+7 Day No Rathole 50/100 NLH 9-max Seat #7 is the button
+Seat 2: lmpala_zOrg ($8583.39)
+Seat 7: CPUrul0r ($1998.75)
+CPUrul0r posts the small blind $50
+lmpala_zOrg posts the big blind $100
+*** HOLE CARDS *** 
+CPUrul0r folds
+*** SUMMARY ***
+Total pot $150
+Seat 2: lmpala_zOrg (big blind) did not showed and won $150
+Seat 7: CPUrul0r (small blind) folded on the Pre-Flop
+
+
+Hand #1933323447 - Holdem(No Limit) - $50/$100 - 2023/11/16 16:31:31 UTC
+7 Day No Rathole 50/100 NLH 9-max Seat #2 is the button
+Seat 2: lmpala_zOrg ($8633.39)
+Seat 7: CPUrul0r ($1948.75)
+lmpala_zOrg posts the small blind $50
+CPUrul0r posts the big blind $100
+*** HOLE CARDS *** 
+lmpala_zOrg calls $50
+CPUrul0r checks
+*** FLOP *** [9d 6c Js]
+Main pot $198.75 | Rake $1.25
+CPUrul0r checks
+lmpala_zOrg checks
+*** TURN *** [9d 6c Js] [8d]
+Main pot $198.75 | Rake $1.25
+CPUrul0r checks
+lmpala_zOrg bets $200
+CPUrul0r calls $200
+*** RIVER *** [9d 6c Js 8d] [3d]
+Main pot $598.75 | Rake $1.25
+CPUrul0r checks
+lmpala_zOrg bets $449.06
+CPUrul0r raises $1648.75 to $1648.75 and is all-in
+lmpala_zOrg folds
+Uncalled bet ($1199.69) returned to CPUrul0r
+CPUrul0r does not show
+*** SUMMARY ***
+Total pot $1496.87 | Rake $1.25
+Seat 2: lmpala_zOrg (small blind) folded on the River
+Seat 7: CPUrul0r (big blind) did not showed and won $1496.87
+
+
+Hand #1933324720 - Holdem(No Limit) - $50/$100 - 2023/11/16 16:31:55 UTC
+7 Day No Rathole 50/100 NLH 9-max Seat #7 is the button
+Seat 2: lmpala_zOrg ($7884.33)
+Seat 7: CPUrul0r ($2696.56)
+CPUrul0r posts the small blind $50
+lmpala_zOrg posts the big blind $100
+*** HOLE CARDS *** 
+CPUrul0r raises $150 to $200
+lmpala_zOrg raises $500 to $600
+CPUrul0r raises $2496.56 to $2696.56 and is all-in
+lmpala_zOrg calls $2096.56
+*** FLOP *** [5h 9d 4c]
+Main pot $5391.87 | Rake $1.25
+*** TURN *** [5h 9d 4c] [Kh]
+Main pot $5391.87 | Rake $1.25
+*** RIVER *** [5h 9d 4c Kh] [Kd]
+Main pot $5391.87 | Rake $1.25
+*** SHOW DOWN ***
+Main pot $5391.87 | Rake $1.25
+CPUrul0r shows [5d 5s]
+lmpala_zOrg shows [Th Ts]
+CPUrul0r collected $5391.87 from main pot
+*** SUMMARY ***
+Total pot $5391.87 | Rake $1.25
+Seat 2: lmpala_zOrg (big blind) showed [Th Ts] and lost
+Seat 7: CPUrul0r (small blind) showed [5d 5s] and won $5391.87 with FullHouse [5s 5h 5d Kh Kd]
+
+
+Hand #1933325233 - Holdem(No Limit) - $50/$100 - 2023/11/16 16:32:18 UTC
+7 Day No Rathole 50/100 NLH 9-max Seat #2 is the button
+Seat 2: lmpala_zOrg ($5187.77)
+Seat 7: CPUrul0r ($5391.87)
+lmpala_zOrg posts the small blind $50
+CPUrul0r posts the big blind $100
+*** HOLE CARDS *** 
+lmpala_zOrg folds
+*** SUMMARY ***
+Total pot $150
+Seat 2: lmpala_zOrg (small blind) folded on the Pre-Flop
+Seat 7: CPUrul0r (big blind) did not showed and won $150
+
+
+Hand #1933325341 - Holdem(No Limit) - $50/$100 - 2023/11/16 16:32:30 UTC
+7 Day No Rathole 50/100 NLH 9-max Seat #7 is the button
+Seat 2: lmpala_zOrg ($5137.77)
+Seat 7: CPUrul0r ($5441.87)
+CPUrul0r posts the small blind $50
+lmpala_zOrg posts the big blind $100
+*** HOLE CARDS *** 
+CPUrul0r raises $170 to $220
+lmpala_zOrg folds
+Uncalled bet ($120) returned to CPUrul0r
+CPUrul0r does not show
+*** SUMMARY ***
+Total pot $200
+Seat 2: lmpala_zOrg (big blind) folded on the Pre-Flop
+Seat 7: CPUrul0r (small blind) did not showed and won $200
+
+
+Hand #1933325499 - Holdem(No Limit) - $50/$100 - 2023/11/16 16:33:19 UTC
+7 Day No Rathole 50/100 NLH 9-max Seat #2 is the button
+Seat 2: lmpala_zOrg ($5037.77)
+Seat 7: CPUrul0r ($5541.87)
+lmpala_zOrg posts the small blind $50
+CPUrul0r posts the big blind $100
+*** HOLE CARDS *** 
+lmpala_zOrg raises $150 to $200
+CPUrul0r calls $100
+*** FLOP *** [4s 2s 2c]
+Main pot $398.75 | Rake $1.25
+CPUrul0r checks
+lmpala_zOrg checks
+*** TURN *** [4s 2s 2c] [5d]
+Main pot $398.75 | Rake $1.25
+CPUrul0r checks
+lmpala_zOrg bets $249.06
+CPUrul0r folds
+Uncalled bet ($249.06) returned to lmpala_zOrg
+lmpala_zOrg does not show
+*** SUMMARY ***
+Total pot $398.75 | Rake $1.25
+Seat 2: lmpala_zOrg (small blind) did not showed and won $398.75
+Seat 7: CPUrul0r (big blind) folded on the Turn
+
+
+Hand #1933326203 - Holdem(No Limit) - $50/$100 - 2023/11/16 16:35:10 UTC
+7 Day No Rathole 50/100 NLH 9-max Seat #7 is the button
+Seat 2: lmpala_zOrg ($5236.52)
+Seat 7: CPUrul0r ($5341.87)
+CPUrul0r posts the small blind $50
+lmpala_zOrg posts the big blind $100
+*** HOLE CARDS *** 
+CPUrul0r raises $170 to $220
+lmpala_zOrg calls $120
+*** FLOP *** [7c 6d 3c]
+Main pot $438.75 | Rake $1.25
+lmpala_zOrg checks
+CPUrul0r checks
+*** TURN *** [7c 6d 3c] [Ks]
+Main pot $438.75 | Rake $1.25
+lmpala_zOrg bets $144.79
+CPUrul0r calls $144.79
+*** RIVER *** [7c 6d 3c Ks] [7d]
+Main pot $728.33 | Rake $1.25
+lmpala_zOrg bets $440.35
+CPUrul0r raises $1680.26 to $1680.26
+lmpala_zOrg folds
+Uncalled bet ($1239.91) returned to CPUrul0r
+CPUrul0r does not show
+*** SUMMARY ***
+Total pot $1609.03 | Rake $1.25
+Seat 2: lmpala_zOrg (big blind) folded on the River
+Seat 7: CPUrul0r (small blind) did not showed and won $1609.03
+
+
+Hand #1933327679 - Holdem(No Limit) - $50/$100 - 2023/11/16 16:35:18 UTC
+7 Day No Rathole 50/100 NLH 9-max Seat #2 is the button
+Seat 2: lmpala_zOrg ($4431.38)
+Seat 7: CPUrul0r ($6145.76)
+lmpala_zOrg posts the small blind $50
+CPUrul0r posts the big blind $100
+*** HOLE CARDS *** 
+lmpala_zOrg folds
+*** SUMMARY ***
+Total pot $150
+Seat 2: lmpala_zOrg (small blind) folded on the Pre-Flop
+Seat 7: CPUrul0r (big blind) did not showed and won $150
+
+
+Hand #1933327787 - Holdem(No Limit) - $50/$100 - 2023/11/16 16:36:55 UTC
+7 Day No Rathole 50/100 NLH 9-max Seat #7 is the button
+Seat 2: lmpala_zOrg ($4381.38)
+Seat 7: CPUrul0r ($6195.76)
+CPUrul0r posts the small blind $50
+lmpala_zOrg posts the big blind $100
+*** HOLE CARDS *** 
+CPUrul0r raises $170 to $220
+lmpala_zOrg raises $690 to $790
+CPUrul0r calls $570
+*** FLOP *** [Kd Ad 5d]
+Main pot $1578.75 | Rake $1.25
+lmpala_zOrg checks
+CPUrul0r checks
+*** TURN *** [Kd Ad 5d] [Qs]
+Main pot $1578.75 | Rake $1.25
+lmpala_zOrg checks
+CPUrul0r checks
+*** RIVER *** [Kd Ad 5d Qs] [4d]
+Main pot $1578.75 | Rake $1.25
+lmpala_zOrg bets $640
+CPUrul0r calls $640
+*** SHOW DOWN ***
+Main pot $1578.75 | Rake $1.25
+CPUrul0r shows [Kh 9d]
+CPUrul0r collected $2858.75 from main pot
+*** SUMMARY ***
+Total pot $2858.75 | Rake $1.25
+Seat 2: lmpala_zOrg (big blind) did not showed and lost
+Seat 7: CPUrul0r (small blind) showed [Kh 9d] and won $2858.75 with Flush [Ad Kd 9d 5d 4d]
+
+
+Hand #1933329092 - Holdem(No Limit) - $50/$100 - 2023/11/16 16:37:56 UTC
+7 Day No Rathole 50/100 NLH 9-max Seat #2 is the button
+Seat 2: lmpala_zOrg ($2951.38)
+Seat 7: CPUrul0r ($7624.51)
+lmpala_zOrg posts the small blind $50
+CPUrul0r posts the big blind $100
+*** HOLE CARDS *** 
+lmpala_zOrg calls $50
+CPUrul0r checks
+*** FLOP *** [Kc Qc Ad]
+Main pot $198.75 | Rake $1.25
+CPUrul0r checks
+lmpala_zOrg bets $100
+CPUrul0r calls $100
+*** TURN *** [Kc Qc Ad] [5s]
+Main pot $398.75 | Rake $1.25
+CPUrul0r checks
+lmpala_zOrg bets $600
+CPUrul0r folds
+Uncalled bet ($600) returned to lmpala_zOrg
+lmpala_zOrg does not show
+*** SUMMARY ***
+Total pot $398.75 | Rake $1.25
+Seat 2: lmpala_zOrg (small blind) did not showed and won $398.75
+Seat 7: CPUrul0r (big blind) folded on the Turn
+
+
+Hand #1933329877 - Holdem(No Limit) - $50/$100 - 2023/11/16 16:38:59 UTC
+7 Day No Rathole 50/100 NLH 9-max Seat #7 is the button
+Seat 2: lmpala_zOrg ($3150.13)
+Seat 7: CPUrul0r ($7424.51)
+CPUrul0r posts the small blind $50
+lmpala_zOrg posts the big blind $100
+*** HOLE CARDS *** 
+CPUrul0r calls $50
+lmpala_zOrg checks
+*** FLOP *** [Kh Ac Tc]
+Main pot $198.75 | Rake $1.25
+lmpala_zOrg checks
+CPUrul0r checks
+*** TURN *** [Kh Ac Tc] [Jc]
+Main pot $198.75 | Rake $1.25
+lmpala_zOrg checks
+CPUrul0r checks
+*** RIVER *** [Kh Ac Tc Jc] [8c]
+Main pot $198.75 | Rake $1.25
+lmpala_zOrg checks
+CPUrul0r checks
+*** SHOW DOWN ***
+Main pot $198.75 | Rake $1.25
+lmpala_zOrg shows [Th 4s]
+lmpala_zOrg collected $198.75 from main pot
+*** SUMMARY ***
+Total pot $198.75 | Rake $1.25
+Seat 2: lmpala_zOrg (big blind) showed [Th 4s] and won $198.75 with OnePair [Th Tc Ac Kh Jc]
+Seat 7: CPUrul0r (small blind) did not showed and lost
+
+
+Hand #1933330750 - Holdem(No Limit) - $50/$100 - 2023/11/16 16:39:20 UTC
+7 Day No Rathole 50/100 NLH 9-max Seat #2 is the button
+Seat 2: lmpala_zOrg ($3248.88)
+Seat 7: CPUrul0r ($7324.51)
+lmpala_zOrg posts the small blind $50
+CPUrul0r posts the big blind $100
+*** HOLE CARDS *** 
+lmpala_zOrg raises $150 to $200
+CPUrul0r raises $7224.51 to $7324.51 and is all-in
+lmpala_zOrg folds
+Uncalled bet ($7124.51) returned to CPUrul0r
+CPUrul0r does not show
+*** SUMMARY ***
+Total pot $400
+Seat 2: lmpala_zOrg (small blind) folded on the Pre-Flop
+Seat 7: CPUrul0r (big blind) did not showed and won $400
+
+
+Hand #1933331015 - Holdem(No Limit) - $50/$100 - 2023/11/16 16:41:22 UTC
+7 Day No Rathole 50/100 NLH 9-max Seat #7 is the button
+Seat 2: lmpala_zOrg ($3048.88)
+Seat 7: CPUrul0r ($7524.51)
+CPUrul0r posts the small blind $50
+lmpala_zOrg posts the big blind $100
+*** HOLE CARDS *** 
+CPUrul0r raises $150 to $200
+lmpala_zOrg calls $100
+*** FLOP *** [Ad Qd 2d]
+Main pot $398.75 | Rake $1.25
+lmpala_zOrg checks
+CPUrul0r bets $100
+lmpala_zOrg raises $350 to $350
+CPUrul0r calls $250
+*** TURN *** [Ad Qd 2d] [4s]
+Main pot $1098.75 | Rake $1.25
+lmpala_zOrg checks
+CPUrul0r bets $302
+lmpala_zOrg calls $302
+*** RIVER *** [Ad Qd 2d 4s] [5d]
+Main pot $1702.75 | Rake $1.25
+lmpala_zOrg checks
+CPUrul0r bets $1231.68
+lmpala_zOrg folds
+Uncalled bet ($1231.68) returned to CPUrul0r
+CPUrul0r does not show
+*** SUMMARY ***
+Total pot $1702.75 | Rake $1.25
+Seat 2: lmpala_zOrg (big blind) folded on the River
+Seat 7: CPUrul0r (small blind) did not showed and won $1702.75
+
+
+Hand #1933332631 - Holdem(No Limit) - $50/$100 - 2023/11/16 16:41:46 UTC
+7 Day No Rathole 50/100 NLH 9-max Seat #2 is the button
+Seat 2: lmpala_zOrg ($2196.88)
+Seat 7: CPUrul0r ($8375.26)
+lmpala_zOrg posts the small blind $50
+CPUrul0r posts the big blind $100
+*** HOLE CARDS *** 
+lmpala_zOrg raises $150 to $200
+CPUrul0r calls $100
+*** FLOP *** [6s Ad 2h]
+Main pot $398.75 | Rake $1.25
+CPUrul0r checks
+lmpala_zOrg bets $200
+CPUrul0r folds
+Uncalled bet ($200) returned to lmpala_zOrg
+lmpala_zOrg does not show
+*** SUMMARY ***
+Total pot $398.75 | Rake $1.25
+Seat 2: lmpala_zOrg (small blind) did not showed and won $398.75
+Seat 7: CPUrul0r (big blind) folded on the Flop
+
+
+Hand #1933332935 - Holdem(No Limit) - $50/$100 - 2023/11/16 16:41:57 UTC
+7 Day No Rathole 50/100 NLH 9-max Seat #7 is the button
+Seat 2: lmpala_zOrg ($2395.63)
+Seat 7: CPUrul0r ($8175.26)
+CPUrul0r posts the small blind $50
+lmpala_zOrg posts the big blind $100
+*** HOLE CARDS *** 
+CPUrul0r raises $150 to $200
+lmpala_zOrg folds
+Uncalled bet ($100) returned to CPUrul0r
+CPUrul0r does not show
+*** SUMMARY ***
+Total pot $200
+Seat 2: lmpala_zOrg (big blind) folded on the Pre-Flop
+Seat 7: CPUrul0r (small blind) did not showed and won $200
+
+
+Hand #1933333083 - Holdem(No Limit) - $50/$100 - 2023/11/16 16:42:59 UTC
+7 Day No Rathole 50/100 NLH 9-max Seat #2 is the button
+Seat 2: lmpala_zOrg ($2295.63)
+Seat 7: CPUrul0r ($8275.26)
+lmpala_zOrg posts the small blind $50
+CPUrul0r posts the big blind $100
+*** HOLE CARDS *** 
+lmpala_zOrg raises $150 to $200
+CPUrul0r calls $100
+*** FLOP *** [Jc 6h 8s]
+Main pot $398.75 | Rake $1.25
+CPUrul0r checks
+lmpala_zOrg bets $131.59
+CPUrul0r calls $131.59
+*** TURN *** [Jc 6h 8s] [Ad]
+Main pot $661.93 | Rake $1.25
+CPUrul0r checks
+lmpala_zOrg bets $663.18
+CPUrul0r folds
+Uncalled bet ($663.18) returned to lmpala_zOrg
+lmpala_zOrg does not show
+*** SUMMARY ***
+Total pot $661.93 | Rake $1.25
+Seat 2: lmpala_zOrg (small blind) did not showed and won $661.93
+Seat 7: CPUrul0r (big blind) folded on the Turn
+
+
+Hand #1933333916 - Holdem(No Limit) - $50/$100 - 2023/11/16 16:43:11 UTC
+7 Day No Rathole 50/100 NLH 9-max Seat #7 is the button
+Seat 2: lmpala_zOrg ($2625.97)
+Seat 7: CPUrul0r ($7943.67)
+CPUrul0r posts the small blind $50
+lmpala_zOrg posts the big blind $100
+*** HOLE CARDS *** 
+CPUrul0r folds
+*** SUMMARY ***
+Total pot $150
+Seat 2: lmpala_zOrg (big blind) did not showed and won $150
+Seat 7: CPUrul0r (small blind) folded on the Pre-Flop
+
+
+Hand #1933334069 - Holdem(No Limit) - $50/$100 - 2023/11/16 16:43:19 UTC
+7 Day No Rathole 50/100 NLH 9-max Seat #2 is the button
+Seat 2: lmpala_zOrg ($2675.97)
+Seat 7: CPUrul0r ($7893.67)
+lmpala_zOrg posts the small blind $50
+CPUrul0r posts the big blind $100
+*** HOLE CARDS *** 
+lmpala_zOrg folds
+*** SUMMARY ***
+Total pot $150
+Seat 2: lmpala_zOrg (small blind) folded on the Pre-Flop
+Seat 7: CPUrul0r (big blind) did not showed and won $150
+
+
+Hand #1933334197 - Holdem(No Limit) - $50/$100 - 2023/11/16 16:43:28 UTC
+7 Day No Rathole 50/100 NLH 9-max Seat #7 is the button
+Seat 2: lmpala_zOrg ($2625.97)
+Seat 7: CPUrul0r ($7943.67)
+CPUrul0r posts the small blind $50
+lmpala_zOrg posts the big blind $100
+*** HOLE CARDS *** 
+CPUrul0r folds
+*** SUMMARY ***
+Total pot $150
+Seat 2: lmpala_zOrg (big blind) did not showed and won $150
+Seat 7: CPUrul0r (small blind) folded on the Pre-Flop
+
+
+Hand #1933334327 - Holdem(No Limit) - $50/$100 - 2023/11/16 16:44:27 UTC
+7 Day No Rathole 50/100 NLH 9-max Seat #2 is the button
+Seat 2: lmpala_zOrg ($2675.97)
+Seat 7: CPUrul0r ($7893.67)
+lmpala_zOrg posts the small blind $50
+CPUrul0r posts the big blind $100
+*** HOLE CARDS *** 
+lmpala_zOrg calls $50
+CPUrul0r checks
+*** FLOP *** [4d 6d 6s]
+Main pot $198.75 | Rake $1.25
+CPUrul0r checks
+lmpala_zOrg bets $100
+CPUrul0r calls $100
+*** TURN *** [4d 6d 6s] [Qc]
+Main pot $398.75 | Rake $1.25
+CPUrul0r checks
+lmpala_zOrg checks
+*** RIVER *** [4d 6d 6s Qc] [Jh]
+Main pot $398.75 | Rake $1.25
+CPUrul0r bets $400
+lmpala_zOrg calls $400
+*** SHOW DOWN ***
+Main pot $398.75 | Rake $1.25
+CPUrul0r shows [5c Qd]
+CPUrul0r collected $1198.75 from main pot
+*** SUMMARY ***
+Total pot $1198.75 | Rake $1.25
+Seat 2: lmpala_zOrg (small blind) did not showed and lost
+Seat 7: CPUrul0r (big blind) showed [5c Qd] and won $1198.75 with TwoPair [Qd Qc 6s 6d Jh]
+
+
+Hand #1933335181 - Holdem(No Limit) - $50/$100 - 2023/11/16 16:45:06 UTC
+7 Day No Rathole 50/100 NLH 9-max Seat #7 is the button
+Seat 2: lmpala_zOrg ($2075.97)
+Seat 7: CPUrul0r ($8492.42)
+CPUrul0r posts the small blind $50
+lmpala_zOrg posts the big blind $100
+*** HOLE CARDS *** 
+CPUrul0r raises $150 to $200
+lmpala_zOrg calls $100
+*** FLOP *** [6d 4c Qs]
+Main pot $398.75 | Rake $1.25
+lmpala_zOrg checks
+CPUrul0r bets $100
+lmpala_zOrg raises $350 to $350
+CPUrul0r folds
+Uncalled bet ($250) returned to lmpala_zOrg
+lmpala_zOrg does not show
+*** SUMMARY ***
+Total pot $598.75 | Rake $1.25
+Seat 2: lmpala_zOrg (big blind) did not showed and won $598.75
+Seat 7: CPUrul0r (small blind) folded on the Flop
+
+
+Hand #1933335664 - Holdem(No Limit) - $50/$100 - 2023/11/16 16:45:22 UTC
+7 Day No Rathole 50/100 NLH 9-max Seat #2 is the button
+Seat 2: lmpala_zOrg ($2374.72)
+Seat 7: CPUrul0r ($8192.42)
+lmpala_zOrg posts the small blind $50
+CPUrul0r posts the big blind $100
+*** HOLE CARDS *** 
+lmpala_zOrg calls $50
+CPUrul0r raises $350 to $450
+lmpala_zOrg folds
+Uncalled bet ($350) returned to CPUrul0r
+CPUrul0r does not show
+*** SUMMARY ***
+Total pot $200
+Seat 2: lmpala_zOrg (small blind) folded on the Pre-Flop
+Seat 7: CPUrul0r (big blind) did not showed and won $200
+
+
+Hand #1933335887 - Holdem(No Limit) - $50/$100 - 2023/11/16 16:45:31 UTC
+7 Day No Rathole 50/100 NLH 9-max Seat #7 is the button
+Seat 2: lmpala_zOrg ($2274.72)
+Seat 7: CPUrul0r ($8292.42)
+CPUrul0r posts the small blind $50
+lmpala_zOrg posts the big blind $100
+*** HOLE CARDS *** 
+CPUrul0r folds
+*** SUMMARY ***
+Total pot $150
+Seat 2: lmpala_zOrg (big blind) did not showed and won $150
+Seat 7: CPUrul0r (small blind) folded on the Pre-Flop
+
+
+Hand #1933336008 - Holdem(No Limit) - $50/$100 - 2023/11/16 16:45:45 UTC
+7 Day No Rathole 50/100 NLH 9-max Seat #2 is the button
+Seat 2: lmpala_zOrg ($2324.72)
+Seat 7: CPUrul0r ($8242.42)
+lmpala_zOrg posts the small blind $50
+CPUrul0r posts the big blind $100
+*** HOLE CARDS *** 
+lmpala_zOrg raises $150 to $200
+CPUrul0r raises $8142.42 to $8242.42 and is all-in
+lmpala_zOrg folds
+Uncalled bet ($8042.42) returned to CPUrul0r
+CPUrul0r does not show
+*** SUMMARY ***
+Total pot $400
+Seat 2: lmpala_zOrg (small blind) folded on the Pre-Flop
+Seat 7: CPUrul0r (big blind) did not showed and won $400
+
+
+Hand #1933336198 - Holdem(No Limit) - $50/$100 - 2023/11/16 16:46:03 UTC
+7 Day No Rathole 50/100 NLH 9-max Seat #7 is the button
+Seat 2: lmpala_zOrg ($2124.72)
+Seat 7: CPUrul0r ($8442.42)
+CPUrul0r posts the small blind $50
+lmpala_zOrg posts the big blind $100
+*** HOLE CARDS *** 
+CPUrul0r raises $150 to $200
+lmpala_zOrg raises $2024.72 to $2124.72 and is all-in
+CPUrul0r folds
+Uncalled bet ($1924.72) returned to lmpala_zOrg
+lmpala_zOrg does not show
+*** SUMMARY ***
+Total pot $400
+Seat 2: lmpala_zOrg (big blind) did not showed and won $400
+Seat 7: CPUrul0r (small blind) folded on the Pre-Flop
+
+
+Hand #1933336434 - Holdem(No Limit) - $50/$100 - 2023/11/16 16:47:07 UTC
+7 Day No Rathole 50/100 NLH 9-max Seat #2 is the button
+Seat 2: lmpala_zOrg ($2324.72)
+Seat 7: CPUrul0r ($8242.42)
+lmpala_zOrg posts the small blind $50
+CPUrul0r posts the big blind $100
+*** HOLE CARDS *** 
+lmpala_zOrg raises $150 to $200
+CPUrul0r calls $100
+*** FLOP *** [9h 4h Js]
+Main pot $398.75 | Rake $1.25
+CPUrul0r checks
+lmpala_zOrg checks
+*** TURN *** [9h 4h Js] [6c]
+Main pot $398.75 | Rake $1.25
+CPUrul0r checks
+lmpala_zOrg checks
+*** RIVER *** [9h 4h Js 6c] [Kd]
+Main pot $398.75 | Rake $1.25
+CPUrul0r checks
+lmpala_zOrg bets $200
+CPUrul0r folds
+Uncalled bet ($200) returned to lmpala_zOrg
+lmpala_zOrg does not show
+*** SUMMARY ***
+Total pot $398.75 | Rake $1.25
+Seat 2: lmpala_zOrg (small blind) did not showed and won $398.75
+Seat 7: CPUrul0r (big blind) folded on the River
+
+
+Hand #1933337277 - Holdem(No Limit) - $50/$100 - 2023/11/16 16:47:19 UTC
+7 Day No Rathole 50/100 NLH 9-max Seat #7 is the button
+Seat 2: lmpala_zOrg ($2523.47)
+Seat 7: CPUrul0r ($8042.42)
+CPUrul0r posts the small blind $50
+lmpala_zOrg posts the big blind $100
+*** HOLE CARDS *** 
+CPUrul0r raises $150 to $200
+lmpala_zOrg folds
+Uncalled bet ($100) returned to CPUrul0r
+CPUrul0r does not show
+*** SUMMARY ***
+Total pot $200
+Seat 2: lmpala_zOrg (big blind) folded on the Pre-Flop
+Seat 7: CPUrul0r (small blind) did not showed and won $200
+
+
+Hand #1933337464 - Holdem(No Limit) - $50/$100 - 2023/11/16 16:48:15 UTC
+7 Day No Rathole 50/100 NLH 9-max Seat #2 is the button
+Seat 2: lmpala_zOrg ($2423.47)
+Seat 7: CPUrul0r ($8142.42)
+lmpala_zOrg posts the small blind $50
+CPUrul0r posts the big blind $100
+*** HOLE CARDS *** 
+lmpala_zOrg calls $50
+CPUrul0r checks
+*** FLOP *** [9c 2d Ts]
+Main pot $198.75 | Rake $1.25
+CPUrul0r checks
+lmpala_zOrg bets $149.06
+CPUrul0r calls $149.06
+*** TURN *** [9c 2d Ts] [4c]
+Main pot $496.87 | Rake $1.25
+CPUrul0r checks
+lmpala_zOrg bets $498.12
+CPUrul0r folds
+Uncalled bet ($498.12) returned to lmpala_zOrg
+lmpala_zOrg does not show
+*** SUMMARY ***
+Total pot $496.87 | Rake $1.25
+Seat 2: lmpala_zOrg (small blind) did not showed and won $496.87
+Seat 7: CPUrul0r (big blind) folded on the Turn
+
+
+Hand #1933338208 - Holdem(No Limit) - $50/$100 - 2023/11/16 16:48:52 UTC
+7 Day No Rathole 50/100 NLH 9-max Seat #7 is the button
+Seat 2: lmpala_zOrg ($2671.28)
+Seat 7: CPUrul0r ($7893.36)
+CPUrul0r posts the small blind $50
+lmpala_zOrg posts the big blind $100
+*** HOLE CARDS *** 
+CPUrul0r raises $150 to $200
+lmpala_zOrg calls $100
+*** FLOP *** [Jc 6d Ad]
+Main pot $398.75 | Rake $1.25
+lmpala_zOrg checks
+CPUrul0r bets $123
+lmpala_zOrg folds
+Uncalled bet ($123) returned to CPUrul0r
+CPUrul0r does not show
+*** SUMMARY ***
+Total pot $398.75 | Rake $1.25
+Seat 2: lmpala_zOrg (big blind) folded on the Flop
+Seat 7: CPUrul0r (small blind) did not showed and won $398.75
+
+
+Hand #1933338718 - Holdem(No Limit) - $50/$100 - 2023/11/16 16:50:16 UTC
+7 Day No Rathole 50/100 NLH 9-max Seat #2 is the button
+Seat 2: lmpala_zOrg ($2471.28)
+Seat 7: CPUrul0r ($8092.11)
+lmpala_zOrg posts the small blind $50
+CPUrul0r posts the big blind $100
+*** HOLE CARDS *** 
+lmpala_zOrg calls $50
+CPUrul0r raises $300 to $400
+lmpala_zOrg calls $300
+*** FLOP *** [Td 2h 3s]
+Main pot $798.75 | Rake $1.25
+CPUrul0r checks
+lmpala_zOrg checks
+*** TURN *** [Td 2h 3s] [4d]
+Main pot $798.75 | Rake $1.25
+CPUrul0r bets $558
+lmpala_zOrg folds
+Uncalled bet ($558) returned to CPUrul0r
+CPUrul0r does not show
+*** SUMMARY ***
+Total pot $798.75 | Rake $1.25
+Seat 2: lmpala_zOrg (small blind) folded on the Turn
+Seat 7: CPUrul0r (big blind) did not showed and won $798.75
+
+
+Hand #1933339824 - Holdem(No Limit) - $50/$100 - 2023/11/16 16:51:18 UTC
+7 Day No Rathole 50/100 NLH 9-max Seat #7 is the button
+Seat 2: lmpala_zOrg ($2071.28)
+Seat 7: CPUrul0r ($8490.86)
+CPUrul0r posts the small blind $50
+lmpala_zOrg posts the big blind $100
+*** HOLE CARDS *** 
+CPUrul0r calls $50
+lmpala_zOrg checks
+*** FLOP *** [5c 9c Ks]
+Main pot $198.75 | Rake $1.25
+lmpala_zOrg checks
+CPUrul0r checks
+*** TURN *** [5c 9c Ks] [3c]
+Main pot $198.75 | Rake $1.25
+lmpala_zOrg bets $149.06
+CPUrul0r calls $149.06
+*** RIVER *** [5c 9c Ks 3c] [4s]
+Main pot $496.87 | Rake $1.25
+lmpala_zOrg checks
+CPUrul0r checks
+*** SHOW DOWN ***
+Main pot $496.87 | Rake $1.25
+CPUrul0r shows [7c 5s]
+CPUrul0r collected $496.87 from main pot
+*** SUMMARY ***
+Total pot $496.87 | Rake $1.25
+Seat 2: lmpala_zOrg (big blind) did not showed and lost
+Seat 7: CPUrul0r (small blind) showed [7c 5s] and won $496.87 with OnePair [5s 5c Ks 9c 7c]
+
+
+Hand #1933340696 - Holdem(No Limit) - $50/$100 - 2023/11/16 16:52:01 UTC
+7 Day No Rathole 50/100 NLH 9-max Seat #2 is the button
+Seat 2: lmpala_zOrg ($1822.22)
+Seat 7: CPUrul0r ($8738.67)
+lmpala_zOrg posts the small blind $50
+CPUrul0r posts the big blind $100
+*** HOLE CARDS *** 
+lmpala_zOrg raises $150 to $200
+CPUrul0r calls $100
+*** FLOP *** [9h 6c 5s]
+Main pot $398.75 | Rake $1.25
+CPUrul0r checks
+lmpala_zOrg bets $131.59
+CPUrul0r raises $419.81 to $419.81
+lmpala_zOrg folds
+Uncalled bet ($288.22) returned to CPUrul0r
+CPUrul0r does not show
+*** SUMMARY ***
+Total pot $661.93 | Rake $1.25
+Seat 2: lmpala_zOrg (small blind) folded on the Flop
+Seat 7: CPUrul0r (big blind) did not showed and won $661.93
+
+
+Hand #1933341239 - Holdem(No Limit) - $50/$100 - 2023/11/16 16:52:18 UTC
+7 Day No Rathole 50/100 NLH 9-max Seat #7 is the button
+Seat 2: lmpala_zOrg ($1490.63)
+Seat 7: CPUrul0r ($9069.01)
+CPUrul0r posts the small blind $50
+lmpala_zOrg posts the big blind $100
+*** HOLE CARDS *** 
+CPUrul0r raises $9019.01 to $9069.01 and is all-in
+lmpala_zOrg folds
+Uncalled bet ($8969.01) returned to CPUrul0r
+CPUrul0r does not show
+*** SUMMARY ***
+Total pot $200
+Seat 2: lmpala_zOrg (big blind) folded on the Pre-Flop
+Seat 7: CPUrul0r (small blind) did not showed and won $200
+
+
+Hand #1933341476 - Holdem(No Limit) - $50/$100 - 2023/11/16 16:52:31 UTC
+7 Day No Rathole 50/100 NLH 9-max Seat #2 is the button
+Seat 2: lmpala_zOrg ($1390.63)
+Seat 7: CPUrul0r ($9169.01)
+lmpala_zOrg posts the small blind $50
+CPUrul0r posts the big blind $100
+*** HOLE CARDS *** 
+lmpala_zOrg raises $1340.63 to $1390.63 and is all-in
+CPUrul0r folds
+Uncalled bet ($1290.63) returned to lmpala_zOrg
+lmpala_zOrg does not show
+*** SUMMARY ***
+Total pot $200
+Seat 2: lmpala_zOrg (small blind) did not showed and won $200
+Seat 7: CPUrul0r (big blind) folded on the Pre-Flop
+
+
+Hand #1933341661 - Holdem(No Limit) - $50/$100 - 2023/11/16 16:53:22 UTC
+7 Day No Rathole 50/100 NLH 9-max Seat #7 is the button
+Seat 2: lmpala_zOrg ($1490.63)
+Seat 7: CPUrul0r ($9069.01)
+CPUrul0r posts the small blind $50
+lmpala_zOrg posts the big blind $100
+*** HOLE CARDS *** 
+CPUrul0r calls $50
+lmpala_zOrg checks
+*** FLOP *** [Ks Kh Ac]
+Main pot $198.75 | Rake $1.25
+lmpala_zOrg checks
+CPUrul0r bets $100
+lmpala_zOrg raises $250 to $250
+CPUrul0r folds
+Uncalled bet ($150) returned to lmpala_zOrg
+lmpala_zOrg does not show
+*** SUMMARY ***
+Total pot $398.75 | Rake $1.25
+Seat 2: lmpala_zOrg (big blind) did not showed and won $398.75
+Seat 7: CPUrul0r (small blind) folded on the Flop
+
+
+Hand #1933342379 - Holdem(No Limit) - $50/$100 - 2023/11/16 16:54:31 UTC
+7 Day No Rathole 50/100 NLH 9-max Seat #2 is the button
+Seat 2: lmpala_zOrg ($1689.38)
+Seat 7: CPUrul0r ($8869.01)
+lmpala_zOrg posts the small blind $50
+CPUrul0r posts the big blind $100
+*** HOLE CARDS *** 
+lmpala_zOrg raises $150 to $200
+CPUrul0r calls $100
+*** FLOP *** [Ad 8d 7d]
+Main pot $398.75 | Rake $1.25
+CPUrul0r checks
+lmpala_zOrg bets $200
+CPUrul0r calls $200
+*** TURN *** [Ad 8d 7d] [As]
+Main pot $798.75 | Rake $1.25
+CPUrul0r checks
+lmpala_zOrg bets $400
+CPUrul0r folds
+Uncalled bet ($400) returned to lmpala_zOrg
+lmpala_zOrg does not show
+*** SUMMARY ***
+Total pot $798.75 | Rake $1.25
+Seat 2: lmpala_zOrg (small blind) did not showed and won $798.75
+Seat 7: CPUrul0r (big blind) folded on the Turn
+
+
+Hand #1933343371 - Holdem(No Limit) - $50/$100 - 2023/11/16 16:55:46 UTC
+7 Day No Rathole 50/100 NLH 9-max Seat #7 is the button
+Seat 2: lmpala_zOrg ($2088.13)
+Seat 7: CPUrul0r ($8469.01)
+CPUrul0r posts the small blind $50
+lmpala_zOrg posts the big blind $100
+*** HOLE CARDS *** 
+CPUrul0r calls $50
+lmpala_zOrg checks
+*** FLOP *** [3c Jd Kh]
+Main pot $198.75 | Rake $1.25
+lmpala_zOrg checks
+CPUrul0r bets $100
+lmpala_zOrg calls $100
+*** TURN *** [3c Jd Kh] [9d]
+Main pot $398.75 | Rake $1.25
+lmpala_zOrg checks
+CPUrul0r checks
+*** RIVER *** [3c Jd Kh 9d] [8c]
+Main pot $398.75 | Rake $1.25
+lmpala_zOrg bets $250
+CPUrul0r folds
+Uncalled bet ($250) returned to lmpala_zOrg
+lmpala_zOrg does not show
+*** SUMMARY ***
+Total pot $398.75 | Rake $1.25
+Seat 2: lmpala_zOrg (big blind) did not showed and won $398.75
+Seat 7: CPUrul0r (small blind) folded on the River
+
+
+Hand #1933355790 - Holdem(No Limit) - $50/$100 - 2023/11/16 17:10:11 UTC
+7 Day No Rathole 50/100 NLH 9-max Seat #2 is the button
+Seat 2: lmpala_zOrg ($2286.88)
+Seat 7: CPUrul0r ($8269.01)
+lmpala_zOrg posts the small blind $50
+CPUrul0r posts the big blind $100
+*** HOLE CARDS *** 
+lmpala_zOrg calls $50
+CPUrul0r raises $350 to $450
+lmpala_zOrg folds
+Uncalled bet ($350) returned to CPUrul0r
+CPUrul0r does not show
+*** SUMMARY ***
+Total pot $200
+Seat 2: lmpala_zOrg (small blind) folded on the Pre-Flop
+Seat 7: CPUrul0r (big blind) did not showed and won $200
+
+
+Hand #1933356253 - Holdem(No Limit) - $50/$100 - 2023/11/16 17:11:20 UTC
+7 Day No Rathole 50/100 NLH 9-max Seat #7 is the button
+Seat 2: lmpala_zOrg ($2186.88)
+Seat 7: CPUrul0r ($8369.01)
+CPUrul0r posts the small blind $50
+lmpala_zOrg posts the big blind $100
+*** HOLE CARDS *** 
+CPUrul0r calls $50
+lmpala_zOrg checks
+*** FLOP *** [6h Ah Kc]
+Main pot $198.75 | Rake $1.25
+lmpala_zOrg checks
+CPUrul0r bets $100
+lmpala_zOrg calls $100
+*** TURN *** [6h Ah Kc] [Tc]
+Main pot $398.75 | Rake $1.25
+lmpala_zOrg checks
+CPUrul0r checks
+*** RIVER *** [6h Ah Kc Tc] [8h]
+Main pot $398.75 | Rake $1.25
+lmpala_zOrg bets $279.78
+CPUrul0r calls $279.78
+*** SHOW DOWN ***
+Main pot $398.75 | Rake $1.25
+CPUrul0r shows [As 5s]
+CPUrul0r collected $958.31 from main pot
+*** SUMMARY ***
+Total pot $958.31 | Rake $1.25
+Seat 2: lmpala_zOrg (big blind) did not showed and lost
+Seat 7: CPUrul0r (small blind) showed [As 5s] and won $958.31 with OnePair [As Ah Kc Tc 8h]
+
+
+Hand #1933362324 - Holdem(No Limit) - $50/$100 - 2023/11/16 17:15:51 UTC
+7 Day No Rathole 50/100 NLH 9-max Seat #2 is the button
+Seat 2: lmpala_zOrg ($1748.75)
+Seat 7: CPUrul0r ($11949.64)
+lmpala_zOrg posts the small blind $50
+CPUrul0r posts the big blind $100
+*** HOLE CARDS *** 
+lmpala_zOrg calls $50
+CPUrul0r raises $300 to $400
+lmpala_zOrg folds
+Uncalled bet ($300) returned to CPUrul0r
+CPUrul0r does not show
+*** SUMMARY ***
+Total pot $200
+Seat 2: lmpala_zOrg (small blind) folded on the Pre-Flop
+Seat 7: CPUrul0r (big blind) did not showed and won $200
+
+
+Hand #1933362670 - Holdem(No Limit) - $50/$100 - 2023/11/16 17:16:43 UTC
+7 Day No Rathole 50/100 NLH 9-max Seat #7 is the button
+Seat 2: lmpala_zOrg ($1648.75)
+Seat 7: CPUrul0r ($12049.64)
+CPUrul0r posts the small blind $50
+lmpala_zOrg posts the big blind $100
+*** HOLE CARDS *** 
+CPUrul0r calls $50
+lmpala_zOrg checks
+*** FLOP *** [7s As 5c]
+Main pot $198.75 | Rake $1.25
+lmpala_zOrg checks
+CPUrul0r bets $100
+lmpala_zOrg calls $100
+*** TURN *** [7s As 5c] [Qh]
+Main pot $398.75 | Rake $1.25
+lmpala_zOrg checks
+CPUrul0r bets $350
+lmpala_zOrg folds
+Uncalled bet ($350) returned to CPUrul0r
+CPUrul0r does not show
+*** SUMMARY ***
+Total pot $398.75 | Rake $1.25
+Seat 2: lmpala_zOrg (big blind) folded on the Turn
+Seat 7: CPUrul0r (small blind) did not showed and won $398.75
+
+
+Hand #1933363653 - Holdem(No Limit) - $50/$100 - 2023/11/16 17:17:03 UTC
+7 Day No Rathole 50/100 NLH 9-max Seat #2 is the button
+Seat 2: lmpala_zOrg ($1448.75)
+Seat 7: CPUrul0r ($12248.39)
+lmpala_zOrg posts the small blind $50
+CPUrul0r posts the big blind $100
+*** HOLE CARDS *** 
+lmpala_zOrg calls $50
+CPUrul0r raises $250 to $350
+lmpala_zOrg raises $1348.75 to $1448.75 and is all-in
+CPUrul0r calls $1098.75
+*** FLOP *** [5d 3c 9c]
+Main pot $2896.25 | Rake $1.25
+*** TURN *** [5d 3c 9c] [6s]
+Main pot $2896.25 | Rake $1.25
+*** RIVER *** [5d 3c 9c 6s] [Kd]
+Main pot $2896.25 | Rake $1.25
+*** SHOW DOWN ***
+Main pot $2896.25 | Rake $1.25
+CPUrul0r shows [Qc As]
+lmpala_zOrg shows [Jc Qh]
+CPUrul0r collected $2896.25 from main pot
+*** SUMMARY ***
+Total pot $2896.25 | Rake $1.25
+Seat 2: lmpala_zOrg (small blind) showed [Jc Qh] and lost
+Seat 7: CPUrul0r (big blind) showed [Qc As] and won $2896.25 with HighCard [As Kd Qc 9c 6s]
+
+
+Hand #1933364318 - Holdem(No Limit) - $50/$100 - 2023/11/16 17:17:34 UTC
+7 Day No Rathole 50/100 NLH 9-max Seat #7 is the button
+Seat 2: lmpala_zOrg ($1000)
+Seat 7: CPUrul0r ($13695.89)
+CPUrul0r posts the small blind $50
+lmpala_zOrg posts the big blind $100
+*** HOLE CARDS *** 
+CPUrul0r raises $13645.89 to $13695.89 and is all-in
+lmpala_zOrg folds
+Uncalled bet ($13595.89) returned to CPUrul0r
+CPUrul0r does not show
+*** SUMMARY ***
+Total pot $200
+Seat 2: lmpala_zOrg (big blind) folded on the Pre-Flop
+Seat 7: CPUrul0r (small blind) did not showed and won $200
+
+
+Hand #1933364623 - Holdem(No Limit) - $50/$100 - 2023/11/16 17:17:42 UTC
+7 Day No Rathole 50/100 NLH 9-max Seat #2 is the button
+Seat 2: lmpala_zOrg ($1000)
+Seat 7: CPUrul0r ($13795.89)
+lmpala_zOrg posts the small blind $50
+CPUrul0r posts the big blind $100
+*** HOLE CARDS *** 
+lmpala_zOrg raises $950 to $1000 and is all-in
+CPUrul0r calls $900
+*** FLOP *** [Tc 2h 6d]
+Main pot $1998.75 | Rake $1.25
+*** TURN *** [Tc 2h 6d] [9c]
+Main pot $1998.75 | Rake $1.25
+*** RIVER *** [Tc 2h 6d 9c] [3h]
+Main pot $1998.75 | Rake $1.25
+*** SHOW DOWN ***
+Main pot $1998.75 | Rake $1.25
+lmpala_zOrg shows [7c Kd]
+CPUrul0r shows [Jh Qd]
+lmpala_zOrg collected $1998.75 from main pot
+*** SUMMARY ***
+Total pot $1998.75 | Rake $1.25
+Seat 2: lmpala_zOrg (small blind) showed [7c Kd] and won $1998.75 with HighCard [Kd Tc 9c 7c 6d]
+Seat 7: CPUrul0r (big blind) showed [Jh Qd] and lost
+
+
+Hand #1933365058 - Holdem(No Limit) - $50/$100 - 2023/11/16 17:18:27 UTC
+7 Day No Rathole 50/100 NLH 9-max Seat #7 is the button
+Seat 2: lmpala_zOrg ($1998.75)
+Seat 7: CPUrul0r ($12795.89)
+CPUrul0r posts the small blind $50
+lmpala_zOrg posts the big blind $100
+*** HOLE CARDS *** 
+CPUrul0r raises $150 to $200
+lmpala_zOrg calls $100
+*** FLOP *** [Kh As 3h]
+Main pot $398.75 | Rake $1.25
+lmpala_zOrg checks
+CPUrul0r bets $200
+lmpala_zOrg folds
+Uncalled bet ($200) returned to CPUrul0r
+CPUrul0r does not show
+*** SUMMARY ***
+Total pot $398.75 | Rake $1.25
+Seat 2: lmpala_zOrg (big blind) folded on the Flop
+Seat 7: CPUrul0r (small blind) did not showed and won $398.75
+
+
+Hand #1933365644 - Holdem(No Limit) - $50/$100 - 2023/11/16 17:18:43 UTC
+7 Day No Rathole 50/100 NLH 9-max Seat #2 is the button
+Seat 2: lmpala_zOrg ($1798.75)
+Seat 7: CPUrul0r ($12994.64)
+lmpala_zOrg posts the small blind $50
+CPUrul0r posts the big blind $100
+*** HOLE CARDS *** 
+lmpala_zOrg raises $150 to $200
+CPUrul0r folds
+Uncalled bet ($100) returned to lmpala_zOrg
+lmpala_zOrg does not show
+*** SUMMARY ***
+Total pot $200
+Seat 2: lmpala_zOrg (small blind) did not showed and won $200
+Seat 7: CPUrul0r (big blind) folded on the Pre-Flop
+
+
+Hand #1933365938 - Holdem(No Limit) - $50/$100 - 2023/11/16 17:19:40 UTC
+7 Day No Rathole 50/100 NLH 9-max Seat #7 is the button
+Seat 2: lmpala_zOrg ($1898.75)
+Seat 7: CPUrul0r ($12894.64)
+CPUrul0r posts the small blind $50
+lmpala_zOrg posts the big blind $100
+*** HOLE CARDS *** 
+CPUrul0r raises $150 to $200
+lmpala_zOrg calls $100
+*** FLOP *** [4c 3d 3h]
+Main pot $398.75 | Rake $1.25
+lmpala_zOrg checks
+CPUrul0r bets $100
+lmpala_zOrg raises $350 to $350
+CPUrul0r raises $12594.64 to $12694.64 and is all-in
+lmpala_zOrg folds
+Uncalled bet ($12344.64) returned to CPUrul0r
+CPUrul0r does not show
+*** SUMMARY ***
+Total pot $1098.75 | Rake $1.25
+Seat 2: lmpala_zOrg (big blind) folded on the Flop
+Seat 7: CPUrul0r (small blind) did not showed and won $1098.75
+
+
+Hand #1933367017 - Holdem(No Limit) - $50/$100 - 2023/11/16 17:19:55 UTC
+7 Day No Rathole 50/100 NLH 9-max Seat #2 is the button
+Seat 2: lmpala_zOrg ($1348.75)
+Seat 7: CPUrul0r ($13443.39)
+lmpala_zOrg posts the small blind $50
+CPUrul0r posts the big blind $100
+*** HOLE CARDS *** 
+lmpala_zOrg calls $50
+CPUrul0r raises $13343.39 to $13443.39 and is all-in
+lmpala_zOrg folds
+Uncalled bet ($13343.39) returned to CPUrul0r
+CPUrul0r does not show
+*** SUMMARY ***
+Total pot $200
+Seat 2: lmpala_zOrg (small blind) folded on the Pre-Flop
+Seat 7: CPUrul0r (big blind) did not showed and won $200
+
+
+Hand #1933367294 - Holdem(No Limit) - $50/$100 - 2023/11/16 17:20:13 UTC
+7 Day No Rathole 50/100 NLH 9-max Seat #7 is the button
+Seat 2: lmpala_zOrg ($1248.75)
+Seat 7: CPUrul0r ($13543.39)
+CPUrul0r posts the small blind $50
+lmpala_zOrg posts the big blind $100
+*** HOLE CARDS *** 
+CPUrul0r calls $50
+lmpala_zOrg raises $200 to $300
+CPUrul0r folds
+Uncalled bet ($200) returned to lmpala_zOrg
+lmpala_zOrg does not show
+*** SUMMARY ***
+Total pot $200
+Seat 2: lmpala_zOrg (big blind) did not showed and won $200
+Seat 7: CPUrul0r (small blind) folded on the Pre-Flop
+
+
+Hand #1933367651 - Holdem(No Limit) - $50/$100 - 2023/11/16 17:20:29 UTC
+7 Day No Rathole 50/100 NLH 9-max Seat #2 is the button
+Seat 2: lmpala_zOrg ($1348.75)
+Seat 7: CPUrul0r ($13443.39)
+lmpala_zOrg posts the small blind $50
+CPUrul0r posts the big blind $100
+*** HOLE CARDS *** 
+lmpala_zOrg raises $1298.75 to $1348.75 and is all-in
+CPUrul0r calls $1248.75
+*** FLOP *** [2c 3c Jd]
+Main pot $2696.25 | Rake $1.25
+*** TURN *** [2c 3c Jd] [5c]
+Main pot $2696.25 | Rake $1.25
+*** RIVER *** [2c 3c Jd 5c] [6h]
+Main pot $2696.25 | Rake $1.25
+*** SHOW DOWN ***
+Main pot $2696.25 | Rake $1.25
+lmpala_zOrg shows [6d 7d]
+CPUrul0r shows [Qc Ts]
+lmpala_zOrg collected $2696.25 from main pot
+*** SUMMARY ***
+Total pot $2696.25 | Rake $1.25
+Seat 2: lmpala_zOrg (small blind) showed [6d 7d] and won $2696.25 with OnePair [6h 6d Jd 7d 5c]
+Seat 7: CPUrul0r (big blind) showed [Qc Ts] and lost
+
+
+Hand #1933479884 - Holdem(No Limit) - $50/$100 - 2023/11/16 19:06:03 UTC
+7 Day No Rathole 50/100 NLH 9-max Seat #2 is the button
+Seat 2: Luis Coppel ($1000)
+Seat 7: CPUrul0r ($12094.64)
+Luis Coppel posts the small blind $50
+CPUrul0r posts the big blind $100
+*** HOLE CARDS *** 
+Luis Coppel raises $950 to $1000 and is all-in
+CPUrul0r folds
+Uncalled bet ($900) returned to Luis Coppel
+Luis Coppel does not show
+*** SUMMARY ***
+Total pot $200
+Seat 2: Luis Coppel (small blind) did not showed and won $200
+Seat 7: CPUrul0r (big blind) folded on the Pre-Flop
+
+
+Hand #1933503647 - Holdem(No Limit) - $50/$100 - 2023/11/16 19:26:30 UTC
+7 Day No Rathole 50/100 NLH 9-max Seat #7 is the button
+Seat 2: Luis Coppel ($600)
+Seat 7: CPUrul0r ($17484.64)
+CPUrul0r posts the small blind $50
+Luis Coppel posts the big blind $100
+*** HOLE CARDS *** 
+CPUrul0r folds
+*** SUMMARY ***
+Total pot $150
+Seat 2: Luis Coppel (big blind) did not showed and won $150
+Seat 7: CPUrul0r (small blind) folded on the Pre-Flop
+
+
+Hand #1933503767 - Holdem(No Limit) - $50/$100 - 2023/11/16 19:26:36 UTC
+7 Day No Rathole 50/100 NLH 9-max Seat #2 is the button
+Seat 2: Luis Coppel ($650)
+Seat 7: CPUrul0r ($17434.64)
+Luis Coppel posts the small blind $50
+CPUrul0r posts the big blind $100
+*** HOLE CARDS *** 
+Luis Coppel raises $600 to $650 and is all-in
+CPUrul0r calls $550
+*** FLOP *** [9c Ah 4h]
+Main pot $1298.75 | Rake $1.25
+*** TURN *** [9c Ah 4h] [Tc]
+Main pot $1298.75 | Rake $1.25
+*** RIVER *** [9c Ah 4h Tc] [4c]
+Main pot $1298.75 | Rake $1.25
+*** SHOW DOWN ***
+Main pot $1298.75 | Rake $1.25
+CPUrul0r shows [Qd Th]
+Luis Coppel shows [Kh 3c]
+CPUrul0r collected $1298.75 from main pot
+*** SUMMARY ***
+Total pot $1298.75 | Rake $1.25
+Seat 2: Luis Coppel (small blind) showed [Kh 3c] and lost
+Seat 7: CPUrul0r (big blind) showed [Qd Th] and won $1298.75 with TwoPair [Th Tc 4h 4c Ah]
+
+
+Hand #1933504105 - Holdem(No Limit) - $50/$100 - 2023/11/16 19:26:57 UTC
+7 Day No Rathole 50/100 NLH 9-max Seat #7 is the button
+Seat 2: Luis Coppel ($1000)
+Seat 7: CPUrul0r ($18083.39)
+CPUrul0r posts the small blind $50
+Luis Coppel posts the big blind $100
+*** HOLE CARDS *** 
+CPUrul0r raises $18033.39 to $18083.39 and is all-in
+Luis Coppel calls $900 and is all-in
+Uncalled bet ($17083.39) returned to CPUrul0r
+CPUrul0r does not show
+*** FLOP *** [7d 3h 4h]
+Main pot $1998.75 | Rake $1.25
+*** TURN *** [7d 3h 4h] [Js]
+Main pot $1998.75 | Rake $1.25
+*** RIVER *** [7d 3h 4h Js] [7h]
+Main pot $1998.75 | Rake $1.25
+*** SHOW DOWN ***
+Main pot $1998.75 | Rake $1.25
+CPUrul0r shows [Jc 8s]
+Luis Coppel shows [Ah Qc]
+CPUrul0r collected $1998.75 from main pot
+*** SUMMARY ***
+Total pot $1998.75 | Rake $1.25
+Seat 2: Luis Coppel (big blind) showed [Ah Qc] and lost
+Seat 7: CPUrul0r (small blind) showed [Jc 8s] and won $1998.75 with TwoPair [Js Jc 7h 7d 8s]
+
+
+Hand #1933504512 - Holdem(No Limit) - $50/$100 - 2023/11/16 19:27:19 UTC
+7 Day No Rathole 50/100 NLH 9-max Seat #2 is the button
+Seat 2: Luis Coppel ($1000)
+Seat 7: CPUrul0r ($19082.14)
+Luis Coppel posts the small blind $50
+CPUrul0r posts the big blind $100
+*** HOLE CARDS *** 
+Luis Coppel calls $50
+CPUrul0r raises $18982.14 to $19082.14 and is all-in
+Luis Coppel folds
+Uncalled bet ($18982.14) returned to CPUrul0r
+CPUrul0r does not show
+*** SUMMARY ***
+Total pot $200
+Seat 2: Luis Coppel (small blind) folded on the Pre-Flop
+Seat 7: CPUrul0r (big blind) did not showed and won $200
+
+
+Hand #1933504697 - Holdem(No Limit) - $50/$100 - 2023/11/16 19:27:27 UTC
+7 Day No Rathole 50/100 NLH 9-max Seat #7 is the button
+Seat 2: Luis Coppel ($900)
+Seat 7: CPUrul0r ($19182.14)
+CPUrul0r posts the small blind $50
+Luis Coppel posts the big blind $100
+*** HOLE CARDS *** 
+CPUrul0r raises $19132.14 to $19182.14 and is all-in
+Luis Coppel calls $800 and is all-in
+Uncalled bet ($18282.14) returned to CPUrul0r
+CPUrul0r does not show
+*** FLOP *** [6c 7s Kd]
+Main pot $1798.75 | Rake $1.25
+*** TURN *** [6c 7s Kd] [4h]
+Main pot $1798.75 | Rake $1.25
+*** RIVER *** [6c 7s Kd 4h] [4s]
+Main pot $1798.75 | Rake $1.25
+*** SHOW DOWN ***
+Main pot $1798.75 | Rake $1.25
+CPUrul0r shows [Qc 7h]
+Luis Coppel shows [3h Ah]
+CPUrul0r collected $1798.75 from main pot
+*** SUMMARY ***
+Total pot $1798.75 | Rake $1.25
+Seat 2: Luis Coppel (big blind) showed [3h Ah] and lost
+Seat 7: CPUrul0r (small blind) showed [Qc 7h] and won $1798.75 with TwoPair [7s 7h 4s 4h Kd]
+
+
+Hand #1933505084 - Holdem(No Limit) - $50/$100 - 2023/11/16 19:28:05 UTC
+7 Day No Rathole 50/100 NLH 9-max Seat #2 is the button
+Seat 2: Luis Coppel ($1000)
+Seat 7: CPUrul0r ($20080.89)
+Luis Coppel posts the small blind $50
+CPUrul0r posts the big blind $100
+*** HOLE CARDS *** 
+Luis Coppel calls $50
+CPUrul0r checks
+*** FLOP *** [8s 6h 8c]
+Main pot $198.75 | Rake $1.25
+CPUrul0r checks
+Luis Coppel checks
+*** TURN *** [8s 6h 8c] [9h]
+Main pot $198.75 | Rake $1.25
+CPUrul0r bets $200
+Luis Coppel folds
+Uncalled bet ($200) returned to CPUrul0r
+CPUrul0r does not show
+*** SUMMARY ***
+Total pot $198.75 | Rake $1.25
+Seat 2: Luis Coppel (small blind) folded on the Turn
+Seat 7: CPUrul0r (big blind) did not showed and won $198.75
+
+
+Hand #1933505580 - Holdem(No Limit) - $50/$100 - 2023/11/16 19:28:13 UTC
+7 Day No Rathole 50/100 NLH 9-max Seat #7 is the button
+Seat 2: Luis Coppel ($900)
+Seat 7: CPUrul0r ($20179.64)
+CPUrul0r posts the small blind $50
+Luis Coppel posts the big blind $100
+*** HOLE CARDS *** 
+CPUrul0r raises $20129.64 to $20179.64 and is all-in
+Luis Coppel calls $800 and is all-in
+Uncalled bet ($19279.64) returned to CPUrul0r
+CPUrul0r does not show
+*** FLOP *** [Qc 5c 6d]
+Main pot $1798.75 | Rake $1.25
+*** TURN *** [Qc 5c 6d] [Td]
+Main pot $1798.75 | Rake $1.25
+*** RIVER *** [Qc 5c 6d Td] [4d]
+Main pot $1798.75 | Rake $1.25
+*** SHOW DOWN ***
+Main pot $1798.75 | Rake $1.25
+CPUrul0r shows [Kd 6c]
+Luis Coppel shows [As 4h]
+CPUrul0r collected $1798.75 from main pot
+*** SUMMARY ***
+Total pot $1798.75 | Rake $1.25
+Seat 2: Luis Coppel (big blind) showed [As 4h] and lost
+Seat 7: CPUrul0r (small blind) showed [Kd 6c] and won $1798.75 with OnePair [6d 6c Kd Qc Td]
+
+
+Hand #1933505979 - Holdem(No Limit) - $50/$100 - 2023/11/16 19:29:14 UTC
+7 Day No Rathole 50/100 NLH 9-max Seat #2 is the button
+Seat 2: Luis Coppel ($1000)
+Seat 7: CPUrul0r ($21078.39)
+Luis Coppel posts the small blind $50
+CPUrul0r posts the big blind $100
+*** HOLE CARDS *** 
+Luis Coppel calls $50
+CPUrul0r checks
+*** FLOP *** [8h 9d Jc]
+Main pot $198.75 | Rake $1.25
+CPUrul0r checks
+Luis Coppel bets $100
+CPUrul0r calls $100
+*** TURN *** [8h 9d Jc] [5s]
+Main pot $398.75 | Rake $1.25
+CPUrul0r checks
+Luis Coppel bets $249.37
+CPUrul0r folds
+Uncalled bet ($249.37) returned to Luis Coppel
+Luis Coppel does not show
+*** SUMMARY ***
+Total pot $398.75 | Rake $1.25
+Seat 2: Luis Coppel (small blind) did not showed and won $398.75
+Seat 7: CPUrul0r (big blind) folded on the Turn
+
+
+Hand #1933506881 - Holdem(No Limit) - $50/$100 - 2023/11/16 19:29:23 UTC
+7 Day No Rathole 50/100 NLH 9-max Seat #7 is the button
+Seat 2: Luis Coppel ($1198.75)
+Seat 7: CPUrul0r ($20878.39)
+CPUrul0r posts the small blind $50
+Luis Coppel posts the big blind $100
+*** HOLE CARDS *** 
+CPUrul0r raises $20828.39 to $20878.39 and is all-in
+Luis Coppel folds
+Uncalled bet ($20778.39) returned to CPUrul0r
+CPUrul0r does not show
+*** SUMMARY ***
+Total pot $200
+Seat 2: Luis Coppel (big blind) folded on the Pre-Flop
+Seat 7: CPUrul0r (small blind) did not showed and won $200
+
+
+Hand #1933507066 - Holdem(No Limit) - $50/$100 - 2023/11/16 19:29:55 UTC
+7 Day No Rathole 50/100 NLH 9-max Seat #2 is the button
+Seat 2: Luis Coppel ($1098.75)
+Seat 7: CPUrul0r ($20978.39)
+Luis Coppel posts the small blind $50
+CPUrul0r posts the big blind $100
+*** HOLE CARDS *** 
+Luis Coppel calls $50
+CPUrul0r checks
+*** FLOP *** [Kh 2s 8h]
+Main pot $198.75 | Rake $1.25
+CPUrul0r checks
+Luis Coppel checks
+*** TURN *** [Kh 2s 8h] [9d]
+Main pot $198.75 | Rake $1.25
+CPUrul0r bets $100
+Luis Coppel folds
+Uncalled bet ($100) returned to CPUrul0r
+CPUrul0r does not show
+*** SUMMARY ***
+Total pot $198.75 | Rake $1.25
+Seat 2: Luis Coppel (small blind) folded on the Turn
+Seat 7: CPUrul0r (big blind) did not showed and won $198.75
+
+
+Hand #1933507672 - Holdem(No Limit) - $50/$100 - 2023/11/16 19:30:07 UTC
+7 Day No Rathole 50/100 NLH 9-max Seat #7 is the button
+Seat 2: Luis Coppel ($998.75)
+Seat 7: CPUrul0r ($21077.14)
+CPUrul0r posts the small blind $50
+Luis Coppel posts the big blind $100
+*** HOLE CARDS *** 
+CPUrul0r raises $21027.14 to $21077.14 and is all-in
+Luis Coppel folds
+Uncalled bet ($20977.14) returned to CPUrul0r
+CPUrul0r does not show
+*** SUMMARY ***
+Total pot $200
+Seat 2: Luis Coppel (big blind) folded on the Pre-Flop
+Seat 7: CPUrul0r (small blind) did not showed and won $200
+
+
+Hand #1933515551 - Holdem(No Limit) - $50/$100 - 2023/11/16 19:37:29 UTC
+7 Day No Rathole 50/100 NLH 9-max Seat #2 is the button
+Seat 2: Luis Coppel ($2443.75)
+Seat 7: CPUrul0r ($21620.89)
+Luis Coppel posts the small blind $50
+CPUrul0r posts the big blind $100
+*** HOLE CARDS *** 
+Luis Coppel raises $150 to $200
+CPUrul0r calls $100
+*** FLOP *** [9c 6c 4d]
+Main pot $398.75 | Rake $1.25
+CPUrul0r checks
+Luis Coppel checks
+*** TURN *** [9c 6c 4d] [Qh]
+Main pot $398.75 | Rake $1.25
+CPUrul0r checks
+Luis Coppel checks
+*** RIVER *** [9c 6c 4d Qh] [9d]
+Main pot $398.75 | Rake $1.25
+CPUrul0r bets $400
+Luis Coppel calls $400
+*** SHOW DOWN ***
+Main pot $398.75 | Rake $1.25
+CPUrul0r shows [Qd 5d]
+CPUrul0r collected $1198.75 from main pot
+*** SUMMARY ***
+Total pot $1198.75 | Rake $1.25
+Seat 2: Luis Coppel (small blind) did not showed and lost
+Seat 7: CPUrul0r (big blind) showed [Qd 5d] and won $1198.75 with TwoPair [Qh Qd 9d 9c 6c]
+
+
+Hand #1933516418 - Holdem(No Limit) - $50/$100 - 2023/11/16 19:37:42 UTC
+7 Day No Rathole 50/100 NLH 9-max Seat #7 is the button
+Seat 2: Luis Coppel ($1843.75)
+Seat 7: CPUrul0r ($22219.64)
+CPUrul0r posts the small blind $50
+Luis Coppel posts the big blind $100
+*** HOLE CARDS *** 
+CPUrul0r raises $150 to $200
+Luis Coppel raises $1743.75 to $1843.75 and is all-in
+CPUrul0r folds
+Uncalled bet ($1643.75) returned to Luis Coppel
+Luis Coppel does not show
+*** SUMMARY ***
+Total pot $400
+Seat 2: Luis Coppel (big blind) did not showed and won $400
+Seat 7: CPUrul0r (small blind) folded on the Pre-Flop
+
+
+Hand #1933516616 - Holdem(No Limit) - $50/$100 - 2023/11/16 19:38:28 UTC
+7 Day No Rathole 50/100 NLH 9-max Seat #2 is the button
+Seat 2: Luis Coppel ($2043.75)
+Seat 7: CPUrul0r ($22019.64)
+Luis Coppel posts the small blind $50
+CPUrul0r posts the big blind $100
+*** HOLE CARDS *** 
+Luis Coppel calls $50
+CPUrul0r checks
+*** FLOP *** [7d 8c 5c]
+Main pot $198.75 | Rake $1.25
+CPUrul0r checks
+Luis Coppel checks
+*** TURN *** [7d 8c 5c] [9h]
+Main pot $198.75 | Rake $1.25
+CPUrul0r bets $100
+Luis Coppel calls $100
+*** RIVER *** [7d 8c 5c 9h] [5d]
+Main pot $398.75 | Rake $1.25
+CPUrul0r bets $269
+Luis Coppel folds
+Uncalled bet ($269) returned to CPUrul0r
+CPUrul0r does not show
+*** SUMMARY ***
+Total pot $398.75 | Rake $1.25
+Seat 2: Luis Coppel (small blind) folded on the River
+Seat 7: CPUrul0r (big blind) did not showed and won $398.75
+
+
+Hand #1933517477 - Holdem(No Limit) - $50/$100 - 2023/11/16 19:38:37 UTC
+7 Day No Rathole 50/100 NLH 9-max Seat #7 is the button
+Seat 2: Luis Coppel ($1843.75)
+Seat 7: CPUrul0r ($22218.39)
+CPUrul0r posts the small blind $50
+Luis Coppel posts the big blind $100
+*** HOLE CARDS *** 
+CPUrul0r raises $22168.39 to $22218.39 and is all-in
+Luis Coppel folds
+Uncalled bet ($22118.39) returned to CPUrul0r
+CPUrul0r does not show
+*** SUMMARY ***
+Total pot $200
+Seat 2: Luis Coppel (big blind) folded on the Pre-Flop
+Seat 7: CPUrul0r (small blind) did not showed and won $200
+
+
+Hand #1933517655 - Holdem(No Limit) - $50/$100 - 2023/11/16 19:38:53 UTC
+7 Day No Rathole 50/100 NLH 9-max Seat #2 is the button
+Seat 2: Luis Coppel ($1743.75)
+Seat 7: CPUrul0r ($22318.39)
+Luis Coppel posts the small blind $50
+CPUrul0r posts the big blind $100
+*** HOLE CARDS *** 
+Luis Coppel calls $50
+CPUrul0r raises $300 to $400
+Luis Coppel raises $1643.75 to $1743.75 and is all-in
+CPUrul0r calls $1343.75
+*** FLOP *** [8d Kd Ac]
+Main pot $3486.25 | Rake $1.25
+*** TURN *** [8d Kd Ac] [2s]
+Main pot $3486.25 | Rake $1.25
+*** RIVER *** [8d Kd Ac 2s] [4h]
+Main pot $3486.25 | Rake $1.25
+*** SHOW DOWN ***
+Main pot $3486.25 | Rake $1.25
+CPUrul0r shows [7s As]
+Luis Coppel shows [5h 5s]
+CPUrul0r collected $3486.25 from main pot
+*** SUMMARY ***
+Total pot $3486.25 | Rake $1.25
+Seat 2: Luis Coppel (small blind) showed [5h 5s] and lost
+Seat 7: CPUrul0r (big blind) showed [7s As] and won $3486.25 with OnePair [As Ac Kd 8d 7s]
+
+
+Hand #1933518294 - Holdem(No Limit) - $50/$100 - 2023/11/16 19:39:20 UTC
+7 Day No Rathole 50/100 NLH 9-max Seat #7 is the button
+Seat 2: Luis Coppel ($1000)
+Seat 7: CPUrul0r ($24060.89)
+CPUrul0r posts the small blind $50
+Luis Coppel posts the big blind $100
+*** HOLE CARDS *** 
+CPUrul0r calls $50
+Luis Coppel raises $900 to $1000 and is all-in
+CPUrul0r folds
+Uncalled bet ($900) returned to Luis Coppel
+Luis Coppel does not show
+*** SUMMARY ***
+Total pot $200
+Seat 2: Luis Coppel (big blind) did not showed and won $200
+Seat 7: CPUrul0r (small blind) folded on the Pre-Flop
+
+
+Hand #1933518471 - Holdem(No Limit) - $50/$100 - 2023/11/16 19:39:57 UTC
+7 Day No Rathole 50/100 NLH 9-max Seat #2 is the button
+Seat 2: Luis Coppel ($1100)
+Seat 7: CPUrul0r ($23960.89)
+Luis Coppel posts the small blind $50
+CPUrul0r posts the big blind $100
+*** HOLE CARDS *** 
+Luis Coppel calls $50
+CPUrul0r checks
+*** FLOP *** [Qs Jh Ac]
+Main pot $198.75 | Rake $1.25
+CPUrul0r checks
+Luis Coppel bets $100
+CPUrul0r calls $100
+*** TURN *** [Qs Jh Ac] [9h]
+Main pot $398.75 | Rake $1.25
+CPUrul0r checks
+Luis Coppel bets $249.37
+CPUrul0r folds
+Uncalled bet ($249.37) returned to Luis Coppel
+Luis Coppel does not show
+*** SUMMARY ***
+Total pot $398.75 | Rake $1.25
+Seat 2: Luis Coppel (small blind) did not showed and won $398.75
+Seat 7: CPUrul0r (big blind) folded on the Turn
+
+
+Hand #1933519158 - Holdem(No Limit) - $50/$100 - 2023/11/16 19:40:23 UTC
+7 Day No Rathole 50/100 NLH 9-max Seat #7 is the button
+Seat 2: Luis Coppel ($1298.75)
+Seat 7: CPUrul0r ($23760.89)
+CPUrul0r posts the small blind $50
+Luis Coppel posts the big blind $100
+*** HOLE CARDS *** 
+CPUrul0r calls $50
+Luis Coppel checks
+*** FLOP *** [7h 4c 8d]
+Main pot $198.75 | Rake $1.25
+Luis Coppel checks
+CPUrul0r checks
+*** TURN *** [7h 4c 8d] [Qh]
+Main pot $198.75 | Rake $1.25
+Luis Coppel checks
+CPUrul0r checks
+*** RIVER *** [7h 4c 8d Qh] [Qd]
+Main pot $198.75 | Rake $1.25
+Luis Coppel checks
+CPUrul0r checks
+*** SHOW DOWN ***
+Main pot $198.75 | Rake $1.25
+CPUrul0r shows [Ac Jc]
+CPUrul0r collected $198.75 from main pot
+*** SUMMARY ***
+Total pot $198.75 | Rake $1.25
+Seat 2: Luis Coppel (big blind) did not showed and lost
+Seat 7: CPUrul0r (small blind) showed [Ac Jc] and won $198.75 with OnePair [Qh Qd Ac Jc 8d]
+
+
+
+

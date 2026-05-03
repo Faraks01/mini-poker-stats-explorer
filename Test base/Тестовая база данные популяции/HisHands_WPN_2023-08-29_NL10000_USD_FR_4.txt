@@ -1,0 +1,95 @@
+Hand #1839589882 - Holdem(No Limit) - $50/$100 - 2023/08/29 15:01:45 UTC
+7 Day No Rathole 50/100 NLH 9-max Seat #1 is the button
+Seat 1: grimywaifu ($1050)
+Seat 6: DoublelegTD ($6799.81)
+grimywaifu posts the small blind $50
+DoublelegTD posts the big blind $100
+*** HOLE CARDS *** 
+grimywaifu folds
+*** SUMMARY ***
+Total pot $150
+Seat 1: grimywaifu (small blind) folded on the Pre-Flop
+Seat 6: DoublelegTD (big blind) did not showed and won $150
+
+
+Hand #1839589963 - Holdem(No Limit) - $50/$100 - 2023/08/29 15:01:59 UTC
+7 Day No Rathole 50/100 NLH 9-max Seat #6 is the button
+Seat 1: grimywaifu ($1000)
+Seat 6: DoublelegTD ($6849.81)
+Seat 7: v3MGA ($10000)
+DoublelegTD posts the small blind $50
+grimywaifu posts the big blind $100
+*** HOLE CARDS *** 
+DoublelegTD raises $1150 to $1200
+grimywaifu folds
+Uncalled bet ($1100) returned to DoublelegTD
+DoublelegTD does not show
+*** SUMMARY ***
+Total pot $200
+Seat 1: grimywaifu (big blind) folded on the Pre-Flop
+Seat 6: DoublelegTD (small blind) did not showed and won $200
+
+
+Hand #1839590126 - Holdem(No Limit) - $50/$100 - 2023/08/29 15:02:17 UTC
+7 Day No Rathole 50/100 NLH 9-max Seat #1 is the button
+Seat 1: grimywaifu ($1000)
+Seat 6: DoublelegTD ($10000)
+Seat 7: v3MGA ($1150)
+grimywaifu posts the small blind $50
+v3MGA posts the big blind $100
+*** HOLE CARDS *** 
+grimywaifu raises $950 to $1000 and is all-in
+v3MGA calls $900
+*** RUN IT TWICE ***
+*** FLOP 1 *** [Jd Qh Ah]
+Main pot 1 $999.37 | Rake $0.63
+*** TURN 1 *** [Jd Qh Ah] [Ks]
+Main pot 1 $999.37 | Rake $0.63
+*** RIVER 1 *** [Jd Qh Ah Ks] [Kd]
+Main pot 1 $999.37 | Rake $0.63
+*** SHOW DOWN 1 ***
+Main pot 1 $999.37 | Rake $0.63
+grimywaifu shows [6s Qs] (a combo of some cards [Ks Kd Qs Qh Ah])
+v3MGA shows [Jc Kh] (a combo of some cards [Ks Kh Kd Jd Jc])
+v3MGA collected $999.38 from main pot 1
+*** FLOP 2 *** [7d 5d 3d]
+Main pot 2 $999.38 | Rake $0.62
+*** TURN 2 *** [7d 5d 3d] [4h]
+Main pot 2 $999.38 | Rake $0.62
+*** RIVER 2 *** [7d 5d 3d 4h] [7h]
+Main pot 2 $999.38 | Rake $0.62
+*** SHOW DOWN 2 ***
+Main pot 2 $999.38 | Rake $0.62
+grimywaifu shows [6s Qs] (a combo of some cards [7h 6s 5d 4h 3d])
+v3MGA shows [Jc Kh] (a combo of some cards [7h 7d Kh Jc 5d])
+grimywaifu collected $999.37 from main pot 2
+*** SUMMARY ***
+Total pot $1998.75 | Rake $1.25
+Board 1 [Jd Qh Ah Ks Kd]
+Seat 1: grimywaifu (small blind) showed [6s Qs] and lost with a
+Seat 7: v3MGA (big blind) showed [Jc Kh] and won $999.38 with FullHouse [Ks Kh Kd Jd Jc]
+Board 2 [7d 5d 3d 4h 7h]
+Seat 1: grimywaifu (small blind) showed [6s Qs] and won $999.37 with Straight [7h 6s 5d 4h 3d]
+Seat 7: v3MGA (big blind) showed [Jc Kh] and lost with a
+
+
+Hand #1839590395 - Holdem(No Limit) - $50/$100 - 2023/08/29 15:02:55 UTC
+7 Day No Rathole 50/100 NLH 9-max Seat #7 is the button
+Seat 1: grimywaifu ($1000)
+Seat 6: DoublelegTD ($10000)
+Seat 7: v3MGA ($1149.38)
+v3MGA posts the small blind $50
+grimywaifu posts the big blind $100
+*** HOLE CARDS *** 
+v3MGA raises $1099.38 to $1149.38 and is all-in
+grimywaifu folds
+Uncalled bet ($1049.38) returned to v3MGA
+v3MGA does not show
+*** SUMMARY ***
+Total pot $200
+Seat 1: grimywaifu (big blind) folded on the Pre-Flop
+Seat 7: v3MGA (small blind) did not showed and won $200
+
+
+
+

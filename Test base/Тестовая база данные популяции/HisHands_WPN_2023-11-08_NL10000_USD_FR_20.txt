@@ -1,0 +1,511 @@
+Hand #1923198804 - Holdem(No Limit) - $50/$100 - 2023/11/08 02:29:32 UTC
+7 Day No Rathole 50/100 NLH 9-max Seat #2 is the button
+Seat 2: Pr.Lupine ($2589.99)
+Seat 4: Uhnihilator ($2048.25)
+Pr.Lupine posts the small blind $50
+Uhnihilator posts the big blind $100
+*** HOLE CARDS *** 
+Pr.Lupine calls $50
+Uhnihilator raises $1948.25 to $2048.25 and is all-in
+Pr.Lupine folds
+Uncalled bet ($1948.25) returned to Uhnihilator
+Uhnihilator does not show
+*** SUMMARY ***
+Total pot $200
+Seat 2: Pr.Lupine (small blind) folded on the Pre-Flop
+Seat 4: Uhnihilator (big blind) did not showed and won $200
+
+
+Hand #1923199327 - Holdem(No Limit) - $50/$100 - 2023/11/08 02:29:43 UTC
+7 Day No Rathole 50/100 NLH 9-max Seat #4 is the button
+Seat 2: Pr.Lupine ($2489.99)
+Seat 4: Uhnihilator ($2148.25)
+Uhnihilator posts the small blind $50
+Pr.Lupine posts the big blind $100
+*** HOLE CARDS *** 
+Uhnihilator folds
+*** SUMMARY ***
+Total pot $150
+Seat 2: Pr.Lupine (big blind) did not showed and won $150
+Seat 4: Uhnihilator (small blind) folded on the Pre-Flop
+
+
+Hand #1923480437 - Holdem(No Limit) - $50/$100 - 2023/11/08 08:18:32 UTC
+7 Day No Rathole 50/100 NLH 9-max Seat #2 is the button
+Seat 1: yourmytralala ($5128.44)
+Seat 2: lmpala_zOrg ($6020.02)
+lmpala_zOrg posts the small blind $50
+yourmytralala posts the big blind $100
+*** HOLE CARDS *** 
+lmpala_zOrg raises $200 to $250
+yourmytralala folds
+Uncalled bet ($150) returned to lmpala_zOrg
+lmpala_zOrg does not show
+*** SUMMARY ***
+Total pot $200
+Seat 1: yourmytralala (big blind) folded on the Pre-Flop
+Seat 2: lmpala_zOrg (small blind) did not showed and won $200
+
+
+Hand #1923480572 - Holdem(No Limit) - $50/$100 - 2023/11/08 08:19:23 UTC
+7 Day No Rathole 50/100 NLH 9-max Seat #1 is the button
+Seat 1: yourmytralala ($5028.44)
+Seat 2: lmpala_zOrg ($6120.02)
+yourmytralala posts the small blind $50
+lmpala_zOrg posts the big blind $100
+*** HOLE CARDS *** 
+yourmytralala raises $200 to $250
+lmpala_zOrg calls $150
+*** FLOP *** [6c 8h 2s]
+Main pot $498.75 | Rake $1.25
+lmpala_zOrg checks
+yourmytralala checks
+*** TURN *** [6c 8h 2s] [8c]
+Main pot $498.75 | Rake $1.25
+lmpala_zOrg checks
+yourmytralala checks
+*** RIVER *** [6c 8h 2s 8c] [7h]
+Main pot $498.75 | Rake $1.25
+lmpala_zOrg checks
+yourmytralala checks
+*** SHOW DOWN ***
+Main pot $498.75 | Rake $1.25
+lmpala_zOrg shows [Td Ks]
+lmpala_zOrg collected $498.75 from main pot
+*** SUMMARY ***
+Total pot $498.75 | Rake $1.25
+Seat 1: yourmytralala (small blind) did not showed and lost
+Seat 2: lmpala_zOrg (big blind) showed [Td Ks] and won $498.75 with OnePair [8h 8c Ks Td 7h]
+
+
+Hand #1923507477 - Holdem(No Limit) - $50/$100 - 2023/11/08 09:21:56 UTC
+7 Day No Rathole 50/100 NLH 9-max Seat #2 is the button
+Seat 1: Probdrunk ($1000)
+Seat 2: lmpala_zOrg ($6368.77)
+lmpala_zOrg posts the small blind $50
+Probdrunk posts the big blind $100
+*** HOLE CARDS *** 
+lmpala_zOrg calls $50
+Probdrunk raises $900 to $1000 and is all-in
+lmpala_zOrg calls $900
+*** FLOP *** [Kd Th 9h]
+Main pot $1998.75 | Rake $1.25
+*** TURN *** [Kd Th 9h] [2c]
+Main pot $1998.75 | Rake $1.25
+*** RIVER *** [Kd Th 9h 2c] [5h]
+Main pot $1998.75 | Rake $1.25
+*** SHOW DOWN ***
+Main pot $1998.75 | Rake $1.25
+Probdrunk shows [Ts Ad]
+lmpala_zOrg shows [6c 6d]
+Probdrunk collected $1998.75 from main pot
+*** SUMMARY ***
+Total pot $1998.75 | Rake $1.25
+Seat 1: Probdrunk (big blind) showed [Ts Ad] and won $1998.75 with OnePair [Ts Th Ad Kd 9h]
+Seat 2: lmpala_zOrg (small blind) showed [6c 6d] and lost
+
+
+Hand #1923507682 - Holdem(No Limit) - $50/$100 - 2023/11/08 09:23:11 UTC
+7 Day No Rathole 50/100 NLH 9-max Seat #1 is the button
+Seat 1: Probdrunk ($1998.75)
+Seat 2: lmpala_zOrg ($5368.77)
+Seat 3: FlyingStyle ($10000)
+Seat 4: PathfinderPaco ($10000)
+Probdrunk posts the small blind $50
+lmpala_zOrg posts the big blind $100
+*** HOLE CARDS *** 
+Probdrunk calls $50
+lmpala_zOrg checks
+*** FLOP *** [Kh 7h Qd]
+Main pot $198.75 | Rake $1.25
+lmpala_zOrg checks
+Probdrunk checks
+*** TURN *** [Kh 7h Qd] [5h]
+Main pot $198.75 | Rake $1.25
+lmpala_zOrg checks
+Probdrunk bets $100
+lmpala_zOrg calls $100
+*** RIVER *** [Kh 7h Qd 5h] [6c]
+Main pot $398.75 | Rake $1.25
+lmpala_zOrg checks
+Probdrunk checks
+*** SHOW DOWN ***
+Main pot $398.75 | Rake $1.25
+lmpala_zOrg shows [2d Qh]
+lmpala_zOrg collected $398.75 from main pot
+*** SUMMARY ***
+Total pot $398.75 | Rake $1.25
+Seat 1: Probdrunk (small blind) did not showed and lost
+Seat 2: lmpala_zOrg (big blind) showed [2d Qh] and won $398.75 with OnePair [Qh Qd Kh 7h 6c]
+
+
+Hand #1923508102 - Holdem(No Limit) - $50/$100 - 2023/11/08 09:23:32 UTC
+7 Day No Rathole 50/100 NLH 9-max Seat #1 is the button
+Seat 1: Probdrunk ($10000)
+Seat 2: lmpala_zOrg ($5567.52)
+Seat 3: FlyingStyle ($1000)
+Seat 4: PathfinderPaco ($10000)
+Seat 5: IdoGoats ($10000)
+lmpala_zOrg posts the small blind $50
+FlyingStyle posts the big blind $100
+*** HOLE CARDS *** 
+Probdrunk folds
+lmpala_zOrg folds
+*** SUMMARY ***
+Total pot $150
+Seat 1: Probdrunk (button) folded on the Pre-Flop and did not bet
+Seat 2: lmpala_zOrg (small blind) folded on the Pre-Flop
+Seat 3: FlyingStyle (big blind) did not showed and won $150
+
+
+Hand #1923508209 - Holdem(No Limit) - $50/$100 - 2023/11/08 09:23:50 UTC
+7 Day No Rathole 50/100 NLH 9-max Seat #2 is the button
+Seat 1: Probdrunk ($10000)
+Seat 2: lmpala_zOrg ($10000)
+Seat 3: FlyingStyle ($1050)
+Seat 4: PathfinderPaco ($1000)
+Seat 5: IdoGoats ($10000)
+FlyingStyle posts the small blind $50
+PathfinderPaco posts the big blind $100
+*** HOLE CARDS *** 
+Probdrunk folds
+lmpala_zOrg folds
+FlyingStyle folds
+*** SUMMARY ***
+Total pot $150
+Seat 1: Probdrunk folded on the Pre-Flop and did not bet
+Seat 2: lmpala_zOrg (button) folded on the Pre-Flop and did not bet
+Seat 3: FlyingStyle (small blind) folded on the Pre-Flop
+Seat 4: PathfinderPaco (big blind) did not showed and won $150
+
+
+Hand #1923508313 - Holdem(No Limit) - $50/$100 - 2023/11/08 09:24:19 UTC
+7 Day No Rathole 50/100 NLH 9-max Seat #3 is the button
+Seat 1: Probdrunk ($10000)
+Seat 2: lmpala_zOrg ($10000)
+Seat 3: FlyingStyle ($10000)
+Seat 4: PathfinderPaco ($1050)
+Seat 5: IdoGoats ($2270.88)
+Seat 6: Libby2828 ($10000)
+PathfinderPaco posts the small blind $50
+IdoGoats posts the big blind $100
+*** HOLE CARDS *** 
+Probdrunk folds
+lmpala_zOrg folds
+FlyingStyle folds
+PathfinderPaco raises $1000 to $1050 and is all-in
+IdoGoats folds
+Uncalled bet ($950) returned to PathfinderPaco
+PathfinderPaco does not show
+*** SUMMARY ***
+Total pot $200
+Seat 1: Probdrunk folded on the Pre-Flop and did not bet
+Seat 2: lmpala_zOrg folded on the Pre-Flop and did not bet
+Seat 3: FlyingStyle (button) folded on the Pre-Flop and did not bet
+Seat 4: PathfinderPaco (small blind) did not showed and won $200
+Seat 5: IdoGoats (big blind) folded on the Pre-Flop
+
+
+Hand #1923508492 - Holdem(No Limit) - $50/$100 - 2023/11/08 09:24:46 UTC
+7 Day No Rathole 50/100 NLH 9-max Seat #4 is the button
+Seat 1: Probdrunk ($10000)
+Seat 2: lmpala_zOrg ($10000)
+Seat 3: FlyingStyle ($10000)
+Seat 4: PathfinderPaco ($10000)
+Seat 5: IdoGoats ($2170.88)
+Seat 6: Libby2828 ($1000)
+IdoGoats posts the small blind $50
+Libby2828 posts the big blind $100
+*** HOLE CARDS *** 
+Probdrunk folds
+lmpala_zOrg folds
+FlyingStyle folds
+PathfinderPaco folds
+IdoGoats raises $2120.88 to $2170.88 and is all-in
+Libby2828 calls $900 and is all-in
+Uncalled bet ($1170.88) returned to IdoGoats
+IdoGoats does not show
+*** RUN IT TWICE ***
+*** FLOP 1 *** [7h Ah 9s]
+Main pot 1 $998.50 | Rake $1.50
+*** TURN 1 *** [7h Ah 9s] [Th]
+Main pot 1 $998.50 | Rake $1.50
+*** RIVER 1 *** [7h Ah 9s Th] [Jh]
+Main pot 1 $998.50 | Rake $1.50
+*** SHOW DOWN 1 ***
+Main pot 1 $998.50 | Rake $1.50
+IdoGoats shows [Ts 9c]
+Libby2828 shows [Jc Qc]
+IdoGoats collected $998.50 from main pot 1
+*** FLOP 2 *** [8c Ad 4c]
+Main pot 2 $998.50 | Rake $1.50
+*** TURN 2 *** [8c Ad 4c] [7s]
+Main pot 2 $998.50 | Rake $1.50
+*** RIVER 2 *** [8c Ad 4c 7s] [8d]
+Main pot 2 $998.50 | Rake $1.50
+*** SHOW DOWN 2 ***
+Main pot 2 $998.50 | Rake $1.50
+IdoGoats shows [Ts 9c]
+Libby2828 collected $998.50 from main pot 2
+*** SUMMARY ***
+Total pot $1997 | Rake $3
+Board 1 [7h Ah 9s Th Jh]
+Seat 1: Probdrunk folded on the Pre-Flop and did not bet
+Seat 2: lmpala_zOrg folded on the Pre-Flop and did not bet
+Seat 3: FlyingStyle folded on the Pre-Flop and did not bet
+Seat 4: PathfinderPaco (button) folded on the Pre-Flop and did not bet
+Seat 5: IdoGoats (small blind) showed [Ts 9c] and won $998.50 with TwoPair [Ts Th 9s 9c Ah]
+Seat 6: Libby2828 (big blind) showed [Jc Qc] and lost
+Board 2 [8c Ad 4c 7s 8d]
+Seat 1: Probdrunk folded on the Pre-Flop and did not bet
+Seat 2: lmpala_zOrg folded on the Pre-Flop and did not bet
+Seat 3: FlyingStyle folded on the Pre-Flop and did not bet
+Seat 4: PathfinderPaco (button) folded on the Pre-Flop and did not bet
+Seat 5: IdoGoats (small blind) showed [Ts 9c] and lost
+Seat 6: Libby2828 (big blind) showed [Jc Qc] and won $0 with TwoPair [Ts Th 9s 9c Ah]
+
+
+Hand #1923508735 - Holdem(No Limit) - $50/$100 - 2023/11/08 09:25:28 UTC
+7 Day No Rathole 50/100 NLH 9-max Seat #5 is the button
+Seat 1: Probdrunk ($10000)
+Seat 2: lmpala_zOrg ($5517.52)
+Seat 3: FlyingStyle ($10000)
+Seat 4: PathfinderPaco ($1150)
+Seat 5: IdoGoats ($10000)
+Seat 6: Libby2828 ($1000)
+Libby2828 posts the small blind $50
+lmpala_zOrg posts the big blind $100
+*** HOLE CARDS *** 
+FlyingStyle folds
+PathfinderPaco raises $200 to $200
+IdoGoats folds
+Libby2828 folds
+lmpala_zOrg folds
+Uncalled bet ($100) returned to PathfinderPaco
+PathfinderPaco does not show
+*** SUMMARY ***
+Total pot $250
+Seat 2: lmpala_zOrg (big blind) folded on the Pre-Flop
+Seat 3: FlyingStyle folded on the Pre-Flop and did not bet
+Seat 4: PathfinderPaco did not showed and won $250
+Seat 5: IdoGoats (button) folded on the Pre-Flop and did not bet
+Seat 6: Libby2828 (small blind) folded on the Pre-Flop
+
+
+Hand #1923508900 - Holdem(No Limit) - $50/$100 - 2023/11/08 09:25:51 UTC
+7 Day No Rathole 50/100 NLH 9-max Seat #6 is the button
+Seat 2: lmpala_zOrg ($5417.52)
+Seat 3: FlyingStyle ($1000)
+Seat 4: PathfinderPaco ($10000)
+Seat 5: IdoGoats ($10000)
+Seat 6: Libby2828 ($1000)
+Seat 7: J0hnMcclean ($10000)
+lmpala_zOrg posts the small blind $50
+FlyingStyle posts the big blind $100
+*** HOLE CARDS *** 
+PathfinderPaco folds
+IdoGoats folds
+Libby2828 raises $1000 to $1000 and is all-in
+lmpala_zOrg folds
+FlyingStyle folds
+Uncalled bet ($900) returned to Libby2828
+Libby2828 does not show
+*** SUMMARY ***
+Total pot $250
+Seat 2: lmpala_zOrg (small blind) folded on the Pre-Flop
+Seat 3: FlyingStyle (big blind) folded on the Pre-Flop
+Seat 4: PathfinderPaco folded on the Pre-Flop and did not bet
+Seat 5: IdoGoats folded on the Pre-Flop and did not bet
+Seat 6: Libby2828 (button) did not showed and won $250
+
+
+Hand #1923509049 - Holdem(No Limit) - $50/$100 - 2023/11/08 09:26:12 UTC
+7 Day No Rathole 50/100 NLH 9-max Seat #2 is the button
+Seat 2: lmpala_zOrg ($10000)
+Seat 3: FlyingStyle ($1000)
+Seat 4: PathfinderPaco ($1300)
+Seat 5: IdoGoats ($10000)
+Seat 6: Libby2828 ($10000)
+Seat 7: J0hnMcclean ($10000)
+FlyingStyle posts the small blind $50
+PathfinderPaco posts the big blind $100
+*** HOLE CARDS *** 
+IdoGoats folds
+Libby2828 folds
+lmpala_zOrg folds
+FlyingStyle raises $950 to $1000 and is all-in
+PathfinderPaco folds
+Uncalled bet ($900) returned to FlyingStyle
+FlyingStyle does not show
+*** SUMMARY ***
+Total pot $200
+Seat 2: lmpala_zOrg (button) folded on the Pre-Flop and did not bet
+Seat 3: FlyingStyle (small blind) did not showed and won $200
+Seat 4: PathfinderPaco (big blind) folded on the Pre-Flop
+Seat 5: IdoGoats folded on the Pre-Flop and did not bet
+Seat 6: Libby2828 folded on the Pre-Flop and did not bet
+
+
+Hand #1923509171 - Holdem(No Limit) - $50/$100 - 2023/11/08 09:26:30 UTC
+7 Day No Rathole 50/100 NLH 9-max Seat #3 is the button
+Seat 2: lmpala_zOrg ($10000)
+Seat 3: FlyingStyle ($1100)
+Seat 4: PathfinderPaco ($1200)
+Seat 7: J0hnMcclean ($1000)
+PathfinderPaco posts the small blind $50
+J0hnMcclean posts the big blind $100
+*** HOLE CARDS *** 
+lmpala_zOrg folds
+FlyingStyle raises $1100 to $1100 and is all-in
+PathfinderPaco folds
+J0hnMcclean folds
+Uncalled bet ($1000) returned to FlyingStyle
+FlyingStyle does not show
+*** SUMMARY ***
+Total pot $250
+Seat 2: lmpala_zOrg folded on the Pre-Flop and did not bet
+Seat 3: FlyingStyle (button) did not showed and won $250
+Seat 4: PathfinderPaco (small blind) folded on the Pre-Flop
+Seat 7: J0hnMcclean (big blind) folded on the Pre-Flop
+
+
+Hand #1923509295 - Holdem(No Limit) - $50/$100 - 2023/11/08 09:26:52 UTC
+7 Day No Rathole 50/100 NLH 9-max Seat #4 is the button
+Seat 2: lmpala_zOrg ($5367.52)
+Seat 3: FlyingStyle ($10000)
+Seat 4: PathfinderPaco ($10000)
+Seat 7: J0hnMcclean ($900)
+J0hnMcclean posts the small blind $50
+lmpala_zOrg posts the big blind $100
+*** HOLE CARDS *** 
+FlyingStyle folds
+PathfinderPaco folds
+J0hnMcclean folds
+*** SUMMARY ***
+Total pot $150
+Seat 2: lmpala_zOrg (big blind) did not showed and won $150
+Seat 3: FlyingStyle folded on the Pre-Flop and did not bet
+Seat 4: PathfinderPaco (button) folded on the Pre-Flop and did not bet
+Seat 7: J0hnMcclean (small blind) folded on the Pre-Flop
+
+
+Hand #1923509429 - Holdem(No Limit) - $50/$100 - 2023/11/08 09:27:06 UTC
+7 Day No Rathole 50/100 NLH 9-max Seat #7 is the button
+Seat 2: lmpala_zOrg ($5417.52)
+Seat 3: FlyingStyle ($10000)
+Seat 4: PathfinderPaco ($10000)
+Seat 7: J0hnMcclean ($850)
+lmpala_zOrg posts the small blind $50
+J0hnMcclean posts the big blind $100
+*** HOLE CARDS *** 
+lmpala_zOrg raises $5367.52 to $5417.52 and is all-in
+J0hnMcclean folds
+Uncalled bet ($5317.52) returned to lmpala_zOrg
+lmpala_zOrg does not show
+*** SUMMARY ***
+Total pot $200
+Seat 2: lmpala_zOrg (small blind) did not showed and won $200
+Seat 7: J0hnMcclean (big blind) folded on the Pre-Flop
+
+
+Hand #1923509523 - Holdem(No Limit) - $50/$100 - 2023/11/08 09:27:16 UTC
+7 Day No Rathole 50/100 NLH 9-max Seat #7 is the button
+Seat 2: lmpala_zOrg ($5517.52)
+Seat 7: J0hnMcclean ($750)
+J0hnMcclean posts the small blind $50
+lmpala_zOrg posts the big blind $100
+*** HOLE CARDS *** 
+J0hnMcclean raises $700 to $750 and is all-in
+lmpala_zOrg calls $650
+*** FLOP *** [7d 5c Th]
+Main pot $1498.75 | Rake $1.25
+*** TURN *** [7d 5c Th] [Tc]
+Main pot $1498.75 | Rake $1.25
+*** RIVER *** [7d 5c Th Tc] [8c]
+Main pot $1498.75 | Rake $1.25
+*** SHOW DOWN ***
+Main pot $1498.75 | Rake $1.25
+lmpala_zOrg shows [Qh Ks]
+J0hnMcclean shows [6c Jh]
+lmpala_zOrg collected $1498.75 from main pot
+*** SUMMARY ***
+Total pot $1498.75 | Rake $1.25
+Seat 2: lmpala_zOrg (big blind) showed [Qh Ks] and won $1498.75 with OnePair [Th Tc Ks Qh 8c]
+Seat 7: J0hnMcclean (small blind) showed [6c Jh] and lost
+
+
+Hand #1923594546 - Holdem(No Limit) - $50/$100 - 2023/11/08 13:33:41 UTC
+7 Day No Rathole 50/100 NLH 9-max Seat #8 is the button
+Seat 3: DoublelegTD ($2093.37)
+Seat 8: grimywaifu ($1000)
+Seat 9: FlyingStyle ($10000)
+grimywaifu posts the small blind $50
+DoublelegTD posts the big blind $100
+*** HOLE CARDS *** 
+grimywaifu calls $50
+DoublelegTD raises $200 to $300
+grimywaifu calls $200
+*** FLOP *** [Th 6d Qd]
+Main pot $598.75 | Rake $1.25
+DoublelegTD checks
+grimywaifu checks
+*** TURN *** [Th 6d Qd] [5c]
+Main pot $598.75 | Rake $1.25
+DoublelegTD checks
+grimywaifu bets $150
+DoublelegTD calls $150
+*** RIVER *** [Th 6d Qd 5c] [6s]
+Main pot $898.75 | Rake $1.25
+DoublelegTD checks
+grimywaifu checks
+*** SHOW DOWN ***
+Main pot $898.75 | Rake $1.25
+DoublelegTD shows [7h Tc]
+grimywaifu shows [9d Td]
+DoublelegTD collected $449.37 from main pot
+grimywaifu collected $449.38 from main pot
+*** SUMMARY ***
+Total pot $898.75 | Rake $1.25
+Seat 3: DoublelegTD (big blind) showed [7h Tc] and won $449.37 with TwoPair [Th Td 6s 6d Qd]
+Seat 8: grimywaifu (small blind) showed [9d Td] and won $449.38 with TwoPair [Th Td 6s 6d Qd]
+
+
+Hand #1923595133 - Holdem(No Limit) - $50/$100 - 2023/11/08 13:33:56 UTC
+7 Day No Rathole 50/100 NLH 9-max Seat #3 is the button
+Seat 3: DoublelegTD ($2092.74)
+Seat 8: grimywaifu ($1000)
+Seat 9: FlyingStyle ($10000)
+DoublelegTD posts the small blind $50
+grimywaifu posts the big blind $100
+*** HOLE CARDS *** 
+DoublelegTD raises $1400 to $1450
+grimywaifu folds
+Uncalled bet ($1350) returned to DoublelegTD
+DoublelegTD does not show
+*** SUMMARY ***
+Total pot $200
+Seat 3: DoublelegTD (small blind) did not showed and won $200
+Seat 8: grimywaifu (big blind) folded on the Pre-Flop
+
+
+Hand #1923595209 - Holdem(No Limit) - $50/$100 - 2023/11/08 13:34:18 UTC
+7 Day No Rathole 50/100 NLH 9-max Seat #8 is the button
+Seat 3: DoublelegTD ($10000)
+Seat 8: grimywaifu ($1000)
+Seat 9: FlyingStyle ($1250)
+grimywaifu posts the small blind $50
+FlyingStyle posts the big blind $100
+*** HOLE CARDS *** 
+grimywaifu calls $50
+FlyingStyle raises $1150 to $1250 and is all-in
+grimywaifu folds
+Uncalled bet ($1150) returned to FlyingStyle
+FlyingStyle does not show
+*** SUMMARY ***
+Total pot $200
+Seat 8: grimywaifu (small blind) folded on the Pre-Flop
+Seat 9: FlyingStyle (big blind) did not showed and won $200
+
+
+
+

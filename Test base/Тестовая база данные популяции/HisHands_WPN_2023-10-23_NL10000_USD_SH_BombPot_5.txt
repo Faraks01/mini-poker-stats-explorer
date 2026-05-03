@@ -1,0 +1,148 @@
+
+Hand #1904918557 - Holdem(No Limit) - $50/$100 - 2023/10/23 00:40:31 UTC
+El Paso 6-max Seat #4 is the button
+Seat 2: TIKITAKA11 ($10000)
+Seat 4: CWestmoreland ($10000)
+TIKITAKA11 posts ante $500
+CWestmoreland posts ante $500
+*** HOLE CARDS *** 
+*** FLOP *** [8d Ts 6s]
+Main pot $998.75 | Rake $1.25
+TIKITAKA11 checks
+CWestmoreland checks
+*** TURN *** [8d Ts 6s] [3h]
+Main pot $998.75 | Rake $1.25
+TIKITAKA11 bets $750
+CWestmoreland folds
+Uncalled bet ($750) returned to TIKITAKA11
+TIKITAKA11 does not show
+*** SUMMARY ***
+BombPot
+Total pot $998.75 | Rake $1.25
+Seat 2: TIKITAKA11 did not showed and won $998.75
+Seat 4: CWestmoreland (button) folded on the Turn
+
+
+Hand #1905070910 - Holdem(No Limit) - $50/$100 - 2023/10/23 02:42:33 UTC
+El Paso 6-max Seat #5 is the button
+Seat 2: SigadiSogadi ($10000)
+Seat 5: TIKITAKA11 ($10000)
+SigadiSogadi posts ante $500
+TIKITAKA11 posts ante $500
+*** HOLE CARDS *** 
+*** FLOP *** [As Qh 2c]
+Main pot $998.75 | Rake $1.25
+SigadiSogadi checks
+TIKITAKA11 bets $200
+SigadiSogadi calls $200
+*** TURN *** [As Qh 2c] [Td]
+Main pot $1398.75 | Rake $1.25
+SigadiSogadi checks
+TIKITAKA11 checks
+*** RIVER *** [As Qh 2c Td] [3d]
+Main pot $1398.75 | Rake $1.25
+SigadiSogadi bets $700
+TIKITAKA11 folds
+Uncalled bet ($700) returned to SigadiSogadi
+SigadiSogadi does not show
+*** SUMMARY ***
+BombPot
+Total pot $1398.75 | Rake $1.25
+Seat 2: SigadiSogadi did not showed and won $1398.75
+Seat 5: TIKITAKA11 (button) folded on the River
+
+
+Hand #1905285906 - Holdem(No Limit) - $50/$100 - 2023/10/23 08:26:19 UTC
+El Paso 6-max Seat #2 is the button
+Seat 2: JohnMcShen ($10000)
+Seat 5: 7SkyAroundMe ($10000)
+Seat 6: IdoGoats ($10000)
+JohnMcShen posts ante $500
+7SkyAroundMe posts ante $500
+*** HOLE CARDS *** 
+*** FLOP *** [3h 9s 6d]
+Main pot $998.75 | Rake $1.25
+7SkyAroundMe checks
+JohnMcShen bets $499.37
+7SkyAroundMe raises $1998.74 to $1998.74
+JohnMcShen calls $1499.37
+*** TURN *** [3h 9s 6d] [Qc]
+Main pot $4996.23 | Rake $1.25
+7SkyAroundMe bets $2498.74
+JohnMcShen calls $2498.74
+*** RIVER *** [3h 9s 6d Qc] [Qs]
+Main pot $9993.71 | Rake $1.25
+7SkyAroundMe checks
+JohnMcShen checks
+*** SHOW DOWN ***
+Main pot $9993.71 | Rake $1.25
+7SkyAroundMe shows [6s 9h]
+7SkyAroundMe collected $9993.71 from main pot
+*** SUMMARY ***
+BombPot
+Total pot $9993.71 | Rake $1.25
+Seat 2: JohnMcShen (button) did not showed and lost
+Seat 5: 7SkyAroundMe showed [6s 9h] and won $9993.71 with TwoPair [Qs Qc 9s 9h 6s]
+
+
+Hand #1905370955 - Holdem(No Limit) - $50/$100 - 2023/10/23 12:53:54 UTC
+El Paso 6-max Seat #2 is the button
+Seat 2: moneybyebye ($11975.25)
+Seat 5: 7SkyAroundMe ($13233.50)
+moneybyebye posts ante $500
+7SkyAroundMe posts ante $500
+*** HOLE CARDS *** 
+*** FLOP *** [2s 6h 9d]
+Main pot $998.75 | Rake $1.25
+7SkyAroundMe checks
+moneybyebye checks
+*** TURN *** [2s 6h 9d] [Td]
+Main pot $998.75 | Rake $1.25
+7SkyAroundMe checks
+moneybyebye bets $259
+7SkyAroundMe calls $259
+*** RIVER *** [2s 6h 9d Td] [4c]
+Main pot $1516.75 | Rake $1.25
+7SkyAroundMe checks
+moneybyebye bets $1138.50
+7SkyAroundMe calls $1138.50
+*** SHOW DOWN ***
+Main pot $1516.75 | Rake $1.25
+moneybyebye shows [9h 8h]
+moneybyebye collected $3793.75 from main pot
+*** SUMMARY ***
+BombPot
+Total pot $3793.75 | Rake $1.25
+Seat 2: moneybyebye (button) showed [9h 8h] and won $3793.75 with OnePair [9h 9d Td 8h 6h]
+Seat 5: 7SkyAroundMe did not showed and lost
+
+
+Hand #1905380712 - Holdem(No Limit) - $50/$100 - 2023/10/23 13:18:39 UTC
+El Paso 6-max Seat #2 is the button
+Seat 2: moneybyebye ($16585.50)
+Seat 5: 7SkyAroundMe ($10000)
+moneybyebye posts ante $500
+7SkyAroundMe posts ante $500
+*** HOLE CARDS *** 
+*** FLOP *** [9c 7h 6h]
+Main pot $998.75 | Rake $1.25
+7SkyAroundMe checks
+moneybyebye checks
+*** TURN *** [9c 7h 6h] [6c]
+Main pot $998.75 | Rake $1.25
+7SkyAroundMe bets $1500
+moneybyebye calls $1500
+*** RIVER *** [9c 7h 6h 6c] [2c]
+Main pot $3998.75 | Rake $1.25
+7SkyAroundMe checks
+moneybyebye checks
+*** SHOW DOWN ***
+Main pot $3998.75 | Rake $1.25
+moneybyebye shows [9h 4h]
+moneybyebye collected $3998.75 from main pot
+*** SUMMARY ***
+BombPot
+Total pot $3998.75 | Rake $1.25
+Seat 2: moneybyebye (button) showed [9h 4h] and won $3998.75 with TwoPair [9h 9c 6h 6c 7h]
+Seat 5: 7SkyAroundMe did not showed and lost
+

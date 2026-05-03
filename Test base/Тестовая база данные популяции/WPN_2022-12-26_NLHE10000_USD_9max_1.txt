@@ -1,0 +1,3740 @@
+PokerStars Hand #1498905891:  Hold'em No Limit ($50.00/$100.00 USD) - 2022/12/26 13:54:58 ET
+Table 'WPN_7 Day No Rathole 50/100 NLH' 9-max Seat #7 is the button
+Seat 2: chop-ch0p ($1000.00 in chips)
+Seat 7: CPUrul0r ($900.00 in chips)
+CPUrul0r: posts small blind $50.00
+chop-ch0p: posts big blind $100.00
+*** HOLE CARDS ***
+CPUrul0r: folds
+Uncalled bet ($50.00) returned to chop-ch0p
+chop-ch0p collected $100.00 from pot
+chop-ch0p: doesn't show hand
+*** SUMMARY ***
+Total pot $100.00 | Rake $0.00
+Seat 2: chop-ch0p (big blind) collected ($100.00)
+Seat 7: CPUrul0r (button) (small blind) folded before Flop
+
+PokerStars Hand #1498905926:  Hold'em No Limit ($50.00/$100.00 USD) - 2022/12/26 13:55:06 ET
+Table 'WPN_7 Day No Rathole 50/100 NLH' 9-max Seat #2 is the button
+Seat 2: chop-ch0p ($1050.00 in chips)
+Seat 7: CPUrul0r ($1000.00 in chips)
+chop-ch0p: posts small blind $50.00
+CPUrul0r: posts big blind $100.00
+*** HOLE CARDS ***
+chop-ch0p: calls $50.00
+CPUrul0r: raises $180.00 to $280.00
+chop-ch0p: folds
+Uncalled bet ($180.00) returned to CPUrul0r
+CPUrul0r collected $200.00 from pot
+CPUrul0r: doesn't show hand
+*** SUMMARY ***
+Total pot $200.00 | Rake $0.00
+Seat 2: chop-ch0p (button) (small blind) folded before Flop
+Seat 7: CPUrul0r (big blind) collected ($200.00)
+
+PokerStars Hand #1498906017:  Hold'em No Limit ($50.00/$100.00 USD) - 2022/12/26 13:55:31 ET
+Table 'WPN_7 Day No Rathole 50/100 NLH' 9-max Seat #7 is the button
+Seat 2: chop-ch0p ($950.00 in chips)
+Seat 7: CPUrul0r ($1100.00 in chips)
+CPUrul0r: posts small blind $50.00
+chop-ch0p: posts big blind $100.00
+*** HOLE CARDS ***
+CPUrul0r: folds
+Uncalled bet ($50.00) returned to chop-ch0p
+chop-ch0p collected $100.00 from pot
+chop-ch0p: doesn't show hand
+*** SUMMARY ***
+Total pot $100.00 | Rake $0.00
+Seat 2: chop-ch0p (big blind) collected ($100.00)
+Seat 7: CPUrul0r (button) (small blind) folded before Flop
+
+PokerStars Hand #1498906047:  Hold'em No Limit ($50.00/$100.00 USD) - 2022/12/26 13:55:40 ET
+Table 'WPN_7 Day No Rathole 50/100 NLH' 9-max Seat #2 is the button
+Seat 2: chop-ch0p ($1050.00 in chips)
+Seat 7: CPUrul0r ($1050.00 in chips)
+chop-ch0p: posts small blind $50.00
+CPUrul0r: posts big blind $100.00
+*** HOLE CARDS ***
+chop-ch0p: calls $50.00
+CPUrul0r: raises $950.00 to $1050.00 and is all-in
+chop-ch0p: calls $950.00 and is all-in
+*** FLOP *** [7s Jd 4s]
+*** TURN *** [7s Jd 4s] [Qh]
+*** RIVER *** [7s Jd 4s Qh] [Js]
+*** SHOW DOWN ***
+chop-ch0p: shows [Qd Qs]
+CPUrul0r: shows [Ad Ts]
+chop-ch0p collected $2098.75 from pot
+*** SUMMARY ***
+Total pot $2100.00 | Rake $1.25
+Board [7s Jd 4s Qh Js]
+Seat 2: chop-ch0p (button) (small blind) showed [Qd Qs] and won ($2098.75)
+Seat 7: CPUrul0r (big blind) showed [Ad Ts] and lost
+
+PokerStars Hand #1498906117:  Hold'em No Limit ($50.00/$100.00 USD) - 2022/12/26 13:56:05 ET
+Table 'WPN_7 Day No Rathole 50/100 NLH' 9-max Seat #7 is the button
+Seat 2: chop-ch0p ($2098.75 in chips)
+Seat 7: CPUrul0r ($1000.00 in chips)
+CPUrul0r: posts small blind $50.00
+chop-ch0p: posts big blind $100.00
+*** HOLE CARDS ***
+CPUrul0r: calls $50.00
+chop-ch0p: checks
+*** FLOP *** [3h 3c Ks]
+chop-ch0p: checks
+CPUrul0r: checks
+*** TURN *** [3h 3c Ks] [6d]
+chop-ch0p: checks
+CPUrul0r: checks
+*** RIVER *** [3h 3c Ks 6d] [2h]
+chop-ch0p: bets $150.00
+CPUrul0r: folds
+Uncalled bet ($150.00) returned to chop-ch0p
+chop-ch0p collected $198.75 from pot
+chop-ch0p: doesn't show hand
+*** SUMMARY ***
+Total pot $200.00 | Rake $1.25
+Board [3h 3c Ks 6d 2h]
+Seat 2: chop-ch0p (big blind) collected ($198.75)
+Seat 7: CPUrul0r (button) (small blind) folded on the River
+
+PokerStars Hand #1498906334:  Hold'em No Limit ($50.00/$100.00 USD) - 2022/12/26 13:57:07 ET
+Table 'WPN_7 Day No Rathole 50/100 NLH' 9-max Seat #2 is the button
+Seat 2: chop-ch0p ($2197.50 in chips)
+Seat 7: CPUrul0r ($900.00 in chips)
+chop-ch0p: posts small blind $50.00
+CPUrul0r: posts big blind $100.00
+*** HOLE CARDS ***
+chop-ch0p: calls $50.00
+CPUrul0r: checks
+*** FLOP *** [9s Kh Ad]
+CPUrul0r: checks
+chop-ch0p: bets $100.00
+CPUrul0r: folds
+Uncalled bet ($100.00) returned to chop-ch0p
+chop-ch0p collected $198.75 from pot
+chop-ch0p: doesn't show hand
+*** SUMMARY ***
+Total pot $200.00 | Rake $1.25
+Board [9s Kh Ad]
+Seat 2: chop-ch0p (button) (small blind) collected ($198.75)
+Seat 7: CPUrul0r (big blind) folded on the Flop
+
+PokerStars Hand #1498906432:  Hold'em No Limit ($50.00/$100.00 USD) - 2022/12/26 13:57:36 ET
+Table 'WPN_7 Day No Rathole 50/100 NLH' 9-max Seat #7 is the button
+Seat 2: chop-ch0p ($2296.25 in chips)
+Seat 7: CPUrul0r ($900.00 in chips)
+CPUrul0r: posts small blind $50.00
+chop-ch0p: posts big blind $100.00
+*** HOLE CARDS ***
+CPUrul0r: raises $900.00 to $1000.00 and is all-in
+chop-ch0p: folds
+Uncalled bet ($900.00) returned to CPUrul0r
+CPUrul0r collected $200.00 from pot
+CPUrul0r: doesn't show hand
+*** SUMMARY ***
+Total pot $200.00 | Rake $0.00
+Seat 2: chop-ch0p (big blind) folded before Flop
+Seat 7: CPUrul0r (button) (small blind) collected ($200.00)
+
+PokerStars Hand #1498906488:  Hold'em No Limit ($50.00/$100.00 USD) - 2022/12/26 13:57:51 ET
+Table 'WPN_7 Day No Rathole 50/100 NLH' 9-max Seat #2 is the button
+Seat 2: chop-ch0p ($2196.25 in chips)
+Seat 7: CPUrul0r ($1100.00 in chips)
+chop-ch0p: posts small blind $50.00
+CPUrul0r: posts big blind $100.00
+*** HOLE CARDS ***
+chop-ch0p: folds
+Uncalled bet ($50.00) returned to CPUrul0r
+CPUrul0r collected $100.00 from pot
+CPUrul0r: doesn't show hand
+*** SUMMARY ***
+Total pot $100.00 | Rake $0.00
+Seat 2: chop-ch0p (button) (small blind) folded before Flop
+Seat 7: CPUrul0r (big blind) collected ($100.00)
+
+PokerStars Hand #1498906514:  Hold'em No Limit ($50.00/$100.00 USD) - 2022/12/26 13:57:58 ET
+Table 'WPN_7 Day No Rathole 50/100 NLH' 9-max Seat #7 is the button
+Seat 2: chop-ch0p ($2146.25 in chips)
+Seat 7: CPUrul0r ($1150.00 in chips)
+CPUrul0r: posts small blind $50.00
+chop-ch0p: posts big blind $100.00
+*** HOLE CARDS ***
+CPUrul0r: calls $50.00
+chop-ch0p: raises $2046.25 to $2146.25 and is all-in
+CPUrul0r: calls $1050.00 and is all-in
+Uncalled bet ($996.25) returned to chop-ch0p
+*** FLOP *** [Tc 7s 5c]
+*** TURN *** [Tc 7s 5c] [4h]
+*** RIVER *** [Tc 7s 5c 4h] [3h]
+*** SHOW DOWN ***
+chop-ch0p: shows [6s Kc]
+CPUrul0r: shows [Kh 9h]
+chop-ch0p collected $2298.75 from pot
+*** SUMMARY ***
+Total pot $2300.00 | Rake $1.25
+Board [Tc 7s 5c 4h 3h]
+Seat 2: chop-ch0p (big blind) showed [6s Kc] and won ($2298.75)
+Seat 7: CPUrul0r (button) (small blind) showed [Kh 9h] and lost
+
+PokerStars Hand #1498906601:  Hold'em No Limit ($50.00/$100.00 USD) - 2022/12/26 13:58:21 ET
+Table 'WPN_7 Day No Rathole 50/100 NLH' 9-max Seat #2 is the button
+Seat 2: chop-ch0p ($3295.00 in chips)
+Seat 7: CPUrul0r ($1000.00 in chips)
+chop-ch0p: posts small blind $50.00
+CPUrul0r: posts big blind $100.00
+*** HOLE CARDS ***
+chop-ch0p: calls $50.00
+CPUrul0r: raises $170.00 to $270.00
+chop-ch0p: folds
+Uncalled bet ($170.00) returned to CPUrul0r
+CPUrul0r collected $200.00 from pot
+CPUrul0r: doesn't show hand
+*** SUMMARY ***
+Total pot $200.00 | Rake $0.00
+Seat 2: chop-ch0p (button) (small blind) folded before Flop
+Seat 7: CPUrul0r (big blind) collected ($200.00)
+
+PokerStars Hand #1498906700:  Hold'em No Limit ($50.00/$100.00 USD) - 2022/12/26 13:58:49 ET
+Table 'WPN_7 Day No Rathole 50/100 NLH' 9-max Seat #7 is the button
+Seat 2: chop-ch0p ($3195.00 in chips)
+Seat 7: CPUrul0r ($1100.00 in chips)
+CPUrul0r: posts small blind $50.00
+chop-ch0p: posts big blind $100.00
+*** HOLE CARDS ***
+CPUrul0r: raises $1000.00 to $1100.00 and is all-in
+chop-ch0p: calls $1000.00
+*** FLOP *** [4c Qc 6d]
+*** TURN *** [4c Qc 6d] [3d]
+*** RIVER *** [4c Qc 6d 3d] [7c]
+*** SHOW DOWN ***
+chop-ch0p: shows [5h 5s]
+CPUrul0r: shows [8d Ks]
+chop-ch0p collected $2198.75 from pot
+*** SUMMARY ***
+Total pot $2200.00 | Rake $1.25
+Board [4c Qc 6d 3d 7c]
+Seat 2: chop-ch0p (big blind) showed [5h 5s] and won ($2198.75)
+Seat 7: CPUrul0r (button) (small blind) showed [8d Ks] and lost
+
+PokerStars Hand #1498906777:  Hold'em No Limit ($50.00/$100.00 USD) - 2022/12/26 13:59:12 ET
+Table 'WPN_7 Day No Rathole 50/100 NLH' 9-max Seat #2 is the button
+Seat 2: chop-ch0p ($4293.75 in chips)
+Seat 7: CPUrul0r ($1000.00 in chips)
+chop-ch0p: posts small blind $50.00
+CPUrul0r: posts big blind $100.00
+*** HOLE CARDS ***
+chop-ch0p: raises $4193.75 to $4293.75 and is all-in
+CPUrul0r: calls $900.00 and is all-in
+Uncalled bet ($3293.75) returned to chop-ch0p
+*** FLOP *** [4s Ks 4c]
+*** TURN *** [4s Ks 4c] [3s]
+*** RIVER *** [4s Ks 4c 3s] [4d]
+*** SHOW DOWN ***
+chop-ch0p: shows [Kc 2h]
+CPUrul0r: shows [Qd 9c]
+chop-ch0p collected $1998.75 from pot
+*** SUMMARY ***
+Total pot $2000.00 | Rake $1.25
+Board [4s Ks 4c 3s 4d]
+Seat 2: chop-ch0p (button) (small blind) showed [Kc 2h] and won ($1998.75)
+Seat 7: CPUrul0r (big blind) showed [Qd 9c] and lost
+
+PokerStars Hand #1498698683:  Hold'em No Limit ($50.00/$100.00 USD) - 2022/12/26 05:41:32 ET
+Table 'WPN_7 Day No Rathole 50/100 NLH' 9-max Seat #2 is the button
+Seat 1: AnnuittCoeptis ($1000.00 in chips)
+Seat 2: zas911 ($27277.61 in chips)
+Seat 4: stabilok ($1998.25 in chips)
+Seat 9: SigadiSogadi ($1098.75 in chips)
+stabilok: posts small blind $50.00
+SigadiSogadi: posts big blind $100.00
+*** HOLE CARDS ***
+zas911: raises $100.00 to $200.00
+stabilok: folds
+SigadiSogadi: calls $100.00
+*** FLOP *** [8s Kd 4h]
+SigadiSogadi: checks
+zas911: bets $112.50
+SigadiSogadi: folds
+Uncalled bet ($112.50) returned to zas911
+zas911 collected $448.25 from pot
+zas911: doesn't show hand
+*** SUMMARY ***
+Total pot $450.00 | Rake $1.75
+Board [8s Kd 4h]
+Seat 2: zas911 (button) collected ($448.25)
+Seat 4: stabilok (small blind) folded before Flop
+Seat 9: SigadiSogadi (big blind) folded on the Flop
+
+PokerStars Hand #1498699003:  Hold'em No Limit ($50.00/$100.00 USD) - 2022/12/26 05:41:56 ET
+Table 'WPN_7 Day No Rathole 50/100 NLH' 9-max Seat #4 is the button
+Seat 1: AnnuittCoeptis ($1000.00 in chips)
+Seat 2: zas911 ($27525.86 in chips)
+Seat 4: stabilok ($1948.25 in chips)
+Seat 9: SigadiSogadi ($898.75 in chips)
+SigadiSogadi: posts small blind $50.00
+AnnuittCoeptis: posts big blind $100.00
+*** HOLE CARDS ***
+zas911: folds
+stabilok: folds
+SigadiSogadi: raises $100.00 to $200.00
+AnnuittCoeptis: folds
+Uncalled bet ($100.00) returned to SigadiSogadi
+SigadiSogadi collected $200.00 from pot
+SigadiSogadi: doesn't show hand
+*** SUMMARY ***
+Total pot $200.00 | Rake $0.00
+Seat 1: AnnuittCoeptis (big blind) folded before Flop
+Seat 2: zas911 folded before Flop (didn't bet)
+Seat 4: stabilok (button) folded before Flop (didn't bet)
+Seat 9: SigadiSogadi (small blind) collected ($200.00)
+
+PokerStars Hand #1498699396:  Hold'em No Limit ($50.00/$100.00 USD) - 2022/12/26 05:42:25 ET
+Table 'WPN_7 Day No Rathole 50/100 NLH' 9-max Seat #9 is the button
+Seat 1: AnnuittCoeptis ($900.00 in chips)
+Seat 2: zas911 ($27525.86 in chips)
+Seat 4: stabilok ($1948.25 in chips)
+Seat 9: SigadiSogadi ($1100.00 in chips)
+AnnuittCoeptis: posts small blind $50.00
+zas911: posts big blind $100.00
+*** HOLE CARDS ***
+stabilok: folds
+SigadiSogadi: folds
+AnnuittCoeptis: raises $900.00 to $1000.00 and is all-in
+zas911: calls $900.00
+*** FLOP *** [7h 3s Js]
+*** TURN *** [7h 3s Js] [9h]
+*** RIVER *** [7h 3s Js 9h] [4c]
+*** SHOW DOWN ***
+AnnuittCoeptis: shows [9s Th]
+zas911: shows [2c Ad]
+AnnuittCoeptis collected $1997.75 from pot
+*** SUMMARY ***
+Total pot $2000.00 | Rake $2.25
+Board [7h 3s Js 9h 4c]
+Seat 1: AnnuittCoeptis (small blind) showed [9s Th] and won ($1997.75)
+Seat 2: zas911 (big blind) showed [2c Ad] and lost
+Seat 4: stabilok folded before Flop (didn't bet)
+Seat 9: SigadiSogadi (button) folded before Flop (didn't bet)
+
+PokerStars Hand #1498699894:  Hold'em No Limit ($50.00/$100.00 USD) - 2022/12/26 05:43:02 ET
+Table 'WPN_7 Day No Rathole 50/100 NLH' 9-max Seat #1 is the button
+Seat 1: AnnuittCoeptis ($1997.75 in chips)
+Seat 2: zas911 ($26525.86 in chips)
+Seat 3: Ganbian Beef ($6313.25 in chips)
+Seat 4: stabilok ($1948.25 in chips)
+Seat 9: SigadiSogadi ($1100.00 in chips)
+zas911: posts small blind $50.00
+Ganbian Beef: posts big blind $100.00
+*** HOLE CARDS ***
+stabilok: folds
+SigadiSogadi: folds
+AnnuittCoeptis: folds
+zas911: raises $200.00 to $300.00
+Ganbian Beef: calls $200.00
+*** FLOP *** [5c Js Qh]
+zas911: bets $200.00
+Ganbian Beef: raises $500.00 to $700.00
+zas911: folds
+Uncalled bet ($500.00) returned to Ganbian Beef
+Ganbian Beef collected $997.00 from pot
+Ganbian Beef: doesn't show hand
+*** SUMMARY ***
+Total pot $1000.00 | Rake $3.00
+Board [5c Js Qh]
+Seat 1: AnnuittCoeptis (button) folded before Flop (didn't bet)
+Seat 2: zas911 (small blind) folded on the Flop
+Seat 3: Ganbian Beef (big blind) collected ($997.00)
+Seat 4: stabilok folded before Flop (didn't bet)
+Seat 9: SigadiSogadi folded before Flop (didn't bet)
+
+PokerStars Hand #1498700601:  Hold'em No Limit ($50.00/$100.00 USD) - 2022/12/26 05:43:51 ET
+Table 'WPN_7 Day No Rathole 50/100 NLH' 9-max Seat #2 is the button
+Seat 1: AnnuittCoeptis ($1997.75 in chips)
+Seat 2: zas911 ($26025.86 in chips)
+Seat 3: Ganbian Beef ($6810.25 in chips)
+Seat 4: stabilok ($1948.25 in chips)
+Seat 6: FADETHESNAP ($1000.00 in chips)
+Seat 9: SigadiSogadi ($1100.00 in chips)
+Ganbian Beef: posts small blind $50.00
+stabilok: posts big blind $100.00
+*** HOLE CARDS ***
+SigadiSogadi: folds
+AnnuittCoeptis: folds
+zas911: raises $100.00 to $200.00
+Ganbian Beef: folds
+stabilok: calls $100.00
+*** FLOP *** [8c Ad 5c]
+stabilok: checks
+zas911: bets $150.00
+stabilok: folds
+Uncalled bet ($150.00) returned to zas911
+zas911 collected $447.00 from pot
+zas911: doesn't show hand
+*** SUMMARY ***
+Total pot $450.00 | Rake $3.00
+Board [8c Ad 5c]
+Seat 1: AnnuittCoeptis folded before Flop (didn't bet)
+Seat 2: zas911 (button) collected ($447.00)
+Seat 3: Ganbian Beef (small blind) folded before Flop
+Seat 4: stabilok (big blind) folded on the Flop
+Seat 9: SigadiSogadi folded before Flop (didn't bet)
+
+PokerStars Hand #1498701149:  Hold'em No Limit ($50.00/$100.00 USD) - 2022/12/26 05:44:30 ET
+Table 'WPN_7 Day No Rathole 50/100 NLH' 9-max Seat #3 is the button
+Seat 1: AnnuittCoeptis ($1997.75 in chips)
+Seat 2: zas911 ($26272.86 in chips)
+Seat 3: Ganbian Beef ($6760.25 in chips)
+Seat 4: stabilok ($1748.25 in chips)
+Seat 6: FADETHESNAP ($1000.00 in chips)
+Seat 9: SigadiSogadi ($1100.00 in chips)
+stabilok: posts small blind $50.00
+FADETHESNAP: posts big blind $100.00
+*** HOLE CARDS ***
+SigadiSogadi: raises $100.00 to $200.00
+AnnuittCoeptis: folds
+zas911: raises $325.00 to $525.00
+Ganbian Beef: folds
+stabilok: folds
+FADETHESNAP: folds
+SigadiSogadi: folds
+Uncalled bet ($325.00) returned to zas911
+zas911 collected $550.00 from pot
+zas911: doesn't show hand
+*** SUMMARY ***
+Total pot $550.00 | Rake $0.00
+Seat 1: AnnuittCoeptis folded before Flop (didn't bet)
+Seat 2: zas911 collected ($550.00)
+Seat 3: Ganbian Beef (button) folded before Flop (didn't bet)
+Seat 4: stabilok (small blind) folded before Flop
+Seat 6: FADETHESNAP (big blind) folded before Flop
+Seat 9: SigadiSogadi folded before Flop
+
+PokerStars Hand #1498701484:  Hold'em No Limit ($50.00/$100.00 USD) - 2022/12/26 05:44:52 ET
+Table 'WPN_7 Day No Rathole 50/100 NLH' 9-max Seat #4 is the button
+Seat 1: AnnuittCoeptis ($1997.75 in chips)
+Seat 2: zas911 ($26622.86 in chips)
+Seat 3: Ganbian Beef ($6760.25 in chips)
+Seat 4: stabilok ($1698.25 in chips)
+Seat 6: FADETHESNAP ($1000.00 in chips)
+Seat 9: SigadiSogadi ($900.00 in chips)
+FADETHESNAP: posts small blind $50.00
+SigadiSogadi: posts big blind $100.00
+*** HOLE CARDS ***
+AnnuittCoeptis: folds
+zas911: raises $100.00 to $200.00
+Ganbian Beef: folds
+stabilok: folds
+FADETHESNAP: folds
+SigadiSogadi: calls $100.00
+*** FLOP *** [4c Tc 8d]
+SigadiSogadi: checks
+zas911: bets $150.00
+SigadiSogadi: raises $650.00 to $800.00 and is all-in
+zas911: calls $650.00
+*** FIRST TURN *** [4c Tc 8d] [Ks]
+*** FIRST RIVER *** [4c Tc 8d Ks] [2s]
+*** SECOND TURN *** [4c Tc 8d] [4s]
+*** SECOND RIVER *** [4c Tc 8d 4s] [2c]
+*** FIRST SHOW DOWN ***
+zas911: shows [Ah As]
+SigadiSogadi: shows [6c 7c]
+zas911 collected $1023.50 from pot
+*** SECOND SHOW DOWN ***
+zas911: shows [Ah As]
+SigadiSogadi: shows [6c 7c]
+SigadiSogadi collected $1023.50 from pot
+*** SUMMARY ***
+Total pot $2050.00 | Rake $3.00
+Hand was run twice
+FIRST Board [4c Tc 8d Ks 2s]
+SECOND Board [4c Tc 8d 4s 2c]
+Seat 1: AnnuittCoeptis folded before Flop (didn't bet)
+Seat 2: zas911 showed [Ah As] and won ($1023.50), and lost
+Seat 3: Ganbian Beef folded before Flop (didn't bet)
+Seat 4: stabilok (button) folded before Flop (didn't bet)
+Seat 6: FADETHESNAP (small blind) folded before Flop
+Seat 9: SigadiSogadi (big blind) showed [6c 7c] and lost, and won ($1023.50)
+
+PokerStars Hand #1498702408:  Hold'em No Limit ($50.00/$100.00 USD) - 2022/12/26 05:45:57 ET
+Table 'WPN_7 Day No Rathole 50/100 NLH' 9-max Seat #6 is the button
+Seat 1: AnnuittCoeptis ($1997.75 in chips)
+Seat 2: zas911 ($26646.36 in chips)
+Seat 3: Ganbian Beef ($6760.25 in chips)
+Seat 4: stabilok ($1698.25 in chips)
+Seat 6: FADETHESNAP ($1000.00 in chips)
+Seat 9: SigadiSogadi ($1023.50 in chips)
+SigadiSogadi: posts small blind $50.00
+AnnuittCoeptis: posts big blind $100.00
+*** HOLE CARDS ***
+zas911: folds
+Ganbian Beef: folds
+stabilok: folds
+FADETHESNAP: raises $900.00 to $1000.00 and is all-in
+SigadiSogadi: folds
+AnnuittCoeptis: folds
+Uncalled bet ($900.00) returned to FADETHESNAP
+FADETHESNAP collected $250.00 from pot
+FADETHESNAP: doesn't show hand
+*** SUMMARY ***
+Total pot $250.00 | Rake $0.00
+Seat 1: AnnuittCoeptis (big blind) folded before Flop
+Seat 2: zas911 folded before Flop (didn't bet)
+Seat 3: Ganbian Beef folded before Flop (didn't bet)
+Seat 4: stabilok folded before Flop (didn't bet)
+Seat 6: FADETHESNAP (button) collected ($250.00)
+Seat 9: SigadiSogadi (small blind) folded before Flop
+
+PokerStars Hand #1498702817:  Hold'em No Limit ($50.00/$100.00 USD) - 2022/12/26 05:46:25 ET
+Table 'WPN_7 Day No Rathole 50/100 NLH' 9-max Seat #9 is the button
+Seat 1: AnnuittCoeptis ($1897.75 in chips)
+Seat 2: zas911 ($26646.36 in chips)
+Seat 3: Ganbian Beef ($6760.25 in chips)
+Seat 4: stabilok ($1698.25 in chips)
+Seat 6: FADETHESNAP ($1150.00 in chips)
+Seat 9: SigadiSogadi ($1000.00 in chips)
+AnnuittCoeptis: posts small blind $50.00
+zas911: posts big blind $100.00
+*** HOLE CARDS ***
+Ganbian Beef: folds
+stabilok: folds
+FADETHESNAP: folds
+SigadiSogadi: folds
+AnnuittCoeptis: folds
+Uncalled bet ($50.00) returned to zas911
+zas911 collected $100.00 from pot
+zas911: doesn't show hand
+*** SUMMARY ***
+Total pot $100.00 | Rake $0.00
+Seat 1: AnnuittCoeptis (small blind) folded before Flop
+Seat 2: zas911 (big blind) collected ($100.00)
+Seat 3: Ganbian Beef folded before Flop (didn't bet)
+Seat 4: stabilok folded before Flop (didn't bet)
+Seat 6: FADETHESNAP folded before Flop (didn't bet)
+Seat 9: SigadiSogadi (button) folded before Flop (didn't bet)
+
+PokerStars Hand #1498703208:  Hold'em No Limit ($50.00/$100.00 USD) - 2022/12/26 05:46:53 ET
+Table 'WPN_7 Day No Rathole 50/100 NLH' 9-max Seat #1 is the button
+Seat 1: AnnuittCoeptis ($1847.75 in chips)
+Seat 2: zas911 ($26696.36 in chips)
+Seat 3: Ganbian Beef ($6760.25 in chips)
+Seat 4: stabilok ($1698.25 in chips)
+Seat 6: FADETHESNAP ($1150.00 in chips)
+Seat 9: SigadiSogadi ($1000.00 in chips)
+zas911: posts small blind $50.00
+Ganbian Beef: posts big blind $100.00
+*** HOLE CARDS ***
+stabilok: folds
+FADETHESNAP: folds
+SigadiSogadi: raises $900.00 to $1000.00 and is all-in
+AnnuittCoeptis: folds
+zas911: folds
+Ganbian Beef: folds
+Uncalled bet ($900.00) returned to SigadiSogadi
+SigadiSogadi collected $250.00 from pot
+SigadiSogadi: doesn't show hand
+*** SUMMARY ***
+Total pot $250.00 | Rake $0.00
+Seat 1: AnnuittCoeptis (button) folded before Flop (didn't bet)
+Seat 2: zas911 (small blind) folded before Flop
+Seat 3: Ganbian Beef (big blind) folded before Flop
+Seat 4: stabilok folded before Flop (didn't bet)
+Seat 6: FADETHESNAP folded before Flop (didn't bet)
+Seat 9: SigadiSogadi collected ($250.00)
+
+PokerStars Hand #1498703574:  Hold'em No Limit ($50.00/$100.00 USD) - 2022/12/26 05:47:20 ET
+Table 'WPN_7 Day No Rathole 50/100 NLH' 9-max Seat #2 is the button
+Seat 1: AnnuittCoeptis ($1847.75 in chips)
+Seat 2: zas911 ($26646.36 in chips)
+Seat 3: Ganbian Beef ($6660.25 in chips)
+Seat 4: stabilok ($1698.25 in chips)
+Seat 6: FADETHESNAP ($1150.00 in chips)
+Seat 9: SigadiSogadi ($1150.00 in chips)
+Ganbian Beef: posts small blind $50.00
+stabilok: posts big blind $100.00
+*** HOLE CARDS ***
+FADETHESNAP: folds
+SigadiSogadi: folds
+AnnuittCoeptis: calls $100.00
+zas911: folds
+Ganbian Beef: raises $6560.25 to $6660.25 and is all-in
+stabilok: folds
+AnnuittCoeptis: calls $1747.75 and is all-in
+Uncalled bet ($4812.50) returned to Ganbian Beef
+*** FLOP *** [Ks Ad 9h]
+*** TURN *** [Ks Ad 9h] [Qs]
+*** RIVER *** [Ks Ad 9h Qs] [Qh]
+*** SHOW DOWN ***
+AnnuittCoeptis: shows [Ac Th]
+Ganbian Beef: shows [Kh Js]
+AnnuittCoeptis collected $3792.50 from pot
+*** SUMMARY ***
+Total pot $3795.50 | Rake $3.00
+Board [Ks Ad 9h Qs Qh]
+Seat 1: AnnuittCoeptis showed [Ac Th] and won ($3792.50)
+Seat 2: zas911 (button) folded before Flop (didn't bet)
+Seat 3: Ganbian Beef (small blind) showed [Kh Js] and lost
+Seat 4: stabilok (big blind) folded before Flop
+Seat 6: FADETHESNAP folded before Flop (didn't bet)
+Seat 9: SigadiSogadi folded before Flop (didn't bet)
+
+PokerStars Hand #1498704400:  Hold'em No Limit ($50.00/$100.00 USD) - 2022/12/26 05:48:17 ET
+Table 'WPN_7 Day No Rathole 50/100 NLH' 9-max Seat #3 is the button
+Seat 1: AnnuittCoeptis ($3792.50 in chips)
+Seat 2: zas911 ($26646.36 in chips)
+Seat 3: Ganbian Beef ($4812.50 in chips)
+Seat 4: stabilok ($1598.25 in chips)
+Seat 6: FADETHESNAP ($1150.00 in chips)
+Seat 9: SigadiSogadi ($1150.00 in chips)
+stabilok: posts small blind $50.00
+FADETHESNAP: posts big blind $100.00
+*** HOLE CARDS ***
+SigadiSogadi: raises $1050.00 to $1150.00 and is all-in
+AnnuittCoeptis: folds
+zas911: folds
+Ganbian Beef: calls $1150.00
+stabilok: folds
+FADETHESNAP: folds
+*** FIRST FLOP *** [4s 9h 9c]
+*** FIRST TURN *** [4s 9h 9c] [Ad]
+*** FIRST RIVER *** [4s 9h 9c Ad] [Tc]
+*** SECOND FLOP *** [4h Ks Ts]
+*** SECOND TURN *** [4h Ks Ts] [7h]
+*** SECOND RIVER *** [4h Ks Ts 7h] [2h]
+*** FIRST SHOW DOWN ***
+Ganbian Beef: shows [Qd Qs]
+SigadiSogadi: shows [Th Kh]
+Ganbian Beef collected $1223.50 from pot
+*** SECOND SHOW DOWN ***
+Ganbian Beef: shows [Qd Qs]
+SigadiSogadi: shows [Th Kh]
+SigadiSogadi collected $1223.50 from pot
+*** SUMMARY ***
+Total pot $2450.00 | Rake $3.00
+Hand was run twice
+FIRST Board [4s 9h 9c Ad Tc]
+SECOND Board [4h Ks Ts 7h 2h]
+Seat 1: AnnuittCoeptis folded before Flop (didn't bet)
+Seat 2: zas911 folded before Flop (didn't bet)
+Seat 3: Ganbian Beef (button) showed [Qd Qs] and won ($1223.50), and lost
+Seat 4: stabilok (small blind) folded before Flop
+Seat 6: FADETHESNAP (big blind) folded before Flop
+Seat 9: SigadiSogadi showed [Th Kh] and lost, and won ($1223.50)
+
+PokerStars Hand #1498705379:  Hold'em No Limit ($50.00/$100.00 USD) - 2022/12/26 05:49:28 ET
+Table 'WPN_7 Day No Rathole 50/100 NLH' 9-max Seat #4 is the button
+Seat 1: AnnuittCoeptis ($3792.50 in chips)
+Seat 2: zas911 ($26646.36 in chips)
+Seat 3: Ganbian Beef ($4886.00 in chips)
+Seat 4: stabilok ($1548.25 in chips)
+Seat 6: FADETHESNAP ($1050.00 in chips)
+Seat 9: SigadiSogadi ($1223.50 in chips)
+FADETHESNAP: posts small blind $50.00
+SigadiSogadi: posts big blind $100.00
+*** HOLE CARDS ***
+AnnuittCoeptis: folds
+zas911: folds
+Ganbian Beef: folds
+stabilok: folds
+FADETHESNAP: calls $50.00
+SigadiSogadi: checks
+*** FLOP *** [4d 4s 2c]
+FADETHESNAP: checks
+SigadiSogadi: bets $100.00
+FADETHESNAP: calls $100.00
+*** TURN *** [4d 4s 2c] [9d]
+FADETHESNAP: checks
+SigadiSogadi: bets $300.00
+FADETHESNAP: folds
+Uncalled bet ($300.00) returned to SigadiSogadi
+SigadiSogadi collected $397.00 from pot
+SigadiSogadi: doesn't show hand
+*** SUMMARY ***
+Total pot $400.00 | Rake $3.00
+Board [4d 4s 2c 9d]
+Seat 1: AnnuittCoeptis folded before Flop (didn't bet)
+Seat 2: zas911 folded before Flop (didn't bet)
+Seat 3: Ganbian Beef folded before Flop (didn't bet)
+Seat 4: stabilok (button) folded before Flop (didn't bet)
+Seat 6: FADETHESNAP (small blind) folded on the Turn
+Seat 9: SigadiSogadi (big blind) collected ($397.00)
+
+PokerStars Hand #1498706774:  Hold'em No Limit ($50.00/$100.00 USD) - 2022/12/26 05:51:05 ET
+Table 'WPN_7 Day No Rathole 50/100 NLH' 9-max Seat #6 is the button
+Seat 2: zas911 ($26646.36 in chips)
+Seat 3: Ganbian Beef ($4886.00 in chips)
+Seat 4: stabilok ($1548.25 in chips)
+Seat 6: FADETHESNAP ($850.00 in chips)
+Seat 9: SigadiSogadi ($1420.50 in chips)
+SigadiSogadi: posts small blind $50.00
+zas911: posts big blind $100.00
+*** HOLE CARDS ***
+Ganbian Beef: folds
+stabilok: raises $125.00 to $225.00
+FADETHESNAP: folds
+SigadiSogadi: folds
+zas911: folds
+Uncalled bet ($125.00) returned to stabilok
+stabilok collected $250.00 from pot
+stabilok: doesn't show hand
+*** SUMMARY ***
+Total pot $250.00 | Rake $0.00
+Seat 2: zas911 (big blind) folded before Flop
+Seat 3: Ganbian Beef folded before Flop (didn't bet)
+Seat 4: stabilok collected ($250.00)
+Seat 6: FADETHESNAP (button) folded before Flop (didn't bet)
+Seat 9: SigadiSogadi (small blind) folded before Flop
+
+PokerStars Hand #1498707128:  Hold'em No Limit ($50.00/$100.00 USD) - 2022/12/26 05:51:28 ET
+Table 'WPN_7 Day No Rathole 50/100 NLH' 9-max Seat #9 is the button
+Seat 2: zas911 ($26546.36 in chips)
+Seat 3: Ganbian Beef ($4886.00 in chips)
+Seat 4: stabilok ($1698.25 in chips)
+Seat 6: FADETHESNAP ($850.00 in chips)
+Seat 8: AnnuittCoeptis ($3792.50 in chips)
+Seat 9: SigadiSogadi ($1370.50 in chips)
+zas911: posts small blind $50.00
+Ganbian Beef: posts big blind $100.00
+*** HOLE CARDS ***
+stabilok: folds
+FADETHESNAP: raises $900.00 to $1000.00 and is all-in
+SigadiSogadi: folds
+zas911: folds
+Ganbian Beef: folds
+Uncalled bet ($900.00) returned to FADETHESNAP
+FADETHESNAP collected $250.00 from pot
+FADETHESNAP: doesn't show hand
+*** SUMMARY ***
+Total pot $250.00 | Rake $0.00
+Seat 2: zas911 (small blind) folded before Flop
+Seat 3: Ganbian Beef (big blind) folded before Flop
+Seat 4: stabilok folded before Flop (didn't bet)
+Seat 6: FADETHESNAP collected ($250.00)
+Seat 9: SigadiSogadi (button) folded before Flop (didn't bet)
+
+PokerStars Hand #1498707461:  Hold'em No Limit ($50.00/$100.00 USD) - 2022/12/26 05:51:53 ET
+Table 'WPN_7 Day No Rathole 50/100 NLH' 9-max Seat #2 is the button
+Seat 2: zas911 ($26496.36 in chips)
+Seat 3: Ganbian Beef ($4786.00 in chips)
+Seat 4: stabilok ($1698.25 in chips)
+Seat 6: FADETHESNAP ($1150.00 in chips)
+Seat 8: AnnuittCoeptis ($3792.50 in chips)
+Seat 9: SigadiSogadi ($1370.50 in chips)
+Ganbian Beef: posts small blind $50.00
+stabilok: posts big blind $100.00
+*** HOLE CARDS ***
+FADETHESNAP: folds
+SigadiSogadi: folds
+zas911: folds
+Ganbian Beef: folds
+Uncalled bet ($50.00) returned to stabilok
+stabilok collected $100.00 from pot
+stabilok: doesn't show hand
+*** SUMMARY ***
+Total pot $100.00 | Rake $0.00
+Seat 2: zas911 (button) folded before Flop (didn't bet)
+Seat 3: Ganbian Beef (small blind) folded before Flop
+Seat 4: stabilok (big blind) collected ($100.00)
+Seat 6: FADETHESNAP folded before Flop (didn't bet)
+Seat 9: SigadiSogadi folded before Flop (didn't bet)
+
+PokerStars Hand #1498707838:  Hold'em No Limit ($50.00/$100.00 USD) - 2022/12/26 05:52:21 ET
+Table 'WPN_7 Day No Rathole 50/100 NLH' 9-max Seat #3 is the button
+Seat 2: zas911 ($26496.36 in chips)
+Seat 3: Ganbian Beef ($4736.00 in chips)
+Seat 4: stabilok ($1748.25 in chips)
+Seat 5: honey_badger ($3436.85 in chips)
+Seat 6: FADETHESNAP ($1150.00 in chips)
+Seat 8: AnnuittCoeptis ($3792.50 in chips)
+Seat 9: SigadiSogadi ($1370.50 in chips)
+stabilok: posts small blind $50.00
+honey_badger: posts big blind $100.00
+*** HOLE CARDS ***
+FADETHESNAP: folds
+SigadiSogadi: folds
+zas911: raises $100.00 to $200.00
+Ganbian Beef: folds
+stabilok: folds
+honey_badger: folds
+Uncalled bet ($100.00) returned to zas911
+zas911 collected $250.00 from pot
+zas911: doesn't show hand
+*** SUMMARY ***
+Total pot $250.00 | Rake $0.00
+Seat 2: zas911 collected ($250.00)
+Seat 3: Ganbian Beef (button) folded before Flop (didn't bet)
+Seat 4: stabilok (small blind) folded before Flop
+Seat 5: honey_badger (big blind) folded before Flop
+Seat 6: FADETHESNAP folded before Flop (didn't bet)
+Seat 9: SigadiSogadi folded before Flop (didn't bet)
+
+PokerStars Hand #1498708076:  Hold'em No Limit ($50.00/$100.00 USD) - 2022/12/26 05:52:38 ET
+Table 'WPN_7 Day No Rathole 50/100 NLH' 9-max Seat #4 is the button
+Seat 2: zas911 ($26646.36 in chips)
+Seat 3: Ganbian Beef ($4736.00 in chips)
+Seat 4: stabilok ($1698.25 in chips)
+Seat 5: honey_badger ($3336.85 in chips)
+Seat 6: FADETHESNAP ($1150.00 in chips)
+Seat 8: AnnuittCoeptis ($3792.50 in chips)
+Seat 9: SigadiSogadi ($1370.50 in chips)
+honey_badger: posts small blind $50.00
+FADETHESNAP: posts big blind $100.00
+*** HOLE CARDS ***
+SigadiSogadi: folds
+zas911: folds
+Ganbian Beef: folds
+stabilok: raises $250.00 to $350.00
+honey_badger: folds
+FADETHESNAP: folds
+Uncalled bet ($250.00) returned to stabilok
+stabilok collected $250.00 from pot
+stabilok: doesn't show hand
+*** SUMMARY ***
+Total pot $250.00 | Rake $0.00
+Seat 2: zas911 folded before Flop (didn't bet)
+Seat 3: Ganbian Beef folded before Flop (didn't bet)
+Seat 4: stabilok (button) collected ($250.00)
+Seat 5: honey_badger (small blind) folded before Flop
+Seat 6: FADETHESNAP (big blind) folded before Flop
+Seat 9: SigadiSogadi folded before Flop (didn't bet)
+
+PokerStars Hand #1498708496:  Hold'em No Limit ($50.00/$100.00 USD) - 2022/12/26 05:53:09 ET
+Table 'WPN_7 Day No Rathole 50/100 NLH' 9-max Seat #5 is the button
+Seat 2: zas911 ($26646.36 in chips)
+Seat 3: Ganbian Beef ($4736.00 in chips)
+Seat 4: stabilok ($1848.25 in chips)
+Seat 5: honey_badger ($3286.85 in chips)
+Seat 6: FADETHESNAP ($1050.00 in chips)
+Seat 8: AnnuittCoeptis ($3792.50 in chips)
+Seat 9: SigadiSogadi ($1370.50 in chips)
+FADETHESNAP: posts small blind $50.00
+AnnuittCoeptis: posts big blind $100.00
+*** HOLE CARDS ***
+SigadiSogadi: folds
+zas911: folds
+Ganbian Beef: folds
+stabilok: folds
+honey_badger: folds
+FADETHESNAP: raises $950.00 to $1050.00 and is all-in
+AnnuittCoeptis: calls $950.00
+*** FLOP *** [2c 9c 9d]
+*** TURN *** [2c 9c 9d] [Ks]
+*** RIVER *** [2c 9c 9d Ks] [2s]
+*** SHOW DOWN ***
+AnnuittCoeptis: shows [Ad 2d]
+FADETHESNAP: shows [Js Qd]
+AnnuittCoeptis collected $2097.00 from pot
+*** SUMMARY ***
+Total pot $2100.00 | Rake $3.00
+Board [2c 9c 9d Ks 2s]
+Seat 2: zas911 folded before Flop (didn't bet)
+Seat 3: Ganbian Beef folded before Flop (didn't bet)
+Seat 4: stabilok folded before Flop (didn't bet)
+Seat 5: honey_badger (button) folded before Flop (didn't bet)
+Seat 6: FADETHESNAP (small blind) showed [Js Qd] and lost
+Seat 8: AnnuittCoeptis (big blind) showed [Ad 2d] and won ($2097.00)
+Seat 9: SigadiSogadi folded before Flop (didn't bet)
+
+PokerStars Hand #1498709093:  Hold'em No Limit ($50.00/$100.00 USD) - 2022/12/26 05:53:51 ET
+Table 'WPN_7 Day No Rathole 50/100 NLH' 9-max Seat #6 is the button
+Seat 2: zas911 ($26646.36 in chips)
+Seat 3: Ganbian Beef ($4736.00 in chips)
+Seat 4: stabilok ($1848.25 in chips)
+Seat 5: honey_badger ($3286.85 in chips)
+Seat 6: FADETHESNAP ($1000.00 in chips)
+Seat 8: AnnuittCoeptis ($4839.50 in chips)
+Seat 9: SigadiSogadi ($1370.50 in chips)
+AnnuittCoeptis: posts small blind $50.00
+SigadiSogadi: posts big blind $100.00
+*** HOLE CARDS ***
+zas911: folds
+Ganbian Beef: raises $100.00 to $200.00
+stabilok: raises $1648.25 to $1848.25 and is all-in
+honey_badger: folds
+FADETHESNAP: folds
+AnnuittCoeptis: folds
+SigadiSogadi: folds
+Ganbian Beef: calls $1648.25
+*** FLOP *** [Qc Ks Qs]
+*** TURN *** [Qc Ks Qs] [2d]
+*** RIVER *** [Qc Ks Qs 2d] [6c]
+*** SHOW DOWN ***
+stabilok: shows [Ah Qd]
+Ganbian Beef: shows [Ad Ac]
+stabilok collected $3843.50 from pot
+*** SUMMARY ***
+Total pot $3846.50 | Rake $3.00
+Board [Qc Ks Qs 2d 6c]
+Seat 2: zas911 folded before Flop (didn't bet)
+Seat 3: Ganbian Beef showed [Ad Ac] and lost
+Seat 4: stabilok showed [Ah Qd] and won ($3843.50)
+Seat 5: honey_badger folded before Flop (didn't bet)
+Seat 6: FADETHESNAP (button) folded before Flop (didn't bet)
+Seat 8: AnnuittCoeptis (small blind) folded before Flop
+Seat 9: SigadiSogadi (big blind) folded before Flop
+
+PokerStars Hand #1498709627:  Hold'em No Limit ($50.00/$100.00 USD) - 2022/12/26 05:54:30 ET
+Table 'WPN_7 Day No Rathole 50/100 NLH' 9-max Seat #8 is the button
+Seat 2: zas911 ($26646.36 in chips)
+Seat 3: Ganbian Beef ($2887.75 in chips)
+Seat 4: stabilok ($3843.50 in chips)
+Seat 5: honey_badger ($3286.85 in chips)
+Seat 8: AnnuittCoeptis ($4789.50 in chips)
+Seat 9: SigadiSogadi ($1270.50 in chips)
+SigadiSogadi: posts small blind $50.00
+zas911: posts big blind $100.00
+*** HOLE CARDS ***
+Ganbian Beef: folds
+stabilok: folds
+honey_badger: folds
+AnnuittCoeptis: calls $100.00
+SigadiSogadi: raises $200.00 to $300.00
+zas911: folds
+AnnuittCoeptis: raises $4489.50 to $4789.50 and is all-in
+SigadiSogadi: folds
+Uncalled bet ($4489.50) returned to AnnuittCoeptis
+AnnuittCoeptis collected $700.00 from pot
+AnnuittCoeptis: doesn't show hand
+*** SUMMARY ***
+Total pot $700.00 | Rake $0.00
+Seat 2: zas911 (big blind) folded before Flop
+Seat 3: Ganbian Beef folded before Flop (didn't bet)
+Seat 4: stabilok folded before Flop (didn't bet)
+Seat 5: honey_badger folded before Flop (didn't bet)
+Seat 8: AnnuittCoeptis (button) collected ($700.00)
+Seat 9: SigadiSogadi (small blind) folded before Flop
+
+PokerStars Hand #1498710259:  Hold'em No Limit ($50.00/$100.00 USD) - 2022/12/26 05:55:25 ET
+Table 'WPN_7 Day No Rathole 50/100 NLH' 9-max Seat #9 is the button
+Seat 2: zas911 ($26546.36 in chips)
+Seat 3: Ganbian Beef ($2887.75 in chips)
+Seat 4: stabilok ($3843.50 in chips)
+Seat 5: honey_badger ($3286.85 in chips)
+Seat 8: AnnuittCoeptis ($5189.50 in chips)
+Seat 9: SigadiSogadi ($970.50 in chips)
+zas911: posts small blind $50.00
+Ganbian Beef: posts big blind $100.00
+*** HOLE CARDS ***
+stabilok: folds
+honey_badger: folds
+AnnuittCoeptis: raises $145.00 to $245.00
+SigadiSogadi: folds
+zas911: folds
+Ganbian Beef: folds
+Uncalled bet ($145.00) returned to AnnuittCoeptis
+AnnuittCoeptis collected $250.00 from pot
+AnnuittCoeptis: doesn't show hand
+*** SUMMARY ***
+Total pot $250.00 | Rake $0.00
+Seat 2: zas911 (small blind) folded before Flop
+Seat 3: Ganbian Beef (big blind) folded before Flop
+Seat 4: stabilok folded before Flop (didn't bet)
+Seat 5: honey_badger folded before Flop (didn't bet)
+Seat 8: AnnuittCoeptis collected ($250.00)
+Seat 9: SigadiSogadi (button) folded before Flop (didn't bet)
+
+PokerStars Hand #1498710531:  Hold'em No Limit ($50.00/$100.00 USD) - 2022/12/26 05:55:56 ET
+Table 'WPN_7 Day No Rathole 50/100 NLH' 9-max Seat #2 is the button
+Seat 2: zas911 ($26496.36 in chips)
+Seat 3: Ganbian Beef ($2787.75 in chips)
+Seat 4: stabilok ($3843.50 in chips)
+Seat 5: honey_badger ($3286.85 in chips)
+Seat 8: AnnuittCoeptis ($5339.50 in chips)
+Seat 9: SigadiSogadi ($970.50 in chips)
+Ganbian Beef: posts small blind $50.00
+stabilok: posts big blind $100.00
+*** HOLE CARDS ***
+honey_badger: folds
+AnnuittCoeptis: folds
+SigadiSogadi: folds
+zas911: folds
+Ganbian Beef: raises $150.00 to $250.00
+stabilok: calls $150.00
+*** FLOP *** [Qh Ks 6s]
+Ganbian Beef: bets $175.00
+stabilok: raises $275.00 to $450.00
+Ganbian Beef: folds
+Uncalled bet ($275.00) returned to stabilok
+stabilok collected $847.00 from pot
+stabilok: doesn't show hand
+*** SUMMARY ***
+Total pot $850.00 | Rake $3.00
+Board [Qh Ks 6s]
+Seat 2: zas911 (button) folded before Flop (didn't bet)
+Seat 3: Ganbian Beef (small blind) folded on the Flop
+Seat 4: stabilok (big blind) collected ($847.00)
+Seat 5: honey_badger folded before Flop (didn't bet)
+Seat 8: AnnuittCoeptis folded before Flop (didn't bet)
+Seat 9: SigadiSogadi folded before Flop (didn't bet)
+
+PokerStars Hand #1498711017:  Hold'em No Limit ($50.00/$100.00 USD) - 2022/12/26 05:56:50 ET
+Table 'WPN_7 Day No Rathole 50/100 NLH' 9-max Seat #3 is the button
+Seat 2: zas911 ($26496.36 in chips)
+Seat 3: Ganbian Beef ($2362.75 in chips)
+Seat 4: stabilok ($4265.50 in chips)
+Seat 5: honey_badger ($3286.85 in chips)
+Seat 8: AnnuittCoeptis ($5339.50 in chips)
+Seat 9: SigadiSogadi ($970.50 in chips)
+stabilok: posts small blind $50.00
+honey_badger: posts big blind $100.00
+*** HOLE CARDS ***
+AnnuittCoeptis: folds
+SigadiSogadi: folds
+zas911: folds
+Ganbian Beef: raises $100.00 to $200.00
+stabilok: folds
+honey_badger: folds
+Uncalled bet ($100.00) returned to Ganbian Beef
+Ganbian Beef collected $250.00 from pot
+Ganbian Beef: doesn't show hand
+*** SUMMARY ***
+Total pot $250.00 | Rake $0.00
+Seat 2: zas911 folded before Flop (didn't bet)
+Seat 3: Ganbian Beef (button) collected ($250.00)
+Seat 4: stabilok (small blind) folded before Flop
+Seat 5: honey_badger (big blind) folded before Flop
+Seat 8: AnnuittCoeptis folded before Flop (didn't bet)
+Seat 9: SigadiSogadi folded before Flop (didn't bet)
+
+PokerStars Hand #1498711210:  Hold'em No Limit ($50.00/$100.00 USD) - 2022/12/26 05:57:10 ET
+Table 'WPN_7 Day No Rathole 50/100 NLH' 9-max Seat #4 is the button
+Seat 2: zas911 ($26496.36 in chips)
+Seat 3: Ganbian Beef ($2512.75 in chips)
+Seat 4: stabilok ($4215.50 in chips)
+Seat 5: honey_badger ($3186.85 in chips)
+Seat 8: AnnuittCoeptis ($5339.50 in chips)
+Seat 9: SigadiSogadi ($970.50 in chips)
+honey_badger: posts small blind $50.00
+AnnuittCoeptis: posts big blind $100.00
+*** HOLE CARDS ***
+SigadiSogadi: folds
+zas911: folds
+Ganbian Beef: raises $100.00 to $200.00
+stabilok: folds
+honey_badger: folds
+AnnuittCoeptis: calls $100.00
+*** FLOP *** [8h 8s 4s]
+AnnuittCoeptis: checks
+Ganbian Beef: bets $100.00
+AnnuittCoeptis: calls $100.00
+*** TURN *** [8h 8s 4s] [6d]
+AnnuittCoeptis: checks
+Ganbian Beef: checks
+*** RIVER *** [8h 8s 4s 6d] [Qs]
+AnnuittCoeptis: checks
+Ganbian Beef: bets $2212.75 and is all-in
+AnnuittCoeptis: folds
+Uncalled bet ($2212.75) returned to Ganbian Beef
+Ganbian Beef collected $647.00 from pot
+Ganbian Beef: doesn't show hand
+*** SUMMARY ***
+Total pot $650.00 | Rake $3.00
+Board [8h 8s 4s 6d Qs]
+Seat 2: zas911 folded before Flop (didn't bet)
+Seat 3: Ganbian Beef collected ($647.00)
+Seat 4: stabilok (button) folded before Flop (didn't bet)
+Seat 5: honey_badger (small blind) folded before Flop
+Seat 8: AnnuittCoeptis (big blind) folded on the River
+Seat 9: SigadiSogadi folded before Flop (didn't bet)
+
+PokerStars Hand #1498712289:  Hold'em No Limit ($50.00/$100.00 USD) - 2022/12/26 05:59:13 ET
+Table 'WPN_7 Day No Rathole 50/100 NLH' 9-max Seat #5 is the button
+Seat 1: bigsoowoop ($2295.75 in chips)
+Seat 2: zas911 ($26496.36 in chips)
+Seat 3: Ganbian Beef ($2859.75 in chips)
+Seat 4: stabilok ($4215.50 in chips)
+Seat 5: honey_badger ($3136.85 in chips)
+Seat 8: AnnuittCoeptis ($5039.50 in chips)
+Seat 9: SigadiSogadi ($970.50 in chips)
+AnnuittCoeptis: posts small blind $50.00
+SigadiSogadi: posts big blind $100.00
+*** HOLE CARDS ***
+zas911: folds
+Ganbian Beef: raises $100.00 to $200.00
+stabilok: folds
+honey_badger: folds
+AnnuittCoeptis: folds
+SigadiSogadi: folds
+Uncalled bet ($100.00) returned to Ganbian Beef
+Ganbian Beef collected $250.00 from pot
+Ganbian Beef: doesn't show hand
+*** SUMMARY ***
+Total pot $250.00 | Rake $0.00
+Seat 2: zas911 folded before Flop (didn't bet)
+Seat 3: Ganbian Beef collected ($250.00)
+Seat 4: stabilok folded before Flop (didn't bet)
+Seat 5: honey_badger (button) folded before Flop (didn't bet)
+Seat 8: AnnuittCoeptis (small blind) folded before Flop
+Seat 9: SigadiSogadi (big blind) folded before Flop
+
+PokerStars Hand #1498713039:  Hold'em No Limit ($50.00/$100.00 USD) - 2022/12/26 06:00:31 ET
+Table 'WPN_7 Day No Rathole 50/100 NLH' 9-max Seat #1 is the button
+Seat 1: bigsoowoop ($2295.75 in chips)
+Seat 3: Ganbian Beef ($2909.75 in chips)
+Seat 4: stabilok ($4365.50 in chips)
+Seat 5: honey_badger ($3136.85 in chips)
+Seat 8: AnnuittCoeptis ($4989.50 in chips)
+Seat 9: SigadiSogadi ($1000.00 in chips)
+Ganbian Beef: posts small blind $50.00
+stabilok: posts big blind $100.00
+*** HOLE CARDS ***
+honey_badger: folds
+AnnuittCoeptis: folds
+SigadiSogadi: folds
+bigsoowoop: folds
+Ganbian Beef: raises $200.00 to $300.00
+stabilok: calls $200.00
+*** FLOP *** [4h Qc 8d]
+Ganbian Beef: checks
+stabilok: checks
+*** TURN *** [4h Qc 8d] [6s]
+Ganbian Beef: checks
+stabilok: checks
+*** RIVER *** [4h Qc 8d 6s] [2c]
+Ganbian Beef: bets $100.00
+stabilok: calls $100.00
+*** SHOW DOWN ***
+stabilok: shows [9d 4c]
+Ganbian Beef: mucks hand
+stabilok collected $797.00 from pot
+*** SUMMARY ***
+Total pot $800.00 | Rake $3.00
+Board [4h Qc 8d 6s 2c]
+Seat 1: bigsoowoop (button) folded before Flop (didn't bet)
+Seat 3: Ganbian Beef (small blind) mucked
+Seat 4: stabilok (big blind) showed [9d 4c] and won ($797.00)
+Seat 5: honey_badger folded before Flop (didn't bet)
+Seat 8: AnnuittCoeptis folded before Flop (didn't bet)
+Seat 9: SigadiSogadi folded before Flop (didn't bet)
+
+PokerStars Hand #1498713725:  Hold'em No Limit ($50.00/$100.00 USD) - 2022/12/26 06:01:34 ET
+Table 'WPN_7 Day No Rathole 50/100 NLH' 9-max Seat #3 is the button
+Seat 1: bigsoowoop ($2295.75 in chips)
+Seat 3: Ganbian Beef ($2509.75 in chips)
+Seat 4: stabilok ($4762.50 in chips)
+Seat 5: honey_badger ($3136.85 in chips)
+Seat 6: Sauhuo ($1000.00 in chips)
+Seat 8: AnnuittCoeptis ($4989.50 in chips)
+Seat 9: SigadiSogadi ($1000.00 in chips)
+stabilok: posts small blind $50.00
+honey_badger: posts big blind $100.00
+*** HOLE CARDS ***
+AnnuittCoeptis: raises $100.00 to $200.00
+SigadiSogadi: folds
+bigsoowoop: folds
+Ganbian Beef: folds
+stabilok: folds
+honey_badger: folds
+Uncalled bet ($100.00) returned to AnnuittCoeptis
+AnnuittCoeptis collected $250.00 from pot
+AnnuittCoeptis: doesn't show hand
+*** SUMMARY ***
+Total pot $250.00 | Rake $0.00
+Seat 1: bigsoowoop folded before Flop (didn't bet)
+Seat 3: Ganbian Beef (button) folded before Flop (didn't bet)
+Seat 4: stabilok (small blind) folded before Flop
+Seat 5: honey_badger (big blind) folded before Flop
+Seat 8: AnnuittCoeptis collected ($250.00)
+Seat 9: SigadiSogadi folded before Flop (didn't bet)
+
+PokerStars Hand #1498713978:  Hold'em No Limit ($50.00/$100.00 USD) - 2022/12/26 06:01:55 ET
+Table 'WPN_7 Day No Rathole 50/100 NLH' 9-max Seat #4 is the button
+Seat 1: bigsoowoop ($2295.75 in chips)
+Seat 3: Ganbian Beef ($2509.75 in chips)
+Seat 4: stabilok ($4712.50 in chips)
+Seat 5: honey_badger ($3036.85 in chips)
+Seat 6: Sauhuo ($1000.00 in chips)
+Seat 8: AnnuittCoeptis ($5139.50 in chips)
+Seat 9: SigadiSogadi ($1000.00 in chips)
+honey_badger: posts small blind $50.00
+Sauhuo: posts big blind $100.00
+*** HOLE CARDS ***
+AnnuittCoeptis: calls $100.00
+SigadiSogadi: folds
+bigsoowoop: folds
+Ganbian Beef: raises $150.00 to $250.00
+stabilok: folds
+honey_badger: folds
+Sauhuo: folds
+AnnuittCoeptis: calls $150.00
+*** FLOP *** [7s 3c As]
+AnnuittCoeptis: checks
+Ganbian Beef: bets $100.00
+AnnuittCoeptis: folds
+Uncalled bet ($100.00) returned to Ganbian Beef
+Ganbian Beef collected $647.00 from pot
+Ganbian Beef: doesn't show hand
+*** SUMMARY ***
+Total pot $650.00 | Rake $3.00
+Board [7s 3c As]
+Seat 1: bigsoowoop folded before Flop (didn't bet)
+Seat 3: Ganbian Beef collected ($647.00)
+Seat 4: stabilok (button) folded before Flop (didn't bet)
+Seat 5: honey_badger (small blind) folded before Flop
+Seat 6: Sauhuo (big blind) folded before Flop
+Seat 8: AnnuittCoeptis folded on the Flop
+Seat 9: SigadiSogadi folded before Flop (didn't bet)
+
+PokerStars Hand #1498714595:  Hold'em No Limit ($50.00/$100.00 USD) - 2022/12/26 06:02:42 ET
+Table 'WPN_7 Day No Rathole 50/100 NLH' 9-max Seat #5 is the button
+Seat 1: bigsoowoop ($2295.75 in chips)
+Seat 3: Ganbian Beef ($2906.75 in chips)
+Seat 4: stabilok ($4712.50 in chips)
+Seat 5: honey_badger ($2986.85 in chips)
+Seat 6: Sauhuo ($1000.00 in chips)
+Seat 8: AnnuittCoeptis ($4889.50 in chips)
+Seat 9: SigadiSogadi ($1000.00 in chips)
+Sauhuo: posts small blind $50.00
+AnnuittCoeptis: posts big blind $100.00
+*** HOLE CARDS ***
+SigadiSogadi: raises $900.00 to $1000.00 and is all-in
+bigsoowoop: folds
+Ganbian Beef: folds
+stabilok: folds
+honey_badger: folds
+Sauhuo: folds
+AnnuittCoeptis: folds
+Uncalled bet ($900.00) returned to SigadiSogadi
+SigadiSogadi collected $250.00 from pot
+SigadiSogadi: doesn't show hand
+*** SUMMARY ***
+Total pot $250.00 | Rake $0.00
+Seat 1: bigsoowoop folded before Flop (didn't bet)
+Seat 3: Ganbian Beef folded before Flop (didn't bet)
+Seat 4: stabilok folded before Flop (didn't bet)
+Seat 5: honey_badger (button) folded before Flop (didn't bet)
+Seat 6: Sauhuo (small blind) folded before Flop
+Seat 8: AnnuittCoeptis (big blind) folded before Flop
+Seat 9: SigadiSogadi collected ($250.00)
+
+PokerStars Hand #1498714924:  Hold'em No Limit ($50.00/$100.00 USD) - 2022/12/26 06:03:07 ET
+Table 'WPN_7 Day No Rathole 50/100 NLH' 9-max Seat #6 is the button
+Seat 1: bigsoowoop ($2295.75 in chips)
+Seat 3: Ganbian Beef ($2906.75 in chips)
+Seat 4: stabilok ($4712.50 in chips)
+Seat 5: honey_badger ($2986.85 in chips)
+Seat 6: Sauhuo ($1000.00 in chips)
+Seat 8: AnnuittCoeptis ($4789.50 in chips)
+Seat 9: SigadiSogadi ($1150.00 in chips)
+AnnuittCoeptis: posts small blind $50.00
+SigadiSogadi: posts big blind $100.00
+*** HOLE CARDS ***
+bigsoowoop: raises $100.00 to $200.00
+Ganbian Beef: folds
+stabilok: folds
+honey_badger: raises $100.00 to $300.00
+Sauhuo: folds
+AnnuittCoeptis: folds
+SigadiSogadi: folds
+bigsoowoop: calls $100.00
+*** FLOP *** [2h 2d Kd]
+bigsoowoop: checks
+honey_badger: bets $237.50
+bigsoowoop: calls $237.50
+*** TURN *** [2h 2d Kd] [Kc]
+bigsoowoop: checks
+honey_badger: bets $150.00
+bigsoowoop: raises $350.00 to $500.00
+honey_badger: folds
+Uncalled bet ($350.00) returned to bigsoowoop
+bigsoowoop collected $1522.00 from pot
+bigsoowoop: doesn't show hand
+*** SUMMARY ***
+Total pot $1525.00 | Rake $3.00
+Board [2h 2d Kd Kc]
+Seat 1: bigsoowoop collected ($1522.00)
+Seat 3: Ganbian Beef folded before Flop (didn't bet)
+Seat 4: stabilok folded before Flop (didn't bet)
+Seat 5: honey_badger folded on the Turn
+Seat 6: Sauhuo (button) folded before Flop (didn't bet)
+Seat 8: AnnuittCoeptis (small blind) folded before Flop
+Seat 9: SigadiSogadi (big blind) folded before Flop
+
+PokerStars Hand #1498716205:  Hold'em No Limit ($50.00/$100.00 USD) - 2022/12/26 06:04:46 ET
+Table 'WPN_7 Day No Rathole 50/100 NLH' 9-max Seat #8 is the button
+Seat 1: bigsoowoop ($3130.25 in chips)
+Seat 3: Ganbian Beef ($2906.75 in chips)
+Seat 4: stabilok ($4712.50 in chips)
+Seat 5: honey_badger ($2299.35 in chips)
+Seat 6: Sauhuo ($1000.00 in chips)
+Seat 8: AnnuittCoeptis ($4739.50 in chips)
+Seat 9: SigadiSogadi ($1050.00 in chips)
+SigadiSogadi: posts small blind $50.00
+Ganbian Beef: posts big blind $100.00
+*** HOLE CARDS ***
+stabilok: raises $100.00 to $200.00
+honey_badger: folds
+Sauhuo: folds
+AnnuittCoeptis: calls $200.00
+SigadiSogadi: folds
+Ganbian Beef: folds
+*** FLOP *** [Tc Th 2c]
+stabilok: bets $137.50
+AnnuittCoeptis: raises $137.50 to $275.00
+stabilok: raises $825.00 to $1100.00
+AnnuittCoeptis: folds
+Uncalled bet ($825.00) returned to stabilok
+stabilok collected $1097.00 from pot
+stabilok: doesn't show hand
+*** SUMMARY ***
+Total pot $1100.00 | Rake $3.00
+Board [Tc Th 2c]
+Seat 3: Ganbian Beef (big blind) folded before Flop
+Seat 4: stabilok collected ($1097.00)
+Seat 5: honey_badger folded before Flop (didn't bet)
+Seat 6: Sauhuo folded before Flop (didn't bet)
+Seat 8: AnnuittCoeptis (button) folded on the Flop
+Seat 9: SigadiSogadi (small blind) folded before Flop
+
+PokerStars Hand #1498717158:  Hold'em No Limit ($50.00/$100.00 USD) - 2022/12/26 06:05:56 ET
+Table 'WPN_7 Day No Rathole 50/100 NLH' 9-max Seat #9 is the button
+Seat 3: Ganbian Beef ($2806.75 in chips)
+Seat 4: stabilok ($5334.50 in chips)
+Seat 5: honey_badger ($2299.35 in chips)
+Seat 6: Sauhuo ($1000.00 in chips)
+Seat 8: AnnuittCoeptis ($4264.50 in chips)
+Seat 9: SigadiSogadi ($1000.00 in chips)
+Ganbian Beef: posts small blind $50.00
+stabilok: posts big blind $100.00
+*** HOLE CARDS ***
+honey_badger: raises $100.00 to $200.00
+Sauhuo: folds
+AnnuittCoeptis: raises $319.00 to $519.00
+SigadiSogadi: folds
+Ganbian Beef: folds
+stabilok: folds
+honey_badger: folds
+Uncalled bet ($319.00) returned to AnnuittCoeptis
+AnnuittCoeptis collected $550.00 from pot
+AnnuittCoeptis: doesn't show hand
+*** SUMMARY ***
+Total pot $550.00 | Rake $0.00
+Seat 3: Ganbian Beef (small blind) folded before Flop
+Seat 4: stabilok (big blind) folded before Flop
+Seat 5: honey_badger folded before Flop
+Seat 6: Sauhuo folded before Flop (didn't bet)
+Seat 8: AnnuittCoeptis collected ($550.00)
+Seat 9: SigadiSogadi (button) folded before Flop (didn't bet)
+
+PokerStars Hand #1498717671:  Hold'em No Limit ($50.00/$100.00 USD) - 2022/12/26 06:06:31 ET
+Table 'WPN_7 Day No Rathole 50/100 NLH' 9-max Seat #3 is the button
+Seat 3: Ganbian Beef ($2756.75 in chips)
+Seat 4: stabilok ($5234.50 in chips)
+Seat 5: honey_badger ($2099.35 in chips)
+Seat 6: Sauhuo ($1000.00 in chips)
+Seat 8: AnnuittCoeptis ($4614.50 in chips)
+Seat 9: SigadiSogadi ($1000.00 in chips)
+stabilok: posts small blind $50.00
+honey_badger: posts big blind $100.00
+*** HOLE CARDS ***
+Sauhuo: raises $100.00 to $200.00
+AnnuittCoeptis: folds
+SigadiSogadi: folds
+Ganbian Beef: folds
+stabilok: calls $150.00
+honey_badger: folds
+*** FLOP *** [8s 7d 9d]
+stabilok: checks
+Sauhuo: checks
+*** TURN *** [8s 7d 9d] [9c]
+stabilok: bets $5034.50 and is all-in
+Sauhuo: calls $800.00 and is all-in
+Uncalled bet ($4234.50) returned to stabilok
+*** RIVER *** [8s 7d 9d 9c] [2c]
+*** SHOW DOWN ***
+stabilok: shows [Jh 8h]
+Sauhuo: shows [7c Kc]
+stabilok collected $2097.00 from pot
+*** SUMMARY ***
+Total pot $2100.00 | Rake $3.00
+Board [8s 7d 9d 9c 2c]
+Seat 3: Ganbian Beef (button) folded before Flop (didn't bet)
+Seat 4: stabilok (small blind) showed [Jh 8h] and won ($2097.00)
+Seat 5: honey_badger (big blind) folded before Flop
+Seat 6: Sauhuo showed [7c Kc] and lost
+Seat 8: AnnuittCoeptis folded before Flop (didn't bet)
+Seat 9: SigadiSogadi folded before Flop (didn't bet)
+
+PokerStars Hand #1498718283:  Hold'em No Limit ($50.00/$100.00 USD) - 2022/12/26 06:07:17 ET
+Table 'WPN_7 Day No Rathole 50/100 NLH' 9-max Seat #4 is the button
+Seat 3: Ganbian Beef ($2756.75 in chips)
+Seat 4: stabilok ($6331.50 in chips)
+Seat 5: honey_badger ($1999.35 in chips)
+Seat 6: Sauhuo ($1000.00 in chips)
+Seat 8: AnnuittCoeptis ($4614.50 in chips)
+Seat 9: SigadiSogadi ($1000.00 in chips)
+honey_badger: posts small blind $50.00
+Sauhuo: posts big blind $100.00
+*** HOLE CARDS ***
+AnnuittCoeptis: folds
+SigadiSogadi: folds
+Ganbian Beef: folds
+stabilok: raises $100.00 to $200.00
+honey_badger: folds
+Sauhuo: raises $800.00 to $1000.00 and is all-in
+stabilok: calls $800.00
+*** FLOP *** [Ac 7s Ts]
+*** TURN *** [Ac 7s Ts] [2s]
+*** RIVER *** [Ac 7s Ts 2s] [Th]
+*** SHOW DOWN ***
+Sauhuo: shows [Qc Ad]
+stabilok: shows [Jh 8h]
+Sauhuo collected $2047.00 from pot
+*** SUMMARY ***
+Total pot $2050.00 | Rake $3.00
+Board [Ac 7s Ts 2s Th]
+Seat 3: Ganbian Beef folded before Flop (didn't bet)
+Seat 4: stabilok (button) showed [Jh 8h] and lost
+Seat 5: honey_badger (small blind) folded before Flop
+Seat 6: Sauhuo (big blind) showed [Qc Ad] and won ($2047.00)
+Seat 8: AnnuittCoeptis folded before Flop (didn't bet)
+Seat 9: SigadiSogadi folded before Flop (didn't bet)
+
+PokerStars Hand #1498718879:  Hold'em No Limit ($50.00/$100.00 USD) - 2022/12/26 06:08:01 ET
+Table 'WPN_7 Day No Rathole 50/100 NLH' 9-max Seat #5 is the button
+Seat 3: Ganbian Beef ($2756.75 in chips)
+Seat 4: stabilok ($5331.50 in chips)
+Seat 5: honey_badger ($1949.35 in chips)
+Seat 6: Sauhuo ($2047.00 in chips)
+Seat 8: AnnuittCoeptis ($4614.50 in chips)
+Seat 9: SigadiSogadi ($1000.00 in chips)
+Sauhuo: posts small blind $50.00
+AnnuittCoeptis: posts big blind $100.00
+*** HOLE CARDS ***
+SigadiSogadi: folds
+Ganbian Beef: folds
+stabilok: raises $125.00 to $225.00
+honey_badger: folds
+Sauhuo: folds
+AnnuittCoeptis: calls $125.00
+*** FLOP *** [4c Kh 6s]
+AnnuittCoeptis: checks
+stabilok: bets $125.00
+AnnuittCoeptis: folds
+Uncalled bet ($125.00) returned to stabilok
+stabilok collected $497.00 from pot
+stabilok: doesn't show hand
+*** SUMMARY ***
+Total pot $500.00 | Rake $3.00
+Board [4c Kh 6s]
+Seat 3: Ganbian Beef folded before Flop (didn't bet)
+Seat 4: stabilok collected ($497.00)
+Seat 5: honey_badger (button) folded before Flop (didn't bet)
+Seat 6: Sauhuo (small blind) folded before Flop
+Seat 8: AnnuittCoeptis (big blind) folded on the Flop
+Seat 9: SigadiSogadi folded before Flop (didn't bet)
+
+PokerStars Hand #1498719458:  Hold'em No Limit ($50.00/$100.00 USD) - 2022/12/26 06:08:44 ET
+Table 'WPN_7 Day No Rathole 50/100 NLH' 9-max Seat #6 is the button
+Seat 3: Ganbian Beef ($2756.75 in chips)
+Seat 4: stabilok ($5603.50 in chips)
+Seat 5: honey_badger ($1949.35 in chips)
+Seat 6: Sauhuo ($1997.00 in chips)
+Seat 8: AnnuittCoeptis ($4389.50 in chips)
+Seat 9: SigadiSogadi ($1000.00 in chips)
+AnnuittCoeptis: posts small blind $50.00
+stabilok: posts big blind $100.00
+*** HOLE CARDS ***
+honey_badger: folds
+Sauhuo: folds
+AnnuittCoeptis: folds
+Uncalled bet ($50.00) returned to stabilok
+stabilok collected $100.00 from pot
+stabilok: doesn't show hand
+*** SUMMARY ***
+Total pot $100.00 | Rake $0.00
+Seat 4: stabilok (big blind) collected ($100.00)
+Seat 5: honey_badger folded before Flop (didn't bet)
+Seat 6: Sauhuo (button) folded before Flop (didn't bet)
+Seat 8: AnnuittCoeptis (small blind) folded before Flop
+
+PokerStars Hand #1498719772:  Hold'em No Limit ($50.00/$100.00 USD) - 2022/12/26 06:09:07 ET
+Table 'WPN_7 Day No Rathole 50/100 NLH' 9-max Seat #8 is the button
+Seat 4: stabilok ($5653.50 in chips)
+Seat 5: honey_badger ($1949.35 in chips)
+Seat 6: Sauhuo ($1997.00 in chips)
+Seat 8: AnnuittCoeptis ($4339.50 in chips)
+stabilok: posts small blind $50.00
+honey_badger: posts big blind $100.00
+*** HOLE CARDS ***
+Sauhuo: folds
+AnnuittCoeptis: calls $100.00
+stabilok: folds
+honey_badger: checks
+*** FLOP *** [8h 4d 3h]
+honey_badger: checks
+AnnuittCoeptis: bets $100.00
+honey_badger: raises $337.50 to $437.50
+AnnuittCoeptis: folds
+Uncalled bet ($337.50) returned to honey_badger
+honey_badger collected $447.75 from pot
+honey_badger: doesn't show hand
+*** SUMMARY ***
+Total pot $450.00 | Rake $2.25
+Board [8h 4d 3h]
+Seat 4: stabilok (small blind) folded before Flop
+Seat 5: honey_badger (big blind) collected ($447.75)
+Seat 6: Sauhuo folded before Flop (didn't bet)
+Seat 8: AnnuittCoeptis (button) folded on the Flop
+
+PokerStars Hand #1498720339:  Hold'em No Limit ($50.00/$100.00 USD) - 2022/12/26 06:09:48 ET
+Table 'WPN_7 Day No Rathole 50/100 NLH' 9-max Seat #4 is the button
+Seat 4: stabilok ($5603.50 in chips)
+Seat 5: honey_badger ($2197.10 in chips)
+Seat 6: Sauhuo ($1997.00 in chips)
+Seat 8: AnnuittCoeptis ($4139.50 in chips)
+honey_badger: posts small blind $50.00
+Sauhuo: posts big blind $100.00
+*** HOLE CARDS ***
+AnnuittCoeptis: folds
+stabilok: folds
+honey_badger: folds
+Uncalled bet ($50.00) returned to Sauhuo
+Sauhuo collected $100.00 from pot
+Sauhuo: doesn't show hand
+*** SUMMARY ***
+Total pot $100.00 | Rake $0.00
+Seat 4: stabilok (button) folded before Flop (didn't bet)
+Seat 5: honey_badger (small blind) folded before Flop
+Seat 6: Sauhuo (big blind) collected ($100.00)
+Seat 8: AnnuittCoeptis folded before Flop (didn't bet)
+
+PokerStars Hand #1498720450:  Hold'em No Limit ($50.00/$100.00 USD) - 2022/12/26 06:09:56 ET
+Table 'WPN_7 Day No Rathole 50/100 NLH' 9-max Seat #5 is the button
+Seat 4: stabilok ($5603.50 in chips)
+Seat 5: honey_badger ($2147.10 in chips)
+Seat 6: Sauhuo ($2047.00 in chips)
+Seat 8: AnnuittCoeptis ($4139.50 in chips)
+Sauhuo: posts small blind $50.00
+AnnuittCoeptis: posts big blind $100.00
+*** HOLE CARDS ***
+stabilok: raises $187.50 to $287.50
+honey_badger: folds
+Sauhuo: folds
+AnnuittCoeptis: folds
+Uncalled bet ($187.50) returned to stabilok
+stabilok collected $250.00 from pot
+stabilok: doesn't show hand
+*** SUMMARY ***
+Total pot $250.00 | Rake $0.00
+Seat 4: stabilok collected ($250.00)
+Seat 5: honey_badger (button) folded before Flop (didn't bet)
+Seat 6: Sauhuo (small blind) folded before Flop
+Seat 8: AnnuittCoeptis (big blind) folded before Flop
+
+PokerStars Hand #1498720749:  Hold'em No Limit ($50.00/$100.00 USD) - 2022/12/26 06:10:18 ET
+Table 'WPN_7 Day No Rathole 50/100 NLH' 9-max Seat #6 is the button
+Seat 4: stabilok ($5753.50 in chips)
+Seat 5: honey_badger ($2147.10 in chips)
+Seat 6: Sauhuo ($1997.00 in chips)
+Seat 8: AnnuittCoeptis ($4039.50 in chips)
+AnnuittCoeptis: posts small blind $50.00
+stabilok: posts big blind $100.00
+*** HOLE CARDS ***
+honey_badger: folds
+Sauhuo: folds
+AnnuittCoeptis: calls $50.00
+stabilok: checks
+*** FLOP *** [8c 4c Qd]
+AnnuittCoeptis: bets $100.00
+stabilok: folds
+Uncalled bet ($100.00) returned to AnnuittCoeptis
+AnnuittCoeptis collected $197.75 from pot
+AnnuittCoeptis: doesn't show hand
+*** SUMMARY ***
+Total pot $200.00 | Rake $2.25
+Board [8c 4c Qd]
+Seat 4: stabilok (big blind) folded on the Flop
+Seat 5: honey_badger folded before Flop (didn't bet)
+Seat 6: Sauhuo (button) folded before Flop (didn't bet)
+Seat 8: AnnuittCoeptis (small blind) collected ($197.75)
+
+PokerStars Hand #1498721089:  Hold'em No Limit ($50.00/$100.00 USD) - 2022/12/26 06:10:41 ET
+Table 'WPN_7 Day No Rathole 50/100 NLH' 9-max Seat #8 is the button
+Seat 4: stabilok ($5653.50 in chips)
+Seat 5: honey_badger ($2147.10 in chips)
+Seat 6: Sauhuo ($1997.00 in chips)
+Seat 8: AnnuittCoeptis ($4137.25 in chips)
+stabilok: posts small blind $50.00
+honey_badger: posts big blind $100.00
+*** HOLE CARDS ***
+Sauhuo: folds
+AnnuittCoeptis: calls $100.00
+stabilok: raises $300.00 to $400.00
+honey_badger: raises $1747.10 to $2147.10 and is all-in
+AnnuittCoeptis: folds
+stabilok: folds
+Uncalled bet ($1747.10) returned to honey_badger
+honey_badger collected $900.00 from pot
+honey_badger: doesn't show hand
+*** SUMMARY ***
+Total pot $900.00 | Rake $0.00
+Seat 4: stabilok (small blind) folded before Flop
+Seat 5: honey_badger (big blind) collected ($900.00)
+Seat 6: Sauhuo folded before Flop (didn't bet)
+Seat 8: AnnuittCoeptis (button) folded before Flop
+
+PokerStars Hand #1498721673:  Hold'em No Limit ($50.00/$100.00 USD) - 2022/12/26 06:11:25 ET
+Table 'WPN_7 Day No Rathole 50/100 NLH' 9-max Seat #4 is the button
+Seat 4: stabilok ($5253.50 in chips)
+Seat 5: honey_badger ($2647.10 in chips)
+Seat 6: Sauhuo ($1997.00 in chips)
+Seat 8: AnnuittCoeptis ($4037.25 in chips)
+honey_badger: posts small blind $50.00
+Sauhuo: posts big blind $100.00
+*** HOLE CARDS ***
+AnnuittCoeptis: folds
+stabilok: raises $187.50 to $287.50
+honey_badger: folds
+Sauhuo: folds
+Uncalled bet ($187.50) returned to stabilok
+stabilok collected $250.00 from pot
+stabilok: doesn't show hand
+*** SUMMARY ***
+Total pot $250.00 | Rake $0.00
+Seat 4: stabilok (button) collected ($250.00)
+Seat 5: honey_badger (small blind) folded before Flop
+Seat 6: Sauhuo (big blind) folded before Flop
+Seat 8: AnnuittCoeptis folded before Flop (didn't bet)
+
+PokerStars Hand #1498722030:  Hold'em No Limit ($50.00/$100.00 USD) - 2022/12/26 06:11:51 ET
+Table 'WPN_7 Day No Rathole 50/100 NLH' 9-max Seat #5 is the button
+Seat 4: stabilok ($5403.50 in chips)
+Seat 5: honey_badger ($2597.10 in chips)
+Seat 6: Sauhuo ($1897.00 in chips)
+Sauhuo: posts small blind $50.00
+stabilok: posts big blind $100.00
+*** HOLE CARDS ***
+honey_badger: folds
+Sauhuo: raises $110.00 to $210.00
+stabilok: calls $110.00
+*** FLOP *** [5s 6c 5c]
+Sauhuo: bets $134.40
+stabilok: raises $344.40 to $478.80
+Sauhuo: raises $1208.20 to $1687.00 and is all-in
+stabilok: calls $1208.20
+*** TURN *** [5s 6c 5c] [Jd]
+*** RIVER *** [5s 6c 5c Jd] [Js]
+*** SHOW DOWN ***
+stabilok: shows [Qc 5h]
+Sauhuo: shows [8s 9s]
+stabilok collected $3792.25 from pot
+*** SUMMARY ***
+Total pot $3794.00 | Rake $1.75
+Board [5s 6c 5c Jd Js]
+Seat 4: stabilok (big blind) showed [Qc 5h] and won ($3792.25)
+Seat 5: honey_badger (button) folded before Flop (didn't bet)
+Seat 6: Sauhuo (small blind) showed [8s 9s] and lost
+
+PokerStars Hand #1498722516:  Hold'em No Limit ($50.00/$100.00 USD) - 2022/12/26 06:12:28 ET
+Table 'WPN_7 Day No Rathole 50/100 NLH' 9-max Seat #6 is the button
+Seat 4: stabilok ($7298.75 in chips)
+Seat 5: honey_badger ($2597.10 in chips)
+Seat 6: Sauhuo ($1000.00 in chips)
+stabilok: posts small blind $50.00
+honey_badger: posts big blind $100.00
+*** HOLE CARDS ***
+Sauhuo: raises $100.00 to $200.00
+stabilok: folds
+honey_badger: folds
+Uncalled bet ($100.00) returned to Sauhuo
+Sauhuo collected $250.00 from pot
+Sauhuo: doesn't show hand
+*** SUMMARY ***
+Total pot $250.00 | Rake $0.00
+Seat 4: stabilok (small blind) folded before Flop
+Seat 5: honey_badger (big blind) folded before Flop
+Seat 6: Sauhuo (button) collected ($250.00)
+
+PokerStars Hand #1498722690:  Hold'em No Limit ($50.00/$100.00 USD) - 2022/12/26 06:12:41 ET
+Table 'WPN_7 Day No Rathole 50/100 NLH' 9-max Seat #4 is the button
+Seat 4: stabilok ($7248.75 in chips)
+Seat 5: honey_badger ($2497.10 in chips)
+Seat 6: Sauhuo ($1150.00 in chips)
+honey_badger: posts small blind $50.00
+Sauhuo: posts big blind $100.00
+*** HOLE CARDS ***
+stabilok: raises $187.50 to $287.50
+honey_badger: folds
+Sauhuo: raises $862.50 to $1150.00 and is all-in
+stabilok: calls $862.50
+*** FLOP *** [Jd 6d 4s]
+*** TURN *** [Jd 6d 4s] [6c]
+*** RIVER *** [Jd 6d 4s 6c] [Ad]
+*** SHOW DOWN ***
+stabilok: shows [Jc 9c]
+Sauhuo: shows [8d 8s]
+stabilok collected $2348.25 from pot
+*** SUMMARY ***
+Total pot $2350.00 | Rake $1.75
+Board [Jd 6d 4s 6c Ad]
+Seat 4: stabilok (button) showed [Jc 9c] and won ($2348.25)
+Seat 5: honey_badger (small blind) folded before Flop
+Seat 6: Sauhuo (big blind) showed [8d 8s] and lost
+
+PokerStars Hand #1498723400:  Hold'em No Limit ($50.00/$100.00 USD) - 2022/12/26 06:13:34 ET
+Table 'WPN_7 Day No Rathole 50/100 NLH' 9-max Seat #5 is the button
+Seat 4: stabilok ($8447.00 in chips)
+Seat 5: honey_badger ($2447.10 in chips)
+Seat 6: Sauhuo ($1000.00 in chips)
+Sauhuo: posts small blind $50.00
+stabilok: posts big blind $100.00
+*** HOLE CARDS ***
+honey_badger: folds
+Sauhuo: raises $750.00 to $850.00
+stabilok: folds
+Uncalled bet ($750.00) returned to Sauhuo
+Sauhuo collected $200.00 from pot
+Sauhuo: doesn't show hand
+*** SUMMARY ***
+Total pot $200.00 | Rake $0.00
+Seat 4: stabilok (big blind) folded before Flop
+Seat 5: honey_badger (button) folded before Flop (didn't bet)
+Seat 6: Sauhuo (small blind) collected ($200.00)
+
+PokerStars Hand #1498723625:  Hold'em No Limit ($50.00/$100.00 USD) - 2022/12/26 06:13:51 ET
+Table 'WPN_7 Day No Rathole 50/100 NLH' 9-max Seat #6 is the button
+Seat 4: stabilok ($8347.00 in chips)
+Seat 5: honey_badger ($2447.10 in chips)
+Seat 6: Sauhuo ($1100.00 in chips)
+stabilok: posts small blind $50.00
+honey_badger: posts big blind $100.00
+*** HOLE CARDS ***
+Sauhuo: folds
+stabilok: raises $100.00 to $200.00
+honey_badger: calls $100.00
+*** FLOP *** [Ts Kc 6c]
+stabilok: bets $200.00
+honey_badger: folds
+Uncalled bet ($200.00) returned to stabilok
+stabilok collected $398.25 from pot
+stabilok: doesn't show hand
+*** SUMMARY ***
+Total pot $400.00 | Rake $1.75
+Board [Ts Kc 6c]
+Seat 4: stabilok (small blind) collected ($398.25)
+Seat 5: honey_badger (big blind) folded on the Flop
+Seat 6: Sauhuo (button) folded before Flop (didn't bet)
+
+PokerStars Hand #1498723974:  Hold'em No Limit ($50.00/$100.00 USD) - 2022/12/26 06:14:17 ET
+Table 'WPN_7 Day No Rathole 50/100 NLH' 9-max Seat #4 is the button
+Seat 4: stabilok ($8545.25 in chips)
+Seat 5: honey_badger ($2247.10 in chips)
+Seat 6: Sauhuo ($1100.00 in chips)
+honey_badger: posts small blind $50.00
+Sauhuo: posts big blind $100.00
+*** HOLE CARDS ***
+stabilok: raises $187.50 to $287.50
+honey_badger: folds
+Sauhuo: folds
+Uncalled bet ($187.50) returned to stabilok
+stabilok collected $250.00 from pot
+stabilok: doesn't show hand
+*** SUMMARY ***
+Total pot $250.00 | Rake $0.00
+Seat 4: stabilok (button) collected ($250.00)
+Seat 5: honey_badger (small blind) folded before Flop
+Seat 6: Sauhuo (big blind) folded before Flop
+
+PokerStars Hand #1498724141:  Hold'em No Limit ($50.00/$100.00 USD) - 2022/12/26 06:14:30 ET
+Table 'WPN_7 Day No Rathole 50/100 NLH' 9-max Seat #5 is the button
+Seat 4: stabilok ($8695.25 in chips)
+Seat 5: honey_badger ($2197.10 in chips)
+Seat 6: Sauhuo ($1000.00 in chips)
+Sauhuo: posts small blind $50.00
+honey_badger: posts big blind $100.00
+*** HOLE CARDS ***
+Sauhuo: raises $750.00 to $850.00
+honey_badger: raises $750.00 to $1600.00
+Sauhuo: calls $150.00 and is all-in
+Uncalled bet ($600.00) returned to honey_badger
+*** FLOP *** [Ks 8h Js]
+*** TURN *** [Ks 8h Js] [4h]
+*** RIVER *** [Ks 8h Js 4h] [6s]
+*** SHOW DOWN ***
+Sauhuo: shows [6c Kc]
+honey_badger: shows [Kh Tc]
+Sauhuo collected $1998.75 from pot
+*** SUMMARY ***
+Total pot $2000.00 | Rake $1.25
+Board [Ks 8h Js 4h 6s]
+Seat 5: honey_badger (button) (big blind) showed [Kh Tc] and lost
+Seat 6: Sauhuo (small blind) showed [6c Kc] and won ($1998.75)
+
+PokerStars Hand #1498697447:  Hold'em No Limit ($50.00/$100.00 USD) - 2022/12/26 05:40:05 ET
+Table 'WPN_7 Day No Rathole 50/100 NLH' 9-max Seat #9 is the button
+Seat 2: zas911 ($28377.61 in chips)
+Seat 4: stabilok ($1000.00 in chips)
+Seat 9: SigadiSogadi ($1000.00 in chips)
+SigadiSogadi: posts small blind $50.00
+zas911: posts big blind $100.00
+*** HOLE CARDS ***
+SigadiSogadi: calls $50.00
+zas911: checks
+*** FLOP *** [8h Kc Ts]
+zas911: checks
+SigadiSogadi: checks
+*** TURN *** [8h Kc Ts] [5h]
+zas911: checks
+SigadiSogadi: checks
+*** RIVER *** [8h Kc Ts 5h] [9d]
+zas911: checks
+SigadiSogadi: bets $150.00
+zas911: folds
+Uncalled bet ($150.00) returned to SigadiSogadi
+SigadiSogadi collected $198.75 from pot
+SigadiSogadi: doesn't show hand
+*** SUMMARY ***
+Total pot $200.00 | Rake $1.25
+Board [8h Kc Ts 5h 9d]
+Seat 2: zas911 (big blind) folded on the River
+Seat 9: SigadiSogadi (button) (small blind) collected ($198.75)
+
+PokerStars Hand #1498698277:  Hold'em No Limit ($50.00/$100.00 USD) - 2022/12/26 05:41:03 ET
+Table 'WPN_7 Day No Rathole 50/100 NLH' 9-max Seat #9 is the button
+Seat 1: AnnuittCoeptis ($1000.00 in chips)
+Seat 2: zas911 ($28277.61 in chips)
+Seat 4: stabilok ($1000.00 in chips)
+Seat 9: SigadiSogadi ($1098.75 in chips)
+zas911: posts small blind $50.00
+stabilok: posts big blind $100.00
+*** HOLE CARDS ***
+SigadiSogadi: folds
+zas911: raises $28177.61 to $28277.61 and is all-in
+stabilok: calls $900.00 and is all-in
+Uncalled bet ($27277.61) returned to zas911
+*** FLOP *** [Js Qc 5d]
+*** TURN *** [Js Qc 5d] [Qd]
+*** RIVER *** [Js Qc 5d Qd] [8h]
+*** SHOW DOWN ***
+stabilok: shows [Qs Qh]
+zas911: shows [As 7h]
+stabilok collected $1998.25 from pot
+*** SUMMARY ***
+Total pot $2000.00 | Rake $1.75
+Board [Js Qc 5d Qd 8h]
+Seat 2: zas911 (small blind) showed [As 7h] and lost
+Seat 4: stabilok (big blind) showed [Qs Qh] and won ($1998.25)
+Seat 9: SigadiSogadi (button) folded before Flop (didn't bet)
+
+PokerStars Hand #1498696092:  Hold'em No Limit ($50.00/$100.00 USD) - 2022/12/26 05:38:30 ET
+Table 'WPN_7 Day No Rathole 50/100 NLH' 9-max Seat #2 is the button
+Seat 2: zas911 ($24705.88 in chips)
+Seat 9: SigadiSogadi ($3672.98 in chips)
+zas911: posts small blind $50.00
+SigadiSogadi: posts big blind $100.00
+*** HOLE CARDS ***
+zas911: raises $100.00 to $200.00
+SigadiSogadi: calls $100.00
+*** FLOP *** [8c 2h Ts]
+SigadiSogadi: checks
+zas911: bets $200.00
+SigadiSogadi: calls $200.00
+*** TURN *** [8c 2h Ts] [8s]
+SigadiSogadi: bets $200.00
+zas911: calls $200.00
+*** RIVER *** [8c 2h Ts 8s] [Td]
+SigadiSogadi: bets $900.00
+zas911: raises $23205.88 to $24105.88 and is all-in
+SigadiSogadi: calls $2172.98 and is all-in
+Uncalled bet ($21032.90) returned to zas911
+*** SHOW DOWN ***
+zas911: shows [Jc Tc]
+SigadiSogadi: shows [8d Kd]
+zas911 collected $7344.71 from pot
+*** SUMMARY ***
+Total pot $7345.96 | Rake $1.25
+Board [8c 2h Ts 8s Td]
+Seat 2: zas911 (button) (small blind) showed [Jc Tc] and won ($7344.71)
+Seat 9: SigadiSogadi (big blind) showed [8d Kd] and lost
+
+PokerStars Hand #1498695692:  Hold'em No Limit ($50.00/$100.00 USD) - 2022/12/26 05:38:02 ET
+Table 'WPN_7 Day No Rathole 50/100 NLH' 9-max Seat #9 is the button
+Seat 2: zas911 ($24905.88 in chips)
+Seat 9: SigadiSogadi ($3474.23 in chips)
+SigadiSogadi: posts small blind $50.00
+zas911: posts big blind $100.00
+*** HOLE CARDS ***
+SigadiSogadi: raises $100.00 to $200.00
+zas911: calls $100.00
+*** FLOP *** [5d Th 3d]
+zas911: checks
+SigadiSogadi: bets $100.00
+zas911: folds
+Uncalled bet ($100.00) returned to SigadiSogadi
+SigadiSogadi collected $398.75 from pot
+SigadiSogadi: doesn't show hand
+*** SUMMARY ***
+Total pot $400.00 | Rake $1.25
+Board [5d Th 3d]
+Seat 2: zas911 (big blind) folded on the Flop
+Seat 9: SigadiSogadi (button) (small blind) collected ($398.75)
+
+PokerStars Hand #1498695587:  Hold'em No Limit ($50.00/$100.00 USD) - 2022/12/26 05:37:54 ET
+Table 'WPN_7 Day No Rathole 50/100 NLH' 9-max Seat #9 is the button
+Seat 2: zas911 ($24955.88 in chips)
+Seat 6: Ganbian Beef ($6313.25 in chips)
+Seat 9: SigadiSogadi ($3424.23 in chips)
+zas911: posts small blind $50.00
+SigadiSogadi: posts big blind $100.00
+*** HOLE CARDS ***
+zas911: folds
+Uncalled bet ($50.00) returned to SigadiSogadi
+SigadiSogadi collected $100.00 from pot
+SigadiSogadi: doesn't show hand
+*** SUMMARY ***
+Total pot $100.00 | Rake $0.00
+Seat 2: zas911 (small blind) folded before Flop
+Seat 9: SigadiSogadi (button) (big blind) collected ($100.00)
+
+PokerStars Hand #1498694345:  Hold'em No Limit ($50.00/$100.00 USD) - 2022/12/26 05:36:30 ET
+Table 'WPN_7 Day No Rathole 50/100 NLH' 9-max Seat #9 is the button
+Seat 2: zas911 ($24955.88 in chips)
+Seat 6: Ganbian Beef ($6513.25 in chips)
+Seat 9: SigadiSogadi ($3225.98 in chips)
+zas911: posts small blind $50.00
+Ganbian Beef: posts big blind $100.00
+*** HOLE CARDS ***
+SigadiSogadi: folds
+zas911: folds
+Uncalled bet ($50.00) returned to Ganbian Beef
+Ganbian Beef collected $100.00 from pot
+Ganbian Beef: doesn't show hand
+*** SUMMARY ***
+Total pot $100.00 | Rake $0.00
+Seat 2: zas911 (small blind) folded before Flop
+Seat 6: Ganbian Beef (big blind) collected ($100.00)
+Seat 9: SigadiSogadi (button) folded before Flop (didn't bet)
+
+PokerStars Hand #1498694623:  Hold'em No Limit ($50.00/$100.00 USD) - 2022/12/26 05:36:49 ET
+Table 'WPN_7 Day No Rathole 50/100 NLH' 9-max Seat #2 is the button
+Seat 2: zas911 ($24905.88 in chips)
+Seat 6: Ganbian Beef ($6563.25 in chips)
+Seat 9: SigadiSogadi ($3225.98 in chips)
+Ganbian Beef: posts small blind $50.00
+SigadiSogadi: posts big blind $100.00
+*** HOLE CARDS ***
+zas911: folds
+Ganbian Beef: raises $150.00 to $250.00
+SigadiSogadi: calls $150.00
+*** FLOP *** [Qc 4s Jd]
+Ganbian Beef: checks
+SigadiSogadi: bets $150.00
+Ganbian Beef: folds
+Uncalled bet ($150.00) returned to SigadiSogadi
+SigadiSogadi collected $498.25 from pot
+SigadiSogadi: doesn't show hand
+*** SUMMARY ***
+Total pot $500.00 | Rake $1.75
+Board [Qc 4s Jd]
+Seat 2: zas911 (button) folded before Flop (didn't bet)
+Seat 6: Ganbian Beef (small blind) folded on the Flop
+Seat 9: SigadiSogadi (big blind) collected ($498.25)
+
+PokerStars Hand #1498695287:  Hold'em No Limit ($50.00/$100.00 USD) - 2022/12/26 05:37:35 ET
+Table 'WPN_7 Day No Rathole 50/100 NLH' 9-max Seat #6 is the button
+Seat 2: zas911 ($24905.88 in chips)
+Seat 6: Ganbian Beef ($6313.25 in chips)
+Seat 9: SigadiSogadi ($3474.23 in chips)
+SigadiSogadi: posts small blind $50.00
+zas911: posts big blind $100.00
+*** HOLE CARDS ***
+Ganbian Beef: folds
+SigadiSogadi: folds
+Uncalled bet ($50.00) returned to zas911
+zas911 collected $100.00 from pot
+zas911: doesn't show hand
+*** SUMMARY ***
+Total pot $100.00 | Rake $0.00
+Seat 2: zas911 (big blind) collected ($100.00)
+Seat 6: Ganbian Beef (button) folded before Flop (didn't bet)
+Seat 9: SigadiSogadi (small blind) folded before Flop
+
+PokerStars Hand #1498693464:  Hold'em No Limit ($50.00/$100.00 USD) - 2022/12/26 05:35:32 ET
+Table 'WPN_7 Day No Rathole 50/100 NLH' 9-max Seat #6 is the button
+Seat 2: zas911 ($24157.63 in chips)
+Seat 6: Ganbian Beef ($6513.25 in chips)
+Seat 9: SigadiSogadi ($4025.98 in chips)
+SigadiSogadi: posts small blind $50.00
+zas911: posts big blind $100.00
+*** HOLE CARDS ***
+Ganbian Beef: folds
+SigadiSogadi: raises $200.00 to $300.00
+zas911: raises $500.00 to $800.00
+SigadiSogadi: calls $500.00
+*** FLOP *** [4d 7c Ad]
+SigadiSogadi: checks
+zas911: bets $450.00
+SigadiSogadi: folds
+Uncalled bet ($450.00) returned to zas911
+zas911 collected $1598.25 from pot
+zas911: doesn't show hand
+*** SUMMARY ***
+Total pot $1600.00 | Rake $1.75
+Board [4d 7c Ad]
+Seat 2: zas911 (big blind) collected ($1598.25)
+Seat 6: Ganbian Beef (button) folded before Flop (didn't bet)
+Seat 9: SigadiSogadi (small blind) folded on the Flop
+
+PokerStars Hand #1498693212:  Hold'em No Limit ($50.00/$100.00 USD) - 2022/12/26 05:35:16 ET
+Table 'WPN_7 Day No Rathole 50/100 NLH' 9-max Seat #2 is the button
+Seat 2: zas911 ($24157.63 in chips)
+Seat 6: Ganbian Beef ($6563.25 in chips)
+Seat 9: SigadiSogadi ($3975.98 in chips)
+Ganbian Beef: posts small blind $50.00
+SigadiSogadi: posts big blind $100.00
+*** HOLE CARDS ***
+zas911: folds
+Ganbian Beef: folds
+Uncalled bet ($50.00) returned to SigadiSogadi
+SigadiSogadi collected $100.00 from pot
+SigadiSogadi: doesn't show hand
+*** SUMMARY ***
+Total pot $100.00 | Rake $0.00
+Seat 2: zas911 (button) folded before Flop (didn't bet)
+Seat 6: Ganbian Beef (small blind) folded before Flop
+Seat 9: SigadiSogadi (big blind) collected ($100.00)
+
+PokerStars Hand #1498693011:  Hold'em No Limit ($50.00/$100.00 USD) - 2022/12/26 05:35:02 ET
+Table 'WPN_7 Day No Rathole 50/100 NLH' 9-max Seat #9 is the button
+Seat 2: zas911 ($24207.63 in chips)
+Seat 6: Ganbian Beef ($6513.25 in chips)
+Seat 9: SigadiSogadi ($3975.98 in chips)
+zas911: posts small blind $50.00
+Ganbian Beef: posts big blind $100.00
+*** HOLE CARDS ***
+SigadiSogadi: folds
+zas911: folds
+Uncalled bet ($50.00) returned to Ganbian Beef
+Ganbian Beef collected $100.00 from pot
+Ganbian Beef: doesn't show hand
+*** SUMMARY ***
+Total pot $100.00 | Rake $0.00
+Seat 2: zas911 (small blind) folded before Flop
+Seat 6: Ganbian Beef (big blind) collected ($100.00)
+Seat 9: SigadiSogadi (button) folded before Flop (didn't bet)
+
+PokerStars Hand #1498691679:  Hold'em No Limit ($50.00/$100.00 USD) - 2022/12/26 05:33:35 ET
+Table 'WPN_7 Day No Rathole 50/100 NLH' 9-max Seat #6 is the button
+Seat 2: zas911 ($24307.63 in chips)
+Seat 4: stabilok ($2497.00 in chips)
+Seat 6: Ganbian Beef ($3868.50 in chips)
+Seat 9: SigadiSogadi ($4025.98 in chips)
+SigadiSogadi: posts small blind $50.00
+zas911: posts big blind $100.00
+*** HOLE CARDS ***
+stabilok: raises $100.00 to $200.00
+Ganbian Beef: raises $330.00 to $530.00
+SigadiSogadi: folds
+zas911: folds
+stabilok: calls $330.00
+*** FLOP *** [8d Ks 6h]
+stabilok: checks
+Ganbian Beef: checks
+*** TURN *** [8d Ks 6h] [9h]
+stabilok: checks
+Ganbian Beef: bets $340.40
+stabilok: calls $340.40
+*** RIVER *** [8d Ks 6h 9h] [3h]
+stabilok: checks
+Ganbian Beef: bets $2998.10 and is all-in
+stabilok: calls $1626.60 and is all-in
+Uncalled bet ($1371.50) returned to Ganbian Beef
+*** SHOW DOWN ***
+Ganbian Beef: shows [8h Kh]
+stabilok: shows [5h 4h]
+Ganbian Beef collected $5141.75 from pot
+*** SUMMARY ***
+Total pot $5144.00 | Rake $2.25
+Board [8d Ks 6h 9h 3h]
+Seat 2: zas911 (big blind) folded before Flop
+Seat 4: stabilok showed [5h 4h] and lost
+Seat 6: Ganbian Beef (button) showed [8h Kh] and won ($5141.75)
+Seat 9: SigadiSogadi (small blind) folded before Flop
+
+PokerStars Hand #1498691359:  Hold'em No Limit ($50.00/$100.00 USD) - 2022/12/26 05:33:14 ET
+Table 'WPN_7 Day No Rathole 50/100 NLH' 9-max Seat #4 is the button
+Seat 2: zas911 ($24307.63 in chips)
+Seat 4: stabilok ($2497.00 in chips)
+Seat 6: Ganbian Beef ($3918.50 in chips)
+Seat 9: SigadiSogadi ($3975.98 in chips)
+Ganbian Beef: posts small blind $50.00
+SigadiSogadi: posts big blind $100.00
+*** HOLE CARDS ***
+zas911: folds
+stabilok: folds
+Ganbian Beef: folds
+Uncalled bet ($50.00) returned to SigadiSogadi
+SigadiSogadi collected $100.00 from pot
+SigadiSogadi: doesn't show hand
+*** SUMMARY ***
+Total pot $100.00 | Rake $0.00
+Seat 2: zas911 folded before Flop (didn't bet)
+Seat 4: stabilok (button) folded before Flop (didn't bet)
+Seat 6: Ganbian Beef (small blind) folded before Flop
+Seat 9: SigadiSogadi (big blind) collected ($100.00)
+
+PokerStars Hand #1498690891:  Hold'em No Limit ($50.00/$100.00 USD) - 2022/12/26 05:32:44 ET
+Table 'WPN_7 Day No Rathole 50/100 NLH' 9-max Seat #2 is the button
+Seat 2: zas911 ($24307.63 in chips)
+Seat 4: stabilok ($2547.00 in chips)
+Seat 5: lmpala_zOrg ($1547.00 in chips)
+Seat 6: Ganbian Beef ($4018.50 in chips)
+Seat 9: SigadiSogadi ($3825.98 in chips)
+stabilok: posts small blind $50.00
+Ganbian Beef: posts big blind $100.00
+*** HOLE CARDS ***
+SigadiSogadi: raises $100.00 to $200.00
+zas911: folds
+stabilok: folds
+Ganbian Beef: folds
+Uncalled bet ($100.00) returned to SigadiSogadi
+SigadiSogadi collected $250.00 from pot
+SigadiSogadi: doesn't show hand
+*** SUMMARY ***
+Total pot $250.00 | Rake $0.00
+Seat 2: zas911 (button) folded before Flop (didn't bet)
+Seat 4: stabilok (small blind) folded before Flop
+Seat 6: Ganbian Beef (big blind) folded before Flop
+Seat 9: SigadiSogadi collected ($250.00)
+
+PokerStars Hand #1498689580:  Hold'em No Limit ($50.00/$100.00 USD) - 2022/12/26 05:31:16 ET
+Table 'WPN_7 Day No Rathole 50/100 NLH' 9-max Seat #9 is the button
+Seat 2: zas911 ($24357.63 in chips)
+Seat 4: stabilok ($2747.00 in chips)
+Seat 5: lmpala_zOrg ($1547.00 in chips)
+Seat 6: Ganbian Beef ($4018.50 in chips)
+Seat 9: SigadiSogadi ($3578.98 in chips)
+zas911: posts small blind $50.00
+stabilok: posts big blind $100.00
+*** HOLE CARDS ***
+lmpala_zOrg: folds
+Ganbian Beef: folds
+SigadiSogadi: raises $100.00 to $200.00
+zas911: folds
+stabilok: calls $100.00
+*** FLOP *** [Kd 2s Qh]
+stabilok: checks
+SigadiSogadi: bets $112.50
+stabilok: folds
+Uncalled bet ($112.50) returned to SigadiSogadi
+SigadiSogadi collected $447.00 from pot
+SigadiSogadi: doesn't show hand
+*** SUMMARY ***
+Total pot $450.00 | Rake $3.00
+Board [Kd 2s Qh]
+Seat 2: zas911 (small blind) folded before Flop
+Seat 4: stabilok (big blind) folded on the Flop
+Seat 5: lmpala_zOrg folded before Flop (didn't bet)
+Seat 6: Ganbian Beef folded before Flop (didn't bet)
+Seat 9: SigadiSogadi (button) collected ($447.00)
+
+PokerStars Hand #1498688633:  Hold'em No Limit ($50.00/$100.00 USD) - 2022/12/26 05:30:16 ET
+Table 'WPN_7 Day No Rathole 50/100 NLH' 9-max Seat #6 is the button
+Seat 2: zas911 ($23953.13 in chips)
+Seat 4: stabilok ($2747.00 in chips)
+Seat 5: lmpala_zOrg ($1547.00 in chips)
+Seat 6: Ganbian Beef ($4376.00 in chips)
+Seat 9: SigadiSogadi ($3628.98 in chips)
+SigadiSogadi: posts small blind $50.00
+zas911: posts big blind $100.00
+*** HOLE CARDS ***
+stabilok: folds
+lmpala_zOrg: folds
+Ganbian Beef: raises $100.00 to $200.00
+SigadiSogadi: folds
+zas911: calls $100.00
+*** FLOP *** [6s Tc Ac]
+zas911: checks
+Ganbian Beef: bets $157.50
+zas911: calls $157.50
+*** TURN *** [6s Tc Ac] [7s]
+zas911: checks
+Ganbian Beef: checks
+*** RIVER *** [6s Tc Ac 7s] [3d]
+zas911: bets $241.25
+Ganbian Beef: folds
+Uncalled bet ($241.25) returned to zas911
+zas911 collected $762.00 from pot
+zas911: doesn't show hand
+*** SUMMARY ***
+Total pot $765.00 | Rake $3.00
+Board [6s Tc Ac 7s 3d]
+Seat 2: zas911 (big blind) collected ($762.00)
+Seat 4: stabilok folded before Flop (didn't bet)
+Seat 5: lmpala_zOrg folded before Flop (didn't bet)
+Seat 6: Ganbian Beef (button) folded on the River
+Seat 9: SigadiSogadi (small blind) folded before Flop
+
+PokerStars Hand #1498688180:  Hold'em No Limit ($50.00/$100.00 USD) - 2022/12/26 05:29:46 ET
+Table 'WPN_7 Day No Rathole 50/100 NLH' 9-max Seat #4 is the button
+Seat 2: zas911 ($23803.13 in chips)
+Seat 4: stabilok ($2747.00 in chips)
+Seat 5: lmpala_zOrg ($1597.00 in chips)
+Seat 6: Ganbian Beef ($4526.00 in chips)
+Seat 9: SigadiSogadi ($3578.98 in chips)
+lmpala_zOrg: posts small blind $50.00
+Ganbian Beef: posts big blind $100.00
+*** HOLE CARDS ***
+SigadiSogadi: folds
+zas911: raises $100.00 to $200.00
+stabilok: folds
+lmpala_zOrg: folds
+Ganbian Beef: folds
+Uncalled bet ($100.00) returned to zas911
+zas911 collected $250.00 from pot
+zas911: doesn't show hand
+*** SUMMARY ***
+Total pot $250.00 | Rake $0.00
+Seat 2: zas911 collected ($250.00)
+Seat 4: stabilok (button) folded before Flop (didn't bet)
+Seat 5: lmpala_zOrg (small blind) folded before Flop
+Seat 6: Ganbian Beef (big blind) folded before Flop
+Seat 9: SigadiSogadi folded before Flop (didn't bet)
+
+PokerStars Hand #1498688419:  Hold'em No Limit ($50.00/$100.00 USD) - 2022/12/26 05:30:02 ET
+Table 'WPN_7 Day No Rathole 50/100 NLH' 9-max Seat #5 is the button
+Seat 2: zas911 ($23953.13 in chips)
+Seat 4: stabilok ($2747.00 in chips)
+Seat 5: lmpala_zOrg ($1547.00 in chips)
+Seat 6: Ganbian Beef ($4426.00 in chips)
+Seat 9: SigadiSogadi ($3578.98 in chips)
+Ganbian Beef: posts small blind $50.00
+SigadiSogadi: posts big blind $100.00
+*** HOLE CARDS ***
+zas911: folds
+stabilok: folds
+lmpala_zOrg: folds
+Ganbian Beef: folds
+Uncalled bet ($50.00) returned to SigadiSogadi
+SigadiSogadi collected $100.00 from pot
+SigadiSogadi: doesn't show hand
+*** SUMMARY ***
+Total pot $100.00 | Rake $0.00
+Seat 2: zas911 folded before Flop (didn't bet)
+Seat 4: stabilok folded before Flop (didn't bet)
+Seat 5: lmpala_zOrg (button) folded before Flop (didn't bet)
+Seat 6: Ganbian Beef (small blind) folded before Flop
+Seat 9: SigadiSogadi (big blind) collected ($100.00)
+
+PokerStars Hand #1498687538:  Hold'em No Limit ($50.00/$100.00 USD) - 2022/12/26 05:29:04 ET
+Table 'WPN_7 Day No Rathole 50/100 NLH' 9-max Seat #9 is the button
+Seat 2: zas911 ($23853.13 in chips)
+Seat 4: stabilok ($2747.00 in chips)
+Seat 5: lmpala_zOrg ($1697.00 in chips)
+Seat 6: Ganbian Beef ($4376.00 in chips)
+Seat 9: SigadiSogadi ($3578.98 in chips)
+zas911: posts small blind $50.00
+stabilok: posts big blind $100.00
+*** HOLE CARDS ***
+lmpala_zOrg: folds
+Ganbian Beef: raises $100.00 to $200.00
+SigadiSogadi: folds
+zas911: folds
+stabilok: folds
+Uncalled bet ($100.00) returned to Ganbian Beef
+Ganbian Beef collected $250.00 from pot
+Ganbian Beef: doesn't show hand
+*** SUMMARY ***
+Total pot $250.00 | Rake $0.00
+Seat 2: zas911 (small blind) folded before Flop
+Seat 4: stabilok (big blind) folded before Flop
+Seat 5: lmpala_zOrg folded before Flop (didn't bet)
+Seat 6: Ganbian Beef collected ($250.00)
+Seat 9: SigadiSogadi (button) folded before Flop (didn't bet)
+
+PokerStars Hand #1498687786:  Hold'em No Limit ($50.00/$100.00 USD) - 2022/12/26 05:29:20 ET
+Table 'WPN_7 Day No Rathole 50/100 NLH' 9-max Seat #2 is the button
+Seat 2: zas911 ($23803.13 in chips)
+Seat 4: stabilok ($2647.00 in chips)
+Seat 5: lmpala_zOrg ($1697.00 in chips)
+Seat 6: Ganbian Beef ($4526.00 in chips)
+Seat 9: SigadiSogadi ($3578.98 in chips)
+stabilok: posts small blind $50.00
+lmpala_zOrg: posts big blind $100.00
+*** HOLE CARDS ***
+Ganbian Beef: folds
+SigadiSogadi: folds
+zas911: folds
+stabilok: raises $2547.00 to $2647.00 and is all-in
+lmpala_zOrg: folds
+Uncalled bet ($2547.00) returned to stabilok
+stabilok collected $200.00 from pot
+stabilok: doesn't show hand
+*** SUMMARY ***
+Total pot $200.00 | Rake $0.00
+Seat 2: zas911 (button) folded before Flop (didn't bet)
+Seat 4: stabilok (small blind) collected ($200.00)
+Seat 5: lmpala_zOrg (big blind) folded before Flop
+Seat 6: Ganbian Beef folded before Flop (didn't bet)
+Seat 9: SigadiSogadi folded before Flop (didn't bet)
+
+PokerStars Hand #1498687005:  Hold'em No Limit ($50.00/$100.00 USD) - 2022/12/26 05:28:30 ET
+Table 'WPN_7 Day No Rathole 50/100 NLH' 9-max Seat #6 is the button
+Seat 2: zas911 ($25203.13 in chips)
+Seat 4: stabilok ($1350.00 in chips)
+Seat 5: lmpala_zOrg ($1697.00 in chips)
+Seat 6: Ganbian Beef ($4376.00 in chips)
+Seat 9: SigadiSogadi ($3628.98 in chips)
+SigadiSogadi: posts small blind $50.00
+zas911: posts big blind $100.00
+*** HOLE CARDS ***
+stabilok: raises $1250.00 to $1350.00 and is all-in
+lmpala_zOrg: folds
+Ganbian Beef: folds
+SigadiSogadi: folds
+zas911: calls $1250.00
+*** FLOP *** [9h 8s 4s]
+*** TURN *** [9h 8s 4s] [Qh]
+*** RIVER *** [9h 8s 4s Qh] [3c]
+*** SHOW DOWN ***
+stabilok: shows [Js Qs]
+zas911: shows [As Th]
+stabilok collected $2747.00 from pot
+*** SUMMARY ***
+Total pot $2750.00 | Rake $3.00
+Board [9h 8s 4s Qh 3c]
+Seat 2: zas911 (big blind) showed [As Th] and lost
+Seat 4: stabilok showed [Js Qs] and won ($2747.00)
+Seat 5: lmpala_zOrg folded before Flop (didn't bet)
+Seat 6: Ganbian Beef (button) folded before Flop (didn't bet)
+Seat 9: SigadiSogadi (small blind) folded before Flop
+
+PokerStars Hand #1498685931:  Hold'em No Limit ($50.00/$100.00 USD) - 2022/12/26 05:27:22 ET
+Table 'WPN_7 Day No Rathole 50/100 NLH' 9-max Seat #5 is the button
+Seat 2: zas911 ($25203.13 in chips)
+Seat 4: stabilok ($1350.00 in chips)
+Seat 5: lmpala_zOrg ($1697.00 in chips)
+Seat 6: Ganbian Beef ($3935.00 in chips)
+Seat 9: SigadiSogadi ($4072.98 in chips)
+Ganbian Beef: posts small blind $50.00
+SigadiSogadi: posts big blind $100.00
+*** HOLE CARDS ***
+zas911: folds
+stabilok: folds
+lmpala_zOrg: folds
+Ganbian Beef: raises $200.00 to $300.00
+SigadiSogadi: calls $200.00
+*** FLOP *** [As 4s Ts]
+Ganbian Beef: bets $144.00
+SigadiSogadi: calls $144.00
+*** TURN *** [As 4s Ts] [2d]
+Ganbian Beef: bets $488.40
+SigadiSogadi: folds
+Uncalled bet ($488.40) returned to Ganbian Beef
+Ganbian Beef collected $885.00 from pot
+Ganbian Beef: doesn't show hand
+*** SUMMARY ***
+Total pot $888.00 | Rake $3.00
+Board [As 4s Ts 2d]
+Seat 2: zas911 folded before Flop (didn't bet)
+Seat 4: stabilok folded before Flop (didn't bet)
+Seat 5: lmpala_zOrg (button) folded before Flop (didn't bet)
+Seat 6: Ganbian Beef (small blind) collected ($885.00)
+Seat 9: SigadiSogadi (big blind) folded on the Turn
+
+PokerStars Hand #1498685512:  Hold'em No Limit ($50.00/$100.00 USD) - 2022/12/26 05:26:52 ET
+Table 'WPN_7 Day No Rathole 50/100 NLH' 9-max Seat #4 is the button
+Seat 2: zas911 ($25203.13 in chips)
+Seat 4: stabilok ($1200.00 in chips)
+Seat 5: lmpala_zOrg ($1747.00 in chips)
+Seat 6: Ganbian Beef ($4035.00 in chips)
+Seat 9: SigadiSogadi ($4072.98 in chips)
+lmpala_zOrg: posts small blind $50.00
+Ganbian Beef: posts big blind $100.00
+*** HOLE CARDS ***
+SigadiSogadi: folds
+zas911: folds
+stabilok: raises $1100.00 to $1200.00 and is all-in
+lmpala_zOrg: folds
+Ganbian Beef: folds
+Uncalled bet ($1100.00) returned to stabilok
+stabilok collected $250.00 from pot
+stabilok: doesn't show hand
+*** SUMMARY ***
+Total pot $250.00 | Rake $0.00
+Seat 2: zas911 folded before Flop (didn't bet)
+Seat 4: stabilok (button) collected ($250.00)
+Seat 5: lmpala_zOrg (small blind) folded before Flop
+Seat 6: Ganbian Beef (big blind) folded before Flop
+Seat 9: SigadiSogadi folded before Flop (didn't bet)
+
+PokerStars Hand #1498684963:  Hold'em No Limit ($50.00/$100.00 USD) - 2022/12/26 05:26:17 ET
+Table 'WPN_7 Day No Rathole 50/100 NLH' 9-max Seat #2 is the button
+Seat 2: zas911 ($25203.13 in chips)
+Seat 4: stabilok ($1250.00 in chips)
+Seat 5: lmpala_zOrg ($1847.00 in chips)
+Seat 6: Ganbian Beef ($4035.00 in chips)
+Seat 9: SigadiSogadi ($3922.98 in chips)
+stabilok: posts small blind $50.00
+lmpala_zOrg: posts big blind $100.00
+*** HOLE CARDS ***
+Ganbian Beef: folds
+SigadiSogadi: raises $100.00 to $200.00
+zas911: folds
+stabilok: folds
+lmpala_zOrg: folds
+Uncalled bet ($100.00) returned to SigadiSogadi
+SigadiSogadi collected $250.00 from pot
+SigadiSogadi: doesn't show hand
+*** SUMMARY ***
+Total pot $250.00 | Rake $0.00
+Seat 2: zas911 (button) folded before Flop (didn't bet)
+Seat 4: stabilok (small blind) folded before Flop
+Seat 5: lmpala_zOrg (big blind) folded before Flop
+Seat 6: Ganbian Beef folded before Flop (didn't bet)
+Seat 9: SigadiSogadi collected ($250.00)
+
+PokerStars Hand #1498684342:  Hold'em No Limit ($50.00/$100.00 USD) - 2022/12/26 05:25:34 ET
+Table 'WPN_7 Day No Rathole 50/100 NLH' 9-max Seat #9 is the button
+Seat 2: zas911 ($25253.13 in chips)
+Seat 4: stabilok ($1000.00 in chips)
+Seat 5: lmpala_zOrg ($1847.00 in chips)
+Seat 6: Ganbian Beef ($4235.00 in chips)
+Seat 9: SigadiSogadi ($3922.98 in chips)
+zas911: posts small blind $50.00
+stabilok: posts big blind $100.00
+*** HOLE CARDS ***
+lmpala_zOrg: folds
+Ganbian Beef: raises $100.00 to $200.00
+SigadiSogadi: folds
+zas911: folds
+stabilok: raises $800.00 to $1000.00 and is all-in
+Ganbian Beef: folds
+Uncalled bet ($800.00) returned to stabilok
+stabilok collected $450.00 from pot
+stabilok: doesn't show hand
+*** SUMMARY ***
+Total pot $450.00 | Rake $0.00
+Seat 2: zas911 (small blind) folded before Flop
+Seat 4: stabilok (big blind) collected ($450.00)
+Seat 5: lmpala_zOrg folded before Flop (didn't bet)
+Seat 6: Ganbian Beef folded before Flop
+Seat 9: SigadiSogadi (button) folded before Flop (didn't bet)
+
+PokerStars Hand #1498683109:  Hold'em No Limit ($50.00/$100.00 USD) - 2022/12/26 05:24:14 ET
+Table 'WPN_7 Day No Rathole 50/100 NLH' 9-max Seat #6 is the button
+Seat 2: zas911 ($24855.38 in chips)
+Seat 5: lmpala_zOrg ($2197.00 in chips)
+Seat 6: Ganbian Beef ($4235.00 in chips)
+Seat 9: SigadiSogadi ($3972.98 in chips)
+SigadiSogadi: posts small blind $50.00
+zas911: posts big blind $100.00
+*** HOLE CARDS ***
+lmpala_zOrg: raises $100.00 to $200.00
+Ganbian Beef: folds
+SigadiSogadi: folds
+zas911: calls $100.00
+*** FLOP *** [4h Ah 3d]
+zas911: checks
+lmpala_zOrg: checks
+*** TURN *** [4h Ah 3d] [9h]
+zas911: bets $150.00
+lmpala_zOrg: calls $150.00
+*** RIVER *** [4h Ah 3d 9h] [4s]
+zas911: bets $562.50
+lmpala_zOrg: folds
+Uncalled bet ($562.50) returned to zas911
+zas911 collected $747.75 from pot
+zas911: doesn't show hand
+*** SUMMARY ***
+Total pot $750.00 | Rake $2.25
+Board [4h Ah 3d 9h 4s]
+Seat 2: zas911 (big blind) collected ($747.75)
+Seat 5: lmpala_zOrg folded on the River
+Seat 6: Ganbian Beef (button) folded before Flop (didn't bet)
+Seat 9: SigadiSogadi (small blind) folded before Flop
+
+PokerStars Hand #1498682482:  Hold'em No Limit ($50.00/$100.00 USD) - 2022/12/26 05:23:33 ET
+Table 'WPN_7 Day No Rathole 50/100 NLH' 9-max Seat #5 is the button
+Seat 2: zas911 ($24855.38 in chips)
+Seat 4: stabilok ($1000.00 in chips)
+Seat 5: lmpala_zOrg ($2197.00 in chips)
+Seat 6: Ganbian Beef ($3138.00 in chips)
+Seat 7: honey_badger ($3436.85 in chips)
+Seat 8: HornyOldMan ($2797.40 in chips)
+Seat 9: SigadiSogadi ($4072.98 in chips)
+Ganbian Beef: posts small blind $50.00
+SigadiSogadi: posts big blind $100.00
+*** HOLE CARDS ***
+zas911: folds
+stabilok: raises $900.00 to $1000.00 and is all-in
+lmpala_zOrg: folds
+Ganbian Beef: raises $2138.00 to $3138.00 and is all-in
+SigadiSogadi: folds
+Uncalled bet ($2138.00) returned to Ganbian Beef
+*** FLOP *** [6c 5s 6d]
+*** TURN *** [6c 5s 6d] [8s]
+*** RIVER *** [6c 5s 6d 8s] [2s]
+*** SHOW DOWN ***
+Ganbian Beef: shows [Jc Js]
+stabilok: shows [8d Ad]
+Ganbian Beef collected $2097.00 from pot
+*** SUMMARY ***
+Total pot $2100.00 | Rake $3.00
+Board [6c 5s 6d 8s 2s]
+Seat 2: zas911 folded before Flop (didn't bet)
+Seat 4: stabilok showed [8d Ad] and lost
+Seat 5: lmpala_zOrg (button) folded before Flop (didn't bet)
+Seat 6: Ganbian Beef (small blind) showed [Jc Js] and won ($2097.00)
+Seat 9: SigadiSogadi (big blind) folded before Flop
+
+PokerStars Hand #1498681387:  Hold'em No Limit ($50.00/$100.00 USD) - 2022/12/26 05:22:20 ET
+Table 'WPN_7 Day No Rathole 50/100 NLH' 9-max Seat #4 is the button
+Seat 2: zas911 ($24855.38 in chips)
+Seat 5: lmpala_zOrg ($2247.00 in chips)
+Seat 6: Ganbian Beef ($2891.00 in chips)
+Seat 7: honey_badger ($3636.85 in chips)
+Seat 8: HornyOldMan ($2797.40 in chips)
+Seat 9: SigadiSogadi ($4072.98 in chips)
+lmpala_zOrg: posts small blind $50.00
+Ganbian Beef: posts big blind $100.00
+*** HOLE CARDS ***
+honey_badger: raises $100.00 to $200.00
+HornyOldMan: folds
+SigadiSogadi: folds
+zas911: folds
+lmpala_zOrg: folds
+Ganbian Beef: calls $100.00
+*** FLOP *** [Ts 6c 9c]
+Ganbian Beef: bets $247.50
+honey_badger: folds
+Uncalled bet ($247.50) returned to Ganbian Beef
+Ganbian Beef collected $447.00 from pot
+Ganbian Beef: doesn't show hand
+*** SUMMARY ***
+Total pot $450.00 | Rake $3.00
+Board [Ts 6c 9c]
+Seat 2: zas911 folded before Flop (didn't bet)
+Seat 5: lmpala_zOrg (small blind) folded before Flop
+Seat 6: Ganbian Beef (big blind) collected ($447.00)
+Seat 7: honey_badger folded on the Flop
+Seat 8: HornyOldMan folded before Flop (didn't bet)
+Seat 9: SigadiSogadi folded before Flop (didn't bet)
+
+PokerStars Hand #1498680629:  Hold'em No Limit ($50.00/$100.00 USD) - 2022/12/26 05:21:27 ET
+Table 'WPN_7 Day No Rathole 50/100 NLH' 9-max Seat #2 is the button
+Seat 2: zas911 ($24855.38 in chips)
+Seat 4: stabilok ($1000.00 in chips)
+Seat 5: lmpala_zOrg ($1250.00 in chips)
+Seat 6: Ganbian Beef ($2891.00 in chips)
+Seat 7: honey_badger ($3636.85 in chips)
+Seat 8: HornyOldMan ($2797.40 in chips)
+Seat 9: SigadiSogadi ($4072.98 in chips)
+stabilok: posts small blind $50.00
+lmpala_zOrg: posts big blind $100.00
+*** HOLE CARDS ***
+Ganbian Beef: folds
+honey_badger: folds
+HornyOldMan: folds
+SigadiSogadi: folds
+zas911: folds
+stabilok: raises $900.00 to $1000.00 and is all-in
+lmpala_zOrg: calls $900.00
+*** FLOP *** [2h 3h 5s]
+*** TURN *** [2h 3h 5s] [2s]
+*** RIVER *** [2h 3h 5s 2s] [8s]
+*** SHOW DOWN ***
+lmpala_zOrg: shows [6s 6h]
+stabilok: shows [7c 3c]
+lmpala_zOrg collected $1997.00 from pot
+*** SUMMARY ***
+Total pot $2000.00 | Rake $3.00
+Board [2h 3h 5s 2s 8s]
+Seat 2: zas911 (button) folded before Flop (didn't bet)
+Seat 4: stabilok (small blind) showed [7c 3c] and lost
+Seat 5: lmpala_zOrg (big blind) showed [6s 6h] and won ($1997.00)
+Seat 6: Ganbian Beef folded before Flop (didn't bet)
+Seat 7: honey_badger folded before Flop (didn't bet)
+Seat 8: HornyOldMan folded before Flop (didn't bet)
+Seat 9: SigadiSogadi folded before Flop (didn't bet)
+
+PokerStars Hand #1498679964:  Hold'em No Limit ($50.00/$100.00 USD) - 2022/12/26 05:20:42 ET
+Table 'WPN_7 Day No Rathole 50/100 NLH' 9-max Seat #9 is the button
+Seat 2: zas911 ($24555.38 in chips)
+Seat 3: madmax75 ($1048.50 in chips)
+Seat 4: stabilok ($1000.00 in chips)
+Seat 5: lmpala_zOrg ($1250.00 in chips)
+Seat 6: Ganbian Beef ($2891.00 in chips)
+Seat 7: honey_badger ($3636.85 in chips)
+Seat 8: HornyOldMan ($2797.40 in chips)
+Seat 9: SigadiSogadi ($4272.98 in chips)
+zas911: posts small blind $50.00
+stabilok: posts big blind $100.00
+*** HOLE CARDS ***
+lmpala_zOrg: folds
+Ganbian Beef: folds
+honey_badger: folds
+HornyOldMan: folds
+SigadiSogadi: raises $100.00 to $200.00
+zas911: raises $600.00 to $800.00
+stabilok: folds
+SigadiSogadi: folds
+Uncalled bet ($600.00) returned to zas911
+zas911 collected $500.00 from pot
+zas911: doesn't show hand
+*** SUMMARY ***
+Total pot $500.00 | Rake $0.00
+Seat 2: zas911 (small blind) collected ($500.00)
+Seat 4: stabilok (big blind) folded before Flop
+Seat 5: lmpala_zOrg folded before Flop (didn't bet)
+Seat 6: Ganbian Beef folded before Flop (didn't bet)
+Seat 7: honey_badger folded before Flop (didn't bet)
+Seat 8: HornyOldMan folded before Flop (didn't bet)
+Seat 9: SigadiSogadi (button) folded before Flop
+
+PokerStars Hand #1498678851:  Hold'em No Limit ($50.00/$100.00 USD) - 2022/12/26 05:19:32 ET
+Table 'WPN_7 Day No Rathole 50/100 NLH' 9-max Seat #8 is the button
+Seat 2: zas911 ($24655.38 in chips)
+Seat 3: madmax75 ($1000.00 in chips)
+Seat 4: stabilok ($1000.00 in chips)
+Seat 5: lmpala_zOrg ($1250.00 in chips)
+Seat 6: Ganbian Beef ($2891.00 in chips)
+Seat 7: honey_badger ($3636.85 in chips)
+Seat 8: HornyOldMan ($2797.40 in chips)
+Seat 9: SigadiSogadi ($4224.48 in chips)
+SigadiSogadi: posts small blind $50.00
+zas911: posts big blind $100.00
+*** HOLE CARDS ***
+madmax75: raises $900.00 to $1000.00 and is all-in
+stabilok: folds
+lmpala_zOrg: folds
+Ganbian Beef: folds
+honey_badger: folds
+HornyOldMan: folds
+SigadiSogadi: raises $3224.48 to $4224.48 and is all-in
+zas911: folds
+Uncalled bet ($3224.48) returned to SigadiSogadi
+*** FIRST FLOP *** [5d Ad Kh]
+*** FIRST TURN *** [5d Ad Kh] [Js]
+*** FIRST RIVER *** [5d Ad Kh Js] [6h]
+*** SECOND FLOP *** [4h Jd 2d]
+*** SECOND TURN *** [4h Jd 2d] [2s]
+*** SECOND RIVER *** [4h Jd 2d 2s] [9h]
+*** FIRST SHOW DOWN ***
+madmax75: shows [Kc Jc]
+SigadiSogadi: shows [As Ks]
+SigadiSogadi collected $1048.50 from pot
+*** SECOND SHOW DOWN ***
+madmax75: shows [Kc Jc]
+SigadiSogadi: shows [As Ks]
+madmax75 collected $1048.50 from pot
+*** SUMMARY ***
+Total pot $2100.00 | Rake $3.00
+Hand was run twice
+FIRST Board [5d Ad Kh Js 6h]
+SECOND Board [4h Jd 2d 2s 9h]
+Seat 2: zas911 (big blind) folded before Flop
+Seat 3: madmax75 showed [Kc Jc] and lost, and won ($1048.50)
+Seat 4: stabilok folded before Flop (didn't bet)
+Seat 5: lmpala_zOrg folded before Flop (didn't bet)
+Seat 6: Ganbian Beef folded before Flop (didn't bet)
+Seat 7: honey_badger folded before Flop (didn't bet)
+Seat 8: HornyOldMan (button) folded before Flop (didn't bet)
+Seat 9: SigadiSogadi (small blind) showed [As Ks] and won ($1048.50), and lost
+
+PokerStars Hand #1498677110:  Hold'em No Limit ($50.00/$100.00 USD) - 2022/12/26 05:17:36 ET
+Table 'WPN_7 Day No Rathole 50/100 NLH' 9-max Seat #7 is the button
+Seat 2: zas911 ($24655.38 in chips)
+Seat 3: madmax75 ($1000.00 in chips)
+Seat 4: stabilok ($1000.00 in chips)
+Seat 5: lmpala_zOrg ($1250.00 in chips)
+Seat 6: Ganbian Beef ($2891.00 in chips)
+Seat 7: honey_badger ($3636.85 in chips)
+Seat 8: HornyOldMan ($1612.90 in chips)
+Seat 9: SigadiSogadi ($5411.98 in chips)
+HornyOldMan: posts small blind $50.00
+SigadiSogadi: posts big blind $100.00
+*** HOLE CARDS ***
+zas911: folds
+madmax75: folds
+stabilok: folds
+lmpala_zOrg: folds
+Ganbian Beef: folds
+honey_badger: folds
+HornyOldMan: raises $150.00 to $250.00
+SigadiSogadi: calls $150.00
+*** FLOP *** [6s 2d Kd]
+HornyOldMan: checks
+SigadiSogadi: checks
+*** TURN *** [6s 2d Kd] [5c]
+HornyOldMan: checks
+SigadiSogadi: bets $225.00
+HornyOldMan: calls $225.00
+*** RIVER *** [6s 2d Kd 5c] [Kc]
+HornyOldMan: checks
+SigadiSogadi: bets $712.50
+HornyOldMan: calls $712.50
+*** SHOW DOWN ***
+HornyOldMan: shows [6d 8d]
+SigadiSogadi: mucks hand
+HornyOldMan collected $2372.00 from pot
+*** SUMMARY ***
+Total pot $2375.00 | Rake $3.00
+Board [6s 2d Kd 5c Kc]
+Seat 2: zas911 folded before Flop (didn't bet)
+Seat 3: madmax75 folded before Flop (didn't bet)
+Seat 4: stabilok folded before Flop (didn't bet)
+Seat 5: lmpala_zOrg folded before Flop (didn't bet)
+Seat 6: Ganbian Beef folded before Flop (didn't bet)
+Seat 7: honey_badger (button) folded before Flop (didn't bet)
+Seat 8: HornyOldMan (small blind) showed [6d 8d] and won ($2372.00)
+Seat 9: SigadiSogadi (big blind) mucked
+
+PokerStars Hand #1498676469:  Hold'em No Limit ($50.00/$100.00 USD) - 2022/12/26 05:16:54 ET
+Table 'WPN_7 Day No Rathole 50/100 NLH' 9-max Seat #6 is the button
+Seat 2: zas911 ($24655.38 in chips)
+Seat 3: madmax75 ($1000.00 in chips)
+Seat 4: stabilok ($1000.00 in chips)
+Seat 5: lmpala_zOrg ($1250.00 in chips)
+Seat 6: Ganbian Beef ($2544.00 in chips)
+Seat 7: honey_badger ($3686.85 in chips)
+Seat 8: HornyOldMan ($1712.90 in chips)
+Seat 9: SigadiSogadi ($5611.98 in chips)
+honey_badger: posts small blind $50.00
+HornyOldMan: posts big blind $100.00
+*** HOLE CARDS ***
+SigadiSogadi: raises $100.00 to $200.00
+zas911: folds
+madmax75: folds
+stabilok: folds
+lmpala_zOrg: folds
+Ganbian Beef: calls $200.00
+honey_badger: folds
+HornyOldMan: folds
+*** FLOP *** [9c 6d Kd]
+SigadiSogadi: checks
+Ganbian Beef: bets $192.50
+SigadiSogadi: folds
+Uncalled bet ($192.50) returned to Ganbian Beef
+Ganbian Beef collected $547.00 from pot
+Ganbian Beef: doesn't show hand
+*** SUMMARY ***
+Total pot $550.00 | Rake $3.00
+Board [9c 6d Kd]
+Seat 2: zas911 folded before Flop (didn't bet)
+Seat 3: madmax75 folded before Flop (didn't bet)
+Seat 4: stabilok folded before Flop (didn't bet)
+Seat 5: lmpala_zOrg folded before Flop (didn't bet)
+Seat 6: Ganbian Beef (button) collected ($547.00)
+Seat 7: honey_badger (small blind) folded before Flop
+Seat 8: HornyOldMan (big blind) folded before Flop
+Seat 9: SigadiSogadi folded on the Flop
+
+PokerStars Hand #1498675770:  Hold'em No Limit ($50.00/$100.00 USD) - 2022/12/26 05:16:09 ET
+Table 'WPN_7 Day No Rathole 50/100 NLH' 9-max Seat #5 is the button
+Seat 2: zas911 ($24655.38 in chips)
+Seat 3: madmax75 ($1000.00 in chips)
+Seat 4: stabilok ($1000.00 in chips)
+Seat 5: lmpala_zOrg ($1100.00 in chips)
+Seat 6: Ganbian Beef ($2594.00 in chips)
+Seat 7: honey_badger ($3786.85 in chips)
+Seat 8: HornyOldMan ($1712.90 in chips)
+Seat 9: SigadiSogadi ($5611.98 in chips)
+Ganbian Beef: posts small blind $50.00
+honey_badger: posts big blind $100.00
+*** HOLE CARDS ***
+HornyOldMan: folds
+SigadiSogadi: folds
+zas911: folds
+madmax75: folds
+stabilok: folds
+lmpala_zOrg: raises $1000.00 to $1100.00 and is all-in
+Ganbian Beef: folds
+honey_badger: folds
+Uncalled bet ($1000.00) returned to lmpala_zOrg
+lmpala_zOrg collected $250.00 from pot
+lmpala_zOrg: doesn't show hand
+*** SUMMARY ***
+Total pot $250.00 | Rake $0.00
+Seat 2: zas911 folded before Flop (didn't bet)
+Seat 3: madmax75 folded before Flop (didn't bet)
+Seat 4: stabilok folded before Flop (didn't bet)
+Seat 5: lmpala_zOrg (button) collected ($250.00)
+Seat 6: Ganbian Beef (small blind) folded before Flop
+Seat 7: honey_badger (big blind) folded before Flop
+Seat 8: HornyOldMan folded before Flop (didn't bet)
+Seat 9: SigadiSogadi folded before Flop (didn't bet)
+
+PokerStars Hand #1498675238:  Hold'em No Limit ($50.00/$100.00 USD) - 2022/12/26 05:15:35 ET
+Table 'WPN_7 Day No Rathole 50/100 NLH' 9-max Seat #4 is the button
+Seat 2: zas911 ($24655.38 in chips)
+Seat 3: madmax75 ($1000.00 in chips)
+Seat 4: stabilok ($850.00 in chips)
+Seat 5: lmpala_zOrg ($900.00 in chips)
+Seat 6: Ganbian Beef ($2694.00 in chips)
+Seat 7: honey_badger ($3786.85 in chips)
+Seat 8: HornyOldMan ($1712.90 in chips)
+Seat 9: SigadiSogadi ($5611.98 in chips)
+lmpala_zOrg: posts small blind $50.00
+Ganbian Beef: posts big blind $100.00
+*** HOLE CARDS ***
+honey_badger: folds
+HornyOldMan: folds
+SigadiSogadi: folds
+zas911: folds
+madmax75: folds
+stabilok: folds
+lmpala_zOrg: raises $900.00 to $1000.00 and is all-in
+Ganbian Beef: folds
+Uncalled bet ($900.00) returned to lmpala_zOrg
+lmpala_zOrg collected $200.00 from pot
+lmpala_zOrg: doesn't show hand
+*** SUMMARY ***
+Total pot $200.00 | Rake $0.00
+Seat 2: zas911 folded before Flop (didn't bet)
+Seat 3: madmax75 folded before Flop (didn't bet)
+Seat 4: stabilok (button) folded before Flop (didn't bet)
+Seat 5: lmpala_zOrg (small blind) collected ($200.00)
+Seat 6: Ganbian Beef (big blind) folded before Flop
+Seat 7: honey_badger folded before Flop (didn't bet)
+Seat 8: HornyOldMan folded before Flop (didn't bet)
+Seat 9: SigadiSogadi folded before Flop (didn't bet)
+
+PokerStars Hand #1498674850:  Hold'em No Limit ($50.00/$100.00 USD) - 2022/12/26 05:15:10 ET
+Table 'WPN_7 Day No Rathole 50/100 NLH' 9-max Seat #3 is the button
+Seat 2: zas911 ($24505.38 in chips)
+Seat 3: madmax75 ($1000.00 in chips)
+Seat 4: stabilok ($900.00 in chips)
+Seat 5: lmpala_zOrg ($1000.00 in chips)
+Seat 6: Ganbian Beef ($2694.00 in chips)
+Seat 7: honey_badger ($3786.85 in chips)
+Seat 8: HornyOldMan ($1712.90 in chips)
+Seat 9: SigadiSogadi ($5611.98 in chips)
+stabilok: posts small blind $50.00
+lmpala_zOrg: posts big blind $100.00
+*** HOLE CARDS ***
+Ganbian Beef: folds
+honey_badger: folds
+HornyOldMan: folds
+SigadiSogadi: folds
+zas911: raises $24405.38 to $24505.38 and is all-in
+madmax75: folds
+stabilok: folds
+lmpala_zOrg: folds
+Uncalled bet ($24405.38) returned to zas911
+zas911 collected $250.00 from pot
+zas911: doesn't show hand
+*** SUMMARY ***
+Total pot $250.00 | Rake $0.00
+Seat 2: zas911 collected ($250.00)
+Seat 3: madmax75 (button) folded before Flop (didn't bet)
+Seat 4: stabilok (small blind) folded before Flop
+Seat 5: lmpala_zOrg (big blind) folded before Flop
+Seat 6: Ganbian Beef folded before Flop (didn't bet)
+Seat 7: honey_badger folded before Flop (didn't bet)
+Seat 8: HornyOldMan folded before Flop (didn't bet)
+Seat 9: SigadiSogadi folded before Flop (didn't bet)
+
+PokerStars Hand #1498674233:  Hold'em No Limit ($50.00/$100.00 USD) - 2022/12/26 05:14:31 ET
+Table 'WPN_7 Day No Rathole 50/100 NLH' 9-max Seat #2 is the button
+Seat 2: zas911 ($24505.38 in chips)
+Seat 3: madmax75 ($1000.00 in chips)
+Seat 4: stabilok ($1000.00 in chips)
+Seat 5: lmpala_zOrg ($1000.00 in chips)
+Seat 6: Ganbian Beef ($2244.00 in chips)
+Seat 7: honey_badger ($3786.85 in chips)
+Seat 8: HornyOldMan ($1712.90 in chips)
+Seat 9: SigadiSogadi ($5911.98 in chips)
+madmax75: posts small blind $50.00
+stabilok: posts big blind $100.00
+*** HOLE CARDS ***
+lmpala_zOrg: folds
+Ganbian Beef: raises $100.00 to $200.00
+honey_badger: folds
+HornyOldMan: folds
+SigadiSogadi: raises $100.00 to $300.00
+zas911: folds
+madmax75: folds
+stabilok: folds
+Ganbian Beef: raises $1944.00 to $2244.00 and is all-in
+SigadiSogadi: folds
+Uncalled bet ($1944.00) returned to Ganbian Beef
+Ganbian Beef collected $750.00 from pot
+Ganbian Beef: doesn't show hand
+*** SUMMARY ***
+Total pot $750.00 | Rake $0.00
+Seat 2: zas911 (button) folded before Flop (didn't bet)
+Seat 3: madmax75 (small blind) folded before Flop
+Seat 4: stabilok (big blind) folded before Flop
+Seat 5: lmpala_zOrg folded before Flop (didn't bet)
+Seat 6: Ganbian Beef collected ($750.00)
+Seat 7: honey_badger folded before Flop (didn't bet)
+Seat 8: HornyOldMan folded before Flop (didn't bet)
+Seat 9: SigadiSogadi folded before Flop
+
+PokerStars Hand #1498673696:  Hold'em No Limit ($50.00/$100.00 USD) - 2022/12/26 05:13:56 ET
+Table 'WPN_7 Day No Rathole 50/100 NLH' 9-max Seat #9 is the button
+Seat 2: zas911 ($24555.38 in chips)
+Seat 3: madmax75 ($1000.00 in chips)
+Seat 4: stabilok ($1000.00 in chips)
+Seat 5: lmpala_zOrg ($1000.00 in chips)
+Seat 6: Ganbian Beef ($2244.00 in chips)
+Seat 7: honey_badger ($3986.85 in chips)
+Seat 8: HornyOldMan ($1712.90 in chips)
+Seat 9: SigadiSogadi ($5561.98 in chips)
+zas911: posts small blind $50.00
+madmax75: posts big blind $100.00
+*** HOLE CARDS ***
+stabilok: folds
+lmpala_zOrg: folds
+Ganbian Beef: folds
+honey_badger: raises $100.00 to $200.00
+HornyOldMan: folds
+SigadiSogadi: raises $400.00 to $600.00
+zas911: folds
+madmax75: folds
+honey_badger: folds
+Uncalled bet ($400.00) returned to SigadiSogadi
+SigadiSogadi collected $550.00 from pot
+SigadiSogadi: doesn't show hand
+*** SUMMARY ***
+Total pot $550.00 | Rake $0.00
+Seat 2: zas911 (small blind) folded before Flop
+Seat 3: madmax75 (big blind) folded before Flop
+Seat 4: stabilok folded before Flop (didn't bet)
+Seat 5: lmpala_zOrg folded before Flop (didn't bet)
+Seat 6: Ganbian Beef folded before Flop (didn't bet)
+Seat 7: honey_badger folded before Flop
+Seat 8: HornyOldMan folded before Flop (didn't bet)
+Seat 9: SigadiSogadi (button) collected ($550.00)
+
+PokerStars Hand #1498672871:  Hold'em No Limit ($50.00/$100.00 USD) - 2022/12/26 05:13:03 ET
+Table 'WPN_7 Day No Rathole 50/100 NLH' 9-max Seat #8 is the button
+Seat 2: zas911 ($24755.38 in chips)
+Seat 3: madmax75 ($1000.00 in chips)
+Seat 4: stabilok ($1000.00 in chips)
+Seat 5: lmpala_zOrg ($1000.00 in chips)
+Seat 6: Ganbian Beef ($1997.00 in chips)
+Seat 7: honey_badger ($3986.85 in chips)
+Seat 8: HornyOldMan ($1712.90 in chips)
+Seat 9: SigadiSogadi ($5611.98 in chips)
+SigadiSogadi: posts small blind $50.00
+zas911: posts big blind $100.00
+*** HOLE CARDS ***
+stabilok: folds
+lmpala_zOrg: folds
+Ganbian Beef: raises $100.00 to $200.00
+honey_badger: folds
+HornyOldMan: folds
+SigadiSogadi: folds
+zas911: calls $100.00
+*** FLOP *** [7s 9h 3h]
+zas911: checks
+Ganbian Beef: bets $157.50
+zas911: folds
+Uncalled bet ($157.50) returned to Ganbian Beef
+Ganbian Beef collected $447.00 from pot
+Ganbian Beef: doesn't show hand
+*** SUMMARY ***
+Total pot $450.00 | Rake $3.00
+Board [7s 9h 3h]
+Seat 2: zas911 (big blind) folded on the Flop
+Seat 4: stabilok folded before Flop (didn't bet)
+Seat 5: lmpala_zOrg folded before Flop (didn't bet)
+Seat 6: Ganbian Beef collected ($447.00)
+Seat 7: honey_badger folded before Flop (didn't bet)
+Seat 8: HornyOldMan (button) folded before Flop (didn't bet)
+Seat 9: SigadiSogadi (small blind) folded before Flop
+
+PokerStars Hand #1498672480:  Hold'em No Limit ($50.00/$100.00 USD) - 2022/12/26 05:12:39 ET
+Table 'WPN_7 Day No Rathole 50/100 NLH' 9-max Seat #7 is the button
+Seat 2: zas911 ($24755.38 in chips)
+Seat 3: madmax75 ($1000.00 in chips)
+Seat 4: stabilok ($1000.00 in chips)
+Seat 5: lmpala_zOrg ($1000.00 in chips)
+Seat 6: Ganbian Beef ($1997.00 in chips)
+Seat 7: honey_badger ($3986.85 in chips)
+Seat 8: HornyOldMan ($1762.90 in chips)
+Seat 9: SigadiSogadi ($5561.98 in chips)
+HornyOldMan: posts small blind $50.00
+SigadiSogadi: posts big blind $100.00
+*** HOLE CARDS ***
+zas911: folds
+stabilok: folds
+lmpala_zOrg: folds
+Ganbian Beef: folds
+honey_badger: folds
+HornyOldMan: folds
+Uncalled bet ($50.00) returned to SigadiSogadi
+SigadiSogadi collected $100.00 from pot
+SigadiSogadi: doesn't show hand
+*** SUMMARY ***
+Total pot $100.00 | Rake $0.00
+Seat 2: zas911 folded before Flop (didn't bet)
+Seat 4: stabilok folded before Flop (didn't bet)
+Seat 5: lmpala_zOrg folded before Flop (didn't bet)
+Seat 6: Ganbian Beef folded before Flop (didn't bet)
+Seat 7: honey_badger (button) folded before Flop (didn't bet)
+Seat 8: HornyOldMan (small blind) folded before Flop
+Seat 9: SigadiSogadi (big blind) collected ($100.00)
+
+PokerStars Hand #1498672137:  Hold'em No Limit ($50.00/$100.00 USD) - 2022/12/26 05:12:18 ET
+Table 'WPN_7 Day No Rathole 50/100 NLH' 9-max Seat #6 is the button
+Seat 2: zas911 ($24755.38 in chips)
+Seat 3: madmax75 ($1000.00 in chips)
+Seat 5: lmpala_zOrg ($1000.00 in chips)
+Seat 6: Ganbian Beef ($1997.00 in chips)
+Seat 7: honey_badger ($3886.85 in chips)
+Seat 8: HornyOldMan ($1862.90 in chips)
+Seat 9: SigadiSogadi ($5561.98 in chips)
+honey_badger: posts small blind $50.00
+HornyOldMan: posts big blind $100.00
+*** HOLE CARDS ***
+zas911: folds
+lmpala_zOrg: folds
+Ganbian Beef: folds
+honey_badger: raises $3786.85 to $3886.85 and is all-in
+HornyOldMan: folds
+Uncalled bet ($3786.85) returned to honey_badger
+honey_badger collected $200.00 from pot
+honey_badger: doesn't show hand
+*** SUMMARY ***
+Total pot $200.00 | Rake $0.00
+Seat 2: zas911 folded before Flop (didn't bet)
+Seat 5: lmpala_zOrg folded before Flop (didn't bet)
+Seat 6: Ganbian Beef (button) folded before Flop (didn't bet)
+Seat 7: honey_badger (small blind) collected ($200.00)
+Seat 8: HornyOldMan (big blind) folded before Flop
+
+PokerStars Hand #1498671276:  Hold'em No Limit ($50.00/$100.00 USD) - 2022/12/26 05:11:25 ET
+Table 'WPN_7 Day No Rathole 50/100 NLH' 9-max Seat #5 is the button
+Seat 2: zas911 ($24955.38 in chips)
+Seat 3: madmax75 ($1000.00 in chips)
+Seat 4: stabilok ($1226.85 in chips)
+Seat 5: lmpala_zOrg ($1000.00 in chips)
+Seat 6: Ganbian Beef ($2047.00 in chips)
+Seat 7: honey_badger ($2413.00 in chips)
+Seat 8: HornyOldMan ($1862.90 in chips)
+Seat 9: SigadiSogadi ($5561.98 in chips)
+Ganbian Beef: posts small blind $50.00
+honey_badger: posts big blind $100.00
+*** HOLE CARDS ***
+HornyOldMan: folds
+zas911: raises $100.00 to $200.00
+stabilok: raises $1026.85 to $1226.85 and is all-in
+lmpala_zOrg: folds
+Ganbian Beef: folds
+honey_badger: raises $1186.15 to $2413.00 and is all-in
+zas911: folds
+Uncalled bet ($1186.15) returned to honey_badger
+*** FLOP *** [5h Kh 2s]
+*** TURN *** [5h Kh 2s] [Jh]
+*** RIVER *** [5h Kh 2s Jh] [4s]
+*** SHOW DOWN ***
+honey_badger: shows [Td Ts]
+stabilok: shows [9s 9c]
+honey_badger collected $2700.70 from pot
+*** SUMMARY ***
+Total pot $2703.70 | Rake $3.00
+Board [5h Kh 2s Jh 4s]
+Seat 2: zas911 folded before Flop
+Seat 4: stabilok showed [9s 9c] and lost
+Seat 5: lmpala_zOrg (button) folded before Flop (didn't bet)
+Seat 6: Ganbian Beef (small blind) folded before Flop
+Seat 7: honey_badger (big blind) showed [Td Ts] and won ($2700.70)
+Seat 8: HornyOldMan folded before Flop (didn't bet)
+
+PokerStars Hand #1498670494:  Hold'em No Limit ($50.00/$100.00 USD) - 2022/12/26 05:10:37 ET
+Table 'WPN_7 Day No Rathole 50/100 NLH' 9-max Seat #4 is the button
+Seat 2: zas911 ($24955.38 in chips)
+Seat 3: madmax75 ($1000.00 in chips)
+Seat 4: stabilok ($2226.85 in chips)
+Seat 5: lmpala_zOrg ($949.50 in chips)
+Seat 6: Ganbian Beef ($1000.00 in chips)
+Seat 7: honey_badger ($2413.00 in chips)
+Seat 8: HornyOldMan ($1862.90 in chips)
+lmpala_zOrg: posts small blind $50.00
+Ganbian Beef: posts big blind $100.00
+*** HOLE CARDS ***
+HornyOldMan: folds
+zas911: folds
+stabilok: raises $2126.85 to $2226.85 and is all-in
+lmpala_zOrg: folds
+Ganbian Beef: calls $900.00 and is all-in
+Uncalled bet ($1226.85) returned to stabilok
+*** FLOP *** [2h Js 5d]
+*** TURN *** [2h Js 5d] [Qc]
+*** RIVER *** [2h Js 5d Qc] [Th]
+*** SHOW DOWN ***
+Ganbian Beef: shows [7d As]
+stabilok: shows [Ah 6s]
+Ganbian Beef collected $2047.00 from pot
+*** SUMMARY ***
+Total pot $2050.00 | Rake $3.00
+Board [2h Js 5d Qc Th]
+Seat 2: zas911 folded before Flop (didn't bet)
+Seat 4: stabilok (button) showed [Ah 6s] and lost
+Seat 5: lmpala_zOrg (small blind) folded before Flop
+Seat 6: Ganbian Beef (big blind) showed [7d As] and won ($2047.00)
+Seat 8: HornyOldMan folded before Flop (didn't bet)
+
+PokerStars Hand #1498669698:  Hold'em No Limit ($50.00/$100.00 USD) - 2022/12/26 05:09:47 ET
+Table 'WPN_7 Day No Rathole 50/100 NLH' 9-max Seat #2 is the button
+Seat 2: zas911 ($24708.38 in chips)
+Seat 3: madmax75 ($1000.00 in chips)
+Seat 4: stabilok ($2276.85 in chips)
+Seat 5: lmpala_zOrg ($1149.50 in chips)
+Seat 6: Ganbian Beef ($1000.00 in chips)
+Seat 7: honey_badger ($2413.00 in chips)
+Seat 8: HornyOldMan ($1862.90 in chips)
+stabilok: posts small blind $50.00
+lmpala_zOrg: posts big blind $100.00
+*** HOLE CARDS ***
+Ganbian Beef: folds
+HornyOldMan: folds
+zas911: raises $100.00 to $200.00
+stabilok: folds
+lmpala_zOrg: calls $100.00
+*** FLOP *** [9s Ts 8h]
+lmpala_zOrg: checks
+zas911: bets $150.00
+lmpala_zOrg: folds
+Uncalled bet ($150.00) returned to zas911
+zas911 collected $447.00 from pot
+zas911: doesn't show hand
+*** SUMMARY ***
+Total pot $450.00 | Rake $3.00
+Board [9s Ts 8h]
+Seat 2: zas911 (button) collected ($447.00)
+Seat 4: stabilok (small blind) folded before Flop
+Seat 5: lmpala_zOrg (big blind) folded on the Flop
+Seat 6: Ganbian Beef folded before Flop (didn't bet)
+Seat 8: HornyOldMan folded before Flop (didn't bet)
+
+PokerStars Hand #1498668711:  Hold'em No Limit ($50.00/$100.00 USD) - 2022/12/26 05:08:46 ET
+Table 'WPN_7 Day No Rathole 50/100 NLH' 9-max Seat #8 is the button
+Seat 2: zas911 ($24758.38 in chips)
+Seat 4: stabilok ($1895.75 in chips)
+Seat 5: lmpala_zOrg ($1149.50 in chips)
+Seat 6: Ganbian Beef ($1000.00 in chips)
+Seat 8: HornyOldMan ($2197.00 in chips)
+zas911: posts small blind $50.00
+stabilok: posts big blind $100.00
+*** HOLE CARDS ***
+lmpala_zOrg: folds
+Ganbian Beef: folds
+HornyOldMan: raises $100.00 to $200.00
+zas911: folds
+stabilok: calls $100.00
+*** FLOP *** [8h 5d Kc]
+stabilok: checks
+HornyOldMan: bets $134.10
+stabilok: raises $359.10 to $493.20
+HornyOldMan: folds
+Uncalled bet ($359.10) returned to stabilok
+stabilok collected $715.20 from pot
+stabilok: doesn't show hand
+*** SUMMARY ***
+Total pot $718.20 | Rake $3.00
+Board [8h 5d Kc]
+Seat 2: zas911 (small blind) folded before Flop
+Seat 4: stabilok (big blind) collected ($715.20)
+Seat 5: lmpala_zOrg folded before Flop (didn't bet)
+Seat 6: Ganbian Beef folded before Flop (didn't bet)
+Seat 8: HornyOldMan (button) folded on the Flop
+
+PokerStars Hand #1498667627:  Hold'em No Limit ($50.00/$100.00 USD) - 2022/12/26 05:07:37 ET
+Table 'WPN_7 Day No Rathole 50/100 NLH' 9-max Seat #4 is the button
+Seat 2: zas911 ($24858.38 in chips)
+Seat 4: stabilok ($1895.75 in chips)
+Seat 5: lmpala_zOrg ($1049.50 in chips)
+Seat 6: Ganbian Beef ($1000.00 in chips)
+Seat 8: HornyOldMan ($1150.00 in chips)
+lmpala_zOrg: posts small blind $50.00
+Ganbian Beef: posts big blind $100.00
+*** HOLE CARDS ***
+zas911: folds
+stabilok: folds
+lmpala_zOrg: raises $949.50 to $1049.50 and is all-in
+Ganbian Beef: folds
+Uncalled bet ($949.50) returned to lmpala_zOrg
+lmpala_zOrg collected $200.00 from pot
+lmpala_zOrg: doesn't show hand
+*** SUMMARY ***
+Total pot $200.00 | Rake $0.00
+Seat 2: zas911 folded before Flop (didn't bet)
+Seat 4: stabilok (button) folded before Flop (didn't bet)
+Seat 5: lmpala_zOrg (small blind) collected ($200.00)
+Seat 6: Ganbian Beef (big blind) folded before Flop
+
+PokerStars Hand #1498667924:  Hold'em No Limit ($50.00/$100.00 USD) - 2022/12/26 05:07:56 ET
+Table 'WPN_7 Day No Rathole 50/100 NLH' 9-max Seat #5 is the button
+Seat 2: zas911 ($24858.38 in chips)
+Seat 4: stabilok ($1895.75 in chips)
+Seat 5: lmpala_zOrg ($1149.50 in chips)
+Seat 6: Ganbian Beef ($900.00 in chips)
+Seat 8: HornyOldMan ($1150.00 in chips)
+Ganbian Beef: posts small blind $50.00
+HornyOldMan: posts big blind $100.00
+*** HOLE CARDS ***
+zas911: folds
+stabilok: folds
+lmpala_zOrg: folds
+Ganbian Beef: raises $900.00 to $1000.00 and is all-in
+HornyOldMan: folds
+Uncalled bet ($900.00) returned to Ganbian Beef
+Ganbian Beef collected $200.00 from pot
+Ganbian Beef: doesn't show hand
+*** SUMMARY ***
+Total pot $200.00 | Rake $0.00
+Seat 2: zas911 folded before Flop (didn't bet)
+Seat 4: stabilok folded before Flop (didn't bet)
+Seat 5: lmpala_zOrg (button) folded before Flop (didn't bet)
+Seat 6: Ganbian Beef (small blind) collected ($200.00)
+Seat 8: HornyOldMan (big blind) folded before Flop
+
+PokerStars Hand #1498668167:  Hold'em No Limit ($50.00/$100.00 USD) - 2022/12/26 05:08:12 ET
+Table 'WPN_7 Day No Rathole 50/100 NLH' 9-max Seat #6 is the button
+Seat 2: zas911 ($24858.38 in chips)
+Seat 4: stabilok ($1895.75 in chips)
+Seat 5: lmpala_zOrg ($1149.50 in chips)
+Seat 6: Ganbian Beef ($1100.00 in chips)
+Seat 8: HornyOldMan ($1050.00 in chips)
+HornyOldMan: posts small blind $50.00
+zas911: posts big blind $100.00
+*** HOLE CARDS ***
+stabilok: folds
+lmpala_zOrg: folds
+Ganbian Beef: raises $1000.00 to $1100.00 and is all-in
+HornyOldMan: calls $1000.00 and is all-in
+zas911: folds
+Uncalled bet ($50.00) returned to Ganbian Beef
+*** FIRST FLOP *** [4s Jc 5d]
+*** FIRST TURN *** [4s Jc 5d] [Qs]
+*** FIRST RIVER *** [4s Jc 5d Qs] [4d]
+*** SECOND FLOP *** [4h 9s Ts]
+*** SECOND TURN *** [4h 9s Ts] [8d]
+*** SECOND RIVER *** [4h 9s Ts 8d] [3h]
+*** FIRST SHOW DOWN ***
+HornyOldMan: shows [Jd Qd]
+Ganbian Beef: shows [Td As]
+HornyOldMan collected $1098.50 from pot
+*** SECOND SHOW DOWN ***
+HornyOldMan: shows [Jd Qd]
+Ganbian Beef: shows [Td As]
+HornyOldMan collected $1098.50 from pot
+*** SUMMARY ***
+Total pot $2200.00 | Rake $3.00
+Hand was run twice
+FIRST Board [4s Jc 5d Qs 4d]
+SECOND Board [4h 9s Ts 8d 3h]
+Seat 2: zas911 (big blind) folded before Flop
+Seat 4: stabilok folded before Flop (didn't bet)
+Seat 5: lmpala_zOrg folded before Flop (didn't bet)
+Seat 6: Ganbian Beef (button) showed [Td As] and lost, and lost
+Seat 8: HornyOldMan (small blind) showed [Jd Qd] and won ($1098.50), and won ($1098.50)
+
+PokerStars Hand #1498666538:  Hold'em No Limit ($50.00/$100.00 USD) - 2022/12/26 05:06:26 ET
+Table 'WPN_7 Day No Rathole 50/100 NLH' 9-max Seat #4 is the button
+Seat 2: zas911 ($25758.38 in chips)
+Seat 4: stabilok ($1048.75 in chips)
+Seat 5: lmpala_zOrg ($900.00 in chips)
+lmpala_zOrg: posts small blind $50.00
+zas911: posts big blind $100.00
+*** HOLE CARDS ***
+stabilok: folds
+lmpala_zOrg: raises $900.00 to $1000.00 and is all-in
+zas911: calls $900.00
+*** FLOP *** [8c Th 3h]
+*** TURN *** [8c Th 3h] [Jd]
+*** RIVER *** [8c Th 3h Jd] [5d]
+*** SHOW DOWN ***
+lmpala_zOrg: shows [9c 7c]
+zas911: shows [Ts Js]
+lmpala_zOrg collected $1998.25 from pot
+*** SUMMARY ***
+Total pot $2000.00 | Rake $1.75
+Board [8c Th 3h Jd 5d]
+Seat 2: zas911 (big blind) showed [Ts Js] and lost
+Seat 4: stabilok (button) folded before Flop (didn't bet)
+Seat 5: lmpala_zOrg (small blind) showed [9c 7c] and won ($1998.25)
+
+PokerStars Hand #1498667002:  Hold'em No Limit ($50.00/$100.00 USD) - 2022/12/26 05:06:56 ET
+Table 'WPN_7 Day No Rathole 50/100 NLH' 9-max Seat #5 is the button
+Seat 2: zas911 ($24758.38 in chips)
+Seat 4: stabilok ($1048.75 in chips)
+Seat 5: lmpala_zOrg ($1998.25 in chips)
+Seat 8: HornyOldMan ($1150.00 in chips)
+zas911: posts small blind $50.00
+stabilok: posts big blind $100.00
+*** HOLE CARDS ***
+lmpala_zOrg: folds
+zas911: raises $24658.38 to $24758.38 and is all-in
+stabilok: folds
+Uncalled bet ($24658.38) returned to zas911
+zas911 collected $200.00 from pot
+zas911: doesn't show hand
+*** SUMMARY ***
+Total pot $200.00 | Rake $0.00
+Seat 2: zas911 (small blind) collected ($200.00)
+Seat 4: stabilok (big blind) folded before Flop
+Seat 5: lmpala_zOrg (button) folded before Flop (didn't bet)
+
+PokerStars Hand #1498667219:  Hold'em No Limit ($50.00/$100.00 USD) - 2022/12/26 05:07:11 ET
+Table 'WPN_7 Day No Rathole 50/100 NLH' 9-max Seat #2 is the button
+Seat 2: zas911 ($24858.38 in chips)
+Seat 4: stabilok ($948.75 in chips)
+Seat 5: lmpala_zOrg ($1998.25 in chips)
+Seat 6: Ganbian Beef ($1000.00 in chips)
+Seat 8: HornyOldMan ($1150.00 in chips)
+stabilok: posts small blind $50.00
+lmpala_zOrg: posts big blind $100.00
+*** HOLE CARDS ***
+zas911: folds
+stabilok: raises $848.75 to $948.75 and is all-in
+lmpala_zOrg: calls $848.75
+*** FLOP *** [9s Td 5s]
+*** TURN *** [9s Td 5s] [Kd]
+*** RIVER *** [9s Td 5s Kd] [5d]
+*** SHOW DOWN ***
+stabilok: shows [Ks Ac]
+lmpala_zOrg: shows [Th Qd]
+stabilok collected $1895.75 from pot
+*** SUMMARY ***
+Total pot $1897.50 | Rake $1.75
+Board [9s Td 5s Kd 5d]
+Seat 2: zas911 (button) folded before Flop (didn't bet)
+Seat 4: stabilok (small blind) showed [Ks Ac] and won ($1895.75)
+Seat 5: lmpala_zOrg (big blind) showed [Th Qd] and lost
+
+PokerStars Hand #1498666278:  Hold'em No Limit ($50.00/$100.00 USD) - 2022/12/26 05:06:11 ET
+Table 'WPN_7 Day No Rathole 50/100 NLH' 9-max Seat #2 is the button
+Seat 2: zas911 ($25608.38 in chips)
+Seat 4: stabilok ($1098.75 in chips)
+Seat 5: lmpala_zOrg ($1000.00 in chips)
+stabilok: posts small blind $50.00
+lmpala_zOrg: posts big blind $100.00
+*** HOLE CARDS ***
+zas911: raises $25508.38 to $25608.38 and is all-in
+stabilok: folds
+lmpala_zOrg: folds
+Uncalled bet ($25508.38) returned to zas911
+zas911 collected $250.00 from pot
+zas911: doesn't show hand
+*** SUMMARY ***
+Total pot $250.00 | Rake $0.00
+Seat 2: zas911 (button) collected ($250.00)
+Seat 4: stabilok (small blind) folded before Flop
+Seat 5: lmpala_zOrg (big blind) folded before Flop
+
+PokerStars Hand #1498249829:  Hold'em No Limit ($50.00/$100.00 USD) - 2022/12/25 22:57:43 ET
+Table 'WPN_7 Day No Rathole 50/100 NLH' 9-max Seat #3 is the button
+Seat 3: OGORRA ($21113.28 in chips)
+Seat 4: TIKITAKA11 ($1996.62 in chips)
+OGORRA: posts small blind $50.00
+TIKITAKA11: posts big blind $100.00
+*** HOLE CARDS ***
+OGORRA: calls $50.00
+TIKITAKA11: checks
+*** FLOP *** [3d 7s 7d]
+TIKITAKA11: checks
+OGORRA: checks
+*** TURN *** [3d 7s 7d] [Ts]
+TIKITAKA11: checks
+OGORRA: bets $100.00
+TIKITAKA11: calls $100.00
+*** RIVER *** [3d 7s 7d Ts] [8s]
+TIKITAKA11: checks
+OGORRA: checks
+*** SHOW DOWN ***
+OGORRA: shows [Ac 3h]
+TIKITAKA11: mucks hand
+OGORRA collected $398.75 from pot
+*** SUMMARY ***
+Total pot $400.00 | Rake $1.25
+Board [3d 7s 7d Ts 8s]
+Seat 3: OGORRA (button) (small blind) showed [Ac 3h] and won ($398.75)
+Seat 4: TIKITAKA11 (big blind) mucked
+
+PokerStars Hand #1498250255:  Hold'em No Limit ($50.00/$100.00 USD) - 2022/12/25 22:58:36 ET
+Table 'WPN_7 Day No Rathole 50/100 NLH' 9-max Seat #4 is the button
+Seat 3: OGORRA ($21312.03 in chips)
+Seat 4: TIKITAKA11 ($1796.62 in chips)
+TIKITAKA11: posts small blind $50.00
+OGORRA: posts big blind $100.00
+*** HOLE CARDS ***
+TIKITAKA11: raises $100.00 to $200.00
+OGORRA: folds
+Uncalled bet ($100.00) returned to TIKITAKA11
+TIKITAKA11 collected $200.00 from pot
+TIKITAKA11: doesn't show hand
+*** SUMMARY ***
+Total pot $200.00 | Rake $0.00
+Seat 3: OGORRA (big blind) folded before Flop
+Seat 4: TIKITAKA11 (button) (small blind) collected ($200.00)
+
+PokerStars Hand #1498249021:  Hold'em No Limit ($50.00/$100.00 USD) - 2022/12/25 22:55:56 ET
+Table 'WPN_7 Day No Rathole 50/100 NLH' 9-max Seat #3 is the button
+Seat 3: OGORRA ($21314.53 in chips)
+Seat 4: TIKITAKA11 ($1797.87 in chips)
+OGORRA: posts small blind $50.00
+TIKITAKA11: posts big blind $100.00
+*** HOLE CARDS ***
+OGORRA: calls $50.00
+TIKITAKA11: checks
+*** FLOP *** [Td 4h 5h]
+TIKITAKA11: checks
+OGORRA: bets $100.00
+TIKITAKA11: folds
+Uncalled bet ($100.00) returned to OGORRA
+OGORRA collected $198.75 from pot
+OGORRA: doesn't show hand
+*** SUMMARY ***
+Total pot $200.00 | Rake $1.25
+Board [Td 4h 5h]
+Seat 3: OGORRA (button) (small blind) collected ($198.75)
+Seat 4: TIKITAKA11 (big blind) folded on the Flop
+
+PokerStars Hand #1498249269:  Hold'em No Limit ($50.00/$100.00 USD) - 2022/12/25 22:56:32 ET
+Table 'WPN_7 Day No Rathole 50/100 NLH' 9-max Seat #4 is the button
+Seat 3: OGORRA ($21413.28 in chips)
+Seat 4: TIKITAKA11 ($1697.87 in chips)
+TIKITAKA11: posts small blind $50.00
+OGORRA: posts big blind $100.00
+*** HOLE CARDS ***
+TIKITAKA11: calls $50.00
+OGORRA: checks
+*** FLOP *** [8s Td 6h]
+OGORRA: checks
+TIKITAKA11: checks
+*** TURN *** [8s Td 6h] [Kd]
+OGORRA: checks
+TIKITAKA11: bets $200.00
+OGORRA: calls $200.00
+*** RIVER *** [8s Td 6h Kd] [5c]
+OGORRA: checks
+TIKITAKA11: bets $600.00
+OGORRA: folds
+Uncalled bet ($600.00) returned to TIKITAKA11
+TIKITAKA11 collected $598.75 from pot
+TIKITAKA11: doesn't show hand
+*** SUMMARY ***
+Total pot $600.00 | Rake $1.25
+Board [8s Td 6h Kd 5c]
+Seat 3: OGORRA (big blind) folded on the River
+Seat 4: TIKITAKA11 (button) (small blind) collected ($598.75)
+
+PokerStars Hand #1498248689:  Hold'em No Limit ($50.00/$100.00 USD) - 2022/12/25 22:55:12 ET
+Table 'WPN_7 Day No Rathole 50/100 NLH' 9-max Seat #3 is the button
+Seat 3: OGORRA ($21165.78 in chips)
+Seat 4: TIKITAKA11 ($1947.87 in chips)
+OGORRA: posts small blind $50.00
+TIKITAKA11: posts big blind $100.00
+*** HOLE CARDS ***
+OGORRA: calls $50.00
+TIKITAKA11: checks
+*** FLOP *** [Ts 5c 4s]
+TIKITAKA11: checks
+OGORRA: bets $100.00
+TIKITAKA11: folds
+Uncalled bet ($100.00) returned to OGORRA
+OGORRA collected $198.75 from pot
+OGORRA: doesn't show hand
+*** SUMMARY ***
+Total pot $200.00 | Rake $1.25
+Board [Ts 5c 4s]
+Seat 3: OGORRA (button) (small blind) collected ($198.75)
+Seat 4: TIKITAKA11 (big blind) folded on the Flop
+
+PokerStars Hand #1498248934:  Hold'em No Limit ($50.00/$100.00 USD) - 2022/12/25 22:55:46 ET
+Table 'WPN_7 Day No Rathole 50/100 NLH' 9-max Seat #4 is the button
+Seat 3: OGORRA ($21264.53 in chips)
+Seat 4: TIKITAKA11 ($1847.87 in chips)
+TIKITAKA11: posts small blind $50.00
+OGORRA: posts big blind $100.00
+*** HOLE CARDS ***
+TIKITAKA11: folds
+Uncalled bet ($50.00) returned to OGORRA
+OGORRA collected $100.00 from pot
+OGORRA: doesn't show hand
+*** SUMMARY ***
+Total pot $100.00 | Rake $0.00
+Seat 3: OGORRA (big blind) collected ($100.00)
+Seat 4: TIKITAKA11 (button) (small blind) folded before Flop
+
+PokerStars Hand #1498248641:  Hold'em No Limit ($50.00/$100.00 USD) - 2022/12/25 22:55:04 ET
+Table 'WPN_7 Day No Rathole 50/100 NLH' 9-max Seat #2 is the button
+Seat 2: DoublelegTD ($3324.16 in chips)
+Seat 3: OGORRA ($21115.78 in chips)
+Seat 4: TIKITAKA11 ($1947.87 in chips)
+DoublelegTD: posts small blind $50.00
+OGORRA: posts big blind $100.00
+*** HOLE CARDS ***
+DoublelegTD: folds
+Uncalled bet ($50.00) returned to OGORRA
+OGORRA collected $100.00 from pot
+OGORRA: doesn't show hand
+*** SUMMARY ***
+Total pot $100.00 | Rake $0.00
+Seat 2: DoublelegTD (button) (small blind) folded before Flop
+Seat 3: OGORRA (big blind) collected ($100.00)
+
+PokerStars Hand #1498245522:  Hold'em No Limit ($50.00/$100.00 USD) - 2022/12/25 22:52:40 ET
+Table 'WPN_7 Day No Rathole 50/100 NLH' 9-max Seat #2 is the button
+Seat 2: DoublelegTD ($2726.66 in chips)
+Seat 3: OGORRA ($21715.78 in chips)
+DoublelegTD: posts small blind $50.00
+OGORRA: posts big blind $100.00
+*** HOLE CARDS ***
+DoublelegTD: raises $100.00 to $200.00
+OGORRA: calls $100.00
+*** FLOP *** [Ks 8s 2s]
+OGORRA: checks
+DoublelegTD: checks
+*** TURN *** [Ks 8s 2s] [9c]
+OGORRA: checks
+DoublelegTD: bets $200.00
+OGORRA: calls $200.00
+*** RIVER *** [Ks 8s 2s 9c] [3d]
+OGORRA: checks
+DoublelegTD: bets $600.00
+OGORRA: folds
+Uncalled bet ($600.00) returned to DoublelegTD
+DoublelegTD collected $798.75 from pot
+DoublelegTD: doesn't show hand
+*** SUMMARY ***
+Total pot $800.00 | Rake $1.25
+Board [Ks 8s 2s 9c 3d]
+Seat 2: DoublelegTD (button) (small blind) collected ($798.75)
+Seat 3: OGORRA (big blind) folded on the River
+
+PokerStars Hand #1498247441:  Hold'em No Limit ($50.00/$100.00 USD) - 2022/12/25 22:54:07 ET
+Table 'WPN_7 Day No Rathole 50/100 NLH' 9-max Seat #3 is the button
+Seat 2: DoublelegTD ($3125.41 in chips)
+Seat 3: OGORRA ($21315.78 in chips)
+OGORRA: posts small blind $50.00
+DoublelegTD: posts big blind $100.00
+*** HOLE CARDS ***
+OGORRA: calls $50.00
+DoublelegTD: checks
+*** FLOP *** [Ts 3h Jh]
+DoublelegTD: checks
+OGORRA: bets $100.00
+DoublelegTD: calls $100.00
+*** TURN *** [Ts 3h Jh] [7d]
+DoublelegTD: checks
+OGORRA: checks
+*** RIVER *** [Ts 3h Jh 7d] [2c]
+DoublelegTD: checks
+OGORRA: checks
+*** SHOW DOWN ***
+DoublelegTD: shows [9d 7c]
+OGORRA: mucks hand
+DoublelegTD collected $398.75 from pot
+*** SUMMARY ***
+Total pot $400.00 | Rake $1.25
+Board [Ts 3h Jh 7d 2c]
+Seat 2: DoublelegTD (big blind) showed [9d 7c] and won ($398.75)
+Seat 3: OGORRA (button) (small blind) mucked
+
+PokerStars Hand #1498242564:  Hold'em No Limit ($50.00/$100.00 USD) - 2022/12/25 22:50:28 ET
+Table 'WPN_7 Day No Rathole 50/100 NLH' 9-max Seat #2 is the button
+Seat 2: DoublelegTD ($3027.29 in chips)
+Seat 3: OGORRA ($21417.65 in chips)
+DoublelegTD: posts small blind $50.00
+OGORRA: posts big blind $100.00
+*** HOLE CARDS ***
+DoublelegTD: raises $100.00 to $200.00
+OGORRA: folds
+Uncalled bet ($100.00) returned to DoublelegTD
+DoublelegTD collected $200.00 from pot
+DoublelegTD: doesn't show hand
+*** SUMMARY ***
+Total pot $200.00 | Rake $0.00
+Seat 2: DoublelegTD (button) (small blind) collected ($200.00)
+Seat 3: OGORRA (big blind) folded before Flop
+
+PokerStars Hand #1498242739:  Hold'em No Limit ($50.00/$100.00 USD) - 2022/12/25 22:50:35 ET
+Table 'WPN_7 Day No Rathole 50/100 NLH' 9-max Seat #3 is the button
+Seat 2: DoublelegTD ($3127.29 in chips)
+Seat 3: OGORRA ($21317.65 in chips)
+OGORRA: posts small blind $50.00
+DoublelegTD: posts big blind $100.00
+*** HOLE CARDS ***
+OGORRA: raises $100.00 to $200.00
+DoublelegTD: calls $100.00
+*** FLOP *** [Kc 5s Ts]
+DoublelegTD: checks
+OGORRA: bets $284.00
+DoublelegTD: calls $284.00
+*** TURN *** [Kc 5s Ts] [Jd]
+DoublelegTD: checks
+OGORRA: bets $687.28
+DoublelegTD: calls $687.28
+*** RIVER *** [Kc 5s Ts Jd] [Jc]
+DoublelegTD: checks
+OGORRA: checks
+*** SHOW DOWN ***
+DoublelegTD: shows [4d Kh]
+OGORRA: shows [Ks 9d]
+DoublelegTD collected $1170.65 from pot
+OGORRA collected $1170.66 from pot
+*** SUMMARY ***
+Total pot $2342.56 | Rake $1.25
+Board [Kc 5s Ts Jd Jc]
+Seat 2: DoublelegTD (big blind) showed [4d Kh] and won ($1170.65)
+Seat 3: OGORRA (button) (small blind) showed [Ks 9d] and won ($1170.66)
+
+PokerStars Hand #1498244266:  Hold'em No Limit ($50.00/$100.00 USD) - 2022/12/25 22:51:43 ET
+Table 'WPN_7 Day No Rathole 50/100 NLH' 9-max Seat #2 is the button
+Seat 2: DoublelegTD ($3126.66 in chips)
+Seat 3: OGORRA ($21317.03 in chips)
+DoublelegTD: posts small blind $50.00
+OGORRA: posts big blind $100.00
+*** HOLE CARDS ***
+DoublelegTD: raises $100.00 to $200.00
+OGORRA: raises $21117.03 to $21317.03 and is all-in
+DoublelegTD: folds
+Uncalled bet ($21117.03) returned to OGORRA
+OGORRA collected $400.00 from pot
+OGORRA: doesn't show hand
+*** SUMMARY ***
+Total pot $400.00 | Rake $0.00
+Seat 2: DoublelegTD (button) (small blind) folded before Flop
+Seat 3: OGORRA (big blind) collected ($400.00)
+
+PokerStars Hand #1498244575:  Hold'em No Limit ($50.00/$100.00 USD) - 2022/12/25 22:51:57 ET
+Table 'WPN_7 Day No Rathole 50/100 NLH' 9-max Seat #3 is the button
+Seat 2: DoublelegTD ($2926.66 in chips)
+Seat 3: OGORRA ($21517.03 in chips)
+OGORRA: posts small blind $50.00
+DoublelegTD: posts big blind $100.00
+*** HOLE CARDS ***
+OGORRA: calls $50.00
+DoublelegTD: checks
+*** FLOP *** [Jh Ac Tc]
+DoublelegTD: checks
+OGORRA: bets $100.00
+DoublelegTD: calls $100.00
+*** TURN *** [Jh Ac Tc] [8h]
+DoublelegTD: checks
+OGORRA: bets $284.00
+DoublelegTD: folds
+Uncalled bet ($284.00) returned to OGORRA
+OGORRA collected $398.75 from pot
+OGORRA: doesn't show hand
+*** SUMMARY ***
+Total pot $400.00 | Rake $1.25
+Board [Jh Ac Tc 8h]
+Seat 2: DoublelegTD (big blind) folded on the Turn
+Seat 3: OGORRA (button) (small blind) collected ($398.75)
+
+PokerStars Hand #1498239459:  Hold'em No Limit ($50.00/$100.00 USD) - 2022/12/25 22:48:12 ET
+Table 'WPN_7 Day No Rathole 50/100 NLH' 9-max Seat #3 is the button
+Seat 2: DoublelegTD ($6286.17 in chips)
+Seat 3: OGORRA ($18161.27 in chips)
+OGORRA: posts small blind $50.00
+DoublelegTD: posts big blind $100.00
+*** HOLE CARDS ***
+OGORRA: raises $128.00 to $228.00
+DoublelegTD: raises $572.00 to $800.00
+OGORRA: calls $572.00
+*** FLOP *** [3d 8h 4d]
+DoublelegTD: checks
+OGORRA: bets $464.00
+DoublelegTD: calls $464.00
+*** TURN *** [3d 8h 4d] [4h]
+DoublelegTD: checks
+OGORRA: checks
+*** RIVER *** [3d 8h 4d 4h] [9h]
+DoublelegTD: checks
+OGORRA: bets $1794.88
+DoublelegTD: calls $1794.88
+*** SHOW DOWN ***
+OGORRA: shows [3s 4s]
+DoublelegTD: mucks hand
+OGORRA collected $6116.51 from pot
+*** SUMMARY ***
+Total pot $6117.76 | Rake $1.25
+Board [3d 8h 4d 4h 9h]
+Seat 2: DoublelegTD (big blind) mucked
+Seat 3: OGORRA (button) (small blind) showed [3s 4s] and won ($6116.51)
+
+PokerStars Hand #1498241688:  Hold'em No Limit ($50.00/$100.00 USD) - 2022/12/25 22:49:50 ET
+Table 'WPN_7 Day No Rathole 50/100 NLH' 9-max Seat #2 is the button
+Seat 2: DoublelegTD ($3227.29 in chips)
+Seat 3: OGORRA ($21218.90 in chips)
+DoublelegTD: posts small blind $50.00
+OGORRA: posts big blind $100.00
+*** HOLE CARDS ***
+DoublelegTD: calls $50.00
+OGORRA: raises $200.00 to $300.00
+DoublelegTD: folds
+Uncalled bet ($200.00) returned to OGORRA
+OGORRA collected $200.00 from pot
+OGORRA: doesn't show hand
+*** SUMMARY ***
+Total pot $200.00 | Rake $0.00
+Seat 2: DoublelegTD (button) (small blind) folded before Flop
+Seat 3: OGORRA (big blind) collected ($200.00)
+
+PokerStars Hand #1498242085:  Hold'em No Limit ($50.00/$100.00 USD) - 2022/12/25 22:50:07 ET
+Table 'WPN_7 Day No Rathole 50/100 NLH' 9-max Seat #3 is the button
+Seat 2: DoublelegTD ($3127.29 in chips)
+Seat 3: OGORRA ($21318.90 in chips)
+OGORRA: posts small blind $50.00
+DoublelegTD: posts big blind $100.00
+*** HOLE CARDS ***
+OGORRA: calls $50.00
+DoublelegTD: checks
+*** FLOP *** [4c Ac Jd]
+DoublelegTD: checks
+OGORRA: bets $100.00
+DoublelegTD: folds
+Uncalled bet ($100.00) returned to OGORRA
+OGORRA collected $198.75 from pot
+OGORRA: doesn't show hand
+*** SUMMARY ***
+Total pot $200.00 | Rake $1.25
+Board [4c Ac Jd]
+Seat 2: DoublelegTD (big blind) folded on the Flop
+Seat 3: OGORRA (button) (small blind) collected ($198.75)
+
+PokerStars Hand #1498238082:  Hold'em No Limit ($50.00/$100.00 USD) - 2022/12/25 22:47:12 ET
+Table 'WPN_7 Day No Rathole 50/100 NLH' 9-max Seat #3 is the button
+Seat 2: DoublelegTD ($6187.42 in chips)
+Seat 3: OGORRA ($18262.52 in chips)
+OGORRA: posts small blind $50.00
+DoublelegTD: posts big blind $100.00
+*** HOLE CARDS ***
+OGORRA: calls $50.00
+DoublelegTD: checks
+*** FLOP *** [3s Kd Jc]
+DoublelegTD: checks
+OGORRA: checks
+*** TURN *** [3s Kd Jc] [Kh]
+DoublelegTD: checks
+OGORRA: bets $100.00
+DoublelegTD: folds
+Uncalled bet ($100.00) returned to OGORRA
+OGORRA collected $198.75 from pot
+OGORRA: doesn't show hand
+*** SUMMARY ***
+Total pot $200.00 | Rake $1.25
+Board [3s Kd Jc Kh]
+Seat 2: DoublelegTD (big blind) folded on the Turn
+Seat 3: OGORRA (button) (small blind) collected ($198.75)
+
+PokerStars Hand #1498239033:  Hold'em No Limit ($50.00/$100.00 USD) - 2022/12/25 22:47:54 ET
+Table 'WPN_7 Day No Rathole 50/100 NLH' 9-max Seat #2 is the button
+Seat 2: DoublelegTD ($6087.42 in chips)
+Seat 3: OGORRA ($18361.27 in chips)
+DoublelegTD: posts small blind $50.00
+OGORRA: posts big blind $100.00
+*** HOLE CARDS ***
+DoublelegTD: raises $100.00 to $200.00
+OGORRA: calls $100.00
+*** FLOP *** [Js 3s Tc]
+OGORRA: checks
+DoublelegTD: bets $120.00
+OGORRA: folds
+Uncalled bet ($120.00) returned to DoublelegTD
+DoublelegTD collected $398.75 from pot
+DoublelegTD: doesn't show hand
+*** SUMMARY ***
+Total pot $400.00 | Rake $1.25
+Board [Js 3s Tc]
+Seat 2: DoublelegTD (button) (small blind) collected ($398.75)
+Seat 3: OGORRA (big blind) folded on the Flop
+

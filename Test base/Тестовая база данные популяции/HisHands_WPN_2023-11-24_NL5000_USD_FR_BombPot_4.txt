@@ -1,0 +1,114 @@
+Hand #1942521544 - Holdem(No Limit) - $25/$50 - 2023/11/24 08:04:42 UTC
+Linn 9-max Seat #4 is the button
+Seat 4: SeaLlama ($5000)
+Seat 9: PR0DIGY ($5000)
+SeaLlama posts ante $200
+PR0DIGY posts ante $200
+*** HOLE CARDS *** 
+*** FLOP *** [Tc 4h 8d]
+Main pot $398.75 | Rake $1.25
+PR0DIGY checks
+SeaLlama checks
+*** TURN *** [Tc 4h 8d] [7h]
+Main pot $398.75 | Rake $1.25
+PR0DIGY checks
+SeaLlama checks
+*** RIVER *** [Tc 4h 8d 7h] [Jh]
+Main pot $398.75 | Rake $1.25
+PR0DIGY checks
+SeaLlama bets $478
+PR0DIGY folds
+Uncalled bet ($478) returned to SeaLlama
+SeaLlama does not show
+*** SUMMARY ***
+BombPot
+Total pot $398.75 | Rake $1.25
+Seat 4: SeaLlama (button) did not showed and won $398.75
+Seat 9: PR0DIGY folded on the River
+
+
+Hand #1942530471 - Holdem(No Limit) - $25/$50 - 2023/11/24 08:23:51 UTC
+Linn 9-max Seat #9 is the button
+Seat 4: SeaLlama ($8157.69)
+Seat 9: PR0DIGY ($5000)
+SeaLlama posts ante $200
+PR0DIGY posts ante $200
+*** HOLE CARDS *** 
+*** FLOP *** [7d As 5c]
+Main pot $398.75 | Rake $1.25
+SeaLlama checks
+PR0DIGY checks
+*** TURN *** [7d As 5c] [3h]
+Main pot $398.75 | Rake $1.25
+SeaLlama checks
+PR0DIGY checks
+*** RIVER *** [7d As 5c 3h] [6h]
+Main pot $398.75 | Rake $1.25
+SeaLlama checks
+PR0DIGY checks
+*** SHOW DOWN ***
+Main pot $398.75 | Rake $1.25
+SeaLlama shows [5h Kh]
+SeaLlama collected $398.75 from main pot
+*** SUMMARY ***
+BombPot
+Total pot $398.75 | Rake $1.25
+Seat 4: SeaLlama showed [5h Kh] and won $398.75 with OnePair [5h 5c As Kh 7d]
+Seat 9: PR0DIGY (button) did not showed and lost
+
+
+Hand #1942535496 - Holdem(No Limit) - $25/$50 - 2023/11/24 08:35:34 UTC
+Linn 9-max Seat #9 is the button
+Seat 4: SeaLlama ($6431.38)
+Seat 9: PR0DIGY ($7171.31)
+SeaLlama posts ante $200
+PR0DIGY posts ante $200
+*** HOLE CARDS *** 
+*** FLOP *** [3s 5s 5d]
+Main pot $398.75 | Rake $1.25
+SeaLlama checks
+PR0DIGY bets $115.63
+SeaLlama calls $115.63
+*** TURN *** [3s 5s 5d] [8s]
+Main pot $630.01 | Rake $1.25
+SeaLlama checks
+PR0DIGY bets $315
+SeaLlama folds
+Uncalled bet ($315) returned to PR0DIGY
+PR0DIGY does not show
+*** SUMMARY ***
+BombPot
+Total pot $630.01 | Rake $1.25
+Seat 4: SeaLlama folded on the Turn
+Seat 9: PR0DIGY (button) did not showed and won $630.01
+
+
+Hand #1942545299 - Holdem(No Limit) - $25/$50 - 2023/11/24 08:59:52 UTC
+Linn 9-max Seat #9 is the button
+Seat 7: orgi69 ($7031.88)
+Seat 9: PR0DIGY ($5753.56)
+orgi69 posts ante $200
+PR0DIGY posts ante $200
+*** HOLE CARDS *** 
+*** FLOP *** [9d 4c 5h]
+Main pot $398.75 | Rake $1.25
+orgi69 checks
+PR0DIGY checks
+*** TURN *** [9d 4c 5h] [2h]
+Main pot $398.75 | Rake $1.25
+orgi69 checks
+PR0DIGY checks
+*** RIVER *** [9d 4c 5h 2h] [Kc]
+Main pot $398.75 | Rake $1.25
+orgi69 bets $131.58
+PR0DIGY calls $131.58
+*** SHOW DOWN ***
+Main pot $398.75 | Rake $1.25
+PR0DIGY shows [Ad Th]
+PR0DIGY collected $661.91 from main pot
+*** SUMMARY ***
+BombPot
+Total pot $661.91 | Rake $1.25
+Seat 7: orgi69 did not showed and lost
+Seat 9: PR0DIGY (button) showed [Ad Th] and won $661.91 with HighCard [Ad Kc Th 9d 5h]
+

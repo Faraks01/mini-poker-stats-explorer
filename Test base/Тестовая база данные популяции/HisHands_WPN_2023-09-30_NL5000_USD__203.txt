@@ -1,0 +1,4678 @@
+Hand #1878410644 - Holdem(No Limit) - $25/$50 - 2023/09/30 01:57:58 UTC
+Foosland 4-max Seat #2 is the button
+Seat 1: ULTIMATEBOT ($5000)
+Seat 2: loliufg ($2000)
+Seat 3: lukabrate ($5000)
+Seat 4: SeaLlama ($5000)
+loliufg posts the small blind $25
+SeaLlama posts the big blind $50
+*** HOLE CARDS *** 
+loliufg raises $75 to $100
+SeaLlama calls $50
+*** FLOP *** [4c As 9d]
+Main pot $198.75 | Rake $1.25
+SeaLlama checks
+loliufg bets $66
+SeaLlama calls $66
+*** TURN *** [4c As 9d] [Ah]
+Main pot $330.75 | Rake $1.25
+SeaLlama checks
+loliufg checks
+*** RIVER *** [4c As 9d Ah] [3h]
+Main pot $330.75 | Rake $1.25
+SeaLlama bets $109
+loliufg folds
+Uncalled bet ($109) returned to SeaLlama
+SeaLlama does not show
+*** SUMMARY ***
+Total pot $330.75 | Rake $1.25
+Seat 2: loliufg (small blind) folded on the River
+Seat 4: SeaLlama (big blind) did not showed and won $330.75
+
+
+Hand #1878411114 - Holdem(No Limit) - $25/$50 - 2023/09/30 01:58:29 UTC
+Foosland 4-max Seat #2 is the button
+Seat 1: ULTIMATEBOT ($5000)
+Seat 2: loliufg ($1834)
+Seat 3: lukabrate ($5000)
+Seat 4: SeaLlama ($5164.75)
+SeaLlama posts the small blind $25
+ULTIMATEBOT posts the big blind $50
+*** HOLE CARDS *** 
+loliufg raises $125 to $125
+SeaLlama folds
+ULTIMATEBOT folds
+Uncalled bet ($75) returned to loliufg
+loliufg does not show
+*** SUMMARY ***
+Total pot $125
+Seat 1: ULTIMATEBOT (big blind) folded on the Pre-Flop
+Seat 2: loliufg (button) did not showed and won $125
+Seat 4: SeaLlama (small blind) folded on the Pre-Flop
+
+
+Hand #1878411384 - Holdem(No Limit) - $25/$50 - 2023/09/30 01:58:54 UTC
+Foosland 4-max Seat #4 is the button
+Seat 1: ULTIMATEBOT ($5000)
+Seat 2: loliufg ($5000)
+Seat 3: lukabrate ($5000)
+Seat 4: SeaLlama ($5000)
+ULTIMATEBOT posts the small blind $25
+lukabrate posts the big blind $50
+*** HOLE CARDS *** 
+SeaLlama folds
+ULTIMATEBOT raises $125 to $150
+lukabrate folds
+Uncalled bet ($100) returned to ULTIMATEBOT
+ULTIMATEBOT does not show
+*** SUMMARY ***
+Total pot $100
+Seat 1: ULTIMATEBOT (small blind) did not showed and won $100
+Seat 3: lukabrate (big blind) folded on the Pre-Flop
+Seat 4: SeaLlama (button) folded on the Pre-Flop and did not bet
+
+
+Hand #1878411608 - Holdem(No Limit) - $25/$50 - 2023/09/30 02:00:12 UTC
+Foosland 4-max Seat #1 is the button
+Seat 1: ULTIMATEBOT ($5000)
+Seat 2: loliufg ($5000)
+Seat 3: lukabrate ($5000)
+Seat 4: SeaLlama ($5139.75)
+lukabrate posts the small blind $25
+SeaLlama posts the big blind $50
+*** HOLE CARDS *** 
+ULTIMATEBOT folds
+lukabrate raises $125 to $150
+SeaLlama calls $100
+*** FLOP *** [Kc 2h 9s]
+Main pot $298.25 | Rake $1.75
+lukabrate bets $75
+SeaLlama raises $300 to $300
+lukabrate raises $725 to $800
+SeaLlama calls $500
+*** TURN *** [Kc 2h 9s] [7h]
+Main pot $1898.25 | Rake $1.75
+lukabrate bets $950
+SeaLlama calls $950
+*** RIVER *** [Kc 2h 9s 7h] [5h]
+Main pot $3798.25 | Rake $1.75
+lukabrate bets $3100 and is all-in
+SeaLlama calls $3100
+*** SHOW DOWN ***
+Main pot $3798.25 | Rake $1.75
+lukabrate shows [Kd As] (a combo of some cards [Kd Kc As 9s 7h])
+SeaLlama shows [Ks 2d] (a combo of some cards [Ks Kc 2h 2d 9s])
+SeaLlama collected $9998.25 from main pot
+*** SUMMARY ***
+Total pot $9998.25 | Rake $1.75
+Seat 1: ULTIMATEBOT (button) folded on the Pre-Flop and did not bet
+Seat 3: lukabrate (small blind) showed [Kd As] and lost
+Seat 4: SeaLlama (big blind) showed [Ks 2d] and won $9998.25 with TwoPair [Ks Kc 2h 2d 9s]
+
+
+Hand #1878476104 - Holdem(No Limit) - $25/$50 - 2023/09/30 02:56:13 UTC
+Foosland 4-max Seat #4 is the button
+Seat 1: _COBKA_PBET_ ($5000)
+Seat 2: lol voidaments ($5000)
+Seat 3: ULTIMATEBOT ($5000)
+Seat 4: SeaLlama ($10138)
+SeaLlama posts the small blind $25
+lol voidaments posts the big blind $50
+*** HOLE CARDS *** 
+SeaLlama raises $100 to $125
+lol voidaments calls $75
+*** FLOP *** [Qh 3h 4d]
+Main pot $248.75 | Rake $1.25
+lol voidaments checks
+SeaLlama bets $82
+lol voidaments calls $82
+*** TURN *** [Qh 3h 4d] [9s]
+Main pot $412.75 | Rake $1.25
+lol voidaments checks
+SeaLlama checks
+*** RIVER *** [Qh 3h 4d 9s] [6s]
+Main pot $412.75 | Rake $1.25
+lol voidaments bets $298.08
+SeaLlama raises $2517 to $2517
+lol voidaments calls $2218.92
+*** SUMMARY ***
+Total pot $5446.75 | Rake $1.25
+Seat 2: lol voidaments (big blind) did not showed and lost
+Seat 4: SeaLlama (small blind) did not showed and won $5446.75
+
+
+Hand #1878476943 - Holdem(No Limit) - $25/$50 - 2023/09/30 02:57:38 UTC
+Foosland 4-max Seat #4 is the button
+Seat 1: _COBKA_PBET_ ($5000)
+Seat 2: lol voidaments ($5000)
+Seat 3: ULTIMATEBOT ($5000)
+Seat 4: SeaLlama ($12860.75)
+lol voidaments posts the small blind $25
+ULTIMATEBOT posts the big blind $50
+*** HOLE CARDS *** 
+SeaLlama raises $125 to $125
+lol voidaments folds
+ULTIMATEBOT calls $75
+*** FLOP *** [2s Js 3d]
+Main pot $273.25 | Rake $1.75
+ULTIMATEBOT checks
+SeaLlama bets $90
+ULTIMATEBOT calls $90
+*** TURN *** [2s Js 3d] [7c]
+Main pot $453.25 | Rake $1.75
+ULTIMATEBOT checks
+SeaLlama checks
+*** RIVER *** [2s Js 3d 7c] [6d]
+Main pot $453.25 | Rake $1.75
+ULTIMATEBOT checks
+SeaLlama bets $341.25
+ULTIMATEBOT calls $341.25
+*** SUMMARY ***
+Total pot $1135.75 | Rake $1.75
+Seat 2: lol voidaments (small blind) folded on the Pre-Flop
+Seat 3: ULTIMATEBOT (big blind) did not showed and won $1135.75
+Seat 4: SeaLlama (button) did not showed and lost
+
+
+Hand #1878477754 - Holdem(No Limit) - $25/$50 - 2023/09/30 02:59:01 UTC
+Foosland 4-max Seat #2 is the button
+Seat 1: _COBKA_PBET_ ($5000)
+Seat 2: lol voidaments ($5000)
+Seat 3: ULTIMATEBOT ($5579.50)
+Seat 4: SeaLlama ($12304.50)
+ULTIMATEBOT posts the small blind $25
+SeaLlama posts the big blind $50
+*** HOLE CARDS *** 
+lol voidaments folds
+ULTIMATEBOT raises $125 to $150
+SeaLlama calls $100
+*** FLOP *** [Qc 6s Tc]
+Main pot $298.25 | Rake $1.75
+ULTIMATEBOT checks
+SeaLlama bets $357.50
+ULTIMATEBOT calls $357.50
+*** TURN *** [Qc 6s Tc] [2h]
+Main pot $1013.25 | Rake $1.75
+ULTIMATEBOT checks
+SeaLlama bets $1215.50
+ULTIMATEBOT folds
+Uncalled bet ($1215.50) returned to SeaLlama
+SeaLlama does not show
+*** SUMMARY ***
+Total pot $1013.25 | Rake $1.75
+Seat 2: lol voidaments (button) folded on the Pre-Flop and did not bet
+Seat 3: ULTIMATEBOT (small blind) folded on the Turn
+Seat 4: SeaLlama (big blind) did not showed and won $1013.25
+
+
+Hand #1878478525 - Holdem(No Limit) - $25/$50 - 2023/09/30 02:59:28 UTC
+Foosland 4-max Seat #3 is the button
+Seat 1: _COBKA_PBET_ ($5000)
+Seat 2: lol voidaments ($5000)
+Seat 3: ULTIMATEBOT ($5072)
+Seat 4: SeaLlama ($12810.25)
+SeaLlama posts the small blind $25
+_COBKA_PBET_ posts the big blind $50
+*** HOLE CARDS *** 
+lol voidaments folds
+ULTIMATEBOT raises $125 to $125
+SeaLlama raises $475 to $500
+_COBKA_PBET_ folds
+ULTIMATEBOT folds
+Uncalled bet ($375) returned to SeaLlama
+SeaLlama does not show
+*** SUMMARY ***
+Total pot $300
+Seat 1: _COBKA_PBET_ (big blind) folded on the Pre-Flop
+Seat 2: lol voidaments folded on the Pre-Flop and did not bet
+Seat 3: ULTIMATEBOT (button) folded on the Pre-Flop and did not bet
+Seat 4: SeaLlama (small blind) did not showed and won $300
+
+
+Hand #1878478761 - Holdem(No Limit) - $25/$50 - 2023/09/30 03:00:37 UTC
+Foosland 4-max Seat #4 is the button
+Seat 1: _COBKA_PBET_ ($5000)
+Seat 2: lol voidaments ($5000)
+Seat 3: ULTIMATEBOT ($5000)
+Seat 4: SeaLlama ($12985.25)
+_COBKA_PBET_ posts the small blind $25
+lol voidaments posts the big blind $50
+*** HOLE CARDS *** 
+ULTIMATEBOT folds
+SeaLlama raises $125 to $125
+_COBKA_PBET_ folds
+lol voidaments raises $500 to $550
+SeaLlama calls $425
+*** FLOP *** [6d Jh 4h]
+Main pot $1122.75 | Rake $2.25
+lol voidaments bets $562.50
+SeaLlama calls $562.50
+*** TURN *** [6d Jh 4h] [9d]
+Main pot $2247.75 | Rake $2.25
+lol voidaments bets $1125
+SeaLlama calls $1125
+*** RIVER *** [6d Jh 4h 9d] [9s]
+Main pot $4497.75 | Rake $2.25
+lol voidaments checks
+SeaLlama checks
+*** SUMMARY ***
+Total pot $4497.75 | Rake $2.25
+Seat 1: _COBKA_PBET_ (small blind) folded on the Pre-Flop
+Seat 2: lol voidaments (big blind) did not showed and lost
+Seat 3: ULTIMATEBOT folded on the Pre-Flop and did not bet
+Seat 4: SeaLlama (button) did not showed and won $4497.75
+
+
+Hand #1878479520 - Holdem(No Limit) - $25/$50 - 2023/09/30 03:01:04 UTC
+Foosland 4-max Seat #1 is the button
+Seat 1: _COBKA_PBET_ ($5000)
+Seat 2: lol voidaments ($5000)
+Seat 3: ULTIMATEBOT ($5000)
+Seat 4: SeaLlama ($15245.50)
+lol voidaments posts the small blind $25
+SeaLlama posts the big blind $50
+*** HOLE CARDS *** 
+_COBKA_PBET_ raises $112.50 to $112.50
+lol voidaments folds
+SeaLlama calls $62.50
+*** FLOP *** [Jc 8c 5s]
+Main pot $248.25 | Rake $1.75
+SeaLlama checks
+_COBKA_PBET_ bets $187.50
+SeaLlama folds
+Uncalled bet ($187.50) returned to _COBKA_PBET_
+_COBKA_PBET_ does not show
+*** SUMMARY ***
+Total pot $248.25 | Rake $1.75
+Seat 1: _COBKA_PBET_ (button) did not showed and won $248.25
+Seat 2: lol voidaments (small blind) folded on the Pre-Flop
+Seat 4: SeaLlama (big blind) folded on the Flop
+
+
+Hand #1878479844 - Holdem(No Limit) - $25/$50 - 2023/09/30 03:01:18 UTC
+Foosland 4-max Seat #2 is the button
+Seat 1: _COBKA_PBET_ ($5000)
+Seat 2: lol voidaments ($5000)
+Seat 3: ULTIMATEBOT ($5000)
+Seat 4: SeaLlama ($15133)
+SeaLlama posts the small blind $25
+lol voidaments posts the big blind $50
+*** HOLE CARDS *** 
+SeaLlama raises $100 to $125
+lol voidaments folds
+Uncalled bet ($75) returned to SeaLlama
+SeaLlama does not show
+*** SUMMARY ***
+Total pot $100
+Seat 2: lol voidaments (big blind) folded on the Pre-Flop
+Seat 4: SeaLlama (small blind) did not showed and won $100
+
+
+Hand #1878480107 - Holdem(No Limit) - $25/$50 - 2023/09/30 03:01:30 UTC
+Foosland 4-max Seat #2 is the button
+Seat 1: _COBKA_PBET_ ($5000)
+Seat 2: lol voidaments ($5000)
+Seat 3: ULTIMATEBOT ($5000)
+Seat 4: SeaLlama ($15183)
+lol voidaments posts the small blind $25
+SeaLlama posts the big blind $50
+*** HOLE CARDS *** 
+lol voidaments folds
+*** SUMMARY ***
+Total pot $75
+Seat 2: lol voidaments (small blind) folded on the Pre-Flop
+Seat 4: SeaLlama (big blind) did not showed and won $75
+
+
+Hand #1878480342 - Holdem(No Limit) - $25/$50 - 2023/09/30 03:01:38 UTC
+Foosland 4-max Seat #4 is the button
+Seat 2: lol voidaments ($5000)
+Seat 3: ULTIMATEBOT ($5000)
+Seat 4: SeaLlama ($15208)
+SeaLlama posts the small blind $25
+lol voidaments posts the big blind $50
+*** HOLE CARDS *** 
+SeaLlama folds
+*** SUMMARY ***
+Total pot $75
+Seat 2: lol voidaments (big blind) did not showed and won $75
+Seat 4: SeaLlama (small blind) folded on the Pre-Flop
+
+
+Hand #1878480455 - Holdem(No Limit) - $25/$50 - 2023/09/30 03:02:11 UTC
+Foosland 4-max Seat #2 is the button
+Seat 2: lol voidaments ($5025)
+Seat 4: SeaLlama ($15183)
+lol voidaments posts the small blind $25
+SeaLlama posts the big blind $50
+*** HOLE CARDS *** 
+lol voidaments raises $100 to $125
+SeaLlama calls $75
+*** FLOP *** [6h Kd As]
+Main pot $248.75 | Rake $1.25
+SeaLlama checks
+lol voidaments checks
+*** TURN *** [6h Kd As] [Jd]
+Main pot $248.75 | Rake $1.25
+SeaLlama checks
+lol voidaments checks
+*** RIVER *** [6h Kd As Jd] [Tc]
+Main pot $248.75 | Rake $1.25
+SeaLlama checks
+lol voidaments checks
+*** SUMMARY ***
+Total pot $248.75 | Rake $1.25
+Seat 2: lol voidaments (small blind) did not showed and lost
+Seat 4: SeaLlama (big blind) did not showed and won $248.75
+
+
+Hand #1878481104 - Holdem(No Limit) - $25/$50 - 2023/09/30 03:02:24 UTC
+Foosland 4-max Seat #4 is the button
+Seat 2: lol voidaments ($5000)
+Seat 4: SeaLlama ($15306.75)
+SeaLlama posts the small blind $25
+lol voidaments posts the big blind $50
+*** HOLE CARDS *** 
+SeaLlama raises $100 to $125
+lol voidaments folds
+Uncalled bet ($75) returned to SeaLlama
+SeaLlama does not show
+*** SUMMARY ***
+Total pot $100
+Seat 2: lol voidaments (big blind) folded on the Pre-Flop
+Seat 4: SeaLlama (small blind) did not showed and won $100
+
+
+Hand #1878481291 - Holdem(No Limit) - $25/$50 - 2023/09/30 03:03:11 UTC
+Foosland 4-max Seat #2 is the button
+Seat 2: lol voidaments ($5000)
+Seat 4: SeaLlama ($15356.75)
+lol voidaments posts the small blind $25
+SeaLlama posts the big blind $50
+*** HOLE CARDS *** 
+lol voidaments raises $100 to $125
+SeaLlama calls $75
+*** FLOP *** [5s 6s Ks]
+Main pot $248.75 | Rake $1.25
+SeaLlama checks
+lol voidaments checks
+*** TURN *** [5s 6s Ks] [3s]
+Main pot $248.75 | Rake $1.25
+SeaLlama checks
+lol voidaments bets $125
+SeaLlama calls $125
+*** RIVER *** [5s 6s Ks 3s] [8s]
+Main pot $498.75 | Rake $1.25
+SeaLlama checks
+lol voidaments checks
+*** SUMMARY ***
+Total pot $498.75 | Rake $1.25
+Seat 2: lol voidaments (small blind) did not showed and won $249.38
+Seat 4: SeaLlama (big blind) did not showed and won $249.37
+
+
+Hand #1878884369 - Holdem(No Limit) - $25/$50 - 2023/09/30 15:56:24 UTC
+Foosland 4-max Seat #1 is the button
+Seat 1: JohnMcShen ($5000)
+Seat 3: 6-7BTC ($5000)
+JohnMcShen posts the small blind $25
+6-7BTC posts the big blind $50
+*** HOLE CARDS *** 
+JohnMcShen raises $100 to $125
+6-7BTC folds
+Uncalled bet ($75) returned to JohnMcShen
+JohnMcShen does not show
+*** SUMMARY ***
+Total pot $100
+Seat 1: JohnMcShen (small blind) did not showed and won $100
+Seat 3: 6-7BTC (big blind) folded on the Pre-Flop
+
+
+Hand #1878884432 - Holdem(No Limit) - $25/$50 - 2023/09/30 15:58:03 UTC
+Foosland 4-max Seat #3 is the button
+Seat 1: JohnMcShen ($5050)
+Seat 3: 6-7BTC ($5000)
+6-7BTC posts the small blind $25
+JohnMcShen posts the big blind $50
+*** HOLE CARDS *** 
+6-7BTC raises $91 to $116
+JohnMcShen calls $66
+*** FLOP *** [7s 6c 3d]
+Main pot $230.75 | Rake $1.25
+JohnMcShen checks
+6-7BTC bets $116
+JohnMcShen raises $463.06 to $463.06
+6-7BTC calls $347.06
+*** TURN *** [7s 6c 3d] [2s]
+Main pot $1156.87 | Rake $1.25
+JohnMcShen checks
+6-7BTC bets $289.53
+JohnMcShen calls $289.53
+*** RIVER *** [7s 6c 3d 2s] [Td]
+Main pot $1735.93 | Rake $1.25
+JohnMcShen checks
+6-7BTC checks
+*** SUMMARY ***
+Total pot $1735.93 | Rake $1.25
+Seat 1: JohnMcShen (big blind) did not showed and won $1735.93
+Seat 3: 6-7BTC (small blind) did not showed and lost
+
+
+Hand #1878885024 - Holdem(No Limit) - $25/$50 - 2023/09/30 15:58:26 UTC
+Foosland 4-max Seat #1 is the button
+Seat 1: JohnMcShen ($5917.34)
+Seat 3: 6-7BTC ($5000)
+JohnMcShen posts the small blind $25
+6-7BTC posts the big blind $50
+*** HOLE CARDS *** 
+JohnMcShen raises $100 to $125
+6-7BTC folds
+Uncalled bet ($75) returned to JohnMcShen
+JohnMcShen does not show
+*** SUMMARY ***
+Total pot $100
+Seat 1: JohnMcShen (small blind) did not showed and won $100
+Seat 3: 6-7BTC (big blind) folded on the Pre-Flop
+
+
+Hand #1878885138 - Holdem(No Limit) - $25/$50 - 2023/09/30 15:58:43 UTC
+Foosland 4-max Seat #3 is the button
+Seat 1: JohnMcShen ($5967.34)
+Seat 3: 6-7BTC ($5000)
+6-7BTC posts the small blind $25
+JohnMcShen posts the big blind $50
+*** HOLE CARDS *** 
+6-7BTC raises $100 to $125
+JohnMcShen raises $475 to $525
+6-7BTC folds
+Uncalled bet ($400) returned to JohnMcShen
+JohnMcShen does not show
+*** SUMMARY ***
+Total pot $250
+Seat 1: JohnMcShen (big blind) did not showed and won $250
+Seat 3: 6-7BTC (small blind) folded on the Pre-Flop
+
+
+Hand #1878885239 - Holdem(No Limit) - $25/$50 - 2023/09/30 16:00:14 UTC
+Foosland 4-max Seat #1 is the button
+Seat 1: JohnMcShen ($6092.34)
+Seat 3: 6-7BTC ($5000)
+JohnMcShen posts the small blind $25
+6-7BTC posts the big blind $50
+*** HOLE CARDS *** 
+JohnMcShen raises $100 to $125
+6-7BTC calls $75
+*** FLOP *** [2c Qs 4h]
+Main pot $248.75 | Rake $1.25
+6-7BTC checks
+JohnMcShen checks
+*** TURN *** [2c Qs 4h] [Ad]
+Main pot $248.75 | Rake $1.25
+6-7BTC checks
+JohnMcShen checks
+*** RIVER *** [2c Qs 4h Ad] [7c]
+Main pot $248.75 | Rake $1.25
+6-7BTC bets $500
+JohnMcShen folds
+Uncalled bet ($500) returned to 6-7BTC
+6-7BTC does not show
+*** SUMMARY ***
+Total pot $248.75 | Rake $1.25
+Seat 1: JohnMcShen (small blind) folded on the River
+Seat 3: 6-7BTC (big blind) did not showed and won $248.75
+
+
+Hand #1878885789 - Holdem(No Limit) - $25/$50 - 2023/09/30 16:00:40 UTC
+Foosland 4-max Seat #3 is the button
+Seat 1: JohnMcShen ($5967.34)
+Seat 3: 6-7BTC ($5123.75)
+6-7BTC posts the small blind $25
+JohnMcShen posts the big blind $50
+*** HOLE CARDS *** 
+6-7BTC raises $91 to $116
+JohnMcShen folds
+Uncalled bet ($66) returned to 6-7BTC
+6-7BTC does not show
+*** SUMMARY ***
+Total pot $100
+Seat 1: JohnMcShen (big blind) folded on the Pre-Flop
+Seat 3: 6-7BTC (small blind) did not showed and won $100
+
+
+Hand #1878892027 - Holdem(No Limit) - $25/$50 - 2023/09/30 16:07:37 UTC
+Foosland 4-max Seat #1 is the button
+Seat 1: JohnMcShen ($5917.34)
+Seat 2: PR0DIGY ($5000)
+Seat 3: 6-7BTC ($5000)
+JohnMcShen posts the small blind $25
+PR0DIGY posts the big blind $50
+*** HOLE CARDS *** 
+JohnMcShen raises $100 to $125
+PR0DIGY folds
+Uncalled bet ($75) returned to JohnMcShen
+JohnMcShen does not show
+*** SUMMARY ***
+Total pot $100
+Seat 1: JohnMcShen (small blind) did not showed and won $100
+Seat 2: PR0DIGY (big blind) folded on the Pre-Flop
+
+
+Hand #1878892238 - Holdem(No Limit) - $25/$50 - 2023/09/30 16:08:21 UTC
+Foosland 4-max Seat #1 is the button
+Seat 1: JohnMcShen ($5967.34)
+Seat 2: PR0DIGY ($5000)
+Seat 3: 6-7BTC ($5173.75)
+PR0DIGY posts the small blind $25
+6-7BTC posts the big blind $50
+*** HOLE CARDS *** 
+JohnMcShen raises $125 to $125
+PR0DIGY folds
+6-7BTC calls $75
+*** FLOP *** [8h As 5h]
+Main pot $273.25 | Rake $1.75
+6-7BTC checks
+JohnMcShen bets $84.70
+6-7BTC raises $368 to $368
+JohnMcShen folds
+Uncalled bet ($283.30) returned to 6-7BTC
+6-7BTC does not show
+*** SUMMARY ***
+Total pot $442.65 | Rake $1.75
+Seat 1: JohnMcShen (button) folded on the Flop
+Seat 2: PR0DIGY (small blind) folded on the Pre-Flop
+Seat 3: 6-7BTC (big blind) did not showed and won $442.65
+
+
+Hand #1878892947 - Holdem(No Limit) - $25/$50 - 2023/09/30 16:08:54 UTC
+Foosland 4-max Seat #2 is the button
+Seat 1: JohnMcShen ($5757.64)
+Seat 2: PR0DIGY ($5000)
+Seat 3: 6-7BTC ($5406.70)
+Seat 4: iBetMyWifeGLGG ($5000)
+6-7BTC posts the small blind $25
+JohnMcShen posts the big blind $50
+*** HOLE CARDS *** 
+PR0DIGY folds
+6-7BTC raises $125 to $150
+JohnMcShen calls $100
+*** FLOP *** [2s Js Td]
+Main pot $298.25 | Rake $1.75
+6-7BTC bets $75
+JohnMcShen folds
+Uncalled bet ($75) returned to 6-7BTC
+6-7BTC does not show
+*** SUMMARY ***
+Total pot $298.25 | Rake $1.75
+Seat 1: JohnMcShen (big blind) folded on the Flop
+Seat 2: PR0DIGY (button) folded on the Pre-Flop and did not bet
+Seat 3: 6-7BTC (small blind) did not showed and won $298.25
+
+
+Hand #1878893463 - Holdem(No Limit) - $25/$50 - 2023/09/30 16:09:54 UTC
+Foosland 4-max Seat #3 is the button
+Seat 1: JohnMcShen ($5607.64)
+Seat 2: PR0DIGY ($5000)
+Seat 3: 6-7BTC ($5000)
+Seat 4: iBetMyWifeGLGG ($5000)
+JohnMcShen posts the small blind $25
+PR0DIGY posts the big blind $50
+*** HOLE CARDS *** 
+6-7BTC folds
+JohnMcShen calls $25
+PR0DIGY checks
+*** FLOP *** [2c 4h 9c]
+Main pot $98.25 | Rake $1.75
+JohnMcShen bets $73.68
+PR0DIGY raises $257.88 to $257.88
+JohnMcShen folds
+Uncalled bet ($184.20) returned to PR0DIGY
+PR0DIGY does not show
+*** SUMMARY ***
+Total pot $245.61 | Rake $1.75
+Seat 1: JohnMcShen (small blind) folded on the Flop
+Seat 2: PR0DIGY (big blind) did not showed and won $245.61
+Seat 3: 6-7BTC (button) folded on the Pre-Flop and did not bet
+
+
+Hand #1878894422 - Holdem(No Limit) - $25/$50 - 2023/09/30 16:10:03 UTC
+Foosland 4-max Seat #1 is the button
+Seat 1: JohnMcShen ($5000)
+Seat 2: PR0DIGY ($5121.93)
+Seat 3: 6-7BTC ($5554.95)
+Seat 4: iBetMyWifeGLGG ($5000)
+PR0DIGY posts the small blind $25
+6-7BTC posts the big blind $50
+*** HOLE CARDS *** 
+JohnMcShen folds
+PR0DIGY folds
+*** SUMMARY ***
+Total pot $75
+Seat 1: JohnMcShen (button) folded on the Pre-Flop and did not bet
+Seat 2: PR0DIGY (small blind) folded on the Pre-Flop
+Seat 3: 6-7BTC (big blind) did not showed and won $75
+
+
+Hand #1878894624 - Holdem(No Limit) - $25/$50 - 2023/09/30 16:10:23 UTC
+Foosland 4-max Seat #2 is the button
+Seat 1: JohnMcShen ($5000)
+Seat 2: PR0DIGY ($5096.93)
+Seat 3: 6-7BTC ($5579.95)
+Seat 4: iBetMyWifeGLGG ($2000)
+6-7BTC posts the small blind $25
+iBetMyWifeGLGG posts the big blind $50
+*** HOLE CARDS *** 
+JohnMcShen folds
+PR0DIGY raises $130 to $130
+6-7BTC folds
+iBetMyWifeGLGG folds
+Uncalled bet ($80) returned to PR0DIGY
+PR0DIGY does not show
+*** SUMMARY ***
+Total pot $125
+Seat 1: JohnMcShen folded on the Pre-Flop and did not bet
+Seat 2: PR0DIGY (button) did not showed and won $125
+Seat 3: 6-7BTC (small blind) folded on the Pre-Flop
+Seat 4: iBetMyWifeGLGG (big blind) folded on the Pre-Flop
+
+
+Hand #1878894864 - Holdem(No Limit) - $25/$50 - 2023/09/30 16:12:37 UTC
+Foosland 4-max Seat #3 is the button
+Seat 1: JohnMcShen ($5483.96)
+Seat 2: PR0DIGY ($5171.93)
+Seat 3: 6-7BTC ($5000)
+Seat 4: iBetMyWifeGLGG ($1950)
+iBetMyWifeGLGG posts the small blind $25
+JohnMcShen posts the big blind $50
+*** HOLE CARDS *** 
+PR0DIGY raises $105 to $105
+6-7BTC folds
+iBetMyWifeGLGG folds
+JohnMcShen calls $55
+*** FLOP *** [Qc 2s 8h]
+Main pot $232.75 | Rake $2.25
+JohnMcShen checks
+PR0DIGY bets $67.49
+JohnMcShen calls $67.49
+*** TURN *** [Qc 2s 8h] [6h]
+Main pot $367.73 | Rake $2.25
+JohnMcShen checks
+PR0DIGY checks
+*** RIVER *** [Qc 2s 8h 6h] [Kh]
+Main pot $367.73 | Rake $2.25
+JohnMcShen checks
+PR0DIGY bets $551.59
+JohnMcShen raises $1654.77 to $1654.77
+PR0DIGY calls $1103.18
+*** SUMMARY ***
+Total pot $3677.27 | Rake $2.25
+Seat 1: JohnMcShen (big blind) did not showed and won $3677.27
+Seat 2: PR0DIGY did not showed and lost
+Seat 3: 6-7BTC (button) folded on the Pre-Flop and did not bet
+Seat 4: iBetMyWifeGLGG (small blind) folded on the Pre-Flop
+
+
+Hand #1878897064 - Holdem(No Limit) - $25/$50 - 2023/09/30 16:14:21 UTC
+Foosland 4-max Seat #4 is the button
+Seat 1: JohnMcShen ($7333.97)
+Seat 2: PR0DIGY ($5000)
+Seat 3: 6-7BTC ($5000)
+Seat 4: iBetMyWifeGLGG ($5000)
+JohnMcShen posts the small blind $25
+PR0DIGY posts the big blind $50
+*** HOLE CARDS *** 
+6-7BTC folds
+iBetMyWifeGLGG folds
+JohnMcShen calls $25
+PR0DIGY raises $100 to $150
+JohnMcShen calls $100
+*** FLOP *** [3h 8d 8h]
+Main pot $297.75 | Rake $2.25
+JohnMcShen checks
+PR0DIGY checks
+*** TURN *** [3h 8d 8h] [Kc]
+Main pot $297.75 | Rake $2.25
+JohnMcShen checks
+PR0DIGY checks
+*** RIVER *** [3h 8d 8h Kc] [Js]
+Main pot $297.75 | Rake $2.25
+JohnMcShen checks
+PR0DIGY checks
+*** SUMMARY ***
+Total pot $297.75 | Rake $2.25
+Seat 1: JohnMcShen (small blind) did not showed and lost
+Seat 2: PR0DIGY (big blind) did not showed and won $297.75
+Seat 3: 6-7BTC folded on the Pre-Flop and did not bet
+Seat 4: iBetMyWifeGLGG (button) folded on the Pre-Flop and did not bet
+
+
+Hand #1878898762 - Holdem(No Limit) - $25/$50 - 2023/09/30 16:14:34 UTC
+Foosland 4-max Seat #1 is the button
+Seat 1: JohnMcShen ($5000)
+Seat 2: PR0DIGY ($5147.75)
+Seat 3: 6-7BTC ($5554.95)
+Seat 4: iBetMyWifeGLGG ($1925)
+PR0DIGY posts the small blind $25
+6-7BTC posts the big blind $50
+*** HOLE CARDS *** 
+iBetMyWifeGLGG raises $112.50 to $112.50
+JohnMcShen folds
+PR0DIGY folds
+6-7BTC folds
+Uncalled bet ($62.50) returned to iBetMyWifeGLGG
+iBetMyWifeGLGG does not show
+*** SUMMARY ***
+Total pot $125
+Seat 1: JohnMcShen (button) folded on the Pre-Flop and did not bet
+Seat 2: PR0DIGY (small blind) folded on the Pre-Flop
+Seat 3: 6-7BTC (big blind) folded on the Pre-Flop
+Seat 4: iBetMyWifeGLGG did not showed and won $125
+
+
+Hand #1878898926 - Holdem(No Limit) - $25/$50 - 2023/09/30 16:14:50 UTC
+Foosland 4-max Seat #2 is the button
+Seat 1: JohnMcShen ($7183.97)
+Seat 2: PR0DIGY ($5000)
+Seat 3: 6-7BTC ($5504.95)
+Seat 4: iBetMyWifeGLGG ($5000)
+6-7BTC posts the small blind $25
+JohnMcShen posts the big blind $50
+*** HOLE CARDS *** 
+PR0DIGY folds
+6-7BTC raises $125 to $150
+JohnMcShen folds
+Uncalled bet ($100) returned to 6-7BTC
+6-7BTC does not show
+*** SUMMARY ***
+Total pot $100
+Seat 1: JohnMcShen (big blind) folded on the Pre-Flop
+Seat 2: PR0DIGY (button) folded on the Pre-Flop and did not bet
+Seat 3: 6-7BTC (small blind) did not showed and won $100
+
+
+Hand #1878899197 - Holdem(No Limit) - $25/$50 - 2023/09/30 16:15:08 UTC
+Foosland 4-max Seat #3 is the button
+Seat 1: JohnMcShen ($7133.97)
+Seat 2: PR0DIGY ($5122.75)
+Seat 3: 6-7BTC ($5554.95)
+JohnMcShen posts the small blind $25
+PR0DIGY posts the big blind $50
+*** HOLE CARDS *** 
+6-7BTC raises $125 to $125
+JohnMcShen raises $550 to $575
+PR0DIGY folds
+6-7BTC folds
+Uncalled bet ($450) returned to JohnMcShen
+JohnMcShen does not show
+*** SUMMARY ***
+Total pot $300
+Seat 1: JohnMcShen (small blind) did not showed and won $300
+Seat 2: PR0DIGY (big blind) folded on the Pre-Flop
+Seat 3: 6-7BTC (button) folded on the Pre-Flop and did not bet
+
+
+Hand #1878899475 - Holdem(No Limit) - $25/$50 - 2023/09/30 16:16:20 UTC
+Foosland 4-max Seat #1 is the button
+Seat 1: JohnMcShen ($7308.97)
+Seat 2: PR0DIGY ($5072.75)
+Seat 3: 6-7BTC ($5429.95)
+PR0DIGY posts the small blind $25
+6-7BTC posts the big blind $50
+*** HOLE CARDS *** 
+JohnMcShen raises $125 to $125
+PR0DIGY folds
+6-7BTC calls $75
+*** FLOP *** [6c 4d 6h]
+Main pot $273.25 | Rake $1.75
+6-7BTC checks
+JohnMcShen checks
+*** TURN *** [6c 4d 6h] [Ah]
+Main pot $273.25 | Rake $1.75
+6-7BTC checks
+JohnMcShen checks
+*** RIVER *** [6c 4d 6h Ah] [7s]
+Main pot $273.25 | Rake $1.75
+6-7BTC bets $137.50
+JohnMcShen folds
+Uncalled bet ($137.50) returned to 6-7BTC
+6-7BTC does not show
+*** SUMMARY ***
+Total pot $273.25 | Rake $1.75
+Seat 1: JohnMcShen (button) folded on the River
+Seat 2: PR0DIGY (small blind) folded on the Pre-Flop
+Seat 3: 6-7BTC (big blind) did not showed and won $273.25
+
+
+Hand #1878900619 - Holdem(No Limit) - $25/$50 - 2023/09/30 16:16:34 UTC
+Foosland 4-max Seat #2 is the button
+Seat 1: JohnMcShen ($7183.97)
+Seat 2: PR0DIGY ($5000)
+Seat 3: 6-7BTC ($5578.20)
+6-7BTC posts the small blind $25
+JohnMcShen posts the big blind $50
+*** HOLE CARDS *** 
+PR0DIGY folds
+6-7BTC raises $125 to $150
+JohnMcShen folds
+Uncalled bet ($100) returned to 6-7BTC
+6-7BTC does not show
+*** SUMMARY ***
+Total pot $100
+Seat 1: JohnMcShen (big blind) folded on the Pre-Flop
+Seat 2: PR0DIGY (button) folded on the Pre-Flop and did not bet
+Seat 3: 6-7BTC (small blind) did not showed and won $100
+
+
+Hand #1878900854 - Holdem(No Limit) - $25/$50 - 2023/09/30 16:17:29 UTC
+Foosland 4-max Seat #3 is the button
+Seat 1: JohnMcShen ($7133.97)
+Seat 2: PR0DIGY ($5047.75)
+Seat 3: 6-7BTC ($5000)
+JohnMcShen posts the small blind $25
+PR0DIGY posts the big blind $50
+*** HOLE CARDS *** 
+6-7BTC folds
+JohnMcShen calls $25
+PR0DIGY checks
+*** FLOP *** [8c Kc 5d]
+Main pot $98.25 | Rake $1.75
+JohnMcShen checks
+PR0DIGY checks
+*** TURN *** [8c Kc 5d] [7h]
+Main pot $98.25 | Rake $1.75
+JohnMcShen bets $50
+PR0DIGY folds
+Uncalled bet ($50) returned to JohnMcShen
+JohnMcShen does not show
+*** SUMMARY ***
+Total pot $98.25 | Rake $1.75
+Seat 1: JohnMcShen (small blind) did not showed and won $98.25
+Seat 2: PR0DIGY (big blind) folded on the Turn
+Seat 3: 6-7BTC (button) folded on the Pre-Flop and did not bet
+
+
+Hand #1878901754 - Holdem(No Limit) - $25/$50 - 2023/09/30 16:17:38 UTC
+Foosland 4-max Seat #1 is the button
+Seat 1: JohnMcShen ($5000)
+Seat 2: PR0DIGY ($5000)
+Seat 3: 6-7BTC ($5628.20)
+PR0DIGY posts the small blind $25
+6-7BTC posts the big blind $50
+*** HOLE CARDS *** 
+JohnMcShen folds
+PR0DIGY folds
+*** SUMMARY ***
+Total pot $75
+Seat 1: JohnMcShen (button) folded on the Pre-Flop and did not bet
+Seat 2: PR0DIGY (small blind) folded on the Pre-Flop
+Seat 3: 6-7BTC (big blind) did not showed and won $75
+
+
+Hand #1878901894 - Holdem(No Limit) - $25/$50 - 2023/09/30 16:17:57 UTC
+Foosland 4-max Seat #2 is the button
+Seat 1: JohnMcShen ($7182.22)
+Seat 2: PR0DIGY ($5000)
+Seat 3: 6-7BTC ($5653.20)
+6-7BTC posts the small blind $25
+JohnMcShen posts the big blind $50
+*** HOLE CARDS *** 
+PR0DIGY raises $130 to $130
+6-7BTC folds
+JohnMcShen folds
+Uncalled bet ($80) returned to PR0DIGY
+PR0DIGY does not show
+*** SUMMARY ***
+Total pot $125
+Seat 1: JohnMcShen (big blind) folded on the Pre-Flop
+Seat 2: PR0DIGY (button) did not showed and won $125
+Seat 3: 6-7BTC (small blind) folded on the Pre-Flop
+
+
+Hand #1878902196 - Holdem(No Limit) - $25/$50 - 2023/09/30 16:19:23 UTC
+Foosland 4-max Seat #3 is the button
+Seat 1: JohnMcShen ($7132.22)
+Seat 2: PR0DIGY ($5075)
+Seat 3: 6-7BTC ($5000)
+JohnMcShen posts the small blind $25
+PR0DIGY posts the big blind $50
+*** HOLE CARDS *** 
+6-7BTC folds
+JohnMcShen calls $25
+PR0DIGY checks
+*** FLOP *** [6h 2c 4d]
+Main pot $98.25 | Rake $1.75
+JohnMcShen checks
+PR0DIGY checks
+*** TURN *** [6h 2c 4d] [4c]
+Main pot $98.25 | Rake $1.75
+JohnMcShen bets $50
+PR0DIGY calls $50
+*** RIVER *** [6h 2c 4d 4c] [Jh]
+Main pot $198.25 | Rake $1.75
+JohnMcShen checks
+PR0DIGY bets $99.12
+JohnMcShen calls $99.12
+*** SUMMARY ***
+Total pot $396.49 | Rake $1.75
+Seat 1: JohnMcShen (small blind) did not showed and lost
+Seat 2: PR0DIGY (big blind) did not showed and won $396.49
+Seat 3: 6-7BTC (button) folded on the Pre-Flop and did not bet
+
+
+Hand #1878903662 - Holdem(No Limit) - $25/$50 - 2023/09/30 16:19:36 UTC
+Foosland 4-max Seat #1 is the button
+Seat 1: JohnMcShen ($5000)
+Seat 2: PR0DIGY ($5272.37)
+Seat 3: 6-7BTC ($5628.20)
+PR0DIGY posts the small blind $25
+6-7BTC posts the big blind $50
+*** HOLE CARDS *** 
+JohnMcShen folds
+PR0DIGY folds
+*** SUMMARY ***
+Total pot $75
+Seat 1: JohnMcShen (button) folded on the Pre-Flop and did not bet
+Seat 2: PR0DIGY (small blind) folded on the Pre-Flop
+Seat 3: 6-7BTC (big blind) did not showed and won $75
+
+
+Hand #1878903826 - Holdem(No Limit) - $25/$50 - 2023/09/30 16:21:05 UTC
+Foosland 4-max Seat #2 is the button
+Seat 1: JohnMcShen ($6933.10)
+Seat 2: PR0DIGY ($5247.37)
+Seat 3: 6-7BTC ($5653.20)
+6-7BTC posts the small blind $25
+JohnMcShen posts the big blind $50
+*** HOLE CARDS *** 
+PR0DIGY raises $130 to $130
+6-7BTC folds
+JohnMcShen calls $80
+*** FLOP *** [8d Qs Kc]
+Main pot $283.25 | Rake $1.75
+JohnMcShen checks
+PR0DIGY bets $354
+JohnMcShen calls $354
+*** TURN *** [8d Qs Kc] [3s]
+Main pot $991.25 | Rake $1.75
+JohnMcShen checks
+PR0DIGY bets $1119
+JohnMcShen calls $1119
+*** RIVER *** [8d Qs Kc 3s] [8c]
+Main pot $3229.25 | Rake $1.75
+JohnMcShen checks
+PR0DIGY checks
+*** SUMMARY ***
+Total pot $3229.25 | Rake $1.75
+Seat 1: JohnMcShen (big blind) did not showed and won $3229.25
+Seat 2: PR0DIGY (button) did not showed and lost
+Seat 3: 6-7BTC (small blind) folded on the Pre-Flop
+
+
+Hand #1878905373 - Holdem(No Limit) - $25/$50 - 2023/09/30 16:21:29 UTC
+Foosland 4-max Seat #3 is the button
+Seat 1: JohnMcShen ($8559.35)
+Seat 2: PR0DIGY ($5000)
+Seat 3: 6-7BTC ($5628.20)
+JohnMcShen posts the small blind $25
+PR0DIGY posts the big blind $50
+*** HOLE CARDS *** 
+6-7BTC raises $125 to $125
+JohnMcShen folds
+PR0DIGY raises $500 to $550
+6-7BTC folds
+Uncalled bet ($425) returned to PR0DIGY
+PR0DIGY does not show
+*** SUMMARY ***
+Total pot $275
+Seat 1: JohnMcShen (small blind) folded on the Pre-Flop
+Seat 2: PR0DIGY (big blind) did not showed and won $275
+Seat 3: 6-7BTC (button) folded on the Pre-Flop and did not bet
+
+
+Hand #1878905742 - Holdem(No Limit) - $25/$50 - 2023/09/30 16:21:44 UTC
+Foosland 4-max Seat #1 is the button
+Seat 1: JohnMcShen ($8534.35)
+Seat 2: PR0DIGY ($5150)
+Seat 3: 6-7BTC ($5503.20)
+PR0DIGY posts the small blind $25
+6-7BTC posts the big blind $50
+*** HOLE CARDS *** 
+JohnMcShen raises $125 to $125
+PR0DIGY folds
+6-7BTC folds
+Uncalled bet ($75) returned to JohnMcShen
+JohnMcShen does not show
+*** SUMMARY ***
+Total pot $125
+Seat 1: JohnMcShen (button) did not showed and won $125
+Seat 2: PR0DIGY (small blind) folded on the Pre-Flop
+Seat 3: 6-7BTC (big blind) folded on the Pre-Flop
+
+
+Hand #1878906009 - Holdem(No Limit) - $25/$50 - 2023/09/30 16:22:15 UTC
+Foosland 4-max Seat #2 is the button
+Seat 1: JohnMcShen ($8609.35)
+Seat 2: PR0DIGY ($5000)
+Seat 3: 6-7BTC ($5453.20)
+6-7BTC posts the small blind $25
+JohnMcShen posts the big blind $50
+*** HOLE CARDS *** 
+PR0DIGY folds
+6-7BTC raises $125 to $150
+JohnMcShen calls $100
+*** FLOP *** [As 5s Jd]
+Main pot $298.25 | Rake $1.75
+6-7BTC bets $75
+JohnMcShen folds
+Uncalled bet ($75) returned to 6-7BTC
+6-7BTC does not show
+*** SUMMARY ***
+Total pot $298.25 | Rake $1.75
+Seat 1: JohnMcShen (big blind) folded on the Flop
+Seat 2: PR0DIGY (button) folded on the Pre-Flop and did not bet
+Seat 3: 6-7BTC (small blind) did not showed and won $298.25
+
+
+Hand #1878906513 - Holdem(No Limit) - $25/$50 - 2023/09/30 16:22:26 UTC
+Foosland 4-max Seat #3 is the button
+Seat 1: JohnMcShen ($8459.35)
+Seat 2: PR0DIGY ($5125)
+Seat 3: 6-7BTC ($5000)
+JohnMcShen posts the small blind $25
+PR0DIGY posts the big blind $50
+*** HOLE CARDS *** 
+6-7BTC folds
+JohnMcShen folds
+*** SUMMARY ***
+Total pot $75
+Seat 1: JohnMcShen (small blind) folded on the Pre-Flop
+Seat 2: PR0DIGY (big blind) did not showed and won $75
+Seat 3: 6-7BTC (button) folded on the Pre-Flop and did not bet
+
+
+Hand #1878906691 - Holdem(No Limit) - $25/$50 - 2023/09/30 16:25:02 UTC
+Foosland 4-max Seat #1 is the button
+Seat 1: JohnMcShen ($8434.35)
+Seat 2: PR0DIGY ($5150)
+Seat 3: 6-7BTC ($5601.45)
+PR0DIGY posts the small blind $25
+6-7BTC posts the big blind $50
+*** HOLE CARDS *** 
+JohnMcShen raises $125 to $125
+PR0DIGY folds
+6-7BTC raises $575 to $625
+JohnMcShen calls $500
+*** FLOP *** [3h 6d 5c]
+Main pot $1273.25 | Rake $1.75
+6-7BTC bets $637.50
+JohnMcShen calls $637.50
+*** TURN *** [3h 6d 5c] [Qs]
+Main pot $2548.25 | Rake $1.75
+6-7BTC checks
+JohnMcShen bets $789.95
+6-7BTC calls $789.95
+*** RIVER *** [3h 6d 5c Qs] [8s]
+Main pot $4128.15 | Rake $1.75
+6-7BTC checks
+JohnMcShen bets $6381.90 and is all-in
+6-7BTC calls $3549 and is all-in
+Uncalled bet ($2832.90) returned to JohnMcShen
+JohnMcShen does not show
+*** SHOW DOWN ***
+Main pot $4128.15 | Rake $1.75
+JohnMcShen shows [Kc Tc] (a combo of some cards [Kc Qs Tc 8s 6d])
+6-7BTC shows [Kh 6h] (a combo of some cards [6h 6d Kh Qs 8s])
+6-7BTC collected $11226.15 from main pot
+*** SUMMARY ***
+Total pot $11226.15 | Rake $1.75
+Seat 1: JohnMcShen (button) showed [Kc Tc] and lost
+Seat 2: PR0DIGY (small blind) folded on the Pre-Flop
+Seat 3: 6-7BTC (big blind) showed [Kh 6h] and won $11226.15 with OnePair [6h 6d Kh Qs 8s]
+
+
+Hand #1878909327 - Holdem(No Limit) - $25/$50 - 2023/09/30 16:26:07 UTC
+Foosland 4-max Seat #2 is the button
+Seat 1: JohnMcShen ($5000)
+Seat 2: PR0DIGY ($5000)
+Seat 3: 6-7BTC ($11226.15)
+Seat 4: Simulacra ($5000)
+6-7BTC posts the small blind $25
+JohnMcShen posts the big blind $50
+*** HOLE CARDS *** 
+PR0DIGY folds
+6-7BTC raises $125 to $150
+JohnMcShen calls $100
+*** FLOP *** [5h 5d 9s]
+Main pot $298.25 | Rake $1.75
+6-7BTC checks
+JohnMcShen bets $149.12
+6-7BTC raises $373.24 to $373.24
+JohnMcShen folds
+Uncalled bet ($224.12) returned to 6-7BTC
+6-7BTC does not show
+*** SUMMARY ***
+Total pot $596.49 | Rake $1.75
+Seat 1: JohnMcShen (big blind) folded on the Flop
+Seat 2: PR0DIGY (button) folded on the Pre-Flop and did not bet
+Seat 3: 6-7BTC (small blind) did not showed and won $596.49
+
+
+Hand #1878910352 - Holdem(No Limit) - $25/$50 - 2023/09/30 16:26:31 UTC
+Foosland 4-max Seat #3 is the button
+Seat 1: JohnMcShen ($5000)
+Seat 2: PR0DIGY ($5125)
+Seat 3: 6-7BTC ($5000)
+Seat 4: Simulacra ($5000)
+JohnMcShen posts the small blind $25
+PR0DIGY posts the big blind $50
+*** HOLE CARDS *** 
+6-7BTC folds
+JohnMcShen calls $25
+PR0DIGY raises $100 to $150
+JohnMcShen folds
+Uncalled bet ($100) returned to PR0DIGY
+PR0DIGY does not show
+*** SUMMARY ***
+Total pot $100
+Seat 1: JohnMcShen (small blind) folded on the Pre-Flop
+Seat 2: PR0DIGY (big blind) did not showed and won $100
+Seat 3: 6-7BTC (button) folded on the Pre-Flop and did not bet
+
+
+Hand #1878910724 - Holdem(No Limit) - $25/$50 - 2023/09/30 16:26:39 UTC
+Foosland 4-max Seat #1 is the button
+Seat 1: JohnMcShen ($5000)
+Seat 2: PR0DIGY ($5175)
+Seat 3: 6-7BTC ($11523.52)
+Seat 4: Simulacra ($5000)
+PR0DIGY posts the small blind $25
+6-7BTC posts the big blind $50
+*** HOLE CARDS *** 
+JohnMcShen folds
+PR0DIGY folds
+*** SUMMARY ***
+Total pot $75
+Seat 1: JohnMcShen (button) folded on the Pre-Flop and did not bet
+Seat 2: PR0DIGY (small blind) folded on the Pre-Flop
+Seat 3: 6-7BTC (big blind) did not showed and won $75
+
+
+Hand #1878910860 - Holdem(No Limit) - $25/$50 - 2023/09/30 16:26:56 UTC
+Foosland 4-max Seat #2 is the button
+Seat 1: JohnMcShen ($5000)
+Seat 2: PR0DIGY ($5000)
+Seat 3: 6-7BTC ($11548.52)
+Seat 4: Simulacra ($2000)
+6-7BTC posts the small blind $25
+Simulacra posts the big blind $50
+*** HOLE CARDS *** 
+JohnMcShen folds
+PR0DIGY folds
+6-7BTC folds
+*** SUMMARY ***
+Total pot $75
+Seat 1: JohnMcShen folded on the Pre-Flop and did not bet
+Seat 2: PR0DIGY (button) folded on the Pre-Flop and did not bet
+Seat 3: 6-7BTC (small blind) folded on the Pre-Flop
+Seat 4: Simulacra (big blind) did not showed and won $75
+
+
+Hand #1878911128 - Holdem(No Limit) - $25/$50 - 2023/09/30 16:27:38 UTC
+Foosland 4-max Seat #3 is the button
+Seat 1: JohnMcShen ($5000)
+Seat 2: PR0DIGY ($5150)
+Seat 3: 6-7BTC ($5000)
+Seat 4: Simulacra ($2025)
+Simulacra posts the small blind $25
+JohnMcShen posts the big blind $50
+*** HOLE CARDS *** 
+PR0DIGY raises $105 to $105
+6-7BTC folds
+Simulacra folds
+JohnMcShen calls $55
+*** FLOP *** [2s 8c 5h]
+Main pot $232.75 | Rake $2.25
+JohnMcShen checks
+PR0DIGY checks
+*** TURN *** [2s 8c 5h] [9s]
+Main pot $232.75 | Rake $2.25
+JohnMcShen bets $174.56
+PR0DIGY folds
+Uncalled bet ($174.56) returned to JohnMcShen
+JohnMcShen does not show
+*** SUMMARY ***
+Total pot $232.75 | Rake $2.25
+Seat 1: JohnMcShen (big blind) did not showed and won $232.75
+Seat 2: PR0DIGY folded on the Turn
+Seat 3: 6-7BTC (button) folded on the Pre-Flop and did not bet
+Seat 4: Simulacra (small blind) folded on the Pre-Flop
+
+
+Hand #1878911846 - Holdem(No Limit) - $25/$50 - 2023/09/30 16:29:33 UTC
+Foosland 4-max Seat #4 is the button
+Seat 1: JohnMcShen ($5127.75)
+Seat 2: PR0DIGY ($5045)
+Seat 3: 6-7BTC ($5000)
+Seat 4: Simulacra ($5000)
+JohnMcShen posts the small blind $25
+PR0DIGY posts the big blind $50
+*** HOLE CARDS *** 
+6-7BTC folds
+Simulacra folds
+JohnMcShen raises $125 to $150
+PR0DIGY calls $100
+*** FLOP *** [Kd Jh 4h]
+Main pot $297.75 | Rake $2.25
+JohnMcShen bets $75
+PR0DIGY raises $483.50 to $483.50
+JohnMcShen calls $408.50
+*** TURN *** [Kd Jh 4h] [Th]
+Main pot $1264.75 | Rake $2.25
+JohnMcShen checks
+PR0DIGY bets $366.77
+JohnMcShen calls $366.77
+*** RIVER *** [Kd Jh 4h Th] [3s]
+Main pot $1998.29 | Rake $2.25
+JohnMcShen checks
+PR0DIGY bets $1998.29
+JohnMcShen calls $1998.29
+*** SUMMARY ***
+Total pot $5994.87 | Rake $2.25
+Seat 1: JohnMcShen (small blind) did not showed and won $5994.87
+Seat 2: PR0DIGY (big blind) did not showed and lost
+Seat 3: 6-7BTC folded on the Pre-Flop and did not bet
+Seat 4: Simulacra (button) folded on the Pre-Flop and did not bet
+
+
+Hand #1878913758 - Holdem(No Limit) - $25/$50 - 2023/09/30 16:29:44 UTC
+Foosland 4-max Seat #1 is the button
+Seat 1: JohnMcShen ($5000)
+Seat 2: PR0DIGY ($5000)
+Seat 3: 6-7BTC ($11523.52)
+Seat 4: Simulacra ($5000)
+PR0DIGY posts the small blind $25
+6-7BTC posts the big blind $50
+*** HOLE CARDS *** 
+Simulacra folds
+JohnMcShen folds
+PR0DIGY folds
+*** SUMMARY ***
+Total pot $75
+Seat 1: JohnMcShen (button) folded on the Pre-Flop and did not bet
+Seat 2: PR0DIGY (small blind) folded on the Pre-Flop
+Seat 3: 6-7BTC (big blind) did not showed and won $75
+Seat 4: Simulacra folded on the Pre-Flop and did not bet
+
+
+Hand #1878913915 - Holdem(No Limit) - $25/$50 - 2023/09/30 16:30:35 UTC
+Foosland 4-max Seat #2 is the button
+Seat 1: JohnMcShen ($8124.06)
+Seat 2: PR0DIGY ($5000)
+Seat 3: 6-7BTC ($11548.52)
+Seat 4: Simulacra ($5000)
+6-7BTC posts the small blind $25
+JohnMcShen posts the big blind $50
+*** HOLE CARDS *** 
+PR0DIGY raises $130 to $130
+6-7BTC folds
+JohnMcShen calls $80
+*** FLOP *** [6h 2d 9s]
+Main pot $283.25 | Rake $1.75
+JohnMcShen checks
+PR0DIGY checks
+*** TURN *** [6h 2d 9s] [Ah]
+Main pot $283.25 | Rake $1.75
+JohnMcShen bets $424.87
+PR0DIGY folds
+Uncalled bet ($424.87) returned to JohnMcShen
+JohnMcShen does not show
+*** SUMMARY ***
+Total pot $283.25 | Rake $1.75
+Seat 1: JohnMcShen (big blind) did not showed and won $283.25
+Seat 2: PR0DIGY (button) folded on the Turn
+Seat 3: 6-7BTC (small blind) folded on the Pre-Flop
+
+
+Hand #1878914945 - Holdem(No Limit) - $25/$50 - 2023/09/30 16:32:20 UTC
+Foosland 4-max Seat #3 is the button
+Seat 1: JohnMcShen ($8277.31)
+Seat 2: PR0DIGY ($5000)
+Seat 3: 6-7BTC ($5000)
+JohnMcShen posts the small blind $25
+PR0DIGY posts the big blind $50
+*** HOLE CARDS *** 
+6-7BTC folds
+JohnMcShen raises $125 to $150
+PR0DIGY calls $100
+*** FLOP *** [2d 5s 4d]
+Main pot $298.25 | Rake $1.75
+JohnMcShen checks
+PR0DIGY bets $149.12
+JohnMcShen calls $149.12
+*** TURN *** [2d 5s 4d] [5d]
+Main pot $596.49 | Rake $1.75
+JohnMcShen checks
+PR0DIGY checks
+*** RIVER *** [2d 5s 4d 5d] [Tc]
+Main pot $596.49 | Rake $1.75
+JohnMcShen bets $447.36
+PR0DIGY folds
+Uncalled bet ($447.36) returned to JohnMcShen
+JohnMcShen does not show
+*** SUMMARY ***
+Total pot $596.49 | Rake $1.75
+Seat 1: JohnMcShen (small blind) did not showed and won $596.49
+Seat 2: PR0DIGY (big blind) folded on the River
+Seat 3: 6-7BTC (button) folded on the Pre-Flop and did not bet
+
+
+Hand #1878917187 - Holdem(No Limit) - $25/$50 - 2023/09/30 16:32:28 UTC
+Foosland 4-max Seat #1 is the button
+Seat 1: JohnMcShen ($5000)
+Seat 2: PR0DIGY ($5000)
+Seat 3: 6-7BTC ($11523.52)
+PR0DIGY posts the small blind $25
+6-7BTC posts the big blind $50
+*** HOLE CARDS *** 
+JohnMcShen folds
+PR0DIGY folds
+*** SUMMARY ***
+Total pot $75
+Seat 1: JohnMcShen (button) folded on the Pre-Flop and did not bet
+Seat 2: PR0DIGY (small blind) folded on the Pre-Flop
+Seat 3: 6-7BTC (big blind) did not showed and won $75
+
+
+Hand #1878917364 - Holdem(No Limit) - $25/$50 - 2023/09/30 16:32:42 UTC
+Foosland 4-max Seat #2 is the button
+Seat 1: JohnMcShen ($8574.68)
+Seat 2: PR0DIGY ($5000)
+Seat 3: 6-7BTC ($11548.52)
+6-7BTC posts the small blind $25
+JohnMcShen posts the big blind $50
+*** HOLE CARDS *** 
+PR0DIGY raises $130 to $130
+6-7BTC folds
+JohnMcShen folds
+Uncalled bet ($80) returned to PR0DIGY
+PR0DIGY does not show
+*** SUMMARY ***
+Total pot $125
+Seat 1: JohnMcShen (big blind) folded on the Pre-Flop
+Seat 2: PR0DIGY (button) did not showed and won $125
+Seat 3: 6-7BTC (small blind) folded on the Pre-Flop
+
+
+Hand #1878917677 - Holdem(No Limit) - $25/$50 - 2023/09/30 16:33:08 UTC
+Foosland 4-max Seat #3 is the button
+Seat 1: JohnMcShen ($8524.68)
+Seat 2: PR0DIGY ($5075)
+Seat 3: 6-7BTC ($5000)
+JohnMcShen posts the small blind $25
+PR0DIGY posts the big blind $50
+*** HOLE CARDS *** 
+6-7BTC folds
+JohnMcShen calls $25
+PR0DIGY raises $100 to $150
+JohnMcShen folds
+Uncalled bet ($100) returned to PR0DIGY
+PR0DIGY does not show
+*** SUMMARY ***
+Total pot $100
+Seat 1: JohnMcShen (small blind) folded on the Pre-Flop
+Seat 2: PR0DIGY (big blind) did not showed and won $100
+Seat 3: 6-7BTC (button) folded on the Pre-Flop and did not bet
+
+
+Hand #1878918247 - Holdem(No Limit) - $25/$50 - 2023/09/30 16:33:30 UTC
+Foosland 4-max Seat #1 is the button
+Seat 1: JohnMcShen ($5000)
+Seat 2: PR0DIGY ($5125)
+Seat 3: 6-7BTC ($11523.52)
+PR0DIGY posts the small blind $25
+6-7BTC posts the big blind $50
+*** HOLE CARDS *** 
+JohnMcShen folds
+PR0DIGY raises $125 to $150
+6-7BTC folds
+Uncalled bet ($100) returned to PR0DIGY
+PR0DIGY does not show
+*** SUMMARY ***
+Total pot $100
+Seat 1: JohnMcShen (button) folded on the Pre-Flop and did not bet
+Seat 2: PR0DIGY (small blind) did not showed and won $100
+Seat 3: 6-7BTC (big blind) folded on the Pre-Flop
+
+
+Hand #1878918694 - Holdem(No Limit) - $25/$50 - 2023/09/30 16:33:44 UTC
+Foosland 4-max Seat #2 is the button
+Seat 1: JohnMcShen ($8474.68)
+Seat 2: PR0DIGY ($5175)
+Seat 3: 6-7BTC ($11473.52)
+6-7BTC posts the small blind $25
+JohnMcShen posts the big blind $50
+*** HOLE CARDS *** 
+PR0DIGY raises $130 to $130
+6-7BTC folds
+JohnMcShen folds
+Uncalled bet ($80) returned to PR0DIGY
+PR0DIGY does not show
+*** SUMMARY ***
+Total pot $125
+Seat 1: JohnMcShen (big blind) folded on the Pre-Flop
+Seat 2: PR0DIGY (button) did not showed and won $125
+Seat 3: 6-7BTC (small blind) folded on the Pre-Flop
+
+
+Hand #1878918996 - Holdem(No Limit) - $25/$50 - 2023/09/30 16:34:07 UTC
+Foosland 4-max Seat #3 is the button
+Seat 1: JohnMcShen ($8424.68)
+Seat 2: PR0DIGY ($5250)
+Seat 3: 6-7BTC ($5000)
+JohnMcShen posts the small blind $25
+PR0DIGY posts the big blind $50
+*** HOLE CARDS *** 
+6-7BTC folds
+JohnMcShen calls $25
+PR0DIGY raises $100 to $150
+JohnMcShen folds
+Uncalled bet ($100) returned to PR0DIGY
+PR0DIGY does not show
+*** SUMMARY ***
+Total pot $100
+Seat 1: JohnMcShen (small blind) folded on the Pre-Flop
+Seat 2: PR0DIGY (big blind) did not showed and won $100
+Seat 3: 6-7BTC (button) folded on the Pre-Flop and did not bet
+
+
+Hand #1878919481 - Holdem(No Limit) - $25/$50 - 2023/09/30 16:34:21 UTC
+Foosland 4-max Seat #1 is the button
+Seat 1: JohnMcShen ($8374.68)
+Seat 2: PR0DIGY ($5300)
+Seat 3: 6-7BTC ($11448.52)
+PR0DIGY posts the small blind $25
+6-7BTC posts the big blind $50
+*** HOLE CARDS *** 
+JohnMcShen raises $125 to $125
+PR0DIGY folds
+6-7BTC folds
+Uncalled bet ($75) returned to JohnMcShen
+JohnMcShen does not show
+*** SUMMARY ***
+Total pot $125
+Seat 1: JohnMcShen (button) did not showed and won $125
+Seat 2: PR0DIGY (small blind) folded on the Pre-Flop
+Seat 3: 6-7BTC (big blind) folded on the Pre-Flop
+
+
+Hand #1878919767 - Holdem(No Limit) - $25/$50 - 2023/09/30 16:34:32 UTC
+Foosland 4-max Seat #2 is the button
+Seat 1: JohnMcShen ($8449.68)
+Seat 2: PR0DIGY ($5000)
+Seat 3: 6-7BTC ($11398.52)
+6-7BTC posts the small blind $25
+JohnMcShen posts the big blind $50
+*** HOLE CARDS *** 
+PR0DIGY folds
+6-7BTC folds
+*** SUMMARY ***
+Total pot $75
+Seat 1: JohnMcShen (big blind) did not showed and won $75
+Seat 2: PR0DIGY (button) folded on the Pre-Flop and did not bet
+Seat 3: 6-7BTC (small blind) folded on the Pre-Flop
+
+
+Hand #1878919971 - Holdem(No Limit) - $25/$50 - 2023/09/30 16:34:43 UTC
+Foosland 4-max Seat #3 is the button
+Seat 1: JohnMcShen ($8474.68)
+Seat 2: PR0DIGY ($5275)
+Seat 3: 6-7BTC ($5000)
+JohnMcShen posts the small blind $25
+PR0DIGY posts the big blind $50
+*** HOLE CARDS *** 
+6-7BTC folds
+JohnMcShen folds
+*** SUMMARY ***
+Total pot $75
+Seat 1: JohnMcShen (small blind) folded on the Pre-Flop
+Seat 2: PR0DIGY (big blind) did not showed and won $75
+Seat 3: 6-7BTC (button) folded on the Pre-Flop and did not bet
+
+
+Hand #1878920213 - Holdem(No Limit) - $25/$50 - 2023/09/30 16:36:09 UTC
+Foosland 4-max Seat #1 is the button
+Seat 1: JohnMcShen ($5000)
+Seat 2: PR0DIGY ($5300)
+Seat 3: 6-7BTC ($11373.52)
+Seat 4: OGORRA ($5000)
+PR0DIGY posts the small blind $25
+6-7BTC posts the big blind $50
+*** HOLE CARDS *** 
+JohnMcShen folds
+PR0DIGY raises $125 to $150
+6-7BTC calls $100
+*** FLOP *** [Ts 3s 2d]
+Main pot $298.25 | Rake $1.75
+PR0DIGY checks
+6-7BTC checks
+*** TURN *** [Ts 3s 2d] [4c]
+Main pot $298.25 | Rake $1.75
+PR0DIGY checks
+6-7BTC checks
+*** RIVER *** [Ts 3s 2d 4c] [7c]
+Main pot $298.25 | Rake $1.75
+PR0DIGY checks
+6-7BTC checks
+*** SUMMARY ***
+Total pot $298.25 | Rake $1.75
+Seat 1: JohnMcShen (button) folded on the Pre-Flop and did not bet
+Seat 2: PR0DIGY (small blind) did not showed and won $298.25
+Seat 3: 6-7BTC (big blind) did not showed and lost
+
+
+Hand #1878921907 - Holdem(No Limit) - $25/$50 - 2023/09/30 16:36:28 UTC
+Foosland 4-max Seat #2 is the button
+Seat 1: JohnMcShen ($5000)
+Seat 2: PR0DIGY ($5000)
+Seat 3: 6-7BTC ($11223.52)
+Seat 4: OGORRA ($2000)
+6-7BTC posts the small blind $25
+OGORRA posts the big blind $50
+*** HOLE CARDS *** 
+JohnMcShen folds
+PR0DIGY folds
+6-7BTC raises $125 to $150
+OGORRA folds
+Uncalled bet ($100) returned to 6-7BTC
+6-7BTC does not show
+*** SUMMARY ***
+Total pot $100
+Seat 1: JohnMcShen folded on the Pre-Flop and did not bet
+Seat 2: PR0DIGY (button) folded on the Pre-Flop and did not bet
+Seat 3: 6-7BTC (small blind) did not showed and won $100
+Seat 4: OGORRA (big blind) folded on the Pre-Flop
+
+
+Hand #1878922233 - Holdem(No Limit) - $25/$50 - 2023/09/30 16:36:52 UTC
+Foosland 4-max Seat #3 is the button
+Seat 1: JohnMcShen ($8449.68)
+Seat 2: PR0DIGY ($5000)
+Seat 3: 6-7BTC ($5000)
+Seat 4: OGORRA ($2000)
+OGORRA posts the small blind $25
+JohnMcShen posts the big blind $50
+*** HOLE CARDS *** 
+PR0DIGY folds
+6-7BTC folds
+OGORRA raises $90 to $115
+JohnMcShen folds
+Uncalled bet ($65) returned to OGORRA
+OGORRA does not show
+*** SUMMARY ***
+Total pot $100
+Seat 1: JohnMcShen (big blind) folded on the Pre-Flop
+Seat 2: PR0DIGY folded on the Pre-Flop and did not bet
+Seat 3: 6-7BTC (button) folded on the Pre-Flop and did not bet
+Seat 4: OGORRA (small blind) did not showed and won $100
+
+
+Hand #1878922716 - Holdem(No Limit) - $25/$50 - 2023/09/30 16:37:31 UTC
+Foosland 4-max Seat #4 is the button
+Seat 1: JohnMcShen ($8399.68)
+Seat 2: PR0DIGY ($5448.25)
+Seat 3: 6-7BTC ($11273.52)
+Seat 4: OGORRA ($2050)
+JohnMcShen posts the small blind $25
+PR0DIGY posts the big blind $50
+*** HOLE CARDS *** 
+6-7BTC raises $112.50 to $112.50
+OGORRA calls $112.50
+JohnMcShen folds
+PR0DIGY raises $550 to $600
+6-7BTC folds
+OGORRA folds
+Uncalled bet ($487.50) returned to PR0DIGY
+PR0DIGY does not show
+*** SUMMARY ***
+Total pot $362.50
+Seat 1: JohnMcShen (small blind) folded on the Pre-Flop
+Seat 2: PR0DIGY (big blind) did not showed and won $362.50
+Seat 3: 6-7BTC folded on the Pre-Flop and did not bet
+Seat 4: OGORRA (button) folded on the Pre-Flop and did not bet
+
+
+Hand #1878923421 - Holdem(No Limit) - $25/$50 - 2023/09/30 16:37:42 UTC
+Foosland 4-max Seat #1 is the button
+Seat 1: JohnMcShen ($5000)
+Seat 2: PR0DIGY ($5698.25)
+Seat 3: 6-7BTC ($11161.02)
+Seat 4: OGORRA ($5000)
+PR0DIGY posts the small blind $25
+6-7BTC posts the big blind $50
+*** HOLE CARDS *** 
+OGORRA folds
+JohnMcShen folds
+PR0DIGY folds
+*** SUMMARY ***
+Total pot $75
+Seat 1: JohnMcShen (button) folded on the Pre-Flop and did not bet
+Seat 2: PR0DIGY (small blind) folded on the Pre-Flop
+Seat 3: 6-7BTC (big blind) did not showed and won $75
+Seat 4: OGORRA folded on the Pre-Flop and did not bet
+
+
+Hand #1878923633 - Holdem(No Limit) - $25/$50 - 2023/09/30 16:37:57 UTC
+Foosland 4-max Seat #2 is the button
+Seat 1: JohnMcShen ($8374.68)
+Seat 2: PR0DIGY ($5673.25)
+Seat 3: 6-7BTC ($11186.02)
+Seat 4: OGORRA ($5000)
+6-7BTC posts the small blind $25
+JohnMcShen posts the big blind $50
+*** HOLE CARDS *** 
+PR0DIGY raises $130 to $130
+6-7BTC folds
+JohnMcShen folds
+Uncalled bet ($80) returned to PR0DIGY
+PR0DIGY does not show
+*** SUMMARY ***
+Total pot $125
+Seat 1: JohnMcShen (big blind) folded on the Pre-Flop
+Seat 2: PR0DIGY (button) did not showed and won $125
+Seat 3: 6-7BTC (small blind) folded on the Pre-Flop
+
+
+Hand #1878923871 - Holdem(No Limit) - $25/$50 - 2023/09/30 16:40:03 UTC
+Foosland 4-max Seat #3 is the button
+Seat 1: JohnMcShen ($8324.68)
+Seat 2: PR0DIGY ($5748.25)
+Seat 3: 6-7BTC ($11161.02)
+Seat 4: InMyPlums ($5000)
+JohnMcShen posts the small blind $25
+PR0DIGY posts the big blind $50
+*** HOLE CARDS *** 
+6-7BTC raises $125 to $125
+JohnMcShen folds
+PR0DIGY calls $75
+*** FLOP *** [Kh 7d 4h]
+Main pot $273.25 | Rake $1.75
+PR0DIGY checks
+6-7BTC bets $68.75
+PR0DIGY raises $187.86 to $187.86
+6-7BTC calls $119.11
+*** TURN *** [Kh 7d 4h] [Kd]
+Main pot $648.97 | Rake $1.75
+PR0DIGY checks
+6-7BTC checks
+*** RIVER *** [Kh 7d 4h Kd] [6c]
+Main pot $648.97 | Rake $1.75
+PR0DIGY checks
+6-7BTC bets $488.04
+PR0DIGY folds
+Uncalled bet ($488.04) returned to 6-7BTC
+6-7BTC does not show
+*** SUMMARY ***
+Total pot $648.97 | Rake $1.75
+Seat 1: JohnMcShen (small blind) folded on the Pre-Flop
+Seat 2: PR0DIGY (big blind) folded on the River
+Seat 3: 6-7BTC (button) did not showed and won $648.97
+
+
+Hand #1878926204 - Holdem(No Limit) - $25/$50 - 2023/09/30 16:40:16 UTC
+Foosland 4-max Seat #1 is the button
+Seat 1: JohnMcShen ($8299.68)
+Seat 2: PR0DIGY ($5435.39)
+Seat 3: 6-7BTC ($11497.13)
+PR0DIGY posts the small blind $25
+6-7BTC posts the big blind $50
+*** HOLE CARDS *** 
+JohnMcShen raises $125 to $125
+PR0DIGY folds
+6-7BTC folds
+Uncalled bet ($75) returned to JohnMcShen
+JohnMcShen does not show
+*** SUMMARY ***
+Total pot $125
+Seat 1: JohnMcShen (button) did not showed and won $125
+Seat 2: PR0DIGY (small blind) folded on the Pre-Flop
+Seat 3: 6-7BTC (big blind) folded on the Pre-Flop
+
+
+Hand #1878926437 - Holdem(No Limit) - $25/$50 - 2023/09/30 16:40:31 UTC
+Foosland 4-max Seat #2 is the button
+Seat 1: JohnMcShen ($8374.68)
+Seat 2: PR0DIGY ($5000)
+Seat 3: 6-7BTC ($11447.13)
+6-7BTC posts the small blind $25
+JohnMcShen posts the big blind $50
+*** HOLE CARDS *** 
+PR0DIGY folds
+6-7BTC raises $100 to $125
+JohnMcShen folds
+Uncalled bet ($75) returned to 6-7BTC
+6-7BTC does not show
+*** SUMMARY ***
+Total pot $100
+Seat 1: JohnMcShen (big blind) folded on the Pre-Flop
+Seat 2: PR0DIGY (button) folded on the Pre-Flop and did not bet
+Seat 3: 6-7BTC (small blind) did not showed and won $100
+
+
+Hand #1878926707 - Holdem(No Limit) - $25/$50 - 2023/09/30 16:40:43 UTC
+Foosland 4-max Seat #3 is the button
+Seat 1: JohnMcShen ($8324.68)
+Seat 2: PR0DIGY ($5410.39)
+Seat 3: 6-7BTC ($11497.13)
+JohnMcShen posts the small blind $25
+PR0DIGY posts the big blind $50
+*** HOLE CARDS *** 
+6-7BTC raises $125 to $125
+JohnMcShen folds
+PR0DIGY folds
+Uncalled bet ($75) returned to 6-7BTC
+6-7BTC does not show
+*** SUMMARY ***
+Total pot $125
+Seat 1: JohnMcShen (small blind) folded on the Pre-Flop
+Seat 2: PR0DIGY (big blind) folded on the Pre-Flop
+Seat 3: 6-7BTC (button) did not showed and won $125
+
+
+Hand #1878926937 - Holdem(No Limit) - $25/$50 - 2023/09/30 16:41:06 UTC
+Foosland 4-max Seat #1 is the button
+Seat 1: JohnMcShen ($8299.68)
+Seat 2: PR0DIGY ($5360.39)
+Seat 3: 6-7BTC ($11572.13)
+PR0DIGY posts the small blind $25
+6-7BTC posts the big blind $50
+*** HOLE CARDS *** 
+JohnMcShen raises $125 to $125
+PR0DIGY raises $475 to $500
+6-7BTC folds
+JohnMcShen folds
+Uncalled bet ($375) returned to PR0DIGY
+PR0DIGY does not show
+*** SUMMARY ***
+Total pot $300
+Seat 1: JohnMcShen (button) folded on the Pre-Flop and did not bet
+Seat 2: PR0DIGY (small blind) did not showed and won $300
+Seat 3: 6-7BTC (big blind) folded on the Pre-Flop
+
+
+Hand #1878927341 - Holdem(No Limit) - $25/$50 - 2023/09/30 16:41:41 UTC
+Foosland 4-max Seat #2 is the button
+Seat 1: JohnMcShen ($8174.68)
+Seat 2: PR0DIGY ($5000)
+Seat 3: 6-7BTC ($11522.13)
+6-7BTC posts the small blind $25
+JohnMcShen posts the big blind $50
+*** HOLE CARDS *** 
+PR0DIGY folds
+6-7BTC raises $125 to $150
+JohnMcShen calls $100
+*** FLOP *** [5d Ad 9h]
+Main pot $298.25 | Rake $1.75
+6-7BTC bets $75
+JohnMcShen raises $411.18 to $411.18
+6-7BTC folds
+Uncalled bet ($336.18) returned to JohnMcShen
+JohnMcShen does not show
+*** SUMMARY ***
+Total pot $448.25 | Rake $1.75
+Seat 1: JohnMcShen (big blind) did not showed and won $448.25
+Seat 2: PR0DIGY (button) folded on the Pre-Flop and did not bet
+Seat 3: 6-7BTC (small blind) folded on the Flop
+
+
+Hand #1878927945 - Holdem(No Limit) - $25/$50 - 2023/09/30 16:43:05 UTC
+Foosland 4-max Seat #3 is the button
+Seat 1: JohnMcShen ($8397.93)
+Seat 2: PR0DIGY ($5535.39)
+Seat 3: 6-7BTC ($11297.13)
+Seat 4: DoublelegTD ($5000)
+JohnMcShen posts the small blind $25
+PR0DIGY posts the big blind $50
+*** HOLE CARDS *** 
+6-7BTC raises $125 to $125
+JohnMcShen folds
+PR0DIGY calls $75
+*** FLOP *** [Th 7h 8c]
+Main pot $273.25 | Rake $1.75
+PR0DIGY checks
+6-7BTC checks
+*** TURN *** [Th 7h 8c] [5d]
+Main pot $273.25 | Rake $1.75
+PR0DIGY checks
+6-7BTC checks
+*** RIVER *** [Th 7h 8c 5d] [7s]
+Main pot $273.25 | Rake $1.75
+PR0DIGY bets $204.93
+6-7BTC calls $204.93
+*** SUMMARY ***
+Total pot $683.11 | Rake $1.75
+Seat 1: JohnMcShen (small blind) folded on the Pre-Flop
+Seat 2: PR0DIGY (big blind) did not showed and lost
+Seat 3: 6-7BTC (button) did not showed and won $683.11
+
+
+Hand #1878929475 - Holdem(No Limit) - $25/$50 - 2023/09/30 16:43:22 UTC
+Foosland 4-max Seat #1 is the button
+Seat 1: JohnMcShen ($8372.93)
+Seat 2: PR0DIGY ($5205.46)
+Seat 3: 6-7BTC ($11650.31)
+Seat 4: DoublelegTD ($5000)
+PR0DIGY posts the small blind $25
+6-7BTC posts the big blind $50
+*** HOLE CARDS *** 
+JohnMcShen raises $125 to $125
+PR0DIGY folds
+6-7BTC folds
+Uncalled bet ($75) returned to JohnMcShen
+JohnMcShen does not show
+*** SUMMARY ***
+Total pot $125
+Seat 1: JohnMcShen (button) did not showed and won $125
+Seat 2: PR0DIGY (small blind) folded on the Pre-Flop
+Seat 3: 6-7BTC (big blind) folded on the Pre-Flop
+
+
+Hand #1878929723 - Holdem(No Limit) - $25/$50 - 2023/09/30 16:44:01 UTC
+Foosland 4-max Seat #2 is the button
+Seat 1: JohnMcShen ($5000)
+Seat 2: PR0DIGY ($5180.46)
+Seat 3: 6-7BTC ($11600.31)
+Seat 4: DoublelegTD ($2000)
+6-7BTC posts the small blind $25
+DoublelegTD posts the big blind $50
+*** HOLE CARDS *** 
+JohnMcShen folds
+PR0DIGY raises $130 to $130
+6-7BTC folds
+DoublelegTD calls $80
+*** FLOP *** [2c 7s Kh]
+Main pot $282.75 | Rake $2.25
+DoublelegTD checks
+PR0DIGY bets $81.99
+DoublelegTD folds
+Uncalled bet ($81.99) returned to PR0DIGY
+PR0DIGY does not show
+*** SUMMARY ***
+Total pot $282.75 | Rake $2.25
+Seat 1: JohnMcShen folded on the Pre-Flop and did not bet
+Seat 2: PR0DIGY (button) did not showed and won $282.75
+Seat 3: 6-7BTC (small blind) folded on the Pre-Flop
+Seat 4: DoublelegTD (big blind) folded on the Flop
+
+
+Hand #1878930401 - Holdem(No Limit) - $25/$50 - 2023/09/30 16:44:18 UTC
+Foosland 4-max Seat #3 is the button
+Seat 1: JohnMcShen ($8447.93)
+Seat 2: PR0DIGY ($5000)
+Seat 3: 6-7BTC ($5000)
+Seat 4: DoublelegTD ($2000)
+DoublelegTD posts the small blind $25
+JohnMcShen posts the big blind $50
+*** HOLE CARDS *** 
+PR0DIGY folds
+6-7BTC folds
+DoublelegTD raises $125 to $150
+JohnMcShen folds
+Uncalled bet ($100) returned to DoublelegTD
+DoublelegTD does not show
+*** SUMMARY ***
+Total pot $100
+Seat 1: JohnMcShen (big blind) folded on the Pre-Flop
+Seat 2: PR0DIGY folded on the Pre-Flop and did not bet
+Seat 3: 6-7BTC (button) folded on the Pre-Flop and did not bet
+Seat 4: DoublelegTD (small blind) did not showed and won $100
+
+
+Hand #1878930714 - Holdem(No Limit) - $25/$50 - 2023/09/30 16:44:35 UTC
+Foosland 4-max Seat #4 is the button
+Seat 1: JohnMcShen ($8397.93)
+Seat 2: PR0DIGY ($5333.21)
+Seat 3: 6-7BTC ($5000)
+Seat 4: DoublelegTD ($5000)
+JohnMcShen posts the small blind $25
+PR0DIGY posts the big blind $50
+*** HOLE CARDS *** 
+6-7BTC folds
+DoublelegTD raises $150 to $150
+JohnMcShen folds
+PR0DIGY folds
+Uncalled bet ($100) returned to DoublelegTD
+DoublelegTD does not show
+*** SUMMARY ***
+Total pot $125
+Seat 1: JohnMcShen (small blind) folded on the Pre-Flop
+Seat 2: PR0DIGY (big blind) folded on the Pre-Flop
+Seat 3: 6-7BTC folded on the Pre-Flop and did not bet
+Seat 4: DoublelegTD (button) did not showed and won $125
+
+
+Hand #1878930966 - Holdem(No Limit) - $25/$50 - 2023/09/30 16:44:55 UTC
+Foosland 4-max Seat #1 is the button
+Seat 1: JohnMcShen ($8372.93)
+Seat 2: PR0DIGY ($5283.21)
+Seat 3: 6-7BTC ($11575.31)
+Seat 4: DoublelegTD ($5000)
+PR0DIGY posts the small blind $25
+6-7BTC posts the big blind $50
+*** HOLE CARDS *** 
+DoublelegTD folds
+JohnMcShen raises $125 to $125
+PR0DIGY folds
+6-7BTC folds
+Uncalled bet ($75) returned to JohnMcShen
+JohnMcShen does not show
+*** SUMMARY ***
+Total pot $125
+Seat 1: JohnMcShen (button) did not showed and won $125
+Seat 2: PR0DIGY (small blind) folded on the Pre-Flop
+Seat 3: 6-7BTC (big blind) folded on the Pre-Flop
+Seat 4: DoublelegTD folded on the Pre-Flop and did not bet
+
+
+Hand #1878931307 - Holdem(No Limit) - $25/$50 - 2023/09/30 16:45:14 UTC
+Foosland 4-max Seat #2 is the button
+Seat 1: JohnMcShen ($8447.93)
+Seat 2: PR0DIGY ($5258.21)
+Seat 3: 6-7BTC ($11525.31)
+Seat 4: DoublelegTD ($5000)
+6-7BTC posts the small blind $25
+JohnMcShen posts the big blind $50
+*** HOLE CARDS *** 
+PR0DIGY raises $130 to $130
+6-7BTC folds
+JohnMcShen folds
+Uncalled bet ($80) returned to PR0DIGY
+PR0DIGY does not show
+*** SUMMARY ***
+Total pot $125
+Seat 1: JohnMcShen (big blind) folded on the Pre-Flop
+Seat 2: PR0DIGY (button) did not showed and won $125
+Seat 3: 6-7BTC (small blind) folded on the Pre-Flop
+
+
+Hand #1878931638 - Holdem(No Limit) - $25/$50 - 2023/09/30 16:45:23 UTC
+Foosland 4-max Seat #3 is the button
+Seat 1: JohnMcShen ($8397.93)
+Seat 2: PR0DIGY ($5333.21)
+Seat 3: 6-7BTC ($5000)
+Seat 4: DoublelegTD ($5000)
+JohnMcShen posts the small blind $25
+PR0DIGY posts the big blind $50
+*** HOLE CARDS *** 
+6-7BTC folds
+JohnMcShen folds
+*** SUMMARY ***
+Total pot $75
+Seat 1: JohnMcShen (small blind) folded on the Pre-Flop
+Seat 2: PR0DIGY (big blind) did not showed and won $75
+Seat 3: 6-7BTC (button) folded on the Pre-Flop and did not bet
+
+
+Hand #1878931807 - Holdem(No Limit) - $25/$50 - 2023/09/30 16:45:32 UTC
+Foosland 4-max Seat #1 is the button
+Seat 1: JohnMcShen ($5000)
+Seat 2: PR0DIGY ($5358.21)
+Seat 3: 6-7BTC ($11500.31)
+PR0DIGY posts the small blind $25
+6-7BTC posts the big blind $50
+*** HOLE CARDS *** 
+JohnMcShen folds
+PR0DIGY folds
+*** SUMMARY ***
+Total pot $75
+Seat 1: JohnMcShen (button) folded on the Pre-Flop and did not bet
+Seat 2: PR0DIGY (small blind) folded on the Pre-Flop
+Seat 3: 6-7BTC (big blind) did not showed and won $75
+
+
+Hand #1878931967 - Holdem(No Limit) - $25/$50 - 2023/09/30 16:46:48 UTC
+Foosland 4-max Seat #2 is the button
+Seat 1: JohnMcShen ($8372.93)
+Seat 2: PR0DIGY ($5333.21)
+Seat 3: 6-7BTC ($11525.31)
+6-7BTC posts the small blind $25
+JohnMcShen posts the big blind $50
+*** HOLE CARDS *** 
+PR0DIGY raises $130 to $130
+6-7BTC folds
+JohnMcShen calls $80
+*** FLOP *** [2h 9c Qs]
+Main pot $283.25 | Rake $1.75
+JohnMcShen checks
+PR0DIGY bets $82.14
+JohnMcShen calls $82.14
+*** TURN *** [2h 9c Qs] [Tc]
+Main pot $447.53 | Rake $1.75
+JohnMcShen checks
+PR0DIGY bets $335.64
+JohnMcShen calls $335.64
+*** RIVER *** [2h 9c Qs Tc] [5c]
+Main pot $1118.81 | Rake $1.75
+JohnMcShen checks
+PR0DIGY checks
+*** SUMMARY ***
+Total pot $1118.81 | Rake $1.75
+Seat 1: JohnMcShen (big blind) did not showed and won $1118.81
+Seat 2: PR0DIGY (button) did not showed and lost
+Seat 3: 6-7BTC (small blind) folded on the Pre-Flop
+
+
+Hand #1878933304 - Holdem(No Limit) - $25/$50 - 2023/09/30 16:47:17 UTC
+Foosland 4-max Seat #3 is the button
+Seat 1: JohnMcShen ($8943.96)
+Seat 2: PR0DIGY ($5000)
+Seat 3: 6-7BTC ($5000)
+JohnMcShen posts the small blind $25
+PR0DIGY posts the big blind $50
+*** HOLE CARDS *** 
+6-7BTC folds
+JohnMcShen calls $25
+PR0DIGY raises $100 to $150
+JohnMcShen folds
+Uncalled bet ($100) returned to PR0DIGY
+PR0DIGY does not show
+*** SUMMARY ***
+Total pot $100
+Seat 1: JohnMcShen (small blind) folded on the Pre-Flop
+Seat 2: PR0DIGY (big blind) did not showed and won $100
+Seat 3: 6-7BTC (button) folded on the Pre-Flop and did not bet
+
+
+Hand #1878933771 - Holdem(No Limit) - $25/$50 - 2023/09/30 16:49:05 UTC
+Foosland 4-max Seat #1 is the button
+Seat 1: JohnMcShen ($5000)
+Seat 2: PR0DIGY ($5050)
+Seat 3: 6-7BTC ($11500.31)
+PR0DIGY posts the small blind $25
+6-7BTC posts the big blind $50
+*** HOLE CARDS *** 
+JohnMcShen folds
+PR0DIGY raises $125 to $150
+6-7BTC calls $100
+*** FLOP *** [6h Jc Ah]
+Main pot $298.25 | Rake $1.75
+PR0DIGY bets $50
+6-7BTC calls $50
+*** TURN *** [6h Jc Ah] [4h]
+Main pot $398.25 | Rake $1.75
+PR0DIGY bets $298.68
+6-7BTC calls $298.68
+*** RIVER *** [6h Jc Ah 4h] [9d]
+Main pot $995.61 | Rake $1.75
+PR0DIGY bets $1493.41
+6-7BTC calls $1493.41
+*** SUMMARY ***
+Total pot $3982.43 | Rake $1.75
+Seat 1: JohnMcShen (button) folded on the Pre-Flop and did not bet
+Seat 2: PR0DIGY (small blind) did not showed and won $3982.43
+Seat 3: 6-7BTC (big blind) did not showed and lost
+
+
+Hand #1878935629 - Holdem(No Limit) - $25/$50 - 2023/09/30 16:49:58 UTC
+Foosland 4-max Seat #2 is the button
+Seat 1: JohnMcShen ($8893.96)
+Seat 2: PR0DIGY ($5000)
+Seat 3: 6-7BTC ($9508.22)
+6-7BTC posts the small blind $25
+JohnMcShen posts the big blind $50
+*** HOLE CARDS *** 
+PR0DIGY folds
+6-7BTC raises $100 to $125
+JohnMcShen calls $75
+*** FLOP *** [Qd 3s Jd]
+Main pot $248.25 | Rake $1.75
+6-7BTC bets $62.50
+JohnMcShen calls $62.50
+*** TURN *** [Qd 3s Jd] [6h]
+Main pot $373.25 | Rake $1.75
+6-7BTC bets $525
+JohnMcShen folds
+Uncalled bet ($525) returned to 6-7BTC
+6-7BTC does not show
+*** SUMMARY ***
+Total pot $373.25 | Rake $1.75
+Seat 1: JohnMcShen (big blind) folded on the Turn
+Seat 2: PR0DIGY (button) folded on the Pre-Flop and did not bet
+Seat 3: 6-7BTC (small blind) did not showed and won $373.25
+
+
+Hand #1878936515 - Holdem(No Limit) - $25/$50 - 2023/09/30 16:52:29 UTC
+Foosland 4-max Seat #3 is the button
+Seat 1: JohnMcShen ($8706.46)
+Seat 2: PR0DIGY ($7040.34)
+Seat 3: 6-7BTC ($9693.97)
+Seat 4: RiverFoldsInU ($5000)
+JohnMcShen posts the small blind $25
+PR0DIGY posts the big blind $50
+*** HOLE CARDS *** 
+6-7BTC raises $125 to $125
+JohnMcShen raises $525 to $550
+PR0DIGY folds
+6-7BTC calls $425
+*** FLOP *** [8s 7d 3c]
+Main pot $1148.25 | Rake $1.75
+JohnMcShen bets $861.18
+6-7BTC calls $861.18
+*** TURN *** [8s 7d 3c] [Qh]
+Main pot $2870.61 | Rake $1.75
+JohnMcShen bets $1710.30
+6-7BTC calls $1710.30
+*** RIVER *** [8s 7d 3c Qh] [5h]
+Main pot $6291.21 | Rake $1.75
+JohnMcShen bets $5584.98 and is all-in
+6-7BTC folds
+Uncalled bet ($5584.98) returned to JohnMcShen
+JohnMcShen does not show
+*** SUMMARY ***
+Total pot $6291.21 | Rake $1.75
+Seat 1: JohnMcShen (small blind) did not showed and won $6291.21
+Seat 2: PR0DIGY (big blind) folded on the Pre-Flop
+Seat 3: 6-7BTC (button) folded on the River
+
+
+Hand #1878939040 - Holdem(No Limit) - $25/$50 - 2023/09/30 16:52:45 UTC
+Foosland 4-max Seat #1 is the button
+Seat 1: JohnMcShen ($11876.19)
+Seat 2: PR0DIGY ($6990.34)
+Seat 3: 6-7BTC ($6572.49)
+Seat 4: RiverFoldsInU ($5000)
+PR0DIGY posts the small blind $25
+6-7BTC posts the big blind $50
+*** HOLE CARDS *** 
+JohnMcShen raises $125 to $125
+PR0DIGY folds
+6-7BTC folds
+Uncalled bet ($75) returned to JohnMcShen
+JohnMcShen does not show
+*** SUMMARY ***
+Total pot $125
+Seat 1: JohnMcShen (button) did not showed and won $125
+Seat 2: PR0DIGY (small blind) folded on the Pre-Flop
+Seat 3: 6-7BTC (big blind) folded on the Pre-Flop
+
+
+Hand #1878939291 - Holdem(No Limit) - $25/$50 - 2023/09/30 16:55:21 UTC
+Foosland 4-max Seat #2 is the button
+Seat 1: JohnMcShen ($11951.19)
+Seat 2: PR0DIGY ($5000)
+Seat 3: 6-7BTC ($6522.49)
+Seat 4: RiverFoldsInU ($2000)
+6-7BTC posts the small blind $25
+RiverFoldsInU posts the big blind $50
+*** HOLE CARDS *** 
+JohnMcShen raises $110 to $110
+PR0DIGY folds
+6-7BTC raises $500 to $525
+RiverFoldsInU folds
+JohnMcShen calls $415
+*** FLOP *** [Kc 7c 5c]
+Main pot $1097.75 | Rake $2.25
+6-7BTC bets $125
+JohnMcShen calls $125
+*** TURN *** [Kc 7c 5c] [As]
+Main pot $1347.75 | Rake $2.25
+6-7BTC checks
+JohnMcShen bets $1010.81
+6-7BTC calls $1010.81
+*** RIVER *** [Kc 7c 5c As] [Jc]
+Main pot $3369.37 | Rake $2.25
+6-7BTC checks
+JohnMcShen bets $2527.02
+6-7BTC folds
+Uncalled bet ($2527.02) returned to JohnMcShen
+JohnMcShen does not show
+*** SUMMARY ***
+Total pot $3369.37 | Rake $2.25
+Seat 1: JohnMcShen did not showed and won $3369.37
+Seat 2: PR0DIGY (button) folded on the Pre-Flop and did not bet
+Seat 3: 6-7BTC (small blind) folded on the River
+Seat 4: RiverFoldsInU (big blind) folded on the Pre-Flop
+
+
+Hand #1878941698 - Holdem(No Limit) - $25/$50 - 2023/09/30 16:55:38 UTC
+Foosland 4-max Seat #3 is the button
+Seat 1: JohnMcShen ($13659.75)
+Seat 2: PR0DIGY ($6965.34)
+Seat 3: 6-7BTC ($5000)
+Seat 4: RiverFoldsInU ($2000)
+RiverFoldsInU posts the small blind $25
+JohnMcShen posts the big blind $50
+*** HOLE CARDS *** 
+PR0DIGY raises $105 to $105
+6-7BTC folds
+RiverFoldsInU folds
+JohnMcShen folds
+Uncalled bet ($55) returned to PR0DIGY
+PR0DIGY does not show
+*** SUMMARY ***
+Total pot $125
+Seat 1: JohnMcShen (big blind) folded on the Pre-Flop
+Seat 2: PR0DIGY did not showed and won $125
+Seat 3: 6-7BTC (button) folded on the Pre-Flop and did not bet
+Seat 4: RiverFoldsInU (small blind) folded on the Pre-Flop
+
+
+Hand #1878941799 - Holdem(No Limit) - $25/$50 - 2023/09/30 16:56:42 UTC
+Foosland 4-max Seat #4 is the button
+Seat 1: JohnMcShen ($13609.75)
+Seat 2: PR0DIGY ($7040.34)
+Seat 3: 6-7BTC ($5000)
+Seat 4: RiverFoldsInU ($5000)
+JohnMcShen posts the small blind $25
+PR0DIGY posts the big blind $50
+*** HOLE CARDS *** 
+6-7BTC folds
+RiverFoldsInU folds
+JohnMcShen calls $25
+PR0DIGY checks
+*** FLOP *** [5d 7h Ad]
+Main pot $97.75 | Rake $2.25
+JohnMcShen checks
+PR0DIGY checks
+*** TURN *** [5d 7h Ad] [Qd]
+Main pot $97.75 | Rake $2.25
+JohnMcShen checks
+PR0DIGY checks
+*** RIVER *** [5d 7h Ad Qd] [As]
+Main pot $97.75 | Rake $2.25
+JohnMcShen checks
+PR0DIGY checks
+*** SUMMARY ***
+Total pot $97.75 | Rake $2.25
+Seat 1: JohnMcShen (small blind) did not showed and won $48.88
+Seat 2: PR0DIGY (big blind) did not showed and won $48.87
+Seat 3: 6-7BTC folded on the Pre-Flop and did not bet
+Seat 4: RiverFoldsInU (button) folded on the Pre-Flop and did not bet
+
+
+Hand #1878942188 - Holdem(No Limit) - $25/$50 - 2023/09/30 16:57:26 UTC
+Foosland 4-max Seat #1 is the button
+Seat 1: JohnMcShen ($5000)
+Seat 2: PR0DIGY ($7039.21)
+Seat 3: 6-7BTC ($5000)
+Seat 4: RiverFoldsInU ($2000)
+PR0DIGY posts the small blind $25
+6-7BTC posts the big blind $50
+*** HOLE CARDS *** 
+RiverFoldsInU raises $110 to $110
+JohnMcShen folds
+PR0DIGY folds
+6-7BTC calls $60
+*** FLOP *** [Kh Jd 8d]
+Main pot $242.75 | Rake $2.25
+6-7BTC checks
+RiverFoldsInU bets $61.25
+6-7BTC folds
+Uncalled bet ($61.25) returned to RiverFoldsInU
+RiverFoldsInU does not show
+*** SUMMARY ***
+Total pot $242.75 | Rake $2.25
+Seat 1: JohnMcShen (button) folded on the Pre-Flop and did not bet
+Seat 2: PR0DIGY (small blind) folded on the Pre-Flop
+Seat 3: 6-7BTC (big blind) folded on the Flop
+Seat 4: RiverFoldsInU did not showed and won $242.75
+
+
+Hand #1878942421 - Holdem(No Limit) - $25/$50 - 2023/09/30 16:58:42 UTC
+Foosland 4-max Seat #2 is the button
+Seat 1: JohnMcShen ($13608.63)
+Seat 2: PR0DIGY ($7014.21)
+Seat 3: 6-7BTC ($5000)
+Seat 4: RiverFoldsInU ($5000)
+6-7BTC posts the small blind $25
+JohnMcShen posts the big blind $50
+*** HOLE CARDS *** 
+PR0DIGY raises $130 to $130
+6-7BTC folds
+JohnMcShen calls $80
+*** FLOP *** [4d 7d 6s]
+Main pot $283.25 | Rake $1.75
+JohnMcShen checks
+PR0DIGY checks
+*** TURN *** [4d 7d 6s] [Jd]
+Main pot $283.25 | Rake $1.75
+JohnMcShen checks
+PR0DIGY bets $141.62
+JohnMcShen raises $708.11 to $708.11
+PR0DIGY folds
+Uncalled bet ($566.49) returned to JohnMcShen
+JohnMcShen does not show
+*** SUMMARY ***
+Total pot $566.49 | Rake $1.75
+Seat 1: JohnMcShen (big blind) did not showed and won $566.49
+Seat 2: PR0DIGY (button) folded on the Turn
+Seat 3: 6-7BTC (small blind) folded on the Pre-Flop
+
+
+Hand #1878942846 - Holdem(No Limit) - $25/$50 - 2023/09/30 16:59:15 UTC
+Foosland 4-max Seat #3 is the button
+Seat 1: JohnMcShen ($13903.50)
+Seat 2: PR0DIGY ($6742.59)
+Seat 3: 6-7BTC ($5000)
+JohnMcShen posts the small blind $25
+PR0DIGY posts the big blind $50
+*** HOLE CARDS *** 
+6-7BTC raises $125 to $125
+JohnMcShen calls $100
+PR0DIGY folds
+*** FLOP *** [9d 6c 3d]
+Main pot $298.25 | Rake $1.75
+JohnMcShen checks
+6-7BTC bets $100
+JohnMcShen folds
+Uncalled bet ($100) returned to 6-7BTC
+6-7BTC does not show
+*** SUMMARY ***
+Total pot $298.25 | Rake $1.75
+Seat 1: JohnMcShen (small blind) folded on the Flop
+Seat 2: PR0DIGY (big blind) folded on the Pre-Flop
+Seat 3: 6-7BTC (button) did not showed and won $298.25
+
+
+Hand #1878943013 - Holdem(No Limit) - $25/$50 - 2023/09/30 17:00:27 UTC
+Foosland 4-max Seat #1 is the button
+Seat 1: JohnMcShen ($13778.50)
+Seat 2: PR0DIGY ($6692.59)
+Seat 3: 6-7BTC ($5173.25)
+PR0DIGY posts the small blind $25
+6-7BTC posts the big blind $50
+*** HOLE CARDS *** 
+JohnMcShen raises $125 to $125
+PR0DIGY folds
+6-7BTC calls $75
+*** FLOP *** [6c Jd 9s]
+Main pot $273.25 | Rake $1.75
+6-7BTC checks
+JohnMcShen bets $136.62
+6-7BTC calls $136.62
+*** TURN *** [6c Jd 9s] [Ac]
+Main pot $546.49 | Rake $1.75
+6-7BTC checks
+JohnMcShen checks
+*** RIVER *** [6c Jd 9s Ac] [3s]
+Main pot $546.49 | Rake $1.75
+6-7BTC bets $137.06
+JohnMcShen calls $137.06
+*** SUMMARY ***
+Total pot $820.61 | Rake $1.75
+Seat 1: JohnMcShen (button) did not showed and won $410.30
+Seat 2: PR0DIGY (small blind) folded on the Pre-Flop
+Seat 3: 6-7BTC (big blind) did not showed and won $410.31
+
+
+Hand #1878943435 - Holdem(No Limit) - $25/$50 - 2023/09/30 17:00:45 UTC
+Foosland 4-max Seat #2 is the button
+Seat 1: JohnMcShen ($13790.12)
+Seat 2: PR0DIGY ($5000)
+Seat 3: 6-7BTC ($5184.88)
+6-7BTC posts the small blind $25
+JohnMcShen posts the big blind $50
+*** HOLE CARDS *** 
+PR0DIGY folds
+6-7BTC raises $125 to $150
+JohnMcShen folds
+Uncalled bet ($100) returned to 6-7BTC
+6-7BTC does not show
+*** SUMMARY ***
+Total pot $100
+Seat 1: JohnMcShen (big blind) folded on the Pre-Flop
+Seat 2: PR0DIGY (button) folded on the Pre-Flop and did not bet
+Seat 3: 6-7BTC (small blind) did not showed and won $100
+
+
+Hand #1878943578 - Holdem(No Limit) - $25/$50 - 2023/09/30 17:01:07 UTC
+Foosland 4-max Seat #3 is the button
+Seat 1: JohnMcShen ($13740.12)
+Seat 2: PR0DIGY ($6667.59)
+Seat 3: 6-7BTC ($5234.88)
+JohnMcShen posts the small blind $25
+PR0DIGY posts the big blind $50
+*** HOLE CARDS *** 
+6-7BTC raises $125 to $125
+JohnMcShen raises $525 to $550
+PR0DIGY folds
+6-7BTC folds
+Uncalled bet ($425) returned to JohnMcShen
+JohnMcShen does not show
+*** SUMMARY ***
+Total pot $300
+Seat 1: JohnMcShen (small blind) did not showed and won $300
+Seat 2: PR0DIGY (big blind) folded on the Pre-Flop
+Seat 3: 6-7BTC (button) folded on the Pre-Flop and did not bet
+
+
+Hand #1878943790 - Holdem(No Limit) - $25/$50 - 2023/09/30 17:01:19 UTC
+Foosland 4-max Seat #1 is the button
+Seat 1: JohnMcShen ($5000)
+Seat 2: PR0DIGY ($6617.59)
+Seat 3: 6-7BTC ($5109.88)
+PR0DIGY posts the small blind $25
+6-7BTC posts the big blind $50
+*** HOLE CARDS *** 
+JohnMcShen folds
+PR0DIGY folds
+*** SUMMARY ***
+Total pot $75
+Seat 1: JohnMcShen (button) folded on the Pre-Flop and did not bet
+Seat 2: PR0DIGY (small blind) folded on the Pre-Flop
+Seat 3: 6-7BTC (big blind) did not showed and won $75
+
+
+Hand #1878943893 - Holdem(No Limit) - $25/$50 - 2023/09/30 17:01:30 UTC
+Foosland 4-max Seat #2 is the button
+Seat 1: JohnMcShen ($13915.12)
+Seat 2: PR0DIGY ($5000)
+Seat 3: 6-7BTC ($5134.88)
+6-7BTC posts the small blind $25
+JohnMcShen posts the big blind $50
+*** HOLE CARDS *** 
+PR0DIGY folds
+6-7BTC folds
+*** SUMMARY ***
+Total pot $75
+Seat 1: JohnMcShen (big blind) did not showed and won $75
+Seat 2: PR0DIGY (button) folded on the Pre-Flop and did not bet
+Seat 3: 6-7BTC (small blind) folded on the Pre-Flop
+
+
+Hand #1878944158 - Holdem(No Limit) - $25/$50 - 2023/09/30 17:03:03 UTC
+Foosland 4-max Seat #3 is the button
+Seat 1: JohnMcShen ($13940.12)
+Seat 2: PR0DIGY ($6592.59)
+Seat 3: 6-7BTC ($5109.88)
+JohnMcShen posts the small blind $25
+PR0DIGY posts the big blind $50
+*** HOLE CARDS *** 
+6-7BTC raises $125 to $125
+JohnMcShen raises $525 to $550
+PR0DIGY folds
+6-7BTC calls $425
+*** FLOP *** [3s 4s 8h]
+Main pot $1148.25 | Rake $1.75
+JohnMcShen checks
+6-7BTC checks
+*** TURN *** [3s 4s 8h] [9h]
+Main pot $1148.25 | Rake $1.75
+JohnMcShen checks
+6-7BTC bets $287.50
+JohnMcShen folds
+Uncalled bet ($287.50) returned to 6-7BTC
+6-7BTC does not show
+*** SUMMARY ***
+Total pot $1148.25 | Rake $1.75
+Seat 1: JohnMcShen (small blind) folded on the Turn
+Seat 2: PR0DIGY (big blind) folded on the Pre-Flop
+Seat 3: 6-7BTC (button) did not showed and won $1148.25
+
+
+Hand #1878945525 - Holdem(No Limit) - $25/$50 - 2023/09/30 17:03:12 UTC
+Foosland 4-max Seat #1 is the button
+Seat 1: JohnMcShen ($5000)
+Seat 2: PR0DIGY ($6542.59)
+Seat 3: 6-7BTC ($5708.13)
+PR0DIGY posts the small blind $25
+6-7BTC posts the big blind $50
+*** HOLE CARDS *** 
+JohnMcShen folds
+PR0DIGY folds
+*** SUMMARY ***
+Total pot $75
+Seat 1: JohnMcShen (button) folded on the Pre-Flop and did not bet
+Seat 2: PR0DIGY (small blind) folded on the Pre-Flop
+Seat 3: 6-7BTC (big blind) did not showed and won $75
+
+
+Hand #1878945654 - Holdem(No Limit) - $25/$50 - 2023/09/30 17:03:23 UTC
+Foosland 4-max Seat #2 is the button
+Seat 1: JohnMcShen ($13390.12)
+Seat 2: PR0DIGY ($5000)
+Seat 3: 6-7BTC ($5733.13)
+6-7BTC posts the small blind $25
+JohnMcShen posts the big blind $50
+*** HOLE CARDS *** 
+PR0DIGY folds
+6-7BTC folds
+*** SUMMARY ***
+Total pot $75
+Seat 1: JohnMcShen (big blind) did not showed and won $75
+Seat 2: PR0DIGY (button) folded on the Pre-Flop and did not bet
+Seat 3: 6-7BTC (small blind) folded on the Pre-Flop
+
+
+Hand #1878945813 - Holdem(No Limit) - $25/$50 - 2023/09/30 17:03:34 UTC
+Foosland 4-max Seat #3 is the button
+Seat 1: JohnMcShen ($13415.12)
+Seat 2: PR0DIGY ($5000)
+Seat 3: 6-7BTC ($5708.13)
+JohnMcShen posts the small blind $25
+6-7BTC posts the big blind $50
+*** HOLE CARDS *** 
+JohnMcShen folds
+*** SUMMARY ***
+Total pot $75
+Seat 1: JohnMcShen (small blind) folded on the Pre-Flop
+Seat 3: 6-7BTC (big blind) did not showed and won $75
+
+
+Hand #1878946023 - Holdem(No Limit) - $25/$50 - 2023/09/30 17:04:02 UTC
+Foosland 4-max Seat #3 is the button
+Seat 1: JohnMcShen ($13390.12)
+Seat 2: PR0DIGY ($5000)
+Seat 3: 6-7BTC ($5733.13)
+6-7BTC posts the small blind $25
+JohnMcShen posts the big blind $50
+*** HOLE CARDS *** 
+6-7BTC raises $91 to $116
+JohnMcShen raises $475 to $525
+6-7BTC folds
+Uncalled bet ($409) returned to JohnMcShen
+JohnMcShen does not show
+*** SUMMARY ***
+Total pot $232
+Seat 1: JohnMcShen (big blind) did not showed and won $232
+Seat 3: 6-7BTC (small blind) folded on the Pre-Flop
+
+
+Hand #1878946490 - Holdem(No Limit) - $25/$50 - 2023/09/30 17:05:01 UTC
+Foosland 4-max Seat #1 is the button
+Seat 1: JohnMcShen ($13506.12)
+Seat 2: PR0DIGY ($5000)
+Seat 3: 6-7BTC ($5617.13)
+JohnMcShen posts the small blind $25
+6-7BTC posts the big blind $50
+*** HOLE CARDS *** 
+JohnMcShen raises $100 to $125
+6-7BTC calls $75
+*** FLOP *** [6c Ac 7d]
+Main pot $248.75 | Rake $1.25
+6-7BTC checks
+JohnMcShen checks
+*** TURN *** [6c Ac 7d] [6h]
+Main pot $248.75 | Rake $1.25
+6-7BTC checks
+JohnMcShen checks
+*** RIVER *** [6c Ac 7d 6h] [Kc]
+Main pot $248.75 | Rake $1.25
+6-7BTC checks
+JohnMcShen checks
+*** SUMMARY ***
+Total pot $248.75 | Rake $1.25
+Seat 1: JohnMcShen (small blind) did not showed and won $248.75
+Seat 3: 6-7BTC (big blind) did not showed and lost
+
+
+Hand #1879074250 - Holdem(No Limit) - $25/$50 - 2023/09/30 18:49:15 UTC
+Foosland 4-max Seat #2 is the button
+Seat 2: loliufg ($2000)
+Seat 4: PR0DIGY ($5000)
+loliufg posts the small blind $25
+PR0DIGY posts the big blind $50
+*** HOLE CARDS *** 
+loliufg raises $100 to $125
+PR0DIGY folds
+Uncalled bet ($75) returned to loliufg
+loliufg does not show
+*** SUMMARY ***
+Total pot $100
+Seat 2: loliufg (small blind) did not showed and won $100
+Seat 4: PR0DIGY (big blind) folded on the Pre-Flop
+
+
+Hand #1879074570 - Holdem(No Limit) - $25/$50 - 2023/09/30 18:50:00 UTC
+Foosland 4-max Seat #4 is the button
+Seat 2: loliufg ($2050)
+Seat 4: PR0DIGY ($5000)
+PR0DIGY posts the small blind $25
+loliufg posts the big blind $50
+*** HOLE CARDS *** 
+PR0DIGY raises $80 to $105
+loliufg calls $55
+*** FLOP *** [8h Qs Ts]
+Main pot $208.75 | Rake $1.25
+loliufg checks
+PR0DIGY bets $83.50
+loliufg folds
+Uncalled bet ($83.50) returned to PR0DIGY
+PR0DIGY does not show
+*** SUMMARY ***
+Total pot $208.75 | Rake $1.25
+Seat 2: loliufg (big blind) folded on the Flop
+Seat 4: PR0DIGY (small blind) did not showed and won $208.75
+
+
+Hand #1879144105 - Holdem(No Limit) - $25/$50 - 2023/09/30 19:39:09 UTC
+Foosland 4-max Seat #4 is the button
+Seat 2: JohnMcShen ($5000)
+Seat 4: PR0DIGY ($5103.75)
+PR0DIGY posts the small blind $25
+JohnMcShen posts the big blind $50
+*** HOLE CARDS *** 
+PR0DIGY raises $105 to $130
+JohnMcShen raises $475 to $525
+PR0DIGY folds
+Uncalled bet ($395) returned to JohnMcShen
+JohnMcShen does not show
+*** SUMMARY ***
+Total pot $260
+Seat 2: JohnMcShen (big blind) did not showed and won $260
+Seat 4: PR0DIGY (small blind) folded on the Pre-Flop
+
+
+Hand #1879145104 - Holdem(No Limit) - $25/$50 - 2023/09/30 19:39:40 UTC
+Foosland 4-max Seat #4 is the button
+Seat 2: JohnMcShen ($5130)
+Seat 4: PR0DIGY ($5000)
+PR0DIGY posts the small blind $25
+JohnMcShen posts the big blind $50
+*** HOLE CARDS *** 
+PR0DIGY raises $105 to $130
+JohnMcShen folds
+Uncalled bet ($80) returned to PR0DIGY
+PR0DIGY does not show
+*** SUMMARY ***
+Total pot $100
+Seat 2: JohnMcShen (big blind) folded on the Pre-Flop
+Seat 4: PR0DIGY (small blind) did not showed and won $100
+
+
+Hand #1879145551 - Holdem(No Limit) - $25/$50 - 2023/09/30 19:39:54 UTC
+Foosland 4-max Seat #2 is the button
+Seat 2: JohnMcShen ($5080)
+Seat 4: PR0DIGY ($5050)
+JohnMcShen posts the small blind $25
+PR0DIGY posts the big blind $50
+*** HOLE CARDS *** 
+JohnMcShen raises $100 to $125
+PR0DIGY folds
+Uncalled bet ($75) returned to JohnMcShen
+JohnMcShen does not show
+*** SUMMARY ***
+Total pot $100
+Seat 2: JohnMcShen (small blind) did not showed and won $100
+Seat 4: PR0DIGY (big blind) folded on the Pre-Flop
+
+
+Hand #1879145919 - Holdem(No Limit) - $25/$50 - 2023/09/30 19:40:06 UTC
+Foosland 4-max Seat #4 is the button
+Seat 2: JohnMcShen ($5130)
+Seat 4: PR0DIGY ($5000)
+PR0DIGY posts the small blind $25
+JohnMcShen posts the big blind $50
+*** HOLE CARDS *** 
+PR0DIGY raises $105 to $130
+JohnMcShen folds
+Uncalled bet ($80) returned to PR0DIGY
+PR0DIGY does not show
+*** SUMMARY ***
+Total pot $100
+Seat 2: JohnMcShen (big blind) folded on the Pre-Flop
+Seat 4: PR0DIGY (small blind) did not showed and won $100
+
+
+Hand #1879146244 - Holdem(No Limit) - $25/$50 - 2023/09/30 19:40:20 UTC
+Foosland 4-max Seat #2 is the button
+Seat 2: JohnMcShen ($5080)
+Seat 4: PR0DIGY ($5050)
+JohnMcShen posts the small blind $25
+PR0DIGY posts the big blind $50
+*** HOLE CARDS *** 
+JohnMcShen raises $100 to $125
+PR0DIGY folds
+Uncalled bet ($75) returned to JohnMcShen
+JohnMcShen does not show
+*** SUMMARY ***
+Total pot $100
+Seat 2: JohnMcShen (small blind) did not showed and won $100
+Seat 4: PR0DIGY (big blind) folded on the Pre-Flop
+
+
+Hand #1879146598 - Holdem(No Limit) - $25/$50 - 2023/09/30 19:42:09 UTC
+Foosland 4-max Seat #4 is the button
+Seat 2: JohnMcShen ($5130)
+Seat 4: PR0DIGY ($5000)
+PR0DIGY posts the small blind $25
+JohnMcShen posts the big blind $50
+*** HOLE CARDS *** 
+PR0DIGY raises $105 to $130
+JohnMcShen raises $475 to $525
+PR0DIGY calls $395
+*** FLOP *** [9h 5s 3h]
+Main pot $1048.75 | Rake $1.25
+JohnMcShen checks
+PR0DIGY checks
+*** TURN *** [9h 5s 3h] [5d]
+Main pot $1048.75 | Rake $1.25
+JohnMcShen bets $275
+PR0DIGY calls $275
+*** RIVER *** [9h 5s 3h 5d] [4s]
+Main pot $1598.75 | Rake $1.25
+JohnMcShen bets $1199.06
+PR0DIGY calls $1199.06
+*** SUMMARY ***
+Total pot $3996.87 | Rake $1.25
+Seat 2: JohnMcShen (big blind) did not showed and won $3996.87
+Seat 4: PR0DIGY (small blind) did not showed and lost
+
+
+Hand #1879149557 - Holdem(No Limit) - $25/$50 - 2023/09/30 19:43:14 UTC
+Foosland 4-max Seat #2 is the button
+Seat 2: JohnMcShen ($7127.81)
+Seat 4: PR0DIGY ($5000)
+JohnMcShen posts the small blind $25
+PR0DIGY posts the big blind $50
+*** HOLE CARDS *** 
+JohnMcShen raises $100 to $125
+PR0DIGY calls $75
+*** FLOP *** [4d Td Qs]
+Main pot $248.75 | Rake $1.25
+PR0DIGY checks
+JohnMcShen bets $77.11
+PR0DIGY calls $77.11
+*** TURN *** [4d Td Qs] [Th]
+Main pot $402.97 | Rake $1.25
+PR0DIGY checks
+JohnMcShen checks
+*** RIVER *** [4d Td Qs Th] [Kd]
+Main pot $402.97 | Rake $1.25
+PR0DIGY bets $116.86
+JohnMcShen calls $116.86
+*** SUMMARY ***
+Total pot $636.69 | Rake $1.25
+Seat 2: JohnMcShen (small blind) did not showed and lost
+Seat 4: PR0DIGY (big blind) did not showed and won $636.69
+
+
+Hand #1879151277 - Holdem(No Limit) - $25/$50 - 2023/09/30 19:44:34 UTC
+Foosland 4-max Seat #4 is the button
+Seat 2: JohnMcShen ($6808.84)
+Seat 4: PR0DIGY ($5317.72)
+PR0DIGY posts the small blind $25
+JohnMcShen posts the big blind $50
+*** HOLE CARDS *** 
+PR0DIGY raises $105 to $130
+JohnMcShen calls $80
+*** FLOP *** [Kc Kh 6d]
+Main pot $258.75 | Rake $1.25
+JohnMcShen checks
+PR0DIGY bets $75.03
+JohnMcShen calls $75.03
+*** TURN *** [Kc Kh 6d] [Jd]
+Main pot $408.81 | Rake $1.25
+JohnMcShen checks
+PR0DIGY checks
+*** RIVER *** [Kc Kh 6d Jd] [Qd]
+Main pot $408.81 | Rake $1.25
+JohnMcShen bets $126.73
+PR0DIGY folds
+Uncalled bet ($126.73) returned to JohnMcShen
+JohnMcShen does not show
+*** SUMMARY ***
+Total pot $408.81 | Rake $1.25
+Seat 2: JohnMcShen (big blind) did not showed and won $408.81
+Seat 4: PR0DIGY (small blind) folded on the River
+
+
+Hand #1879153318 - Holdem(No Limit) - $25/$50 - 2023/09/30 19:44:46 UTC
+Foosland 4-max Seat #2 is the button
+Seat 2: JohnMcShen ($7012.62)
+Seat 4: PR0DIGY ($5112.69)
+JohnMcShen posts the small blind $25
+PR0DIGY posts the big blind $50
+*** HOLE CARDS *** 
+JohnMcShen raises $100 to $125
+PR0DIGY folds
+Uncalled bet ($75) returned to JohnMcShen
+JohnMcShen does not show
+*** SUMMARY ***
+Total pot $100
+Seat 2: JohnMcShen (small blind) did not showed and won $100
+Seat 4: PR0DIGY (big blind) folded on the Pre-Flop
+
+
+Hand #1879153630 - Holdem(No Limit) - $25/$50 - 2023/09/30 19:44:55 UTC
+Foosland 4-max Seat #4 is the button
+Seat 2: JohnMcShen ($7062.62)
+Seat 4: PR0DIGY ($5062.69)
+PR0DIGY posts the small blind $25
+JohnMcShen posts the big blind $50
+*** HOLE CARDS *** 
+PR0DIGY folds
+*** SUMMARY ***
+Total pot $75
+Seat 2: JohnMcShen (big blind) did not showed and won $75
+Seat 4: PR0DIGY (small blind) folded on the Pre-Flop
+
+
+Hand #1879153855 - Holdem(No Limit) - $25/$50 - 2023/09/30 19:46:58 UTC
+Foosland 4-max Seat #2 is the button
+Seat 1: chop-ch0p ($5000)
+Seat 2: JohnMcShen ($7087.62)
+Seat 4: PR0DIGY ($5037.69)
+JohnMcShen posts the small blind $25
+PR0DIGY posts the big blind $50
+*** HOLE CARDS *** 
+JohnMcShen raises $100 to $125
+PR0DIGY raises $450 to $500
+JohnMcShen calls $375
+*** FLOP *** [6s 7d Tc]
+Main pot $998.75 | Rake $1.25
+PR0DIGY bets $579.50
+JohnMcShen calls $579.50
+*** TURN *** [6s 7d Tc] [Js]
+Main pot $2157.75 | Rake $1.25
+PR0DIGY bets $1252
+JohnMcShen calls $1252
+*** RIVER *** [6s 7d Tc Js] [Qd]
+Main pot $4661.75 | Rake $1.25
+PR0DIGY bets $2706.19 and is all-in
+JohnMcShen folds
+Uncalled bet ($2706.19) returned to PR0DIGY
+PR0DIGY does not show
+*** SUMMARY ***
+Total pot $4661.75 | Rake $1.25
+Seat 2: JohnMcShen (small blind) folded on the River
+Seat 4: PR0DIGY (big blind) did not showed and won $4661.75
+
+
+Hand #1879157012 - Holdem(No Limit) - $25/$50 - 2023/09/30 19:47:13 UTC
+Foosland 4-max Seat #2 is the button
+Seat 1: chop-ch0p ($2000)
+Seat 2: JohnMcShen ($5000)
+Seat 4: PR0DIGY ($7367.94)
+PR0DIGY posts the small blind $25
+chop-ch0p posts the big blind $50
+*** HOLE CARDS *** 
+JohnMcShen raises $110 to $110
+PR0DIGY folds
+chop-ch0p folds
+Uncalled bet ($60) returned to JohnMcShen
+JohnMcShen does not show
+*** SUMMARY ***
+Total pot $125
+Seat 1: chop-ch0p (big blind) folded on the Pre-Flop
+Seat 2: JohnMcShen (button) did not showed and won $125
+Seat 4: PR0DIGY (small blind) folded on the Pre-Flop
+
+
+Hand #1879157403 - Holdem(No Limit) - $25/$50 - 2023/09/30 19:47:34 UTC
+Foosland 4-max Seat #4 is the button
+Seat 1: chop-ch0p ($2000)
+Seat 2: JohnMcShen ($5075)
+Seat 4: PR0DIGY ($7342.94)
+chop-ch0p posts the small blind $25
+JohnMcShen posts the big blind $50
+*** HOLE CARDS *** 
+PR0DIGY raises $130 to $130
+chop-ch0p folds
+JohnMcShen folds
+Uncalled bet ($80) returned to PR0DIGY
+PR0DIGY does not show
+*** SUMMARY ***
+Total pot $125
+Seat 1: chop-ch0p (small blind) folded on the Pre-Flop
+Seat 2: JohnMcShen (big blind) folded on the Pre-Flop
+Seat 4: PR0DIGY (button) did not showed and won $125
+
+
+Hand #1879157956 - Holdem(No Limit) - $25/$50 - 2023/09/30 19:48:43 UTC
+Foosland 4-max Seat #1 is the button
+Seat 1: chop-ch0p ($5000)
+Seat 2: JohnMcShen ($5025)
+Seat 3: KOLXO3HuK ($5000)
+Seat 4: PR0DIGY ($7417.94)
+JohnMcShen posts the small blind $25
+PR0DIGY posts the big blind $50
+*** HOLE CARDS *** 
+chop-ch0p folds
+JohnMcShen calls $25
+PR0DIGY raises $100 to $150
+JohnMcShen calls $100
+*** FLOP *** [3d Ac 2c]
+Main pot $298.25 | Rake $1.75
+JohnMcShen checks
+PR0DIGY checks
+*** TURN *** [3d Ac 2c] [9d]
+Main pot $298.25 | Rake $1.75
+JohnMcShen checks
+PR0DIGY bets $86.49
+JohnMcShen folds
+Uncalled bet ($86.49) returned to PR0DIGY
+PR0DIGY does not show
+*** SUMMARY ***
+Total pot $298.25 | Rake $1.75
+Seat 1: chop-ch0p (button) folded on the Pre-Flop and did not bet
+Seat 2: JohnMcShen (small blind) folded on the Turn
+Seat 4: PR0DIGY (big blind) did not showed and won $298.25
+
+
+Hand #1879159703 - Holdem(No Limit) - $25/$50 - 2023/09/30 19:48:56 UTC
+Foosland 4-max Seat #2 is the button
+Seat 1: chop-ch0p ($5000)
+Seat 2: JohnMcShen ($5000)
+Seat 3: KOLXO3HuK ($5000)
+Seat 4: PR0DIGY ($7566.19)
+PR0DIGY posts the small blind $25
+JohnMcShen posts the big blind $50
+*** HOLE CARDS *** 
+PR0DIGY folds
+*** SUMMARY ***
+Total pot $75
+Seat 2: JohnMcShen (big blind) did not showed and won $75
+Seat 4: PR0DIGY (small blind) folded on the Pre-Flop
+
+
+Hand #1879160047 - Holdem(No Limit) - $25/$50 - 2023/09/30 19:49:05 UTC
+Foosland 4-max Seat #2 is the button
+Seat 2: JohnMcShen ($5025)
+Seat 4: PR0DIGY ($7541.19)
+JohnMcShen posts the small blind $25
+PR0DIGY posts the big blind $50
+*** HOLE CARDS *** 
+JohnMcShen folds
+*** SUMMARY ***
+Total pot $75
+Seat 2: JohnMcShen (small blind) folded on the Pre-Flop
+Seat 4: PR0DIGY (big blind) did not showed and won $75
+
+
+Hand #1879160270 - Holdem(No Limit) - $25/$50 - 2023/09/30 19:50:49 UTC
+Foosland 4-max Seat #4 is the button
+Seat 2: JohnMcShen ($5000)
+Seat 4: PR0DIGY ($7566.19)
+PR0DIGY posts the small blind $25
+JohnMcShen posts the big blind $50
+*** HOLE CARDS *** 
+PR0DIGY raises $105 to $130
+JohnMcShen calls $80
+*** FLOP *** [6d 6c 3d]
+Main pot $258.75 | Rake $1.25
+JohnMcShen checks
+PR0DIGY bets $75.03
+JohnMcShen raises $279.43 to $279.43
+PR0DIGY calls $204.40
+*** TURN *** [6d 6c 3d] [4d]
+Main pot $817.61 | Rake $1.25
+JohnMcShen bets $253.45
+PR0DIGY calls $253.45
+*** RIVER *** [6d 6c 3d 4d] [3c]
+Main pot $1324.51 | Rake $1.25
+JohnMcShen checks
+PR0DIGY bets $662.25
+JohnMcShen folds
+Uncalled bet ($662.25) returned to PR0DIGY
+PR0DIGY does not show
+*** SUMMARY ***
+Total pot $1324.51 | Rake $1.25
+Seat 2: JohnMcShen (big blind) folded on the River
+Seat 4: PR0DIGY (small blind) did not showed and won $1324.51
+
+
+Hand #1879162885 - Holdem(No Limit) - $25/$50 - 2023/09/30 19:51:48 UTC
+Foosland 4-max Seat #2 is the button
+Seat 1: TIKITAKA11 ($5000)
+Seat 2: JohnMcShen ($5000)
+Seat 4: PR0DIGY ($8227.82)
+JohnMcShen posts the small blind $25
+PR0DIGY posts the big blind $50
+*** HOLE CARDS *** 
+JohnMcShen raises $100 to $125
+PR0DIGY calls $75
+*** FLOP *** [6c 9s 7c]
+Main pot $248.75 | Rake $1.25
+PR0DIGY checks
+JohnMcShen checks
+*** TURN *** [6c 9s 7c] [6s]
+Main pot $248.75 | Rake $1.25
+PR0DIGY checks
+JohnMcShen bets $186.56
+PR0DIGY folds
+Uncalled bet ($186.56) returned to JohnMcShen
+JohnMcShen does not show
+*** SUMMARY ***
+Total pot $248.75 | Rake $1.25
+Seat 2: JohnMcShen (small blind) did not showed and won $248.75
+Seat 4: PR0DIGY (big blind) folded on the Turn
+
+
+Hand #1879164400 - Holdem(No Limit) - $25/$50 - 2023/09/30 19:52:00 UTC
+Foosland 4-max Seat #2 is the button
+Seat 1: TIKITAKA11 ($5000)
+Seat 2: JohnMcShen ($5123.75)
+Seat 4: PR0DIGY ($5000)
+JohnMcShen posts the small blind $25
+TIKITAKA11 posts the big blind $50
+*** HOLE CARDS *** 
+JohnMcShen folds
+*** SUMMARY ***
+Total pot $75
+Seat 1: TIKITAKA11 (big blind) did not showed and won $75
+Seat 2: JohnMcShen (small blind) folded on the Pre-Flop
+
+
+Hand #1879164658 - Holdem(No Limit) - $25/$50 - 2023/09/30 19:52:10 UTC
+Foosland 4-max Seat #1 is the button
+Seat 1: TIKITAKA11 ($5025)
+Seat 2: JohnMcShen ($5098.75)
+Seat 4: PR0DIGY ($5000)
+TIKITAKA11 posts the small blind $25
+JohnMcShen posts the big blind $50
+*** HOLE CARDS *** 
+TIKITAKA11 folds
+*** SUMMARY ***
+Total pot $75
+Seat 1: TIKITAKA11 (small blind) folded on the Pre-Flop
+Seat 2: JohnMcShen (big blind) did not showed and won $75
+
+
+Hand #1879164901 - Holdem(No Limit) - $25/$50 - 2023/09/30 19:52:23 UTC
+Foosland 4-max Seat #2 is the button
+Seat 1: TIKITAKA11 ($5000)
+Seat 2: JohnMcShen ($5123.75)
+Seat 4: PR0DIGY ($5000)
+JohnMcShen posts the small blind $25
+TIKITAKA11 posts the big blind $50
+*** HOLE CARDS *** 
+JohnMcShen folds
+*** SUMMARY ***
+Total pot $75
+Seat 1: TIKITAKA11 (big blind) did not showed and won $75
+Seat 2: JohnMcShen (small blind) folded on the Pre-Flop
+
+
+Hand #1879165254 - Holdem(No Limit) - $25/$50 - 2023/09/30 19:53:42 UTC
+Foosland 4-max Seat #1 is the button
+Seat 1: TIKITAKA11 ($5025)
+Seat 2: JohnMcShen ($5098.75)
+Seat 4: PR0DIGY ($5000)
+TIKITAKA11 posts the small blind $25
+JohnMcShen posts the big blind $50
+*** HOLE CARDS *** 
+TIKITAKA11 raises $90 to $115
+JohnMcShen raises $450 to $500
+TIKITAKA11 calls $385
+*** FLOP *** [8c Jh Ac]
+Main pot $998.75 | Rake $1.25
+JohnMcShen checks
+TIKITAKA11 checks
+*** TURN *** [8c Jh Ac] [3c]
+Main pot $998.75 | Rake $1.25
+JohnMcShen checks
+TIKITAKA11 checks
+*** RIVER *** [8c Jh Ac 3c] [Jc]
+Main pot $998.75 | Rake $1.25
+JohnMcShen checks
+TIKITAKA11 checks
+*** SUMMARY ***
+Total pot $998.75 | Rake $1.25
+Seat 1: TIKITAKA11 (small blind) did not showed and lost
+Seat 2: JohnMcShen (big blind) did not showed and won $998.75
+
+
+Hand #1879167431 - Holdem(No Limit) - $25/$50 - 2023/09/30 19:55:01 UTC
+Foosland 4-max Seat #2 is the button
+Seat 1: TIKITAKA11 ($5000)
+Seat 2: JohnMcShen ($5597.50)
+Seat 4: PR0DIGY ($8102.82)
+JohnMcShen posts the small blind $25
+PR0DIGY posts the big blind $50
+*** HOLE CARDS *** 
+JohnMcShen raises $100 to $125
+PR0DIGY calls $75
+*** FLOP *** [Ks Jh Qd]
+Main pot $248.75 | Rake $1.25
+PR0DIGY checks
+JohnMcShen bets $248.75
+PR0DIGY calls $248.75
+*** TURN *** [Ks Jh Qd] [9s]
+Main pot $746.25 | Rake $1.25
+PR0DIGY checks
+JohnMcShen bets $231.33
+PR0DIGY folds
+Uncalled bet ($231.33) returned to JohnMcShen
+JohnMcShen does not show
+*** SUMMARY ***
+Total pot $746.25 | Rake $1.25
+Seat 2: JohnMcShen (small blind) did not showed and won $746.25
+Seat 4: PR0DIGY (big blind) folded on the Turn
+
+
+Hand #1879169114 - Holdem(No Limit) - $25/$50 - 2023/09/30 19:56:08 UTC
+Foosland 4-max Seat #4 is the button
+Seat 2: JohnMcShen ($5970)
+Seat 4: PR0DIGY ($7729.07)
+PR0DIGY posts the small blind $25
+JohnMcShen posts the big blind $50
+*** HOLE CARDS *** 
+PR0DIGY raises $105 to $130
+JohnMcShen calls $80
+*** FLOP *** [Qh 4s 5s]
+Main pot $258.75 | Rake $1.25
+JohnMcShen checks
+PR0DIGY bets $75.03
+JohnMcShen calls $75.03
+*** TURN *** [Qh 4s 5s] [Qs]
+Main pot $408.81 | Rake $1.25
+JohnMcShen checks
+PR0DIGY checks
+*** RIVER *** [Qh 4s 5s Qs] [Th]
+Main pot $408.81 | Rake $1.25
+JohnMcShen checks
+PR0DIGY checks
+*** SUMMARY ***
+Total pot $408.81 | Rake $1.25
+Seat 2: JohnMcShen (big blind) did not showed and lost
+Seat 4: PR0DIGY (small blind) did not showed and won $408.81
+
+
+Hand #1879169595 - Holdem(No Limit) - $25/$50 - 2023/09/30 19:56:51 UTC
+Foosland 4-max Seat #2 is the button
+Seat 1: Carbonieri ($5000)
+Seat 2: JohnMcShen ($5764.97)
+Seat 4: PR0DIGY ($7932.85)
+JohnMcShen posts the small blind $25
+PR0DIGY posts the big blind $50
+*** HOLE CARDS *** 
+JohnMcShen raises $100 to $125
+PR0DIGY calls $75
+*** FLOP *** [9s 9h Jd]
+Main pot $248.75 | Rake $1.25
+PR0DIGY checks
+JohnMcShen bets $77.11
+PR0DIGY folds
+Uncalled bet ($77.11) returned to JohnMcShen
+JohnMcShen does not show
+*** SUMMARY ***
+Total pot $248.75 | Rake $1.25
+Seat 2: JohnMcShen (small blind) did not showed and won $248.75
+Seat 4: PR0DIGY (big blind) folded on the Flop
+
+
+Hand #1879169882 - Holdem(No Limit) - $25/$50 - 2023/09/30 19:57:20 UTC
+Foosland 4-max Seat #2 is the button
+Seat 1: Carbonieri ($2000)
+Seat 2: JohnMcShen ($5888.72)
+Seat 3: chop-ch0p ($5000)
+Seat 4: PR0DIGY ($7807.85)
+PR0DIGY posts the small blind $25
+Carbonieri posts the big blind $50
+*** HOLE CARDS *** 
+JohnMcShen raises $110 to $110
+PR0DIGY folds
+Carbonieri calls $60
+*** FLOP *** [7h Jh 4d]
+Main pot $243.25 | Rake $1.75
+Carbonieri checks
+JohnMcShen bets $121.62
+Carbonieri folds
+Uncalled bet ($121.62) returned to JohnMcShen
+JohnMcShen does not show
+*** SUMMARY ***
+Total pot $243.25 | Rake $1.75
+Seat 1: Carbonieri (big blind) folded on the Flop
+Seat 2: JohnMcShen (button) did not showed and won $243.25
+Seat 4: PR0DIGY (small blind) folded on the Pre-Flop
+
+
+Hand #1879170076 - Holdem(No Limit) - $25/$50 - 2023/09/30 19:57:38 UTC
+Foosland 4-max Seat #4 is the button
+Seat 1: Carbonieri ($2000)
+Seat 2: JohnMcShen ($6021.97)
+Seat 3: chop-ch0p ($5000)
+Seat 4: PR0DIGY ($5000)
+Carbonieri posts the small blind $25
+JohnMcShen posts the big blind $50
+*** HOLE CARDS *** 
+PR0DIGY folds
+Carbonieri folds
+*** SUMMARY ***
+Total pot $75
+Seat 1: Carbonieri (small blind) folded on the Pre-Flop
+Seat 2: JohnMcShen (big blind) did not showed and won $75
+Seat 4: PR0DIGY (button) folded on the Pre-Flop and did not bet
+
+
+Hand #1879170209 - Holdem(No Limit) - $25/$50 - 2023/09/30 19:57:59 UTC
+Foosland 4-max Seat #1 is the button
+Seat 1: Carbonieri ($5000)
+Seat 2: JohnMcShen ($6046.97)
+Seat 3: chop-ch0p ($5000)
+Seat 4: PR0DIGY ($7782.85)
+JohnMcShen posts the small blind $25
+PR0DIGY posts the big blind $50
+*** HOLE CARDS *** 
+Carbonieri folds
+JohnMcShen calls $25
+PR0DIGY raises $100 to $150
+JohnMcShen folds
+Uncalled bet ($100) returned to PR0DIGY
+PR0DIGY does not show
+*** SUMMARY ***
+Total pot $100
+Seat 1: Carbonieri (button) folded on the Pre-Flop and did not bet
+Seat 2: JohnMcShen (small blind) folded on the Pre-Flop
+Seat 4: PR0DIGY (big blind) did not showed and won $100
+
+
+Hand #1879170466 - Holdem(No Limit) - $25/$50 - 2023/09/30 19:59:07 UTC
+Foosland 4-max Seat #4 is the button
+Seat 2: JohnMcShen ($5996.97)
+Seat 3: chop-ch0p ($5000)
+Seat 4: PR0DIGY ($7832.85)
+PR0DIGY posts the small blind $25
+JohnMcShen posts the big blind $50
+*** HOLE CARDS *** 
+PR0DIGY raises $105 to $130
+JohnMcShen calls $80
+*** FLOP *** [4d 3c Ks]
+Main pot $258.75 | Rake $1.25
+JohnMcShen checks
+PR0DIGY bets $75.03
+JohnMcShen raises $279.43 to $279.43
+PR0DIGY folds
+Uncalled bet ($204.40) returned to JohnMcShen
+JohnMcShen does not show
+*** SUMMARY ***
+Total pot $408.81 | Rake $1.25
+Seat 2: JohnMcShen (big blind) did not showed and won $408.81
+Seat 4: PR0DIGY (small blind) folded on the Flop
+
+
+Hand #1879170865 - Holdem(No Limit) - $25/$50 - 2023/09/30 19:59:18 UTC
+Foosland 4-max Seat #2 is the button
+Seat 2: JohnMcShen ($6200.75)
+Seat 4: PR0DIGY ($7627.82)
+JohnMcShen posts the small blind $25
+PR0DIGY posts the big blind $50
+*** HOLE CARDS *** 
+JohnMcShen raises $100 to $125
+PR0DIGY folds
+Uncalled bet ($75) returned to JohnMcShen
+JohnMcShen does not show
+*** SUMMARY ***
+Total pot $100
+Seat 2: JohnMcShen (small blind) did not showed and won $100
+Seat 4: PR0DIGY (big blind) folded on the Pre-Flop
+
+
+Hand #1879170946 - Holdem(No Limit) - $25/$50 - 2023/09/30 19:59:27 UTC
+Foosland 4-max Seat #4 is the button
+Seat 2: JohnMcShen ($6250.75)
+Seat 4: PR0DIGY ($7577.82)
+PR0DIGY posts the small blind $25
+JohnMcShen posts the big blind $50
+*** HOLE CARDS *** 
+PR0DIGY folds
+*** SUMMARY ***
+Total pot $75
+Seat 2: JohnMcShen (big blind) did not showed and won $75
+Seat 4: PR0DIGY (small blind) folded on the Pre-Flop
+
+
+Hand #1879171003 - Holdem(No Limit) - $25/$50 - 2023/09/30 19:59:37 UTC
+Foosland 4-max Seat #2 is the button
+Seat 2: JohnMcShen ($6275.75)
+Seat 4: PR0DIGY ($7552.82)
+JohnMcShen posts the small blind $25
+PR0DIGY posts the big blind $50
+*** HOLE CARDS *** 
+JohnMcShen raises $100 to $125
+PR0DIGY folds
+Uncalled bet ($75) returned to JohnMcShen
+JohnMcShen does not show
+*** SUMMARY ***
+Total pot $100
+Seat 2: JohnMcShen (small blind) did not showed and won $100
+Seat 4: PR0DIGY (big blind) folded on the Pre-Flop
+
+
+Hand #1879171074 - Holdem(No Limit) - $25/$50 - 2023/09/30 19:59:45 UTC
+Foosland 4-max Seat #4 is the button
+Seat 2: JohnMcShen ($6325.75)
+Seat 4: PR0DIGY ($7502.82)
+PR0DIGY posts the small blind $25
+JohnMcShen posts the big blind $50
+*** HOLE CARDS *** 
+PR0DIGY folds
+*** SUMMARY ***
+Total pot $75
+Seat 2: JohnMcShen (big blind) did not showed and won $75
+Seat 4: PR0DIGY (small blind) folded on the Pre-Flop
+
+
+Hand #1879171125 - Holdem(No Limit) - $25/$50 - 2023/09/30 19:59:57 UTC
+Foosland 4-max Seat #2 is the button
+Seat 2: JohnMcShen ($6350.75)
+Seat 4: PR0DIGY ($7477.82)
+JohnMcShen posts the small blind $25
+PR0DIGY posts the big blind $50
+*** HOLE CARDS *** 
+JohnMcShen raises $100 to $125
+PR0DIGY folds
+Uncalled bet ($75) returned to JohnMcShen
+JohnMcShen does not show
+*** SUMMARY ***
+Total pot $100
+Seat 2: JohnMcShen (small blind) did not showed and won $100
+Seat 4: PR0DIGY (big blind) folded on the Pre-Flop
+
+
+Hand #1879171209 - Holdem(No Limit) - $25/$50 - 2023/09/30 20:00:51 UTC
+Foosland 4-max Seat #4 is the button
+Seat 2: JohnMcShen ($6400.75)
+Seat 4: PR0DIGY ($7427.82)
+PR0DIGY posts the small blind $25
+JohnMcShen posts the big blind $50
+*** HOLE CARDS *** 
+PR0DIGY raises $105 to $130
+JohnMcShen calls $80
+*** FLOP *** [9h 9d 2h]
+Main pot $258.75 | Rake $1.25
+JohnMcShen checks
+PR0DIGY bets $75.03
+JohnMcShen calls $75.03
+*** TURN *** [9h 9d 2h] [7c]
+Main pot $408.81 | Rake $1.25
+JohnMcShen checks
+PR0DIGY checks
+*** RIVER *** [9h 9d 2h 7c] [4h]
+Main pot $408.81 | Rake $1.25
+JohnMcShen checks
+PR0DIGY checks
+*** SUMMARY ***
+Total pot $408.81 | Rake $1.25
+Seat 2: JohnMcShen (big blind) did not showed and lost
+Seat 4: PR0DIGY (small blind) did not showed and won $408.81
+
+
+Hand #1879171742 - Holdem(No Limit) - $25/$50 - 2023/09/30 20:01:53 UTC
+Foosland 4-max Seat #2 is the button
+Seat 2: JohnMcShen ($6195.72)
+Seat 4: PR0DIGY ($7631.60)
+JohnMcShen posts the small blind $25
+PR0DIGY posts the big blind $50
+*** HOLE CARDS *** 
+JohnMcShen raises $100 to $125
+PR0DIGY calls $75
+*** FLOP *** [Jd 6h 8h]
+Main pot $248.75 | Rake $1.25
+PR0DIGY checks
+JohnMcShen bets $124.37
+PR0DIGY calls $124.37
+*** TURN *** [Jd 6h 8h] [7d]
+Main pot $497.49 | Rake $1.25
+PR0DIGY checks
+JohnMcShen checks
+*** RIVER *** [Jd 6h 8h 7d] [4d]
+Main pot $497.49 | Rake $1.25
+PR0DIGY checks
+JohnMcShen checks
+*** SUMMARY ***
+Total pot $497.49 | Rake $1.25
+Seat 2: JohnMcShen (small blind) did not showed and lost
+Seat 4: PR0DIGY (big blind) did not showed and won $497.49
+
+
+Hand #1879172909 - Holdem(No Limit) - $25/$50 - 2023/09/30 20:03:03 UTC
+Foosland 4-max Seat #4 is the button
+Seat 2: JohnMcShen ($5946.35)
+Seat 4: PR0DIGY ($7879.72)
+PR0DIGY posts the small blind $25
+JohnMcShen posts the big blind $50
+*** HOLE CARDS *** 
+PR0DIGY raises $105 to $130
+JohnMcShen calls $80
+*** FLOP *** [3h 4d 2s]
+Main pot $258.75 | Rake $1.25
+JohnMcShen checks
+PR0DIGY checks
+*** TURN *** [3h 4d 2s] [9d]
+Main pot $258.75 | Rake $1.25
+JohnMcShen bets $194.06
+PR0DIGY calls $194.06
+*** RIVER *** [3h 4d 2s 9d] [Jh]
+Main pot $646.87 | Rake $1.25
+JohnMcShen checks
+PR0DIGY checks
+*** SUMMARY ***
+Total pot $646.87 | Rake $1.25
+Seat 2: JohnMcShen (big blind) did not showed and lost
+Seat 4: PR0DIGY (small blind) did not showed and won $646.87
+
+
+Hand #1879174502 - Holdem(No Limit) - $25/$50 - 2023/09/30 20:04:01 UTC
+Foosland 4-max Seat #2 is the button
+Seat 2: JohnMcShen ($5622.29)
+Seat 4: PR0DIGY ($8202.53)
+JohnMcShen posts the small blind $25
+PR0DIGY posts the big blind $50
+*** HOLE CARDS *** 
+JohnMcShen raises $100 to $125
+PR0DIGY calls $75
+*** FLOP *** [7h Jc 9s]
+Main pot $248.75 | Rake $1.25
+PR0DIGY checks
+JohnMcShen checks
+*** TURN *** [7h Jc 9s] [3s]
+Main pot $248.75 | Rake $1.25
+PR0DIGY checks
+JohnMcShen checks
+*** RIVER *** [7h Jc 9s 3s] [2c]
+Main pot $248.75 | Rake $1.25
+PR0DIGY bets $72.13
+JohnMcShen calls $72.13
+*** SUMMARY ***
+Total pot $393.01 | Rake $1.25
+Seat 2: JohnMcShen (small blind) did not showed and won $393.01
+Seat 4: PR0DIGY (big blind) did not showed and lost
+
+
+Hand #1879175836 - Holdem(No Limit) - $25/$50 - 2023/09/30 20:04:19 UTC
+Foosland 4-max Seat #4 is the button
+Seat 2: JohnMcShen ($5818.17)
+Seat 4: PR0DIGY ($8005.40)
+PR0DIGY posts the small blind $25
+JohnMcShen posts the big blind $50
+*** HOLE CARDS *** 
+PR0DIGY raises $105 to $130
+JohnMcShen folds
+Uncalled bet ($80) returned to PR0DIGY
+PR0DIGY does not show
+*** SUMMARY ***
+Total pot $100
+Seat 2: JohnMcShen (big blind) folded on the Pre-Flop
+Seat 4: PR0DIGY (small blind) did not showed and won $100
+
+
+Hand #1879176211 - Holdem(No Limit) - $25/$50 - 2023/09/30 20:04:39 UTC
+Foosland 4-max Seat #2 is the button
+Seat 2: JohnMcShen ($5768.17)
+Seat 4: PR0DIGY ($8055.40)
+JohnMcShen posts the small blind $25
+PR0DIGY posts the big blind $50
+*** HOLE CARDS *** 
+JohnMcShen raises $100 to $125
+PR0DIGY raises $450 to $500
+JohnMcShen folds
+Uncalled bet ($375) returned to PR0DIGY
+PR0DIGY does not show
+*** SUMMARY ***
+Total pot $250
+Seat 2: JohnMcShen (small blind) folded on the Pre-Flop
+Seat 4: PR0DIGY (big blind) did not showed and won $250
+
+
+Hand #1879176675 - Holdem(No Limit) - $25/$50 - 2023/09/30 20:04:47 UTC
+Foosland 4-max Seat #4 is the button
+Seat 2: JohnMcShen ($5643.17)
+Seat 4: PR0DIGY ($8180.40)
+PR0DIGY posts the small blind $25
+JohnMcShen posts the big blind $50
+*** HOLE CARDS *** 
+PR0DIGY folds
+*** SUMMARY ***
+Total pot $75
+Seat 2: JohnMcShen (big blind) did not showed and won $75
+Seat 4: PR0DIGY (small blind) folded on the Pre-Flop
+
+
+Hand #1879176880 - Holdem(No Limit) - $25/$50 - 2023/09/30 20:04:56 UTC
+Foosland 4-max Seat #2 is the button
+Seat 2: JohnMcShen ($5668.17)
+Seat 4: PR0DIGY ($8155.40)
+JohnMcShen posts the small blind $25
+PR0DIGY posts the big blind $50
+*** HOLE CARDS *** 
+JohnMcShen folds
+*** SUMMARY ***
+Total pot $75
+Seat 2: JohnMcShen (small blind) folded on the Pre-Flop
+Seat 4: PR0DIGY (big blind) did not showed and won $75
+
+
+Hand #1879177086 - Holdem(No Limit) - $25/$50 - 2023/09/30 20:06:31 UTC
+Foosland 4-max Seat #4 is the button
+Seat 2: JohnMcShen ($5643.17)
+Seat 4: PR0DIGY ($8180.40)
+PR0DIGY posts the small blind $25
+JohnMcShen posts the big blind $50
+*** HOLE CARDS *** 
+PR0DIGY raises $105 to $130
+JohnMcShen calls $80
+*** FLOP *** [3s Qd 2h]
+Main pot $258.75 | Rake $1.25
+JohnMcShen checks
+PR0DIGY bets $75.03
+JohnMcShen raises $279.43 to $279.43
+PR0DIGY calls $204.40
+*** TURN *** [3s Qd 2h] [Jc]
+Main pot $817.61 | Rake $1.25
+JohnMcShen checks
+PR0DIGY checks
+*** RIVER *** [3s Qd 2h Jc] [Th]
+Main pot $817.61 | Rake $1.25
+JohnMcShen bets $1226.41
+PR0DIGY calls $1226.41
+*** SUMMARY ***
+Total pot $3270.43 | Rake $1.25
+Seat 2: JohnMcShen (big blind) did not showed and lost
+Seat 4: PR0DIGY (small blind) did not showed and won $3270.43
+
+
+Hand #1879179513 - Holdem(No Limit) - $25/$50 - 2023/09/30 20:06:43 UTC
+Foosland 4-max Seat #2 is the button
+Seat 2: JohnMcShen ($5000)
+Seat 4: PR0DIGY ($9814.99)
+JohnMcShen posts the small blind $25
+PR0DIGY posts the big blind $50
+*** HOLE CARDS *** 
+JohnMcShen raises $100 to $125
+PR0DIGY folds
+Uncalled bet ($75) returned to JohnMcShen
+JohnMcShen does not show
+*** SUMMARY ***
+Total pot $100
+Seat 2: JohnMcShen (small blind) did not showed and won $100
+Seat 4: PR0DIGY (big blind) folded on the Pre-Flop
+
+
+Hand #1879179748 - Holdem(No Limit) - $25/$50 - 2023/09/30 20:08:03 UTC
+Foosland 4-max Seat #4 is the button
+Seat 2: JohnMcShen ($5050)
+Seat 4: PR0DIGY ($9764.99)
+PR0DIGY posts the small blind $25
+JohnMcShen posts the big blind $50
+*** HOLE CARDS *** 
+PR0DIGY raises $105 to $130
+JohnMcShen calls $80
+*** FLOP *** [Js 3h Kh]
+Main pot $258.75 | Rake $1.25
+JohnMcShen checks
+PR0DIGY checks
+*** TURN *** [Js 3h Kh] [Qc]
+Main pot $258.75 | Rake $1.25
+JohnMcShen checks
+PR0DIGY bets $258.75
+JohnMcShen calls $258.75
+*** RIVER *** [Js 3h Kh Qc] [Td]
+Main pot $776.25 | Rake $1.25
+JohnMcShen checks
+PR0DIGY bets $388.12
+JohnMcShen folds
+Uncalled bet ($388.12) returned to PR0DIGY
+PR0DIGY does not show
+*** SUMMARY ***
+Total pot $776.25 | Rake $1.25
+Seat 2: JohnMcShen (big blind) folded on the River
+Seat 4: PR0DIGY (small blind) did not showed and won $776.25
+
+
+Hand #1879181797 - Holdem(No Limit) - $25/$50 - 2023/09/30 20:08:45 UTC
+Foosland 4-max Seat #2 is the button
+Seat 2: JohnMcShen ($5000)
+Seat 4: PR0DIGY ($10152.49)
+JohnMcShen posts the small blind $25
+PR0DIGY posts the big blind $50
+*** HOLE CARDS *** 
+JohnMcShen raises $100 to $125
+PR0DIGY raises $450 to $500
+JohnMcShen raises $1125 to $1250
+PR0DIGY raises $9652.49 to $10152.49 and is all-in
+JohnMcShen calls $3750 and is all-in
+Uncalled bet ($5152.49) returned to PR0DIGY
+PR0DIGY does not show
+*** RUN IT TWICE ***
+*** FLOP 1 *** [3d 4h 5h]
+Main pot 1 $4999.37 | Rake $0.63
+*** TURN 1 *** [3d 4h 5h] [8s]
+Main pot 1 $4999.37 | Rake $0.63
+*** RIVER 1 *** [3d 4h 5h 8s] [2c]
+Main pot 1 $4999.37 | Rake $0.63
+*** SHOW DOWN 1 ***
+Main pot 1 $4999.37 | Rake $0.63
+JohnMcShen shows [Td Th] (a combo of some cards [Th Td 8s 5h 4h])
+PR0DIGY shows [Qh Qs] (a combo of some cards [Qs Qh 8s 5h 4h])
+PR0DIGY collected $4999.38 from main pot 1
+*** FLOP 2 *** [Kh Qd Ks]
+Main pot 2 $4999.38 | Rake $0.62
+*** TURN 2 *** [Kh Qd Ks] [6h]
+Main pot 2 $4999.38 | Rake $0.62
+*** RIVER 2 *** [Kh Qd Ks 6h] [Tc]
+Main pot 2 $4999.38 | Rake $0.62
+*** SHOW DOWN 2 ***
+Main pot 2 $4999.38 | Rake $0.62
+JohnMcShen shows [Td Th] (a combo of some cards [Th Td Tc Ks Kh])
+PR0DIGY shows [Qh Qs] (a combo of some cards [Qs Qh Qd Ks Kh])
+PR0DIGY collected $4999.37 from main pot 2
+*** SUMMARY ***
+Total pot $9998.75 | Rake $1.25
+Board 1 [3d 4h 5h 8s 2c]
+Seat 2: JohnMcShen (small blind) showed [Td Th] and lost with a
+Seat 4: PR0DIGY (big blind) showed [Qh Qs] and won $4999.38 with OnePair [Qs Qh 8s 5h 4h]
+Board 2 [Kh Qd Ks 6h Tc]
+Seat 2: JohnMcShen (small blind) showed [Td Th] and lost with a
+Seat 4: PR0DIGY (big blind) showed [Qh Qs] and won $4999.37 with FullHouse [Qs Qh Qd Ks Kh]
+
+
+Hand #1879183261 - Holdem(No Limit) - $25/$50 - 2023/09/30 20:09:14 UTC
+Foosland 4-max Seat #4 is the button
+Seat 2: JohnMcShen ($5000)
+Seat 4: PR0DIGY ($15151.24)
+PR0DIGY posts the small blind $25
+JohnMcShen posts the big blind $50
+*** HOLE CARDS *** 
+PR0DIGY folds
+*** SUMMARY ***
+Total pot $75
+Seat 2: JohnMcShen (big blind) did not showed and won $75
+Seat 4: PR0DIGY (small blind) folded on the Pre-Flop
+
+
+Hand #1879183635 - Holdem(No Limit) - $25/$50 - 2023/09/30 20:09:22 UTC
+Foosland 4-max Seat #2 is the button
+Seat 2: JohnMcShen ($5025)
+Seat 4: PR0DIGY ($15126.24)
+JohnMcShen posts the small blind $25
+PR0DIGY posts the big blind $50
+*** HOLE CARDS *** 
+JohnMcShen folds
+*** SUMMARY ***
+Total pot $75
+Seat 2: JohnMcShen (small blind) folded on the Pre-Flop
+Seat 4: PR0DIGY (big blind) did not showed and won $75
+
+
+Hand #1879183866 - Holdem(No Limit) - $25/$50 - 2023/09/30 20:09:31 UTC
+Foosland 4-max Seat #4 is the button
+Seat 2: JohnMcShen ($5000)
+Seat 4: PR0DIGY ($15151.24)
+PR0DIGY posts the small blind $25
+JohnMcShen posts the big blind $50
+*** HOLE CARDS *** 
+PR0DIGY folds
+*** SUMMARY ***
+Total pot $75
+Seat 2: JohnMcShen (big blind) did not showed and won $75
+Seat 4: PR0DIGY (small blind) folded on the Pre-Flop
+
+
+Hand #1879184096 - Holdem(No Limit) - $25/$50 - 2023/09/30 20:09:45 UTC
+Foosland 4-max Seat #2 is the button
+Seat 2: JohnMcShen ($5025)
+Seat 4: PR0DIGY ($15126.24)
+JohnMcShen posts the small blind $25
+PR0DIGY posts the big blind $50
+*** HOLE CARDS *** 
+JohnMcShen raises $100 to $125
+PR0DIGY folds
+Uncalled bet ($75) returned to JohnMcShen
+JohnMcShen does not show
+*** SUMMARY ***
+Total pot $100
+Seat 2: JohnMcShen (small blind) did not showed and won $100
+Seat 4: PR0DIGY (big blind) folded on the Pre-Flop
+
+
+Hand #1879184415 - Holdem(No Limit) - $25/$50 - 2023/09/30 20:11:31 UTC
+Foosland 4-max Seat #4 is the button
+Seat 2: JohnMcShen ($5075)
+Seat 4: PR0DIGY ($15076.24)
+PR0DIGY posts the small blind $25
+JohnMcShen posts the big blind $50
+*** HOLE CARDS *** 
+PR0DIGY raises $105 to $130
+JohnMcShen raises $475 to $525
+PR0DIGY calls $395
+*** FLOP *** [2s 4s Qs]
+Main pot $1048.75 | Rake $1.25
+JohnMcShen checks
+PR0DIGY checks
+*** TURN *** [2s 4s Qs] [3h]
+Main pot $1048.75 | Rake $1.25
+JohnMcShen bets $325.11
+PR0DIGY calls $325.11
+*** RIVER *** [2s 4s Qs 3h] [Jc]
+Main pot $1698.97 | Rake $1.25
+JohnMcShen bets $526.68
+PR0DIGY folds
+Uncalled bet ($526.68) returned to JohnMcShen
+JohnMcShen does not show
+*** SUMMARY ***
+Total pot $1698.97 | Rake $1.25
+Seat 2: JohnMcShen (big blind) did not showed and won $1698.97
+Seat 4: PR0DIGY (small blind) folded on the River
+
+
+Hand #1879187115 - Holdem(No Limit) - $25/$50 - 2023/09/30 20:11:59 UTC
+Foosland 4-max Seat #2 is the button
+Seat 2: JohnMcShen ($5923.86)
+Seat 4: PR0DIGY ($14226.13)
+JohnMcShen posts the small blind $25
+PR0DIGY posts the big blind $50
+*** HOLE CARDS *** 
+JohnMcShen raises $100 to $125
+PR0DIGY raises $450 to $500
+JohnMcShen raises $1150 to $1275
+PR0DIGY folds
+Uncalled bet ($775) returned to JohnMcShen
+JohnMcShen does not show
+*** SUMMARY ***
+Total pot $1000
+Seat 2: JohnMcShen (small blind) did not showed and won $1000
+Seat 4: PR0DIGY (big blind) folded on the Pre-Flop
+
+
+Hand #1879187847 - Holdem(No Limit) - $25/$50 - 2023/09/30 20:12:09 UTC
+Foosland 4-max Seat #4 is the button
+Seat 2: JohnMcShen ($6423.86)
+Seat 4: PR0DIGY ($13726.13)
+PR0DIGY posts the small blind $25
+JohnMcShen posts the big blind $50
+*** HOLE CARDS *** 
+PR0DIGY folds
+*** SUMMARY ***
+Total pot $75
+Seat 2: JohnMcShen (big blind) did not showed and won $75
+Seat 4: PR0DIGY (small blind) folded on the Pre-Flop
+
+
+Hand #1879188075 - Holdem(No Limit) - $25/$50 - 2023/09/30 20:12:26 UTC
+Foosland 4-max Seat #2 is the button
+Seat 2: JohnMcShen ($6448.86)
+Seat 4: PR0DIGY ($13701.13)
+JohnMcShen posts the small blind $25
+PR0DIGY posts the big blind $50
+*** HOLE CARDS *** 
+JohnMcShen raises $100 to $125
+PR0DIGY folds
+Uncalled bet ($75) returned to JohnMcShen
+JohnMcShen does not show
+*** SUMMARY ***
+Total pot $100
+Seat 2: JohnMcShen (small blind) did not showed and won $100
+Seat 4: PR0DIGY (big blind) folded on the Pre-Flop
+
+
+Hand #1879188510 - Holdem(No Limit) - $25/$50 - 2023/09/30 20:12:57 UTC
+Foosland 4-max Seat #4 is the button
+Seat 2: JohnMcShen ($6498.86)
+Seat 4: PR0DIGY ($13651.13)
+PR0DIGY posts the small blind $25
+JohnMcShen posts the big blind $50
+*** HOLE CARDS *** 
+PR0DIGY raises $105 to $130
+JohnMcShen raises $475 to $525
+PR0DIGY raises $1095 to $1225
+JohnMcShen folds
+Uncalled bet ($700) returned to PR0DIGY
+PR0DIGY does not show
+*** SUMMARY ***
+Total pot $1050
+Seat 2: JohnMcShen (big blind) folded on the Pre-Flop
+Seat 4: PR0DIGY (small blind) did not showed and won $1050
+
+
+Hand #1879189300 - Holdem(No Limit) - $25/$50 - 2023/09/30 20:13:08 UTC
+Foosland 4-max Seat #2 is the button
+Seat 2: JohnMcShen ($5973.86)
+Seat 4: PR0DIGY ($14176.13)
+JohnMcShen posts the small blind $25
+PR0DIGY posts the big blind $50
+*** HOLE CARDS *** 
+JohnMcShen raises $100 to $125
+PR0DIGY folds
+Uncalled bet ($75) returned to JohnMcShen
+JohnMcShen does not show
+*** SUMMARY ***
+Total pot $100
+Seat 2: JohnMcShen (small blind) did not showed and won $100
+Seat 4: PR0DIGY (big blind) folded on the Pre-Flop
+
+
+Hand #1879189561 - Holdem(No Limit) - $25/$50 - 2023/09/30 20:14:17 UTC
+Foosland 4-max Seat #4 is the button
+Seat 2: JohnMcShen ($6023.86)
+Seat 4: PR0DIGY ($14126.13)
+PR0DIGY posts the small blind $25
+JohnMcShen posts the big blind $50
+*** HOLE CARDS *** 
+PR0DIGY raises $105 to $130
+JohnMcShen calls $80
+*** FLOP *** [Js 4h 7h]
+Main pot $258.75 | Rake $1.25
+JohnMcShen checks
+PR0DIGY bets $336
+JohnMcShen calls $336
+*** TURN *** [Js 4h 7h] [Qd]
+Main pot $930.75 | Rake $1.25
+JohnMcShen checks
+PR0DIGY bets $1209
+JohnMcShen folds
+Uncalled bet ($1209) returned to PR0DIGY
+PR0DIGY does not show
+*** SUMMARY ***
+Total pot $930.75 | Rake $1.25
+Seat 2: JohnMcShen (big blind) folded on the Turn
+Seat 4: PR0DIGY (small blind) did not showed and won $930.75
+
+
+Hand #1879191255 - Holdem(No Limit) - $25/$50 - 2023/09/30 20:15:22 UTC
+Foosland 4-max Seat #2 is the button
+Seat 2: JohnMcShen ($5557.86)
+Seat 4: PR0DIGY ($14590.88)
+JohnMcShen posts the small blind $25
+PR0DIGY posts the big blind $50
+*** HOLE CARDS *** 
+JohnMcShen raises $100 to $125
+PR0DIGY raises $450 to $500
+JohnMcShen calls $375
+*** FLOP *** [7d 2s 8h]
+Main pot $998.75 | Rake $1.25
+PR0DIGY bets $1098.50
+JohnMcShen raises $5057.86 to $5057.86 and is all-in
+PR0DIGY folds
+Uncalled bet ($3959.36) returned to JohnMcShen
+JohnMcShen does not show
+*** SUMMARY ***
+Total pot $3195.75 | Rake $1.25
+Seat 2: JohnMcShen (small blind) did not showed and won $3195.75
+Seat 4: PR0DIGY (big blind) folded on the Flop
+
+
+Hand #1879192861 - Holdem(No Limit) - $25/$50 - 2023/09/30 20:16:22 UTC
+Foosland 4-max Seat #4 is the button
+Seat 2: JohnMcShen ($7155.11)
+Seat 4: PR0DIGY ($12992.38)
+PR0DIGY posts the small blind $25
+JohnMcShen posts the big blind $50
+*** HOLE CARDS *** 
+PR0DIGY raises $105 to $130
+JohnMcShen calls $80
+*** FLOP *** [3s Qc 7s]
+Main pot $258.75 | Rake $1.25
+JohnMcShen checks
+PR0DIGY bets $75.03
+JohnMcShen calls $75.03
+*** TURN *** [3s Qc 7s] [3h]
+Main pot $408.81 | Rake $1.25
+JohnMcShen checks
+PR0DIGY checks
+*** RIVER *** [3s Qc 7s 3h] [Jh]
+Main pot $408.81 | Rake $1.25
+JohnMcShen bets $408.81
+PR0DIGY folds
+Uncalled bet ($408.81) returned to JohnMcShen
+JohnMcShen does not show
+*** SUMMARY ***
+Total pot $408.81 | Rake $1.25
+Seat 2: JohnMcShen (big blind) did not showed and won $408.81
+Seat 4: PR0DIGY (small blind) folded on the River
+
+
+Hand #1879194314 - Holdem(No Limit) - $25/$50 - 2023/09/30 20:16:50 UTC
+Foosland 4-max Seat #2 is the button
+Seat 2: JohnMcShen ($7358.89)
+Seat 4: PR0DIGY ($12787.35)
+JohnMcShen posts the small blind $25
+PR0DIGY posts the big blind $50
+*** HOLE CARDS *** 
+JohnMcShen raises $100 to $125
+PR0DIGY calls $75
+*** FLOP *** [2h 8c Tc]
+Main pot $248.75 | Rake $1.25
+PR0DIGY checks
+JohnMcShen bets $186.56
+PR0DIGY folds
+Uncalled bet ($186.56) returned to JohnMcShen
+JohnMcShen does not show
+*** SUMMARY ***
+Total pot $248.75 | Rake $1.25
+Seat 2: JohnMcShen (small blind) did not showed and won $248.75
+Seat 4: PR0DIGY (big blind) folded on the Flop
+
+
+Hand #1879195022 - Holdem(No Limit) - $25/$50 - 2023/09/30 20:17:14 UTC
+Foosland 4-max Seat #4 is the button
+Seat 2: JohnMcShen ($7482.64)
+Seat 4: PR0DIGY ($12662.35)
+PR0DIGY posts the small blind $25
+JohnMcShen posts the big blind $50
+*** HOLE CARDS *** 
+PR0DIGY raises $105 to $130
+JohnMcShen raises $475 to $525
+PR0DIGY folds
+Uncalled bet ($395) returned to JohnMcShen
+JohnMcShen does not show
+*** SUMMARY ***
+Total pot $260
+Seat 2: JohnMcShen (big blind) did not showed and won $260
+Seat 4: PR0DIGY (small blind) folded on the Pre-Flop
+
+
+Hand #1879195601 - Holdem(No Limit) - $25/$50 - 2023/09/30 20:17:24 UTC
+Foosland 4-max Seat #2 is the button
+Seat 2: JohnMcShen ($7612.64)
+Seat 4: PR0DIGY ($12532.35)
+JohnMcShen posts the small blind $25
+PR0DIGY posts the big blind $50
+*** HOLE CARDS *** 
+JohnMcShen raises $100 to $125
+PR0DIGY folds
+Uncalled bet ($75) returned to JohnMcShen
+JohnMcShen does not show
+*** SUMMARY ***
+Total pot $100
+Seat 2: JohnMcShen (small blind) did not showed and won $100
+Seat 4: PR0DIGY (big blind) folded on the Pre-Flop
+
+
+Hand #1879195857 - Holdem(No Limit) - $25/$50 - 2023/09/30 20:17:40 UTC
+Foosland 4-max Seat #4 is the button
+Seat 2: JohnMcShen ($7662.64)
+Seat 4: PR0DIGY ($12482.35)
+PR0DIGY posts the small blind $25
+JohnMcShen posts the big blind $50
+*** HOLE CARDS *** 
+PR0DIGY raises $105 to $130
+JohnMcShen raises $475 to $525
+PR0DIGY folds
+Uncalled bet ($395) returned to JohnMcShen
+JohnMcShen does not show
+*** SUMMARY ***
+Total pot $260
+Seat 2: JohnMcShen (big blind) did not showed and won $260
+Seat 4: PR0DIGY (small blind) folded on the Pre-Flop
+
+
+Hand #1879196223 - Holdem(No Limit) - $25/$50 - 2023/09/30 20:19:19 UTC
+Foosland 4-max Seat #2 is the button
+Seat 2: JohnMcShen ($7792.64)
+Seat 4: PR0DIGY ($12352.35)
+JohnMcShen posts the small blind $25
+PR0DIGY posts the big blind $50
+*** HOLE CARDS *** 
+JohnMcShen raises $100 to $125
+PR0DIGY calls $75
+*** FLOP *** [3c 7d Ks]
+Main pot $248.75 | Rake $1.25
+PR0DIGY checks
+JohnMcShen bets $77.11
+PR0DIGY calls $77.11
+*** TURN *** [3c 7d Ks] [7h]
+Main pot $402.97 | Rake $1.25
+PR0DIGY bets $50
+JohnMcShen calls $50
+*** RIVER *** [3c 7d Ks 7h] [Qd]
+Main pot $502.97 | Rake $1.25
+PR0DIGY bets $251.48
+JohnMcShen raises $1257.41 to $1257.41
+PR0DIGY folds
+Uncalled bet ($1005.93) returned to JohnMcShen
+JohnMcShen does not show
+*** SUMMARY ***
+Total pot $1005.93 | Rake $1.25
+Seat 2: JohnMcShen (small blind) did not showed and won $1005.93
+Seat 4: PR0DIGY (big blind) folded on the River
+
+
+Hand #1879198681 - Holdem(No Limit) - $25/$50 - 2023/09/30 20:21:11 UTC
+Foosland 4-max Seat #4 is the button
+Seat 2: JohnMcShen ($8294.98)
+Seat 4: PR0DIGY ($11848.76)
+PR0DIGY posts the small blind $25
+JohnMcShen posts the big blind $50
+*** HOLE CARDS *** 
+PR0DIGY raises $105 to $130
+JohnMcShen calls $80
+*** FLOP *** [8h Qc 5h]
+Main pot $258.75 | Rake $1.25
+JohnMcShen checks
+PR0DIGY checks
+*** TURN *** [8h Qc 5h] [Ad]
+Main pot $258.75 | Rake $1.25
+JohnMcShen checks
+PR0DIGY checks
+*** RIVER *** [8h Qc 5h Ad] [9c]
+Main pot $258.75 | Rake $1.25
+JohnMcShen checks
+PR0DIGY bets $129.37
+JohnMcShen raises $905.60 to $905.60
+PR0DIGY folds
+Uncalled bet ($776.23) returned to JohnMcShen
+JohnMcShen does not show
+*** SUMMARY ***
+Total pot $517.49 | Rake $1.25
+Seat 2: JohnMcShen (big blind) did not showed and won $517.49
+Seat 4: PR0DIGY (small blind) folded on the River
+
+
+Hand #1879201466 - Holdem(No Limit) - $25/$50 - 2023/09/30 20:21:22 UTC
+Foosland 4-max Seat #2 is the button
+Seat 2: JohnMcShen ($8553.10)
+Seat 4: PR0DIGY ($11589.39)
+JohnMcShen posts the small blind $25
+PR0DIGY posts the big blind $50
+*** HOLE CARDS *** 
+JohnMcShen raises $100 to $125
+PR0DIGY folds
+Uncalled bet ($75) returned to JohnMcShen
+JohnMcShen does not show
+*** SUMMARY ***
+Total pot $100
+Seat 2: JohnMcShen (small blind) did not showed and won $100
+Seat 4: PR0DIGY (big blind) folded on the Pre-Flop
+
+
+Hand #1879201964 - Holdem(No Limit) - $25/$50 - 2023/09/30 20:21:46 UTC
+Foosland 4-max Seat #4 is the button
+Seat 2: JohnMcShen ($8603.10)
+Seat 4: PR0DIGY ($11539.39)
+PR0DIGY posts the small blind $25
+JohnMcShen posts the big blind $50
+*** HOLE CARDS *** 
+PR0DIGY raises $105 to $130
+JohnMcShen folds
+Uncalled bet ($80) returned to PR0DIGY
+PR0DIGY does not show
+*** SUMMARY ***
+Total pot $100
+Seat 2: JohnMcShen (big blind) folded on the Pre-Flop
+Seat 4: PR0DIGY (small blind) did not showed and won $100
+
+
+Hand #1879202317 - Holdem(No Limit) - $25/$50 - 2023/09/30 20:23:05 UTC
+Foosland 4-max Seat #2 is the button
+Seat 2: JohnMcShen ($8553.10)
+Seat 4: PR0DIGY ($11589.39)
+JohnMcShen posts the small blind $25
+PR0DIGY posts the big blind $50
+*** HOLE CARDS *** 
+JohnMcShen raises $100 to $125
+PR0DIGY calls $75
+*** FLOP *** [9s 7c 6c]
+Main pot $248.75 | Rake $1.25
+PR0DIGY checks
+JohnMcShen checks
+*** TURN *** [9s 7c 6c] [8d]
+Main pot $248.75 | Rake $1.25
+PR0DIGY bets $124.37
+JohnMcShen calls $124.37
+*** RIVER *** [9s 7c 6c 8d] [7d]
+Main pot $497.49 | Rake $1.25
+PR0DIGY bets $373.11
+JohnMcShen folds
+Uncalled bet ($373.11) returned to PR0DIGY
+PR0DIGY does not show
+*** SUMMARY ***
+Total pot $497.49 | Rake $1.25
+Seat 2: JohnMcShen (small blind) folded on the River
+Seat 4: PR0DIGY (big blind) did not showed and won $497.49
+
+
+Hand #1879204208 - Holdem(No Limit) - $25/$50 - 2023/09/30 20:23:19 UTC
+Foosland 4-max Seat #4 is the button
+Seat 2: JohnMcShen ($8303.73)
+Seat 4: PR0DIGY ($11837.51)
+PR0DIGY posts the small blind $25
+JohnMcShen posts the big blind $50
+*** HOLE CARDS *** 
+PR0DIGY raises $105 to $130
+JohnMcShen folds
+Uncalled bet ($80) returned to PR0DIGY
+PR0DIGY does not show
+*** SUMMARY ***
+Total pot $100
+Seat 2: JohnMcShen (big blind) folded on the Pre-Flop
+Seat 4: PR0DIGY (small blind) did not showed and won $100
+
+
+Hand #1879204550 - Holdem(No Limit) - $25/$50 - 2023/09/30 20:25:18 UTC
+Foosland 4-max Seat #2 is the button
+Seat 1: lukabrate ($5000)
+Seat 2: JohnMcShen ($8253.73)
+Seat 4: PR0DIGY ($11887.51)
+JohnMcShen posts the small blind $25
+PR0DIGY posts the big blind $50
+*** HOLE CARDS *** 
+JohnMcShen raises $100 to $125
+PR0DIGY calls $75
+*** FLOP *** [Kh 7s Td]
+Main pot $248.75 | Rake $1.25
+PR0DIGY checks
+JohnMcShen bets $124.37
+PR0DIGY raises $671 to $671
+JohnMcShen calls $546.63
+*** TURN *** [Kh 7s Td] [6h]
+Main pot $1590.75 | Rake $1.25
+PR0DIGY bets $1766.50
+JohnMcShen calls $1766.50
+*** RIVER *** [Kh 7s Td 6h] [As]
+Main pot $5123.75 | Rake $1.25
+PR0DIGY bets $1485.88
+JohnMcShen calls $1485.88
+*** SUMMARY ***
+Total pot $8095.51 | Rake $1.25
+Seat 2: JohnMcShen (small blind) did not showed and lost
+Seat 4: PR0DIGY (big blind) did not showed and won $8095.51
+
+
+Hand #1879207473 - Holdem(No Limit) - $25/$50 - 2023/09/30 20:25:31 UTC
+Foosland 4-max Seat #2 is the button
+Seat 1: lukabrate ($5000)
+Seat 2: JohnMcShen ($5000)
+Seat 3: IgLa ($5000)
+Seat 4: PR0DIGY ($15934.64)
+PR0DIGY posts the small blind $25
+lukabrate posts the big blind $50
+*** HOLE CARDS *** 
+JohnMcShen raises $125 to $125
+PR0DIGY folds
+lukabrate folds
+Uncalled bet ($75) returned to JohnMcShen
+JohnMcShen does not show
+*** SUMMARY ***
+Total pot $125
+Seat 1: lukabrate (big blind) folded on the Pre-Flop
+Seat 2: JohnMcShen (button) did not showed and won $125
+Seat 4: PR0DIGY (small blind) folded on the Pre-Flop
+
+
+Hand #1879207738 - Holdem(No Limit) - $25/$50 - 2023/09/30 20:25:47 UTC
+Foosland 4-max Seat #4 is the button
+Seat 1: lukabrate ($5000)
+Seat 2: JohnMcShen ($5075)
+Seat 3: IgLa ($5000)
+Seat 4: PR0DIGY ($5000)
+lukabrate posts the small blind $25
+JohnMcShen posts the big blind $50
+*** HOLE CARDS *** 
+PR0DIGY folds
+lukabrate folds
+*** SUMMARY ***
+Total pot $75
+Seat 1: lukabrate (small blind) folded on the Pre-Flop
+Seat 2: JohnMcShen (big blind) did not showed and won $75
+Seat 4: PR0DIGY (button) folded on the Pre-Flop and did not bet
+
+
+Hand #1879208163 - Holdem(No Limit) - $25/$50 - 2023/09/30 20:26:03 UTC
+Foosland 4-max Seat #1 is the button
+Seat 1: lukabrate ($5000)
+Seat 2: JohnMcShen ($5100)
+Seat 3: IgLa ($2000)
+Seat 4: PR0DIGY ($15909.64)
+JohnMcShen posts the small blind $25
+IgLa posts the big blind $50
+*** HOLE CARDS *** 
+PR0DIGY raises $105 to $105
+lukabrate folds
+JohnMcShen folds
+IgLa folds
+Uncalled bet ($55) returned to PR0DIGY
+PR0DIGY does not show
+*** SUMMARY ***
+Total pot $125
+Seat 1: lukabrate (button) folded on the Pre-Flop and did not bet
+Seat 2: JohnMcShen (small blind) folded on the Pre-Flop
+Seat 3: IgLa (big blind) folded on the Pre-Flop
+Seat 4: PR0DIGY did not showed and won $125
+
+
+Hand #1879208488 - Holdem(No Limit) - $25/$50 - 2023/09/30 20:26:53 UTC
+Foosland 4-max Seat #2 is the button
+Seat 1: lukabrate ($5000)
+Seat 2: JohnMcShen ($5075)
+Seat 3: IgLa ($2000)
+Seat 4: PR0DIGY ($15984.64)
+IgLa posts the small blind $25
+PR0DIGY posts the big blind $50
+*** HOLE CARDS *** 
+lukabrate folds
+JohnMcShen raises $110 to $110
+IgLa folds
+PR0DIGY calls $60
+*** FLOP *** [6s 4c Qd]
+Main pot $242.75 | Rake $2.25
+PR0DIGY checks
+JohnMcShen bets $121.37
+PR0DIGY raises $262.16 to $262.16
+JohnMcShen folds
+Uncalled bet ($140.79) returned to PR0DIGY
+PR0DIGY does not show
+*** SUMMARY ***
+Total pot $485.49 | Rake $2.25
+Seat 1: lukabrate folded on the Pre-Flop and did not bet
+Seat 2: JohnMcShen (button) folded on the Flop
+Seat 3: IgLa (small blind) folded on the Pre-Flop
+Seat 4: PR0DIGY (big blind) did not showed and won $485.49
+
+
+Hand #1879209675 - Holdem(No Limit) - $25/$50 - 2023/09/30 20:28:17 UTC
+Foosland 4-max Seat #3 is the button
+Seat 1: lukabrate ($5000)
+Seat 2: JohnMcShen ($5000)
+Seat 3: IgLa ($5000)
+Seat 4: PR0DIGY ($16238.76)
+PR0DIGY posts the small blind $25
+JohnMcShen posts the big blind $50
+*** HOLE CARDS *** 
+IgLa folds
+PR0DIGY raises $125 to $150
+JohnMcShen raises $400 to $450
+PR0DIGY calls $300
+*** FLOP *** [3s Jd 5s]
+Main pot $898.25 | Rake $1.75
+PR0DIGY checks
+JohnMcShen bets $449.12
+PR0DIGY calls $449.12
+*** TURN *** [3s Jd 5s] [4c]
+Main pot $1796.49 | Rake $1.75
+PR0DIGY checks
+JohnMcShen bets $1125
+PR0DIGY folds
+Uncalled bet ($1125) returned to JohnMcShen
+JohnMcShen does not show
+*** SUMMARY ***
+Total pot $1796.49 | Rake $1.75
+Seat 2: JohnMcShen (big blind) did not showed and won $1796.49
+Seat 3: IgLa (button) folded on the Pre-Flop and did not bet
+Seat 4: PR0DIGY (small blind) folded on the Turn
+
+
+Hand #1879211645 - Holdem(No Limit) - $25/$50 - 2023/09/30 20:28:30 UTC
+Foosland 4-max Seat #4 is the button
+Seat 2: JohnMcShen ($5897.37)
+Seat 3: IgLa ($1975)
+Seat 4: PR0DIGY ($15339.64)
+JohnMcShen posts the small blind $25
+IgLa posts the big blind $50
+*** HOLE CARDS *** 
+PR0DIGY raises $105 to $105
+JohnMcShen folds
+IgLa folds
+Uncalled bet ($55) returned to PR0DIGY
+PR0DIGY does not show
+*** SUMMARY ***
+Total pot $125
+Seat 2: JohnMcShen (small blind) folded on the Pre-Flop
+Seat 3: IgLa (big blind) folded on the Pre-Flop
+Seat 4: PR0DIGY (button) did not showed and won $125
+
+
+Hand #1879211990 - Holdem(No Limit) - $25/$50 - 2023/09/30 20:28:48 UTC
+Foosland 4-max Seat #2 is the button
+Seat 2: JohnMcShen ($5872.37)
+Seat 3: IgLa ($1925)
+Seat 4: PR0DIGY ($15414.64)
+IgLa posts the small blind $25
+PR0DIGY posts the big blind $50
+*** HOLE CARDS *** 
+JohnMcShen raises $110 to $110
+IgLa raises $325 to $350
+PR0DIGY folds
+JohnMcShen folds
+Uncalled bet ($240) returned to IgLa
+IgLa does not show
+*** SUMMARY ***
+Total pot $270
+Seat 2: JohnMcShen (button) folded on the Pre-Flop and did not bet
+Seat 3: IgLa (small blind) did not showed and won $270
+Seat 4: PR0DIGY (big blind) folded on the Pre-Flop
+
+
+Hand #1879212416 - Holdem(No Limit) - $25/$50 - 2023/09/30 20:29:10 UTC
+Foosland 4-max Seat #3 is the button
+Seat 2: JohnMcShen ($5762.37)
+Seat 3: IgLa ($5000)
+Seat 4: PR0DIGY ($15364.64)
+PR0DIGY posts the small blind $25
+JohnMcShen posts the big blind $50
+*** HOLE CARDS *** 
+IgLa folds
+PR0DIGY folds
+*** SUMMARY ***
+Total pot $75
+Seat 2: JohnMcShen (big blind) did not showed and won $75
+Seat 3: IgLa (button) folded on the Pre-Flop and did not bet
+Seat 4: PR0DIGY (small blind) folded on the Pre-Flop
+
+
+Hand #1879212931 - Holdem(No Limit) - $25/$50 - 2023/09/30 20:29:22 UTC
+Foosland 4-max Seat #4 is the button
+Seat 2: JohnMcShen ($5787.37)
+Seat 3: IgLa ($2085)
+Seat 4: PR0DIGY ($15339.64)
+JohnMcShen posts the small blind $25
+IgLa posts the big blind $50
+*** HOLE CARDS *** 
+PR0DIGY raises $130 to $130
+JohnMcShen folds
+IgLa folds
+Uncalled bet ($80) returned to PR0DIGY
+PR0DIGY does not show
+*** SUMMARY ***
+Total pot $125
+Seat 2: JohnMcShen (small blind) folded on the Pre-Flop
+Seat 3: IgLa (big blind) folded on the Pre-Flop
+Seat 4: PR0DIGY (button) did not showed and won $125
+
+
+Hand #1879213508 - Holdem(No Limit) - $25/$50 - 2023/09/30 20:29:52 UTC
+Foosland 4-max Seat #4 is the button
+Seat 2: JohnMcShen ($5762.37)
+Seat 3: IgLa ($5000)
+Seat 4: PR0DIGY ($15414.64)
+PR0DIGY posts the small blind $25
+JohnMcShen posts the big blind $50
+*** HOLE CARDS *** 
+PR0DIGY raises $105 to $130
+JohnMcShen raises $475 to $525
+PR0DIGY folds
+Uncalled bet ($395) returned to JohnMcShen
+JohnMcShen does not show
+*** SUMMARY ***
+Total pot $260
+Seat 2: JohnMcShen (big blind) did not showed and won $260
+Seat 4: PR0DIGY (small blind) folded on the Pre-Flop
+
+
+Hand #1879213905 - Holdem(No Limit) - $25/$50 - 2023/09/30 20:30:25 UTC
+Foosland 4-max Seat #2 is the button
+Seat 2: JohnMcShen ($5892.37)
+Seat 4: PR0DIGY ($15284.64)
+JohnMcShen posts the small blind $25
+PR0DIGY posts the big blind $50
+*** HOLE CARDS *** 
+JohnMcShen raises $100 to $125
+PR0DIGY calls $75
+*** FLOP *** [6s 6d Kc]
+Main pot $248.75 | Rake $1.25
+PR0DIGY checks
+JohnMcShen bets $77.11
+PR0DIGY folds
+Uncalled bet ($77.11) returned to JohnMcShen
+JohnMcShen does not show
+*** SUMMARY ***
+Total pot $248.75 | Rake $1.25
+Seat 2: JohnMcShen (small blind) did not showed and won $248.75
+Seat 4: PR0DIGY (big blind) folded on the Flop
+
+
+Hand #1879214676 - Holdem(No Limit) - $25/$50 - 2023/09/30 20:30:52 UTC
+Foosland 4-max Seat #4 is the button
+Seat 2: JohnMcShen ($6016.12)
+Seat 4: PR0DIGY ($15159.64)
+PR0DIGY posts the small blind $25
+JohnMcShen posts the big blind $50
+*** HOLE CARDS *** 
+PR0DIGY raises $105 to $130
+JohnMcShen raises $475 to $525
+PR0DIGY folds
+Uncalled bet ($395) returned to JohnMcShen
+JohnMcShen does not show
+*** SUMMARY ***
+Total pot $260
+Seat 2: JohnMcShen (big blind) did not showed and won $260
+Seat 4: PR0DIGY (small blind) folded on the Pre-Flop
+
+
+Hand #1879215288 - Holdem(No Limit) - $25/$50 - 2023/09/30 20:32:06 UTC
+Foosland 4-max Seat #2 is the button
+Seat 2: JohnMcShen ($6146.12)
+Seat 4: PR0DIGY ($15029.64)
+JohnMcShen posts the small blind $25
+PR0DIGY posts the big blind $50
+*** HOLE CARDS *** 
+JohnMcShen raises $100 to $125
+PR0DIGY calls $75
+*** FLOP *** [As 6h Qd]
+Main pot $248.75 | Rake $1.25
+PR0DIGY checks
+JohnMcShen bets $77.11
+PR0DIGY calls $77.11
+*** TURN *** [As 6h Qd] [7s]
+Main pot $402.97 | Rake $1.25
+PR0DIGY checks
+JohnMcShen checks
+*** RIVER *** [As 6h Qd 7s] [2d]
+Main pot $402.97 | Rake $1.25
+PR0DIGY checks
+JohnMcShen bets $302.22
+PR0DIGY folds
+Uncalled bet ($302.22) returned to JohnMcShen
+JohnMcShen does not show
+*** SUMMARY ***
+Total pot $402.97 | Rake $1.25
+Seat 2: JohnMcShen (small blind) did not showed and won $402.97
+Seat 4: PR0DIGY (big blind) folded on the River
+
+
+Hand #1879217027 - Holdem(No Limit) - $25/$50 - 2023/09/30 20:33:30 UTC
+Foosland 4-max Seat #4 is the button
+Seat 2: JohnMcShen ($6346.98)
+Seat 4: PR0DIGY ($14827.53)
+PR0DIGY posts the small blind $25
+JohnMcShen posts the big blind $50
+*** HOLE CARDS *** 
+PR0DIGY raises $105 to $130
+JohnMcShen raises $475 to $525
+PR0DIGY calls $395
+*** FLOP *** [As 5h Th]
+Main pot $1048.75 | Rake $1.25
+JohnMcShen checks
+PR0DIGY checks
+*** TURN *** [As 5h Th] [4c]
+Main pot $1048.75 | Rake $1.25
+JohnMcShen checks
+PR0DIGY checks
+*** RIVER *** [As 5h Th 4c] [Kh]
+Main pot $1048.75 | Rake $1.25
+JohnMcShen checks
+PR0DIGY checks
+*** SUMMARY ***
+Total pot $1048.75 | Rake $1.25
+Seat 2: JohnMcShen (big blind) did not showed and won $1048.75
+Seat 4: PR0DIGY (small blind) did not showed and lost
+
+
+Hand #1879219009 - Holdem(No Limit) - $25/$50 - 2023/09/30 20:33:46 UTC
+Foosland 4-max Seat #2 is the button
+Seat 2: JohnMcShen ($6870.73)
+Seat 4: PR0DIGY ($14302.53)
+JohnMcShen posts the small blind $25
+PR0DIGY posts the big blind $50
+*** HOLE CARDS *** 
+JohnMcShen raises $100 to $125
+PR0DIGY folds
+Uncalled bet ($75) returned to JohnMcShen
+JohnMcShen does not show
+*** SUMMARY ***
+Total pot $100
+Seat 2: JohnMcShen (small blind) did not showed and won $100
+Seat 4: PR0DIGY (big blind) folded on the Pre-Flop
+
+
+Hand #1879219328 - Holdem(No Limit) - $25/$50 - 2023/09/30 20:34:07 UTC
+Foosland 4-max Seat #4 is the button
+Seat 2: JohnMcShen ($6920.73)
+Seat 4: PR0DIGY ($14252.53)
+PR0DIGY posts the small blind $25
+JohnMcShen posts the big blind $50
+*** HOLE CARDS *** 
+PR0DIGY folds
+*** SUMMARY ***
+Total pot $75
+Seat 2: JohnMcShen (big blind) did not showed and won $75
+Seat 4: PR0DIGY (small blind) folded on the Pre-Flop
+
+
+Hand #1879219833 - Holdem(No Limit) - $25/$50 - 2023/09/30 20:35:12 UTC
+Foosland 4-max Seat #2 is the button
+Seat 2: JohnMcShen ($6945.73)
+Seat 4: PR0DIGY ($14227.53)
+JohnMcShen posts the small blind $25
+PR0DIGY posts the big blind $50
+*** HOLE CARDS *** 
+JohnMcShen raises $100 to $125
+PR0DIGY calls $75
+*** FLOP *** [Ac 6s Ks]
+Main pot $248.75 | Rake $1.25
+PR0DIGY checks
+JohnMcShen bets $77.11
+PR0DIGY calls $77.11
+*** TURN *** [Ac 6s Ks] [4s]
+Main pot $402.97 | Rake $1.25
+PR0DIGY checks
+JohnMcShen checks
+*** RIVER *** [Ac 6s Ks 4s] [9c]
+Main pot $402.97 | Rake $1.25
+PR0DIGY bets $1006.50
+JohnMcShen folds
+Uncalled bet ($1006.50) returned to PR0DIGY
+PR0DIGY does not show
+*** SUMMARY ***
+Total pot $402.97 | Rake $1.25
+Seat 2: JohnMcShen (small blind) folded on the River
+Seat 4: PR0DIGY (big blind) did not showed and won $402.97
+
+
+Hand #1879221344 - Holdem(No Limit) - $25/$50 - 2023/09/30 20:35:25 UTC
+Foosland 4-max Seat #4 is the button
+Seat 2: JohnMcShen ($6743.62)
+Seat 4: PR0DIGY ($14428.39)
+PR0DIGY posts the small blind $25
+JohnMcShen posts the big blind $50
+*** HOLE CARDS *** 
+PR0DIGY raises $105 to $130
+JohnMcShen folds
+Uncalled bet ($80) returned to PR0DIGY
+PR0DIGY does not show
+*** SUMMARY ***
+Total pot $100
+Seat 2: JohnMcShen (big blind) folded on the Pre-Flop
+Seat 4: PR0DIGY (small blind) did not showed and won $100
+
+
+Hand #1879221653 - Holdem(No Limit) - $25/$50 - 2023/09/30 20:36:31 UTC
+Foosland 4-max Seat #2 is the button
+Seat 2: JohnMcShen ($6693.62)
+Seat 4: PR0DIGY ($14478.39)
+JohnMcShen posts the small blind $25
+PR0DIGY posts the big blind $50
+*** HOLE CARDS *** 
+JohnMcShen raises $100 to $125
+PR0DIGY calls $75
+*** FLOP *** [As Ts Kd]
+Main pot $248.75 | Rake $1.25
+PR0DIGY checks
+JohnMcShen checks
+*** TURN *** [As Ts Kd] [8d]
+Main pot $248.75 | Rake $1.25
+PR0DIGY checks
+JohnMcShen checks
+*** RIVER *** [As Ts Kd 8d] [3c]
+Main pot $248.75 | Rake $1.25
+PR0DIGY checks
+JohnMcShen checks
+*** SUMMARY ***
+Total pot $248.75 | Rake $1.25
+Seat 2: JohnMcShen (small blind) did not showed and lost
+Seat 4: PR0DIGY (big blind) did not showed and won $248.75
+
+
+Hand #1879223245 - Holdem(No Limit) - $25/$50 - 2023/09/30 20:37:36 UTC
+Foosland 4-max Seat #4 is the button
+Seat 2: JohnMcShen ($6568.62)
+Seat 4: PR0DIGY ($14602.14)
+PR0DIGY posts the small blind $25
+JohnMcShen posts the big blind $50
+*** HOLE CARDS *** 
+PR0DIGY raises $105 to $130
+JohnMcShen calls $80
+*** FLOP *** [7s 4c Ad]
+Main pot $258.75 | Rake $1.25
+JohnMcShen checks
+PR0DIGY bets $75.03
+JohnMcShen calls $75.03
+*** TURN *** [7s 4c Ad] [7c]
+Main pot $408.81 | Rake $1.25
+JohnMcShen bets $50
+PR0DIGY calls $50
+*** RIVER *** [7s 4c Ad 7c] [Js]
+Main pot $508.81 | Rake $1.25
+JohnMcShen checks
+PR0DIGY checks
+*** SUMMARY ***
+Total pot $508.81 | Rake $1.25
+Seat 2: JohnMcShen (big blind) did not showed and won $254.40
+Seat 4: PR0DIGY (small blind) did not showed and won $254.41
+
+
+Hand #1879224777 - Holdem(No Limit) - $25/$50 - 2023/09/30 20:39:10 UTC
+Foosland 4-max Seat #2 is the button
+Seat 2: JohnMcShen ($6567.99)
+Seat 4: PR0DIGY ($14601.52)
+JohnMcShen posts the small blind $25
+PR0DIGY posts the big blind $50
+*** HOLE CARDS *** 
+JohnMcShen raises $100 to $125
+PR0DIGY calls $75
+*** FLOP *** [3s 2s 5h]
+Main pot $248.75 | Rake $1.25
+PR0DIGY checks
+JohnMcShen checks
+*** TURN *** [3s 2s 5h] [6h]
+Main pot $248.75 | Rake $1.25
+PR0DIGY bets $186.56
+JohnMcShen folds
+Uncalled bet ($186.56) returned to PR0DIGY
+PR0DIGY does not show
+*** SUMMARY ***
+Total pot $248.75 | Rake $1.25
+Seat 2: JohnMcShen (small blind) folded on the Turn
+Seat 4: PR0DIGY (big blind) did not showed and won $248.75
+
+
+Hand #1879226859 - Holdem(No Limit) - $25/$50 - 2023/09/30 20:39:23 UTC
+Foosland 4-max Seat #4 is the button
+Seat 2: JohnMcShen ($6442.99)
+Seat 4: PR0DIGY ($14725.27)
+PR0DIGY posts the small blind $25
+JohnMcShen posts the big blind $50
+*** HOLE CARDS *** 
+PR0DIGY raises $105 to $130
+JohnMcShen folds
+Uncalled bet ($80) returned to PR0DIGY
+PR0DIGY does not show
+*** SUMMARY ***
+Total pot $100
+Seat 2: JohnMcShen (big blind) folded on the Pre-Flop
+Seat 4: PR0DIGY (small blind) did not showed and won $100
+
+
+Hand #1879227139 - Holdem(No Limit) - $25/$50 - 2023/09/30 20:40:00 UTC
+Foosland 4-max Seat #2 is the button
+Seat 2: JohnMcShen ($6392.99)
+Seat 4: PR0DIGY ($14775.27)
+JohnMcShen posts the small blind $25
+PR0DIGY posts the big blind $50
+*** HOLE CARDS *** 
+JohnMcShen raises $100 to $125
+PR0DIGY calls $75
+*** FLOP *** [Ad 8h Qs]
+Main pot $248.75 | Rake $1.25
+PR0DIGY checks
+JohnMcShen bets $77.11
+PR0DIGY folds
+Uncalled bet ($77.11) returned to JohnMcShen
+JohnMcShen does not show
+*** SUMMARY ***
+Total pot $248.75 | Rake $1.25
+Seat 2: JohnMcShen (small blind) did not showed and won $248.75
+Seat 4: PR0DIGY (big blind) folded on the Flop
+
+
+
+

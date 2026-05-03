@@ -1,0 +1,2917 @@
+PokerStars Hand #1500366644:  Hold'em No Limit ($25.00/$50.00 USD) - 2022/12/27 20:01:11 ET
+Table 'WPN_7 Day No Rathole 25/50 NLH 9-Max' 9-max Seat #7 is the button
+Seat 2: chop-ch0p ($6007.19 in chips)
+Seat 7: bot35 ($998.75 in chips)
+bot35: posts small blind $25.00
+chop-ch0p: posts big blind $50.00
+*** HOLE CARDS ***
+bot35: calls $25.00
+chop-ch0p: raises $5957.19 to $6007.19 and is all-in
+bot35: folds
+Uncalled bet ($5957.19) returned to chop-ch0p
+chop-ch0p collected $100.00 from pot
+chop-ch0p: doesn't show hand
+*** SUMMARY ***
+Total pot $100.00 | Rake $0.00
+Seat 2: chop-ch0p (big blind) collected ($100.00)
+Seat 7: bot35 (button) (small blind) folded before Flop
+
+PokerStars Hand #1500275838:  Hold'em No Limit ($25.00/$50.00 USD) - 2022/12/27 18:38:14 ET
+Table 'WPN_7 Day No Rathole 25/50 NLH 9-Max' 9-max Seat #7 is the button
+Seat 2: chop-ch0p ($6482.19 in chips)
+Seat 7: AnnuittCoeptis ($997.75 in chips)
+AnnuittCoeptis: posts small blind $25.00
+chop-ch0p: posts big blind $50.00
+*** HOLE CARDS ***
+AnnuittCoeptis: folds
+Uncalled bet ($25.00) returned to chop-ch0p
+chop-ch0p collected $50.00 from pot
+chop-ch0p: doesn't show hand
+*** SUMMARY ***
+Total pot $50.00 | Rake $0.00
+Seat 2: chop-ch0p (big blind) collected ($50.00)
+Seat 7: AnnuittCoeptis (button) (small blind) folded before Flop
+
+PokerStars Hand #1499980505:  Hold'em No Limit ($25.00/$50.00 USD) - 2022/12/27 08:47:48 ET
+Table 'WPN_7 Day No Rathole 25/50 NLH 9-Max' 9-max Seat #1 is the button
+Seat 1: eldoofus ($22255.59 in chips)
+Seat 2: THECAGE ($17095.23 in chips)
+eldoofus: posts small blind $25.00
+THECAGE: posts big blind $50.00
+*** HOLE CARDS ***
+eldoofus: raises $75.00 to $125.00
+THECAGE: folds
+Uncalled bet ($75.00) returned to eldoofus
+eldoofus collected $100.00 from pot
+eldoofus: doesn't show hand
+*** SUMMARY ***
+Total pot $100.00 | Rake $0.00
+Seat 1: eldoofus (button) (small blind) collected ($100.00)
+Seat 2: THECAGE (big blind) folded before Flop
+
+PokerStars Hand #1500001128:  Hold'em No Limit ($25.00/$50.00 USD) - 2022/12/27 09:35:46 ET
+Table 'WPN_7 Day No Rathole 25/50 NLH 9-Max' 9-max Seat #6 is the button
+Seat 2: THECAGE ($17020.23 in chips)
+Seat 6: JennaTools ($525.00 in chips)
+JennaTools: posts small blind $25.00
+THECAGE: posts big blind $50.00
+*** HOLE CARDS ***
+JennaTools: folds
+Uncalled bet ($25.00) returned to THECAGE
+THECAGE collected $50.00 from pot
+THECAGE: doesn't show hand
+*** SUMMARY ***
+Total pot $50.00 | Rake $0.00
+Seat 2: THECAGE (big blind) collected ($50.00)
+Seat 6: JennaTools (button) (small blind) folded before Flop
+
+PokerStars Hand #1500001211:  Hold'em No Limit ($25.00/$50.00 USD) - 2022/12/27 09:35:57 ET
+Table 'WPN_7 Day No Rathole 25/50 NLH 9-Max' 9-max Seat #2 is the button
+Seat 2: THECAGE ($17045.23 in chips)
+Seat 6: JennaTools ($500.00 in chips)
+THECAGE: posts small blind $25.00
+JennaTools: posts big blind $50.00
+*** HOLE CARDS ***
+THECAGE: calls $25.00
+JennaTools: checks
+*** FLOP *** [8s Ad 4s]
+JennaTools: checks
+THECAGE: bets $50.00
+JennaTools: folds
+Uncalled bet ($50.00) returned to THECAGE
+THECAGE collected $98.75 from pot
+THECAGE: doesn't show hand
+*** SUMMARY ***
+Total pot $100.00 | Rake $1.25
+Board [8s Ad 4s]
+Seat 2: THECAGE (button) (small blind) collected ($98.75)
+Seat 6: JennaTools (big blind) folded on the Flop
+
+PokerStars Hand #1500001408:  Hold'em No Limit ($25.00/$50.00 USD) - 2022/12/27 09:36:28 ET
+Table 'WPN_7 Day No Rathole 25/50 NLH 9-Max' 9-max Seat #6 is the button
+Seat 2: THECAGE ($17093.98 in chips)
+Seat 6: JennaTools ($450.00 in chips)
+JennaTools: posts small blind $25.00
+THECAGE: posts big blind $50.00
+*** HOLE CARDS ***
+JennaTools: raises $400.00 to $450.00 and is all-in
+THECAGE: calls $400.00
+*** FIRST FLOP *** [9c Jh 5c]
+*** FIRST TURN *** [9c Jh 5c] [Qc]
+*** FIRST RIVER *** [9c Jh 5c Qc] [Ks]
+*** SECOND FLOP *** [2s Kh Js]
+*** SECOND TURN *** [2s Kh Js] [2d]
+*** SECOND RIVER *** [2s Kh Js 2d] [Ac]
+*** FIRST SHOW DOWN ***
+THECAGE: shows [Ad 7s]
+JennaTools: shows [5h Ah]
+JennaTools collected $449.38 from pot
+*** SECOND SHOW DOWN ***
+THECAGE: shows [Ad 7s]
+JennaTools: shows [5h Ah]
+THECAGE collected $224.68 from pot
+JennaTools collected $224.69 from pot
+*** SUMMARY ***
+Total pot $900.00 | Rake $1.25
+Hand was run twice
+FIRST Board [9c Jh 5c Qc Ks]
+SECOND Board [2s Kh Js 2d Ac]
+Seat 2: THECAGE (big blind) showed [Ad 7s] and lost, and won ($224.68)
+Seat 6: JennaTools (button) (small blind) showed [5h Ah] and won ($449.38), and won ($224.69)
+
+PokerStars Hand #1500001614:  Hold'em No Limit ($25.00/$50.00 USD) - 2022/12/27 09:36:59 ET
+Table 'WPN_7 Day No Rathole 25/50 NLH 9-Max' 9-max Seat #2 is the button
+Seat 2: THECAGE ($16868.66 in chips)
+Seat 6: JennaTools ($674.07 in chips)
+THECAGE: posts small blind $25.00
+JennaTools: posts big blind $50.00
+*** HOLE CARDS ***
+THECAGE: folds
+Uncalled bet ($25.00) returned to JennaTools
+JennaTools collected $50.00 from pot
+JennaTools: doesn't show hand
+*** SUMMARY ***
+Total pot $50.00 | Rake $0.00
+Seat 2: THECAGE (button) (small blind) folded before Flop
+Seat 6: JennaTools (big blind) collected ($50.00)
+
+PokerStars Hand #1500001763:  Hold'em No Limit ($25.00/$50.00 USD) - 2022/12/27 09:37:20 ET
+Table 'WPN_7 Day No Rathole 25/50 NLH 9-Max' 9-max Seat #6 is the button
+Seat 2: THECAGE ($16843.66 in chips)
+Seat 6: JennaTools ($699.07 in chips)
+JennaTools: posts small blind $25.00
+THECAGE: posts big blind $50.00
+*** HOLE CARDS ***
+JennaTools: folds
+Uncalled bet ($25.00) returned to THECAGE
+THECAGE collected $50.00 from pot
+THECAGE: doesn't show hand
+*** SUMMARY ***
+Total pot $50.00 | Rake $0.00
+Seat 2: THECAGE (big blind) collected ($50.00)
+Seat 6: JennaTools (button) (small blind) folded before Flop
+
+PokerStars Hand #1500001832:  Hold'em No Limit ($25.00/$50.00 USD) - 2022/12/27 09:37:31 ET
+Table 'WPN_7 Day No Rathole 25/50 NLH 9-Max' 9-max Seat #2 is the button
+Seat 2: THECAGE ($16868.66 in chips)
+Seat 6: JennaTools ($674.07 in chips)
+THECAGE: posts small blind $25.00
+JennaTools: posts big blind $50.00
+*** HOLE CARDS ***
+THECAGE: calls $25.00
+JennaTools: raises $100.00 to $150.00
+THECAGE: raises $350.00 to $500.00
+JennaTools: raises $174.07 to $674.07 and is all-in
+THECAGE: calls $174.07
+*** FLOP *** [Ad 8s Jh]
+*** TURN *** [Ad 8s Jh] [9d]
+*** RIVER *** [Ad 8s Jh 9d] [9c]
+*** SHOW DOWN ***
+JennaTools: shows [Kh Ks]
+THECAGE: shows [Qc Jc]
+JennaTools collected $1346.89 from pot
+*** SUMMARY ***
+Total pot $1348.14 | Rake $1.25
+Board [Ad 8s Jh 9d 9c]
+Seat 2: THECAGE (button) (small blind) showed [Qc Jc] and lost
+Seat 6: JennaTools (big blind) showed [Kh Ks] and won ($1346.89)
+
+PokerStars Hand #1500002151:  Hold'em No Limit ($25.00/$50.00 USD) - 2022/12/27 09:38:16 ET
+Table 'WPN_7 Day No Rathole 25/50 NLH 9-Max' 9-max Seat #6 is the button
+Seat 2: THECAGE ($16194.59 in chips)
+Seat 6: JennaTools ($1346.89 in chips)
+JennaTools: posts small blind $25.00
+THECAGE: posts big blind $50.00
+*** HOLE CARDS ***
+JennaTools: raises $50.00 to $100.00
+THECAGE: folds
+Uncalled bet ($50.00) returned to JennaTools
+JennaTools collected $100.00 from pot
+JennaTools: doesn't show hand
+*** SUMMARY ***
+Total pot $100.00 | Rake $0.00
+Seat 2: THECAGE (big blind) folded before Flop
+Seat 6: JennaTools (button) (small blind) collected ($100.00)
+
+PokerStars Hand #1500002252:  Hold'em No Limit ($25.00/$50.00 USD) - 2022/12/27 09:38:30 ET
+Table 'WPN_7 Day No Rathole 25/50 NLH 9-Max' 9-max Seat #2 is the button
+Seat 2: THECAGE ($16144.59 in chips)
+Seat 6: JennaTools ($1396.89 in chips)
+THECAGE: posts small blind $25.00
+JennaTools: posts big blind $50.00
+*** HOLE CARDS ***
+THECAGE: calls $25.00
+JennaTools: checks
+*** FLOP *** [9s 3c Qd]
+JennaTools: checks
+THECAGE: bets $50.00
+JennaTools: calls $50.00
+*** TURN *** [9s 3c Qd] [2s]
+JennaTools: checks
+THECAGE: bets $248.00
+JennaTools: folds
+Uncalled bet ($248.00) returned to THECAGE
+THECAGE collected $198.75 from pot
+THECAGE: doesn't show hand
+*** SUMMARY ***
+Total pot $200.00 | Rake $1.25
+Board [9s 3c Qd 2s]
+Seat 2: THECAGE (button) (small blind) collected ($198.75)
+Seat 6: JennaTools (big blind) folded on the Turn
+
+PokerStars Hand #1500002633:  Hold'em No Limit ($25.00/$50.00 USD) - 2022/12/27 09:39:24 ET
+Table 'WPN_7 Day No Rathole 25/50 NLH 9-Max' 9-max Seat #6 is the button
+Seat 2: THECAGE ($16243.34 in chips)
+Seat 6: JennaTools ($1296.89 in chips)
+JennaTools: posts small blind $25.00
+THECAGE: posts big blind $50.00
+*** HOLE CARDS ***
+JennaTools: calls $25.00
+THECAGE: raises $125.00 to $175.00
+JennaTools: calls $125.00
+*** FLOP *** [Ts 3d As]
+THECAGE: checks
+JennaTools: checks
+*** TURN *** [Ts 3d As] [8h]
+THECAGE: checks
+JennaTools: checks
+*** RIVER *** [Ts 3d As 8h] [Ac]
+THECAGE: checks
+JennaTools: checks
+*** SHOW DOWN ***
+THECAGE: shows [Kc 8s]
+JennaTools: mucks hand
+THECAGE collected $348.75 from pot
+*** SUMMARY ***
+Total pot $350.00 | Rake $1.25
+Board [Ts 3d As 8h Ac]
+Seat 2: THECAGE (big blind) showed [Kc 8s] and won ($348.75)
+Seat 6: JennaTools (button) (small blind) mucked
+
+PokerStars Hand #1500003022:  Hold'em No Limit ($25.00/$50.00 USD) - 2022/12/27 09:40:24 ET
+Table 'WPN_7 Day No Rathole 25/50 NLH 9-Max' 9-max Seat #2 is the button
+Seat 2: THECAGE ($16417.09 in chips)
+Seat 6: JennaTools ($1121.89 in chips)
+THECAGE: posts small blind $25.00
+JennaTools: posts big blind $50.00
+*** HOLE CARDS ***
+THECAGE: raises $50.00 to $100.00
+JennaTools: calls $50.00
+*** FLOP *** [4c Qd 7h]
+JennaTools: checks
+THECAGE: bets $99.50
+JennaTools: calls $99.50
+*** TURN *** [4c Qd 7h] [Js]
+JennaTools: checks
+THECAGE: bets $291.27
+JennaTools: folds
+Uncalled bet ($291.27) returned to THECAGE
+THECAGE collected $397.75 from pot
+THECAGE: doesn't show hand
+*** SUMMARY ***
+Total pot $399.00 | Rake $1.25
+Board [4c Qd 7h Js]
+Seat 2: THECAGE (button) (small blind) collected ($397.75)
+Seat 6: JennaTools (big blind) folded on the Turn
+
+PokerStars Hand #1500003437:  Hold'em No Limit ($25.00/$50.00 USD) - 2022/12/27 09:41:28 ET
+Table 'WPN_7 Day No Rathole 25/50 NLH 9-Max' 9-max Seat #6 is the button
+Seat 2: THECAGE ($16615.34 in chips)
+Seat 6: JennaTools ($922.39 in chips)
+JennaTools: posts small blind $25.00
+THECAGE: posts big blind $50.00
+*** HOLE CARDS ***
+JennaTools: folds
+Uncalled bet ($25.00) returned to THECAGE
+THECAGE collected $50.00 from pot
+THECAGE: doesn't show hand
+*** SUMMARY ***
+Total pot $50.00 | Rake $0.00
+Seat 2: THECAGE (big blind) collected ($50.00)
+Seat 6: JennaTools (button) (small blind) folded before Flop
+
+PokerStars Hand #1500003506:  Hold'em No Limit ($25.00/$50.00 USD) - 2022/12/27 09:41:38 ET
+Table 'WPN_7 Day No Rathole 25/50 NLH 9-Max' 9-max Seat #2 is the button
+Seat 2: THECAGE ($16640.34 in chips)
+Seat 6: JennaTools ($897.39 in chips)
+THECAGE: posts small blind $25.00
+JennaTools: posts big blind $50.00
+*** HOLE CARDS ***
+THECAGE: raises $50.00 to $100.00
+JennaTools: calls $50.00
+*** FLOP *** [3c 6h 7c]
+JennaTools: checks
+THECAGE: checks
+*** TURN *** [3c 6h 7c] [2s]
+JennaTools: bets $190.00
+THECAGE: folds
+Uncalled bet ($190.00) returned to JennaTools
+JennaTools collected $198.75 from pot
+JennaTools: doesn't show hand
+*** SUMMARY ***
+Total pot $200.00 | Rake $1.25
+Board [3c 6h 7c 2s]
+Seat 2: THECAGE (button) (small blind) folded on the Turn
+Seat 6: JennaTools (big blind) collected ($198.75)
+
+PokerStars Hand #1500003731:  Hold'em No Limit ($25.00/$50.00 USD) - 2022/12/27 09:42:12 ET
+Table 'WPN_7 Day No Rathole 25/50 NLH 9-Max' 9-max Seat #6 is the button
+Seat 2: THECAGE ($16540.34 in chips)
+Seat 6: JennaTools ($996.14 in chips)
+JennaTools: posts small blind $25.00
+THECAGE: posts big blind $50.00
+*** HOLE CARDS ***
+JennaTools: folds
+Uncalled bet ($25.00) returned to THECAGE
+THECAGE collected $50.00 from pot
+THECAGE: doesn't show hand
+*** SUMMARY ***
+Total pot $50.00 | Rake $0.00
+Seat 2: THECAGE (big blind) collected ($50.00)
+Seat 6: JennaTools (button) (small blind) folded before Flop
+
+PokerStars Hand #1500003796:  Hold'em No Limit ($25.00/$50.00 USD) - 2022/12/27 09:42:23 ET
+Table 'WPN_7 Day No Rathole 25/50 NLH 9-Max' 9-max Seat #2 is the button
+Seat 2: THECAGE ($16565.34 in chips)
+Seat 6: JennaTools ($971.14 in chips)
+THECAGE: posts small blind $25.00
+JennaTools: posts big blind $50.00
+*** HOLE CARDS ***
+THECAGE: calls $25.00
+JennaTools: checks
+*** FLOP *** [Kd 4s 3d]
+JennaTools: checks
+THECAGE: bets $50.00
+JennaTools: raises $84.00 to $134.00
+THECAGE: calls $84.00
+*** TURN *** [Kd 4s 3d] [5d]
+JennaTools: checks
+THECAGE: bets $73.50
+JennaTools: folds
+Uncalled bet ($73.50) returned to THECAGE
+THECAGE collected $366.75 from pot
+THECAGE: doesn't show hand
+*** SUMMARY ***
+Total pot $368.00 | Rake $1.25
+Board [Kd 4s 3d 5d]
+Seat 2: THECAGE (button) (small blind) collected ($366.75)
+Seat 6: JennaTools (big blind) folded on the Turn
+
+PokerStars Hand #1500004133:  Hold'em No Limit ($25.00/$50.00 USD) - 2022/12/27 09:43:16 ET
+Table 'WPN_7 Day No Rathole 25/50 NLH 9-Max' 9-max Seat #6 is the button
+Seat 2: THECAGE ($16748.09 in chips)
+Seat 6: JennaTools ($787.14 in chips)
+JennaTools: posts small blind $25.00
+THECAGE: posts big blind $50.00
+*** HOLE CARDS ***
+JennaTools: folds
+Uncalled bet ($25.00) returned to THECAGE
+THECAGE collected $50.00 from pot
+THECAGE: doesn't show hand
+*** SUMMARY ***
+Total pot $50.00 | Rake $0.00
+Seat 2: THECAGE (big blind) collected ($50.00)
+Seat 6: JennaTools (button) (small blind) folded before Flop
+
+PokerStars Hand #1500004208:  Hold'em No Limit ($25.00/$50.00 USD) - 2022/12/27 09:43:26 ET
+Table 'WPN_7 Day No Rathole 25/50 NLH 9-Max' 9-max Seat #2 is the button
+Seat 2: THECAGE ($16773.09 in chips)
+Seat 6: JennaTools ($762.14 in chips)
+THECAGE: posts small blind $25.00
+JennaTools: posts big blind $50.00
+*** HOLE CARDS ***
+THECAGE: calls $25.00
+JennaTools: raises $90.00 to $140.00
+THECAGE: folds
+Uncalled bet ($90.00) returned to JennaTools
+JennaTools collected $100.00 from pot
+JennaTools: doesn't show hand
+*** SUMMARY ***
+Total pot $100.00 | Rake $0.00
+Seat 2: THECAGE (button) (small blind) folded before Flop
+Seat 6: JennaTools (big blind) collected ($100.00)
+
+PokerStars Hand #1500004349:  Hold'em No Limit ($25.00/$50.00 USD) - 2022/12/27 09:43:49 ET
+Table 'WPN_7 Day No Rathole 25/50 NLH 9-Max' 9-max Seat #6 is the button
+Seat 2: THECAGE ($16723.09 in chips)
+Seat 6: JennaTools ($812.14 in chips)
+JennaTools: posts small blind $25.00
+THECAGE: posts big blind $50.00
+*** HOLE CARDS ***
+JennaTools: folds
+Uncalled bet ($25.00) returned to THECAGE
+THECAGE collected $50.00 from pot
+THECAGE: doesn't show hand
+*** SUMMARY ***
+Total pot $50.00 | Rake $0.00
+Seat 2: THECAGE (big blind) collected ($50.00)
+Seat 6: JennaTools (button) (small blind) folded before Flop
+
+PokerStars Hand #1500004418:  Hold'em No Limit ($25.00/$50.00 USD) - 2022/12/27 09:43:59 ET
+Table 'WPN_7 Day No Rathole 25/50 NLH 9-Max' 9-max Seat #2 is the button
+Seat 2: THECAGE ($16748.09 in chips)
+Seat 6: JennaTools ($787.14 in chips)
+THECAGE: posts small blind $25.00
+JennaTools: posts big blind $50.00
+*** HOLE CARDS ***
+THECAGE: calls $25.00
+JennaTools: checks
+*** FLOP *** [8c Kd 4c]
+JennaTools: checks
+THECAGE: bets $50.00
+JennaTools: folds
+Uncalled bet ($50.00) returned to THECAGE
+THECAGE collected $98.75 from pot
+THECAGE: doesn't show hand
+*** SUMMARY ***
+Total pot $100.00 | Rake $1.25
+Board [8c Kd 4c]
+Seat 2: THECAGE (button) (small blind) collected ($98.75)
+Seat 6: JennaTools (big blind) folded on the Flop
+
+PokerStars Hand #1500004609:  Hold'em No Limit ($25.00/$50.00 USD) - 2022/12/27 09:44:28 ET
+Table 'WPN_7 Day No Rathole 25/50 NLH 9-Max' 9-max Seat #6 is the button
+Seat 2: THECAGE ($16796.84 in chips)
+Seat 6: JennaTools ($737.14 in chips)
+JennaTools: posts small blind $25.00
+THECAGE: posts big blind $50.00
+*** HOLE CARDS ***
+JennaTools: calls $25.00
+THECAGE: checks
+*** FLOP *** [Ks Kc 4h]
+THECAGE: checks
+JennaTools: checks
+*** TURN *** [Ks Kc 4h] [3d]
+THECAGE: bets $50.00
+JennaTools: folds
+Uncalled bet ($50.00) returned to THECAGE
+THECAGE collected $98.75 from pot
+THECAGE: doesn't show hand
+*** SUMMARY ***
+Total pot $100.00 | Rake $1.25
+Board [Ks Kc 4h 3d]
+Seat 2: THECAGE (big blind) collected ($98.75)
+Seat 6: JennaTools (button) (small blind) folded on the Turn
+
+PokerStars Hand #1500004873:  Hold'em No Limit ($25.00/$50.00 USD) - 2022/12/27 09:45:11 ET
+Table 'WPN_7 Day No Rathole 25/50 NLH 9-Max' 9-max Seat #2 is the button
+Seat 2: THECAGE ($16845.59 in chips)
+Seat 6: JennaTools ($687.14 in chips)
+THECAGE: posts small blind $25.00
+JennaTools: posts big blind $50.00
+*** HOLE CARDS ***
+THECAGE: calls $25.00
+JennaTools: checks
+*** FLOP *** [5c Ad 4c]
+JennaTools: checks
+THECAGE: bets $50.00
+JennaTools: folds
+Uncalled bet ($50.00) returned to THECAGE
+THECAGE collected $98.75 from pot
+THECAGE: doesn't show hand
+*** SUMMARY ***
+Total pot $100.00 | Rake $1.25
+Board [5c Ad 4c]
+Seat 2: THECAGE (button) (small blind) collected ($98.75)
+Seat 6: JennaTools (big blind) folded on the Flop
+
+PokerStars Hand #1500004993:  Hold'em No Limit ($25.00/$50.00 USD) - 2022/12/27 09:45:30 ET
+Table 'WPN_7 Day No Rathole 25/50 NLH 9-Max' 9-max Seat #6 is the button
+Seat 2: THECAGE ($16894.34 in chips)
+Seat 6: JennaTools ($637.14 in chips)
+JennaTools: posts small blind $25.00
+THECAGE: posts big blind $50.00
+*** HOLE CARDS ***
+JennaTools: raises $587.14 to $637.14 and is all-in
+THECAGE: folds
+Uncalled bet ($587.14) returned to JennaTools
+JennaTools collected $100.00 from pot
+JennaTools: doesn't show hand
+*** SUMMARY ***
+Total pot $100.00 | Rake $0.00
+Seat 2: THECAGE (big blind) folded before Flop
+Seat 6: JennaTools (button) (small blind) collected ($100.00)
+
+PokerStars Hand #1500005087:  Hold'em No Limit ($25.00/$50.00 USD) - 2022/12/27 09:45:43 ET
+Table 'WPN_7 Day No Rathole 25/50 NLH 9-Max' 9-max Seat #2 is the button
+Seat 2: THECAGE ($16844.34 in chips)
+Seat 6: JennaTools ($687.14 in chips)
+THECAGE: posts small blind $25.00
+JennaTools: posts big blind $50.00
+*** HOLE CARDS ***
+THECAGE: calls $25.00
+JennaTools: checks
+*** FLOP *** [Tc 2c 9c]
+JennaTools: checks
+THECAGE: bets $50.00
+JennaTools: folds
+Uncalled bet ($50.00) returned to THECAGE
+THECAGE collected $98.75 from pot
+THECAGE: doesn't show hand
+*** SUMMARY ***
+Total pot $100.00 | Rake $1.25
+Board [Tc 2c 9c]
+Seat 2: THECAGE (button) (small blind) collected ($98.75)
+Seat 6: JennaTools (big blind) folded on the Flop
+
+PokerStars Hand #1500005272:  Hold'em No Limit ($25.00/$50.00 USD) - 2022/12/27 09:46:11 ET
+Table 'WPN_7 Day No Rathole 25/50 NLH 9-Max' 9-max Seat #6 is the button
+Seat 2: THECAGE ($16893.09 in chips)
+Seat 6: JennaTools ($637.14 in chips)
+JennaTools: posts small blind $25.00
+THECAGE: posts big blind $50.00
+*** HOLE CARDS ***
+JennaTools: calls $25.00
+THECAGE: checks
+*** FLOP *** [2c Ac Jd]
+THECAGE: checks
+JennaTools: bets $50.00
+THECAGE: calls $50.00
+*** TURN *** [2c Ac Jd] [7h]
+THECAGE: checks
+JennaTools: checks
+*** RIVER *** [2c Ac Jd 7h] [Kd]
+THECAGE: checks
+JennaTools: bets $165.00
+THECAGE: folds
+Uncalled bet ($165.00) returned to JennaTools
+JennaTools collected $198.75 from pot
+JennaTools: doesn't show hand
+*** SUMMARY ***
+Total pot $200.00 | Rake $1.25
+Board [2c Ac Jd 7h Kd]
+Seat 2: THECAGE (big blind) folded on the River
+Seat 6: JennaTools (button) (small blind) collected ($198.75)
+
+PokerStars Hand #1500005594:  Hold'em No Limit ($25.00/$50.00 USD) - 2022/12/27 09:47:03 ET
+Table 'WPN_7 Day No Rathole 25/50 NLH 9-Max' 9-max Seat #2 is the button
+Seat 2: THECAGE ($16793.09 in chips)
+Seat 6: JennaTools ($735.89 in chips)
+THECAGE: posts small blind $25.00
+JennaTools: posts big blind $50.00
+*** HOLE CARDS ***
+THECAGE: raises $50.00 to $100.00
+JennaTools: folds
+Uncalled bet ($50.00) returned to THECAGE
+THECAGE collected $100.00 from pot
+THECAGE: doesn't show hand
+*** SUMMARY ***
+Total pot $100.00 | Rake $0.00
+Seat 2: THECAGE (button) (small blind) collected ($100.00)
+Seat 6: JennaTools (big blind) folded before Flop
+
+PokerStars Hand #1500005682:  Hold'em No Limit ($25.00/$50.00 USD) - 2022/12/27 09:47:17 ET
+Table 'WPN_7 Day No Rathole 25/50 NLH 9-Max' 9-max Seat #6 is the button
+Seat 2: THECAGE ($16843.09 in chips)
+Seat 6: JennaTools ($685.89 in chips)
+JennaTools: posts small blind $25.00
+THECAGE: posts big blind $50.00
+*** HOLE CARDS ***
+JennaTools: calls $25.00
+THECAGE: checks
+*** FLOP *** [9d 2c 4s]
+THECAGE: checks
+JennaTools: bets $50.00
+THECAGE: raises $99.50 to $149.50
+JennaTools: calls $99.50
+*** TURN *** [9d 2c 4s] [Ac]
+THECAGE: bets $574.56
+JennaTools: calls $486.39 and is all-in
+Uncalled bet ($88.17) returned to THECAGE
+*** RIVER *** [9d 2c 4s Ac] [6s]
+*** SHOW DOWN ***
+THECAGE: shows [9s 2d]
+JennaTools: shows [9h Th]
+THECAGE collected $1370.53 from pot
+*** SUMMARY ***
+Total pot $1371.78 | Rake $1.25
+Board [9d 2c 4s Ac 6s]
+Seat 2: THECAGE (big blind) showed [9s 2d] and won ($1370.53)
+Seat 6: JennaTools (button) (small blind) showed [9h Th] and lost
+
+PokerStars Hand #1499801225:  Hold'em No Limit ($25.00/$50.00 USD) - 2022/12/27 04:44:44 ET
+Table 'WPN_7 Day No Rathole 25/50 NLH 9-Max' 9-max Seat #3 is the button
+Seat 3: DoublelegTD ($2150.30 in chips)
+Seat 7: WilliamHBonney ($500.00 in chips)
+DoublelegTD: posts small blind $25.00
+WilliamHBonney: posts big blind $50.00
+*** HOLE CARDS ***
+DoublelegTD: raises $550.00 to $600.00
+WilliamHBonney: folds
+Uncalled bet ($550.00) returned to DoublelegTD
+DoublelegTD collected $100.00 from pot
+DoublelegTD: doesn't show hand
+*** SUMMARY ***
+Total pot $100.00 | Rake $0.00
+Seat 3: DoublelegTD (button) (small blind) collected ($100.00)
+Seat 7: WilliamHBonney (big blind) folded before Flop
+
+PokerStars Hand #1499801411:  Hold'em No Limit ($25.00/$50.00 USD) - 2022/12/27 04:44:54 ET
+Table 'WPN_7 Day No Rathole 25/50 NLH 9-Max' 9-max Seat #7 is the button
+Seat 3: DoublelegTD ($2200.30 in chips)
+Seat 7: WilliamHBonney ($450.00 in chips)
+WilliamHBonney: posts small blind $25.00
+DoublelegTD: posts big blind $50.00
+*** HOLE CARDS ***
+WilliamHBonney: folds
+Uncalled bet ($25.00) returned to DoublelegTD
+DoublelegTD collected $50.00 from pot
+DoublelegTD: doesn't show hand
+*** SUMMARY ***
+Total pot $50.00 | Rake $0.00
+Seat 3: DoublelegTD (big blind) collected ($50.00)
+Seat 7: WilliamHBonney (button) (small blind) folded before Flop
+
+PokerStars Hand #1499801526:  Hold'em No Limit ($25.00/$50.00 USD) - 2022/12/27 04:45:01 ET
+Table 'WPN_7 Day No Rathole 25/50 NLH 9-Max' 9-max Seat #3 is the button
+Seat 3: DoublelegTD ($2225.30 in chips)
+Seat 7: WilliamHBonney ($425.00 in chips)
+DoublelegTD: posts small blind $25.00
+WilliamHBonney: posts big blind $50.00
+*** HOLE CARDS ***
+DoublelegTD: folds
+Uncalled bet ($25.00) returned to WilliamHBonney
+WilliamHBonney collected $50.00 from pot
+WilliamHBonney: doesn't show hand
+*** SUMMARY ***
+Total pot $50.00 | Rake $0.00
+Seat 3: DoublelegTD (button) (small blind) folded before Flop
+Seat 7: WilliamHBonney (big blind) collected ($50.00)
+
+PokerStars Hand #1499801653:  Hold'em No Limit ($25.00/$50.00 USD) - 2022/12/27 04:45:09 ET
+Table 'WPN_7 Day No Rathole 25/50 NLH 9-Max' 9-max Seat #7 is the button
+Seat 3: DoublelegTD ($2200.30 in chips)
+Seat 7: WilliamHBonney ($450.00 in chips)
+WilliamHBonney: posts small blind $25.00
+DoublelegTD: posts big blind $50.00
+*** HOLE CARDS ***
+WilliamHBonney: raises $400.00 to $450.00 and is all-in
+DoublelegTD: folds
+Uncalled bet ($400.00) returned to WilliamHBonney
+WilliamHBonney collected $100.00 from pot
+WilliamHBonney: doesn't show hand
+*** SUMMARY ***
+Total pot $100.00 | Rake $0.00
+Seat 3: DoublelegTD (big blind) folded before Flop
+Seat 7: WilliamHBonney (button) (small blind) collected ($100.00)
+
+PokerStars Hand #1499801860:  Hold'em No Limit ($25.00/$50.00 USD) - 2022/12/27 04:45:21 ET
+Table 'WPN_7 Day No Rathole 25/50 NLH 9-Max' 9-max Seat #3 is the button
+Seat 3: DoublelegTD ($2150.30 in chips)
+Seat 7: WilliamHBonney ($500.00 in chips)
+DoublelegTD: posts small blind $25.00
+WilliamHBonney: posts big blind $50.00
+*** HOLE CARDS ***
+DoublelegTD: raises $550.00 to $600.00
+WilliamHBonney: calls $450.00 and is all-in
+Uncalled bet ($100.00) returned to DoublelegTD
+*** FLOP *** [3s 3d Qc]
+*** TURN *** [3s 3d Qc] [6c]
+*** RIVER *** [3s 3d Qc 6c] [6d]
+*** SHOW DOWN ***
+DoublelegTD: shows [Qd 7d]
+WilliamHBonney: shows [Ah 5s]
+DoublelegTD collected $998.75 from pot
+*** SUMMARY ***
+Total pot $1000.00 | Rake $1.25
+Board [3s 3d Qc 6c 6d]
+Seat 3: DoublelegTD (button) (small blind) showed [Qd 7d] and won ($998.75)
+Seat 7: WilliamHBonney (big blind) showed [Ah 5s] and lost
+
+PokerStars Hand #1499800542:  Hold'em No Limit ($25.00/$50.00 USD) - 2022/12/27 04:44:03 ET
+Table 'WPN_7 Day No Rathole 25/50 NLH 9-Max' 9-max Seat #3 is the button
+Seat 3: DoublelegTD ($2150.30 in chips)
+Seat 7: WilliamHBonney ($500.00 in chips)
+DoublelegTD: posts small blind $25.00
+WilliamHBonney: posts big blind $50.00
+*** HOLE CARDS ***
+DoublelegTD: folds
+Uncalled bet ($25.00) returned to WilliamHBonney
+WilliamHBonney collected $50.00 from pot
+WilliamHBonney: doesn't show hand
+*** SUMMARY ***
+Total pot $50.00 | Rake $0.00
+Seat 3: DoublelegTD (button) (small blind) folded before Flop
+Seat 7: WilliamHBonney (big blind) collected ($50.00)
+
+PokerStars Hand #1499800661:  Hold'em No Limit ($25.00/$50.00 USD) - 2022/12/27 04:44:11 ET
+Table 'WPN_7 Day No Rathole 25/50 NLH 9-Max' 9-max Seat #7 is the button
+Seat 3: DoublelegTD ($2125.30 in chips)
+Seat 7: WilliamHBonney ($525.00 in chips)
+WilliamHBonney: posts small blind $25.00
+DoublelegTD: posts big blind $50.00
+*** HOLE CARDS ***
+WilliamHBonney: raises $475.00 to $525.00 and is all-in
+DoublelegTD: folds
+Uncalled bet ($475.00) returned to WilliamHBonney
+WilliamHBonney collected $100.00 from pot
+WilliamHBonney: doesn't show hand
+*** SUMMARY ***
+Total pot $100.00 | Rake $0.00
+Seat 3: DoublelegTD (big blind) folded before Flop
+Seat 7: WilliamHBonney (button) (small blind) collected ($100.00)
+
+PokerStars Hand #1499800836:  Hold'em No Limit ($25.00/$50.00 USD) - 2022/12/27 04:44:21 ET
+Table 'WPN_7 Day No Rathole 25/50 NLH 9-Max' 9-max Seat #3 is the button
+Seat 3: DoublelegTD ($2075.30 in chips)
+Seat 7: WilliamHBonney ($575.00 in chips)
+DoublelegTD: posts small blind $25.00
+WilliamHBonney: posts big blind $50.00
+*** HOLE CARDS ***
+DoublelegTD: raises $550.00 to $600.00
+WilliamHBonney: folds
+Uncalled bet ($550.00) returned to DoublelegTD
+DoublelegTD collected $100.00 from pot
+DoublelegTD: doesn't show hand
+*** SUMMARY ***
+Total pot $100.00 | Rake $0.00
+Seat 3: DoublelegTD (button) (small blind) collected ($100.00)
+Seat 7: WilliamHBonney (big blind) folded before Flop
+
+PokerStars Hand #1499801074:  Hold'em No Limit ($25.00/$50.00 USD) - 2022/12/27 04:44:35 ET
+Table 'WPN_7 Day No Rathole 25/50 NLH 9-Max' 9-max Seat #7 is the button
+Seat 3: DoublelegTD ($2125.30 in chips)
+Seat 7: WilliamHBonney ($525.00 in chips)
+WilliamHBonney: posts small blind $25.00
+DoublelegTD: posts big blind $50.00
+*** HOLE CARDS ***
+WilliamHBonney: folds
+Uncalled bet ($25.00) returned to DoublelegTD
+DoublelegTD collected $50.00 from pot
+DoublelegTD: doesn't show hand
+*** SUMMARY ***
+Total pot $50.00 | Rake $0.00
+Seat 3: DoublelegTD (big blind) collected ($50.00)
+Seat 7: WilliamHBonney (button) (small blind) folded before Flop
+
+PokerStars Hand #1499554421:  Hold'em No Limit ($25.00/$50.00 USD) - 2022/12/27 01:13:21 ET
+Table 'WPN_7 Day No Rathole 25/50 NLH 9-Max' 9-max Seat #5 is the button
+Seat 1: zas911 ($7667.21 in chips)
+Seat 5: MrBaguette ($992.01 in chips)
+Seat 9: WilliamHBonney ($704.50 in chips)
+WilliamHBonney: posts small blind $25.00
+zas911: posts big blind $50.00
+*** HOLE CARDS ***
+MrBaguette: raises $50.00 to $100.00
+WilliamHBonney: folds
+zas911: folds
+Uncalled bet ($50.00) returned to MrBaguette
+MrBaguette collected $125.00 from pot
+MrBaguette: doesn't show hand
+*** SUMMARY ***
+Total pot $125.00 | Rake $0.00
+Seat 1: zas911 (big blind) folded before Flop
+Seat 5: MrBaguette (button) collected ($125.00)
+Seat 9: WilliamHBonney (small blind) folded before Flop
+
+PokerStars Hand #1499554745:  Hold'em No Limit ($25.00/$50.00 USD) - 2022/12/27 01:13:36 ET
+Table 'WPN_7 Day No Rathole 25/50 NLH 9-Max' 9-max Seat #9 is the button
+Seat 1: zas911 ($7617.21 in chips)
+Seat 5: MrBaguette ($1067.01 in chips)
+Seat 9: WilliamHBonney ($679.50 in chips)
+zas911: posts small blind $25.00
+MrBaguette: posts big blind $50.00
+*** HOLE CARDS ***
+WilliamHBonney: folds
+zas911: folds
+Uncalled bet ($25.00) returned to MrBaguette
+MrBaguette collected $50.00 from pot
+MrBaguette: doesn't show hand
+*** SUMMARY ***
+Total pot $50.00 | Rake $0.00
+Seat 1: zas911 (small blind) folded before Flop
+Seat 5: MrBaguette (big blind) collected ($50.00)
+Seat 9: WilliamHBonney (button) folded before Flop (didn't bet)
+
+PokerStars Hand #1499555029:  Hold'em No Limit ($25.00/$50.00 USD) - 2022/12/27 01:13:49 ET
+Table 'WPN_7 Day No Rathole 25/50 NLH 9-Max' 9-max Seat #1 is the button
+Seat 1: zas911 ($7592.21 in chips)
+Seat 5: MrBaguette ($1092.01 in chips)
+Seat 9: WilliamHBonney ($679.50 in chips)
+MrBaguette: posts small blind $25.00
+WilliamHBonney: posts big blind $50.00
+*** HOLE CARDS ***
+zas911: raises $50.00 to $100.00
+MrBaguette: folds
+WilliamHBonney: folds
+Uncalled bet ($50.00) returned to zas911
+zas911 collected $125.00 from pot
+zas911: doesn't show hand
+*** SUMMARY ***
+Total pot $125.00 | Rake $0.00
+Seat 1: zas911 (button) collected ($125.00)
+Seat 5: MrBaguette (small blind) folded before Flop
+Seat 9: WilliamHBonney (big blind) folded before Flop
+
+PokerStars Hand #1499555465:  Hold'em No Limit ($25.00/$50.00 USD) - 2022/12/27 01:14:09 ET
+Table 'WPN_7 Day No Rathole 25/50 NLH 9-Max' 9-max Seat #5 is the button
+Seat 1: zas911 ($7667.21 in chips)
+Seat 5: MrBaguette ($1067.01 in chips)
+Seat 9: WilliamHBonney ($629.50 in chips)
+WilliamHBonney: posts small blind $25.00
+zas911: posts big blind $50.00
+*** HOLE CARDS ***
+MrBaguette: folds
+WilliamHBonney: raises $50.00 to $100.00
+zas911: calls $50.00
+*** FLOP *** [Ts Jd Td]
+WilliamHBonney: checks
+zas911: checks
+*** TURN *** [Ts Jd Td] [4s]
+WilliamHBonney: bets $50.00
+zas911: calls $50.00
+*** RIVER *** [Ts Jd Td 4s] [2c]
+WilliamHBonney: bets $175.00
+zas911: folds
+Uncalled bet ($175.00) returned to WilliamHBonney
+WilliamHBonney collected $298.25 from pot
+WilliamHBonney: doesn't show hand
+*** SUMMARY ***
+Total pot $300.00 | Rake $1.75
+Board [Ts Jd Td 4s 2c]
+Seat 1: zas911 (big blind) folded on the River
+Seat 5: MrBaguette (button) folded before Flop (didn't bet)
+Seat 9: WilliamHBonney (small blind) collected ($298.25)
+
+PokerStars Hand #1499556688:  Hold'em No Limit ($25.00/$50.00 USD) - 2022/12/27 01:15:06 ET
+Table 'WPN_7 Day No Rathole 25/50 NLH 9-Max' 9-max Seat #9 is the button
+Seat 1: zas911 ($7517.21 in chips)
+Seat 5: MrBaguette ($1067.01 in chips)
+Seat 9: WilliamHBonney ($777.75 in chips)
+zas911: posts small blind $25.00
+MrBaguette: posts big blind $50.00
+*** HOLE CARDS ***
+WilliamHBonney: raises $62.50 to $112.50
+zas911: folds
+MrBaguette: calls $62.50
+*** FLOP *** [9s 2c 4d]
+MrBaguette: checks
+WilliamHBonney: bets $665.25 and is all-in
+MrBaguette: folds
+Uncalled bet ($665.25) returned to WilliamHBonney
+WilliamHBonney collected $248.25 from pot
+WilliamHBonney: doesn't show hand
+*** SUMMARY ***
+Total pot $250.00 | Rake $1.75
+Board [9s 2c 4d]
+Seat 1: zas911 (small blind) folded before Flop
+Seat 5: MrBaguette (big blind) folded on the Flop
+Seat 9: WilliamHBonney (button) collected ($248.25)
+
+PokerStars Hand #1499557310:  Hold'em No Limit ($25.00/$50.00 USD) - 2022/12/27 01:15:34 ET
+Table 'WPN_7 Day No Rathole 25/50 NLH 9-Max' 9-max Seat #1 is the button
+Seat 1: zas911 ($7492.21 in chips)
+Seat 5: MrBaguette ($954.51 in chips)
+Seat 9: WilliamHBonney ($913.50 in chips)
+MrBaguette: posts small blind $25.00
+zas911: posts big blind $50.00
+*** HOLE CARDS ***
+MrBaguette: calls $25.00
+zas911: checks
+*** FLOP *** [5h 7d Ah]
+MrBaguette: checks
+zas911: checks
+*** TURN *** [5h 7d Ah] [Kc]
+MrBaguette: checks
+zas911: checks
+*** RIVER *** [5h 7d Ah Kc] [3c]
+MrBaguette: bets $75.00
+zas911: folds
+Uncalled bet ($75.00) returned to MrBaguette
+MrBaguette collected $98.75 from pot
+MrBaguette: doesn't show hand
+*** SUMMARY ***
+Total pot $100.00 | Rake $1.25
+Board [5h 7d Ah Kc 3c]
+Seat 1: zas911 (button) (big blind) folded on the River
+Seat 5: MrBaguette (small blind) collected ($98.75)
+
+PokerStars Hand #1499645446:  Hold'em No Limit ($25.00/$50.00 USD) - 2022/12/27 02:26:21 ET
+Table 'WPN_7 Day No Rathole 25/50 NLH 9-Max' 9-max Seat #1 is the button
+Seat 1: ItMeBerg ($450.00 in chips)
+Seat 2: zas911 ($7492.21 in chips)
+ItMeBerg: posts small blind $25.00
+zas911: posts big blind $50.00
+*** HOLE CARDS ***
+ItMeBerg: folds
+Uncalled bet ($25.00) returned to zas911
+zas911 collected $50.00 from pot
+zas911: doesn't show hand
+*** SUMMARY ***
+Total pot $50.00 | Rake $0.00
+Seat 1: ItMeBerg (button) (small blind) folded before Flop
+Seat 2: zas911 (big blind) collected ($50.00)
+
+PokerStars Hand #1499645623:  Hold'em No Limit ($25.00/$50.00 USD) - 2022/12/27 02:26:29 ET
+Table 'WPN_7 Day No Rathole 25/50 NLH 9-Max' 9-max Seat #2 is the button
+Seat 1: ItMeBerg ($425.00 in chips)
+Seat 2: zas911 ($7517.21 in chips)
+zas911: posts small blind $25.00
+ItMeBerg: posts big blind $50.00
+*** HOLE CARDS ***
+zas911: raises $7467.21 to $7517.21 and is all-in
+ItMeBerg: folds
+Uncalled bet ($7467.21) returned to zas911
+zas911 collected $100.00 from pot
+zas911: doesn't show hand
+*** SUMMARY ***
+Total pot $100.00 | Rake $0.00
+Seat 1: ItMeBerg (big blind) folded before Flop
+Seat 2: zas911 (button) (small blind) collected ($100.00)
+
+PokerStars Hand #1499645892:  Hold'em No Limit ($25.00/$50.00 USD) - 2022/12/27 02:26:41 ET
+Table 'WPN_7 Day No Rathole 25/50 NLH 9-Max' 9-max Seat #1 is the button
+Seat 1: ItMeBerg ($375.00 in chips)
+Seat 2: zas911 ($7567.21 in chips)
+ItMeBerg: posts small blind $25.00
+zas911: posts big blind $50.00
+*** HOLE CARDS ***
+ItMeBerg: calls $25.00
+zas911: checks
+*** FLOP *** [Ts 6h As]
+zas911: checks
+ItMeBerg: checks
+*** TURN *** [Ts 6h As] [Tc]
+zas911: checks
+ItMeBerg: bets $50.00
+zas911: calls $50.00
+*** RIVER *** [Ts 6h As Tc] [3d]
+zas911: checks
+ItMeBerg: checks
+*** SHOW DOWN ***
+ItMeBerg: shows [5s 6c]
+zas911: mucks hand
+ItMeBerg collected $198.75 from pot
+*** SUMMARY ***
+Total pot $200.00 | Rake $1.25
+Board [Ts 6h As Tc 3d]
+Seat 1: ItMeBerg (button) (small blind) showed [5s 6c] and won ($198.75)
+Seat 2: zas911 (big blind) mucked
+
+PokerStars Hand #1499646565:  Hold'em No Limit ($25.00/$50.00 USD) - 2022/12/27 02:27:11 ET
+Table 'WPN_7 Day No Rathole 25/50 NLH 9-Max' 9-max Seat #2 is the button
+Seat 1: ItMeBerg ($598.75 in chips)
+Seat 2: zas911 ($7467.21 in chips)
+zas911: posts small blind $25.00
+ItMeBerg: posts big blind $50.00
+*** HOLE CARDS ***
+zas911: raises $7417.21 to $7467.21 and is all-in
+ItMeBerg: folds
+Uncalled bet ($7417.21) returned to zas911
+zas911 collected $100.00 from pot
+zas911: doesn't show hand
+*** SUMMARY ***
+Total pot $100.00 | Rake $0.00
+Seat 1: ItMeBerg (big blind) folded before Flop
+Seat 2: zas911 (button) (small blind) collected ($100.00)
+
+PokerStars Hand #1499646806:  Hold'em No Limit ($25.00/$50.00 USD) - 2022/12/27 02:27:22 ET
+Table 'WPN_7 Day No Rathole 25/50 NLH 9-Max' 9-max Seat #1 is the button
+Seat 1: ItMeBerg ($548.75 in chips)
+Seat 2: zas911 ($7517.21 in chips)
+ItMeBerg: posts small blind $25.00
+zas911: posts big blind $50.00
+*** HOLE CARDS ***
+ItMeBerg: folds
+Uncalled bet ($25.00) returned to zas911
+zas911 collected $50.00 from pot
+zas911: doesn't show hand
+*** SUMMARY ***
+Total pot $50.00 | Rake $0.00
+Seat 1: ItMeBerg (button) (small blind) folded before Flop
+Seat 2: zas911 (big blind) collected ($50.00)
+
+PokerStars Hand #1499647026:  Hold'em No Limit ($25.00/$50.00 USD) - 2022/12/27 02:27:31 ET
+Table 'WPN_7 Day No Rathole 25/50 NLH 9-Max' 9-max Seat #2 is the button
+Seat 1: ItMeBerg ($523.75 in chips)
+Seat 2: zas911 ($7542.21 in chips)
+zas911: posts small blind $25.00
+ItMeBerg: posts big blind $50.00
+*** HOLE CARDS ***
+zas911: raises $7492.21 to $7542.21 and is all-in
+ItMeBerg: folds
+Uncalled bet ($7492.21) returned to zas911
+zas911 collected $100.00 from pot
+zas911: doesn't show hand
+*** SUMMARY ***
+Total pot $100.00 | Rake $0.00
+Seat 1: ItMeBerg (big blind) folded before Flop
+Seat 2: zas911 (button) (small blind) collected ($100.00)
+
+PokerStars Hand #1499647226:  Hold'em No Limit ($25.00/$50.00 USD) - 2022/12/27 02:27:40 ET
+Table 'WPN_7 Day No Rathole 25/50 NLH 9-Max' 9-max Seat #1 is the button
+Seat 1: ItMeBerg ($473.75 in chips)
+Seat 2: zas911 ($7592.21 in chips)
+ItMeBerg: posts small blind $25.00
+zas911: posts big blind $50.00
+*** HOLE CARDS ***
+ItMeBerg: raises $423.75 to $473.75 and is all-in
+zas911: folds
+Uncalled bet ($423.75) returned to ItMeBerg
+ItMeBerg collected $100.00 from pot
+ItMeBerg: doesn't show hand
+*** SUMMARY ***
+Total pot $100.00 | Rake $0.00
+Seat 1: ItMeBerg (button) (small blind) collected ($100.00)
+Seat 2: zas911 (big blind) folded before Flop
+
+PokerStars Hand #1499647532:  Hold'em No Limit ($25.00/$50.00 USD) - 2022/12/27 02:27:54 ET
+Table 'WPN_7 Day No Rathole 25/50 NLH 9-Max' 9-max Seat #2 is the button
+Seat 1: ItMeBerg ($523.75 in chips)
+Seat 2: zas911 ($7542.21 in chips)
+zas911: posts small blind $25.00
+ItMeBerg: posts big blind $50.00
+*** HOLE CARDS ***
+zas911: calls $25.00
+ItMeBerg: checks
+*** FLOP *** [Jh 4s 2c]
+ItMeBerg: checks
+zas911: bets $50.00
+ItMeBerg: folds
+Uncalled bet ($50.00) returned to zas911
+zas911 collected $98.75 from pot
+zas911: doesn't show hand
+*** SUMMARY ***
+Total pot $100.00 | Rake $1.25
+Board [Jh 4s 2c]
+Seat 1: ItMeBerg (big blind) folded on the Flop
+Seat 2: zas911 (button) (small blind) collected ($98.75)
+
+PokerStars Hand #1499647999:  Hold'em No Limit ($25.00/$50.00 USD) - 2022/12/27 02:28:15 ET
+Table 'WPN_7 Day No Rathole 25/50 NLH 9-Max' 9-max Seat #1 is the button
+Seat 1: ItMeBerg ($473.75 in chips)
+Seat 2: zas911 ($7590.96 in chips)
+ItMeBerg: posts small blind $25.00
+zas911: posts big blind $50.00
+*** HOLE CARDS ***
+ItMeBerg: raises $423.75 to $473.75 and is all-in
+zas911: calls $423.75
+*** FLOP *** [Qh Td Kh]
+*** TURN *** [Qh Td Kh] [8s]
+*** RIVER *** [Qh Td Kh 8s] [Ac]
+*** SHOW DOWN ***
+ItMeBerg: shows [Jh Ks]
+zas911: shows [Kc As]
+ItMeBerg collected $946.25 from pot
+*** SUMMARY ***
+Total pot $947.50 | Rake $1.25
+Board [Qh Td Kh 8s Ac]
+Seat 1: ItMeBerg (button) (small blind) showed [Jh Ks] and won ($946.25)
+Seat 2: zas911 (big blind) showed [Kc As] and lost
+
+PokerStars Hand #1499648485:  Hold'em No Limit ($25.00/$50.00 USD) - 2022/12/27 02:28:37 ET
+Table 'WPN_7 Day No Rathole 25/50 NLH 9-Max' 9-max Seat #2 is the button
+Seat 1: ItMeBerg ($946.25 in chips)
+Seat 2: zas911 ($7117.21 in chips)
+zas911: posts small blind $25.00
+ItMeBerg: posts big blind $50.00
+*** HOLE CARDS ***
+zas911: calls $25.00
+ItMeBerg: checks
+*** FLOP *** [As 7c Js]
+ItMeBerg: checks
+zas911: bets $50.00
+ItMeBerg: folds
+Uncalled bet ($50.00) returned to zas911
+zas911 collected $98.75 from pot
+zas911: doesn't show hand
+*** SUMMARY ***
+Total pot $100.00 | Rake $1.25
+Board [As 7c Js]
+Seat 1: ItMeBerg (big blind) folded on the Flop
+Seat 2: zas911 (button) (small blind) collected ($98.75)
+
+PokerStars Hand #1499649036:  Hold'em No Limit ($25.00/$50.00 USD) - 2022/12/27 02:29:02 ET
+Table 'WPN_7 Day No Rathole 25/50 NLH 9-Max' 9-max Seat #1 is the button
+Seat 1: ItMeBerg ($896.25 in chips)
+Seat 2: zas911 ($7165.96 in chips)
+ItMeBerg: posts small blind $25.00
+zas911: posts big blind $50.00
+*** HOLE CARDS ***
+ItMeBerg: raises $50.00 to $100.00
+zas911: folds
+Uncalled bet ($50.00) returned to ItMeBerg
+ItMeBerg collected $100.00 from pot
+ItMeBerg: doesn't show hand
+*** SUMMARY ***
+Total pot $100.00 | Rake $0.00
+Seat 1: ItMeBerg (button) (small blind) collected ($100.00)
+Seat 2: zas911 (big blind) folded before Flop
+
+PokerStars Hand #1499649359:  Hold'em No Limit ($25.00/$50.00 USD) - 2022/12/27 02:29:17 ET
+Table 'WPN_7 Day No Rathole 25/50 NLH 9-Max' 9-max Seat #2 is the button
+Seat 1: ItMeBerg ($946.25 in chips)
+Seat 2: zas911 ($7115.96 in chips)
+zas911: posts small blind $25.00
+ItMeBerg: posts big blind $50.00
+*** HOLE CARDS ***
+zas911: raises $50.00 to $100.00
+ItMeBerg: calls $50.00
+*** FLOP *** [Kc Ad 5s]
+ItMeBerg: checks
+zas911: bets $75.00
+ItMeBerg: folds
+Uncalled bet ($75.00) returned to zas911
+zas911 collected $198.75 from pot
+zas911: doesn't show hand
+*** SUMMARY ***
+Total pot $200.00 | Rake $1.25
+Board [Kc Ad 5s]
+Seat 1: ItMeBerg (big blind) folded on the Flop
+Seat 2: zas911 (button) (small blind) collected ($198.75)
+
+PokerStars Hand #1499649784:  Hold'em No Limit ($25.00/$50.00 USD) - 2022/12/27 02:29:37 ET
+Table 'WPN_7 Day No Rathole 25/50 NLH 9-Max' 9-max Seat #1 is the button
+Seat 1: ItMeBerg ($846.25 in chips)
+Seat 2: zas911 ($7214.71 in chips)
+ItMeBerg: posts small blind $25.00
+zas911: posts big blind $50.00
+*** HOLE CARDS ***
+ItMeBerg: folds
+Uncalled bet ($25.00) returned to zas911
+zas911 collected $50.00 from pot
+zas911: doesn't show hand
+*** SUMMARY ***
+Total pot $50.00 | Rake $0.00
+Seat 1: ItMeBerg (button) (small blind) folded before Flop
+Seat 2: zas911 (big blind) collected ($50.00)
+
+PokerStars Hand #1499649965:  Hold'em No Limit ($25.00/$50.00 USD) - 2022/12/27 02:29:44 ET
+Table 'WPN_7 Day No Rathole 25/50 NLH 9-Max' 9-max Seat #2 is the button
+Seat 1: ItMeBerg ($821.25 in chips)
+Seat 2: zas911 ($7239.71 in chips)
+zas911: posts small blind $25.00
+ItMeBerg: posts big blind $50.00
+*** HOLE CARDS ***
+zas911: folds
+Uncalled bet ($25.00) returned to ItMeBerg
+ItMeBerg collected $50.00 from pot
+ItMeBerg: doesn't show hand
+*** SUMMARY ***
+Total pot $50.00 | Rake $0.00
+Seat 1: ItMeBerg (big blind) collected ($50.00)
+Seat 2: zas911 (button) (small blind) folded before Flop
+
+PokerStars Hand #1499650196:  Hold'em No Limit ($25.00/$50.00 USD) - 2022/12/27 02:29:55 ET
+Table 'WPN_7 Day No Rathole 25/50 NLH 9-Max' 9-max Seat #1 is the button
+Seat 1: ItMeBerg ($846.25 in chips)
+Seat 2: zas911 ($7214.71 in chips)
+ItMeBerg: posts small blind $25.00
+zas911: posts big blind $50.00
+*** HOLE CARDS ***
+ItMeBerg: raises $50.00 to $100.00
+zas911: calls $50.00
+*** FLOP *** [8s 2h 3s]
+zas911: checks
+ItMeBerg: checks
+*** TURN *** [8s 2h 3s] [Kd]
+zas911: bets $75.00
+ItMeBerg: folds
+Uncalled bet ($75.00) returned to zas911
+zas911 collected $198.75 from pot
+zas911: doesn't show hand
+*** SUMMARY ***
+Total pot $200.00 | Rake $1.25
+Board [8s 2h 3s Kd]
+Seat 1: ItMeBerg (button) (small blind) folded on the Turn
+Seat 2: zas911 (big blind) collected ($198.75)
+
+PokerStars Hand #1499650940:  Hold'em No Limit ($25.00/$50.00 USD) - 2022/12/27 02:30:30 ET
+Table 'WPN_7 Day No Rathole 25/50 NLH 9-Max' 9-max Seat #2 is the button
+Seat 1: ItMeBerg ($746.25 in chips)
+Seat 2: zas911 ($7313.46 in chips)
+zas911: posts small blind $25.00
+ItMeBerg: posts big blind $50.00
+*** HOLE CARDS ***
+zas911: raises $7263.46 to $7313.46 and is all-in
+ItMeBerg: folds
+Uncalled bet ($7263.46) returned to zas911
+zas911 collected $100.00 from pot
+zas911: doesn't show hand
+*** SUMMARY ***
+Total pot $100.00 | Rake $0.00
+Seat 1: ItMeBerg (big blind) folded before Flop
+Seat 2: zas911 (button) (small blind) collected ($100.00)
+
+PokerStars Hand #1499651114:  Hold'em No Limit ($25.00/$50.00 USD) - 2022/12/27 02:30:38 ET
+Table 'WPN_7 Day No Rathole 25/50 NLH 9-Max' 9-max Seat #1 is the button
+Seat 1: ItMeBerg ($696.25 in chips)
+Seat 2: zas911 ($7363.46 in chips)
+ItMeBerg: posts small blind $25.00
+zas911: posts big blind $50.00
+*** HOLE CARDS ***
+ItMeBerg: folds
+Uncalled bet ($25.00) returned to zas911
+zas911 collected $50.00 from pot
+zas911: doesn't show hand
+*** SUMMARY ***
+Total pot $50.00 | Rake $0.00
+Seat 1: ItMeBerg (button) (small blind) folded before Flop
+Seat 2: zas911 (big blind) collected ($50.00)
+
+PokerStars Hand #1499651295:  Hold'em No Limit ($25.00/$50.00 USD) - 2022/12/27 02:30:47 ET
+Table 'WPN_7 Day No Rathole 25/50 NLH 9-Max' 9-max Seat #2 is the button
+Seat 1: ItMeBerg ($671.25 in chips)
+Seat 2: zas911 ($7388.46 in chips)
+zas911: posts small blind $25.00
+ItMeBerg: posts big blind $50.00
+*** HOLE CARDS ***
+zas911: calls $25.00
+ItMeBerg: checks
+*** FLOP *** [6h Kc 5c]
+ItMeBerg: checks
+zas911: bets $50.00
+ItMeBerg: folds
+Uncalled bet ($50.00) returned to zas911
+zas911 collected $98.75 from pot
+zas911: doesn't show hand
+*** SUMMARY ***
+Total pot $100.00 | Rake $1.25
+Board [6h Kc 5c]
+Seat 1: ItMeBerg (big blind) folded on the Flop
+Seat 2: zas911 (button) (small blind) collected ($98.75)
+
+PokerStars Hand #1499651722:  Hold'em No Limit ($25.00/$50.00 USD) - 2022/12/27 02:31:07 ET
+Table 'WPN_7 Day No Rathole 25/50 NLH 9-Max' 9-max Seat #1 is the button
+Seat 1: ItMeBerg ($621.25 in chips)
+Seat 2: zas911 ($7437.21 in chips)
+ItMeBerg: posts small blind $25.00
+zas911: posts big blind $50.00
+*** HOLE CARDS ***
+ItMeBerg: raises $571.25 to $621.25 and is all-in
+zas911: folds
+Uncalled bet ($571.25) returned to ItMeBerg
+ItMeBerg collected $100.00 from pot
+ItMeBerg: doesn't show hand
+*** SUMMARY ***
+Total pot $100.00 | Rake $0.00
+Seat 1: ItMeBerg (button) (small blind) collected ($100.00)
+Seat 2: zas911 (big blind) folded before Flop
+
+PokerStars Hand #1499652007:  Hold'em No Limit ($25.00/$50.00 USD) - 2022/12/27 02:31:21 ET
+Table 'WPN_7 Day No Rathole 25/50 NLH 9-Max' 9-max Seat #2 is the button
+Seat 1: ItMeBerg ($671.25 in chips)
+Seat 2: zas911 ($7387.21 in chips)
+zas911: posts small blind $25.00
+ItMeBerg: posts big blind $50.00
+*** HOLE CARDS ***
+zas911: raises $7337.21 to $7387.21 and is all-in
+ItMeBerg: folds
+Uncalled bet ($7337.21) returned to zas911
+zas911 collected $100.00 from pot
+zas911: doesn't show hand
+*** SUMMARY ***
+Total pot $100.00 | Rake $0.00
+Seat 1: ItMeBerg (big blind) folded before Flop
+Seat 2: zas911 (button) (small blind) collected ($100.00)
+
+PokerStars Hand #1499652262:  Hold'em No Limit ($25.00/$50.00 USD) - 2022/12/27 02:31:32 ET
+Table 'WPN_7 Day No Rathole 25/50 NLH 9-Max' 9-max Seat #1 is the button
+Seat 1: ItMeBerg ($621.25 in chips)
+Seat 2: zas911 ($7437.21 in chips)
+ItMeBerg: posts small blind $25.00
+zas911: posts big blind $50.00
+*** HOLE CARDS ***
+ItMeBerg: folds
+Uncalled bet ($25.00) returned to zas911
+zas911 collected $50.00 from pot
+zas911: doesn't show hand
+*** SUMMARY ***
+Total pot $50.00 | Rake $0.00
+Seat 1: ItMeBerg (button) (small blind) folded before Flop
+Seat 2: zas911 (big blind) collected ($50.00)
+
+PokerStars Hand #1499652460:  Hold'em No Limit ($25.00/$50.00 USD) - 2022/12/27 02:31:43 ET
+Table 'WPN_7 Day No Rathole 25/50 NLH 9-Max' 9-max Seat #2 is the button
+Seat 1: ItMeBerg ($596.25 in chips)
+Seat 2: zas911 ($7462.21 in chips)
+zas911: posts small blind $25.00
+ItMeBerg: posts big blind $50.00
+*** HOLE CARDS ***
+zas911: raises $7412.21 to $7462.21 and is all-in
+ItMeBerg: folds
+Uncalled bet ($7412.21) returned to zas911
+zas911 collected $100.00 from pot
+zas911: doesn't show hand
+*** SUMMARY ***
+Total pot $100.00 | Rake $0.00
+Seat 1: ItMeBerg (big blind) folded before Flop
+Seat 2: zas911 (button) (small blind) collected ($100.00)
+
+PokerStars Hand #1499652648:  Hold'em No Limit ($25.00/$50.00 USD) - 2022/12/27 02:31:52 ET
+Table 'WPN_7 Day No Rathole 25/50 NLH 9-Max' 9-max Seat #1 is the button
+Seat 1: ItMeBerg ($546.25 in chips)
+Seat 2: zas911 ($7512.21 in chips)
+ItMeBerg: posts small blind $25.00
+zas911: posts big blind $50.00
+*** HOLE CARDS ***
+ItMeBerg: folds
+Uncalled bet ($25.00) returned to zas911
+zas911 collected $50.00 from pot
+zas911: doesn't show hand
+*** SUMMARY ***
+Total pot $50.00 | Rake $0.00
+Seat 1: ItMeBerg (button) (small blind) folded before Flop
+Seat 2: zas911 (big blind) collected ($50.00)
+
+PokerStars Hand #1499652829:  Hold'em No Limit ($25.00/$50.00 USD) - 2022/12/27 02:32:00 ET
+Table 'WPN_7 Day No Rathole 25/50 NLH 9-Max' 9-max Seat #2 is the button
+Seat 1: ItMeBerg ($521.25 in chips)
+Seat 2: zas911 ($7537.21 in chips)
+zas911: posts small blind $25.00
+ItMeBerg: posts big blind $50.00
+*** HOLE CARDS ***
+zas911: raises $7487.21 to $7537.21 and is all-in
+ItMeBerg: folds
+Uncalled bet ($7487.21) returned to zas911
+zas911 collected $100.00 from pot
+zas911: doesn't show hand
+*** SUMMARY ***
+Total pot $100.00 | Rake $0.00
+Seat 1: ItMeBerg (big blind) folded before Flop
+Seat 2: zas911 (button) (small blind) collected ($100.00)
+
+PokerStars Hand #1499653023:  Hold'em No Limit ($25.00/$50.00 USD) - 2022/12/27 02:32:08 ET
+Table 'WPN_7 Day No Rathole 25/50 NLH 9-Max' 9-max Seat #1 is the button
+Seat 1: ItMeBerg ($471.25 in chips)
+Seat 2: zas911 ($7587.21 in chips)
+ItMeBerg: posts small blind $25.00
+zas911: posts big blind $50.00
+*** HOLE CARDS ***
+ItMeBerg: raises $421.25 to $471.25 and is all-in
+zas911: calls $421.25
+*** FLOP *** [Kd 9d 5s]
+*** TURN *** [Kd 9d 5s] [Qd]
+*** RIVER *** [Kd 9d 5s Qd] [Jc]
+*** SHOW DOWN ***
+zas911: shows [Kc As]
+ItMeBerg: shows [6s 2s]
+zas911 collected $941.25 from pot
+*** SUMMARY ***
+Total pot $942.50 | Rake $1.25
+Board [Kd 9d 5s Qd Jc]
+Seat 1: ItMeBerg (button) (small blind) showed [6s 2s] and lost
+Seat 2: zas911 (big blind) showed [Kc As] and won ($941.25)
+
+PokerStars Hand #1499653480:  Hold'em No Limit ($25.00/$50.00 USD) - 2022/12/27 02:32:32 ET
+Table 'WPN_7 Day No Rathole 25/50 NLH 9-Max' 9-max Seat #2 is the button
+Seat 2: zas911 ($8057.21 in chips)
+Seat 3: degen1990 ($500.00 in chips)
+zas911: posts small blind $25.00
+degen1990: posts big blind $50.00
+*** HOLE CARDS ***
+zas911: raises $8007.21 to $8057.21 and is all-in
+degen1990: calls $450.00 and is all-in
+Uncalled bet ($7557.21) returned to zas911
+*** FLOP *** [8c 7d 4s]
+*** TURN *** [8c 7d 4s] [8d]
+*** RIVER *** [8c 7d 4s 8d] [Ah]
+*** SHOW DOWN ***
+zas911: shows [Jd As]
+degen1990: shows [Ad 5d]
+zas911 collected $998.75 from pot
+*** SUMMARY ***
+Total pot $1000.00 | Rake $1.25
+Board [8c 7d 4s 8d Ah]
+Seat 2: zas911 (button) (small blind) showed [Jd As] and won ($998.75)
+Seat 3: degen1990 (big blind) showed [Ad 5d] and lost
+
+PokerStars Hand #1499653935:  Hold'em No Limit ($25.00/$50.00 USD) - 2022/12/27 02:32:53 ET
+Table 'WPN_7 Day No Rathole 25/50 NLH 9-Max' 9-max Seat #3 is the button
+Seat 2: zas911 ($8555.96 in chips)
+Seat 3: degen1990 ($500.00 in chips)
+degen1990: posts small blind $25.00
+zas911: posts big blind $50.00
+*** HOLE CARDS ***
+degen1990: raises $450.00 to $500.00 and is all-in
+zas911: folds
+Uncalled bet ($450.00) returned to degen1990
+degen1990 collected $100.00 from pot
+degen1990: doesn't show hand
+*** SUMMARY ***
+Total pot $100.00 | Rake $0.00
+Seat 2: zas911 (big blind) folded before Flop
+Seat 3: degen1990 (button) (small blind) collected ($100.00)
+
+PokerStars Hand #1499704531:  Hold'em No Limit ($25.00/$50.00 USD) - 2022/12/27 03:16:56 ET
+Table 'WPN_7 Day No Rathole 25/50 NLH 9-Max' 9-max Seat #7 is the button
+Seat 2: zas911 ($8629.71 in chips)
+Seat 7: DoublelegTD ($4679.42 in chips)
+DoublelegTD: posts small blind $25.00
+zas911: posts big blind $50.00
+*** HOLE CARDS ***
+DoublelegTD: raises $60.00 to $110.00
+zas911: calls $60.00
+*** FLOP *** [Ks 6h 9d]
+zas911: checks
+DoublelegTD: checks
+*** TURN *** [Ks 6h 9d] [2c]
+zas911: checks
+DoublelegTD: checks
+*** RIVER *** [Ks 6h 9d 2c] [3s]
+zas911: checks
+DoublelegTD: bets $165.00
+zas911: folds
+Uncalled bet ($165.00) returned to DoublelegTD
+DoublelegTD collected $218.75 from pot
+DoublelegTD: doesn't show hand
+*** SUMMARY ***
+Total pot $220.00 | Rake $1.25
+Board [Ks 6h 9d 2c 3s]
+Seat 2: zas911 (big blind) folded on the River
+Seat 7: DoublelegTD (button) (small blind) collected ($218.75)
+
+PokerStars Hand #1499716368:  Hold'em No Limit ($25.00/$50.00 USD) - 2022/12/27 03:26:41 ET
+Table 'WPN_7 Day No Rathole 25/50 NLH 9-Max' 9-max Seat #7 is the button
+Seat 4: runnigaces ($500.00 in chips)
+Seat 7: DoublelegTD ($4788.17 in chips)
+DoublelegTD: posts small blind $25.00
+runnigaces: posts big blind $50.00
+*** HOLE CARDS ***
+DoublelegTD: folds
+Uncalled bet ($25.00) returned to runnigaces
+runnigaces collected $50.00 from pot
+runnigaces: doesn't show hand
+*** SUMMARY ***
+Total pot $50.00 | Rake $0.00
+Seat 4: runnigaces (big blind) collected ($50.00)
+Seat 7: DoublelegTD (button) (small blind) folded before Flop
+
+PokerStars Hand #1499716613:  Hold'em No Limit ($25.00/$50.00 USD) - 2022/12/27 03:26:54 ET
+Table 'WPN_7 Day No Rathole 25/50 NLH 9-Max' 9-max Seat #4 is the button
+Seat 4: runnigaces ($525.00 in chips)
+Seat 7: DoublelegTD ($4763.17 in chips)
+runnigaces: posts small blind $25.00
+DoublelegTD: posts big blind $50.00
+*** HOLE CARDS ***
+runnigaces: raises $475.00 to $525.00 and is all-in
+DoublelegTD: folds
+Uncalled bet ($475.00) returned to runnigaces
+runnigaces collected $100.00 from pot
+runnigaces: doesn't show hand
+*** SUMMARY ***
+Total pot $100.00 | Rake $0.00
+Seat 4: runnigaces (button) (small blind) collected ($100.00)
+Seat 7: DoublelegTD (big blind) folded before Flop
+
+PokerStars Hand #1499716854:  Hold'em No Limit ($25.00/$50.00 USD) - 2022/12/27 03:27:05 ET
+Table 'WPN_7 Day No Rathole 25/50 NLH 9-Max' 9-max Seat #7 is the button
+Seat 4: runnigaces ($575.00 in chips)
+Seat 7: DoublelegTD ($4713.17 in chips)
+DoublelegTD: posts small blind $25.00
+runnigaces: posts big blind $50.00
+*** HOLE CARDS ***
+DoublelegTD: folds
+Uncalled bet ($25.00) returned to runnigaces
+runnigaces collected $50.00 from pot
+runnigaces: doesn't show hand
+*** SUMMARY ***
+Total pot $50.00 | Rake $0.00
+Seat 4: runnigaces (big blind) collected ($50.00)
+Seat 7: DoublelegTD (button) (small blind) folded before Flop
+
+PokerStars Hand #1499717073:  Hold'em No Limit ($25.00/$50.00 USD) - 2022/12/27 03:27:16 ET
+Table 'WPN_7 Day No Rathole 25/50 NLH 9-Max' 9-max Seat #4 is the button
+Seat 4: runnigaces ($600.00 in chips)
+Seat 7: DoublelegTD ($4688.17 in chips)
+Seat 9: iWasOnly17 ($500.00 in chips)
+runnigaces: posts small blind $25.00
+DoublelegTD: posts big blind $50.00
+*** HOLE CARDS ***
+runnigaces: folds
+Uncalled bet ($25.00) returned to DoublelegTD
+DoublelegTD collected $50.00 from pot
+DoublelegTD: doesn't show hand
+*** SUMMARY ***
+Total pot $50.00 | Rake $0.00
+Seat 4: runnigaces (button) (small blind) folded before Flop
+Seat 7: DoublelegTD (big blind) collected ($50.00)
+
+PokerStars Hand #1499717204:  Hold'em No Limit ($25.00/$50.00 USD) - 2022/12/27 03:27:22 ET
+Table 'WPN_7 Day No Rathole 25/50 NLH 9-Max' 9-max Seat #4 is the button
+Seat 4: runnigaces ($575.00 in chips)
+Seat 7: DoublelegTD ($4713.17 in chips)
+Seat 9: iWasOnly17 ($500.00 in chips)
+DoublelegTD: posts small blind $25.00
+iWasOnly17: posts big blind $50.00
+*** HOLE CARDS ***
+runnigaces: raises $62.50 to $112.50
+DoublelegTD: raises $4600.67 to $4713.17 and is all-in
+iWasOnly17: folds
+runnigaces: calls $462.50 and is all-in
+Uncalled bet ($4138.17) returned to DoublelegTD
+*** FLOP *** [Ks Ah 2s]
+*** TURN *** [Ks Ah 2s] [Qs]
+*** RIVER *** [Ks Ah 2s Qs] [6c]
+*** SHOW DOWN ***
+runnigaces: shows [Kd Qh]
+DoublelegTD: shows [4h 4c]
+runnigaces collected $1198.25 from pot
+*** SUMMARY ***
+Total pot $1200.00 | Rake $1.75
+Board [Ks Ah 2s Qs 6c]
+Seat 4: runnigaces (button) showed [Kd Qh] and won ($1198.25)
+Seat 7: DoublelegTD (small blind) showed [4h 4c] and lost
+Seat 9: iWasOnly17 (big blind) folded before Flop
+
+PokerStars Hand #1499717779:  Hold'em No Limit ($25.00/$50.00 USD) - 2022/12/27 03:27:50 ET
+Table 'WPN_7 Day No Rathole 25/50 NLH 9-Max' 9-max Seat #7 is the button
+Seat 2: b00ma ($500.00 in chips)
+Seat 4: runnigaces ($1198.25 in chips)
+Seat 6: AnnuittCoeptis ($500.00 in chips)
+Seat 7: DoublelegTD ($4138.17 in chips)
+Seat 9: iWasOnly17 ($450.00 in chips)
+iWasOnly17: posts small blind $25.00
+b00ma: posts big blind $50.00
+*** HOLE CARDS ***
+runnigaces: folds
+DoublelegTD: folds
+iWasOnly17: folds
+Uncalled bet ($25.00) returned to b00ma
+b00ma collected $50.00 from pot
+b00ma: doesn't show hand
+*** SUMMARY ***
+Total pot $50.00 | Rake $0.00
+Seat 2: b00ma (big blind) collected ($50.00)
+Seat 4: runnigaces folded before Flop (didn't bet)
+Seat 7: DoublelegTD (button) folded before Flop (didn't bet)
+Seat 9: iWasOnly17 (small blind) folded before Flop
+
+PokerStars Hand #1499717928:  Hold'em No Limit ($25.00/$50.00 USD) - 2022/12/27 03:27:58 ET
+Table 'WPN_7 Day No Rathole 25/50 NLH 9-Max' 9-max Seat #9 is the button
+Seat 2: b00ma ($525.00 in chips)
+Seat 4: runnigaces ($1198.25 in chips)
+Seat 6: AnnuittCoeptis ($500.00 in chips)
+Seat 7: DoublelegTD ($4138.17 in chips)
+Seat 9: iWasOnly17 ($425.00 in chips)
+b00ma: posts small blind $25.00
+AnnuittCoeptis: posts big blind $50.00
+*** HOLE CARDS ***
+DoublelegTD: raises $550.00 to $600.00
+iWasOnly17: folds
+b00ma: folds
+AnnuittCoeptis: calls $450.00 and is all-in
+Uncalled bet ($100.00) returned to DoublelegTD
+*** FLOP *** [9h Th 8d]
+*** TURN *** [9h Th 8d] [Kc]
+*** RIVER *** [9h Th 8d Kc] [5s]
+*** SHOW DOWN ***
+AnnuittCoeptis: shows [As Td]
+DoublelegTD: shows [4d Ad]
+AnnuittCoeptis collected $1022.75 from pot
+*** SUMMARY ***
+Total pot $1025.00 | Rake $2.25
+Board [9h Th 8d Kc 5s]
+Seat 2: b00ma (small blind) folded before Flop
+Seat 6: AnnuittCoeptis (big blind) showed [As Td] and won ($1022.75)
+Seat 7: DoublelegTD showed [4d Ad] and lost
+Seat 9: iWasOnly17 (button) folded before Flop (didn't bet)
+
+PokerStars Hand #1499718935:  Hold'em No Limit ($25.00/$50.00 USD) - 2022/12/27 03:28:48 ET
+Table 'WPN_7 Day No Rathole 25/50 NLH 9-Max' 9-max Seat #2 is the button
+Seat 2: b00ma ($500.00 in chips)
+Seat 6: AnnuittCoeptis ($1022.75 in chips)
+Seat 7: DoublelegTD ($3638.17 in chips)
+Seat 8: acrbotv10a ($500.00 in chips)
+Seat 9: iWasOnly17 ($425.00 in chips)
+AnnuittCoeptis: posts small blind $25.00
+acrbotv10a: posts big blind $50.00
+*** HOLE CARDS ***
+iWasOnly17: folds
+b00ma: raises $450.00 to $500.00 and is all-in
+AnnuittCoeptis: folds
+acrbotv10a: folds
+Uncalled bet ($450.00) returned to b00ma
+b00ma collected $125.00 from pot
+b00ma: doesn't show hand
+*** SUMMARY ***
+Total pot $125.00 | Rake $0.00
+Seat 2: b00ma (button) collected ($125.00)
+Seat 6: AnnuittCoeptis (small blind) folded before Flop
+Seat 8: acrbotv10a (big blind) folded before Flop
+Seat 9: iWasOnly17 folded before Flop (didn't bet)
+
+PokerStars Hand #1499719772:  Hold'em No Limit ($25.00/$50.00 USD) - 2022/12/27 03:29:28 ET
+Table 'WPN_7 Day No Rathole 25/50 NLH 9-Max' 9-max Seat #6 is the button
+Seat 2: b00ma ($575.00 in chips)
+Seat 6: AnnuittCoeptis ($997.75 in chips)
+Seat 8: acrbotv10a ($450.00 in chips)
+Seat 9: iWasOnly17 ($425.00 in chips)
+acrbotv10a: posts small blind $25.00
+iWasOnly17: posts big blind $50.00
+*** HOLE CARDS ***
+b00ma: folds
+AnnuittCoeptis: folds
+acrbotv10a: raises $450.00 to $500.00 and is all-in
+iWasOnly17: calls $375.00 and is all-in
+Uncalled bet ($75.00) returned to acrbotv10a
+*** FLOP *** [5h 8c 2d]
+*** TURN *** [5h 8c 2d] [Qd]
+*** RIVER *** [5h 8c 2d Qd] [Th]
+*** SHOW DOWN ***
+iWasOnly17: shows [Qs 8h]
+acrbotv10a: shows [Qc 7c]
+iWasOnly17 collected $847.75 from pot
+*** SUMMARY ***
+Total pot $850.00 | Rake $2.25
+Board [5h 8c 2d Qd Th]
+Seat 2: b00ma folded before Flop (didn't bet)
+Seat 6: AnnuittCoeptis (button) folded before Flop (didn't bet)
+Seat 8: acrbotv10a (small blind) showed [Qc 7c] and lost
+Seat 9: iWasOnly17 (big blind) showed [Qs 8h] and won ($847.75)
+
+PokerStars Hand #1499720590:  Hold'em No Limit ($25.00/$50.00 USD) - 2022/12/27 03:30:09 ET
+Table 'WPN_7 Day No Rathole 25/50 NLH 9-Max' 9-max Seat #8 is the button
+Seat 6: AnnuittCoeptis ($997.75 in chips)
+Seat 8: acrbotv10a ($500.00 in chips)
+Seat 9: iWasOnly17 ($847.75 in chips)
+iWasOnly17: posts small blind $25.00
+AnnuittCoeptis: posts big blind $50.00
+*** HOLE CARDS ***
+acrbotv10a: raises $450.00 to $500.00 and is all-in
+iWasOnly17: raises $347.75 to $847.75 and is all-in
+AnnuittCoeptis: folds
+Uncalled bet ($347.75) returned to iWasOnly17
+*** FLOP *** [Ac 3d Kd]
+*** TURN *** [Ac 3d Kd] [4d]
+*** RIVER *** [Ac 3d Kd 4d] [6c]
+*** SHOW DOWN ***
+iWasOnly17: shows [Jh Ks]
+acrbotv10a: shows [7h 8h]
+iWasOnly17 collected $1048.25 from pot
+*** SUMMARY ***
+Total pot $1050.00 | Rake $1.75
+Board [Ac 3d Kd 4d 6c]
+Seat 6: AnnuittCoeptis (big blind) folded before Flop
+Seat 8: acrbotv10a (button) showed [7h 8h] and lost
+Seat 9: iWasOnly17 (small blind) showed [Jh Ks] and won ($1048.25)
+
+PokerStars Hand #1499721323:  Hold'em No Limit ($25.00/$50.00 USD) - 2022/12/27 03:30:45 ET
+Table 'WPN_7 Day No Rathole 25/50 NLH 9-Max' 9-max Seat #9 is the button
+Seat 6: AnnuittCoeptis ($947.75 in chips)
+Seat 8: acrbotv10a ($500.00 in chips)
+Seat 9: iWasOnly17 ($1396.00 in chips)
+AnnuittCoeptis: posts small blind $25.00
+iWasOnly17: posts big blind $50.00
+*** HOLE CARDS ***
+AnnuittCoeptis: folds
+Uncalled bet ($25.00) returned to iWasOnly17
+iWasOnly17 collected $50.00 from pot
+iWasOnly17: doesn't show hand
+*** SUMMARY ***
+Total pot $50.00 | Rake $0.00
+Seat 6: AnnuittCoeptis (small blind) folded before Flop
+Seat 9: iWasOnly17 (button) (big blind) collected ($50.00)
+
+PokerStars Hand #1499721544:  Hold'em No Limit ($25.00/$50.00 USD) - 2022/12/27 03:30:55 ET
+Table 'WPN_7 Day No Rathole 25/50 NLH 9-Max' 9-max Seat #9 is the button
+Seat 6: AnnuittCoeptis ($922.75 in chips)
+Seat 9: iWasOnly17 ($1421.00 in chips)
+iWasOnly17: posts small blind $25.00
+AnnuittCoeptis: posts big blind $50.00
+*** HOLE CARDS ***
+iWasOnly17: calls $25.00
+AnnuittCoeptis: raises $150.00 to $200.00
+iWasOnly17: folds
+Uncalled bet ($150.00) returned to AnnuittCoeptis
+AnnuittCoeptis collected $100.00 from pot
+AnnuittCoeptis: doesn't show hand
+*** SUMMARY ***
+Total pot $100.00 | Rake $0.00
+Seat 6: AnnuittCoeptis (big blind) collected ($100.00)
+Seat 9: iWasOnly17 (button) (small blind) folded before Flop
+
+PokerStars Hand #1499721915:  Hold'em No Limit ($25.00/$50.00 USD) - 2022/12/27 03:31:15 ET
+Table 'WPN_7 Day No Rathole 25/50 NLH 9-Max' 9-max Seat #6 is the button
+Seat 6: AnnuittCoeptis ($972.75 in chips)
+Seat 9: iWasOnly17 ($1371.00 in chips)
+AnnuittCoeptis: posts small blind $25.00
+iWasOnly17: posts big blind $50.00
+*** HOLE CARDS ***
+AnnuittCoeptis: calls $25.00
+iWasOnly17: checks
+*** FLOP *** [5s 7s 9c]
+iWasOnly17: checks
+AnnuittCoeptis: checks
+*** TURN *** [5s 7s 9c] [3h]
+iWasOnly17: checks
+AnnuittCoeptis: checks
+*** RIVER *** [5s 7s 9c 3h] [Qc]
+iWasOnly17: checks
+AnnuittCoeptis: checks
+*** SHOW DOWN ***
+iWasOnly17: shows [2d 3d]
+AnnuittCoeptis: mucks hand
+iWasOnly17 collected $98.75 from pot
+*** SUMMARY ***
+Total pot $100.00 | Rake $1.25
+Board [5s 7s 9c 3h Qc]
+Seat 6: AnnuittCoeptis (button) (small blind) mucked
+Seat 9: iWasOnly17 (big blind) showed [2d 3d] and won ($98.75)
+
+PokerStars Hand #1499729475:  Hold'em No Limit ($25.00/$50.00 USD) - 2022/12/27 03:37:34 ET
+Table 'WPN_7 Day No Rathole 25/50 NLH 9-Max' 9-max Seat #3 is the button
+Seat 3: DoublelegTD ($3638.17 in chips)
+Seat 7: runnigaces ($1198.25 in chips)
+DoublelegTD: posts small blind $25.00
+runnigaces: posts big blind $50.00
+*** HOLE CARDS ***
+DoublelegTD: raises $50.00 to $100.00
+runnigaces: folds
+Uncalled bet ($50.00) returned to DoublelegTD
+DoublelegTD collected $100.00 from pot
+DoublelegTD: doesn't show hand
+*** SUMMARY ***
+Total pot $100.00 | Rake $0.00
+Seat 3: DoublelegTD (button) (small blind) collected ($100.00)
+Seat 7: runnigaces (big blind) folded before Flop
+
+PokerStars Hand #1499729777:  Hold'em No Limit ($25.00/$50.00 USD) - 2022/12/27 03:37:49 ET
+Table 'WPN_7 Day No Rathole 25/50 NLH 9-Max' 9-max Seat #7 is the button
+Seat 3: DoublelegTD ($3688.17 in chips)
+Seat 7: runnigaces ($1148.25 in chips)
+runnigaces: posts small blind $25.00
+DoublelegTD: posts big blind $50.00
+*** HOLE CARDS ***
+runnigaces: raises $50.00 to $100.00
+DoublelegTD: calls $50.00
+*** FLOP *** [2h Kc 5h]
+DoublelegTD: checks
+runnigaces: bets $125.00
+DoublelegTD: folds
+Uncalled bet ($125.00) returned to runnigaces
+runnigaces collected $198.75 from pot
+runnigaces: doesn't show hand
+*** SUMMARY ***
+Total pot $200.00 | Rake $1.25
+Board [2h Kc 5h]
+Seat 3: DoublelegTD (big blind) folded on the Flop
+Seat 7: runnigaces (button) (small blind) collected ($198.75)
+
+PokerStars Hand #1499730178:  Hold'em No Limit ($25.00/$50.00 USD) - 2022/12/27 03:38:09 ET
+Table 'WPN_7 Day No Rathole 25/50 NLH 9-Max' 9-max Seat #3 is the button
+Seat 1: degen1990 ($550.00 in chips)
+Seat 3: DoublelegTD ($3588.17 in chips)
+Seat 7: runnigaces ($1247.00 in chips)
+DoublelegTD: posts small blind $25.00
+runnigaces: posts big blind $50.00
+*** HOLE CARDS ***
+DoublelegTD: raises $50.00 to $100.00
+runnigaces: folds
+Uncalled bet ($50.00) returned to DoublelegTD
+DoublelegTD collected $100.00 from pot
+DoublelegTD: doesn't show hand
+*** SUMMARY ***
+Total pot $100.00 | Rake $0.00
+Seat 3: DoublelegTD (button) (small blind) collected ($100.00)
+Seat 7: runnigaces (big blind) folded before Flop
+
+PokerStars Hand #1499730398:  Hold'em No Limit ($25.00/$50.00 USD) - 2022/12/27 03:38:21 ET
+Table 'WPN_7 Day No Rathole 25/50 NLH 9-Max' 9-max Seat #3 is the button
+Seat 1: degen1990 ($550.00 in chips)
+Seat 3: DoublelegTD ($3638.17 in chips)
+Seat 7: runnigaces ($1197.00 in chips)
+runnigaces: posts small blind $25.00
+degen1990: posts big blind $50.00
+*** HOLE CARDS ***
+DoublelegTD: raises $50.00 to $100.00
+runnigaces: raises $187.50 to $287.50
+degen1990: folds
+DoublelegTD: calls $187.50
+*** FLOP *** [Ts 4c 8s]
+runnigaces: bets $909.50 and is all-in
+DoublelegTD: calls $909.50
+*** TURN *** [Ts 4c 8s] [4d]
+*** RIVER *** [Ts 4c 8s 4d] [7c]
+*** SHOW DOWN ***
+runnigaces: shows [Kc Kh]
+DoublelegTD: shows [9c Tc]
+runnigaces collected $2442.25 from pot
+*** SUMMARY ***
+Total pot $2444.00 | Rake $1.75
+Board [Ts 4c 8s 4d 7c]
+Seat 1: degen1990 (big blind) folded before Flop
+Seat 3: DoublelegTD (button) showed [9c Tc] and lost
+Seat 7: runnigaces (small blind) showed [Kc Kh] and won ($2442.25)
+
+PokerStars Hand #1499731088:  Hold'em No Limit ($25.00/$50.00 USD) - 2022/12/27 03:38:55 ET
+Table 'WPN_7 Day No Rathole 25/50 NLH 9-Max' 9-max Seat #7 is the button
+Seat 1: degen1990 ($500.00 in chips)
+Seat 3: DoublelegTD ($2441.17 in chips)
+Seat 7: runnigaces ($2442.25 in chips)
+degen1990: posts small blind $25.00
+DoublelegTD: posts big blind $50.00
+*** HOLE CARDS ***
+runnigaces: raises $50.00 to $100.00
+degen1990: folds
+DoublelegTD: calls $50.00
+*** FLOP *** [Jh 3c 5h]
+DoublelegTD: checks
+runnigaces: bets $168.75
+DoublelegTD: raises $243.75 to $412.50
+runnigaces: folds
+Uncalled bet ($243.75) returned to DoublelegTD
+DoublelegTD collected $560.75 from pot
+DoublelegTD: doesn't show hand
+*** SUMMARY ***
+Total pot $562.50 | Rake $1.75
+Board [Jh 3c 5h]
+Seat 1: degen1990 (small blind) folded before Flop
+Seat 3: DoublelegTD (big blind) collected ($560.75)
+Seat 7: runnigaces (button) folded on the Flop
+
+PokerStars Hand #1499731618:  Hold'em No Limit ($25.00/$50.00 USD) - 2022/12/27 03:39:22 ET
+Table 'WPN_7 Day No Rathole 25/50 NLH 9-Max' 9-max Seat #1 is the button
+Seat 1: degen1990 ($500.00 in chips)
+Seat 3: DoublelegTD ($2733.17 in chips)
+Seat 7: runnigaces ($2173.50 in chips)
+DoublelegTD: posts small blind $25.00
+runnigaces: posts big blind $50.00
+*** HOLE CARDS ***
+degen1990: raises $50.00 to $100.00
+DoublelegTD: folds
+runnigaces: calls $50.00
+*** FLOP *** [As 4h 7c]
+runnigaces: checks
+degen1990: checks
+*** TURN *** [As 4h 7c] [6s]
+runnigaces: bets $81.25
+degen1990: folds
+Uncalled bet ($81.25) returned to runnigaces
+runnigaces collected $223.25 from pot
+runnigaces: doesn't show hand
+*** SUMMARY ***
+Total pot $225.00 | Rake $1.75
+Board [As 4h 7c 6s]
+Seat 1: degen1990 (button) folded on the Turn
+Seat 3: DoublelegTD (small blind) folded before Flop
+Seat 7: runnigaces (big blind) collected ($223.25)
+
+PokerStars Hand #1499732184:  Hold'em No Limit ($25.00/$50.00 USD) - 2022/12/27 03:39:50 ET
+Table 'WPN_7 Day No Rathole 25/50 NLH 9-Max' 9-max Seat #3 is the button
+Seat 1: degen1990 ($400.00 in chips)
+Seat 3: DoublelegTD ($2708.17 in chips)
+Seat 7: runnigaces ($2296.75 in chips)
+runnigaces: posts small blind $25.00
+degen1990: posts big blind $50.00
+*** HOLE CARDS ***
+DoublelegTD: folds
+runnigaces: folds
+Uncalled bet ($25.00) returned to degen1990
+degen1990 collected $50.00 from pot
+degen1990: doesn't show hand
+*** SUMMARY ***
+Total pot $50.00 | Rake $0.00
+Seat 1: degen1990 (big blind) collected ($50.00)
+Seat 3: DoublelegTD (button) folded before Flop (didn't bet)
+Seat 7: runnigaces (small blind) folded before Flop
+
+PokerStars Hand #1499732336:  Hold'em No Limit ($25.00/$50.00 USD) - 2022/12/27 03:39:58 ET
+Table 'WPN_7 Day No Rathole 25/50 NLH 9-Max' 9-max Seat #7 is the button
+Seat 1: degen1990 ($525.00 in chips)
+Seat 3: DoublelegTD ($2708.17 in chips)
+Seat 7: runnigaces ($2271.75 in chips)
+degen1990: posts small blind $25.00
+DoublelegTD: posts big blind $50.00
+*** HOLE CARDS ***
+runnigaces: raises $50.00 to $100.00
+degen1990: folds
+DoublelegTD: calls $50.00
+*** FLOP *** [Ac Kd Qd]
+DoublelegTD: checks
+runnigaces: bets $56.25
+DoublelegTD: calls $56.25
+*** TURN *** [Ac Kd Qd] [6h]
+DoublelegTD: checks
+runnigaces: bets $84.37
+DoublelegTD: calls $84.37
+*** RIVER *** [Ac Kd Qd 6h] [Qs]
+DoublelegTD: checks
+runnigaces: checks
+*** SHOW DOWN ***
+DoublelegTD: shows [Ad 8h]
+runnigaces: shows [As 4c]
+DoublelegTD collected $252.25 from pot
+runnigaces collected $252.24 from pot
+*** SUMMARY ***
+Total pot $506.24 | Rake $1.75
+Board [Ac Kd Qd 6h Qs]
+Seat 1: degen1990 (small blind) folded before Flop
+Seat 3: DoublelegTD (big blind) showed [Ad 8h] and won ($252.25)
+Seat 7: runnigaces (button) showed [As 4c] and won ($252.24)
+
+PokerStars Hand #1499733157:  Hold'em No Limit ($25.00/$50.00 USD) - 2022/12/27 03:40:41 ET
+Table 'WPN_7 Day No Rathole 25/50 NLH 9-Max' 9-max Seat #1 is the button
+Seat 1: degen1990 ($500.00 in chips)
+Seat 3: DoublelegTD ($2719.80 in chips)
+Seat 5: b00ma ($575.00 in chips)
+Seat 7: runnigaces ($2283.37 in chips)
+DoublelegTD: posts small blind $25.00
+b00ma: posts big blind $50.00
+*** HOLE CARDS ***
+runnigaces: folds
+degen1990: folds
+DoublelegTD: folds
+Uncalled bet ($25.00) returned to b00ma
+b00ma collected $50.00 from pot
+b00ma: doesn't show hand
+*** SUMMARY ***
+Total pot $50.00 | Rake $0.00
+Seat 1: degen1990 (button) folded before Flop (didn't bet)
+Seat 3: DoublelegTD (small blind) folded before Flop
+Seat 5: b00ma (big blind) collected ($50.00)
+Seat 7: runnigaces folded before Flop (didn't bet)
+
+PokerStars Hand #1499733325:  Hold'em No Limit ($25.00/$50.00 USD) - 2022/12/27 03:40:48 ET
+Table 'WPN_7 Day No Rathole 25/50 NLH 9-Max' 9-max Seat #3 is the button
+Seat 1: degen1990 ($500.00 in chips)
+Seat 3: DoublelegTD ($2694.80 in chips)
+Seat 5: b00ma ($600.00 in chips)
+Seat 7: runnigaces ($2283.37 in chips)
+b00ma: posts small blind $25.00
+runnigaces: posts big blind $50.00
+*** HOLE CARDS ***
+degen1990: raises $450.00 to $500.00 and is all-in
+DoublelegTD: folds
+b00ma: folds
+runnigaces: folds
+Uncalled bet ($450.00) returned to degen1990
+degen1990 collected $125.00 from pot
+degen1990: doesn't show hand
+*** SUMMARY ***
+Total pot $125.00 | Rake $0.00
+Seat 1: degen1990 collected ($125.00)
+Seat 3: DoublelegTD (button) folded before Flop (didn't bet)
+Seat 5: b00ma (small blind) folded before Flop
+Seat 7: runnigaces (big blind) folded before Flop
+
+PokerStars Hand #1499733775:  Hold'em No Limit ($25.00/$50.00 USD) - 2022/12/27 03:41:11 ET
+Table 'WPN_7 Day No Rathole 25/50 NLH 9-Max' 9-max Seat #5 is the button
+Seat 1: degen1990 ($575.00 in chips)
+Seat 3: DoublelegTD ($2694.80 in chips)
+Seat 5: b00ma ($575.00 in chips)
+Seat 7: runnigaces ($2233.37 in chips)
+Seat 8: az96 ($1434.12 in chips)
+runnigaces: posts small blind $25.00
+az96: posts big blind $50.00
+*** HOLE CARDS ***
+degen1990: raises $50.00 to $100.00
+DoublelegTD: folds
+b00ma: folds
+runnigaces: raises $400.00 to $500.00
+az96: folds
+degen1990: folds
+Uncalled bet ($400.00) returned to runnigaces
+runnigaces collected $250.00 from pot
+runnigaces: doesn't show hand
+*** SUMMARY ***
+Total pot $250.00 | Rake $0.00
+Seat 1: degen1990 folded before Flop
+Seat 3: DoublelegTD folded before Flop (didn't bet)
+Seat 5: b00ma (button) folded before Flop (didn't bet)
+Seat 7: runnigaces (small blind) collected ($250.00)
+Seat 8: az96 (big blind) folded before Flop
+
+PokerStars Hand #1499734189:  Hold'em No Limit ($25.00/$50.00 USD) - 2022/12/27 03:41:31 ET
+Table 'WPN_7 Day No Rathole 25/50 NLH 9-Max' 9-max Seat #7 is the button
+Seat 1: degen1990 ($475.00 in chips)
+Seat 3: DoublelegTD ($2694.80 in chips)
+Seat 5: b00ma ($575.00 in chips)
+Seat 7: runnigaces ($2383.37 in chips)
+Seat 8: az96 ($1384.12 in chips)
+az96: posts small blind $25.00
+degen1990: posts big blind $50.00
+*** HOLE CARDS ***
+DoublelegTD: folds
+b00ma: raises $525.00 to $575.00 and is all-in
+runnigaces: folds
+az96: raises $525.00 to $1100.00
+degen1990: folds
+Uncalled bet ($525.00) returned to az96
+*** FLOP *** [9h 2h Jc]
+*** TURN *** [9h 2h Jc] [3h]
+*** RIVER *** [9h 2h Jc 3h] [4h]
+*** SHOW DOWN ***
+az96: shows [Kh Ks]
+b00ma: shows [7s 7h]
+az96 collected $1197.00 from pot
+*** SUMMARY ***
+Total pot $1200.00 | Rake $3.00
+Board [9h 2h Jc 3h 4h]
+Seat 1: degen1990 (big blind) folded before Flop
+Seat 3: DoublelegTD folded before Flop (didn't bet)
+Seat 5: b00ma showed [7s 7h] and lost
+Seat 7: runnigaces (button) folded before Flop (didn't bet)
+Seat 8: az96 (small blind) showed [Kh Ks] and won ($1197.00)
+
+PokerStars Hand #1499734958:  Hold'em No Limit ($25.00/$50.00 USD) - 2022/12/27 03:42:10 ET
+Table 'WPN_7 Day No Rathole 25/50 NLH 9-Max' 9-max Seat #8 is the button
+Seat 1: degen1990 ($500.00 in chips)
+Seat 3: DoublelegTD ($2694.80 in chips)
+Seat 5: b00ma ($500.00 in chips)
+Seat 7: runnigaces ($2383.37 in chips)
+Seat 8: az96 ($2006.12 in chips)
+Seat 9: acrbotv10a ($500.00 in chips)
+degen1990: posts small blind $25.00
+DoublelegTD: posts big blind $50.00
+*** HOLE CARDS ***
+b00ma: folds
+runnigaces: folds
+az96: folds
+degen1990: folds
+Uncalled bet ($25.00) returned to DoublelegTD
+DoublelegTD collected $50.00 from pot
+DoublelegTD: doesn't show hand
+*** SUMMARY ***
+Total pot $50.00 | Rake $0.00
+Seat 1: degen1990 (small blind) folded before Flop
+Seat 3: DoublelegTD (big blind) collected ($50.00)
+Seat 5: b00ma folded before Flop (didn't bet)
+Seat 7: runnigaces folded before Flop (didn't bet)
+Seat 8: az96 (button) folded before Flop (didn't bet)
+
+PokerStars Hand #1499735105:  Hold'em No Limit ($25.00/$50.00 USD) - 2022/12/27 03:42:18 ET
+Table 'WPN_7 Day No Rathole 25/50 NLH 9-Max' 9-max Seat #1 is the button
+Seat 1: degen1990 ($475.00 in chips)
+Seat 3: DoublelegTD ($2719.80 in chips)
+Seat 5: b00ma ($500.00 in chips)
+Seat 7: runnigaces ($2383.37 in chips)
+Seat 8: az96 ($2006.12 in chips)
+Seat 9: acrbotv10a ($500.00 in chips)
+DoublelegTD: posts small blind $25.00
+b00ma: posts big blind $50.00
+*** HOLE CARDS ***
+runnigaces: folds
+az96: raises $50.00 to $100.00
+degen1990: folds
+DoublelegTD: folds
+b00ma: raises $400.00 to $500.00 and is all-in
+az96: calls $400.00
+*** FLOP *** [9d Qh 5d]
+*** TURN *** [9d Qh 5d] [2c]
+*** RIVER *** [9d Qh 5d 2c] [2h]
+*** SHOW DOWN ***
+b00ma: shows [9c As]
+az96: shows [Kc Js]
+b00ma collected $1022.00 from pot
+*** SUMMARY ***
+Total pot $1025.00 | Rake $3.00
+Board [9d Qh 5d 2c 2h]
+Seat 1: degen1990 (button) folded before Flop (didn't bet)
+Seat 3: DoublelegTD (small blind) folded before Flop
+Seat 5: b00ma (big blind) showed [9c As] and won ($1022.00)
+Seat 7: runnigaces folded before Flop (didn't bet)
+Seat 8: az96 showed [Kc Js] and lost
+
+PokerStars Hand #1499735833:  Hold'em No Limit ($25.00/$50.00 USD) - 2022/12/27 03:42:56 ET
+Table 'WPN_7 Day No Rathole 25/50 NLH 9-Max' 9-max Seat #3 is the button
+Seat 1: degen1990 ($475.00 in chips)
+Seat 3: DoublelegTD ($2694.80 in chips)
+Seat 5: b00ma ($1022.00 in chips)
+Seat 7: runnigaces ($2383.37 in chips)
+Seat 8: az96 ($1506.12 in chips)
+Seat 9: acrbotv10a ($500.00 in chips)
+b00ma: posts small blind $25.00
+az96: posts big blind $50.00
+*** HOLE CARDS ***
+degen1990: folds
+DoublelegTD: raises $50.00 to $100.00
+b00ma: folds
+az96: folds
+Uncalled bet ($50.00) returned to DoublelegTD
+DoublelegTD collected $125.00 from pot
+DoublelegTD: doesn't show hand
+*** SUMMARY ***
+Total pot $125.00 | Rake $0.00
+Seat 1: degen1990 folded before Flop (didn't bet)
+Seat 3: DoublelegTD (button) collected ($125.00)
+Seat 5: b00ma (small blind) folded before Flop
+Seat 8: az96 (big blind) folded before Flop
+
+PokerStars Hand #1499736200:  Hold'em No Limit ($25.00/$50.00 USD) - 2022/12/27 03:43:15 ET
+Table 'WPN_7 Day No Rathole 25/50 NLH 9-Max' 9-max Seat #5 is the button
+Seat 1: degen1990 ($475.00 in chips)
+Seat 3: DoublelegTD ($2769.80 in chips)
+Seat 5: b00ma ($997.00 in chips)
+Seat 8: az96 ($1456.12 in chips)
+Seat 9: acrbotv10a ($500.00 in chips)
+az96: posts small blind $25.00
+acrbotv10a: posts big blind $50.00
+*** HOLE CARDS ***
+degen1990: folds
+DoublelegTD: folds
+b00ma: raises $50.00 to $100.00
+az96: folds
+acrbotv10a: calls $50.00
+*** FLOP *** [5s 4d Td]
+acrbotv10a: checks
+b00ma: bets $56.25
+acrbotv10a: raises $343.75 to $400.00 and is all-in
+b00ma: calls $343.75
+*** TURN *** [5s 4d Td] [3d]
+*** RIVER *** [5s 4d Td 3d] [Kh]
+*** SHOW DOWN ***
+acrbotv10a: shows [9d Qd]
+b00ma: shows [Tc Ah]
+acrbotv10a collected $1022.00 from pot
+*** SUMMARY ***
+Total pot $1025.00 | Rake $3.00
+Board [5s 4d Td 3d Kh]
+Seat 1: degen1990 folded before Flop (didn't bet)
+Seat 3: DoublelegTD folded before Flop (didn't bet)
+Seat 5: b00ma (button) showed [Tc Ah] and lost
+Seat 8: az96 (small blind) folded before Flop
+Seat 9: acrbotv10a (big blind) showed [9d Qd] and won ($1022.00)
+
+PokerStars Hand #1499737159:  Hold'em No Limit ($25.00/$50.00 USD) - 2022/12/27 03:44:06 ET
+Table 'WPN_7 Day No Rathole 25/50 NLH 9-Max' 9-max Seat #8 is the button
+Seat 1: degen1990 ($475.00 in chips)
+Seat 3: DoublelegTD ($2769.80 in chips)
+Seat 5: b00ma ($500.00 in chips)
+Seat 8: az96 ($1431.12 in chips)
+Seat 9: acrbotv10a ($1022.00 in chips)
+acrbotv10a: posts small blind $25.00
+degen1990: posts big blind $50.00
+*** HOLE CARDS ***
+DoublelegTD: folds
+b00ma: raises $450.00 to $500.00 and is all-in
+az96: folds
+acrbotv10a: folds
+degen1990: folds
+Uncalled bet ($450.00) returned to b00ma
+b00ma collected $125.00 from pot
+b00ma: doesn't show hand
+*** SUMMARY ***
+Total pot $125.00 | Rake $0.00
+Seat 1: degen1990 (big blind) folded before Flop
+Seat 3: DoublelegTD folded before Flop (didn't bet)
+Seat 5: b00ma collected ($125.00)
+Seat 8: az96 (button) folded before Flop (didn't bet)
+Seat 9: acrbotv10a (small blind) folded before Flop
+
+PokerStars Hand #1499737521:  Hold'em No Limit ($25.00/$50.00 USD) - 2022/12/27 03:44:25 ET
+Table 'WPN_7 Day No Rathole 25/50 NLH 9-Max' 9-max Seat #9 is the button
+Seat 1: degen1990 ($450.00 in chips)
+Seat 3: DoublelegTD ($2769.80 in chips)
+Seat 5: b00ma ($575.00 in chips)
+Seat 8: az96 ($1431.12 in chips)
+Seat 9: acrbotv10a ($997.00 in chips)
+degen1990: posts small blind $25.00
+acrbotv10a: posts big blind $50.00
+*** HOLE CARDS ***
+degen1990: raises $450.00 to $500.00 and is all-in
+acrbotv10a: folds
+Uncalled bet ($450.00) returned to degen1990
+degen1990 collected $100.00 from pot
+degen1990: doesn't show hand
+*** SUMMARY ***
+Total pot $100.00 | Rake $0.00
+Seat 1: degen1990 (small blind) collected ($100.00)
+Seat 9: acrbotv10a (button) (big blind) folded before Flop
+
+PokerStars Hand #1499744721:  Hold'em No Limit ($25.00/$50.00 USD) - 2022/12/27 03:50:45 ET
+Table 'WPN_7 Day No Rathole 25/50 NLH 9-Max' 9-max Seat #3 is the button
+Seat 1: RockysRoad ($500.00 in chips)
+Seat 3: DoublelegTD ($2769.80 in chips)
+DoublelegTD: posts small blind $25.00
+RockysRoad: posts big blind $50.00
+*** HOLE CARDS ***
+DoublelegTD: folds
+Uncalled bet ($25.00) returned to RockysRoad
+RockysRoad collected $50.00 from pot
+RockysRoad: doesn't show hand
+*** SUMMARY ***
+Total pot $50.00 | Rake $0.00
+Seat 1: RockysRoad (big blind) collected ($50.00)
+Seat 3: DoublelegTD (button) (small blind) folded before Flop
+
+PokerStars Hand #1499744856:  Hold'em No Limit ($25.00/$50.00 USD) - 2022/12/27 03:50:53 ET
+Table 'WPN_7 Day No Rathole 25/50 NLH 9-Max' 9-max Seat #1 is the button
+Seat 1: RockysRoad ($525.00 in chips)
+Seat 3: DoublelegTD ($2744.80 in chips)
+RockysRoad: posts small blind $25.00
+DoublelegTD: posts big blind $50.00
+*** HOLE CARDS ***
+RockysRoad: raises $475.00 to $525.00 and is all-in
+DoublelegTD: calls $475.00
+*** FLOP *** [Td Qd 5c]
+*** TURN *** [Td Qd 5c] [4h]
+*** RIVER *** [Td Qd 5c 4h] [As]
+*** SHOW DOWN ***
+RockysRoad: shows [2d Ad]
+DoublelegTD: shows [3c Kc]
+RockysRoad collected $1048.75 from pot
+*** SUMMARY ***
+Total pot $1050.00 | Rake $1.25
+Board [Td Qd 5c 4h As]
+Seat 1: RockysRoad (button) (small blind) showed [2d Ad] and won ($1048.75)
+Seat 3: DoublelegTD (big blind) showed [3c Kc] and lost
+
+PokerStars Hand #1499745412:  Hold'em No Limit ($25.00/$50.00 USD) - 2022/12/27 03:51:21 ET
+Table 'WPN_7 Day No Rathole 25/50 NLH 9-Max' 9-max Seat #1 is the button
+Seat 1: RockysRoad ($1048.75 in chips)
+Seat 3: DoublelegTD ($2219.80 in chips)
+Seat 4: degen1990 ($550.00 in chips)
+DoublelegTD: posts small blind $25.00
+degen1990: posts big blind $50.00
+*** HOLE CARDS ***
+RockysRoad: folds
+DoublelegTD: folds
+Uncalled bet ($25.00) returned to degen1990
+degen1990 collected $50.00 from pot
+degen1990: doesn't show hand
+*** SUMMARY ***
+Total pot $50.00 | Rake $0.00
+Seat 1: RockysRoad (button) folded before Flop (didn't bet)
+Seat 3: DoublelegTD (small blind) folded before Flop
+Seat 4: degen1990 (big blind) collected ($50.00)
+
+PokerStars Hand #1499745676:  Hold'em No Limit ($25.00/$50.00 USD) - 2022/12/27 03:51:35 ET
+Table 'WPN_7 Day No Rathole 25/50 NLH 9-Max' 9-max Seat #3 is the button
+Seat 1: RockysRoad ($1048.75 in chips)
+Seat 3: DoublelegTD ($2194.80 in chips)
+Seat 4: degen1990 ($575.00 in chips)
+degen1990: posts small blind $25.00
+RockysRoad: posts big blind $50.00
+*** HOLE CARDS ***
+DoublelegTD: folds
+degen1990: folds
+Uncalled bet ($25.00) returned to RockysRoad
+RockysRoad collected $50.00 from pot
+RockysRoad: doesn't show hand
+*** SUMMARY ***
+Total pot $50.00 | Rake $0.00
+Seat 1: RockysRoad (big blind) collected ($50.00)
+Seat 3: DoublelegTD (button) folded before Flop (didn't bet)
+Seat 4: degen1990 (small blind) folded before Flop
+
+PokerStars Hand #1499745933:  Hold'em No Limit ($25.00/$50.00 USD) - 2022/12/27 03:51:49 ET
+Table 'WPN_7 Day No Rathole 25/50 NLH 9-Max' 9-max Seat #4 is the button
+Seat 1: RockysRoad ($1073.75 in chips)
+Seat 3: DoublelegTD ($2194.80 in chips)
+Seat 4: degen1990 ($550.00 in chips)
+RockysRoad: posts small blind $25.00
+DoublelegTD: posts big blind $50.00
+*** HOLE CARDS ***
+degen1990: folds
+RockysRoad: folds
+Uncalled bet ($25.00) returned to DoublelegTD
+DoublelegTD collected $50.00 from pot
+DoublelegTD: doesn't show hand
+*** SUMMARY ***
+Total pot $50.00 | Rake $0.00
+Seat 1: RockysRoad (small blind) folded before Flop
+Seat 3: DoublelegTD (big blind) collected ($50.00)
+Seat 4: degen1990 (button) folded before Flop (didn't bet)
+
+PokerStars Hand #1499746067:  Hold'em No Limit ($25.00/$50.00 USD) - 2022/12/27 03:51:56 ET
+Table 'WPN_7 Day No Rathole 25/50 NLH 9-Max' 9-max Seat #1 is the button
+Seat 1: RockysRoad ($1048.75 in chips)
+Seat 3: DoublelegTD ($2219.80 in chips)
+Seat 4: degen1990 ($550.00 in chips)
+DoublelegTD: posts small blind $25.00
+degen1990: posts big blind $50.00
+*** HOLE CARDS ***
+RockysRoad: folds
+DoublelegTD: raises $550.00 to $600.00
+degen1990: folds
+Uncalled bet ($550.00) returned to DoublelegTD
+DoublelegTD collected $100.00 from pot
+DoublelegTD: doesn't show hand
+*** SUMMARY ***
+Total pot $100.00 | Rake $0.00
+Seat 1: RockysRoad (button) folded before Flop (didn't bet)
+Seat 3: DoublelegTD (small blind) collected ($100.00)
+Seat 4: degen1990 (big blind) folded before Flop
+
+PokerStars Hand #1499746309:  Hold'em No Limit ($25.00/$50.00 USD) - 2022/12/27 03:52:09 ET
+Table 'WPN_7 Day No Rathole 25/50 NLH 9-Max' 9-max Seat #4 is the button
+Seat 3: DoublelegTD ($2269.80 in chips)
+Seat 4: degen1990 ($500.00 in chips)
+degen1990: posts small blind $25.00
+DoublelegTD: posts big blind $50.00
+*** HOLE CARDS ***
+degen1990: folds
+Uncalled bet ($25.00) returned to DoublelegTD
+DoublelegTD collected $50.00 from pot
+DoublelegTD: doesn't show hand
+*** SUMMARY ***
+Total pot $50.00 | Rake $0.00
+Seat 3: DoublelegTD (big blind) collected ($50.00)
+Seat 4: degen1990 (button) (small blind) folded before Flop
+
+PokerStars Hand #1499764039:  Hold'em No Limit ($25.00/$50.00 USD) - 2022/12/27 04:10:13 ET
+Table 'WPN_7 Day No Rathole 25/50 NLH 9-Max' 9-max Seat #9 is the button
+Seat 3: DoublelegTD ($2444.80 in chips)
+Seat 9: WilliamHBonney ($738.50 in chips)
+WilliamHBonney: posts small blind $25.00
+DoublelegTD: posts big blind $50.00
+*** HOLE CARDS ***
+WilliamHBonney: calls $25.00
+DoublelegTD: raises $875.00 to $925.00
+WilliamHBonney: folds
+Uncalled bet ($875.00) returned to DoublelegTD
+DoublelegTD collected $100.00 from pot
+DoublelegTD: doesn't show hand
+*** SUMMARY ***
+Total pot $100.00 | Rake $0.00
+Seat 3: DoublelegTD (big blind) collected ($100.00)
+Seat 9: WilliamHBonney (button) (small blind) folded before Flop
+
+PokerStars Hand #1499764469:  Hold'em No Limit ($25.00/$50.00 USD) - 2022/12/27 04:10:37 ET
+Table 'WPN_7 Day No Rathole 25/50 NLH 9-Max' 9-max Seat #3 is the button
+Seat 3: DoublelegTD ($2494.80 in chips)
+Seat 9: WilliamHBonney ($713.50 in chips)
+DoublelegTD: posts small blind $25.00
+WilliamHBonney: posts big blind $50.00
+*** HOLE CARDS ***
+DoublelegTD: raises $725.00 to $775.00
+WilliamHBonney: calls $663.50 and is all-in
+Uncalled bet ($61.50) returned to DoublelegTD
+*** FLOP *** [Qh 2d 7d]
+*** TURN *** [Qh 2d 7d] [2h]
+*** RIVER *** [Qh 2d 7d 2h] [Qd]
+*** SHOW DOWN ***
+DoublelegTD: shows [5d Ac]
+WilliamHBonney: shows [Ah Kd]
+WilliamHBonney collected $712.87 from pot
+DoublelegTD collected $712.88 from pot
+*** SUMMARY ***
+Total pot $1427.00 | Rake $1.25
+Board [Qh 2d 7d 2h Qd]
+Seat 3: DoublelegTD (button) (small blind) showed [5d Ac] and won ($712.88)
+Seat 9: WilliamHBonney (big blind) showed [Ah Kd] and won ($712.87)
+
+PokerStars Hand #1499764930:  Hold'em No Limit ($25.00/$50.00 USD) - 2022/12/27 04:11:01 ET
+Table 'WPN_7 Day No Rathole 25/50 NLH 9-Max' 9-max Seat #9 is the button
+Seat 3: DoublelegTD ($2494.18 in chips)
+Seat 9: WilliamHBonney ($712.87 in chips)
+WilliamHBonney: posts small blind $25.00
+DoublelegTD: posts big blind $50.00
+*** HOLE CARDS ***
+WilliamHBonney: raises $50.00 to $100.00
+DoublelegTD: calls $50.00
+*** FLOP *** [6d As 5s]
+DoublelegTD: checks
+WilliamHBonney: bets $100.00
+DoublelegTD: folds
+Uncalled bet ($100.00) returned to WilliamHBonney
+WilliamHBonney collected $198.75 from pot
+WilliamHBonney: doesn't show hand
+*** SUMMARY ***
+Total pot $200.00 | Rake $1.25
+Board [6d As 5s]
+Seat 3: DoublelegTD (big blind) folded on the Flop
+Seat 9: WilliamHBonney (button) (small blind) collected ($198.75)
+
+PokerStars Hand #1499765459:  Hold'em No Limit ($25.00/$50.00 USD) - 2022/12/27 04:11:31 ET
+Table 'WPN_7 Day No Rathole 25/50 NLH 9-Max' 9-max Seat #3 is the button
+Seat 3: DoublelegTD ($2394.18 in chips)
+Seat 9: WilliamHBonney ($811.62 in chips)
+DoublelegTD: posts small blind $25.00
+WilliamHBonney: posts big blind $50.00
+*** HOLE CARDS ***
+DoublelegTD: calls $25.00
+WilliamHBonney: checks
+*** FLOP *** [Ad Qh 4s]
+WilliamHBonney: checks
+DoublelegTD: bets $50.00
+WilliamHBonney: folds
+Uncalled bet ($50.00) returned to DoublelegTD
+DoublelegTD collected $98.75 from pot
+DoublelegTD: doesn't show hand
+*** SUMMARY ***
+Total pot $100.00 | Rake $1.25
+Board [Ad Qh 4s]
+Seat 3: DoublelegTD (button) (small blind) collected ($98.75)
+Seat 9: WilliamHBonney (big blind) folded on the Flop
+
+PokerStars Hand #1499766081:  Hold'em No Limit ($25.00/$50.00 USD) - 2022/12/27 04:12:04 ET
+Table 'WPN_7 Day No Rathole 25/50 NLH 9-Max' 9-max Seat #9 is the button
+Seat 3: DoublelegTD ($2442.93 in chips)
+Seat 9: WilliamHBonney ($761.62 in chips)
+WilliamHBonney: posts small blind $25.00
+DoublelegTD: posts big blind $50.00
+*** HOLE CARDS ***
+WilliamHBonney: raises $711.62 to $761.62 and is all-in
+DoublelegTD: folds
+Uncalled bet ($711.62) returned to WilliamHBonney
+WilliamHBonney collected $100.00 from pot
+WilliamHBonney: doesn't show hand
+*** SUMMARY ***
+Total pot $100.00 | Rake $0.00
+Seat 3: DoublelegTD (big blind) folded before Flop
+Seat 9: WilliamHBonney (button) (small blind) collected ($100.00)
+
+PokerStars Hand #1499766305:  Hold'em No Limit ($25.00/$50.00 USD) - 2022/12/27 04:12:15 ET
+Table 'WPN_7 Day No Rathole 25/50 NLH 9-Max' 9-max Seat #3 is the button
+Seat 3: DoublelegTD ($2392.93 in chips)
+Seat 9: WilliamHBonney ($811.62 in chips)
+DoublelegTD: posts small blind $25.00
+WilliamHBonney: posts big blind $50.00
+*** HOLE CARDS ***
+DoublelegTD: folds
+Uncalled bet ($25.00) returned to WilliamHBonney
+WilliamHBonney collected $50.00 from pot
+WilliamHBonney: doesn't show hand
+*** SUMMARY ***
+Total pot $50.00 | Rake $0.00
+Seat 3: DoublelegTD (button) (small blind) folded before Flop
+Seat 9: WilliamHBonney (big blind) collected ($50.00)
+
+PokerStars Hand #1499766423:  Hold'em No Limit ($25.00/$50.00 USD) - 2022/12/27 04:12:22 ET
+Table 'WPN_7 Day No Rathole 25/50 NLH 9-Max' 9-max Seat #9 is the button
+Seat 3: DoublelegTD ($2367.93 in chips)
+Seat 9: WilliamHBonney ($836.62 in chips)
+WilliamHBonney: posts small blind $25.00
+DoublelegTD: posts big blind $50.00
+*** HOLE CARDS ***
+WilliamHBonney: folds
+Uncalled bet ($25.00) returned to DoublelegTD
+DoublelegTD collected $50.00 from pot
+DoublelegTD: doesn't show hand
+*** SUMMARY ***
+Total pot $50.00 | Rake $0.00
+Seat 3: DoublelegTD (big blind) collected ($50.00)
+Seat 9: WilliamHBonney (button) (small blind) folded before Flop
+
+PokerStars Hand #1499766617:  Hold'em No Limit ($25.00/$50.00 USD) - 2022/12/27 04:12:33 ET
+Table 'WPN_7 Day No Rathole 25/50 NLH 9-Max' 9-max Seat #3 is the button
+Seat 3: DoublelegTD ($2392.93 in chips)
+Seat 9: WilliamHBonney ($811.62 in chips)
+DoublelegTD: posts small blind $25.00
+WilliamHBonney: posts big blind $50.00
+*** HOLE CARDS ***
+DoublelegTD: raises $850.00 to $900.00
+WilliamHBonney: folds
+Uncalled bet ($850.00) returned to DoublelegTD
+DoublelegTD collected $100.00 from pot
+DoublelegTD: doesn't show hand
+*** SUMMARY ***
+Total pot $100.00 | Rake $0.00
+Seat 3: DoublelegTD (button) (small blind) collected ($100.00)
+Seat 9: WilliamHBonney (big blind) folded before Flop
+
+PokerStars Hand #1499766884:  Hold'em No Limit ($25.00/$50.00 USD) - 2022/12/27 04:12:46 ET
+Table 'WPN_7 Day No Rathole 25/50 NLH 9-Max' 9-max Seat #9 is the button
+Seat 3: DoublelegTD ($2442.93 in chips)
+Seat 9: WilliamHBonney ($761.62 in chips)
+WilliamHBonney: posts small blind $25.00
+DoublelegTD: posts big blind $50.00
+*** HOLE CARDS ***
+WilliamHBonney: calls $25.00
+DoublelegTD: checks
+*** FLOP *** [9h 2c Kh]
+DoublelegTD: checks
+WilliamHBonney: bets $50.00
+DoublelegTD: raises $100.00 to $150.00
+WilliamHBonney: folds
+Uncalled bet ($100.00) returned to DoublelegTD
+DoublelegTD collected $198.75 from pot
+DoublelegTD: doesn't show hand
+*** SUMMARY ***
+Total pot $200.00 | Rake $1.25
+Board [9h 2c Kh]
+Seat 3: DoublelegTD (big blind) collected ($198.75)
+Seat 9: WilliamHBonney (button) (small blind) folded on the Flop
+
+PokerStars Hand #1499767402:  Hold'em No Limit ($25.00/$50.00 USD) - 2022/12/27 04:13:14 ET
+Table 'WPN_7 Day No Rathole 25/50 NLH 9-Max' 9-max Seat #9 is the button
+Seat 1: b00ma ($575.00 in chips)
+Seat 3: DoublelegTD ($2541.68 in chips)
+Seat 4: az96 ($1431.12 in chips)
+Seat 9: WilliamHBonney ($661.62 in chips)
+DoublelegTD: posts small blind $25.00
+az96: posts big blind $50.00
+*** HOLE CARDS ***
+WilliamHBonney: folds
+DoublelegTD: raises $75.00 to $125.00
+az96: folds
+Uncalled bet ($75.00) returned to DoublelegTD
+DoublelegTD collected $100.00 from pot
+DoublelegTD: doesn't show hand
+*** SUMMARY ***
+Total pot $100.00 | Rake $0.00
+Seat 3: DoublelegTD (small blind) collected ($100.00)
+Seat 4: az96 (big blind) folded before Flop
+Seat 9: WilliamHBonney (button) folded before Flop (didn't bet)
+
+PokerStars Hand #1499767812:  Hold'em No Limit ($25.00/$50.00 USD) - 2022/12/27 04:13:36 ET
+Table 'WPN_7 Day No Rathole 25/50 NLH 9-Max' 9-max Seat #3 is the button
+Seat 1: b00ma ($575.00 in chips)
+Seat 3: DoublelegTD ($2591.68 in chips)
+Seat 4: az96 ($1381.12 in chips)
+Seat 9: WilliamHBonney ($661.62 in chips)
+az96: posts small blind $25.00
+WilliamHBonney: posts big blind $50.00
+*** HOLE CARDS ***
+DoublelegTD: raises $50.00 to $100.00
+az96: calls $75.00
+WilliamHBonney: folds
+*** FLOP *** [9c 4d Jd]
+az96: checks
+DoublelegTD: bets $125.00
+az96: calls $125.00
+*** TURN *** [9c 4d Jd] [8c]
+az96: checks
+DoublelegTD: checks
+*** RIVER *** [9c 4d Jd 8c] [4h]
+az96: checks
+DoublelegTD: checks
+*** SHOW DOWN ***
+az96: shows [8h 9h]
+DoublelegTD: mucks hand
+az96 collected $498.25 from pot
+*** SUMMARY ***
+Total pot $500.00 | Rake $1.75
+Board [9c 4d Jd 8c 4h]
+Seat 3: DoublelegTD (button) mucked
+Seat 4: az96 (small blind) showed [8h 9h] and won ($498.25)
+Seat 9: WilliamHBonney (big blind) folded before Flop
+
+PokerStars Hand #1499769160:  Hold'em No Limit ($25.00/$50.00 USD) - 2022/12/27 04:14:49 ET
+Table 'WPN_7 Day No Rathole 25/50 NLH 9-Max' 9-max Seat #4 is the button
+Seat 1: b00ma ($575.00 in chips)
+Seat 3: DoublelegTD ($2366.68 in chips)
+Seat 4: az96 ($1654.37 in chips)
+Seat 5: acrbotv10a ($947.00 in chips)
+Seat 6: honey_badger ($500.00 in chips)
+Seat 9: WilliamHBonney ($611.62 in chips)
+WilliamHBonney: posts small blind $25.00
+b00ma: posts big blind $50.00
+*** HOLE CARDS ***
+DoublelegTD: folds
+az96: folds
+WilliamHBonney: raises $561.62 to $611.62 and is all-in
+b00ma: folds
+Uncalled bet ($561.62) returned to WilliamHBonney
+WilliamHBonney collected $100.00 from pot
+WilliamHBonney: doesn't show hand
+*** SUMMARY ***
+Total pot $100.00 | Rake $0.00
+Seat 1: b00ma (big blind) folded before Flop
+Seat 3: DoublelegTD folded before Flop (didn't bet)
+Seat 4: az96 (button) folded before Flop (didn't bet)
+Seat 9: WilliamHBonney (small blind) collected ($100.00)
+
+PokerStars Hand #1499769522:  Hold'em No Limit ($25.00/$50.00 USD) - 2022/12/27 04:15:08 ET
+Table 'WPN_7 Day No Rathole 25/50 NLH 9-Max' 9-max Seat #9 is the button
+Seat 1: b00ma ($525.00 in chips)
+Seat 3: DoublelegTD ($2366.68 in chips)
+Seat 4: az96 ($1654.37 in chips)
+Seat 5: acrbotv10a ($947.00 in chips)
+Seat 6: honey_badger ($500.00 in chips)
+Seat 9: WilliamHBonney ($661.62 in chips)
+b00ma: posts small blind $25.00
+DoublelegTD: posts big blind $50.00
+*** HOLE CARDS ***
+az96: folds
+WilliamHBonney: folds
+b00ma: folds
+Uncalled bet ($25.00) returned to DoublelegTD
+DoublelegTD collected $50.00 from pot
+DoublelegTD: doesn't show hand
+*** SUMMARY ***
+Total pot $50.00 | Rake $0.00
+Seat 1: b00ma (small blind) folded before Flop
+Seat 3: DoublelegTD (big blind) collected ($50.00)
+Seat 4: az96 folded before Flop (didn't bet)
+Seat 9: WilliamHBonney (button) folded before Flop (didn't bet)
+
+PokerStars Hand #1499770059:  Hold'em No Limit ($25.00/$50.00 USD) - 2022/12/27 04:15:35 ET
+Table 'WPN_7 Day No Rathole 25/50 NLH 9-Max' 9-max Seat #1 is the button
+Seat 1: b00ma ($500.00 in chips)
+Seat 3: DoublelegTD ($2391.68 in chips)
+Seat 4: az96 ($1654.37 in chips)
+Seat 5: acrbotv10a ($947.00 in chips)
+Seat 6: honey_badger ($500.00 in chips)
+Seat 9: WilliamHBonney ($661.62 in chips)
+DoublelegTD: posts small blind $25.00
+az96: posts big blind $50.00
+*** HOLE CARDS ***
+WilliamHBonney: folds
+b00ma: raises $450.00 to $500.00 and is all-in
+DoublelegTD: folds
+az96: calls $450.00
+*** FLOP *** [2d 2c 8c]
+*** TURN *** [2d 2c 8c] [6h]
+*** RIVER *** [2d 2c 8c 6h] [3h]
+*** SHOW DOWN ***
+az96: shows [Ah 9h]
+b00ma: shows [Qh Jd]
+az96 collected $1022.75 from pot
+*** SUMMARY ***
+Total pot $1025.00 | Rake $2.25
+Board [2d 2c 8c 6h 3h]
+Seat 1: b00ma (button) showed [Qh Jd] and lost
+Seat 3: DoublelegTD (small blind) folded before Flop
+Seat 4: az96 (big blind) showed [Ah 9h] and won ($1022.75)
+Seat 9: WilliamHBonney folded before Flop (didn't bet)
+
+PokerStars Hand #1499770708:  Hold'em No Limit ($25.00/$50.00 USD) - 2022/12/27 04:16:11 ET
+Table 'WPN_7 Day No Rathole 25/50 NLH 9-Max' 9-max Seat #3 is the button
+Seat 1: b00ma ($500.00 in chips)
+Seat 3: DoublelegTD ($2366.68 in chips)
+Seat 4: az96 ($2177.12 in chips)
+Seat 5: acrbotv10a ($947.00 in chips)
+Seat 6: honey_badger ($500.00 in chips)
+Seat 9: WilliamHBonney ($661.62 in chips)
+az96: posts small blind $25.00
+acrbotv10a: posts big blind $50.00
+*** HOLE CARDS ***
+WilliamHBonney: folds
+b00ma: folds
+DoublelegTD: raises $50.00 to $100.00
+az96: folds
+acrbotv10a: folds
+Uncalled bet ($50.00) returned to DoublelegTD
+DoublelegTD collected $125.00 from pot
+DoublelegTD: doesn't show hand
+*** SUMMARY ***
+Total pot $125.00 | Rake $0.00
+Seat 1: b00ma folded before Flop (didn't bet)
+Seat 3: DoublelegTD (button) collected ($125.00)
+Seat 4: az96 (small blind) folded before Flop
+Seat 5: acrbotv10a (big blind) folded before Flop
+Seat 9: WilliamHBonney folded before Flop (didn't bet)
+
+PokerStars Hand #1499771068:  Hold'em No Limit ($25.00/$50.00 USD) - 2022/12/27 04:16:31 ET
+Table 'WPN_7 Day No Rathole 25/50 NLH 9-Max' 9-max Seat #4 is the button
+Seat 1: b00ma ($500.00 in chips)
+Seat 3: DoublelegTD ($2441.68 in chips)
+Seat 4: az96 ($2152.12 in chips)
+Seat 5: acrbotv10a ($897.00 in chips)
+Seat 6: honey_badger ($500.00 in chips)
+Seat 9: WilliamHBonney ($661.62 in chips)
+acrbotv10a: posts small blind $25.00
+honey_badger: posts big blind $50.00
+*** HOLE CARDS ***
+WilliamHBonney: folds
+b00ma: raises $450.00 to $500.00 and is all-in
+DoublelegTD: folds
+az96: folds
+acrbotv10a: folds
+honey_badger: folds
+Uncalled bet ($450.00) returned to b00ma
+b00ma collected $125.00 from pot
+b00ma: doesn't show hand
+*** SUMMARY ***
+Total pot $125.00 | Rake $0.00
+Seat 1: b00ma collected ($125.00)
+Seat 3: DoublelegTD folded before Flop (didn't bet)
+Seat 4: az96 (button) folded before Flop (didn't bet)
+Seat 5: acrbotv10a (small blind) folded before Flop
+Seat 6: honey_badger (big blind) folded before Flop
+Seat 9: WilliamHBonney folded before Flop (didn't bet)
+
+PokerStars Hand #1499771521:  Hold'em No Limit ($25.00/$50.00 USD) - 2022/12/27 04:16:56 ET
+Table 'WPN_7 Day No Rathole 25/50 NLH 9-Max' 9-max Seat #5 is the button
+Seat 1: b00ma ($575.00 in chips)
+Seat 3: DoublelegTD ($2441.68 in chips)
+Seat 4: az96 ($2152.12 in chips)
+Seat 5: acrbotv10a ($872.00 in chips)
+Seat 6: honey_badger ($450.00 in chips)
+Seat 9: WilliamHBonney ($661.62 in chips)
+honey_badger: posts small blind $25.00
+WilliamHBonney: posts big blind $50.00
+*** HOLE CARDS ***
+b00ma: folds
+DoublelegTD: folds
+az96: folds
+acrbotv10a: folds
+honey_badger: folds
+Uncalled bet ($25.00) returned to WilliamHBonney
+WilliamHBonney collected $50.00 from pot
+WilliamHBonney: doesn't show hand
+*** SUMMARY ***
+Total pot $50.00 | Rake $0.00
+Seat 1: b00ma folded before Flop (didn't bet)
+Seat 3: DoublelegTD folded before Flop (didn't bet)
+Seat 4: az96 folded before Flop (didn't bet)
+Seat 5: acrbotv10a (button) folded before Flop (didn't bet)
+Seat 6: honey_badger (small blind) folded before Flop
+Seat 9: WilliamHBonney (big blind) collected ($50.00)
+
+PokerStars Hand #1499771801:  Hold'em No Limit ($25.00/$50.00 USD) - 2022/12/27 04:17:12 ET
+Table 'WPN_7 Day No Rathole 25/50 NLH 9-Max' 9-max Seat #6 is the button
+Seat 1: b00ma ($575.00 in chips)
+Seat 3: DoublelegTD ($2441.68 in chips)
+Seat 4: az96 ($2152.12 in chips)
+Seat 5: acrbotv10a ($872.00 in chips)
+Seat 6: honey_badger ($475.00 in chips)
+Seat 9: WilliamHBonney ($686.62 in chips)
+WilliamHBonney: posts small blind $25.00
+b00ma: posts big blind $50.00
+*** HOLE CARDS ***
+DoublelegTD: folds
+az96: folds
+acrbotv10a: folds
+honey_badger: folds
+WilliamHBonney: raises $636.62 to $686.62 and is all-in
+b00ma: calls $525.00 and is all-in
+Uncalled bet ($111.62) returned to WilliamHBonney
+*** FLOP *** [As 2s 7s]
+*** TURN *** [As 2s 7s] [Kh]
+*** RIVER *** [As 2s 7s Kh] [Jc]
+*** SHOW DOWN ***
+b00ma: shows [Qs Qd]
+WilliamHBonney: shows [3h 3d]
+b00ma collected $1147.00 from pot
+*** SUMMARY ***
+Total pot $1150.00 | Rake $3.00
+Board [As 2s 7s Kh Jc]
+Seat 1: b00ma (big blind) showed [Qs Qd] and won ($1147.00)
+Seat 3: DoublelegTD folded before Flop (didn't bet)
+Seat 4: az96 folded before Flop (didn't bet)
+Seat 5: acrbotv10a folded before Flop (didn't bet)
+Seat 6: honey_badger (button) folded before Flop (didn't bet)
+Seat 9: WilliamHBonney (small blind) showed [3h 3d] and lost
+
+PokerStars Hand #1499772531:  Hold'em No Limit ($25.00/$50.00 USD) - 2022/12/27 04:17:52 ET
+Table 'WPN_7 Day No Rathole 25/50 NLH 9-Max' 9-max Seat #9 is the button
+Seat 1: b00ma ($1147.00 in chips)
+Seat 3: DoublelegTD ($2441.68 in chips)
+Seat 4: az96 ($2152.12 in chips)
+Seat 5: acrbotv10a ($872.00 in chips)
+Seat 6: honey_badger ($475.00 in chips)
+Seat 9: WilliamHBonney ($111.62 in chips)
+b00ma: posts small blind $25.00
+DoublelegTD: posts big blind $50.00
+*** HOLE CARDS ***
+az96: raises $50.00 to $100.00
+acrbotv10a: raises $772.00 to $872.00 and is all-in
+honey_badger: folds
+WilliamHBonney: folds
+b00ma: folds
+DoublelegTD: folds
+az96: calls $772.00
+*** FLOP *** [Js Kd Kh]
+*** TURN *** [Js Kd Kh] [8d]
+*** RIVER *** [Js Kd Kh 8d] [9c]
+*** SHOW DOWN ***
+az96: shows [Qs Qh]
+acrbotv10a: shows [Td Ts]
+az96 collected $1816.00 from pot
+*** SUMMARY ***
+Total pot $1819.00 | Rake $3.00
+Board [Js Kd Kh 8d 9c]
+Seat 1: b00ma (small blind) folded before Flop
+Seat 3: DoublelegTD (big blind) folded before Flop
+Seat 4: az96 showed [Qs Qh] and won ($1816.00)
+Seat 5: acrbotv10a showed [Td Ts] and lost
+Seat 6: honey_badger folded before Flop (didn't bet)
+Seat 9: WilliamHBonney (button) folded before Flop (didn't bet)
+
+PokerStars Hand #1499773195:  Hold'em No Limit ($25.00/$50.00 USD) - 2022/12/27 04:18:28 ET
+Table 'WPN_7 Day No Rathole 25/50 NLH 9-Max' 9-max Seat #1 is the button
+Seat 1: b00ma ($1122.00 in chips)
+Seat 3: DoublelegTD ($2391.68 in chips)
+Seat 4: az96 ($3096.12 in chips)
+Seat 5: acrbotv10a ($500.00 in chips)
+Seat 6: honey_badger ($475.00 in chips)
+Seat 9: WilliamHBonney ($111.62 in chips)
+DoublelegTD: posts small blind $25.00
+az96: posts big blind $50.00
+*** HOLE CARDS ***
+acrbotv10a: folds
+honey_badger: raises $450.00 to $500.00 and is all-in
+WilliamHBonney: folds
+b00ma: raises $450.00 to $950.00
+DoublelegTD: folds
+az96: folds
+Uncalled bet ($450.00) returned to b00ma
+*** FLOP *** [5c 3h 9s]
+*** TURN *** [5c 3h 9s] [6c]
+*** RIVER *** [5c 3h 9s 6c] [Jc]
+*** SHOW DOWN ***
+honey_badger: shows [Ad 9h]
+b00ma: shows [Ts As]
+honey_badger collected $1072.00 from pot
+*** SUMMARY ***
+Total pot $1075.00 | Rake $3.00
+Board [5c 3h 9s 6c Jc]
+Seat 1: b00ma (button) showed [Ts As] and lost
+Seat 3: DoublelegTD (small blind) folded before Flop
+Seat 4: az96 (big blind) folded before Flop
+Seat 5: acrbotv10a folded before Flop (didn't bet)
+Seat 6: honey_badger showed [Ad 9h] and won ($1072.00)
+Seat 9: WilliamHBonney folded before Flop (didn't bet)
+
+PokerStars Hand #1499774002:  Hold'em No Limit ($25.00/$50.00 USD) - 2022/12/27 04:19:12 ET
+Table 'WPN_7 Day No Rathole 25/50 NLH 9-Max' 9-max Seat #3 is the button
+Seat 1: b00ma ($622.00 in chips)
+Seat 3: DoublelegTD ($2366.68 in chips)
+Seat 4: az96 ($3046.12 in chips)
+Seat 5: acrbotv10a ($500.00 in chips)
+Seat 6: honey_badger ($1072.00 in chips)
+Seat 9: WilliamHBonney ($111.62 in chips)
+az96: posts small blind $25.00
+acrbotv10a: posts big blind $50.00
+*** HOLE CARDS ***
+honey_badger: folds
+WilliamHBonney: raises $61.62 to $111.62 and is all-in
+b00ma: folds
+DoublelegTD: raises $61.62 to $173.24
+az96: folds
+acrbotv10a: folds
+Uncalled bet ($61.62) returned to DoublelegTD
+*** FLOP *** [Kd 5s 6c]
+*** TURN *** [Kd 5s 6c] [6s]
+*** RIVER *** [Kd 5s 6c 6s] [4d]
+*** SHOW DOWN ***
+DoublelegTD: shows [6h Ac]
+WilliamHBonney: shows [7d 7s]
+DoublelegTD collected $295.24 from pot
+*** SUMMARY ***
+Total pot $298.24 | Rake $3.00
+Board [Kd 5s 6c 6s 4d]
+Seat 1: b00ma folded before Flop (didn't bet)
+Seat 3: DoublelegTD (button) showed [6h Ac] and won ($295.24)
+Seat 4: az96 (small blind) folded before Flop
+Seat 5: acrbotv10a (big blind) folded before Flop
+Seat 6: honey_badger folded before Flop (didn't bet)
+Seat 9: WilliamHBonney showed [7d 7s] and lost
+
+PokerStars Hand #1499774702:  Hold'em No Limit ($25.00/$50.00 USD) - 2022/12/27 04:19:51 ET
+Table 'WPN_7 Day No Rathole 25/50 NLH 9-Max' 9-max Seat #4 is the button
+Seat 1: b00ma ($622.00 in chips)
+Seat 3: DoublelegTD ($2550.30 in chips)
+Seat 4: az96 ($3021.12 in chips)
+Seat 5: acrbotv10a ($500.00 in chips)
+Seat 6: honey_badger ($1072.00 in chips)
+acrbotv10a: posts small blind $25.00
+b00ma: posts big blind $50.00
+*** HOLE CARDS ***
+DoublelegTD: folds
+az96: folds
+acrbotv10a: raises $450.00 to $500.00 and is all-in
+b00ma: calls $450.00
+*** FLOP *** [Kc Jc 6h]
+*** TURN *** [Kc Jc 6h] [Js]
+*** RIVER *** [Kc Jc 6h Js] [As]
+*** SHOW DOWN ***
+b00ma: shows [Ad 5d]
+acrbotv10a: shows [Qd Kd]
+b00ma collected $997.75 from pot
+*** SUMMARY ***
+Total pot $1000.00 | Rake $2.25
+Board [Kc Jc 6h Js As]
+Seat 1: b00ma (big blind) showed [Ad 5d] and won ($997.75)
+Seat 3: DoublelegTD folded before Flop (didn't bet)
+Seat 4: az96 (button) folded before Flop (didn't bet)
+Seat 5: acrbotv10a (small blind) showed [Qd Kd] and lost
+
+PokerStars Hand #1499775723:  Hold'em No Limit ($25.00/$50.00 USD) - 2022/12/27 04:20:47 ET
+Table 'WPN_7 Day No Rathole 25/50 NLH 9-Max' 9-max Seat #1 is the button
+Seat 1: b00ma ($1094.75 in chips)
+Seat 3: DoublelegTD ($2550.30 in chips)
+b00ma: posts small blind $25.00
+DoublelegTD: posts big blind $50.00
+*** HOLE CARDS ***
+b00ma: calls $25.00
+DoublelegTD: raises $125.00 to $175.00
+b00ma: calls $125.00
+*** FLOP *** [2h Td 3d]
+DoublelegTD: checks
+b00ma: checks
+*** TURN *** [2h Td 3d] [6h]
+DoublelegTD: checks
+b00ma: bets $175.00
+DoublelegTD: calls $175.00
+*** RIVER *** [2h Td 3d 6h] [4d]
+DoublelegTD: checks
+b00ma: bets $350.00
+DoublelegTD: folds
+Uncalled bet ($350.00) returned to b00ma
+b00ma collected $698.75 from pot
+b00ma: doesn't show hand
+*** SUMMARY ***
+Total pot $700.00 | Rake $1.25
+Board [2h Td 3d 6h 4d]
+Seat 1: b00ma (button) (small blind) collected ($698.75)
+Seat 3: DoublelegTD (big blind) folded on the River
+
+PokerStars Hand #1499777752:  Hold'em No Limit ($25.00/$50.00 USD) - 2022/12/27 04:22:41 ET
+Table 'WPN_7 Day No Rathole 25/50 NLH 9-Max' 9-max Seat #3 is the button
+Seat 1: b00ma ($1468.50 in chips)
+Seat 3: DoublelegTD ($2200.30 in chips)
+DoublelegTD: posts small blind $25.00
+b00ma: posts big blind $50.00
+*** HOLE CARDS ***
+DoublelegTD: calls $25.00
+b00ma: checks
+*** FLOP *** [4d Qd 7d]
+b00ma: checks
+DoublelegTD: checks
+*** TURN *** [4d Qd 7d] [3s]
+b00ma: bets $70.00
+DoublelegTD: folds
+Uncalled bet ($70.00) returned to b00ma
+b00ma collected $98.75 from pot
+b00ma: doesn't show hand
+*** SUMMARY ***
+Total pot $100.00 | Rake $1.25
+Board [4d Qd 7d 3s]
+Seat 1: b00ma (big blind) collected ($98.75)
+Seat 3: DoublelegTD (button) (small blind) folded on the Turn
+

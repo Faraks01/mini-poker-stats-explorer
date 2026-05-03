@@ -1,0 +1,338 @@
+Hand #1921248404 - Holdem(No Limit) - $25/$50 - 2023/11/06 11:47:36 UTC
+Linn 9-max Seat #3 is the button
+Seat 2: PR0DIGY ($5000)
+Seat 3: SeaLlama ($5000)
+PR0DIGY posts ante $200
+SeaLlama posts ante $200
+*** HOLE CARDS *** 
+*** FLOP *** [Js 3c Kd]
+Main pot $398.75 | Rake $1.25
+PR0DIGY checks
+SeaLlama bets $400
+PR0DIGY calls $400
+*** TURN *** [Js 3c Kd] [Qs]
+Main pot $1198.75 | Rake $1.25
+PR0DIGY checks
+SeaLlama bets $600
+PR0DIGY calls $600
+*** RIVER *** [Js 3c Kd Qs] [Jd]
+Main pot $2398.75 | Rake $1.25
+PR0DIGY bets $1799.06
+SeaLlama calls $1799.06
+*** SHOW DOWN ***
+Main pot $2398.75 | Rake $1.25
+PR0DIGY shows [Jc 7s]
+PR0DIGY collected $5996.87 from main pot
+*** SUMMARY ***
+BombPot
+Total pot $5996.87 | Rake $1.25
+Seat 2: PR0DIGY showed [Jc 7s] and won $5996.87 with ThreeOfAKind [Js Jd Jc Kd Qs]
+Seat 3: SeaLlama (button) did not showed and lost
+
+
+Hand #1921249632 - Holdem(No Limit) - $25/$50 - 2023/11/06 11:53:06 UTC
+Linn 9-max Seat #8 is the button
+Seat 1: SepplBeppl ($5000)
+Seat 2: PR0DIGY ($8696.34)
+Seat 3: SeaLlama ($5373.25)
+Seat 4: Haftbefehl ($2000)
+Seat 5: loliufg ($5000)
+Seat 6: lmpala_zOrg ($2000)
+Seat 7: v3MGA ($5000)
+Seat 8: IdoGoats ($2000)
+Seat 9: J0hnMcclean ($5000)
+SepplBeppl posts ante $200
+PR0DIGY posts ante $200
+SeaLlama posts ante $200
+Haftbefehl posts ante $200
+loliufg posts ante $200
+lmpala_zOrg posts ante $200
+v3MGA posts ante $200
+IdoGoats posts ante $200
+J0hnMcclean posts ante $200
+*** HOLE CARDS *** 
+*** FLOP *** [Qs 5c Kc]
+Main pot $1797 | Rake $3
+J0hnMcclean checks
+SepplBeppl checks
+PR0DIGY checks
+SeaLlama checks
+Haftbefehl checks
+loliufg bets $344
+lmpala_zOrg folds
+v3MGA folds
+IdoGoats folds
+J0hnMcclean folds
+SepplBeppl calls $344
+PR0DIGY calls $344
+SeaLlama folds
+Haftbefehl folds
+*** TURN *** [Qs 5c Kc] [2s]
+Main pot $2829 | Rake $3
+SepplBeppl checks
+PR0DIGY checks
+loliufg bets $1416
+SepplBeppl calls $1416
+PR0DIGY folds
+*** RIVER *** [Qs 5c Kc 2s] [5s]
+Main pot $5661 | Rake $3
+SepplBeppl checks
+loliufg checks
+*** SHOW DOWN ***
+Main pot $5661 | Rake $3
+SepplBeppl shows [Ks 7c]
+loliufg shows [9s Kd]
+SepplBeppl collected $2830.50 from main pot
+loliufg collected $2830.50 from main pot
+*** SUMMARY ***
+BombPot
+Total pot $5661 | Rake $3
+Seat 1: SepplBeppl showed [Ks 7c] and won $2830.50 with TwoPair [Kd Kc 5s 5c Qs]
+Seat 2: PR0DIGY folded on the Turn
+Seat 3: SeaLlama folded on the Flop
+Seat 4: Haftbefehl folded on the Flop
+Seat 5: loliufg showed [9s Kd] and won $2830.50 with TwoPair [Kd Kc 5s 5c Qs]
+Seat 6: lmpala_zOrg folded on the Flop
+Seat 7: v3MGA folded on the Flop
+Seat 8: IdoGoats (button) folded on the Flop
+Seat 9: J0hnMcclean folded on the Flop
+
+
+Hand #1921251476 - Holdem(No Limit) - $25/$50 - 2023/11/06 12:02:23 UTC
+Linn 9-max Seat #3 is the button
+Seat 2: PR0DIGY ($6646.89)
+Seat 3: SeaLlama ($6918.93)
+PR0DIGY posts ante $200
+SeaLlama posts ante $200
+*** HOLE CARDS *** 
+*** FLOP *** [4h Th Jd]
+Main pot $398.75 | Rake $1.25
+PR0DIGY checks
+SeaLlama bets $400
+PR0DIGY raises $1128.50 to $1128.50
+SeaLlama folds
+Uncalled bet ($728.50) returned to PR0DIGY
+PR0DIGY does not show
+*** SUMMARY ***
+BombPot
+Total pot $1198.75 | Rake $1.25
+Seat 2: PR0DIGY did not showed and won $1198.75
+Seat 3: SeaLlama (button) folded on the Flop
+
+
+Hand #1921258084 - Holdem(No Limit) - $25/$50 - 2023/11/06 12:26:58 UTC
+Linn 9-max Seat #2 is the button
+Seat 2: PR0DIGY ($7181.12)
+Seat 3: SeaLlama ($6235.30)
+Seat 4: chop-ch0p ($5000)
+Seat 7: JohnMcShen ($5173.40)
+PR0DIGY posts ante $200
+SeaLlama posts ante $200
+JohnMcShen posts ante $200
+*** HOLE CARDS *** 
+*** FLOP *** [9s Jd 9h]
+Main pot $598.25 | Rake $1.75
+SeaLlama checks
+JohnMcShen checks
+PR0DIGY checks
+*** TURN *** [9s Jd 9h] [8s]
+Main pot $598.25 | Rake $1.75
+SeaLlama bets $60
+JohnMcShen folds
+PR0DIGY folds
+Uncalled bet ($60) returned to SeaLlama
+SeaLlama does not show
+*** SUMMARY ***
+BombPot
+Total pot $598.25 | Rake $1.75
+Seat 2: PR0DIGY (button) folded on the Turn
+Seat 3: SeaLlama did not showed and won $598.25
+Seat 7: JohnMcShen folded on the Turn
+
+
+Hand #1921260264 - Holdem(No Limit) - $25/$50 - 2023/11/06 12:34:55 UTC
+Linn 9-max Seat #2 is the button
+Seat 2: PR0DIGY ($5000)
+Seat 3: SeaLlama ($9637.80)
+Seat 4: chop-ch0p ($1516.10)
+Seat 7: JohnMcShen ($5301.65)
+PR0DIGY posts ante $200
+SeaLlama posts ante $200
+chop-ch0p posts ante $200
+JohnMcShen posts ante $200
+*** HOLE CARDS *** 
+*** FLOP *** [3c 8c 2c]
+Main pot $797.75 | Rake $2.25
+SeaLlama checks
+chop-ch0p bets $1316.10 and is all-in
+JohnMcShen folds
+PR0DIGY calls $1316.10
+SeaLlama folds
+*** RUN IT TWICE ***
+*** TURN 1 *** [3c 8c 2c] [5c]
+Main pot 1 $1714.97 | Rake $1.13
+*** RIVER 1 *** [3c 8c 2c 5c] [3d]
+Main pot 1 $1714.97 | Rake $1.13
+*** SHOW DOWN 1 ***
+Main pot 1 $1714.97 | Rake $1.13
+PR0DIGY shows [2d Ac]
+chop-ch0p shows [6h 8d]
+PR0DIGY collected $1714.98 from main pot 1
+*** TURN 2 *** [3c 8c 2c] [Ks]
+Main pot 2 $1714.98 | Rake $1.12
+*** RIVER 2 *** [3c 8c 2c Ks] [Tc]
+Main pot 2 $1714.98 | Rake $1.12
+*** SHOW DOWN 2 ***
+Main pot 2 $1714.98 | Rake $1.12
+PR0DIGY shows [2d Ac]
+PR0DIGY collected $1714.97 from main pot 2
+*** SUMMARY ***
+BombPot
+Total pot $3429.95 | Rake $2.25
+Board 1 [3c 8c 2c 5c 3d]
+Seat 2: PR0DIGY (button) showed [2d Ac] and won $1714.98 with Flush [Ac 8c 5c 3c 2c]
+Seat 3: SeaLlama folded on the Flop
+Seat 4: chop-ch0p showed [6h 8d] and lost
+Seat 7: JohnMcShen folded on the Flop
+Board 2 [3c 8c 2c Ks Tc]
+Seat 2: PR0DIGY (button) showed [2d Ac] and won $1714.98 with Flush [Ac 8c 5c 3c 2c]
+Seat 3: SeaLlama folded on the Flop
+Seat 4: chop-ch0p showed [6h 8d] and lost
+Seat 7: JohnMcShen folded on the Flop
+
+
+Hand #1921266901 - Holdem(No Limit) - $25/$50 - 2023/11/06 13:00:19 UTC
+Linn 9-max Seat #4 is the button
+Seat 2: PR0DIGY ($13863.50)
+Seat 3: SeaLlama ($10099.55)
+Seat 4: xplo1t4bl3 ($5000)
+Seat 7: JohnMcShen ($5792.50)
+PR0DIGY posts ante $200
+SeaLlama posts ante $200
+xplo1t4bl3 posts ante $200
+JohnMcShen posts ante $200
+*** HOLE CARDS *** 
+*** FLOP *** [6c 5h 3d]
+Main pot $797.75 | Rake $2.25
+JohnMcShen checks
+PR0DIGY bets $231.34
+SeaLlama folds
+xplo1t4bl3 calls $231.34
+JohnMcShen folds
+*** TURN *** [6c 5h 3d] [8c]
+Main pot $1260.43 | Rake $2.25
+PR0DIGY bets $945.32
+xplo1t4bl3 folds
+Uncalled bet ($945.32) returned to PR0DIGY
+PR0DIGY does not show
+*** SUMMARY ***
+BombPot
+Total pot $1260.43 | Rake $2.25
+Seat 2: PR0DIGY did not showed and won $1260.43
+Seat 3: SeaLlama folded on the Flop
+Seat 4: xplo1t4bl3 (button) folded on the Turn
+Seat 7: JohnMcShen folded on the Flop
+
+
+Hand #1921268995 - Holdem(No Limit) - $25/$50 - 2023/11/06 13:08:29 UTC
+Linn 9-max Seat #7 is the button
+Seat 2: PR0DIGY ($14840.97)
+Seat 3: SeaLlama ($10156.31)
+Seat 4: xplo1t4bl3 ($5000)
+Seat 7: JohnMcShen ($5592.50)
+PR0DIGY posts ante $200
+SeaLlama posts ante $200
+xplo1t4bl3 posts ante $200
+JohnMcShen posts ante $200
+*** HOLE CARDS *** 
+*** FLOP *** [Js 5c 5s]
+Main pot $797.75 | Rake $2.25
+PR0DIGY checks
+SeaLlama checks
+xplo1t4bl3 checks
+JohnMcShen checks
+*** TURN *** [Js 5c 5s] [9c]
+Main pot $797.75 | Rake $2.25
+PR0DIGY checks
+SeaLlama bets $80
+xplo1t4bl3 folds
+JohnMcShen folds
+PR0DIGY folds
+Uncalled bet ($80) returned to SeaLlama
+SeaLlama does not show
+*** SUMMARY ***
+BombPot
+Total pot $797.75 | Rake $2.25
+Seat 2: PR0DIGY folded on the Turn
+Seat 3: SeaLlama did not showed and won $797.75
+Seat 4: xplo1t4bl3 folded on the Turn
+Seat 7: JohnMcShen (button) folded on the Turn
+
+
+Hand #1921272358 - Holdem(No Limit) - $25/$50 - 2023/11/06 13:18:13 UTC
+Linn 9-max Seat #3 is the button
+Seat 2: PR0DIGY ($13845.97)
+Seat 3: SeaLlama ($10878.81)
+Seat 4: xplo1t4bl3 ($6731.25)
+PR0DIGY posts ante $200
+SeaLlama posts ante $200
+xplo1t4bl3 posts ante $200
+*** HOLE CARDS *** 
+*** FLOP *** [Td 3c 5s]
+Main pot $598.25 | Rake $1.75
+xplo1t4bl3 checks
+PR0DIGY checks
+SeaLlama checks
+*** TURN *** [Td 3c 5s] [8d]
+Main pot $598.25 | Rake $1.75
+xplo1t4bl3 bets $432
+PR0DIGY folds
+SeaLlama folds
+Uncalled bet ($432) returned to xplo1t4bl3
+xplo1t4bl3 does not show
+*** SUMMARY ***
+BombPot
+Total pot $598.25 | Rake $1.75
+Seat 2: PR0DIGY folded on the Turn
+Seat 3: SeaLlama (button) folded on the Turn
+Seat 4: xplo1t4bl3 did not showed and won $598.25
+
+
+Hand #1921282007 - Holdem(No Limit) - $25/$50 - 2023/11/06 13:49:59 UTC
+Linn 9-max Seat #3 is the button
+Seat 2: PR0DIGY ($13411.17)
+Seat 3: SeaLlama ($11510.09)
+Seat 4: xplo1t4bl3 ($6506.77)
+PR0DIGY posts ante $200
+SeaLlama posts ante $200
+xplo1t4bl3 posts ante $200
+*** HOLE CARDS *** 
+*** FLOP *** [5s 7h Ks]
+Main pot $598.25 | Rake $1.75
+xplo1t4bl3 bets $55
+PR0DIGY calls $55
+SeaLlama raises $307 to $307
+xplo1t4bl3 calls $252
+PR0DIGY calls $252
+*** TURN *** [5s 7h Ks] [Ad]
+Main pot $1519.25 | Rake $1.75
+xplo1t4bl3 checks
+PR0DIGY checks
+SeaLlama checks
+*** RIVER *** [5s 7h Ks Ad] [7d]
+Main pot $1519.25 | Rake $1.75
+xplo1t4bl3 checks
+PR0DIGY bets $1139.43
+SeaLlama folds
+xplo1t4bl3 calls $1139.43
+*** SHOW DOWN ***
+Main pot $1519.25 | Rake $1.75
+xplo1t4bl3 shows [7c Ts]
+xplo1t4bl3 collected $3798.11 from main pot
+*** SUMMARY ***
+BombPot
+Total pot $3798.11 | Rake $1.75
+Seat 2: PR0DIGY did not showed and lost
+Seat 3: SeaLlama (button) folded on the River
+Seat 4: xplo1t4bl3 showed [7c Ts] and won $3798.11 with ThreeOfAKind [7h 7d 7c Ad Ks]
+

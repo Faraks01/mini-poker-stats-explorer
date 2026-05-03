@@ -1,0 +1,4990 @@
+PokerStars Hand #1336193251:  Hold'em No Limit ($25.00/$50.00 USD) - 2022/08/11 20:56:42 ET
+Table 'WPN_Assaria' 9-max Seat #5 is the button
+Seat 1: Tdiddys ($668.79 in chips)
+Seat 4: el0el ($2622.38 in chips)
+Seat 5: songo24 ($2594.62 in chips)
+Tdiddys: posts small blind $25.00
+el0el: posts big blind $50.00
+*** HOLE CARDS ***
+songo24: raises $50.00 to $100.00
+Tdiddys: raises $568.79 to $668.79 and is all-in
+el0el: calls $618.79
+songo24: folds
+*** FLOP *** [4s Tc 8h]
+*** TURN *** [4s Tc 8h] [9h]
+*** RIVER *** [4s Tc 8h 9h] [Ks]
+*** SHOW DOWN ***
+el0el: shows [Qd Kh]
+Tdiddys: shows [Ac 6c]
+el0el collected $1435.83 from pot
+*** SUMMARY ***
+Total pot $1437.58 | Rake $1.75
+Board [4s Tc 8h 9h Ks]
+Seat 1: Tdiddys (small blind) showed [Ac 6c] and lost
+Seat 4: el0el (big blind) showed [Qd Kh] and won ($1435.83)
+Seat 5: songo24 (button) folded before Flop
+
+PokerStars Hand #1336193652:  Hold'em No Limit ($25.00/$50.00 USD) - 2022/08/11 20:57:22 ET
+Table 'WPN_Assaria' 9-max Seat #4 is the button
+Seat 4: el0el ($3389.42 in chips)
+Seat 5: songo24 ($2500.00 in chips)
+el0el: posts small blind $25.00
+songo24: posts big blind $50.00
+*** HOLE CARDS ***
+el0el: folds
+Uncalled bet ($25.00) returned to songo24
+songo24 collected $50.00 from pot
+songo24: doesn't show hand
+*** SUMMARY ***
+Total pot $50.00 | Rake $0.00
+Seat 4: el0el (button) (small blind) folded before Flop
+Seat 5: songo24 (big blind) collected ($50.00)
+
+PokerStars Hand #1336193749:  Hold'em No Limit ($25.00/$50.00 USD) - 2022/08/11 20:57:31 ET
+Table 'WPN_Assaria' 9-max Seat #5 is the button
+Seat 4: el0el ($3364.42 in chips)
+Seat 5: songo24 ($2525.00 in chips)
+songo24: posts small blind $25.00
+el0el: posts big blind $50.00
+*** HOLE CARDS ***
+songo24: raises $50.00 to $100.00
+el0el: folds
+Uncalled bet ($50.00) returned to songo24
+songo24 collected $100.00 from pot
+songo24: doesn't show hand
+*** SUMMARY ***
+Total pot $100.00 | Rake $0.00
+Seat 4: el0el (big blind) folded before Flop
+Seat 5: songo24 (button) (small blind) collected ($100.00)
+
+PokerStars Hand #1336193107:  Hold'em No Limit ($25.00/$50.00 USD) - 2022/08/11 20:56:27 ET
+Table 'WPN_Assaria' 9-max Seat #4 is the button
+Seat 1: Tdiddys ($643.79 in chips)
+Seat 4: el0el ($2622.38 in chips)
+Seat 5: songo24 ($2619.62 in chips)
+songo24: posts small blind $25.00
+Tdiddys: posts big blind $50.00
+*** HOLE CARDS ***
+el0el: folds
+songo24: folds
+Uncalled bet ($25.00) returned to Tdiddys
+Tdiddys collected $50.00 from pot
+Tdiddys: doesn't show hand
+*** SUMMARY ***
+Total pot $50.00 | Rake $0.00
+Seat 1: Tdiddys (big blind) collected ($50.00)
+Seat 4: el0el (button) folded before Flop (didn't bet)
+Seat 5: songo24 (small blind) folded before Flop
+
+PokerStars Hand #1336192652:  Hold'em No Limit ($25.00/$50.00 USD) - 2022/08/11 20:55:38 ET
+Table 'WPN_Assaria' 9-max Seat #1 is the button
+Seat 1: Tdiddys ($643.79 in chips)
+Seat 4: el0el ($2623.25 in chips)
+Seat 5: songo24 ($2620.50 in chips)
+el0el: posts small blind $25.00
+songo24: posts big blind $50.00
+*** HOLE CARDS ***
+Tdiddys: folds
+el0el: raises $100.00 to $150.00
+songo24: raises $275.00 to $425.00
+el0el: raises $2198.25 to $2623.25 and is all-in
+songo24: calls $2195.50 and is all-in
+Uncalled bet ($2.75) returned to el0el
+*** FIRST FLOP *** [6d 7h As]
+*** FIRST TURN *** [6d 7h As] [Kc]
+*** FIRST RIVER *** [6d 7h As Kc] [4h]
+*** SECOND FLOP *** [8c 5h 9c]
+*** SECOND TURN *** [8c 5h 9c] [Qc]
+*** SECOND RIVER *** [8c 5h 9c Qc] [3d]
+*** FIRST SHOW DOWN ***
+el0el: shows [7s 7d]
+songo24: shows [Jc Jh]
+el0el collected $2619.63 from pot
+*** SECOND SHOW DOWN ***
+el0el: shows [7s 7d]
+songo24: shows [Jc Jh]
+songo24 collected $2619.62 from pot
+*** SUMMARY ***
+Total pot $5241.00 | Rake $1.75
+Hand was run twice
+FIRST Board [6d 7h As Kc 4h]
+SECOND Board [8c 5h 9c Qc 3d]
+Seat 1: Tdiddys (button) folded before Flop (didn't bet)
+Seat 4: el0el (small blind) showed [7s 7d] and won ($2619.63), and lost
+Seat 5: songo24 (big blind) showed [Jc Jh] and lost, and won ($2619.62)
+
+PokerStars Hand #1336192417:  Hold'em No Limit ($25.00/$50.00 USD) - 2022/08/11 20:55:12 ET
+Table 'WPN_Assaria' 9-max Seat #5 is the button
+Seat 1: Tdiddys ($693.79 in chips)
+Seat 4: el0el ($2575.00 in chips)
+Seat 5: songo24 ($2620.50 in chips)
+Tdiddys: posts small blind $25.00
+el0el: posts big blind $50.00
+*** HOLE CARDS ***
+songo24: folds
+Tdiddys: calls $25.00
+el0el: checks
+*** FLOP *** [Qd 6s 7h]
+Tdiddys: checks
+el0el: bets $50.00
+Tdiddys: folds
+Uncalled bet ($50.00) returned to el0el
+el0el collected $98.25 from pot
+el0el: doesn't show hand
+*** SUMMARY ***
+Total pot $100.00 | Rake $1.75
+Board [Qd 6s 7h]
+Seat 1: Tdiddys (small blind) folded on the Flop
+Seat 4: el0el (big blind) collected ($98.25)
+Seat 5: songo24 (button) folded before Flop (didn't bet)
+
+PokerStars Hand #1336192301:  Hold'em No Limit ($25.00/$50.00 USD) - 2022/08/11 20:55:01 ET
+Table 'WPN_Assaria' 9-max Seat #4 is the button
+Seat 1: Tdiddys ($668.79 in chips)
+Seat 4: el0el ($2575.00 in chips)
+Seat 5: songo24 ($2645.50 in chips)
+songo24: posts small blind $25.00
+Tdiddys: posts big blind $50.00
+*** HOLE CARDS ***
+el0el: folds
+songo24: folds
+Uncalled bet ($25.00) returned to Tdiddys
+Tdiddys collected $50.00 from pot
+Tdiddys: doesn't show hand
+*** SUMMARY ***
+Total pot $50.00 | Rake $0.00
+Seat 1: Tdiddys (big blind) collected ($50.00)
+Seat 4: el0el (button) folded before Flop (didn't bet)
+Seat 5: songo24 (small blind) folded before Flop
+
+PokerStars Hand #1336190669:  Hold'em No Limit ($25.00/$50.00 USD) - 2022/08/11 20:53:45 ET
+Table 'WPN_Assaria' 9-max Seat #4 is the button
+Seat 1: Tdiddys ($593.79 in chips)
+Seat 2: Nimble123 ($1876.75 in chips)
+Seat 3: KARMASUTRA ($1822.00 in chips)
+Seat 4: el0el ($2650.00 in chips)
+Seat 5: songo24 ($2645.50 in chips)
+songo24: posts small blind $25.00
+Tdiddys: posts big blind $50.00
+*** HOLE CARDS ***
+Nimble123: folds
+KARMASUTRA: folds
+el0el: folds
+songo24: raises $2595.50 to $2645.50 and is all-in
+Tdiddys: folds
+Uncalled bet ($2595.50) returned to songo24
+songo24 collected $100.00 from pot
+songo24: doesn't show hand
+*** SUMMARY ***
+Total pot $100.00 | Rake $0.00
+Seat 1: Tdiddys (big blind) folded before Flop
+Seat 2: Nimble123 folded before Flop (didn't bet)
+Seat 3: KARMASUTRA folded before Flop (didn't bet)
+Seat 4: el0el (button) folded before Flop (didn't bet)
+Seat 5: songo24 (small blind) collected ($100.00)
+
+PokerStars Hand #1336191706:  Hold'em No Limit ($25.00/$50.00 USD) - 2022/08/11 20:54:32 ET
+Table 'WPN_Assaria' 9-max Seat #5 is the button
+Seat 1: Tdiddys ($543.79 in chips)
+Seat 3: KARMASUTRA ($1822.00 in chips)
+Seat 4: el0el ($2650.00 in chips)
+Seat 5: songo24 ($2695.50 in chips)
+Tdiddys: posts small blind $25.00
+el0el: posts big blind $50.00
+*** HOLE CARDS ***
+songo24: folds
+Tdiddys: raises $493.79 to $543.79 and is all-in
+el0el: folds
+Uncalled bet ($493.79) returned to Tdiddys
+Tdiddys collected $100.00 from pot
+Tdiddys: doesn't show hand
+*** SUMMARY ***
+Total pot $100.00 | Rake $0.00
+Seat 1: Tdiddys (small blind) collected ($100.00)
+Seat 4: el0el (big blind) folded before Flop
+Seat 5: songo24 (button) folded before Flop (didn't bet)
+
+PokerStars Hand #1336188668:  Hold'em No Limit ($25.00/$50.00 USD) - 2022/08/11 20:52:10 ET
+Table 'WPN_Assaria' 9-max Seat #2 is the button
+Seat 1: Tdiddys ($593.79 in chips)
+Seat 2: Nimble123 ($1519.50 in chips)
+Seat 3: KARMASUTRA ($1847.00 in chips)
+Seat 4: el0el ($2475.00 in chips)
+Seat 5: songo24 ($2695.50 in chips)
+KARMASUTRA: posts small blind $25.00
+el0el: posts big blind $50.00
+*** HOLE CARDS ***
+songo24: folds
+Tdiddys: folds
+Nimble123: raises $50.00 to $100.00
+KARMASUTRA: folds
+el0el: calls $50.00
+*** FLOP *** [8h 5s Jc]
+el0el: checks
+Nimble123: bets $66.60
+el0el: calls $66.60
+*** TURN *** [8h 5s Jc] [7h]
+el0el: checks
+Nimble123: checks
+*** RIVER *** [8h 5s Jc 7h] [Jd]
+el0el: bets $268.65
+Nimble123: calls $268.65
+*** SHOW DOWN ***
+Nimble123: shows [7c Ac]
+el0el: mucks hand
+Nimble123 collected $892.50 from pot
+*** SUMMARY ***
+Total pot $895.50 | Rake $3.00
+Board [8h 5s Jc 7h Jd]
+Seat 1: Tdiddys folded before Flop (didn't bet)
+Seat 2: Nimble123 (button) showed [7c Ac] and won ($892.50)
+Seat 3: KARMASUTRA (small blind) folded before Flop
+Seat 4: el0el (big blind) mucked
+Seat 5: songo24 folded before Flop (didn't bet)
+
+PokerStars Hand #1336190219:  Hold'em No Limit ($25.00/$50.00 USD) - 2022/08/11 20:53:23 ET
+Table 'WPN_Assaria' 9-max Seat #3 is the button
+Seat 1: Tdiddys ($593.79 in chips)
+Seat 2: Nimble123 ($1976.75 in chips)
+Seat 3: KARMASUTRA ($1822.00 in chips)
+Seat 4: el0el ($2500.00 in chips)
+Seat 5: songo24 ($2695.50 in chips)
+el0el: posts small blind $25.00
+songo24: posts big blind $50.00
+*** HOLE CARDS ***
+Tdiddys: folds
+Nimble123: raises $50.00 to $100.00
+KARMASUTRA: folds
+el0el: raises $300.00 to $400.00
+songo24: folds
+Nimble123: folds
+Uncalled bet ($300.00) returned to el0el
+el0el collected $250.00 from pot
+el0el: doesn't show hand
+*** SUMMARY ***
+Total pot $250.00 | Rake $0.00
+Seat 1: Tdiddys folded before Flop (didn't bet)
+Seat 2: Nimble123 folded before Flop
+Seat 3: KARMASUTRA (button) folded before Flop (didn't bet)
+Seat 4: el0el (small blind) collected ($250.00)
+Seat 5: songo24 (big blind) folded before Flop
+
+PokerStars Hand #1336183606:  Hold'em No Limit ($25.00/$50.00 USD) - 2022/08/11 20:48:14 ET
+Table 'WPN_Assaria' 9-max Seat #1 is the button
+Seat 1: Tdiddys ($596.79 in chips)
+Seat 2: Nimble123 ($1369.50 in chips)
+Seat 3: KARMASUTRA ($1897.00 in chips)
+Seat 4: el0el ($2500.00 in chips)
+Seat 5: songo24 ($2722.00 in chips)
+Nimble123: posts small blind $25.00
+KARMASUTRA: posts big blind $50.00
+*** HOLE CARDS ***
+el0el: folds
+songo24: folds
+Tdiddys: folds
+Nimble123: folds
+Uncalled bet ($25.00) returned to KARMASUTRA
+KARMASUTRA collected $50.00 from pot
+KARMASUTRA: doesn't show hand
+*** SUMMARY ***
+Total pot $50.00 | Rake $0.00
+Seat 1: Tdiddys (button) folded before Flop (didn't bet)
+Seat 2: Nimble123 (small blind) folded before Flop
+Seat 3: KARMASUTRA (big blind) collected ($50.00)
+Seat 4: el0el folded before Flop (didn't bet)
+Seat 5: songo24 folded before Flop (didn't bet)
+
+PokerStars Hand #1336183873:  Hold'em No Limit ($25.00/$50.00 USD) - 2022/08/11 20:48:27 ET
+Table 'WPN_Assaria' 9-max Seat #2 is the button
+Seat 1: Tdiddys ($596.79 in chips)
+Seat 2: Nimble123 ($1344.50 in chips)
+Seat 3: KARMASUTRA ($1922.00 in chips)
+Seat 4: el0el ($2500.00 in chips)
+Seat 5: songo24 ($2722.00 in chips)
+KARMASUTRA: posts small blind $25.00
+el0el: posts big blind $50.00
+*** HOLE CARDS ***
+songo24: folds
+Tdiddys: calls $50.00
+Nimble123: folds
+KARMASUTRA: folds
+el0el: checks
+*** FLOP *** [4c Qs Td]
+el0el: checks
+Tdiddys: checks
+*** TURN *** [4c Qs Td] [8s]
+el0el: checks
+Tdiddys: bets $50.00
+el0el: folds
+Uncalled bet ($50.00) returned to Tdiddys
+Tdiddys collected $122.00 from pot
+Tdiddys: doesn't show hand
+*** SUMMARY ***
+Total pot $125.00 | Rake $3.00
+Board [4c Qs Td 8s]
+Seat 1: Tdiddys collected ($122.00)
+Seat 2: Nimble123 (button) folded before Flop (didn't bet)
+Seat 3: KARMASUTRA (small blind) folded before Flop
+Seat 4: el0el (big blind) folded on the Turn
+Seat 5: songo24 folded before Flop (didn't bet)
+
+PokerStars Hand #1336185137:  Hold'em No Limit ($25.00/$50.00 USD) - 2022/08/11 20:49:27 ET
+Table 'WPN_Assaria' 9-max Seat #3 is the button
+Seat 1: Tdiddys ($668.79 in chips)
+Seat 2: Nimble123 ($1344.50 in chips)
+Seat 3: KARMASUTRA ($1897.00 in chips)
+Seat 4: el0el ($2450.00 in chips)
+Seat 5: songo24 ($2722.00 in chips)
+el0el: posts small blind $25.00
+songo24: posts big blind $50.00
+*** HOLE CARDS ***
+Tdiddys: folds
+Nimble123: folds
+KARMASUTRA: folds
+el0el: raises $100.00 to $150.00
+songo24: calls $100.00
+*** FLOP *** [4s 4c 2d]
+el0el: bets $99.00
+songo24: calls $99.00
+*** TURN *** [4s 4c 2d] [7s]
+el0el: bets $697.20
+songo24: raises $1775.80 to $2473.00 and is all-in
+el0el: calls $1553.80 and is all-in
+Uncalled bet ($222.00) returned to songo24
+*** FIRST RIVER *** [4s 4c 2d 7s] [9s]
+*** SECOND RIVER *** [4s 4c 2d 7s] [Qc]
+*** FIRST SHOW DOWN ***
+el0el: shows [Ad Ac]
+songo24: shows [Ks Ts]
+songo24 collected $2498.50 from pot
+*** SECOND SHOW DOWN ***
+el0el: shows [Ad Ac]
+songo24: shows [Ks Ts]
+el0el collected $2498.50 from pot
+*** SUMMARY ***
+Total pot $5000.00 | Rake $3.00
+Hand was run twice
+FIRST Board [4s 4c 2d 7s 9s]
+SECOND Board [4s 4c 2d 7s Qc]
+Seat 1: Tdiddys folded before Flop (didn't bet)
+Seat 2: Nimble123 folded before Flop (didn't bet)
+Seat 3: KARMASUTRA (button) folded before Flop (didn't bet)
+Seat 4: el0el (small blind) showed [Ad Ac] and lost, and won ($2498.50)
+Seat 5: songo24 (big blind) showed [Ks Ts] and won ($2498.50), and lost
+
+PokerStars Hand #1336187229:  Hold'em No Limit ($25.00/$50.00 USD) - 2022/08/11 20:51:04 ET
+Table 'WPN_Assaria' 9-max Seat #4 is the button
+Seat 1: Tdiddys ($668.79 in chips)
+Seat 2: Nimble123 ($1344.50 in chips)
+Seat 3: KARMASUTRA ($1897.00 in chips)
+Seat 4: el0el ($2500.00 in chips)
+Seat 5: songo24 ($2720.50 in chips)
+songo24: posts small blind $25.00
+Tdiddys: posts big blind $50.00
+*** HOLE CARDS ***
+Nimble123: folds
+KARMASUTRA: folds
+el0el: raises $50.00 to $100.00
+songo24: folds
+Tdiddys: folds
+Uncalled bet ($50.00) returned to el0el
+el0el collected $125.00 from pot
+el0el: doesn't show hand
+*** SUMMARY ***
+Total pot $125.00 | Rake $0.00
+Seat 1: Tdiddys (big blind) folded before Flop
+Seat 2: Nimble123 folded before Flop (didn't bet)
+Seat 3: KARMASUTRA folded before Flop (didn't bet)
+Seat 4: el0el (button) collected ($125.00)
+Seat 5: songo24 (small blind) folded before Flop
+
+PokerStars Hand #1336187859:  Hold'em No Limit ($25.00/$50.00 USD) - 2022/08/11 20:51:33 ET
+Table 'WPN_Assaria' 9-max Seat #5 is the button
+Seat 1: Tdiddys ($618.79 in chips)
+Seat 2: Nimble123 ($1344.50 in chips)
+Seat 3: KARMASUTRA ($1897.00 in chips)
+Seat 4: el0el ($2575.00 in chips)
+Seat 5: songo24 ($2695.50 in chips)
+Tdiddys: posts small blind $25.00
+Nimble123: posts big blind $50.00
+*** HOLE CARDS ***
+KARMASUTRA: folds
+el0el: folds
+songo24: folds
+Tdiddys: folds
+Uncalled bet ($25.00) returned to Nimble123
+Nimble123 collected $50.00 from pot
+Nimble123: doesn't show hand
+*** SUMMARY ***
+Total pot $50.00 | Rake $0.00
+Seat 1: Tdiddys (small blind) folded before Flop
+Seat 2: Nimble123 (big blind) collected ($50.00)
+Seat 3: KARMASUTRA folded before Flop (didn't bet)
+Seat 4: el0el folded before Flop (didn't bet)
+Seat 5: songo24 (button) folded before Flop (didn't bet)
+
+PokerStars Hand #1336188259:  Hold'em No Limit ($25.00/$50.00 USD) - 2022/08/11 20:51:51 ET
+Table 'WPN_Assaria' 9-max Seat #1 is the button
+Seat 1: Tdiddys ($593.79 in chips)
+Seat 2: Nimble123 ($1369.50 in chips)
+Seat 3: KARMASUTRA ($1897.00 in chips)
+Seat 4: el0el ($2575.00 in chips)
+Seat 5: songo24 ($2695.50 in chips)
+Nimble123: posts small blind $25.00
+KARMASUTRA: posts big blind $50.00
+*** HOLE CARDS ***
+el0el: raises $50.00 to $100.00
+songo24: folds
+Tdiddys: folds
+Nimble123: raises $1269.50 to $1369.50 and is all-in
+KARMASUTRA: folds
+el0el: folds
+Uncalled bet ($1269.50) returned to Nimble123
+Nimble123 collected $250.00 from pot
+Nimble123: doesn't show hand
+*** SUMMARY ***
+Total pot $250.00 | Rake $0.00
+Seat 1: Tdiddys (button) folded before Flop (didn't bet)
+Seat 2: Nimble123 (small blind) collected ($250.00)
+Seat 3: KARMASUTRA (big blind) folded before Flop
+Seat 4: el0el folded before Flop
+Seat 5: songo24 folded before Flop (didn't bet)
+
+PokerStars Hand #1336181155:  Hold'em No Limit ($25.00/$50.00 USD) - 2022/08/11 20:46:21 ET
+Table 'WPN_Assaria' 9-max Seat #1 is the button
+Seat 1: Tdiddys ($671.79 in chips)
+Seat 2: Nimble123 ($1194.50 in chips)
+Seat 3: KARMASUTRA ($1897.00 in chips)
+Seat 4: el0el ($2572.75 in chips)
+Seat 5: songo24 ($2722.00 in chips)
+Nimble123: posts small blind $25.00
+KARMASUTRA: posts big blind $50.00
+*** HOLE CARDS ***
+el0el: raises $50.00 to $100.00
+songo24: folds
+Tdiddys: folds
+Nimble123: raises $1094.50 to $1194.50 and is all-in
+KARMASUTRA: folds
+el0el: folds
+Uncalled bet ($1094.50) returned to Nimble123
+Nimble123 collected $250.00 from pot
+Nimble123: doesn't show hand
+*** SUMMARY ***
+Total pot $250.00 | Rake $0.00
+Seat 1: Tdiddys (button) folded before Flop (didn't bet)
+Seat 2: Nimble123 (small blind) collected ($250.00)
+Seat 3: KARMASUTRA (big blind) folded before Flop
+Seat 4: el0el folded before Flop
+Seat 5: songo24 folded before Flop (didn't bet)
+
+PokerStars Hand #1336182237:  Hold'em No Limit ($25.00/$50.00 USD) - 2022/08/11 20:47:12 ET
+Table 'WPN_Assaria' 9-max Seat #2 is the button
+Seat 1: Tdiddys ($671.79 in chips)
+Seat 2: Nimble123 ($1344.50 in chips)
+Seat 3: KARMASUTRA ($1847.00 in chips)
+Seat 4: el0el ($2472.75 in chips)
+Seat 5: songo24 ($2722.00 in chips)
+KARMASUTRA: posts small blind $25.00
+el0el: posts big blind $50.00
+*** HOLE CARDS ***
+songo24: folds
+Tdiddys: folds
+Nimble123: folds
+KARMASUTRA: folds
+Uncalled bet ($25.00) returned to el0el
+el0el collected $50.00 from pot
+el0el: doesn't show hand
+*** SUMMARY ***
+Total pot $50.00 | Rake $0.00
+Seat 1: Tdiddys folded before Flop (didn't bet)
+Seat 2: Nimble123 (button) folded before Flop (didn't bet)
+Seat 3: KARMASUTRA (small blind) folded before Flop
+Seat 4: el0el (big blind) collected ($50.00)
+Seat 5: songo24 folded before Flop (didn't bet)
+
+PokerStars Hand #1336182679:  Hold'em No Limit ($25.00/$50.00 USD) - 2022/08/11 20:47:32 ET
+Table 'WPN_Assaria' 9-max Seat #4 is the button
+Seat 1: Tdiddys ($671.79 in chips)
+Seat 2: Nimble123 ($1344.50 in chips)
+Seat 3: KARMASUTRA ($1822.00 in chips)
+Seat 4: el0el ($2500.00 in chips)
+Seat 5: songo24 ($2747.00 in chips)
+songo24: posts small blind $25.00
+Tdiddys: posts big blind $50.00
+*** HOLE CARDS ***
+Nimble123: folds
+KARMASUTRA: raises $50.00 to $100.00
+el0el: folds
+songo24: folds
+Tdiddys: folds
+Uncalled bet ($50.00) returned to KARMASUTRA
+KARMASUTRA collected $125.00 from pot
+KARMASUTRA: doesn't show hand
+*** SUMMARY ***
+Total pot $125.00 | Rake $0.00
+Seat 1: Tdiddys (big blind) folded before Flop
+Seat 2: Nimble123 folded before Flop (didn't bet)
+Seat 3: KARMASUTRA collected ($125.00)
+Seat 4: el0el (button) folded before Flop (didn't bet)
+Seat 5: songo24 (small blind) folded before Flop
+
+PokerStars Hand #1336180641:  Hold'em No Limit ($25.00/$50.00 USD) - 2022/08/11 20:45:58 ET
+Table 'WPN_Assaria' 9-max Seat #5 is the button
+Seat 1: Tdiddys ($721.79 in chips)
+Seat 2: Nimble123 ($1144.50 in chips)
+Seat 3: KARMASUTRA ($1897.00 in chips)
+Seat 4: el0el ($2572.75 in chips)
+Seat 5: songo24 ($2722.00 in chips)
+Tdiddys: posts small blind $25.00
+Nimble123: posts big blind $50.00
+*** HOLE CARDS ***
+KARMASUTRA: folds
+el0el: folds
+songo24: folds
+Tdiddys: calls $25.00
+Nimble123: raises $1094.50 to $1144.50 and is all-in
+Tdiddys: folds
+Uncalled bet ($1094.50) returned to Nimble123
+Nimble123 collected $100.00 from pot
+Nimble123: doesn't show hand
+*** SUMMARY ***
+Total pot $100.00 | Rake $0.00
+Seat 1: Tdiddys (small blind) folded before Flop
+Seat 2: Nimble123 (big blind) collected ($100.00)
+Seat 3: KARMASUTRA folded before Flop (didn't bet)
+Seat 4: el0el folded before Flop (didn't bet)
+Seat 5: songo24 (button) folded before Flop (didn't bet)
+
+PokerStars Hand #1336183177:  Hold'em No Limit ($25.00/$50.00 USD) - 2022/08/11 20:47:55 ET
+Table 'WPN_Assaria' 9-max Seat #5 is the button
+Seat 1: Tdiddys ($621.79 in chips)
+Seat 2: Nimble123 ($1344.50 in chips)
+Seat 3: KARMASUTRA ($1897.00 in chips)
+Seat 4: el0el ($2500.00 in chips)
+Seat 5: songo24 ($2722.00 in chips)
+Tdiddys: posts small blind $25.00
+Nimble123: posts big blind $50.00
+*** HOLE CARDS ***
+KARMASUTRA: folds
+el0el: folds
+songo24: folds
+Tdiddys: folds
+Uncalled bet ($25.00) returned to Nimble123
+Nimble123 collected $50.00 from pot
+Nimble123: doesn't show hand
+*** SUMMARY ***
+Total pot $50.00 | Rake $0.00
+Seat 1: Tdiddys (small blind) folded before Flop
+Seat 2: Nimble123 (big blind) collected ($50.00)
+Seat 3: KARMASUTRA folded before Flop (didn't bet)
+Seat 4: el0el folded before Flop (didn't bet)
+Seat 5: songo24 (button) folded before Flop (didn't bet)
+
+PokerStars Hand #1336182447:  Hold'em No Limit ($25.00/$50.00 USD) - 2022/08/11 20:47:22 ET
+Table 'WPN_Assaria' 9-max Seat #3 is the button
+Seat 1: Tdiddys ($671.79 in chips)
+Seat 2: Nimble123 ($1344.50 in chips)
+Seat 3: KARMASUTRA ($1822.00 in chips)
+Seat 4: el0el ($2525.00 in chips)
+Seat 5: songo24 ($2722.00 in chips)
+el0el: posts small blind $25.00
+songo24: posts big blind $50.00
+*** HOLE CARDS ***
+Tdiddys: folds
+Nimble123: folds
+KARMASUTRA: folds
+el0el: folds
+Uncalled bet ($25.00) returned to songo24
+songo24 collected $50.00 from pot
+songo24: doesn't show hand
+*** SUMMARY ***
+Total pot $50.00 | Rake $0.00
+Seat 1: Tdiddys folded before Flop (didn't bet)
+Seat 2: Nimble123 folded before Flop (didn't bet)
+Seat 3: KARMASUTRA (button) folded before Flop (didn't bet)
+Seat 4: el0el (small blind) folded before Flop
+Seat 5: songo24 (big blind) collected ($50.00)
+
+PokerStars Hand #1335871291:  Hold'em No Limit ($25.00/$50.00 USD) - 2022/08/11 15:58:28 ET
+Table 'WPN_7 Day No Rathole 25/50 NLH 9-Max' 9-max Seat #4 is the button
+Seat 4: ninesevenoff ($500.00 in chips)
+Seat 9: DoublelegTD ($575.00 in chips)
+ninesevenoff: posts small blind $25.00
+DoublelegTD: posts big blind $50.00
+*** HOLE CARDS ***
+ninesevenoff: raises $450.00 to $500.00 and is all-in
+DoublelegTD: folds
+Uncalled bet ($450.00) returned to ninesevenoff
+ninesevenoff collected $100.00 from pot
+ninesevenoff: doesn't show hand
+*** SUMMARY ***
+Total pot $100.00 | Rake $0.00
+Seat 4: ninesevenoff (button) (small blind) collected ($100.00)
+Seat 9: DoublelegTD (big blind) folded before Flop
+
+PokerStars Hand #1335871422:  Hold'em No Limit ($25.00/$50.00 USD) - 2022/08/11 15:58:48 ET
+Table 'WPN_7 Day No Rathole 25/50 NLH 9-Max' 9-max Seat #9 is the button
+Seat 4: ninesevenoff ($550.00 in chips)
+Seat 9: DoublelegTD ($525.00 in chips)
+DoublelegTD: posts small blind $25.00
+ninesevenoff: posts big blind $50.00
+*** HOLE CARDS ***
+DoublelegTD: folds
+Uncalled bet ($25.00) returned to ninesevenoff
+ninesevenoff collected $50.00 from pot
+ninesevenoff: doesn't show hand
+*** SUMMARY ***
+Total pot $50.00 | Rake $0.00
+Seat 4: ninesevenoff (big blind) collected ($50.00)
+Seat 9: DoublelegTD (button) (small blind) folded before Flop
+
+PokerStars Hand #1335871478:  Hold'em No Limit ($25.00/$50.00 USD) - 2022/08/11 15:58:58 ET
+Table 'WPN_7 Day No Rathole 25/50 NLH 9-Max' 9-max Seat #9 is the button
+Seat 4: ninesevenoff ($575.00 in chips)
+Seat 5: jrSuited18 ($6394.77 in chips)
+Seat 9: DoublelegTD ($500.00 in chips)
+ninesevenoff: posts small blind $25.00
+jrSuited18: posts big blind $50.00
+*** HOLE CARDS ***
+DoublelegTD: folds
+ninesevenoff: raises $525.00 to $575.00 and is all-in
+jrSuited18: folds
+Uncalled bet ($525.00) returned to ninesevenoff
+ninesevenoff collected $100.00 from pot
+ninesevenoff: doesn't show hand
+*** SUMMARY ***
+Total pot $100.00 | Rake $0.00
+Seat 4: ninesevenoff (small blind) collected ($100.00)
+Seat 5: jrSuited18 (big blind) folded before Flop
+Seat 9: DoublelegTD (button) folded before Flop (didn't bet)
+
+PokerStars Hand #1335871578:  Hold'em No Limit ($25.00/$50.00 USD) - 2022/08/11 15:59:12 ET
+Table 'WPN_7 Day No Rathole 25/50 NLH 9-Max' 9-max Seat #4 is the button
+Seat 4: ninesevenoff ($625.00 in chips)
+Seat 5: jrSuited18 ($6344.77 in chips)
+Seat 9: DoublelegTD ($500.00 in chips)
+jrSuited18: posts small blind $25.00
+DoublelegTD: posts big blind $50.00
+*** HOLE CARDS ***
+ninesevenoff: raises $575.00 to $625.00 and is all-in
+jrSuited18: folds
+DoublelegTD: calls $450.00 and is all-in
+Uncalled bet ($125.00) returned to ninesevenoff
+*** FIRST FLOP *** [7s Jd Kh]
+*** FIRST TURN *** [7s Jd Kh] [Kd]
+*** FIRST RIVER *** [7s Jd Kh Kd] [Qh]
+*** SECOND FLOP *** [Kc 7d 6d]
+*** SECOND TURN *** [Kc 7d 6d] [9d]
+*** SECOND RIVER *** [Kc 7d 6d 9d] [4c]
+*** FIRST SHOW DOWN ***
+ninesevenoff: shows [8s Ac]
+DoublelegTD: shows [6c Ad]
+DoublelegTD collected $255.82 from pot
+ninesevenoff collected $255.81 from pot
+*** SECOND SHOW DOWN ***
+ninesevenoff: shows [8s Ac]
+DoublelegTD: shows [6c Ad]
+DoublelegTD collected $511.62 from pot
+*** SUMMARY ***
+Total pot $1025.00 | Rake $1.75
+Hand was run twice
+FIRST Board [7s Jd Kh Kd Qh]
+SECOND Board [Kc 7d 6d 9d 4c]
+Seat 4: ninesevenoff (button) showed [8s Ac] and won ($255.81), and lost
+Seat 5: jrSuited18 (small blind) folded before Flop
+Seat 9: DoublelegTD (big blind) showed [6c Ad] and won ($255.82), and won ($511.62)
+
+PokerStars Hand #1335872365:  Hold'em No Limit ($25.00/$50.00 USD) - 2022/08/11 16:00:50 ET
+Table 'WPN_7 Day No Rathole 25/50 NLH 9-Max' 9-max Seat #9 is the button
+Seat 4: ninesevenoff ($450.00 in chips)
+Seat 9: DoublelegTD ($816.56 in chips)
+DoublelegTD: posts small blind $25.00
+ninesevenoff: posts big blind $50.00
+*** HOLE CARDS ***
+DoublelegTD: folds
+Uncalled bet ($25.00) returned to ninesevenoff
+ninesevenoff collected $50.00 from pot
+ninesevenoff: doesn't show hand
+*** SUMMARY ***
+Total pot $50.00 | Rake $0.00
+Seat 4: ninesevenoff (big blind) collected ($50.00)
+Seat 9: DoublelegTD (button) (small blind) folded before Flop
+
+PokerStars Hand #1335872463:  Hold'em No Limit ($25.00/$50.00 USD) - 2022/08/11 16:00:59 ET
+Table 'WPN_7 Day No Rathole 25/50 NLH 9-Max' 9-max Seat #4 is the button
+Seat 4: ninesevenoff ($525.00 in chips)
+Seat 9: DoublelegTD ($791.56 in chips)
+ninesevenoff: posts small blind $25.00
+DoublelegTD: posts big blind $50.00
+*** HOLE CARDS ***
+ninesevenoff: raises $475.00 to $525.00 and is all-in
+DoublelegTD: calls $475.00
+*** FLOP *** [9h 4s Jd]
+*** TURN *** [9h 4s Jd] [9c]
+*** RIVER *** [9h 4s Jd 9c] [8h]
+*** SHOW DOWN ***
+DoublelegTD: shows [5d 5c]
+ninesevenoff: shows [Kd 2s]
+DoublelegTD collected $1048.75 from pot
+*** SUMMARY ***
+Total pot $1050.00 | Rake $1.25
+Board [9h 4s Jd 9c 8h]
+Seat 4: ninesevenoff (button) (small blind) showed [Kd 2s] and lost
+Seat 9: DoublelegTD (big blind) showed [5d 5c] and won ($1048.75)
+
+PokerStars Hand #1335872715:  Hold'em No Limit ($25.00/$50.00 USD) - 2022/08/11 16:01:26 ET
+Table 'WPN_7 Day No Rathole 25/50 NLH 9-Max' 9-max Seat #9 is the button
+Seat 4: ninesevenoff ($500.00 in chips)
+Seat 9: DoublelegTD ($1315.31 in chips)
+DoublelegTD: posts small blind $25.00
+ninesevenoff: posts big blind $50.00
+*** HOLE CARDS ***
+DoublelegTD: raises $550.00 to $600.00
+ninesevenoff: calls $450.00 and is all-in
+Uncalled bet ($100.00) returned to DoublelegTD
+*** FLOP *** [2d 6c 9c]
+*** TURN *** [2d 6c 9c] [Jd]
+*** RIVER *** [2d 6c 9c Jd] [3d]
+*** SHOW DOWN ***
+DoublelegTD: shows [8d As]
+ninesevenoff: shows [Ah 5d]
+DoublelegTD collected $998.75 from pot
+*** SUMMARY ***
+Total pot $1000.00 | Rake $1.25
+Board [2d 6c 9c Jd 3d]
+Seat 4: ninesevenoff (big blind) showed [Ah 5d] and lost
+Seat 9: DoublelegTD (button) (small blind) showed [8d As] and won ($998.75)
+
+PokerStars Hand #1335872998:  Hold'em No Limit ($25.00/$50.00 USD) - 2022/08/11 16:01:50 ET
+Table 'WPN_7 Day No Rathole 25/50 NLH 9-Max' 9-max Seat #4 is the button
+Seat 4: ninesevenoff ($500.00 in chips)
+Seat 9: DoublelegTD ($1814.06 in chips)
+ninesevenoff: posts small blind $25.00
+DoublelegTD: posts big blind $50.00
+*** HOLE CARDS ***
+ninesevenoff: raises $450.00 to $500.00 and is all-in
+DoublelegTD: folds
+Uncalled bet ($450.00) returned to ninesevenoff
+ninesevenoff collected $100.00 from pot
+ninesevenoff: doesn't show hand
+*** SUMMARY ***
+Total pot $100.00 | Rake $0.00
+Seat 4: ninesevenoff (button) (small blind) collected ($100.00)
+Seat 9: DoublelegTD (big blind) folded before Flop
+
+PokerStars Hand #1335873161:  Hold'em No Limit ($25.00/$50.00 USD) - 2022/08/11 16:02:05 ET
+Table 'WPN_7 Day No Rathole 25/50 NLH 9-Max' 9-max Seat #9 is the button
+Seat 4: ninesevenoff ($550.00 in chips)
+Seat 9: DoublelegTD ($1764.06 in chips)
+DoublelegTD: posts small blind $25.00
+ninesevenoff: posts big blind $50.00
+*** HOLE CARDS ***
+DoublelegTD: folds
+Uncalled bet ($25.00) returned to ninesevenoff
+ninesevenoff collected $50.00 from pot
+ninesevenoff: doesn't show hand
+*** SUMMARY ***
+Total pot $50.00 | Rake $0.00
+Seat 4: ninesevenoff (big blind) collected ($50.00)
+Seat 9: DoublelegTD (button) (small blind) folded before Flop
+
+PokerStars Hand #1335873235:  Hold'em No Limit ($25.00/$50.00 USD) - 2022/08/11 16:02:13 ET
+Table 'WPN_7 Day No Rathole 25/50 NLH 9-Max' 9-max Seat #4 is the button
+Seat 4: ninesevenoff ($575.00 in chips)
+Seat 9: DoublelegTD ($1739.06 in chips)
+ninesevenoff: posts small blind $25.00
+DoublelegTD: posts big blind $50.00
+*** HOLE CARDS ***
+ninesevenoff: raises $525.00 to $575.00 and is all-in
+DoublelegTD: calls $525.00
+*** FLOP *** [Td Qd 8c]
+*** TURN *** [Td Qd 8c] [2s]
+*** RIVER *** [Td Qd 8c 2s] [Kc]
+*** SHOW DOWN ***
+DoublelegTD: shows [2c 2h]
+ninesevenoff: shows [Tc Jd]
+DoublelegTD collected $1148.75 from pot
+*** SUMMARY ***
+Total pot $1150.00 | Rake $1.25
+Board [Td Qd 8c 2s Kc]
+Seat 4: ninesevenoff (button) (small blind) showed [Tc Jd] and lost
+Seat 9: DoublelegTD (big blind) showed [2c 2h] and won ($1148.75)
+
+PokerStars Hand #1335877172:  Hold'em No Limit ($25.00/$50.00 USD) - 2022/08/11 16:06:58 ET
+Table 'WPN_7 Day No Rathole 25/50 NLH 9-Max' 9-max Seat #9 is the button
+Seat 4: ninesevenoff ($500.00 in chips)
+Seat 9: DoublelegTD ($2312.81 in chips)
+DoublelegTD: posts small blind $25.00
+ninesevenoff: posts big blind $50.00
+*** HOLE CARDS ***
+DoublelegTD: folds
+Uncalled bet ($25.00) returned to ninesevenoff
+ninesevenoff collected $50.00 from pot
+ninesevenoff: doesn't show hand
+*** SUMMARY ***
+Total pot $50.00 | Rake $0.00
+Seat 4: ninesevenoff (big blind) collected ($50.00)
+Seat 9: DoublelegTD (button) (small blind) folded before Flop
+
+PokerStars Hand #1335877321:  Hold'em No Limit ($25.00/$50.00 USD) - 2022/08/11 16:07:08 ET
+Table 'WPN_7 Day No Rathole 25/50 NLH 9-Max' 9-max Seat #4 is the button
+Seat 4: ninesevenoff ($525.00 in chips)
+Seat 9: DoublelegTD ($2287.81 in chips)
+ninesevenoff: posts small blind $25.00
+DoublelegTD: posts big blind $50.00
+*** HOLE CARDS ***
+ninesevenoff: raises $475.00 to $525.00 and is all-in
+DoublelegTD: calls $475.00
+*** FLOP *** [9c 3d Jd]
+*** TURN *** [9c 3d Jd] [4d]
+*** RIVER *** [9c 3d Jd 4d] [2h]
+*** SHOW DOWN ***
+ninesevenoff: shows [Qc Kh]
+DoublelegTD: shows [7h Qh]
+ninesevenoff collected $1048.75 from pot
+*** SUMMARY ***
+Total pot $1050.00 | Rake $1.25
+Board [9c 3d Jd 4d 2h]
+Seat 4: ninesevenoff (button) (small blind) showed [Qc Kh] and won ($1048.75)
+Seat 9: DoublelegTD (big blind) showed [7h Qh] and lost
+
+PokerStars Hand #1335877697:  Hold'em No Limit ($25.00/$50.00 USD) - 2022/08/11 16:07:34 ET
+Table 'WPN_7 Day No Rathole 25/50 NLH 9-Max' 9-max Seat #9 is the button
+Seat 4: ninesevenoff ($1048.75 in chips)
+Seat 9: DoublelegTD ($1762.81 in chips)
+DoublelegTD: posts small blind $25.00
+ninesevenoff: posts big blind $50.00
+*** HOLE CARDS ***
+DoublelegTD: calls $25.00
+ninesevenoff: checks
+*** FLOP *** [9h 5h Th]
+ninesevenoff: checks
+DoublelegTD: bets $50.00
+ninesevenoff: calls $50.00
+*** TURN *** [9h 5h Th] [Ah]
+ninesevenoff: checks
+DoublelegTD: bets $60.00
+ninesevenoff: calls $60.00
+*** RIVER *** [9h 5h Th Ah] [Ad]
+ninesevenoff: checks
+DoublelegTD: bets $240.00
+ninesevenoff: folds
+Uncalled bet ($240.00) returned to DoublelegTD
+DoublelegTD collected $318.75 from pot
+DoublelegTD: doesn't show hand
+*** SUMMARY ***
+Total pot $320.00 | Rake $1.25
+Board [9h 5h Th Ah Ad]
+Seat 4: ninesevenoff (big blind) folded on the River
+Seat 9: DoublelegTD (button) (small blind) collected ($318.75)
+
+PokerStars Hand #1335878658:  Hold'em No Limit ($25.00/$50.00 USD) - 2022/08/11 16:08:42 ET
+Table 'WPN_7 Day No Rathole 25/50 NLH 9-Max' 9-max Seat #4 is the button
+Seat 4: ninesevenoff ($888.75 in chips)
+Seat 9: DoublelegTD ($1921.56 in chips)
+ninesevenoff: posts small blind $25.00
+DoublelegTD: posts big blind $50.00
+*** HOLE CARDS ***
+ninesevenoff: calls $25.00
+DoublelegTD: raises $1871.56 to $1921.56 and is all-in
+ninesevenoff: folds
+Uncalled bet ($1871.56) returned to DoublelegTD
+DoublelegTD collected $100.00 from pot
+DoublelegTD: doesn't show hand
+*** SUMMARY ***
+Total pot $100.00 | Rake $0.00
+Seat 4: ninesevenoff (button) (small blind) folded before Flop
+Seat 9: DoublelegTD (big blind) collected ($100.00)
+
+PokerStars Hand #1335879105:  Hold'em No Limit ($25.00/$50.00 USD) - 2022/08/11 16:09:12 ET
+Table 'WPN_7 Day No Rathole 25/50 NLH 9-Max' 9-max Seat #9 is the button
+Seat 4: ninesevenoff ($838.75 in chips)
+Seat 9: DoublelegTD ($1971.56 in chips)
+DoublelegTD: posts small blind $25.00
+ninesevenoff: posts big blind $50.00
+*** HOLE CARDS ***
+DoublelegTD: raises $1803.75 to $1853.75
+ninesevenoff: folds
+Uncalled bet ($1803.75) returned to DoublelegTD
+DoublelegTD collected $100.00 from pot
+DoublelegTD: doesn't show hand
+*** SUMMARY ***
+Total pot $100.00 | Rake $0.00
+Seat 4: ninesevenoff (big blind) folded before Flop
+Seat 9: DoublelegTD (button) (small blind) collected ($100.00)
+
+PokerStars Hand #1335879322:  Hold'em No Limit ($25.00/$50.00 USD) - 2022/08/11 16:09:27 ET
+Table 'WPN_7 Day No Rathole 25/50 NLH 9-Max' 9-max Seat #4 is the button
+Seat 4: ninesevenoff ($788.75 in chips)
+Seat 9: DoublelegTD ($2021.56 in chips)
+ninesevenoff: posts small blind $25.00
+DoublelegTD: posts big blind $50.00
+*** HOLE CARDS ***
+ninesevenoff: raises $738.75 to $788.75 and is all-in
+DoublelegTD: folds
+Uncalled bet ($738.75) returned to ninesevenoff
+ninesevenoff collected $100.00 from pot
+ninesevenoff: doesn't show hand
+*** SUMMARY ***
+Total pot $100.00 | Rake $0.00
+Seat 4: ninesevenoff (button) (small blind) collected ($100.00)
+Seat 9: DoublelegTD (big blind) folded before Flop
+
+PokerStars Hand #1335879487:  Hold'em No Limit ($25.00/$50.00 USD) - 2022/08/11 16:09:39 ET
+Table 'WPN_7 Day No Rathole 25/50 NLH 9-Max' 9-max Seat #9 is the button
+Seat 4: ninesevenoff ($838.75 in chips)
+Seat 9: DoublelegTD ($1971.56 in chips)
+DoublelegTD: posts small blind $25.00
+ninesevenoff: posts big blind $50.00
+*** HOLE CARDS ***
+DoublelegTD: calls $25.00
+ninesevenoff: checks
+*** FLOP *** [7s Td 4c]
+ninesevenoff: checks
+DoublelegTD: bets $50.00
+ninesevenoff: raises $119.25 to $169.25
+DoublelegTD: folds
+Uncalled bet ($119.25) returned to ninesevenoff
+ninesevenoff collected $198.75 from pot
+ninesevenoff: doesn't show hand
+*** SUMMARY ***
+Total pot $200.00 | Rake $1.25
+Board [7s Td 4c]
+Seat 4: ninesevenoff (big blind) collected ($198.75)
+Seat 9: DoublelegTD (button) (small blind) folded on the Flop
+
+PokerStars Hand #1335879921:  Hold'em No Limit ($25.00/$50.00 USD) - 2022/08/11 16:10:07 ET
+Table 'WPN_7 Day No Rathole 25/50 NLH 9-Max' 9-max Seat #9 is the button
+Seat 4: ninesevenoff ($937.50 in chips)
+Seat 5: oneplusone ($16817.94 in chips)
+Seat 6: TheMestresis ($536.00 in chips)
+Seat 9: DoublelegTD ($1871.56 in chips)
+ninesevenoff: posts small blind $25.00
+oneplusone: posts big blind $50.00
+*** HOLE CARDS ***
+DoublelegTD: raises $50.00 to $100.00
+ninesevenoff: raises $200.00 to $300.00
+oneplusone: folds
+DoublelegTD: folds
+Uncalled bet ($200.00) returned to ninesevenoff
+ninesevenoff collected $250.00 from pot
+ninesevenoff: doesn't show hand
+*** SUMMARY ***
+Total pot $250.00 | Rake $0.00
+Seat 4: ninesevenoff (small blind) collected ($250.00)
+Seat 5: oneplusone (big blind) folded before Flop
+Seat 9: DoublelegTD (button) folded before Flop
+
+PokerStars Hand #1335880199:  Hold'em No Limit ($25.00/$50.00 USD) - 2022/08/11 16:10:26 ET
+Table 'WPN_7 Day No Rathole 25/50 NLH 9-Max' 9-max Seat #4 is the button
+Seat 4: ninesevenoff ($1087.50 in chips)
+Seat 5: oneplusone ($16767.94 in chips)
+Seat 6: TheMestresis ($536.00 in chips)
+Seat 9: DoublelegTD ($1771.56 in chips)
+oneplusone: posts small blind $25.00
+TheMestresis: posts big blind $50.00
+*** HOLE CARDS ***
+DoublelegTD: folds
+ninesevenoff: raises $50.00 to $100.00
+oneplusone: folds
+TheMestresis: folds
+Uncalled bet ($50.00) returned to ninesevenoff
+ninesevenoff collected $125.00 from pot
+ninesevenoff: doesn't show hand
+*** SUMMARY ***
+Total pot $125.00 | Rake $0.00
+Seat 4: ninesevenoff (button) collected ($125.00)
+Seat 5: oneplusone (small blind) folded before Flop
+Seat 6: TheMestresis (big blind) folded before Flop
+Seat 9: DoublelegTD folded before Flop (didn't bet)
+
+PokerStars Hand #1335880483:  Hold'em No Limit ($25.00/$50.00 USD) - 2022/08/11 16:10:47 ET
+Table 'WPN_7 Day No Rathole 25/50 NLH 9-Max' 9-max Seat #5 is the button
+Seat 4: ninesevenoff ($1162.50 in chips)
+Seat 5: oneplusone ($16742.94 in chips)
+Seat 6: TheMestresis ($486.00 in chips)
+Seat 9: DoublelegTD ($1771.56 in chips)
+TheMestresis: posts small blind $25.00
+DoublelegTD: posts big blind $50.00
+*** HOLE CARDS ***
+ninesevenoff: raises $50.00 to $100.00
+oneplusone: folds
+TheMestresis: raises $400.00 to $500.00 and is all-in
+DoublelegTD: folds
+ninesevenoff: folds
+Uncalled bet ($400.00) returned to TheMestresis
+TheMestresis collected $250.00 from pot
+TheMestresis: doesn't show hand
+*** SUMMARY ***
+Total pot $250.00 | Rake $0.00
+Seat 4: ninesevenoff folded before Flop
+Seat 5: oneplusone (button) folded before Flop (didn't bet)
+Seat 6: TheMestresis (small blind) collected ($250.00)
+Seat 9: DoublelegTD (big blind) folded before Flop
+
+PokerStars Hand #1335881038:  Hold'em No Limit ($25.00/$50.00 USD) - 2022/08/11 16:11:23 ET
+Table 'WPN_7 Day No Rathole 25/50 NLH 9-Max' 9-max Seat #6 is the button
+Seat 4: ninesevenoff ($1062.50 in chips)
+Seat 5: oneplusone ($16742.94 in chips)
+Seat 6: TheMestresis ($650.00 in chips)
+Seat 9: DoublelegTD ($1721.56 in chips)
+DoublelegTD: posts small blind $25.00
+ninesevenoff: posts big blind $50.00
+*** HOLE CARDS ***
+oneplusone: folds
+TheMestresis: raises $600.00 to $650.00 and is all-in
+DoublelegTD: folds
+ninesevenoff: folds
+Uncalled bet ($600.00) returned to TheMestresis
+TheMestresis collected $125.00 from pot
+TheMestresis: doesn't show hand
+*** SUMMARY ***
+Total pot $125.00 | Rake $0.00
+Seat 4: ninesevenoff (big blind) folded before Flop
+Seat 5: oneplusone folded before Flop (didn't bet)
+Seat 6: TheMestresis (button) collected ($125.00)
+Seat 9: DoublelegTD (small blind) folded before Flop
+
+PokerStars Hand #1335881314:  Hold'em No Limit ($25.00/$50.00 USD) - 2022/08/11 16:11:43 ET
+Table 'WPN_7 Day No Rathole 25/50 NLH 9-Max' 9-max Seat #9 is the button
+Seat 4: ninesevenoff ($1012.50 in chips)
+Seat 5: oneplusone ($16742.94 in chips)
+Seat 6: TheMestresis ($725.00 in chips)
+Seat 9: DoublelegTD ($1696.56 in chips)
+ninesevenoff: posts small blind $25.00
+oneplusone: posts big blind $50.00
+*** HOLE CARDS ***
+TheMestresis: calls $50.00
+DoublelegTD: folds
+ninesevenoff: raises $150.00 to $200.00
+oneplusone: folds
+TheMestresis: calls $150.00
+*** FLOP *** [8c 5s 7c]
+ninesevenoff: checks
+TheMestresis: bets $100.00
+ninesevenoff: calls $100.00
+*** TURN *** [8c 5s 7c] [8s]
+ninesevenoff: checks
+TheMestresis: bets $425.00 and is all-in
+ninesevenoff: calls $425.00
+*** FIRST RIVER *** [8c 5s 7c 8s] [Js]
+*** SECOND RIVER *** [8c 5s 7c 8s] [5h]
+*** FIRST SHOW DOWN ***
+ninesevenoff: shows [Qh Ac]
+TheMestresis: shows [Kc 9c]
+ninesevenoff collected $748.88 from pot
+*** SECOND SHOW DOWN ***
+ninesevenoff: shows [Qh Ac]
+TheMestresis: shows [Kc 9c]
+ninesevenoff collected $748.87 from pot
+*** SUMMARY ***
+Total pot $1500.00 | Rake $2.25
+Hand was run twice
+FIRST Board [8c 5s 7c 8s Js]
+SECOND Board [8c 5s 7c 8s 5h]
+Seat 4: ninesevenoff (small blind) showed [Qh Ac] and won ($748.88), and won ($748.87)
+Seat 5: oneplusone (big blind) folded before Flop
+Seat 6: TheMestresis showed [Kc 9c] and lost, and lost
+Seat 9: DoublelegTD (button) folded before Flop (didn't bet)
+
+PokerStars Hand #1335882538:  Hold'em No Limit ($25.00/$50.00 USD) - 2022/08/11 16:13:04 ET
+Table 'WPN_7 Day No Rathole 25/50 NLH 9-Max' 9-max Seat #4 is the button
+Seat 4: ninesevenoff ($1785.25 in chips)
+Seat 5: oneplusone ($16692.94 in chips)
+Seat 6: TheMestresis ($500.00 in chips)
+Seat 9: DoublelegTD ($1696.56 in chips)
+oneplusone: posts small blind $25.00
+TheMestresis: posts big blind $50.00
+*** HOLE CARDS ***
+DoublelegTD: folds
+ninesevenoff: raises $50.00 to $100.00
+oneplusone: folds
+TheMestresis: raises $400.00 to $500.00 and is all-in
+ninesevenoff: folds
+Uncalled bet ($400.00) returned to TheMestresis
+TheMestresis collected $225.00 from pot
+TheMestresis: doesn't show hand
+*** SUMMARY ***
+Total pot $225.00 | Rake $0.00
+Seat 4: ninesevenoff (button) folded before Flop
+Seat 5: oneplusone (small blind) folded before Flop
+Seat 6: TheMestresis (big blind) collected ($225.00)
+Seat 9: DoublelegTD folded before Flop (didn't bet)
+
+PokerStars Hand #1335882904:  Hold'em No Limit ($25.00/$50.00 USD) - 2022/08/11 16:13:29 ET
+Table 'WPN_7 Day No Rathole 25/50 NLH 9-Max' 9-max Seat #5 is the button
+Seat 4: ninesevenoff ($1685.25 in chips)
+Seat 5: oneplusone ($16667.94 in chips)
+Seat 6: TheMestresis ($625.00 in chips)
+Seat 9: DoublelegTD ($1696.56 in chips)
+TheMestresis: posts small blind $25.00
+DoublelegTD: posts big blind $50.00
+*** HOLE CARDS ***
+ninesevenoff: raises $50.00 to $100.00
+oneplusone: raises $175.00 to $275.00
+TheMestresis: raises $350.00 to $625.00 and is all-in
+DoublelegTD: folds
+ninesevenoff: folds
+oneplusone: calls $350.00
+*** FLOP *** [As Kc 4d]
+*** TURN *** [As Kc 4d] [7s]
+*** RIVER *** [As Kc 4d 7s] [4h]
+*** SHOW DOWN ***
+TheMestresis: shows [Ah Qd]
+oneplusone: shows [Th Qh]
+TheMestresis collected $1397.75 from pot
+*** SUMMARY ***
+Total pot $1400.00 | Rake $2.25
+Board [As Kc 4d 7s 4h]
+Seat 4: ninesevenoff folded before Flop
+Seat 5: oneplusone (button) showed [Th Qh] and lost
+Seat 6: TheMestresis (small blind) showed [Ah Qd] and won ($1397.75)
+Seat 9: DoublelegTD (big blind) folded before Flop
+
+PokerStars Hand #1335883578:  Hold'em No Limit ($25.00/$50.00 USD) - 2022/08/11 16:14:14 ET
+Table 'WPN_7 Day No Rathole 25/50 NLH 9-Max' 9-max Seat #6 is the button
+Seat 4: ninesevenoff ($1585.25 in chips)
+Seat 5: oneplusone ($16042.94 in chips)
+Seat 6: TheMestresis ($1397.75 in chips)
+Seat 9: DoublelegTD ($1646.56 in chips)
+DoublelegTD: posts small blind $25.00
+ninesevenoff: posts big blind $50.00
+*** HOLE CARDS ***
+oneplusone: folds
+TheMestresis: folds
+DoublelegTD: folds
+Uncalled bet ($25.00) returned to ninesevenoff
+ninesevenoff collected $50.00 from pot
+ninesevenoff: doesn't show hand
+*** SUMMARY ***
+Total pot $50.00 | Rake $0.00
+Seat 4: ninesevenoff (big blind) collected ($50.00)
+Seat 5: oneplusone folded before Flop (didn't bet)
+Seat 6: TheMestresis (button) folded before Flop (didn't bet)
+Seat 9: DoublelegTD (small blind) folded before Flop
+
+PokerStars Hand #1335883756:  Hold'em No Limit ($25.00/$50.00 USD) - 2022/08/11 16:14:26 ET
+Table 'WPN_7 Day No Rathole 25/50 NLH 9-Max' 9-max Seat #9 is the button
+Seat 4: ninesevenoff ($1610.25 in chips)
+Seat 5: oneplusone ($16042.94 in chips)
+Seat 6: TheMestresis ($1397.75 in chips)
+Seat 9: DoublelegTD ($1621.56 in chips)
+ninesevenoff: posts small blind $25.00
+oneplusone: posts big blind $50.00
+*** HOLE CARDS ***
+TheMestresis: folds
+DoublelegTD: folds
+ninesevenoff: folds
+Uncalled bet ($25.00) returned to oneplusone
+oneplusone collected $50.00 from pot
+oneplusone: doesn't show hand
+*** SUMMARY ***
+Total pot $50.00 | Rake $0.00
+Seat 4: ninesevenoff (small blind) folded before Flop
+Seat 5: oneplusone (big blind) collected ($50.00)
+Seat 6: TheMestresis folded before Flop (didn't bet)
+Seat 9: DoublelegTD (button) folded before Flop (didn't bet)
+
+PokerStars Hand #1335883943:  Hold'em No Limit ($25.00/$50.00 USD) - 2022/08/11 16:14:38 ET
+Table 'WPN_7 Day No Rathole 25/50 NLH 9-Max' 9-max Seat #4 is the button
+Seat 4: ninesevenoff ($1585.25 in chips)
+Seat 5: oneplusone ($16067.94 in chips)
+Seat 6: TheMestresis ($1397.75 in chips)
+Seat 9: DoublelegTD ($1621.56 in chips)
+oneplusone: posts small blind $25.00
+TheMestresis: posts big blind $50.00
+*** HOLE CARDS ***
+DoublelegTD: folds
+ninesevenoff: folds
+oneplusone: raises $100.00 to $150.00
+TheMestresis: calls $100.00
+*** FLOP *** [Kh 8h Kd]
+oneplusone: checks
+TheMestresis: checks
+*** TURN *** [Kh 8h Kd] [4h]
+oneplusone: bets $99.00
+TheMestresis: folds
+Uncalled bet ($99.00) returned to oneplusone
+oneplusone collected $297.75 from pot
+oneplusone: doesn't show hand
+*** SUMMARY ***
+Total pot $300.00 | Rake $2.25
+Board [Kh 8h Kd 4h]
+Seat 4: ninesevenoff (button) folded before Flop (didn't bet)
+Seat 5: oneplusone (small blind) collected ($297.75)
+Seat 6: TheMestresis (big blind) folded on the Turn
+Seat 9: DoublelegTD folded before Flop (didn't bet)
+
+PokerStars Hand #1335884973:  Hold'em No Limit ($25.00/$50.00 USD) - 2022/08/11 16:15:48 ET
+Table 'WPN_7 Day No Rathole 25/50 NLH 9-Max' 9-max Seat #5 is the button
+Seat 4: ninesevenoff ($1585.25 in chips)
+Seat 5: oneplusone ($16215.69 in chips)
+Seat 6: TheMestresis ($1247.75 in chips)
+Seat 9: DoublelegTD ($1621.56 in chips)
+TheMestresis: posts small blind $25.00
+DoublelegTD: posts big blind $50.00
+*** HOLE CARDS ***
+ninesevenoff: folds
+oneplusone: folds
+TheMestresis: folds
+Uncalled bet ($25.00) returned to DoublelegTD
+DoublelegTD collected $50.00 from pot
+DoublelegTD: doesn't show hand
+*** SUMMARY ***
+Total pot $50.00 | Rake $0.00
+Seat 4: ninesevenoff folded before Flop (didn't bet)
+Seat 5: oneplusone (button) folded before Flop (didn't bet)
+Seat 6: TheMestresis (small blind) folded before Flop
+Seat 9: DoublelegTD (big blind) collected ($50.00)
+
+PokerStars Hand #1335885125:  Hold'em No Limit ($25.00/$50.00 USD) - 2022/08/11 16:15:58 ET
+Table 'WPN_7 Day No Rathole 25/50 NLH 9-Max' 9-max Seat #6 is the button
+Seat 4: ninesevenoff ($1585.25 in chips)
+Seat 5: oneplusone ($16215.69 in chips)
+Seat 6: TheMestresis ($1222.75 in chips)
+Seat 9: DoublelegTD ($1646.56 in chips)
+DoublelegTD: posts small blind $25.00
+ninesevenoff: posts big blind $50.00
+*** HOLE CARDS ***
+oneplusone: folds
+TheMestresis: folds
+DoublelegTD: raises $75.00 to $125.00
+ninesevenoff: folds
+Uncalled bet ($75.00) returned to DoublelegTD
+DoublelegTD collected $100.00 from pot
+DoublelegTD: doesn't show hand
+*** SUMMARY ***
+Total pot $100.00 | Rake $0.00
+Seat 4: ninesevenoff (big blind) folded before Flop
+Seat 5: oneplusone folded before Flop (didn't bet)
+Seat 6: TheMestresis (button) folded before Flop (didn't bet)
+Seat 9: DoublelegTD (small blind) collected ($100.00)
+
+PokerStars Hand #1335885691:  Hold'em No Limit ($25.00/$50.00 USD) - 2022/08/11 16:16:39 ET
+Table 'WPN_7 Day No Rathole 25/50 NLH 9-Max' 9-max Seat #9 is the button
+Seat 4: ninesevenoff ($1535.25 in chips)
+Seat 5: oneplusone ($16215.69 in chips)
+Seat 6: TheMestresis ($1222.75 in chips)
+Seat 7: Ovalete ($525.00 in chips)
+Seat 9: DoublelegTD ($1696.56 in chips)
+ninesevenoff: posts small blind $25.00
+oneplusone: posts big blind $50.00
+*** HOLE CARDS ***
+TheMestresis: folds
+DoublelegTD: folds
+ninesevenoff: folds
+Uncalled bet ($25.00) returned to oneplusone
+oneplusone collected $50.00 from pot
+oneplusone: doesn't show hand
+*** SUMMARY ***
+Total pot $50.00 | Rake $0.00
+Seat 4: ninesevenoff (small blind) folded before Flop
+Seat 5: oneplusone (big blind) collected ($50.00)
+Seat 6: TheMestresis folded before Flop (didn't bet)
+Seat 9: DoublelegTD (button) folded before Flop (didn't bet)
+
+PokerStars Hand #1335885936:  Hold'em No Limit ($25.00/$50.00 USD) - 2022/08/11 16:16:55 ET
+Table 'WPN_7 Day No Rathole 25/50 NLH 9-Max' 9-max Seat #4 is the button
+Seat 4: ninesevenoff ($1510.25 in chips)
+Seat 5: oneplusone ($16240.69 in chips)
+Seat 6: TheMestresis ($1222.75 in chips)
+Seat 7: Ovalete ($525.00 in chips)
+Seat 9: DoublelegTD ($1696.56 in chips)
+oneplusone: posts small blind $25.00
+TheMestresis: posts big blind $50.00
+*** HOLE CARDS ***
+DoublelegTD: folds
+ninesevenoff: raises $50.00 to $100.00
+oneplusone: raises $225.00 to $325.00
+TheMestresis: folds
+ninesevenoff: folds
+Uncalled bet ($225.00) returned to oneplusone
+oneplusone collected $250.00 from pot
+oneplusone: doesn't show hand
+*** SUMMARY ***
+Total pot $250.00 | Rake $0.00
+Seat 4: ninesevenoff (button) folded before Flop
+Seat 5: oneplusone (small blind) collected ($250.00)
+Seat 6: TheMestresis (big blind) folded before Flop
+Seat 9: DoublelegTD folded before Flop (didn't bet)
+
+PokerStars Hand #1335886325:  Hold'em No Limit ($25.00/$50.00 USD) - 2022/08/11 16:17:22 ET
+Table 'WPN_7 Day No Rathole 25/50 NLH 9-Max' 9-max Seat #5 is the button
+Seat 4: ninesevenoff ($1410.25 in chips)
+Seat 5: oneplusone ($16390.69 in chips)
+Seat 6: TheMestresis ($1172.75 in chips)
+Seat 7: Ovalete ($525.00 in chips)
+Seat 9: DoublelegTD ($1696.56 in chips)
+TheMestresis: posts small blind $25.00
+Ovalete: posts big blind $50.00
+*** HOLE CARDS ***
+DoublelegTD: raises $50.00 to $100.00
+ninesevenoff: folds
+oneplusone: raises $200.00 to $300.00
+TheMestresis: folds
+Ovalete: folds
+DoublelegTD: calls $200.00
+*** FLOP *** [4h 6d Qs]
+DoublelegTD: checks
+oneplusone: bets $93.75
+DoublelegTD: raises $215.62 to $309.37
+oneplusone: calls $215.62
+*** TURN *** [4h 6d Qs] [Js]
+DoublelegTD: checks
+oneplusone: checks
+*** RIVER *** [4h 6d Qs Js] [3h]
+DoublelegTD: checks
+oneplusone: checks
+*** SHOW DOWN ***
+DoublelegTD: shows [Jd Kd]
+oneplusone: mucks hand
+DoublelegTD collected $1290.74 from pot
+*** SUMMARY ***
+Total pot $1293.74 | Rake $3.00
+Board [4h 6d Qs Js 3h]
+Seat 4: ninesevenoff folded before Flop (didn't bet)
+Seat 5: oneplusone (button) mucked
+Seat 6: TheMestresis (small blind) folded before Flop
+Seat 7: Ovalete (big blind) folded before Flop
+Seat 9: DoublelegTD showed [Jd Kd] and won ($1290.74)
+
+PokerStars Hand #1335887892:  Hold'em No Limit ($25.00/$50.00 USD) - 2022/08/11 16:19:09 ET
+Table 'WPN_7 Day No Rathole 25/50 NLH 9-Max' 9-max Seat #6 is the button
+Seat 4: ninesevenoff ($1410.25 in chips)
+Seat 5: oneplusone ($15781.32 in chips)
+Seat 6: TheMestresis ($1147.75 in chips)
+Seat 7: Ovalete ($500.00 in chips)
+Seat 9: DoublelegTD ($2377.93 in chips)
+Ovalete: posts small blind $25.00
+DoublelegTD: posts big blind $50.00
+*** HOLE CARDS ***
+ninesevenoff: raises $50.00 to $100.00
+oneplusone: folds
+TheMestresis: folds
+Ovalete: folds
+DoublelegTD: calls $50.00
+*** FLOP *** [Jd Qd Tc]
+DoublelegTD: checks
+ninesevenoff: bets $183.20
+DoublelegTD: calls $183.20
+*** TURN *** [Jd Qd Tc] [Ad]
+DoublelegTD: checks
+ninesevenoff: checks
+*** RIVER *** [Jd Qd Tc Ad] [7s]
+DoublelegTD: checks
+ninesevenoff: checks
+*** SHOW DOWN ***
+ninesevenoff: shows [Js Td]
+DoublelegTD: mucks hand
+ninesevenoff collected $588.40 from pot
+*** SUMMARY ***
+Total pot $591.40 | Rake $3.00
+Board [Jd Qd Tc Ad 7s]
+Seat 4: ninesevenoff showed [Js Td] and won ($588.40)
+Seat 5: oneplusone folded before Flop (didn't bet)
+Seat 6: TheMestresis (button) folded before Flop (didn't bet)
+Seat 7: Ovalete (small blind) folded before Flop
+Seat 9: DoublelegTD (big blind) mucked
+
+PokerStars Hand #1335888767:  Hold'em No Limit ($25.00/$50.00 USD) - 2022/08/11 16:20:08 ET
+Table 'WPN_7 Day No Rathole 25/50 NLH 9-Max' 9-max Seat #7 is the button
+Seat 4: ninesevenoff ($1715.45 in chips)
+Seat 5: oneplusone ($15781.32 in chips)
+Seat 6: TheMestresis ($1147.75 in chips)
+Seat 7: Ovalete ($500.00 in chips)
+Seat 9: DoublelegTD ($2094.73 in chips)
+DoublelegTD: posts small blind $25.00
+ninesevenoff: posts big blind $50.00
+*** HOLE CARDS ***
+oneplusone: folds
+TheMestresis: folds
+Ovalete: folds
+DoublelegTD: folds
+Uncalled bet ($25.00) returned to ninesevenoff
+ninesevenoff collected $50.00 from pot
+ninesevenoff: doesn't show hand
+*** SUMMARY ***
+Total pot $50.00 | Rake $0.00
+Seat 4: ninesevenoff (big blind) collected ($50.00)
+Seat 5: oneplusone folded before Flop (didn't bet)
+Seat 6: TheMestresis folded before Flop (didn't bet)
+Seat 7: Ovalete (button) folded before Flop (didn't bet)
+Seat 9: DoublelegTD (small blind) folded before Flop
+
+PokerStars Hand #1335889032:  Hold'em No Limit ($25.00/$50.00 USD) - 2022/08/11 16:20:26 ET
+Table 'WPN_7 Day No Rathole 25/50 NLH 9-Max' 9-max Seat #9 is the button
+Seat 4: ninesevenoff ($1740.45 in chips)
+Seat 5: oneplusone ($15781.32 in chips)
+Seat 6: TheMestresis ($1147.75 in chips)
+Seat 7: Ovalete ($500.00 in chips)
+Seat 9: DoublelegTD ($2069.73 in chips)
+ninesevenoff: posts small blind $25.00
+oneplusone: posts big blind $50.00
+*** HOLE CARDS ***
+TheMestresis: folds
+Ovalete: folds
+DoublelegTD: raises $50.00 to $100.00
+ninesevenoff: folds
+oneplusone: folds
+Uncalled bet ($50.00) returned to DoublelegTD
+DoublelegTD collected $125.00 from pot
+DoublelegTD: doesn't show hand
+*** SUMMARY ***
+Total pot $125.00 | Rake $0.00
+Seat 4: ninesevenoff (small blind) folded before Flop
+Seat 5: oneplusone (big blind) folded before Flop
+Seat 6: TheMestresis folded before Flop (didn't bet)
+Seat 7: Ovalete folded before Flop (didn't bet)
+Seat 9: DoublelegTD (button) collected ($125.00)
+
+PokerStars Hand #1335889491:  Hold'em No Limit ($25.00/$50.00 USD) - 2022/08/11 16:20:56 ET
+Table 'WPN_7 Day No Rathole 25/50 NLH 9-Max' 9-max Seat #4 is the button
+Seat 4: ninesevenoff ($1715.45 in chips)
+Seat 5: oneplusone ($15731.32 in chips)
+Seat 7: Ovalete ($500.00 in chips)
+Seat 9: DoublelegTD ($2144.73 in chips)
+oneplusone: posts small blind $25.00
+Ovalete: posts big blind $50.00
+*** HOLE CARDS ***
+DoublelegTD: raises $50.00 to $100.00
+ninesevenoff: raises $150.00 to $250.00
+oneplusone: folds
+Ovalete: folds
+DoublelegTD: calls $150.00
+*** FLOP *** [7d 6d 7c]
+DoublelegTD: checks
+ninesevenoff: bets $268.65
+DoublelegTD: raises $1626.08 to $1894.73 and is all-in
+ninesevenoff: folds
+Uncalled bet ($1626.08) returned to DoublelegTD
+DoublelegTD collected $1110.05 from pot
+DoublelegTD: doesn't show hand
+*** SUMMARY ***
+Total pot $1112.30 | Rake $2.25
+Board [7d 6d 7c]
+Seat 4: ninesevenoff (button) folded on the Flop
+Seat 5: oneplusone (small blind) folded before Flop
+Seat 7: Ovalete (big blind) folded before Flop
+Seat 9: DoublelegTD collected ($1110.05)
+
+PokerStars Hand #1335890457:  Hold'em No Limit ($25.00/$50.00 USD) - 2022/08/11 16:21:57 ET
+Table 'WPN_7 Day No Rathole 25/50 NLH 9-Max' 9-max Seat #5 is the button
+Seat 4: ninesevenoff ($1196.80 in chips)
+Seat 5: oneplusone ($15706.32 in chips)
+Seat 7: Ovalete ($500.00 in chips)
+Seat 9: DoublelegTD ($2736.13 in chips)
+Ovalete: posts small blind $25.00
+DoublelegTD: posts big blind $50.00
+*** HOLE CARDS ***
+ninesevenoff: raises $50.00 to $100.00
+oneplusone: folds
+Ovalete: folds
+DoublelegTD: folds
+Uncalled bet ($50.00) returned to ninesevenoff
+ninesevenoff collected $125.00 from pot
+ninesevenoff: doesn't show hand
+*** SUMMARY ***
+Total pot $125.00 | Rake $0.00
+Seat 4: ninesevenoff collected ($125.00)
+Seat 5: oneplusone (button) folded before Flop (didn't bet)
+Seat 7: Ovalete (small blind) folded before Flop
+Seat 9: DoublelegTD (big blind) folded before Flop
+
+PokerStars Hand #1335890757:  Hold'em No Limit ($25.00/$50.00 USD) - 2022/08/11 16:22:17 ET
+Table 'WPN_7 Day No Rathole 25/50 NLH 9-Max' 9-max Seat #7 is the button
+Seat 4: ninesevenoff ($1271.80 in chips)
+Seat 5: oneplusone ($15706.32 in chips)
+Seat 7: Ovalete ($500.00 in chips)
+Seat 9: DoublelegTD ($2686.13 in chips)
+DoublelegTD: posts small blind $25.00
+ninesevenoff: posts big blind $50.00
+*** HOLE CARDS ***
+oneplusone: folds
+Ovalete: folds
+DoublelegTD: raises $60.00 to $110.00
+ninesevenoff: calls $60.00
+*** FLOP *** [Qd 8c Kd]
+DoublelegTD: bets $55.00
+ninesevenoff: calls $55.00
+*** TURN *** [Qd 8c Kd] [4d]
+DoublelegTD: bets $247.50
+ninesevenoff: calls $247.50
+*** RIVER *** [Qd 8c Kd 4d] [3s]
+DoublelegTD: bets $2273.63 and is all-in
+ninesevenoff: calls $859.30 and is all-in
+Uncalled bet ($1414.33) returned to DoublelegTD
+*** SHOW DOWN ***
+DoublelegTD: shows [Qc Qh]
+ninesevenoff: shows [Js 8s]
+DoublelegTD collected $2541.35 from pot
+*** SUMMARY ***
+Total pot $2543.60 | Rake $2.25
+Board [Qd 8c Kd 4d 3s]
+Seat 4: ninesevenoff (big blind) showed [Js 8s] and lost
+Seat 5: oneplusone folded before Flop (didn't bet)
+Seat 7: Ovalete (button) folded before Flop (didn't bet)
+Seat 9: DoublelegTD (small blind) showed [Qc Qh] and won ($2541.35)
+
+PokerStars Hand #1335892120:  Hold'em No Limit ($25.00/$50.00 USD) - 2022/08/11 16:23:42 ET
+Table 'WPN_7 Day No Rathole 25/50 NLH 9-Max' 9-max Seat #9 is the button
+Seat 5: oneplusone ($15706.32 in chips)
+Seat 7: Ovalete ($500.00 in chips)
+Seat 9: DoublelegTD ($3955.68 in chips)
+oneplusone: posts big blind $50.00
+*** HOLE CARDS ***
+Ovalete: folds
+DoublelegTD: raises $50.00 to $100.00
+oneplusone: raises $275.00 to $375.00
+DoublelegTD: calls $275.00
+*** FLOP *** [6d 6h Th]
+oneplusone: checks
+DoublelegTD: checks
+*** TURN *** [6d 6h Th] [6s]
+oneplusone: checks
+DoublelegTD: checks
+*** RIVER *** [6d 6h Th 6s] [Jh]
+oneplusone: bets $762.50
+DoublelegTD: folds
+Uncalled bet ($762.50) returned to oneplusone
+oneplusone collected $748.25 from pot
+oneplusone: doesn't show hand
+*** SUMMARY ***
+Total pot $750.00 | Rake $1.75
+Board [6d 6h Th 6s Jh]
+Seat 5: oneplusone (big blind) collected ($748.25)
+Seat 7: Ovalete folded before Flop (didn't bet)
+Seat 9: DoublelegTD (button) folded on the River
+
+PokerStars Hand #1335893756:  Hold'em No Limit ($25.00/$50.00 USD) - 2022/08/11 16:25:28 ET
+Table 'WPN_7 Day No Rathole 25/50 NLH 9-Max' 9-max Seat #4 is the button
+Seat 4: ninesevenoff ($500.00 in chips)
+Seat 5: oneplusone ($16079.57 in chips)
+Seat 7: Ovalete ($500.00 in chips)
+Seat 9: DoublelegTD ($3580.68 in chips)
+oneplusone: posts small blind $25.00
+DoublelegTD: posts big blind $50.00
+*** HOLE CARDS ***
+oneplusone: raises $100.00 to $150.00
+DoublelegTD: raises $375.00 to $525.00
+oneplusone: folds
+Uncalled bet ($375.00) returned to DoublelegTD
+DoublelegTD collected $300.00 from pot
+DoublelegTD: doesn't show hand
+*** SUMMARY ***
+Total pot $300.00 | Rake $0.00
+Seat 5: oneplusone (small blind) folded before Flop
+Seat 9: DoublelegTD (big blind) collected ($300.00)
+
+PokerStars Hand #1335894179:  Hold'em No Limit ($25.00/$50.00 USD) - 2022/08/11 16:25:57 ET
+Table 'WPN_7 Day No Rathole 25/50 NLH 9-Max' 9-max Seat #5 is the button
+Seat 4: ninesevenoff ($500.00 in chips)
+Seat 5: oneplusone ($15929.57 in chips)
+Seat 9: DoublelegTD ($3730.68 in chips)
+DoublelegTD: posts small blind $25.00
+ninesevenoff: posts big blind $50.00
+*** HOLE CARDS ***
+oneplusone: folds
+DoublelegTD: raises $550.00 to $600.00
+ninesevenoff: calls $450.00 and is all-in
+Uncalled bet ($100.00) returned to DoublelegTD
+*** FLOP *** [Qd 7h 9h]
+*** TURN *** [Qd 7h 9h] [3h]
+*** RIVER *** [Qd 7h 9h 3h] [Jd]
+*** SHOW DOWN ***
+ninesevenoff: shows [9d Qs]
+DoublelegTD: shows [Ac 8s]
+ninesevenoff collected $998.25 from pot
+*** SUMMARY ***
+Total pot $1000.00 | Rake $1.75
+Board [Qd 7h 9h 3h Jd]
+Seat 4: ninesevenoff (big blind) showed [9d Qs] and won ($998.25)
+Seat 5: oneplusone (button) folded before Flop (didn't bet)
+Seat 9: DoublelegTD (small blind) showed [Ac 8s] and lost
+
+PokerStars Hand #1335894801:  Hold'em No Limit ($25.00/$50.00 USD) - 2022/08/11 16:26:36 ET
+Table 'WPN_7 Day No Rathole 25/50 NLH 9-Max' 9-max Seat #4 is the button
+Seat 4: ninesevenoff ($998.25 in chips)
+Seat 9: DoublelegTD ($3230.68 in chips)
+ninesevenoff: posts small blind $25.00
+DoublelegTD: posts big blind $50.00
+*** HOLE CARDS ***
+ninesevenoff: folds
+Uncalled bet ($25.00) returned to DoublelegTD
+DoublelegTD collected $50.00 from pot
+DoublelegTD: doesn't show hand
+*** SUMMARY ***
+Total pot $50.00 | Rake $0.00
+Seat 4: ninesevenoff (button) (small blind) folded before Flop
+Seat 9: DoublelegTD (big blind) collected ($50.00)
+
+PokerStars Hand #1335894943:  Hold'em No Limit ($25.00/$50.00 USD) - 2022/08/11 16:26:45 ET
+Table 'WPN_7 Day No Rathole 25/50 NLH 9-Max' 9-max Seat #9 is the button
+Seat 4: ninesevenoff ($973.25 in chips)
+Seat 9: DoublelegTD ($3255.68 in chips)
+DoublelegTD: posts small blind $25.00
+ninesevenoff: posts big blind $50.00
+*** HOLE CARDS ***
+DoublelegTD: calls $25.00
+ninesevenoff: checks
+*** FLOP *** [Qd 9s 9c]
+ninesevenoff: checks
+DoublelegTD: bets $50.00
+ninesevenoff: calls $50.00
+*** TURN *** [Qd 9s 9c] [4h]
+ninesevenoff: checks
+DoublelegTD: checks
+*** RIVER *** [Qd 9s 9c 4h] [Kd]
+ninesevenoff: bets $169.25
+DoublelegTD: folds
+Uncalled bet ($169.25) returned to ninesevenoff
+ninesevenoff collected $198.75 from pot
+ninesevenoff: doesn't show hand
+*** SUMMARY ***
+Total pot $200.00 | Rake $1.25
+Board [Qd 9s 9c 4h Kd]
+Seat 4: ninesevenoff (big blind) collected ($198.75)
+Seat 9: DoublelegTD (button) (small blind) folded on the River
+
+PokerStars Hand #1335895747:  Hold'em No Limit ($25.00/$50.00 USD) - 2022/08/11 16:27:38 ET
+Table 'WPN_7 Day No Rathole 25/50 NLH 9-Max' 9-max Seat #4 is the button
+Seat 4: ninesevenoff ($1072.00 in chips)
+Seat 9: DoublelegTD ($3155.68 in chips)
+ninesevenoff: posts small blind $25.00
+DoublelegTD: posts big blind $50.00
+*** HOLE CARDS ***
+ninesevenoff: calls $25.00
+DoublelegTD: raises $125.00 to $175.00
+ninesevenoff: folds
+Uncalled bet ($125.00) returned to DoublelegTD
+DoublelegTD collected $100.00 from pot
+DoublelegTD: doesn't show hand
+*** SUMMARY ***
+Total pot $100.00 | Rake $0.00
+Seat 4: ninesevenoff (button) (small blind) folded before Flop
+Seat 9: DoublelegTD (big blind) collected ($100.00)
+
+PokerStars Hand #1335896191:  Hold'em No Limit ($25.00/$50.00 USD) - 2022/08/11 16:28:07 ET
+Table 'WPN_7 Day No Rathole 25/50 NLH 9-Max' 9-max Seat #9 is the button
+Seat 4: ninesevenoff ($1022.00 in chips)
+Seat 9: DoublelegTD ($3205.68 in chips)
+DoublelegTD: posts small blind $25.00
+ninesevenoff: posts big blind $50.00
+*** HOLE CARDS ***
+DoublelegTD: raises $3155.68 to $3205.68 and is all-in
+ninesevenoff: folds
+Uncalled bet ($3155.68) returned to DoublelegTD
+DoublelegTD collected $100.00 from pot
+DoublelegTD: doesn't show hand
+*** SUMMARY ***
+Total pot $100.00 | Rake $0.00
+Seat 4: ninesevenoff (big blind) folded before Flop
+Seat 9: DoublelegTD (button) (small blind) collected ($100.00)
+
+PokerStars Hand #1335896382:  Hold'em No Limit ($25.00/$50.00 USD) - 2022/08/11 16:28:19 ET
+Table 'WPN_7 Day No Rathole 25/50 NLH 9-Max' 9-max Seat #4 is the button
+Seat 4: ninesevenoff ($972.00 in chips)
+Seat 9: DoublelegTD ($3255.68 in chips)
+ninesevenoff: posts small blind $25.00
+DoublelegTD: posts big blind $50.00
+*** HOLE CARDS ***
+ninesevenoff: raises $50.00 to $100.00
+DoublelegTD: calls $50.00
+*** FLOP *** [7s 9h As]
+DoublelegTD: checks
+ninesevenoff: bets $119.25
+DoublelegTD: folds
+Uncalled bet ($119.25) returned to ninesevenoff
+ninesevenoff collected $198.75 from pot
+ninesevenoff: doesn't show hand
+*** SUMMARY ***
+Total pot $200.00 | Rake $1.25
+Board [7s 9h As]
+Seat 4: ninesevenoff (button) (small blind) collected ($198.75)
+Seat 9: DoublelegTD (big blind) folded on the Flop
+
+PokerStars Hand #1335896877:  Hold'em No Limit ($25.00/$50.00 USD) - 2022/08/11 16:28:53 ET
+Table 'WPN_7 Day No Rathole 25/50 NLH 9-Max' 9-max Seat #9 is the button
+Seat 4: ninesevenoff ($1070.75 in chips)
+Seat 9: DoublelegTD ($3155.68 in chips)
+DoublelegTD: posts small blind $25.00
+ninesevenoff: posts big blind $50.00
+*** HOLE CARDS ***
+DoublelegTD: raises $50.00 to $100.00
+ninesevenoff: raises $970.75 to $1070.75 and is all-in
+DoublelegTD: folds
+Uncalled bet ($970.75) returned to ninesevenoff
+ninesevenoff collected $200.00 from pot
+ninesevenoff: doesn't show hand
+*** SUMMARY ***
+Total pot $200.00 | Rake $0.00
+Seat 4: ninesevenoff (big blind) collected ($200.00)
+Seat 9: DoublelegTD (button) (small blind) folded before Flop
+
+PokerStars Hand #1335897222:  Hold'em No Limit ($25.00/$50.00 USD) - 2022/08/11 16:29:16 ET
+Table 'WPN_7 Day No Rathole 25/50 NLH 9-Max' 9-max Seat #4 is the button
+Seat 4: ninesevenoff ($1170.75 in chips)
+Seat 9: DoublelegTD ($3055.68 in chips)
+ninesevenoff: posts small blind $25.00
+DoublelegTD: posts big blind $50.00
+*** HOLE CARDS ***
+ninesevenoff: folds
+Uncalled bet ($25.00) returned to DoublelegTD
+DoublelegTD collected $50.00 from pot
+DoublelegTD: doesn't show hand
+*** SUMMARY ***
+Total pot $50.00 | Rake $0.00
+Seat 4: ninesevenoff (button) (small blind) folded before Flop
+Seat 9: DoublelegTD (big blind) collected ($50.00)
+
+PokerStars Hand #1335897340:  Hold'em No Limit ($25.00/$50.00 USD) - 2022/08/11 16:29:25 ET
+Table 'WPN_7 Day No Rathole 25/50 NLH 9-Max' 9-max Seat #9 is the button
+Seat 4: ninesevenoff ($1145.75 in chips)
+Seat 9: DoublelegTD ($3080.68 in chips)
+DoublelegTD: posts small blind $25.00
+ninesevenoff: posts big blind $50.00
+*** HOLE CARDS ***
+DoublelegTD: calls $25.00
+ninesevenoff: checks
+*** FLOP *** [7d Qh Js]
+ninesevenoff: checks
+DoublelegTD: checks
+*** TURN *** [7d Qh Js] [Ad]
+ninesevenoff: checks
+DoublelegTD: checks
+*** RIVER *** [7d Qh Js Ad] [3h]
+ninesevenoff: bets $75.00
+DoublelegTD: calls $75.00
+*** SHOW DOWN ***
+ninesevenoff: shows [Qs 3s]
+DoublelegTD: mucks hand
+ninesevenoff collected $248.75 from pot
+*** SUMMARY ***
+Total pot $250.00 | Rake $1.25
+Board [7d Qh Js Ad 3h]
+Seat 4: ninesevenoff (big blind) showed [Qs 3s] and won ($248.75)
+Seat 9: DoublelegTD (button) (small blind) mucked
+
+PokerStars Hand #1335897969:  Hold'em No Limit ($25.00/$50.00 USD) - 2022/08/11 16:30:07 ET
+Table 'WPN_7 Day No Rathole 25/50 NLH 9-Max' 9-max Seat #4 is the button
+Seat 4: ninesevenoff ($1269.50 in chips)
+Seat 9: DoublelegTD ($2955.68 in chips)
+ninesevenoff: posts small blind $25.00
+DoublelegTD: posts big blind $50.00
+*** HOLE CARDS ***
+ninesevenoff: raises $50.00 to $100.00
+DoublelegTD: raises $200.00 to $300.00
+ninesevenoff: calls $200.00
+*** FLOP *** [5s 2h Ah]
+DoublelegTD: bets $125.00
+ninesevenoff: folds
+Uncalled bet ($125.00) returned to DoublelegTD
+DoublelegTD collected $598.75 from pot
+DoublelegTD: doesn't show hand
+*** SUMMARY ***
+Total pot $600.00 | Rake $1.25
+Board [5s 2h Ah]
+Seat 4: ninesevenoff (button) (small blind) folded on the Flop
+Seat 9: DoublelegTD (big blind) collected ($598.75)
+
+PokerStars Hand #1335898431:  Hold'em No Limit ($25.00/$50.00 USD) - 2022/08/11 16:30:35 ET
+Table 'WPN_7 Day No Rathole 25/50 NLH 9-Max' 9-max Seat #9 is the button
+Seat 4: ninesevenoff ($969.50 in chips)
+Seat 9: DoublelegTD ($3254.43 in chips)
+DoublelegTD: posts small blind $25.00
+ninesevenoff: posts big blind $50.00
+*** HOLE CARDS ***
+DoublelegTD: calls $25.00
+ninesevenoff: checks
+*** FLOP *** [9h 2c 6d]
+ninesevenoff: checks
+DoublelegTD: bets $50.00
+ninesevenoff: folds
+Uncalled bet ($50.00) returned to DoublelegTD
+DoublelegTD collected $98.75 from pot
+DoublelegTD: doesn't show hand
+*** SUMMARY ***
+Total pot $100.00 | Rake $1.25
+Board [9h 2c 6d]
+Seat 4: ninesevenoff (big blind) folded on the Flop
+Seat 9: DoublelegTD (button) (small blind) collected ($98.75)
+
+PokerStars Hand #1335898859:  Hold'em No Limit ($25.00/$50.00 USD) - 2022/08/11 16:31:05 ET
+Table 'WPN_7 Day No Rathole 25/50 NLH 9-Max' 9-max Seat #4 is the button
+Seat 4: ninesevenoff ($919.50 in chips)
+Seat 9: DoublelegTD ($3303.18 in chips)
+ninesevenoff: posts small blind $25.00
+DoublelegTD: posts big blind $50.00
+*** HOLE CARDS ***
+ninesevenoff: folds
+Uncalled bet ($25.00) returned to DoublelegTD
+DoublelegTD collected $50.00 from pot
+DoublelegTD: doesn't show hand
+*** SUMMARY ***
+Total pot $50.00 | Rake $0.00
+Seat 4: ninesevenoff (button) (small blind) folded before Flop
+Seat 9: DoublelegTD (big blind) collected ($50.00)
+
+PokerStars Hand #1335899096:  Hold'em No Limit ($25.00/$50.00 USD) - 2022/08/11 16:31:20 ET
+Table 'WPN_7 Day No Rathole 25/50 NLH 9-Max' 9-max Seat #9 is the button
+Seat 4: ninesevenoff ($894.50 in chips)
+Seat 9: DoublelegTD ($3328.18 in chips)
+DoublelegTD: posts small blind $25.00
+ninesevenoff: posts big blind $50.00
+*** HOLE CARDS ***
+DoublelegTD: raises $50.00 to $100.00
+ninesevenoff: raises $200.00 to $300.00
+DoublelegTD: calls $200.00
+*** FLOP *** [3d Jc Kd]
+ninesevenoff: bets $149.68
+DoublelegTD: calls $149.68
+*** TURN *** [3d Jc Kd] [4c]
+ninesevenoff: bets $444.82 and is all-in
+DoublelegTD: calls $444.82
+*** RIVER *** [3d Jc Kd 4c] [4d]
+*** SHOW DOWN ***
+DoublelegTD: shows [As Ac]
+ninesevenoff: shows [Kh 5s]
+DoublelegTD collected $1787.75 from pot
+*** SUMMARY ***
+Total pot $1789.00 | Rake $1.25
+Board [3d Jc Kd 4c 4d]
+Seat 4: ninesevenoff (big blind) showed [Kh 5s] and lost
+Seat 9: DoublelegTD (button) (small blind) showed [As Ac] and won ($1787.75)
+
+PokerStars Hand #1335571530:  Hold'em No Limit ($25.00/$50.00 USD) - 2022/08/11 05:29:44 ET
+Table 'WPN_7 Day No Rathole 25/50 NLH 9-Max' 9-max Seat #1 is the button
+Seat 1: MrCashIsBACK ($525.00 in chips)
+Seat 4: Intercooler ($4046.11 in chips)
+MrCashIsBACK: posts small blind $25.00
+Intercooler: posts big blind $50.00
+*** HOLE CARDS ***
+MrCashIsBACK: raises $475.00 to $525.00 and is all-in
+Intercooler: folds
+Uncalled bet ($475.00) returned to MrCashIsBACK
+MrCashIsBACK collected $100.00 from pot
+MrCashIsBACK: doesn't show hand
+*** SUMMARY ***
+Total pot $100.00 | Rake $0.00
+Seat 1: MrCashIsBACK (button) (small blind) collected ($100.00)
+Seat 4: Intercooler (big blind) folded before Flop
+
+PokerStars Hand #1335571775:  Hold'em No Limit ($25.00/$50.00 USD) - 2022/08/11 05:30:02 ET
+Table 'WPN_7 Day No Rathole 25/50 NLH 9-Max' 9-max Seat #4 is the button
+Seat 1: MrCashIsBACK ($575.00 in chips)
+Seat 4: Intercooler ($3996.11 in chips)
+Intercooler: posts small blind $25.00
+MrCashIsBACK: posts big blind $50.00
+*** HOLE CARDS ***
+Intercooler: folds
+Uncalled bet ($25.00) returned to MrCashIsBACK
+MrCashIsBACK collected $50.00 from pot
+MrCashIsBACK: doesn't show hand
+*** SUMMARY ***
+Total pot $50.00 | Rake $0.00
+Seat 1: MrCashIsBACK (big blind) collected ($50.00)
+Seat 4: Intercooler (button) (small blind) folded before Flop
+
+PokerStars Hand #1335571926:  Hold'em No Limit ($25.00/$50.00 USD) - 2022/08/11 05:30:13 ET
+Table 'WPN_7 Day No Rathole 25/50 NLH 9-Max' 9-max Seat #1 is the button
+Seat 1: MrCashIsBACK ($600.00 in chips)
+Seat 4: Intercooler ($3971.11 in chips)
+MrCashIsBACK: posts small blind $25.00
+Intercooler: posts big blind $50.00
+*** HOLE CARDS ***
+MrCashIsBACK: raises $550.00 to $600.00 and is all-in
+Intercooler: calls $550.00
+*** FLOP *** [8s 9h 3h]
+*** TURN *** [8s 9h 3h] [Ad]
+*** RIVER *** [8s 9h 3h Ad] [3d]
+*** SHOW DOWN ***
+MrCashIsBACK: shows [2d Ac]
+Intercooler: shows [Tc Td]
+MrCashIsBACK collected $1198.75 from pot
+*** SUMMARY ***
+Total pot $1200.00 | Rake $1.25
+Board [8s 9h 3h Ad 3d]
+Seat 1: MrCashIsBACK (button) (small blind) showed [2d Ac] and won ($1198.75)
+Seat 4: Intercooler (big blind) showed [Tc Td] and lost
+
+PokerStars Hand #1335570589:  Hold'em No Limit ($25.00/$50.00 USD) - 2022/08/11 05:28:32 ET
+Table 'WPN_7 Day No Rathole 25/50 NLH 9-Max' 9-max Seat #1 is the button
+Seat 1: MrCashIsBACK ($450.00 in chips)
+Seat 4: Intercooler ($4121.11 in chips)
+MrCashIsBACK: posts small blind $25.00
+Intercooler: posts big blind $50.00
+*** HOLE CARDS ***
+MrCashIsBACK: folds
+Uncalled bet ($25.00) returned to Intercooler
+Intercooler collected $50.00 from pot
+Intercooler: doesn't show hand
+*** SUMMARY ***
+Total pot $50.00 | Rake $0.00
+Seat 1: MrCashIsBACK (button) (small blind) folded before Flop
+Seat 4: Intercooler (big blind) collected ($50.00)
+
+PokerStars Hand #1335570710:  Hold'em No Limit ($25.00/$50.00 USD) - 2022/08/11 05:28:42 ET
+Table 'WPN_7 Day No Rathole 25/50 NLH 9-Max' 9-max Seat #4 is the button
+Seat 1: MrCashIsBACK ($425.00 in chips)
+Seat 4: Intercooler ($4146.11 in chips)
+Intercooler: posts small blind $25.00
+MrCashIsBACK: posts big blind $50.00
+*** HOLE CARDS ***
+Intercooler: folds
+Uncalled bet ($25.00) returned to MrCashIsBACK
+MrCashIsBACK collected $50.00 from pot
+MrCashIsBACK: doesn't show hand
+*** SUMMARY ***
+Total pot $50.00 | Rake $0.00
+Seat 1: MrCashIsBACK (big blind) collected ($50.00)
+Seat 4: Intercooler (button) (small blind) folded before Flop
+
+PokerStars Hand #1335570919:  Hold'em No Limit ($25.00/$50.00 USD) - 2022/08/11 05:28:57 ET
+Table 'WPN_7 Day No Rathole 25/50 NLH 9-Max' 9-max Seat #1 is the button
+Seat 1: MrCashIsBACK ($450.00 in chips)
+Seat 4: Intercooler ($4121.11 in chips)
+MrCashIsBACK: posts small blind $25.00
+Intercooler: posts big blind $50.00
+*** HOLE CARDS ***
+MrCashIsBACK: raises $336.10 to $386.10
+Intercooler: folds
+Uncalled bet ($336.10) returned to MrCashIsBACK
+MrCashIsBACK collected $100.00 from pot
+MrCashIsBACK: doesn't show hand
+*** SUMMARY ***
+Total pot $100.00 | Rake $0.00
+Seat 1: MrCashIsBACK (button) (small blind) collected ($100.00)
+Seat 4: Intercooler (big blind) folded before Flop
+
+PokerStars Hand #1335571215:  Hold'em No Limit ($25.00/$50.00 USD) - 2022/08/11 05:29:19 ET
+Table 'WPN_7 Day No Rathole 25/50 NLH 9-Max' 9-max Seat #4 is the button
+Seat 1: MrCashIsBACK ($500.00 in chips)
+Seat 4: Intercooler ($4071.11 in chips)
+Intercooler: posts small blind $25.00
+MrCashIsBACK: posts big blind $50.00
+*** HOLE CARDS ***
+Intercooler: folds
+Uncalled bet ($25.00) returned to MrCashIsBACK
+MrCashIsBACK collected $50.00 from pot
+MrCashIsBACK: doesn't show hand
+*** SUMMARY ***
+Total pot $50.00 | Rake $0.00
+Seat 1: MrCashIsBACK (big blind) collected ($50.00)
+Seat 4: Intercooler (button) (small blind) folded before Flop
+
+PokerStars Hand #1335570420:  Hold'em No Limit ($25.00/$50.00 USD) - 2022/08/11 05:28:20 ET
+Table 'WPN_7 Day No Rathole 25/50 NLH 9-Max' 9-max Seat #4 is the button
+Seat 1: MrCashIsBACK ($500.00 in chips)
+Seat 4: Intercooler ($4046.11 in chips)
+Intercooler: posts small blind $25.00
+MrCashIsBACK: posts big blind $50.00
+*** HOLE CARDS ***
+Intercooler: raises $4021.11 to $4071.11 and is all-in
+MrCashIsBACK: folds
+Uncalled bet ($4021.11) returned to Intercooler
+Intercooler collected $100.00 from pot
+Intercooler: doesn't show hand
+*** SUMMARY ***
+Total pot $100.00 | Rake $0.00
+Seat 1: MrCashIsBACK (big blind) folded before Flop
+Seat 4: Intercooler (button) (small blind) collected ($100.00)
+
+PokerStars Hand #1335550381:  Hold'em No Limit ($25.00/$50.00 USD) - 2022/08/11 05:04:42 ET
+Table 'WPN_7 Day No Rathole 25/50 NLH 9-Max' 9-max Seat #6 is the button
+Seat 4: Intercooler ($4171.11 in chips)
+Seat 5: PridvorD ($650.00 in chips)
+Seat 6: alanwatts15 ($500.00 in chips)
+Intercooler: posts small blind $25.00
+PridvorD: posts big blind $50.00
+*** HOLE CARDS ***
+alanwatts15: folds
+Intercooler: calls $25.00
+PridvorD: raises $75.00 to $125.00
+Intercooler: calls $75.00
+*** FLOP *** [2c 5h As]
+Intercooler: checks
+PridvorD: checks
+*** TURN *** [2c 5h As] [Th]
+Intercooler: checks
+PridvorD: checks
+*** RIVER *** [2c 5h As Th] [6s]
+Intercooler: checks
+PridvorD: bets $191.15
+Intercooler: folds
+Uncalled bet ($191.15) returned to PridvorD
+PridvorD collected $248.25 from pot
+PridvorD: doesn't show hand
+*** SUMMARY ***
+Total pot $250.00 | Rake $1.75
+Board [2c 5h As Th 6s]
+Seat 4: Intercooler (small blind) folded on the River
+Seat 5: PridvorD (big blind) collected ($248.25)
+Seat 6: alanwatts15 (button) folded before Flop (didn't bet)
+
+PokerStars Hand #1335551234:  Hold'em No Limit ($25.00/$50.00 USD) - 2022/08/11 05:05:40 ET
+Table 'WPN_7 Day No Rathole 25/50 NLH 9-Max' 9-max Seat #5 is the button
+Seat 4: Intercooler ($4046.11 in chips)
+Seat 5: PridvorD ($773.25 in chips)
+PridvorD: posts small blind $25.00
+Intercooler: posts big blind $50.00
+*** HOLE CARDS ***
+PridvorD: folds
+Uncalled bet ($25.00) returned to Intercooler
+Intercooler collected $50.00 from pot
+Intercooler: doesn't show hand
+*** SUMMARY ***
+Total pot $50.00 | Rake $0.00
+Seat 4: Intercooler (big blind) collected ($50.00)
+Seat 5: PridvorD (button) (small blind) folded before Flop
+
+PokerStars Hand #1335549365:  Hold'em No Limit ($25.00/$50.00 USD) - 2022/08/11 05:03:35 ET
+Table 'WPN_7 Day No Rathole 25/50 NLH 9-Max' 9-max Seat #6 is the button
+Seat 4: Intercooler ($4246.11 in chips)
+Seat 5: PridvorD ($500.00 in chips)
+Seat 6: alanwatts15 ($500.00 in chips)
+Intercooler: posts small blind $25.00
+PridvorD: posts big blind $50.00
+*** HOLE CARDS ***
+alanwatts15: folds
+Intercooler: folds
+Uncalled bet ($25.00) returned to PridvorD
+PridvorD collected $50.00 from pot
+PridvorD: doesn't show hand
+*** SUMMARY ***
+Total pot $50.00 | Rake $0.00
+Seat 4: Intercooler (small blind) folded before Flop
+Seat 5: PridvorD (big blind) collected ($50.00)
+Seat 6: alanwatts15 (button) folded before Flop (didn't bet)
+
+PokerStars Hand #1335549744:  Hold'em No Limit ($25.00/$50.00 USD) - 2022/08/11 05:04:00 ET
+Table 'WPN_7 Day No Rathole 25/50 NLH 9-Max' 9-max Seat #4 is the button
+Seat 4: Intercooler ($4221.11 in chips)
+Seat 5: PridvorD ($525.00 in chips)
+Seat 6: alanwatts15 ($500.00 in chips)
+PridvorD: posts small blind $25.00
+alanwatts15: posts big blind $50.00
+*** HOLE CARDS ***
+Intercooler: folds
+PridvorD: raises $475.00 to $525.00 and is all-in
+alanwatts15: folds
+Uncalled bet ($475.00) returned to PridvorD
+PridvorD collected $100.00 from pot
+PridvorD: doesn't show hand
+*** SUMMARY ***
+Total pot $100.00 | Rake $0.00
+Seat 4: Intercooler (button) folded before Flop (didn't bet)
+Seat 5: PridvorD (small blind) collected ($100.00)
+Seat 6: alanwatts15 (big blind) folded before Flop
+
+PokerStars Hand #1335549984:  Hold'em No Limit ($25.00/$50.00 USD) - 2022/08/11 05:04:16 ET
+Table 'WPN_7 Day No Rathole 25/50 NLH 9-Max' 9-max Seat #5 is the button
+Seat 4: Intercooler ($4221.11 in chips)
+Seat 5: PridvorD ($575.00 in chips)
+Seat 6: alanwatts15 ($450.00 in chips)
+alanwatts15: posts small blind $25.00
+Intercooler: posts big blind $50.00
+*** HOLE CARDS ***
+PridvorD: raises $525.00 to $575.00 and is all-in
+alanwatts15: folds
+Intercooler: folds
+Uncalled bet ($525.00) returned to PridvorD
+PridvorD collected $125.00 from pot
+PridvorD: doesn't show hand
+*** SUMMARY ***
+Total pot $125.00 | Rake $0.00
+Seat 4: Intercooler (big blind) folded before Flop
+Seat 5: PridvorD (button) collected ($125.00)
+Seat 6: alanwatts15 (small blind) folded before Flop
+
+PokerStars Hand #1335548296:  Hold'em No Limit ($25.00/$50.00 USD) - 2022/08/11 05:02:23 ET
+Table 'WPN_7 Day No Rathole 25/50 NLH 9-Max' 9-max Seat #3 is the button
+Seat 3: newblackjesus ($1277.11 in chips)
+Seat 4: Intercooler ($2471.25 in chips)
+Seat 5: PridvorD ($500.00 in chips)
+Seat 6: alanwatts15 ($500.00 in chips)
+Intercooler: posts small blind $25.00
+PridvorD: posts big blind $50.00
+*** HOLE CARDS ***
+alanwatts15: raises $450.00 to $500.00 and is all-in
+newblackjesus: folds
+Intercooler: folds
+PridvorD: folds
+Uncalled bet ($450.00) returned to alanwatts15
+alanwatts15 collected $125.00 from pot
+alanwatts15: doesn't show hand
+*** SUMMARY ***
+Total pot $125.00 | Rake $0.00
+Seat 3: newblackjesus (button) folded before Flop (didn't bet)
+Seat 4: Intercooler (small blind) folded before Flop
+Seat 5: PridvorD (big blind) folded before Flop
+Seat 6: alanwatts15 collected ($125.00)
+
+PokerStars Hand #1335548747:  Hold'em No Limit ($25.00/$50.00 USD) - 2022/08/11 05:02:53 ET
+Table 'WPN_7 Day No Rathole 25/50 NLH 9-Max' 9-max Seat #4 is the button
+Seat 3: newblackjesus ($1277.11 in chips)
+Seat 4: Intercooler ($2446.25 in chips)
+Seat 5: PridvorD ($450.00 in chips)
+Seat 6: alanwatts15 ($575.00 in chips)
+PridvorD: posts small blind $25.00
+alanwatts15: posts big blind $50.00
+*** HOLE CARDS ***
+newblackjesus: raises $100.00 to $150.00
+Intercooler: raises $2296.25 to $2446.25 and is all-in
+PridvorD: calls $425.00 and is all-in
+alanwatts15: folds
+newblackjesus: calls $1127.11 and is all-in
+Uncalled bet ($1169.14) returned to Intercooler
+*** FLOP *** [2h 3c Th]
+*** TURN *** [2h 3c Th] [3d]
+*** RIVER *** [2h 3c Th 3d] [4h]
+*** SHOW DOWN ***
+Intercooler: shows [Kh Qh]
+newblackjesus: shows [Ah Qs]
+PridvorD: shows [Jh Ac]
+Intercooler collected $1398.96 from main pot
+Intercooler collected $1653.01 from side pot
+*** SUMMARY ***
+Total pot $3054.22 Main pot $1400.00. Side pot $1654.22. | Rake $2.25
+Board [2h 3c Th 3d 4h]
+Seat 3: newblackjesus showed [Ah Qs] and lost
+Seat 4: Intercooler (button) showed [Kh Qh] and won ($3051.97)
+Seat 5: PridvorD (small blind) showed [Jh Ac] and lost
+Seat 6: alanwatts15 (big blind) folded before Flop
+
+PokerStars Hand #1335549244:  Hold'em No Limit ($25.00/$50.00 USD) - 2022/08/11 05:03:26 ET
+Table 'WPN_7 Day No Rathole 25/50 NLH 9-Max' 9-max Seat #5 is the button
+Seat 4: Intercooler ($4221.11 in chips)
+Seat 5: PridvorD ($500.00 in chips)
+Seat 6: alanwatts15 ($525.00 in chips)
+alanwatts15: posts small blind $25.00
+Intercooler: posts big blind $50.00
+*** HOLE CARDS ***
+PridvorD: folds
+alanwatts15: folds
+Uncalled bet ($25.00) returned to Intercooler
+Intercooler collected $50.00 from pot
+Intercooler: doesn't show hand
+*** SUMMARY ***
+Total pot $50.00 | Rake $0.00
+Seat 4: Intercooler (big blind) collected ($50.00)
+Seat 5: PridvorD (button) folded before Flop (didn't bet)
+Seat 6: alanwatts15 (small blind) folded before Flop
+
+PokerStars Hand #1335547620:  Hold'em No Limit ($25.00/$50.00 USD) - 2022/08/11 05:01:35 ET
+Table 'WPN_7 Day No Rathole 25/50 NLH 9-Max' 9-max Seat #6 is the button
+Seat 3: newblackjesus ($1427.11 in chips)
+Seat 4: Intercooler ($2323.50 in chips)
+Seat 5: PridvorD ($500.00 in chips)
+Seat 6: alanwatts15 ($500.00 in chips)
+newblackjesus: posts small blind $25.00
+Intercooler: posts big blind $50.00
+*** HOLE CARDS ***
+PridvorD: folds
+alanwatts15: folds
+newblackjesus: calls $25.00
+Intercooler: raises $100.00 to $150.00
+newblackjesus: calls $100.00
+*** FLOP *** [8s Qs Th]
+newblackjesus: checks
+Intercooler: checks
+*** TURN *** [8s Qs Th] [Js]
+newblackjesus: checks
+Intercooler: bets $153.00
+newblackjesus: folds
+Uncalled bet ($153.00) returned to Intercooler
+Intercooler collected $297.75 from pot
+Intercooler: doesn't show hand
+*** SUMMARY ***
+Total pot $300.00 | Rake $2.25
+Board [8s Qs Th Js]
+Seat 3: newblackjesus (small blind) folded on the Turn
+Seat 4: Intercooler (big blind) collected ($297.75)
+Seat 5: PridvorD folded before Flop (didn't bet)
+Seat 6: alanwatts15 (button) folded before Flop (didn't bet)
+
+PokerStars Hand #1335544806:  Hold'em No Limit ($25.00/$50.00 USD) - 2022/08/11 04:57:21 ET
+Table 'WPN_7 Day No Rathole 25/50 NLH 9-Max' 9-max Seat #3 is the button
+Seat 3: newblackjesus ($499.37 in chips)
+Seat 4: Intercooler ($2153.12 in chips)
+Seat 5: PridvorD ($1022.00 in chips)
+Seat 6: alanwatts15 ($500.00 in chips)
+Seat 7: zas911 ($8354.63 in chips)
+Intercooler: posts small blind $25.00
+PridvorD: posts big blind $50.00
+*** HOLE CARDS ***
+newblackjesus: raises $449.37 to $499.37 and is all-in
+Intercooler: raises $449.37 to $948.74
+PridvorD: folds
+Uncalled bet ($449.37) returned to Intercooler
+*** FIRST FLOP *** [Ah 8d 3h]
+*** FIRST TURN *** [Ah 8d 3h] [5d]
+*** FIRST RIVER *** [Ah 8d 3h 5d] [9c]
+*** SECOND FLOP *** [Ac 2c 8c]
+*** SECOND TURN *** [Ac 2c 8c] [Qd]
+*** SECOND RIVER *** [Ac 2c 8c Qd] [Jd]
+*** FIRST SHOW DOWN ***
+newblackjesus: shows [9h Ad]
+Intercooler: shows [7d 7c]
+newblackjesus collected $523.50 from pot
+*** SECOND SHOW DOWN ***
+newblackjesus: shows [9h Ad]
+Intercooler: shows [7d 7c]
+newblackjesus collected $523.49 from pot
+*** SUMMARY ***
+Total pot $1048.74 | Rake $1.75
+Hand was run twice
+FIRST Board [Ah 8d 3h 5d 9c]
+SECOND Board [Ac 2c 8c Qd Jd]
+Seat 3: newblackjesus (button) showed [9h Ad] and won ($523.50), and won ($523.49)
+Seat 4: Intercooler (small blind) showed [7d 7c] and lost, and lost
+Seat 5: PridvorD (big blind) folded before Flop
+Seat 6: alanwatts15 and lost, and lost
+Seat 7: zas911 and lost, and lost
+
+PokerStars Hand #1335545126:  Hold'em No Limit ($25.00/$50.00 USD) - 2022/08/11 04:57:54 ET
+Table 'WPN_7 Day No Rathole 25/50 NLH 9-Max' 9-max Seat #4 is the button
+Seat 3: newblackjesus ($1046.99 in chips)
+Seat 4: Intercooler ($1653.75 in chips)
+Seat 5: PridvorD ($972.00 in chips)
+Seat 6: alanwatts15 ($500.00 in chips)
+PridvorD: posts small blind $25.00
+alanwatts15: posts big blind $50.00
+*** HOLE CARDS ***
+newblackjesus: folds
+Intercooler: raises $1603.75 to $1653.75 and is all-in
+PridvorD: calls $947.00 and is all-in
+alanwatts15: folds
+Uncalled bet ($681.75) returned to Intercooler
+*** FIRST FLOP *** [Qs 5d 3d]
+*** FIRST TURN *** [Qs 5d 3d] [8c]
+*** FIRST RIVER *** [Qs 5d 3d 8c] [Ah]
+*** SECOND FLOP *** [8h 7s Kh]
+*** SECOND TURN *** [8h 7s Kh] [5h]
+*** SECOND RIVER *** [8h 7s Kh 5h] [4d]
+*** FIRST SHOW DOWN ***
+Intercooler: shows [4h 4s]
+PridvorD: shows [Js Ts]
+Intercooler collected $995.88 from pot
+*** SECOND SHOW DOWN ***
+Intercooler: shows [4h 4s]
+PridvorD: shows [Js Ts]
+Intercooler collected $995.87 from pot
+*** SUMMARY ***
+Total pot $1994.00 | Rake $2.25
+Hand was run twice
+FIRST Board [Qs 5d 3d 8c Ah]
+SECOND Board [8h 7s Kh 5h 4d]
+Seat 3: newblackjesus folded before Flop (didn't bet)
+Seat 4: Intercooler (button) showed [4h 4s] and won ($995.88), and won ($995.87)
+Seat 5: PridvorD (small blind) showed [Js Ts] and lost, and lost
+Seat 6: alanwatts15 (big blind) folded before Flop
+
+PokerStars Hand #1335545658:  Hold'em No Limit ($25.00/$50.00 USD) - 2022/08/11 04:58:48 ET
+Table 'WPN_7 Day No Rathole 25/50 NLH 9-Max' 9-max Seat #5 is the button
+Seat 3: newblackjesus ($1046.99 in chips)
+Seat 4: Intercooler ($2673.50 in chips)
+Seat 6: alanwatts15 ($500.00 in chips)
+alanwatts15: posts small blind $25.00
+newblackjesus: posts big blind $50.00
+*** HOLE CARDS ***
+Intercooler: raises $50.00 to $100.00
+alanwatts15: folds
+newblackjesus: calls $50.00
+*** FLOP *** [Td 2c 8d]
+newblackjesus: bets $168.75
+Intercooler: folds
+Uncalled bet ($168.75) returned to newblackjesus
+newblackjesus collected $223.25 from pot
+newblackjesus: doesn't show hand
+*** SUMMARY ***
+Total pot $225.00 | Rake $1.75
+Board [Td 2c 8d]
+Seat 3: newblackjesus (big blind) collected ($223.25)
+Seat 4: Intercooler folded on the Flop
+Seat 6: alanwatts15 (small blind) folded before Flop
+
+PokerStars Hand #1335546904:  Hold'em No Limit ($25.00/$50.00 USD) - 2022/08/11 05:00:46 ET
+Table 'WPN_7 Day No Rathole 25/50 NLH 9-Max' 9-max Seat #5 is the button
+Seat 3: newblackjesus ($1304.36 in chips)
+Seat 4: Intercooler ($2423.50 in chips)
+Seat 5: PridvorD ($500.00 in chips)
+Seat 6: alanwatts15 ($511.38 in chips)
+alanwatts15: posts small blind $25.00
+newblackjesus: posts big blind $50.00
+*** HOLE CARDS ***
+Intercooler: raises $50.00 to $100.00
+PridvorD: folds
+alanwatts15: folds
+newblackjesus: calls $50.00
+*** FLOP *** [4s 8c 3c]
+newblackjesus: checks
+Intercooler: checks
+*** TURN *** [4s 8c 3c] [2c]
+newblackjesus: checks
+Intercooler: checks
+*** RIVER *** [4s 8c 3c 2c] [Jh]
+newblackjesus: checks
+Intercooler: checks
+*** SHOW DOWN ***
+newblackjesus: shows [5s Js]
+Intercooler: mucks hand
+newblackjesus collected $222.75 from pot
+*** SUMMARY ***
+Total pot $225.00 | Rake $2.25
+Board [4s 8c 3c 2c Jh]
+Seat 3: newblackjesus (big blind) showed [5s Js] and won ($222.75)
+Seat 4: Intercooler mucked
+Seat 5: PridvorD (button) folded before Flop (didn't bet)
+Seat 6: alanwatts15 (small blind) folded before Flop
+
+PokerStars Hand #1335544533:  Hold'em No Limit ($25.00/$50.00 USD) - 2022/08/11 04:56:54 ET
+Table 'WPN_7 Day No Rathole 25/50 NLH 9-Max' 9-max Seat #3 is the button
+Seat 3: newblackjesus ($500.00 in chips)
+Seat 4: Intercooler ($2153.74 in chips)
+newblackjesus: posts small blind $25.00
+Intercooler: posts big blind $50.00
+*** HOLE CARDS ***
+newblackjesus: calls $25.00
+Intercooler: raises $2103.74 to $2153.74 and is all-in
+newblackjesus: calls $450.00 and is all-in
+Uncalled bet ($1653.74) returned to Intercooler
+*** FIRST FLOP *** [Kh Th 6c]
+*** FIRST TURN *** [Kh Th 6c] [3c]
+*** FIRST RIVER *** [Kh Th 6c 3c] [4c]
+*** SECOND FLOP *** [Ad 9c 2h]
+*** SECOND TURN *** [Ad 9c 2h] [2c]
+*** SECOND RIVER *** [Ad 9c 2h 2c] [7c]
+*** FIRST SHOW DOWN ***
+newblackjesus: shows [7d Ah]
+Intercooler: shows [8s Ac]
+Intercooler collected $499.38 from pot
+*** SECOND SHOW DOWN ***
+newblackjesus: shows [7d Ah]
+Intercooler: shows [8s Ac]
+newblackjesus collected $499.37 from pot
+*** SUMMARY ***
+Total pot $1000.00 | Rake $1.25
+Hand was run twice
+FIRST Board [Kh Th 6c 3c 4c]
+SECOND Board [Ad 9c 2h 2c 7c]
+Seat 3: newblackjesus (button) (small blind) showed [7d Ah] and lost, and won ($499.37)
+Seat 4: Intercooler (big blind) showed [8s Ac] and won ($499.38), and lost
+
+PokerStars Hand #1334945103:  Hold'em No Limit ($25.00/$50.00 USD) - 2022/08/10 21:03:07 ET
+Table 'WPN_Doraville' 9-max Seat #1 is the button
+Seat 1: Tdiddys ($5251.94 in chips)
+Seat 3: luxpoker ($2500.00 in chips)
+Seat 4: Avalan4 ($2633.25 in chips)
+Seat 5: songo24 ($3257.85 in chips)
+luxpoker: posts small blind $25.00
+Avalan4: posts big blind $50.00
+*** HOLE CARDS ***
+songo24: folds
+Tdiddys: folds
+luxpoker: raises $100.00 to $150.00
+Avalan4: folds
+Uncalled bet ($100.00) returned to luxpoker
+luxpoker collected $100.00 from pot
+luxpoker: doesn't show hand
+*** SUMMARY ***
+Total pot $100.00 | Rake $0.00
+Seat 1: Tdiddys (button) folded before Flop (didn't bet)
+Seat 3: luxpoker (small blind) collected ($100.00)
+Seat 4: Avalan4 (big blind) folded before Flop
+Seat 5: songo24 folded before Flop (didn't bet)
+
+PokerStars Hand #1336178117:  Hold'em No Limit ($25.00/$50.00 USD) - 2022/08/11 20:44:01 ET
+Table 'WPN_Assaria' 9-max Seat #3 is the button
+Seat 1: Tdiddys ($771.79 in chips)
+Seat 2: Nimble123 ($1144.50 in chips)
+Seat 3: KARMASUTRA ($1822.00 in chips)
+Seat 4: el0el ($2697.75 in chips)
+Seat 5: songo24 ($2622.00 in chips)
+Seat 6: luxpoker ($2575.00 in chips)
+Seat 7: Gizineni ($2500.00 in chips)
+el0el: posts small blind $25.00
+songo24: posts big blind $50.00
+*** HOLE CARDS ***
+luxpoker: folds
+Gizineni: folds
+Tdiddys: folds
+Nimble123: folds
+KARMASUTRA: raises $50.00 to $100.00
+el0el: folds
+songo24: folds
+Uncalled bet ($50.00) returned to KARMASUTRA
+KARMASUTRA collected $125.00 from pot
+KARMASUTRA: doesn't show hand
+*** SUMMARY ***
+Total pot $125.00 | Rake $0.00
+Seat 1: Tdiddys folded before Flop (didn't bet)
+Seat 2: Nimble123 folded before Flop (didn't bet)
+Seat 3: KARMASUTRA (button) collected ($125.00)
+Seat 4: el0el (small blind) folded before Flop
+Seat 5: songo24 (big blind) folded before Flop
+Seat 6: luxpoker folded before Flop (didn't bet)
+Seat 7: Gizineni folded before Flop (didn't bet)
+
+PokerStars Hand #1336175775:  Hold'em No Limit ($25.00/$50.00 USD) - 2022/08/11 20:42:12 ET
+Table 'WPN_Assaria' 9-max Seat #1 is the button
+Seat 1: Tdiddys ($771.79 in chips)
+Seat 2: Nimble123 ($1022.50 in chips)
+Seat 3: KARMASUTRA ($1972.00 in chips)
+Seat 4: el0el ($2747.75 in chips)
+Seat 5: songo24 ($2622.00 in chips)
+Seat 6: luxpoker ($2575.00 in chips)
+Seat 7: Gizineni ($2425.00 in chips)
+Nimble123: posts small blind $25.00
+KARMASUTRA: posts big blind $50.00
+*** HOLE CARDS ***
+el0el: folds
+songo24: folds
+luxpoker: folds
+Gizineni: folds
+Tdiddys: folds
+Nimble123: raises $75.00 to $125.00
+KARMASUTRA: calls $75.00
+*** FLOP *** [As Ad 2d]
+Nimble123: bets $74.10
+KARMASUTRA: folds
+Uncalled bet ($74.10) returned to Nimble123
+Nimble123 collected $247.00 from pot
+Nimble123: doesn't show hand
+*** SUMMARY ***
+Total pot $250.00 | Rake $3.00
+Board [As Ad 2d]
+Seat 1: Tdiddys (button) folded before Flop (didn't bet)
+Seat 2: Nimble123 (small blind) collected ($247.00)
+Seat 3: KARMASUTRA (big blind) folded on the Flop
+Seat 4: el0el folded before Flop (didn't bet)
+Seat 5: songo24 folded before Flop (didn't bet)
+Seat 6: luxpoker folded before Flop (didn't bet)
+Seat 7: Gizineni folded before Flop (didn't bet)
+
+PokerStars Hand #1336172869:  Hold'em No Limit ($25.00/$50.00 USD) - 2022/08/11 20:39:58 ET
+Table 'WPN_Assaria' 9-max Seat #5 is the button
+Seat 1: Tdiddys ($771.79 in chips)
+Seat 2: Nimble123 ($1122.50 in chips)
+Seat 3: KARMASUTRA ($1972.00 in chips)
+Seat 4: el0el ($2747.75 in chips)
+Seat 5: songo24 ($2500.00 in chips)
+Seat 6: luxpoker ($2500.00 in chips)
+Seat 7: Gizineni ($2500.00 in chips)
+luxpoker: posts small blind $25.00
+Gizineni: posts big blind $50.00
+*** HOLE CARDS ***
+Tdiddys: raises $50.00 to $100.00
+Nimble123: folds
+KARMASUTRA: folds
+el0el: folds
+songo24: folds
+luxpoker: folds
+Gizineni: folds
+Uncalled bet ($50.00) returned to Tdiddys
+Tdiddys collected $125.00 from pot
+Tdiddys: doesn't show hand
+*** SUMMARY ***
+Total pot $125.00 | Rake $0.00
+Seat 1: Tdiddys collected ($125.00)
+Seat 2: Nimble123 folded before Flop (didn't bet)
+Seat 3: KARMASUTRA folded before Flop (didn't bet)
+Seat 4: el0el folded before Flop (didn't bet)
+Seat 5: songo24 (button) folded before Flop (didn't bet)
+Seat 6: luxpoker (small blind) folded before Flop
+Seat 7: Gizineni (big blind) folded before Flop
+
+PokerStars Hand #1336173626:  Hold'em No Limit ($25.00/$50.00 USD) - 2022/08/11 20:40:34 ET
+Table 'WPN_Assaria' 9-max Seat #6 is the button
+Seat 1: Tdiddys ($846.79 in chips)
+Seat 2: Nimble123 ($1122.50 in chips)
+Seat 3: KARMASUTRA ($1972.00 in chips)
+Seat 4: el0el ($2747.75 in chips)
+Seat 5: songo24 ($2500.00 in chips)
+Seat 6: luxpoker ($2500.00 in chips)
+Seat 7: Gizineni ($2450.00 in chips)
+Gizineni: posts small blind $25.00
+Tdiddys: posts big blind $50.00
+*** HOLE CARDS ***
+Nimble123: folds
+KARMASUTRA: folds
+el0el: folds
+songo24: folds
+luxpoker: raises $50.00 to $100.00
+Gizineni: folds
+Tdiddys: folds
+Uncalled bet ($50.00) returned to luxpoker
+luxpoker collected $125.00 from pot
+luxpoker: doesn't show hand
+*** SUMMARY ***
+Total pot $125.00 | Rake $0.00
+Seat 1: Tdiddys (big blind) folded before Flop
+Seat 2: Nimble123 folded before Flop (didn't bet)
+Seat 3: KARMASUTRA folded before Flop (didn't bet)
+Seat 4: el0el folded before Flop (didn't bet)
+Seat 5: songo24 folded before Flop (didn't bet)
+Seat 6: luxpoker (button) collected ($125.00)
+Seat 7: Gizineni (small blind) folded before Flop
+
+PokerStars Hand #1336174250:  Hold'em No Limit ($25.00/$50.00 USD) - 2022/08/11 20:41:03 ET
+Table 'WPN_Assaria' 9-max Seat #7 is the button
+Seat 1: Tdiddys ($796.79 in chips)
+Seat 2: Nimble123 ($1122.50 in chips)
+Seat 3: KARMASUTRA ($1972.00 in chips)
+Seat 4: el0el ($2747.75 in chips)
+Seat 5: songo24 ($2500.00 in chips)
+Seat 6: luxpoker ($2575.00 in chips)
+Seat 7: Gizineni ($2425.00 in chips)
+Tdiddys: posts small blind $25.00
+Nimble123: posts big blind $50.00
+*** HOLE CARDS ***
+KARMASUTRA: folds
+el0el: folds
+songo24: raises $50.00 to $100.00
+luxpoker: folds
+Gizineni: folds
+Tdiddys: folds
+Nimble123: calls $50.00
+*** FLOP *** [7h Qs 2s]
+Nimble123: checks
+songo24: bets $74.25
+Nimble123: folds
+Uncalled bet ($74.25) returned to songo24
+songo24 collected $222.00 from pot
+songo24: doesn't show hand
+*** SUMMARY ***
+Total pot $225.00 | Rake $3.00
+Board [7h Qs 2s]
+Seat 1: Tdiddys (small blind) folded before Flop
+Seat 2: Nimble123 (big blind) folded on the Flop
+Seat 3: KARMASUTRA folded before Flop (didn't bet)
+Seat 4: el0el folded before Flop (didn't bet)
+Seat 5: songo24 collected ($222.00)
+Seat 6: luxpoker folded before Flop (didn't bet)
+Seat 7: Gizineni (button) folded before Flop (didn't bet)
+
+PokerStars Hand #1336172356:  Hold'em No Limit ($25.00/$50.00 USD) - 2022/08/11 20:39:36 ET
+Table 'WPN_Assaria' 9-max Seat #4 is the button
+Seat 1: Tdiddys ($771.79 in chips)
+Seat 2: Nimble123 ($1122.50 in chips)
+Seat 3: KARMASUTRA ($2072.00 in chips)
+Seat 4: el0el ($2572.75 in chips)
+Seat 5: songo24 ($2500.00 in chips)
+Seat 6: luxpoker ($2500.00 in chips)
+Seat 7: Gizineni ($2500.00 in chips)
+songo24: posts small blind $25.00
+luxpoker: posts big blind $50.00
+*** HOLE CARDS ***
+Tdiddys: folds
+Nimble123: folds
+KARMASUTRA: raises $50.00 to $100.00
+el0el: raises $200.00 to $300.00
+songo24: folds
+luxpoker: folds
+KARMASUTRA: folds
+Uncalled bet ($200.00) returned to el0el
+el0el collected $275.00 from pot
+el0el: doesn't show hand
+*** SUMMARY ***
+Total pot $275.00 | Rake $0.00
+Seat 1: Tdiddys folded before Flop (didn't bet)
+Seat 2: Nimble123 folded before Flop (didn't bet)
+Seat 3: KARMASUTRA folded before Flop
+Seat 4: el0el (button) collected ($275.00)
+Seat 5: songo24 (small blind) folded before Flop
+Seat 6: luxpoker (big blind) folded before Flop
+
+PokerStars Hand #1336169925:  Hold'em No Limit ($25.00/$50.00 USD) - 2022/08/11 20:37:44 ET
+Table 'WPN_Assaria' 9-max Seat #2 is the button
+Seat 1: Tdiddys ($1821.79 in chips)
+Seat 2: Nimble123 ($1122.50 in chips)
+Seat 3: KARMASUTRA ($1000.00 in chips)
+Seat 4: el0el ($2500.00 in chips)
+Seat 5: songo24 ($2500.00 in chips)
+Seat 6: luxpoker ($2500.00 in chips)
+Seat 7: Gizineni ($2500.00 in chips)
+KARMASUTRA: posts small blind $25.00
+el0el: posts big blind $50.00
+*** HOLE CARDS ***
+Tdiddys: calls $50.00
+Nimble123: folds
+KARMASUTRA: calls $25.00
+el0el: checks
+*** FLOP *** [2d 4h 6s]
+KARMASUTRA: checks
+el0el: bets $210.00
+Tdiddys: folds
+KARMASUTRA: folds
+Uncalled bet ($210.00) returned to el0el
+el0el collected $147.75 from pot
+el0el: doesn't show hand
+*** SUMMARY ***
+Total pot $150.00 | Rake $2.25
+Board [2d 4h 6s]
+Seat 1: Tdiddys folded on the Flop
+Seat 2: Nimble123 (button) folded before Flop (didn't bet)
+Seat 3: KARMASUTRA (small blind) folded on the Flop
+Seat 4: el0el (big blind) collected ($147.75)
+
+PokerStars Hand #1336171622:  Hold'em No Limit ($25.00/$50.00 USD) - 2022/08/11 20:39:02 ET
+Table 'WPN_Assaria' 9-max Seat #3 is the button
+Seat 1: Tdiddys ($1771.79 in chips)
+Seat 2: Nimble123 ($1122.50 in chips)
+Seat 3: KARMASUTRA ($950.00 in chips)
+Seat 4: el0el ($2597.75 in chips)
+Seat 5: songo24 ($2500.00 in chips)
+Seat 6: luxpoker ($2500.00 in chips)
+Seat 7: Gizineni ($2500.00 in chips)
+el0el: posts small blind $25.00
+songo24: posts big blind $50.00
+*** HOLE CARDS ***
+Tdiddys: raises $50.00 to $100.00
+Nimble123: folds
+KARMASUTRA: raises $900.00 to $1000.00 and is all-in
+el0el: folds
+songo24: folds
+Tdiddys: calls $900.00
+*** FLOP *** [Ah 4d 6d]
+*** TURN *** [Ah 4d 6d] [7h]
+*** RIVER *** [Ah 4d 6d 7h] [7c]
+*** SHOW DOWN ***
+KARMASUTRA: shows [Td As]
+Tdiddys: shows [Jd Jh]
+KARMASUTRA collected $2072.00 from pot
+*** SUMMARY ***
+Total pot $2075.00 | Rake $3.00
+Board [Ah 4d 6d 7h 7c]
+Seat 1: Tdiddys showed [Jd Jh] and lost
+Seat 2: Nimble123 folded before Flop (didn't bet)
+Seat 3: KARMASUTRA (button) showed [Td As] and won ($2072.00)
+Seat 4: el0el (small blind) folded before Flop
+Seat 5: songo24 (big blind) folded before Flop
+
+PokerStars Hand #1336166223:  Hold'em No Limit ($25.00/$50.00 USD) - 2022/08/11 20:34:55 ET
+Table 'WPN_Assaria' 9-max Seat #1 is the button
+Seat 1: Tdiddys ($999.27 in chips)
+Seat 2: Nimble123 ($1048.75 in chips)
+Seat 3: KARMASUTRA ($1000.00 in chips)
+Seat 4: el0el ($2500.00 in chips)
+Seat 5: songo24 ($2500.00 in chips)
+Seat 6: luxpoker ($2500.00 in chips)
+Tdiddys: posts small blind $25.00
+Nimble123: posts big blind $50.00
+*** HOLE CARDS ***
+Tdiddys: raises $50.00 to $100.00
+Nimble123: calls $50.00
+*** FLOP *** [Qh As Ad]
+Nimble123: checks
+Tdiddys: checks
+*** TURN *** [Qh As Ad] [3s]
+Nimble123: checks
+Tdiddys: checks
+*** RIVER *** [Qh As Ad 3s] [4d]
+Nimble123: bets $59.62
+Tdiddys: folds
+Uncalled bet ($59.62) returned to Nimble123
+Nimble123 collected $198.75 from pot
+Nimble123: doesn't show hand
+*** SUMMARY ***
+Total pot $200.00 | Rake $1.25
+Board [Qh As Ad 3s 4d]
+Seat 1: Tdiddys (button) (small blind) folded on the River
+Seat 2: Nimble123 (big blind) collected ($198.75)
+
+PokerStars Hand #1336168421:  Hold'em No Limit ($25.00/$50.00 USD) - 2022/08/11 20:36:35 ET
+Table 'WPN_Assaria' 9-max Seat #1 is the button
+Seat 1: Tdiddys ($899.27 in chips)
+Seat 2: Nimble123 ($1147.50 in chips)
+Seat 3: KARMASUTRA ($1000.00 in chips)
+Seat 4: el0el ($2500.00 in chips)
+Seat 5: songo24 ($2500.00 in chips)
+Seat 6: luxpoker ($2500.00 in chips)
+Seat 7: Gizineni ($2500.00 in chips)
+Nimble123: posts small blind $25.00
+KARMASUTRA: posts big blind $50.00
+*** HOLE CARDS ***
+Tdiddys: raises $50.00 to $100.00
+Nimble123: folds
+KARMASUTRA: raises $900.00 to $1000.00 and is all-in
+Tdiddys: calls $799.27 and is all-in
+Uncalled bet ($100.73) returned to KARMASUTRA
+*** FLOP *** [Ac Ts Kd]
+*** TURN *** [Ac Ts Kd] [Ad]
+*** RIVER *** [Ac Ts Kd Ad] [5h]
+*** SHOW DOWN ***
+Tdiddys: shows [Qs Js]
+KARMASUTRA: shows [As 4s]
+Tdiddys collected $1821.79 from pot
+*** SUMMARY ***
+Total pot $1823.54 | Rake $1.75
+Board [Ac Ts Kd Ad 5h]
+Seat 1: Tdiddys (button) showed [Qs Js] and won ($1821.79)
+Seat 2: Nimble123 (small blind) folded before Flop
+Seat 3: KARMASUTRA (big blind) showed [As 4s] and lost
+
+PokerStars Hand #1334946969:  Hold'em No Limit ($25.00/$50.00 USD) - 2022/08/10 21:04:25 ET
+Table 'WPN_Doraville' 9-max Seat #4 is the button
+Seat 1: Tdiddys ($4783.19 in chips)
+Seat 3: luxpoker ($3091.50 in chips)
+Seat 4: Avalan4 ($2558.25 in chips)
+Seat 5: songo24 ($3207.85 in chips)
+songo24: posts small blind $25.00
+Tdiddys: posts big blind $50.00
+*** HOLE CARDS ***
+luxpoker: raises $75.00 to $125.00
+Avalan4: calls $125.00
+songo24: folds
+Tdiddys: calls $75.00
+*** FLOP *** [2h As 5d]
+Tdiddys: checks
+luxpoker: checks
+Avalan4: bets $192.00
+Tdiddys: calls $192.00
+luxpoker: calls $192.00
+*** TURN *** [2h As 5d] [Qc]
+Tdiddys: checks
+luxpoker: checks
+Avalan4: bets $468.48
+Tdiddys: folds
+luxpoker: calls $468.48
+*** RIVER *** [2h As 5d Qc] [Ah]
+luxpoker: checks
+Avalan4: bets $1772.77 and is all-in
+luxpoker: calls $1772.77
+*** SHOW DOWN ***
+Avalan4: shows [Ac Qh]
+luxpoker: shows [Ad 3d]
+Avalan4 collected $5456.25 from pot
+*** SUMMARY ***
+Total pot $5458.50 | Rake $2.25
+Board [2h As 5d Qc Ah]
+Seat 1: Tdiddys (big blind) folded on the Turn
+Seat 3: luxpoker showed [Ad 3d] and lost
+Seat 4: Avalan4 (button) showed [Ac Qh] and won ($5456.25)
+Seat 5: songo24 (small blind) folded before Flop
+
+PokerStars Hand #1334949834:  Hold'em No Limit ($25.00/$50.00 USD) - 2022/08/10 21:06:29 ET
+Table 'WPN_Doraville' 9-max Seat #5 is the button
+Seat 1: Tdiddys ($4466.19 in chips)
+Seat 3: luxpoker ($2500.00 in chips)
+Seat 4: Avalan4 ($5456.25 in chips)
+Seat 5: songo24 ($3182.85 in chips)
+Tdiddys: posts small blind $25.00
+luxpoker: posts big blind $50.00
+*** HOLE CARDS ***
+Avalan4: folds
+songo24: folds
+Tdiddys: folds
+Uncalled bet ($25.00) returned to luxpoker
+luxpoker collected $50.00 from pot
+luxpoker: doesn't show hand
+*** SUMMARY ***
+Total pot $50.00 | Rake $0.00
+Seat 1: Tdiddys (small blind) folded before Flop
+Seat 3: luxpoker (big blind) collected ($50.00)
+Seat 4: Avalan4 folded before Flop (didn't bet)
+Seat 5: songo24 (button) folded before Flop (didn't bet)
+
+PokerStars Hand #1334950324:  Hold'em No Limit ($25.00/$50.00 USD) - 2022/08/10 21:06:49 ET
+Table 'WPN_Doraville' 9-max Seat #1 is the button
+Seat 1: Tdiddys ($4441.19 in chips)
+Seat 3: luxpoker ($2525.00 in chips)
+Seat 4: Avalan4 ($5456.25 in chips)
+Seat 5: songo24 ($3182.85 in chips)
+luxpoker: posts small blind $25.00
+Avalan4: posts big blind $50.00
+*** HOLE CARDS ***
+songo24: folds
+Tdiddys: raises $50.00 to $100.00
+luxpoker: folds
+Avalan4: folds
+Uncalled bet ($50.00) returned to Tdiddys
+Tdiddys collected $125.00 from pot
+Tdiddys: doesn't show hand
+*** SUMMARY ***
+Total pot $125.00 | Rake $0.00
+Seat 1: Tdiddys (button) collected ($125.00)
+Seat 3: luxpoker (small blind) folded before Flop
+Seat 4: Avalan4 (big blind) folded before Flop
+Seat 5: songo24 folded before Flop (didn't bet)
+
+PokerStars Hand #1334951009:  Hold'em No Limit ($25.00/$50.00 USD) - 2022/08/10 21:07:19 ET
+Table 'WPN_Doraville' 9-max Seat #3 is the button
+Seat 1: Tdiddys ($4516.19 in chips)
+Seat 3: luxpoker ($2500.00 in chips)
+Seat 4: Avalan4 ($5406.25 in chips)
+Seat 5: songo24 ($3182.85 in chips)
+Avalan4: posts small blind $25.00
+songo24: posts big blind $50.00
+*** HOLE CARDS ***
+Tdiddys: raises $50.00 to $100.00
+luxpoker: raises $200.00 to $300.00
+Avalan4: folds
+songo24: folds
+Tdiddys: calls $200.00
+*** FLOP *** [Th Ks 3h]
+Tdiddys: checks
+luxpoker: bets $168.75
+Tdiddys: raises $168.75 to $337.50
+luxpoker: calls $168.75
+*** TURN *** [Th Ks 3h] [Kh]
+Tdiddys: bets $422.86
+luxpoker: calls $422.86
+*** RIVER *** [Th Ks 3h Kh] [5s]
+Tdiddys: checks
+luxpoker: checks
+*** SHOW DOWN ***
+Tdiddys: shows [3c 4c]
+luxpoker: mucks hand
+Tdiddys collected $2193.47 from pot
+*** SUMMARY ***
+Total pot $2195.72 | Rake $2.25
+Board [Th Ks 3h Kh 5s]
+Seat 1: Tdiddys showed [3c 4c] and won ($2193.47)
+Seat 3: luxpoker (button) mucked
+Seat 4: Avalan4 (small blind) folded before Flop
+Seat 5: songo24 (big blind) folded before Flop
+
+PokerStars Hand #1334952556:  Hold'em No Limit ($25.00/$50.00 USD) - 2022/08/10 21:08:24 ET
+Table 'WPN_Doraville' 9-max Seat #4 is the button
+Seat 1: Tdiddys ($5649.30 in chips)
+Seat 3: luxpoker ($2500.00 in chips)
+Seat 4: Avalan4 ($5381.25 in chips)
+Seat 5: songo24 ($3132.85 in chips)
+songo24: posts small blind $25.00
+Tdiddys: posts big blind $50.00
+*** HOLE CARDS ***
+luxpoker: folds
+Avalan4: raises $75.00 to $125.00
+songo24: calls $100.00
+Tdiddys: calls $75.00
+*** FLOP *** [As Qs 3h]
+songo24: checks
+Tdiddys: bets $50.00
+Avalan4: calls $50.00
+songo24: calls $50.00
+*** TURN *** [As Qs 3h] [7s]
+songo24: checks
+Tdiddys: bets $131.25
+Avalan4: calls $131.25
+songo24: calls $131.25
+*** RIVER *** [As Qs 3h 7s] [5s]
+songo24: checks
+Tdiddys: bets $689.06
+Avalan4: folds
+songo24: folds
+Uncalled bet ($689.06) returned to Tdiddys
+Tdiddys collected $916.50 from pot
+Tdiddys: doesn't show hand
+*** SUMMARY ***
+Total pot $918.75 | Rake $2.25
+Board [As Qs 3h 7s 5s]
+Seat 1: Tdiddys (big blind) collected ($916.50)
+Seat 3: luxpoker folded before Flop (didn't bet)
+Seat 4: Avalan4 (button) folded on the River
+Seat 5: songo24 (small blind) folded on the River
+
+PokerStars Hand #1334954847:  Hold'em No Limit ($25.00/$50.00 USD) - 2022/08/10 21:10:02 ET
+Table 'WPN_Doraville' 9-max Seat #5 is the button
+Seat 1: Tdiddys ($6259.55 in chips)
+Seat 3: luxpoker ($2500.00 in chips)
+Seat 4: Avalan4 ($5075.00 in chips)
+Seat 5: songo24 ($2826.60 in chips)
+Tdiddys: posts small blind $25.00
+luxpoker: posts big blind $50.00
+*** HOLE CARDS ***
+Avalan4: folds
+songo24: raises $50.00 to $100.00
+Tdiddys: raises $187.50 to $287.50
+luxpoker: folds
+songo24: calls $187.50
+*** FLOP *** [Td 7h 8c]
+Tdiddys: bets $50.00
+songo24: calls $50.00
+*** TURN *** [Td 7h 8c] [4d]
+Tdiddys: bets $362.50
+songo24: raises $2126.60 to $2489.10 and is all-in
+Tdiddys: calls $2126.60
+*** RIVER *** [Td 7h 8c 4d] [4s]
+*** SHOW DOWN ***
+Tdiddys: shows [Kh Kd]
+songo24: shows [Th Ac]
+Tdiddys collected $5700.95 from pot
+*** SUMMARY ***
+Total pot $5703.20 | Rake $2.25
+Board [Td 7h 8c 4d 4s]
+Seat 1: Tdiddys (small blind) showed [Kh Kd] and won ($5700.95)
+Seat 3: luxpoker (big blind) folded before Flop
+Seat 4: Avalan4 folded before Flop (didn't bet)
+Seat 5: songo24 (button) showed [Th Ac] and lost
+
+PokerStars Hand #1334956814:  Hold'em No Limit ($25.00/$50.00 USD) - 2022/08/10 21:11:25 ET
+Table 'WPN_Doraville' 9-max Seat #1 is the button
+Seat 1: Tdiddys ($9133.90 in chips)
+Seat 3: luxpoker ($2500.00 in chips)
+Seat 4: Avalan4 ($5075.00 in chips)
+Seat 5: songo24 ($2500.00 in chips)
+luxpoker: posts small blind $25.00
+Avalan4: posts big blind $50.00
+*** HOLE CARDS ***
+songo24: folds
+Tdiddys: folds
+luxpoker: folds
+Uncalled bet ($25.00) returned to Avalan4
+Avalan4 collected $50.00 from pot
+Avalan4: doesn't show hand
+*** SUMMARY ***
+Total pot $50.00 | Rake $0.00
+Seat 1: Tdiddys (button) folded before Flop (didn't bet)
+Seat 3: luxpoker (small blind) folded before Flop
+Seat 4: Avalan4 (big blind) collected ($50.00)
+Seat 5: songo24 folded before Flop (didn't bet)
+
+PokerStars Hand #1334957429:  Hold'em No Limit ($25.00/$50.00 USD) - 2022/08/10 21:11:51 ET
+Table 'WPN_Doraville' 9-max Seat #3 is the button
+Seat 1: Tdiddys ($9133.90 in chips)
+Seat 3: luxpoker ($2475.00 in chips)
+Seat 4: Avalan4 ($5100.00 in chips)
+Seat 5: songo24 ($2500.00 in chips)
+Avalan4: posts small blind $25.00
+songo24: posts big blind $50.00
+*** HOLE CARDS ***
+Tdiddys: folds
+luxpoker: folds
+Avalan4: raises $100.00 to $150.00
+songo24: calls $100.00
+*** FLOP *** [Ah Ac 8h]
+Avalan4: bets $99.00
+songo24: folds
+Uncalled bet ($99.00) returned to Avalan4
+Avalan4 collected $297.75 from pot
+Avalan4: doesn't show hand
+*** SUMMARY ***
+Total pot $300.00 | Rake $2.25
+Board [Ah Ac 8h]
+Seat 1: Tdiddys folded before Flop (didn't bet)
+Seat 3: luxpoker (button) folded before Flop (didn't bet)
+Seat 4: Avalan4 (small blind) collected ($297.75)
+Seat 5: songo24 (big blind) folded on the Flop
+
+PokerStars Hand #1334958479:  Hold'em No Limit ($25.00/$50.00 USD) - 2022/08/10 21:12:37 ET
+Table 'WPN_Doraville' 9-max Seat #4 is the button
+Seat 1: Tdiddys ($9133.90 in chips)
+Seat 3: luxpoker ($2475.00 in chips)
+Seat 4: Avalan4 ($5247.75 in chips)
+Seat 5: songo24 ($2350.00 in chips)
+songo24: posts small blind $25.00
+Tdiddys: posts big blind $50.00
+*** HOLE CARDS ***
+luxpoker: folds
+Avalan4: raises $75.00 to $125.00
+songo24: raises $300.00 to $425.00
+Tdiddys: folds
+Avalan4: folds
+Uncalled bet ($300.00) returned to songo24
+songo24 collected $300.00 from pot
+songo24: doesn't show hand
+*** SUMMARY ***
+Total pot $300.00 | Rake $0.00
+Seat 1: Tdiddys (big blind) folded before Flop
+Seat 3: luxpoker folded before Flop (didn't bet)
+Seat 4: Avalan4 (button) folded before Flop
+Seat 5: songo24 (small blind) collected ($300.00)
+
+PokerStars Hand #1334959623:  Hold'em No Limit ($25.00/$50.00 USD) - 2022/08/10 21:13:26 ET
+Table 'WPN_Doraville' 9-max Seat #5 is the button
+Seat 1: Tdiddys ($9083.90 in chips)
+Seat 3: luxpoker ($2475.00 in chips)
+Seat 4: Avalan4 ($5122.75 in chips)
+Seat 5: songo24 ($2675.00 in chips)
+Tdiddys: posts small blind $25.00
+luxpoker: posts big blind $50.00
+*** HOLE CARDS ***
+Avalan4: folds
+songo24: raises $50.00 to $100.00
+Tdiddys: folds
+luxpoker: folds
+Uncalled bet ($50.00) returned to songo24
+songo24 collected $125.00 from pot
+songo24: doesn't show hand
+*** SUMMARY ***
+Total pot $125.00 | Rake $0.00
+Seat 1: Tdiddys (small blind) folded before Flop
+Seat 3: luxpoker (big blind) folded before Flop
+Seat 4: Avalan4 folded before Flop (didn't bet)
+Seat 5: songo24 (button) collected ($125.00)
+
+PokerStars Hand #1334960197:  Hold'em No Limit ($25.00/$50.00 USD) - 2022/08/10 21:13:51 ET
+Table 'WPN_Doraville' 9-max Seat #1 is the button
+Seat 1: Tdiddys ($9058.90 in chips)
+Seat 3: luxpoker ($2450.00 in chips)
+Seat 4: Avalan4 ($5122.75 in chips)
+Seat 5: songo24 ($2750.00 in chips)
+luxpoker: posts small blind $25.00
+Avalan4: posts big blind $50.00
+*** HOLE CARDS ***
+songo24: folds
+Tdiddys: raises $50.00 to $100.00
+luxpoker: raises $300.00 to $400.00
+Avalan4: folds
+Tdiddys: folds
+Uncalled bet ($300.00) returned to luxpoker
+luxpoker collected $250.00 from pot
+luxpoker: doesn't show hand
+*** SUMMARY ***
+Total pot $250.00 | Rake $0.00
+Seat 1: Tdiddys (button) folded before Flop
+Seat 3: luxpoker (small blind) collected ($250.00)
+Seat 4: Avalan4 (big blind) folded before Flop
+Seat 5: songo24 folded before Flop (didn't bet)
+
+PokerStars Hand #1334961025:  Hold'em No Limit ($25.00/$50.00 USD) - 2022/08/10 21:14:26 ET
+Table 'WPN_Doraville' 9-max Seat #3 is the button
+Seat 1: Tdiddys ($8958.90 in chips)
+Seat 3: luxpoker ($2650.00 in chips)
+Seat 4: Avalan4 ($5072.75 in chips)
+Seat 5: songo24 ($2750.00 in chips)
+Avalan4: posts small blind $25.00
+songo24: posts big blind $50.00
+*** HOLE CARDS ***
+Tdiddys: raises $50.00 to $100.00
+luxpoker: folds
+Avalan4: folds
+songo24: folds
+Uncalled bet ($50.00) returned to Tdiddys
+Tdiddys collected $125.00 from pot
+Tdiddys: doesn't show hand
+*** SUMMARY ***
+Total pot $125.00 | Rake $0.00
+Seat 1: Tdiddys collected ($125.00)
+Seat 3: luxpoker (button) folded before Flop (didn't bet)
+Seat 4: Avalan4 (small blind) folded before Flop
+Seat 5: songo24 (big blind) folded before Flop
+
+PokerStars Hand #1334961995:  Hold'em No Limit ($25.00/$50.00 USD) - 2022/08/10 21:15:07 ET
+Table 'WPN_Doraville' 9-max Seat #4 is the button
+Seat 1: Tdiddys ($9033.90 in chips)
+Seat 3: luxpoker ($2650.00 in chips)
+Seat 4: Avalan4 ($5047.75 in chips)
+Seat 5: songo24 ($2700.00 in chips)
+songo24: posts small blind $25.00
+Tdiddys: posts big blind $50.00
+*** HOLE CARDS ***
+luxpoker: raises $75.00 to $125.00
+Avalan4: folds
+songo24: folds
+Tdiddys: calls $75.00
+*** FLOP *** [Ac 9s 2d]
+Tdiddys: checks
+luxpoker: bets $68.75
+Tdiddys: calls $68.75
+*** TURN *** [Ac 9s 2d] [9h]
+Tdiddys: checks
+luxpoker: checks
+*** RIVER *** [Ac 9s 2d 9h] [9c]
+Tdiddys: bets $309.37
+luxpoker: folds
+Uncalled bet ($309.37) returned to Tdiddys
+Tdiddys collected $410.25 from pot
+Tdiddys: doesn't show hand
+*** SUMMARY ***
+Total pot $412.50 | Rake $2.25
+Board [Ac 9s 2d 9h 9c]
+Seat 1: Tdiddys (big blind) collected ($410.25)
+Seat 3: luxpoker folded on the River
+Seat 4: Avalan4 (button) folded before Flop (didn't bet)
+Seat 5: songo24 (small blind) folded before Flop
+
+PokerStars Hand #1334963035:  Hold'em No Limit ($25.00/$50.00 USD) - 2022/08/10 21:15:52 ET
+Table 'WPN_Doraville' 9-max Seat #5 is the button
+Seat 1: Tdiddys ($9250.40 in chips)
+Seat 3: luxpoker ($2456.25 in chips)
+Seat 4: Avalan4 ($5047.75 in chips)
+Seat 5: songo24 ($2675.00 in chips)
+Tdiddys: posts small blind $25.00
+luxpoker: posts big blind $50.00
+*** HOLE CARDS ***
+Avalan4: folds
+songo24: raises $50.00 to $100.00
+Tdiddys: folds
+luxpoker: calls $50.00
+*** FLOP *** [6c 5h 9s]
+luxpoker: checks
+songo24: checks
+*** TURN *** [6c 5h 9s] [6h]
+luxpoker: checks
+songo24: checks
+*** RIVER *** [6c 5h 9s 6h] [9h]
+luxpoker: checks
+songo24: checks
+*** SHOW DOWN ***
+songo24: shows [3s Ah]
+luxpoker: mucks hand
+songo24 collected $222.75 from pot
+*** SUMMARY ***
+Total pot $225.00 | Rake $2.25
+Board [6c 5h 9s 6h 9h]
+Seat 1: Tdiddys (small blind) folded before Flop
+Seat 3: luxpoker (big blind) mucked
+Seat 4: Avalan4 folded before Flop (didn't bet)
+Seat 5: songo24 (button) showed [3s Ah] and won ($222.75)
+
+PokerStars Hand #1334964709:  Hold'em No Limit ($25.00/$50.00 USD) - 2022/08/10 21:17:01 ET
+Table 'WPN_Doraville' 9-max Seat #1 is the button
+Seat 1: Tdiddys ($9225.40 in chips)
+Seat 3: luxpoker ($2500.00 in chips)
+Seat 4: Avalan4 ($5047.75 in chips)
+Seat 5: songo24 ($2797.75 in chips)
+luxpoker: posts small blind $25.00
+Avalan4: posts big blind $50.00
+*** HOLE CARDS ***
+songo24: folds
+Tdiddys: folds
+luxpoker: folds
+Uncalled bet ($25.00) returned to Avalan4
+Avalan4 collected $50.00 from pot
+Avalan4: doesn't show hand
+*** SUMMARY ***
+Total pot $50.00 | Rake $0.00
+Seat 1: Tdiddys (button) folded before Flop (didn't bet)
+Seat 3: luxpoker (small blind) folded before Flop
+Seat 4: Avalan4 (big blind) collected ($50.00)
+Seat 5: songo24 folded before Flop (didn't bet)
+
+PokerStars Hand #1334965017:  Hold'em No Limit ($25.00/$50.00 USD) - 2022/08/10 21:17:15 ET
+Table 'WPN_Doraville' 9-max Seat #3 is the button
+Seat 1: Tdiddys ($9225.40 in chips)
+Seat 3: luxpoker ($2475.00 in chips)
+Seat 4: Avalan4 ($5072.75 in chips)
+Seat 5: songo24 ($2797.75 in chips)
+Avalan4: posts small blind $25.00
+songo24: posts big blind $50.00
+*** HOLE CARDS ***
+Tdiddys: folds
+luxpoker: folds
+Avalan4: raises $100.00 to $150.00
+songo24: calls $100.00
+*** FLOP *** [3s 9s 2h]
+Avalan4: checks
+songo24: bets $150.00
+Avalan4: folds
+Uncalled bet ($150.00) returned to songo24
+songo24 collected $297.75 from pot
+songo24: doesn't show hand
+*** SUMMARY ***
+Total pot $300.00 | Rake $2.25
+Board [3s 9s 2h]
+Seat 1: Tdiddys folded before Flop (didn't bet)
+Seat 3: luxpoker (button) folded before Flop (didn't bet)
+Seat 4: Avalan4 (small blind) folded on the Flop
+Seat 5: songo24 (big blind) collected ($297.75)
+
+PokerStars Hand #1334966198:  Hold'em No Limit ($25.00/$50.00 USD) - 2022/08/10 21:18:06 ET
+Table 'WPN_Doraville' 9-max Seat #4 is the button
+Seat 1: Tdiddys ($9225.40 in chips)
+Seat 3: luxpoker ($2475.00 in chips)
+Seat 4: Avalan4 ($4922.75 in chips)
+Seat 5: songo24 ($2945.50 in chips)
+songo24: posts small blind $25.00
+Tdiddys: posts big blind $50.00
+*** HOLE CARDS ***
+luxpoker: folds
+Avalan4: folds
+songo24: folds
+Uncalled bet ($25.00) returned to Tdiddys
+Tdiddys collected $50.00 from pot
+Tdiddys: doesn't show hand
+*** SUMMARY ***
+Total pot $50.00 | Rake $0.00
+Seat 1: Tdiddys (big blind) collected ($50.00)
+Seat 3: luxpoker folded before Flop (didn't bet)
+Seat 4: Avalan4 (button) folded before Flop (didn't bet)
+Seat 5: songo24 (small blind) folded before Flop
+
+PokerStars Hand #1334966717:  Hold'em No Limit ($25.00/$50.00 USD) - 2022/08/10 21:18:29 ET
+Table 'WPN_Doraville' 9-max Seat #5 is the button
+Seat 1: Tdiddys ($9250.40 in chips)
+Seat 3: luxpoker ($2475.00 in chips)
+Seat 4: Avalan4 ($4922.75 in chips)
+Seat 5: songo24 ($2920.50 in chips)
+Tdiddys: posts small blind $25.00
+luxpoker: posts big blind $50.00
+*** HOLE CARDS ***
+Avalan4: folds
+songo24: folds
+Tdiddys: raises $50.00 to $100.00
+luxpoker: calls $50.00
+*** FLOP *** [3d Kh 2h]
+Tdiddys: bets $50.00
+luxpoker: calls $50.00
+*** TURN *** [3d Kh 2h] [7s]
+Tdiddys: checks
+luxpoker: checks
+*** RIVER *** [3d Kh 2h 7s] [Qd]
+Tdiddys: checks
+luxpoker: checks
+*** SHOW DOWN ***
+Tdiddys: shows [Jh Tc]
+luxpoker: mucks hand
+Tdiddys collected $297.75 from pot
+*** SUMMARY ***
+Total pot $300.00 | Rake $2.25
+Board [3d Kh 2h 7s Qd]
+Seat 1: Tdiddys (small blind) showed [Jh Tc] and won ($297.75)
+Seat 3: luxpoker (big blind) mucked
+Seat 4: Avalan4 folded before Flop (didn't bet)
+Seat 5: songo24 (button) folded before Flop (didn't bet)
+
+PokerStars Hand #1334967869:  Hold'em No Limit ($25.00/$50.00 USD) - 2022/08/10 21:19:19 ET
+Table 'WPN_Doraville' 9-max Seat #1 is the button
+Seat 1: Tdiddys ($9398.15 in chips)
+Seat 3: luxpoker ($2500.00 in chips)
+Seat 4: Avalan4 ($4922.75 in chips)
+Seat 5: songo24 ($2920.50 in chips)
+luxpoker: posts small blind $25.00
+Avalan4: posts big blind $50.00
+*** HOLE CARDS ***
+songo24: raises $50.00 to $100.00
+Tdiddys: calls $100.00
+luxpoker: folds
+Avalan4: calls $50.00
+*** FLOP *** [2s 2h Ks]
+Avalan4: checks
+songo24: bets $162.50
+Tdiddys: raises $162.50 to $325.00
+Avalan4: folds
+songo24: folds
+Uncalled bet ($162.50) returned to Tdiddys
+Tdiddys collected $647.75 from pot
+Tdiddys: doesn't show hand
+*** SUMMARY ***
+Total pot $650.00 | Rake $2.25
+Board [2s 2h Ks]
+Seat 1: Tdiddys (button) collected ($647.75)
+Seat 3: luxpoker (small blind) folded before Flop
+Seat 4: Avalan4 (big blind) folded on the Flop
+Seat 5: songo24 folded on the Flop
+
+PokerStars Hand #1334969524:  Hold'em No Limit ($25.00/$50.00 USD) - 2022/08/10 21:20:31 ET
+Table 'WPN_Doraville' 9-max Seat #3 is the button
+Seat 1: Tdiddys ($9783.40 in chips)
+Seat 3: luxpoker ($2500.00 in chips)
+Seat 4: Avalan4 ($4822.75 in chips)
+Seat 5: songo24 ($2658.00 in chips)
+Avalan4: posts small blind $25.00
+songo24: posts big blind $50.00
+*** HOLE CARDS ***
+Tdiddys: raises $50.00 to $100.00
+luxpoker: folds
+Avalan4: raises $400.00 to $500.00
+songo24: folds
+Tdiddys: calls $400.00
+*** FLOP *** [4c Qh 2s]
+Avalan4: checks
+Tdiddys: checks
+*** TURN *** [4c Qh 2s] [2c]
+Avalan4: bets $661.50
+Tdiddys: folds
+Uncalled bet ($661.50) returned to Avalan4
+Avalan4 collected $1047.75 from pot
+Avalan4: doesn't show hand
+*** SUMMARY ***
+Total pot $1050.00 | Rake $2.25
+Board [4c Qh 2s 2c]
+Seat 1: Tdiddys folded on the Turn
+Seat 3: luxpoker (button) folded before Flop (didn't bet)
+Seat 4: Avalan4 (small blind) collected ($1047.75)
+Seat 5: songo24 (big blind) folded before Flop
+
+PokerStars Hand #1334970543:  Hold'em No Limit ($25.00/$50.00 USD) - 2022/08/10 21:21:15 ET
+Table 'WPN_Doraville' 9-max Seat #4 is the button
+Seat 1: Tdiddys ($9283.40 in chips)
+Seat 3: luxpoker ($2500.00 in chips)
+Seat 4: Avalan4 ($5370.50 in chips)
+Seat 5: songo24 ($2608.00 in chips)
+songo24: posts small blind $25.00
+Tdiddys: posts big blind $50.00
+*** HOLE CARDS ***
+luxpoker: raises $75.00 to $125.00
+Avalan4: calls $125.00
+songo24: folds
+Tdiddys: folds
+*** FLOP *** [3c Ks 5h]
+luxpoker: checks
+Avalan4: checks
+*** TURN *** [3c Ks 5h] [Jd]
+luxpoker: checks
+Avalan4: checks
+*** RIVER *** [3c Ks 5h Jd] [Ac]
+luxpoker: checks
+Avalan4: bets $204.75
+luxpoker: folds
+Uncalled bet ($204.75) returned to Avalan4
+Avalan4 collected $322.75 from pot
+Avalan4: doesn't show hand
+*** SUMMARY ***
+Total pot $325.00 | Rake $2.25
+Board [3c Ks 5h Jd Ac]
+Seat 1: Tdiddys (big blind) folded before Flop
+Seat 3: luxpoker folded on the River
+Seat 4: Avalan4 (button) collected ($322.75)
+Seat 5: songo24 (small blind) folded before Flop
+
+PokerStars Hand #1334972136:  Hold'em No Limit ($25.00/$50.00 USD) - 2022/08/10 21:22:21 ET
+Table 'WPN_Doraville' 9-max Seat #5 is the button
+Seat 1: Tdiddys ($9233.40 in chips)
+Seat 3: luxpoker ($2375.00 in chips)
+Seat 4: Avalan4 ($5568.25 in chips)
+Seat 5: songo24 ($2583.00 in chips)
+Tdiddys: posts small blind $25.00
+luxpoker: posts big blind $50.00
+*** HOLE CARDS ***
+Avalan4: folds
+songo24: folds
+Tdiddys: folds
+Uncalled bet ($25.00) returned to luxpoker
+luxpoker collected $50.00 from pot
+luxpoker: doesn't show hand
+*** SUMMARY ***
+Total pot $50.00 | Rake $0.00
+Seat 1: Tdiddys (small blind) folded before Flop
+Seat 3: luxpoker (big blind) collected ($50.00)
+Seat 4: Avalan4 folded before Flop (didn't bet)
+Seat 5: songo24 (button) folded before Flop (didn't bet)
+
+PokerStars Hand #1334972558:  Hold'em No Limit ($25.00/$50.00 USD) - 2022/08/10 21:22:40 ET
+Table 'WPN_Doraville' 9-max Seat #1 is the button
+Seat 1: Tdiddys ($9208.40 in chips)
+Seat 3: luxpoker ($2525.00 in chips)
+Seat 4: Avalan4 ($5568.25 in chips)
+Seat 5: songo24 ($2583.00 in chips)
+luxpoker: posts small blind $25.00
+Avalan4: posts big blind $50.00
+*** HOLE CARDS ***
+songo24: raises $50.00 to $100.00
+Tdiddys: folds
+luxpoker: folds
+Avalan4: folds
+Uncalled bet ($50.00) returned to songo24
+songo24 collected $125.00 from pot
+songo24: doesn't show hand
+*** SUMMARY ***
+Total pot $125.00 | Rake $0.00
+Seat 1: Tdiddys (button) folded before Flop (didn't bet)
+Seat 3: luxpoker (small blind) folded before Flop
+Seat 4: Avalan4 (big blind) folded before Flop
+Seat 5: songo24 collected ($125.00)
+
+PokerStars Hand #1334973038:  Hold'em No Limit ($25.00/$50.00 USD) - 2022/08/10 21:23:01 ET
+Table 'WPN_Doraville' 9-max Seat #3 is the button
+Seat 1: Tdiddys ($9208.40 in chips)
+Seat 3: luxpoker ($2500.00 in chips)
+Seat 4: Avalan4 ($5518.25 in chips)
+Seat 5: songo24 ($2658.00 in chips)
+Avalan4: posts small blind $25.00
+songo24: posts big blind $50.00
+*** HOLE CARDS ***
+Tdiddys: raises $50.00 to $100.00
+luxpoker: folds
+Avalan4: folds
+songo24: calls $50.00
+*** FLOP *** [2h Qc 4h]
+songo24: checks
+Tdiddys: bets $112.50
+songo24: folds
+Uncalled bet ($112.50) returned to Tdiddys
+Tdiddys collected $222.75 from pot
+Tdiddys: doesn't show hand
+*** SUMMARY ***
+Total pot $225.00 | Rake $2.25
+Board [2h Qc 4h]
+Seat 1: Tdiddys collected ($222.75)
+Seat 3: luxpoker (button) folded before Flop (didn't bet)
+Seat 4: Avalan4 (small blind) folded before Flop
+Seat 5: songo24 (big blind) folded on the Flop
+
+PokerStars Hand #1334974224:  Hold'em No Limit ($25.00/$50.00 USD) - 2022/08/10 21:23:51 ET
+Table 'WPN_Doraville' 9-max Seat #4 is the button
+Seat 1: Tdiddys ($9331.15 in chips)
+Seat 3: luxpoker ($2500.00 in chips)
+Seat 4: Avalan4 ($5493.25 in chips)
+Seat 5: songo24 ($2558.00 in chips)
+songo24: posts small blind $25.00
+Tdiddys: posts big blind $50.00
+*** HOLE CARDS ***
+luxpoker: folds
+Avalan4: raises $75.00 to $125.00
+songo24: folds
+Tdiddys: folds
+Uncalled bet ($75.00) returned to Avalan4
+Avalan4 collected $125.00 from pot
+Avalan4: doesn't show hand
+*** SUMMARY ***
+Total pot $125.00 | Rake $0.00
+Seat 1: Tdiddys (big blind) folded before Flop
+Seat 3: luxpoker folded before Flop (didn't bet)
+Seat 4: Avalan4 (button) collected ($125.00)
+Seat 5: songo24 (small blind) folded before Flop
+
+PokerStars Hand #1334974712:  Hold'em No Limit ($25.00/$50.00 USD) - 2022/08/10 21:24:12 ET
+Table 'WPN_Doraville' 9-max Seat #5 is the button
+Seat 1: Tdiddys ($9281.15 in chips)
+Seat 3: luxpoker ($2500.00 in chips)
+Seat 4: Avalan4 ($5568.25 in chips)
+Seat 5: songo24 ($2533.00 in chips)
+Tdiddys: posts small blind $25.00
+luxpoker: posts big blind $50.00
+*** HOLE CARDS ***
+Avalan4: raises $75.00 to $125.00
+songo24: folds
+Tdiddys: folds
+luxpoker: folds
+Uncalled bet ($75.00) returned to Avalan4
+Avalan4 collected $125.00 from pot
+Avalan4: doesn't show hand
+*** SUMMARY ***
+Total pot $125.00 | Rake $0.00
+Seat 1: Tdiddys (small blind) folded before Flop
+Seat 3: luxpoker (big blind) folded before Flop
+Seat 4: Avalan4 collected ($125.00)
+Seat 5: songo24 (button) folded before Flop (didn't bet)
+
+PokerStars Hand #1334975515:  Hold'em No Limit ($25.00/$50.00 USD) - 2022/08/10 21:24:47 ET
+Table 'WPN_Doraville' 9-max Seat #1 is the button
+Seat 1: Tdiddys ($9256.15 in chips)
+Seat 3: luxpoker ($2450.00 in chips)
+Seat 4: Avalan4 ($5643.25 in chips)
+Seat 5: songo24 ($2533.00 in chips)
+luxpoker: posts small blind $25.00
+Avalan4: posts big blind $50.00
+*** HOLE CARDS ***
+songo24: raises $50.00 to $100.00
+Tdiddys: folds
+luxpoker: folds
+Avalan4: folds
+Uncalled bet ($50.00) returned to songo24
+songo24 collected $125.00 from pot
+songo24: doesn't show hand
+*** SUMMARY ***
+Total pot $125.00 | Rake $0.00
+Seat 1: Tdiddys (button) folded before Flop (didn't bet)
+Seat 3: luxpoker (small blind) folded before Flop
+Seat 4: Avalan4 (big blind) folded before Flop
+Seat 5: songo24 collected ($125.00)
+
+PokerStars Hand #1334976101:  Hold'em No Limit ($25.00/$50.00 USD) - 2022/08/10 21:25:12 ET
+Table 'WPN_Doraville' 9-max Seat #3 is the button
+Seat 1: Tdiddys ($9256.15 in chips)
+Seat 3: luxpoker ($2500.00 in chips)
+Seat 4: Avalan4 ($5593.25 in chips)
+Seat 5: songo24 ($2608.00 in chips)
+Avalan4: posts small blind $25.00
+songo24: posts big blind $50.00
+*** HOLE CARDS ***
+Tdiddys: raises $50.00 to $100.00
+luxpoker: raises $200.00 to $300.00
+Avalan4: folds
+songo24: folds
+Tdiddys: calls $200.00
+*** FLOP *** [Ks Qc 3h]
+Tdiddys: checks
+luxpoker: bets $168.75
+Tdiddys: folds
+Uncalled bet ($168.75) returned to luxpoker
+luxpoker collected $672.75 from pot
+luxpoker: doesn't show hand
+*** SUMMARY ***
+Total pot $675.00 | Rake $2.25
+Board [Ks Qc 3h]
+Seat 1: Tdiddys folded on the Flop
+Seat 3: luxpoker (button) collected ($672.75)
+Seat 4: Avalan4 (small blind) folded before Flop
+Seat 5: songo24 (big blind) folded before Flop
+
+PokerStars Hand #1334976804:  Hold'em No Limit ($25.00/$50.00 USD) - 2022/08/10 21:25:44 ET
+Table 'WPN_Doraville' 9-max Seat #4 is the button
+Seat 1: Tdiddys ($8956.15 in chips)
+Seat 2: Nimble123 ($1000.00 in chips)
+Seat 3: luxpoker ($2872.75 in chips)
+Seat 4: Avalan4 ($5568.25 in chips)
+Seat 5: songo24 ($2558.00 in chips)
+songo24: posts small blind $25.00
+Tdiddys: posts big blind $50.00
+*** HOLE CARDS ***
+luxpoker: raises $75.00 to $125.00
+Avalan4: folds
+songo24: folds
+Tdiddys: folds
+Uncalled bet ($75.00) returned to luxpoker
+luxpoker collected $125.00 from pot
+luxpoker: doesn't show hand
+*** SUMMARY ***
+Total pot $125.00 | Rake $0.00
+Seat 1: Tdiddys (big blind) folded before Flop
+Seat 3: luxpoker collected ($125.00)
+Seat 4: Avalan4 (button) folded before Flop (didn't bet)
+Seat 5: songo24 (small blind) folded before Flop
+
+PokerStars Hand #1334977487:  Hold'em No Limit ($25.00/$50.00 USD) - 2022/08/10 21:26:14 ET
+Table 'WPN_Doraville' 9-max Seat #5 is the button
+Seat 1: Tdiddys ($8906.15 in chips)
+Seat 2: Nimble123 ($1000.00 in chips)
+Seat 3: luxpoker ($2947.75 in chips)
+Seat 4: Avalan4 ($5568.25 in chips)
+Seat 5: songo24 ($2533.00 in chips)
+Tdiddys: posts small blind $25.00
+Nimble123: posts big blind $50.00
+*** HOLE CARDS ***
+luxpoker: folds
+Avalan4: raises $75.00 to $125.00
+songo24: calls $125.00
+Tdiddys: folds
+Nimble123: calls $75.00
+*** FLOP *** [Jc 4s Qc]
+Nimble123: checks
+Avalan4: checks
+songo24: checks
+*** TURN *** [Jc 4s Qc] [2c]
+Nimble123: bets $215.99
+Avalan4: folds
+songo24: folds
+Uncalled bet ($215.99) returned to Nimble123
+Nimble123 collected $397.00 from pot
+Nimble123: doesn't show hand
+*** SUMMARY ***
+Total pot $400.00 | Rake $3.00
+Board [Jc 4s Qc 2c]
+Seat 1: Tdiddys (small blind) folded before Flop
+Seat 2: Nimble123 (big blind) collected ($397.00)
+Seat 3: luxpoker folded before Flop (didn't bet)
+Seat 4: Avalan4 folded on the Turn
+Seat 5: songo24 (button) folded on the Turn
+
+PokerStars Hand #1334978822:  Hold'em No Limit ($25.00/$50.00 USD) - 2022/08/10 21:27:13 ET
+Table 'WPN_Doraville' 9-max Seat #1 is the button
+Seat 1: Tdiddys ($8881.15 in chips)
+Seat 2: Nimble123 ($1272.00 in chips)
+Seat 3: luxpoker ($2947.75 in chips)
+Seat 4: Avalan4 ($5443.25 in chips)
+Seat 5: songo24 ($2408.00 in chips)
+Nimble123: posts small blind $25.00
+luxpoker: posts big blind $50.00
+*** HOLE CARDS ***
+Avalan4: folds
+songo24: folds
+Tdiddys: folds
+Nimble123: raises $87.50 to $137.50
+luxpoker: calls $87.50
+*** FLOP *** [6c 2d Td]
+Nimble123: bets $229.00
+luxpoker: folds
+Uncalled bet ($229.00) returned to Nimble123
+Nimble123 collected $272.00 from pot
+Nimble123: doesn't show hand
+*** SUMMARY ***
+Total pot $275.00 | Rake $3.00
+Board [6c 2d Td]
+Seat 1: Tdiddys (button) folded before Flop (didn't bet)
+Seat 2: Nimble123 (small blind) collected ($272.00)
+Seat 3: luxpoker (big blind) folded on the Flop
+Seat 4: Avalan4 folded before Flop (didn't bet)
+Seat 5: songo24 folded before Flop (didn't bet)
+
+PokerStars Hand #1334980265:  Hold'em No Limit ($25.00/$50.00 USD) - 2022/08/10 21:28:17 ET
+Table 'WPN_Doraville' 9-max Seat #2 is the button
+Seat 1: Tdiddys ($8881.15 in chips)
+Seat 2: Nimble123 ($1406.50 in chips)
+Seat 3: luxpoker ($2810.25 in chips)
+Seat 4: Avalan4 ($5443.25 in chips)
+Seat 5: songo24 ($2408.00 in chips)
+luxpoker: posts small blind $25.00
+Avalan4: posts big blind $50.00
+*** HOLE CARDS ***
+songo24: folds
+Tdiddys: folds
+Nimble123: folds
+luxpoker: folds
+Uncalled bet ($25.00) returned to Avalan4
+Avalan4 collected $50.00 from pot
+Avalan4: doesn't show hand
+*** SUMMARY ***
+Total pot $50.00 | Rake $0.00
+Seat 1: Tdiddys folded before Flop (didn't bet)
+Seat 2: Nimble123 (button) folded before Flop (didn't bet)
+Seat 3: luxpoker (small blind) folded before Flop
+Seat 4: Avalan4 (big blind) collected ($50.00)
+Seat 5: songo24 folded before Flop (didn't bet)
+
+PokerStars Hand #1334980620:  Hold'em No Limit ($25.00/$50.00 USD) - 2022/08/10 21:28:32 ET
+Table 'WPN_Doraville' 9-max Seat #3 is the button
+Seat 1: Tdiddys ($8881.15 in chips)
+Seat 2: Nimble123 ($1406.50 in chips)
+Seat 3: luxpoker ($2785.25 in chips)
+Seat 4: Avalan4 ($5468.25 in chips)
+Seat 5: songo24 ($2408.00 in chips)
+Avalan4: posts small blind $25.00
+songo24: posts big blind $50.00
+*** HOLE CARDS ***
+Tdiddys: folds
+Nimble123: raises $50.00 to $100.00
+luxpoker: folds
+Avalan4: raises $250.00 to $350.00
+songo24: folds
+Nimble123: calls $250.00
+*** FLOP *** [Jd 7s Tc]
+Avalan4: bets $247.50
+Nimble123: calls $247.50
+*** TURN *** [Jd 7s Tc] [Ks]
+Avalan4: bets $971.10
+Nimble123: calls $809.00 and is all-in
+Uncalled bet ($162.10) returned to Avalan4
+*** RIVER *** [Jd 7s Tc Ks] [2c]
+*** SHOW DOWN ***
+Nimble123: shows [9d 8d]
+Avalan4: shows [Ad Jh]
+Nimble123 collected $2860.00 from pot
+*** SUMMARY ***
+Total pot $2863.00 | Rake $3.00
+Board [Jd 7s Tc Ks 2c]
+Seat 1: Tdiddys folded before Flop (didn't bet)
+Seat 2: Nimble123 showed [9d 8d] and won ($2860.00)
+Seat 3: luxpoker (button) folded before Flop (didn't bet)
+Seat 4: Avalan4 (small blind) showed [Ad Jh] and lost
+Seat 5: songo24 (big blind) folded before Flop
+
+PokerStars Hand #1334984720:  Hold'em No Limit ($25.00/$50.00 USD) - 2022/08/10 21:31:31 ET
+Table 'WPN_Doraville' 9-max Seat #4 is the button
+Seat 2: Nimble123 ($2860.00 in chips)
+Seat 3: luxpoker ($2785.25 in chips)
+Seat 4: Avalan4 ($4061.75 in chips)
+Seat 5: songo24 ($2500.00 in chips)
+songo24: posts small blind $25.00
+Avalan4: posts big blind $50.00
+*** HOLE CARDS ***
+songo24: raises $75.00 to $125.00
+Avalan4: calls $75.00
+*** FLOP *** [7s 2s 7c]
+songo24: bets $82.50
+Avalan4: calls $82.50
+*** TURN *** [7s 2s 7c] [5s]
+songo24: checks
+Avalan4: bets $348.70
+songo24: folds
+Uncalled bet ($348.70) returned to Avalan4
+Avalan4 collected $413.75 from pot
+Avalan4: doesn't show hand
+*** SUMMARY ***
+Total pot $415.00 | Rake $1.25
+Board [7s 2s 7c 5s]
+Seat 4: Avalan4 (button) (big blind) collected ($413.75)
+Seat 5: songo24 (small blind) folded on the Turn
+
+PokerStars Hand #1334986653:  Hold'em No Limit ($25.00/$50.00 USD) - 2022/08/10 21:32:55 ET
+Table 'WPN_Doraville' 9-max Seat #4 is the button
+Seat 1: Tdiddys ($8881.15 in chips)
+Seat 4: Avalan4 ($4268.00 in chips)
+Seat 5: songo24 ($2292.50 in chips)
+Avalan4: posts small blind $25.00
+songo24: posts big blind $50.00
+*** HOLE CARDS ***
+Avalan4: folds
+Uncalled bet ($25.00) returned to songo24
+songo24 collected $50.00 from pot
+songo24: doesn't show hand
+*** SUMMARY ***
+Total pot $50.00 | Rake $0.00
+Seat 4: Avalan4 (button) (small blind) folded before Flop
+Seat 5: songo24 (big blind) collected ($50.00)
+
+PokerStars Hand #1334986821:  Hold'em No Limit ($25.00/$50.00 USD) - 2022/08/10 21:33:04 ET
+Table 'WPN_Doraville' 9-max Seat #4 is the button
+Seat 1: Tdiddys ($8881.15 in chips)
+Seat 4: Avalan4 ($4243.00 in chips)
+Seat 5: songo24 ($2525.00 in chips)
+songo24: posts small blind $25.00
+Tdiddys: posts big blind $50.00
+*** HOLE CARDS ***
+Avalan4: raises $75.00 to $125.00
+songo24: folds
+Tdiddys: folds
+Uncalled bet ($75.00) returned to Avalan4
+Avalan4 collected $125.00 from pot
+Avalan4: doesn't show hand
+*** SUMMARY ***
+Total pot $125.00 | Rake $0.00
+Seat 1: Tdiddys (big blind) folded before Flop
+Seat 4: Avalan4 (button) collected ($125.00)
+Seat 5: songo24 (small blind) folded before Flop
+
+PokerStars Hand #1334987218:  Hold'em No Limit ($25.00/$50.00 USD) - 2022/08/10 21:33:20 ET
+Table 'WPN_Doraville' 9-max Seat #5 is the button
+Seat 1: Tdiddys ($8831.15 in chips)
+Seat 2: luxpoker ($2785.25 in chips)
+Seat 4: Avalan4 ($4318.00 in chips)
+Seat 5: songo24 ($2500.00 in chips)
+Tdiddys: posts small blind $25.00
+luxpoker: posts big blind $50.00
+*** HOLE CARDS ***
+Avalan4: folds
+songo24: raises $50.00 to $100.00
+Tdiddys: raises $50.00 to $150.00
+luxpoker: folds
+songo24: calls $50.00
+*** FLOP *** [9c 2s 5h]
+Tdiddys: bets $262.50
+songo24: folds
+Uncalled bet ($262.50) returned to Tdiddys
+Tdiddys collected $347.75 from pot
+Tdiddys: doesn't show hand
+*** SUMMARY ***
+Total pot $350.00 | Rake $2.25
+Board [9c 2s 5h]
+Seat 1: Tdiddys (small blind) collected ($347.75)
+Seat 2: luxpoker (big blind) folded before Flop
+Seat 4: Avalan4 folded before Flop (didn't bet)
+Seat 5: songo24 (button) folded on the Flop
+
+PokerStars Hand #1334988563:  Hold'em No Limit ($25.00/$50.00 USD) - 2022/08/10 21:34:17 ET
+Table 'WPN_Doraville' 9-max Seat #1 is the button
+Seat 1: Tdiddys ($9028.90 in chips)
+Seat 2: luxpoker ($2735.25 in chips)
+Seat 4: Avalan4 ($4318.00 in chips)
+Seat 5: songo24 ($2350.00 in chips)
+luxpoker: posts small blind $25.00
+Avalan4: posts big blind $50.00
+*** HOLE CARDS ***
+songo24: folds
+Tdiddys: raises $50.00 to $100.00
+luxpoker: folds
+Avalan4: calls $50.00
+*** FLOP *** [5s 9c 2c]
+Avalan4: checks
+Tdiddys: bets $50.00
+Avalan4: calls $50.00
+*** TURN *** [5s 9c 2c] [8h]
+Avalan4: checks
+Tdiddys: bets $50.00
+Avalan4: raises $267.75 to $317.75
+Tdiddys: folds
+Uncalled bet ($267.75) returned to Avalan4
+Avalan4 collected $422.75 from pot
+Avalan4: doesn't show hand
+*** SUMMARY ***
+Total pot $425.00 | Rake $2.25
+Board [5s 9c 2c 8h]
+Seat 1: Tdiddys (button) folded on the Turn
+Seat 2: luxpoker (small blind) folded before Flop
+Seat 4: Avalan4 (big blind) collected ($422.75)
+Seat 5: songo24 folded before Flop (didn't bet)
+
+PokerStars Hand #1334989589:  Hold'em No Limit ($25.00/$50.00 USD) - 2022/08/10 21:35:01 ET
+Table 'WPN_Doraville' 9-max Seat #2 is the button
+Seat 1: Tdiddys ($8828.90 in chips)
+Seat 2: luxpoker ($2710.25 in chips)
+Seat 4: Avalan4 ($4540.75 in chips)
+Seat 5: songo24 ($2350.00 in chips)
+Avalan4: posts small blind $25.00
+songo24: posts big blind $50.00
+*** HOLE CARDS ***
+Tdiddys: folds
+luxpoker: folds
+Avalan4: folds
+Uncalled bet ($25.00) returned to songo24
+songo24 collected $50.00 from pot
+songo24: doesn't show hand
+*** SUMMARY ***
+Total pot $50.00 | Rake $0.00
+Seat 1: Tdiddys folded before Flop (didn't bet)
+Seat 2: luxpoker (button) folded before Flop (didn't bet)
+Seat 4: Avalan4 (small blind) folded before Flop
+Seat 5: songo24 (big blind) collected ($50.00)
+
+PokerStars Hand #1334989837:  Hold'em No Limit ($25.00/$50.00 USD) - 2022/08/10 21:35:12 ET
+Table 'WPN_Doraville' 9-max Seat #4 is the button
+Seat 1: Tdiddys ($8828.90 in chips)
+Seat 2: luxpoker ($2710.25 in chips)
+Seat 4: Avalan4 ($4515.75 in chips)
+Seat 5: songo24 ($2525.00 in chips)
+songo24: posts small blind $25.00
+Tdiddys: posts big blind $50.00
+*** HOLE CARDS ***
+luxpoker: folds
+Avalan4: folds
+songo24: folds
+Uncalled bet ($25.00) returned to Tdiddys
+Tdiddys collected $50.00 from pot
+Tdiddys: doesn't show hand
+*** SUMMARY ***
+Total pot $50.00 | Rake $0.00
+Seat 1: Tdiddys (big blind) collected ($50.00)
+Seat 2: luxpoker folded before Flop (didn't bet)
+Seat 4: Avalan4 (button) folded before Flop (didn't bet)
+Seat 5: songo24 (small blind) folded before Flop
+
+PokerStars Hand #1334990328:  Hold'em No Limit ($25.00/$50.00 USD) - 2022/08/10 21:35:33 ET
+Table 'WPN_Doraville' 9-max Seat #5 is the button
+Seat 1: Tdiddys ($8853.90 in chips)
+Seat 2: luxpoker ($2710.25 in chips)
+Seat 4: Avalan4 ($4515.75 in chips)
+Seat 5: songo24 ($2500.00 in chips)
+Tdiddys: posts small blind $25.00
+luxpoker: posts big blind $50.00
+*** HOLE CARDS ***
+Avalan4: raises $75.00 to $125.00
+songo24: folds
+Tdiddys: folds
+luxpoker: folds
+Uncalled bet ($75.00) returned to Avalan4
+Avalan4 collected $125.00 from pot
+Avalan4: doesn't show hand
+*** SUMMARY ***
+Total pot $125.00 | Rake $0.00
+Seat 1: Tdiddys (small blind) folded before Flop
+Seat 2: luxpoker (big blind) folded before Flop
+Seat 4: Avalan4 collected ($125.00)
+Seat 5: songo24 (button) folded before Flop (didn't bet)
+
+PokerStars Hand #1334990884:  Hold'em No Limit ($25.00/$50.00 USD) - 2022/08/10 21:35:57 ET
+Table 'WPN_Doraville' 9-max Seat #1 is the button
+Seat 1: Tdiddys ($8828.90 in chips)
+Seat 2: luxpoker ($2660.25 in chips)
+Seat 4: Avalan4 ($4590.75 in chips)
+Seat 5: songo24 ($2500.00 in chips)
+luxpoker: posts small blind $25.00
+Avalan4: posts big blind $50.00
+*** HOLE CARDS ***
+songo24: folds
+Tdiddys: folds
+luxpoker: folds
+Uncalled bet ($25.00) returned to Avalan4
+Avalan4 collected $50.00 from pot
+Avalan4: doesn't show hand
+*** SUMMARY ***
+Total pot $50.00 | Rake $0.00
+Seat 1: Tdiddys (button) folded before Flop (didn't bet)
+Seat 2: luxpoker (small blind) folded before Flop
+Seat 4: Avalan4 (big blind) collected ($50.00)
+Seat 5: songo24 folded before Flop (didn't bet)
+
+PokerStars Hand #1334991218:  Hold'em No Limit ($25.00/$50.00 USD) - 2022/08/10 21:36:12 ET
+Table 'WPN_Doraville' 9-max Seat #2 is the button
+Seat 1: Tdiddys ($8828.90 in chips)
+Seat 2: luxpoker ($2635.25 in chips)
+Seat 4: Avalan4 ($4615.75 in chips)
+Seat 5: songo24 ($2500.00 in chips)
+Avalan4: posts small blind $25.00
+songo24: posts big blind $50.00
+*** HOLE CARDS ***
+Tdiddys: raises $50.00 to $100.00
+luxpoker: folds
+Avalan4: folds
+songo24: folds
+Uncalled bet ($50.00) returned to Tdiddys
+Tdiddys collected $125.00 from pot
+Tdiddys: doesn't show hand
+*** SUMMARY ***
+Total pot $125.00 | Rake $0.00
+Seat 1: Tdiddys collected ($125.00)
+Seat 2: luxpoker (button) folded before Flop (didn't bet)
+Seat 4: Avalan4 (small blind) folded before Flop
+Seat 5: songo24 (big blind) folded before Flop
+
+PokerStars Hand #1334991573:  Hold'em No Limit ($25.00/$50.00 USD) - 2022/08/10 21:36:26 ET
+Table 'WPN_Doraville' 9-max Seat #4 is the button
+Seat 1: Tdiddys ($8903.90 in chips)
+Seat 2: luxpoker ($2635.25 in chips)
+Seat 4: Avalan4 ($4590.75 in chips)
+Seat 5: songo24 ($2450.00 in chips)
+songo24: posts small blind $25.00
+Tdiddys: posts big blind $50.00
+*** HOLE CARDS ***
+luxpoker: raises $75.00 to $125.00
+Avalan4: folds
+songo24: folds
+Tdiddys: calls $75.00
+*** FLOP *** [Qc 4s 2h]
+Tdiddys: checks
+luxpoker: bets $68.75
+Tdiddys: folds
+Uncalled bet ($68.75) returned to luxpoker
+luxpoker collected $272.75 from pot
+luxpoker: doesn't show hand
+*** SUMMARY ***
+Total pot $275.00 | Rake $2.25
+Board [Qc 4s 2h]
+Seat 1: Tdiddys (big blind) folded on the Flop
+Seat 2: luxpoker collected ($272.75)
+Seat 4: Avalan4 (button) folded before Flop (didn't bet)
+Seat 5: songo24 (small blind) folded before Flop
+
+PokerStars Hand #1334992773:  Hold'em No Limit ($25.00/$50.00 USD) - 2022/08/10 21:37:17 ET
+Table 'WPN_Doraville' 9-max Seat #5 is the button
+Seat 1: Tdiddys ($8778.90 in chips)
+Seat 2: luxpoker ($2783.00 in chips)
+Seat 4: Avalan4 ($4590.75 in chips)
+Seat 5: songo24 ($2500.00 in chips)
+Tdiddys: posts small blind $25.00
+luxpoker: posts big blind $50.00
+*** HOLE CARDS ***
+Avalan4: folds
+songo24: folds
+Tdiddys: folds
+Uncalled bet ($25.00) returned to luxpoker
+luxpoker collected $50.00 from pot
+luxpoker: doesn't show hand
+*** SUMMARY ***
+Total pot $50.00 | Rake $0.00
+Seat 1: Tdiddys (small blind) folded before Flop
+Seat 2: luxpoker (big blind) collected ($50.00)
+Seat 4: Avalan4 folded before Flop (didn't bet)
+Seat 5: songo24 (button) folded before Flop (didn't bet)
+
+PokerStars Hand #1334993290:  Hold'em No Limit ($25.00/$50.00 USD) - 2022/08/10 21:37:39 ET
+Table 'WPN_Doraville' 9-max Seat #1 is the button
+Seat 1: Tdiddys ($8753.90 in chips)
+Seat 2: luxpoker ($2808.00 in chips)
+Seat 4: Avalan4 ($4590.75 in chips)
+Seat 5: songo24 ($2500.00 in chips)
+luxpoker: posts small blind $25.00
+Avalan4: posts big blind $50.00
+*** HOLE CARDS ***
+songo24: folds
+Tdiddys: folds
+luxpoker: raises $100.00 to $150.00
+Avalan4: folds
+Uncalled bet ($100.00) returned to luxpoker
+luxpoker collected $100.00 from pot
+luxpoker: doesn't show hand
+*** SUMMARY ***
+Total pot $100.00 | Rake $0.00
+Seat 1: Tdiddys (button) folded before Flop (didn't bet)
+Seat 2: luxpoker (small blind) collected ($100.00)
+Seat 4: Avalan4 (big blind) folded before Flop
+Seat 5: songo24 folded before Flop (didn't bet)
+
+PokerStars Hand #1334993684:  Hold'em No Limit ($25.00/$50.00 USD) - 2022/08/10 21:37:56 ET
+Table 'WPN_Doraville' 9-max Seat #2 is the button
+Seat 1: Tdiddys ($8753.90 in chips)
+Seat 2: luxpoker ($2858.00 in chips)
+Seat 4: Avalan4 ($4540.75 in chips)
+Seat 5: songo24 ($2500.00 in chips)
+Avalan4: posts small blind $25.00
+songo24: posts big blind $50.00
+*** HOLE CARDS ***
+Tdiddys: raises $50.00 to $100.00
+luxpoker: folds
+Avalan4: folds
+songo24: folds
+Uncalled bet ($50.00) returned to Tdiddys
+Tdiddys collected $125.00 from pot
+Tdiddys: doesn't show hand
+*** SUMMARY ***
+Total pot $125.00 | Rake $0.00
+Seat 1: Tdiddys collected ($125.00)
+Seat 2: luxpoker (button) folded before Flop (didn't bet)
+Seat 4: Avalan4 (small blind) folded before Flop
+Seat 5: songo24 (big blind) folded before Flop
+
+PokerStars Hand #1334994064:  Hold'em No Limit ($25.00/$50.00 USD) - 2022/08/10 21:38:11 ET
+Table 'WPN_Doraville' 9-max Seat #4 is the button
+Seat 1: Tdiddys ($8828.90 in chips)
+Seat 2: luxpoker ($2858.00 in chips)
+Seat 4: Avalan4 ($4515.75 in chips)
+Seat 5: songo24 ($2450.00 in chips)
+songo24: posts small blind $25.00
+Tdiddys: posts big blind $50.00
+*** HOLE CARDS ***
+luxpoker: raises $75.00 to $125.00
+Avalan4: folds
+songo24: folds
+Tdiddys: folds
+Uncalled bet ($75.00) returned to luxpoker
+luxpoker collected $125.00 from pot
+luxpoker: doesn't show hand
+*** SUMMARY ***
+Total pot $125.00 | Rake $0.00
+Seat 1: Tdiddys (big blind) folded before Flop
+Seat 2: luxpoker collected ($125.00)
+Seat 4: Avalan4 (button) folded before Flop (didn't bet)
+Seat 5: songo24 (small blind) folded before Flop
+
+PokerStars Hand #1334994583:  Hold'em No Limit ($25.00/$50.00 USD) - 2022/08/10 21:38:34 ET
+Table 'WPN_Doraville' 9-max Seat #5 is the button
+Seat 1: Tdiddys ($8778.90 in chips)
+Seat 2: luxpoker ($2933.00 in chips)
+Seat 4: Avalan4 ($4515.75 in chips)
+Seat 5: songo24 ($2500.00 in chips)
+Tdiddys: posts small blind $25.00
+luxpoker: posts big blind $50.00
+*** HOLE CARDS ***
+Avalan4: raises $75.00 to $125.00
+songo24: folds
+Tdiddys: calls $100.00
+luxpoker: calls $75.00
+*** FLOP *** [4d 8d 6h]
+Tdiddys: checks
+luxpoker: checks
+Avalan4: bets $236.25
+Tdiddys: folds
+luxpoker: folds
+Uncalled bet ($236.25) returned to Avalan4
+Avalan4 collected $372.75 from pot
+Avalan4: doesn't show hand
+*** SUMMARY ***
+Total pot $375.00 | Rake $2.25
+Board [4d 8d 6h]
+Seat 1: Tdiddys (small blind) folded on the Flop
+Seat 2: luxpoker (big blind) folded on the Flop
+Seat 4: Avalan4 collected ($372.75)
+Seat 5: songo24 (button) folded before Flop (didn't bet)
+
+PokerStars Hand #1334995663:  Hold'em No Limit ($25.00/$50.00 USD) - 2022/08/10 21:39:19 ET
+Table 'WPN_Doraville' 9-max Seat #1 is the button
+Seat 1: Tdiddys ($8653.90 in chips)
+Seat 2: luxpoker ($2808.00 in chips)
+Seat 4: Avalan4 ($4763.50 in chips)
+Seat 5: songo24 ($2500.00 in chips)
+luxpoker: posts small blind $25.00
+Avalan4: posts big blind $50.00
+*** HOLE CARDS ***
+songo24: raises $50.00 to $100.00
+Tdiddys: folds
+luxpoker: folds
+Avalan4: folds
+Uncalled bet ($50.00) returned to songo24
+songo24 collected $125.00 from pot
+songo24: doesn't show hand
+*** SUMMARY ***
+Total pot $125.00 | Rake $0.00
+Seat 1: Tdiddys (button) folded before Flop (didn't bet)
+Seat 2: luxpoker (small blind) folded before Flop
+Seat 4: Avalan4 (big blind) folded before Flop
+Seat 5: songo24 collected ($125.00)
+
+PokerStars Hand #1334995971:  Hold'em No Limit ($25.00/$50.00 USD) - 2022/08/10 21:39:32 ET
+Table 'WPN_Doraville' 9-max Seat #2 is the button
+Seat 1: Tdiddys ($8653.90 in chips)
+Seat 2: luxpoker ($2783.00 in chips)
+Seat 4: Avalan4 ($4713.50 in chips)
+Seat 5: songo24 ($2575.00 in chips)
+Avalan4: posts small blind $25.00
+songo24: posts big blind $50.00
+*** HOLE CARDS ***
+Tdiddys: folds
+luxpoker: folds
+Avalan4: folds
+Uncalled bet ($25.00) returned to songo24
+songo24 collected $50.00 from pot
+songo24: doesn't show hand
+*** SUMMARY ***
+Total pot $50.00 | Rake $0.00
+Seat 1: Tdiddys folded before Flop (didn't bet)
+Seat 2: luxpoker (button) folded before Flop (didn't bet)
+Seat 4: Avalan4 (small blind) folded before Flop
+Seat 5: songo24 (big blind) collected ($50.00)
+
+PokerStars Hand #1334996522:  Hold'em No Limit ($25.00/$50.00 USD) - 2022/08/10 21:39:55 ET
+Table 'WPN_Doraville' 9-max Seat #4 is the button
+Seat 1: Tdiddys ($8653.90 in chips)
+Seat 2: luxpoker ($2783.00 in chips)
+Seat 4: Avalan4 ($4688.50 in chips)
+Seat 5: songo24 ($2600.00 in chips)
+songo24: posts small blind $25.00
+Tdiddys: posts big blind $50.00
+*** HOLE CARDS ***
+luxpoker: folds
+Avalan4: folds
+songo24: folds
+Uncalled bet ($25.00) returned to Tdiddys
+Tdiddys collected $50.00 from pot
+Tdiddys: doesn't show hand
+*** SUMMARY ***
+Total pot $50.00 | Rake $0.00
+Seat 1: Tdiddys (big blind) collected ($50.00)
+Seat 2: luxpoker folded before Flop (didn't bet)
+Seat 4: Avalan4 (button) folded before Flop (didn't bet)
+Seat 5: songo24 (small blind) folded before Flop
+
+PokerStars Hand #1334996827:  Hold'em No Limit ($25.00/$50.00 USD) - 2022/08/10 21:40:08 ET
+Table 'WPN_Doraville' 9-max Seat #5 is the button
+Seat 1: Tdiddys ($8678.90 in chips)
+Seat 2: luxpoker ($2783.00 in chips)
+Seat 4: Avalan4 ($4688.50 in chips)
+Seat 5: songo24 ($2575.00 in chips)
+Tdiddys: posts small blind $25.00
+luxpoker: posts big blind $50.00
+*** HOLE CARDS ***
+Avalan4: folds
+songo24: raises $50.00 to $100.00
+Tdiddys: folds
+luxpoker: calls $50.00
+*** FLOP *** [Ks 2c 3c]
+luxpoker: checks
+songo24: bets $74.25
+luxpoker: folds
+Uncalled bet ($74.25) returned to songo24
+songo24 collected $222.75 from pot
+songo24: doesn't show hand
+*** SUMMARY ***
+Total pot $225.00 | Rake $2.25
+Board [Ks 2c 3c]
+Seat 1: Tdiddys (small blind) folded before Flop
+Seat 2: luxpoker (big blind) folded on the Flop
+Seat 4: Avalan4 folded before Flop (didn't bet)
+Seat 5: songo24 (button) collected ($222.75)
+
+PokerStars Hand #1334997870:  Hold'em No Limit ($25.00/$50.00 USD) - 2022/08/10 21:40:53 ET
+Table 'WPN_Doraville' 9-max Seat #1 is the button
+Seat 1: Tdiddys ($8653.90 in chips)
+Seat 2: luxpoker ($2683.00 in chips)
+Seat 4: Avalan4 ($4688.50 in chips)
+Seat 5: songo24 ($2697.75 in chips)
+luxpoker: posts small blind $25.00
+Avalan4: posts big blind $50.00
+*** HOLE CARDS ***
+songo24: folds
+Tdiddys: raises $50.00 to $100.00
+luxpoker: folds
+Avalan4: raises $350.00 to $450.00
+Tdiddys: calls $350.00
+*** FLOP *** [Qh Jd 4h]
+Avalan4: bets $305.25
+Tdiddys: raises $305.25 to $610.50
+Avalan4: calls $305.25
+*** TURN *** [Qh Jd 4h] [3h]
+Avalan4: checks
+Tdiddys: checks
+*** RIVER *** [Qh Jd 4h 3h] [9d]
+Avalan4: checks
+Tdiddys: checks
+*** SHOW DOWN ***
+Tdiddys: shows [Js Ah]
+Avalan4: mucks hand
+Tdiddys collected $2143.75 from pot
+*** SUMMARY ***
+Total pot $2146.00 | Rake $2.25
+Board [Qh Jd 4h 3h 9d]
+Seat 1: Tdiddys (button) showed [Js Ah] and won ($2143.75)
+Seat 2: luxpoker (small blind) folded before Flop
+Seat 4: Avalan4 (big blind) mucked
+Seat 5: songo24 folded before Flop (didn't bet)
+
+PokerStars Hand #1334999775:  Hold'em No Limit ($25.00/$50.00 USD) - 2022/08/10 21:42:14 ET
+Table 'WPN_Doraville' 9-max Seat #2 is the button
+Seat 1: Tdiddys ($9737.15 in chips)
+Seat 2: luxpoker ($2658.00 in chips)
+Seat 4: Avalan4 ($3628.00 in chips)
+Seat 5: songo24 ($2697.75 in chips)
+Avalan4: posts small blind $25.00
+songo24: posts big blind $50.00
+*** HOLE CARDS ***
+Tdiddys: folds
+luxpoker: raises $75.00 to $125.00
+Avalan4: folds
+songo24: calls $75.00
+*** FLOP *** [Ts Ad 7d]
+songo24: checks
+luxpoker: checks
+*** TURN *** [Ts Ad 7d] [4h]
+songo24: bets $206.25
+luxpoker: calls $206.25
+*** RIVER *** [Ts Ad 7d 4h] [5c]
+songo24: bets $515.62
+luxpoker: folds
+Uncalled bet ($515.62) returned to songo24
+songo24 collected $685.25 from pot
+songo24: doesn't show hand
+*** SUMMARY ***
+Total pot $687.50 | Rake $2.25
+Board [Ts Ad 7d 4h 5c]
+Seat 1: Tdiddys folded before Flop (didn't bet)
+Seat 2: luxpoker (button) folded on the River
+Seat 4: Avalan4 (small blind) folded before Flop
+Seat 5: songo24 (big blind) collected ($685.25)
+
+PokerStars Hand #1335001525:  Hold'em No Limit ($25.00/$50.00 USD) - 2022/08/10 21:43:27 ET
+Table 'WPN_Doraville' 9-max Seat #4 is the button
+Seat 1: Tdiddys ($9737.15 in chips)
+Seat 2: luxpoker ($2326.75 in chips)
+Seat 4: Avalan4 ($3603.00 in chips)
+Seat 5: songo24 ($3051.75 in chips)
+songo24: posts small blind $25.00
+Tdiddys: posts big blind $50.00
+*** HOLE CARDS ***
+luxpoker: raises $75.00 to $125.00
+Avalan4: calls $125.00
+songo24: folds
+Tdiddys: folds
+*** FLOP *** [Kh 2c 7s]
+luxpoker: bets $107.25
+Avalan4: folds
+Uncalled bet ($107.25) returned to luxpoker
+luxpoker collected $322.75 from pot
+luxpoker: doesn't show hand
+*** SUMMARY ***
+Total pot $325.00 | Rake $2.25
+Board [Kh 2c 7s]
+Seat 1: Tdiddys (big blind) folded before Flop
+Seat 2: luxpoker collected ($322.75)
+Seat 4: Avalan4 (button) folded on the Flop
+Seat 5: songo24 (small blind) folded before Flop
+
+PokerStars Hand #1335002553:  Hold'em No Limit ($25.00/$50.00 USD) - 2022/08/10 21:44:09 ET
+Table 'WPN_Doraville' 9-max Seat #5 is the button
+Seat 1: Tdiddys ($9687.15 in chips)
+Seat 2: luxpoker ($2697.75 in chips)
+Seat 4: Avalan4 ($3478.00 in chips)
+Seat 5: songo24 ($3026.75 in chips)
+Tdiddys: posts small blind $25.00
+luxpoker: posts big blind $50.00
+*** HOLE CARDS ***
+Avalan4: folds
+songo24: raises $50.00 to $100.00
+Tdiddys: raises $50.00 to $150.00
+luxpoker: folds
+songo24: calls $50.00
+*** FLOP *** [4c 3s Tc]
+Tdiddys: bets $175.00
+songo24: calls $175.00
+*** TURN *** [4c 3s Tc] [2c]
+Tdiddys: bets $175.00
+songo24: folds
+Uncalled bet ($175.00) returned to Tdiddys
+Tdiddys collected $697.75 from pot
+Tdiddys: doesn't show hand
+*** SUMMARY ***
+Total pot $700.00 | Rake $2.25
+Board [4c 3s Tc 2c]
+Seat 1: Tdiddys (small blind) collected ($697.75)
+Seat 2: luxpoker (big blind) folded before Flop
+Seat 4: Avalan4 folded before Flop (didn't bet)
+Seat 5: songo24 (button) folded on the Turn
+
+PokerStars Hand #1335004164:  Hold'em No Limit ($25.00/$50.00 USD) - 2022/08/10 21:45:18 ET
+Table 'WPN_Doraville' 9-max Seat #1 is the button
+Seat 1: Tdiddys ($10059.90 in chips)
+Seat 2: luxpoker ($2647.75 in chips)
+Seat 4: Avalan4 ($3478.00 in chips)
+Seat 5: songo24 ($2701.75 in chips)
+luxpoker: posts small blind $25.00
+Avalan4: posts big blind $50.00
+*** HOLE CARDS ***
+songo24: folds
+Tdiddys: raises $50.00 to $100.00
+luxpoker: raises $300.00 to $400.00
+Avalan4: folds
+Tdiddys: calls $300.00
+*** FLOP *** [5d 2d 4s]
+luxpoker: bets $425.00
+Tdiddys: raises $677.34 to $1102.34
+luxpoker: raises $1145.41 to $2247.75 and is all-in
+Tdiddys: calls $1145.41
+*** TURN *** [5d 2d 4s] [Qd]
+*** RIVER *** [5d 2d 4s Qd] [6s]
+*** SHOW DOWN ***
+Tdiddys: shows [3h 3s]
+luxpoker: shows [Ks Kh]
+Tdiddys collected $5343.25 from pot
+*** SUMMARY ***
+Total pot $5345.50 | Rake $2.25
+Board [5d 2d 4s Qd 6s]
+Seat 1: Tdiddys (button) showed [3h 3s] and won ($5343.25)
+Seat 2: luxpoker (small blind) showed [Ks Kh] and lost
+Seat 4: Avalan4 (big blind) folded before Flop
+Seat 5: songo24 folded before Flop (didn't bet)
+
+PokerStars Hand #1335005131:  Hold'em No Limit ($25.00/$50.00 USD) - 2022/08/10 21:45:59 ET
+Table 'WPN_Doraville' 9-max Seat #2 is the button
+Seat 1: Tdiddys ($12755.40 in chips)
+Seat 2: luxpoker ($2500.00 in chips)
+Seat 4: Avalan4 ($3428.00 in chips)
+Seat 5: songo24 ($2701.75 in chips)
+Avalan4: posts small blind $25.00
+songo24: posts big blind $50.00
+*** HOLE CARDS ***
+Tdiddys: raises $50.00 to $100.00
+luxpoker: raises $200.00 to $300.00
+Avalan4: folds
+songo24: folds
+Tdiddys: calls $200.00
+*** FLOP *** [3h Ks 7s]
+Tdiddys: checks
+luxpoker: bets $168.75
+Tdiddys: folds
+Uncalled bet ($168.75) returned to luxpoker
+luxpoker collected $672.75 from pot
+luxpoker: doesn't show hand
+*** SUMMARY ***
+Total pot $675.00 | Rake $2.25
+Board [3h Ks 7s]
+Seat 1: Tdiddys folded on the Flop
+Seat 2: luxpoker (button) collected ($672.75)
+Seat 4: Avalan4 (small blind) folded before Flop
+Seat 5: songo24 (big blind) folded before Flop
+
+PokerStars Hand #1335006021:  Hold'em No Limit ($25.00/$50.00 USD) - 2022/08/10 21:46:37 ET
+Table 'WPN_Doraville' 9-max Seat #4 is the button
+Seat 1: Tdiddys ($12455.40 in chips)
+Seat 2: luxpoker ($2872.75 in chips)
+Seat 4: Avalan4 ($3403.00 in chips)
+Seat 5: songo24 ($2651.75 in chips)
+songo24: posts small blind $25.00
+Tdiddys: posts big blind $50.00
+*** HOLE CARDS ***
+luxpoker: folds
+Avalan4: folds
+songo24: folds
+Uncalled bet ($25.00) returned to Tdiddys
+Tdiddys collected $50.00 from pot
+Tdiddys: doesn't show hand
+*** SUMMARY ***
+Total pot $50.00 | Rake $0.00
+Seat 1: Tdiddys (big blind) collected ($50.00)
+Seat 2: luxpoker folded before Flop (didn't bet)
+Seat 4: Avalan4 (button) folded before Flop (didn't bet)
+Seat 5: songo24 (small blind) folded before Flop
+
+PokerStars Hand #1335006506:  Hold'em No Limit ($25.00/$50.00 USD) - 2022/08/10 21:46:58 ET
+Table 'WPN_Doraville' 9-max Seat #5 is the button
+Seat 1: Tdiddys ($12480.40 in chips)
+Seat 2: luxpoker ($2872.75 in chips)
+Seat 4: Avalan4 ($3403.00 in chips)
+Seat 5: songo24 ($2626.75 in chips)
+Tdiddys: posts small blind $25.00
+luxpoker: posts big blind $50.00
+*** HOLE CARDS ***
+Avalan4: raises $75.00 to $125.00
+songo24: folds
+Tdiddys: folds
+luxpoker: folds
+Uncalled bet ($75.00) returned to Avalan4
+Avalan4 collected $125.00 from pot
+Avalan4: doesn't show hand
+*** SUMMARY ***
+Total pot $125.00 | Rake $0.00
+Seat 1: Tdiddys (small blind) folded before Flop
+Seat 2: luxpoker (big blind) folded before Flop
+Seat 4: Avalan4 collected ($125.00)
+Seat 5: songo24 (button) folded before Flop (didn't bet)
+
+PokerStars Hand #1335006984:  Hold'em No Limit ($25.00/$50.00 USD) - 2022/08/10 21:47:19 ET
+Table 'WPN_Doraville' 9-max Seat #1 is the button
+Seat 1: Tdiddys ($12455.40 in chips)
+Seat 2: luxpoker ($2822.75 in chips)
+Seat 4: Avalan4 ($3478.00 in chips)
+Seat 5: songo24 ($2626.75 in chips)
+luxpoker: posts small blind $25.00
+Avalan4: posts big blind $50.00
+*** HOLE CARDS ***
+songo24: folds
+Tdiddys: folds
+luxpoker: raises $100.00 to $150.00
+Avalan4: calls $100.00
+*** FLOP *** [Ah Ad Jc]
+luxpoker: checks
+Avalan4: checks
+*** TURN *** [Ah Ad Jc] [Tc]
+luxpoker: checks
+Avalan4: checks
+*** RIVER *** [Ah Ad Jc Tc] [Js]
+luxpoker: bets $99.00
+Avalan4: folds
+Uncalled bet ($99.00) returned to luxpoker
+luxpoker collected $297.75 from pot
+luxpoker: doesn't show hand
+*** SUMMARY ***
+Total pot $300.00 | Rake $2.25
+Board [Ah Ad Jc Tc Js]
+Seat 1: Tdiddys (button) folded before Flop (didn't bet)
+Seat 2: luxpoker (small blind) collected ($297.75)
+Seat 4: Avalan4 (big blind) folded on the River
+Seat 5: songo24 folded before Flop (didn't bet)
+
+PokerStars Hand #1335008578:  Hold'em No Limit ($25.00/$50.00 USD) - 2022/08/10 21:48:29 ET
+Table 'WPN_Doraville' 9-max Seat #2 is the button
+Seat 1: Tdiddys ($12455.40 in chips)
+Seat 2: luxpoker ($2970.50 in chips)
+Seat 4: Avalan4 ($3328.00 in chips)
+Seat 5: songo24 ($2626.75 in chips)
+Avalan4: posts small blind $25.00
+songo24: posts big blind $50.00
+*** HOLE CARDS ***
+Tdiddys: folds
+luxpoker: folds
+Avalan4: folds
+Uncalled bet ($25.00) returned to songo24
+songo24 collected $50.00 from pot
+songo24: doesn't show hand
+*** SUMMARY ***
+Total pot $50.00 | Rake $0.00
+Seat 1: Tdiddys folded before Flop (didn't bet)
+Seat 2: luxpoker (button) folded before Flop (didn't bet)
+Seat 4: Avalan4 (small blind) folded before Flop
+Seat 5: songo24 (big blind) collected ($50.00)
+
+PokerStars Hand #1335008886:  Hold'em No Limit ($25.00/$50.00 USD) - 2022/08/10 21:48:42 ET
+Table 'WPN_Doraville' 9-max Seat #4 is the button
+Seat 1: Tdiddys ($12455.40 in chips)
+Seat 2: luxpoker ($2970.50 in chips)
+Seat 4: Avalan4 ($3303.00 in chips)
+Seat 5: songo24 ($2651.75 in chips)
+songo24: posts small blind $25.00
+Tdiddys: posts big blind $50.00
+*** HOLE CARDS ***
+luxpoker: raises $75.00 to $125.00
+Avalan4: folds
+songo24: folds
+Tdiddys: folds
+Uncalled bet ($75.00) returned to luxpoker
+luxpoker collected $125.00 from pot
+luxpoker: doesn't show hand
+*** SUMMARY ***
+Total pot $125.00 | Rake $0.00
+Seat 1: Tdiddys (big blind) folded before Flop
+Seat 2: luxpoker collected ($125.00)
+Seat 4: Avalan4 (button) folded before Flop (didn't bet)
+Seat 5: songo24 (small blind) folded before Flop
+
+PokerStars Hand #1335009278:  Hold'em No Limit ($25.00/$50.00 USD) - 2022/08/10 21:48:59 ET
+Table 'WPN_Doraville' 9-max Seat #5 is the button
+Seat 1: Tdiddys ($12405.40 in chips)
+Seat 2: luxpoker ($3045.50 in chips)
+Seat 4: Avalan4 ($3303.00 in chips)
+Seat 5: songo24 ($2626.75 in chips)
+Tdiddys: posts small blind $25.00
+luxpoker: posts big blind $50.00
+*** HOLE CARDS ***
+Avalan4: raises $75.00 to $125.00
+songo24: calls $125.00
+Tdiddys: folds
+luxpoker: folds
+*** FLOP *** [6d Qd 5h]
+Avalan4: bets $107.25
+songo24: raises $219.75 to $327.00
+Avalan4: folds
+Uncalled bet ($219.75) returned to songo24
+songo24 collected $537.25 from pot
+songo24: doesn't show hand
+*** SUMMARY ***
+Total pot $539.50 | Rake $2.25
+Board [6d Qd 5h]
+Seat 1: Tdiddys (small blind) folded before Flop
+Seat 2: luxpoker (big blind) folded before Flop
+Seat 4: Avalan4 folded on the Flop
+Seat 5: songo24 (button) collected ($537.25)
+
+PokerStars Hand #1335010438:  Hold'em No Limit ($25.00/$50.00 USD) - 2022/08/10 21:49:49 ET
+Table 'WPN_Doraville' 9-max Seat #1 is the button
+Seat 1: Tdiddys ($12380.40 in chips)
+Seat 2: luxpoker ($2995.50 in chips)
+Seat 4: Avalan4 ($3070.75 in chips)
+Seat 5: songo24 ($2931.75 in chips)
+luxpoker: posts small blind $25.00
+Avalan4: posts big blind $50.00
+*** HOLE CARDS ***
+songo24: folds
+Tdiddys: folds
+luxpoker: folds
+Uncalled bet ($25.00) returned to Avalan4
+Avalan4 collected $50.00 from pot
+Avalan4: doesn't show hand
+*** SUMMARY ***
+Total pot $50.00 | Rake $0.00
+Seat 1: Tdiddys (button) folded before Flop (didn't bet)
+Seat 2: luxpoker (small blind) folded before Flop
+Seat 4: Avalan4 (big blind) collected ($50.00)
+Seat 5: songo24 folded before Flop (didn't bet)
+
+PokerStars Hand #1335010882:  Hold'em No Limit ($25.00/$50.00 USD) - 2022/08/10 21:50:08 ET
+Table 'WPN_Doraville' 9-max Seat #2 is the button
+Seat 1: Tdiddys ($12380.40 in chips)
+Seat 2: luxpoker ($2970.50 in chips)
+Seat 4: Avalan4 ($3095.75 in chips)
+Seat 5: songo24 ($2931.75 in chips)
+Avalan4: posts small blind $25.00
+songo24: posts big blind $50.00
+*** HOLE CARDS ***
+Tdiddys: raises $50.00 to $100.00
+luxpoker: raises $200.00 to $300.00
+Avalan4: folds
+songo24: folds
+Tdiddys: calls $200.00
+*** FLOP *** [As 7d 8s]
+Tdiddys: checks
+luxpoker: bets $168.75
+Tdiddys: folds
+Uncalled bet ($168.75) returned to luxpoker
+luxpoker collected $672.75 from pot
+luxpoker: doesn't show hand
+*** SUMMARY ***
+Total pot $675.00 | Rake $2.25
+Board [As 7d 8s]
+Seat 1: Tdiddys folded on the Flop
+Seat 2: luxpoker (button) collected ($672.75)
+Seat 4: Avalan4 (small blind) folded before Flop
+Seat 5: songo24 (big blind) folded before Flop
+
+PokerStars Hand #1335011890:  Hold'em No Limit ($25.00/$50.00 USD) - 2022/08/10 21:50:53 ET
+Table 'WPN_Doraville' 9-max Seat #4 is the button
+Seat 1: Tdiddys ($12080.40 in chips)
+Seat 2: luxpoker ($3343.25 in chips)
+Seat 4: Avalan4 ($3070.75 in chips)
+Seat 5: songo24 ($2881.75 in chips)
+songo24: posts small blind $25.00
+Tdiddys: posts big blind $50.00
+*** HOLE CARDS ***
+luxpoker: raises $75.00 to $125.00
+Avalan4: calls $125.00
+songo24: folds
+Tdiddys: folds
+*** FLOP *** [Kh Qc 7s]
+luxpoker: bets $107.25
+Avalan4: calls $107.25
+*** TURN *** [Kh Qc 7s] [2h]
+luxpoker: checks
+Avalan4: checks
+*** RIVER *** [Kh Qc 7s 2h] [2c]
+luxpoker: checks
+Avalan4: checks
+*** SHOW DOWN ***
+Avalan4: shows [Qh Th]
+luxpoker: mucks hand
+Avalan4 collected $537.25 from pot
+*** SUMMARY ***
+Total pot $539.50 | Rake $2.25
+Board [Kh Qc 7s 2h 2c]
+Seat 1: Tdiddys (big blind) folded before Flop
+Seat 2: luxpoker mucked
+Seat 4: Avalan4 (button) showed [Qh Th] and won ($537.25)
+Seat 5: songo24 (small blind) folded before Flop
+
+PokerStars Hand #1335294624:  Hold'em No Limit ($25.00/$50.00 USD) - 2022/08/11 01:21:30 ET
+Table 'WPN_7 Day No Rathole 25/50 NLH 9-Max' 9-max Seat #9 is the button
+Seat 1: 10of10 ($14184.97 in chips)
+Seat 2: Intercooler ($1729.99 in chips)
+Seat 3: zas911 ($5631.63 in chips)
+Seat 4: oneplusone ($18780.44 in chips)
+Seat 9: Tdiddys ($525.00 in chips)
+Tdiddys: posts small blind $25.00
+10of10: posts big blind $50.00
+*** HOLE CARDS ***
+Tdiddys: folds
+Uncalled bet ($25.00) returned to 10of10
+10of10 collected $50.00 from pot
+10of10: doesn't show hand
+*** SUMMARY ***
+Total pot $50.00 | Rake $0.00
+Seat 1: 10of10 (big blind) collected ($50.00)
+Seat 9: Tdiddys (button) (small blind) folded before Flop
+
+PokerStars Hand #1335294909:  Hold'em No Limit ($25.00/$50.00 USD) - 2022/08/11 01:21:42 ET
+Table 'WPN_7 Day No Rathole 25/50 NLH 9-Max' 9-max Seat #9 is the button
+Seat 1: 10of10 ($14209.97 in chips)
+Seat 2: Intercooler ($1729.99 in chips)
+Seat 3: zas911 ($5631.63 in chips)
+Seat 4: oneplusone ($18780.44 in chips)
+Seat 9: Tdiddys ($500.00 in chips)
+10of10: posts small blind $25.00
+Intercooler: posts big blind $50.00
+*** HOLE CARDS ***
+Tdiddys: folds
+10of10: folds
+Uncalled bet ($25.00) returned to Intercooler
+Intercooler collected $50.00 from pot
+Intercooler: doesn't show hand
+*** SUMMARY ***
+Total pot $50.00 | Rake $0.00
+Seat 1: 10of10 (small blind) folded before Flop
+Seat 2: Intercooler (big blind) collected ($50.00)
+Seat 9: Tdiddys (button) folded before Flop (didn't bet)
+
+PokerStars Hand #1335295400:  Hold'em No Limit ($25.00/$50.00 USD) - 2022/08/11 01:22:02 ET
+Table 'WPN_7 Day No Rathole 25/50 NLH 9-Max' 9-max Seat #1 is the button
+Seat 1: 10of10 ($14184.97 in chips)
+Seat 2: Intercooler ($1754.99 in chips)
+Seat 3: zas911 ($5631.63 in chips)
+Seat 4: oneplusone ($18780.44 in chips)
+Seat 9: Tdiddys ($500.00 in chips)
+Intercooler: posts small blind $25.00
+zas911: posts big blind $50.00
+*** HOLE CARDS ***
+Tdiddys: folds
+10of10: raises $75.00 to $125.00
+Intercooler: folds
+zas911: calls $75.00
+*** FLOP *** [Td 7h 4h]
+zas911: checks
+10of10: checks
+*** TURN *** [Td 7h 4h] [6c]
+zas911: bets $93.75
+10of10: calls $93.75
+*** RIVER *** [Td 7h 4h 6c] [2h]
+zas911: bets $346.87
+10of10: folds
+Uncalled bet ($346.87) returned to zas911
+zas911 collected $460.25 from pot
+zas911: doesn't show hand
+*** SUMMARY ***
+Total pot $462.50 | Rake $2.25
+Board [Td 7h 4h 6c 2h]
+Seat 1: 10of10 (button) folded on the River
+Seat 2: Intercooler (small blind) folded before Flop
+Seat 3: zas911 (big blind) collected ($460.25)
+Seat 9: Tdiddys folded before Flop (didn't bet)
+
+PokerStars Hand #1335298326:  Hold'em No Limit ($25.00/$50.00 USD) - 2022/08/11 01:24:01 ET
+Table 'WPN_7 Day No Rathole 25/50 NLH 9-Max' 9-max Seat #2 is the button
+Seat 1: 10of10 ($13966.22 in chips)
+Seat 2: Intercooler ($1729.99 in chips)
+Seat 3: zas911 ($5873.13 in chips)
+Seat 4: oneplusone ($18780.44 in chips)
+Seat 6: Thelittle200 ($10785.51 in chips)
+Seat 7: alanwatts15 ($500.00 in chips)
+Seat 9: Tdiddys ($500.00 in chips)
+zas911: posts small blind $25.00
+oneplusone: posts big blind $50.00
+*** HOLE CARDS ***
+Tdiddys: folds
+10of10: folds
+Intercooler: folds
+zas911: raises $125.00 to $175.00
+oneplusone: raises $325.00 to $500.00
+zas911: calls $325.00
+*** FLOP *** [Qh 5s 7h]
+zas911: checks
+oneplusone: checks
+*** TURN *** [Qh 5s 7h] [9c]
+zas911: bets $325.00
+oneplusone: calls $325.00
+*** RIVER *** [Qh 5s 7h 9c] [7c]
+zas911: bets $1237.50
+oneplusone: calls $1237.50
+*** SHOW DOWN ***
+zas911: shows [Kh Qs]
+oneplusone: mucks hand
+zas911 collected $4122.00 from pot
+*** SUMMARY ***
+Total pot $4125.00 | Rake $3.00
+Board [Qh 5s 7h 9c 7c]
+Seat 1: 10of10 folded before Flop (didn't bet)
+Seat 2: Intercooler (button) folded before Flop (didn't bet)
+Seat 3: zas911 (small blind) showed [Kh Qs] and won ($4122.00)
+Seat 4: oneplusone (big blind) mucked
+Seat 9: Tdiddys folded before Flop (didn't bet)
+
+PokerStars Hand #1335301189:  Hold'em No Limit ($25.00/$50.00 USD) - 2022/08/11 01:25:54 ET
+Table 'WPN_7 Day No Rathole 25/50 NLH 9-Max' 9-max Seat #3 is the button
+Seat 1: 10of10 ($13966.22 in chips)
+Seat 2: Intercooler ($1729.99 in chips)
+Seat 3: zas911 ($7932.63 in chips)
+Seat 4: oneplusone ($16717.94 in chips)
+Seat 6: Thelittle200 ($10785.51 in chips)
+Seat 7: alanwatts15 ($500.00 in chips)
+Seat 9: Tdiddys ($500.00 in chips)
+oneplusone: posts small blind $25.00
+Thelittle200: posts big blind $50.00
+*** HOLE CARDS ***
+Tdiddys: calls $50.00
+10of10: folds
+Intercooler: folds
+zas911: folds
+oneplusone: folds
+Thelittle200: checks
+*** FLOP *** [3c As Jc]
+Thelittle200: checks
+Tdiddys: checks
+*** TURN *** [3c As Jc] [7d]
+Thelittle200: checks
+Tdiddys: checks
+*** RIVER *** [3c As Jc 7d] [6c]
+Thelittle200: bets $122.00
+Tdiddys: folds
+Uncalled bet ($122.00) returned to Thelittle200
+Thelittle200 collected $122.00 from pot
+Thelittle200: doesn't show hand
+*** SUMMARY ***
+Total pot $125.00 | Rake $3.00
+Board [3c As Jc 7d 6c]
+Seat 1: 10of10 folded before Flop (didn't bet)
+Seat 2: Intercooler folded before Flop (didn't bet)
+Seat 3: zas911 (button) folded before Flop (didn't bet)
+Seat 4: oneplusone (small blind) folded before Flop
+Seat 6: Thelittle200 (big blind) collected ($122.00)
+Seat 9: Tdiddys folded on the River
+
+PokerStars Hand #1335302598:  Hold'em No Limit ($25.00/$50.00 USD) - 2022/08/11 01:26:52 ET
+Table 'WPN_7 Day No Rathole 25/50 NLH 9-Max' 9-max Seat #4 is the button
+Seat 1: 10of10 ($13966.22 in chips)
+Seat 2: Intercooler ($1729.99 in chips)
+Seat 3: zas911 ($7932.63 in chips)
+Seat 4: oneplusone ($16692.94 in chips)
+Seat 6: Thelittle200 ($10857.51 in chips)
+Seat 7: alanwatts15 ($500.00 in chips)
+Seat 9: Tdiddys ($450.00 in chips)
+Thelittle200: posts small blind $25.00
+alanwatts15: posts big blind $50.00
+*** HOLE CARDS ***
+Tdiddys: calls $50.00
+10of10: folds
+Intercooler: folds
+zas911: raises $100.00 to $150.00
+oneplusone: folds
+Thelittle200: folds
+alanwatts15: folds
+Tdiddys: calls $100.00
+*** FLOP *** [Kh 2h Jh]
+Tdiddys: checks
+zas911: bets $125.00
+Tdiddys: raises $175.00 to $300.00 and is all-in
+zas911: calls $175.00
+*** TURN *** [Kh 2h Jh] [Th]
+*** RIVER *** [Kh 2h Jh Th] [5s]
+*** SHOW DOWN ***
+zas911: shows [Kd Qh]
+Tdiddys: shows [9s Js]
+zas911 collected $972.00 from pot
+*** SUMMARY ***
+Total pot $975.00 | Rake $3.00
+Board [Kh 2h Jh Th 5s]
+Seat 1: 10of10 folded before Flop (didn't bet)
+Seat 2: Intercooler folded before Flop (didn't bet)
+Seat 3: zas911 showed [Kd Qh] and won ($972.00)
+Seat 4: oneplusone (button) folded before Flop (didn't bet)
+Seat 6: Thelittle200 (small blind) folded before Flop
+Seat 7: alanwatts15 (big blind) folded before Flop
+Seat 9: Tdiddys showed [9s Js] and lost
+
+PokerStars Hand #1335304635:  Hold'em No Limit ($25.00/$50.00 USD) - 2022/08/11 01:28:13 ET
+Table 'WPN_7 Day No Rathole 25/50 NLH 9-Max' 9-max Seat #6 is the button
+Seat 1: 10of10 ($13966.22 in chips)
+Seat 2: Intercooler ($1729.99 in chips)
+Seat 3: zas911 ($8454.63 in chips)
+Seat 4: oneplusone ($16692.94 in chips)
+Seat 6: Thelittle200 ($10832.51 in chips)
+Seat 7: alanwatts15 ($500.00 in chips)
+alanwatts15: posts small blind $25.00
+Intercooler: posts big blind $50.00
+*** HOLE CARDS ***
+zas911: raises $50.00 to $100.00
+oneplusone: raises $250.00 to $350.00
+Thelittle200: folds
+alanwatts15: folds
+Intercooler: folds
+zas911: folds
+Uncalled bet ($250.00) returned to oneplusone
+oneplusone collected $275.00 from pot
+oneplusone: doesn't show hand
+*** SUMMARY ***
+Total pot $275.00 | Rake $0.00
+Seat 2: Intercooler (big blind) folded before Flop
+Seat 3: zas911 folded before Flop
+Seat 4: oneplusone collected ($275.00)
+Seat 6: Thelittle200 (button) folded before Flop (didn't bet)
+Seat 7: alanwatts15 (small blind) folded before Flop
+
+PokerStars Hand #1335305611:  Hold'em No Limit ($25.00/$50.00 USD) - 2022/08/11 01:28:51 ET
+Table 'WPN_7 Day No Rathole 25/50 NLH 9-Max' 9-max Seat #7 is the button
+Seat 2: Intercooler ($1679.99 in chips)
+Seat 3: zas911 ($8354.63 in chips)
+Seat 4: oneplusone ($16867.94 in chips)
+Seat 6: Thelittle200 ($10832.51 in chips)
+Seat 7: alanwatts15 ($500.00 in chips)
+Intercooler: posts small blind $25.00
+oneplusone: posts big blind $50.00
+*** HOLE CARDS ***
+Thelittle200: raises $50.00 to $100.00
+alanwatts15: folds
+Intercooler: folds
+oneplusone: folds
+Uncalled bet ($50.00) returned to Thelittle200
+Thelittle200 collected $125.00 from pot
+Thelittle200: doesn't show hand
+*** SUMMARY ***
+Total pot $125.00 | Rake $0.00
+Seat 2: Intercooler (small blind) folded before Flop
+Seat 4: oneplusone (big blind) folded before Flop
+Seat 6: Thelittle200 collected ($125.00)
+Seat 7: alanwatts15 (button) folded before Flop (didn't bet)
+
+PokerStars Hand #1335306218:  Hold'em No Limit ($25.00/$50.00 USD) - 2022/08/11 01:29:15 ET
+Table 'WPN_7 Day No Rathole 25/50 NLH 9-Max' 9-max Seat #2 is the button
+Seat 2: Intercooler ($1654.99 in chips)
+Seat 4: oneplusone ($16817.94 in chips)
+Seat 6: Thelittle200 ($10907.51 in chips)
+Seat 7: alanwatts15 ($500.00 in chips)
+oneplusone: posts small blind $25.00
+Intercooler: posts big blind $50.00
+*** HOLE CARDS ***
+oneplusone: folds
+Uncalled bet ($25.00) returned to Intercooler
+Intercooler collected $50.00 from pot
+Intercooler: doesn't show hand
+*** SUMMARY ***
+Total pot $50.00 | Rake $0.00
+Seat 2: Intercooler (button) (big blind) collected ($50.00)
+Seat 4: oneplusone (small blind) folded before Flop
+
+PokerStars Hand #1335306971:  Hold'em No Limit ($25.00/$50.00 USD) - 2022/08/11 01:29:44 ET
+Table 'WPN_7 Day No Rathole 25/50 NLH 9-Max' 9-max Seat #2 is the button
+Seat 2: Intercooler ($1679.99 in chips)
+Seat 4: oneplusone ($16792.94 in chips)
+Intercooler: posts small blind $25.00
+oneplusone: posts big blind $50.00
+*** HOLE CARDS ***
+Intercooler: folds
+Uncalled bet ($25.00) returned to oneplusone
+oneplusone collected $50.00 from pot
+oneplusone: doesn't show hand
+*** SUMMARY ***
+Total pot $50.00 | Rake $0.00
+Seat 2: Intercooler (button) (small blind) folded before Flop
+Seat 4: oneplusone (big blind) collected ($50.00)
+
+PokerStars Hand #1336179072:  Hold'em No Limit ($25.00/$50.00 USD) - 2022/08/11 20:44:45 ET
+Table 'WPN_Assaria' 9-max Seat #4 is the button
+Seat 1: Tdiddys ($771.79 in chips)
+Seat 2: Nimble123 ($1144.50 in chips)
+Seat 3: KARMASUTRA ($1897.00 in chips)
+Seat 4: el0el ($2672.75 in chips)
+Seat 5: songo24 ($2572.00 in chips)
+Seat 6: luxpoker ($2575.00 in chips)
+Seat 7: Gizineni ($2500.00 in chips)
+songo24: posts small blind $25.00
+Tdiddys: posts big blind $50.00
+*** HOLE CARDS ***
+Nimble123: folds
+KARMASUTRA: folds
+el0el: raises $50.00 to $100.00
+songo24: raises $325.00 to $425.00
+Tdiddys: folds
+el0el: folds
+Uncalled bet ($325.00) returned to songo24
+songo24 collected $250.00 from pot
+songo24: doesn't show hand
+*** SUMMARY ***
+Total pot $250.00 | Rake $0.00
+Seat 1: Tdiddys (big blind) folded before Flop
+Seat 2: Nimble123 folded before Flop (didn't bet)
+Seat 3: KARMASUTRA folded before Flop (didn't bet)
+Seat 4: el0el (button) folded before Flop
+Seat 5: songo24 (small blind) collected ($250.00)
+
+PokerStars Hand #1334942624:  Hold'em No Limit ($25.00/$50.00 USD) - 2022/08/10 21:00:52 ET
+Table 'WPN_Doraville' 9-max Seat #5 is the button
+Seat 1: Tdiddys ($5276.94 in chips)
+Seat 3: luxpoker ($2500.00 in chips)
+Seat 4: Avalan4 ($2633.25 in chips)
+Seat 5: songo24 ($2691.50 in chips)
+Tdiddys: posts small blind $25.00
+luxpoker: posts big blind $50.00
+*** HOLE CARDS ***
+Avalan4: folds
+songo24: raises $50.00 to $100.00
+Tdiddys: folds
+luxpoker: calls $50.00
+*** FLOP *** [6c Tc Kd]
+luxpoker: checks
+songo24: bets $74.25
+luxpoker: raises $148.25 to $222.50
+songo24: calls $148.25
+*** TURN *** [6c Tc Kd] [3c]
+luxpoker: bets $221.10
+songo24: calls $221.10
+*** RIVER *** [6c Tc Kd 3c] [7s]
+luxpoker: checks
+songo24: checks
+*** SHOW DOWN ***
+songo24: shows [Ks 8c]
+luxpoker: mucks hand
+songo24 collected $1109.95 from pot
+*** SUMMARY ***
+Total pot $1112.20 | Rake $2.25
+Board [6c Tc Kd 3c 7s]
+Seat 1: Tdiddys (small blind) folded before Flop
+Seat 3: luxpoker (big blind) mucked
+Seat 4: Avalan4 folded before Flop (didn't bet)
+Seat 5: songo24 (button) showed [Ks 8c] and won ($1109.95)
+
+PokerStars Hand #1336192058:  Hold'em No Limit ($25.00/$50.00 USD) - 2022/08/11 20:54:48 ET
+Table 'WPN_Assaria' 9-max Seat #1 is the button
+Seat 1: Tdiddys ($593.79 in chips)
+Seat 4: el0el ($2600.00 in chips)
+Seat 5: songo24 ($2695.50 in chips)
+el0el: posts small blind $25.00
+songo24: posts big blind $50.00
+*** HOLE CARDS ***
+Tdiddys: raises $543.79 to $593.79 and is all-in
+el0el: folds
+songo24: folds
+Uncalled bet ($543.79) returned to Tdiddys
+Tdiddys collected $125.00 from pot
+Tdiddys: doesn't show hand
+*** SUMMARY ***
+Total pot $125.00 | Rake $0.00
+Seat 1: Tdiddys (button) collected ($125.00)
+Seat 4: el0el (small blind) folded before Flop
+Seat 5: songo24 (big blind) folded before Flop
+
+PokerStars Hand #1336177255:  Hold'em No Limit ($25.00/$50.00 USD) - 2022/08/11 20:43:21 ET
+Table 'WPN_Assaria' 9-max Seat #2 is the button
+Seat 1: Tdiddys ($771.79 in chips)
+Seat 2: Nimble123 ($1144.50 in chips)
+Seat 3: KARMASUTRA ($1847.00 in chips)
+Seat 4: el0el ($2747.75 in chips)
+Seat 5: songo24 ($2622.00 in chips)
+Seat 6: luxpoker ($2575.00 in chips)
+Seat 7: Gizineni ($2425.00 in chips)
+KARMASUTRA: posts small blind $25.00
+el0el: posts big blind $50.00
+*** HOLE CARDS ***
+songo24: folds
+luxpoker: folds
+Gizineni: raises $60.00 to $110.00
+Tdiddys: folds
+Nimble123: folds
+KARMASUTRA: folds
+el0el: folds
+Uncalled bet ($60.00) returned to Gizineni
+Gizineni collected $125.00 from pot
+Gizineni: doesn't show hand
+*** SUMMARY ***
+Total pot $125.00 | Rake $0.00
+Seat 1: Tdiddys folded before Flop (didn't bet)
+Seat 2: Nimble123 (button) folded before Flop (didn't bet)
+Seat 3: KARMASUTRA (small blind) folded before Flop
+Seat 4: el0el (big blind) folded before Flop
+Seat 5: songo24 folded before Flop (didn't bet)
+Seat 6: luxpoker folded before Flop (didn't bet)
+Seat 7: Gizineni collected ($125.00)
+
+PokerStars Hand #1334945575:  Hold'em No Limit ($25.00/$50.00 USD) - 2022/08/10 21:03:26 ET
+Table 'WPN_Doraville' 9-max Seat #3 is the button
+Seat 1: Tdiddys ($5251.94 in chips)
+Seat 3: luxpoker ($2550.00 in chips)
+Seat 4: Avalan4 ($2583.25 in chips)
+Seat 5: songo24 ($3257.85 in chips)
+Avalan4: posts small blind $25.00
+songo24: posts big blind $50.00
+*** HOLE CARDS ***
+Tdiddys: raises $50.00 to $100.00
+luxpoker: raises $200.00 to $300.00
+Avalan4: folds
+songo24: folds
+Tdiddys: calls $200.00
+*** FLOP *** [2s 3s 6h]
+Tdiddys: checks
+luxpoker: bets $168.75
+Tdiddys: calls $168.75
+*** TURN *** [2s 3s 6h] [7c]
+Tdiddys: checks
+luxpoker: bets $506.25
+Tdiddys: folds
+Uncalled bet ($506.25) returned to luxpoker
+luxpoker collected $1010.25 from pot
+luxpoker: doesn't show hand
+*** SUMMARY ***
+Total pot $1012.50 | Rake $2.25
+Board [2s 3s 6h 7c]
+Seat 1: Tdiddys folded on the Turn
+Seat 3: luxpoker (button) collected ($1010.25)
+Seat 4: Avalan4 (small blind) folded before Flop
+Seat 5: songo24 (big blind) folded before Flop
+

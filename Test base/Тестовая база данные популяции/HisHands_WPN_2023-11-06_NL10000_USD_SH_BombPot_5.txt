@@ -1,0 +1,186 @@
+Hand #1920810587 - Holdem(No Limit) - $50/$100 - 2023/11/06 01:15:22 UTC
+Coulterville 6-max Seat #5 is the button
+Seat 1: Pr.Lupine ($10000)
+Seat 2: SigadiSogadi ($10000)
+Seat 3: Burundos254 ($10000)
+Seat 4: epsteinsboy ($10000)
+Seat 5: gorbashove ($9547.93)
+Seat 6: oneplusone ($10000)
+SigadiSogadi posts ante $500
+gorbashove posts ante $500
+*** HOLE CARDS *** 
+*** FLOP *** [7c 4d Ad]
+Main pot $998.75 | Rake $1.25
+SigadiSogadi checks
+gorbashove bets $330
+SigadiSogadi calls $330
+*** TURN *** [7c 4d Ad] [Ts]
+Main pot $1658.75 | Rake $1.25
+SigadiSogadi checks
+gorbashove bets $1244
+SigadiSogadi calls $1244
+*** RIVER *** [7c 4d Ad Ts] [5h]
+Main pot $4146.75 | Rake $1.25
+SigadiSogadi checks
+gorbashove checks
+*** SHOW DOWN ***
+Main pot $4146.75 | Rake $1.25
+gorbashove shows [9d As]
+gorbashove collected $4146.75 from main pot
+*** SUMMARY ***
+BombPot
+Total pot $4146.75 | Rake $1.25
+Seat 2: SigadiSogadi did not showed and lost
+Seat 5: gorbashove (button) showed [9d As] and won $4146.75 with OnePair [As Ad Ts 9d 7c]
+
+
+Hand #1920827722 - Holdem(No Limit) - $50/$100 - 2023/11/06 01:27:26 UTC
+Coulterville 6-max Seat #4 is the button
+Seat 2: SigadiSogadi ($9911.75)
+Seat 4: epsteinsboy ($10000)
+Seat 5: gorbashove ($13556.36)
+Seat 6: oneplusone ($11848.25)
+SigadiSogadi posts ante $500
+epsteinsboy posts ante $500
+gorbashove posts ante $500
+oneplusone posts ante $500
+*** HOLE CARDS *** 
+*** FLOP *** [3d 5h 4s]
+Main pot $1997.75 | Rake $2.25
+gorbashove checks
+oneplusone checks
+SigadiSogadi bets $500
+epsteinsboy raises $1748 to $1748
+gorbashove folds
+oneplusone folds
+SigadiSogadi calls $1248
+*** TURN *** [3d 5h 4s] [9c]
+Main pot $5493.75 | Rake $2.25
+SigadiSogadi checks
+epsteinsboy bets $1648
+SigadiSogadi raises $7663.75 to $7663.75 and is all-in
+epsteinsboy folds
+Uncalled bet ($6015.75) returned to SigadiSogadi
+SigadiSogadi does not show
+*** SUMMARY ***
+BombPot
+Total pot $8789.75 | Rake $2.25
+Seat 2: SigadiSogadi did not showed and won $8789.75
+Seat 4: epsteinsboy (button) folded on the Turn
+Seat 5: gorbashove folded on the Flop
+Seat 6: oneplusone folded on the Flop
+
+
+Hand #1920853918 - Holdem(No Limit) - $50/$100 - 2023/11/06 01:45:12 UTC
+Coulterville 6-max Seat #5 is the button
+Seat 1: iWasOnly17 ($10000)
+Seat 2: SigadiSogadi ($16907.37)
+Seat 4: epsteinsboy ($10000)
+Seat 5: gorbashove ($10531.99)
+Seat 6: oneplusone ($11753.25)
+SigadiSogadi posts ante $500
+gorbashove posts ante $500
+oneplusone posts ante $500
+*** HOLE CARDS *** 
+*** FLOP *** [Qh 5c Kc]
+Main pot $1498.25 | Rake $1.75
+oneplusone checks
+SigadiSogadi checks
+gorbashove checks
+*** TURN *** [Qh 5c Kc] [Th]
+Main pot $1498.25 | Rake $1.75
+oneplusone checks
+SigadiSogadi bets $1125
+gorbashove folds
+oneplusone folds
+Uncalled bet ($1125) returned to SigadiSogadi
+SigadiSogadi does not show
+*** SUMMARY ***
+BombPot
+Total pot $1498.25 | Rake $1.75
+Seat 2: SigadiSogadi did not showed and won $1498.25
+Seat 5: gorbashove (button) folded on the Turn
+Seat 6: oneplusone folded on the Turn
+
+
+Hand #1920863244 - Holdem(No Limit) - $50/$100 - 2023/11/06 01:54:04 UTC
+Coulterville 6-max Seat #2 is the button
+Seat 1: iWasOnly17 ($10707)
+Seat 2: SigadiSogadi ($18005.62)
+Seat 3: HornyOldMan ($11689)
+Seat 5: gorbashove ($10021.99)
+Seat 6: oneplusone ($10985.29)
+iWasOnly17 posts ante $500
+SigadiSogadi posts ante $500
+HornyOldMan posts ante $500
+gorbashove posts ante $500
+oneplusone posts ante $500
+*** HOLE CARDS *** 
+*** FLOP *** [Ts Js Jh]
+Main pot $2497 | Rake $3
+HornyOldMan checks
+gorbashove checks
+oneplusone checks
+iWasOnly17 checks
+SigadiSogadi bets $625
+HornyOldMan folds
+gorbashove folds
+oneplusone calls $625
+iWasOnly17 calls $625
+*** TURN *** [Ts Js Jh] [Kd]
+Main pot $4372 | Rake $3
+oneplusone checks
+iWasOnly17 checks
+SigadiSogadi checks
+*** RIVER *** [Ts Js Jh Kd] [Kc]
+Main pot $4372 | Rake $3
+oneplusone checks
+iWasOnly17 checks
+SigadiSogadi bets $3281.25
+oneplusone calls $3281.25
+iWasOnly17 folds
+*** SHOW DOWN ***
+Main pot $4372 | Rake $3
+oneplusone shows [Ah Ac]
+oneplusone collected $10934.50 from main pot
+*** SUMMARY ***
+BombPot
+Total pot $10934.50 | Rake $3
+Seat 1: iWasOnly17 folded on the River
+Seat 2: SigadiSogadi (button) did not showed and lost
+Seat 3: HornyOldMan folded on the Flop
+Seat 5: gorbashove folded on the Flop
+Seat 6: oneplusone showed [Ah Ac] and won $10934.50 with TwoPair [Ah Ac Kd Kc Js]
+
+
+Hand #1921076627 - Holdem(No Limit) - $50/$100 - 2023/11/06 05:14:00 UTC
+Coulterville 6-max Seat #1 is the button
+Seat 1: PR0DIGY ($10000)
+Seat 4: Burundos254 ($13676.98)
+PR0DIGY posts ante $500
+Burundos254 posts ante $500
+*** HOLE CARDS *** 
+*** FLOP *** [Qd Tc 6h]
+Main pot $998.75 | Rake $1.25
+Burundos254 checks
+PR0DIGY bets $289.63
+Burundos254 calls $289.63
+*** TURN *** [Qd Tc 6h] [Ah]
+Main pot $1578.01 | Rake $1.25
+Burundos254 checks
+PR0DIGY bets $1183.50
+Burundos254 calls $1183.50
+*** RIVER *** [Qd Tc 6h Ah] [8h]
+Main pot $3945.01 | Rake $1.25
+Burundos254 checks
+PR0DIGY checks
+*** SHOW DOWN ***
+Main pot $3945.01 | Rake $1.25
+PR0DIGY shows [Ks Ac]
+PR0DIGY collected $3945.01 from main pot
+*** SUMMARY ***
+BombPot
+Total pot $3945.01 | Rake $1.25
+Seat 1: PR0DIGY (button) showed [Ks Ac] and won $3945.01 with OnePair [Ah Ac Ks Qd Tc]
+Seat 4: Burundos254 did not showed and lost
+

@@ -1,0 +1,479 @@
+Hand #1890159177 - Holdem(No Limit) - $100/$200 - 2023/10/09 22:25:46 UTC
+Spaulding 6-max Seat #2 is the button
+Seat 2: SigadiSogadi ($20000)
+Seat 5: shaysguy ($8000)
+SigadiSogadi posts ante $1000
+shaysguy posts ante $1000
+*** HOLE CARDS *** 
+*** FLOP *** [9s 7d Td]
+Main pot $1998.75 | Rake $1.25
+shaysguy checks
+SigadiSogadi checks
+*** TURN *** [9s 7d Td] [2c]
+Main pot $1998.75 | Rake $1.25
+shaysguy checks
+SigadiSogadi checks
+*** RIVER *** [9s 7d Td 2c] [Jd]
+Main pot $1998.75 | Rake $1.25
+shaysguy checks
+SigadiSogadi checks
+*** SHOW DOWN ***
+Main pot $1998.75 | Rake $1.25
+shaysguy shows [Kd 7c]
+shaysguy collected $1998.75 from main pot
+*** SUMMARY ***
+BombPot
+Total pot $1998.75 | Rake $1.25
+Seat 2: SigadiSogadi (button) did not showed and lost
+Seat 5: shaysguy showed [Kd 7c] and won $1998.75 with OnePair [7d 7c Kd Jd Td]
+
+
+Hand #1890171176 - Holdem(No Limit) - $100/$200 - 2023/10/09 22:38:36 UTC
+Spaulding 6-max Seat #2 is the button
+Seat 1: PR0DIGY ($20000)
+Seat 2: SigadiSogadi ($19123.50)
+Seat 3: Simulacra ($8000)
+Seat 4: HornyOldMan ($21774.07)
+Seat 5: shaysguy ($6781.50)
+Seat 6: xplo1t4bl3 ($21151.68)
+PR0DIGY posts ante $1000
+SigadiSogadi posts ante $1000
+Simulacra posts ante $1000
+HornyOldMan posts ante $1000
+shaysguy posts ante $1000
+xplo1t4bl3 posts ante $1000
+*** HOLE CARDS *** 
+*** FLOP *** [Qd 6c 2c]
+Main pot $5997 | Rake $3
+Simulacra checks
+HornyOldMan checks
+shaysguy checks
+xplo1t4bl3 checks
+PR0DIGY checks
+SigadiSogadi checks
+*** TURN *** [Qd 6c 2c] [7c]
+Main pot $5997 | Rake $3
+Simulacra checks
+HornyOldMan checks
+shaysguy checks
+xplo1t4bl3 checks
+PR0DIGY checks
+SigadiSogadi checks
+*** RIVER *** [Qd 6c 2c 7c] [5h]
+Main pot $5997 | Rake $3
+Simulacra checks
+HornyOldMan checks
+shaysguy checks
+xplo1t4bl3 checks
+PR0DIGY bets $2998.50
+SigadiSogadi folds
+Simulacra calls $2998.50
+HornyOldMan folds
+shaysguy folds
+xplo1t4bl3 folds
+*** SHOW DOWN ***
+Main pot $5997 | Rake $3
+Simulacra shows [Qh Ah]
+Simulacra collected $11994 from main pot
+*** SUMMARY ***
+BombPot
+Total pot $11994 | Rake $3
+Seat 1: PR0DIGY did not showed and lost
+Seat 2: SigadiSogadi (button) folded on the River
+Seat 3: Simulacra showed [Qh Ah] and won $11994 with OnePair [Qh Qd Ah 7c 6c]
+Seat 4: HornyOldMan folded on the River
+Seat 5: shaysguy folded on the River
+Seat 6: xplo1t4bl3 folded on the River
+
+
+Hand #1890241314 - Holdem(No Limit) - $100/$200 - 2023/10/09 23:44:19 UTC
+Spaulding 6-max Seat #2 is the button
+Seat 2: SigadiSogadi ($30819.64)
+Seat 5: shaysguy ($5567.36)
+Seat 6: xplo1t4bl3 ($46066.62)
+SigadiSogadi posts ante $1000
+shaysguy posts ante $1000
+xplo1t4bl3 posts ante $1000
+*** HOLE CARDS *** 
+*** FLOP *** [7d 6c Ts]
+Main pot $2998.25 | Rake $1.75
+shaysguy checks
+xplo1t4bl3 bets $700
+SigadiSogadi raises $2100 to $2100
+shaysguy raises $4567.36 to $4567.36 and is all-in
+xplo1t4bl3 raises $8137.77 to $8837.77
+SigadiSogadi folds
+Uncalled bet ($4270.41) returned to xplo1t4bl3
+xplo1t4bl3 does not show
+*** RUN IT TWICE ***
+*** TURN 1 *** [7d 6c Ts] [5h]
+Main pot 1 $7116.48 | Rake $0.88
+*** RIVER 1 *** [7d 6c Ts 5h] [3d]
+Main pot 1 $7116.48 | Rake $0.88
+*** SHOW DOWN 1 ***
+Main pot 1 $7116.48 | Rake $0.88
+xplo1t4bl3 shows [7h 7s]
+shaysguy shows [6h Tc]
+xplo1t4bl3 collected $7116.49 from main pot 1
+*** TURN 2 *** [7d 6c Ts] [2h]
+Main pot 2 $7116.49 | Rake $0.87
+*** RIVER 2 *** [7d 6c Ts 2h] [3h]
+Main pot 2 $7116.49 | Rake $0.87
+*** SHOW DOWN 2 ***
+Main pot 2 $7116.49 | Rake $0.87
+shaysguy shows [6h Tc]
+xplo1t4bl3 collected $7116.48 from main pot 2
+*** SUMMARY ***
+BombPot
+Total pot $14232.97 | Rake $1.75
+Board 1 [7d 6c Ts 5h 3d]
+Seat 2: SigadiSogadi (button) folded on the Flop
+Seat 5: shaysguy showed [6h Tc] and lost
+Seat 6: xplo1t4bl3 showed [7h 7s] and won $7116.49 with ThreeOfAKind [7s 7h 7d Ts 6c]
+Board 2 [7d 6c Ts 2h 3h]
+Seat 2: SigadiSogadi (button) folded on the Flop
+Seat 5: shaysguy showed [6h Tc] and lost
+Seat 6: xplo1t4bl3 showed [7h 7s] and won $7116.49 with ThreeOfAKind [7s 7h 7d Ts 6c]
+
+
+Hand #1890517347 - Holdem(No Limit) - $100/$200 - 2023/10/10 04:22:30 UTC
+Spaulding 6-max Seat #2 is the button
+Seat 1: LuckyLady62 ($20000)
+Seat 2: PR0DIGY ($20000)
+Seat 3: lol voidaments ($20000)
+Seat 4: alanwatts15 ($20000)
+LuckyLady62 posts ante $1000
+PR0DIGY posts ante $1000
+*** HOLE CARDS *** 
+*** FLOP *** [5s 3h Kc]
+Main pot $1998.75 | Rake $1.25
+LuckyLady62 checks
+PR0DIGY bets $579.63
+LuckyLady62 raises $2159.26 to $2159.26
+PR0DIGY folds
+Uncalled bet ($1579.63) returned to LuckyLady62
+LuckyLady62 does not show
+*** SUMMARY ***
+BombPot
+Total pot $3158.01 | Rake $1.25
+Seat 1: LuckyLady62 did not showed and won $3158.01
+Seat 2: PR0DIGY (button) folded on the Flop
+
+
+Hand #1890519494 - Holdem(No Limit) - $100/$200 - 2023/10/10 04:26:33 UTC
+Spaulding 6-max Seat #3 is the button
+Seat 1: LuckyLady62 ($22573.13)
+Seat 2: PR0DIGY ($20000)
+Seat 3: lol voidaments ($20000)
+Seat 4: alanwatts15 ($20000)
+Seat 5: RealMenRathole ($20000)
+Seat 6: IdoGoats ($20000)
+LuckyLady62 posts ante $1000
+PR0DIGY posts ante $1000
+lol voidaments posts ante $1000
+alanwatts15 posts ante $1000
+RealMenRathole posts ante $1000
+*** HOLE CARDS *** 
+*** FLOP *** [5h 4s 3d]
+Main pot $4997 | Rake $3
+alanwatts15 checks
+RealMenRathole checks
+LuckyLady62 checks
+PR0DIGY checks
+lol voidaments checks
+*** TURN *** [5h 4s 3d] [9h]
+Main pot $4997 | Rake $3
+alanwatts15 checks
+RealMenRathole checks
+LuckyLady62 checks
+PR0DIGY bets $1449.13
+lol voidaments calls $1449.13
+alanwatts15 calls $1449.13
+RealMenRathole folds
+LuckyLady62 folds
+*** RIVER *** [5h 4s 3d 9h] [3s]
+Main pot $9344.39 | Rake $3
+alanwatts15 checks
+PR0DIGY checks
+lol voidaments checks
+*** SHOW DOWN ***
+Main pot $9344.39 | Rake $3
+lol voidaments shows [9c 8s]
+lol voidaments collected $9344.39 from main pot
+*** SUMMARY ***
+BombPot
+Total pot $9344.39 | Rake $3
+Seat 1: LuckyLady62 folded on the Turn
+Seat 2: PR0DIGY did not showed and lost
+Seat 3: lol voidaments (button) showed [9c 8s] and won $9344.39 with TwoPair [9h 9c 3s 3d 8s]
+Seat 4: alanwatts15 did not showed and lost
+Seat 5: RealMenRathole folded on the Turn
+
+
+Hand #1890530189 - Holdem(No Limit) - $100/$200 - 2023/10/10 04:37:13 UTC
+Spaulding 6-max Seat #3 is the button
+Seat 1: LuckyLady62 ($36192.13)
+Seat 2: PR0DIGY ($20417)
+Seat 3: lol voidaments ($26995.26)
+Seat 4: alanwatts15 ($20000)
+Seat 5: RealMenRathole ($22849)
+Seat 6: IdoGoats ($8000)
+LuckyLady62 posts ante $1000
+PR0DIGY posts ante $1000
+lol voidaments posts ante $1000
+alanwatts15 posts ante $1000
+RealMenRathole posts ante $1000
+IdoGoats posts ante $1000
+*** HOLE CARDS *** 
+*** FLOP *** [5h 6d 8s]
+Main pot $5997 | Rake $3
+alanwatts15 bets $1250
+RealMenRathole folds
+IdoGoats calls $1250
+LuckyLady62 calls $1250
+PR0DIGY folds
+lol voidaments folds
+*** TURN *** [5h 6d 8s] [6c]
+Main pot $9747 | Rake $3
+alanwatts15 checks
+IdoGoats checks
+LuckyLady62 checks
+*** RIVER *** [5h 6d 8s 6c] [9s]
+Main pot $9747 | Rake $3
+alanwatts15 checks
+IdoGoats checks
+LuckyLady62 checks
+*** SHOW DOWN ***
+Main pot $9747 | Rake $3
+alanwatts15 shows [7c 7d]
+IdoGoats shows [9d 7h]
+IdoGoats collected $4873.50 from main pot
+alanwatts15 collected $4873.50 from main pot
+*** SUMMARY ***
+BombPot
+Total pot $9747 | Rake $3
+Seat 1: LuckyLady62 did not showed and lost
+Seat 2: PR0DIGY folded on the Flop
+Seat 3: lol voidaments (button) folded on the Flop
+Seat 4: alanwatts15 showed [7c 7d] and won $4873.50 with Straight [9s 8s 7d 6d 5h]
+Seat 5: RealMenRathole folded on the Flop
+Seat 6: IdoGoats showed [9d 7h] and won $4873.50 with Straight [9s 8s 7d 6d 5h]
+
+
+Hand #1890538773 - Holdem(No Limit) - $100/$200 - 2023/10/10 04:46:59 UTC
+Spaulding 6-max Seat #2 is the button
+Seat 1: LuckyLady62 ($30789.13)
+Seat 2: PR0DIGY ($24944)
+Seat 3: lol voidaments ($25695.26)
+Seat 4: alanwatts15 ($22073.50)
+Seat 5: RealMenRathole ($21496)
+Seat 6: IdoGoats ($10323.50)
+LuckyLady62 posts ante $1000
+PR0DIGY posts ante $1000
+lol voidaments posts ante $1000
+alanwatts15 posts ante $1000
+RealMenRathole posts ante $1000
+IdoGoats posts ante $1000
+*** HOLE CARDS *** 
+*** FLOP *** [Kh Td 6s]
+Main pot $5997 | Rake $3
+lol voidaments checks
+alanwatts15 checks
+RealMenRathole checks
+IdoGoats bets $1000
+LuckyLady62 calls $1000
+PR0DIGY folds
+lol voidaments folds
+alanwatts15 raises $5400 to $5400
+RealMenRathole folds
+IdoGoats raises $8323.50 to $9323.50 and is all-in
+LuckyLady62 folds
+alanwatts15 calls $3923.50
+*** RUN IT TWICE ***
+*** TURN 1 *** [Kh Td 6s] [Qd]
+Main pot 1 $12822 | Rake $1.50
+*** RIVER 1 *** [Kh Td 6s Qd] [3c]
+Main pot 1 $12822 | Rake $1.50
+*** SHOW DOWN 1 ***
+Main pot 1 $12822 | Rake $1.50
+alanwatts15 shows [As Ad]
+IdoGoats shows [Ah Ac]
+IdoGoats collected $6411 from main pot 1
+alanwatts15 collected $6411 from main pot 1
+*** TURN 2 *** [Kh Td 6s] [Th]
+Main pot 2 $12822 | Rake $1.50
+*** RIVER 2 *** [Kh Td 6s Th] [9c]
+Main pot 2 $12822 | Rake $1.50
+*** SHOW DOWN 2 ***
+Main pot 2 $12822 | Rake $1.50
+alanwatts15 shows [As Ad]
+IdoGoats collected $6411 from main pot 2
+alanwatts15 collected $6411 from main pot 2
+*** SUMMARY ***
+BombPot
+Total pot $25644 | Rake $3
+Board 1 [Kh Td 6s Qd 3c]
+Seat 1: LuckyLady62 folded on the Flop
+Seat 2: PR0DIGY (button) folded on the Flop
+Seat 3: lol voidaments folded on the Flop
+Seat 4: alanwatts15 showed [As Ad] and won $6411 with OnePair [As Ad Kh Qd Td]
+Seat 5: RealMenRathole folded on the Flop
+Seat 6: IdoGoats showed [Ah Ac] and won $6411 with OnePair [As Ad Kh Qd Td]
+Board 2 [Kh Td 6s Th 9c]
+Seat 1: LuckyLady62 folded on the Flop
+Seat 2: PR0DIGY (button) folded on the Flop
+Seat 3: lol voidaments folded on the Flop
+Seat 4: alanwatts15 showed [As Ad] and won $6411 with OnePair [As Ad Kh Qd Td]
+Seat 5: RealMenRathole folded on the Flop
+Seat 6: IdoGoats showed [Ah Ac] and won $6411 with OnePair [As Ad Kh Qd Td]
+
+
+Hand #1890557218 - Holdem(No Limit) - $100/$200 - 2023/10/10 05:12:18 UTC
+Spaulding 6-max Seat #6 is the button
+Seat 1: LuckyLady62 ($23946.13)
+Seat 2: PR0DIGY ($24568.27)
+Seat 3: lol voidaments ($21475.26)
+Seat 4: alanwatts15 ($20000)
+Seat 5: RealMenRathole ($30927)
+Seat 6: IdoGoats ($15218.73)
+LuckyLady62 posts ante $1000
+PR0DIGY posts ante $1000
+lol voidaments posts ante $1000
+alanwatts15 posts ante $1000
+RealMenRathole posts ante $1000
+IdoGoats posts ante $1000
+*** HOLE CARDS *** 
+*** FLOP *** [Jd 9s Kc]
+Main pot $5997 | Rake $3
+LuckyLady62 bets $1500
+PR0DIGY folds
+lol voidaments calls $1500
+alanwatts15 calls $1500
+RealMenRathole folds
+IdoGoats folds
+*** TURN *** [Jd 9s Kc] [Qh]
+Main pot $10497 | Rake $3
+LuckyLady62 checks
+lol voidaments checks
+alanwatts15 checks
+*** RIVER *** [Jd 9s Kc Qh] [4d]
+Main pot $10497 | Rake $3
+LuckyLady62 checks
+lol voidaments checks
+alanwatts15 bets $7875
+LuckyLady62 calls $7875
+lol voidaments folds
+*** SHOW DOWN ***
+Main pot $10497 | Rake $3
+alanwatts15 shows [Qs Td]
+alanwatts15 collected $26247 from main pot
+*** SUMMARY ***
+BombPot
+Total pot $26247 | Rake $3
+Seat 1: LuckyLady62 did not showed and lost
+Seat 2: PR0DIGY folded on the Flop
+Seat 3: lol voidaments folded on the River
+Seat 4: alanwatts15 showed [Qs Td] and won $26247 with Straight [Kc Qs Jd Td 9s]
+Seat 5: RealMenRathole folded on the Flop
+Seat 6: IdoGoats (button) folded on the Flop
+
+
+Hand #1890580579 - Holdem(No Limit) - $100/$200 - 2023/10/10 05:44:44 UTC
+Spaulding 6-max Seat #4 is the button
+Seat 1: HornyOldMan ($20000)
+Seat 2: alanwatts15 ($20000)
+Seat 3: lol voidaments ($20000)
+Seat 4: IdoGoats ($24445.73)
+Seat 5: RealMenRathole ($20000)
+Seat 6: IdoGoats ($20000)
+HornyOldMan posts ante $1000
+IdoGoats posts ante $1000
+alanwatts15 posts the small blind $100
+*** HOLE CARDS *** 
+*** FLOP *** [Ac 7s 6d]
+Main pot $1998.75 | Rake $1.25
+HornyOldMan checks
+IdoGoats checks
+*** TURN *** [Ac 7s 6d] [Js]
+Main pot $1998.75 | Rake $1.25
+HornyOldMan checks
+IdoGoats checks
+*** RIVER *** [Ac 7s 6d Js] [4h]
+Main pot $1998.75 | Rake $1.25
+HornyOldMan bets $2494
+IdoGoats folds
+Uncalled bet ($2494) returned to HornyOldMan
+HornyOldMan does not show
+*** SUMMARY ***
+BombPot
+Total pot $1998.75 | Rake $1.25
+Seat 1: HornyOldMan did not showed and won $1998.75
+Seat 4: IdoGoats (button) folded on the River
+
+
+Hand #1890681881 - Holdem(No Limit) - $100/$200 - 2023/10/10 09:28:23 UTC
+Spaulding 6-max Seat #5 is the button
+Seat 2: HornyOldMan ($20000)
+Seat 5: vesnapisarovic ($20000)
+HornyOldMan posts ante $1000
+vesnapisarovic posts ante $1000
+*** HOLE CARDS *** 
+*** FLOP *** [6s 9s 8c]
+Main pot $1998.75 | Rake $1.25
+HornyOldMan checks
+vesnapisarovic bets $1000
+HornyOldMan folds
+Uncalled bet ($1000) returned to vesnapisarovic
+vesnapisarovic does not show
+*** SUMMARY ***
+BombPot
+Total pot $1998.75 | Rake $1.25
+Seat 2: HornyOldMan folded on the Flop
+Seat 5: vesnapisarovic (button) did not showed and won $1998.75
+
+
+Hand #1891063514 - Holdem(No Limit) - $100/$200 - 2023/10/10 19:19:04 UTC
+Spaulding 6-max Seat #1 is the button
+Seat 1: DoublelegTD ($8000)
+Seat 4: moneybyebye ($20000)
+DoublelegTD posts ante $1000
+moneybyebye posts ante $1000
+*** HOLE CARDS *** 
+*** FLOP *** [2d 9d 2c]
+Main pot $1998.75 | Rake $1.25
+moneybyebye checks
+DoublelegTD bets $500
+moneybyebye raises $1500 to $1500
+DoublelegTD raises $2000 to $2500
+moneybyebye raises $17500 to $19000 and is all-in
+DoublelegTD calls $4500 and is all-in
+Uncalled bet ($12000) returned to moneybyebye
+moneybyebye does not show
+*** RUN IT TWICE ***
+*** TURN 1 *** [2d 9d 2c] [5d]
+Main pot 1 $7999.37 | Rake $0.63
+*** RIVER 1 *** [2d 9d 2c 5d] [Td]
+Main pot 1 $7999.37 | Rake $0.63
+*** SHOW DOWN 1 ***
+Main pot 1 $7999.37 | Rake $0.63
+DoublelegTD shows [Kd 3d]
+moneybyebye shows [Jd Ad]
+moneybyebye collected $7999.38 from main pot 1
+*** TURN 2 *** [2d 9d 2c] [Ks]
+Main pot 2 $7999.38 | Rake $0.62
+*** RIVER 2 *** [2d 9d 2c Ks] [9c]
+Main pot 2 $7999.38 | Rake $0.62
+*** SHOW DOWN 2 ***
+Main pot 2 $7999.38 | Rake $0.62
+DoublelegTD shows [Kd 3d]
+DoublelegTD collected $7999.37 from main pot 2
+*** SUMMARY ***
+BombPot
+Total pot $15998.75 | Rake $1.25
+Board 1 [2d 9d 2c 5d Td]
+Seat 1: DoublelegTD (button) showed [Kd 3d] and lost
+Seat 4: moneybyebye showed [Jd Ad] and won $7999.38 with Flush [Ad Jd Td 9d 5d]
+Board 2 [2d 9d 2c Ks 9c]
+Seat 1: DoublelegTD (button) showed [Kd 3d] and won $0 with Flush [Ad Jd Td 9d 5d]
+Seat 4: moneybyebye showed [Jd Ad] and lost
+

@@ -1,0 +1,2762 @@
+PokerStars Hand #1327129958:  Hold'em No Limit ($75.00/$150.00 USD) - 2022/08/04 20:24:59 ET
+Table 'WPN_7 Day No Rathole 75/150 NLH' 9-max Seat #7 is the button
+Seat 2: NutsBetOnly ($5598.44 in chips)
+Seat 7: SigadiSogadi ($33156.24 in chips)
+SigadiSogadi: posts small blind $75.00
+NutsBetOnly: posts big blind $150.00
+*** HOLE CARDS ***
+SigadiSogadi: calls $75.00
+NutsBetOnly: checks
+*** FLOP *** [Qd Th 8c]
+NutsBetOnly: checks
+SigadiSogadi: bets $150.00
+NutsBetOnly: folds
+Uncalled bet ($150.00) returned to SigadiSogadi
+SigadiSogadi collected $298.75 from pot
+SigadiSogadi: doesn't show hand
+*** SUMMARY ***
+Total pot $300.00 | Rake $1.25
+Board [Qd Th 8c]
+Seat 2: NutsBetOnly (big blind) folded on the Flop
+Seat 7: SigadiSogadi (button) (small blind) collected ($298.75)
+
+PokerStars Hand #1326880991:  Hold'em No Limit ($75.00/$150.00 USD) - 2022/08/04 16:34:35 ET
+Table 'WPN_7 Day No Rathole 75/150 NLH' 9-max Seat #1 is the button
+Seat 1: iWasOnly17 ($5441.25 in chips)
+Seat 2: PLO_fish ($1500.00 in chips)
+iWasOnly17: posts small blind $75.00
+PLO_fish: posts big blind $150.00
+*** HOLE CARDS ***
+iWasOnly17: calls $75.00
+PLO_fish: raises $1350.00 to $1500.00 and is all-in
+iWasOnly17: folds
+Uncalled bet ($1350.00) returned to PLO_fish
+PLO_fish collected $300.00 from pot
+PLO_fish: doesn't show hand
+*** SUMMARY ***
+Total pot $300.00 | Rake $0.00
+Seat 1: iWasOnly17 (button) (small blind) folded before Flop
+Seat 2: PLO_fish (big blind) collected ($300.00)
+
+PokerStars Hand #1326881318:  Hold'em No Limit ($75.00/$150.00 USD) - 2022/08/04 16:34:57 ET
+Table 'WPN_7 Day No Rathole 75/150 NLH' 9-max Seat #2 is the button
+Seat 1: iWasOnly17 ($5291.25 in chips)
+Seat 2: PLO_fish ($1650.00 in chips)
+PLO_fish: posts small blind $75.00
+iWasOnly17: posts big blind $150.00
+*** HOLE CARDS ***
+PLO_fish: calls $75.00
+iWasOnly17: raises $5141.25 to $5291.25 and is all-in
+PLO_fish: calls $1500.00 and is all-in
+Uncalled bet ($3641.25) returned to iWasOnly17
+*** FLOP *** [7c 3d 9d]
+*** TURN *** [7c 3d 9d] [8h]
+*** RIVER *** [7c 3d 9d 8h] [3s]
+*** SHOW DOWN ***
+PLO_fish: shows [9h 7h]
+iWasOnly17: shows [5h Kd]
+PLO_fish collected $3298.75 from pot
+*** SUMMARY ***
+Total pot $3300.00 | Rake $1.25
+Board [7c 3d 9d 8h 3s]
+Seat 1: iWasOnly17 (big blind) showed [5h Kd] and lost
+Seat 2: PLO_fish (button) (small blind) showed [9h 7h] and won ($3298.75)
+
+PokerStars Hand #1326881777:  Hold'em No Limit ($75.00/$150.00 USD) - 2022/08/04 16:35:29 ET
+Table 'WPN_7 Day No Rathole 75/150 NLH' 9-max Seat #1 is the button
+Seat 1: iWasOnly17 ($3641.25 in chips)
+Seat 2: PLO_fish ($3298.75 in chips)
+iWasOnly17: posts small blind $75.00
+PLO_fish: posts big blind $150.00
+*** HOLE CARDS ***
+iWasOnly17: raises $150.00 to $300.00
+PLO_fish: folds
+Uncalled bet ($150.00) returned to iWasOnly17
+iWasOnly17 collected $300.00 from pot
+iWasOnly17: doesn't show hand
+*** SUMMARY ***
+Total pot $300.00 | Rake $0.00
+Seat 1: iWasOnly17 (button) (small blind) collected ($300.00)
+Seat 2: PLO_fish (big blind) folded before Flop
+
+PokerStars Hand #1326881970:  Hold'em No Limit ($75.00/$150.00 USD) - 2022/08/04 16:35:42 ET
+Table 'WPN_7 Day No Rathole 75/150 NLH' 9-max Seat #2 is the button
+Seat 1: iWasOnly17 ($3791.25 in chips)
+Seat 2: PLO_fish ($3148.75 in chips)
+PLO_fish: posts small blind $75.00
+iWasOnly17: posts big blind $150.00
+*** HOLE CARDS ***
+PLO_fish: folds
+Uncalled bet ($75.00) returned to iWasOnly17
+iWasOnly17 collected $150.00 from pot
+iWasOnly17: doesn't show hand
+*** SUMMARY ***
+Total pot $150.00 | Rake $0.00
+Seat 1: iWasOnly17 (big blind) collected ($150.00)
+Seat 2: PLO_fish (button) (small blind) folded before Flop
+
+PokerStars Hand #1326882127:  Hold'em No Limit ($75.00/$150.00 USD) - 2022/08/04 16:35:52 ET
+Table 'WPN_7 Day No Rathole 75/150 NLH' 9-max Seat #1 is the button
+Seat 1: iWasOnly17 ($3866.25 in chips)
+Seat 2: PLO_fish ($3073.75 in chips)
+iWasOnly17: posts small blind $75.00
+PLO_fish: posts big blind $150.00
+*** HOLE CARDS ***
+iWasOnly17: raises $150.00 to $300.00
+PLO_fish: calls $150.00
+*** FLOP *** [9d 6d 2h]
+PLO_fish: checks
+iWasOnly17: bets $180.00
+PLO_fish: calls $180.00
+*** TURN *** [9d 6d 2h] [Tc]
+PLO_fish: checks
+iWasOnly17: checks
+*** RIVER *** [9d 6d 2h Tc] [Td]
+PLO_fish: checks
+iWasOnly17: checks
+*** SHOW DOWN ***
+PLO_fish: shows [Kc Jh]
+iWasOnly17: mucks hand
+PLO_fish collected $958.75 from pot
+*** SUMMARY ***
+Total pot $960.00 | Rake $1.25
+Board [9d 6d 2h Tc Td]
+Seat 1: iWasOnly17 (button) (small blind) mucked
+Seat 2: PLO_fish (big blind) showed [Kc Jh] and won ($958.75)
+
+PokerStars Hand #1326883040:  Hold'em No Limit ($75.00/$150.00 USD) - 2022/08/04 16:36:52 ET
+Table 'WPN_7 Day No Rathole 75/150 NLH' 9-max Seat #2 is the button
+Seat 1: iWasOnly17 ($3386.25 in chips)
+Seat 2: PLO_fish ($3552.50 in chips)
+PLO_fish: posts small blind $75.00
+iWasOnly17: posts big blind $150.00
+*** HOLE CARDS ***
+PLO_fish: folds
+Uncalled bet ($75.00) returned to iWasOnly17
+iWasOnly17 collected $150.00 from pot
+iWasOnly17: doesn't show hand
+*** SUMMARY ***
+Total pot $150.00 | Rake $0.00
+Seat 1: iWasOnly17 (big blind) collected ($150.00)
+Seat 2: PLO_fish (button) (small blind) folded before Flop
+
+PokerStars Hand #1326883176:  Hold'em No Limit ($75.00/$150.00 USD) - 2022/08/04 16:37:01 ET
+Table 'WPN_7 Day No Rathole 75/150 NLH' 9-max Seat #1 is the button
+Seat 1: iWasOnly17 ($3461.25 in chips)
+Seat 2: PLO_fish ($3477.50 in chips)
+iWasOnly17: posts small blind $75.00
+PLO_fish: posts big blind $150.00
+*** HOLE CARDS ***
+iWasOnly17: raises $150.00 to $300.00
+PLO_fish: calls $150.00
+*** FLOP *** [Kc 5s 7c]
+PLO_fish: checks
+iWasOnly17: bets $180.00
+PLO_fish: folds
+Uncalled bet ($180.00) returned to iWasOnly17
+iWasOnly17 collected $598.75 from pot
+iWasOnly17: doesn't show hand
+*** SUMMARY ***
+Total pot $600.00 | Rake $1.25
+Board [Kc 5s 7c]
+Seat 1: iWasOnly17 (button) (small blind) collected ($598.75)
+Seat 2: PLO_fish (big blind) folded on the Flop
+
+PokerStars Hand #1326883792:  Hold'em No Limit ($75.00/$150.00 USD) - 2022/08/04 16:37:45 ET
+Table 'WPN_7 Day No Rathole 75/150 NLH' 9-max Seat #2 is the button
+Seat 1: iWasOnly17 ($3760.00 in chips)
+Seat 2: PLO_fish ($3177.50 in chips)
+PLO_fish: posts small blind $75.00
+iWasOnly17: posts big blind $150.00
+*** HOLE CARDS ***
+PLO_fish: calls $75.00
+iWasOnly17: raises $1275.00 to $1425.00
+PLO_fish: folds
+Uncalled bet ($1275.00) returned to iWasOnly17
+iWasOnly17 collected $300.00 from pot
+iWasOnly17: doesn't show hand
+*** SUMMARY ***
+Total pot $300.00 | Rake $0.00
+Seat 1: iWasOnly17 (big blind) collected ($300.00)
+Seat 2: PLO_fish (button) (small blind) folded before Flop
+
+PokerStars Hand #1326884171:  Hold'em No Limit ($75.00/$150.00 USD) - 2022/08/04 16:38:12 ET
+Table 'WPN_7 Day No Rathole 75/150 NLH' 9-max Seat #1 is the button
+Seat 1: iWasOnly17 ($3910.00 in chips)
+Seat 2: PLO_fish ($3027.50 in chips)
+iWasOnly17: posts small blind $75.00
+PLO_fish: posts big blind $150.00
+*** HOLE CARDS ***
+iWasOnly17: calls $75.00
+PLO_fish: checks
+*** FLOP *** [4c Qh 3c]
+PLO_fish: checks
+iWasOnly17: bets $150.00
+PLO_fish: folds
+Uncalled bet ($150.00) returned to iWasOnly17
+iWasOnly17 collected $298.75 from pot
+iWasOnly17: doesn't show hand
+*** SUMMARY ***
+Total pot $300.00 | Rake $1.25
+Board [4c Qh 3c]
+Seat 1: iWasOnly17 (button) (small blind) collected ($298.75)
+Seat 2: PLO_fish (big blind) folded on the Flop
+
+PokerStars Hand #1326884665:  Hold'em No Limit ($75.00/$150.00 USD) - 2022/08/04 16:38:45 ET
+Table 'WPN_7 Day No Rathole 75/150 NLH' 9-max Seat #2 is the button
+Seat 1: iWasOnly17 ($4058.75 in chips)
+Seat 2: PLO_fish ($2877.50 in chips)
+PLO_fish: posts small blind $75.00
+iWasOnly17: posts big blind $150.00
+*** HOLE CARDS ***
+PLO_fish: raises $150.00 to $300.00
+iWasOnly17: folds
+Uncalled bet ($150.00) returned to PLO_fish
+PLO_fish collected $300.00 from pot
+PLO_fish: doesn't show hand
+*** SUMMARY ***
+Total pot $300.00 | Rake $0.00
+Seat 1: iWasOnly17 (big blind) folded before Flop
+Seat 2: PLO_fish (button) (small blind) collected ($300.00)
+
+PokerStars Hand #1326884911:  Hold'em No Limit ($75.00/$150.00 USD) - 2022/08/04 16:39:01 ET
+Table 'WPN_7 Day No Rathole 75/150 NLH' 9-max Seat #1 is the button
+Seat 1: iWasOnly17 ($3908.75 in chips)
+Seat 2: PLO_fish ($3027.50 in chips)
+iWasOnly17: posts small blind $75.00
+PLO_fish: posts big blind $150.00
+*** HOLE CARDS ***
+iWasOnly17: folds
+Uncalled bet ($75.00) returned to PLO_fish
+PLO_fish collected $150.00 from pot
+PLO_fish: doesn't show hand
+*** SUMMARY ***
+Total pot $150.00 | Rake $0.00
+Seat 1: iWasOnly17 (button) (small blind) folded before Flop
+Seat 2: PLO_fish (big blind) collected ($150.00)
+
+PokerStars Hand #1326885084:  Hold'em No Limit ($75.00/$150.00 USD) - 2022/08/04 16:39:13 ET
+Table 'WPN_7 Day No Rathole 75/150 NLH' 9-max Seat #2 is the button
+Seat 1: iWasOnly17 ($3833.75 in chips)
+Seat 2: PLO_fish ($3102.50 in chips)
+PLO_fish: posts small blind $75.00
+iWasOnly17: posts big blind $150.00
+*** HOLE CARDS ***
+PLO_fish: folds
+Uncalled bet ($75.00) returned to iWasOnly17
+iWasOnly17 collected $150.00 from pot
+iWasOnly17: doesn't show hand
+*** SUMMARY ***
+Total pot $150.00 | Rake $0.00
+Seat 1: iWasOnly17 (big blind) collected ($150.00)
+Seat 2: PLO_fish (button) (small blind) folded before Flop
+
+PokerStars Hand #1326590517:  Hold'em No Limit ($75.00/$150.00 USD) - 2022/08/04 05:50:35 ET
+Table 'WPN_7 Day No Rathole 75/150 NLH' 9-max Seat #1 is the button
+Seat 1: JimmyJohns ($1874.14 in chips)
+Seat 2: lmpala_zOrg ($13543.25 in chips)
+Seat 3: TIKITAKA11 ($62939.07 in chips)
+Seat 4: b00ma ($4152.25 in chips)
+Seat 5: GambleFUN ($1500.00 in chips)
+Seat 6: alanwatts15 ($1875.00 in chips)
+JimmyJohns: posts small blind $75.00
+lmpala_zOrg: posts big blind $150.00
+*** HOLE CARDS ***
+JimmyJohns: raises $1724.14 to $1874.14 and is all-in
+lmpala_zOrg: folds
+Uncalled bet ($1724.14) returned to JimmyJohns
+JimmyJohns collected $300.00 from pot
+JimmyJohns: doesn't show hand
+*** SUMMARY ***
+Total pot $300.00 | Rake $0.00
+Seat 1: JimmyJohns (button) (small blind) collected ($300.00)
+Seat 2: lmpala_zOrg (big blind) folded before Flop
+
+PokerStars Hand #1326590727:  Hold'em No Limit ($75.00/$150.00 USD) - 2022/08/04 05:50:53 ET
+Table 'WPN_7 Day No Rathole 75/150 NLH' 9-max Seat #1 is the button
+Seat 1: JimmyJohns ($2024.14 in chips)
+Seat 2: lmpala_zOrg ($13393.25 in chips)
+Seat 3: TIKITAKA11 ($62939.07 in chips)
+Seat 4: b00ma ($4152.25 in chips)
+Seat 5: GambleFUN ($1500.00 in chips)
+Seat 6: alanwatts15 ($1875.00 in chips)
+Seat 7: IdoGoats ($5082.00 in chips)
+lmpala_zOrg: posts small blind $75.00
+TIKITAKA11: posts big blind $150.00
+*** HOLE CARDS ***
+JimmyJohns: folds
+lmpala_zOrg: folds
+Uncalled bet ($75.00) returned to TIKITAKA11
+TIKITAKA11 collected $150.00 from pot
+TIKITAKA11: doesn't show hand
+*** SUMMARY ***
+Total pot $150.00 | Rake $0.00
+Seat 1: JimmyJohns (button) folded before Flop (didn't bet)
+Seat 2: lmpala_zOrg (small blind) folded before Flop
+Seat 3: TIKITAKA11 (big blind) collected ($150.00)
+
+PokerStars Hand #1326590895:  Hold'em No Limit ($75.00/$150.00 USD) - 2022/08/04 05:51:06 ET
+Table 'WPN_7 Day No Rathole 75/150 NLH' 9-max Seat #2 is the button
+Seat 1: JimmyJohns ($2024.14 in chips)
+Seat 2: lmpala_zOrg ($13318.25 in chips)
+Seat 3: TIKITAKA11 ($63014.07 in chips)
+Seat 4: b00ma ($4152.25 in chips)
+Seat 5: GambleFUN ($1500.00 in chips)
+Seat 6: alanwatts15 ($1875.00 in chips)
+Seat 7: IdoGoats ($5082.00 in chips)
+TIKITAKA11: posts small blind $75.00
+b00ma: posts big blind $150.00
+*** HOLE CARDS ***
+JimmyJohns: raises $150.00 to $300.00
+lmpala_zOrg: folds
+TIKITAKA11: folds
+b00ma: calls $150.00
+*** FLOP *** [7c 9c 4s]
+b00ma: checks
+JimmyJohns: bets $186.30
+b00ma: calls $186.30
+*** TURN *** [7c 9c 4s] [3s]
+b00ma: checks
+JimmyJohns: bets $289.13
+b00ma: folds
+Uncalled bet ($289.13) returned to JimmyJohns
+JimmyJohns collected $1045.35 from pot
+JimmyJohns: doesn't show hand
+*** SUMMARY ***
+Total pot $1047.60 | Rake $2.25
+Board [7c 9c 4s 3s]
+Seat 1: JimmyJohns collected ($1045.35)
+Seat 2: lmpala_zOrg (button) folded before Flop (didn't bet)
+Seat 3: TIKITAKA11 (small blind) folded before Flop
+Seat 4: b00ma (big blind) folded on the Turn
+
+PokerStars Hand #1326592398:  Hold'em No Limit ($75.00/$150.00 USD) - 2022/08/04 05:53:06 ET
+Table 'WPN_7 Day No Rathole 75/150 NLH' 9-max Seat #3 is the button
+Seat 1: JimmyJohns ($2583.19 in chips)
+Seat 2: lmpala_zOrg ($13318.25 in chips)
+Seat 3: TIKITAKA11 ($62939.07 in chips)
+Seat 4: b00ma ($3665.95 in chips)
+Seat 5: GambleFUN ($1500.00 in chips)
+Seat 6: alanwatts15 ($1875.00 in chips)
+Seat 7: IdoGoats ($5082.00 in chips)
+b00ma: posts small blind $75.00
+GambleFUN: posts big blind $150.00
+*** HOLE CARDS ***
+JimmyJohns: folds
+lmpala_zOrg: folds
+TIKITAKA11: raises $150.00 to $300.00
+b00ma: folds
+GambleFUN: calls $150.00
+*** FLOP *** [Jc 2c 3d]
+GambleFUN: checks
+TIKITAKA11: bets $150.00
+GambleFUN: folds
+Uncalled bet ($150.00) returned to TIKITAKA11
+TIKITAKA11 collected $672.00 from pot
+TIKITAKA11: doesn't show hand
+*** SUMMARY ***
+Total pot $675.00 | Rake $3.00
+Board [Jc 2c 3d]
+Seat 1: JimmyJohns folded before Flop (didn't bet)
+Seat 2: lmpala_zOrg folded before Flop (didn't bet)
+Seat 3: TIKITAKA11 (button) collected ($672.00)
+Seat 4: b00ma (small blind) folded before Flop
+Seat 5: GambleFUN (big blind) folded on the Flop
+
+PokerStars Hand #1326593151:  Hold'em No Limit ($75.00/$150.00 USD) - 2022/08/04 05:54:07 ET
+Table 'WPN_7 Day No Rathole 75/150 NLH' 9-max Seat #4 is the button
+Seat 2: lmpala_zOrg ($13318.25 in chips)
+Seat 3: TIKITAKA11 ($63311.07 in chips)
+Seat 4: b00ma ($3590.95 in chips)
+Seat 5: GambleFUN ($1200.00 in chips)
+Seat 6: alanwatts15 ($1875.00 in chips)
+Seat 7: IdoGoats ($5082.00 in chips)
+GambleFUN: posts small blind $75.00
+alanwatts15: posts big blind $150.00
+*** HOLE CARDS ***
+lmpala_zOrg: folds
+TIKITAKA11: folds
+b00ma: folds
+GambleFUN: folds
+Uncalled bet ($75.00) returned to alanwatts15
+alanwatts15 collected $150.00 from pot
+alanwatts15: doesn't show hand
+*** SUMMARY ***
+Total pot $150.00 | Rake $0.00
+Seat 2: lmpala_zOrg folded before Flop (didn't bet)
+Seat 3: TIKITAKA11 folded before Flop (didn't bet)
+Seat 4: b00ma (button) folded before Flop (didn't bet)
+Seat 5: GambleFUN (small blind) folded before Flop
+Seat 6: alanwatts15 (big blind) collected ($150.00)
+
+PokerStars Hand #1326593379:  Hold'em No Limit ($75.00/$150.00 USD) - 2022/08/04 05:54:26 ET
+Table 'WPN_7 Day No Rathole 75/150 NLH' 9-max Seat #5 is the button
+Seat 2: lmpala_zOrg ($13318.25 in chips)
+Seat 3: TIKITAKA11 ($63311.07 in chips)
+Seat 4: b00ma ($3590.95 in chips)
+Seat 5: GambleFUN ($1425.00 in chips)
+Seat 6: alanwatts15 ($1950.00 in chips)
+Seat 7: IdoGoats ($5082.00 in chips)
+alanwatts15: posts small blind $75.00
+IdoGoats: posts big blind $150.00
+*** HOLE CARDS ***
+lmpala_zOrg: raises $187.50 to $337.50
+TIKITAKA11: folds
+b00ma: raises $3253.45 to $3590.95 and is all-in
+GambleFUN: folds
+alanwatts15: folds
+IdoGoats: folds
+lmpala_zOrg: calls $3253.45
+*** FLOP *** [5c Jh 4h]
+*** TURN *** [5c Jh 4h] [7c]
+*** RIVER *** [5c Jh 4h 7c] [9c]
+*** SHOW DOWN ***
+lmpala_zOrg: shows [Ad Kd]
+b00ma: shows [Ah Kc]
+lmpala_zOrg collected $3701.95 from pot
+b00ma collected $3701.95 from pot
+*** SUMMARY ***
+Total pot $7406.90 | Rake $3.00
+Board [5c Jh 4h 7c 9c]
+Seat 2: lmpala_zOrg showed [Ad Kd] and won ($3701.95)
+Seat 3: TIKITAKA11 folded before Flop (didn't bet)
+Seat 4: b00ma showed [Ah Kc] and won ($3701.95)
+Seat 5: GambleFUN (button) folded before Flop (didn't bet)
+Seat 6: alanwatts15 (small blind) folded before Flop
+Seat 7: IdoGoats (big blind) folded before Flop
+
+PokerStars Hand #1326593966:  Hold'em No Limit ($75.00/$150.00 USD) - 2022/08/04 05:55:22 ET
+Table 'WPN_7 Day No Rathole 75/150 NLH' 9-max Seat #6 is the button
+Seat 2: lmpala_zOrg ($13429.25 in chips)
+Seat 3: TIKITAKA11 ($63311.07 in chips)
+Seat 4: b00ma ($3701.95 in chips)
+Seat 5: GambleFUN ($1425.00 in chips)
+Seat 6: alanwatts15 ($1875.00 in chips)
+Seat 7: IdoGoats ($4932.00 in chips)
+IdoGoats: posts small blind $75.00
+lmpala_zOrg: posts big blind $150.00
+*** HOLE CARDS ***
+TIKITAKA11: folds
+b00ma: folds
+GambleFUN: raises $1350.00 to $1500.00 and is all-in
+alanwatts15: folds
+IdoGoats: folds
+lmpala_zOrg: folds
+Uncalled bet ($1350.00) returned to GambleFUN
+GambleFUN collected $375.00 from pot
+GambleFUN: doesn't show hand
+*** SUMMARY ***
+Total pot $375.00 | Rake $0.00
+Seat 2: lmpala_zOrg (big blind) folded before Flop
+Seat 3: TIKITAKA11 folded before Flop (didn't bet)
+Seat 4: b00ma folded before Flop (didn't bet)
+Seat 5: GambleFUN collected ($375.00)
+Seat 6: alanwatts15 (button) folded before Flop (didn't bet)
+Seat 7: IdoGoats (small blind) folded before Flop
+
+PokerStars Hand #1326594265:  Hold'em No Limit ($75.00/$150.00 USD) - 2022/08/04 05:55:56 ET
+Table 'WPN_7 Day No Rathole 75/150 NLH' 9-max Seat #7 is the button
+Seat 2: lmpala_zOrg ($13279.25 in chips)
+Seat 3: TIKITAKA11 ($63311.07 in chips)
+Seat 4: b00ma ($3701.95 in chips)
+Seat 5: GambleFUN ($1725.00 in chips)
+Seat 6: alanwatts15 ($1875.00 in chips)
+Seat 7: IdoGoats ($4857.00 in chips)
+lmpala_zOrg: posts small blind $75.00
+TIKITAKA11: posts big blind $150.00
+*** HOLE CARDS ***
+b00ma: folds
+GambleFUN: folds
+alanwatts15: folds
+IdoGoats: raises $150.00 to $300.00
+lmpala_zOrg: folds
+TIKITAKA11: calls $150.00
+*** FLOP *** [7h Jd 6h]
+TIKITAKA11: checks
+IdoGoats: checks
+*** TURN *** [7h Jd 6h] [9h]
+TIKITAKA11: checks
+IdoGoats: checks
+*** RIVER *** [7h Jd 6h 9h] [Qd]
+TIKITAKA11: bets $1312.50
+IdoGoats: folds
+Uncalled bet ($1312.50) returned to TIKITAKA11
+TIKITAKA11 collected $672.00 from pot
+TIKITAKA11: doesn't show hand
+*** SUMMARY ***
+Total pot $675.00 | Rake $3.00
+Board [7h Jd 6h 9h Qd]
+Seat 2: lmpala_zOrg (small blind) folded before Flop
+Seat 3: TIKITAKA11 (big blind) collected ($672.00)
+Seat 4: b00ma folded before Flop (didn't bet)
+Seat 5: GambleFUN folded before Flop (didn't bet)
+Seat 6: alanwatts15 folded before Flop (didn't bet)
+Seat 7: IdoGoats (button) folded on the River
+
+PokerStars Hand #1326595103:  Hold'em No Limit ($75.00/$150.00 USD) - 2022/08/04 05:57:32 ET
+Table 'WPN_7 Day No Rathole 75/150 NLH' 9-max Seat #2 is the button
+Seat 2: lmpala_zOrg ($13204.25 in chips)
+Seat 3: TIKITAKA11 ($63683.07 in chips)
+Seat 7: IdoGoats ($4557.00 in chips)
+TIKITAKA11: posts small blind $75.00
+lmpala_zOrg: posts big blind $150.00
+*** HOLE CARDS ***
+TIKITAKA11: raises $300.00 to $450.00
+lmpala_zOrg: folds
+Uncalled bet ($300.00) returned to TIKITAKA11
+TIKITAKA11 collected $300.00 from pot
+TIKITAKA11: doesn't show hand
+*** SUMMARY ***
+Total pot $300.00 | Rake $0.00
+Seat 2: lmpala_zOrg (button) (big blind) folded before Flop
+Seat 3: TIKITAKA11 (small blind) collected ($300.00)
+
+PokerStars Hand #1326595287:  Hold'em No Limit ($75.00/$150.00 USD) - 2022/08/04 05:57:55 ET
+Table 'WPN_7 Day No Rathole 75/150 NLH' 9-max Seat #2 is the button
+Seat 2: lmpala_zOrg ($13054.25 in chips)
+Seat 3: TIKITAKA11 ($63833.07 in chips)
+lmpala_zOrg: posts small blind $75.00
+TIKITAKA11: posts big blind $150.00
+*** HOLE CARDS ***
+lmpala_zOrg: raises $225.00 to $375.00
+TIKITAKA11: calls $225.00
+*** FLOP *** [5d Qh Td]
+TIKITAKA11: checks
+lmpala_zOrg: bets $375.00
+TIKITAKA11: folds
+Uncalled bet ($375.00) returned to lmpala_zOrg
+lmpala_zOrg collected $748.75 from pot
+lmpala_zOrg: doesn't show hand
+*** SUMMARY ***
+Total pot $750.00 | Rake $1.25
+Board [5d Qh Td]
+Seat 2: lmpala_zOrg (button) (small blind) collected ($748.75)
+Seat 3: TIKITAKA11 (big blind) folded on the Flop
+
+PokerStars Hand #1326595896:  Hold'em No Limit ($75.00/$150.00 USD) - 2022/08/04 05:59:07 ET
+Table 'WPN_7 Day No Rathole 75/150 NLH' 9-max Seat #3 is the button
+Seat 2: lmpala_zOrg ($13428.00 in chips)
+Seat 3: TIKITAKA11 ($63458.07 in chips)
+TIKITAKA11: posts small blind $75.00
+lmpala_zOrg: posts big blind $150.00
+*** HOLE CARDS ***
+TIKITAKA11: raises $225.00 to $375.00
+lmpala_zOrg: folds
+Uncalled bet ($225.00) returned to TIKITAKA11
+TIKITAKA11 collected $300.00 from pot
+TIKITAKA11: doesn't show hand
+*** SUMMARY ***
+Total pot $300.00 | Rake $0.00
+Seat 2: lmpala_zOrg (big blind) folded before Flop
+Seat 3: TIKITAKA11 (button) (small blind) collected ($300.00)
+
+PokerStars Hand #1326596641:  Hold'em No Limit ($75.00/$150.00 USD) - 2022/08/04 06:00:28 ET
+Table 'WPN_7 Day No Rathole 75/150 NLH' 9-max Seat #3 is the button
+Seat 2: lmpala_zOrg ($13090.50 in chips)
+Seat 3: TIKITAKA11 ($63945.57 in chips)
+Seat 4: IdoGoats ($4407.00 in chips)
+Seat 5: NutsBetOnly ($5276.94 in chips)
+IdoGoats: posts small blind $75.00
+NutsBetOnly: posts big blind $150.00
+*** HOLE CARDS ***
+lmpala_zOrg: folds
+TIKITAKA11: folds
+IdoGoats: raises $225.00 to $375.00
+NutsBetOnly: calls $225.00
+*** FLOP *** [Ah 7c 5c]
+IdoGoats: bets $250.00
+NutsBetOnly: calls $250.00
+*** TURN *** [Ah 7c 5c] [6s]
+IdoGoats: checks
+NutsBetOnly: checks
+*** RIVER *** [Ah 7c 5c 6s] [Qh]
+IdoGoats: checks
+NutsBetOnly: checks
+*** SHOW DOWN ***
+NutsBetOnly: shows [8s 5s]
+IdoGoats: mucks hand
+NutsBetOnly collected $1247.75 from pot
+*** SUMMARY ***
+Total pot $1250.00 | Rake $2.25
+Board [Ah 7c 5c 6s Qh]
+Seat 2: lmpala_zOrg folded before Flop (didn't bet)
+Seat 3: TIKITAKA11 (button) folded before Flop (didn't bet)
+Seat 4: IdoGoats (small blind) mucked
+Seat 5: NutsBetOnly (big blind) showed [8s 5s] and won ($1247.75)
+
+PokerStars Hand #1326597691:  Hold'em No Limit ($75.00/$150.00 USD) - 2022/08/04 06:02:05 ET
+Table 'WPN_7 Day No Rathole 75/150 NLH' 9-max Seat #4 is the button
+Seat 2: lmpala_zOrg ($13090.50 in chips)
+Seat 3: TIKITAKA11 ($63945.57 in chips)
+Seat 4: IdoGoats ($3782.00 in chips)
+Seat 5: NutsBetOnly ($5899.69 in chips)
+Seat 6: alanwatts15 ($1875.00 in chips)
+NutsBetOnly: posts small blind $75.00
+alanwatts15: posts big blind $150.00
+*** HOLE CARDS ***
+lmpala_zOrg: raises $187.50 to $337.50
+TIKITAKA11: folds
+IdoGoats: folds
+NutsBetOnly: folds
+alanwatts15: folds
+Uncalled bet ($187.50) returned to lmpala_zOrg
+lmpala_zOrg collected $375.00 from pot
+lmpala_zOrg: doesn't show hand
+*** SUMMARY ***
+Total pot $375.00 | Rake $0.00
+Seat 2: lmpala_zOrg collected ($375.00)
+Seat 3: TIKITAKA11 folded before Flop (didn't bet)
+Seat 4: IdoGoats (button) folded before Flop (didn't bet)
+Seat 5: NutsBetOnly (small blind) folded before Flop
+Seat 6: alanwatts15 (big blind) folded before Flop
+
+PokerStars Hand #1326598032:  Hold'em No Limit ($75.00/$150.00 USD) - 2022/08/04 06:02:33 ET
+Table 'WPN_7 Day No Rathole 75/150 NLH' 9-max Seat #5 is the button
+Seat 2: lmpala_zOrg ($13315.50 in chips)
+Seat 3: TIKITAKA11 ($63945.57 in chips)
+Seat 4: IdoGoats ($3782.00 in chips)
+Seat 5: NutsBetOnly ($5824.69 in chips)
+Seat 6: alanwatts15 ($1725.00 in chips)
+alanwatts15: posts small blind $75.00
+TIKITAKA11: posts big blind $150.00
+*** HOLE CARDS ***
+IdoGoats: raises $187.50 to $337.50
+NutsBetOnly: folds
+alanwatts15: folds
+TIKITAKA11: folds
+Uncalled bet ($187.50) returned to IdoGoats
+IdoGoats collected $375.00 from pot
+IdoGoats: doesn't show hand
+*** SUMMARY ***
+Total pot $375.00 | Rake $0.00
+Seat 3: TIKITAKA11 (big blind) folded before Flop
+Seat 4: IdoGoats collected ($375.00)
+Seat 5: NutsBetOnly (button) folded before Flop (didn't bet)
+Seat 6: alanwatts15 (small blind) folded before Flop
+
+PokerStars Hand #1326598273:  Hold'em No Limit ($75.00/$150.00 USD) - 2022/08/04 06:02:51 ET
+Table 'WPN_7 Day No Rathole 75/150 NLH' 9-max Seat #6 is the button
+Seat 3: TIKITAKA11 ($63795.57 in chips)
+Seat 4: IdoGoats ($4007.00 in chips)
+Seat 5: NutsBetOnly ($5824.69 in chips)
+Seat 6: alanwatts15 ($1650.00 in chips)
+TIKITAKA11: posts small blind $75.00
+alanwatts15: posts big blind $150.00
+*** HOLE CARDS ***
+TIKITAKA11: calls $75.00
+alanwatts15: checks
+*** FLOP *** [3h 8c 9c]
+TIKITAKA11: checks
+alanwatts15: bets $150.00
+TIKITAKA11: calls $150.00
+*** TURN *** [3h 8c 9c] [7h]
+TIKITAKA11: checks
+alanwatts15: checks
+*** RIVER *** [3h 8c 9c 7h] [Kh]
+TIKITAKA11: checks
+alanwatts15: bets $300.00
+TIKITAKA11: calls $300.00
+*** SHOW DOWN ***
+alanwatts15: shows [9d 2c]
+TIKITAKA11: mucks hand
+alanwatts15 collected $1198.75 from pot
+*** SUMMARY ***
+Total pot $1200.00 | Rake $1.25
+Board [3h 8c 9c 7h Kh]
+Seat 3: TIKITAKA11 (small blind) mucked
+Seat 6: alanwatts15 (button) (big blind) showed [9d 2c] and won ($1198.75)
+
+PokerStars Hand #1326599577:  Hold'em No Limit ($75.00/$150.00 USD) - 2022/08/04 06:04:45 ET
+Table 'WPN_7 Day No Rathole 75/150 NLH' 9-max Seat #6 is the button
+Seat 3: TIKITAKA11 ($63195.57 in chips)
+Seat 6: alanwatts15 ($2248.75 in chips)
+alanwatts15: posts small blind $75.00
+TIKITAKA11: posts big blind $150.00
+*** HOLE CARDS ***
+alanwatts15: calls $75.00
+TIKITAKA11: checks
+*** FLOP *** [Kc Ks 2c]
+TIKITAKA11: checks
+alanwatts15: bets $150.00
+TIKITAKA11: folds
+Uncalled bet ($150.00) returned to alanwatts15
+alanwatts15 collected $298.75 from pot
+alanwatts15: doesn't show hand
+*** SUMMARY ***
+Total pot $300.00 | Rake $1.25
+Board [Kc Ks 2c]
+Seat 3: TIKITAKA11 (big blind) folded on the Flop
+Seat 6: alanwatts15 (button) (small blind) collected ($298.75)
+
+PokerStars Hand #1326569862:  Hold'em No Limit ($75.00/$150.00 USD) - 2022/08/04 05:25:10 ET
+Table 'WPN_7 Day No Rathole 75/150 NLH' 9-max Seat #1 is the button
+Seat 1: el0el ($16167.04 in chips)
+Seat 3: alanwatts15 ($1875.00 in chips)
+Seat 4: zas911 ($30918.95 in chips)
+Seat 5: PridvorD ($9656.23 in chips)
+Seat 9: thaibargirl ($1275.00 in chips)
+alanwatts15: posts small blind $75.00
+zas911: posts big blind $150.00
+*** HOLE CARDS ***
+PridvorD: raises $150.00 to $300.00
+thaibargirl: folds
+el0el: folds
+alanwatts15: folds
+zas911: calls $150.00
+*** FLOP *** [4d 4s 6s]
+zas911: checks
+PridvorD: checks
+*** TURN *** [4d 4s 6s] [8h]
+zas911: checks
+PridvorD: bets $221.76
+zas911: folds
+Uncalled bet ($221.76) returned to PridvorD
+PridvorD collected $672.00 from pot
+PridvorD: doesn't show hand
+*** SUMMARY ***
+Total pot $675.00 | Rake $3.00
+Board [4d 4s 6s 8h]
+Seat 1: el0el (button) folded before Flop (didn't bet)
+Seat 3: alanwatts15 (small blind) folded before Flop
+Seat 4: zas911 (big blind) folded on the Turn
+Seat 5: PridvorD collected ($672.00)
+Seat 9: thaibargirl folded before Flop (didn't bet)
+
+PokerStars Hand #1326570617:  Hold'em No Limit ($75.00/$150.00 USD) - 2022/08/04 05:26:02 ET
+Table 'WPN_7 Day No Rathole 75/150 NLH' 9-max Seat #3 is the button
+Seat 1: el0el ($16167.04 in chips)
+Seat 3: alanwatts15 ($1800.00 in chips)
+Seat 4: zas911 ($30618.95 in chips)
+Seat 5: PridvorD ($10028.23 in chips)
+zas911: posts small blind $75.00
+PridvorD: posts big blind $150.00
+*** HOLE CARDS ***
+el0el: raises $150.00 to $300.00
+alanwatts15: folds
+zas911: folds
+PridvorD: calls $150.00
+*** FLOP *** [2s Qc Qh]
+PridvorD: checks
+el0el: bets $222.75
+PridvorD: folds
+Uncalled bet ($222.75) returned to el0el
+el0el collected $672.75 from pot
+el0el: doesn't show hand
+*** SUMMARY ***
+Total pot $675.00 | Rake $2.25
+Board [2s Qc Qh]
+Seat 1: el0el collected ($672.75)
+Seat 3: alanwatts15 (button) folded before Flop (didn't bet)
+Seat 4: zas911 (small blind) folded before Flop
+Seat 5: PridvorD (big blind) folded on the Flop
+
+PokerStars Hand #1326571206:  Hold'em No Limit ($75.00/$150.00 USD) - 2022/08/04 05:26:44 ET
+Table 'WPN_7 Day No Rathole 75/150 NLH' 9-max Seat #4 is the button
+Seat 1: el0el ($16539.79 in chips)
+Seat 3: alanwatts15 ($1800.00 in chips)
+Seat 4: zas911 ($30543.95 in chips)
+Seat 5: PridvorD ($9728.23 in chips)
+PridvorD: posts small blind $75.00
+alanwatts15: posts big blind $150.00
+*** HOLE CARDS ***
+zas911: folds
+PridvorD: folds
+Uncalled bet ($75.00) returned to alanwatts15
+alanwatts15 collected $150.00 from pot
+alanwatts15: doesn't show hand
+*** SUMMARY ***
+Total pot $150.00 | Rake $0.00
+Seat 3: alanwatts15 (big blind) collected ($150.00)
+Seat 4: zas911 (button) folded before Flop (didn't bet)
+Seat 5: PridvorD (small blind) folded before Flop
+
+PokerStars Hand #1326569379:  Hold'em No Limit ($75.00/$150.00 USD) - 2022/08/04 05:24:35 ET
+Table 'WPN_7 Day No Rathole 75/150 NLH' 9-max Seat #5 is the button
+Seat 1: el0el ($16392.04 in chips)
+Seat 2: lmpala_zOrg ($11144.50 in chips)
+Seat 3: alanwatts15 ($1575.00 in chips)
+Seat 4: zas911 ($30918.95 in chips)
+Seat 5: PridvorD ($9656.23 in chips)
+Seat 9: thaibargirl ($1350.00 in chips)
+thaibargirl: posts small blind $75.00
+el0el: posts big blind $150.00
+*** HOLE CARDS ***
+lmpala_zOrg: folds
+alanwatts15: raises $1425.00 to $1575.00 and is all-in
+zas911: folds
+PridvorD: folds
+thaibargirl: folds
+el0el: folds
+Uncalled bet ($1425.00) returned to alanwatts15
+alanwatts15 collected $375.00 from pot
+alanwatts15: doesn't show hand
+*** SUMMARY ***
+Total pot $375.00 | Rake $0.00
+Seat 1: el0el (big blind) folded before Flop
+Seat 2: lmpala_zOrg folded before Flop (didn't bet)
+Seat 3: alanwatts15 collected ($375.00)
+Seat 4: zas911 folded before Flop (didn't bet)
+Seat 5: PridvorD (button) folded before Flop (didn't bet)
+Seat 9: thaibargirl (small blind) folded before Flop
+
+PokerStars Hand #1326569660:  Hold'em No Limit ($75.00/$150.00 USD) - 2022/08/04 05:24:56 ET
+Table 'WPN_7 Day No Rathole 75/150 NLH' 9-max Seat #9 is the button
+Seat 1: el0el ($16242.04 in chips)
+Seat 2: lmpala_zOrg ($11144.50 in chips)
+Seat 3: alanwatts15 ($1800.00 in chips)
+Seat 4: zas911 ($30918.95 in chips)
+Seat 5: PridvorD ($9656.23 in chips)
+Seat 9: thaibargirl ($1275.00 in chips)
+el0el: posts small blind $75.00
+alanwatts15: posts big blind $150.00
+*** HOLE CARDS ***
+zas911: folds
+PridvorD: folds
+thaibargirl: folds
+el0el: folds
+Uncalled bet ($75.00) returned to alanwatts15
+alanwatts15 collected $150.00 from pot
+alanwatts15: doesn't show hand
+*** SUMMARY ***
+Total pot $150.00 | Rake $0.00
+Seat 1: el0el (small blind) folded before Flop
+Seat 3: alanwatts15 (big blind) collected ($150.00)
+Seat 4: zas911 folded before Flop (didn't bet)
+Seat 5: PridvorD folded before Flop (didn't bet)
+Seat 9: thaibargirl (button) folded before Flop (didn't bet)
+
+PokerStars Hand #1326569021:  Hold'em No Limit ($75.00/$150.00 USD) - 2022/08/04 05:24:12 ET
+Table 'WPN_7 Day No Rathole 75/150 NLH' 9-max Seat #4 is the button
+Seat 1: el0el ($16392.04 in chips)
+Seat 2: lmpala_zOrg ($10919.50 in chips)
+Seat 3: alanwatts15 ($1575.00 in chips)
+Seat 4: zas911 ($30918.95 in chips)
+Seat 5: PridvorD ($9731.23 in chips)
+Seat 9: thaibargirl ($1500.00 in chips)
+PridvorD: posts small blind $75.00
+thaibargirl: posts big blind $150.00
+*** HOLE CARDS ***
+el0el: folds
+lmpala_zOrg: raises $150.00 to $300.00
+alanwatts15: folds
+zas911: folds
+PridvorD: folds
+thaibargirl: folds
+Uncalled bet ($150.00) returned to lmpala_zOrg
+lmpala_zOrg collected $375.00 from pot
+lmpala_zOrg: doesn't show hand
+*** SUMMARY ***
+Total pot $375.00 | Rake $0.00
+Seat 1: el0el folded before Flop (didn't bet)
+Seat 2: lmpala_zOrg collected ($375.00)
+Seat 3: alanwatts15 folded before Flop (didn't bet)
+Seat 4: zas911 (button) folded before Flop (didn't bet)
+Seat 5: PridvorD (small blind) folded before Flop
+Seat 9: thaibargirl (big blind) folded before Flop
+
+PokerStars Hand #1326568663:  Hold'em No Limit ($75.00/$150.00 USD) - 2022/08/04 05:23:49 ET
+Table 'WPN_7 Day No Rathole 75/150 NLH' 9-max Seat #3 is the button
+Seat 1: el0el ($16392.04 in chips)
+Seat 2: lmpala_zOrg ($10694.50 in chips)
+Seat 3: alanwatts15 ($1575.00 in chips)
+Seat 4: zas911 ($30993.95 in chips)
+Seat 5: PridvorD ($9881.23 in chips)
+Seat 9: thaibargirl ($1500.00 in chips)
+zas911: posts small blind $75.00
+PridvorD: posts big blind $150.00
+*** HOLE CARDS ***
+el0el: folds
+lmpala_zOrg: raises $187.50 to $337.50
+alanwatts15: folds
+zas911: folds
+PridvorD: folds
+Uncalled bet ($187.50) returned to lmpala_zOrg
+lmpala_zOrg collected $375.00 from pot
+lmpala_zOrg: doesn't show hand
+*** SUMMARY ***
+Total pot $375.00 | Rake $0.00
+Seat 1: el0el folded before Flop (didn't bet)
+Seat 2: lmpala_zOrg collected ($375.00)
+Seat 3: alanwatts15 (button) folded before Flop (didn't bet)
+Seat 4: zas911 (small blind) folded before Flop
+Seat 5: PridvorD (big blind) folded before Flop
+
+PokerStars Hand #1326566946:  Hold'em No Limit ($75.00/$150.00 USD) - 2022/08/04 05:21:51 ET
+Table 'WPN_7 Day No Rathole 75/150 NLH' 9-max Seat #2 is the button
+Seat 2: lmpala_zOrg ($9420.75 in chips)
+Seat 9: thaibargirl ($1500.00 in chips)
+lmpala_zOrg: posts small blind $75.00
+thaibargirl: posts big blind $150.00
+*** HOLE CARDS ***
+lmpala_zOrg: raises $9270.75 to $9420.75 and is all-in
+thaibargirl: calls $1350.00 and is all-in
+Uncalled bet ($7920.75) returned to lmpala_zOrg
+*** FLOP *** [3h 5h 3s]
+*** TURN *** [3h 5h 3s] [4h]
+*** RIVER *** [3h 5h 3s 4h] [7d]
+*** SHOW DOWN ***
+lmpala_zOrg: shows [Kd 7c]
+thaibargirl: shows [Ah Qd]
+lmpala_zOrg collected $2998.75 from pot
+*** SUMMARY ***
+Total pot $3000.00 | Rake $1.25
+Board [3h 5h 3s 4h 7d]
+Seat 2: lmpala_zOrg (button) (small blind) showed [Kd 7c] and won ($2998.75)
+Seat 9: thaibargirl (big blind) showed [Ah Qd] and lost
+
+PokerStars Hand #1326567375:  Hold'em No Limit ($75.00/$150.00 USD) - 2022/08/04 05:22:20 ET
+Table 'WPN_7 Day No Rathole 75/150 NLH' 9-max Seat #2 is the button
+Seat 1: el0el ($16168.79 in chips)
+Seat 2: lmpala_zOrg ($10919.50 in chips)
+Seat 3: alanwatts15 ($1650.00 in chips)
+alanwatts15: posts small blind $75.00
+el0el: posts big blind $150.00
+*** HOLE CARDS ***
+lmpala_zOrg: raises $187.50 to $337.50
+alanwatts15: folds
+el0el: folds
+Uncalled bet ($187.50) returned to lmpala_zOrg
+lmpala_zOrg collected $375.00 from pot
+lmpala_zOrg: doesn't show hand
+*** SUMMARY ***
+Total pot $375.00 | Rake $0.00
+Seat 1: el0el (big blind) folded before Flop
+Seat 2: lmpala_zOrg (button) collected ($375.00)
+Seat 3: alanwatts15 (small blind) folded before Flop
+
+PokerStars Hand #1326567583:  Hold'em No Limit ($75.00/$150.00 USD) - 2022/08/04 05:22:35 ET
+Table 'WPN_7 Day No Rathole 75/150 NLH' 9-max Seat #3 is the button
+Seat 1: el0el ($16018.79 in chips)
+Seat 2: lmpala_zOrg ($11144.50 in chips)
+Seat 3: alanwatts15 ($1575.00 in chips)
+Seat 4: zas911 ($30918.95 in chips)
+Seat 9: thaibargirl ($1500.00 in chips)
+el0el: posts small blind $75.00
+lmpala_zOrg: posts big blind $150.00
+*** HOLE CARDS ***
+alanwatts15: folds
+el0el: raises $225.00 to $375.00
+lmpala_zOrg: calls $225.00
+*** FLOP *** [6s 2c 8h]
+el0el: bets $562.50
+lmpala_zOrg: folds
+Uncalled bet ($562.50) returned to el0el
+el0el collected $748.25 from pot
+el0el: doesn't show hand
+*** SUMMARY ***
+Total pot $750.00 | Rake $1.75
+Board [6s 2c 8h]
+Seat 1: el0el (small blind) collected ($748.25)
+Seat 2: lmpala_zOrg (big blind) folded on the Flop
+Seat 3: alanwatts15 (button) folded before Flop (didn't bet)
+
+PokerStars Hand #1326568105:  Hold'em No Limit ($75.00/$150.00 USD) - 2022/08/04 05:23:10 ET
+Table 'WPN_7 Day No Rathole 75/150 NLH' 9-max Seat #1 is the button
+Seat 1: el0el ($16392.04 in chips)
+Seat 2: lmpala_zOrg ($10769.50 in chips)
+Seat 3: alanwatts15 ($1575.00 in chips)
+Seat 4: zas911 ($30918.95 in chips)
+Seat 5: PridvorD ($9881.23 in chips)
+Seat 9: thaibargirl ($1500.00 in chips)
+lmpala_zOrg: posts small blind $75.00
+alanwatts15: posts big blind $150.00
+*** HOLE CARDS ***
+el0el: folds
+lmpala_zOrg: folds
+Uncalled bet ($75.00) returned to alanwatts15
+alanwatts15 collected $150.00 from pot
+alanwatts15: doesn't show hand
+*** SUMMARY ***
+Total pot $150.00 | Rake $0.00
+Seat 1: el0el (button) folded before Flop (didn't bet)
+Seat 2: lmpala_zOrg (small blind) folded before Flop
+Seat 3: alanwatts15 (big blind) collected ($150.00)
+
+PokerStars Hand #1326568363:  Hold'em No Limit ($75.00/$150.00 USD) - 2022/08/04 05:23:26 ET
+Table 'WPN_7 Day No Rathole 75/150 NLH' 9-max Seat #2 is the button
+Seat 1: el0el ($16392.04 in chips)
+Seat 2: lmpala_zOrg ($10694.50 in chips)
+Seat 3: alanwatts15 ($1650.00 in chips)
+Seat 4: zas911 ($30918.95 in chips)
+Seat 5: PridvorD ($9881.23 in chips)
+Seat 9: thaibargirl ($1500.00 in chips)
+alanwatts15: posts small blind $75.00
+zas911: posts big blind $150.00
+*** HOLE CARDS ***
+el0el: folds
+lmpala_zOrg: folds
+alanwatts15: folds
+Uncalled bet ($75.00) returned to zas911
+zas911 collected $150.00 from pot
+zas911: doesn't show hand
+*** SUMMARY ***
+Total pot $150.00 | Rake $0.00
+Seat 1: el0el folded before Flop (didn't bet)
+Seat 2: lmpala_zOrg (button) folded before Flop (didn't bet)
+Seat 3: alanwatts15 (small blind) folded before Flop
+Seat 4: zas911 (big blind) collected ($150.00)
+
+PokerStars Hand #1326532234:  Hold'em No Limit ($75.00/$150.00 USD) - 2022/08/04 04:43:24 ET
+Table 'WPN_7 Day No Rathole 75/150 NLH' 9-max Seat #2 is the button
+Seat 1: plyman416 ($1500.00 in chips)
+Seat 2: zas911 ($32290.22 in chips)
+zas911: posts small blind $75.00
+plyman416: posts big blind $150.00
+*** HOLE CARDS ***
+zas911: raises $32140.22 to $32290.22 and is all-in
+plyman416: calls $1350.00 and is all-in
+Uncalled bet ($30790.22) returned to zas911
+*** FLOP *** [8h As 6s]
+*** TURN *** [8h As 6s] [2d]
+*** RIVER *** [8h As 6s 2d] [Qd]
+*** SHOW DOWN ***
+plyman416: shows [Qs Td]
+zas911: shows [Th Jd]
+plyman416 collected $2998.75 from pot
+*** SUMMARY ***
+Total pot $3000.00 | Rake $1.25
+Board [8h As 6s 2d Qd]
+Seat 1: plyman416 (big blind) showed [Qs Td] and won ($2998.75)
+Seat 2: zas911 (button) (small blind) showed [Th Jd] and lost
+
+PokerStars Hand #1326532646:  Hold'em No Limit ($75.00/$150.00 USD) - 2022/08/04 04:43:48 ET
+Table 'WPN_7 Day No Rathole 75/150 NLH' 9-max Seat #1 is the button
+Seat 1: plyman416 ($2998.75 in chips)
+Seat 2: zas911 ($30790.22 in chips)
+plyman416: posts small blind $75.00
+zas911: posts big blind $150.00
+*** HOLE CARDS ***
+plyman416: folds
+Uncalled bet ($75.00) returned to zas911
+zas911 collected $150.00 from pot
+zas911: doesn't show hand
+*** SUMMARY ***
+Total pot $150.00 | Rake $0.00
+Seat 1: plyman416 (button) (small blind) folded before Flop
+Seat 2: zas911 (big blind) collected ($150.00)
+
+PokerStars Hand #1326532839:  Hold'em No Limit ($75.00/$150.00 USD) - 2022/08/04 04:43:58 ET
+Table 'WPN_7 Day No Rathole 75/150 NLH' 9-max Seat #2 is the button
+Seat 1: plyman416 ($2923.75 in chips)
+Seat 2: zas911 ($30865.22 in chips)
+zas911: posts small blind $75.00
+plyman416: posts big blind $150.00
+*** HOLE CARDS ***
+zas911: folds
+Uncalled bet ($75.00) returned to plyman416
+plyman416 collected $150.00 from pot
+plyman416: doesn't show hand
+*** SUMMARY ***
+Total pot $150.00 | Rake $0.00
+Seat 1: plyman416 (big blind) collected ($150.00)
+Seat 2: zas911 (button) (small blind) folded before Flop
+
+PokerStars Hand #1326532982:  Hold'em No Limit ($75.00/$150.00 USD) - 2022/08/04 04:44:06 ET
+Table 'WPN_7 Day No Rathole 75/150 NLH' 9-max Seat #1 is the button
+Seat 1: plyman416 ($2998.75 in chips)
+Seat 2: zas911 ($30790.22 in chips)
+plyman416: posts small blind $75.00
+zas911: posts big blind $150.00
+*** HOLE CARDS ***
+plyman416: folds
+Uncalled bet ($75.00) returned to zas911
+zas911 collected $150.00 from pot
+zas911: doesn't show hand
+*** SUMMARY ***
+Total pot $150.00 | Rake $0.00
+Seat 1: plyman416 (button) (small blind) folded before Flop
+Seat 2: zas911 (big blind) collected ($150.00)
+
+PokerStars Hand #1326533134:  Hold'em No Limit ($75.00/$150.00 USD) - 2022/08/04 04:44:13 ET
+Table 'WPN_7 Day No Rathole 75/150 NLH' 9-max Seat #2 is the button
+Seat 1: plyman416 ($2923.75 in chips)
+Seat 2: zas911 ($30865.22 in chips)
+zas911: posts small blind $75.00
+plyman416: posts big blind $150.00
+*** HOLE CARDS ***
+zas911: raises $150.00 to $300.00
+plyman416: calls $150.00
+*** FLOP *** [4s Kd 4c]
+plyman416: checks
+zas911: bets $225.00
+plyman416: folds
+Uncalled bet ($225.00) returned to zas911
+zas911 collected $598.75 from pot
+zas911: doesn't show hand
+*** SUMMARY ***
+Total pot $600.00 | Rake $1.25
+Board [4s Kd 4c]
+Seat 1: plyman416 (big blind) folded on the Flop
+Seat 2: zas911 (button) (small blind) collected ($598.75)
+
+PokerStars Hand #1326533542:  Hold'em No Limit ($75.00/$150.00 USD) - 2022/08/04 04:44:36 ET
+Table 'WPN_7 Day No Rathole 75/150 NLH' 9-max Seat #1 is the button
+Seat 1: plyman416 ($2623.75 in chips)
+Seat 2: zas911 ($31163.97 in chips)
+plyman416: posts small blind $75.00
+zas911: posts big blind $150.00
+*** HOLE CARDS ***
+plyman416: folds
+Uncalled bet ($75.00) returned to zas911
+zas911 collected $150.00 from pot
+zas911: doesn't show hand
+*** SUMMARY ***
+Total pot $150.00 | Rake $0.00
+Seat 1: plyman416 (button) (small blind) folded before Flop
+Seat 2: zas911 (big blind) collected ($150.00)
+
+PokerStars Hand #1326533702:  Hold'em No Limit ($75.00/$150.00 USD) - 2022/08/04 04:44:45 ET
+Table 'WPN_7 Day No Rathole 75/150 NLH' 9-max Seat #1 is the button
+Seat 1: plyman416 ($2548.75 in chips)
+Seat 2: zas911 ($31238.97 in chips)
+Seat 3: el0el ($18641.67 in chips)
+zas911: posts small blind $75.00
+el0el: posts big blind $150.00
+*** HOLE CARDS ***
+plyman416: raises $2398.75 to $2548.75 and is all-in
+zas911: folds
+el0el: folds
+Uncalled bet ($2398.75) returned to plyman416
+plyman416 collected $375.00 from pot
+plyman416: doesn't show hand
+*** SUMMARY ***
+Total pot $375.00 | Rake $0.00
+Seat 1: plyman416 (button) collected ($375.00)
+Seat 2: zas911 (small blind) folded before Flop
+Seat 3: el0el (big blind) folded before Flop
+
+PokerStars Hand #1326533850:  Hold'em No Limit ($75.00/$150.00 USD) - 2022/08/04 04:44:53 ET
+Table 'WPN_7 Day No Rathole 75/150 NLH' 9-max Seat #2 is the button
+Seat 1: plyman416 ($2773.75 in chips)
+Seat 2: zas911 ($31163.97 in chips)
+Seat 3: el0el ($18491.67 in chips)
+el0el: posts small blind $75.00
+plyman416: posts big blind $150.00
+*** HOLE CARDS ***
+zas911: folds
+el0el: calls $75.00
+plyman416: checks
+*** FLOP *** [2d Ac Ks]
+el0el: bets $150.00
+plyman416: folds
+Uncalled bet ($150.00) returned to el0el
+el0el collected $298.25 from pot
+el0el: doesn't show hand
+*** SUMMARY ***
+Total pot $300.00 | Rake $1.75
+Board [2d Ac Ks]
+Seat 1: plyman416 (big blind) folded on the Flop
+Seat 2: zas911 (button) folded before Flop (didn't bet)
+Seat 3: el0el (small blind) collected ($298.25)
+
+PokerStars Hand #1326534242:  Hold'em No Limit ($75.00/$150.00 USD) - 2022/08/04 04:45:15 ET
+Table 'WPN_7 Day No Rathole 75/150 NLH' 9-max Seat #3 is the button
+Seat 1: plyman416 ($2623.75 in chips)
+Seat 2: zas911 ($31163.97 in chips)
+Seat 3: el0el ($18639.92 in chips)
+plyman416: posts small blind $75.00
+zas911: posts big blind $150.00
+*** HOLE CARDS ***
+el0el: folds
+plyman416: folds
+Uncalled bet ($75.00) returned to zas911
+zas911 collected $150.00 from pot
+zas911: doesn't show hand
+*** SUMMARY ***
+Total pot $150.00 | Rake $0.00
+Seat 1: plyman416 (small blind) folded before Flop
+Seat 2: zas911 (big blind) collected ($150.00)
+Seat 3: el0el (button) folded before Flop (didn't bet)
+
+PokerStars Hand #1326534387:  Hold'em No Limit ($75.00/$150.00 USD) - 2022/08/04 04:45:24 ET
+Table 'WPN_7 Day No Rathole 75/150 NLH' 9-max Seat #1 is the button
+Seat 1: plyman416 ($2548.75 in chips)
+Seat 2: zas911 ($31238.97 in chips)
+Seat 3: el0el ($18639.92 in chips)
+zas911: posts small blind $75.00
+el0el: posts big blind $150.00
+*** HOLE CARDS ***
+plyman416: folds
+zas911: folds
+Uncalled bet ($75.00) returned to el0el
+el0el collected $150.00 from pot
+el0el: doesn't show hand
+*** SUMMARY ***
+Total pot $150.00 | Rake $0.00
+Seat 1: plyman416 (button) folded before Flop (didn't bet)
+Seat 2: zas911 (small blind) folded before Flop
+Seat 3: el0el (big blind) collected ($150.00)
+
+PokerStars Hand #1326534506:  Hold'em No Limit ($75.00/$150.00 USD) - 2022/08/04 04:45:32 ET
+Table 'WPN_7 Day No Rathole 75/150 NLH' 9-max Seat #2 is the button
+Seat 1: plyman416 ($2548.75 in chips)
+Seat 2: zas911 ($31163.97 in chips)
+Seat 3: el0el ($18714.92 in chips)
+el0el: posts small blind $75.00
+plyman416: posts big blind $150.00
+*** HOLE CARDS ***
+zas911: raises $150.00 to $300.00
+el0el: folds
+plyman416: calls $150.00
+*** FLOP *** [Qs Ks 8h]
+plyman416: checks
+zas911: bets $225.00
+plyman416: calls $225.00
+*** TURN *** [Qs Ks 8h] [Jh]
+plyman416: checks
+zas911: bets $562.50
+plyman416: folds
+Uncalled bet ($562.50) returned to zas911
+zas911 collected $1123.25 from pot
+zas911: doesn't show hand
+*** SUMMARY ***
+Total pot $1125.00 | Rake $1.75
+Board [Qs Ks 8h Jh]
+Seat 1: plyman416 (big blind) folded on the Turn
+Seat 2: zas911 (button) collected ($1123.25)
+Seat 3: el0el (small blind) folded before Flop
+
+PokerStars Hand #1326535366:  Hold'em No Limit ($75.00/$150.00 USD) - 2022/08/04 04:46:18 ET
+Table 'WPN_7 Day No Rathole 75/150 NLH' 9-max Seat #3 is the button
+Seat 1: plyman416 ($2023.75 in chips)
+Seat 2: zas911 ($31762.22 in chips)
+Seat 3: el0el ($18639.92 in chips)
+plyman416: posts small blind $75.00
+zas911: posts big blind $150.00
+*** HOLE CARDS ***
+el0el: folds
+plyman416: raises $1873.75 to $2023.75 and is all-in
+zas911: calls $1873.75
+*** FIRST FLOP *** [4d Jd Qc]
+*** FIRST TURN *** [4d Jd Qc] [5c]
+*** FIRST RIVER *** [4d Jd Qc 5c] [5d]
+*** SECOND FLOP *** [6c Tc 4c]
+*** SECOND TURN *** [6c Tc 4c] [7s]
+*** SECOND RIVER *** [6c Tc 4c 7s] [Jh]
+*** FIRST SHOW DOWN ***
+plyman416: shows [Kd Qd]
+zas911: shows [Ac 6d]
+plyman416 collected $2022.88 from pot
+*** SECOND SHOW DOWN ***
+plyman416: shows [Kd Qd]
+zas911: shows [Ac 6d]
+zas911 collected $2022.87 from pot
+*** SUMMARY ***
+Total pot $4047.50 | Rake $1.75
+Hand was run twice
+FIRST Board [4d Jd Qc 5c 5d]
+SECOND Board [6c Tc 4c 7s Jh]
+Seat 1: plyman416 (small blind) showed [Kd Qd] and won ($2022.88), and lost
+Seat 2: zas911 (big blind) showed [Ac 6d] and lost, and won ($2022.87)
+Seat 3: el0el (button) folded before Flop (didn't bet)
+
+PokerStars Hand #1326535843:  Hold'em No Limit ($75.00/$150.00 USD) - 2022/08/04 04:46:45 ET
+Table 'WPN_7 Day No Rathole 75/150 NLH' 9-max Seat #1 is the button
+Seat 1: plyman416 ($2022.88 in chips)
+Seat 2: zas911 ($31761.34 in chips)
+Seat 3: el0el ($18639.92 in chips)
+zas911: posts small blind $75.00
+el0el: posts big blind $150.00
+*** HOLE CARDS ***
+plyman416: raises $150.00 to $300.00
+zas911: folds
+el0el: calls $150.00
+*** FLOP *** [7s 4c 6h]
+el0el: checks
+plyman416: checks
+*** TURN *** [7s 4c 6h] [2s]
+el0el: checks
+plyman416: bets $225.00
+el0el: folds
+Uncalled bet ($225.00) returned to plyman416
+plyman416 collected $673.25 from pot
+plyman416: doesn't show hand
+*** SUMMARY ***
+Total pot $675.00 | Rake $1.75
+Board [7s 4c 6h 2s]
+Seat 1: plyman416 (button) collected ($673.25)
+Seat 2: zas911 (small blind) folded before Flop
+Seat 3: el0el (big blind) folded on the Turn
+
+PokerStars Hand #1326536536:  Hold'em No Limit ($75.00/$150.00 USD) - 2022/08/04 04:47:25 ET
+Table 'WPN_7 Day No Rathole 75/150 NLH' 9-max Seat #2 is the button
+Seat 1: plyman416 ($2396.13 in chips)
+Seat 2: zas911 ($31686.34 in chips)
+Seat 3: el0el ($18339.92 in chips)
+el0el: posts small blind $75.00
+plyman416: posts big blind $150.00
+*** HOLE CARDS ***
+zas911: folds
+el0el: raises $225.00 to $375.00
+plyman416: raises $2021.13 to $2396.13 and is all-in
+el0el: calls $2021.13
+*** FIRST FLOP *** [7s 8s Tc]
+*** FIRST TURN *** [7s 8s Tc] [As]
+*** FIRST RIVER *** [7s 8s Tc As] [2h]
+*** SECOND FLOP *** [Jd 2s Ah]
+*** SECOND TURN *** [Jd 2s Ah] [9c]
+*** SECOND RIVER *** [Jd 2s Ah 9c] [Ks]
+*** FIRST SHOW DOWN ***
+plyman416: shows [Ad Qc]
+el0el: shows [5h 5d]
+plyman416 collected $2395.26 from pot
+*** SECOND SHOW DOWN ***
+plyman416: shows [Ad Qc]
+el0el: shows [5h 5d]
+plyman416 collected $2395.25 from pot
+*** SUMMARY ***
+Total pot $4792.26 | Rake $1.75
+Hand was run twice
+FIRST Board [7s 8s Tc As 2h]
+SECOND Board [Jd 2s Ah 9c Ks]
+Seat 1: plyman416 (big blind) showed [Ad Qc] and won ($2395.26), and won ($2395.25)
+Seat 2: zas911 (button) folded before Flop (didn't bet)
+Seat 3: el0el (small blind) showed [5h 5d] and lost, and lost
+
+PokerStars Hand #1326537130:  Hold'em No Limit ($75.00/$150.00 USD) - 2022/08/04 04:47:58 ET
+Table 'WPN_7 Day No Rathole 75/150 NLH' 9-max Seat #3 is the button
+Seat 1: plyman416 ($4790.51 in chips)
+Seat 2: zas911 ($31686.34 in chips)
+Seat 3: el0el ($15943.79 in chips)
+Seat 4: lmpala_zOrg ($7312.61 in chips)
+plyman416: posts small blind $75.00
+zas911: posts big blind $150.00
+*** HOLE CARDS ***
+el0el: raises $225.00 to $375.00
+plyman416: folds
+zas911: folds
+Uncalled bet ($225.00) returned to el0el
+el0el collected $375.00 from pot
+el0el: doesn't show hand
+*** SUMMARY ***
+Total pot $375.00 | Rake $0.00
+Seat 1: plyman416 (small blind) folded before Flop
+Seat 2: zas911 (big blind) folded before Flop
+Seat 3: el0el (button) collected ($375.00)
+
+PokerStars Hand #1326537426:  Hold'em No Limit ($75.00/$150.00 USD) - 2022/08/04 04:48:15 ET
+Table 'WPN_7 Day No Rathole 75/150 NLH' 9-max Seat #1 is the button
+Seat 2: zas911 ($31536.34 in chips)
+Seat 3: el0el ($16168.79 in chips)
+Seat 4: lmpala_zOrg ($7312.61 in chips)
+zas911: posts small blind $75.00
+lmpala_zOrg: posts big blind $150.00
+*** HOLE CARDS ***
+zas911: folds
+Uncalled bet ($75.00) returned to lmpala_zOrg
+lmpala_zOrg collected $150.00 from pot
+lmpala_zOrg: doesn't show hand
+*** SUMMARY ***
+Total pot $150.00 | Rake $0.00
+Seat 2: zas911 (small blind) folded before Flop
+Seat 4: lmpala_zOrg (big blind) collected ($150.00)
+
+PokerStars Hand #1326558568:  Hold'em No Limit ($75.00/$150.00 USD) - 2022/08/04 05:12:16 ET
+Table 'WPN_7 Day No Rathole 75/150 NLH' 9-max Seat #1 is the button
+Seat 1: blodders03 ($1650.00 in chips)
+Seat 2: lmpala_zOrg ($7237.61 in chips)
+blodders03: posts small blind $75.00
+lmpala_zOrg: posts big blind $150.00
+*** HOLE CARDS ***
+blodders03: raises $1500.00 to $1650.00 and is all-in
+lmpala_zOrg: folds
+Uncalled bet ($1500.00) returned to blodders03
+blodders03 collected $300.00 from pot
+blodders03: doesn't show hand
+*** SUMMARY ***
+Total pot $300.00 | Rake $0.00
+Seat 1: blodders03 (button) (small blind) collected ($300.00)
+Seat 2: lmpala_zOrg (big blind) folded before Flop
+
+PokerStars Hand #1326558779:  Hold'em No Limit ($75.00/$150.00 USD) - 2022/08/04 05:12:29 ET
+Table 'WPN_7 Day No Rathole 75/150 NLH' 9-max Seat #2 is the button
+Seat 1: blodders03 ($1800.00 in chips)
+Seat 2: lmpala_zOrg ($7087.61 in chips)
+lmpala_zOrg: posts small blind $75.00
+blodders03: posts big blind $150.00
+*** HOLE CARDS ***
+lmpala_zOrg: calls $75.00
+blodders03: checks
+*** FLOP *** [Tc Ks 9s]
+blodders03: checks
+lmpala_zOrg: checks
+*** TURN *** [Tc Ks 9s] [Qc]
+blodders03: checks
+lmpala_zOrg: checks
+*** RIVER *** [Tc Ks 9s Qc] [Kd]
+blodders03: checks
+lmpala_zOrg: checks
+*** SHOW DOWN ***
+lmpala_zOrg: shows [Th 8d]
+blodders03: mucks hand
+lmpala_zOrg collected $298.75 from pot
+*** SUMMARY ***
+Total pot $300.00 | Rake $1.25
+Board [Tc Ks 9s Qc Kd]
+Seat 1: blodders03 (big blind) mucked
+Seat 2: lmpala_zOrg (button) (small blind) showed [Th 8d] and won ($298.75)
+
+PokerStars Hand #1326559411:  Hold'em No Limit ($75.00/$150.00 USD) - 2022/08/04 05:13:10 ET
+Table 'WPN_7 Day No Rathole 75/150 NLH' 9-max Seat #1 is the button
+Seat 1: blodders03 ($1650.00 in chips)
+Seat 2: lmpala_zOrg ($7236.36 in chips)
+blodders03: posts small blind $75.00
+lmpala_zOrg: posts big blind $150.00
+*** HOLE CARDS ***
+blodders03: calls $75.00
+lmpala_zOrg: checks
+*** FLOP *** [Jd 8c Qh]
+lmpala_zOrg: checks
+blodders03: bets $150.00
+lmpala_zOrg: calls $150.00
+*** TURN *** [Jd 8c Qh] [9h]
+lmpala_zOrg: checks
+blodders03: bets $386.19
+lmpala_zOrg: calls $386.19
+*** RIVER *** [Jd 8c Qh 9h] [Js]
+lmpala_zOrg: checks
+blodders03: checks
+*** SHOW DOWN ***
+lmpala_zOrg: shows [Qd 2s]
+blodders03: mucks hand
+lmpala_zOrg collected $1371.13 from pot
+*** SUMMARY ***
+Total pot $1372.38 | Rake $1.25
+Board [Jd 8c Qh 9h Js]
+Seat 1: blodders03 (button) (small blind) mucked
+Seat 2: lmpala_zOrg (big blind) showed [Qd 2s] and won ($1371.13)
+
+PokerStars Hand #1326560237:  Hold'em No Limit ($75.00/$150.00 USD) - 2022/08/04 05:14:08 ET
+Table 'WPN_7 Day No Rathole 75/150 NLH' 9-max Seat #1 is the button
+Seat 1: blodders03 ($963.81 in chips)
+Seat 2: lmpala_zOrg ($7921.30 in chips)
+Seat 3: zas911 ($31461.34 in chips)
+Seat 4: alanwatts15 ($1500.00 in chips)
+lmpala_zOrg: posts small blind $75.00
+zas911: posts big blind $150.00
+*** HOLE CARDS ***
+blodders03: folds
+lmpala_zOrg: folds
+Uncalled bet ($75.00) returned to zas911
+zas911 collected $150.00 from pot
+zas911: doesn't show hand
+*** SUMMARY ***
+Total pot $150.00 | Rake $0.00
+Seat 1: blodders03 (button) folded before Flop (didn't bet)
+Seat 2: lmpala_zOrg (small blind) folded before Flop
+Seat 3: zas911 (big blind) collected ($150.00)
+
+PokerStars Hand #1326560406:  Hold'em No Limit ($75.00/$150.00 USD) - 2022/08/04 05:14:20 ET
+Table 'WPN_7 Day No Rathole 75/150 NLH' 9-max Seat #2 is the button
+Seat 1: blodders03 ($963.81 in chips)
+Seat 2: lmpala_zOrg ($7846.30 in chips)
+Seat 3: zas911 ($31536.34 in chips)
+Seat 4: alanwatts15 ($1500.00 in chips)
+zas911: posts small blind $75.00
+alanwatts15: posts big blind $150.00
+*** HOLE CARDS ***
+blodders03: folds
+lmpala_zOrg: folds
+zas911: folds
+Uncalled bet ($75.00) returned to alanwatts15
+alanwatts15 collected $150.00 from pot
+alanwatts15: doesn't show hand
+*** SUMMARY ***
+Total pot $150.00 | Rake $0.00
+Seat 1: blodders03 folded before Flop (didn't bet)
+Seat 2: lmpala_zOrg (button) folded before Flop (didn't bet)
+Seat 3: zas911 (small blind) folded before Flop
+Seat 4: alanwatts15 (big blind) collected ($150.00)
+
+PokerStars Hand #1326560550:  Hold'em No Limit ($75.00/$150.00 USD) - 2022/08/04 05:14:30 ET
+Table 'WPN_7 Day No Rathole 75/150 NLH' 9-max Seat #3 is the button
+Seat 1: blodders03 ($963.81 in chips)
+Seat 2: lmpala_zOrg ($7846.30 in chips)
+Seat 3: zas911 ($31461.34 in chips)
+Seat 4: alanwatts15 ($1575.00 in chips)
+alanwatts15: posts small blind $75.00
+blodders03: posts big blind $150.00
+*** HOLE CARDS ***
+lmpala_zOrg: raises $187.50 to $337.50
+zas911: folds
+alanwatts15: folds
+blodders03: calls $187.50
+*** FLOP *** [2h Ts Js]
+blodders03: checks
+lmpala_zOrg: bets $7508.80 and is all-in
+blodders03: folds
+Uncalled bet ($7508.80) returned to lmpala_zOrg
+lmpala_zOrg collected $747.75 from pot
+lmpala_zOrg: doesn't show hand
+*** SUMMARY ***
+Total pot $750.00 | Rake $2.25
+Board [2h Ts Js]
+Seat 1: blodders03 (big blind) folded on the Flop
+Seat 2: lmpala_zOrg collected ($747.75)
+Seat 3: zas911 (button) folded before Flop (didn't bet)
+Seat 4: alanwatts15 (small blind) folded before Flop
+
+PokerStars Hand #1326561022:  Hold'em No Limit ($75.00/$150.00 USD) - 2022/08/04 05:15:01 ET
+Table 'WPN_7 Day No Rathole 75/150 NLH' 9-max Seat #4 is the button
+Seat 1: blodders03 ($626.31 in chips)
+Seat 2: lmpala_zOrg ($8256.55 in chips)
+Seat 3: zas911 ($31461.34 in chips)
+Seat 4: alanwatts15 ($1500.00 in chips)
+blodders03: posts small blind $75.00
+lmpala_zOrg: posts big blind $150.00
+*** HOLE CARDS ***
+zas911: folds
+alanwatts15: folds
+blodders03: folds
+Uncalled bet ($75.00) returned to lmpala_zOrg
+lmpala_zOrg collected $150.00 from pot
+lmpala_zOrg: doesn't show hand
+*** SUMMARY ***
+Total pot $150.00 | Rake $0.00
+Seat 1: blodders03 (small blind) folded before Flop
+Seat 2: lmpala_zOrg (big blind) collected ($150.00)
+Seat 3: zas911 folded before Flop (didn't bet)
+Seat 4: alanwatts15 (button) folded before Flop (didn't bet)
+
+PokerStars Hand #1326561223:  Hold'em No Limit ($75.00/$150.00 USD) - 2022/08/04 05:15:16 ET
+Table 'WPN_7 Day No Rathole 75/150 NLH' 9-max Seat #1 is the button
+Seat 1: blodders03 ($551.31 in chips)
+Seat 2: lmpala_zOrg ($8331.55 in chips)
+Seat 3: zas911 ($31461.34 in chips)
+Seat 4: alanwatts15 ($1500.00 in chips)
+lmpala_zOrg: posts small blind $75.00
+zas911: posts big blind $150.00
+*** HOLE CARDS ***
+alanwatts15: folds
+blodders03: folds
+lmpala_zOrg: calls $75.00
+zas911: checks
+*** FLOP *** [8s 9h 7c]
+lmpala_zOrg: bets $150.00
+zas911: calls $150.00
+*** TURN *** [8s 9h 7c] [Qs]
+lmpala_zOrg: bets $448.31
+zas911: calls $448.31
+*** RIVER *** [8s 9h 7c Qs] [7d]
+lmpala_zOrg: bets $493.14
+zas911: calls $493.14
+*** SHOW DOWN ***
+lmpala_zOrg: shows [7h 9d]
+zas911: mucks hand
+lmpala_zOrg collected $2480.65 from pot
+*** SUMMARY ***
+Total pot $2482.90 | Rake $2.25
+Board [8s 9h 7c Qs 7d]
+Seat 1: blodders03 (button) folded before Flop (didn't bet)
+Seat 2: lmpala_zOrg (small blind) showed [7h 9d] and won ($2480.65)
+Seat 3: zas911 (big blind) mucked
+Seat 4: alanwatts15 folded before Flop (didn't bet)
+
+PokerStars Hand #1326562800:  Hold'em No Limit ($75.00/$150.00 USD) - 2022/08/04 05:17:07 ET
+Table 'WPN_7 Day No Rathole 75/150 NLH' 9-max Seat #2 is the button
+Seat 1: blodders03 ($551.31 in chips)
+Seat 2: lmpala_zOrg ($9570.75 in chips)
+Seat 3: zas911 ($30219.89 in chips)
+Seat 4: alanwatts15 ($1500.00 in chips)
+Seat 5: el0el ($16168.79 in chips)
+zas911: posts small blind $75.00
+alanwatts15: posts big blind $150.00
+*** HOLE CARDS ***
+blodders03: raises $401.31 to $551.31 and is all-in
+lmpala_zOrg: folds
+zas911: raises $29668.58 to $30219.89 and is all-in
+alanwatts15: folds
+Uncalled bet ($29668.58) returned to zas911
+*** FLOP *** [8c 7s Qs]
+*** TURN *** [8c 7s Qs] [5h]
+*** RIVER *** [8c 7s Qs 5h] [6c]
+*** SHOW DOWN ***
+zas911: shows [9c Jc]
+blodders03: shows [5d Qd]
+zas911 collected $1250.37 from pot
+*** SUMMARY ***
+Total pot $1252.62 | Rake $2.25
+Board [8c 7s Qs 5h 6c]
+Seat 1: blodders03 showed [5d Qd] and lost
+Seat 2: lmpala_zOrg (button) folded before Flop (didn't bet)
+Seat 3: zas911 (small blind) showed [9c Jc] and won ($1250.37)
+Seat 4: alanwatts15 (big blind) folded before Flop
+
+PokerStars Hand #1326563289:  Hold'em No Limit ($75.00/$150.00 USD) - 2022/08/04 05:17:43 ET
+Table 'WPN_7 Day No Rathole 75/150 NLH' 9-max Seat #3 is the button
+Seat 2: lmpala_zOrg ($9570.75 in chips)
+Seat 3: zas911 ($30918.95 in chips)
+Seat 4: alanwatts15 ($1500.00 in chips)
+alanwatts15: posts small blind $75.00
+lmpala_zOrg: posts big blind $150.00
+*** HOLE CARDS ***
+zas911: folds
+alanwatts15: raises $1350.00 to $1500.00 and is all-in
+lmpala_zOrg: folds
+Uncalled bet ($1350.00) returned to alanwatts15
+alanwatts15 collected $300.00 from pot
+alanwatts15: doesn't show hand
+*** SUMMARY ***
+Total pot $300.00 | Rake $0.00
+Seat 2: lmpala_zOrg (big blind) folded before Flop
+Seat 3: zas911 (button) folded before Flop (didn't bet)
+Seat 4: alanwatts15 (small blind) collected ($300.00)
+
+PokerStars Hand #1326481408:  Hold'em No Limit ($75.00/$150.00 USD) - 2022/08/04 03:57:41 ET
+Table 'WPN_7 Day No Rathole 75/150 NLH' 9-max Seat #6 is the button
+Seat 3: TIKITAKA11 ($63089.07 in chips)
+Seat 6: PridvorD ($9731.23 in chips)
+PridvorD: posts small blind $75.00
+TIKITAKA11: posts big blind $150.00
+*** HOLE CARDS ***
+PridvorD: raises $195.00 to $345.00
+TIKITAKA11: folds
+Uncalled bet ($195.00) returned to PridvorD
+PridvorD collected $300.00 from pot
+PridvorD: doesn't show hand
+*** SUMMARY ***
+Total pot $300.00 | Rake $0.00
+Seat 3: TIKITAKA11 (big blind) folded before Flop
+Seat 6: PridvorD (button) (small blind) collected ($300.00)
+
+PokerStars Hand #1326480102:  Hold'em No Limit ($75.00/$150.00 USD) - 2022/08/04 03:55:46 ET
+Table 'WPN_7 Day No Rathole 75/150 NLH' 9-max Seat #6 is the button
+Seat 3: TIKITAKA11 ($63389.07 in chips)
+Seat 4: lmpala_zOrg ($7312.61 in chips)
+Seat 5: zas911 ($32290.22 in chips)
+Seat 6: PridvorD ($9581.23 in chips)
+Seat 8: pdog877 ($1200.00 in chips)
+pdog877: posts small blind $75.00
+TIKITAKA11: posts big blind $150.00
+*** HOLE CARDS ***
+lmpala_zOrg: folds
+zas911: folds
+PridvorD: folds
+pdog877: raises $1350.00 to $1500.00 and is all-in
+TIKITAKA11: folds
+Uncalled bet ($1350.00) returned to pdog877
+pdog877 collected $300.00 from pot
+pdog877: doesn't show hand
+*** SUMMARY ***
+Total pot $300.00 | Rake $0.00
+Seat 3: TIKITAKA11 (big blind) folded before Flop
+Seat 4: lmpala_zOrg folded before Flop (didn't bet)
+Seat 5: zas911 folded before Flop (didn't bet)
+Seat 6: PridvorD (button) folded before Flop (didn't bet)
+Seat 8: pdog877 (small blind) collected ($300.00)
+
+PokerStars Hand #1326481019:  Hold'em No Limit ($75.00/$150.00 USD) - 2022/08/04 03:57:06 ET
+Table 'WPN_7 Day No Rathole 75/150 NLH' 9-max Seat #8 is the button
+Seat 3: TIKITAKA11 ($63239.07 in chips)
+Seat 4: lmpala_zOrg ($7312.61 in chips)
+Seat 5: zas911 ($32290.22 in chips)
+Seat 6: PridvorD ($9581.23 in chips)
+Seat 8: pdog877 ($1650.00 in chips)
+TIKITAKA11: posts small blind $75.00
+PridvorD: posts big blind $150.00
+*** HOLE CARDS ***
+pdog877: folds
+TIKITAKA11: calls $75.00
+PridvorD: raises $300.00 to $450.00
+TIKITAKA11: folds
+Uncalled bet ($300.00) returned to PridvorD
+PridvorD collected $300.00 from pot
+PridvorD: doesn't show hand
+*** SUMMARY ***
+Total pot $300.00 | Rake $0.00
+Seat 3: TIKITAKA11 (small blind) folded before Flop
+Seat 6: PridvorD (big blind) collected ($300.00)
+Seat 8: pdog877 (button) folded before Flop (didn't bet)
+
+PokerStars Hand #1326466574:  Hold'em No Limit ($75.00/$150.00 USD) - 2022/08/04 03:42:56 ET
+Table 'WPN_7 Day No Rathole 75/150 NLH' 9-max Seat #2 is the button
+Seat 2: JimmyJohns ($1425.00 in chips)
+Seat 3: TIKITAKA11 ($60323.07 in chips)
+Seat 4: lmpala_zOrg ($4529.25 in chips)
+Seat 5: zas911 ($38842.22 in chips)
+TIKITAKA11: posts small blind $75.00
+lmpala_zOrg: posts big blind $150.00
+*** HOLE CARDS ***
+zas911: folds
+JimmyJohns: folds
+TIKITAKA11: raises $300.00 to $450.00
+lmpala_zOrg: calls $300.00
+*** FLOP *** [Jh Jd 7d]
+TIKITAKA11: bets $225.00
+lmpala_zOrg: calls $225.00
+*** TURN *** [Jh Jd 7d] [8c]
+TIKITAKA11: checks
+lmpala_zOrg: checks
+*** RIVER *** [Jh Jd 7d 8c] [Js]
+TIKITAKA11: checks
+lmpala_zOrg: bets $675.00
+TIKITAKA11: folds
+Uncalled bet ($675.00) returned to lmpala_zOrg
+lmpala_zOrg collected $1347.75 from pot
+lmpala_zOrg: doesn't show hand
+*** SUMMARY ***
+Total pot $1350.00 | Rake $2.25
+Board [Jh Jd 7d 8c Js]
+Seat 2: JimmyJohns (button) folded before Flop (didn't bet)
+Seat 3: TIKITAKA11 (small blind) folded on the River
+Seat 4: lmpala_zOrg (big blind) collected ($1347.75)
+Seat 5: zas911 folded before Flop (didn't bet)
+
+PokerStars Hand #1326468445:  Hold'em No Limit ($75.00/$150.00 USD) - 2022/08/04 03:44:40 ET
+Table 'WPN_7 Day No Rathole 75/150 NLH' 9-max Seat #3 is the button
+Seat 2: JimmyJohns ($1425.00 in chips)
+Seat 3: TIKITAKA11 ($59648.07 in chips)
+Seat 4: lmpala_zOrg ($5202.00 in chips)
+Seat 5: zas911 ($38842.22 in chips)
+Seat 6: PridvorD ($11516.23 in chips)
+lmpala_zOrg: posts small blind $75.00
+zas911: posts big blind $150.00
+*** HOLE CARDS ***
+JimmyJohns: raises $1350.00 to $1500.00 and is all-in
+TIKITAKA11: folds
+lmpala_zOrg: raises $3702.00 to $5202.00 and is all-in
+zas911: calls $5052.00
+*** FLOP *** [7c Qd 5h]
+*** TURN *** [7c Qd 5h] [7h]
+*** RIVER *** [7c Qd 5h 7h] [8h]
+*** SHOW DOWN ***
+JimmyJohns: shows [Tc Qc]
+lmpala_zOrg: shows [9h 9d]
+zas911: shows [Kh As]
+JimmyJohns collected $4499.14 from main pot
+lmpala_zOrg collected $7402.61 from side pot
+*** SUMMARY ***
+Total pot $11904.00 Main pot $4500.00. Side pot $7404.00. | Rake $2.25
+Board [7c Qd 5h 7h 8h]
+Seat 2: JimmyJohns showed [Tc Qc] and won ($4499.14)
+Seat 3: TIKITAKA11 (button) folded before Flop (didn't bet)
+Seat 4: lmpala_zOrg (small blind) showed [9h 9d] and won ($7402.61)
+Seat 5: zas911 (big blind) showed [Kh As] and lost
+
+PokerStars Hand #1326469385:  Hold'em No Limit ($75.00/$150.00 USD) - 2022/08/04 03:45:32 ET
+Table 'WPN_7 Day No Rathole 75/150 NLH' 9-max Seat #4 is the button
+Seat 2: JimmyJohns ($4499.14 in chips)
+Seat 3: TIKITAKA11 ($59648.07 in chips)
+Seat 4: lmpala_zOrg ($7402.61 in chips)
+Seat 5: zas911 ($33640.22 in chips)
+Seat 6: PridvorD ($11516.23 in chips)
+zas911: posts small blind $75.00
+PridvorD: posts big blind $150.00
+*** HOLE CARDS ***
+JimmyJohns: folds
+TIKITAKA11: folds
+lmpala_zOrg: folds
+zas911: raises $300.00 to $450.00
+PridvorD: folds
+Uncalled bet ($300.00) returned to zas911
+zas911 collected $300.00 from pot
+zas911: doesn't show hand
+*** SUMMARY ***
+Total pot $300.00 | Rake $0.00
+Seat 2: JimmyJohns folded before Flop (didn't bet)
+Seat 3: TIKITAKA11 folded before Flop (didn't bet)
+Seat 4: lmpala_zOrg (button) folded before Flop (didn't bet)
+Seat 5: zas911 (small blind) collected ($300.00)
+Seat 6: PridvorD (big blind) folded before Flop
+
+PokerStars Hand #1326469991:  Hold'em No Limit ($75.00/$150.00 USD) - 2022/08/04 03:46:05 ET
+Table 'WPN_7 Day No Rathole 75/150 NLH' 9-max Seat #5 is the button
+Seat 2: JimmyJohns ($4499.14 in chips)
+Seat 3: TIKITAKA11 ($59648.07 in chips)
+Seat 4: lmpala_zOrg ($7402.61 in chips)
+Seat 5: zas911 ($33790.22 in chips)
+Seat 6: PridvorD ($11366.23 in chips)
+PridvorD: posts small blind $75.00
+JimmyJohns: posts big blind $150.00
+*** HOLE CARDS ***
+TIKITAKA11: raises $150.00 to $300.00
+lmpala_zOrg: folds
+zas911: folds
+PridvorD: folds
+JimmyJohns: folds
+Uncalled bet ($150.00) returned to TIKITAKA11
+TIKITAKA11 collected $375.00 from pot
+TIKITAKA11: doesn't show hand
+*** SUMMARY ***
+Total pot $375.00 | Rake $0.00
+Seat 2: JimmyJohns (big blind) folded before Flop
+Seat 3: TIKITAKA11 collected ($375.00)
+Seat 4: lmpala_zOrg folded before Flop (didn't bet)
+Seat 5: zas911 (button) folded before Flop (didn't bet)
+Seat 6: PridvorD (small blind) folded before Flop
+
+PokerStars Hand #1326470465:  Hold'em No Limit ($75.00/$150.00 USD) - 2022/08/04 03:46:31 ET
+Table 'WPN_7 Day No Rathole 75/150 NLH' 9-max Seat #6 is the button
+Seat 2: JimmyJohns ($4349.14 in chips)
+Seat 3: TIKITAKA11 ($59873.07 in chips)
+Seat 4: lmpala_zOrg ($7402.61 in chips)
+Seat 5: zas911 ($33790.22 in chips)
+Seat 6: PridvorD ($11291.23 in chips)
+Seat 7: PathfinderPaco ($4157.25 in chips)
+JimmyJohns: posts small blind $75.00
+TIKITAKA11: posts big blind $150.00
+*** HOLE CARDS ***
+lmpala_zOrg: raises $187.50 to $337.50
+zas911: folds
+PridvorD: raises $697.50 to $1035.00
+JimmyJohns: folds
+TIKITAKA11: folds
+lmpala_zOrg: raises $6367.61 to $7402.61 and is all-in
+PridvorD: folds
+Uncalled bet ($6367.61) returned to lmpala_zOrg
+lmpala_zOrg collected $2295.00 from pot
+lmpala_zOrg: doesn't show hand
+*** SUMMARY ***
+Total pot $2295.00 | Rake $0.00
+Seat 2: JimmyJohns (small blind) folded before Flop
+Seat 3: TIKITAKA11 (big blind) folded before Flop
+Seat 4: lmpala_zOrg collected ($2295.00)
+Seat 5: zas911 folded before Flop (didn't bet)
+Seat 6: PridvorD (button) folded before Flop
+
+PokerStars Hand #1326471592:  Hold'em No Limit ($75.00/$150.00 USD) - 2022/08/04 03:47:33 ET
+Table 'WPN_7 Day No Rathole 75/150 NLH' 9-max Seat #2 is the button
+Seat 2: JimmyJohns ($4274.14 in chips)
+Seat 3: TIKITAKA11 ($59723.07 in chips)
+Seat 4: lmpala_zOrg ($8662.61 in chips)
+Seat 5: zas911 ($33790.22 in chips)
+Seat 6: PridvorD ($10256.23 in chips)
+Seat 7: PathfinderPaco ($4157.25 in chips)
+TIKITAKA11: posts small blind $75.00
+lmpala_zOrg: posts big blind $150.00
+*** HOLE CARDS ***
+zas911: folds
+PridvorD: folds
+JimmyJohns: raises $195.00 to $345.00
+TIKITAKA11: folds
+lmpala_zOrg: folds
+Uncalled bet ($195.00) returned to JimmyJohns
+JimmyJohns collected $375.00 from pot
+JimmyJohns: doesn't show hand
+*** SUMMARY ***
+Total pot $375.00 | Rake $0.00
+Seat 2: JimmyJohns (button) collected ($375.00)
+Seat 3: TIKITAKA11 (small blind) folded before Flop
+Seat 4: lmpala_zOrg (big blind) folded before Flop
+Seat 5: zas911 folded before Flop (didn't bet)
+Seat 6: PridvorD folded before Flop (didn't bet)
+
+PokerStars Hand #1326472255:  Hold'em No Limit ($75.00/$150.00 USD) - 2022/08/04 03:48:10 ET
+Table 'WPN_7 Day No Rathole 75/150 NLH' 9-max Seat #3 is the button
+Seat 2: JimmyJohns ($4499.14 in chips)
+Seat 3: TIKITAKA11 ($59648.07 in chips)
+Seat 4: lmpala_zOrg ($8512.61 in chips)
+Seat 5: zas911 ($33790.22 in chips)
+Seat 6: PridvorD ($10256.23 in chips)
+Seat 7: PathfinderPaco ($4157.25 in chips)
+lmpala_zOrg: posts small blind $75.00
+zas911: posts big blind $150.00
+*** HOLE CARDS ***
+PridvorD: folds
+JimmyJohns: folds
+TIKITAKA11: folds
+lmpala_zOrg: folds
+Uncalled bet ($75.00) returned to zas911
+zas911 collected $150.00 from pot
+zas911: doesn't show hand
+*** SUMMARY ***
+Total pot $150.00 | Rake $0.00
+Seat 2: JimmyJohns folded before Flop (didn't bet)
+Seat 3: TIKITAKA11 (button) folded before Flop (didn't bet)
+Seat 4: lmpala_zOrg (small blind) folded before Flop
+Seat 5: zas911 (big blind) collected ($150.00)
+Seat 6: PridvorD folded before Flop (didn't bet)
+
+PokerStars Hand #1326472528:  Hold'em No Limit ($75.00/$150.00 USD) - 2022/08/04 03:48:25 ET
+Table 'WPN_7 Day No Rathole 75/150 NLH' 9-max Seat #4 is the button
+Seat 2: JimmyJohns ($4499.14 in chips)
+Seat 3: TIKITAKA11 ($59648.07 in chips)
+Seat 4: lmpala_zOrg ($8437.61 in chips)
+Seat 5: zas911 ($33865.22 in chips)
+Seat 6: PridvorD ($10256.23 in chips)
+Seat 7: PathfinderPaco ($4157.25 in chips)
+zas911: posts small blind $75.00
+PridvorD: posts big blind $150.00
+*** HOLE CARDS ***
+JimmyJohns: folds
+TIKITAKA11: raises $150.00 to $300.00
+lmpala_zOrg: raises $675.00 to $975.00
+zas911: folds
+PridvorD: folds
+TIKITAKA11: raises $58673.07 to $59648.07 and is all-in
+lmpala_zOrg: folds
+Uncalled bet ($58673.07) returned to TIKITAKA11
+TIKITAKA11 collected $2175.00 from pot
+TIKITAKA11: doesn't show hand
+*** SUMMARY ***
+Total pot $2175.00 | Rake $0.00
+Seat 2: JimmyJohns folded before Flop (didn't bet)
+Seat 3: TIKITAKA11 collected ($2175.00)
+Seat 4: lmpala_zOrg (button) folded before Flop
+Seat 5: zas911 (small blind) folded before Flop
+Seat 6: PridvorD (big blind) folded before Flop
+
+PokerStars Hand #1326473405:  Hold'em No Limit ($75.00/$150.00 USD) - 2022/08/04 03:49:14 ET
+Table 'WPN_7 Day No Rathole 75/150 NLH' 9-max Seat #5 is the button
+Seat 2: JimmyJohns ($4499.14 in chips)
+Seat 3: TIKITAKA11 ($60848.07 in chips)
+Seat 4: lmpala_zOrg ($7462.61 in chips)
+Seat 5: zas911 ($33790.22 in chips)
+Seat 6: PridvorD ($10106.23 in chips)
+Seat 7: PathfinderPaco ($4157.25 in chips)
+PridvorD: posts small blind $75.00
+PathfinderPaco: posts big blind $150.00
+*** HOLE CARDS ***
+JimmyJohns: folds
+TIKITAKA11: folds
+lmpala_zOrg: raises $187.50 to $337.50
+zas911: folds
+PridvorD: folds
+PathfinderPaco: folds
+Uncalled bet ($187.50) returned to lmpala_zOrg
+lmpala_zOrg collected $375.00 from pot
+lmpala_zOrg: doesn't show hand
+*** SUMMARY ***
+Total pot $375.00 | Rake $0.00
+Seat 2: JimmyJohns folded before Flop (didn't bet)
+Seat 3: TIKITAKA11 folded before Flop (didn't bet)
+Seat 4: lmpala_zOrg collected ($375.00)
+Seat 5: zas911 (button) folded before Flop (didn't bet)
+Seat 6: PridvorD (small blind) folded before Flop
+Seat 7: PathfinderPaco (big blind) folded before Flop
+
+PokerStars Hand #1326474090:  Hold'em No Limit ($75.00/$150.00 USD) - 2022/08/04 03:49:51 ET
+Table 'WPN_7 Day No Rathole 75/150 NLH' 9-max Seat #6 is the button
+Seat 2: JimmyJohns ($4499.14 in chips)
+Seat 3: TIKITAKA11 ($60848.07 in chips)
+Seat 4: lmpala_zOrg ($7687.61 in chips)
+Seat 5: zas911 ($33790.22 in chips)
+Seat 6: PridvorD ($10031.23 in chips)
+Seat 7: PathfinderPaco ($4007.25 in chips)
+PathfinderPaco: posts small blind $75.00
+JimmyJohns: posts big blind $150.00
+*** HOLE CARDS ***
+TIKITAKA11: folds
+lmpala_zOrg: folds
+zas911: raises $150.00 to $300.00
+PridvorD: folds
+PathfinderPaco: folds
+JimmyJohns: folds
+Uncalled bet ($150.00) returned to zas911
+zas911 collected $375.00 from pot
+zas911: doesn't show hand
+*** SUMMARY ***
+Total pot $375.00 | Rake $0.00
+Seat 2: JimmyJohns (big blind) folded before Flop
+Seat 3: TIKITAKA11 folded before Flop (didn't bet)
+Seat 4: lmpala_zOrg folded before Flop (didn't bet)
+Seat 5: zas911 collected ($375.00)
+Seat 6: PridvorD (button) folded before Flop (didn't bet)
+Seat 7: PathfinderPaco (small blind) folded before Flop
+
+PokerStars Hand #1326474740:  Hold'em No Limit ($75.00/$150.00 USD) - 2022/08/04 03:50:29 ET
+Table 'WPN_7 Day No Rathole 75/150 NLH' 9-max Seat #7 is the button
+Seat 2: JimmyJohns ($4349.14 in chips)
+Seat 3: TIKITAKA11 ($60848.07 in chips)
+Seat 4: lmpala_zOrg ($7687.61 in chips)
+Seat 5: zas911 ($34015.22 in chips)
+Seat 6: PridvorD ($10031.23 in chips)
+Seat 7: PathfinderPaco ($3932.25 in chips)
+Seat 8: pdog877 ($1500.00 in chips)
+JimmyJohns: posts small blind $75.00
+TIKITAKA11: posts big blind $150.00
+*** HOLE CARDS ***
+lmpala_zOrg: folds
+zas911: raises $187.50 to $337.50
+PridvorD: folds
+PathfinderPaco: folds
+JimmyJohns: folds
+TIKITAKA11: folds
+Uncalled bet ($187.50) returned to zas911
+zas911 collected $375.00 from pot
+zas911: doesn't show hand
+*** SUMMARY ***
+Total pot $375.00 | Rake $0.00
+Seat 2: JimmyJohns (small blind) folded before Flop
+Seat 3: TIKITAKA11 (big blind) folded before Flop
+Seat 4: lmpala_zOrg folded before Flop (didn't bet)
+Seat 5: zas911 collected ($375.00)
+Seat 6: PridvorD folded before Flop (didn't bet)
+Seat 7: PathfinderPaco (button) folded before Flop (didn't bet)
+
+PokerStars Hand #1326475081:  Hold'em No Limit ($75.00/$150.00 USD) - 2022/08/04 03:50:47 ET
+Table 'WPN_7 Day No Rathole 75/150 NLH' 9-max Seat #2 is the button
+Seat 2: JimmyJohns ($4274.14 in chips)
+Seat 3: TIKITAKA11 ($60698.07 in chips)
+Seat 4: lmpala_zOrg ($7687.61 in chips)
+Seat 5: zas911 ($34240.22 in chips)
+Seat 6: PridvorD ($10031.23 in chips)
+Seat 7: PathfinderPaco ($3932.25 in chips)
+Seat 8: pdog877 ($1500.00 in chips)
+TIKITAKA11: posts small blind $75.00
+lmpala_zOrg: posts big blind $150.00
+*** HOLE CARDS ***
+zas911: folds
+PridvorD: folds
+PathfinderPaco: raises $150.00 to $300.00
+JimmyJohns: folds
+TIKITAKA11: folds
+lmpala_zOrg: calls $150.00
+*** FLOP *** [5d 4h 8s]
+lmpala_zOrg: checks
+PathfinderPaco: bets $344.25
+lmpala_zOrg: folds
+Uncalled bet ($344.25) returned to PathfinderPaco
+PathfinderPaco collected $672.00 from pot
+PathfinderPaco: doesn't show hand
+*** SUMMARY ***
+Total pot $675.00 | Rake $3.00
+Board [5d 4h 8s]
+Seat 2: JimmyJohns (button) folded before Flop (didn't bet)
+Seat 3: TIKITAKA11 (small blind) folded before Flop
+Seat 4: lmpala_zOrg (big blind) folded on the Flop
+Seat 5: zas911 folded before Flop (didn't bet)
+Seat 6: PridvorD folded before Flop (didn't bet)
+Seat 7: PathfinderPaco collected ($672.00)
+
+PokerStars Hand #1326476255:  Hold'em No Limit ($75.00/$150.00 USD) - 2022/08/04 03:51:53 ET
+Table 'WPN_7 Day No Rathole 75/150 NLH' 9-max Seat #3 is the button
+Seat 2: JimmyJohns ($4274.14 in chips)
+Seat 3: TIKITAKA11 ($60623.07 in chips)
+Seat 4: lmpala_zOrg ($7387.61 in chips)
+Seat 5: zas911 ($34240.22 in chips)
+Seat 6: PridvorD ($10031.23 in chips)
+Seat 7: PathfinderPaco ($4304.25 in chips)
+Seat 8: pdog877 ($1500.00 in chips)
+lmpala_zOrg: posts small blind $75.00
+zas911: posts big blind $150.00
+*** HOLE CARDS ***
+PridvorD: folds
+PathfinderPaco: folds
+JimmyJohns: folds
+TIKITAKA11: raises $225.00 to $375.00
+lmpala_zOrg: folds
+zas911: calls $225.00
+*** FLOP *** [6s 2c 9d]
+zas911: checks
+TIKITAKA11: checks
+*** TURN *** [6s 2c 9d] [2d]
+zas911: checks
+TIKITAKA11: bets $544.50
+zas911: folds
+Uncalled bet ($544.50) returned to TIKITAKA11
+TIKITAKA11 collected $822.00 from pot
+TIKITAKA11: doesn't show hand
+*** SUMMARY ***
+Total pot $825.00 | Rake $3.00
+Board [6s 2c 9d 2d]
+Seat 2: JimmyJohns folded before Flop (didn't bet)
+Seat 3: TIKITAKA11 (button) collected ($822.00)
+Seat 4: lmpala_zOrg (small blind) folded before Flop
+Seat 5: zas911 (big blind) folded on the Turn
+Seat 6: PridvorD folded before Flop (didn't bet)
+Seat 7: PathfinderPaco folded before Flop (didn't bet)
+
+PokerStars Hand #1326477510:  Hold'em No Limit ($75.00/$150.00 USD) - 2022/08/04 03:53:02 ET
+Table 'WPN_7 Day No Rathole 75/150 NLH' 9-max Seat #4 is the button
+Seat 2: JimmyJohns ($4274.14 in chips)
+Seat 3: TIKITAKA11 ($61070.07 in chips)
+Seat 4: lmpala_zOrg ($7312.61 in chips)
+Seat 5: zas911 ($33865.22 in chips)
+Seat 6: PridvorD ($10031.23 in chips)
+Seat 7: PathfinderPaco ($4304.25 in chips)
+Seat 8: pdog877 ($1500.00 in chips)
+zas911: posts small blind $75.00
+PridvorD: posts big blind $150.00
+*** HOLE CARDS ***
+PathfinderPaco: folds
+JimmyJohns: folds
+TIKITAKA11: raises $225.00 to $375.00
+lmpala_zOrg: folds
+zas911: raises $1200.00 to $1575.00
+PridvorD: folds
+TIKITAKA11: calls $1200.00
+*** FLOP *** [8h 3s Qh]
+zas911: checks
+TIKITAKA11: checks
+*** TURN *** [8h 3s Qh] [2h]
+zas911: checks
+TIKITAKA11: checks
+*** RIVER *** [8h 3s Qh 2h] [5h]
+zas911: checks
+TIKITAKA11: checks
+*** SHOW DOWN ***
+TIKITAKA11: shows [8c 9c]
+zas911: mucks hand
+TIKITAKA11 collected $3297.00 from pot
+*** SUMMARY ***
+Total pot $3300.00 | Rake $3.00
+Board [8h 3s Qh 2h 5h]
+Seat 2: JimmyJohns folded before Flop (didn't bet)
+Seat 3: TIKITAKA11 showed [8c 9c] and won ($3297.00)
+Seat 4: lmpala_zOrg (button) folded before Flop (didn't bet)
+Seat 5: zas911 (small blind) mucked
+Seat 6: PridvorD (big blind) folded before Flop
+Seat 7: PathfinderPaco folded before Flop (didn't bet)
+
+PokerStars Hand #1326479012:  Hold'em No Limit ($75.00/$150.00 USD) - 2022/08/04 03:54:28 ET
+Table 'WPN_7 Day No Rathole 75/150 NLH' 9-max Seat #5 is the button
+Seat 2: JimmyJohns ($4274.14 in chips)
+Seat 3: TIKITAKA11 ($62792.07 in chips)
+Seat 4: lmpala_zOrg ($7312.61 in chips)
+Seat 5: zas911 ($32290.22 in chips)
+Seat 6: PridvorD ($9881.23 in chips)
+Seat 7: PathfinderPaco ($4304.25 in chips)
+Seat 8: pdog877 ($1500.00 in chips)
+PridvorD: posts small blind $75.00
+pdog877: posts big blind $150.00
+*** HOLE CARDS ***
+JimmyJohns: folds
+TIKITAKA11: raises $150.00 to $300.00
+lmpala_zOrg: folds
+zas911: folds
+PridvorD: calls $225.00
+pdog877: calls $150.00
+*** FLOP *** [9c 6h Ad]
+PridvorD: checks
+pdog877: checks
+TIKITAKA11: checks
+*** TURN *** [9c 6h Ad] [8h]
+PridvorD: checks
+pdog877: checks
+TIKITAKA11: bets $594.00
+PridvorD: folds
+pdog877: folds
+Uncalled bet ($594.00) returned to TIKITAKA11
+TIKITAKA11 collected $897.00 from pot
+TIKITAKA11: doesn't show hand
+*** SUMMARY ***
+Total pot $900.00 | Rake $3.00
+Board [9c 6h Ad 8h]
+Seat 2: JimmyJohns folded before Flop (didn't bet)
+Seat 3: TIKITAKA11 collected ($897.00)
+Seat 4: lmpala_zOrg folded before Flop (didn't bet)
+Seat 5: zas911 (button) folded before Flop (didn't bet)
+Seat 6: PridvorD (small blind) folded on the Turn
+Seat 8: pdog877 (big blind) folded on the Turn
+
+PokerStars Hand #1326466036:  Hold'em No Limit ($75.00/$150.00 USD) - 2022/08/04 03:42:26 ET
+Table 'WPN_7 Day No Rathole 75/150 NLH' 9-max Seat #5 is the button
+Seat 2: JimmyJohns ($1350.00 in chips)
+Seat 3: TIKITAKA11 ($60248.07 in chips)
+Seat 4: lmpala_zOrg ($4529.25 in chips)
+Seat 5: zas911 ($38842.22 in chips)
+JimmyJohns: posts small blind $75.00
+TIKITAKA11: posts big blind $150.00
+*** HOLE CARDS ***
+zas911: folds
+JimmyJohns: folds
+Uncalled bet ($75.00) returned to TIKITAKA11
+TIKITAKA11 collected $150.00 from pot
+TIKITAKA11: doesn't show hand
+*** SUMMARY ***
+Total pot $150.00 | Rake $0.00
+Seat 2: JimmyJohns (small blind) folded before Flop
+Seat 3: TIKITAKA11 (big blind) collected ($150.00)
+Seat 5: zas911 (button) folded before Flop (didn't bet)
+
+PokerStars Hand #1326464231:  Hold'em No Limit ($75.00/$150.00 USD) - 2022/08/04 03:40:48 ET
+Table 'WPN_7 Day No Rathole 75/150 NLH' 9-max Seat #5 is the button
+Seat 2: JimmyJohns ($1350.00 in chips)
+Seat 3: TIKITAKA11 ($59687.32 in chips)
+Seat 5: zas911 ($39179.72 in chips)
+JimmyJohns: posts small blind $75.00
+TIKITAKA11: posts big blind $150.00
+*** HOLE CARDS ***
+zas911: raises $150.00 to $300.00
+JimmyJohns: folds
+TIKITAKA11: calls $150.00
+*** FLOP *** [9h Ad Qd]
+TIKITAKA11: checks
+zas911: bets $337.50
+TIKITAKA11: calls $337.50
+*** TURN *** [9h Ad Qd] [Tc]
+TIKITAKA11: checks
+zas911: checks
+*** RIVER *** [9h Ad Qd Tc] [Kh]
+TIKITAKA11: bets $405.00
+zas911: folds
+Uncalled bet ($405.00) returned to TIKITAKA11
+TIKITAKA11 collected $1348.25 from pot
+TIKITAKA11: doesn't show hand
+*** SUMMARY ***
+Total pot $1350.00 | Rake $1.75
+Board [9h Ad Qd Tc Kh]
+Seat 2: JimmyJohns (small blind) folded before Flop
+Seat 3: TIKITAKA11 (big blind) collected ($1348.25)
+Seat 5: zas911 (button) folded on the River
+
+PokerStars Hand #1326465131:  Hold'em No Limit ($75.00/$150.00 USD) - 2022/08/04 03:41:37 ET
+Table 'WPN_7 Day No Rathole 75/150 NLH' 9-max Seat #2 is the button
+Seat 2: JimmyJohns ($1500.00 in chips)
+Seat 3: TIKITAKA11 ($60398.07 in chips)
+Seat 5: zas911 ($38542.22 in chips)
+TIKITAKA11: posts small blind $75.00
+zas911: posts big blind $150.00
+*** HOLE CARDS ***
+JimmyJohns: folds
+TIKITAKA11: calls $75.00
+zas911: raises $450.00 to $600.00
+TIKITAKA11: folds
+Uncalled bet ($450.00) returned to zas911
+zas911 collected $300.00 from pot
+zas911: doesn't show hand
+*** SUMMARY ***
+Total pot $300.00 | Rake $0.00
+Seat 2: JimmyJohns (button) folded before Flop (didn't bet)
+Seat 3: TIKITAKA11 (small blind) folded before Flop
+Seat 5: zas911 (big blind) collected ($300.00)
+
+PokerStars Hand #1326465755:  Hold'em No Limit ($75.00/$150.00 USD) - 2022/08/04 03:42:10 ET
+Table 'WPN_7 Day No Rathole 75/150 NLH' 9-max Seat #3 is the button
+Seat 2: JimmyJohns ($1500.00 in chips)
+Seat 3: TIKITAKA11 ($60248.07 in chips)
+Seat 5: zas911 ($38692.22 in chips)
+zas911: posts small blind $75.00
+JimmyJohns: posts big blind $150.00
+*** HOLE CARDS ***
+TIKITAKA11: folds
+zas911: raises $38542.22 to $38692.22 and is all-in
+JimmyJohns: folds
+Uncalled bet ($38542.22) returned to zas911
+zas911 collected $300.00 from pot
+zas911: doesn't show hand
+*** SUMMARY ***
+Total pot $300.00 | Rake $0.00
+Seat 2: JimmyJohns (big blind) folded before Flop
+Seat 3: TIKITAKA11 (button) folded before Flop (didn't bet)
+Seat 5: zas911 (small blind) collected ($300.00)
+
+PokerStars Hand #1326462523:  Hold'em No Limit ($75.00/$150.00 USD) - 2022/08/04 03:39:19 ET
+Table 'WPN_7 Day No Rathole 75/150 NLH' 9-max Seat #2 is the button
+Seat 2: JimmyJohns ($1350.00 in chips)
+Seat 3: TIKITAKA11 ($59463.19 in chips)
+Seat 5: zas911 ($39255.60 in chips)
+TIKITAKA11: posts small blind $75.00
+zas911: posts big blind $150.00
+*** HOLE CARDS ***
+JimmyJohns: folds
+TIKITAKA11: calls $75.00
+zas911: checks
+*** FLOP *** [2h Jc 3h]
+TIKITAKA11: bets $150.00
+zas911: calls $150.00
+*** TURN *** [2h Jc 3h] [Ks]
+TIKITAKA11: bets $1200.00
+zas911: calls $1200.00
+*** RIVER *** [2h Jc 3h Ks] [5c]
+TIKITAKA11: checks
+zas911: checks
+*** SHOW DOWN ***
+TIKITAKA11: shows [5h 4c]
+zas911: shows [5s 4d]
+TIKITAKA11 collected $1499.13 from pot
+zas911 collected $1499.12 from pot
+*** SUMMARY ***
+Total pot $3000.00 | Rake $1.75
+Board [2h Jc 3h Ks 5c]
+Seat 2: JimmyJohns (button) folded before Flop (didn't bet)
+Seat 3: TIKITAKA11 (small blind) showed [5h 4c] and won ($1499.13)
+Seat 5: zas911 (big blind) showed [5s 4d] and won ($1499.12)
+
+PokerStars Hand #1326463815:  Hold'em No Limit ($75.00/$150.00 USD) - 2022/08/04 03:40:27 ET
+Table 'WPN_7 Day No Rathole 75/150 NLH' 9-max Seat #3 is the button
+Seat 2: JimmyJohns ($1350.00 in chips)
+Seat 3: TIKITAKA11 ($59462.32 in chips)
+Seat 5: zas911 ($39254.72 in chips)
+zas911: posts small blind $75.00
+JimmyJohns: posts big blind $150.00
+*** HOLE CARDS ***
+TIKITAKA11: raises $225.00 to $375.00
+zas911: folds
+JimmyJohns: folds
+Uncalled bet ($225.00) returned to TIKITAKA11
+TIKITAKA11 collected $375.00 from pot
+TIKITAKA11: doesn't show hand
+*** SUMMARY ***
+Total pot $375.00 | Rake $0.00
+Seat 2: JimmyJohns (big blind) folded before Flop
+Seat 3: TIKITAKA11 (button) collected ($375.00)
+Seat 5: zas911 (small blind) folded before Flop
+
+PokerStars Hand #1326461087:  Hold'em No Limit ($75.00/$150.00 USD) - 2022/08/04 03:38:04 ET
+Table 'WPN_7 Day No Rathole 75/150 NLH' 9-max Seat #3 is the button
+Seat 2: JimmyJohns ($1500.00 in chips)
+Seat 3: TIKITAKA11 ($58789.44 in chips)
+TIKITAKA11: posts small blind $75.00
+JimmyJohns: posts big blind $150.00
+*** HOLE CARDS ***
+TIKITAKA11: calls $75.00
+JimmyJohns: checks
+*** FLOP *** [2d 3c 6s]
+JimmyJohns: checks
+TIKITAKA11: bets $150.00
+JimmyJohns: raises $225.00 to $375.00
+TIKITAKA11: raises $1575.00 to $1950.00
+JimmyJohns: folds
+Uncalled bet ($1575.00) returned to TIKITAKA11
+TIKITAKA11 collected $1048.75 from pot
+TIKITAKA11: doesn't show hand
+*** SUMMARY ***
+Total pot $1050.00 | Rake $1.25
+Board [2d 3c 6s]
+Seat 2: JimmyJohns (big blind) folded on the Flop
+Seat 3: TIKITAKA11 (button) (small blind) collected ($1048.75)
+
+PokerStars Hand #1326462101:  Hold'em No Limit ($75.00/$150.00 USD) - 2022/08/04 03:38:58 ET
+Table 'WPN_7 Day No Rathole 75/150 NLH' 9-max Seat #2 is the button
+Seat 2: JimmyJohns ($975.00 in chips)
+Seat 3: TIKITAKA11 ($59313.19 in chips)
+Seat 5: zas911 ($39255.60 in chips)
+JimmyJohns: posts small blind $75.00
+TIKITAKA11: posts big blind $150.00
+*** HOLE CARDS ***
+JimmyJohns: calls $75.00
+TIKITAKA11: raises $225.00 to $375.00
+JimmyJohns: folds
+Uncalled bet ($225.00) returned to TIKITAKA11
+TIKITAKA11 collected $300.00 from pot
+TIKITAKA11: doesn't show hand
+*** SUMMARY ***
+Total pot $300.00 | Rake $0.00
+Seat 2: JimmyJohns (button) (small blind) folded before Flop
+Seat 3: TIKITAKA11 (big blind) collected ($300.00)
+
+PokerStars Hand #1326460611:  Hold'em No Limit ($75.00/$150.00 USD) - 2022/08/04 03:37:39 ET
+Table 'WPN_7 Day No Rathole 75/150 NLH' 9-max Seat #4 is the button
+Seat 3: TIKITAKA11 ($57216.94 in chips)
+Seat 4: blodders03 ($1573.75 in chips)
+blodders03: posts small blind $75.00
+TIKITAKA11: posts big blind $150.00
+*** HOLE CARDS ***
+blodders03: raises $1423.75 to $1573.75 and is all-in
+TIKITAKA11: calls $1423.75
+*** FIRST FLOP *** [Ah 9h 7c]
+*** FIRST TURN *** [Ah 9h 7c] [8s]
+*** FIRST RIVER *** [Ah 9h 7c 8s] [Qh]
+*** SECOND FLOP *** [8h 8c 7d]
+*** SECOND TURN *** [8h 8c 7d] [5h]
+*** SECOND RIVER *** [8h 8c 7d 5h] [Jd]
+*** FIRST SHOW DOWN ***
+TIKITAKA11: shows [4c 4s]
+blodders03: shows [6h Ks]
+TIKITAKA11 collected $1573.13 from pot
+*** SECOND SHOW DOWN ***
+TIKITAKA11: shows [4c 4s]
+blodders03: shows [6h Ks]
+TIKITAKA11 collected $1573.12 from pot
+*** SUMMARY ***
+Total pot $3147.50 | Rake $1.25
+Hand was run twice
+FIRST Board [Ah 9h 7c 8s Qh]
+SECOND Board [8h 8c 7d 5h Jd]
+Seat 3: TIKITAKA11 (big blind) showed [4c 4s] and won ($1573.13), and won ($1573.12)
+Seat 4: blodders03 (button) (small blind) showed [6h Ks] and lost, and lost
+
+PokerStars Hand #1326459436:  Hold'em No Limit ($75.00/$150.00 USD) - 2022/08/04 03:36:37 ET
+Table 'WPN_7 Day No Rathole 75/150 NLH' 9-max Seat #4 is the button
+Seat 3: TIKITAKA11 ($57441.94 in chips)
+Seat 4: blodders03 ($1350.00 in chips)
+blodders03: posts small blind $75.00
+TIKITAKA11: posts big blind $150.00
+*** HOLE CARDS ***
+blodders03: calls $75.00
+TIKITAKA11: checks
+*** FLOP *** [Ks 2d 2c]
+TIKITAKA11: checks
+blodders03: checks
+*** TURN *** [Ks 2d 2c] [As]
+TIKITAKA11: checks
+blodders03: checks
+*** RIVER *** [Ks 2d 2c As] [9c]
+TIKITAKA11: checks
+blodders03: bets $150.00
+TIKITAKA11: folds
+Uncalled bet ($150.00) returned to blodders03
+blodders03 collected $298.75 from pot
+blodders03: doesn't show hand
+*** SUMMARY ***
+Total pot $300.00 | Rake $1.25
+Board [Ks 2d 2c As 9c]
+Seat 3: TIKITAKA11 (big blind) folded on the River
+Seat 4: blodders03 (button) (small blind) collected ($298.75)
+
+PokerStars Hand #1326460338:  Hold'em No Limit ($75.00/$150.00 USD) - 2022/08/04 03:37:25 ET
+Table 'WPN_7 Day No Rathole 75/150 NLH' 9-max Seat #3 is the button
+Seat 3: TIKITAKA11 ($57291.94 in chips)
+Seat 4: blodders03 ($1498.75 in chips)
+TIKITAKA11: posts small blind $75.00
+blodders03: posts big blind $150.00
+*** HOLE CARDS ***
+TIKITAKA11: folds
+Uncalled bet ($75.00) returned to blodders03
+blodders03 collected $150.00 from pot
+blodders03: doesn't show hand
+*** SUMMARY ***
+Total pot $150.00 | Rake $0.00
+Seat 3: TIKITAKA11 (button) (small blind) folded before Flop
+Seat 4: blodders03 (big blind) collected ($150.00)
+
+PokerStars Hand #1326459186:  Hold'em No Limit ($75.00/$150.00 USD) - 2022/08/04 03:36:24 ET
+Table 'WPN_7 Day No Rathole 75/150 NLH' 9-max Seat #3 is the button
+Seat 3: TIKITAKA11 ($57516.94 in chips)
+Seat 4: blodders03 ($1275.00 in chips)
+TIKITAKA11: posts small blind $75.00
+blodders03: posts big blind $150.00
+*** HOLE CARDS ***
+TIKITAKA11: folds
+Uncalled bet ($75.00) returned to blodders03
+blodders03 collected $150.00 from pot
+blodders03: doesn't show hand
+*** SUMMARY ***
+Total pot $150.00 | Rake $0.00
+Seat 3: TIKITAKA11 (button) (small blind) folded before Flop
+Seat 4: blodders03 (big blind) collected ($150.00)
+
+PokerStars Hand #1326458546:  Hold'em No Limit ($75.00/$150.00 USD) - 2022/08/04 03:35:51 ET
+Table 'WPN_7 Day No Rathole 75/150 NLH' 9-max Seat #3 is the button
+Seat 3: TIKITAKA11 ($57291.94 in chips)
+Seat 4: blodders03 ($1500.00 in chips)
+TIKITAKA11: posts small blind $75.00
+blodders03: posts big blind $150.00
+*** HOLE CARDS ***
+TIKITAKA11: raises $57141.94 to $57291.94 and is all-in
+blodders03: folds
+Uncalled bet ($57141.94) returned to TIKITAKA11
+TIKITAKA11 collected $300.00 from pot
+TIKITAKA11: doesn't show hand
+*** SUMMARY ***
+Total pot $300.00 | Rake $0.00
+Seat 3: TIKITAKA11 (button) (small blind) collected ($300.00)
+Seat 4: blodders03 (big blind) folded before Flop
+
+PokerStars Hand #1326458886:  Hold'em No Limit ($75.00/$150.00 USD) - 2022/08/04 03:36:09 ET
+Table 'WPN_7 Day No Rathole 75/150 NLH' 9-max Seat #4 is the button
+Seat 3: TIKITAKA11 ($57441.94 in chips)
+Seat 4: blodders03 ($1350.00 in chips)
+blodders03: posts small blind $75.00
+TIKITAKA11: posts big blind $150.00
+*** HOLE CARDS ***
+blodders03: folds
+Uncalled bet ($75.00) returned to TIKITAKA11
+TIKITAKA11 collected $150.00 from pot
+TIKITAKA11: doesn't show hand
+*** SUMMARY ***
+Total pot $150.00 | Rake $0.00
+Seat 3: TIKITAKA11 (big blind) collected ($150.00)
+Seat 4: blodders03 (button) (small blind) folded before Flop
+
+PokerStars Hand #1326414675:  Hold'em No Limit ($75.00/$150.00 USD) - 2022/08/04 02:58:08 ET
+Table 'WPN_7 Day No Rathole 75/150 NLH' 9-max Seat #5 is the button
+Seat 2: SigadiSogadi ($32856.24 in chips)
+Seat 3: TIKITAKA11 ($57591.94 in chips)
+Seat 4: zas911 ($39255.60 in chips)
+Seat 5: PathfinderPaco ($3784.50 in chips)
+Seat 6: Meek Bill ($57669.00 in chips)
+Seat 7: lmpala_zOrg ($4529.25 in chips)
+Meek Bill: posts small blind $75.00
+TIKITAKA11: posts big blind $150.00
+*** HOLE CARDS ***
+zas911: folds
+PathfinderPaco: raises $150.00 to $300.00
+Meek Bill: folds
+TIKITAKA11: calls $150.00
+*** FLOP *** [Kd 3s As]
+TIKITAKA11: checks
+PathfinderPaco: checks
+*** TURN *** [Kd 3s As] [6s]
+TIKITAKA11: checks
+PathfinderPaco: bets $168.75
+TIKITAKA11: folds
+Uncalled bet ($168.75) returned to PathfinderPaco
+PathfinderPaco collected $672.75 from pot
+PathfinderPaco: doesn't show hand
+*** SUMMARY ***
+Total pot $675.00 | Rake $2.25
+Board [Kd 3s As 6s]
+Seat 3: TIKITAKA11 (big blind) folded on the Turn
+Seat 4: zas911 folded before Flop (didn't bet)
+Seat 5: PathfinderPaco (button) collected ($672.75)
+Seat 6: Meek Bill (small blind) folded before Flop
+
+PokerStars Hand #1326412715:  Hold'em No Limit ($75.00/$150.00 USD) - 2022/08/04 02:55:13 ET
+Table 'WPN_7 Day No Rathole 75/150 NLH' 9-max Seat #4 is the button
+Seat 1: plyman416 ($1500.00 in chips)
+Seat 2: SigadiSogadi ($28554.24 in chips)
+Seat 3: TIKITAKA11 ($57591.94 in chips)
+Seat 4: zas911 ($43335.60 in chips)
+Seat 5: PathfinderPaco ($3859.50 in chips)
+Seat 6: Meek Bill ($57819.00 in chips)
+Seat 7: lmpala_zOrg ($4529.25 in chips)
+PathfinderPaco: posts small blind $75.00
+Meek Bill: posts big blind $150.00
+*** HOLE CARDS ***
+plyman416: folds
+SigadiSogadi: raises $180.00 to $330.00
+TIKITAKA11: folds
+zas911: raises $855.00 to $1185.00
+PathfinderPaco: folds
+Meek Bill: folds
+SigadiSogadi: calls $855.00
+*** FLOP *** [2s 8d Ac]
+SigadiSogadi: checks
+zas911: bets $798.75
+SigadiSogadi: raises $2096.25 to $2895.00
+zas911: calls $2096.25
+*** TURN *** [2s 8d Ac] [2c]
+SigadiSogadi: bets $6288.75
+zas911: folds
+Uncalled bet ($6288.75) returned to SigadiSogadi
+SigadiSogadi collected $8382.00 from pot
+SigadiSogadi: doesn't show hand
+*** SUMMARY ***
+Total pot $8385.00 | Rake $3.00
+Board [2s 8d Ac 2c]
+Seat 1: plyman416 folded before Flop (didn't bet)
+Seat 2: SigadiSogadi collected ($8382.00)
+Seat 3: TIKITAKA11 folded before Flop (didn't bet)
+Seat 4: zas911 (button) folded on the Turn
+Seat 5: PathfinderPaco (small blind) folded before Flop
+Seat 6: Meek Bill (big blind) folded before Flop
+
+PokerStars Hand #1326411736:  Hold'em No Limit ($75.00/$150.00 USD) - 2022/08/04 02:54:20 ET
+Table 'WPN_7 Day No Rathole 75/150 NLH' 9-max Seat #2 is the button
+Seat 1: plyman416 ($1500.00 in chips)
+Seat 2: SigadiSogadi ($28554.24 in chips)
+Seat 3: TIKITAKA11 ($57966.94 in chips)
+Seat 4: zas911 ($43335.60 in chips)
+Seat 5: PathfinderPaco ($3484.50 in chips)
+Seat 6: Meek Bill ($57819.00 in chips)
+TIKITAKA11: posts small blind $75.00
+zas911: posts big blind $150.00
+*** HOLE CARDS ***
+plyman416: folds
+SigadiSogadi: folds
+TIKITAKA11: folds
+Uncalled bet ($75.00) returned to zas911
+zas911 collected $150.00 from pot
+zas911: doesn't show hand
+*** SUMMARY ***
+Total pot $150.00 | Rake $0.00
+Seat 1: plyman416 folded before Flop (didn't bet)
+Seat 2: SigadiSogadi (button) folded before Flop (didn't bet)
+Seat 3: TIKITAKA11 (small blind) folded before Flop
+Seat 4: zas911 (big blind) collected ($150.00)
+
+PokerStars Hand #1326412311:  Hold'em No Limit ($75.00/$150.00 USD) - 2022/08/04 02:54:48 ET
+Table 'WPN_7 Day No Rathole 75/150 NLH' 9-max Seat #3 is the button
+Seat 1: plyman416 ($1500.00 in chips)
+Seat 2: SigadiSogadi ($28554.24 in chips)
+Seat 3: TIKITAKA11 ($57891.94 in chips)
+Seat 4: zas911 ($43410.60 in chips)
+Seat 5: PathfinderPaco ($3484.50 in chips)
+Seat 6: Meek Bill ($57819.00 in chips)
+zas911: posts small blind $75.00
+PathfinderPaco: posts big blind $150.00
+*** HOLE CARDS ***
+plyman416: folds
+SigadiSogadi: folds
+TIKITAKA11: raises $150.00 to $300.00
+zas911: folds
+PathfinderPaco: raises $3184.50 to $3484.50 and is all-in
+TIKITAKA11: folds
+Uncalled bet ($3184.50) returned to PathfinderPaco
+PathfinderPaco collected $675.00 from pot
+PathfinderPaco: doesn't show hand
+*** SUMMARY ***
+Total pot $675.00 | Rake $0.00
+Seat 1: plyman416 folded before Flop (didn't bet)
+Seat 2: SigadiSogadi folded before Flop (didn't bet)
+Seat 3: TIKITAKA11 (button) folded before Flop
+Seat 4: zas911 (small blind) folded before Flop
+Seat 5: PathfinderPaco (big blind) collected ($675.00)
+
+PokerStars Hand #1326410986:  Hold'em No Limit ($75.00/$150.00 USD) - 2022/08/04 02:53:44 ET
+Table 'WPN_7 Day No Rathole 75/150 NLH' 9-max Seat #4 is the button
+Seat 1: plyman416 ($1350.00 in chips)
+Seat 2: SigadiSogadi ($28779.24 in chips)
+Seat 3: TIKITAKA11 ($58116.94 in chips)
+Seat 4: zas911 ($43110.60 in chips)
+plyman416: posts small blind $75.00
+SigadiSogadi: posts big blind $150.00
+*** HOLE CARDS ***
+TIKITAKA11: folds
+zas911: folds
+plyman416: raises $1200.00 to $1350.00 and is all-in
+SigadiSogadi: folds
+Uncalled bet ($1200.00) returned to plyman416
+plyman416 collected $300.00 from pot
+plyman416: doesn't show hand
+*** SUMMARY ***
+Total pot $300.00 | Rake $0.00
+Seat 1: plyman416 (small blind) collected ($300.00)
+Seat 2: SigadiSogadi (big blind) folded before Flop
+Seat 3: TIKITAKA11 folded before Flop (didn't bet)
+Seat 4: zas911 (button) folded before Flop (didn't bet)
+
+PokerStars Hand #1326411308:  Hold'em No Limit ($75.00/$150.00 USD) - 2022/08/04 02:53:59 ET
+Table 'WPN_7 Day No Rathole 75/150 NLH' 9-max Seat #1 is the button
+Seat 1: plyman416 ($1500.00 in chips)
+Seat 2: SigadiSogadi ($28629.24 in chips)
+Seat 3: TIKITAKA11 ($58116.94 in chips)
+Seat 4: zas911 ($43110.60 in chips)
+SigadiSogadi: posts small blind $75.00
+TIKITAKA11: posts big blind $150.00
+*** HOLE CARDS ***
+zas911: raises $150.00 to $300.00
+plyman416: folds
+SigadiSogadi: folds
+TIKITAKA11: folds
+Uncalled bet ($150.00) returned to zas911
+zas911 collected $375.00 from pot
+zas911: doesn't show hand
+*** SUMMARY ***
+Total pot $375.00 | Rake $0.00
+Seat 1: plyman416 (button) folded before Flop (didn't bet)
+Seat 2: SigadiSogadi (small blind) folded before Flop
+Seat 3: TIKITAKA11 (big blind) folded before Flop
+Seat 4: zas911 collected ($375.00)
+
+PokerStars Hand #1326408006:  Hold'em No Limit ($75.00/$150.00 USD) - 2022/08/04 02:51:22 ET
+Table 'WPN_7 Day No Rathole 75/150 NLH' 9-max Seat #3 is the button
+Seat 1: plyman416 ($1500.00 in chips)
+Seat 3: TIKITAKA11 ($58116.94 in chips)
+TIKITAKA11: posts small blind $75.00
+plyman416: posts big blind $150.00
+*** HOLE CARDS ***
+TIKITAKA11: raises $57966.94 to $58116.94 and is all-in
+plyman416: folds
+Uncalled bet ($57966.94) returned to TIKITAKA11
+TIKITAKA11 collected $300.00 from pot
+TIKITAKA11: doesn't show hand
+*** SUMMARY ***
+Total pot $300.00 | Rake $0.00
+Seat 1: plyman416 (big blind) folded before Flop
+Seat 3: TIKITAKA11 (button) (small blind) collected ($300.00)
+
+PokerStars Hand #1326408257:  Hold'em No Limit ($75.00/$150.00 USD) - 2022/08/04 02:51:35 ET
+Table 'WPN_7 Day No Rathole 75/150 NLH' 9-max Seat #3 is the button
+Seat 1: plyman416 ($1350.00 in chips)
+Seat 2: SigadiSogadi ($26905.99 in chips)
+Seat 3: TIKITAKA11 ($58266.94 in chips)
+plyman416: posts small blind $75.00
+SigadiSogadi: posts big blind $150.00
+*** HOLE CARDS ***
+TIKITAKA11: raises $225.00 to $375.00
+plyman416: calls $300.00
+SigadiSogadi: raises $1575.00 to $1950.00
+TIKITAKA11: folds
+plyman416: calls $975.00 and is all-in
+Uncalled bet ($600.00) returned to SigadiSogadi
+*** FIRST FLOP *** [2d Kc Qd]
+*** FIRST TURN *** [2d Kc Qd] [Qh]
+*** FIRST RIVER *** [2d Kc Qd Qh] [7c]
+*** SECOND FLOP *** [Jc Ks 9s]
+*** SECOND TURN *** [Jc Ks 9s] [Tc]
+*** SECOND RIVER *** [Jc Ks 9s Tc] [Qc]
+*** FIRST SHOW DOWN ***
+SigadiSogadi: shows [Ac 2c]
+plyman416: shows [Td Jd]
+SigadiSogadi collected $1536.63 from pot
+*** SECOND SHOW DOWN ***
+SigadiSogadi: shows [Ac 2c]
+plyman416: shows [Td Jd]
+SigadiSogadi collected $1536.62 from pot
+*** SUMMARY ***
+Total pot $3075.00 | Rake $1.75
+Hand was run twice
+FIRST Board [2d Kc Qd Qh 7c]
+SECOND Board [Jc Ks 9s Tc Qc]
+Seat 1: plyman416 (small blind) showed [Td Jd] and lost, and lost
+Seat 2: SigadiSogadi (big blind) showed [Ac 2c] and won ($1536.63), and won ($1536.62)
+Seat 3: TIKITAKA11 (button) folded before Flop
+
+PokerStars Hand #1326409368:  Hold'em No Limit ($75.00/$150.00 USD) - 2022/08/04 02:52:28 ET
+Table 'WPN_7 Day No Rathole 75/150 NLH' 9-max Seat #1 is the button
+Seat 1: plyman416 ($1500.00 in chips)
+Seat 2: SigadiSogadi ($28629.24 in chips)
+Seat 3: TIKITAKA11 ($57891.94 in chips)
+Seat 4: zas911 ($43335.60 in chips)
+SigadiSogadi: posts small blind $75.00
+TIKITAKA11: posts big blind $150.00
+*** HOLE CARDS ***
+plyman416: folds
+SigadiSogadi: folds
+Uncalled bet ($75.00) returned to TIKITAKA11
+TIKITAKA11 collected $150.00 from pot
+TIKITAKA11: doesn't show hand
+*** SUMMARY ***
+Total pot $150.00 | Rake $0.00
+Seat 1: plyman416 (button) folded before Flop (didn't bet)
+Seat 2: SigadiSogadi (small blind) folded before Flop
+Seat 3: TIKITAKA11 (big blind) collected ($150.00)
+
+PokerStars Hand #1326410013:  Hold'em No Limit ($75.00/$150.00 USD) - 2022/08/04 02:52:59 ET
+Table 'WPN_7 Day No Rathole 75/150 NLH' 9-max Seat #2 is the button
+Seat 1: plyman416 ($1500.00 in chips)
+Seat 2: SigadiSogadi ($28554.24 in chips)
+Seat 3: TIKITAKA11 ($57966.94 in chips)
+Seat 4: zas911 ($43335.60 in chips)
+TIKITAKA11: posts small blind $75.00
+zas911: posts big blind $150.00
+*** HOLE CARDS ***
+plyman416: folds
+SigadiSogadi: raises $225.00 to $375.00
+TIKITAKA11: folds
+zas911: folds
+Uncalled bet ($225.00) returned to SigadiSogadi
+SigadiSogadi collected $375.00 from pot
+SigadiSogadi: doesn't show hand
+*** SUMMARY ***
+Total pot $375.00 | Rake $0.00
+Seat 1: plyman416 folded before Flop (didn't bet)
+Seat 2: SigadiSogadi (button) collected ($375.00)
+Seat 3: TIKITAKA11 (small blind) folded before Flop
+Seat 4: zas911 (big blind) folded before Flop
+
+PokerStars Hand #1326410441:  Hold'em No Limit ($75.00/$150.00 USD) - 2022/08/04 02:53:17 ET
+Table 'WPN_7 Day No Rathole 75/150 NLH' 9-max Seat #3 is the button
+Seat 1: plyman416 ($1500.00 in chips)
+Seat 2: SigadiSogadi ($28779.24 in chips)
+Seat 3: TIKITAKA11 ($57891.94 in chips)
+Seat 4: zas911 ($43185.60 in chips)
+zas911: posts small blind $75.00
+plyman416: posts big blind $150.00
+*** HOLE CARDS ***
+SigadiSogadi: folds
+TIKITAKA11: raises $150.00 to $300.00
+zas911: folds
+plyman416: folds
+Uncalled bet ($150.00) returned to TIKITAKA11
+TIKITAKA11 collected $375.00 from pot
+TIKITAKA11: doesn't show hand
+*** SUMMARY ***
+Total pot $375.00 | Rake $0.00
+Seat 1: plyman416 (big blind) folded before Flop
+Seat 2: SigadiSogadi folded before Flop (didn't bet)
+Seat 3: TIKITAKA11 (button) collected ($375.00)
+Seat 4: zas911 (small blind) folded before Flop
+
+PokerStars Hand #1326334192:  Hold'em No Limit ($75.00/$150.00 USD) - 2022/08/04 01:52:00 ET
+Table 'WPN_7 Day No Rathole 75/150 NLH' 9-max Seat #3 is the button
+Seat 2: SigadiSogadi ($26530.99 in chips)
+Seat 3: TIKITAKA11 ($58491.94 in chips)
+TIKITAKA11: posts small blind $75.00
+SigadiSogadi: posts big blind $150.00
+*** HOLE CARDS ***
+TIKITAKA11: raises $225.00 to $375.00
+SigadiSogadi: raises $1200.00 to $1575.00
+TIKITAKA11: folds
+Uncalled bet ($1200.00) returned to SigadiSogadi
+SigadiSogadi collected $750.00 from pot
+SigadiSogadi: doesn't show hand
+*** SUMMARY ***
+Total pot $750.00 | Rake $0.00
+Seat 2: SigadiSogadi (big blind) collected ($750.00)
+Seat 3: TIKITAKA11 (button) (small blind) folded before Flop
+

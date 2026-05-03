@@ -1,0 +1,959 @@
+PokerStars Hand #1493519489:  Hold'em No Limit ($50.00/$100.00 USD) - 2022/12/21 19:14:49 ET
+Table 'WPN_7 Day No Rathole 50/100 NLH' 9-max Seat #4 is the button
+Seat 4: OGORRA ($11872.27 in chips)
+Seat 9: bot35 ($1150.00 in chips)
+OGORRA: posts small blind $50.00
+bot35: posts big blind $100.00
+*** HOLE CARDS ***
+OGORRA: raises $11772.27 to $11872.27 and is all-in
+bot35: folds
+Uncalled bet ($11772.27) returned to OGORRA
+OGORRA collected $200.00 from pot
+OGORRA: doesn't show hand
+*** SUMMARY ***
+Total pot $200.00 | Rake $0.00
+Seat 4: OGORRA (button) (small blind) collected ($200.00)
+Seat 9: bot35 (big blind) folded before Flop
+
+PokerStars Hand #1493519692:  Hold'em No Limit ($50.00/$100.00 USD) - 2022/12/21 19:15:00 ET
+Table 'WPN_7 Day No Rathole 50/100 NLH' 9-max Seat #9 is the button
+Seat 4: OGORRA ($11972.27 in chips)
+Seat 9: bot35 ($1050.00 in chips)
+bot35: posts small blind $50.00
+OGORRA: posts big blind $100.00
+*** HOLE CARDS ***
+bot35: raises $950.00 to $1050.00 and is all-in
+OGORRA: calls $950.00
+*** FLOP *** [6s Js 8s]
+*** TURN *** [6s Js 8s] [6c]
+*** RIVER *** [6s Js 8s 6c] [3d]
+*** SHOW DOWN ***
+bot35: shows [Kh Jc]
+OGORRA: shows [Ah 4d]
+bot35 collected $2098.75 from pot
+*** SUMMARY ***
+Total pot $2100.00 | Rake $1.25
+Board [6s Js 8s 6c 3d]
+Seat 4: OGORRA (big blind) showed [Ah 4d] and lost
+Seat 9: bot35 (button) (small blind) showed [Kh Jc] and won ($2098.75)
+
+PokerStars Hand #1493493399:  Hold'em No Limit ($50.00/$100.00 USD) - 2022/12/21 18:46:02 ET
+Table 'WPN_7 Day No Rathole 50/100 NLH' 9-max Seat #4 is the button
+Seat 1: IAmTheJeff ($1100.00 in chips)
+Seat 2: bot35 ($1100.00 in chips)
+Seat 4: OGORRA ($10153.77 in chips)
+IAmTheJeff: posts small blind $50.00
+bot35: posts big blind $100.00
+*** HOLE CARDS ***
+OGORRA: folds
+IAmTheJeff: folds
+Uncalled bet ($50.00) returned to bot35
+bot35 collected $100.00 from pot
+bot35: doesn't show hand
+*** SUMMARY ***
+Total pot $100.00 | Rake $0.00
+Seat 1: IAmTheJeff (small blind) folded before Flop
+Seat 2: bot35 (big blind) collected ($100.00)
+Seat 4: OGORRA (button) folded before Flop (didn't bet)
+
+PokerStars Hand #1493493592:  Hold'em No Limit ($50.00/$100.00 USD) - 2022/12/21 18:46:13 ET
+Table 'WPN_7 Day No Rathole 50/100 NLH' 9-max Seat #1 is the button
+Seat 1: IAmTheJeff ($1050.00 in chips)
+Seat 2: bot35 ($1150.00 in chips)
+Seat 4: OGORRA ($10153.77 in chips)
+bot35: posts small blind $50.00
+OGORRA: posts big blind $100.00
+*** HOLE CARDS ***
+IAmTheJeff: folds
+bot35: folds
+Uncalled bet ($50.00) returned to OGORRA
+OGORRA collected $100.00 from pot
+OGORRA: doesn't show hand
+*** SUMMARY ***
+Total pot $100.00 | Rake $0.00
+Seat 1: IAmTheJeff (button) folded before Flop (didn't bet)
+Seat 2: bot35 (small blind) folded before Flop
+Seat 4: OGORRA (big blind) collected ($100.00)
+
+PokerStars Hand #1493493794:  Hold'em No Limit ($50.00/$100.00 USD) - 2022/12/21 18:46:26 ET
+Table 'WPN_7 Day No Rathole 50/100 NLH' 9-max Seat #2 is the button
+Seat 1: IAmTheJeff ($1050.00 in chips)
+Seat 2: bot35 ($1100.00 in chips)
+Seat 4: OGORRA ($10203.77 in chips)
+OGORRA: posts small blind $50.00
+IAmTheJeff: posts big blind $100.00
+*** HOLE CARDS ***
+bot35: folds
+OGORRA: folds
+Uncalled bet ($50.00) returned to IAmTheJeff
+IAmTheJeff collected $100.00 from pot
+IAmTheJeff: doesn't show hand
+*** SUMMARY ***
+Total pot $100.00 | Rake $0.00
+Seat 1: IAmTheJeff (big blind) collected ($100.00)
+Seat 2: bot35 (button) folded before Flop (didn't bet)
+Seat 4: OGORRA (small blind) folded before Flop
+
+PokerStars Hand #1493493965:  Hold'em No Limit ($50.00/$100.00 USD) - 2022/12/21 18:46:35 ET
+Table 'WPN_7 Day No Rathole 50/100 NLH' 9-max Seat #4 is the button
+Seat 1: IAmTheJeff ($1100.00 in chips)
+Seat 2: bot35 ($1100.00 in chips)
+Seat 4: OGORRA ($10153.77 in chips)
+IAmTheJeff: posts small blind $50.00
+bot35: posts big blind $100.00
+*** HOLE CARDS ***
+OGORRA: raises $8824.26 to $8924.26
+IAmTheJeff: calls $1050.00 and is all-in
+bot35: folds
+Uncalled bet ($7824.26) returned to OGORRA
+*** FIRST FLOP *** [Js Ks 5h]
+*** FIRST TURN *** [Js Ks 5h] [Jh]
+*** FIRST RIVER *** [Js Ks 5h Jh] [Th]
+*** SECOND FLOP *** [4d 7h Ad]
+*** SECOND TURN *** [4d 7h Ad] [9c]
+*** SECOND RIVER *** [4d 7h Ad 9c] [Td]
+*** FIRST SHOW DOWN ***
+IAmTheJeff: shows [Ac 5c]
+OGORRA: shows [Kh 9h]
+OGORRA collected $1149.13 from pot
+*** SECOND SHOW DOWN ***
+IAmTheJeff: shows [Ac 5c]
+OGORRA: shows [Kh 9h]
+IAmTheJeff collected $1149.12 from pot
+*** SUMMARY ***
+Total pot $2300.00 | Rake $1.75
+Hand was run twice
+FIRST Board [Js Ks 5h Jh Th]
+SECOND Board [4d 7h Ad 9c Td]
+Seat 1: IAmTheJeff (small blind) showed [Ac 5c] and lost, and won ($1149.12)
+Seat 2: bot35 (big blind) folded before Flop
+Seat 4: OGORRA (button) showed [Kh 9h] and won ($1149.13), and lost
+
+PokerStars Hand #1493494385:  Hold'em No Limit ($50.00/$100.00 USD) - 2022/12/21 18:47:00 ET
+Table 'WPN_7 Day No Rathole 50/100 NLH' 9-max Seat #1 is the button
+Seat 1: IAmTheJeff ($1149.12 in chips)
+Seat 2: bot35 ($1000.00 in chips)
+Seat 4: OGORRA ($10202.90 in chips)
+bot35: posts small blind $50.00
+OGORRA: posts big blind $100.00
+*** HOLE CARDS ***
+IAmTheJeff: folds
+bot35: folds
+Uncalled bet ($50.00) returned to OGORRA
+OGORRA collected $100.00 from pot
+OGORRA: doesn't show hand
+*** SUMMARY ***
+Total pot $100.00 | Rake $0.00
+Seat 1: IAmTheJeff (button) folded before Flop (didn't bet)
+Seat 2: bot35 (small blind) folded before Flop
+Seat 4: OGORRA (big blind) collected ($100.00)
+
+PokerStars Hand #1493494660:  Hold'em No Limit ($50.00/$100.00 USD) - 2022/12/21 18:47:16 ET
+Table 'WPN_7 Day No Rathole 50/100 NLH' 9-max Seat #2 is the button
+Seat 1: IAmTheJeff ($1149.12 in chips)
+Seat 2: bot35 ($950.00 in chips)
+Seat 4: OGORRA ($10252.90 in chips)
+OGORRA: posts small blind $50.00
+IAmTheJeff: posts big blind $100.00
+*** HOLE CARDS ***
+bot35: raises $900.00 to $1000.00 and is all-in
+OGORRA: folds
+IAmTheJeff: calls $900.00
+*** FIRST FLOP *** [3s 9h 4h]
+*** FIRST TURN *** [3s 9h 4h] [Ks]
+*** FIRST RIVER *** [3s 9h 4h Ks] [Th]
+*** SECOND FLOP *** [8s 8c 6d]
+*** SECOND TURN *** [8s 8c 6d] [7d]
+*** SECOND RIVER *** [8s 8c 6d 7d] [Kd]
+*** FIRST SHOW DOWN ***
+IAmTheJeff: shows [Tc Qs]
+bot35: shows [8d 9d]
+IAmTheJeff collected $1024.13 from pot
+*** SECOND SHOW DOWN ***
+IAmTheJeff: shows [Tc Qs]
+bot35: shows [8d 9d]
+bot35 collected $1024.12 from pot
+*** SUMMARY ***
+Total pot $2050.00 | Rake $1.75
+Hand was run twice
+FIRST Board [3s 9h 4h Ks Th]
+SECOND Board [8s 8c 6d 7d Kd]
+Seat 1: IAmTheJeff (big blind) showed [Tc Qs] and won ($1024.13), and lost
+Seat 2: bot35 (button) showed [8d 9d] and lost, and won ($1024.12)
+Seat 4: OGORRA (small blind) folded before Flop
+
+PokerStars Hand #1493495159:  Hold'em No Limit ($50.00/$100.00 USD) - 2022/12/21 18:47:46 ET
+Table 'WPN_7 Day No Rathole 50/100 NLH' 9-max Seat #4 is the button
+Seat 1: IAmTheJeff ($1173.25 in chips)
+Seat 2: bot35 ($1024.12 in chips)
+Seat 4: OGORRA ($10202.90 in chips)
+IAmTheJeff: posts small blind $50.00
+bot35: posts big blind $100.00
+*** HOLE CARDS ***
+OGORRA: folds
+IAmTheJeff: folds
+Uncalled bet ($50.00) returned to bot35
+bot35 collected $100.00 from pot
+bot35: doesn't show hand
+*** SUMMARY ***
+Total pot $100.00 | Rake $0.00
+Seat 1: IAmTheJeff (small blind) folded before Flop
+Seat 2: bot35 (big blind) collected ($100.00)
+Seat 4: OGORRA (button) folded before Flop (didn't bet)
+
+PokerStars Hand #1493495533:  Hold'em No Limit ($50.00/$100.00 USD) - 2022/12/21 18:48:09 ET
+Table 'WPN_7 Day No Rathole 50/100 NLH' 9-max Seat #1 is the button
+Seat 1: IAmTheJeff ($1123.25 in chips)
+Seat 2: bot35 ($1074.12 in chips)
+Seat 4: OGORRA ($10202.90 in chips)
+bot35: posts small blind $50.00
+OGORRA: posts big blind $100.00
+*** HOLE CARDS ***
+IAmTheJeff: folds
+bot35: folds
+Uncalled bet ($50.00) returned to OGORRA
+OGORRA collected $100.00 from pot
+OGORRA: doesn't show hand
+*** SUMMARY ***
+Total pot $100.00 | Rake $0.00
+Seat 1: IAmTheJeff (button) folded before Flop (didn't bet)
+Seat 2: bot35 (small blind) folded before Flop
+Seat 4: OGORRA (big blind) collected ($100.00)
+
+PokerStars Hand #1493495720:  Hold'em No Limit ($50.00/$100.00 USD) - 2022/12/21 18:48:20 ET
+Table 'WPN_7 Day No Rathole 50/100 NLH' 9-max Seat #2 is the button
+Seat 1: IAmTheJeff ($1123.25 in chips)
+Seat 2: bot35 ($1024.12 in chips)
+Seat 4: OGORRA ($10252.90 in chips)
+OGORRA: posts small blind $50.00
+IAmTheJeff: posts big blind $100.00
+*** HOLE CARDS ***
+bot35: raises $924.12 to $1024.12 and is all-in
+OGORRA: raises $924.12 to $1948.24
+IAmTheJeff: folds
+Uncalled bet ($924.12) returned to OGORRA
+*** FLOP *** [5c Js 7c]
+*** TURN *** [5c Js 7c] [6h]
+*** RIVER *** [5c Js 7c 6h] [Qs]
+*** SHOW DOWN ***
+OGORRA: shows [As Ac]
+bot35: shows [Ah Ts]
+OGORRA collected $2146.49 from pot
+*** SUMMARY ***
+Total pot $2148.24 | Rake $1.75
+Board [5c Js 7c 6h Qs]
+Seat 1: IAmTheJeff (big blind) folded before Flop
+Seat 2: bot35 (button) showed [Ah Ts] and lost
+Seat 4: OGORRA (small blind) showed [As Ac] and won ($2146.49)
+
+PokerStars Hand #1493496197:  Hold'em No Limit ($50.00/$100.00 USD) - 2022/12/21 18:48:48 ET
+Table 'WPN_7 Day No Rathole 50/100 NLH' 9-max Seat #4 is the button
+Seat 1: IAmTheJeff ($1023.25 in chips)
+Seat 2: bot35 ($1000.00 in chips)
+Seat 3: KingThang ($1000.00 in chips)
+Seat 4: OGORRA ($11375.27 in chips)
+IAmTheJeff: posts small blind $50.00
+bot35: posts big blind $100.00
+*** HOLE CARDS ***
+OGORRA: folds
+IAmTheJeff: raises $923.25 to $1023.25 and is all-in
+bot35: folds
+Uncalled bet ($923.25) returned to IAmTheJeff
+IAmTheJeff collected $200.00 from pot
+IAmTheJeff: doesn't show hand
+*** SUMMARY ***
+Total pot $200.00 | Rake $0.00
+Seat 1: IAmTheJeff (small blind) collected ($200.00)
+Seat 2: bot35 (big blind) folded before Flop
+Seat 4: OGORRA (button) folded before Flop (didn't bet)
+
+PokerStars Hand #1493496506:  Hold'em No Limit ($50.00/$100.00 USD) - 2022/12/21 18:49:07 ET
+Table 'WPN_7 Day No Rathole 50/100 NLH' 9-max Seat #1 is the button
+Seat 1: IAmTheJeff ($1123.25 in chips)
+Seat 2: bot35 ($900.00 in chips)
+Seat 3: KingThang ($1000.00 in chips)
+Seat 4: OGORRA ($11375.27 in chips)
+bot35: posts small blind $50.00
+KingThang: posts big blind $100.00
+*** HOLE CARDS ***
+OGORRA: folds
+IAmTheJeff: raises $1023.25 to $1123.25 and is all-in
+bot35: folds
+KingThang: folds
+Uncalled bet ($1023.25) returned to IAmTheJeff
+IAmTheJeff collected $250.00 from pot
+IAmTheJeff: doesn't show hand
+*** SUMMARY ***
+Total pot $250.00 | Rake $0.00
+Seat 1: IAmTheJeff (button) collected ($250.00)
+Seat 2: bot35 (small blind) folded before Flop
+Seat 3: KingThang (big blind) folded before Flop
+Seat 4: OGORRA folded before Flop (didn't bet)
+
+PokerStars Hand #1493496996:  Hold'em No Limit ($50.00/$100.00 USD) - 2022/12/21 18:49:37 ET
+Table 'WPN_7 Day No Rathole 50/100 NLH' 9-max Seat #2 is the button
+Seat 1: IAmTheJeff ($1273.25 in chips)
+Seat 2: bot35 ($1000.00 in chips)
+Seat 3: KingThang ($900.00 in chips)
+Seat 4: OGORRA ($11375.27 in chips)
+KingThang: posts small blind $50.00
+OGORRA: posts big blind $100.00
+*** HOLE CARDS ***
+IAmTheJeff: folds
+bot35: folds
+KingThang: raises $800.00 to $900.00 and is all-in
+OGORRA: folds
+Uncalled bet ($800.00) returned to KingThang
+KingThang collected $200.00 from pot
+KingThang: doesn't show hand
+*** SUMMARY ***
+Total pot $200.00 | Rake $0.00
+Seat 1: IAmTheJeff folded before Flop (didn't bet)
+Seat 2: bot35 (button) folded before Flop (didn't bet)
+Seat 3: KingThang (small blind) collected ($200.00)
+Seat 4: OGORRA (big blind) folded before Flop
+
+PokerStars Hand #1493497407:  Hold'em No Limit ($50.00/$100.00 USD) - 2022/12/21 18:50:01 ET
+Table 'WPN_7 Day No Rathole 50/100 NLH' 9-max Seat #3 is the button
+Seat 1: IAmTheJeff ($1273.25 in chips)
+Seat 2: bot35 ($1000.00 in chips)
+Seat 3: KingThang ($1000.00 in chips)
+Seat 4: OGORRA ($11275.27 in chips)
+Seat 5: FlyingStyle ($1348.25 in chips)
+OGORRA: posts small blind $50.00
+FlyingStyle: posts big blind $100.00
+*** HOLE CARDS ***
+IAmTheJeff: raises $1173.25 to $1273.25 and is all-in
+bot35: folds
+KingThang: folds
+OGORRA: folds
+FlyingStyle: folds
+Uncalled bet ($1173.25) returned to IAmTheJeff
+IAmTheJeff collected $250.00 from pot
+IAmTheJeff: doesn't show hand
+*** SUMMARY ***
+Total pot $250.00 | Rake $0.00
+Seat 1: IAmTheJeff collected ($250.00)
+Seat 2: bot35 folded before Flop (didn't bet)
+Seat 3: KingThang (button) folded before Flop (didn't bet)
+Seat 4: OGORRA (small blind) folded before Flop
+Seat 5: FlyingStyle (big blind) folded before Flop
+
+PokerStars Hand #1493497816:  Hold'em No Limit ($50.00/$100.00 USD) - 2022/12/21 18:50:27 ET
+Table 'WPN_7 Day No Rathole 50/100 NLH' 9-max Seat #4 is the button
+Seat 1: IAmTheJeff ($1423.25 in chips)
+Seat 2: bot35 ($1000.00 in chips)
+Seat 3: KingThang ($1000.00 in chips)
+Seat 4: OGORRA ($11225.27 in chips)
+Seat 5: FlyingStyle ($1248.25 in chips)
+FlyingStyle: posts small blind $50.00
+IAmTheJeff: posts big blind $100.00
+*** HOLE CARDS ***
+bot35: folds
+KingThang: folds
+OGORRA: folds
+FlyingStyle: calls $50.00
+IAmTheJeff: checks
+*** FLOP *** [Ac Js 5h]
+FlyingStyle: bets $100.00
+IAmTheJeff: calls $100.00
+*** TURN *** [Ac Js 5h] [3d]
+FlyingStyle: checks
+IAmTheJeff: checks
+*** RIVER *** [Ac Js 5h 3d] [Kc]
+FlyingStyle: checks
+IAmTheJeff: bets $264.00
+FlyingStyle: folds
+Uncalled bet ($264.00) returned to IAmTheJeff
+IAmTheJeff collected $397.00 from pot
+IAmTheJeff: doesn't show hand
+*** SUMMARY ***
+Total pot $400.00 | Rake $3.00
+Board [Ac Js 5h 3d Kc]
+Seat 1: IAmTheJeff (big blind) collected ($397.00)
+Seat 2: bot35 folded before Flop (didn't bet)
+Seat 3: KingThang folded before Flop (didn't bet)
+Seat 4: OGORRA (button) folded before Flop (didn't bet)
+Seat 5: FlyingStyle (small blind) folded on the River
+
+PokerStars Hand #1493498418:  Hold'em No Limit ($50.00/$100.00 USD) - 2022/12/21 18:51:03 ET
+Table 'WPN_7 Day No Rathole 50/100 NLH' 9-max Seat #5 is the button
+Seat 1: IAmTheJeff ($1620.25 in chips)
+Seat 2: bot35 ($1000.00 in chips)
+Seat 3: KingThang ($1000.00 in chips)
+Seat 4: OGORRA ($11225.27 in chips)
+Seat 5: FlyingStyle ($1048.25 in chips)
+IAmTheJeff: posts small blind $50.00
+bot35: posts big blind $100.00
+*** HOLE CARDS ***
+KingThang: folds
+OGORRA: folds
+FlyingStyle: folds
+IAmTheJeff: raises $200.00 to $300.00
+bot35: folds
+Uncalled bet ($200.00) returned to IAmTheJeff
+IAmTheJeff collected $200.00 from pot
+IAmTheJeff: doesn't show hand
+*** SUMMARY ***
+Total pot $200.00 | Rake $0.00
+Seat 1: IAmTheJeff (small blind) collected ($200.00)
+Seat 2: bot35 (big blind) folded before Flop
+Seat 3: KingThang folded before Flop (didn't bet)
+Seat 4: OGORRA folded before Flop (didn't bet)
+Seat 5: FlyingStyle (button) folded before Flop (didn't bet)
+
+PokerStars Hand #1493498829:  Hold'em No Limit ($50.00/$100.00 USD) - 2022/12/21 18:51:27 ET
+Table 'WPN_7 Day No Rathole 50/100 NLH' 9-max Seat #1 is the button
+Seat 1: IAmTheJeff ($1720.25 in chips)
+Seat 2: bot35 ($900.00 in chips)
+Seat 3: KingThang ($1000.00 in chips)
+Seat 4: OGORRA ($11225.27 in chips)
+Seat 5: FlyingStyle ($1048.25 in chips)
+bot35: posts small blind $50.00
+KingThang: posts big blind $100.00
+*** HOLE CARDS ***
+OGORRA: folds
+FlyingStyle: raises $948.25 to $1048.25 and is all-in
+IAmTheJeff: folds
+bot35: folds
+KingThang: calls $900.00 and is all-in
+Uncalled bet ($48.25) returned to FlyingStyle
+*** FIRST FLOP *** [Ac Jh 5s]
+*** FIRST TURN *** [Ac Jh 5s] [2c]
+*** FIRST RIVER *** [Ac Jh 5s 2c] [Qd]
+*** SECOND FLOP *** [6s 9c As]
+*** SECOND TURN *** [6s 9c As] [7c]
+*** SECOND RIVER *** [6s 9c As 7c] [2h]
+*** FIRST SHOW DOWN ***
+KingThang: shows [5c 5h]
+FlyingStyle: shows [Ah 9h]
+KingThang collected $1023.50 from pot
+*** SECOND SHOW DOWN ***
+KingThang: shows [5c 5h]
+FlyingStyle: shows [Ah 9h]
+FlyingStyle collected $1023.50 from pot
+*** SUMMARY ***
+Total pot $2050.00 | Rake $3.00
+Hand was run twice
+FIRST Board [Ac Jh 5s 2c Qd]
+SECOND Board [6s 9c As 7c 2h]
+Seat 1: IAmTheJeff (button) folded before Flop (didn't bet)
+Seat 2: bot35 (small blind) folded before Flop
+Seat 3: KingThang (big blind) showed [5c 5h] and won ($1023.50), and lost
+Seat 4: OGORRA folded before Flop (didn't bet)
+Seat 5: FlyingStyle showed [Ah 9h] and lost, and won ($1023.50)
+
+PokerStars Hand #1493499746:  Hold'em No Limit ($50.00/$100.00 USD) - 2022/12/21 18:52:23 ET
+Table 'WPN_7 Day No Rathole 50/100 NLH' 9-max Seat #2 is the button
+Seat 1: IAmTheJeff ($1720.25 in chips)
+Seat 2: bot35 ($1000.00 in chips)
+Seat 3: KingThang ($1023.50 in chips)
+Seat 4: OGORRA ($11225.27 in chips)
+Seat 5: FlyingStyle ($1071.75 in chips)
+KingThang: posts small blind $50.00
+OGORRA: posts big blind $100.00
+*** HOLE CARDS ***
+FlyingStyle: folds
+IAmTheJeff: folds
+bot35: folds
+KingThang: folds
+Uncalled bet ($50.00) returned to OGORRA
+OGORRA collected $100.00 from pot
+OGORRA: doesn't show hand
+*** SUMMARY ***
+Total pot $100.00 | Rake $0.00
+Seat 1: IAmTheJeff folded before Flop (didn't bet)
+Seat 2: bot35 (button) folded before Flop (didn't bet)
+Seat 3: KingThang (small blind) folded before Flop
+Seat 4: OGORRA (big blind) collected ($100.00)
+Seat 5: FlyingStyle folded before Flop (didn't bet)
+
+PokerStars Hand #1493500059:  Hold'em No Limit ($50.00/$100.00 USD) - 2022/12/21 18:52:41 ET
+Table 'WPN_7 Day No Rathole 50/100 NLH' 9-max Seat #3 is the button
+Seat 1: IAmTheJeff ($1720.25 in chips)
+Seat 2: bot35 ($1000.00 in chips)
+Seat 3: KingThang ($973.50 in chips)
+Seat 4: OGORRA ($11275.27 in chips)
+Seat 5: FlyingStyle ($1071.75 in chips)
+OGORRA: posts small blind $50.00
+FlyingStyle: posts big blind $100.00
+*** HOLE CARDS ***
+IAmTheJeff: folds
+bot35: folds
+KingThang: raises $125.00 to $225.00
+OGORRA: folds
+FlyingStyle: calls $125.00
+*** FLOP *** [7h 8c Qs]
+FlyingStyle: checks
+KingThang: checks
+*** TURN *** [7h 8c Qs] [5s]
+FlyingStyle: bets $115.00
+KingThang: folds
+Uncalled bet ($115.00) returned to FlyingStyle
+FlyingStyle collected $497.00 from pot
+FlyingStyle: doesn't show hand
+*** SUMMARY ***
+Total pot $500.00 | Rake $3.00
+Board [7h 8c Qs 5s]
+Seat 1: IAmTheJeff folded before Flop (didn't bet)
+Seat 2: bot35 folded before Flop (didn't bet)
+Seat 3: KingThang (button) folded on the Turn
+Seat 4: OGORRA (small blind) folded before Flop
+Seat 5: FlyingStyle (big blind) collected ($497.00)
+
+PokerStars Hand #1493500861:  Hold'em No Limit ($50.00/$100.00 USD) - 2022/12/21 18:53:26 ET
+Table 'WPN_7 Day No Rathole 50/100 NLH' 9-max Seat #4 is the button
+Seat 1: IAmTheJeff ($1720.25 in chips)
+Seat 2: bot35 ($1000.00 in chips)
+Seat 3: KingThang ($748.50 in chips)
+Seat 4: OGORRA ($11225.27 in chips)
+Seat 5: FlyingStyle ($1343.75 in chips)
+FlyingStyle: posts small blind $50.00
+IAmTheJeff: posts big blind $100.00
+*** HOLE CARDS ***
+bot35: folds
+KingThang: folds
+OGORRA: folds
+FlyingStyle: raises $120.00 to $220.00
+IAmTheJeff: calls $120.00
+*** FLOP *** [3c 9h 5s]
+FlyingStyle: bets $325.60
+IAmTheJeff: folds
+Uncalled bet ($325.60) returned to FlyingStyle
+FlyingStyle collected $437.00 from pot
+FlyingStyle: doesn't show hand
+*** SUMMARY ***
+Total pot $440.00 | Rake $3.00
+Board [3c 9h 5s]
+Seat 1: IAmTheJeff (big blind) folded on the Flop
+Seat 2: bot35 folded before Flop (didn't bet)
+Seat 3: KingThang folded before Flop (didn't bet)
+Seat 4: OGORRA (button) folded before Flop (didn't bet)
+Seat 5: FlyingStyle (small blind) collected ($437.00)
+
+PokerStars Hand #1493501595:  Hold'em No Limit ($50.00/$100.00 USD) - 2022/12/21 18:54:11 ET
+Table 'WPN_7 Day No Rathole 50/100 NLH' 9-max Seat #5 is the button
+Seat 1: IAmTheJeff ($1500.25 in chips)
+Seat 2: bot35 ($1000.00 in chips)
+Seat 3: KingThang ($748.50 in chips)
+Seat 4: OGORRA ($11225.27 in chips)
+Seat 5: FlyingStyle ($1560.75 in chips)
+IAmTheJeff: posts small blind $50.00
+bot35: posts big blind $100.00
+*** HOLE CARDS ***
+KingThang: folds
+OGORRA: folds
+FlyingStyle: raises $1460.75 to $1560.75 and is all-in
+IAmTheJeff: folds
+bot35: folds
+Uncalled bet ($1460.75) returned to FlyingStyle
+FlyingStyle collected $250.00 from pot
+FlyingStyle: doesn't show hand
+*** SUMMARY ***
+Total pot $250.00 | Rake $0.00
+Seat 1: IAmTheJeff (small blind) folded before Flop
+Seat 2: bot35 (big blind) folded before Flop
+Seat 3: KingThang folded before Flop (didn't bet)
+Seat 4: OGORRA folded before Flop (didn't bet)
+Seat 5: FlyingStyle (button) collected ($250.00)
+
+PokerStars Hand #1493501945:  Hold'em No Limit ($50.00/$100.00 USD) - 2022/12/21 18:54:31 ET
+Table 'WPN_7 Day No Rathole 50/100 NLH' 9-max Seat #1 is the button
+Seat 1: IAmTheJeff ($1450.25 in chips)
+Seat 2: bot35 ($900.00 in chips)
+Seat 3: KingThang ($748.50 in chips)
+Seat 4: OGORRA ($11225.27 in chips)
+Seat 5: FlyingStyle ($1710.75 in chips)
+bot35: posts small blind $50.00
+KingThang: posts big blind $100.00
+*** HOLE CARDS ***
+OGORRA: folds
+FlyingStyle: raises $100.00 to $200.00
+IAmTheJeff: folds
+bot35: folds
+KingThang: folds
+Uncalled bet ($100.00) returned to FlyingStyle
+FlyingStyle collected $250.00 from pot
+FlyingStyle: doesn't show hand
+*** SUMMARY ***
+Total pot $250.00 | Rake $0.00
+Seat 1: IAmTheJeff (button) folded before Flop (didn't bet)
+Seat 2: bot35 (small blind) folded before Flop
+Seat 3: KingThang (big blind) folded before Flop
+Seat 4: OGORRA folded before Flop (didn't bet)
+Seat 5: FlyingStyle collected ($250.00)
+
+PokerStars Hand #1493502229:  Hold'em No Limit ($50.00/$100.00 USD) - 2022/12/21 18:54:47 ET
+Table 'WPN_7 Day No Rathole 50/100 NLH' 9-max Seat #2 is the button
+Seat 1: IAmTheJeff ($1450.25 in chips)
+Seat 2: bot35 ($1000.00 in chips)
+Seat 3: KingThang ($900.00 in chips)
+Seat 4: OGORRA ($11225.27 in chips)
+Seat 5: FlyingStyle ($1860.75 in chips)
+KingThang: posts small blind $50.00
+OGORRA: posts big blind $100.00
+*** HOLE CARDS ***
+FlyingStyle: folds
+IAmTheJeff: folds
+bot35: raises $900.00 to $1000.00 and is all-in
+KingThang: folds
+OGORRA: folds
+Uncalled bet ($900.00) returned to bot35
+bot35 collected $250.00 from pot
+bot35: doesn't show hand
+*** SUMMARY ***
+Total pot $250.00 | Rake $0.00
+Seat 1: IAmTheJeff folded before Flop (didn't bet)
+Seat 2: bot35 (button) collected ($250.00)
+Seat 3: KingThang (small blind) folded before Flop
+Seat 4: OGORRA (big blind) folded before Flop
+Seat 5: FlyingStyle folded before Flop (didn't bet)
+
+PokerStars Hand #1493502532:  Hold'em No Limit ($50.00/$100.00 USD) - 2022/12/21 18:55:13 ET
+Table 'WPN_7 Day No Rathole 50/100 NLH' 9-max Seat #3 is the button
+Seat 1: IAmTheJeff ($1450.25 in chips)
+Seat 2: bot35 ($1150.00 in chips)
+Seat 3: KingThang ($1000.00 in chips)
+Seat 4: OGORRA ($11125.27 in chips)
+Seat 5: FlyingStyle ($1860.75 in chips)
+OGORRA: posts small blind $50.00
+FlyingStyle: posts big blind $100.00
+*** HOLE CARDS ***
+IAmTheJeff: raises $120.00 to $220.00
+bot35: folds
+KingThang: folds
+OGORRA: folds
+FlyingStyle: folds
+Uncalled bet ($120.00) returned to IAmTheJeff
+IAmTheJeff collected $250.00 from pot
+IAmTheJeff: doesn't show hand
+*** SUMMARY ***
+Total pot $250.00 | Rake $0.00
+Seat 1: IAmTheJeff collected ($250.00)
+Seat 2: bot35 folded before Flop (didn't bet)
+Seat 3: KingThang (button) folded before Flop (didn't bet)
+Seat 4: OGORRA (small blind) folded before Flop
+Seat 5: FlyingStyle (big blind) folded before Flop
+
+PokerStars Hand #1493502689:  Hold'em No Limit ($50.00/$100.00 USD) - 2022/12/21 18:55:33 ET
+Table 'WPN_7 Day No Rathole 50/100 NLH' 9-max Seat #4 is the button
+Seat 1: IAmTheJeff ($1600.25 in chips)
+Seat 2: bot35 ($1150.00 in chips)
+Seat 3: KingThang ($1000.00 in chips)
+Seat 4: OGORRA ($11075.27 in chips)
+Seat 5: FlyingStyle ($1760.75 in chips)
+FlyingStyle: posts small blind $50.00
+IAmTheJeff: posts big blind $100.00
+*** HOLE CARDS ***
+bot35: folds
+KingThang: folds
+OGORRA: folds
+FlyingStyle: folds
+Uncalled bet ($50.00) returned to IAmTheJeff
+IAmTheJeff collected $100.00 from pot
+IAmTheJeff: doesn't show hand
+*** SUMMARY ***
+Total pot $100.00 | Rake $0.00
+Seat 1: IAmTheJeff (big blind) collected ($100.00)
+Seat 2: bot35 folded before Flop (didn't bet)
+Seat 3: KingThang folded before Flop (didn't bet)
+Seat 4: OGORRA (button) folded before Flop (didn't bet)
+Seat 5: FlyingStyle (small blind) folded before Flop
+
+PokerStars Hand #1493502826:  Hold'em No Limit ($50.00/$100.00 USD) - 2022/12/21 18:55:49 ET
+Table 'WPN_7 Day No Rathole 50/100 NLH' 9-max Seat #5 is the button
+Seat 1: IAmTheJeff ($1650.25 in chips)
+Seat 2: bot35 ($1150.00 in chips)
+Seat 3: KingThang ($1000.00 in chips)
+Seat 4: OGORRA ($11075.27 in chips)
+Seat 5: FlyingStyle ($1710.75 in chips)
+IAmTheJeff: posts small blind $50.00
+bot35: posts big blind $100.00
+*** HOLE CARDS ***
+KingThang: folds
+OGORRA: folds
+FlyingStyle: folds
+IAmTheJeff: raises $120.00 to $220.00
+bot35: calls $120.00
+*** FLOP *** [Jd Td 7d]
+IAmTheJeff: checks
+bot35: bets $160.00
+IAmTheJeff: calls $160.00
+*** TURN *** [Jd Td 7d] [Kc]
+IAmTheJeff: checks
+bot35: checks
+*** RIVER *** [Jd Td 7d Kc] [Qd]
+IAmTheJeff: checks
+bot35: bets $770.00 and is all-in
+IAmTheJeff: folds
+Uncalled bet ($770.00) returned to bot35
+bot35 collected $757.00 from pot
+bot35: doesn't show hand
+*** SUMMARY ***
+Total pot $760.00 | Rake $3.00
+Board [Jd Td 7d Kc Qd]
+Seat 1: IAmTheJeff (small blind) folded on the River
+Seat 2: bot35 (big blind) collected ($757.00)
+Seat 3: KingThang folded before Flop (didn't bet)
+Seat 4: OGORRA folded before Flop (didn't bet)
+Seat 5: FlyingStyle (button) folded before Flop (didn't bet)
+
+PokerStars Hand #1493503350:  Hold'em No Limit ($50.00/$100.00 USD) - 2022/12/21 18:56:53 ET
+Table 'WPN_7 Day No Rathole 50/100 NLH' 9-max Seat #1 is the button
+Seat 1: IAmTheJeff ($1270.25 in chips)
+Seat 2: bot35 ($1527.00 in chips)
+Seat 3: KingThang ($1000.00 in chips)
+Seat 4: OGORRA ($11075.27 in chips)
+Seat 5: FlyingStyle ($1710.75 in chips)
+bot35: posts small blind $50.00
+KingThang: posts big blind $100.00
+*** HOLE CARDS ***
+OGORRA: folds
+FlyingStyle: folds
+IAmTheJeff: raises $1170.25 to $1270.25 and is all-in
+bot35: raises $256.75 to $1527.00 and is all-in
+KingThang: calls $900.00 and is all-in
+Uncalled bet ($256.75) returned to bot35
+*** FLOP *** [9s 2c Th]
+*** TURN *** [9s 2c Th] [5s]
+*** RIVER *** [9s 2c Th 5s] [3c]
+*** SHOW DOWN ***
+IAmTheJeff: shows [Ad 8d]
+KingThang: shows [Tc Kh]
+bot35: shows [Ac 7c]
+KingThang collected $2997.45 from main pot
+IAmTheJeff collected $540.05 from side pot
+*** SUMMARY ***
+Total pot $3540.50 Main pot $3000.00. Side pot $540.50. | Rake $3.00
+Board [9s 2c Th 5s 3c]
+Seat 1: IAmTheJeff (button) showed [Ad 8d] and won ($540.05)
+Seat 2: bot35 (small blind) showed [Ac 7c] and lost
+Seat 3: KingThang (big blind) showed [Tc Kh] and won ($2997.45)
+Seat 4: OGORRA folded before Flop (didn't bet)
+Seat 5: FlyingStyle folded before Flop (didn't bet)
+
+PokerStars Hand #1493503638:  Hold'em No Limit ($50.00/$100.00 USD) - 2022/12/21 18:57:29 ET
+Table 'WPN_7 Day No Rathole 50/100 NLH' 9-max Seat #2 is the button
+Seat 1: IAmTheJeff ($540.05 in chips)
+Seat 2: bot35 ($1000.00 in chips)
+Seat 3: KingThang ($2997.45 in chips)
+Seat 4: OGORRA ($11075.27 in chips)
+Seat 5: FlyingStyle ($1710.75 in chips)
+KingThang: posts small blind $50.00
+OGORRA: posts big blind $100.00
+*** HOLE CARDS ***
+FlyingStyle: folds
+IAmTheJeff: raises $440.05 to $540.05 and is all-in
+bot35: folds
+KingThang: raises $2457.40 to $2997.45 and is all-in
+OGORRA: folds
+Uncalled bet ($2457.40) returned to KingThang
+*** FIRST FLOP *** [3s 8c Tc]
+*** FIRST TURN *** [3s 8c Tc] [3d]
+*** FIRST RIVER *** [3s 8c Tc 3d] [Qc]
+*** SECOND FLOP *** [9h 7c 6c]
+*** SECOND TURN *** [9h 7c 6c] [Ts]
+*** SECOND RIVER *** [9h 7c 6c Ts] [Ah]
+*** FIRST SHOW DOWN ***
+KingThang: shows [Ad Ks]
+IAmTheJeff: shows [Kd 5s]
+KingThang collected $588.55 from pot
+*** SECOND SHOW DOWN ***
+KingThang: shows [Ad Ks]
+IAmTheJeff: shows [Kd 5s]
+KingThang collected $588.55 from pot
+*** SUMMARY ***
+Total pot $1180.10 | Rake $3.00
+Hand was run twice
+FIRST Board [3s 8c Tc 3d Qc]
+SECOND Board [9h 7c 6c Ts Ah]
+Seat 1: IAmTheJeff showed [Kd 5s] and lost, and lost
+Seat 2: bot35 (button) folded before Flop (didn't bet)
+Seat 3: KingThang (small blind) showed [Ad Ks] and won ($588.55), and won ($588.55)
+Seat 4: OGORRA (big blind) folded before Flop
+Seat 5: FlyingStyle folded before Flop (didn't bet)
+
+PokerStars Hand #1493503910:  Hold'em No Limit ($50.00/$100.00 USD) - 2022/12/21 18:58:02 ET
+Table 'WPN_7 Day No Rathole 50/100 NLH' 9-max Seat #3 is the button
+Seat 2: bot35 ($1000.00 in chips)
+Seat 3: KingThang ($3634.50 in chips)
+Seat 4: OGORRA ($10975.27 in chips)
+Seat 5: FlyingStyle ($1710.75 in chips)
+OGORRA: posts small blind $50.00
+FlyingStyle: posts big blind $100.00
+*** HOLE CARDS ***
+bot35: raises $900.00 to $1000.00 and is all-in
+KingThang: folds
+OGORRA: folds
+FlyingStyle: folds
+Uncalled bet ($900.00) returned to bot35
+bot35 collected $250.00 from pot
+bot35: doesn't show hand
+*** SUMMARY ***
+Total pot $250.00 | Rake $0.00
+Seat 2: bot35 collected ($250.00)
+Seat 3: KingThang (button) folded before Flop (didn't bet)
+Seat 4: OGORRA (small blind) folded before Flop
+Seat 5: FlyingStyle (big blind) folded before Flop
+
+PokerStars Hand #1493504149:  Hold'em No Limit ($50.00/$100.00 USD) - 2022/12/21 18:58:31 ET
+Table 'WPN_7 Day No Rathole 50/100 NLH' 9-max Seat #4 is the button
+Seat 1: IAmTheJeff ($1000.00 in chips)
+Seat 2: bot35 ($1150.00 in chips)
+Seat 3: KingThang ($3634.50 in chips)
+Seat 4: OGORRA ($10925.27 in chips)
+Seat 5: FlyingStyle ($1610.75 in chips)
+FlyingStyle: posts small blind $50.00
+IAmTheJeff: posts big blind $100.00
+*** HOLE CARDS ***
+bot35: folds
+KingThang: folds
+OGORRA: raises $8517.41 to $8617.41
+FlyingStyle: folds
+IAmTheJeff: calls $900.00 and is all-in
+Uncalled bet ($7617.41) returned to OGORRA
+*** FLOP *** [Kc 9d 2h]
+*** TURN *** [Kc 9d 2h] [9c]
+*** RIVER *** [Kc 9d 2h 9c] [3d]
+*** SHOW DOWN ***
+OGORRA: shows [7h Ac]
+IAmTheJeff: shows [6c Tc]
+OGORRA collected $2047.00 from pot
+*** SUMMARY ***
+Total pot $2050.00 | Rake $3.00
+Board [Kc 9d 2h 9c 3d]
+Seat 1: IAmTheJeff (big blind) showed [6c Tc] and lost
+Seat 2: bot35 folded before Flop (didn't bet)
+Seat 3: KingThang folded before Flop (didn't bet)
+Seat 4: OGORRA (button) showed [7h Ac] and won ($2047.00)
+Seat 5: FlyingStyle (small blind) folded before Flop
+
+PokerStars Hand #1493504411:  Hold'em No Limit ($50.00/$100.00 USD) - 2022/12/21 18:59:01 ET
+Table 'WPN_7 Day No Rathole 50/100 NLH' 9-max Seat #5 is the button
+Seat 2: bot35 ($1150.00 in chips)
+Seat 3: KingThang ($3634.50 in chips)
+Seat 4: OGORRA ($11972.27 in chips)
+Seat 5: FlyingStyle ($1560.75 in chips)
+bot35: posts big blind $100.00
+*** HOLE CARDS ***
+KingThang: raises $100.00 to $200.00
+OGORRA: folds
+FlyingStyle: folds
+bot35: folds
+Uncalled bet ($100.00) returned to KingThang
+KingThang collected $200.00 from pot
+KingThang: doesn't show hand
+*** SUMMARY ***
+Total pot $200.00 | Rake $0.00
+Seat 2: bot35 (big blind) folded before Flop
+Seat 3: KingThang collected ($200.00)
+Seat 4: OGORRA folded before Flop (didn't bet)
+Seat 5: FlyingStyle (button) folded before Flop (didn't bet)
+
+PokerStars Hand #1493504575:  Hold'em No Limit ($50.00/$100.00 USD) - 2022/12/21 18:59:19 ET
+Table 'WPN_7 Day No Rathole 50/100 NLH' 9-max Seat #1 is the button
+Seat 2: bot35 ($1050.00 in chips)
+Seat 3: KingThang ($3734.50 in chips)
+Seat 4: OGORRA ($11972.27 in chips)
+Seat 5: FlyingStyle ($1560.75 in chips)
+Seat 6: Avalan4 ($1000.00 in chips)
+bot35: posts small blind $50.00
+OGORRA: posts big blind $100.00
+*** HOLE CARDS ***
+FlyingStyle: folds
+bot35: raises $950.00 to $1050.00 and is all-in
+OGORRA: folds
+Uncalled bet ($950.00) returned to bot35
+bot35 collected $200.00 from pot
+bot35: doesn't show hand
+*** SUMMARY ***
+Total pot $200.00 | Rake $0.00
+Seat 2: bot35 (small blind) collected ($200.00)
+Seat 4: OGORRA (big blind) folded before Flop
+Seat 5: FlyingStyle folded before Flop (didn't bet)
+
+PokerStars Hand #1493504784:  Hold'em No Limit ($50.00/$100.00 USD) - 2022/12/21 18:59:44 ET
+Table 'WPN_7 Day No Rathole 50/100 NLH' 9-max Seat #2 is the button
+Seat 2: bot35 ($1150.00 in chips)
+Seat 5: FlyingStyle ($1560.75 in chips)
+Seat 6: Avalan4 ($1000.00 in chips)
+bot35: posts small blind $50.00
+Avalan4: posts big blind $100.00
+*** HOLE CARDS ***
+bot35: folds
+Uncalled bet ($50.00) returned to Avalan4
+Avalan4 collected $100.00 from pot
+Avalan4: doesn't show hand
+*** SUMMARY ***
+Total pot $100.00 | Rake $0.00
+Seat 2: bot35 (button) (small blind) folded before Flop
+Seat 6: Avalan4 (big blind) collected ($100.00)
+
+PokerStars Hand #1493322616:  Hold'em No Limit ($50.00/$100.00 USD) - 2022/12/21 15:05:04 ET
+Table 'WPN_7 Day No Rathole 50/100 NLH' 9-max Seat #7 is the button
+Seat 2: THECAGE ($4496.49 in chips)
+Seat 7: bot35 ($900.00 in chips)
+bot35: posts small blind $50.00
+THECAGE: posts big blind $100.00
+*** HOLE CARDS ***
+bot35: raises $900.00 to $1000.00 and is all-in
+THECAGE: folds
+Uncalled bet ($900.00) returned to bot35
+bot35 collected $200.00 from pot
+bot35: doesn't show hand
+*** SUMMARY ***
+Total pot $200.00 | Rake $0.00
+Seat 2: THECAGE (big blind) folded before Flop
+Seat 7: bot35 (button) (small blind) collected ($200.00)
+
+PokerStars Hand #1493289819:  Hold'em No Limit ($50.00/$100.00 USD) - 2022/12/21 13:49:07 ET
+Table 'WPN_7 Day No Rathole 50/100 NLH' 9-max Seat #7 is the button
+Seat 2: THECAGE ($2400.24 in chips)
+Seat 7: bot35 ($1998.75 in chips)
+bot35: posts small blind $50.00
+THECAGE: posts big blind $100.00
+*** HOLE CARDS ***
+bot35: raises $100.00 to $200.00
+THECAGE: raises $1700.00 to $1900.00
+bot35: raises $98.75 to $1998.75 and is all-in
+THECAGE: calls $98.75
+*** FLOP *** [Jc Jh 3d]
+*** TURN *** [Jc Jh 3d] [Qd]
+*** RIVER *** [Jc Jh 3d Qd] [3c]
+*** SHOW DOWN ***
+THECAGE: shows [Qh Ks]
+bot35: shows [9h Ad]
+THECAGE collected $3996.25 from pot
+*** SUMMARY ***
+Total pot $3997.50 | Rake $1.25
+Board [Jc Jh 3d Qd 3c]
+Seat 2: THECAGE (big blind) showed [Qh Ks] and won ($3996.25)
+Seat 7: bot35 (button) (small blind) showed [9h Ad] and lost
+
+PokerStars Hand #1492702463:  Hold'em No Limit ($50.00/$100.00 USD) - 2022/12/21 00:17:44 ET
+Table 'WPN_7 Day No Rathole 50/100 NLH' 9-max Seat #7 is the button
+Seat 2: Sabazius ($4104.99 in chips)
+Seat 7: zas911 ($15466.37 in chips)
+zas911: posts small blind $50.00
+Sabazius: posts big blind $100.00
+*** HOLE CARDS ***
+zas911: calls $50.00
+Sabazius: checks
+*** FLOP *** [Tc 9h 7d]
+Sabazius: checks
+zas911: checks
+*** TURN *** [Tc 9h 7d] [Ac]
+Sabazius: checks
+zas911: checks
+*** RIVER *** [Tc 9h 7d Ac] [8c]
+Sabazius: bets $600.00
+zas911: folds
+Uncalled bet ($600.00) returned to Sabazius
+Sabazius collected $198.75 from pot
+Sabazius: doesn't show hand
+*** SUMMARY ***
+Total pot $200.00 | Rake $1.25
+Board [Tc 9h 7d Ac 8c]
+Seat 2: Sabazius (big blind) collected ($198.75)
+Seat 7: zas911 (button) (small blind) folded on the River
+

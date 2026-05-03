@@ -1,0 +1,54 @@
+Hand #1889717823 - Holdem(No Limit) - $50/$100 - 2023/10/09 14:27:43 UTC
+Woodland 6-max Seat #1 is the button
+Seat 1: moneybyebye ($10000)
+Seat 4: FlyingStyle ($10000)
+moneybyebye posts ante $500
+FlyingStyle posts ante $500
+*** HOLE CARDS *** 
+*** FLOP *** [7c 7s Kd]
+Main pot $998.75 | Rake $1.25
+FlyingStyle checks
+moneybyebye checks
+*** TURN *** [7c 7s Kd] [Qs]
+Main pot $998.75 | Rake $1.25
+FlyingStyle bets $1420
+moneybyebye folds
+Uncalled bet ($1420) returned to FlyingStyle
+FlyingStyle does not show
+*** SUMMARY ***
+BombPot
+Total pot $998.75 | Rake $1.25
+Seat 1: moneybyebye (button) folded on the Turn
+Seat 4: FlyingStyle did not showed and won $998.75
+
+
+Hand #1889718630 - Holdem(No Limit) - $50/$100 - 2023/10/09 14:29:30 UTC
+Woodland 6-max Seat #1 is the button
+Seat 1: moneybyebye ($10230)
+Seat 4: FlyingStyle ($10268.75)
+moneybyebye posts ante $500
+FlyingStyle posts ante $500
+*** HOLE CARDS *** 
+*** FLOP *** [4h Ts 4d]
+Main pot $998.75 | Rake $1.25
+FlyingStyle checks
+moneybyebye checks
+*** TURN *** [4h Ts 4d] [9h]
+Main pot $998.75 | Rake $1.25
+FlyingStyle bets $320
+moneybyebye calls $320
+*** RIVER *** [4h Ts 4d 9h] [Th]
+Main pot $1638.75 | Rake $1.25
+FlyingStyle bets $770.80
+moneybyebye raises $3157 to $3157
+FlyingStyle calls $2386.20
+*** SHOW DOWN ***
+Main pot $1638.75 | Rake $1.25
+moneybyebye shows [Qd Tc]
+moneybyebye collected $7952.75 from main pot
+*** SUMMARY ***
+BombPot
+Total pot $7952.75 | Rake $1.25
+Seat 1: moneybyebye (button) showed [Qd Tc] and won $7952.75 with FullHouse [Ts Th Tc 4h 4d]
+Seat 4: FlyingStyle did not showed and lost
+

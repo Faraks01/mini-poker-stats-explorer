@@ -1,0 +1,2392 @@
+PokerStars Hand #1495989809:  Hold'em No Limit ($50.00/$100.00 USD) - 2022/12/23 20:55:56 ET
+Table 'WPN_7 Day No Rathole 50/100 NLH' 9-max Seat #2 is the button
+Seat 2: FlyingStyle ($7133.25 in chips)
+Seat 3: scout325 ($2774.70 in chips)
+Seat 5: KingThang ($4356.02 in chips)
+Seat 6: b00ma ($3538.37 in chips)
+scout325: posts small blind $50.00
+KingThang: posts big blind $100.00
+*** HOLE CARDS ***
+b00ma: folds
+FlyingStyle: folds
+scout325: folds
+Uncalled bet ($50.00) returned to KingThang
+KingThang collected $100.00 from pot
+KingThang: doesn't show hand
+*** SUMMARY ***
+Total pot $100.00 | Rake $0.00
+Seat 2: FlyingStyle (button) folded before Flop (didn't bet)
+Seat 3: scout325 (small blind) folded before Flop
+Seat 5: KingThang (big blind) collected ($100.00)
+Seat 6: b00ma folded before Flop (didn't bet)
+
+PokerStars Hand #1495987690:  Hold'em No Limit ($50.00/$100.00 USD) - 2022/12/23 20:53:46 ET
+Table 'WPN_7 Day No Rathole 50/100 NLH' 9-max Seat #1 is the button
+Seat 2: FlyingStyle ($6906.25 in chips)
+Seat 3: scout325 ($3004.70 in chips)
+Seat 4: OGORRA ($18462.52 in chips)
+Seat 5: KingThang ($4356.02 in chips)
+Seat 6: b00ma ($3538.37 in chips)
+FlyingStyle: posts small blind $50.00
+scout325: posts big blind $100.00
+*** HOLE CARDS ***
+OGORRA: folds
+KingThang: folds
+b00ma: folds
+FlyingStyle: raises $130.00 to $230.00
+scout325: calls $130.00
+*** FLOP *** [2s Qh 8d]
+FlyingStyle: checks
+scout325: checks
+*** TURN *** [2s Qh 8d] [7h]
+FlyingStyle: checks
+scout325: checks
+*** RIVER *** [2s Qh 8d 7h] [3h]
+FlyingStyle: bets $653.20
+scout325: folds
+Uncalled bet ($653.20) returned to FlyingStyle
+FlyingStyle collected $457.00 from pot
+FlyingStyle: doesn't show hand
+*** SUMMARY ***
+Total pot $460.00 | Rake $3.00
+Board [2s Qh 8d 7h 3h]
+Seat 2: FlyingStyle (small blind) collected ($457.00)
+Seat 3: scout325 (big blind) folded on the River
+Seat 4: OGORRA folded before Flop (didn't bet)
+Seat 5: KingThang folded before Flop (didn't bet)
+Seat 6: b00ma folded before Flop (didn't bet)
+
+PokerStars Hand #1495986831:  Hold'em No Limit ($50.00/$100.00 USD) - 2022/12/23 20:53:05 ET
+Table 'WPN_7 Day No Rathole 50/100 NLH' 9-max Seat #6 is the button
+Seat 1: IAmTheJeff ($1958.02 in chips)
+Seat 2: FlyingStyle ($7006.25 in chips)
+Seat 3: scout325 ($3004.70 in chips)
+Seat 4: OGORRA ($18462.52 in chips)
+Seat 5: KingThang ($2301.00 in chips)
+Seat 6: b00ma ($3538.37 in chips)
+IAmTheJeff: posts small blind $50.00
+FlyingStyle: posts big blind $100.00
+*** HOLE CARDS ***
+scout325: folds
+OGORRA: folds
+KingThang: raises $100.00 to $200.00
+b00ma: folds
+IAmTheJeff: raises $1758.02 to $1958.02 and is all-in
+FlyingStyle: folds
+KingThang: calls $1758.02
+*** FIRST FLOP *** [5c 5h Kd]
+*** FIRST TURN *** [5c 5h Kd] [Kh]
+*** FIRST RIVER *** [5c 5h Kd Kh] [Td]
+*** SECOND FLOP *** [Ks 8d Jc]
+*** SECOND TURN *** [Ks 8d Jc] [Qs]
+*** SECOND RIVER *** [Ks 8d Jc Qs] [Js]
+*** FIRST SHOW DOWN ***
+KingThang: shows [Th Tc]
+IAmTheJeff: shows [Ac 8s]
+KingThang collected $2006.52 from pot
+*** SECOND SHOW DOWN ***
+KingThang: shows [Th Tc]
+IAmTheJeff: shows [Ac 8s]
+KingThang collected $2006.52 from pot
+*** SUMMARY ***
+Total pot $4016.04 | Rake $3.00
+Hand was run twice
+FIRST Board [5c 5h Kd Kh Td]
+SECOND Board [Ks 8d Jc Qs Js]
+Seat 1: IAmTheJeff (small blind) showed [Ac 8s] and lost, and lost
+Seat 2: FlyingStyle (big blind) folded before Flop
+Seat 3: scout325 folded before Flop (didn't bet)
+Seat 4: OGORRA folded before Flop (didn't bet)
+Seat 5: KingThang showed [Th Tc] and won ($2006.52), and won ($2006.52)
+Seat 6: b00ma (button) folded before Flop (didn't bet)
+
+PokerStars Hand #1495744508:  Hold'em No Limit ($50.00/$100.00 USD) - 2022/12/23 17:03:28 ET
+Table 'WPN_7 Day No Rathole 50/100 NLH' 9-max Seat #1 is the button
+Seat 1: el0el ($5829.00 in chips)
+Seat 2: FlyingStyle ($5799.75 in chips)
+Seat 4: b00ma ($4221.87 in chips)
+FlyingStyle: posts small blind $50.00
+b00ma: posts big blind $100.00
+*** HOLE CARDS ***
+el0el: raises $100.00 to $200.00
+FlyingStyle: calls $150.00
+b00ma: folds
+*** FLOP *** [Ah 2d 2s]
+FlyingStyle: checks
+el0el: checks
+*** TURN *** [Ah 2d 2s] [3d]
+FlyingStyle: bets $710.00
+el0el: folds
+Uncalled bet ($710.00) returned to FlyingStyle
+FlyingStyle collected $498.25 from pot
+FlyingStyle: doesn't show hand
+*** SUMMARY ***
+Total pot $500.00 | Rake $1.75
+Board [Ah 2d 2s 3d]
+Seat 1: el0el (button) folded on the Turn
+Seat 2: FlyingStyle (small blind) collected ($498.25)
+Seat 4: b00ma (big blind) folded before Flop
+
+PokerStars Hand #1495743453:  Hold'em No Limit ($50.00/$100.00 USD) - 2022/12/23 17:02:08 ET
+Table 'WPN_7 Day No Rathole 50/100 NLH' 9-max Seat #1 is the button
+Seat 1: el0el ($4582.50 in chips)
+Seat 2: FlyingStyle ($5949.75 in chips)
+Seat 6: packernation85 ($1000.00 in chips)
+FlyingStyle: posts small blind $50.00
+packernation85: posts big blind $100.00
+*** HOLE CARDS ***
+el0el: raises $100.00 to $200.00
+FlyingStyle: folds
+packernation85: calls $100.00
+*** FLOP *** [3h Qh Qc]
+packernation85: checks
+el0el: bets $100.00
+packernation85: folds
+Uncalled bet ($100.00) returned to el0el
+el0el collected $448.25 from pot
+el0el: doesn't show hand
+*** SUMMARY ***
+Total pot $450.00 | Rake $1.75
+Board [3h Qh Qc]
+Seat 1: el0el (button) collected ($448.25)
+Seat 2: FlyingStyle (small blind) folded before Flop
+Seat 6: packernation85 (big blind) folded on the Flop
+
+PokerStars Hand #1495743777:  Hold'em No Limit ($50.00/$100.00 USD) - 2022/12/23 17:02:34 ET
+Table 'WPN_7 Day No Rathole 50/100 NLH' 9-max Seat #2 is the button
+Seat 1: el0el ($4830.75 in chips)
+Seat 2: FlyingStyle ($5899.75 in chips)
+Seat 6: packernation85 ($800.00 in chips)
+packernation85: posts small blind $50.00
+el0el: posts big blind $100.00
+*** HOLE CARDS ***
+FlyingStyle: folds
+packernation85: raises $700.00 to $800.00 and is all-in
+el0el: folds
+Uncalled bet ($700.00) returned to packernation85
+packernation85 collected $200.00 from pot
+packernation85: doesn't show hand
+*** SUMMARY ***
+Total pot $200.00 | Rake $0.00
+Seat 1: el0el (big blind) folded before Flop
+Seat 2: FlyingStyle (button) folded before Flop (didn't bet)
+Seat 6: packernation85 (small blind) collected ($200.00)
+
+PokerStars Hand #1495743982:  Hold'em No Limit ($50.00/$100.00 USD) - 2022/12/23 17:02:50 ET
+Table 'WPN_7 Day No Rathole 50/100 NLH' 9-max Seat #6 is the button
+Seat 1: el0el ($4730.75 in chips)
+Seat 2: FlyingStyle ($5899.75 in chips)
+Seat 6: packernation85 ($1000.00 in chips)
+el0el: posts small blind $50.00
+FlyingStyle: posts big blind $100.00
+*** HOLE CARDS ***
+packernation85: raises $900.00 to $1000.00 and is all-in
+el0el: calls $950.00
+FlyingStyle: folds
+*** FIRST FLOP *** [Kh 7h Jd]
+*** FIRST TURN *** [Kh 7h Jd] [2s]
+*** FIRST RIVER *** [Kh 7h Jd 2s] [5h]
+*** SECOND FLOP *** [Jc 4d 2d]
+*** SECOND TURN *** [Jc 4d 2d] [5s]
+*** SECOND RIVER *** [Jc 4d 2d 5s] [Tc]
+*** FIRST SHOW DOWN ***
+el0el: shows [Qh Th]
+packernation85: shows [2c Ac]
+el0el collected $1049.13 from pot
+*** SECOND SHOW DOWN ***
+el0el: shows [Qh Th]
+packernation85: shows [2c Ac]
+el0el collected $1049.12 from pot
+*** SUMMARY ***
+Total pot $2100.00 | Rake $1.75
+Hand was run twice
+FIRST Board [Kh 7h Jd 2s 5h]
+SECOND Board [Jc 4d 2d 5s Tc]
+Seat 1: el0el (small blind) showed [Qh Th] and won ($1049.13), and won ($1049.12)
+Seat 2: FlyingStyle (big blind) folded before Flop
+Seat 6: packernation85 (button) showed [2c Ac] and lost, and lost
+
+PokerStars Hand #1495743331:  Hold'em No Limit ($50.00/$100.00 USD) - 2022/12/23 17:01:58 ET
+Table 'WPN_7 Day No Rathole 50/100 NLH' 9-max Seat #6 is the button
+Seat 1: el0el ($4632.50 in chips)
+Seat 2: FlyingStyle ($5899.75 in chips)
+Seat 6: packernation85 ($1000.00 in chips)
+el0el: posts small blind $50.00
+FlyingStyle: posts big blind $100.00
+*** HOLE CARDS ***
+packernation85: folds
+el0el: folds
+Uncalled bet ($50.00) returned to FlyingStyle
+FlyingStyle collected $100.00 from pot
+FlyingStyle: doesn't show hand
+*** SUMMARY ***
+Total pot $100.00 | Rake $0.00
+Seat 1: el0el (small blind) folded before Flop
+Seat 2: FlyingStyle (big blind) collected ($100.00)
+Seat 6: packernation85 (button) folded before Flop (didn't bet)
+
+PokerStars Hand #1495743169:  Hold'em No Limit ($50.00/$100.00 USD) - 2022/12/23 17:01:44 ET
+Table 'WPN_7 Day No Rathole 50/100 NLH' 9-max Seat #2 is the button
+Seat 1: el0el ($4732.50 in chips)
+Seat 2: FlyingStyle ($5899.75 in chips)
+Seat 6: packernation85 ($900.00 in chips)
+packernation85: posts small blind $50.00
+el0el: posts big blind $100.00
+*** HOLE CARDS ***
+FlyingStyle: folds
+packernation85: raises $800.00 to $900.00 and is all-in
+el0el: folds
+Uncalled bet ($800.00) returned to packernation85
+packernation85 collected $200.00 from pot
+packernation85: doesn't show hand
+*** SUMMARY ***
+Total pot $200.00 | Rake $0.00
+Seat 1: el0el (big blind) folded before Flop
+Seat 2: FlyingStyle (button) folded before Flop (didn't bet)
+Seat 6: packernation85 (small blind) collected ($200.00)
+
+PokerStars Hand #1495742984:  Hold'em No Limit ($50.00/$100.00 USD) - 2022/12/23 17:01:31 ET
+Table 'WPN_7 Day No Rathole 50/100 NLH' 9-max Seat #1 is the button
+Seat 1: el0el ($4732.50 in chips)
+Seat 2: FlyingStyle ($5799.75 in chips)
+Seat 6: packernation85 ($1000.00 in chips)
+FlyingStyle: posts small blind $50.00
+packernation85: posts big blind $100.00
+*** HOLE CARDS ***
+el0el: folds
+FlyingStyle: raises $5699.75 to $5799.75 and is all-in
+packernation85: folds
+Uncalled bet ($5699.75) returned to FlyingStyle
+FlyingStyle collected $200.00 from pot
+FlyingStyle: doesn't show hand
+*** SUMMARY ***
+Total pot $200.00 | Rake $0.00
+Seat 1: el0el (button) folded before Flop (didn't bet)
+Seat 2: FlyingStyle (small blind) collected ($200.00)
+Seat 6: packernation85 (big blind) folded before Flop
+
+PokerStars Hand #1495742845:  Hold'em No Limit ($50.00/$100.00 USD) - 2022/12/23 17:01:21 ET
+Table 'WPN_7 Day No Rathole 50/100 NLH' 9-max Seat #6 is the button
+Seat 1: el0el ($4782.50 in chips)
+Seat 2: FlyingStyle ($5749.75 in chips)
+Seat 6: packernation85 ($1000.00 in chips)
+el0el: posts small blind $50.00
+FlyingStyle: posts big blind $100.00
+*** HOLE CARDS ***
+packernation85: folds
+el0el: folds
+Uncalled bet ($50.00) returned to FlyingStyle
+FlyingStyle collected $100.00 from pot
+FlyingStyle: doesn't show hand
+*** SUMMARY ***
+Total pot $100.00 | Rake $0.00
+Seat 1: el0el (small blind) folded before Flop
+Seat 2: FlyingStyle (big blind) collected ($100.00)
+Seat 6: packernation85 (button) folded before Flop (didn't bet)
+
+PokerStars Hand #1495742554:  Hold'em No Limit ($50.00/$100.00 USD) - 2022/12/23 17:00:55 ET
+Table 'WPN_7 Day No Rathole 50/100 NLH' 9-max Seat #6 is the button
+Seat 1: el0el ($4783.12 in chips)
+Seat 6: packernation85 ($148.44 in chips)
+packernation85: posts small blind $50.00
+el0el: posts big blind $100.00
+*** HOLE CARDS ***
+packernation85: raises $48.44 to $148.44 and is all-in
+el0el: calls $48.44
+*** FIRST FLOP *** [4h 4s Ts]
+*** FIRST TURN *** [4h 4s Ts] [3c]
+*** FIRST RIVER *** [4h 4s Ts 3c] [6h]
+*** SECOND FLOP *** [Qh 7d 5s]
+*** SECOND TURN *** [Qh 7d 5s] [5c]
+*** SECOND RIVER *** [Qh 7d 5s 5c] [Kh]
+*** FIRST SHOW DOWN ***
+el0el: shows [3s 7s]
+packernation85: shows [Kc 9s]
+el0el collected $147.82 from pot
+*** SECOND SHOW DOWN ***
+el0el: shows [3s 7s]
+packernation85: shows [Kc 9s]
+packernation85 collected $147.81 from pot
+*** SUMMARY ***
+Total pot $296.88 | Rake $1.25
+Hand was run twice
+FIRST Board [4h 4s Ts 3c 6h]
+SECOND Board [Qh 7d 5s 5c Kh]
+Seat 1: el0el (big blind) showed [3s 7s] and won ($147.82), and lost
+Seat 6: packernation85 (button) (small blind) showed [Kc 9s] and lost, and won ($147.81)
+
+PokerStars Hand #1495741563:  Hold'em No Limit ($50.00/$100.00 USD) - 2022/12/23 16:59:03 ET
+Table 'WPN_7 Day No Rathole 50/100 NLH' 9-max Seat #1 is the button
+Seat 1: el0el ($4834.06 in chips)
+Seat 2: BigCatFunt ($900.00 in chips)
+Seat 6: packernation85 ($1000.00 in chips)
+BigCatFunt: posts small blind $50.00
+packernation85: posts big blind $100.00
+*** HOLE CARDS ***
+el0el: folds
+BigCatFunt: calls $50.00
+packernation85: raises $900.00 to $1000.00 and is all-in
+BigCatFunt: calls $800.00 and is all-in
+Uncalled bet ($100.00) returned to packernation85
+*** FLOP *** [Ac 8c Ad]
+*** TURN *** [Ac 8c Ad] [7d]
+*** RIVER *** [Ac 8c Ad 7d] [Ah]
+*** SHOW DOWN ***
+BigCatFunt: shows [Kd Qs]
+packernation85: shows [Qd Jh]
+BigCatFunt collected $1798.25 from pot
+*** SUMMARY ***
+Total pot $1800.00 | Rake $1.75
+Board [Ac 8c Ad 7d Ah]
+Seat 1: el0el (button) folded before Flop (didn't bet)
+Seat 2: BigCatFunt (small blind) showed [Kd Qs] and won ($1798.25)
+Seat 6: packernation85 (big blind) showed [Qd Jh] and lost
+
+PokerStars Hand #1495742206:  Hold'em No Limit ($50.00/$100.00 USD) - 2022/12/23 17:00:27 ET
+Table 'WPN_7 Day No Rathole 50/100 NLH' 9-max Seat #1 is the button
+Seat 1: el0el ($4783.74 in chips)
+Seat 6: packernation85 ($149.07 in chips)
+el0el: posts small blind $50.00
+packernation85: posts big blind $100.00
+*** HOLE CARDS ***
+el0el: raises $100.00 to $200.00
+packernation85: calls $49.07 and is all-in
+Uncalled bet ($50.93) returned to el0el
+*** FIRST FLOP *** [Qs 4c 5d]
+*** FIRST TURN *** [Qs 4c 5d] [8s]
+*** FIRST RIVER *** [Qs 4c 5d 8s] [9c]
+*** SECOND FLOP *** [Th 9s Qc]
+*** SECOND TURN *** [Th 9s Qc] [2c]
+*** SECOND RIVER *** [Th 9s Qc 2c] [Jd]
+*** FIRST SHOW DOWN ***
+el0el: shows [6d 6h]
+packernation85: shows [Kh Jc]
+el0el collected $148.45 from pot
+*** SECOND SHOW DOWN ***
+el0el: shows [6d 6h]
+packernation85: shows [Kh Jc]
+packernation85 collected $148.44 from pot
+*** SUMMARY ***
+Total pot $298.14 | Rake $1.25
+Hand was run twice
+FIRST Board [Qs 4c 5d 8s 9c]
+SECOND Board [Th 9s Qc 2c Jd]
+Seat 1: el0el (button) (small blind) showed [6d 6h] and won ($148.45), and lost
+Seat 6: packernation85 (big blind) showed [Kh Jc] and lost, and won ($148.44)
+
+PokerStars Hand #1495741427:  Hold'em No Limit ($50.00/$100.00 USD) - 2022/12/23 16:58:44 ET
+Table 'WPN_7 Day No Rathole 50/100 NLH' 9-max Seat #1 is the button
+Seat 1: el0el ($4734.06 in chips)
+Seat 2: BigCatFunt ($1000.00 in chips)
+el0el: posts small blind $50.00
+BigCatFunt: posts big blind $100.00
+*** HOLE CARDS ***
+el0el: raises $950.00 to $1050.00
+BigCatFunt: folds
+Uncalled bet ($950.00) returned to el0el
+el0el collected $200.00 from pot
+el0el: doesn't show hand
+*** SUMMARY ***
+Total pot $200.00 | Rake $0.00
+Seat 1: el0el (button) (small blind) collected ($200.00)
+Seat 2: BigCatFunt (big blind) folded before Flop
+
+PokerStars Hand #1495658845:  Hold'em No Limit ($50.00/$100.00 USD) - 2022/12/23 14:37:14 ET
+Table 'WPN_7 Day No Rathole 50/100 NLH' 9-max Seat #9 is the button
+Seat 1: el0el ($3395.31 in chips)
+Seat 2: scout325 ($2832.70 in chips)
+Seat 9: runningtilt ($1340.00 in chips)
+el0el: posts small blind $50.00
+runningtilt: posts big blind $100.00
+*** HOLE CARDS ***
+el0el: raises $3295.31 to $3395.31 and is all-in
+runningtilt: folds
+Uncalled bet ($3295.31) returned to el0el
+el0el collected $200.00 from pot
+el0el: doesn't show hand
+*** SUMMARY ***
+Total pot $200.00 | Rake $0.00
+Seat 1: el0el (small blind) collected ($200.00)
+Seat 9: runningtilt (button) (big blind) folded before Flop
+
+PokerStars Hand #1495658976:  Hold'em No Limit ($50.00/$100.00 USD) - 2022/12/23 14:37:29 ET
+Table 'WPN_7 Day No Rathole 50/100 NLH' 9-max Seat #9 is the button
+Seat 1: el0el ($3495.31 in chips)
+Seat 9: runningtilt ($1240.00 in chips)
+runningtilt: posts small blind $50.00
+el0el: posts big blind $100.00
+*** HOLE CARDS ***
+runningtilt: raises $1140.00 to $1240.00 and is all-in
+el0el: calls $1140.00
+*** FLOP *** [5s Kd Kh]
+*** TURN *** [5s Kd Kh] [Js]
+*** RIVER *** [5s Kd Kh Js] [Tc]
+*** SHOW DOWN ***
+el0el: shows [Qd Td]
+runningtilt: shows [9h 9d]
+el0el collected $2478.75 from pot
+*** SUMMARY ***
+Total pot $2480.00 | Rake $1.25
+Board [5s Kd Kh Js Tc]
+Seat 1: el0el (big blind) showed [Qd Td] and won ($2478.75)
+Seat 9: runningtilt (button) (small blind) showed [9h 9d] and lost
+
+PokerStars Hand #1495658341:  Hold'em No Limit ($50.00/$100.00 USD) - 2022/12/23 14:36:12 ET
+Table 'WPN_7 Day No Rathole 50/100 NLH' 9-max Seat #1 is the button
+Seat 1: el0el ($3235.00 in chips)
+Seat 2: scout325 ($2844.76 in chips)
+Seat 9: runningtilt ($1490.00 in chips)
+scout325: posts small blind $50.00
+runningtilt: posts big blind $100.00
+*** HOLE CARDS ***
+el0el: raises $100.00 to $200.00
+scout325: raises $400.00 to $600.00
+runningtilt: folds
+el0el: folds
+Uncalled bet ($400.00) returned to scout325
+scout325 collected $500.00 from pot
+scout325: doesn't show hand
+*** SUMMARY ***
+Total pot $500.00 | Rake $0.00
+Seat 1: el0el (button) folded before Flop
+Seat 2: scout325 (small blind) collected ($500.00)
+Seat 9: runningtilt (big blind) folded before Flop
+
+PokerStars Hand #1495658579:  Hold'em No Limit ($50.00/$100.00 USD) - 2022/12/23 14:36:41 ET
+Table 'WPN_7 Day No Rathole 50/100 NLH' 9-max Seat #2 is the button
+Seat 1: el0el ($3035.00 in chips)
+Seat 2: scout325 ($3144.76 in chips)
+Seat 9: runningtilt ($1390.00 in chips)
+runningtilt: posts small blind $50.00
+el0el: posts big blind $100.00
+*** HOLE CARDS ***
+scout325: raises $100.00 to $200.00
+runningtilt: folds
+el0el: calls $100.00
+*** FLOP *** [Kh 3c 3h]
+el0el: checks
+scout325: bets $112.06
+el0el: raises $322.45 to $434.51
+scout325: folds
+Uncalled bet ($322.45) returned to el0el
+el0el collected $672.37 from pot
+el0el: doesn't show hand
+*** SUMMARY ***
+Total pot $674.12 | Rake $1.75
+Board [Kh 3c 3h]
+Seat 1: el0el (big blind) collected ($672.37)
+Seat 2: scout325 (button) folded on the Flop
+Seat 9: runningtilt (small blind) folded before Flop
+
+PokerStars Hand #1495657726:  Hold'em No Limit ($50.00/$100.00 USD) - 2022/12/23 14:34:54 ET
+Table 'WPN_7 Day No Rathole 50/100 NLH' 9-max Seat #9 is the button
+Seat 1: el0el ($4231.25 in chips)
+Seat 9: runningtilt ($746.25 in chips)
+runningtilt: posts small blind $50.00
+el0el: posts big blind $100.00
+*** HOLE CARDS ***
+runningtilt: folds
+Uncalled bet ($50.00) returned to el0el
+el0el collected $100.00 from pot
+el0el: doesn't show hand
+*** SUMMARY ***
+Total pot $100.00 | Rake $0.00
+Seat 1: el0el (big blind) collected ($100.00)
+Seat 9: runningtilt (button) (small blind) folded before Flop
+
+PokerStars Hand #1495657789:  Hold'em No Limit ($50.00/$100.00 USD) - 2022/12/23 14:35:02 ET
+Table 'WPN_7 Day No Rathole 50/100 NLH' 9-max Seat #1 is the button
+Seat 1: el0el ($4281.25 in chips)
+Seat 9: runningtilt ($696.25 in chips)
+el0el: posts small blind $50.00
+runningtilt: posts big blind $100.00
+*** HOLE CARDS ***
+el0el: raises $700.00 to $800.00
+runningtilt: calls $596.25 and is all-in
+Uncalled bet ($103.75) returned to el0el
+*** FLOP *** [Qs 5d Th]
+*** TURN *** [Qs 5d Th] [Js]
+*** RIVER *** [Qs 5d Th Js] [5h]
+*** SHOW DOWN ***
+runningtilt: shows [4s 4d]
+el0el: shows [Ac 9h]
+runningtilt collected $1391.25 from pot
+*** SUMMARY ***
+Total pot $1392.50 | Rake $1.25
+Board [Qs 5d Th Js 5h]
+Seat 1: el0el (button) (small blind) showed [Ac 9h] and lost
+Seat 9: runningtilt (big blind) showed [4s 4d] and won ($1391.25)
+
+PokerStars Hand #1495657967:  Hold'em No Limit ($50.00/$100.00 USD) - 2022/12/23 14:35:25 ET
+Table 'WPN_7 Day No Rathole 50/100 NLH' 9-max Seat #9 is the button
+Seat 1: el0el ($3585.00 in chips)
+Seat 9: runningtilt ($1391.25 in chips)
+runningtilt: posts small blind $50.00
+el0el: posts big blind $100.00
+*** HOLE CARDS ***
+runningtilt: calls $50.00
+el0el: checks
+*** FLOP *** [Td 7s 2s]
+el0el: checks
+runningtilt: bets $100.00
+el0el: folds
+Uncalled bet ($100.00) returned to runningtilt
+runningtilt collected $198.75 from pot
+runningtilt: doesn't show hand
+*** SUMMARY ***
+Total pot $200.00 | Rake $1.25
+Board [Td 7s 2s]
+Seat 1: el0el (big blind) folded on the Flop
+Seat 9: runningtilt (button) (small blind) collected ($198.75)
+
+PokerStars Hand #1495658113:  Hold'em No Limit ($50.00/$100.00 USD) - 2022/12/23 14:35:43 ET
+Table 'WPN_7 Day No Rathole 50/100 NLH' 9-max Seat #9 is the button
+Seat 1: el0el ($3485.00 in chips)
+Seat 2: scout325 ($2594.76 in chips)
+Seat 9: runningtilt ($1490.00 in chips)
+el0el: posts small blind $50.00
+scout325: posts big blind $100.00
+*** HOLE CARDS ***
+runningtilt: folds
+el0el: raises $150.00 to $250.00
+scout325: raises $400.00 to $650.00
+el0el: folds
+Uncalled bet ($400.00) returned to scout325
+scout325 collected $500.00 from pot
+scout325: doesn't show hand
+*** SUMMARY ***
+Total pot $500.00 | Rake $0.00
+Seat 1: el0el (small blind) folded before Flop
+Seat 2: scout325 (big blind) collected ($500.00)
+Seat 9: runningtilt (button) folded before Flop (didn't bet)
+
+PokerStars Hand #1495657426:  Hold'em No Limit ($50.00/$100.00 USD) - 2022/12/23 14:34:15 ET
+Table 'WPN_7 Day No Rathole 50/100 NLH' 9-max Seat #1 is the button
+Seat 1: el0el ($4032.50 in chips)
+Seat 9: runningtilt ($946.25 in chips)
+el0el: posts small blind $50.00
+runningtilt: posts big blind $100.00
+*** HOLE CARDS ***
+el0el: calls $50.00
+runningtilt: checks
+*** FLOP *** [5d 6d 7h]
+runningtilt: checks
+el0el: bets $100.00
+runningtilt: calls $100.00
+*** TURN *** [5d 6d 7h] [6c]
+runningtilt: checks
+el0el: checks
+*** RIVER *** [5d 6d 7h 6c] [6h]
+runningtilt: checks
+el0el: bets $200.00
+runningtilt: folds
+Uncalled bet ($200.00) returned to el0el
+el0el collected $398.75 from pot
+el0el: doesn't show hand
+*** SUMMARY ***
+Total pot $400.00 | Rake $1.25
+Board [5d 6d 7h 6c 6h]
+Seat 1: el0el (button) (small blind) collected ($398.75)
+Seat 9: runningtilt (big blind) folded on the River
+
+PokerStars Hand #1495657153:  Hold'em No Limit ($50.00/$100.00 USD) - 2022/12/23 14:33:41 ET
+Table 'WPN_7 Day No Rathole 50/100 NLH' 9-max Seat #1 is the button
+Seat 1: el0el ($4033.75 in chips)
+Seat 9: runningtilt ($946.25 in chips)
+el0el: posts small blind $50.00
+runningtilt: posts big blind $100.00
+*** HOLE CARDS ***
+el0el: calls $50.00
+runningtilt: checks
+*** FLOP *** [6h Kc Td]
+runningtilt: checks
+el0el: bets $100.00
+runningtilt: folds
+Uncalled bet ($100.00) returned to el0el
+el0el collected $198.75 from pot
+el0el: doesn't show hand
+*** SUMMARY ***
+Total pot $200.00 | Rake $1.25
+Board [6h Kc Td]
+Seat 1: el0el (button) (small blind) collected ($198.75)
+Seat 9: runningtilt (big blind) folded on the Flop
+
+PokerStars Hand #1495657308:  Hold'em No Limit ($50.00/$100.00 USD) - 2022/12/23 14:34:01 ET
+Table 'WPN_7 Day No Rathole 50/100 NLH' 9-max Seat #9 is the button
+Seat 1: el0el ($4132.50 in chips)
+Seat 9: runningtilt ($846.25 in chips)
+runningtilt: posts small blind $50.00
+el0el: posts big blind $100.00
+*** HOLE CARDS ***
+runningtilt: raises $746.25 to $846.25 and is all-in
+el0el: folds
+Uncalled bet ($746.25) returned to runningtilt
+runningtilt collected $200.00 from pot
+runningtilt: doesn't show hand
+*** SUMMARY ***
+Total pot $200.00 | Rake $0.00
+Seat 1: el0el (big blind) folded before Flop
+Seat 9: runningtilt (button) (small blind) collected ($200.00)
+
+PokerStars Hand #1495656710:  Hold'em No Limit ($50.00/$100.00 USD) - 2022/12/23 14:32:48 ET
+Table 'WPN_7 Day No Rathole 50/100 NLH' 9-max Seat #1 is the button
+Seat 1: el0el ($3885.00 in chips)
+Seat 9: runningtilt ($1096.25 in chips)
+el0el: posts small blind $50.00
+runningtilt: posts big blind $100.00
+*** HOLE CARDS ***
+el0el: calls $50.00
+runningtilt: checks
+*** FLOP *** [Jc Ts 3s]
+runningtilt: checks
+el0el: checks
+*** TURN *** [Jc Ts 3s] [5s]
+runningtilt: checks
+el0el: checks
+*** RIVER *** [Jc Ts 3s 5s] [Th]
+runningtilt: checks
+el0el: bets $100.00
+runningtilt: folds
+Uncalled bet ($100.00) returned to el0el
+el0el collected $198.75 from pot
+el0el: doesn't show hand
+*** SUMMARY ***
+Total pot $200.00 | Rake $1.25
+Board [Jc Ts 3s 5s Th]
+Seat 1: el0el (button) (small blind) collected ($198.75)
+Seat 9: runningtilt (big blind) folded on the River
+
+PokerStars Hand #1495656931:  Hold'em No Limit ($50.00/$100.00 USD) - 2022/12/23 14:33:15 ET
+Table 'WPN_7 Day No Rathole 50/100 NLH' 9-max Seat #9 is the button
+Seat 1: el0el ($3983.75 in chips)
+Seat 9: runningtilt ($996.25 in chips)
+runningtilt: posts small blind $50.00
+el0el: posts big blind $100.00
+*** HOLE CARDS ***
+runningtilt: folds
+Uncalled bet ($50.00) returned to el0el
+el0el collected $100.00 from pot
+el0el: doesn't show hand
+*** SUMMARY ***
+Total pot $100.00 | Rake $0.00
+Seat 1: el0el (big blind) collected ($100.00)
+Seat 9: runningtilt (button) (small blind) folded before Flop
+
+PokerStars Hand #1495657007:  Hold'em No Limit ($50.00/$100.00 USD) - 2022/12/23 14:33:24 ET
+Table 'WPN_7 Day No Rathole 50/100 NLH' 9-max Seat #1 is the button
+Seat 1: el0el ($4033.75 in chips)
+Seat 9: runningtilt ($946.25 in chips)
+el0el: posts small blind $50.00
+runningtilt: posts big blind $100.00
+*** HOLE CARDS ***
+el0el: folds
+Uncalled bet ($50.00) returned to runningtilt
+runningtilt collected $100.00 from pot
+runningtilt: doesn't show hand
+*** SUMMARY ***
+Total pot $100.00 | Rake $0.00
+Seat 1: el0el (button) (small blind) folded before Flop
+Seat 9: runningtilt (big blind) collected ($100.00)
+
+PokerStars Hand #1495657083:  Hold'em No Limit ($50.00/$100.00 USD) - 2022/12/23 14:33:33 ET
+Table 'WPN_7 Day No Rathole 50/100 NLH' 9-max Seat #9 is the button
+Seat 1: el0el ($3983.75 in chips)
+Seat 9: runningtilt ($996.25 in chips)
+runningtilt: posts small blind $50.00
+el0el: posts big blind $100.00
+*** HOLE CARDS ***
+runningtilt: folds
+Uncalled bet ($50.00) returned to el0el
+el0el collected $100.00 from pot
+el0el: doesn't show hand
+*** SUMMARY ***
+Total pot $100.00 | Rake $0.00
+Seat 1: el0el (big blind) collected ($100.00)
+Seat 9: runningtilt (button) (small blind) folded before Flop
+
+PokerStars Hand #1495656200:  Hold'em No Limit ($50.00/$100.00 USD) - 2022/12/23 14:31:45 ET
+Table 'WPN_7 Day No Rathole 50/100 NLH' 9-max Seat #9 is the button
+Seat 1: el0el ($3636.25 in chips)
+Seat 9: runningtilt ($1346.25 in chips)
+runningtilt: posts small blind $50.00
+el0el: posts big blind $100.00
+*** HOLE CARDS ***
+runningtilt: calls $50.00
+el0el: checks
+*** FLOP *** [6d 8s 9s]
+el0el: bets $100.00
+runningtilt: folds
+Uncalled bet ($100.00) returned to el0el
+el0el collected $198.75 from pot
+el0el: doesn't show hand
+*** SUMMARY ***
+Total pot $200.00 | Rake $1.25
+Board [6d 8s 9s]
+Seat 1: el0el (big blind) collected ($198.75)
+Seat 9: runningtilt (button) (small blind) folded on the Flop
+
+PokerStars Hand #1495656367:  Hold'em No Limit ($50.00/$100.00 USD) - 2022/12/23 14:32:05 ET
+Table 'WPN_7 Day No Rathole 50/100 NLH' 9-max Seat #1 is the button
+Seat 1: el0el ($3735.00 in chips)
+Seat 9: runningtilt ($1246.25 in chips)
+el0el: posts small blind $50.00
+runningtilt: posts big blind $100.00
+*** HOLE CARDS ***
+el0el: raises $3635.00 to $3735.00 and is all-in
+runningtilt: folds
+Uncalled bet ($3635.00) returned to el0el
+el0el collected $200.00 from pot
+el0el: doesn't show hand
+*** SUMMARY ***
+Total pot $200.00 | Rake $0.00
+Seat 1: el0el (button) (small blind) collected ($200.00)
+Seat 9: runningtilt (big blind) folded before Flop
+
+PokerStars Hand #1495656446:  Hold'em No Limit ($50.00/$100.00 USD) - 2022/12/23 14:32:16 ET
+Table 'WPN_7 Day No Rathole 50/100 NLH' 9-max Seat #9 is the button
+Seat 1: el0el ($3835.00 in chips)
+Seat 9: runningtilt ($1146.25 in chips)
+runningtilt: posts small blind $50.00
+el0el: posts big blind $100.00
+*** HOLE CARDS ***
+runningtilt: raises $1046.25 to $1146.25 and is all-in
+el0el: folds
+Uncalled bet ($1046.25) returned to runningtilt
+runningtilt collected $200.00 from pot
+runningtilt: doesn't show hand
+*** SUMMARY ***
+Total pot $200.00 | Rake $0.00
+Seat 1: el0el (big blind) folded before Flop
+Seat 9: runningtilt (button) (small blind) collected ($200.00)
+
+PokerStars Hand #1495656541:  Hold'em No Limit ($50.00/$100.00 USD) - 2022/12/23 14:32:28 ET
+Table 'WPN_7 Day No Rathole 50/100 NLH' 9-max Seat #1 is the button
+Seat 1: el0el ($3735.00 in chips)
+Seat 9: runningtilt ($1246.25 in chips)
+el0el: posts small blind $50.00
+runningtilt: posts big blind $100.00
+*** HOLE CARDS ***
+el0el: raises $3635.00 to $3735.00 and is all-in
+runningtilt: folds
+Uncalled bet ($3635.00) returned to el0el
+el0el collected $200.00 from pot
+el0el: doesn't show hand
+*** SUMMARY ***
+Total pot $200.00 | Rake $0.00
+Seat 1: el0el (button) (small blind) collected ($200.00)
+Seat 9: runningtilt (big blind) folded before Flop
+
+PokerStars Hand #1495656648:  Hold'em No Limit ($50.00/$100.00 USD) - 2022/12/23 14:32:40 ET
+Table 'WPN_7 Day No Rathole 50/100 NLH' 9-max Seat #9 is the button
+Seat 1: el0el ($3835.00 in chips)
+Seat 9: runningtilt ($1146.25 in chips)
+runningtilt: posts small blind $50.00
+el0el: posts big blind $100.00
+*** HOLE CARDS ***
+runningtilt: folds
+Uncalled bet ($50.00) returned to el0el
+el0el collected $100.00 from pot
+el0el: doesn't show hand
+*** SUMMARY ***
+Total pot $100.00 | Rake $0.00
+Seat 1: el0el (big blind) collected ($100.00)
+Seat 9: runningtilt (button) (small blind) folded before Flop
+
+PokerStars Hand #1495656062:  Hold'em No Limit ($50.00/$100.00 USD) - 2022/12/23 14:31:27 ET
+Table 'WPN_7 Day No Rathole 50/100 NLH' 9-max Seat #1 is the button
+Seat 1: el0el ($3537.50 in chips)
+Seat 9: runningtilt ($1446.25 in chips)
+el0el: posts small blind $50.00
+runningtilt: posts big blind $100.00
+*** HOLE CARDS ***
+el0el: calls $50.00
+runningtilt: checks
+*** FLOP *** [Qc 3s Ad]
+runningtilt: checks
+el0el: bets $100.00
+runningtilt: folds
+Uncalled bet ($100.00) returned to el0el
+el0el collected $198.75 from pot
+el0el: doesn't show hand
+*** SUMMARY ***
+Total pot $200.00 | Rake $1.25
+Board [Qc 3s Ad]
+Seat 1: el0el (button) (small blind) collected ($198.75)
+Seat 9: runningtilt (big blind) folded on the Flop
+
+PokerStars Hand #1495655964:  Hold'em No Limit ($50.00/$100.00 USD) - 2022/12/23 14:31:14 ET
+Table 'WPN_7 Day No Rathole 50/100 NLH' 9-max Seat #9 is the button
+Seat 1: el0el ($3637.50 in chips)
+Seat 9: runningtilt ($1346.25 in chips)
+runningtilt: posts small blind $50.00
+el0el: posts big blind $100.00
+*** HOLE CARDS ***
+runningtilt: raises $1246.25 to $1346.25 and is all-in
+el0el: folds
+Uncalled bet ($1246.25) returned to runningtilt
+runningtilt collected $200.00 from pot
+runningtilt: doesn't show hand
+*** SUMMARY ***
+Total pot $200.00 | Rake $0.00
+Seat 1: el0el (big blind) folded before Flop
+Seat 9: runningtilt (button) (small blind) collected ($200.00)
+
+PokerStars Hand #1495655492:  Hold'em No Limit ($50.00/$100.00 USD) - 2022/12/23 14:30:12 ET
+Table 'WPN_7 Day No Rathole 50/100 NLH' 9-max Seat #9 is the button
+Seat 1: el0el ($3488.75 in chips)
+Seat 9: runningtilt ($1497.50 in chips)
+runningtilt: posts small blind $50.00
+el0el: posts big blind $100.00
+*** HOLE CARDS ***
+runningtilt: calls $50.00
+el0el: checks
+*** FLOP *** [7d 5s 3h]
+el0el: checks
+runningtilt: checks
+*** TURN *** [7d 5s 3h] [8h]
+el0el: checks
+runningtilt: checks
+*** RIVER *** [7d 5s 3h 8h] [4d]
+el0el: checks
+runningtilt: checks
+*** SHOW DOWN ***
+runningtilt: shows [8d Qh]
+el0el: mucks hand
+runningtilt collected $198.75 from pot
+*** SUMMARY ***
+Total pot $200.00 | Rake $1.25
+Board [7d 5s 3h 8h 4d]
+Seat 1: el0el (big blind) mucked
+Seat 9: runningtilt (button) (small blind) showed [8d Qh] and won ($198.75)
+
+PokerStars Hand #1495655707:  Hold'em No Limit ($50.00/$100.00 USD) - 2022/12/23 14:30:39 ET
+Table 'WPN_7 Day No Rathole 50/100 NLH' 9-max Seat #1 is the button
+Seat 1: el0el ($3388.75 in chips)
+Seat 9: runningtilt ($1596.25 in chips)
+el0el: posts small blind $50.00
+runningtilt: posts big blind $100.00
+*** HOLE CARDS ***
+el0el: raises $150.00 to $250.00
+runningtilt: folds
+Uncalled bet ($150.00) returned to el0el
+el0el collected $200.00 from pot
+el0el: doesn't show hand
+*** SUMMARY ***
+Total pot $200.00 | Rake $0.00
+Seat 1: el0el (button) (small blind) collected ($200.00)
+Seat 9: runningtilt (big blind) folded before Flop
+
+PokerStars Hand #1495655809:  Hold'em No Limit ($50.00/$100.00 USD) - 2022/12/23 14:30:51 ET
+Table 'WPN_7 Day No Rathole 50/100 NLH' 9-max Seat #9 is the button
+Seat 1: el0el ($3488.75 in chips)
+Seat 9: runningtilt ($1496.25 in chips)
+runningtilt: posts small blind $50.00
+el0el: posts big blind $100.00
+*** HOLE CARDS ***
+runningtilt: folds
+Uncalled bet ($50.00) returned to el0el
+el0el collected $100.00 from pot
+el0el: doesn't show hand
+*** SUMMARY ***
+Total pot $100.00 | Rake $0.00
+Seat 1: el0el (big blind) collected ($100.00)
+Seat 9: runningtilt (button) (small blind) folded before Flop
+
+PokerStars Hand #1495655863:  Hold'em No Limit ($50.00/$100.00 USD) - 2022/12/23 14:30:59 ET
+Table 'WPN_7 Day No Rathole 50/100 NLH' 9-max Seat #1 is the button
+Seat 1: el0el ($3538.75 in chips)
+Seat 9: runningtilt ($1446.25 in chips)
+el0el: posts small blind $50.00
+runningtilt: posts big blind $100.00
+*** HOLE CARDS ***
+el0el: calls $50.00
+runningtilt: checks
+*** FLOP *** [6c Qh Kc]
+runningtilt: checks
+el0el: bets $100.00
+runningtilt: folds
+Uncalled bet ($100.00) returned to el0el
+el0el collected $198.75 from pot
+el0el: doesn't show hand
+*** SUMMARY ***
+Total pot $200.00 | Rake $1.25
+Board [6c Qh Kc]
+Seat 1: el0el (button) (small blind) collected ($198.75)
+Seat 9: runningtilt (big blind) folded on the Flop
+
+PokerStars Hand #1495655341:  Hold'em No Limit ($50.00/$100.00 USD) - 2022/12/23 14:29:54 ET
+Table 'WPN_7 Day No Rathole 50/100 NLH' 9-max Seat #9 is the button
+Seat 1: el0el ($3488.75 in chips)
+Seat 9: runningtilt ($1497.50 in chips)
+runningtilt: posts small blind $50.00
+el0el: posts big blind $100.00
+*** HOLE CARDS ***
+runningtilt: folds
+Uncalled bet ($50.00) returned to el0el
+el0el collected $100.00 from pot
+el0el: doesn't show hand
+*** SUMMARY ***
+Total pot $100.00 | Rake $0.00
+Seat 1: el0el (big blind) collected ($100.00)
+Seat 9: runningtilt (button) (small blind) folded before Flop
+
+PokerStars Hand #1495655414:  Hold'em No Limit ($50.00/$100.00 USD) - 2022/12/23 14:30:02 ET
+Table 'WPN_7 Day No Rathole 50/100 NLH' 9-max Seat #1 is the button
+Seat 1: el0el ($3538.75 in chips)
+Seat 9: runningtilt ($1447.50 in chips)
+el0el: posts small blind $50.00
+runningtilt: posts big blind $100.00
+*** HOLE CARDS ***
+el0el: folds
+Uncalled bet ($50.00) returned to runningtilt
+runningtilt collected $100.00 from pot
+runningtilt: doesn't show hand
+*** SUMMARY ***
+Total pot $100.00 | Rake $0.00
+Seat 1: el0el (button) (small blind) folded before Flop
+Seat 9: runningtilt (big blind) collected ($100.00)
+
+PokerStars Hand #1495654993:  Hold'em No Limit ($50.00/$100.00 USD) - 2022/12/23 14:29:11 ET
+Table 'WPN_7 Day No Rathole 50/100 NLH' 9-max Seat #9 is the button
+Seat 1: el0el ($3488.75 in chips)
+Seat 9: runningtilt ($1498.75 in chips)
+runningtilt: posts small blind $50.00
+el0el: posts big blind $100.00
+*** HOLE CARDS ***
+runningtilt: calls $50.00
+el0el: checks
+*** FLOP *** [9d 6d 4d]
+el0el: checks
+runningtilt: bets $100.00
+el0el: folds
+Uncalled bet ($100.00) returned to runningtilt
+runningtilt collected $198.75 from pot
+runningtilt: doesn't show hand
+*** SUMMARY ***
+Total pot $200.00 | Rake $1.25
+Board [9d 6d 4d]
+Seat 1: el0el (big blind) folded on the Flop
+Seat 9: runningtilt (button) (small blind) collected ($198.75)
+
+PokerStars Hand #1495655136:  Hold'em No Limit ($50.00/$100.00 USD) - 2022/12/23 14:29:30 ET
+Table 'WPN_7 Day No Rathole 50/100 NLH' 9-max Seat #1 is the button
+Seat 1: el0el ($3388.75 in chips)
+Seat 9: runningtilt ($1597.50 in chips)
+el0el: posts small blind $50.00
+runningtilt: posts big blind $100.00
+*** HOLE CARDS ***
+el0el: raises $150.00 to $250.00
+runningtilt: folds
+Uncalled bet ($150.00) returned to el0el
+el0el collected $200.00 from pot
+el0el: doesn't show hand
+*** SUMMARY ***
+Total pot $200.00 | Rake $0.00
+Seat 1: el0el (button) (small blind) collected ($200.00)
+Seat 9: runningtilt (big blind) folded before Flop
+
+PokerStars Hand #1495654725:  Hold'em No Limit ($50.00/$100.00 USD) - 2022/12/23 14:28:37 ET
+Table 'WPN_7 Day No Rathole 50/100 NLH' 9-max Seat #9 is the button
+Seat 1: el0el ($3290.00 in chips)
+Seat 9: runningtilt ($1698.75 in chips)
+runningtilt: posts small blind $50.00
+el0el: posts big blind $100.00
+*** HOLE CARDS ***
+runningtilt: calls $50.00
+el0el: checks
+*** FLOP *** [8s 2c 4d]
+el0el: checks
+runningtilt: checks
+*** TURN *** [8s 2c 4d] [2d]
+el0el: bets $150.00
+runningtilt: folds
+Uncalled bet ($150.00) returned to el0el
+el0el collected $198.75 from pot
+el0el: doesn't show hand
+*** SUMMARY ***
+Total pot $200.00 | Rake $1.25
+Board [8s 2c 4d 2d]
+Seat 1: el0el (big blind) collected ($198.75)
+Seat 9: runningtilt (button) (small blind) folded on the Turn
+
+PokerStars Hand #1495654908:  Hold'em No Limit ($50.00/$100.00 USD) - 2022/12/23 14:29:01 ET
+Table 'WPN_7 Day No Rathole 50/100 NLH' 9-max Seat #1 is the button
+Seat 1: el0el ($3388.75 in chips)
+Seat 9: runningtilt ($1598.75 in chips)
+el0el: posts small blind $50.00
+runningtilt: posts big blind $100.00
+*** HOLE CARDS ***
+el0el: raises $100.00 to $200.00
+runningtilt: folds
+Uncalled bet ($100.00) returned to el0el
+el0el collected $200.00 from pot
+el0el: doesn't show hand
+*** SUMMARY ***
+Total pot $200.00 | Rake $0.00
+Seat 1: el0el (button) (small blind) collected ($200.00)
+Seat 9: runningtilt (big blind) folded before Flop
+
+PokerStars Hand #1495654475:  Hold'em No Limit ($50.00/$100.00 USD) - 2022/12/23 14:28:07 ET
+Table 'WPN_7 Day No Rathole 50/100 NLH' 9-max Seat #9 is the button
+Seat 1: el0el ($4090.00 in chips)
+Seat 9: runningtilt ($900.00 in chips)
+runningtilt: posts small blind $50.00
+el0el: posts big blind $100.00
+*** HOLE CARDS ***
+runningtilt: folds
+Uncalled bet ($50.00) returned to el0el
+el0el collected $100.00 from pot
+el0el: doesn't show hand
+*** SUMMARY ***
+Total pot $100.00 | Rake $0.00
+Seat 1: el0el (big blind) collected ($100.00)
+Seat 9: runningtilt (button) (small blind) folded before Flop
+
+PokerStars Hand #1495654539:  Hold'em No Limit ($50.00/$100.00 USD) - 2022/12/23 14:28:16 ET
+Table 'WPN_7 Day No Rathole 50/100 NLH' 9-max Seat #1 is the button
+Seat 1: el0el ($4140.00 in chips)
+Seat 9: runningtilt ($850.00 in chips)
+el0el: posts small blind $50.00
+runningtilt: posts big blind $100.00
+*** HOLE CARDS ***
+el0el: raises $950.00 to $1050.00
+runningtilt: calls $750.00 and is all-in
+Uncalled bet ($200.00) returned to el0el
+*** FLOP *** [8c 6h 6s]
+*** TURN *** [8c 6h 6s] [Ah]
+*** RIVER *** [8c 6h 6s Ah] [4s]
+*** SHOW DOWN ***
+runningtilt: shows [Td Th]
+el0el: shows [9c Ks]
+runningtilt collected $1698.75 from pot
+*** SUMMARY ***
+Total pot $1700.00 | Rake $1.25
+Board [8c 6h 6s Ah 4s]
+Seat 1: el0el (button) (small blind) showed [9c Ks] and lost
+Seat 9: runningtilt (big blind) showed [Td Th] and won ($1698.75)
+
+PokerStars Hand #1495654182:  Hold'em No Limit ($50.00/$100.00 USD) - 2022/12/23 14:27:28 ET
+Table 'WPN_7 Day No Rathole 50/100 NLH' 9-max Seat #1 is the button
+Seat 1: el0el ($3841.25 in chips)
+Seat 9: runningtilt ($1000.00 in chips)
+el0el: posts small blind $50.00
+runningtilt: posts big blind $100.00
+*** HOLE CARDS ***
+el0el: calls $50.00
+runningtilt: checks
+*** FLOP *** [8s 6d 6s]
+runningtilt: checks
+el0el: bets $100.00
+runningtilt: folds
+Uncalled bet ($100.00) returned to el0el
+el0el collected $198.75 from pot
+el0el: doesn't show hand
+*** SUMMARY ***
+Total pot $200.00 | Rake $1.25
+Board [8s 6d 6s]
+Seat 1: el0el (button) (small blind) collected ($198.75)
+Seat 9: runningtilt (big blind) folded on the Flop
+
+PokerStars Hand #1495654343:  Hold'em No Limit ($50.00/$100.00 USD) - 2022/12/23 14:27:49 ET
+Table 'WPN_7 Day No Rathole 50/100 NLH' 9-max Seat #9 is the button
+Seat 1: el0el ($3940.00 in chips)
+Seat 9: runningtilt ($900.00 in chips)
+runningtilt: posts small blind $50.00
+el0el: posts big blind $100.00
+*** HOLE CARDS ***
+runningtilt: folds
+Uncalled bet ($50.00) returned to el0el
+el0el collected $100.00 from pot
+el0el: doesn't show hand
+*** SUMMARY ***
+Total pot $100.00 | Rake $0.00
+Seat 1: el0el (big blind) collected ($100.00)
+Seat 9: runningtilt (button) (small blind) folded before Flop
+
+PokerStars Hand #1495654397:  Hold'em No Limit ($50.00/$100.00 USD) - 2022/12/23 14:27:57 ET
+Table 'WPN_7 Day No Rathole 50/100 NLH' 9-max Seat #1 is the button
+Seat 1: el0el ($3990.00 in chips)
+Seat 9: runningtilt ($950.00 in chips)
+el0el: posts small blind $50.00
+runningtilt: posts big blind $100.00
+*** HOLE CARDS ***
+el0el: raises $950.00 to $1050.00
+runningtilt: folds
+Uncalled bet ($950.00) returned to el0el
+el0el collected $200.00 from pot
+el0el: doesn't show hand
+*** SUMMARY ***
+Total pot $200.00 | Rake $0.00
+Seat 1: el0el (button) (small blind) collected ($200.00)
+Seat 9: runningtilt (big blind) folded before Flop
+
+PokerStars Hand #1495653738:  Hold'em No Limit ($50.00/$100.00 USD) - 2022/12/23 14:26:33 ET
+Table 'WPN_7 Day No Rathole 50/100 NLH' 9-max Seat #9 is the button
+Seat 1: el0el ($3693.75 in chips)
+Seat 9: runningtilt ($1000.00 in chips)
+runningtilt: posts small blind $50.00
+el0el: posts big blind $100.00
+*** HOLE CARDS ***
+runningtilt: calls $50.00
+el0el: checks
+*** FLOP *** [3s 4h 9d]
+el0el: checks
+runningtilt: checks
+*** TURN *** [3s 4h 9d] [Jh]
+el0el: bets $100.00
+runningtilt: folds
+Uncalled bet ($100.00) returned to el0el
+el0el collected $198.75 from pot
+el0el: doesn't show hand
+*** SUMMARY ***
+Total pot $200.00 | Rake $1.25
+Board [3s 4h 9d Jh]
+Seat 1: el0el (big blind) collected ($198.75)
+Seat 9: runningtilt (button) (small blind) folded on the Turn
+
+PokerStars Hand #1495653915:  Hold'em No Limit ($50.00/$100.00 USD) - 2022/12/23 14:26:55 ET
+Table 'WPN_7 Day No Rathole 50/100 NLH' 9-max Seat #1 is the button
+Seat 1: el0el ($3792.50 in chips)
+Seat 9: runningtilt ($900.00 in chips)
+el0el: posts small blind $50.00
+runningtilt: posts big blind $100.00
+*** HOLE CARDS ***
+el0el: folds
+Uncalled bet ($50.00) returned to runningtilt
+runningtilt collected $100.00 from pot
+runningtilt: doesn't show hand
+*** SUMMARY ***
+Total pot $100.00 | Rake $0.00
+Seat 1: el0el (button) (small blind) folded before Flop
+Seat 9: runningtilt (big blind) collected ($100.00)
+
+PokerStars Hand #1495653979:  Hold'em No Limit ($50.00/$100.00 USD) - 2022/12/23 14:27:04 ET
+Table 'WPN_7 Day No Rathole 50/100 NLH' 9-max Seat #9 is the button
+Seat 1: el0el ($3742.50 in chips)
+Seat 9: runningtilt ($1050.00 in chips)
+runningtilt: posts small blind $50.00
+el0el: posts big blind $100.00
+*** HOLE CARDS ***
+runningtilt: calls $50.00
+el0el: checks
+*** FLOP *** [4s Jc 7s]
+el0el: checks
+runningtilt: checks
+*** TURN *** [4s Jc 7s] [4h]
+el0el: checks
+runningtilt: checks
+*** RIVER *** [4s Jc 7s 4h] [7d]
+el0el: checks
+runningtilt: checks
+*** SHOW DOWN ***
+el0el: shows [Qs 2c]
+runningtilt: mucks hand
+el0el collected $198.75 from pot
+*** SUMMARY ***
+Total pot $200.00 | Rake $1.25
+Board [4s Jc 7s 4h 7d]
+Seat 1: el0el (big blind) showed [Qs 2c] and won ($198.75)
+Seat 9: runningtilt (button) (small blind) mucked
+
+PokerStars Hand #1495653217:  Hold'em No Limit ($50.00/$100.00 USD) - 2022/12/23 14:25:29 ET
+Table 'WPN_7 Day No Rathole 50/100 NLH' 9-max Seat #1 is the button
+Seat 1: el0el ($3595.00 in chips)
+Seat 9: runningtilt ($1100.00 in chips)
+el0el: posts small blind $50.00
+runningtilt: posts big blind $100.00
+*** HOLE CARDS ***
+el0el: calls $50.00
+runningtilt: checks
+*** FLOP *** [2d 5s 6d]
+runningtilt: checks
+el0el: bets $100.00
+runningtilt: folds
+Uncalled bet ($100.00) returned to el0el
+el0el collected $198.75 from pot
+el0el: doesn't show hand
+*** SUMMARY ***
+Total pot $200.00 | Rake $1.25
+Board [2d 5s 6d]
+Seat 1: el0el (button) (small blind) collected ($198.75)
+Seat 9: runningtilt (big blind) folded on the Flop
+
+PokerStars Hand #1495653588:  Hold'em No Limit ($50.00/$100.00 USD) - 2022/12/23 14:26:14 ET
+Table 'WPN_7 Day No Rathole 50/100 NLH' 9-max Seat #9 is the button
+Seat 1: el0el ($3693.75 in chips)
+Seat 9: runningtilt ($1000.00 in chips)
+runningtilt: posts small blind $50.00
+el0el: posts big blind $100.00
+*** HOLE CARDS ***
+runningtilt: folds
+Uncalled bet ($50.00) returned to el0el
+el0el collected $100.00 from pot
+el0el: doesn't show hand
+*** SUMMARY ***
+Total pot $100.00 | Rake $0.00
+Seat 1: el0el (big blind) collected ($100.00)
+Seat 9: runningtilt (button) (small blind) folded before Flop
+
+PokerStars Hand #1495653672:  Hold'em No Limit ($50.00/$100.00 USD) - 2022/12/23 14:26:24 ET
+Table 'WPN_7 Day No Rathole 50/100 NLH' 9-max Seat #1 is the button
+Seat 1: el0el ($3743.75 in chips)
+Seat 9: runningtilt ($950.00 in chips)
+el0el: posts small blind $50.00
+runningtilt: posts big blind $100.00
+*** HOLE CARDS ***
+el0el: folds
+Uncalled bet ($50.00) returned to runningtilt
+runningtilt collected $100.00 from pot
+runningtilt: doesn't show hand
+*** SUMMARY ***
+Total pot $100.00 | Rake $0.00
+Seat 1: el0el (button) (small blind) folded before Flop
+Seat 9: runningtilt (big blind) collected ($100.00)
+
+PokerStars Hand #1495653136:  Hold'em No Limit ($50.00/$100.00 USD) - 2022/12/23 14:25:18 ET
+Table 'WPN_7 Day No Rathole 50/100 NLH' 9-max Seat #9 is the button
+Seat 1: el0el ($3695.00 in chips)
+Seat 9: runningtilt ($1000.00 in chips)
+runningtilt: posts small blind $50.00
+el0el: posts big blind $100.00
+*** HOLE CARDS ***
+runningtilt: raises $900.00 to $1000.00 and is all-in
+el0el: folds
+Uncalled bet ($900.00) returned to runningtilt
+runningtilt collected $200.00 from pot
+runningtilt: doesn't show hand
+*** SUMMARY ***
+Total pot $200.00 | Rake $0.00
+Seat 1: el0el (big blind) folded before Flop
+Seat 9: runningtilt (button) (small blind) collected ($200.00)
+
+PokerStars Hand #1495652778:  Hold'em No Limit ($50.00/$100.00 USD) - 2022/12/23 14:24:32 ET
+Table 'WPN_7 Day No Rathole 50/100 NLH' 9-max Seat #1 is the button
+Seat 1: el0el ($2696.25 in chips)
+Seat 9: runningtilt ($950.00 in chips)
+el0el: posts small blind $50.00
+runningtilt: posts big blind $100.00
+*** HOLE CARDS ***
+el0el: calls $50.00
+runningtilt: checks
+*** FLOP *** [4d 9c 2c]
+runningtilt: checks
+el0el: checks
+*** TURN *** [4d 9c 2c] [6c]
+runningtilt: bets $100.00
+el0el: calls $100.00
+*** RIVER *** [4d 9c 2c 6c] [8s]
+runningtilt: checks
+el0el: bets $2496.25 and is all-in
+runningtilt: calls $800.00 and is all-in
+Uncalled bet ($1696.25) returned to el0el
+*** SHOW DOWN ***
+el0el: shows [5h 7d]
+runningtilt: shows [4s 6h]
+el0el collected $1998.75 from pot
+*** SUMMARY ***
+Total pot $2000.00 | Rake $1.25
+Board [4d 9c 2c 6c 8s]
+Seat 1: el0el (button) (small blind) showed [5h 7d] and won ($1998.75)
+Seat 9: runningtilt (big blind) showed [4s 6h] and lost
+
+PokerStars Hand #1495651792:  Hold'em No Limit ($50.00/$100.00 USD) - 2022/12/23 14:22:30 ET
+Table 'WPN_7 Day No Rathole 50/100 NLH' 9-max Seat #9 is the button
+Seat 1: el0el ($1198.75 in chips)
+Seat 9: runningtilt ($1998.75 in chips)
+runningtilt: posts small blind $50.00
+el0el: posts big blind $100.00
+*** HOLE CARDS ***
+runningtilt: calls $50.00
+el0el: checks
+*** FLOP *** [4s 6s 8d]
+el0el: checks
+runningtilt: checks
+*** TURN *** [4s 6s 8d] [Qc]
+el0el: bets $150.00
+runningtilt: calls $150.00
+*** RIVER *** [4s 6s 8d Qc] [Jh]
+el0el: bets $948.75 and is all-in
+runningtilt: calls $948.75
+*** SHOW DOWN ***
+el0el: shows [6d Qs]
+runningtilt: shows [Qh 7d]
+el0el collected $2396.25 from pot
+*** SUMMARY ***
+Total pot $2397.50 | Rake $1.25
+Board [4s 6s 8d Qc Jh]
+Seat 1: el0el (big blind) showed [6d Qs] and won ($2396.25)
+Seat 9: runningtilt (button) (small blind) showed [Qh 7d] and lost
+
+PokerStars Hand #1495652237:  Hold'em No Limit ($50.00/$100.00 USD) - 2022/12/23 14:23:24 ET
+Table 'WPN_7 Day No Rathole 50/100 NLH' 9-max Seat #1 is the button
+Seat 1: el0el ($2396.25 in chips)
+Seat 9: runningtilt ($1000.00 in chips)
+el0el: posts small blind $50.00
+runningtilt: posts big blind $100.00
+*** HOLE CARDS ***
+el0el: raises $950.00 to $1050.00
+runningtilt: folds
+Uncalled bet ($950.00) returned to el0el
+el0el collected $200.00 from pot
+el0el: doesn't show hand
+*** SUMMARY ***
+Total pot $200.00 | Rake $0.00
+Seat 1: el0el (button) (small blind) collected ($200.00)
+Seat 9: runningtilt (big blind) folded before Flop
+
+PokerStars Hand #1495652311:  Hold'em No Limit ($50.00/$100.00 USD) - 2022/12/23 14:23:34 ET
+Table 'WPN_7 Day No Rathole 50/100 NLH' 9-max Seat #9 is the button
+Seat 1: el0el ($2496.25 in chips)
+Seat 9: runningtilt ($900.00 in chips)
+runningtilt: posts small blind $50.00
+el0el: posts big blind $100.00
+*** HOLE CARDS ***
+runningtilt: folds
+Uncalled bet ($50.00) returned to el0el
+el0el collected $100.00 from pot
+el0el: doesn't show hand
+*** SUMMARY ***
+Total pot $100.00 | Rake $0.00
+Seat 1: el0el (big blind) collected ($100.00)
+Seat 9: runningtilt (button) (small blind) folded before Flop
+
+PokerStars Hand #1495652395:  Hold'em No Limit ($50.00/$100.00 USD) - 2022/12/23 14:23:45 ET
+Table 'WPN_7 Day No Rathole 50/100 NLH' 9-max Seat #1 is the button
+Seat 1: el0el ($2546.25 in chips)
+Seat 9: runningtilt ($950.00 in chips)
+el0el: posts small blind $50.00
+runningtilt: posts big blind $100.00
+*** HOLE CARDS ***
+el0el: raises $1000.00 to $1100.00
+runningtilt: folds
+Uncalled bet ($1000.00) returned to el0el
+el0el collected $200.00 from pot
+el0el: doesn't show hand
+*** SUMMARY ***
+Total pot $200.00 | Rake $0.00
+Seat 1: el0el (button) (small blind) collected ($200.00)
+Seat 9: runningtilt (big blind) folded before Flop
+
+PokerStars Hand #1495652490:  Hold'em No Limit ($50.00/$100.00 USD) - 2022/12/23 14:23:57 ET
+Table 'WPN_7 Day No Rathole 50/100 NLH' 9-max Seat #9 is the button
+Seat 1: el0el ($2646.25 in chips)
+Seat 9: runningtilt ($900.00 in chips)
+runningtilt: posts small blind $50.00
+el0el: posts big blind $100.00
+*** HOLE CARDS ***
+runningtilt: raises $900.00 to $1000.00 and is all-in
+el0el: folds
+Uncalled bet ($900.00) returned to runningtilt
+runningtilt collected $200.00 from pot
+runningtilt: doesn't show hand
+*** SUMMARY ***
+Total pot $200.00 | Rake $0.00
+Seat 1: el0el (big blind) folded before Flop
+Seat 9: runningtilt (button) (small blind) collected ($200.00)
+
+PokerStars Hand #1495652612:  Hold'em No Limit ($50.00/$100.00 USD) - 2022/12/23 14:24:11 ET
+Table 'WPN_7 Day No Rathole 50/100 NLH' 9-max Seat #1 is the button
+Seat 1: el0el ($2546.25 in chips)
+Seat 9: runningtilt ($1100.00 in chips)
+el0el: posts small blind $50.00
+runningtilt: posts big blind $100.00
+*** HOLE CARDS ***
+el0el: raises $1050.00 to $1150.00
+runningtilt: folds
+Uncalled bet ($1050.00) returned to el0el
+el0el collected $200.00 from pot
+el0el: doesn't show hand
+*** SUMMARY ***
+Total pot $200.00 | Rake $0.00
+Seat 1: el0el (button) (small blind) collected ($200.00)
+Seat 9: runningtilt (big blind) folded before Flop
+
+PokerStars Hand #1495652699:  Hold'em No Limit ($50.00/$100.00 USD) - 2022/12/23 14:24:23 ET
+Table 'WPN_7 Day No Rathole 50/100 NLH' 9-max Seat #9 is the button
+Seat 1: el0el ($2646.25 in chips)
+Seat 9: runningtilt ($1000.00 in chips)
+runningtilt: posts small blind $50.00
+el0el: posts big blind $100.00
+*** HOLE CARDS ***
+runningtilt: folds
+Uncalled bet ($50.00) returned to el0el
+el0el collected $100.00 from pot
+el0el: doesn't show hand
+*** SUMMARY ***
+Total pot $100.00 | Rake $0.00
+Seat 1: el0el (big blind) collected ($100.00)
+Seat 9: runningtilt (button) (small blind) folded before Flop
+
+PokerStars Hand #1495651377:  Hold'em No Limit ($50.00/$100.00 USD) - 2022/12/23 14:21:41 ET
+Table 'WPN_7 Day No Rathole 50/100 NLH' 9-max Seat #9 is the button
+Seat 1: el0el ($150.00 in chips)
+Seat 9: runningtilt ($1000.00 in chips)
+runningtilt: posts small blind $50.00
+el0el: posts big blind $100.00
+*** HOLE CARDS ***
+runningtilt: folds
+Uncalled bet ($50.00) returned to el0el
+el0el collected $100.00 from pot
+el0el: doesn't show hand
+*** SUMMARY ***
+Total pot $100.00 | Rake $0.00
+Seat 1: el0el (big blind) collected ($100.00)
+Seat 9: runningtilt (button) (small blind) folded before Flop
+
+PokerStars Hand #1495651452:  Hold'em No Limit ($50.00/$100.00 USD) - 2022/12/23 14:21:49 ET
+Table 'WPN_7 Day No Rathole 50/100 NLH' 9-max Seat #1 is the button
+Seat 1: el0el ($2198.75 in chips)
+Seat 9: runningtilt ($950.00 in chips)
+el0el: posts small blind $50.00
+runningtilt: posts big blind $100.00
+*** HOLE CARDS ***
+el0el: raises $950.00 to $1050.00
+runningtilt: calls $900.00 and is all-in
+Uncalled bet ($50.00) returned to el0el
+*** FLOP *** [Kd 8s 2s]
+*** TURN *** [Kd 8s 2s] [3c]
+*** RIVER *** [Kd 8s 2s 3c] [As]
+*** SHOW DOWN ***
+runningtilt: shows [Ac 2c]
+el0el: shows [Jd 6h]
+runningtilt collected $1998.75 from pot
+*** SUMMARY ***
+Total pot $2000.00 | Rake $1.25
+Board [Kd 8s 2s 3c As]
+Seat 1: el0el (button) (small blind) showed [Jd 6h] and lost
+Seat 9: runningtilt (big blind) showed [Ac 2c] and won ($1998.75)
+
+PokerStars Hand #1495651640:  Hold'em No Limit ($50.00/$100.00 USD) - 2022/12/23 14:22:12 ET
+Table 'WPN_7 Day No Rathole 50/100 NLH' 9-max Seat #9 is the button
+Seat 1: el0el ($1198.75 in chips)
+Seat 9: runningtilt ($1998.75 in chips)
+runningtilt: posts small blind $50.00
+el0el: posts big blind $100.00
+*** HOLE CARDS ***
+runningtilt: folds
+Uncalled bet ($50.00) returned to el0el
+el0el collected $100.00 from pot
+el0el: doesn't show hand
+*** SUMMARY ***
+Total pot $100.00 | Rake $0.00
+Seat 1: el0el (big blind) collected ($100.00)
+Seat 9: runningtilt (button) (small blind) folded before Flop
+
+PokerStars Hand #1495651705:  Hold'em No Limit ($50.00/$100.00 USD) - 2022/12/23 14:22:21 ET
+Table 'WPN_7 Day No Rathole 50/100 NLH' 9-max Seat #1 is the button
+Seat 1: el0el ($1248.75 in chips)
+Seat 9: runningtilt ($1948.75 in chips)
+el0el: posts small blind $50.00
+runningtilt: posts big blind $100.00
+*** HOLE CARDS ***
+el0el: folds
+Uncalled bet ($50.00) returned to runningtilt
+runningtilt collected $100.00 from pot
+runningtilt: doesn't show hand
+*** SUMMARY ***
+Total pot $100.00 | Rake $0.00
+Seat 1: el0el (button) (small blind) folded before Flop
+Seat 9: runningtilt (big blind) collected ($100.00)
+
+PokerStars Hand #1495546887:  Hold'em No Limit ($50.00/$100.00 USD) - 2022/12/23 09:07:27 ET
+Table 'WPN_7 Day No Rathole 50/100 NLH' 9-max Seat #1 is the button
+Seat 1: ghahreman ($1050.00 in chips)
+Seat 2: Pr.Lupine ($2589.75 in chips)
+Seat 3: ATARAX1A ($2595.24 in chips)
+ghahreman: posts small blind $50.00
+Pr.Lupine: posts big blind $100.00
+*** HOLE CARDS ***
+ghahreman: raises $150.00 to $250.00
+Pr.Lupine: raises $2339.75 to $2589.75 and is all-in
+ghahreman: calls $800.00 and is all-in
+Uncalled bet ($1539.75) returned to Pr.Lupine
+*** FLOP *** [8h 5h Ac]
+*** TURN *** [8h 5h Ac] [8s]
+*** RIVER *** [8h 5h Ac 8s] [4d]
+*** SHOW DOWN ***
+ghahreman: shows [Qd Qs]
+Pr.Lupine: shows [6h 6c]
+ghahreman collected $2098.75 from pot
+*** SUMMARY ***
+Total pot $2100.00 | Rake $1.25
+Board [8h 5h Ac 8s 4d]
+Seat 1: ghahreman (button) (small blind) showed [Qd Qs] and won ($2098.75)
+Seat 2: Pr.Lupine (big blind) showed [6h 6c] and lost
+
+PokerStars Hand #1495547127:  Hold'em No Limit ($50.00/$100.00 USD) - 2022/12/23 09:08:00 ET
+Table 'WPN_7 Day No Rathole 50/100 NLH' 9-max Seat #1 is the button
+Seat 1: ghahreman ($2098.75 in chips)
+Seat 2: Pr.Lupine ($1539.75 in chips)
+Seat 3: ATARAX1A ($2595.24 in chips)
+Seat 4: Amancio_017 ($4743.60 in chips)
+Seat 5: acrbotv10a ($2941.74 in chips)
+Pr.Lupine: posts small blind $50.00
+ATARAX1A: posts big blind $100.00
+*** HOLE CARDS ***
+ghahreman: folds
+Pr.Lupine: raises $120.00 to $220.00
+ATARAX1A: raises $2375.24 to $2595.24 and is all-in
+Pr.Lupine: calls $1319.75 and is all-in
+Uncalled bet ($1055.49) returned to ATARAX1A
+*** FIRST FLOP *** [7h 9h 3c]
+*** FIRST TURN *** [7h 9h 3c] [8d]
+*** FIRST RIVER *** [7h 9h 3c 8d] [3h]
+*** SECOND FLOP *** [Ks 9d 5c]
+*** SECOND TURN *** [Ks 9d 5c] [4c]
+*** SECOND RIVER *** [Ks 9d 5c 4c] [5d]
+*** FIRST SHOW DOWN ***
+Pr.Lupine: shows [Kc Kd]
+ATARAX1A: shows [2d 2h]
+Pr.Lupine collected $1538.88 from pot
+*** SECOND SHOW DOWN ***
+Pr.Lupine: shows [Kc Kd]
+ATARAX1A: shows [2d 2h]
+Pr.Lupine collected $1538.87 from pot
+*** SUMMARY ***
+Total pot $3079.50 | Rake $1.75
+Hand was run twice
+FIRST Board [7h 9h 3c 8d 3h]
+SECOND Board [Ks 9d 5c 4c 5d]
+Seat 1: ghahreman (button) folded before Flop (didn't bet)
+Seat 2: Pr.Lupine (small blind) showed [Kc Kd] and won ($1538.88), and won ($1538.87)
+Seat 3: ATARAX1A (big blind) showed [2d 2h] and lost, and lost
+Seat 4: Amancio_017 and lost, and lost
+Seat 5: acrbotv10a and lost, and lost
+
+PokerStars Hand #1495547512:  Hold'em No Limit ($50.00/$100.00 USD) - 2022/12/23 09:08:50 ET
+Table 'WPN_7 Day No Rathole 50/100 NLH' 9-max Seat #2 is the button
+Seat 1: ghahreman ($2098.75 in chips)
+Seat 2: Pr.Lupine ($3077.75 in chips)
+Seat 3: ATARAX1A ($1055.49 in chips)
+Seat 4: Amancio_017 ($4743.60 in chips)
+Seat 5: acrbotv10a ($2941.74 in chips)
+ATARAX1A: posts small blind $50.00
+Amancio_017: posts big blind $100.00
+*** HOLE CARDS ***
+ghahreman: folds
+Pr.Lupine: folds
+ATARAX1A: raises $955.49 to $1055.49 and is all-in
+Amancio_017: folds
+Uncalled bet ($955.49) returned to ATARAX1A
+ATARAX1A collected $200.00 from pot
+ATARAX1A: doesn't show hand
+*** SUMMARY ***
+Total pot $200.00 | Rake $0.00
+Seat 1: ghahreman folded before Flop (didn't bet)
+Seat 2: Pr.Lupine (button) folded before Flop (didn't bet)
+Seat 3: ATARAX1A (small blind) collected ($200.00)
+Seat 4: Amancio_017 (big blind) folded before Flop
+
+PokerStars Hand #1495547757:  Hold'em No Limit ($50.00/$100.00 USD) - 2022/12/23 09:09:22 ET
+Table 'WPN_7 Day No Rathole 50/100 NLH' 9-max Seat #3 is the button
+Seat 1: ghahreman ($2098.75 in chips)
+Seat 2: Pr.Lupine ($3077.75 in chips)
+Seat 3: ATARAX1A ($1155.49 in chips)
+Seat 4: Amancio_017 ($4643.60 in chips)
+Seat 5: acrbotv10a ($2941.74 in chips)
+Amancio_017: posts small blind $50.00
+acrbotv10a: posts big blind $100.00
+*** HOLE CARDS ***
+ghahreman: raises $150.00 to $250.00
+Pr.Lupine: folds
+ATARAX1A: folds
+Amancio_017: folds
+acrbotv10a: raises $950.00 to $1200.00
+ghahreman: folds
+Uncalled bet ($950.00) returned to acrbotv10a
+acrbotv10a collected $550.00 from pot
+acrbotv10a: doesn't show hand
+*** SUMMARY ***
+Total pot $550.00 | Rake $0.00
+Seat 1: ghahreman folded before Flop
+Seat 2: Pr.Lupine folded before Flop (didn't bet)
+Seat 3: ATARAX1A (button) folded before Flop (didn't bet)
+Seat 4: Amancio_017 (small blind) folded before Flop
+Seat 5: acrbotv10a (big blind) collected ($550.00)
+
+PokerStars Hand #1495548237:  Hold'em No Limit ($50.00/$100.00 USD) - 2022/12/23 09:10:27 ET
+Table 'WPN_7 Day No Rathole 50/100 NLH' 9-max Seat #4 is the button
+Seat 1: ghahreman ($1848.75 in chips)
+Seat 2: Pr.Lupine ($3077.75 in chips)
+Seat 3: ATARAX1A ($1155.49 in chips)
+Seat 4: Amancio_017 ($4593.60 in chips)
+Seat 5: acrbotv10a ($3241.74 in chips)
+Seat 6: FlyingStyle ($5999.75 in chips)
+acrbotv10a: posts small blind $50.00
+FlyingStyle: posts big blind $100.00
+*** HOLE CARDS ***
+ghahreman: calls $100.00
+Pr.Lupine: folds
+ATARAX1A: folds
+Amancio_017: folds
+acrbotv10a: folds
+FlyingStyle: checks
+*** FLOP *** [2s 8s As]
+FlyingStyle: checks
+ghahreman: bets $100.00
+FlyingStyle: folds
+Uncalled bet ($100.00) returned to ghahreman
+ghahreman collected $247.00 from pot
+ghahreman: doesn't show hand
+*** SUMMARY ***
+Total pot $250.00 | Rake $3.00
+Board [2s 8s As]
+Seat 1: ghahreman collected ($247.00)
+Seat 2: Pr.Lupine folded before Flop (didn't bet)
+Seat 3: ATARAX1A folded before Flop (didn't bet)
+Seat 4: Amancio_017 (button) folded before Flop (didn't bet)
+Seat 5: acrbotv10a (small blind) folded before Flop
+Seat 6: FlyingStyle (big blind) folded on the Flop
+
+PokerStars Hand #1495548523:  Hold'em No Limit ($50.00/$100.00 USD) - 2022/12/23 09:11:06 ET
+Table 'WPN_7 Day No Rathole 50/100 NLH' 9-max Seat #5 is the button
+Seat 1: ghahreman ($1995.75 in chips)
+Seat 2: Pr.Lupine ($3077.75 in chips)
+Seat 3: ATARAX1A ($1155.49 in chips)
+Seat 4: Amancio_017 ($4593.60 in chips)
+Seat 5: acrbotv10a ($3191.74 in chips)
+Seat 6: FlyingStyle ($5899.75 in chips)
+FlyingStyle: posts small blind $50.00
+ghahreman: posts big blind $100.00
+*** HOLE CARDS ***
+Pr.Lupine: folds
+ATARAX1A: folds
+Amancio_017: folds
+acrbotv10a: raises $100.00 to $200.00
+FlyingStyle: calls $150.00
+ghahreman: calls $100.00
+*** FLOP *** [Jh 2c Tc]
+FlyingStyle: checks
+ghahreman: bets $500.00
+acrbotv10a: raises $2491.74 to $2991.74 and is all-in
+FlyingStyle: folds
+ghahreman: calls $1295.75 and is all-in
+Uncalled bet ($1195.99) returned to acrbotv10a
+*** FIRST TURN *** [Jh 2c Tc] [4c]
+*** FIRST RIVER *** [Jh 2c Tc 4c] [Jc]
+*** SECOND TURN *** [Jh 2c Tc] [Qd]
+*** SECOND RIVER *** [Jh 2c Tc Qd] [Ks]
+*** FIRST SHOW DOWN ***
+acrbotv10a: shows [Qh Qc]
+ghahreman: shows [7c 6c]
+acrbotv10a collected $2094.25 from pot
+*** SECOND SHOW DOWN ***
+acrbotv10a: shows [Qh Qc]
+ghahreman: shows [7c 6c]
+acrbotv10a collected $2094.25 from pot
+*** SUMMARY ***
+Total pot $4191.50 | Rake $3.00
+Hand was run twice
+FIRST Board [Jh 2c Tc 4c Jc]
+SECOND Board [Jh 2c Tc Qd Ks]
+Seat 1: ghahreman (big blind) showed [7c 6c] and lost, and lost
+Seat 2: Pr.Lupine folded before Flop (didn't bet)
+Seat 3: ATARAX1A folded before Flop (didn't bet)
+Seat 4: Amancio_017 folded before Flop (didn't bet)
+Seat 5: acrbotv10a (button) showed [Qh Qc] and won ($2094.25), and won ($2094.25)
+Seat 6: FlyingStyle (small blind) folded on the Flop
+
+PokerStars Hand #1495549087:  Hold'em No Limit ($50.00/$100.00 USD) - 2022/12/23 09:12:19 ET
+Table 'WPN_7 Day No Rathole 50/100 NLH' 9-max Seat #6 is the button
+Seat 2: Pr.Lupine ($3077.75 in chips)
+Seat 3: ATARAX1A ($1155.49 in chips)
+Seat 4: Amancio_017 ($4593.60 in chips)
+Seat 5: acrbotv10a ($5384.49 in chips)
+Seat 6: FlyingStyle ($5699.75 in chips)
+Pr.Lupine: posts big blind $100.00
+*** HOLE CARDS ***
+ATARAX1A: folds
+Amancio_017: folds
+acrbotv10a: folds
+FlyingStyle: raises $100.00 to $200.00
+Pr.Lupine: calls $100.00
+*** FLOP *** [3s Ks Jh]
+Pr.Lupine: checks
+FlyingStyle: bets $103.00
+Pr.Lupine: raises $153.00 to $256.00
+FlyingStyle: folds
+Uncalled bet ($153.00) returned to Pr.Lupine
+Pr.Lupine collected $603.00 from pot
+Pr.Lupine: doesn't show hand
+*** SUMMARY ***
+Total pot $606.00 | Rake $3.00
+Board [3s Ks Jh]
+Seat 2: Pr.Lupine (big blind) collected ($603.00)
+Seat 3: ATARAX1A folded before Flop (didn't bet)
+Seat 4: Amancio_017 folded before Flop (didn't bet)
+Seat 5: acrbotv10a folded before Flop (didn't bet)
+Seat 6: FlyingStyle (button) folded on the Flop
+
+PokerStars Hand #1495549457:  Hold'em No Limit ($50.00/$100.00 USD) - 2022/12/23 09:13:06 ET
+Table 'WPN_7 Day No Rathole 50/100 NLH' 9-max Seat #1 is the button
+Seat 1: ghahreman ($1000.00 in chips)
+Seat 2: Pr.Lupine ($3377.75 in chips)
+Seat 3: ATARAX1A ($1155.49 in chips)
+Seat 4: Amancio_017 ($4593.60 in chips)
+Seat 5: acrbotv10a ($5384.49 in chips)
+Seat 6: FlyingStyle ($5396.75 in chips)
+Pr.Lupine: posts small blind $50.00
+ATARAX1A: posts big blind $100.00
+*** HOLE CARDS ***
+Amancio_017: raises $100.00 to $200.00
+acrbotv10a: folds
+FlyingStyle: folds
+Pr.Lupine: folds
+ATARAX1A: folds
+Uncalled bet ($100.00) returned to Amancio_017
+Amancio_017 collected $250.00 from pot
+Amancio_017: doesn't show hand
+*** SUMMARY ***
+Total pot $250.00 | Rake $0.00
+Seat 2: Pr.Lupine (small blind) folded before Flop
+Seat 3: ATARAX1A (big blind) folded before Flop
+Seat 4: Amancio_017 collected ($250.00)
+Seat 5: acrbotv10a folded before Flop (didn't bet)
+Seat 6: FlyingStyle folded before Flop (didn't bet)
+
+PokerStars Hand #1495549598:  Hold'em No Limit ($50.00/$100.00 USD) - 2022/12/23 09:13:24 ET
+Table 'WPN_7 Day No Rathole 50/100 NLH' 9-max Seat #2 is the button
+Seat 1: ghahreman ($1000.00 in chips)
+Seat 2: Pr.Lupine ($3327.75 in chips)
+Seat 3: ATARAX1A ($1055.49 in chips)
+Seat 4: Amancio_017 ($4743.60 in chips)
+Seat 5: acrbotv10a ($5384.49 in chips)
+Seat 6: FlyingStyle ($5396.75 in chips)
+ATARAX1A: posts small blind $50.00
+Amancio_017: posts big blind $100.00
+*** HOLE CARDS ***
+acrbotv10a: folds
+FlyingStyle: raises $100.00 to $200.00
+Pr.Lupine: folds
+ATARAX1A: folds
+Amancio_017: calls $100.00
+*** FLOP *** [Ad 2h Ks]
+Amancio_017: checks
+FlyingStyle: checks
+*** TURN *** [Ad 2h Ks] [Kd]
+Amancio_017: checks
+FlyingStyle: bets $144.00
+Amancio_017: calls $144.00
+*** RIVER *** [Ad 2h Ks Kd] [3h]
+Amancio_017: checks
+FlyingStyle: checks
+*** SHOW DOWN ***
+Amancio_017: shows [Kc 6c]
+FlyingStyle: mucks hand
+Amancio_017 collected $735.00 from pot
+*** SUMMARY ***
+Total pot $738.00 | Rake $3.00
+Board [Ad 2h Ks Kd 3h]
+Seat 2: Pr.Lupine (button) folded before Flop (didn't bet)
+Seat 3: ATARAX1A (small blind) folded before Flop
+Seat 4: Amancio_017 (big blind) showed [Kc 6c] and won ($735.00)
+Seat 5: acrbotv10a folded before Flop (didn't bet)
+Seat 6: FlyingStyle mucked
+
+PokerStars Hand #1495549959:  Hold'em No Limit ($50.00/$100.00 USD) - 2022/12/23 09:14:13 ET
+Table 'WPN_7 Day No Rathole 50/100 NLH' 9-max Seat #3 is the button
+Seat 1: ghahreman ($1000.00 in chips)
+Seat 2: Pr.Lupine ($3327.75 in chips)
+Seat 3: ATARAX1A ($1005.49 in chips)
+Seat 4: Amancio_017 ($5134.60 in chips)
+Seat 5: acrbotv10a ($5384.49 in chips)
+Seat 6: FlyingStyle ($5052.75 in chips)
+Seat 7: KingThang ($3734.50 in chips)
+Seat 8: Stefan11222 ($1000.00 in chips)
+Amancio_017: posts small blind $50.00
+acrbotv10a: posts big blind $100.00
+*** HOLE CARDS ***
+FlyingStyle: folds
+Pr.Lupine: folds
+ATARAX1A: raises $905.49 to $1005.49 and is all-in
+Amancio_017: calls $955.49
+acrbotv10a: folds
+*** FIRST FLOP *** [9h 7s Tc]
+*** FIRST TURN *** [9h 7s Tc] [3s]
+*** FIRST RIVER *** [9h 7s Tc 3s] [Ts]
+*** SECOND FLOP *** [Kd Jh 2c]
+*** SECOND TURN *** [Kd Jh 2c] [7c]
+*** SECOND RIVER *** [Kd Jh 2c 7c] [7d]
+*** FIRST SHOW DOWN ***
+ATARAX1A: shows [Td Ac]
+Amancio_017: shows [Ah As]
+ATARAX1A collected $1053.99 from pot
+*** SECOND SHOW DOWN ***
+ATARAX1A: shows [Td Ac]
+Amancio_017: shows [Ah As]
+Amancio_017 collected $1053.99 from pot
+*** SUMMARY ***
+Total pot $2110.98 | Rake $3.00
+Hand was run twice
+FIRST Board [9h 7s Tc 3s Ts]
+SECOND Board [Kd Jh 2c 7c 7d]
+Seat 1: ghahreman and lost, and lost
+Seat 2: Pr.Lupine folded before Flop (didn't bet)
+Seat 3: ATARAX1A (button) showed [Td Ac] and won ($1053.99), and lost
+Seat 4: Amancio_017 (small blind) showed [Ah As] and lost, and won ($1053.99)
+Seat 5: acrbotv10a (big blind) folded before Flop
+Seat 6: FlyingStyle folded before Flop (didn't bet)
+Seat 7: KingThang and lost, and lost
+Seat 8: Stefan11222 and lost, and lost
+
+PokerStars Hand #1495550279:  Hold'em No Limit ($50.00/$100.00 USD) - 2022/12/23 09:14:55 ET
+Table 'WPN_7 Day No Rathole 50/100 NLH' 9-max Seat #4 is the button
+Seat 1: ghahreman ($1000.00 in chips)
+Seat 2: Pr.Lupine ($3327.75 in chips)
+Seat 3: ATARAX1A ($1053.99 in chips)
+Seat 4: Amancio_017 ($5183.10 in chips)
+Seat 5: acrbotv10a ($5284.49 in chips)
+Seat 6: FlyingStyle ($5052.75 in chips)
+Seat 7: KingThang ($3734.50 in chips)
+Seat 8: Stefan11222 ($1000.00 in chips)
+acrbotv10a: posts small blind $50.00
+FlyingStyle: posts big blind $100.00
+*** HOLE CARDS ***
+Pr.Lupine: folds
+ATARAX1A: folds
+Amancio_017: folds
+acrbotv10a: raises $200.00 to $300.00
+FlyingStyle: raises $500.00 to $800.00
+acrbotv10a: folds
+Uncalled bet ($500.00) returned to FlyingStyle
+FlyingStyle collected $600.00 from pot
+FlyingStyle: doesn't show hand
+*** SUMMARY ***
+Total pot $600.00 | Rake $0.00
+Seat 2: Pr.Lupine folded before Flop (didn't bet)
+Seat 3: ATARAX1A folded before Flop (didn't bet)
+Seat 4: Amancio_017 (button) folded before Flop (didn't bet)
+Seat 5: acrbotv10a (small blind) folded before Flop
+Seat 6: FlyingStyle (big blind) collected ($600.00)
+
+PokerStars Hand #1495550641:  Hold'em No Limit ($50.00/$100.00 USD) - 2022/12/23 09:15:40 ET
+Table 'WPN_7 Day No Rathole 50/100 NLH' 9-max Seat #5 is the button
+Seat 2: Pr.Lupine ($3327.75 in chips)
+Seat 3: ATARAX1A ($1053.99 in chips)
+Seat 4: Amancio_017 ($5183.10 in chips)
+Seat 5: acrbotv10a ($4984.49 in chips)
+Seat 6: FlyingStyle ($5352.75 in chips)
+Seat 7: KingThang ($3734.50 in chips)
+Seat 8: Stefan11222 ($1000.00 in chips)
+FlyingStyle: posts small blind $50.00
+KingThang: posts big blind $100.00
+*** HOLE CARDS ***
+Pr.Lupine: folds
+ATARAX1A: folds
+Amancio_017: folds
+acrbotv10a: raises $100.00 to $200.00
+FlyingStyle: calls $150.00
+KingThang: calls $100.00
+*** FLOP *** [4h 9s 5c]
+FlyingStyle: checks
+KingThang: checks
+acrbotv10a: checks
+*** TURN *** [4h 9s 5c] [3c]
+FlyingStyle: checks
+KingThang: checks
+acrbotv10a: checks
+*** RIVER *** [4h 9s 5c 3c] [Js]
+FlyingStyle: bets $852.00
+KingThang: folds
+acrbotv10a: folds
+Uncalled bet ($852.00) returned to FlyingStyle
+FlyingStyle collected $597.00 from pot
+FlyingStyle: doesn't show hand
+*** SUMMARY ***
+Total pot $600.00 | Rake $3.00
+Board [4h 9s 5c 3c Js]
+Seat 2: Pr.Lupine folded before Flop (didn't bet)
+Seat 3: ATARAX1A folded before Flop (didn't bet)
+Seat 4: Amancio_017 folded before Flop (didn't bet)
+Seat 5: acrbotv10a (button) folded on the River
+Seat 6: FlyingStyle (small blind) collected ($597.00)
+Seat 7: KingThang (big blind) folded on the River
+
+PokerStars Hand #1495551200:  Hold'em No Limit ($50.00/$100.00 USD) - 2022/12/23 09:17:01 ET
+Table 'WPN_7 Day No Rathole 50/100 NLH' 9-max Seat #6 is the button
+Seat 2: Pr.Lupine ($3327.75 in chips)
+Seat 3: ATARAX1A ($1053.99 in chips)
+Seat 4: Amancio_017 ($5183.10 in chips)
+Seat 5: acrbotv10a ($4784.49 in chips)
+Seat 6: FlyingStyle ($5749.75 in chips)
+Seat 7: KingThang ($3534.50 in chips)
+Seat 8: Stefan11222 ($1000.00 in chips)
+KingThang: posts small blind $50.00
+Stefan11222: posts big blind $100.00
+*** HOLE CARDS ***
+Pr.Lupine: folds
+ATARAX1A: raises $953.99 to $1053.99 and is all-in
+Amancio_017: folds
+acrbotv10a: folds
+FlyingStyle: folds
+KingThang: folds
+Stefan11222: folds
+Uncalled bet ($953.99) returned to ATARAX1A
+ATARAX1A collected $250.00 from pot
+ATARAX1A: doesn't show hand
+*** SUMMARY ***
+Total pot $250.00 | Rake $0.00
+Seat 2: Pr.Lupine folded before Flop (didn't bet)
+Seat 3: ATARAX1A collected ($250.00)
+Seat 4: Amancio_017 folded before Flop (didn't bet)
+Seat 5: acrbotv10a folded before Flop (didn't bet)
+Seat 6: FlyingStyle (button) folded before Flop (didn't bet)
+Seat 7: KingThang (small blind) folded before Flop
+Seat 8: Stefan11222 (big blind) folded before Flop
+
+PokerStars Hand #1495551393:  Hold'em No Limit ($50.00/$100.00 USD) - 2022/12/23 09:17:29 ET
+Table 'WPN_7 Day No Rathole 50/100 NLH' 9-max Seat #7 is the button
+Seat 2: Pr.Lupine ($3327.75 in chips)
+Seat 3: ATARAX1A ($1203.99 in chips)
+Seat 4: Amancio_017 ($5183.10 in chips)
+Seat 5: acrbotv10a ($4784.49 in chips)
+Seat 6: FlyingStyle ($5749.75 in chips)
+Seat 7: KingThang ($3484.50 in chips)
+Seat 8: Stefan11222 ($900.00 in chips)
+Stefan11222: posts small blind $50.00
+Pr.Lupine: posts big blind $100.00
+*** HOLE CARDS ***
+ATARAX1A: raises $100.00 to $200.00
+Amancio_017: folds
+acrbotv10a: folds
+FlyingStyle: folds
+KingThang: folds
+Stefan11222: folds
+Pr.Lupine: calls $100.00
+*** FLOP *** [Kc 3s 3c]
+Pr.Lupine: checks
+ATARAX1A: checks
+*** TURN *** [Kc 3s 3c] [Ac]
+Pr.Lupine: checks
+ATARAX1A: checks
+*** RIVER *** [Kc 3s 3c Ac] [8d]
+Pr.Lupine: bets $100.00
+ATARAX1A: calls $100.00
+*** SHOW DOWN ***
+ATARAX1A: shows [Qc Qd]
+Pr.Lupine: mucks hand
+ATARAX1A collected $647.00 from pot
+*** SUMMARY ***
+Total pot $650.00 | Rake $3.00
+Board [Kc 3s 3c Ac 8d]
+Seat 2: Pr.Lupine (big blind) mucked
+Seat 3: ATARAX1A showed [Qc Qd] and won ($647.00)
+Seat 4: Amancio_017 folded before Flop (didn't bet)
+Seat 5: acrbotv10a folded before Flop (didn't bet)
+Seat 6: FlyingStyle folded before Flop (didn't bet)
+Seat 7: KingThang (button) folded before Flop (didn't bet)
+Seat 8: Stefan11222 (small blind) folded before Flop
+
+PokerStars Hand #1495552012:  Hold'em No Limit ($50.00/$100.00 USD) - 2022/12/23 09:18:53 ET
+Table 'WPN_7 Day No Rathole 50/100 NLH' 9-max Seat #8 is the button
+Seat 2: Pr.Lupine ($3027.75 in chips)
+Seat 3: ATARAX1A ($1550.99 in chips)
+Seat 4: Amancio_017 ($5183.10 in chips)
+Seat 5: acrbotv10a ($4784.49 in chips)
+Seat 6: FlyingStyle ($5749.75 in chips)
+Seat 7: KingThang ($3484.50 in chips)
+Seat 8: Stefan11222 ($1000.00 in chips)
+Pr.Lupine: posts small blind $50.00
+ATARAX1A: posts big blind $100.00
+*** HOLE CARDS ***
+Amancio_017: raises $100.00 to $200.00
+acrbotv10a: folds
+FlyingStyle: folds
+KingThang: folds
+Stefan11222: folds
+Pr.Lupine: folds
+ATARAX1A: folds
+Uncalled bet ($100.00) returned to Amancio_017
+Amancio_017 collected $250.00 from pot
+Amancio_017: doesn't show hand
+*** SUMMARY ***
+Total pot $250.00 | Rake $0.00
+Seat 2: Pr.Lupine (small blind) folded before Flop
+Seat 3: ATARAX1A (big blind) folded before Flop
+Seat 4: Amancio_017 collected ($250.00)
+Seat 5: acrbotv10a folded before Flop (didn't bet)
+Seat 6: FlyingStyle folded before Flop (didn't bet)
+Seat 7: KingThang folded before Flop (didn't bet)
+Seat 8: Stefan11222 (button) folded before Flop (didn't bet)
+
+PokerStars Hand #1495552225:  Hold'em No Limit ($50.00/$100.00 USD) - 2022/12/23 09:19:25 ET
+Table 'WPN_7 Day No Rathole 50/100 NLH' 9-max Seat #2 is the button
+Seat 2: Pr.Lupine ($2977.75 in chips)
+Seat 3: ATARAX1A ($1450.99 in chips)
+Seat 4: Amancio_017 ($5333.10 in chips)
+Seat 5: acrbotv10a ($4784.49 in chips)
+Seat 6: FlyingStyle ($5749.75 in chips)
+Seat 7: KingThang ($3484.50 in chips)
+Seat 8: Stefan11222 ($1000.00 in chips)
+ATARAX1A: posts small blind $50.00
+Amancio_017: posts big blind $100.00
+*** HOLE CARDS ***
+acrbotv10a: folds
+FlyingStyle: folds
+KingThang: raises $100.00 to $200.00
+Stefan11222: folds
+Pr.Lupine: folds
+ATARAX1A: folds
+Amancio_017: calls $100.00
+*** FLOP *** [9d 5c Qd]
+Amancio_017: checks
+KingThang: bets $148.50
+Amancio_017: calls $148.50
+*** TURN *** [9d 5c Qd] [3h]
+Amancio_017: checks
+KingThang: bets $543.02
+Amancio_017: folds
+Uncalled bet ($543.02) returned to KingThang
+KingThang collected $744.00 from pot
+KingThang: doesn't show hand
+*** SUMMARY ***
+Total pot $747.00 | Rake $3.00
+Board [9d 5c Qd 3h]
+Seat 2: Pr.Lupine (button) folded before Flop (didn't bet)
+Seat 3: ATARAX1A (small blind) folded before Flop
+Seat 4: Amancio_017 (big blind) folded on the Turn
+Seat 5: acrbotv10a folded before Flop (didn't bet)
+Seat 6: FlyingStyle folded before Flop (didn't bet)
+Seat 7: KingThang collected ($744.00)
+Seat 8: Stefan11222 folded before Flop (didn't bet)
+
+PokerStars Hand #1495552681:  Hold'em No Limit ($50.00/$100.00 USD) - 2022/12/23 09:20:31 ET
+Table 'WPN_7 Day No Rathole 50/100 NLH' 9-max Seat #3 is the button
+Seat 2: Pr.Lupine ($2977.75 in chips)
+Seat 3: ATARAX1A ($1400.99 in chips)
+Seat 4: Amancio_017 ($4984.60 in chips)
+Seat 5: acrbotv10a ($4784.49 in chips)
+Seat 6: FlyingStyle ($5749.75 in chips)
+Seat 7: KingThang ($3880.00 in chips)
+Seat 8: Stefan11222 ($1000.00 in chips)
+Amancio_017: posts small blind $50.00
+ATARAX1A: posts big blind $100.00
+*** HOLE CARDS ***
+Amancio_017: calls $50.00
+ATARAX1A: raises $1300.99 to $1400.99 and is all-in
+Amancio_017: folds
+Uncalled bet ($1300.99) returned to ATARAX1A
+ATARAX1A collected $200.00 from pot
+ATARAX1A: doesn't show hand
+*** SUMMARY ***
+Total pot $200.00 | Rake $0.00
+Seat 3: ATARAX1A (button) (big blind) collected ($200.00)
+Seat 4: Amancio_017 (small blind) folded before Flop
+
+PokerStars Hand #1494812531:  Hold'em No Limit ($50.00/$100.00 USD) - 2022/12/22 21:12:59 ET
+Table 'WPN_7 Day No Rathole 50/100 NLH' 9-max Seat #9 is the button
+Seat 4: OGORRA ($10921.02 in chips)
+Seat 9: Billiam26 ($1000.00 in chips)
+Billiam26: posts small blind $50.00
+OGORRA: posts big blind $100.00
+*** HOLE CARDS ***
+Billiam26: calls $50.00
+OGORRA: raises $7032.68 to $7132.68
+Billiam26: folds
+Uncalled bet ($7032.68) returned to OGORRA
+OGORRA collected $200.00 from pot
+OGORRA: doesn't show hand
+*** SUMMARY ***
+Total pot $200.00 | Rake $0.00
+Seat 4: OGORRA (big blind) collected ($200.00)
+Seat 9: Billiam26 (button) (small blind) folded before Flop
+
+PokerStars Hand #1494812967:  Hold'em No Limit ($50.00/$100.00 USD) - 2022/12/22 21:13:21 ET
+Table 'WPN_7 Day No Rathole 50/100 NLH' 9-max Seat #4 is the button
+Seat 4: OGORRA ($13019.77 in chips)
+Seat 9: Billiam26 ($900.00 in chips)
+OGORRA: posts small blind $50.00
+Billiam26: posts big blind $100.00
+*** HOLE CARDS ***
+OGORRA: raises $7675.58 to $7775.58
+Billiam26: folds
+Uncalled bet ($7675.58) returned to OGORRA
+OGORRA collected $200.00 from pot
+OGORRA: doesn't show hand
+*** SUMMARY ***
+Total pot $200.00 | Rake $0.00
+Seat 4: OGORRA (button) (small blind) collected ($200.00)
+Seat 9: Billiam26 (big blind) folded before Flop
+
+PokerStars Hand #1494813185:  Hold'em No Limit ($50.00/$100.00 USD) - 2022/12/22 21:13:32 ET
+Table 'WPN_7 Day No Rathole 50/100 NLH' 9-max Seat #9 is the button
+Seat 4: OGORRA ($13119.77 in chips)
+Seat 5: el0el ($1250.00 in chips)
+Seat 9: Billiam26 ($800.00 in chips)
+Billiam26: posts small blind $50.00
+OGORRA: posts big blind $100.00
+*** HOLE CARDS ***
+Billiam26: raises $700.00 to $800.00 and is all-in
+OGORRA: calls $700.00
+*** FLOP *** [5h 5s Jh]
+*** TURN *** [5h 5s Jh] [Kc]
+*** RIVER *** [5h 5s Jh Kc] [9c]
+*** SHOW DOWN ***
+OGORRA: shows [Kd 5d]
+Billiam26: shows [7c As]
+OGORRA collected $1598.75 from pot
+*** SUMMARY ***
+Total pot $1600.00 | Rake $1.25
+Board [5h 5s Jh Kc 9c]
+Seat 4: OGORRA (big blind) showed [Kd 5d] and won ($1598.75)
+Seat 9: Billiam26 (button) (small blind) showed [7c As] and lost
+
+PokerStars Hand #1494813659:  Hold'em No Limit ($50.00/$100.00 USD) - 2022/12/22 21:13:55 ET
+Table 'WPN_7 Day No Rathole 50/100 NLH' 9-max Seat #9 is the button
+Seat 4: OGORRA ($13918.52 in chips)
+Seat 5: el0el ($1250.00 in chips)
+Seat 9: Billiam26 ($1000.00 in chips)
+OGORRA: posts small blind $50.00
+el0el: posts big blind $100.00
+*** HOLE CARDS ***
+Billiam26: folds
+OGORRA: folds
+Uncalled bet ($50.00) returned to el0el
+el0el collected $100.00 from pot
+el0el: doesn't show hand
+*** SUMMARY ***
+Total pot $100.00 | Rake $0.00
+Seat 4: OGORRA (small blind) folded before Flop
+Seat 5: el0el (big blind) collected ($100.00)
+Seat 9: Billiam26 (button) folded before Flop (didn't bet)
+
+PokerStars Hand #1494813810:  Hold'em No Limit ($50.00/$100.00 USD) - 2022/12/22 21:14:03 ET
+Table 'WPN_7 Day No Rathole 50/100 NLH' 9-max Seat #4 is the button
+Seat 4: OGORRA ($13868.52 in chips)
+Seat 5: el0el ($1300.00 in chips)
+Seat 9: Billiam26 ($1000.00 in chips)
+el0el: posts small blind $50.00
+Billiam26: posts big blind $100.00
+*** HOLE CARDS ***
+OGORRA: folds
+el0el: folds
+Uncalled bet ($50.00) returned to Billiam26
+Billiam26 collected $100.00 from pot
+Billiam26: doesn't show hand
+*** SUMMARY ***
+Total pot $100.00 | Rake $0.00
+Seat 4: OGORRA (button) folded before Flop (didn't bet)
+Seat 5: el0el (small blind) folded before Flop
+Seat 9: Billiam26 (big blind) collected ($100.00)
+
+PokerStars Hand #1494814059:  Hold'em No Limit ($50.00/$100.00 USD) - 2022/12/22 21:14:14 ET
+Table 'WPN_7 Day No Rathole 50/100 NLH' 9-max Seat #5 is the button
+Seat 4: OGORRA ($13868.52 in chips)
+Seat 5: el0el ($1250.00 in chips)
+Seat 9: Billiam26 ($1050.00 in chips)
+Billiam26: posts small blind $50.00
+OGORRA: posts big blind $100.00
+*** HOLE CARDS ***
+el0el: folds
+Billiam26: folds
+Uncalled bet ($50.00) returned to OGORRA
+OGORRA collected $100.00 from pot
+OGORRA: doesn't show hand
+*** SUMMARY ***
+Total pot $100.00 | Rake $0.00
+Seat 4: OGORRA (big blind) collected ($100.00)
+Seat 5: el0el (button) folded before Flop (didn't bet)
+Seat 9: Billiam26 (small blind) folded before Flop
+
+PokerStars Hand #1494814305:  Hold'em No Limit ($50.00/$100.00 USD) - 2022/12/22 21:14:26 ET
+Table 'WPN_7 Day No Rathole 50/100 NLH' 9-max Seat #9 is the button
+Seat 4: OGORRA ($13918.52 in chips)
+Seat 5: el0el ($1250.00 in chips)
+Seat 9: Billiam26 ($1000.00 in chips)
+OGORRA: posts small blind $50.00
+el0el: posts big blind $100.00
+*** HOLE CARDS ***
+Billiam26: folds
+OGORRA: calls $50.00
+el0el: checks
+*** FLOP *** [9h 3s 3c]
+OGORRA: checks
+el0el: checks
+*** TURN *** [9h 3s 3c] [7s]
+OGORRA: checks
+el0el: checks
+*** RIVER *** [9h 3s 3c 7s] [Th]
+OGORRA: checks
+el0el: checks
+*** SHOW DOWN ***
+OGORRA: shows [8c Jd]
+el0el: mucks hand
+OGORRA collected $198.25 from pot
+*** SUMMARY ***
+Total pot $200.00 | Rake $1.75
+Board [9h 3s 3c 7s Th]
+Seat 4: OGORRA (small blind) showed [8c Jd] and won ($198.25)
+Seat 5: el0el (big blind) mucked
+Seat 9: Billiam26 (button) folded before Flop (didn't bet)
+
+PokerStars Hand #1494815037:  Hold'em No Limit ($50.00/$100.00 USD) - 2022/12/22 21:15:02 ET
+Table 'WPN_7 Day No Rathole 50/100 NLH' 9-max Seat #4 is the button
+Seat 4: OGORRA ($14016.77 in chips)
+Seat 5: el0el ($1150.00 in chips)
+Seat 9: Billiam26 ($1000.00 in chips)
+el0el: posts small blind $50.00
+Billiam26: posts big blind $100.00
+*** HOLE CARDS ***
+OGORRA: folds
+el0el: raises $950.00 to $1050.00
+Billiam26: calls $900.00 and is all-in
+Uncalled bet ($50.00) returned to el0el
+*** FLOP *** [Ac 6s Qc]
+*** TURN *** [Ac 6s Qc] [Jh]
+*** RIVER *** [Ac 6s Qc Jh] [8c]
+*** SHOW DOWN ***
+el0el: shows [Kc Th]
+Billiam26: shows [3h Ah]
+el0el collected $1998.25 from pot
+*** SUMMARY ***
+Total pot $2000.00 | Rake $1.75
+Board [Ac 6s Qc Jh 8c]
+Seat 4: OGORRA (button) folded before Flop (didn't bet)
+Seat 5: el0el (small blind) showed [Kc Th] and won ($1998.25)
+Seat 9: Billiam26 (big blind) showed [3h Ah] and lost
+
+PokerStars Hand #1494815548:  Hold'em No Limit ($50.00/$100.00 USD) - 2022/12/22 21:15:28 ET
+Table 'WPN_7 Day No Rathole 50/100 NLH' 9-max Seat #5 is the button
+Seat 4: OGORRA ($14016.77 in chips)
+Seat 5: el0el ($2148.25 in chips)
+el0el: posts small blind $50.00
+OGORRA: posts big blind $100.00
+*** HOLE CARDS ***
+el0el: folds
+Uncalled bet ($50.00) returned to OGORRA
+OGORRA collected $100.00 from pot
+OGORRA: doesn't show hand
+*** SUMMARY ***
+Total pot $100.00 | Rake $0.00
+Seat 4: OGORRA (big blind) collected ($100.00)
+Seat 5: el0el (button) (small blind) folded before Flop
+
+PokerStars Hand #1494815772:  Hold'em No Limit ($50.00/$100.00 USD) - 2022/12/22 21:15:38 ET
+Table 'WPN_7 Day No Rathole 50/100 NLH' 9-max Seat #4 is the button
+Seat 4: OGORRA ($14066.77 in chips)
+Seat 5: el0el ($2098.25 in chips)
+Seat 9: Billiam26 ($1000.00 in chips)
+OGORRA: posts small blind $50.00
+el0el: posts big blind $100.00
+*** HOLE CARDS ***
+OGORRA: raises $13966.77 to $14066.77 and is all-in
+el0el: folds
+Uncalled bet ($13966.77) returned to OGORRA
+OGORRA collected $200.00 from pot
+OGORRA: doesn't show hand
+*** SUMMARY ***
+Total pot $200.00 | Rake $0.00
+Seat 4: OGORRA (button) (small blind) collected ($200.00)
+Seat 5: el0el (big blind) folded before Flop
+
+PokerStars Hand #1494816181:  Hold'em No Limit ($50.00/$100.00 USD) - 2022/12/22 21:15:58 ET
+Table 'WPN_7 Day No Rathole 50/100 NLH' 9-max Seat #5 is the button
+Seat 4: OGORRA ($14166.77 in chips)
+Seat 5: el0el ($1998.25 in chips)
+el0el: posts small blind $50.00
+OGORRA: posts big blind $100.00
+*** HOLE CARDS ***
+el0el: raises $150.00 to $250.00
+OGORRA: raises $13892.94 to $14142.94
+el0el: calls $1748.25 and is all-in
+Uncalled bet ($12144.69) returned to OGORRA
+*** FLOP *** [9s Ts 2d]
+*** TURN *** [9s Ts 2d] [Kd]
+*** RIVER *** [9s Ts 2d Kd] [4h]
+*** SHOW DOWN ***
+OGORRA: shows [4d 4s]
+el0el: shows [Ac 8s]
+OGORRA collected $3995.25 from pot
+*** SUMMARY ***
+Total pot $3996.50 | Rake $1.25
+Board [9s Ts 2d Kd 4h]
+Seat 4: OGORRA (big blind) showed [4d 4s] and won ($3995.25)
+Seat 5: el0el (button) (small blind) showed [Ac 8s] and lost
+
+PokerStars Hand #1494816803:  Hold'em No Limit ($50.00/$100.00 USD) - 2022/12/22 21:16:29 ET
+Table 'WPN_7 Day No Rathole 50/100 NLH' 9-max Seat #4 is the button
+Seat 4: OGORRA ($16163.77 in chips)
+Seat 5: el0el ($1000.00 in chips)
+OGORRA: posts small blind $50.00
+el0el: posts big blind $100.00
+*** HOLE CARDS ***
+OGORRA: folds
+Uncalled bet ($50.00) returned to el0el
+el0el collected $100.00 from pot
+el0el: doesn't show hand
+*** SUMMARY ***
+Total pot $100.00 | Rake $0.00
+Seat 4: OGORRA (button) (small blind) folded before Flop
+Seat 5: el0el (big blind) collected ($100.00)
+
+PokerStars Hand #1494816975:  Hold'em No Limit ($50.00/$100.00 USD) - 2022/12/22 21:16:38 ET
+Table 'WPN_7 Day No Rathole 50/100 NLH' 9-max Seat #5 is the button
+Seat 4: OGORRA ($16113.77 in chips)
+Seat 5: el0el ($1050.00 in chips)
+el0el: posts small blind $50.00
+OGORRA: posts big blind $100.00
+*** HOLE CARDS ***
+el0el: raises $950.00 to $1050.00 and is all-in
+OGORRA: folds
+Uncalled bet ($950.00) returned to el0el
+el0el collected $200.00 from pot
+el0el: doesn't show hand
+*** SUMMARY ***
+Total pot $200.00 | Rake $0.00
+Seat 4: OGORRA (big blind) folded before Flop
+Seat 5: el0el (button) (small blind) collected ($200.00)
+
+PokerStars Hand #1494817320:  Hold'em No Limit ($50.00/$100.00 USD) - 2022/12/22 21:16:58 ET
+Table 'WPN_7 Day No Rathole 50/100 NLH' 9-max Seat #4 is the button
+Seat 4: OGORRA ($15963.77 in chips)
+Seat 6: FlyingStyle ($5502.25 in chips)
+OGORRA: posts small blind $50.00
+FlyingStyle: posts big blind $100.00
+*** HOLE CARDS ***
+OGORRA: raises $100.00 to $200.00
+FlyingStyle: calls $100.00
+*** FLOP *** [3s Ad Ac]
+FlyingStyle: checks
+OGORRA: bets $100.00
+FlyingStyle: calls $100.00
+*** TURN *** [3s Ad Ac] [8s]
+FlyingStyle: checks
+OGORRA: checks
+*** RIVER *** [3s Ad Ac 8s] [Jd]
+FlyingStyle: checks
+OGORRA: checks
+*** SHOW DOWN ***
+FlyingStyle: shows [Jc 9c]
+OGORRA: mucks hand
+FlyingStyle collected $598.75 from pot
+*** SUMMARY ***
+Total pot $600.00 | Rake $1.25
+Board [3s Ad Ac 8s Jd]
+Seat 4: OGORRA (button) (small blind) mucked
+Seat 6: FlyingStyle (big blind) showed [Jc 9c] and won ($598.75)
+
+PokerStars Hand #1494818657:  Hold'em No Limit ($50.00/$100.00 USD) - 2022/12/22 21:18:04 ET
+Table 'WPN_7 Day No Rathole 50/100 NLH' 9-max Seat #6 is the button
+Seat 4: OGORRA ($15713.77 in chips)
+Seat 6: FlyingStyle ($5801.00 in chips)
+FlyingStyle: posts small blind $50.00
+OGORRA: posts big blind $100.00
+*** HOLE CARDS ***
+FlyingStyle: raises $100.00 to $200.00
+OGORRA: calls $100.00
+*** FLOP *** [3h 9c 7c]
+OGORRA: checks
+FlyingStyle: checks
+*** TURN *** [3h 9c 7c] [6d]
+OGORRA: checks
+FlyingStyle: bets $128.00
+OGORRA: folds
+Uncalled bet ($128.00) returned to FlyingStyle
+FlyingStyle collected $398.75 from pot
+FlyingStyle: doesn't show hand
+*** SUMMARY ***
+Total pot $400.00 | Rake $1.25
+Board [3h 9c 7c 6d]
+Seat 4: OGORRA (big blind) folded on the Turn
+Seat 6: FlyingStyle (button) (small blind) collected ($398.75)
+

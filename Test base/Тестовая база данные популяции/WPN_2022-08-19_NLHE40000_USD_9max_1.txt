@@ -1,0 +1,82 @@
+PokerStars Hand #1345073559:  Hold'em No Limit ($200.00/$400.00 USD) - 2022/08/19 01:35:47 ET
+Table 'WPN_7 Day No Rathole 200/400 NLH - Limited Time' 9-max Seat #3 is the button
+Seat 3: Burundos254 ($47648.29 in chips)
+Seat 7: SigadiSogadi ($112435.05 in chips)
+Burundos254: posts small blind $200.00
+SigadiSogadi: posts big blind $400.00
+*** HOLE CARDS ***
+Burundos254: raises $600.00 to $1000.00
+SigadiSogadi: calls $600.00
+*** FLOP *** [Js Ks Jc]
+SigadiSogadi: checks
+Burundos254: checks
+*** TURN *** [Js Ks Jc] [8s]
+SigadiSogadi: checks
+Burundos254: checks
+*** RIVER *** [Js Ks Jc 8s] [7d]
+SigadiSogadi: checks
+Burundos254: bets $1499.06
+SigadiSogadi: folds
+Uncalled bet ($1499.06) returned to Burundos254
+Burundos254 collected $1998.75 from pot
+Burundos254: doesn't show hand
+*** SUMMARY ***
+Total pot $2000.00 | Rake $1.25
+Board [Js Ks Jc 8s 7d]
+Seat 3: Burundos254 (button) (small blind) collected ($1998.75)
+Seat 7: SigadiSogadi (big blind) folded on the River
+
+PokerStars Hand #1345075076:  Hold'em No Limit ($200.00/$400.00 USD) - 2022/08/19 01:36:54 ET
+Table 'WPN_7 Day No Rathole 200/400 NLH - Limited Time' 9-max Seat #7 is the button
+Seat 7: SigadiSogadi ($111435.05 in chips)
+Seat 8: DoublelegTD ($60645.05 in chips)
+Seat 9: alanwatts15 ($4000.00 in chips)
+DoublelegTD: posts small blind $200.00
+alanwatts15: posts big blind $400.00
+*** HOLE CARDS ***
+SigadiSogadi: raises $400.00 to $800.00
+DoublelegTD: folds
+alanwatts15: raises $3200.00 to $4000.00 and is all-in
+SigadiSogadi: calls $3200.00
+*** FIRST FLOP *** [Td 4c 8c]
+*** FIRST TURN *** [Td 4c 8c] [4s]
+*** FIRST RIVER *** [Td 4c 8c 4s] [Js]
+*** SECOND FLOP *** [9d Ad 6c]
+*** SECOND TURN *** [9d Ad 6c] [2h]
+*** SECOND RIVER *** [9d Ad 6c 2h] [2d]
+*** FIRST SHOW DOWN ***
+SigadiSogadi: shows [9h 9c]
+alanwatts15: shows [Kd Th]
+alanwatts15 collected $4099.13 from pot
+*** SECOND SHOW DOWN ***
+SigadiSogadi: shows [9h 9c]
+alanwatts15: shows [Kd Th]
+SigadiSogadi collected $4099.12 from pot
+*** SUMMARY ***
+Total pot $8200.00 | Rake $1.75
+Hand was run twice
+FIRST Board [Td 4c 8c 4s Js]
+SECOND Board [9d Ad 6c 2h 2d]
+Seat 7: SigadiSogadi (button) showed [9h 9c] and lost, and won ($4099.12)
+Seat 8: DoublelegTD (small blind) folded before Flop
+Seat 9: alanwatts15 (big blind) showed [Kd Th] and won ($4099.13), and lost
+
+PokerStars Hand #1345076204:  Hold'em No Limit ($200.00/$400.00 USD) - 2022/08/19 01:37:44 ET
+Table 'WPN_7 Day No Rathole 200/400 NLH - Limited Time' 9-max Seat #8 is the button
+Seat 7: SigadiSogadi ($111534.17 in chips)
+Seat 8: DoublelegTD ($60445.05 in chips)
+Seat 9: alanwatts15 ($4099.13 in chips)
+alanwatts15: posts small blind $200.00
+SigadiSogadi: posts big blind $400.00
+*** HOLE CARDS ***
+DoublelegTD: folds
+alanwatts15: folds
+Uncalled bet ($200.00) returned to SigadiSogadi
+SigadiSogadi collected $400.00 from pot
+SigadiSogadi: doesn't show hand
+*** SUMMARY ***
+Total pot $400.00 | Rake $0.00
+Seat 7: SigadiSogadi (big blind) collected ($400.00)
+Seat 8: DoublelegTD (button) folded before Flop (didn't bet)
+Seat 9: alanwatts15 (small blind) folded before Flop
+

@@ -1,0 +1,991 @@
+PokerStars Hand #1517691222:  Hold'em No Limit ($50.00/$100.00 USD) - 2023/01/11 06:26:28 ET
+Table 'WPN_7 Day No Rathole 50/100 NLH' 9-max Seat #2 is the button
+Seat 2: zas911 ($20175.45 in chips)
+Seat 6: CW1415 ($1000.00 in chips)
+zas911: posts small blind $50.00
+CW1415: posts big blind $100.00
+*** HOLE CARDS ***
+zas911: calls $50.00
+CW1415: checks
+*** FLOP *** [Jc Kd 4d]
+CW1415: checks
+zas911: bets $100.00
+CW1415: calls $100.00
+*** TURN *** [Jc Kd 4d] [Ts]
+CW1415: checks
+zas911: checks
+*** RIVER *** [Jc Kd 4d Ts] [8d]
+CW1415: bets $400.00
+zas911: folds
+Uncalled bet ($400.00) returned to CW1415
+CW1415 collected $398.75 from pot
+CW1415: doesn't show hand
+*** SUMMARY ***
+Total pot $400.00 | Rake $1.25
+Board [Jc Kd 4d Ts 8d]
+Seat 2: zas911 (button) (small blind) folded on the River
+Seat 6: CW1415 (big blind) collected ($398.75)
+
+PokerStars Hand #1517692038:  Hold'em No Limit ($50.00/$100.00 USD) - 2023/01/11 06:27:22 ET
+Table 'WPN_7 Day No Rathole 50/100 NLH' 9-max Seat #2 is the button
+Seat 2: zas911 ($19975.45 in chips)
+Seat 6: CW1415 ($1198.75 in chips)
+Seat 7: bigsoowoop ($12361.73 in chips)
+Seat 8: FlyingStyle ($7541.91 in chips)
+Seat 9: Haftbefehl ($5857.00 in chips)
+CW1415: posts small blind $50.00
+bigsoowoop: posts big blind $100.00
+*** HOLE CARDS ***
+zas911: raises $100.00 to $200.00
+CW1415: folds
+bigsoowoop: calls $100.00
+*** FLOP *** [Kc 8s Jd]
+bigsoowoop: checks
+zas911: bets $225.00
+bigsoowoop: calls $225.00
+*** TURN *** [Kc 8s Jd] [4d]
+bigsoowoop: checks
+zas911: checks
+*** RIVER *** [Kc 8s Jd 4d] [Th]
+bigsoowoop: checks
+zas911: bets $675.00
+bigsoowoop: folds
+Uncalled bet ($675.00) returned to zas911
+zas911 collected $898.25 from pot
+zas911: doesn't show hand
+*** SUMMARY ***
+Total pot $900.00 | Rake $1.75
+Board [Kc 8s Jd 4d Th]
+Seat 2: zas911 (button) collected ($898.25)
+Seat 6: CW1415 (small blind) folded before Flop
+Seat 7: bigsoowoop (big blind) folded on the River
+
+PokerStars Hand #1517693354:  Hold'em No Limit ($50.00/$100.00 USD) - 2023/01/11 06:28:48 ET
+Table 'WPN_7 Day No Rathole 50/100 NLH' 9-max Seat #6 is the button
+Seat 1: IdoGoats ($11753.16 in chips)
+Seat 2: zas911 ($20448.70 in chips)
+Seat 6: CW1415 ($1148.75 in chips)
+Seat 7: bigsoowoop ($11936.73 in chips)
+Seat 8: FlyingStyle ($7541.91 in chips)
+Seat 9: Haftbefehl ($5857.00 in chips)
+bigsoowoop: posts small blind $50.00
+FlyingStyle: posts big blind $100.00
+*** HOLE CARDS ***
+zas911: folds
+CW1415: calls $100.00
+bigsoowoop: folds
+FlyingStyle: checks
+*** FLOP *** [Ac Ah Ks]
+FlyingStyle: checks
+CW1415: bets $100.00
+FlyingStyle: calls $100.00
+*** TURN *** [Ac Ah Ks] [7h]
+FlyingStyle: checks
+CW1415: bets $225.00
+FlyingStyle: folds
+Uncalled bet ($225.00) returned to CW1415
+CW1415 collected $447.75 from pot
+CW1415: doesn't show hand
+*** SUMMARY ***
+Total pot $450.00 | Rake $2.25
+Board [Ac Ah Ks 7h]
+Seat 2: zas911 folded before Flop (didn't bet)
+Seat 6: CW1415 (button) collected ($447.75)
+Seat 7: bigsoowoop (small blind) folded before Flop
+Seat 8: FlyingStyle (big blind) folded on the Turn
+
+PokerStars Hand #1517694021:  Hold'em No Limit ($50.00/$100.00 USD) - 2023/01/11 06:29:31 ET
+Table 'WPN_7 Day No Rathole 50/100 NLH' 9-max Seat #7 is the button
+Seat 1: IdoGoats ($11753.16 in chips)
+Seat 2: zas911 ($20448.70 in chips)
+Seat 3: uhhhyesandno ($11253.18 in chips)
+Seat 5: scout325 ($1250.00 in chips)
+Seat 6: CW1415 ($1396.50 in chips)
+Seat 7: bigsoowoop ($11886.73 in chips)
+Seat 8: FlyingStyle ($7341.91 in chips)
+Seat 9: Haftbefehl ($5857.00 in chips)
+FlyingStyle: posts small blind $50.00
+Haftbefehl: posts big blind $100.00
+*** HOLE CARDS ***
+zas911: raises $120.00 to $220.00
+CW1415: folds
+bigsoowoop: folds
+FlyingStyle: folds
+Haftbefehl: folds
+Uncalled bet ($120.00) returned to zas911
+zas911 collected $250.00 from pot
+zas911: doesn't show hand
+*** SUMMARY ***
+Total pot $250.00 | Rake $0.00
+Seat 2: zas911 collected ($250.00)
+Seat 6: CW1415 folded before Flop (didn't bet)
+Seat 7: bigsoowoop (button) folded before Flop (didn't bet)
+Seat 8: FlyingStyle (small blind) folded before Flop
+Seat 9: Haftbefehl (big blind) folded before Flop
+
+PokerStars Hand #1517694391:  Hold'em No Limit ($50.00/$100.00 USD) - 2023/01/11 06:29:56 ET
+Table 'WPN_7 Day No Rathole 50/100 NLH' 9-max Seat #8 is the button
+Seat 1: IdoGoats ($11753.16 in chips)
+Seat 2: zas911 ($20598.70 in chips)
+Seat 3: uhhhyesandno ($11253.18 in chips)
+Seat 4: honey_badger ($1000.00 in chips)
+Seat 5: scout325 ($1250.00 in chips)
+Seat 6: CW1415 ($1396.50 in chips)
+Seat 7: bigsoowoop ($11886.73 in chips)
+Seat 8: FlyingStyle ($7291.91 in chips)
+Seat 9: Haftbefehl ($5757.00 in chips)
+Haftbefehl: posts small blind $50.00
+IdoGoats: posts big blind $100.00
+*** HOLE CARDS ***
+zas911: folds
+CW1415: calls $100.00
+bigsoowoop: folds
+FlyingStyle: folds
+Haftbefehl: calls $50.00
+IdoGoats: checks
+*** FLOP *** [5d Kc Td]
+Haftbefehl: checks
+IdoGoats: checks
+CW1415: bets $225.00
+Haftbefehl: folds
+IdoGoats: folds
+Uncalled bet ($225.00) returned to CW1415
+CW1415 collected $297.00 from pot
+CW1415: doesn't show hand
+*** SUMMARY ***
+Total pot $300.00 | Rake $3.00
+Board [5d Kc Td]
+Seat 1: IdoGoats (big blind) folded on the Flop
+Seat 2: zas911 folded before Flop (didn't bet)
+Seat 6: CW1415 collected ($297.00)
+Seat 7: bigsoowoop folded before Flop (didn't bet)
+Seat 8: FlyingStyle (button) folded before Flop (didn't bet)
+Seat 9: Haftbefehl (small blind) folded on the Flop
+
+PokerStars Hand #1517695280:  Hold'em No Limit ($50.00/$100.00 USD) - 2023/01/11 06:30:53 ET
+Table 'WPN_7 Day No Rathole 50/100 NLH' 9-max Seat #9 is the button
+Seat 1: IdoGoats ($11653.16 in chips)
+Seat 2: zas911 ($20598.70 in chips)
+Seat 3: uhhhyesandno ($11253.18 in chips)
+Seat 4: honey_badger ($1000.00 in chips)
+Seat 5: scout325 ($1250.00 in chips)
+Seat 6: CW1415 ($1593.50 in chips)
+Seat 7: bigsoowoop ($11886.73 in chips)
+Seat 8: FlyingStyle ($7291.91 in chips)
+Seat 9: Haftbefehl ($5657.00 in chips)
+IdoGoats: posts small blind $50.00
+zas911: posts big blind $100.00
+*** HOLE CARDS ***
+CW1415: calls $100.00
+bigsoowoop: folds
+FlyingStyle: folds
+Haftbefehl: folds
+IdoGoats: raises $400.00 to $500.00
+zas911: folds
+CW1415: folds
+Uncalled bet ($400.00) returned to IdoGoats
+IdoGoats collected $300.00 from pot
+IdoGoats: doesn't show hand
+*** SUMMARY ***
+Total pot $300.00 | Rake $0.00
+Seat 1: IdoGoats (small blind) collected ($300.00)
+Seat 2: zas911 (big blind) folded before Flop
+Seat 6: CW1415 folded before Flop
+Seat 7: bigsoowoop folded before Flop (didn't bet)
+Seat 8: FlyingStyle folded before Flop (didn't bet)
+Seat 9: Haftbefehl (button) folded before Flop (didn't bet)
+
+PokerStars Hand #1517695877:  Hold'em No Limit ($50.00/$100.00 USD) - 2023/01/11 06:31:33 ET
+Table 'WPN_7 Day No Rathole 50/100 NLH' 9-max Seat #1 is the button
+Seat 1: IdoGoats ($11853.16 in chips)
+Seat 2: zas911 ($20498.70 in chips)
+Seat 3: uhhhyesandno ($11253.18 in chips)
+Seat 4: honey_badger ($1000.00 in chips)
+Seat 5: scout325 ($1250.00 in chips)
+Seat 6: CW1415 ($1493.50 in chips)
+Seat 7: bigsoowoop ($11886.73 in chips)
+Seat 8: FlyingStyle ($7291.91 in chips)
+Seat 9: Haftbefehl ($5657.00 in chips)
+zas911: posts small blind $50.00
+uhhhyesandno: posts big blind $100.00
+*** HOLE CARDS ***
+CW1415: folds
+bigsoowoop: folds
+FlyingStyle: folds
+Haftbefehl: folds
+IdoGoats: folds
+zas911: folds
+Uncalled bet ($50.00) returned to uhhhyesandno
+uhhhyesandno collected $100.00 from pot
+uhhhyesandno: doesn't show hand
+*** SUMMARY ***
+Total pot $100.00 | Rake $0.00
+Seat 1: IdoGoats (button) folded before Flop (didn't bet)
+Seat 2: zas911 (small blind) folded before Flop
+Seat 3: uhhhyesandno (big blind) collected ($100.00)
+Seat 6: CW1415 folded before Flop (didn't bet)
+Seat 7: bigsoowoop folded before Flop (didn't bet)
+Seat 8: FlyingStyle folded before Flop (didn't bet)
+Seat 9: Haftbefehl folded before Flop (didn't bet)
+
+PokerStars Hand #1517696383:  Hold'em No Limit ($50.00/$100.00 USD) - 2023/01/11 06:32:07 ET
+Table 'WPN_7 Day No Rathole 50/100 NLH' 9-max Seat #2 is the button
+Seat 1: IdoGoats ($11853.16 in chips)
+Seat 2: zas911 ($20448.70 in chips)
+Seat 3: uhhhyesandno ($11303.18 in chips)
+Seat 4: honey_badger ($1000.00 in chips)
+Seat 5: scout325 ($1250.00 in chips)
+Seat 6: CW1415 ($1493.50 in chips)
+Seat 7: bigsoowoop ($11886.73 in chips)
+Seat 8: FlyingStyle ($7291.91 in chips)
+Seat 9: Haftbefehl ($5657.00 in chips)
+uhhhyesandno: posts small blind $50.00
+honey_badger: posts big blind $100.00
+*** HOLE CARDS ***
+CW1415: calls $100.00
+bigsoowoop: folds
+FlyingStyle: folds
+Haftbefehl: folds
+IdoGoats: folds
+zas911: folds
+uhhhyesandno: folds
+honey_badger: checks
+*** FLOP *** [Jc 7s 3s]
+honey_badger: checks
+CW1415: bets $100.00
+honey_badger: folds
+Uncalled bet ($100.00) returned to CW1415
+CW1415 collected $247.00 from pot
+CW1415: doesn't show hand
+*** SUMMARY ***
+Total pot $250.00 | Rake $3.00
+Board [Jc 7s 3s]
+Seat 1: IdoGoats folded before Flop (didn't bet)
+Seat 2: zas911 (button) folded before Flop (didn't bet)
+Seat 3: uhhhyesandno (small blind) folded before Flop
+Seat 4: honey_badger (big blind) folded on the Flop
+Seat 6: CW1415 collected ($247.00)
+Seat 7: bigsoowoop folded before Flop (didn't bet)
+Seat 8: FlyingStyle folded before Flop (didn't bet)
+Seat 9: Haftbefehl folded before Flop (didn't bet)
+
+PokerStars Hand #1517697343:  Hold'em No Limit ($50.00/$100.00 USD) - 2023/01/11 06:33:12 ET
+Table 'WPN_7 Day No Rathole 50/100 NLH' 9-max Seat #3 is the button
+Seat 1: IdoGoats ($11853.16 in chips)
+Seat 2: zas911 ($20448.70 in chips)
+Seat 3: uhhhyesandno ($11253.18 in chips)
+Seat 4: honey_badger ($900.00 in chips)
+Seat 5: scout325 ($1250.00 in chips)
+Seat 6: CW1415 ($1640.50 in chips)
+Seat 7: bigsoowoop ($11886.73 in chips)
+Seat 8: FlyingStyle ($7291.91 in chips)
+Seat 9: Haftbefehl ($5657.00 in chips)
+honey_badger: posts small blind $50.00
+scout325: posts big blind $100.00
+*** HOLE CARDS ***
+CW1415: folds
+bigsoowoop: folds
+FlyingStyle: folds
+Haftbefehl: folds
+IdoGoats: folds
+zas911: raises $100.00 to $200.00
+uhhhyesandno: raises $500.00 to $700.00
+honey_badger: folds
+scout325: folds
+zas911: calls $500.00
+*** FLOP *** [7s 8d 9h]
+zas911: checks
+uhhhyesandno: bets $400.00
+zas911: folds
+Uncalled bet ($400.00) returned to uhhhyesandno
+uhhhyesandno collected $1547.00 from pot
+uhhhyesandno: doesn't show hand
+*** SUMMARY ***
+Total pot $1550.00 | Rake $3.00
+Board [7s 8d 9h]
+Seat 1: IdoGoats folded before Flop (didn't bet)
+Seat 2: zas911 folded on the Flop
+Seat 3: uhhhyesandno (button) collected ($1547.00)
+Seat 4: honey_badger (small blind) folded before Flop
+Seat 5: scout325 (big blind) folded before Flop
+Seat 6: CW1415 folded before Flop (didn't bet)
+Seat 7: bigsoowoop folded before Flop (didn't bet)
+Seat 8: FlyingStyle folded before Flop (didn't bet)
+Seat 9: Haftbefehl folded before Flop (didn't bet)
+
+PokerStars Hand #1517698313:  Hold'em No Limit ($50.00/$100.00 USD) - 2023/01/11 06:34:18 ET
+Table 'WPN_7 Day No Rathole 50/100 NLH' 9-max Seat #4 is the button
+Seat 1: IdoGoats ($11853.16 in chips)
+Seat 2: zas911 ($19748.70 in chips)
+Seat 3: uhhhyesandno ($12100.18 in chips)
+Seat 4: honey_badger ($1000.00 in chips)
+Seat 5: scout325 ($1150.00 in chips)
+Seat 6: CW1415 ($1640.50 in chips)
+Seat 7: bigsoowoop ($11886.73 in chips)
+Seat 8: FlyingStyle ($7291.91 in chips)
+Seat 9: Haftbefehl ($5657.00 in chips)
+scout325: posts small blind $50.00
+CW1415: posts big blind $100.00
+*** HOLE CARDS ***
+bigsoowoop: folds
+FlyingStyle: folds
+Haftbefehl: folds
+IdoGoats: folds
+zas911: folds
+uhhhyesandno: folds
+honey_badger: folds
+scout325: folds
+Uncalled bet ($50.00) returned to CW1415
+CW1415 collected $100.00 from pot
+CW1415: doesn't show hand
+*** SUMMARY ***
+Total pot $100.00 | Rake $0.00
+Seat 1: IdoGoats folded before Flop (didn't bet)
+Seat 2: zas911 folded before Flop (didn't bet)
+Seat 3: uhhhyesandno folded before Flop (didn't bet)
+Seat 4: honey_badger (button) folded before Flop (didn't bet)
+Seat 5: scout325 (small blind) folded before Flop
+Seat 6: CW1415 (big blind) collected ($100.00)
+Seat 7: bigsoowoop folded before Flop (didn't bet)
+Seat 8: FlyingStyle folded before Flop (didn't bet)
+Seat 9: Haftbefehl folded before Flop (didn't bet)
+
+PokerStars Hand #1517698748:  Hold'em No Limit ($50.00/$100.00 USD) - 2023/01/11 06:34:47 ET
+Table 'WPN_7 Day No Rathole 50/100 NLH' 9-max Seat #5 is the button
+Seat 1: IdoGoats ($11853.16 in chips)
+Seat 2: zas911 ($19748.70 in chips)
+Seat 3: uhhhyesandno ($12100.18 in chips)
+Seat 4: honey_badger ($1000.00 in chips)
+Seat 5: scout325 ($1100.00 in chips)
+Seat 6: CW1415 ($1690.50 in chips)
+Seat 7: bigsoowoop ($11886.73 in chips)
+Seat 8: FlyingStyle ($7291.91 in chips)
+Seat 9: Haftbefehl ($5657.00 in chips)
+CW1415: posts small blind $50.00
+bigsoowoop: posts big blind $100.00
+*** HOLE CARDS ***
+FlyingStyle: folds
+Haftbefehl: folds
+IdoGoats: folds
+zas911: folds
+uhhhyesandno: folds
+honey_badger: raises $900.00 to $1000.00 and is all-in
+scout325: folds
+CW1415: folds
+bigsoowoop: folds
+Uncalled bet ($900.00) returned to honey_badger
+honey_badger collected $250.00 from pot
+honey_badger: doesn't show hand
+*** SUMMARY ***
+Total pot $250.00 | Rake $0.00
+Seat 1: IdoGoats folded before Flop (didn't bet)
+Seat 2: zas911 folded before Flop (didn't bet)
+Seat 3: uhhhyesandno folded before Flop (didn't bet)
+Seat 4: honey_badger collected ($250.00)
+Seat 5: scout325 (button) folded before Flop (didn't bet)
+Seat 6: CW1415 (small blind) folded before Flop
+Seat 7: bigsoowoop (big blind) folded before Flop
+Seat 8: FlyingStyle folded before Flop (didn't bet)
+Seat 9: Haftbefehl folded before Flop (didn't bet)
+
+PokerStars Hand #1517699218:  Hold'em No Limit ($50.00/$100.00 USD) - 2023/01/11 06:35:17 ET
+Table 'WPN_7 Day No Rathole 50/100 NLH' 9-max Seat #6 is the button
+Seat 1: IdoGoats ($11853.16 in chips)
+Seat 2: zas911 ($19748.70 in chips)
+Seat 3: uhhhyesandno ($12100.18 in chips)
+Seat 4: honey_badger ($1150.00 in chips)
+Seat 5: scout325 ($1100.00 in chips)
+Seat 6: CW1415 ($1640.50 in chips)
+Seat 7: bigsoowoop ($11786.73 in chips)
+Seat 8: FlyingStyle ($7291.91 in chips)
+Seat 9: Haftbefehl ($5657.00 in chips)
+bigsoowoop: posts small blind $50.00
+FlyingStyle: posts big blind $100.00
+*** HOLE CARDS ***
+Haftbefehl: folds
+IdoGoats: folds
+zas911: folds
+uhhhyesandno: folds
+honey_badger: raises $1050.00 to $1150.00 and is all-in
+scout325: folds
+CW1415: folds
+bigsoowoop: folds
+FlyingStyle: folds
+Uncalled bet ($1050.00) returned to honey_badger
+honey_badger collected $250.00 from pot
+honey_badger: doesn't show hand
+*** SUMMARY ***
+Total pot $250.00 | Rake $0.00
+Seat 1: IdoGoats folded before Flop (didn't bet)
+Seat 2: zas911 folded before Flop (didn't bet)
+Seat 3: uhhhyesandno folded before Flop (didn't bet)
+Seat 4: honey_badger collected ($250.00)
+Seat 5: scout325 folded before Flop (didn't bet)
+Seat 6: CW1415 (button) folded before Flop (didn't bet)
+Seat 7: bigsoowoop (small blind) folded before Flop
+Seat 8: FlyingStyle (big blind) folded before Flop
+Seat 9: Haftbefehl folded before Flop (didn't bet)
+
+PokerStars Hand #1517699633:  Hold'em No Limit ($50.00/$100.00 USD) - 2023/01/11 06:35:45 ET
+Table 'WPN_7 Day No Rathole 50/100 NLH' 9-max Seat #7 is the button
+Seat 1: IdoGoats ($11853.16 in chips)
+Seat 2: zas911 ($19748.70 in chips)
+Seat 3: uhhhyesandno ($12100.18 in chips)
+Seat 4: honey_badger ($1300.00 in chips)
+Seat 5: scout325 ($1100.00 in chips)
+Seat 6: CW1415 ($1640.50 in chips)
+Seat 7: bigsoowoop ($11736.73 in chips)
+Seat 8: FlyingStyle ($7191.91 in chips)
+Seat 9: Haftbefehl ($5657.00 in chips)
+FlyingStyle: posts small blind $50.00
+Haftbefehl: posts big blind $100.00
+*** HOLE CARDS ***
+IdoGoats: raises $100.00 to $200.00
+zas911: folds
+uhhhyesandno: folds
+honey_badger: folds
+scout325: folds
+CW1415: folds
+bigsoowoop: folds
+FlyingStyle: folds
+Haftbefehl: calls $100.00
+*** FLOP *** [7s 9d Jd]
+Haftbefehl: checks
+IdoGoats: bets $300.00
+Haftbefehl: folds
+Uncalled bet ($300.00) returned to IdoGoats
+IdoGoats collected $447.00 from pot
+IdoGoats: doesn't show hand
+*** SUMMARY ***
+Total pot $450.00 | Rake $3.00
+Board [7s 9d Jd]
+Seat 1: IdoGoats collected ($447.00)
+Seat 2: zas911 folded before Flop (didn't bet)
+Seat 3: uhhhyesandno folded before Flop (didn't bet)
+Seat 4: honey_badger folded before Flop (didn't bet)
+Seat 5: scout325 folded before Flop (didn't bet)
+Seat 6: CW1415 folded before Flop (didn't bet)
+Seat 7: bigsoowoop (button) folded before Flop (didn't bet)
+Seat 8: FlyingStyle (small blind) folded before Flop
+Seat 9: Haftbefehl (big blind) folded on the Flop
+
+PokerStars Hand #1517700275:  Hold'em No Limit ($50.00/$100.00 USD) - 2023/01/11 06:36:29 ET
+Table 'WPN_7 Day No Rathole 50/100 NLH' 9-max Seat #8 is the button
+Seat 1: IdoGoats ($12100.16 in chips)
+Seat 2: zas911 ($19748.70 in chips)
+Seat 3: uhhhyesandno ($12100.18 in chips)
+Seat 4: honey_badger ($1300.00 in chips)
+Seat 5: scout325 ($1100.00 in chips)
+Seat 6: CW1415 ($1640.50 in chips)
+Seat 7: bigsoowoop ($11736.73 in chips)
+Seat 8: FlyingStyle ($7141.91 in chips)
+Seat 9: Haftbefehl ($5457.00 in chips)
+Haftbefehl: posts small blind $50.00
+IdoGoats: posts big blind $100.00
+*** HOLE CARDS ***
+zas911: folds
+uhhhyesandno: folds
+honey_badger: folds
+scout325: folds
+CW1415: folds
+bigsoowoop: folds
+FlyingStyle: folds
+Haftbefehl: folds
+Uncalled bet ($50.00) returned to IdoGoats
+IdoGoats collected $100.00 from pot
+IdoGoats: doesn't show hand
+*** SUMMARY ***
+Total pot $100.00 | Rake $0.00
+Seat 1: IdoGoats (big blind) collected ($100.00)
+Seat 2: zas911 folded before Flop (didn't bet)
+Seat 3: uhhhyesandno folded before Flop (didn't bet)
+Seat 4: honey_badger folded before Flop (didn't bet)
+Seat 5: scout325 folded before Flop (didn't bet)
+Seat 6: CW1415 folded before Flop (didn't bet)
+Seat 7: bigsoowoop folded before Flop (didn't bet)
+Seat 8: FlyingStyle (button) folded before Flop (didn't bet)
+Seat 9: Haftbefehl (small blind) folded before Flop
+
+PokerStars Hand #1517700648:  Hold'em No Limit ($50.00/$100.00 USD) - 2023/01/11 06:36:53 ET
+Table 'WPN_7 Day No Rathole 50/100 NLH' 9-max Seat #9 is the button
+Seat 1: IdoGoats ($12150.16 in chips)
+Seat 2: zas911 ($19748.70 in chips)
+Seat 3: uhhhyesandno ($12100.18 in chips)
+Seat 4: honey_badger ($1300.00 in chips)
+Seat 5: scout325 ($1100.00 in chips)
+Seat 6: CW1415 ($1640.50 in chips)
+Seat 7: bigsoowoop ($11736.73 in chips)
+Seat 8: FlyingStyle ($7141.91 in chips)
+Seat 9: Haftbefehl ($5407.00 in chips)
+IdoGoats: posts small blind $50.00
+zas911: posts big blind $100.00
+*** HOLE CARDS ***
+uhhhyesandno: folds
+honey_badger: folds
+scout325: folds
+CW1415: folds
+bigsoowoop: raises $120.00 to $220.00
+FlyingStyle: folds
+Haftbefehl: folds
+IdoGoats: folds
+zas911: calls $120.00
+*** FLOP *** [As Ts 9c]
+zas911: checks
+bigsoowoop: bets $161.70
+zas911: raises $660.05 to $821.75
+bigsoowoop: calls $660.05
+*** TURN *** [As Ts 9c] [4s]
+zas911: bets $704.05
+bigsoowoop: folds
+Uncalled bet ($704.05) returned to zas911
+zas911 collected $2130.50 from pot
+zas911: doesn't show hand
+*** SUMMARY ***
+Total pot $2133.50 | Rake $3.00
+Board [As Ts 9c 4s]
+Seat 1: IdoGoats (small blind) folded before Flop
+Seat 2: zas911 (big blind) collected ($2130.50)
+Seat 3: uhhhyesandno folded before Flop (didn't bet)
+Seat 4: honey_badger folded before Flop (didn't bet)
+Seat 5: scout325 folded before Flop (didn't bet)
+Seat 6: CW1415 folded before Flop (didn't bet)
+Seat 7: bigsoowoop folded on the Turn
+Seat 8: FlyingStyle folded before Flop (didn't bet)
+Seat 9: Haftbefehl (button) folded before Flop (didn't bet)
+
+PokerStars Hand #1517701886:  Hold'em No Limit ($50.00/$100.00 USD) - 2023/01/11 06:38:21 ET
+Table 'WPN_7 Day No Rathole 50/100 NLH' 9-max Seat #1 is the button
+Seat 1: IdoGoats ($12100.16 in chips)
+Seat 2: zas911 ($20837.45 in chips)
+Seat 3: Meek Bill ($1000.00 in chips)
+Seat 4: honey_badger ($1300.00 in chips)
+Seat 5: scout325 ($1100.00 in chips)
+Seat 6: CW1415 ($1640.50 in chips)
+Seat 7: bigsoowoop ($10694.98 in chips)
+Seat 8: FlyingStyle ($7141.91 in chips)
+Seat 9: Haftbefehl ($5407.00 in chips)
+zas911: posts small blind $50.00
+Meek Bill: posts big blind $100.00
+*** HOLE CARDS ***
+honey_badger: folds
+scout325: folds
+CW1415: folds
+bigsoowoop: folds
+FlyingStyle: folds
+Haftbefehl: folds
+IdoGoats: folds
+zas911: raises $1023.43 to $1123.43
+Meek Bill: folds
+Uncalled bet ($1023.43) returned to zas911
+zas911 collected $200.00 from pot
+zas911: doesn't show hand
+*** SUMMARY ***
+Total pot $200.00 | Rake $0.00
+Seat 1: IdoGoats (button) folded before Flop (didn't bet)
+Seat 2: zas911 (small blind) collected ($200.00)
+Seat 3: Meek Bill (big blind) folded before Flop
+Seat 4: honey_badger folded before Flop (didn't bet)
+Seat 5: scout325 folded before Flop (didn't bet)
+Seat 6: CW1415 folded before Flop (didn't bet)
+Seat 7: bigsoowoop folded before Flop (didn't bet)
+Seat 8: FlyingStyle folded before Flop (didn't bet)
+Seat 9: Haftbefehl folded before Flop (didn't bet)
+
+PokerStars Hand #1517702316:  Hold'em No Limit ($50.00/$100.00 USD) - 2023/01/11 06:38:49 ET
+Table 'WPN_7 Day No Rathole 50/100 NLH' 9-max Seat #2 is the button
+Seat 1: IdoGoats ($12100.16 in chips)
+Seat 2: zas911 ($20937.45 in chips)
+Seat 3: Meek Bill ($900.00 in chips)
+Seat 4: honey_badger ($1300.00 in chips)
+Seat 5: scout325 ($1100.00 in chips)
+Seat 6: CW1415 ($1640.50 in chips)
+Seat 7: bigsoowoop ($10694.98 in chips)
+Seat 8: FlyingStyle ($7141.91 in chips)
+Seat 9: Haftbefehl ($5407.00 in chips)
+Meek Bill: posts small blind $50.00
+honey_badger: posts big blind $100.00
+*** HOLE CARDS ***
+scout325: folds
+CW1415: folds
+bigsoowoop: folds
+FlyingStyle: raises $120.00 to $220.00
+Haftbefehl: folds
+IdoGoats: folds
+zas911: folds
+Meek Bill: folds
+honey_badger: calls $120.00
+*** FLOP *** [9d Ac 8h]
+honey_badger: checks
+FlyingStyle: bets $112.70
+honey_badger: calls $112.70
+*** TURN *** [9d Ac 8h] [6s]
+honey_badger: checks
+FlyingStyle: bets $228.92
+honey_badger: calls $228.92
+*** RIVER *** [9d Ac 8h 6s] [2d]
+honey_badger: checks
+FlyingStyle: checks
+*** SHOW DOWN ***
+honey_badger: shows [Ah 2h]
+FlyingStyle: mucks hand
+honey_badger collected $1170.24 from pot
+*** SUMMARY ***
+Total pot $1173.24 | Rake $3.00
+Board [9d Ac 8h 6s 2d]
+Seat 1: IdoGoats folded before Flop (didn't bet)
+Seat 2: zas911 (button) folded before Flop (didn't bet)
+Seat 3: Meek Bill (small blind) folded before Flop
+Seat 4: honey_badger (big blind) showed [Ah 2h] and won ($1170.24)
+Seat 5: scout325 folded before Flop (didn't bet)
+Seat 6: CW1415 folded before Flop (didn't bet)
+Seat 7: bigsoowoop folded before Flop (didn't bet)
+Seat 8: FlyingStyle mucked
+Seat 9: Haftbefehl folded before Flop (didn't bet)
+
+PokerStars Hand #1517703480:  Hold'em No Limit ($50.00/$100.00 USD) - 2023/01/11 06:40:08 ET
+Table 'WPN_7 Day No Rathole 50/100 NLH' 9-max Seat #3 is the button
+Seat 1: IdoGoats ($12100.16 in chips)
+Seat 2: zas911 ($20937.45 in chips)
+Seat 3: Meek Bill ($1000.00 in chips)
+Seat 4: honey_badger ($1908.62 in chips)
+Seat 5: scout325 ($1100.00 in chips)
+Seat 6: CW1415 ($1640.50 in chips)
+Seat 7: bigsoowoop ($10694.98 in chips)
+Seat 8: FlyingStyle ($6580.29 in chips)
+Seat 9: Haftbefehl ($5407.00 in chips)
+honey_badger: posts small blind $50.00
+scout325: posts big blind $100.00
+*** HOLE CARDS ***
+CW1415: folds
+bigsoowoop: folds
+FlyingStyle: folds
+Haftbefehl: folds
+IdoGoats: raises $100.00 to $200.00
+zas911: folds
+Meek Bill: folds
+honey_badger: folds
+scout325: calls $100.00
+*** FLOP *** [2h 6c 2s]
+scout325: checks
+IdoGoats: bets $100.00
+scout325: calls $100.00
+*** TURN *** [2h 6c 2s] [Kh]
+scout325: checks
+IdoGoats: checks
+*** RIVER *** [2h 6c 2s Kh] [Jc]
+scout325: bets $800.00 and is all-in
+IdoGoats: calls $800.00
+*** SHOW DOWN ***
+IdoGoats: shows [Ts Ks]
+scout325: shows [5d 4d]
+IdoGoats collected $2247.00 from pot
+*** SUMMARY ***
+Total pot $2250.00 | Rake $3.00
+Board [2h 6c 2s Kh Jc]
+Seat 1: IdoGoats showed [Ts Ks] and won ($2247.00)
+Seat 2: zas911 folded before Flop (didn't bet)
+Seat 3: Meek Bill (button) folded before Flop (didn't bet)
+Seat 4: honey_badger (small blind) folded before Flop
+Seat 5: scout325 (big blind) showed [5d 4d] and lost
+Seat 6: CW1415 folded before Flop (didn't bet)
+Seat 7: bigsoowoop folded before Flop (didn't bet)
+Seat 8: FlyingStyle folded before Flop (didn't bet)
+Seat 9: Haftbefehl folded before Flop (didn't bet)
+
+PokerStars Hand #1517704551:  Hold'em No Limit ($50.00/$100.00 USD) - 2023/01/11 06:41:22 ET
+Table 'WPN_7 Day No Rathole 50/100 NLH' 9-max Seat #4 is the button
+Seat 1: IdoGoats ($13247.16 in chips)
+Seat 2: zas911 ($20937.45 in chips)
+Seat 3: Meek Bill ($1000.00 in chips)
+Seat 4: honey_badger ($1858.62 in chips)
+Seat 6: CW1415 ($1640.50 in chips)
+Seat 7: bigsoowoop ($10694.98 in chips)
+Seat 8: FlyingStyle ($6580.29 in chips)
+Seat 9: Haftbefehl ($5407.00 in chips)
+CW1415: posts big blind $100.00
+*** HOLE CARDS ***
+bigsoowoop: folds
+FlyingStyle: folds
+Haftbefehl: folds
+IdoGoats: raises $100.00 to $200.00
+zas911: folds
+Meek Bill: folds
+honey_badger: folds
+CW1415: calls $100.00
+*** FLOP *** [Ts 4c 2d]
+CW1415: checks
+IdoGoats: checks
+*** TURN *** [Ts 4c 2d] [8s]
+CW1415: bets $200.00
+IdoGoats: calls $200.00
+*** RIVER *** [Ts 4c 2d 8s] [2s]
+CW1415: bets $400.00
+IdoGoats: raises $12447.16 to $12847.16 and is all-in
+CW1415: calls $840.50 and is all-in
+Uncalled bet ($11606.66) returned to IdoGoats
+*** SHOW DOWN ***
+IdoGoats: shows [As Ks]
+CW1415: shows [7h 8d]
+IdoGoats collected $3278.00 from pot
+*** SUMMARY ***
+Total pot $3281.00 | Rake $3.00
+Board [Ts 4c 2d 8s 2s]
+Seat 1: IdoGoats showed [As Ks] and won ($3278.00)
+Seat 2: zas911 folded before Flop (didn't bet)
+Seat 3: Meek Bill folded before Flop (didn't bet)
+Seat 4: honey_badger (button) folded before Flop (didn't bet)
+Seat 6: CW1415 (big blind) showed [7h 8d] and lost
+Seat 7: bigsoowoop folded before Flop (didn't bet)
+Seat 8: FlyingStyle folded before Flop (didn't bet)
+Seat 9: Haftbefehl folded before Flop (didn't bet)
+
+PokerStars Hand #1517705726:  Hold'em No Limit ($50.00/$100.00 USD) - 2023/01/11 06:42:44 ET
+Table 'WPN_7 Day No Rathole 50/100 NLH' 9-max Seat #5 is the button
+Seat 1: IdoGoats ($14884.66 in chips)
+Seat 2: zas911 ($20937.45 in chips)
+Seat 3: Meek Bill ($1000.00 in chips)
+Seat 4: honey_badger ($1858.62 in chips)
+Seat 5: _COBKA_PBET_ ($6835.19 in chips)
+Seat 7: bigsoowoop ($10694.98 in chips)
+Seat 8: FlyingStyle ($6580.29 in chips)
+Seat 9: Haftbefehl ($5407.00 in chips)
+bigsoowoop: posts big blind $100.00
+*** HOLE CARDS ***
+FlyingStyle: folds
+Haftbefehl: folds
+IdoGoats: folds
+zas911: folds
+Meek Bill: folds
+honey_badger: raises $100.00 to $200.00
+bigsoowoop: calls $100.00
+*** FLOP *** [2h 6h 8c]
+bigsoowoop: checks
+honey_badger: bets $400.00
+bigsoowoop: raises $1500.00 to $1900.00
+honey_badger: calls $1258.62 and is all-in
+Uncalled bet ($241.38) returned to bigsoowoop
+*** FIRST TURN *** [2h 6h 8c] [4d]
+*** FIRST RIVER *** [2h 6h 8c 4d] [6c]
+*** SECOND TURN *** [2h 6h 8c] [9c]
+*** SECOND RIVER *** [2h 6h 8c 9c] [3s]
+*** FIRST SHOW DOWN ***
+honey_badger: shows [8s Ad]
+bigsoowoop: shows [Qh 9h]
+honey_badger collected $1857.12 from pot
+*** SECOND SHOW DOWN ***
+honey_badger: shows [8s Ad]
+bigsoowoop: shows [Qh 9h]
+bigsoowoop collected $1857.12 from pot
+*** SUMMARY ***
+Total pot $3717.24 | Rake $3.00
+Hand was run twice
+FIRST Board [2h 6h 8c 4d 6c]
+SECOND Board [2h 6h 8c 9c 3s]
+Seat 1: IdoGoats folded before Flop (didn't bet)
+Seat 2: zas911 folded before Flop (didn't bet)
+Seat 3: Meek Bill folded before Flop (didn't bet)
+Seat 4: honey_badger showed [8s Ad] and won ($1857.12), and lost
+Seat 5: _COBKA_PBET_ (button) and lost, and lost
+Seat 7: bigsoowoop (big blind) showed [Qh 9h] and lost, and won ($1857.12)
+Seat 8: FlyingStyle folded before Flop (didn't bet)
+Seat 9: Haftbefehl folded before Flop (didn't bet)
+
+PokerStars Hand #1517706923:  Hold'em No Limit ($50.00/$100.00 USD) - 2023/01/11 06:44:10 ET
+Table 'WPN_7 Day No Rathole 50/100 NLH' 9-max Seat #6 is the button
+Seat 2: zas911 ($20937.45 in chips)
+Seat 3: Meek Bill ($1000.00 in chips)
+Seat 4: honey_badger ($1857.12 in chips)
+Seat 5: _COBKA_PBET_ ($6835.19 in chips)
+Seat 7: bigsoowoop ($10693.48 in chips)
+Seat 8: FlyingStyle ($6580.29 in chips)
+Seat 9: Haftbefehl ($5407.00 in chips)
+bigsoowoop: posts small blind $50.00
+Haftbefehl: posts big blind $100.00
+*** HOLE CARDS ***
+zas911: folds
+Meek Bill: folds
+honey_badger: raises $100.00 to $200.00
+bigsoowoop: raises $500.00 to $700.00
+Haftbefehl: folds
+honey_badger: folds
+Uncalled bet ($500.00) returned to bigsoowoop
+bigsoowoop collected $500.00 from pot
+bigsoowoop: doesn't show hand
+*** SUMMARY ***
+Total pot $500.00 | Rake $0.00
+Seat 2: zas911 folded before Flop (didn't bet)
+Seat 3: Meek Bill folded before Flop (didn't bet)
+Seat 4: honey_badger folded before Flop
+Seat 7: bigsoowoop (small blind) collected ($500.00)
+Seat 9: Haftbefehl (big blind) folded before Flop
+
+PokerStars Hand #1517707443:  Hold'em No Limit ($50.00/$100.00 USD) - 2023/01/11 06:44:45 ET
+Table 'WPN_7 Day No Rathole 50/100 NLH' 9-max Seat #7 is the button
+Seat 2: zas911 ($20937.45 in chips)
+Seat 3: Meek Bill ($1000.00 in chips)
+Seat 4: honey_badger ($1657.12 in chips)
+Seat 5: _COBKA_PBET_ ($6835.19 in chips)
+Seat 7: bigsoowoop ($10993.48 in chips)
+Seat 9: Haftbefehl ($5307.00 in chips)
+Haftbefehl: posts small blind $50.00
+_COBKA_PBET_: posts big blind $100.00
+*** HOLE CARDS ***
+bigsoowoop: folds
+Haftbefehl: folds
+Uncalled bet ($50.00) returned to _COBKA_PBET_
+_COBKA_PBET_ collected $100.00 from pot
+_COBKA_PBET_: doesn't show hand
+*** SUMMARY ***
+Total pot $100.00 | Rake $0.00
+Seat 5: _COBKA_PBET_ (big blind) collected ($100.00)
+Seat 7: bigsoowoop (button) folded before Flop (didn't bet)
+Seat 9: Haftbefehl (small blind) folded before Flop
+
+PokerStars Hand #1517395951:  Hold'em No Limit ($50.00/$100.00 USD) - 2023/01/11 02:19:09 ET
+Table 'WPN_7 Day No Rathole 50/100 NLH' 9-max Seat #1 is the button
+Seat 1: el0el ($4933.34 in chips)
+Seat 9: quickben7 ($1000.00 in chips)
+el0el: posts small blind $50.00
+quickben7: posts big blind $100.00
+*** HOLE CARDS ***
+el0el: raises $950.00 to $1050.00
+quickben7: calls $900.00 and is all-in
+Uncalled bet ($50.00) returned to el0el
+*** FIRST FLOP *** [Ah Th 9d]
+*** FIRST TURN *** [Ah Th 9d] [3h]
+*** FIRST RIVER *** [Ah Th 9d 3h] [8c]
+*** SECOND FLOP *** [Qc 4h 7c]
+*** SECOND TURN *** [Qc 4h 7c] [8s]
+*** SECOND RIVER *** [Qc 4h 7c 8s] [3c]
+*** FIRST SHOW DOWN ***
+el0el: shows [As Kc]
+quickben7: shows [Ad Qs]
+el0el collected $999.38 from pot
+*** SECOND SHOW DOWN ***
+el0el: shows [As Kc]
+quickben7: shows [Ad Qs]
+quickben7 collected $999.37 from pot
+*** SUMMARY ***
+Total pot $2000.00 | Rake $1.25
+Hand was run twice
+FIRST Board [Ah Th 9d 3h 8c]
+SECOND Board [Qc 4h 7c 8s 3c]
+Seat 1: el0el (button) (small blind) showed [As Kc] and won ($999.38), and lost
+Seat 9: quickben7 (big blind) showed [Ad Qs] and lost, and won ($999.37)
+
+PokerStars Hand #1517396555:  Hold'em No Limit ($50.00/$100.00 USD) - 2023/01/11 02:19:33 ET
+Table 'WPN_7 Day No Rathole 50/100 NLH' 9-max Seat #9 is the button
+Seat 1: el0el ($4932.72 in chips)
+Seat 2: alanwatts15 ($1000.00 in chips)
+Seat 3: Haftbefehl ($5857.00 in chips)
+Seat 9: quickben7 ($999.37 in chips)
+quickben7: posts small blind $50.00
+el0el: posts big blind $100.00
+*** HOLE CARDS ***
+quickben7: raises $899.37 to $999.37 and is all-in
+el0el: folds
+Uncalled bet ($899.37) returned to quickben7
+quickben7 collected $200.00 from pot
+quickben7: doesn't show hand
+*** SUMMARY ***
+Total pot $200.00 | Rake $0.00
+Seat 1: el0el (big blind) folded before Flop
+Seat 9: quickben7 (button) (small blind) collected ($200.00)
+
+PokerStars Hand #1517396847:  Hold'em No Limit ($50.00/$100.00 USD) - 2023/01/11 02:19:46 ET
+Table 'WPN_7 Day No Rathole 50/100 NLH' 9-max Seat #9 is the button
+Seat 1: el0el ($4832.72 in chips)
+Seat 2: alanwatts15 ($1000.00 in chips)
+Seat 9: quickben7 ($1099.37 in chips)
+el0el: posts small blind $50.00
+alanwatts15: posts big blind $100.00
+*** HOLE CARDS ***
+quickben7: folds
+el0el: raises $950.00 to $1050.00
+alanwatts15: folds
+Uncalled bet ($950.00) returned to el0el
+el0el collected $200.00 from pot
+el0el: doesn't show hand
+*** SUMMARY ***
+Total pot $200.00 | Rake $0.00
+Seat 1: el0el (small blind) collected ($200.00)
+Seat 2: alanwatts15 (big blind) folded before Flop
+Seat 9: quickben7 (button) folded before Flop (didn't bet)
+
+PokerStars Hand #1517397242:  Hold'em No Limit ($50.00/$100.00 USD) - 2023/01/11 02:20:03 ET
+Table 'WPN_7 Day No Rathole 50/100 NLH' 9-max Seat #1 is the button
+Seat 1: el0el ($4932.72 in chips)
+Seat 2: alanwatts15 ($900.00 in chips)
+Seat 9: quickben7 ($1099.37 in chips)
+alanwatts15: posts small blind $50.00
+quickben7: posts big blind $100.00
+*** HOLE CARDS ***
+el0el: folds
+alanwatts15: folds
+Uncalled bet ($50.00) returned to quickben7
+quickben7 collected $100.00 from pot
+quickben7: doesn't show hand
+*** SUMMARY ***
+Total pot $100.00 | Rake $0.00
+Seat 1: el0el (button) folded before Flop (didn't bet)
+Seat 2: alanwatts15 (small blind) folded before Flop
+Seat 9: quickben7 (big blind) collected ($100.00)
+
+PokerStars Hand #1517397551:  Hold'em No Limit ($50.00/$100.00 USD) - 2023/01/11 02:20:15 ET
+Table 'WPN_7 Day No Rathole 50/100 NLH' 9-max Seat #2 is the button
+Seat 1: el0el ($4932.72 in chips)
+Seat 2: alanwatts15 ($950.00 in chips)
+Seat 9: quickben7 ($1149.37 in chips)
+quickben7: posts small blind $50.00
+el0el: posts big blind $100.00
+*** HOLE CARDS ***
+alanwatts15: folds
+quickben7: raises $1049.37 to $1149.37 and is all-in
+el0el: folds
+Uncalled bet ($1049.37) returned to quickben7
+quickben7 collected $200.00 from pot
+quickben7: doesn't show hand
+*** SUMMARY ***
+Total pot $200.00 | Rake $0.00
+Seat 1: el0el (big blind) folded before Flop
+Seat 2: alanwatts15 (button) folded before Flop (didn't bet)
+Seat 9: quickben7 (small blind) collected ($200.00)
+
+PokerStars Hand #1517397836:  Hold'em No Limit ($50.00/$100.00 USD) - 2023/01/11 02:20:27 ET
+Table 'WPN_7 Day No Rathole 50/100 NLH' 9-max Seat #9 is the button
+Seat 1: el0el ($4832.72 in chips)
+Seat 2: alanwatts15 ($950.00 in chips)
+Seat 9: quickben7 ($1249.37 in chips)
+el0el: posts small blind $50.00
+alanwatts15: posts big blind $100.00
+*** HOLE CARDS ***
+quickben7: raises $1149.37 to $1249.37 and is all-in
+el0el: folds
+alanwatts15: folds
+Uncalled bet ($1149.37) returned to quickben7
+quickben7 collected $250.00 from pot
+quickben7: doesn't show hand
+*** SUMMARY ***
+Total pot $250.00 | Rake $0.00
+Seat 1: el0el (small blind) folded before Flop
+Seat 2: alanwatts15 (big blind) folded before Flop
+Seat 9: quickben7 (button) collected ($250.00)
+
+PokerStars Hand #1517398079:  Hold'em No Limit ($50.00/$100.00 USD) - 2023/01/11 02:20:37 ET
+Table 'WPN_7 Day No Rathole 50/100 NLH' 9-max Seat #1 is the button
+Seat 1: el0el ($4782.72 in chips)
+Seat 2: alanwatts15 ($900.00 in chips)
+Seat 9: quickben7 ($1399.37 in chips)
+alanwatts15: posts small blind $50.00
+el0el: posts big blind $100.00
+*** HOLE CARDS ***
+alanwatts15: raises $900.00 to $1000.00 and is all-in
+el0el: folds
+Uncalled bet ($900.00) returned to alanwatts15
+alanwatts15 collected $200.00 from pot
+alanwatts15: doesn't show hand
+*** SUMMARY ***
+Total pot $200.00 | Rake $0.00
+Seat 1: el0el (button) (big blind) folded before Flop
+Seat 2: alanwatts15 (small blind) collected ($200.00)
+

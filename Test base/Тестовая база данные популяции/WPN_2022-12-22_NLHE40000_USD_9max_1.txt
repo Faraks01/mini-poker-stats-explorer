@@ -1,0 +1,79 @@
+PokerStars Hand #1494376696:  Hold'em No Limit ($200.00/$400.00 USD) - 2022/12/22 10:21:40 ET
+Table 'WPN_7 Day No Rathole 200/400 NLH - Limited Time' 9-max Seat #6 is the button
+Seat 1: alanwatts15 ($46361.70 in chips)
+Seat 6: Burundos254 ($28139.36 in chips)
+Burundos254: posts small blind $200.00
+alanwatts15: posts big blind $400.00
+*** HOLE CARDS ***
+Burundos254: raises $500.00 to $900.00
+alanwatts15: raises $2900.00 to $3800.00
+Burundos254: calls $2900.00
+*** FLOP *** [4h 2c 7c]
+alanwatts15: bets $3800.00
+Burundos254: calls $3800.00
+*** TURN *** [4h 2c 7c] [4s]
+alanwatts15: checks
+Burundos254: checks
+*** RIVER *** [4h 2c 7c 4s] [5s]
+alanwatts15: checks
+Burundos254: checks
+*** SHOW DOWN ***
+Burundos254: shows [As Qs]
+alanwatts15: mucks hand
+Burundos254 collected $15198.75 from pot
+*** SUMMARY ***
+Total pot $15200.00 | Rake $1.25
+Board [4h 2c 7c 4s 5s]
+Seat 1: alanwatts15 (big blind) mucked
+Seat 6: Burundos254 (button) (small blind) showed [As Qs] and won ($15198.75)
+
+PokerStars Hand #1493760773:  Hold'em No Limit ($200.00/$400.00 USD) - 2022/12/21 23:06:25 ET
+Table 'WPN_7 Day No Rathole 200/400 NLH - Limited Time' 9-max Seat #2 is the button
+Seat 1: alanwatts15 ($50509.70 in chips)
+Seat 2: oneplusone ($197516.61 in chips)
+oneplusone: posts small blind $200.00
+alanwatts15: posts big blind $400.00
+*** HOLE CARDS ***
+oneplusone: folds
+Uncalled bet ($200.00) returned to alanwatts15
+alanwatts15 collected $400.00 from pot
+alanwatts15: doesn't show hand
+*** SUMMARY ***
+Total pot $400.00 | Rake $0.00
+Seat 1: alanwatts15 (big blind) collected ($400.00)
+Seat 2: oneplusone (button) (small blind) folded before Flop
+
+PokerStars Hand #1493782843:  Hold'em No Limit ($200.00/$400.00 USD) - 2022/12/21 23:24:39 ET
+Table 'WPN_7 Day No Rathole 200/400 NLH - Limited Time' 9-max Seat #1 is the button
+Seat 1: alanwatts15 ($50709.70 in chips)
+Seat 6: bot35 ($7995.87 in chips)
+alanwatts15: posts small blind $200.00
+bot35: posts big blind $400.00
+*** HOLE CARDS ***
+alanwatts15: raises $400.00 to $800.00
+bot35: raises $7195.87 to $7995.87 and is all-in
+alanwatts15: folds
+Uncalled bet ($7195.87) returned to bot35
+bot35 collected $1600.00 from pot
+bot35: doesn't show hand
+*** SUMMARY ***
+Total pot $1600.00 | Rake $0.00
+Seat 1: alanwatts15 (button) (small blind) folded before Flop
+Seat 6: bot35 (big blind) collected ($1600.00)
+
+PokerStars Hand #1493783354:  Hold'em No Limit ($200.00/$400.00 USD) - 2022/12/21 23:25:04 ET
+Table 'WPN_7 Day No Rathole 200/400 NLH - Limited Time' 9-max Seat #6 is the button
+Seat 1: alanwatts15 ($49909.70 in chips)
+Seat 6: bot35 ($8795.87 in chips)
+bot35: posts small blind $200.00
+alanwatts15: posts big blind $400.00
+*** HOLE CARDS ***
+bot35: folds
+Uncalled bet ($200.00) returned to alanwatts15
+alanwatts15 collected $400.00 from pot
+alanwatts15: doesn't show hand
+*** SUMMARY ***
+Total pot $400.00 | Rake $0.00
+Seat 1: alanwatts15 (big blind) collected ($400.00)
+Seat 6: bot35 (button) (small blind) folded before Flop
+

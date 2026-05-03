@@ -1,0 +1,4826 @@
+PokerStars Hand #1508328308:  Hold'em No Limit ($25.00/$50.00 USD) - 2023/01/03 21:00:57 ET
+Table 'WPN_Fairway' 6-max Seat #6 is the button
+Seat 2: TIKITAKA11 ($6701.38 in chips)
+Seat 3: RealMenRathole ($22994.50 in chips)
+Seat 4: Meek Bill ($5963.62 in chips)
+Seat 6: Padishar ($8269.22 in chips)
+RealMenRathole: posts small blind $25.00
+Meek Bill: posts big blind $50.00
+*** HOLE CARDS ***
+Padishar: folds
+RealMenRathole: raises $100.00 to $150.00
+Meek Bill: folds
+Uncalled bet ($100.00) returned to RealMenRathole
+RealMenRathole collected $100.00 from pot
+RealMenRathole: doesn't show hand
+*** SUMMARY ***
+Total pot $100.00 | Rake $0.00
+Seat 3: RealMenRathole (small blind) collected ($100.00)
+Seat 4: Meek Bill (big blind) folded before Flop
+Seat 6: Padishar (button) folded before Flop (didn't bet)
+
+PokerStars Hand #1508328504:  Hold'em No Limit ($25.00/$50.00 USD) - 2023/01/03 21:01:13 ET
+Table 'WPN_Fairway' 6-max Seat #3 is the button
+Seat 2: TIKITAKA11 ($6701.38 in chips)
+Seat 3: RealMenRathole ($23044.50 in chips)
+Seat 4: Meek Bill ($5913.62 in chips)
+Seat 6: Padishar ($8269.22 in chips)
+Meek Bill: posts small blind $25.00
+Padishar: posts big blind $50.00
+*** HOLE CARDS ***
+RealMenRathole: folds
+Meek Bill: folds
+Uncalled bet ($25.00) returned to Padishar
+Padishar collected $50.00 from pot
+Padishar: doesn't show hand
+*** SUMMARY ***
+Total pot $50.00 | Rake $0.00
+Seat 3: RealMenRathole (button) folded before Flop (didn't bet)
+Seat 4: Meek Bill (small blind) folded before Flop
+Seat 6: Padishar (big blind) collected ($50.00)
+
+PokerStars Hand #1508328734:  Hold'em No Limit ($25.00/$50.00 USD) - 2023/01/03 21:01:26 ET
+Table 'WPN_Fairway' 6-max Seat #4 is the button
+Seat 2: TIKITAKA11 ($6701.38 in chips)
+Seat 3: RealMenRathole ($23044.50 in chips)
+Seat 4: Meek Bill ($5888.62 in chips)
+Seat 6: Padishar ($8294.22 in chips)
+Padishar: posts small blind $25.00
+TIKITAKA11: posts big blind $50.00
+*** HOLE CARDS ***
+RealMenRathole: raises $62.50 to $112.50
+Meek Bill: folds
+Padishar: folds
+TIKITAKA11: raises $452.50 to $565.00
+RealMenRathole: calls $452.50
+*** FLOP *** [7s 4d 6s]
+TIKITAKA11: checks
+RealMenRathole: checks
+*** TURN *** [7s 4d 6s] [Jc]
+TIKITAKA11: bets $1732.50
+RealMenRathole: folds
+Uncalled bet ($1732.50) returned to TIKITAKA11
+TIKITAKA11 collected $1152.75 from pot
+TIKITAKA11: doesn't show hand
+*** SUMMARY ***
+Total pot $1155.00 | Rake $2.25
+Board [7s 4d 6s Jc]
+Seat 2: TIKITAKA11 (big blind) collected ($1152.75)
+Seat 3: RealMenRathole folded on the Turn
+Seat 4: Meek Bill (button) folded before Flop (didn't bet)
+Seat 6: Padishar (small blind) folded before Flop
+
+PokerStars Hand #1508329777:  Hold'em No Limit ($25.00/$50.00 USD) - 2023/01/03 21:02:24 ET
+Table 'WPN_Fairway' 6-max Seat #6 is the button
+Seat 2: TIKITAKA11 ($7289.13 in chips)
+Seat 3: RealMenRathole ($22479.50 in chips)
+Seat 4: Meek Bill ($5888.62 in chips)
+Seat 6: Padishar ($8269.22 in chips)
+TIKITAKA11: posts small blind $25.00
+RealMenRathole: posts big blind $50.00
+*** HOLE CARDS ***
+Meek Bill: raises $75.00 to $125.00
+Padishar: raises $287.50 to $412.50
+TIKITAKA11: folds
+RealMenRathole: folds
+Meek Bill: calls $287.50
+*** FLOP *** [Ad 7h 8d]
+Meek Bill: checks
+Padishar: bets $278.30
+Meek Bill: calls $278.30
+*** TURN *** [Ad 7h 8d] [9h]
+Meek Bill: checks
+Padishar: bets $999.41
+Meek Bill: calls $999.41
+*** RIVER *** [Ad 7h 8d 9h] [8h]
+Meek Bill: checks
+Padishar: checks
+*** SHOW DOWN ***
+Meek Bill: shows [8s 9s]
+Padishar: mucks hand
+Meek Bill collected $3453.17 from pot
+*** SUMMARY ***
+Total pot $3455.42 | Rake $2.25
+Board [Ad 7h 8d 9h 8h]
+Seat 2: TIKITAKA11 (small blind) folded before Flop
+Seat 3: RealMenRathole (big blind) folded before Flop
+Seat 4: Meek Bill showed [8s 9s] and won ($3453.17)
+Seat 6: Padishar (button) mucked
+
+PokerStars Hand #1508331486:  Hold'em No Limit ($25.00/$50.00 USD) - 2023/01/03 21:04:07 ET
+Table 'WPN_Fairway' 6-max Seat #3 is the button
+Seat 2: TIKITAKA11 ($7264.13 in chips)
+Seat 3: RealMenRathole ($22429.50 in chips)
+Seat 4: Meek Bill ($7651.58 in chips)
+Seat 6: Padishar ($6579.01 in chips)
+TIKITAKA11: posts the ante $250.00
+RealMenRathole: posts the ante $250.00
+Meek Bill: posts the ante $250.00
+Padishar: posts the ante $250.00
+*** HOLE CARDS ***
+*** FLOP *** [6h 9c 9d]
+Meek Bill: checks
+Padishar: checks
+TIKITAKA11: checks
+RealMenRathole: bets $100.00
+Meek Bill: folds
+Padishar: folds
+TIKITAKA11: folds
+Uncalled bet ($100.00) returned to RealMenRathole
+RealMenRathole collected $997.75 from pot
+RealMenRathole: doesn't show hand
+*** SUMMARY ***
+Total pot $1000.00 | Rake $2.25
+Board [6h 9c 9d]
+Seat 2: TIKITAKA11 folded on the Flop
+Seat 3: RealMenRathole (button) collected ($997.75)
+Seat 4: Meek Bill folded on the Flop
+Seat 6: Padishar folded on the Flop
+
+PokerStars Hand #1509279739:  Hold'em No Limit ($25.00/$50.00 USD) - 2023/01/04 18:17:31 ET
+Table 'WPN_Grayslake' 6-max Seat #4 is the button
+Seat 2: moneybyebye ($5000.00 in chips)
+Seat 4: rigggedeck ($2000.00 in chips)
+moneybyebye: posts the ante $250.00
+rigggedeck: posts the ante $250.00
+*** HOLE CARDS ***
+*** FLOP *** [Js 6c 4h]
+moneybyebye: checks
+rigggedeck: checks
+*** TURN *** [Js 6c 4h] [Qd]
+moneybyebye: bets $375.00
+rigggedeck: calls $375.00
+*** RIVER *** [Js 6c 4h Qd] [6h]
+moneybyebye: checks
+rigggedeck: checks
+*** SHOW DOWN ***
+rigggedeck: shows [2c Ac]
+moneybyebye: mucks hand
+rigggedeck collected $1248.75 from pot
+*** SUMMARY ***
+Total pot $1250.00 | Rake $1.25
+Board [Js 6c 4h Qd 6h]
+Seat 2: moneybyebye mucked
+Seat 4: rigggedeck (button) showed [2c Ac] and won ($1248.75)
+
+PokerStars Hand #1509113077:  Hold'em No Limit ($25.00/$50.00 USD) - 2023/01/04 13:40:07 ET
+Table 'WPN_Garden Plain' 6-max Seat #2 is the button
+Seat 2: IdoGoats ($2173.75 in chips)
+Seat 3: xplo1t4bl3 ($5000.00 in chips)
+Seat 5: THECAGE ($4825.00 in chips)
+Seat 6: ItsOkToHelp ($2000.00 in chips)
+THECAGE: posts small blind $25.00
+ItsOkToHelp: posts big blind $50.00
+*** HOLE CARDS ***
+IdoGoats: folds
+THECAGE: folds
+Uncalled bet ($25.00) returned to ItsOkToHelp
+ItsOkToHelp collected $50.00 from pot
+ItsOkToHelp: doesn't show hand
+*** SUMMARY ***
+Total pot $50.00 | Rake $0.00
+Seat 2: IdoGoats (button) folded before Flop (didn't bet)
+Seat 5: THECAGE (small blind) folded before Flop
+Seat 6: ItsOkToHelp (big blind) collected ($50.00)
+
+PokerStars Hand #1509113105:  Hold'em No Limit ($25.00/$50.00 USD) - 2023/01/04 13:40:17 ET
+Table 'WPN_Garden Plain' 6-max Seat #5 is the button
+Seat 3: xplo1t4bl3 ($5000.00 in chips)
+Seat 5: THECAGE ($4800.00 in chips)
+Seat 6: ItsOkToHelp ($2025.00 in chips)
+ItsOkToHelp: posts small blind $25.00
+xplo1t4bl3: posts big blind $50.00
+*** HOLE CARDS ***
+THECAGE: folds
+ItsOkToHelp: raises $100.00 to $150.00
+xplo1t4bl3: calls $100.00
+*** FLOP *** [6d Qc Kc]
+ItsOkToHelp: checks
+xplo1t4bl3: checks
+*** TURN *** [6d Qc Kc] [Qh]
+ItsOkToHelp: checks
+xplo1t4bl3: checks
+*** RIVER *** [6d Qc Kc Qh] [2s]
+ItsOkToHelp: checks
+xplo1t4bl3: checks
+*** SHOW DOWN ***
+ItsOkToHelp: shows [Jd Js]
+xplo1t4bl3: mucks hand
+ItsOkToHelp collected $298.25 from pot
+*** SUMMARY ***
+Total pot $300.00 | Rake $1.75
+Board [6d Qc Kc Qh 2s]
+Seat 3: xplo1t4bl3 (big blind) mucked
+Seat 5: THECAGE (button) folded before Flop (didn't bet)
+Seat 6: ItsOkToHelp (small blind) showed [Jd Js] and won ($298.25)
+
+PokerStars Hand #1509113314:  Hold'em No Limit ($25.00/$50.00 USD) - 2023/01/04 13:41:50 ET
+Table 'WPN_Garden Plain' 6-max Seat #6 is the button
+Seat 5: THECAGE ($4800.00 in chips)
+Seat 6: ItsOkToHelp ($2173.25 in chips)
+ItsOkToHelp: posts small blind $25.00
+THECAGE: posts big blind $50.00
+*** HOLE CARDS ***
+ItsOkToHelp: raises $60.00 to $110.00
+THECAGE: folds
+Uncalled bet ($60.00) returned to ItsOkToHelp
+ItsOkToHelp collected $100.00 from pot
+ItsOkToHelp: doesn't show hand
+*** SUMMARY ***
+Total pot $100.00 | Rake $0.00
+Seat 5: THECAGE (big blind) folded before Flop
+Seat 6: ItsOkToHelp (button) (small blind) collected ($100.00)
+
+PokerStars Hand #1509113376:  Hold'em No Limit ($25.00/$50.00 USD) - 2023/01/04 13:42:16 ET
+Table 'WPN_Garden Plain' 6-max Seat #5 is the button
+Seat 5: THECAGE ($4725.00 in chips)
+Seat 6: ItsOkToHelp ($2223.25 in chips)
+THECAGE: posts small blind $25.00
+ItsOkToHelp: posts big blind $50.00
+*** HOLE CARDS ***
+THECAGE: folds
+Uncalled bet ($25.00) returned to ItsOkToHelp
+ItsOkToHelp collected $50.00 from pot
+ItsOkToHelp: doesn't show hand
+*** SUMMARY ***
+Total pot $50.00 | Rake $0.00
+Seat 5: THECAGE (button) (small blind) folded before Flop
+Seat 6: ItsOkToHelp (big blind) collected ($50.00)
+
+PokerStars Hand #1509188547:  Hold'em No Limit ($25.00/$50.00 USD) - 2023/01/04 16:31:01 ET
+Table 'WPN_Frostproof' 6-max Seat #5 is the button
+Seat 2: yourmytralala ($1000.00 in chips)
+Seat 5: Nimble123 ($1048.75 in chips)
+Nimble123: posts small blind $25.00
+yourmytralala: posts big blind $50.00
+*** HOLE CARDS ***
+Nimble123: calls $25.00
+yourmytralala: raises $100.00 to $150.00
+Nimble123: calls $100.00
+*** FLOP *** [Ks 6c 8d]
+yourmytralala: bets $78.00
+Nimble123: calls $78.00
+*** TURN *** [Ks 6c 8d] [7s]
+yourmytralala: bets $228.00
+Nimble123: folds
+Uncalled bet ($228.00) returned to yourmytralala
+yourmytralala collected $454.75 from pot
+yourmytralala: doesn't show hand
+*** SUMMARY ***
+Total pot $456.00 | Rake $1.25
+Board [Ks 6c 8d 7s]
+Seat 2: yourmytralala (big blind) collected ($454.75)
+Seat 5: Nimble123 (button) (small blind) folded on the Turn
+
+PokerStars Hand #1509189169:  Hold'em No Limit ($25.00/$50.00 USD) - 2023/01/04 16:31:57 ET
+Table 'WPN_Frostproof' 6-max Seat #5 is the button
+Seat 2: yourmytralala ($1226.75 in chips)
+Seat 5: Nimble123 ($820.75 in chips)
+Nimble123: posts small blind $25.00
+yourmytralala: posts big blind $50.00
+*** HOLE CARDS ***
+Nimble123: raises $50.00 to $100.00
+yourmytralala: calls $50.00
+*** FLOP *** [Ah 3d 3c]
+yourmytralala: checks
+Nimble123: bets $59.62
+yourmytralala: folds
+Uncalled bet ($59.62) returned to Nimble123
+Nimble123 collected $198.75 from pot
+Nimble123: doesn't show hand
+*** SUMMARY ***
+Total pot $200.00 | Rake $1.25
+Board [Ah 3d 3c]
+Seat 2: yourmytralala (big blind) folded on the Flop
+Seat 5: Nimble123 (button) (small blind) collected ($198.75)
+
+PokerStars Hand #1509189364:  Hold'em No Limit ($25.00/$50.00 USD) - 2023/01/04 16:32:16 ET
+Table 'WPN_Frostproof' 6-max Seat #2 is the button
+Seat 2: yourmytralala ($1126.75 in chips)
+Seat 5: Nimble123 ($1098.75 in chips)
+yourmytralala: posts small blind $25.00
+Nimble123: posts big blind $50.00
+*** HOLE CARDS ***
+yourmytralala: raises $50.00 to $100.00
+Nimble123: calls $50.00
+*** FLOP *** [Jd 2c 7s]
+Nimble123: checks
+yourmytralala: bets $50.00
+Nimble123: folds
+Uncalled bet ($50.00) returned to yourmytralala
+yourmytralala collected $198.75 from pot
+yourmytralala: doesn't show hand
+*** SUMMARY ***
+Total pot $200.00 | Rake $1.25
+Board [Jd 2c 7s]
+Seat 2: yourmytralala (button) (small blind) collected ($198.75)
+Seat 5: Nimble123 (big blind) folded on the Flop
+
+PokerStars Hand #1508995226:  Hold'em No Limit ($25.00/$50.00 USD) - 2023/01/04 06:33:25 ET
+Table 'WPN_Litchfield' 6-max Seat #1 is the button
+Seat 1: GrimTrucker ($5000.00 in chips)
+Seat 4: vesnapisarovic ($5000.00 in chips)
+GrimTrucker: posts small blind $25.00
+vesnapisarovic: posts big blind $50.00
+*** HOLE CARDS ***
+GrimTrucker: raises $75.00 to $125.00
+vesnapisarovic: calls $75.00
+*** FLOP *** [9s 5h Qd]
+vesnapisarovic: checks
+GrimTrucker: bets $75.00
+vesnapisarovic: raises $300.00 to $375.00
+GrimTrucker: calls $300.00
+*** TURN *** [9s 5h Qd] [Jh]
+vesnapisarovic: checks
+GrimTrucker: checks
+*** RIVER *** [9s 5h Qd Jh] [3s]
+vesnapisarovic: checks
+GrimTrucker: bets $750.00
+vesnapisarovic: folds
+Uncalled bet ($750.00) returned to GrimTrucker
+GrimTrucker collected $998.75 from pot
+GrimTrucker: doesn't show hand
+*** SUMMARY ***
+Total pot $1000.00 | Rake $1.25
+Board [9s 5h Qd Jh 3s]
+Seat 1: GrimTrucker (button) (small blind) collected ($998.75)
+Seat 4: vesnapisarovic (big blind) folded on the River
+
+PokerStars Hand #1508995335:  Hold'em No Limit ($25.00/$50.00 USD) - 2023/01/04 06:33:48 ET
+Table 'WPN_Elvaston' 6-max Seat #1 is the button
+Seat 1: GrimTrucker ($5000.00 in chips)
+Seat 4: vesnapisarovic ($5000.00 in chips)
+GrimTrucker: posts the ante $250.00
+vesnapisarovic: posts the ante $250.00
+*** HOLE CARDS ***
+*** FLOP *** [3h 2c Ac]
+vesnapisarovic: checks
+GrimTrucker: checks
+*** TURN *** [3h 2c Ac] [7c]
+vesnapisarovic: bets $145.00
+GrimTrucker: folds
+Uncalled bet ($145.00) returned to vesnapisarovic
+vesnapisarovic collected $498.75 from pot
+vesnapisarovic: doesn't show hand
+*** SUMMARY ***
+Total pot $500.00 | Rake $1.25
+Board [3h 2c Ac 7c]
+Seat 1: GrimTrucker (button) folded on the Turn
+Seat 4: vesnapisarovic collected ($498.75)
+
+PokerStars Hand #1508996671:  Hold'em No Limit ($25.00/$50.00 USD) - 2023/01/04 06:35:25 ET
+Table 'WPN_Litchfield' 6-max Seat #4 is the button
+Seat 1: GrimTrucker ($5498.75 in chips)
+Seat 4: vesnapisarovic ($4500.00 in chips)
+vesnapisarovic: posts small blind $25.00
+GrimTrucker: posts big blind $50.00
+*** HOLE CARDS ***
+vesnapisarovic: raises $75.00 to $125.00
+GrimTrucker: calls $75.00
+*** FLOP *** [Th 2s 5c]
+GrimTrucker: checks
+vesnapisarovic: checks
+*** TURN *** [Th 2s 5c] [Qc]
+GrimTrucker: checks
+vesnapisarovic: checks
+*** RIVER *** [Th 2s 5c Qc] [Td]
+GrimTrucker: bets $187.50
+vesnapisarovic: calls $187.50
+*** SHOW DOWN ***
+vesnapisarovic: shows [7d Qs]
+GrimTrucker: mucks hand
+vesnapisarovic collected $623.75 from pot
+*** SUMMARY ***
+Total pot $625.00 | Rake $1.25
+Board [Th 2s 5c Qc Td]
+Seat 1: GrimTrucker (big blind) mucked
+Seat 4: vesnapisarovic (button) (small blind) showed [7d Qs] and won ($623.75)
+
+PokerStars Hand #1508721121:  Hold'em No Limit ($25.00/$50.00 USD) - 2023/01/04 02:11:37 ET
+Table 'WPN_North Pekin' 6-max Seat #4 is the button
+Seat 2: iisuslove ($2000.00 in chips)
+Seat 4: rigggedeck ($9889.59 in chips)
+Seat 5: 7SkyAroundMe ($6407.48 in chips)
+Seat 6: OhHiMark18 ($4534.50 in chips)
+7SkyAroundMe: posts small blind $25.00
+iisuslove: posts big blind $50.00
+*** HOLE CARDS ***
+rigggedeck: raises $75.00 to $125.00
+7SkyAroundMe: folds
+iisuslove: folds
+Uncalled bet ($75.00) returned to rigggedeck
+rigggedeck collected $125.00 from pot
+rigggedeck: doesn't show hand
+*** SUMMARY ***
+Total pot $125.00 | Rake $0.00
+Seat 2: iisuslove (big blind) folded before Flop
+Seat 4: rigggedeck (button) collected ($125.00)
+Seat 5: 7SkyAroundMe (small blind) folded before Flop
+
+PokerStars Hand #1508719336:  Hold'em No Limit ($25.00/$50.00 USD) - 2023/01/04 02:10:23 ET
+Table 'WPN_North Pekin' 6-max Seat #6 is the button
+Seat 4: rigggedeck ($9266.34 in chips)
+Seat 5: 7SkyAroundMe ($6457.48 in chips)
+Seat 6: OhHiMark18 ($5109.50 in chips)
+rigggedeck: posts small blind $25.00
+7SkyAroundMe: posts big blind $50.00
+*** HOLE CARDS ***
+OhHiMark18: raises $75.00 to $125.00
+rigggedeck: raises $400.00 to $525.00
+7SkyAroundMe: folds
+OhHiMark18: calls $400.00
+*** FLOP *** [4c 8h 8s]
+rigggedeck: bets $50.00
+OhHiMark18: calls $50.00
+*** TURN *** [4c 8h 8s] [2s]
+rigggedeck: bets $284.47
+OhHiMark18: folds
+Uncalled bet ($284.47) returned to rigggedeck
+rigggedeck collected $1198.25 from pot
+rigggedeck: doesn't show hand
+*** SUMMARY ***
+Total pot $1200.00 | Rake $1.75
+Board [4c 8h 8s 2s]
+Seat 4: rigggedeck (small blind) collected ($1198.25)
+Seat 5: 7SkyAroundMe (big blind) folded before Flop
+Seat 6: OhHiMark18 (button) folded on the Turn
+
+PokerStars Hand #1508526909:  Hold'em No Limit ($25.00/$50.00 USD) - 2023/01/03 23:36:49 ET
+Table 'WPN_Murrieta' 6-max Seat #1 is the button
+Seat 1: 7SkyAroundMe ($5000.00 in chips)
+Seat 4: Padishar ($5125.00 in chips)
+7SkyAroundMe: posts the ante $250.00
+Padishar: posts the ante $250.00
+*** HOLE CARDS ***
+*** FLOP *** [2c 9s 7s]
+Padishar: checks
+7SkyAroundMe: bets $125.00
+Padishar: folds
+Uncalled bet ($125.00) returned to 7SkyAroundMe
+7SkyAroundMe collected $498.75 from pot
+7SkyAroundMe: doesn't show hand
+*** SUMMARY ***
+Total pot $500.00 | Rake $1.25
+Board [2c 9s 7s]
+Seat 1: 7SkyAroundMe (button) collected ($498.75)
+Seat 4: Padishar folded on the Flop
+
+PokerStars Hand #1508528061:  Hold'em No Limit ($25.00/$50.00 USD) - 2023/01/03 23:37:25 ET
+Table 'WPN_Murrieta' 6-max Seat #4 is the button
+Seat 1: 7SkyAroundMe ($5248.75 in chips)
+Seat 4: Padishar ($4875.00 in chips)
+Padishar: posts small blind $25.00
+7SkyAroundMe: posts big blind $50.00
+*** HOLE CARDS ***
+Padishar: folds
+Uncalled bet ($25.00) returned to 7SkyAroundMe
+7SkyAroundMe collected $50.00 from pot
+7SkyAroundMe: doesn't show hand
+*** SUMMARY ***
+Total pot $50.00 | Rake $0.00
+Seat 1: 7SkyAroundMe (big blind) collected ($50.00)
+Seat 4: Padishar (button) (small blind) folded before Flop
+
+PokerStars Hand #1508528787:  Hold'em No Limit ($25.00/$50.00 USD) - 2023/01/03 23:37:57 ET
+Table 'WPN_North Pekin' 6-max Seat #5 is the button
+Seat 2: RealEnough ($5000.00 in chips)
+Seat 5: 7SkyAroundMe ($5745.61 in chips)
+7SkyAroundMe: posts small blind $25.00
+RealEnough: posts big blind $50.00
+*** HOLE CARDS ***
+7SkyAroundMe: folds
+Uncalled bet ($25.00) returned to RealEnough
+RealEnough collected $50.00 from pot
+RealEnough: doesn't show hand
+*** SUMMARY ***
+Total pot $50.00 | Rake $0.00
+Seat 2: RealEnough (big blind) collected ($50.00)
+Seat 5: 7SkyAroundMe (button) (small blind) folded before Flop
+
+PokerStars Hand #1508528412:  Hold'em No Limit ($25.00/$50.00 USD) - 2023/01/03 23:37:40 ET
+Table 'WPN_Murrieta' 6-max Seat #1 is the button
+Seat 1: 7SkyAroundMe ($5273.75 in chips)
+Seat 4: Padishar ($4975.00 in chips)
+7SkyAroundMe: posts small blind $25.00
+Padishar: posts big blind $50.00
+*** HOLE CARDS ***
+7SkyAroundMe: raises $75.00 to $125.00
+Padishar: calls $75.00
+*** FLOP *** [7d 6c 3s]
+Padishar: checks
+7SkyAroundMe: checks
+*** TURN *** [7d 6c 3s] [Kd]
+Padishar: checks
+7SkyAroundMe: checks
+*** RIVER *** [7d 6c 3s Kd] [Qd]
+Padishar: bets $335.81
+7SkyAroundMe: folds
+Uncalled bet ($335.81) returned to Padishar
+Padishar collected $248.75 from pot
+Padishar: doesn't show hand
+*** SUMMARY ***
+Total pot $250.00 | Rake $1.25
+Board [7d 6c 3s Kd Qd]
+Seat 1: 7SkyAroundMe (button) (small blind) folded on the River
+Seat 4: Padishar (big blind) collected ($248.75)
+
+PokerStars Hand #1508529699:  Hold'em No Limit ($25.00/$50.00 USD) - 2023/01/03 23:38:37 ET
+Table 'WPN_Murrieta' 6-max Seat #4 is the button
+Seat 1: 7SkyAroundMe ($5148.75 in chips)
+Seat 4: Padishar ($5123.75 in chips)
+Padishar: posts small blind $25.00
+7SkyAroundMe: posts big blind $50.00
+*** HOLE CARDS ***
+Padishar: raises $75.00 to $125.00
+7SkyAroundMe: calls $75.00
+*** FLOP *** [4h 7d 2h]
+7SkyAroundMe: checks
+Padishar: bets $166.50
+7SkyAroundMe: folds
+Uncalled bet ($166.50) returned to Padishar
+Padishar collected $248.75 from pot
+Padishar: doesn't show hand
+*** SUMMARY ***
+Total pot $250.00 | Rake $1.25
+Board [4h 7d 2h]
+Seat 1: 7SkyAroundMe (big blind) folded on the Flop
+Seat 4: Padishar (button) (small blind) collected ($248.75)
+
+PokerStars Hand #1508600942:  Hold'em No Limit ($25.00/$50.00 USD) - 2023/01/04 00:36:22 ET
+Table 'WPN_Stone Mountain' 6-max Seat #2 is the button
+Seat 2: Pr.Lupine ($1000.00 in chips)
+Seat 4: BigP6188 ($1079.71 in chips)
+Pr.Lupine: posts small blind $25.00
+BigP6188: posts big blind $50.00
+*** HOLE CARDS ***
+Pr.Lupine: calls $25.00
+BigP6188: checks
+*** FLOP *** [8h 5h Qs]
+BigP6188: bets $50.00
+Pr.Lupine: raises $100.00 to $150.00
+BigP6188: calls $100.00
+*** TURN *** [8h 5h Qs] [Ts]
+BigP6188: checks
+Pr.Lupine: bets $800.00 and is all-in
+BigP6188: calls $800.00
+*** RIVER *** [8h 5h Qs Ts] [9c]
+*** SHOW DOWN ***
+BigP6188: shows [Jc 9h]
+Pr.Lupine: shows [Qc Ah]
+BigP6188 collected $1998.75 from pot
+*** SUMMARY ***
+Total pot $2000.00 | Rake $1.25
+Board [8h 5h Qs Ts 9c]
+Seat 2: Pr.Lupine (button) (small blind) showed [Qc Ah] and lost
+Seat 4: BigP6188 (big blind) showed [Jc 9h] and won ($1998.75)
+
+PokerStars Hand #1508601798:  Hold'em No Limit ($25.00/$50.00 USD) - 2023/01/04 00:37:04 ET
+Table 'WPN_Stone Mountain' 6-max Seat #4 is the button
+Seat 2: Pr.Lupine ($1000.00 in chips)
+Seat 4: BigP6188 ($2078.46 in chips)
+BigP6188: posts small blind $25.00
+Pr.Lupine: posts big blind $50.00
+*** HOLE CARDS ***
+BigP6188: calls $25.00
+Pr.Lupine: checks
+*** FLOP *** [5h 6c 8d]
+Pr.Lupine: checks
+BigP6188: checks
+*** TURN *** [5h 6c 8d] [5s]
+Pr.Lupine: bets $50.00
+BigP6188: folds
+Uncalled bet ($50.00) returned to Pr.Lupine
+Pr.Lupine collected $98.75 from pot
+Pr.Lupine: doesn't show hand
+*** SUMMARY ***
+Total pot $100.00 | Rake $1.25
+Board [5h 6c 8d 5s]
+Seat 2: Pr.Lupine (big blind) collected ($98.75)
+Seat 4: BigP6188 (button) (small blind) folded on the Turn
+
+PokerStars Hand #1508602514:  Hold'em No Limit ($25.00/$50.00 USD) - 2023/01/04 00:37:38 ET
+Table 'WPN_Stone Mountain' 6-max Seat #2 is the button
+Seat 2: Pr.Lupine ($1048.75 in chips)
+Seat 4: BigP6188 ($2028.46 in chips)
+Pr.Lupine: posts small blind $25.00
+BigP6188: posts big blind $50.00
+*** HOLE CARDS ***
+Pr.Lupine: folds
+Uncalled bet ($25.00) returned to BigP6188
+BigP6188 collected $50.00 from pot
+BigP6188: doesn't show hand
+*** SUMMARY ***
+Total pot $50.00 | Rake $0.00
+Seat 2: Pr.Lupine (button) (small blind) folded before Flop
+Seat 4: BigP6188 (big blind) collected ($50.00)
+
+PokerStars Hand #1508602771:  Hold'em No Limit ($25.00/$50.00 USD) - 2023/01/04 00:37:50 ET
+Table 'WPN_Stone Mountain' 6-max Seat #4 is the button
+Seat 2: Pr.Lupine ($1023.75 in chips)
+Seat 4: BigP6188 ($2053.46 in chips)
+BigP6188: posts small blind $25.00
+Pr.Lupine: posts big blind $50.00
+*** HOLE CARDS ***
+BigP6188: raises $50.00 to $100.00
+Pr.Lupine: folds
+Uncalled bet ($50.00) returned to BigP6188
+BigP6188 collected $100.00 from pot
+BigP6188: doesn't show hand
+*** SUMMARY ***
+Total pot $100.00 | Rake $0.00
+Seat 2: Pr.Lupine (big blind) folded before Flop
+Seat 4: BigP6188 (button) (small blind) collected ($100.00)
+
+PokerStars Hand #1508603084:  Hold'em No Limit ($25.00/$50.00 USD) - 2023/01/04 00:38:05 ET
+Table 'WPN_Stone Mountain' 6-max Seat #2 is the button
+Seat 2: Pr.Lupine ($973.75 in chips)
+Seat 4: BigP6188 ($2103.46 in chips)
+Pr.Lupine: posts small blind $25.00
+BigP6188: posts big blind $50.00
+*** HOLE CARDS ***
+Pr.Lupine: calls $25.00
+BigP6188: checks
+*** FLOP *** [7h 8d 4h]
+BigP6188: checks
+Pr.Lupine: checks
+*** TURN *** [7h 8d 4h] [9d]
+BigP6188: bets $75.00
+Pr.Lupine: folds
+Uncalled bet ($75.00) returned to BigP6188
+BigP6188 collected $98.75 from pot
+BigP6188: doesn't show hand
+*** SUMMARY ***
+Total pot $100.00 | Rake $1.25
+Board [7h 8d 4h 9d]
+Seat 2: Pr.Lupine (button) (small blind) folded on the Turn
+Seat 4: BigP6188 (big blind) collected ($98.75)
+
+PokerStars Hand #1508603716:  Hold'em No Limit ($25.00/$50.00 USD) - 2023/01/04 00:38:36 ET
+Table 'WPN_Stone Mountain' 6-max Seat #4 is the button
+Seat 2: Pr.Lupine ($950.00 in chips)
+Seat 4: BigP6188 ($2152.21 in chips)
+BigP6188: posts small blind $25.00
+Pr.Lupine: posts big blind $50.00
+*** HOLE CARDS ***
+BigP6188: raises $50.00 to $100.00
+Pr.Lupine: calls $50.00
+*** FLOP *** [Kh Tc 7c]
+Pr.Lupine: checks
+BigP6188: bets $100.00
+Pr.Lupine: calls $100.00
+*** TURN *** [Kh Tc 7c] [6h]
+Pr.Lupine: checks
+BigP6188: checks
+*** RIVER *** [Kh Tc 7c 6h] [Ks]
+Pr.Lupine: checks
+BigP6188: checks
+*** SHOW DOWN ***
+BigP6188: shows [Ac 9c]
+Pr.Lupine: mucks hand
+BigP6188 collected $398.75 from pot
+*** SUMMARY ***
+Total pot $400.00 | Rake $1.25
+Board [Kh Tc 7c 6h Ks]
+Seat 2: Pr.Lupine (big blind) mucked
+Seat 4: BigP6188 (button) (small blind) showed [Ac 9c] and won ($398.75)
+
+PokerStars Hand #1508604539:  Hold'em No Limit ($25.00/$50.00 USD) - 2023/01/04 00:39:15 ET
+Table 'WPN_Stone Mountain' 6-max Seat #2 is the button
+Seat 2: Pr.Lupine ($1000.00 in chips)
+Seat 4: BigP6188 ($2350.96 in chips)
+Pr.Lupine: posts small blind $25.00
+BigP6188: posts big blind $50.00
+*** HOLE CARDS ***
+Pr.Lupine: calls $25.00
+BigP6188: checks
+*** FLOP *** [7s Qd 8c]
+BigP6188: checks
+Pr.Lupine: checks
+*** TURN *** [7s Qd 8c] [4s]
+BigP6188: checks
+Pr.Lupine: bets $50.00
+BigP6188: folds
+Uncalled bet ($50.00) returned to Pr.Lupine
+Pr.Lupine collected $98.75 from pot
+Pr.Lupine: doesn't show hand
+*** SUMMARY ***
+Total pot $100.00 | Rake $1.25
+Board [7s Qd 8c 4s]
+Seat 2: Pr.Lupine (button) (small blind) collected ($98.75)
+Seat 4: BigP6188 (big blind) folded on the Turn
+
+PokerStars Hand #1508605226:  Hold'em No Limit ($25.00/$50.00 USD) - 2023/01/04 00:39:48 ET
+Table 'WPN_Stone Mountain' 6-max Seat #2 is the button
+Seat 2: Pr.Lupine ($1048.75 in chips)
+Seat 4: BigP6188 ($2300.96 in chips)
+Seat 6: dursty54 ($1000.00 in chips)
+BigP6188: posts small blind $25.00
+dursty54: posts big blind $50.00
+*** HOLE CARDS ***
+Pr.Lupine: raises $50.00 to $100.00
+BigP6188: folds
+dursty54: folds
+Uncalled bet ($50.00) returned to Pr.Lupine
+Pr.Lupine collected $125.00 from pot
+Pr.Lupine: doesn't show hand
+*** SUMMARY ***
+Total pot $125.00 | Rake $0.00
+Seat 2: Pr.Lupine (button) collected ($125.00)
+Seat 4: BigP6188 (small blind) folded before Flop
+Seat 6: dursty54 (big blind) folded before Flop
+
+PokerStars Hand #1508605642:  Hold'em No Limit ($25.00/$50.00 USD) - 2023/01/04 00:40:07 ET
+Table 'WPN_Stone Mountain' 6-max Seat #4 is the button
+Seat 2: Pr.Lupine ($1123.75 in chips)
+Seat 4: BigP6188 ($2275.96 in chips)
+Seat 6: dursty54 ($950.00 in chips)
+dursty54: posts small blind $25.00
+Pr.Lupine: posts big blind $50.00
+*** HOLE CARDS ***
+BigP6188: raises $93.75 to $143.75
+dursty54: raises $281.25 to $425.00
+Pr.Lupine: folds
+BigP6188: calls $281.25
+*** FLOP *** [6c 9c Qc]
+dursty54: bets $450.00
+BigP6188: raises $1400.96 to $1850.96 and is all-in
+dursty54: calls $1400.96
+*** TURN *** [6c 9c Qc] [3d]
+*** RIVER *** [6c 9c Qc 3d] [6s]
+*** SHOW DOWN ***
+BigP6188: shows [3c Kc]
+dursty54: shows [Ad Qd]
+BigP6188 collected $4600.17 from pot
+*** SUMMARY ***
+Total pot $4601.92 | Rake $1.75
+Board [6c 9c Qc 3d 6s]
+Seat 2: Pr.Lupine (big blind) folded before Flop
+Seat 4: BigP6188 (button) showed [3c Kc] and won ($4600.17)
+Seat 6: dursty54 (small blind) showed [Ad Qd] and lost
+
+PokerStars Hand #1508606468:  Hold'em No Limit ($25.00/$50.00 USD) - 2023/01/04 00:40:47 ET
+Table 'WPN_Stone Mountain' 6-max Seat #6 is the button
+Seat 2: Pr.Lupine ($1073.75 in chips)
+Seat 4: BigP6188 ($4600.17 in chips)
+Seat 6: dursty54 ($1000.00 in chips)
+Pr.Lupine: posts small blind $25.00
+BigP6188: posts big blind $50.00
+*** HOLE CARDS ***
+dursty54: folds
+Pr.Lupine: calls $25.00
+BigP6188: checks
+*** FLOP *** [8c 8h Ks]
+Pr.Lupine: bets $50.00
+BigP6188: folds
+Uncalled bet ($50.00) returned to Pr.Lupine
+Pr.Lupine collected $98.25 from pot
+Pr.Lupine: doesn't show hand
+*** SUMMARY ***
+Total pot $100.00 | Rake $1.75
+Board [8c 8h Ks]
+Seat 2: Pr.Lupine (small blind) collected ($98.25)
+Seat 4: BigP6188 (big blind) folded on the Flop
+Seat 6: dursty54 (button) folded before Flop (didn't bet)
+
+PokerStars Hand #1508606971:  Hold'em No Limit ($25.00/$50.00 USD) - 2023/01/04 00:41:12 ET
+Table 'WPN_Stone Mountain' 6-max Seat #2 is the button
+Seat 1: KOLXO3HuK ($1000.00 in chips)
+Seat 2: Pr.Lupine ($1122.00 in chips)
+Seat 4: BigP6188 ($4550.17 in chips)
+Seat 6: dursty54 ($1000.00 in chips)
+BigP6188: posts small blind $25.00
+dursty54: posts big blind $50.00
+*** HOLE CARDS ***
+Pr.Lupine: folds
+BigP6188: folds
+Uncalled bet ($25.00) returned to dursty54
+dursty54 collected $50.00 from pot
+dursty54: doesn't show hand
+*** SUMMARY ***
+Total pot $50.00 | Rake $0.00
+Seat 2: Pr.Lupine (button) folded before Flop (didn't bet)
+Seat 4: BigP6188 (small blind) folded before Flop
+Seat 6: dursty54 (big blind) collected ($50.00)
+
+PokerStars Hand #1508607302:  Hold'em No Limit ($25.00/$50.00 USD) - 2023/01/04 00:41:29 ET
+Table 'WPN_Stone Mountain' 6-max Seat #4 is the button
+Seat 1: KOLXO3HuK ($2500.00 in chips)
+Seat 2: Pr.Lupine ($1122.00 in chips)
+Seat 4: BigP6188 ($4525.17 in chips)
+Seat 6: dursty54 ($1025.00 in chips)
+dursty54: posts small blind $25.00
+KOLXO3HuK: posts big blind $50.00
+*** HOLE CARDS ***
+Pr.Lupine: folds
+BigP6188: raises $62.50 to $112.50
+dursty54: folds
+KOLXO3HuK: calls $62.50
+*** FLOP *** [6s Qc 4d]
+KOLXO3HuK: checks
+BigP6188: bets $100.00
+KOLXO3HuK: raises $200.00 to $300.00
+BigP6188: calls $200.00
+*** TURN *** [6s Qc 4d] [Js]
+KOLXO3HuK: checks
+BigP6188: bets $637.50
+KOLXO3HuK: folds
+Uncalled bet ($637.50) returned to BigP6188
+BigP6188 collected $847.75 from pot
+BigP6188: doesn't show hand
+*** SUMMARY ***
+Total pot $850.00 | Rake $2.25
+Board [6s Qc 4d Js]
+Seat 1: KOLXO3HuK (big blind) folded on the Turn
+Seat 2: Pr.Lupine folded before Flop (didn't bet)
+Seat 4: BigP6188 (button) collected ($847.75)
+Seat 6: dursty54 (small blind) folded before Flop
+
+PokerStars Hand #1508608447:  Hold'em No Limit ($25.00/$50.00 USD) - 2023/01/04 00:42:26 ET
+Table 'WPN_Stone Mountain' 6-max Seat #6 is the button
+Seat 1: KOLXO3HuK ($2087.50 in chips)
+Seat 2: Pr.Lupine ($1122.00 in chips)
+Seat 3: KARMASUTRA ($1000.00 in chips)
+Seat 4: BigP6188 ($4960.42 in chips)
+Seat 6: dursty54 ($2500.00 in chips)
+KOLXO3HuK: posts small blind $25.00
+Pr.Lupine: posts big blind $50.00
+*** HOLE CARDS ***
+BigP6188: folds
+dursty54: folds
+KOLXO3HuK: raises $50.00 to $100.00
+Pr.Lupine: calls $50.00
+*** FLOP *** [2s As Kh]
+KOLXO3HuK: checks
+Pr.Lupine: checks
+*** TURN *** [2s As Kh] [Ah]
+KOLXO3HuK: checks
+Pr.Lupine: checks
+*** RIVER *** [2s As Kh Ah] [7s]
+KOLXO3HuK: bets $75.00
+Pr.Lupine: folds
+Uncalled bet ($75.00) returned to KOLXO3HuK
+KOLXO3HuK collected $197.75 from pot
+KOLXO3HuK: doesn't show hand
+*** SUMMARY ***
+Total pot $200.00 | Rake $2.25
+Board [2s As Kh Ah 7s]
+Seat 1: KOLXO3HuK (small blind) collected ($197.75)
+Seat 2: Pr.Lupine (big blind) folded on the River
+Seat 4: BigP6188 folded before Flop (didn't bet)
+Seat 6: dursty54 (button) folded before Flop (didn't bet)
+
+PokerStars Hand #1508609509:  Hold'em No Limit ($25.00/$50.00 USD) - 2023/01/04 00:43:19 ET
+Table 'WPN_Stone Mountain' 6-max Seat #1 is the button
+Seat 1: KOLXO3HuK ($2597.75 in chips)
+Seat 2: Pr.Lupine ($1022.00 in chips)
+Seat 3: KARMASUTRA ($1000.00 in chips)
+Seat 4: BigP6188 ($4960.42 in chips)
+Seat 6: dursty54 ($2500.00 in chips)
+Pr.Lupine: posts small blind $25.00
+KARMASUTRA: posts big blind $50.00
+*** HOLE CARDS ***
+BigP6188: folds
+dursty54: folds
+KOLXO3HuK: folds
+Pr.Lupine: raises $75.00 to $125.00
+KARMASUTRA: raises $875.00 to $1000.00 and is all-in
+Pr.Lupine: folds
+Uncalled bet ($875.00) returned to KARMASUTRA
+KARMASUTRA collected $250.00 from pot
+KARMASUTRA: doesn't show hand
+*** SUMMARY ***
+Total pot $250.00 | Rake $0.00
+Seat 1: KOLXO3HuK (button) folded before Flop (didn't bet)
+Seat 2: Pr.Lupine (small blind) folded before Flop
+Seat 3: KARMASUTRA (big blind) collected ($250.00)
+Seat 4: BigP6188 folded before Flop (didn't bet)
+Seat 6: dursty54 folded before Flop (didn't bet)
+
+PokerStars Hand #1508610221:  Hold'em No Limit ($25.00/$50.00 USD) - 2023/01/04 00:43:54 ET
+Table 'WPN_Stone Mountain' 6-max Seat #2 is the button
+Seat 1: KOLXO3HuK ($2597.75 in chips)
+Seat 2: Pr.Lupine ($897.00 in chips)
+Seat 3: KARMASUTRA ($1125.00 in chips)
+Seat 4: BigP6188 ($4960.42 in chips)
+Seat 5: scout325 ($2500.00 in chips)
+Seat 6: dursty54 ($2500.00 in chips)
+KARMASUTRA: posts small blind $25.00
+BigP6188: posts big blind $50.00
+*** HOLE CARDS ***
+dursty54: folds
+KOLXO3HuK: folds
+Pr.Lupine: raises $50.00 to $100.00
+KARMASUTRA: folds
+BigP6188: calls $50.00
+*** FLOP *** [8d Jd 3c]
+BigP6188: checks
+Pr.Lupine: checks
+*** TURN *** [8d Jd 3c] [Jh]
+BigP6188: checks
+Pr.Lupine: checks
+*** RIVER *** [8d Jd 3c Jh] [6c]
+BigP6188: checks
+Pr.Lupine: checks
+*** SHOW DOWN ***
+BigP6188: shows [4s 6d]
+Pr.Lupine: mucks hand
+BigP6188 collected $222.00 from pot
+*** SUMMARY ***
+Total pot $225.00 | Rake $3.00
+Board [8d Jd 3c Jh 6c]
+Seat 1: KOLXO3HuK folded before Flop (didn't bet)
+Seat 2: Pr.Lupine (button) mucked
+Seat 3: KARMASUTRA (small blind) folded before Flop
+Seat 4: BigP6188 (big blind) showed [4s 6d] and won ($222.00)
+Seat 6: dursty54 folded before Flop (didn't bet)
+
+PokerStars Hand #1508611052:  Hold'em No Limit ($25.00/$50.00 USD) - 2023/01/04 00:44:34 ET
+Table 'WPN_Stone Mountain' 6-max Seat #3 is the button
+Seat 1: KOLXO3HuK ($2597.75 in chips)
+Seat 2: Pr.Lupine ($1000.00 in chips)
+Seat 3: KARMASUTRA ($1100.00 in chips)
+Seat 4: BigP6188 ($5082.42 in chips)
+Seat 5: scout325 ($2500.00 in chips)
+Seat 6: dursty54 ($2500.00 in chips)
+BigP6188: posts small blind $25.00
+scout325: posts big blind $50.00
+*** HOLE CARDS ***
+dursty54: folds
+KOLXO3HuK: folds
+Pr.Lupine: raises $50.00 to $100.00
+KARMASUTRA: folds
+BigP6188: raises $300.00 to $400.00
+scout325: folds
+Pr.Lupine: folds
+Uncalled bet ($300.00) returned to BigP6188
+BigP6188 collected $250.00 from pot
+BigP6188: doesn't show hand
+*** SUMMARY ***
+Total pot $250.00 | Rake $0.00
+Seat 1: KOLXO3HuK folded before Flop (didn't bet)
+Seat 2: Pr.Lupine folded before Flop
+Seat 3: KARMASUTRA (button) folded before Flop (didn't bet)
+Seat 4: BigP6188 (small blind) collected ($250.00)
+Seat 5: scout325 (big blind) folded before Flop
+Seat 6: dursty54 folded before Flop (didn't bet)
+
+PokerStars Hand #1508611760:  Hold'em No Limit ($25.00/$50.00 USD) - 2023/01/04 00:45:08 ET
+Table 'WPN_Stone Mountain' 6-max Seat #4 is the button
+Seat 1: KOLXO3HuK ($2597.75 in chips)
+Seat 2: Pr.Lupine ($900.00 in chips)
+Seat 3: KARMASUTRA ($1100.00 in chips)
+Seat 4: BigP6188 ($5232.42 in chips)
+Seat 5: scout325 ($2500.00 in chips)
+Seat 6: dursty54 ($2500.00 in chips)
+scout325: posts small blind $25.00
+dursty54: posts big blind $50.00
+*** HOLE CARDS ***
+KOLXO3HuK: folds
+Pr.Lupine: folds
+KARMASUTRA: folds
+BigP6188: folds
+scout325: folds
+Uncalled bet ($25.00) returned to dursty54
+dursty54 collected $50.00 from pot
+dursty54: doesn't show hand
+*** SUMMARY ***
+Total pot $50.00 | Rake $0.00
+Seat 1: KOLXO3HuK folded before Flop (didn't bet)
+Seat 2: Pr.Lupine folded before Flop (didn't bet)
+Seat 3: KARMASUTRA folded before Flop (didn't bet)
+Seat 4: BigP6188 (button) folded before Flop (didn't bet)
+Seat 5: scout325 (small blind) folded before Flop
+Seat 6: dursty54 (big blind) collected ($50.00)
+
+PokerStars Hand #1508612135:  Hold'em No Limit ($25.00/$50.00 USD) - 2023/01/04 00:45:26 ET
+Table 'WPN_Stone Mountain' 6-max Seat #5 is the button
+Seat 1: KOLXO3HuK ($2597.75 in chips)
+Seat 2: Pr.Lupine ($900.00 in chips)
+Seat 3: KARMASUTRA ($1100.00 in chips)
+Seat 4: BigP6188 ($5232.42 in chips)
+Seat 5: scout325 ($2475.00 in chips)
+Seat 6: dursty54 ($2525.00 in chips)
+dursty54: posts small blind $25.00
+KOLXO3HuK: posts big blind $50.00
+*** HOLE CARDS ***
+Pr.Lupine: folds
+KARMASUTRA: folds
+BigP6188: folds
+scout325: raises $62.50 to $112.50
+dursty54: raises $302.50 to $415.00
+KOLXO3HuK: folds
+scout325: raises $2085.00 to $2500.00 and is all-in
+dursty54: folds
+Uncalled bet ($2085.00) returned to scout325
+scout325 collected $880.00 from pot
+scout325: doesn't show hand
+*** SUMMARY ***
+Total pot $880.00 | Rake $0.00
+Seat 1: KOLXO3HuK (big blind) folded before Flop
+Seat 2: Pr.Lupine folded before Flop (didn't bet)
+Seat 3: KARMASUTRA folded before Flop (didn't bet)
+Seat 4: BigP6188 folded before Flop (didn't bet)
+Seat 5: scout325 (button) collected ($880.00)
+Seat 6: dursty54 (small blind) folded before Flop
+
+PokerStars Hand #1508613216:  Hold'em No Limit ($25.00/$50.00 USD) - 2023/01/04 00:46:18 ET
+Table 'WPN_Stone Mountain' 6-max Seat #6 is the button
+Seat 1: KOLXO3HuK ($2547.75 in chips)
+Seat 2: Pr.Lupine ($900.00 in chips)
+Seat 3: KARMASUTRA ($1100.00 in chips)
+Seat 4: BigP6188 ($5232.42 in chips)
+Seat 5: scout325 ($2965.00 in chips)
+Seat 6: dursty54 ($2110.00 in chips)
+KOLXO3HuK: posts small blind $25.00
+Pr.Lupine: posts big blind $50.00
+*** HOLE CARDS ***
+KARMASUTRA: folds
+BigP6188: folds
+scout325: raises $62.50 to $112.50
+dursty54: folds
+KOLXO3HuK: folds
+Pr.Lupine: calls $62.50
+*** FLOP *** [6d 7d 8d]
+Pr.Lupine: checks
+scout325: checks
+*** TURN *** [6d 7d 8d] [7c]
+Pr.Lupine: checks
+scout325: checks
+*** RIVER *** [6d 7d 8d 7c] [7s]
+Pr.Lupine: bets $162.50
+scout325: calls $162.50
+*** SHOW DOWN ***
+Pr.Lupine: shows [6s Js]
+scout325: mucks hand
+Pr.Lupine collected $572.00 from pot
+*** SUMMARY ***
+Total pot $575.00 | Rake $3.00
+Board [6d 7d 8d 7c 7s]
+Seat 1: KOLXO3HuK (small blind) folded before Flop
+Seat 2: Pr.Lupine (big blind) showed [6s Js] and won ($572.00)
+Seat 3: KARMASUTRA folded before Flop (didn't bet)
+Seat 4: BigP6188 folded before Flop (didn't bet)
+Seat 5: scout325 mucked
+Seat 6: dursty54 (button) folded before Flop (didn't bet)
+
+PokerStars Hand #1508614362:  Hold'em No Limit ($25.00/$50.00 USD) - 2023/01/04 00:47:12 ET
+Table 'WPN_Stone Mountain' 6-max Seat #1 is the button
+Seat 1: KOLXO3HuK ($2522.75 in chips)
+Seat 2: Pr.Lupine ($1297.00 in chips)
+Seat 3: KARMASUTRA ($1100.00 in chips)
+Seat 4: BigP6188 ($5232.42 in chips)
+Seat 5: scout325 ($2690.00 in chips)
+Seat 6: dursty54 ($2110.00 in chips)
+Pr.Lupine: posts small blind $25.00
+KARMASUTRA: posts big blind $50.00
+*** HOLE CARDS ***
+BigP6188: raises $93.75 to $143.75
+scout325: folds
+dursty54: folds
+KOLXO3HuK: raises $246.87 to $390.62
+Pr.Lupine: folds
+KARMASUTRA: folds
+BigP6188: calls $246.87
+*** FLOP *** [8s 2s 3h]
+BigP6188: checks
+KOLXO3HuK: bets $428.12
+BigP6188: calls $428.12
+*** TURN *** [8s 2s 3h] [Tc]
+BigP6188: checks
+KOLXO3HuK: checks
+*** RIVER *** [8s 2s 3h Tc] [Js]
+BigP6188: bets $856.24
+KOLXO3HuK: folds
+Uncalled bet ($856.24) returned to BigP6188
+BigP6188 collected $1709.48 from pot
+BigP6188: doesn't show hand
+*** SUMMARY ***
+Total pot $1712.48 | Rake $3.00
+Board [8s 2s 3h Tc Js]
+Seat 1: KOLXO3HuK (button) folded on the River
+Seat 2: Pr.Lupine (small blind) folded before Flop
+Seat 3: KARMASUTRA (big blind) folded before Flop
+Seat 4: BigP6188 collected ($1709.48)
+Seat 5: scout325 folded before Flop (didn't bet)
+Seat 6: dursty54 folded before Flop (didn't bet)
+
+PokerStars Hand #1508616301:  Hold'em No Limit ($25.00/$50.00 USD) - 2023/01/04 00:48:43 ET
+Table 'WPN_Stone Mountain' 6-max Seat #2 is the button
+Seat 1: KOLXO3HuK ($1704.01 in chips)
+Seat 2: Pr.Lupine ($1272.00 in chips)
+Seat 3: KARMASUTRA ($1050.00 in chips)
+Seat 4: BigP6188 ($6123.16 in chips)
+Seat 5: scout325 ($2690.00 in chips)
+Seat 6: dursty54 ($2110.00 in chips)
+KARMASUTRA: posts small blind $25.00
+BigP6188: posts big blind $50.00
+*** HOLE CARDS ***
+scout325: folds
+dursty54: folds
+KOLXO3HuK: folds
+Pr.Lupine: folds
+KARMASUTRA: folds
+Uncalled bet ($25.00) returned to BigP6188
+BigP6188 collected $50.00 from pot
+BigP6188: doesn't show hand
+*** SUMMARY ***
+Total pot $50.00 | Rake $0.00
+Seat 1: KOLXO3HuK folded before Flop (didn't bet)
+Seat 2: Pr.Lupine (button) folded before Flop (didn't bet)
+Seat 3: KARMASUTRA (small blind) folded before Flop
+Seat 4: BigP6188 (big blind) collected ($50.00)
+Seat 5: scout325 folded before Flop (didn't bet)
+Seat 6: dursty54 folded before Flop (didn't bet)
+
+PokerStars Hand #1508616662:  Hold'em No Limit ($25.00/$50.00 USD) - 2023/01/04 00:49:00 ET
+Table 'WPN_Stone Mountain' 6-max Seat #3 is the button
+Seat 1: KOLXO3HuK ($1704.01 in chips)
+Seat 2: Pr.Lupine ($1272.00 in chips)
+Seat 3: KARMASUTRA ($1025.00 in chips)
+Seat 4: BigP6188 ($6148.16 in chips)
+Seat 5: scout325 ($2690.00 in chips)
+Seat 6: dursty54 ($2110.00 in chips)
+BigP6188: posts small blind $25.00
+scout325: posts big blind $50.00
+*** HOLE CARDS ***
+dursty54: folds
+KOLXO3HuK: folds
+Pr.Lupine: folds
+KARMASUTRA: raises $50.00 to $100.00
+BigP6188: folds
+scout325: folds
+Uncalled bet ($50.00) returned to KARMASUTRA
+KARMASUTRA collected $125.00 from pot
+KARMASUTRA: doesn't show hand
+*** SUMMARY ***
+Total pot $125.00 | Rake $0.00
+Seat 1: KOLXO3HuK folded before Flop (didn't bet)
+Seat 2: Pr.Lupine folded before Flop (didn't bet)
+Seat 3: KARMASUTRA (button) collected ($125.00)
+Seat 4: BigP6188 (small blind) folded before Flop
+Seat 5: scout325 (big blind) folded before Flop
+Seat 6: dursty54 folded before Flop (didn't bet)
+
+PokerStars Hand #1508617018:  Hold'em No Limit ($25.00/$50.00 USD) - 2023/01/04 00:49:17 ET
+Table 'WPN_Stone Mountain' 6-max Seat #4 is the button
+Seat 1: KOLXO3HuK ($1704.01 in chips)
+Seat 2: Pr.Lupine ($1272.00 in chips)
+Seat 3: KARMASUTRA ($1100.00 in chips)
+Seat 4: BigP6188 ($6123.16 in chips)
+Seat 5: scout325 ($2640.00 in chips)
+Seat 6: dursty54 ($2110.00 in chips)
+scout325: posts small blind $25.00
+dursty54: posts big blind $50.00
+*** HOLE CARDS ***
+KOLXO3HuK: folds
+Pr.Lupine: raises $50.00 to $100.00
+KARMASUTRA: folds
+BigP6188: calls $100.00
+scout325: folds
+dursty54: calls $50.00
+*** FLOP *** [5d Ad Qd]
+dursty54: checks
+Pr.Lupine: checks
+BigP6188: checks
+*** TURN *** [5d Ad Qd] [7d]
+dursty54: checks
+Pr.Lupine: bets $106.25
+BigP6188: folds
+dursty54: folds
+Uncalled bet ($106.25) returned to Pr.Lupine
+Pr.Lupine collected $322.00 from pot
+Pr.Lupine: doesn't show hand
+*** SUMMARY ***
+Total pot $325.00 | Rake $3.00
+Board [5d Ad Qd 7d]
+Seat 1: KOLXO3HuK folded before Flop (didn't bet)
+Seat 2: Pr.Lupine collected ($322.00)
+Seat 3: KARMASUTRA folded before Flop (didn't bet)
+Seat 4: BigP6188 (button) folded on the Turn
+Seat 5: scout325 (small blind) folded before Flop
+Seat 6: dursty54 (big blind) folded on the Turn
+
+PokerStars Hand #1508618670:  Hold'em No Limit ($25.00/$50.00 USD) - 2023/01/04 00:50:33 ET
+Table 'WPN_Stone Mountain' 6-max Seat #5 is the button
+Seat 1: KOLXO3HuK ($1704.01 in chips)
+Seat 2: Pr.Lupine ($1494.00 in chips)
+Seat 3: KARMASUTRA ($1100.00 in chips)
+Seat 4: BigP6188 ($6023.16 in chips)
+Seat 5: scout325 ($2615.00 in chips)
+Seat 6: dursty54 ($2010.00 in chips)
+dursty54: posts small blind $25.00
+KOLXO3HuK: posts big blind $50.00
+*** HOLE CARDS ***
+Pr.Lupine: raises $50.00 to $100.00
+KARMASUTRA: folds
+BigP6188: folds
+scout325: folds
+dursty54: raises $250.00 to $350.00
+KOLXO3HuK: folds
+Pr.Lupine: raises $1144.00 to $1494.00 and is all-in
+dursty54: calls $1144.00
+*** FLOP *** [Kc 5c 6d]
+*** TURN *** [Kc 5c 6d] [3s]
+*** RIVER *** [Kc 5c 6d 3s] [7s]
+*** SHOW DOWN ***
+Pr.Lupine: shows [Ah Ac]
+dursty54: shows [Jd Jc]
+Pr.Lupine collected $3035.00 from pot
+*** SUMMARY ***
+Total pot $3038.00 | Rake $3.00
+Board [Kc 5c 6d 3s 7s]
+Seat 1: KOLXO3HuK (big blind) folded before Flop
+Seat 2: Pr.Lupine showed [Ah Ac] and won ($3035.00)
+Seat 3: KARMASUTRA folded before Flop (didn't bet)
+Seat 4: BigP6188 folded before Flop (didn't bet)
+Seat 5: scout325 (button) folded before Flop (didn't bet)
+Seat 6: dursty54 (small blind) showed [Jd Jc] and lost
+
+PokerStars Hand #1508619765:  Hold'em No Limit ($25.00/$50.00 USD) - 2023/01/04 00:51:24 ET
+Table 'WPN_Stone Mountain' 6-max Seat #6 is the button
+Seat 1: KOLXO3HuK ($2500.00 in chips)
+Seat 2: Pr.Lupine ($3035.00 in chips)
+Seat 3: KARMASUTRA ($1100.00 in chips)
+Seat 4: BigP6188 ($6023.16 in chips)
+Seat 5: scout325 ($2615.00 in chips)
+Seat 6: dursty54 ($1000.00 in chips)
+KOLXO3HuK: posts small blind $25.00
+Pr.Lupine: posts big blind $50.00
+*** HOLE CARDS ***
+KARMASUTRA: folds
+BigP6188: folds
+scout325: folds
+dursty54: folds
+KOLXO3HuK: raises $75.00 to $125.00
+Pr.Lupine: calls $75.00
+*** FLOP *** [2d 6s 4h]
+KOLXO3HuK: bets $100.00
+Pr.Lupine: calls $100.00
+*** TURN *** [2d 6s 4h] [8c]
+KOLXO3HuK: checks
+Pr.Lupine: checks
+*** RIVER *** [2d 6s 4h 8c] [6c]
+KOLXO3HuK: bets $225.00
+Pr.Lupine: calls $225.00
+*** SHOW DOWN ***
+KOLXO3HuK: shows [5s 5h]
+Pr.Lupine: mucks hand
+KOLXO3HuK collected $897.00 from pot
+*** SUMMARY ***
+Total pot $900.00 | Rake $3.00
+Board [2d 6s 4h 8c 6c]
+Seat 1: KOLXO3HuK (small blind) showed [5s 5h] and won ($897.00)
+Seat 2: Pr.Lupine (big blind) mucked
+Seat 3: KARMASUTRA folded before Flop (didn't bet)
+Seat 4: BigP6188 folded before Flop (didn't bet)
+Seat 5: scout325 folded before Flop (didn't bet)
+Seat 6: dursty54 (button) folded before Flop (didn't bet)
+
+PokerStars Hand #1508621306:  Hold'em No Limit ($25.00/$50.00 USD) - 2023/01/04 00:52:35 ET
+Table 'WPN_Stone Mountain' 6-max Seat #1 is the button
+Seat 1: KOLXO3HuK ($2947.00 in chips)
+Seat 2: Pr.Lupine ($2585.00 in chips)
+Seat 3: KARMASUTRA ($1100.00 in chips)
+Seat 4: BigP6188 ($6023.16 in chips)
+Seat 5: scout325 ($2615.00 in chips)
+Seat 6: dursty54 ($2500.00 in chips)
+Pr.Lupine: posts small blind $25.00
+KARMASUTRA: posts big blind $50.00
+*** HOLE CARDS ***
+BigP6188: folds
+scout325: folds
+dursty54: folds
+KOLXO3HuK: raises $50.00 to $100.00
+Pr.Lupine: raises $300.00 to $400.00
+KARMASUTRA: folds
+KOLXO3HuK: raises $2547.00 to $2947.00 and is all-in
+Pr.Lupine: calls $2185.00 and is all-in
+Uncalled bet ($362.00) returned to KOLXO3HuK
+*** FIRST FLOP *** [3h Th Qh]
+*** FIRST TURN *** [3h Th Qh] [8h]
+*** FIRST RIVER *** [3h Th Qh 8h] [Tc]
+*** SECOND FLOP *** [3d 2d 8s]
+*** SECOND TURN *** [3d 2d 8s] [3c]
+*** SECOND RIVER *** [3d 2d 8s 3c] [6s]
+*** FIRST SHOW DOWN ***
+KOLXO3HuK: shows [Qc Ad]
+Pr.Lupine: shows [Ks Js]
+KOLXO3HuK collected $2608.50 from pot
+*** SECOND SHOW DOWN ***
+KOLXO3HuK: shows [Qc Ad]
+Pr.Lupine: shows [Ks Js]
+KOLXO3HuK collected $2608.50 from pot
+*** SUMMARY ***
+Total pot $5220.00 | Rake $3.00
+Hand was run twice
+FIRST Board [3h Th Qh 8h Tc]
+SECOND Board [3d 2d 8s 3c 6s]
+Seat 1: KOLXO3HuK (button) showed [Qc Ad] and won ($2608.50), and won ($2608.50)
+Seat 2: Pr.Lupine (small blind) showed [Ks Js] and lost, and lost
+Seat 3: KARMASUTRA (big blind) folded before Flop
+Seat 4: BigP6188 folded before Flop (didn't bet)
+Seat 5: scout325 folded before Flop (didn't bet)
+Seat 6: dursty54 folded before Flop (didn't bet)
+
+PokerStars Hand #1508622669:  Hold'em No Limit ($25.00/$50.00 USD) - 2023/01/04 00:53:38 ET
+Table 'WPN_Stone Mountain' 6-max Seat #2 is the button
+Seat 1: KOLXO3HuK ($5579.00 in chips)
+Seat 2: Pr.Lupine ($1000.00 in chips)
+Seat 3: KARMASUTRA ($1050.00 in chips)
+Seat 4: BigP6188 ($6023.16 in chips)
+Seat 5: scout325 ($2615.00 in chips)
+Seat 6: dursty54 ($2500.00 in chips)
+KARMASUTRA: posts small blind $25.00
+scout325: posts big blind $50.00
+*** HOLE CARDS ***
+dursty54: folds
+KOLXO3HuK: raises $62.50 to $112.50
+Pr.Lupine: folds
+KARMASUTRA: folds
+scout325: calls $62.50
+*** FLOP *** [2c Ks 3s]
+scout325: checks
+KOLXO3HuK: checks
+*** TURN *** [2c Ks 3s] [8d]
+scout325: checks
+KOLXO3HuK: checks
+*** RIVER *** [2c Ks 3s 8d] [4d]
+scout325: checks
+KOLXO3HuK: checks
+*** SHOW DOWN ***
+KOLXO3HuK: shows [Qd Ah]
+scout325: shows [Qs Ac]
+KOLXO3HuK collected $123.50 from pot
+scout325 collected $123.50 from pot
+*** SUMMARY ***
+Total pot $250.00 | Rake $3.00
+Board [2c Ks 3s 8d 4d]
+Seat 1: KOLXO3HuK showed [Qd Ah] and won ($123.50)
+Seat 2: Pr.Lupine (button) folded before Flop (didn't bet)
+Seat 3: KARMASUTRA (small blind) folded before Flop
+Seat 5: scout325 (big blind) showed [Qs Ac] and won ($123.50)
+Seat 6: dursty54 folded before Flop (didn't bet)
+
+PokerStars Hand #1508625271:  Hold'em No Limit ($25.00/$50.00 USD) - 2023/01/04 00:56:24 ET
+Table 'WPN_North Pekin' 6-max Seat #5 is the button
+Seat 1: BigP6188 ($1450.00 in chips)
+Seat 2: Pr.Lupine ($2000.00 in chips)
+Seat 3: SigadiSogadi ($5000.00 in chips)
+Seat 4: nutsforme100 ($5000.00 in chips)
+Seat 5: 7SkyAroundMe ($6269.36 in chips)
+BigP6188: posts small blind $25.00
+Pr.Lupine: posts big blind $50.00
+*** HOLE CARDS ***
+7SkyAroundMe: raises $75.00 to $125.00
+BigP6188: folds
+Pr.Lupine: folds
+Uncalled bet ($75.00) returned to 7SkyAroundMe
+7SkyAroundMe collected $125.00 from pot
+7SkyAroundMe: doesn't show hand
+*** SUMMARY ***
+Total pot $125.00 | Rake $0.00
+Seat 1: BigP6188 (small blind) folded before Flop
+Seat 2: Pr.Lupine (big blind) folded before Flop
+Seat 5: 7SkyAroundMe (button) collected ($125.00)
+
+PokerStars Hand #1508625531:  Hold'em No Limit ($25.00/$50.00 USD) - 2023/01/04 00:56:47 ET
+Table 'WPN_North Pekin' 6-max Seat #1 is the button
+Seat 1: BigP6188 ($1425.00 in chips)
+Seat 2: Pr.Lupine ($1950.00 in chips)
+Seat 3: SigadiSogadi ($5000.00 in chips)
+Seat 4: nutsforme100 ($5000.00 in chips)
+Seat 5: 7SkyAroundMe ($6344.36 in chips)
+Pr.Lupine: posts small blind $25.00
+SigadiSogadi: posts big blind $50.00
+*** HOLE CARDS ***
+7SkyAroundMe: raises $60.00 to $110.00
+BigP6188: raises $295.00 to $405.00
+Pr.Lupine: folds
+SigadiSogadi: folds
+7SkyAroundMe: raises $5939.36 to $6344.36 and is all-in
+BigP6188: calls $1020.00 and is all-in
+Uncalled bet ($4919.36) returned to 7SkyAroundMe
+*** FIRST FLOP *** [Qs 6s 5d]
+*** FIRST TURN *** [Qs 6s 5d] [Qh]
+*** FIRST RIVER *** [Qs 6s 5d Qh] [9c]
+*** SECOND FLOP *** [4h Ac 2h]
+*** SECOND TURN *** [4h Ac 2h] [5s]
+*** SECOND RIVER *** [4h Ac 2h 5s] [Qd]
+*** FIRST SHOW DOWN ***
+BigP6188: shows [8h 7d]
+7SkyAroundMe: shows [7s 7c]
+BigP6188 collected $1461.38 from pot
+*** SECOND SHOW DOWN ***
+BigP6188: shows [8h 7d]
+7SkyAroundMe: shows [7s 7c]
+7SkyAroundMe collected $1461.37 from pot
+*** SUMMARY ***
+Total pot $2925.00 | Rake $2.25
+Hand was run twice
+FIRST Board [Qs 6s 5d Qh 9c]
+SECOND Board [4h Ac 2h 5s Qd]
+Seat 1: BigP6188 (button) showed [8h 7d] and won ($1461.38), and lost
+Seat 2: Pr.Lupine (small blind) folded before Flop
+Seat 3: SigadiSogadi (big blind) folded before Flop
+Seat 4: nutsforme100 and lost, and lost
+Seat 5: 7SkyAroundMe showed [7s 7c] and lost, and won ($1461.37)
+
+PokerStars Hand #1508626049:  Hold'em No Limit ($25.00/$50.00 USD) - 2023/01/04 00:57:36 ET
+Table 'WPN_North Pekin' 6-max Seat #2 is the button
+Seat 1: BigP6188 ($1461.38 in chips)
+Seat 2: Pr.Lupine ($1925.00 in chips)
+Seat 3: SigadiSogadi ($4950.00 in chips)
+Seat 4: nutsforme100 ($5000.00 in chips)
+Seat 5: 7SkyAroundMe ($6380.73 in chips)
+Seat 6: LongTanHndsome ($5000.00 in chips)
+SigadiSogadi: posts small blind $25.00
+nutsforme100: posts big blind $50.00
+*** HOLE CARDS ***
+7SkyAroundMe: folds
+BigP6188: raises $62.50 to $112.50
+Pr.Lupine: folds
+SigadiSogadi: raises $262.50 to $375.00
+nutsforme100: folds
+BigP6188: calls $262.50
+*** FLOP *** [As Qs 6h]
+SigadiSogadi: bets $200.00
+BigP6188: folds
+Uncalled bet ($200.00) returned to SigadiSogadi
+SigadiSogadi collected $797.00 from pot
+SigadiSogadi: doesn't show hand
+*** SUMMARY ***
+Total pot $800.00 | Rake $3.00
+Board [As Qs 6h]
+Seat 1: BigP6188 folded on the Flop
+Seat 2: Pr.Lupine (button) folded before Flop (didn't bet)
+Seat 3: SigadiSogadi (small blind) collected ($797.00)
+Seat 4: nutsforme100 (big blind) folded before Flop
+Seat 5: 7SkyAroundMe folded before Flop (didn't bet)
+
+PokerStars Hand #1508628916:  Hold'em No Limit ($25.00/$50.00 USD) - 2023/01/04 01:01:20 ET
+Table 'WPN_North Pekin' 6-max Seat #4 is the button
+Seat 1: BigP6188 ($1086.38 in chips)
+Seat 2: Pr.Lupine ($1925.00 in chips)
+Seat 3: SigadiSogadi ($7156.50 in chips)
+Seat 4: nutsforme100 ($5000.00 in chips)
+Seat 5: 7SkyAroundMe ($6330.73 in chips)
+Seat 6: LongTanHndsome ($5000.00 in chips)
+7SkyAroundMe: posts small blind $25.00
+LongTanHndsome: posts big blind $50.00
+*** HOLE CARDS ***
+BigP6188: folds
+Pr.Lupine: folds
+SigadiSogadi: folds
+nutsforme100: folds
+7SkyAroundMe: folds
+Uncalled bet ($25.00) returned to LongTanHndsome
+LongTanHndsome collected $50.00 from pot
+LongTanHndsome: doesn't show hand
+*** SUMMARY ***
+Total pot $50.00 | Rake $0.00
+Seat 1: BigP6188 folded before Flop (didn't bet)
+Seat 2: Pr.Lupine folded before Flop (didn't bet)
+Seat 3: SigadiSogadi folded before Flop (didn't bet)
+Seat 4: nutsforme100 (button) folded before Flop (didn't bet)
+Seat 5: 7SkyAroundMe (small blind) folded before Flop
+Seat 6: LongTanHndsome (big blind) collected ($50.00)
+
+PokerStars Hand #1508629452:  Hold'em No Limit ($25.00/$50.00 USD) - 2023/01/04 01:01:48 ET
+Table 'WPN_North Pekin' 6-max Seat #5 is the button
+Seat 1: BigP6188 ($1086.38 in chips)
+Seat 2: Pr.Lupine ($1925.00 in chips)
+Seat 3: SigadiSogadi ($7156.50 in chips)
+Seat 4: nutsforme100 ($5000.00 in chips)
+Seat 5: 7SkyAroundMe ($6305.73 in chips)
+Seat 6: LongTanHndsome ($5025.00 in chips)
+LongTanHndsome: posts small blind $25.00
+BigP6188: posts big blind $50.00
+*** HOLE CARDS ***
+Pr.Lupine: raises $50.00 to $100.00
+SigadiSogadi: folds
+nutsforme100: folds
+7SkyAroundMe: folds
+LongTanHndsome: folds
+BigP6188: calls $50.00
+*** FLOP *** [6h 3c Ts]
+BigP6188: checks
+Pr.Lupine: bets $81.25
+BigP6188: calls $81.25
+*** TURN *** [6h 3c Ts] [As]
+BigP6188: checks
+Pr.Lupine: bets $240.62
+BigP6188: calls $240.62
+*** RIVER *** [6h 3c Ts As] [2h]
+BigP6188: checks
+Pr.Lupine: checks
+*** SHOW DOWN ***
+Pr.Lupine: shows [Qd 9d]
+BigP6188: mucks hand
+Pr.Lupine collected $865.74 from pot
+*** SUMMARY ***
+Total pot $868.74 | Rake $3.00
+Board [6h 3c Ts As 2h]
+Seat 1: BigP6188 (big blind) mucked
+Seat 2: Pr.Lupine showed [Qd 9d] and won ($865.74)
+Seat 3: SigadiSogadi folded before Flop (didn't bet)
+Seat 4: nutsforme100 folded before Flop (didn't bet)
+Seat 5: 7SkyAroundMe (button) folded before Flop (didn't bet)
+Seat 6: LongTanHndsome (small blind) folded before Flop
+
+PokerStars Hand #1508630686:  Hold'em No Limit ($25.00/$50.00 USD) - 2023/01/04 01:02:48 ET
+Table 'WPN_North Pekin' 6-max Seat #6 is the button
+Seat 1: BigP6188 ($664.51 in chips)
+Seat 2: Pr.Lupine ($2368.87 in chips)
+Seat 3: SigadiSogadi ($7156.50 in chips)
+Seat 4: nutsforme100 ($5000.00 in chips)
+Seat 5: 7SkyAroundMe ($6305.73 in chips)
+Seat 6: LongTanHndsome ($5000.00 in chips)
+BigP6188: posts small blind $25.00
+Pr.Lupine: posts big blind $50.00
+*** HOLE CARDS ***
+SigadiSogadi: folds
+nutsforme100: folds
+7SkyAroundMe: folds
+LongTanHndsome: raises $50.00 to $100.00
+BigP6188: folds
+Pr.Lupine: calls $50.00
+*** FLOP *** [Ks 7s As]
+Pr.Lupine: checks
+LongTanHndsome: bets $50.00
+Pr.Lupine: calls $50.00
+*** TURN *** [Ks 7s As] [9h]
+Pr.Lupine: checks
+LongTanHndsome: bets $162.50
+Pr.Lupine: folds
+Uncalled bet ($162.50) returned to LongTanHndsome
+LongTanHndsome collected $322.00 from pot
+LongTanHndsome: doesn't show hand
+*** SUMMARY ***
+Total pot $325.00 | Rake $3.00
+Board [Ks 7s As 9h]
+Seat 1: BigP6188 (small blind) folded before Flop
+Seat 2: Pr.Lupine (big blind) folded on the Turn
+Seat 3: SigadiSogadi folded before Flop (didn't bet)
+Seat 4: nutsforme100 folded before Flop (didn't bet)
+Seat 5: 7SkyAroundMe folded before Flop (didn't bet)
+Seat 6: LongTanHndsome (button) collected ($322.00)
+
+PokerStars Hand #1508632241:  Hold'em No Limit ($25.00/$50.00 USD) - 2023/01/04 01:03:57 ET
+Table 'WPN_North Pekin' 6-max Seat #1 is the button
+Seat 1: BigP6188 ($639.51 in chips)
+Seat 2: Pr.Lupine ($2218.87 in chips)
+Seat 3: SigadiSogadi ($7156.50 in chips)
+Seat 4: nutsforme100 ($5000.00 in chips)
+Seat 5: 7SkyAroundMe ($6305.73 in chips)
+Seat 6: LongTanHndsome ($5172.00 in chips)
+Pr.Lupine: posts small blind $25.00
+SigadiSogadi: posts big blind $50.00
+*** HOLE CARDS ***
+nutsforme100: folds
+7SkyAroundMe: raises $60.00 to $110.00
+LongTanHndsome: folds
+BigP6188: raises $147.50 to $257.50
+Pr.Lupine: folds
+SigadiSogadi: folds
+7SkyAroundMe: calls $147.50
+*** FLOP *** [Tc Qs Ts]
+7SkyAroundMe: checks
+BigP6188: bets $382.01 and is all-in
+7SkyAroundMe: folds
+Uncalled bet ($382.01) returned to BigP6188
+BigP6188 collected $587.00 from pot
+BigP6188: doesn't show hand
+*** SUMMARY ***
+Total pot $590.00 | Rake $3.00
+Board [Tc Qs Ts]
+Seat 1: BigP6188 (button) collected ($587.00)
+Seat 2: Pr.Lupine (small blind) folded before Flop
+Seat 3: SigadiSogadi (big blind) folded before Flop
+Seat 4: nutsforme100 folded before Flop (didn't bet)
+Seat 5: 7SkyAroundMe folded on the Flop
+Seat 6: LongTanHndsome folded before Flop (didn't bet)
+
+PokerStars Hand #1508633903:  Hold'em No Limit ($25.00/$50.00 USD) - 2023/01/04 01:05:12 ET
+Table 'WPN_North Pekin' 6-max Seat #2 is the button
+Seat 1: BigP6188 ($969.01 in chips)
+Seat 2: Pr.Lupine ($2193.87 in chips)
+Seat 3: SigadiSogadi ($7106.50 in chips)
+Seat 4: nutsforme100 ($5000.00 in chips)
+Seat 5: 7SkyAroundMe ($6048.23 in chips)
+Seat 6: LongTanHndsome ($5172.00 in chips)
+SigadiSogadi: posts small blind $25.00
+nutsforme100: posts big blind $50.00
+*** HOLE CARDS ***
+7SkyAroundMe: folds
+LongTanHndsome: folds
+BigP6188: folds
+Pr.Lupine: raises $75.00 to $125.00
+SigadiSogadi: folds
+nutsforme100: calls $75.00
+*** FLOP *** [5h 6h Jh]
+nutsforme100: checks
+Pr.Lupine: checks
+*** TURN *** [5h 6h Jh] [7c]
+nutsforme100: bets $206.25
+Pr.Lupine: folds
+Uncalled bet ($206.25) returned to nutsforme100
+nutsforme100 collected $272.00 from pot
+nutsforme100: doesn't show hand
+*** SUMMARY ***
+Total pot $275.00 | Rake $3.00
+Board [5h 6h Jh 7c]
+Seat 1: BigP6188 folded before Flop (didn't bet)
+Seat 2: Pr.Lupine (button) folded on the Turn
+Seat 3: SigadiSogadi (small blind) folded before Flop
+Seat 4: nutsforme100 (big blind) collected ($272.00)
+Seat 5: 7SkyAroundMe folded before Flop (didn't bet)
+Seat 6: LongTanHndsome folded before Flop (didn't bet)
+
+PokerStars Hand #1508635290:  Hold'em No Limit ($25.00/$50.00 USD) - 2023/01/04 01:06:13 ET
+Table 'WPN_North Pekin' 6-max Seat #3 is the button
+Seat 1: scout325 ($2000.00 in chips)
+Seat 2: Pr.Lupine ($2068.87 in chips)
+Seat 3: SigadiSogadi ($7081.50 in chips)
+Seat 4: nutsforme100 ($5147.00 in chips)
+Seat 5: 7SkyAroundMe ($6048.23 in chips)
+Seat 6: LongTanHndsome ($5172.00 in chips)
+nutsforme100: posts small blind $25.00
+7SkyAroundMe: posts big blind $50.00
+*** HOLE CARDS ***
+LongTanHndsome: folds
+Pr.Lupine: raises $75.00 to $125.00
+SigadiSogadi: folds
+nutsforme100: folds
+7SkyAroundMe: folds
+Uncalled bet ($75.00) returned to Pr.Lupine
+Pr.Lupine collected $125.00 from pot
+Pr.Lupine: doesn't show hand
+*** SUMMARY ***
+Total pot $125.00 | Rake $0.00
+Seat 2: Pr.Lupine collected ($125.00)
+Seat 3: SigadiSogadi (button) folded before Flop (didn't bet)
+Seat 4: nutsforme100 (small blind) folded before Flop
+Seat 5: 7SkyAroundMe (big blind) folded before Flop
+Seat 6: LongTanHndsome folded before Flop (didn't bet)
+
+PokerStars Hand #1508635918:  Hold'em No Limit ($25.00/$50.00 USD) - 2023/01/04 01:06:40 ET
+Table 'WPN_North Pekin' 6-max Seat #4 is the button
+Seat 1: scout325 ($2500.00 in chips)
+Seat 2: Pr.Lupine ($2143.87 in chips)
+Seat 3: SigadiSogadi ($7081.50 in chips)
+Seat 4: nutsforme100 ($5122.00 in chips)
+Seat 5: 7SkyAroundMe ($5998.23 in chips)
+Seat 6: LongTanHndsome ($5172.00 in chips)
+7SkyAroundMe: posts small blind $25.00
+scout325: posts big blind $50.00
+*** HOLE CARDS ***
+Pr.Lupine: folds
+SigadiSogadi: raises $60.00 to $110.00
+nutsforme100: folds
+7SkyAroundMe: folds
+scout325: calls $60.00
+*** FLOP *** [5d 7c Jc]
+scout325: checks
+SigadiSogadi: bets $122.50
+scout325: folds
+Uncalled bet ($122.50) returned to SigadiSogadi
+SigadiSogadi collected $242.00 from pot
+SigadiSogadi: doesn't show hand
+*** SUMMARY ***
+Total pot $245.00 | Rake $3.00
+Board [5d 7c Jc]
+Seat 1: scout325 (big blind) folded on the Flop
+Seat 2: Pr.Lupine folded before Flop (didn't bet)
+Seat 3: SigadiSogadi collected ($242.00)
+Seat 4: nutsforme100 (button) folded before Flop (didn't bet)
+Seat 5: 7SkyAroundMe (small blind) folded before Flop
+
+PokerStars Hand #1508636896:  Hold'em No Limit ($25.00/$50.00 USD) - 2023/01/04 01:07:22 ET
+Table 'WPN_North Pekin' 6-max Seat #5 is the button
+Seat 1: scout325 ($2390.00 in chips)
+Seat 3: SigadiSogadi ($7213.50 in chips)
+Seat 4: nutsforme100 ($5122.00 in chips)
+Seat 5: 7SkyAroundMe ($5973.23 in chips)
+scout325: posts small blind $25.00
+SigadiSogadi: posts big blind $50.00
+*** HOLE CARDS ***
+nutsforme100: folds
+7SkyAroundMe: folds
+scout325: raises $100.00 to $150.00
+SigadiSogadi: calls $100.00
+*** FLOP *** [9h 6s 9s]
+scout325: checks
+SigadiSogadi: bets $125.00
+scout325: folds
+Uncalled bet ($125.00) returned to SigadiSogadi
+SigadiSogadi collected $297.75 from pot
+SigadiSogadi: doesn't show hand
+*** SUMMARY ***
+Total pot $300.00 | Rake $2.25
+Board [9h 6s 9s]
+Seat 1: scout325 (small blind) folded on the Flop
+Seat 3: SigadiSogadi (big blind) collected ($297.75)
+Seat 4: nutsforme100 folded before Flop (didn't bet)
+Seat 5: 7SkyAroundMe (button) folded before Flop (didn't bet)
+
+PokerStars Hand #1508638476:  Hold'em No Limit ($25.00/$50.00 USD) - 2023/01/04 01:08:30 ET
+Table 'WPN_North Pekin' 6-max Seat #1 is the button
+Seat 1: scout325 ($2350.00 in chips)
+Seat 3: SigadiSogadi ($7361.25 in chips)
+Seat 5: 7SkyAroundMe ($5973.23 in chips)
+Seat 6: rigggedeck ($5000.00 in chips)
+SigadiSogadi: posts small blind $25.00
+7SkyAroundMe: posts big blind $50.00
+*** HOLE CARDS ***
+scout325: raises $62.50 to $112.50
+SigadiSogadi: folds
+7SkyAroundMe: folds
+Uncalled bet ($62.50) returned to scout325
+scout325 collected $125.00 from pot
+scout325: doesn't show hand
+*** SUMMARY ***
+Total pot $125.00 | Rake $0.00
+Seat 1: scout325 (button) collected ($125.00)
+Seat 3: SigadiSogadi (small blind) folded before Flop
+Seat 5: 7SkyAroundMe (big blind) folded before Flop
+
+PokerStars Hand #1508638947:  Hold'em No Limit ($25.00/$50.00 USD) - 2023/01/04 01:08:51 ET
+Table 'WPN_North Pekin' 6-max Seat #3 is the button
+Seat 1: scout325 ($2575.00 in chips)
+Seat 3: SigadiSogadi ($7336.25 in chips)
+Seat 5: 7SkyAroundMe ($5923.23 in chips)
+Seat 6: rigggedeck ($5000.00 in chips)
+7SkyAroundMe: posts small blind $25.00
+rigggedeck: posts big blind $50.00
+*** HOLE CARDS ***
+scout325: folds
+SigadiSogadi: folds
+7SkyAroundMe: folds
+Uncalled bet ($25.00) returned to rigggedeck
+rigggedeck collected $50.00 from pot
+rigggedeck: doesn't show hand
+*** SUMMARY ***
+Total pot $50.00 | Rake $0.00
+Seat 1: scout325 folded before Flop (didn't bet)
+Seat 3: SigadiSogadi (button) folded before Flop (didn't bet)
+Seat 5: 7SkyAroundMe (small blind) folded before Flop
+Seat 6: rigggedeck (big blind) collected ($50.00)
+
+PokerStars Hand #1508639488:  Hold'em No Limit ($25.00/$50.00 USD) - 2023/01/04 01:09:16 ET
+Table 'WPN_North Pekin' 6-max Seat #5 is the button
+Seat 3: SigadiSogadi ($7336.25 in chips)
+Seat 5: 7SkyAroundMe ($5898.23 in chips)
+Seat 6: rigggedeck ($5025.00 in chips)
+rigggedeck: posts small blind $25.00
+7SkyAroundMe: posts big blind $50.00
+*** HOLE CARDS ***
+rigggedeck: raises $75.00 to $125.00
+7SkyAroundMe: calls $75.00
+*** FLOP *** [9d 5c 9c]
+rigggedeck: checks
+7SkyAroundMe: bets $125.00
+rigggedeck: calls $125.00
+*** TURN *** [9d 5c 9c] [8s]
+rigggedeck: checks
+7SkyAroundMe: checks
+*** RIVER *** [9d 5c 9c 8s] [8d]
+rigggedeck: checks
+7SkyAroundMe: checks
+*** SHOW DOWN ***
+rigggedeck: shows [Kh Ks]
+7SkyAroundMe: mucks hand
+rigggedeck collected $498.75 from pot
+*** SUMMARY ***
+Total pot $500.00 | Rake $1.25
+Board [9d 5c 9c 8s 8d]
+Seat 5: 7SkyAroundMe (button) (big blind) mucked
+Seat 6: rigggedeck (small blind) showed [Kh Ks] and won ($498.75)
+
+PokerStars Hand #1508705375:  Hold'em No Limit ($25.00/$50.00 USD) - 2023/01/04 02:00:17 ET
+Table 'WPN_North Pekin' 6-max Seat #5 is the button
+Seat 1: jnarrrd ($4954.25 in chips)
+Seat 3: notvrygud ($5150.00 in chips)
+Seat 4: rigggedeck ($4814.84 in chips)
+Seat 5: 7SkyAroundMe ($5677.73 in chips)
+Seat 6: GrimLaden ($7682.83 in chips)
+GrimLaden: posts small blind $25.00
+jnarrrd: posts big blind $50.00
+*** HOLE CARDS ***
+notvrygud: folds
+rigggedeck: folds
+7SkyAroundMe: folds
+GrimLaden: folds
+Uncalled bet ($25.00) returned to jnarrrd
+jnarrrd collected $50.00 from pot
+jnarrrd: doesn't show hand
+*** SUMMARY ***
+Total pot $50.00 | Rake $0.00
+Seat 1: jnarrrd (big blind) collected ($50.00)
+Seat 3: notvrygud folded before Flop (didn't bet)
+Seat 4: rigggedeck folded before Flop (didn't bet)
+Seat 5: 7SkyAroundMe (button) folded before Flop (didn't bet)
+Seat 6: GrimLaden (small blind) folded before Flop
+
+PokerStars Hand #1508705514:  Hold'em No Limit ($25.00/$50.00 USD) - 2023/01/04 02:00:28 ET
+Table 'WPN_North Pekin' 6-max Seat #6 is the button
+Seat 1: jnarrrd ($4979.25 in chips)
+Seat 3: notvrygud ($5150.00 in chips)
+Seat 4: rigggedeck ($4814.84 in chips)
+Seat 5: 7SkyAroundMe ($5677.73 in chips)
+Seat 6: GrimLaden ($7657.83 in chips)
+jnarrrd: posts small blind $25.00
+notvrygud: posts big blind $50.00
+*** HOLE CARDS ***
+rigggedeck: folds
+7SkyAroundMe: folds
+GrimLaden: folds
+jnarrrd: raises $75.00 to $125.00
+notvrygud: calls $75.00
+*** FLOP *** [Td Kc 2d]
+jnarrrd: checks
+notvrygud: checks
+*** TURN *** [Td Kc 2d] [6h]
+jnarrrd: checks
+notvrygud: checks
+*** RIVER *** [Td Kc 2d 6h] [Kh]
+jnarrrd: checks
+notvrygud: checks
+*** SHOW DOWN ***
+notvrygud: shows [3s As]
+jnarrrd: mucks hand
+notvrygud collected $247.00 from pot
+*** SUMMARY ***
+Total pot $250.00 | Rake $3.00
+Board [Td Kc 2d 6h Kh]
+Seat 1: jnarrrd (small blind) mucked
+Seat 3: notvrygud (big blind) showed [3s As] and won ($247.00)
+Seat 4: rigggedeck folded before Flop (didn't bet)
+Seat 5: 7SkyAroundMe folded before Flop (didn't bet)
+Seat 6: GrimLaden (button) folded before Flop (didn't bet)
+
+PokerStars Hand #1508706918:  Hold'em No Limit ($25.00/$50.00 USD) - 2023/01/04 02:01:32 ET
+Table 'WPN_North Pekin' 6-max Seat #1 is the button
+Seat 1: jnarrrd ($4854.25 in chips)
+Seat 3: notvrygud ($5272.00 in chips)
+Seat 4: rigggedeck ($4814.84 in chips)
+Seat 5: 7SkyAroundMe ($5677.73 in chips)
+Seat 6: GrimLaden ($7657.83 in chips)
+notvrygud: posts small blind $25.00
+rigggedeck: posts big blind $50.00
+*** HOLE CARDS ***
+7SkyAroundMe: folds
+GrimLaden: folds
+jnarrrd: folds
+notvrygud: folds
+Uncalled bet ($25.00) returned to rigggedeck
+rigggedeck collected $50.00 from pot
+rigggedeck: doesn't show hand
+*** SUMMARY ***
+Total pot $50.00 | Rake $0.00
+Seat 1: jnarrrd (button) folded before Flop (didn't bet)
+Seat 3: notvrygud (small blind) folded before Flop
+Seat 4: rigggedeck (big blind) collected ($50.00)
+Seat 5: 7SkyAroundMe folded before Flop (didn't bet)
+Seat 6: GrimLaden folded before Flop (didn't bet)
+
+PokerStars Hand #1508707388:  Hold'em No Limit ($25.00/$50.00 USD) - 2023/01/04 02:01:53 ET
+Table 'WPN_North Pekin' 6-max Seat #3 is the button
+Seat 1: jnarrrd ($4854.25 in chips)
+Seat 3: notvrygud ($5247.00 in chips)
+Seat 4: rigggedeck ($4839.84 in chips)
+Seat 5: 7SkyAroundMe ($5677.73 in chips)
+Seat 6: GrimLaden ($7657.83 in chips)
+rigggedeck: posts small blind $25.00
+7SkyAroundMe: posts big blind $50.00
+*** HOLE CARDS ***
+GrimLaden: folds
+jnarrrd: folds
+notvrygud: folds
+rigggedeck: folds
+Uncalled bet ($25.00) returned to 7SkyAroundMe
+7SkyAroundMe collected $50.00 from pot
+7SkyAroundMe: doesn't show hand
+*** SUMMARY ***
+Total pot $50.00 | Rake $0.00
+Seat 1: jnarrrd folded before Flop (didn't bet)
+Seat 3: notvrygud (button) folded before Flop (didn't bet)
+Seat 4: rigggedeck (small blind) folded before Flop
+Seat 5: 7SkyAroundMe (big blind) collected ($50.00)
+Seat 6: GrimLaden folded before Flop (didn't bet)
+
+PokerStars Hand #1508707712:  Hold'em No Limit ($25.00/$50.00 USD) - 2023/01/04 02:02:09 ET
+Table 'WPN_North Pekin' 6-max Seat #4 is the button
+Seat 1: jnarrrd ($4854.25 in chips)
+Seat 3: notvrygud ($5247.00 in chips)
+Seat 4: rigggedeck ($4814.84 in chips)
+Seat 5: 7SkyAroundMe ($5702.73 in chips)
+Seat 6: GrimLaden ($7657.83 in chips)
+7SkyAroundMe: posts small blind $25.00
+GrimLaden: posts big blind $50.00
+*** HOLE CARDS ***
+jnarrrd: raises $100.00 to $150.00
+notvrygud: folds
+rigggedeck: folds
+7SkyAroundMe: raises $400.00 to $550.00
+GrimLaden: folds
+jnarrrd: calls $400.00
+*** FLOP *** [Ks 3s 3h]
+7SkyAroundMe: bets $379.50
+jnarrrd: folds
+Uncalled bet ($379.50) returned to 7SkyAroundMe
+7SkyAroundMe collected $1147.00 from pot
+7SkyAroundMe: doesn't show hand
+*** SUMMARY ***
+Total pot $1150.00 | Rake $3.00
+Board [Ks 3s 3h]
+Seat 1: jnarrrd folded on the Flop
+Seat 3: notvrygud folded before Flop (didn't bet)
+Seat 4: rigggedeck (button) folded before Flop (didn't bet)
+Seat 5: 7SkyAroundMe (small blind) collected ($1147.00)
+Seat 6: GrimLaden (big blind) folded before Flop
+
+PokerStars Hand #1508708739:  Hold'em No Limit ($25.00/$50.00 USD) - 2023/01/04 02:02:55 ET
+Table 'WPN_North Pekin' 6-max Seat #5 is the button
+Seat 1: jnarrrd ($4304.25 in chips)
+Seat 2: LongTanHndsome ($5549.50 in chips)
+Seat 3: notvrygud ($5247.00 in chips)
+Seat 4: rigggedeck ($4814.84 in chips)
+Seat 5: 7SkyAroundMe ($6299.73 in chips)
+Seat 6: GrimLaden ($7607.83 in chips)
+GrimLaden: posts small blind $25.00
+jnarrrd: posts big blind $50.00
+*** HOLE CARDS ***
+notvrygud: raises $62.50 to $112.50
+rigggedeck: raises $237.50 to $350.00
+7SkyAroundMe: folds
+GrimLaden: folds
+jnarrrd: calls $300.00
+notvrygud: folds
+*** FLOP *** [Kh 3s 6s]
+jnarrrd: checks
+rigggedeck: bets $250.35
+jnarrrd: calls $250.35
+*** TURN *** [Kh 3s 6s] [2c]
+jnarrrd: checks
+rigggedeck: bets $1001.40
+jnarrrd: calls $1001.40
+*** RIVER *** [Kh 3s 6s 2c] [6h]
+jnarrrd: bets $2702.50 and is all-in
+rigggedeck: calls $2702.50
+*** SHOW DOWN ***
+rigggedeck: shows [As Ac]
+jnarrrd: shows [Kc Ts]
+rigggedeck collected $8743.00 from pot
+*** SUMMARY ***
+Total pot $8746.00 | Rake $3.00
+Board [Kh 3s 6s 2c 6h]
+Seat 1: jnarrrd (big blind) showed [Kc Ts] and lost
+Seat 3: notvrygud folded before Flop
+Seat 4: rigggedeck showed [As Ac] and won ($8743.00)
+Seat 5: 7SkyAroundMe (button) folded before Flop (didn't bet)
+Seat 6: GrimLaden (small blind) folded before Flop
+
+PokerStars Hand #1508710702:  Hold'em No Limit ($25.00/$50.00 USD) - 2023/01/04 02:04:21 ET
+Table 'WPN_North Pekin' 6-max Seat #6 is the button
+Seat 2: LongTanHndsome ($5549.50 in chips)
+Seat 3: notvrygud ($5134.50 in chips)
+Seat 4: rigggedeck ($9253.59 in chips)
+Seat 5: 7SkyAroundMe ($6299.73 in chips)
+Seat 6: GrimLaden ($7582.83 in chips)
+LongTanHndsome: posts big blind $50.00
+*** HOLE CARDS ***
+notvrygud: folds
+rigggedeck: folds
+7SkyAroundMe: folds
+GrimLaden: raises $50.00 to $100.00
+LongTanHndsome: calls $50.00
+*** FLOP *** [Kd As Tc]
+LongTanHndsome: bets $200.00
+GrimLaden: folds
+Uncalled bet ($200.00) returned to LongTanHndsome
+LongTanHndsome collected $197.00 from pot
+LongTanHndsome: doesn't show hand
+*** SUMMARY ***
+Total pot $200.00 | Rake $3.00
+Board [Kd As Tc]
+Seat 2: LongTanHndsome (big blind) collected ($197.00)
+Seat 3: notvrygud folded before Flop (didn't bet)
+Seat 4: rigggedeck folded before Flop (didn't bet)
+Seat 5: 7SkyAroundMe folded before Flop (didn't bet)
+Seat 6: GrimLaden (button) folded on the Flop
+
+PokerStars Hand #1508711754:  Hold'em No Limit ($25.00/$50.00 USD) - 2023/01/04 02:05:06 ET
+Table 'WPN_North Pekin' 6-max Seat #1 is the button
+Seat 1: nutsforme100 ($5000.00 in chips)
+Seat 2: LongTanHndsome ($5646.50 in chips)
+Seat 3: notvrygud ($5134.50 in chips)
+Seat 4: rigggedeck ($9253.59 in chips)
+Seat 5: 7SkyAroundMe ($6299.73 in chips)
+Seat 6: GrimLaden ($7482.83 in chips)
+LongTanHndsome: posts small blind $25.00
+rigggedeck: posts big blind $50.00
+*** HOLE CARDS ***
+7SkyAroundMe: raises $60.00 to $110.00
+GrimLaden: folds
+LongTanHndsome: folds
+rigggedeck: folds
+Uncalled bet ($60.00) returned to 7SkyAroundMe
+7SkyAroundMe collected $125.00 from pot
+7SkyAroundMe: doesn't show hand
+*** SUMMARY ***
+Total pot $125.00 | Rake $0.00
+Seat 2: LongTanHndsome (small blind) folded before Flop
+Seat 4: rigggedeck (big blind) folded before Flop
+Seat 5: 7SkyAroundMe collected ($125.00)
+Seat 6: GrimLaden folded before Flop (didn't bet)
+
+PokerStars Hand #1508712346:  Hold'em No Limit ($25.00/$50.00 USD) - 2023/01/04 02:05:32 ET
+Table 'WPN_North Pekin' 6-max Seat #2 is the button
+Seat 1: nutsforme100 ($5000.00 in chips)
+Seat 2: LongTanHndsome ($5621.50 in chips)
+Seat 4: rigggedeck ($9203.59 in chips)
+Seat 5: 7SkyAroundMe ($6374.73 in chips)
+Seat 6: GrimLaden ($7482.83 in chips)
+rigggedeck: posts small blind $25.00
+7SkyAroundMe: posts big blind $50.00
+*** HOLE CARDS ***
+GrimLaden: folds
+LongTanHndsome: folds
+rigggedeck: folds
+Uncalled bet ($25.00) returned to 7SkyAroundMe
+7SkyAroundMe collected $50.00 from pot
+7SkyAroundMe: doesn't show hand
+*** SUMMARY ***
+Total pot $50.00 | Rake $0.00
+Seat 2: LongTanHndsome (button) folded before Flop (didn't bet)
+Seat 4: rigggedeck (small blind) folded before Flop
+Seat 5: 7SkyAroundMe (big blind) collected ($50.00)
+Seat 6: GrimLaden folded before Flop (didn't bet)
+
+PokerStars Hand #1508712868:  Hold'em No Limit ($25.00/$50.00 USD) - 2023/01/04 02:05:54 ET
+Table 'WPN_North Pekin' 6-max Seat #4 is the button
+Seat 1: nutsforme100 ($5000.00 in chips)
+Seat 2: LongTanHndsome ($5621.50 in chips)
+Seat 4: rigggedeck ($9178.59 in chips)
+Seat 5: 7SkyAroundMe ($6399.73 in chips)
+Seat 6: GrimLaden ($7482.83 in chips)
+7SkyAroundMe: posts small blind $25.00
+nutsforme100: posts big blind $50.00
+*** HOLE CARDS ***
+LongTanHndsome: raises $50.00 to $100.00
+rigggedeck: folds
+7SkyAroundMe: folds
+nutsforme100: calls $50.00
+*** FLOP *** [9c Jd 3d]
+nutsforme100: checks
+LongTanHndsome: checks
+*** TURN *** [9c Jd 3d] [Qs]
+nutsforme100: checks
+LongTanHndsome: checks
+*** RIVER *** [9c Jd 3d Qs] [Tc]
+nutsforme100: bets $74.25
+LongTanHndsome: calls $74.25
+*** SHOW DOWN ***
+nutsforme100: shows [8c 4c]
+LongTanHndsome: mucks hand
+nutsforme100 collected $371.25 from pot
+*** SUMMARY ***
+Total pot $373.50 | Rake $2.25
+Board [9c Jd 3d Qs Tc]
+Seat 1: nutsforme100 (big blind) showed [8c 4c] and won ($371.25)
+Seat 2: LongTanHndsome mucked
+Seat 4: rigggedeck (button) folded before Flop (didn't bet)
+Seat 5: 7SkyAroundMe (small blind) folded before Flop
+
+PokerStars Hand #1508714637:  Hold'em No Limit ($25.00/$50.00 USD) - 2023/01/04 02:07:07 ET
+Table 'WPN_North Pekin' 6-max Seat #5 is the button
+Seat 1: nutsforme100 ($5197.00 in chips)
+Seat 2: LongTanHndsome ($5447.25 in chips)
+Seat 3: xplo1t4bl3 ($5000.00 in chips)
+Seat 4: rigggedeck ($9178.59 in chips)
+Seat 5: 7SkyAroundMe ($6374.73 in chips)
+Seat 6: GrimLaden ($7482.83 in chips)
+nutsforme100: posts small blind $25.00
+xplo1t4bl3: posts big blind $50.00
+*** HOLE CARDS ***
+rigggedeck: raises $65.00 to $115.00
+7SkyAroundMe: folds
+nutsforme100: folds
+xplo1t4bl3: calls $65.00
+*** FLOP *** [Qd Ts 8h]
+xplo1t4bl3: checks
+rigggedeck: checks
+*** TURN *** [Qd Ts 8h] [Kd]
+xplo1t4bl3: checks
+rigggedeck: bets $189.56
+xplo1t4bl3: folds
+Uncalled bet ($189.56) returned to rigggedeck
+rigggedeck collected $252.75 from pot
+rigggedeck: doesn't show hand
+*** SUMMARY ***
+Total pot $255.00 | Rake $2.25
+Board [Qd Ts 8h Kd]
+Seat 1: nutsforme100 (small blind) folded before Flop
+Seat 3: xplo1t4bl3 (big blind) folded on the Turn
+Seat 4: rigggedeck collected ($252.75)
+Seat 5: 7SkyAroundMe (button) folded before Flop (didn't bet)
+
+PokerStars Hand #1508715626:  Hold'em No Limit ($25.00/$50.00 USD) - 2023/01/04 02:07:50 ET
+Table 'WPN_North Pekin' 6-max Seat #1 is the button
+Seat 1: nutsforme100 ($5172.00 in chips)
+Seat 2: zas911 ($5000.00 in chips)
+Seat 3: xplo1t4bl3 ($4885.00 in chips)
+Seat 4: rigggedeck ($9316.34 in chips)
+Seat 5: 7SkyAroundMe ($6374.73 in chips)
+Seat 6: GrimLaden ($7482.83 in chips)
+xplo1t4bl3: posts small blind $25.00
+rigggedeck: posts big blind $50.00
+*** HOLE CARDS ***
+7SkyAroundMe: raises $60.00 to $110.00
+nutsforme100: folds
+xplo1t4bl3: calls $85.00
+rigggedeck: folds
+*** FLOP *** [7s Th As]
+xplo1t4bl3: checks
+7SkyAroundMe: checks
+*** TURN *** [7s Th As] [Qs]
+xplo1t4bl3: checks
+7SkyAroundMe: bets $202.50
+xplo1t4bl3: folds
+Uncalled bet ($202.50) returned to 7SkyAroundMe
+7SkyAroundMe collected $267.75 from pot
+7SkyAroundMe: doesn't show hand
+*** SUMMARY ***
+Total pot $270.00 | Rake $2.25
+Board [7s Th As Qs]
+Seat 1: nutsforme100 (button) folded before Flop (didn't bet)
+Seat 3: xplo1t4bl3 (small blind) folded on the Turn
+Seat 4: rigggedeck (big blind) folded before Flop
+Seat 5: 7SkyAroundMe collected ($267.75)
+
+PokerStars Hand #1508717103:  Hold'em No Limit ($25.00/$50.00 USD) - 2023/01/04 02:08:50 ET
+Table 'WPN_North Pekin' 6-max Seat #3 is the button
+Seat 1: nutsforme100 ($5172.00 in chips)
+Seat 3: xplo1t4bl3 ($4890.00 in chips)
+Seat 4: rigggedeck ($9266.34 in chips)
+Seat 5: 7SkyAroundMe ($6532.48 in chips)
+Seat 6: OhHiMark18 ($5000.00 in chips)
+rigggedeck: posts small blind $25.00
+7SkyAroundMe: posts big blind $50.00
+*** HOLE CARDS ***
+nutsforme100: raises $75.00 to $125.00
+xplo1t4bl3: folds
+rigggedeck: folds
+7SkyAroundMe: folds
+Uncalled bet ($75.00) returned to nutsforme100
+nutsforme100 collected $125.00 from pot
+nutsforme100: doesn't show hand
+*** SUMMARY ***
+Total pot $125.00 | Rake $0.00
+Seat 1: nutsforme100 collected ($125.00)
+Seat 3: xplo1t4bl3 (button) folded before Flop (didn't bet)
+Seat 4: rigggedeck (small blind) folded before Flop
+Seat 5: 7SkyAroundMe (big blind) folded before Flop
+
+PokerStars Hand #1508717596:  Hold'em No Limit ($25.00/$50.00 USD) - 2023/01/04 02:09:11 ET
+Table 'WPN_North Pekin' 6-max Seat #4 is the button
+Seat 1: nutsforme100 ($5247.00 in chips)
+Seat 3: xplo1t4bl3 ($4890.00 in chips)
+Seat 4: rigggedeck ($9241.34 in chips)
+Seat 5: 7SkyAroundMe ($6482.48 in chips)
+Seat 6: OhHiMark18 ($5000.00 in chips)
+7SkyAroundMe: posts small blind $25.00
+OhHiMark18: posts big blind $50.00
+*** HOLE CARDS ***
+nutsforme100: folds
+xplo1t4bl3: raises $62.50 to $112.50
+rigggedeck: folds
+7SkyAroundMe: folds
+OhHiMark18: calls $62.50
+*** FLOP *** [9c 6s 8d]
+OhHiMark18: checks
+xplo1t4bl3: checks
+*** TURN *** [9c 6s 8d] [3s]
+OhHiMark18: bets $370.50
+xplo1t4bl3: folds
+Uncalled bet ($370.50) returned to OhHiMark18
+OhHiMark18 collected $247.00 from pot
+OhHiMark18: doesn't show hand
+*** SUMMARY ***
+Total pot $250.00 | Rake $3.00
+Board [9c 6s 8d 3s]
+Seat 1: nutsforme100 folded before Flop (didn't bet)
+Seat 3: xplo1t4bl3 folded on the Turn
+Seat 4: rigggedeck (button) folded before Flop (didn't bet)
+Seat 5: 7SkyAroundMe (small blind) folded before Flop
+Seat 6: OhHiMark18 (big blind) collected ($247.00)
+
+PokerStars Hand #1508718800:  Hold'em No Limit ($25.00/$50.00 USD) - 2023/01/04 02:10:01 ET
+Table 'WPN_North Pekin' 6-max Seat #5 is the button
+Seat 1: nutsforme100 ($5247.00 in chips)
+Seat 3: xplo1t4bl3 ($4887.50 in chips)
+Seat 4: rigggedeck ($9241.34 in chips)
+Seat 5: 7SkyAroundMe ($6457.48 in chips)
+Seat 6: OhHiMark18 ($5134.50 in chips)
+OhHiMark18: posts small blind $25.00
+rigggedeck: posts big blind $50.00
+*** HOLE CARDS ***
+7SkyAroundMe: folds
+OhHiMark18: folds
+Uncalled bet ($25.00) returned to rigggedeck
+rigggedeck collected $50.00 from pot
+rigggedeck: doesn't show hand
+*** SUMMARY ***
+Total pot $50.00 | Rake $0.00
+Seat 4: rigggedeck (big blind) collected ($50.00)
+Seat 5: 7SkyAroundMe (button) folded before Flop (didn't bet)
+Seat 6: OhHiMark18 (small blind) folded before Flop
+
+PokerStars Hand #1508485989:  Hold'em No Limit ($25.00/$50.00 USD) - 2023/01/03 23:07:07 ET
+Table 'WPN_Murrieta' 6-max Seat #4 is the button
+Seat 4: Padishar ($5000.00 in chips)
+Seat 6: rigggedeck ($5000.00 in chips)
+Padishar: posts small blind $25.00
+rigggedeck: posts big blind $50.00
+*** HOLE CARDS ***
+Padishar: raises $75.00 to $125.00
+rigggedeck: calls $75.00
+*** FLOP *** [3s 5s Tc]
+rigggedeck: checks
+Padishar: bets $77.00
+rigggedeck: raises $251.37 to $328.37
+Padishar: folds
+Uncalled bet ($251.37) returned to rigggedeck
+rigggedeck collected $402.75 from pot
+rigggedeck: doesn't show hand
+*** SUMMARY ***
+Total pot $404.00 | Rake $1.25
+Board [3s 5s Tc]
+Seat 4: Padishar (button) (small blind) folded on the Flop
+Seat 6: rigggedeck (big blind) collected ($402.75)
+
+PokerStars Hand #1508486838:  Hold'em No Limit ($25.00/$50.00 USD) - 2023/01/03 23:07:44 ET
+Table 'WPN_Murrieta' 6-max Seat #6 is the button
+Seat 4: Padishar ($4798.00 in chips)
+Seat 6: rigggedeck ($5200.75 in chips)
+rigggedeck: posts small blind $25.00
+Padishar: posts big blind $50.00
+*** HOLE CARDS ***
+rigggedeck: raises $75.00 to $125.00
+Padishar: raises $425.00 to $550.00
+rigggedeck: folds
+Uncalled bet ($425.00) returned to Padishar
+Padishar collected $250.00 from pot
+Padishar: doesn't show hand
+*** SUMMARY ***
+Total pot $250.00 | Rake $0.00
+Seat 4: Padishar (big blind) collected ($250.00)
+Seat 6: rigggedeck (button) (small blind) folded before Flop
+
+PokerStars Hand #1508459726:  Hold'em No Limit ($25.00/$50.00 USD) - 2023/01/03 22:44:22 ET
+Table 'WPN_Watkinsville' 6-max Seat #4 is the button
+Seat 2: SigadiSogadi ($5000.00 in chips)
+Seat 4: rigggedeck ($2000.00 in chips)
+Seat 5: elmatador6969 ($2000.00 in chips)
+Seat 6: nutsforme100 ($5000.00 in chips)
+SigadiSogadi: posts the ante $250.00
+rigggedeck: posts the ante $250.00
+*** HOLE CARDS ***
+*** FLOP *** [6c Ts 5d]
+SigadiSogadi: checks
+rigggedeck: checks
+*** TURN *** [6c Ts 5d] [7c]
+SigadiSogadi: bets $500.00
+rigggedeck: folds
+Uncalled bet ($500.00) returned to SigadiSogadi
+SigadiSogadi collected $498.75 from pot
+SigadiSogadi: doesn't show hand
+*** SUMMARY ***
+Total pot $500.00 | Rake $1.25
+Board [6c Ts 5d 7c]
+Seat 2: SigadiSogadi collected ($498.75)
+Seat 4: rigggedeck (button) folded on the Turn
+
+PokerStars Hand #1508461139:  Hold'em No Limit ($25.00/$50.00 USD) - 2023/01/03 22:45:12 ET
+Table 'WPN_Watkinsville' 6-max Seat #2 is the button
+Seat 2: SigadiSogadi ($5248.75 in chips)
+Seat 3: RealEnough ($5000.00 in chips)
+Seat 4: rigggedeck ($1750.00 in chips)
+Seat 5: elmatador6969 ($2000.00 in chips)
+Seat 6: nutsforme100 ($5000.00 in chips)
+RealEnough: posts small blind $25.00
+rigggedeck: posts big blind $50.00
+*** HOLE CARDS ***
+elmatador6969: folds
+nutsforme100: folds
+SigadiSogadi: raises $75.00 to $125.00
+RealEnough: folds
+rigggedeck: folds
+Uncalled bet ($75.00) returned to SigadiSogadi
+SigadiSogadi collected $125.00 from pot
+SigadiSogadi: doesn't show hand
+*** SUMMARY ***
+Total pot $125.00 | Rake $0.00
+Seat 2: SigadiSogadi (button) collected ($125.00)
+Seat 3: RealEnough (small blind) folded before Flop
+Seat 4: rigggedeck (big blind) folded before Flop
+Seat 5: elmatador6969 folded before Flop (didn't bet)
+Seat 6: nutsforme100 folded before Flop (didn't bet)
+
+PokerStars Hand #1508461741:  Hold'em No Limit ($25.00/$50.00 USD) - 2023/01/03 22:45:38 ET
+Table 'WPN_Watkinsville' 6-max Seat #3 is the button
+Seat 1: songo24 ($5000.00 in chips)
+Seat 2: SigadiSogadi ($5323.75 in chips)
+Seat 3: RealEnough ($5000.00 in chips)
+Seat 4: rigggedeck ($4950.00 in chips)
+Seat 5: elmatador6969 ($5000.00 in chips)
+Seat 6: nutsforme100 ($5000.00 in chips)
+rigggedeck: posts small blind $25.00
+nutsforme100: posts big blind $50.00
+*** HOLE CARDS ***
+SigadiSogadi: folds
+RealEnough: folds
+rigggedeck: folds
+Uncalled bet ($25.00) returned to nutsforme100
+nutsforme100 collected $50.00 from pot
+nutsforme100: doesn't show hand
+*** SUMMARY ***
+Total pot $50.00 | Rake $0.00
+Seat 2: SigadiSogadi folded before Flop (didn't bet)
+Seat 3: RealEnough (button) folded before Flop (didn't bet)
+Seat 4: rigggedeck (small blind) folded before Flop
+Seat 6: nutsforme100 (big blind) collected ($50.00)
+
+PokerStars Hand #1508462154:  Hold'em No Limit ($25.00/$50.00 USD) - 2023/01/03 22:45:57 ET
+Table 'WPN_Watkinsville' 6-max Seat #4 is the button
+Seat 2: SigadiSogadi ($5323.75 in chips)
+Seat 3: RealEnough ($5000.00 in chips)
+Seat 4: rigggedeck ($4975.00 in chips)
+Seat 6: nutsforme100 ($5025.00 in chips)
+nutsforme100: posts small blind $25.00
+SigadiSogadi: posts big blind $50.00
+*** HOLE CARDS ***
+RealEnough: raises $75.00 to $125.00
+rigggedeck: folds
+nutsforme100: folds
+SigadiSogadi: folds
+Uncalled bet ($75.00) returned to RealEnough
+RealEnough collected $125.00 from pot
+RealEnough: doesn't show hand
+*** SUMMARY ***
+Total pot $125.00 | Rake $0.00
+Seat 2: SigadiSogadi (big blind) folded before Flop
+Seat 3: RealEnough collected ($125.00)
+Seat 4: rigggedeck (button) folded before Flop (didn't bet)
+Seat 6: nutsforme100 (small blind) folded before Flop
+
+PokerStars Hand #1508462659:  Hold'em No Limit ($25.00/$50.00 USD) - 2023/01/03 22:46:21 ET
+Table 'WPN_Watkinsville' 6-max Seat #6 is the button
+Seat 2: SigadiSogadi ($5273.75 in chips)
+Seat 3: RealEnough ($5075.00 in chips)
+Seat 4: rigggedeck ($4975.00 in chips)
+Seat 6: nutsforme100 ($5000.00 in chips)
+SigadiSogadi: posts small blind $25.00
+rigggedeck: posts big blind $50.00
+*** HOLE CARDS ***
+nutsforme100: raises $75.00 to $125.00
+SigadiSogadi: raises $400.00 to $525.00
+rigggedeck: folds
+nutsforme100: folds
+Uncalled bet ($400.00) returned to SigadiSogadi
+SigadiSogadi collected $300.00 from pot
+SigadiSogadi: doesn't show hand
+*** SUMMARY ***
+Total pot $300.00 | Rake $0.00
+Seat 2: SigadiSogadi (small blind) collected ($300.00)
+Seat 4: rigggedeck (big blind) folded before Flop
+Seat 6: nutsforme100 (button) folded before Flop
+
+PokerStars Hand #1508463059:  Hold'em No Limit ($25.00/$50.00 USD) - 2023/01/03 22:46:39 ET
+Table 'WPN_Watkinsville' 6-max Seat #2 is the button
+Seat 2: SigadiSogadi ($5448.75 in chips)
+Seat 4: rigggedeck ($5000.00 in chips)
+Seat 6: nutsforme100 ($4875.00 in chips)
+rigggedeck: posts small blind $25.00
+SigadiSogadi: posts big blind $50.00
+*** HOLE CARDS ***
+rigggedeck: folds
+Uncalled bet ($25.00) returned to SigadiSogadi
+SigadiSogadi collected $50.00 from pot
+SigadiSogadi: doesn't show hand
+*** SUMMARY ***
+Total pot $50.00 | Rake $0.00
+Seat 2: SigadiSogadi (button) (big blind) collected ($50.00)
+Seat 4: rigggedeck (small blind) folded before Flop
+
+PokerStars Hand #1508332636:  Hold'em No Limit ($25.00/$50.00 USD) - 2023/01/03 21:04:50 ET
+Table 'WPN_Fairway' 6-max Seat #2 is the button
+Seat 2: TIKITAKA11 ($7014.13 in chips)
+Seat 3: RealMenRathole ($23177.25 in chips)
+Seat 4: Meek Bill ($7401.58 in chips)
+Seat 6: Padishar ($6329.01 in chips)
+RealMenRathole: posts small blind $25.00
+Meek Bill: posts big blind $50.00
+*** HOLE CARDS ***
+Padishar: folds
+TIKITAKA11: raises $65.00 to $115.00
+RealMenRathole: raises $435.00 to $550.00
+Meek Bill: folds
+TIKITAKA11: folds
+Uncalled bet ($435.00) returned to RealMenRathole
+RealMenRathole collected $280.00 from pot
+RealMenRathole: doesn't show hand
+*** SUMMARY ***
+Total pot $280.00 | Rake $0.00
+Seat 2: TIKITAKA11 (button) folded before Flop
+Seat 3: RealMenRathole (small blind) collected ($280.00)
+Seat 4: Meek Bill (big blind) folded before Flop
+Seat 6: Padishar folded before Flop (didn't bet)
+
+PokerStars Hand #1508333188:  Hold'em No Limit ($25.00/$50.00 USD) - 2023/01/03 21:05:17 ET
+Table 'WPN_Fairway' 6-max Seat #3 is the button
+Seat 2: TIKITAKA11 ($6899.13 in chips)
+Seat 3: RealMenRathole ($23342.25 in chips)
+Seat 4: Meek Bill ($7351.58 in chips)
+Seat 6: Padishar ($6329.01 in chips)
+Meek Bill: posts small blind $25.00
+Padishar: posts big blind $50.00
+*** HOLE CARDS ***
+TIKITAKA11: folds
+RealMenRathole: folds
+Meek Bill: folds
+Uncalled bet ($25.00) returned to Padishar
+Padishar collected $50.00 from pot
+Padishar: doesn't show hand
+*** SUMMARY ***
+Total pot $50.00 | Rake $0.00
+Seat 2: TIKITAKA11 folded before Flop (didn't bet)
+Seat 3: RealMenRathole (button) folded before Flop (didn't bet)
+Seat 4: Meek Bill (small blind) folded before Flop
+Seat 6: Padishar (big blind) collected ($50.00)
+
+PokerStars Hand #1508333473:  Hold'em No Limit ($25.00/$50.00 USD) - 2023/01/03 21:05:30 ET
+Table 'WPN_Fairway' 6-max Seat #4 is the button
+Seat 2: TIKITAKA11 ($6899.13 in chips)
+Seat 3: RealMenRathole ($23342.25 in chips)
+Seat 4: Meek Bill ($7326.58 in chips)
+Seat 6: Padishar ($6354.01 in chips)
+Padishar: posts small blind $25.00
+TIKITAKA11: posts big blind $50.00
+*** HOLE CARDS ***
+RealMenRathole: raises $62.50 to $112.50
+Meek Bill: folds
+Padishar: folds
+TIKITAKA11: calls $62.50
+*** FLOP *** [Kh 8h 9h]
+TIKITAKA11: checks
+RealMenRathole: checks
+*** TURN *** [Kh 8h 9h] [3s]
+TIKITAKA11: bets $375.00
+RealMenRathole: calls $375.00
+*** RIVER *** [Kh 8h 9h 3s] [6s]
+TIKITAKA11: bets $2000.00
+RealMenRathole: folds
+Uncalled bet ($2000.00) returned to TIKITAKA11
+TIKITAKA11 collected $997.75 from pot
+TIKITAKA11: doesn't show hand
+*** SUMMARY ***
+Total pot $1000.00 | Rake $2.25
+Board [Kh 8h 9h 3s 6s]
+Seat 2: TIKITAKA11 (big blind) collected ($997.75)
+Seat 3: RealMenRathole folded on the River
+Seat 4: Meek Bill (button) folded before Flop (didn't bet)
+Seat 6: Padishar (small blind) folded before Flop
+
+PokerStars Hand #1508334768:  Hold'em No Limit ($25.00/$50.00 USD) - 2023/01/03 21:06:34 ET
+Table 'WPN_Fairway' 6-max Seat #6 is the button
+Seat 2: TIKITAKA11 ($7409.38 in chips)
+Seat 3: RealMenRathole ($22854.75 in chips)
+Seat 4: Meek Bill ($7326.58 in chips)
+Seat 6: Padishar ($6329.01 in chips)
+TIKITAKA11: posts small blind $25.00
+RealMenRathole: posts big blind $50.00
+*** HOLE CARDS ***
+Meek Bill: folds
+Padishar: raises $75.00 to $125.00
+TIKITAKA11: raises $390.00 to $515.00
+RealMenRathole: raises $660.00 to $1175.00
+Padishar: folds
+TIKITAKA11: folds
+Uncalled bet ($660.00) returned to RealMenRathole
+RealMenRathole collected $1155.00 from pot
+RealMenRathole: doesn't show hand
+*** SUMMARY ***
+Total pot $1155.00 | Rake $0.00
+Seat 2: TIKITAKA11 (small blind) folded before Flop
+Seat 3: RealMenRathole (big blind) collected ($1155.00)
+Seat 4: Meek Bill folded before Flop (didn't bet)
+Seat 6: Padishar (button) folded before Flop
+
+PokerStars Hand #1508335493:  Hold'em No Limit ($25.00/$50.00 USD) - 2023/01/03 21:07:10 ET
+Table 'WPN_Fairway' 6-max Seat #2 is the button
+Seat 2: TIKITAKA11 ($6894.38 in chips)
+Seat 3: RealMenRathole ($23494.75 in chips)
+Seat 4: Meek Bill ($7326.58 in chips)
+Seat 6: Padishar ($6204.01 in chips)
+RealMenRathole: posts small blind $25.00
+Meek Bill: posts big blind $50.00
+*** HOLE CARDS ***
+Padishar: raises $60.00 to $110.00
+TIKITAKA11: folds
+RealMenRathole: folds
+Meek Bill: folds
+Uncalled bet ($60.00) returned to Padishar
+Padishar collected $125.00 from pot
+Padishar: doesn't show hand
+*** SUMMARY ***
+Total pot $125.00 | Rake $0.00
+Seat 2: TIKITAKA11 (button) folded before Flop (didn't bet)
+Seat 3: RealMenRathole (small blind) folded before Flop
+Seat 4: Meek Bill (big blind) folded before Flop
+Seat 6: Padishar collected ($125.00)
+
+PokerStars Hand #1508335795:  Hold'em No Limit ($25.00/$50.00 USD) - 2023/01/03 21:07:26 ET
+Table 'WPN_Fairway' 6-max Seat #3 is the button
+Seat 2: TIKITAKA11 ($6894.38 in chips)
+Seat 3: RealMenRathole ($23469.75 in chips)
+Seat 4: Meek Bill ($7276.58 in chips)
+Seat 6: Padishar ($6279.01 in chips)
+Meek Bill: posts small blind $25.00
+Padishar: posts big blind $50.00
+*** HOLE CARDS ***
+TIKITAKA11: raises $65.00 to $115.00
+RealMenRathole: folds
+Meek Bill: folds
+Padishar: folds
+Uncalled bet ($65.00) returned to TIKITAKA11
+TIKITAKA11 collected $125.00 from pot
+TIKITAKA11: doesn't show hand
+*** SUMMARY ***
+Total pot $125.00 | Rake $0.00
+Seat 2: TIKITAKA11 collected ($125.00)
+Seat 3: RealMenRathole (button) folded before Flop (didn't bet)
+Seat 4: Meek Bill (small blind) folded before Flop
+Seat 6: Padishar (big blind) folded before Flop
+
+PokerStars Hand #1508336169:  Hold'em No Limit ($25.00/$50.00 USD) - 2023/01/03 21:07:44 ET
+Table 'WPN_Fairway' 6-max Seat #4 is the button
+Seat 2: TIKITAKA11 ($6969.38 in chips)
+Seat 3: RealMenRathole ($23469.75 in chips)
+Seat 4: Meek Bill ($7251.58 in chips)
+Seat 6: Padishar ($6229.01 in chips)
+Padishar: posts small blind $25.00
+TIKITAKA11: posts big blind $50.00
+*** HOLE CARDS ***
+RealMenRathole: folds
+Meek Bill: folds
+Padishar: raises $100.00 to $150.00
+TIKITAKA11: calls $100.00
+*** FLOP *** [5d Qh As]
+Padishar: checks
+TIKITAKA11: bets $150.00
+Padishar: calls $150.00
+*** TURN *** [5d Qh As] [2d]
+Padishar: checks
+TIKITAKA11: bets $600.00
+Padishar: folds
+Uncalled bet ($600.00) returned to TIKITAKA11
+TIKITAKA11 collected $597.75 from pot
+TIKITAKA11: doesn't show hand
+*** SUMMARY ***
+Total pot $600.00 | Rake $2.25
+Board [5d Qh As 2d]
+Seat 2: TIKITAKA11 (big blind) collected ($597.75)
+Seat 3: RealMenRathole folded before Flop (didn't bet)
+Seat 4: Meek Bill (button) folded before Flop (didn't bet)
+Seat 6: Padishar (small blind) folded on the Turn
+
+PokerStars Hand #1508337595:  Hold'em No Limit ($25.00/$50.00 USD) - 2023/01/03 21:08:53 ET
+Table 'WPN_Fairway' 6-max Seat #6 is the button
+Seat 2: TIKITAKA11 ($7267.13 in chips)
+Seat 3: RealMenRathole ($23469.75 in chips)
+Seat 4: Meek Bill ($7251.58 in chips)
+Seat 6: Padishar ($5929.01 in chips)
+TIKITAKA11: posts small blind $25.00
+RealMenRathole: posts big blind $50.00
+*** HOLE CARDS ***
+Meek Bill: folds
+Padishar: folds
+TIKITAKA11: folds
+Uncalled bet ($25.00) returned to RealMenRathole
+RealMenRathole collected $50.00 from pot
+RealMenRathole: doesn't show hand
+*** SUMMARY ***
+Total pot $50.00 | Rake $0.00
+Seat 2: TIKITAKA11 (small blind) folded before Flop
+Seat 3: RealMenRathole (big blind) collected ($50.00)
+Seat 4: Meek Bill folded before Flop (didn't bet)
+Seat 6: Padishar (button) folded before Flop (didn't bet)
+
+PokerStars Hand #1508337950:  Hold'em No Limit ($25.00/$50.00 USD) - 2023/01/03 21:09:09 ET
+Table 'WPN_Fairway' 6-max Seat #2 is the button
+Seat 2: TIKITAKA11 ($7242.13 in chips)
+Seat 3: RealMenRathole ($23494.75 in chips)
+Seat 4: Meek Bill ($7251.58 in chips)
+Seat 6: Padishar ($5929.01 in chips)
+RealMenRathole: posts small blind $25.00
+Meek Bill: posts big blind $50.00
+*** HOLE CARDS ***
+Padishar: folds
+TIKITAKA11: folds
+RealMenRathole: raises $100.00 to $150.00
+Meek Bill: folds
+Uncalled bet ($100.00) returned to RealMenRathole
+RealMenRathole collected $100.00 from pot
+RealMenRathole: doesn't show hand
+*** SUMMARY ***
+Total pot $100.00 | Rake $0.00
+Seat 2: TIKITAKA11 (button) folded before Flop (didn't bet)
+Seat 3: RealMenRathole (small blind) collected ($100.00)
+Seat 4: Meek Bill (big blind) folded before Flop
+Seat 6: Padishar folded before Flop (didn't bet)
+
+PokerStars Hand #1508338389:  Hold'em No Limit ($25.00/$50.00 USD) - 2023/01/03 21:09:29 ET
+Table 'WPN_Fairway' 6-max Seat #3 is the button
+Seat 2: TIKITAKA11 ($7242.13 in chips)
+Seat 3: RealMenRathole ($23544.75 in chips)
+Seat 4: Meek Bill ($7201.58 in chips)
+Seat 6: Padishar ($5929.01 in chips)
+Meek Bill: posts small blind $25.00
+TIKITAKA11: posts big blind $50.00
+*** HOLE CARDS ***
+RealMenRathole: folds
+Meek Bill: raises $100.00 to $150.00
+TIKITAKA11: folds
+Uncalled bet ($100.00) returned to Meek Bill
+Meek Bill collected $100.00 from pot
+Meek Bill: doesn't show hand
+*** SUMMARY ***
+Total pot $100.00 | Rake $0.00
+Seat 2: TIKITAKA11 (big blind) folded before Flop
+Seat 3: RealMenRathole (button) folded before Flop (didn't bet)
+Seat 4: Meek Bill (small blind) collected ($100.00)
+
+PokerStars Hand #1508338722:  Hold'em No Limit ($25.00/$50.00 USD) - 2023/01/03 21:09:45 ET
+Table 'WPN_Fairway' 6-max Seat #4 is the button
+Seat 2: TIKITAKA11 ($7192.13 in chips)
+Seat 3: RealMenRathole ($23544.75 in chips)
+Seat 4: Meek Bill ($7251.58 in chips)
+TIKITAKA11: posts small blind $25.00
+RealMenRathole: posts big blind $50.00
+*** HOLE CARDS ***
+Meek Bill: folds
+TIKITAKA11: folds
+Uncalled bet ($25.00) returned to RealMenRathole
+RealMenRathole collected $50.00 from pot
+RealMenRathole: doesn't show hand
+*** SUMMARY ***
+Total pot $50.00 | Rake $0.00
+Seat 2: TIKITAKA11 (small blind) folded before Flop
+Seat 3: RealMenRathole (big blind) collected ($50.00)
+Seat 4: Meek Bill (button) folded before Flop (didn't bet)
+
+PokerStars Hand #1508338972:  Hold'em No Limit ($25.00/$50.00 USD) - 2023/01/03 21:09:57 ET
+Table 'WPN_Fairway' 6-max Seat #2 is the button
+Seat 2: TIKITAKA11 ($7167.13 in chips)
+Seat 3: RealMenRathole ($23569.75 in chips)
+Seat 4: Meek Bill ($7251.58 in chips)
+RealMenRathole: posts small blind $25.00
+Meek Bill: posts big blind $50.00
+*** HOLE CARDS ***
+TIKITAKA11: raises $65.00 to $115.00
+RealMenRathole: folds
+Meek Bill: calls $65.00
+*** FLOP *** [Ah Kd 9c]
+Meek Bill: checks
+TIKITAKA11: bets $382.50
+Meek Bill: calls $382.50
+*** TURN *** [Ah Kd 9c] [4h]
+Meek Bill: checks
+TIKITAKA11: bets $1530.00
+Meek Bill: calls $1530.00
+*** RIVER *** [Ah Kd 9c 4h] [7s]
+Meek Bill: checks
+TIKITAKA11: checks
+*** SHOW DOWN ***
+Meek Bill: shows [Ac 7c]
+TIKITAKA11: mucks hand
+Meek Bill collected $4078.25 from pot
+*** SUMMARY ***
+Total pot $4080.00 | Rake $1.75
+Board [Ah Kd 9c 4h 7s]
+Seat 2: TIKITAKA11 (button) mucked
+Seat 3: RealMenRathole (small blind) folded before Flop
+Seat 4: Meek Bill (big blind) showed [Ac 7c] and won ($4078.25)
+
+PokerStars Hand #1508340749:  Hold'em No Limit ($25.00/$50.00 USD) - 2023/01/03 21:11:11 ET
+Table 'WPN_Fairway' 6-max Seat #3 is the button
+Seat 2: TIKITAKA11 ($5139.63 in chips)
+Seat 3: RealMenRathole ($23544.75 in chips)
+Seat 4: Meek Bill ($9302.33 in chips)
+Meek Bill: posts small blind $25.00
+TIKITAKA11: posts big blind $50.00
+*** HOLE CARDS ***
+RealMenRathole: raises $75.00 to $125.00
+Meek Bill: folds
+TIKITAKA11: raises $440.00 to $565.00
+RealMenRathole: calls $440.00
+*** FLOP *** [8c 2d Qh]
+TIKITAKA11: bets $311.85
+RealMenRathole: calls $311.85
+*** TURN *** [8c 2d Qh] [As]
+TIKITAKA11: bets $480.24
+RealMenRathole: calls $480.24
+*** RIVER *** [8c 2d Qh As] [3h]
+TIKITAKA11: checks
+RealMenRathole: bets $22187.66 and is all-in
+TIKITAKA11: folds
+Uncalled bet ($22187.66) returned to RealMenRathole
+RealMenRathole collected $2737.43 from pot
+RealMenRathole: doesn't show hand
+*** SUMMARY ***
+Total pot $2739.18 | Rake $1.75
+Board [8c 2d Qh As 3h]
+Seat 2: TIKITAKA11 (big blind) folded on the River
+Seat 3: RealMenRathole (button) collected ($2737.43)
+Seat 4: Meek Bill (small blind) folded before Flop
+
+PokerStars Hand #1508343017:  Hold'em No Limit ($25.00/$50.00 USD) - 2023/01/03 21:12:37 ET
+Table 'WPN_Fairway' 6-max Seat #4 is the button
+Seat 2: TIKITAKA11 ($3782.54 in chips)
+Seat 3: RealMenRathole ($24925.09 in chips)
+Seat 4: Meek Bill ($9277.33 in chips)
+TIKITAKA11: posts small blind $25.00
+Meek Bill: posts big blind $50.00
+*** HOLE CARDS ***
+TIKITAKA11: folds
+Uncalled bet ($25.00) returned to Meek Bill
+Meek Bill collected $50.00 from pot
+Meek Bill: doesn't show hand
+*** SUMMARY ***
+Total pot $50.00 | Rake $0.00
+Seat 2: TIKITAKA11 (small blind) folded before Flop
+Seat 4: Meek Bill (button) (big blind) collected ($50.00)
+
+PokerStars Hand #1508343295:  Hold'em No Limit ($25.00/$50.00 USD) - 2023/01/03 21:12:48 ET
+Table 'WPN_Fairway' 6-max Seat #4 is the button
+Seat 2: TIKITAKA11 ($4975.00 in chips)
+Seat 4: Meek Bill ($9302.33 in chips)
+Meek Bill: posts small blind $25.00
+TIKITAKA11: posts big blind $50.00
+*** HOLE CARDS ***
+Meek Bill: folds
+Uncalled bet ($25.00) returned to TIKITAKA11
+TIKITAKA11 collected $50.00 from pot
+TIKITAKA11: doesn't show hand
+*** SUMMARY ***
+Total pot $50.00 | Rake $0.00
+Seat 2: TIKITAKA11 (big blind) collected ($50.00)
+Seat 4: Meek Bill (button) (small blind) folded before Flop
+
+PokerStars Hand #1508343845:  Hold'em No Limit ($25.00/$50.00 USD) - 2023/01/03 21:13:09 ET
+Table 'WPN_Akron' 6-max Seat #4 is the button
+Seat 2: Nimble123 ($0.00 in chips)
+Seat 4: BigP6188 ($1003.75 in chips)
+BigP6188: posts small blind $25.00
+Nimble123: posts big blind $50.00
+*** HOLE CARDS ***
+BigP6188: raises $50.00 to $100.00
+Nimble123: calls $50.00
+*** FLOP *** [Qc 4s 7h]
+Nimble123: checks
+BigP6188: checks
+*** TURN *** [Qc 4s 7h] [2d]
+Nimble123: bets $198.75
+BigP6188: calls $198.75
+*** RIVER *** [Qc 4s 7h 2d] [Qd]
+Nimble123: checks
+BigP6188: checks
+*** SHOW DOWN ***
+Nimble123: shows [7d Qs]
+BigP6188: mucks hand
+Nimble123 collected $596.25 from pot
+*** SUMMARY ***
+Total pot $597.50 | Rake $1.25
+Board [Qc 4s 7h 2d Qd]
+Seat 2: Nimble123 (big blind) showed [7d Qs] and won ($596.25)
+Seat 4: BigP6188 (button) (small blind) mucked
+
+PokerStars Hand #1508344714:  Hold'em No Limit ($25.00/$50.00 USD) - 2023/01/03 21:13:44 ET
+Table 'WPN_Akron' 6-max Seat #2 is the button
+Seat 2: Nimble123 ($2296.25 in chips)
+Seat 4: BigP6188 ($705.00 in chips)
+Nimble123: posts small blind $25.00
+BigP6188: posts big blind $50.00
+*** HOLE CARDS ***
+Nimble123: calls $25.00
+BigP6188: checks
+*** FLOP *** [5s Qd 5h]
+BigP6188: bets $50.00
+Nimble123: folds
+Uncalled bet ($50.00) returned to BigP6188
+BigP6188 collected $98.75 from pot
+BigP6188: doesn't show hand
+*** SUMMARY ***
+Total pot $100.00 | Rake $1.25
+Board [5s Qd 5h]
+Seat 2: Nimble123 (button) (small blind) folded on the Flop
+Seat 4: BigP6188 (big blind) collected ($98.75)
+
+PokerStars Hand #1508343549:  Hold'em No Limit ($25.00/$50.00 USD) - 2023/01/03 21:12:58 ET
+Table 'WPN_Fairway' 6-max Seat #2 is the button
+Seat 2: TIKITAKA11 ($5025.00 in chips)
+Seat 4: Meek Bill ($9277.33 in chips)
+TIKITAKA11: posts small blind $25.00
+Meek Bill: posts big blind $50.00
+*** HOLE CARDS ***
+TIKITAKA11: raises $65.00 to $115.00
+Meek Bill: raises $405.00 to $520.00
+TIKITAKA11: calls $405.00
+*** FLOP *** [4s Js 5c]
+Meek Bill: bets $260.00
+TIKITAKA11: calls $260.00
+*** TURN *** [4s Js 5c] [3c]
+Meek Bill: bets $1170.00
+TIKITAKA11: calls $1170.00
+*** RIVER *** [4s Js 5c 3c] [2c]
+Meek Bill: checks
+TIKITAKA11: bets $3075.00 and is all-in
+Meek Bill: calls $3075.00
+*** SHOW DOWN ***
+Meek Bill: shows [Qc Tc]
+TIKITAKA11: shows [Ad Qh]
+Meek Bill collected $10048.75 from pot
+*** SUMMARY ***
+Total pot $10050.00 | Rake $1.25
+Board [4s Js 5c 3c 2c]
+Seat 2: TIKITAKA11 (button) (small blind) showed [Ad Qh] and lost
+Seat 4: Meek Bill (big blind) showed [Qc Tc] and won ($10048.75)
+
+PokerStars Hand #1508345259:  Hold'em No Limit ($25.00/$50.00 USD) - 2023/01/03 21:14:05 ET
+Table 'WPN_Akron' 6-max Seat #2 is the button
+Seat 2: Nimble123 ($2246.25 in chips)
+Seat 3: FlyingStyle ($2500.00 in chips)
+Seat 4: BigP6188 ($753.75 in chips)
+Seat 5: KARMASUTRA ($1000.00 in chips)
+BigP6188: posts small blind $25.00
+KARMASUTRA: posts big blind $50.00
+*** HOLE CARDS ***
+Nimble123: raises $50.00 to $100.00
+BigP6188: raises $653.75 to $753.75 and is all-in
+KARMASUTRA: folds
+Nimble123: calls $653.75
+*** FLOP *** [7d 9c Qh]
+*** TURN *** [7d 9c Qh] [4d]
+*** RIVER *** [7d 9c Qh 4d] [4h]
+*** SHOW DOWN ***
+Nimble123: shows [7c 7s]
+BigP6188: shows [Jd 6d]
+Nimble123 collected $1555.75 from pot
+*** SUMMARY ***
+Total pot $1557.50 | Rake $1.75
+Board [7d 9c Qh 4d 4h]
+Seat 2: Nimble123 (button) showed [7c 7s] and won ($1555.75)
+Seat 4: BigP6188 (small blind) showed [Jd 6d] and lost
+Seat 5: KARMASUTRA (big blind) folded before Flop
+
+PokerStars Hand #1508345782:  Hold'em No Limit ($25.00/$50.00 USD) - 2023/01/03 21:14:25 ET
+Table 'WPN_Fairway' 6-max Seat #4 is the button
+Seat 2: TIKITAKA11 ($5000.00 in chips)
+Seat 4: Meek Bill ($14301.08 in chips)
+Meek Bill: posts small blind $25.00
+TIKITAKA11: posts big blind $50.00
+*** HOLE CARDS ***
+Meek Bill: raises $75.00 to $125.00
+TIKITAKA11: folds
+Uncalled bet ($75.00) returned to Meek Bill
+Meek Bill collected $100.00 from pot
+Meek Bill: doesn't show hand
+*** SUMMARY ***
+Total pot $100.00 | Rake $0.00
+Seat 2: TIKITAKA11 (big blind) folded before Flop
+Seat 4: Meek Bill (button) (small blind) collected ($100.00)
+
+PokerStars Hand #1508346168:  Hold'em No Limit ($25.00/$50.00 USD) - 2023/01/03 21:14:39 ET
+Table 'WPN_Akron' 6-max Seat #4 is the button
+Seat 2: Nimble123 ($3048.25 in chips)
+Seat 3: FlyingStyle ($2500.00 in chips)
+Seat 5: KARMASUTRA ($1000.00 in chips)
+KARMASUTRA: posts small blind $25.00
+FlyingStyle: posts big blind $50.00
+*** HOLE CARDS ***
+KARMASUTRA: folds
+Uncalled bet ($25.00) returned to FlyingStyle
+FlyingStyle collected $50.00 from pot
+FlyingStyle: doesn't show hand
+*** SUMMARY ***
+Total pot $50.00 | Rake $0.00
+Seat 3: FlyingStyle (big blind) collected ($50.00)
+Seat 5: KARMASUTRA (small blind) folded before Flop
+
+PokerStars Hand #1508346147:  Hold'em No Limit ($25.00/$50.00 USD) - 2023/01/03 21:14:38 ET
+Table 'WPN_Fairway' 6-max Seat #2 is the button
+Seat 2: TIKITAKA11 ($4950.00 in chips)
+Seat 4: Meek Bill ($14351.08 in chips)
+TIKITAKA11: posts small blind $25.00
+Meek Bill: posts big blind $50.00
+*** HOLE CARDS ***
+TIKITAKA11: raises $65.00 to $115.00
+Meek Bill: calls $65.00
+*** FLOP *** [9d Kc 5s]
+Meek Bill: checks
+TIKITAKA11: checks
+*** TURN *** [9d Kc 5s] [3d]
+Meek Bill: checks
+TIKITAKA11: checks
+*** RIVER *** [9d Kc 5s 3d] [6h]
+Meek Bill: checks
+TIKITAKA11: checks
+*** SHOW DOWN ***
+Meek Bill: shows [Jd 5c]
+TIKITAKA11: mucks hand
+Meek Bill collected $228.75 from pot
+*** SUMMARY ***
+Total pot $230.00 | Rake $1.25
+Board [9d Kc 5s 3d 6h]
+Seat 2: TIKITAKA11 (button) (small blind) mucked
+Seat 4: Meek Bill (big blind) showed [Jd 5c] and won ($228.75)
+
+PokerStars Hand #1508347120:  Hold'em No Limit ($25.00/$50.00 USD) - 2023/01/03 21:15:16 ET
+Table 'WPN_Fairway' 6-max Seat #4 is the button
+Seat 2: TIKITAKA11 ($5000.00 in chips)
+Seat 4: Meek Bill ($14464.83 in chips)
+Meek Bill: posts small blind $25.00
+TIKITAKA11: posts big blind $50.00
+*** HOLE CARDS ***
+Meek Bill: raises $75.00 to $125.00
+TIKITAKA11: calls $75.00
+*** FLOP *** [7s Jh 4d]
+TIKITAKA11: checks
+Meek Bill: checks
+*** TURN *** [7s Jh 4d] [As]
+TIKITAKA11: checks
+Meek Bill: checks
+*** RIVER *** [7s Jh 4d As] [5h]
+TIKITAKA11: checks
+Meek Bill: checks
+*** SHOW DOWN ***
+TIKITAKA11: shows [9d 5c]
+Meek Bill: mucks hand
+TIKITAKA11 collected $248.75 from pot
+*** SUMMARY ***
+Total pot $250.00 | Rake $1.25
+Board [7s Jh 4d As 5h]
+Seat 2: TIKITAKA11 (big blind) showed [9d 5c] and won ($248.75)
+Seat 4: Meek Bill (button) (small blind) mucked
+
+PokerStars Hand #1508347833:  Hold'em No Limit ($25.00/$50.00 USD) - 2023/01/03 21:15:44 ET
+Table 'WPN_Lacon' 6-max Seat #2 is the button
+Seat 2: Nimble123 ($1000.00 in chips)
+Seat 3: BigP6188 ($1369.64 in chips)
+Seat 4: FlyingStyle ($2500.00 in chips)
+BigP6188: posts small blind $25.00
+FlyingStyle: posts big blind $50.00
+*** HOLE CARDS ***
+Nimble123: folds
+BigP6188: folds
+Uncalled bet ($25.00) returned to FlyingStyle
+FlyingStyle collected $50.00 from pot
+FlyingStyle: doesn't show hand
+*** SUMMARY ***
+Total pot $50.00 | Rake $0.00
+Seat 2: Nimble123 (button) folded before Flop (didn't bet)
+Seat 3: BigP6188 (small blind) folded before Flop
+Seat 4: FlyingStyle (big blind) collected ($50.00)
+
+PokerStars Hand #1508348099:  Hold'em No Limit ($25.00/$50.00 USD) - 2023/01/03 21:15:54 ET
+Table 'WPN_Fairway' 6-max Seat #2 is the button
+Seat 2: TIKITAKA11 ($5123.75 in chips)
+Seat 4: Meek Bill ($14339.83 in chips)
+TIKITAKA11: posts small blind $25.00
+Meek Bill: posts big blind $50.00
+*** HOLE CARDS ***
+TIKITAKA11: raises $65.00 to $115.00
+Meek Bill: calls $65.00
+*** FLOP *** [9c Qd 2h]
+Meek Bill: checks
+TIKITAKA11: bets $163.30
+Meek Bill: folds
+Uncalled bet ($163.30) returned to TIKITAKA11
+TIKITAKA11 collected $228.75 from pot
+TIKITAKA11: doesn't show hand
+*** SUMMARY ***
+Total pot $230.00 | Rake $1.25
+Board [9c Qd 2h]
+Seat 2: TIKITAKA11 (button) (small blind) collected ($228.75)
+Seat 4: Meek Bill (big blind) folded on the Flop
+
+PokerStars Hand #1508348081:  Hold'em No Limit ($25.00/$50.00 USD) - 2023/01/03 21:15:54 ET
+Table 'WPN_Lacon' 6-max Seat #3 is the button
+Seat 2: Nimble123 ($1000.00 in chips)
+Seat 3: BigP6188 ($1344.64 in chips)
+Seat 4: FlyingStyle ($2525.00 in chips)
+Seat 5: KARMASUTRA ($1000.00 in chips)
+FlyingStyle: posts small blind $25.00
+KARMASUTRA: posts big blind $50.00
+*** HOLE CARDS ***
+Nimble123: folds
+BigP6188: raises $62.50 to $112.50
+FlyingStyle: raises $262.50 to $375.00
+KARMASUTRA: folds
+BigP6188: calls $262.50
+*** FLOP *** [8d 8s Ts]
+FlyingStyle: bets $184.00
+BigP6188: calls $184.00
+*** TURN *** [8d 8s Ts] [As]
+FlyingStyle: checks
+BigP6188: checks
+*** RIVER *** [8d 8s Ts As] [Js]
+FlyingStyle: checks
+BigP6188: bets $785.64 and is all-in
+FlyingStyle: calls $785.64
+*** SHOW DOWN ***
+FlyingStyle: shows [Qd Qc]
+BigP6188: shows [9c 6c]
+FlyingStyle collected $2737.03 from pot
+*** SUMMARY ***
+Total pot $2739.28 | Rake $2.25
+Board [8d 8s Ts As Js]
+Seat 2: Nimble123 folded before Flop (didn't bet)
+Seat 3: BigP6188 (button) showed [9c 6c] and lost
+Seat 4: FlyingStyle (small blind) showed [Qd Qc] and won ($2737.03)
+Seat 5: KARMASUTRA (big blind) folded before Flop
+
+PokerStars Hand #1508348766:  Hold'em No Limit ($25.00/$50.00 USD) - 2023/01/03 21:16:21 ET
+Table 'WPN_Fairway' 6-max Seat #4 is the button
+Seat 2: TIKITAKA11 ($5237.50 in chips)
+Seat 4: Meek Bill ($14224.83 in chips)
+Meek Bill: posts small blind $25.00
+TIKITAKA11: posts big blind $50.00
+*** HOLE CARDS ***
+Meek Bill: raises $75.00 to $125.00
+TIKITAKA11: calls $75.00
+*** FLOP *** [3h 2s Th]
+TIKITAKA11: checks
+Meek Bill: bets $162.50
+TIKITAKA11: raises $287.50 to $450.00
+Meek Bill: folds
+Uncalled bet ($287.50) returned to TIKITAKA11
+TIKITAKA11 collected $573.75 from pot
+TIKITAKA11: doesn't show hand
+*** SUMMARY ***
+Total pot $575.00 | Rake $1.25
+Board [3h 2s Th]
+Seat 2: TIKITAKA11 (big blind) collected ($573.75)
+Seat 4: Meek Bill (button) (small blind) folded on the Flop
+
+PokerStars Hand #1508349825:  Hold'em No Limit ($25.00/$50.00 USD) - 2023/01/03 21:17:06 ET
+Table 'WPN_Fairway' 6-max Seat #2 is the button
+Seat 2: TIKITAKA11 ($5523.75 in chips)
+Seat 4: Meek Bill ($13937.33 in chips)
+TIKITAKA11: posts small blind $25.00
+Meek Bill: posts big blind $50.00
+*** HOLE CARDS ***
+TIKITAKA11: raises $65.00 to $115.00
+Meek Bill: calls $65.00
+*** FLOP *** [9s 8s 2c]
+Meek Bill: checks
+TIKITAKA11: checks
+*** TURN *** [9s 8s 2c] [3d]
+Meek Bill: bets $230.00
+TIKITAKA11: folds
+Uncalled bet ($230.00) returned to Meek Bill
+Meek Bill collected $228.75 from pot
+Meek Bill: doesn't show hand
+*** SUMMARY ***
+Total pot $230.00 | Rake $1.25
+Board [9s 8s 2c 3d]
+Seat 2: TIKITAKA11 (button) (small blind) folded on the Turn
+Seat 4: Meek Bill (big blind) collected ($228.75)
+
+PokerStars Hand #1508350804:  Hold'em No Limit ($25.00/$50.00 USD) - 2023/01/03 21:17:45 ET
+Table 'WPN_Fairway' 6-max Seat #4 is the button
+Seat 2: TIKITAKA11 ($5408.75 in chips)
+Seat 4: Meek Bill ($14051.08 in chips)
+Meek Bill: posts small blind $25.00
+TIKITAKA11: posts big blind $50.00
+*** HOLE CARDS ***
+Meek Bill: raises $75.00 to $125.00
+TIKITAKA11: calls $75.00
+*** FLOP *** [7s 9d Ah]
+TIKITAKA11: checks
+Meek Bill: bets $82.50
+TIKITAKA11: raises $207.50 to $290.00
+Meek Bill: folds
+Uncalled bet ($207.50) returned to TIKITAKA11
+TIKITAKA11 collected $413.75 from pot
+TIKITAKA11: doesn't show hand
+*** SUMMARY ***
+Total pot $415.00 | Rake $1.25
+Board [7s 9d Ah]
+Seat 2: TIKITAKA11 (big blind) collected ($413.75)
+Seat 4: Meek Bill (button) (small blind) folded on the Flop
+
+PokerStars Hand #1508349811:  Hold'em No Limit ($25.00/$50.00 USD) - 2023/01/03 21:17:05 ET
+Table 'WPN_Lacon' 6-max Seat #4 is the button
+Seat 2: Nimble123 ($1000.00 in chips)
+Seat 4: FlyingStyle ($3917.39 in chips)
+Seat 5: KARMASUTRA ($1000.00 in chips)
+KARMASUTRA: posts small blind $25.00
+FlyingStyle: posts big blind $50.00
+*** HOLE CARDS ***
+KARMASUTRA: calls $25.00
+FlyingStyle: checks
+*** FLOP *** [7c 4d 5c]
+KARMASUTRA: checks
+FlyingStyle: checks
+*** TURN *** [7c 4d 5c] [5h]
+KARMASUTRA: checks
+FlyingStyle: checks
+*** RIVER *** [7c 4d 5c 5h] [Jd]
+KARMASUTRA: checks
+FlyingStyle: checks
+*** SHOW DOWN ***
+KARMASUTRA: shows [Ts Ks]
+FlyingStyle: mucks hand
+KARMASUTRA collected $98.75 from pot
+*** SUMMARY ***
+Total pot $100.00 | Rake $1.25
+Board [7c 4d 5c 5h Jd]
+Seat 4: FlyingStyle (button) (big blind) mucked
+Seat 5: KARMASUTRA (small blind) showed [Ts Ks] and won ($98.75)
+
+PokerStars Hand #1508351546:  Hold'em No Limit ($25.00/$50.00 USD) - 2023/01/03 21:18:17 ET
+Table 'WPN_Fairway' 6-max Seat #2 is the button
+Seat 2: TIKITAKA11 ($5615.00 in chips)
+Seat 4: Meek Bill ($13843.58 in chips)
+TIKITAKA11: posts small blind $25.00
+Meek Bill: posts big blind $50.00
+*** HOLE CARDS ***
+TIKITAKA11: raises $65.00 to $115.00
+Meek Bill: raises $405.00 to $520.00
+TIKITAKA11: folds
+Uncalled bet ($405.00) returned to Meek Bill
+Meek Bill collected $230.00 from pot
+Meek Bill: doesn't show hand
+*** SUMMARY ***
+Total pot $230.00 | Rake $0.00
+Seat 2: TIKITAKA11 (button) (small blind) folded before Flop
+Seat 4: Meek Bill (big blind) collected ($230.00)
+
+PokerStars Hand #1508352016:  Hold'em No Limit ($25.00/$50.00 USD) - 2023/01/03 21:18:37 ET
+Table 'WPN_Fairway' 6-max Seat #4 is the button
+Seat 2: TIKITAKA11 ($5500.00 in chips)
+Seat 4: Meek Bill ($13958.58 in chips)
+Meek Bill: posts small blind $25.00
+TIKITAKA11: posts big blind $50.00
+*** HOLE CARDS ***
+Meek Bill: raises $75.00 to $125.00
+TIKITAKA11: calls $75.00
+*** FLOP *** [Td 4h 6h]
+TIKITAKA11: checks
+Meek Bill: checks
+*** TURN *** [Td 4h 6h] [Jd]
+TIKITAKA11: bets $500.00
+Meek Bill: folds
+Uncalled bet ($500.00) returned to TIKITAKA11
+TIKITAKA11 collected $248.75 from pot
+TIKITAKA11: doesn't show hand
+*** SUMMARY ***
+Total pot $250.00 | Rake $1.25
+Board [Td 4h 6h Jd]
+Seat 2: TIKITAKA11 (big blind) collected ($248.75)
+Seat 4: Meek Bill (button) (small blind) folded on the Turn
+
+PokerStars Hand #1508352729:  Hold'em No Limit ($25.00/$50.00 USD) - 2023/01/03 21:19:08 ET
+Table 'WPN_Fairway' 6-max Seat #2 is the button
+Seat 2: TIKITAKA11 ($5623.75 in chips)
+Seat 4: Meek Bill ($13833.58 in chips)
+TIKITAKA11: posts small blind $25.00
+Meek Bill: posts big blind $50.00
+*** HOLE CARDS ***
+TIKITAKA11: folds
+Uncalled bet ($25.00) returned to Meek Bill
+Meek Bill collected $50.00 from pot
+Meek Bill: doesn't show hand
+*** SUMMARY ***
+Total pot $50.00 | Rake $0.00
+Seat 2: TIKITAKA11 (button) (small blind) folded before Flop
+Seat 4: Meek Bill (big blind) collected ($50.00)
+
+PokerStars Hand #1508353302:  Hold'em No Limit ($25.00/$50.00 USD) - 2023/01/03 21:19:31 ET
+Table 'WPN_Fairway' 6-max Seat #4 is the button
+Seat 2: TIKITAKA11 ($5598.75 in chips)
+Seat 4: Meek Bill ($13858.58 in chips)
+Meek Bill: posts small blind $25.00
+TIKITAKA11: posts big blind $50.00
+*** HOLE CARDS ***
+Meek Bill: folds
+Uncalled bet ($25.00) returned to TIKITAKA11
+TIKITAKA11 collected $50.00 from pot
+TIKITAKA11: doesn't show hand
+*** SUMMARY ***
+Total pot $50.00 | Rake $0.00
+Seat 2: TIKITAKA11 (big blind) collected ($50.00)
+Seat 4: Meek Bill (button) (small blind) folded before Flop
+
+PokerStars Hand #1508353559:  Hold'em No Limit ($25.00/$50.00 USD) - 2023/01/03 21:19:42 ET
+Table 'WPN_Fairway' 6-max Seat #2 is the button
+Seat 2: TIKITAKA11 ($5623.75 in chips)
+Seat 4: Meek Bill ($13833.58 in chips)
+TIKITAKA11: posts small blind $25.00
+Meek Bill: posts big blind $50.00
+*** HOLE CARDS ***
+TIKITAKA11: raises $65.00 to $115.00
+Meek Bill: folds
+Uncalled bet ($65.00) returned to TIKITAKA11
+TIKITAKA11 collected $100.00 from pot
+TIKITAKA11: doesn't show hand
+*** SUMMARY ***
+Total pot $100.00 | Rake $0.00
+Seat 2: TIKITAKA11 (button) (small blind) collected ($100.00)
+Seat 4: Meek Bill (big blind) folded before Flop
+
+PokerStars Hand #1508353833:  Hold'em No Limit ($25.00/$50.00 USD) - 2023/01/03 21:19:53 ET
+Table 'WPN_Fairway' 6-max Seat #4 is the button
+Seat 2: TIKITAKA11 ($5673.75 in chips)
+Seat 4: Meek Bill ($13783.58 in chips)
+Meek Bill: posts small blind $25.00
+TIKITAKA11: posts big blind $50.00
+*** HOLE CARDS ***
+Meek Bill: raises $75.00 to $125.00
+TIKITAKA11: raises $390.00 to $515.00
+Meek Bill: raises $665.00 to $1180.00
+TIKITAKA11: calls $665.00
+*** FLOP *** [8c Jh 4c]
+TIKITAKA11: checks
+Meek Bill: bets $590.00
+TIKITAKA11: raises $3903.75 to $4493.75 and is all-in
+Meek Bill: folds
+Uncalled bet ($3903.75) returned to TIKITAKA11
+TIKITAKA11 collected $3538.75 from pot
+TIKITAKA11: doesn't show hand
+*** SUMMARY ***
+Total pot $3540.00 | Rake $1.25
+Board [8c Jh 4c]
+Seat 2: TIKITAKA11 (big blind) collected ($3538.75)
+Seat 4: Meek Bill (button) (small blind) folded on the Flop
+
+PokerStars Hand #1508355365:  Hold'em No Limit ($25.00/$50.00 USD) - 2023/01/03 21:21:00 ET
+Table 'WPN_Fairway' 6-max Seat #2 is the button
+Seat 2: TIKITAKA11 ($7442.50 in chips)
+Seat 4: Meek Bill ($12013.58 in chips)
+TIKITAKA11: posts small blind $25.00
+Meek Bill: posts big blind $50.00
+*** HOLE CARDS ***
+TIKITAKA11: raises $65.00 to $115.00
+Meek Bill: calls $65.00
+*** FLOP *** [4c 2d Qc]
+Meek Bill: checks
+TIKITAKA11: bets $62.10
+Meek Bill: calls $62.10
+*** TURN *** [4c 2d Qc] [3c]
+Meek Bill: checks
+TIKITAKA11: checks
+*** RIVER *** [4c 2d Qc 3c] [5s]
+Meek Bill: checks
+TIKITAKA11: checks
+*** SHOW DOWN ***
+TIKITAKA11: shows [Qd 9d]
+Meek Bill: mucks hand
+TIKITAKA11 collected $352.95 from pot
+*** SUMMARY ***
+Total pot $354.20 | Rake $1.25
+Board [4c 2d Qc 3c 5s]
+Seat 2: TIKITAKA11 (button) (small blind) showed [Qd 9d] and won ($352.95)
+Seat 4: Meek Bill (big blind) mucked
+
+PokerStars Hand #1508356428:  Hold'em No Limit ($25.00/$50.00 USD) - 2023/01/03 21:21:46 ET
+Table 'WPN_Fairway' 6-max Seat #4 is the button
+Seat 2: TIKITAKA11 ($7618.35 in chips)
+Seat 4: Meek Bill ($11836.48 in chips)
+Meek Bill: posts small blind $25.00
+TIKITAKA11: posts big blind $50.00
+*** HOLE CARDS ***
+Meek Bill: raises $75.00 to $125.00
+TIKITAKA11: calls $75.00
+*** FLOP *** [2s 3c Ac]
+TIKITAKA11: checks
+Meek Bill: checks
+*** TURN *** [2s 3c Ac] [Td]
+TIKITAKA11: checks
+Meek Bill: bets $82.50
+TIKITAKA11: calls $82.50
+*** RIVER *** [2s 3c Ac Td] [8c]
+TIKITAKA11: checks
+Meek Bill: checks
+*** SHOW DOWN ***
+TIKITAKA11: shows [Kh Tc]
+Meek Bill: mucks hand
+TIKITAKA11 collected $413.75 from pot
+*** SUMMARY ***
+Total pot $415.00 | Rake $1.25
+Board [2s 3c Ac Td 8c]
+Seat 2: TIKITAKA11 (big blind) showed [Kh Tc] and won ($413.75)
+Seat 4: Meek Bill (button) (small blind) mucked
+
+PokerStars Hand #1508357679:  Hold'em No Limit ($25.00/$50.00 USD) - 2023/01/03 21:22:40 ET
+Table 'WPN_Fairway' 6-max Seat #2 is the button
+Seat 2: TIKITAKA11 ($7824.60 in chips)
+Seat 4: Meek Bill ($11628.98 in chips)
+TIKITAKA11: posts small blind $25.00
+Meek Bill: posts big blind $50.00
+*** HOLE CARDS ***
+TIKITAKA11: raises $65.00 to $115.00
+Meek Bill: calls $65.00
+*** FLOP *** [Qs 3c Qh]
+Meek Bill: checks
+TIKITAKA11: checks
+*** TURN *** [Qs 3c Qh] [6d]
+Meek Bill: checks
+TIKITAKA11: bets $163.30
+Meek Bill: folds
+Uncalled bet ($163.30) returned to TIKITAKA11
+TIKITAKA11 collected $228.75 from pot
+TIKITAKA11: doesn't show hand
+*** SUMMARY ***
+Total pot $230.00 | Rake $1.25
+Board [Qs 3c Qh 6d]
+Seat 2: TIKITAKA11 (button) (small blind) collected ($228.75)
+Seat 4: Meek Bill (big blind) folded on the Turn
+
+PokerStars Hand #1508358604:  Hold'em No Limit ($25.00/$50.00 USD) - 2023/01/03 21:23:20 ET
+Table 'WPN_Fairway' 6-max Seat #4 is the button
+Seat 2: TIKITAKA11 ($7938.35 in chips)
+Seat 4: Meek Bill ($11513.98 in chips)
+Meek Bill: posts small blind $25.00
+TIKITAKA11: posts big blind $50.00
+*** HOLE CARDS ***
+Meek Bill: folds
+Uncalled bet ($25.00) returned to TIKITAKA11
+TIKITAKA11 collected $50.00 from pot
+TIKITAKA11: doesn't show hand
+*** SUMMARY ***
+Total pot $50.00 | Rake $0.00
+Seat 2: TIKITAKA11 (big blind) collected ($50.00)
+Seat 4: Meek Bill (button) (small blind) folded before Flop
+
+PokerStars Hand #1508358827:  Hold'em No Limit ($25.00/$50.00 USD) - 2023/01/03 21:23:30 ET
+Table 'WPN_Fairway' 6-max Seat #2 is the button
+Seat 2: TIKITAKA11 ($7963.35 in chips)
+Seat 4: Meek Bill ($11488.98 in chips)
+TIKITAKA11: posts small blind $25.00
+Meek Bill: posts big blind $50.00
+*** HOLE CARDS ***
+TIKITAKA11: folds
+Uncalled bet ($25.00) returned to Meek Bill
+Meek Bill collected $50.00 from pot
+Meek Bill: doesn't show hand
+*** SUMMARY ***
+Total pot $50.00 | Rake $0.00
+Seat 2: TIKITAKA11 (button) (small blind) folded before Flop
+Seat 4: Meek Bill (big blind) collected ($50.00)
+
+PokerStars Hand #1508359091:  Hold'em No Limit ($25.00/$50.00 USD) - 2023/01/03 21:23:42 ET
+Table 'WPN_Fairway' 6-max Seat #4 is the button
+Seat 2: TIKITAKA11 ($7938.35 in chips)
+Seat 4: Meek Bill ($11513.98 in chips)
+Meek Bill: posts small blind $25.00
+TIKITAKA11: posts big blind $50.00
+*** HOLE CARDS ***
+Meek Bill: raises $75.00 to $125.00
+TIKITAKA11: calls $75.00
+*** FLOP *** [2s Ad 3s]
+TIKITAKA11: checks
+Meek Bill: bets $82.50
+TIKITAKA11: raises $207.50 to $290.00
+Meek Bill: calls $207.50
+*** TURN *** [2s Ad 3s] [Ks]
+TIKITAKA11: bets $224.10
+Meek Bill: folds
+Uncalled bet ($224.10) returned to TIKITAKA11
+TIKITAKA11 collected $828.75 from pot
+TIKITAKA11: doesn't show hand
+*** SUMMARY ***
+Total pot $830.00 | Rake $1.25
+Board [2s Ad 3s Ks]
+Seat 2: TIKITAKA11 (big blind) collected ($828.75)
+Seat 4: Meek Bill (button) (small blind) folded on the Turn
+
+PokerStars Hand #1508360225:  Hold'em No Limit ($25.00/$50.00 USD) - 2023/01/03 21:24:32 ET
+Table 'WPN_Fairway' 6-max Seat #2 is the button
+Seat 2: TIKITAKA11 ($8352.10 in chips)
+Seat 4: Meek Bill ($11098.98 in chips)
+TIKITAKA11: posts small blind $25.00
+Meek Bill: posts big blind $50.00
+*** HOLE CARDS ***
+TIKITAKA11: raises $65.00 to $115.00
+Meek Bill: calls $65.00
+*** FLOP *** [7h Td 5s]
+Meek Bill: checks
+TIKITAKA11: checks
+*** TURN *** [7h Td 5s] [2h]
+Meek Bill: bets $230.00
+TIKITAKA11: calls $230.00
+*** RIVER *** [7h Td 5s 2h] [Qs]
+Meek Bill: bets $467.50
+TIKITAKA11: calls $467.50
+*** SHOW DOWN ***
+Meek Bill: shows [9h Ts]
+TIKITAKA11: mucks hand
+Meek Bill collected $1623.75 from pot
+*** SUMMARY ***
+Total pot $1625.00 | Rake $1.25
+Board [7h Td 5s 2h Qs]
+Seat 2: TIKITAKA11 (button) (small blind) mucked
+Seat 4: Meek Bill (big blind) showed [9h Ts] and won ($1623.75)
+
+PokerStars Hand #1508361289:  Hold'em No Limit ($25.00/$50.00 USD) - 2023/01/03 21:25:20 ET
+Table 'WPN_Fairway' 6-max Seat #4 is the button
+Seat 2: TIKITAKA11 ($7539.60 in chips)
+Seat 4: Meek Bill ($11910.23 in chips)
+Meek Bill: posts small blind $25.00
+TIKITAKA11: posts big blind $50.00
+*** HOLE CARDS ***
+Meek Bill: raises $75.00 to $125.00
+TIKITAKA11: calls $75.00
+*** FLOP *** [Qd As 2c]
+TIKITAKA11: checks
+Meek Bill: bets $82.50
+TIKITAKA11: calls $82.50
+*** TURN *** [Qd As 2c] [6h]
+TIKITAKA11: checks
+Meek Bill: checks
+*** RIVER *** [Qd As 2c 6h] [3s]
+TIKITAKA11: bets $112.05
+Meek Bill: calls $112.05
+*** SHOW DOWN ***
+TIKITAKA11: shows [Js Qh]
+Meek Bill: mucks hand
+TIKITAKA11 collected $637.85 from pot
+*** SUMMARY ***
+Total pot $639.10 | Rake $1.25
+Board [Qd As 2c 6h 3s]
+Seat 2: TIKITAKA11 (big blind) showed [Js Qh] and won ($637.85)
+Seat 4: Meek Bill (button) (small blind) mucked
+
+PokerStars Hand #1508362510:  Hold'em No Limit ($25.00/$50.00 USD) - 2023/01/03 21:26:26 ET
+Table 'WPN_Fairway' 6-max Seat #4 is the button
+Seat 2: TIKITAKA11 ($7857.90 in chips)
+Seat 4: Meek Bill ($11590.68 in chips)
+TIKITAKA11: posts the ante $250.00
+Meek Bill: posts the ante $250.00
+*** HOLE CARDS ***
+*** FLOP *** [2c 6s 8s]
+TIKITAKA11: checks
+Meek Bill: checks
+*** TURN *** [2c 6s 8s] [5d]
+TIKITAKA11: checks
+Meek Bill: checks
+*** RIVER *** [2c 6s 8s 5d] [Ks]
+TIKITAKA11: checks
+Meek Bill: checks
+*** SHOW DOWN ***
+Meek Bill: shows [4h 6h]
+TIKITAKA11: mucks hand
+Meek Bill collected $498.75 from pot
+*** SUMMARY ***
+Total pot $500.00 | Rake $1.25
+Board [2c 6s 8s 5d Ks]
+Seat 2: TIKITAKA11 mucked
+Seat 4: Meek Bill (button) showed [4h 6h] and won ($498.75)
+
+PokerStars Hand #1508364096:  Hold'em No Limit ($25.00/$50.00 USD) - 2023/01/03 21:27:18 ET
+Table 'WPN_Fairway' 6-max Seat #2 is the button
+Seat 2: TIKITAKA11 ($7607.90 in chips)
+Seat 4: Meek Bill ($11839.43 in chips)
+TIKITAKA11: posts small blind $25.00
+Meek Bill: posts big blind $50.00
+*** HOLE CARDS ***
+TIKITAKA11: raises $65.00 to $115.00
+Meek Bill: calls $65.00
+*** FLOP *** [9s 8h Ad]
+Meek Bill: checks
+TIKITAKA11: checks
+*** TURN *** [9s 8h Ad] [7h]
+Meek Bill: bets $172.50
+TIKITAKA11: folds
+Uncalled bet ($172.50) returned to Meek Bill
+Meek Bill collected $228.75 from pot
+Meek Bill: doesn't show hand
+*** SUMMARY ***
+Total pot $230.00 | Rake $1.25
+Board [9s 8h Ad 7h]
+Seat 2: TIKITAKA11 (button) (small blind) folded on the Turn
+Seat 4: Meek Bill (big blind) collected ($228.75)
+
+PokerStars Hand #1508364889:  Hold'em No Limit ($25.00/$50.00 USD) - 2023/01/03 21:27:51 ET
+Table 'WPN_Fairway' 6-max Seat #4 is the button
+Seat 2: TIKITAKA11 ($7492.90 in chips)
+Seat 4: Meek Bill ($11953.18 in chips)
+Meek Bill: posts small blind $25.00
+TIKITAKA11: posts big blind $50.00
+*** HOLE CARDS ***
+Meek Bill: raises $75.00 to $125.00
+TIKITAKA11: calls $75.00
+*** FLOP *** [Kc Jh 7d]
+TIKITAKA11: checks
+Meek Bill: bets $62.50
+TIKITAKA11: folds
+Uncalled bet ($62.50) returned to Meek Bill
+Meek Bill collected $248.75 from pot
+Meek Bill: doesn't show hand
+*** SUMMARY ***
+Total pot $250.00 | Rake $1.25
+Board [Kc Jh 7d]
+Seat 2: TIKITAKA11 (big blind) folded on the Flop
+Seat 4: Meek Bill (button) (small blind) collected ($248.75)
+
+PokerStars Hand #1508365458:  Hold'em No Limit ($25.00/$50.00 USD) - 2023/01/03 21:28:15 ET
+Table 'WPN_Fairway' 6-max Seat #2 is the button
+Seat 2: TIKITAKA11 ($7367.90 in chips)
+Seat 4: Meek Bill ($12076.93 in chips)
+Seat 6: elmatador6969 ($2000.00 in chips)
+TIKITAKA11: posts small blind $25.00
+Meek Bill: posts big blind $50.00
+*** HOLE CARDS ***
+TIKITAKA11: raises $65.00 to $115.00
+Meek Bill: calls $65.00
+*** FLOP *** [3h 5d 4d]
+Meek Bill: checks
+TIKITAKA11: checks
+*** TURN *** [3h 5d 4d] [3d]
+Meek Bill: bets $172.50
+TIKITAKA11: calls $172.50
+*** RIVER *** [3h 5d 4d 3d] [9c]
+Meek Bill: checks
+TIKITAKA11: bets $408.25
+Meek Bill: folds
+Uncalled bet ($408.25) returned to TIKITAKA11
+TIKITAKA11 collected $573.75 from pot
+TIKITAKA11: doesn't show hand
+*** SUMMARY ***
+Total pot $575.00 | Rake $1.25
+Board [3h 5d 4d 3d 9c]
+Seat 2: TIKITAKA11 (button) (small blind) collected ($573.75)
+Seat 4: Meek Bill (big blind) folded on the River
+
+PokerStars Hand #1508366971:  Hold'em No Limit ($25.00/$50.00 USD) - 2023/01/03 21:29:20 ET
+Table 'WPN_Fairway' 6-max Seat #2 is the button
+Seat 1: dursty54 ($2000.00 in chips)
+Seat 2: TIKITAKA11 ($7654.15 in chips)
+Seat 3: dekikun ($5000.00 in chips)
+Seat 4: Meek Bill ($11789.43 in chips)
+Seat 6: elmatador6969 ($5000.00 in chips)
+Meek Bill: posts small blind $25.00
+elmatador6969: posts big blind $50.00
+*** HOLE CARDS ***
+TIKITAKA11: raises $65.00 to $115.00
+Meek Bill: folds
+elmatador6969: calls $65.00
+*** FLOP *** [6d 4s Kh]
+elmatador6969: checks
+TIKITAKA11: bets $68.85
+elmatador6969: calls $68.85
+*** TURN *** [6d 4s Kh] [5h]
+elmatador6969: checks
+TIKITAKA11: bets $278.81
+elmatador6969: folds
+Uncalled bet ($278.81) returned to TIKITAKA11
+TIKITAKA11 collected $390.95 from pot
+TIKITAKA11: doesn't show hand
+*** SUMMARY ***
+Total pot $392.70 | Rake $1.75
+Board [6d 4s Kh 5h]
+Seat 2: TIKITAKA11 (button) collected ($390.95)
+Seat 4: Meek Bill (small blind) folded before Flop
+Seat 6: elmatador6969 (big blind) folded on the Turn
+
+PokerStars Hand #1508368911:  Hold'em No Limit ($25.00/$50.00 USD) - 2023/01/03 21:30:56 ET
+Table 'WPN_Fairway' 6-max Seat #6 is the button
+Seat 1: dursty54 ($2000.00 in chips)
+Seat 2: TIKITAKA11 ($7861.25 in chips)
+Seat 3: dekikun ($5000.00 in chips)
+Seat 4: Meek Bill ($11764.43 in chips)
+Seat 6: elmatador6969 ($4816.15 in chips)
+dursty54: posts the ante $250.00
+TIKITAKA11: posts the ante $250.00
+dekikun: posts the ante $250.00
+Meek Bill: posts the ante $250.00
+elmatador6969: posts the ante $250.00
+*** HOLE CARDS ***
+*** FLOP *** [3d Qd 7s]
+dursty54: checks
+TIKITAKA11: bets $337.50
+dekikun: folds
+Meek Bill: folds
+elmatador6969: calls $337.50
+dursty54: calls $337.50
+*** TURN *** [3d Qd 7s] [Js]
+dursty54: checks
+TIKITAKA11: checks
+elmatador6969: checks
+*** RIVER *** [3d Qd 7s Js] [Qh]
+dursty54: checks
+TIKITAKA11: bets $610.87
+elmatador6969: folds
+dursty54: folds
+Uncalled bet ($610.87) returned to TIKITAKA11
+TIKITAKA11 collected $2259.50 from pot
+TIKITAKA11: doesn't show hand
+*** SUMMARY ***
+Total pot $2262.50 | Rake $3.00
+Board [3d Qd 7s Js Qh]
+Seat 1: dursty54 folded on the River
+Seat 2: TIKITAKA11 collected ($2259.50)
+Seat 3: dekikun folded on the Flop
+Seat 4: Meek Bill folded on the Flop
+Seat 6: elmatador6969 (button) folded on the River
+
+PokerStars Hand #1508371964:  Hold'em No Limit ($25.00/$50.00 USD) - 2023/01/03 21:32:53 ET
+Table 'WPN_Fairway' 6-max Seat #4 is the button
+Seat 1: dursty54 ($1412.50 in chips)
+Seat 2: TIKITAKA11 ($9533.25 in chips)
+Seat 4: Meek Bill ($11514.43 in chips)
+Seat 6: elmatador6969 ($5000.00 in chips)
+elmatador6969: posts small blind $25.00
+TIKITAKA11: posts big blind $50.00
+*** HOLE CARDS ***
+Meek Bill: raises $75.00 to $125.00
+elmatador6969: folds
+TIKITAKA11: folds
+Uncalled bet ($75.00) returned to Meek Bill
+Meek Bill collected $125.00 from pot
+Meek Bill: doesn't show hand
+*** SUMMARY ***
+Total pot $125.00 | Rake $0.00
+Seat 2: TIKITAKA11 (big blind) folded before Flop
+Seat 4: Meek Bill (button) collected ($125.00)
+Seat 6: elmatador6969 (small blind) folded before Flop
+
+PokerStars Hand #1508372527:  Hold'em No Limit ($25.00/$50.00 USD) - 2023/01/03 21:33:17 ET
+Table 'WPN_Fairway' 6-max Seat #6 is the button
+Seat 2: TIKITAKA11 ($9483.25 in chips)
+Seat 4: Meek Bill ($11589.43 in chips)
+Seat 6: elmatador6969 ($5000.00 in chips)
+TIKITAKA11: posts small blind $25.00
+Meek Bill: posts big blind $50.00
+*** HOLE CARDS ***
+elmatador6969: folds
+TIKITAKA11: folds
+Uncalled bet ($25.00) returned to Meek Bill
+Meek Bill collected $50.00 from pot
+Meek Bill: doesn't show hand
+*** SUMMARY ***
+Total pot $50.00 | Rake $0.00
+Seat 2: TIKITAKA11 (small blind) folded before Flop
+Seat 4: Meek Bill (big blind) collected ($50.00)
+Seat 6: elmatador6969 (button) folded before Flop (didn't bet)
+
+PokerStars Hand #1508372847:  Hold'em No Limit ($25.00/$50.00 USD) - 2023/01/03 21:33:32 ET
+Table 'WPN_Fairway' 6-max Seat #4 is the button
+Seat 2: TIKITAKA11 ($9458.25 in chips)
+Seat 4: Meek Bill ($11614.43 in chips)
+Meek Bill: posts small blind $25.00
+TIKITAKA11: posts big blind $50.00
+*** HOLE CARDS ***
+Meek Bill: raises $75.00 to $125.00
+TIKITAKA11: calls $75.00
+*** FLOP *** [7d 5c 3s]
+TIKITAKA11: checks
+Meek Bill: checks
+*** TURN *** [7d 5c 3s] [4s]
+TIKITAKA11: bets $67.50
+Meek Bill: calls $67.50
+*** RIVER *** [7d 5c 3s 4s] [5h]
+TIKITAKA11: bets $103.95
+Meek Bill: calls $103.95
+*** SHOW DOWN ***
+TIKITAKA11: shows [7c Qc]
+Meek Bill: mucks hand
+TIKITAKA11 collected $591.65 from pot
+*** SUMMARY ***
+Total pot $592.90 | Rake $1.25
+Board [7d 5c 3s 4s 5h]
+Seat 2: TIKITAKA11 (big blind) showed [7c Qc] and won ($591.65)
+Seat 4: Meek Bill (button) (small blind) mucked
+
+PokerStars Hand #1508373947:  Hold'em No Limit ($25.00/$50.00 USD) - 2023/01/03 21:34:19 ET
+Table 'WPN_Fairway' 6-max Seat #2 is the button
+Seat 2: TIKITAKA11 ($9753.45 in chips)
+Seat 4: Meek Bill ($11317.98 in chips)
+TIKITAKA11: posts small blind $25.00
+Meek Bill: posts big blind $50.00
+*** HOLE CARDS ***
+TIKITAKA11: raises $65.00 to $115.00
+Meek Bill: calls $65.00
+*** FLOP *** [3c 5s 9c]
+Meek Bill: checks
+TIKITAKA11: checks
+*** TURN *** [3c 5s 9c] [Ah]
+Meek Bill: checks
+TIKITAKA11: checks
+*** RIVER *** [3c 5s 9c Ah] [4d]
+Meek Bill: checks
+TIKITAKA11: checks
+*** SHOW DOWN ***
+TIKITAKA11: shows [Ts 5c]
+Meek Bill: mucks hand
+TIKITAKA11 collected $228.75 from pot
+*** SUMMARY ***
+Total pot $230.00 | Rake $1.25
+Board [3c 5s 9c Ah 4d]
+Seat 2: TIKITAKA11 (button) (small blind) showed [Ts 5c] and won ($228.75)
+Seat 4: Meek Bill (big blind) mucked
+
+PokerStars Hand #1508374819:  Hold'em No Limit ($25.00/$50.00 USD) - 2023/01/03 21:34:58 ET
+Table 'WPN_Fairway' 6-max Seat #4 is the button
+Seat 2: TIKITAKA11 ($9867.20 in chips)
+Seat 4: Meek Bill ($11202.98 in chips)
+Meek Bill: posts small blind $25.00
+TIKITAKA11: posts big blind $50.00
+*** HOLE CARDS ***
+Meek Bill: raises $75.00 to $125.00
+TIKITAKA11: calls $75.00
+*** FLOP *** [8s Ac 3s]
+TIKITAKA11: checks
+Meek Bill: checks
+*** TURN *** [8s Ac 3s] [5h]
+TIKITAKA11: bets $67.50
+Meek Bill: calls $67.50
+*** RIVER *** [8s Ac 3s 5h] [6h]
+TIKITAKA11: checks
+Meek Bill: checks
+*** SHOW DOWN ***
+TIKITAKA11: shows [4d 4h]
+Meek Bill: mucks hand
+TIKITAKA11 collected $383.75 from pot
+*** SUMMARY ***
+Total pot $385.00 | Rake $1.25
+Board [8s Ac 3s 5h 6h]
+Seat 2: TIKITAKA11 (big blind) showed [4d 4h] and won ($383.75)
+Seat 4: Meek Bill (button) (small blind) mucked
+
+PokerStars Hand #1508375870:  Hold'em No Limit ($25.00/$50.00 USD) - 2023/01/03 21:35:46 ET
+Table 'WPN_Fairway' 6-max Seat #2 is the button
+Seat 2: TIKITAKA11 ($10058.45 in chips)
+Seat 4: Meek Bill ($11010.48 in chips)
+TIKITAKA11: posts small blind $25.00
+Meek Bill: posts big blind $50.00
+*** HOLE CARDS ***
+TIKITAKA11: raises $65.00 to $115.00
+Meek Bill: calls $65.00
+*** FLOP *** [9s 6s 5s]
+Meek Bill: checks
+TIKITAKA11: bets $115.00
+Meek Bill: calls $115.00
+*** TURN *** [9s 6s 5s] [2c]
+Meek Bill: checks
+TIKITAKA11: bets $460.00
+Meek Bill: calls $460.00
+*** RIVER *** [9s 6s 5s 2c] [8s]
+Meek Bill: checks
+TIKITAKA11: checks
+*** SHOW DOWN ***
+Meek Bill: shows [7d 7s]
+TIKITAKA11: mucks hand
+Meek Bill collected $1378.75 from pot
+*** SUMMARY ***
+Total pot $1380.00 | Rake $1.25
+Board [9s 6s 5s 2c 8s]
+Seat 2: TIKITAKA11 (button) (small blind) mucked
+Seat 4: Meek Bill (big blind) showed [7d 7s] and won ($1378.75)
+
+PokerStars Hand #1508377047:  Hold'em No Limit ($25.00/$50.00 USD) - 2023/01/03 21:36:43 ET
+Table 'WPN_Fairway' 6-max Seat #4 is the button
+Seat 2: TIKITAKA11 ($9368.45 in chips)
+Seat 4: Meek Bill ($11699.23 in chips)
+Meek Bill: posts small blind $25.00
+TIKITAKA11: posts big blind $50.00
+*** HOLE CARDS ***
+Meek Bill: raises $75.00 to $125.00
+TIKITAKA11: raises $390.00 to $515.00
+Meek Bill: folds
+Uncalled bet ($390.00) returned to TIKITAKA11
+TIKITAKA11 collected $250.00 from pot
+TIKITAKA11: doesn't show hand
+*** SUMMARY ***
+Total pot $250.00 | Rake $0.00
+Seat 2: TIKITAKA11 (big blind) collected ($250.00)
+Seat 4: Meek Bill (button) (small blind) folded before Flop
+
+PokerStars Hand #1508377461:  Hold'em No Limit ($25.00/$50.00 USD) - 2023/01/03 21:37:00 ET
+Table 'WPN_Fairway' 6-max Seat #2 is the button
+Seat 2: TIKITAKA11 ($9493.45 in chips)
+Seat 4: Meek Bill ($11574.23 in chips)
+TIKITAKA11: posts small blind $25.00
+Meek Bill: posts big blind $50.00
+*** HOLE CARDS ***
+TIKITAKA11: raises $65.00 to $115.00
+Meek Bill: folds
+Uncalled bet ($65.00) returned to TIKITAKA11
+TIKITAKA11 collected $100.00 from pot
+TIKITAKA11: doesn't show hand
+*** SUMMARY ***
+Total pot $100.00 | Rake $0.00
+Seat 2: TIKITAKA11 (button) (small blind) collected ($100.00)
+Seat 4: Meek Bill (big blind) folded before Flop
+
+PokerStars Hand #1508377698:  Hold'em No Limit ($25.00/$50.00 USD) - 2023/01/03 21:37:12 ET
+Table 'WPN_Fairway' 6-max Seat #4 is the button
+Seat 2: TIKITAKA11 ($9543.45 in chips)
+Seat 4: Meek Bill ($11524.23 in chips)
+Meek Bill: posts small blind $25.00
+TIKITAKA11: posts big blind $50.00
+*** HOLE CARDS ***
+Meek Bill: raises $75.00 to $125.00
+TIKITAKA11: folds
+Uncalled bet ($75.00) returned to Meek Bill
+Meek Bill collected $100.00 from pot
+Meek Bill: doesn't show hand
+*** SUMMARY ***
+Total pot $100.00 | Rake $0.00
+Seat 2: TIKITAKA11 (big blind) folded before Flop
+Seat 4: Meek Bill (button) (small blind) collected ($100.00)
+
+PokerStars Hand #1508377979:  Hold'em No Limit ($25.00/$50.00 USD) - 2023/01/03 21:37:26 ET
+Table 'WPN_Fairway' 6-max Seat #2 is the button
+Seat 2: TIKITAKA11 ($9493.45 in chips)
+Seat 4: Meek Bill ($11574.23 in chips)
+TIKITAKA11: posts small blind $25.00
+Meek Bill: posts big blind $50.00
+*** HOLE CARDS ***
+TIKITAKA11: raises $65.00 to $115.00
+Meek Bill: calls $65.00
+*** FLOP *** [8s 3d Ts]
+Meek Bill: checks
+TIKITAKA11: bets $115.00
+Meek Bill: calls $115.00
+*** TURN *** [8s 3d Ts] [9d]
+Meek Bill: checks
+TIKITAKA11: bets $460.00
+Meek Bill: folds
+Uncalled bet ($460.00) returned to TIKITAKA11
+TIKITAKA11 collected $458.75 from pot
+TIKITAKA11: doesn't show hand
+*** SUMMARY ***
+Total pot $460.00 | Rake $1.25
+Board [8s 3d Ts 9d]
+Seat 2: TIKITAKA11 (button) (small blind) collected ($458.75)
+Seat 4: Meek Bill (big blind) folded on the Turn
+
+PokerStars Hand #1508378859:  Hold'em No Limit ($25.00/$50.00 USD) - 2023/01/03 21:38:07 ET
+Table 'WPN_Fairway' 6-max Seat #4 is the button
+Seat 2: TIKITAKA11 ($9722.20 in chips)
+Seat 4: Meek Bill ($11344.23 in chips)
+Meek Bill: posts small blind $25.00
+TIKITAKA11: posts big blind $50.00
+*** HOLE CARDS ***
+Meek Bill: raises $75.00 to $125.00
+TIKITAKA11: calls $75.00
+*** FLOP *** [Td Ad 5s]
+TIKITAKA11: checks
+Meek Bill: bets $82.50
+TIKITAKA11: calls $82.50
+*** TURN *** [Td Ad 5s] [Ks]
+TIKITAKA11: checks
+Meek Bill: checks
+*** RIVER *** [Td Ad 5s Ks] [6c]
+TIKITAKA11: bets $294.65
+Meek Bill: folds
+Uncalled bet ($294.65) returned to TIKITAKA11
+TIKITAKA11 collected $413.75 from pot
+TIKITAKA11: doesn't show hand
+*** SUMMARY ***
+Total pot $415.00 | Rake $1.25
+Board [Td Ad 5s Ks 6c]
+Seat 2: TIKITAKA11 (big blind) collected ($413.75)
+Seat 4: Meek Bill (button) (small blind) folded on the River
+
+PokerStars Hand #1508379829:  Hold'em No Limit ($25.00/$50.00 USD) - 2023/01/03 21:38:52 ET
+Table 'WPN_Fairway' 6-max Seat #2 is the button
+Seat 2: TIKITAKA11 ($9928.45 in chips)
+Seat 4: Meek Bill ($11136.73 in chips)
+TIKITAKA11: posts small blind $25.00
+Meek Bill: posts big blind $50.00
+*** HOLE CARDS ***
+TIKITAKA11: raises $65.00 to $115.00
+Meek Bill: calls $65.00
+*** FLOP *** [8h Qh 3s]
+Meek Bill: checks
+TIKITAKA11: bets $163.30
+Meek Bill: folds
+Uncalled bet ($163.30) returned to TIKITAKA11
+TIKITAKA11 collected $228.75 from pot
+TIKITAKA11: doesn't show hand
+*** SUMMARY ***
+Total pot $230.00 | Rake $1.25
+Board [8h Qh 3s]
+Seat 2: TIKITAKA11 (button) (small blind) collected ($228.75)
+Seat 4: Meek Bill (big blind) folded on the Flop
+
+PokerStars Hand #1508380361:  Hold'em No Limit ($25.00/$50.00 USD) - 2023/01/03 21:39:18 ET
+Table 'WPN_Fairway' 6-max Seat #4 is the button
+Seat 2: TIKITAKA11 ($10042.20 in chips)
+Seat 4: Meek Bill ($11021.73 in chips)
+Meek Bill: posts small blind $25.00
+TIKITAKA11: posts big blind $50.00
+*** HOLE CARDS ***
+Meek Bill: raises $75.00 to $125.00
+TIKITAKA11: calls $75.00
+*** FLOP *** [Ad 6h 7c]
+TIKITAKA11: checks
+Meek Bill: bets $82.50
+TIKITAKA11: calls $82.50
+*** TURN *** [Ad 6h 7c] [4c]
+TIKITAKA11: checks
+Meek Bill: bets $311.25
+TIKITAKA11: folds
+Uncalled bet ($311.25) returned to Meek Bill
+Meek Bill collected $413.75 from pot
+Meek Bill: doesn't show hand
+*** SUMMARY ***
+Total pot $415.00 | Rake $1.25
+Board [Ad 6h 7c 4c]
+Seat 2: TIKITAKA11 (big blind) folded on the Turn
+Seat 4: Meek Bill (button) (small blind) collected ($413.75)
+
+PokerStars Hand #1508381431:  Hold'em No Limit ($25.00/$50.00 USD) - 2023/01/03 21:40:07 ET
+Table 'WPN_Fairway' 6-max Seat #2 is the button
+Seat 2: TIKITAKA11 ($9834.70 in chips)
+Seat 4: Meek Bill ($11227.98 in chips)
+TIKITAKA11: posts small blind $25.00
+Meek Bill: posts big blind $50.00
+*** HOLE CARDS ***
+TIKITAKA11: raises $65.00 to $115.00
+Meek Bill: calls $65.00
+*** FLOP *** [Td 2s Ah]
+Meek Bill: checks
+TIKITAKA11: bets $62.10
+Meek Bill: folds
+Uncalled bet ($62.10) returned to TIKITAKA11
+TIKITAKA11 collected $228.75 from pot
+TIKITAKA11: doesn't show hand
+*** SUMMARY ***
+Total pot $230.00 | Rake $1.25
+Board [Td 2s Ah]
+Seat 2: TIKITAKA11 (button) (small blind) collected ($228.75)
+Seat 4: Meek Bill (big blind) folded on the Flop
+
+PokerStars Hand #1508381970:  Hold'em No Limit ($25.00/$50.00 USD) - 2023/01/03 21:40:31 ET
+Table 'WPN_Fairway' 6-max Seat #4 is the button
+Seat 2: TIKITAKA11 ($9948.45 in chips)
+Seat 4: Meek Bill ($11112.98 in chips)
+Meek Bill: posts small blind $25.00
+TIKITAKA11: posts big blind $50.00
+*** HOLE CARDS ***
+Meek Bill: folds
+Uncalled bet ($25.00) returned to TIKITAKA11
+TIKITAKA11 collected $50.00 from pot
+TIKITAKA11: doesn't show hand
+*** SUMMARY ***
+Total pot $50.00 | Rake $0.00
+Seat 2: TIKITAKA11 (big blind) collected ($50.00)
+Seat 4: Meek Bill (button) (small blind) folded before Flop
+
+PokerStars Hand #1508382183:  Hold'em No Limit ($25.00/$50.00 USD) - 2023/01/03 21:40:42 ET
+Table 'WPN_Fairway' 6-max Seat #2 is the button
+Seat 2: TIKITAKA11 ($9973.45 in chips)
+Seat 4: Meek Bill ($11087.98 in chips)
+TIKITAKA11: posts small blind $25.00
+Meek Bill: posts big blind $50.00
+*** HOLE CARDS ***
+TIKITAKA11: raises $65.00 to $115.00
+Meek Bill: calls $65.00
+*** FLOP *** [8h 7d Qs]
+Meek Bill: checks
+TIKITAKA11: checks
+*** TURN *** [8h 7d Qs] [Td]
+Meek Bill: bets $172.50
+TIKITAKA11: calls $172.50
+*** RIVER *** [8h 7d Qs Td] [9d]
+Meek Bill: checks
+TIKITAKA11: bets $575.00
+Meek Bill: calls $575.00
+*** SHOW DOWN ***
+Meek Bill: shows [Qd Jh]
+TIKITAKA11: mucks hand
+Meek Bill collected $1723.75 from pot
+*** SUMMARY ***
+Total pot $1725.00 | Rake $1.25
+Board [8h 7d Qs Td 9d]
+Seat 2: TIKITAKA11 (button) (small blind) mucked
+Seat 4: Meek Bill (big blind) showed [Qd Jh] and won ($1723.75)
+
+PokerStars Hand #1508383518:  Hold'em No Limit ($25.00/$50.00 USD) - 2023/01/03 21:41:43 ET
+Table 'WPN_Fairway' 6-max Seat #4 is the button
+Seat 2: TIKITAKA11 ($9110.95 in chips)
+Seat 4: Meek Bill ($11949.23 in chips)
+Meek Bill: posts small blind $25.00
+TIKITAKA11: posts big blind $50.00
+*** HOLE CARDS ***
+Meek Bill: raises $75.00 to $125.00
+TIKITAKA11: calls $75.00
+*** FLOP *** [Ks Js 6h]
+TIKITAKA11: checks
+Meek Bill: bets $62.50
+TIKITAKA11: calls $62.50
+*** TURN *** [Ks Js 6h] [7h]
+TIKITAKA11: checks
+Meek Bill: checks
+*** RIVER *** [Ks Js 6h 7h] [7s]
+TIKITAKA11: bets $101.25
+Meek Bill: raises $401.25 to $502.50
+TIKITAKA11: folds
+Uncalled bet ($401.25) returned to Meek Bill
+Meek Bill collected $576.25 from pot
+Meek Bill: doesn't show hand
+*** SUMMARY ***
+Total pot $577.50 | Rake $1.25
+Board [Ks Js 6h 7h 7s]
+Seat 2: TIKITAKA11 (big blind) folded on the River
+Seat 4: Meek Bill (button) (small blind) collected ($576.25)
+
+PokerStars Hand #1508384765:  Hold'em No Limit ($25.00/$50.00 USD) - 2023/01/03 21:42:38 ET
+Table 'WPN_Fairway' 6-max Seat #2 is the button
+Seat 2: TIKITAKA11 ($8822.20 in chips)
+Seat 4: Meek Bill ($12236.73 in chips)
+TIKITAKA11: posts small blind $25.00
+Meek Bill: posts big blind $50.00
+*** HOLE CARDS ***
+TIKITAKA11: raises $65.00 to $115.00
+Meek Bill: folds
+Uncalled bet ($65.00) returned to TIKITAKA11
+TIKITAKA11 collected $100.00 from pot
+TIKITAKA11: doesn't show hand
+*** SUMMARY ***
+Total pot $100.00 | Rake $0.00
+Seat 2: TIKITAKA11 (button) (small blind) collected ($100.00)
+Seat 4: Meek Bill (big blind) folded before Flop
+
+PokerStars Hand #1508385018:  Hold'em No Limit ($25.00/$50.00 USD) - 2023/01/03 21:42:50 ET
+Table 'WPN_Fairway' 6-max Seat #4 is the button
+Seat 2: TIKITAKA11 ($8872.20 in chips)
+Seat 4: Meek Bill ($12186.73 in chips)
+Meek Bill: posts small blind $25.00
+TIKITAKA11: posts big blind $50.00
+*** HOLE CARDS ***
+Meek Bill: raises $75.00 to $125.00
+TIKITAKA11: raises $340.00 to $465.00
+Meek Bill: calls $340.00
+*** FLOP *** [6c 9s 8c]
+TIKITAKA11: checks
+Meek Bill: bets $306.90
+TIKITAKA11: calls $306.90
+*** TURN *** [6c 9s 8c] [5c]
+TIKITAKA11: checks
+Meek Bill: bets $759.45
+TIKITAKA11: folds
+Uncalled bet ($759.45) returned to Meek Bill
+Meek Bill collected $1542.55 from pot
+Meek Bill: doesn't show hand
+*** SUMMARY ***
+Total pot $1543.80 | Rake $1.25
+Board [6c 9s 8c 5c]
+Seat 2: TIKITAKA11 (big blind) folded on the Turn
+Seat 4: Meek Bill (button) (small blind) collected ($1542.55)
+
+PokerStars Hand #1508386372:  Hold'em No Limit ($25.00/$50.00 USD) - 2023/01/03 21:43:52 ET
+Table 'WPN_Fairway' 6-max Seat #2 is the button
+Seat 2: TIKITAKA11 ($8100.30 in chips)
+Seat 4: Meek Bill ($12957.38 in chips)
+TIKITAKA11: posts small blind $25.00
+Meek Bill: posts big blind $50.00
+*** HOLE CARDS ***
+TIKITAKA11: raises $65.00 to $115.00
+Meek Bill: calls $65.00
+*** FLOP *** [7s 3d Qs]
+Meek Bill: checks
+TIKITAKA11: bets $62.10
+Meek Bill: folds
+Uncalled bet ($62.10) returned to TIKITAKA11
+TIKITAKA11 collected $228.75 from pot
+TIKITAKA11: doesn't show hand
+*** SUMMARY ***
+Total pot $230.00 | Rake $1.25
+Board [7s 3d Qs]
+Seat 2: TIKITAKA11 (button) (small blind) collected ($228.75)
+Seat 4: Meek Bill (big blind) folded on the Flop
+
+PokerStars Hand #1508386837:  Hold'em No Limit ($25.00/$50.00 USD) - 2023/01/03 21:44:15 ET
+Table 'WPN_Fairway' 6-max Seat #4 is the button
+Seat 2: TIKITAKA11 ($8214.05 in chips)
+Seat 4: Meek Bill ($12842.38 in chips)
+Meek Bill: posts small blind $25.00
+TIKITAKA11: posts big blind $50.00
+*** HOLE CARDS ***
+Meek Bill: raises $75.00 to $125.00
+TIKITAKA11: calls $75.00
+*** FLOP *** [Td 7h 8s]
+TIKITAKA11: checks
+Meek Bill: checks
+*** TURN *** [Td 7h 8s] [3s]
+TIKITAKA11: checks
+Meek Bill: bets $132.50
+TIKITAKA11: folds
+Uncalled bet ($132.50) returned to Meek Bill
+Meek Bill collected $248.75 from pot
+Meek Bill: doesn't show hand
+*** SUMMARY ***
+Total pot $250.00 | Rake $1.25
+Board [Td 7h 8s 3s]
+Seat 2: TIKITAKA11 (big blind) folded on the Turn
+Seat 4: Meek Bill (button) (small blind) collected ($248.75)
+
+PokerStars Hand #1508387753:  Hold'em No Limit ($25.00/$50.00 USD) - 2023/01/03 21:44:57 ET
+Table 'WPN_Fairway' 6-max Seat #2 is the button
+Seat 2: TIKITAKA11 ($8089.05 in chips)
+Seat 4: Meek Bill ($12966.13 in chips)
+TIKITAKA11: posts small blind $25.00
+Meek Bill: posts big blind $50.00
+*** HOLE CARDS ***
+TIKITAKA11: raises $65.00 to $115.00
+Meek Bill: folds
+Uncalled bet ($65.00) returned to TIKITAKA11
+TIKITAKA11 collected $100.00 from pot
+TIKITAKA11: doesn't show hand
+*** SUMMARY ***
+Total pot $100.00 | Rake $0.00
+Seat 2: TIKITAKA11 (button) (small blind) collected ($100.00)
+Seat 4: Meek Bill (big blind) folded before Flop
+
+PokerStars Hand #1508388004:  Hold'em No Limit ($25.00/$50.00 USD) - 2023/01/03 21:45:08 ET
+Table 'WPN_Fairway' 6-max Seat #4 is the button
+Seat 2: TIKITAKA11 ($8139.05 in chips)
+Seat 4: Meek Bill ($12916.13 in chips)
+Meek Bill: posts small blind $25.00
+TIKITAKA11: posts big blind $50.00
+*** HOLE CARDS ***
+Meek Bill: raises $75.00 to $125.00
+TIKITAKA11: raises $340.00 to $465.00
+Meek Bill: calls $340.00
+*** FLOP *** [7s Qd 7c]
+TIKITAKA11: bets $251.10
+Meek Bill: calls $251.10
+*** TURN *** [7s Qd 7c] [9s]
+TIKITAKA11: bets $1016.86
+Meek Bill: folds
+Uncalled bet ($1016.86) returned to TIKITAKA11
+TIKITAKA11 collected $1430.95 from pot
+TIKITAKA11: doesn't show hand
+*** SUMMARY ***
+Total pot $1432.20 | Rake $1.25
+Board [7s Qd 7c 9s]
+Seat 2: TIKITAKA11 (big blind) collected ($1430.95)
+Seat 4: Meek Bill (button) (small blind) folded on the Turn
+
+PokerStars Hand #1508389159:  Hold'em No Limit ($25.00/$50.00 USD) - 2023/01/03 21:46:04 ET
+Table 'WPN_Fairway' 6-max Seat #2 is the button
+Seat 2: TIKITAKA11 ($8853.90 in chips)
+Seat 4: Meek Bill ($12200.03 in chips)
+TIKITAKA11: posts small blind $25.00
+Meek Bill: posts big blind $50.00
+*** HOLE CARDS ***
+TIKITAKA11: raises $65.00 to $115.00
+Meek Bill: calls $65.00
+*** FLOP *** [Qh Jh 7s]
+Meek Bill: checks
+TIKITAKA11: checks
+*** TURN *** [Qh Jh 7s] [Ts]
+Meek Bill: bets $172.50
+TIKITAKA11: folds
+Uncalled bet ($172.50) returned to Meek Bill
+Meek Bill collected $228.75 from pot
+Meek Bill: doesn't show hand
+*** SUMMARY ***
+Total pot $230.00 | Rake $1.25
+Board [Qh Jh 7s Ts]
+Seat 2: TIKITAKA11 (button) (small blind) folded on the Turn
+Seat 4: Meek Bill (big blind) collected ($228.75)
+
+PokerStars Hand #1508389964:  Hold'em No Limit ($25.00/$50.00 USD) - 2023/01/03 21:46:41 ET
+Table 'WPN_Fairway' 6-max Seat #4 is the button
+Seat 2: TIKITAKA11 ($8738.90 in chips)
+Seat 4: Meek Bill ($12313.78 in chips)
+Meek Bill: posts small blind $25.00
+TIKITAKA11: posts big blind $50.00
+*** HOLE CARDS ***
+Meek Bill: raises $75.00 to $125.00
+TIKITAKA11: raises $340.00 to $465.00
+Meek Bill: folds
+Uncalled bet ($340.00) returned to TIKITAKA11
+TIKITAKA11 collected $250.00 from pot
+TIKITAKA11: doesn't show hand
+*** SUMMARY ***
+Total pot $250.00 | Rake $0.00
+Seat 2: TIKITAKA11 (big blind) collected ($250.00)
+Seat 4: Meek Bill (button) (small blind) folded before Flop
+
+PokerStars Hand #1508390330:  Hold'em No Limit ($25.00/$50.00 USD) - 2023/01/03 21:46:58 ET
+Table 'WPN_Fairway' 6-max Seat #2 is the button
+Seat 2: TIKITAKA11 ($8863.90 in chips)
+Seat 4: Meek Bill ($12188.78 in chips)
+TIKITAKA11: posts small blind $25.00
+Meek Bill: posts big blind $50.00
+*** HOLE CARDS ***
+TIKITAKA11: raises $65.00 to $115.00
+Meek Bill: calls $65.00
+*** FLOP *** [9s 6h 7c]
+Meek Bill: checks
+TIKITAKA11: bets $115.00
+Meek Bill: folds
+Uncalled bet ($115.00) returned to TIKITAKA11
+TIKITAKA11 collected $228.75 from pot
+TIKITAKA11: doesn't show hand
+*** SUMMARY ***
+Total pot $230.00 | Rake $1.25
+Board [9s 6h 7c]
+Seat 2: TIKITAKA11 (button) (small blind) collected ($228.75)
+Seat 4: Meek Bill (big blind) folded on the Flop
+
+PokerStars Hand #1508390784:  Hold'em No Limit ($25.00/$50.00 USD) - 2023/01/03 21:47:20 ET
+Table 'WPN_Fairway' 6-max Seat #4 is the button
+Seat 2: TIKITAKA11 ($8977.65 in chips)
+Seat 4: Meek Bill ($12073.78 in chips)
+Meek Bill: posts small blind $25.00
+TIKITAKA11: posts big blind $50.00
+*** HOLE CARDS ***
+Meek Bill: raises $75.00 to $125.00
+TIKITAKA11: raises $340.00 to $465.00
+Meek Bill: folds
+Uncalled bet ($340.00) returned to TIKITAKA11
+TIKITAKA11 collected $250.00 from pot
+TIKITAKA11: doesn't show hand
+*** SUMMARY ***
+Total pot $250.00 | Rake $0.00
+Seat 2: TIKITAKA11 (big blind) collected ($250.00)
+Seat 4: Meek Bill (button) (small blind) folded before Flop
+
+PokerStars Hand #1508391161:  Hold'em No Limit ($25.00/$50.00 USD) - 2023/01/03 21:47:37 ET
+Table 'WPN_Fairway' 6-max Seat #2 is the button
+Seat 2: TIKITAKA11 ($9102.65 in chips)
+Seat 4: Meek Bill ($11948.78 in chips)
+TIKITAKA11: posts small blind $25.00
+Meek Bill: posts big blind $50.00
+*** HOLE CARDS ***
+TIKITAKA11: raises $65.00 to $115.00
+Meek Bill: calls $65.00
+*** FLOP *** [9c 2d Kd]
+Meek Bill: checks
+TIKITAKA11: checks
+*** TURN *** [9c 2d Kd] [Ah]
+Meek Bill: checks
+TIKITAKA11: checks
+*** RIVER *** [9c 2d Kd Ah] [Qd]
+Meek Bill: bets $75.90
+TIKITAKA11: folds
+Uncalled bet ($75.90) returned to Meek Bill
+Meek Bill collected $228.75 from pot
+Meek Bill: doesn't show hand
+*** SUMMARY ***
+Total pot $230.00 | Rake $1.25
+Board [9c 2d Kd Ah Qd]
+Seat 2: TIKITAKA11 (button) (small blind) folded on the River
+Seat 4: Meek Bill (big blind) collected ($228.75)
+
+PokerStars Hand #1508392072:  Hold'em No Limit ($25.00/$50.00 USD) - 2023/01/03 21:48:20 ET
+Table 'WPN_Fairway' 6-max Seat #4 is the button
+Seat 2: TIKITAKA11 ($8987.65 in chips)
+Seat 4: Meek Bill ($12062.53 in chips)
+Meek Bill: posts small blind $25.00
+TIKITAKA11: posts big blind $50.00
+*** HOLE CARDS ***
+Meek Bill: folds
+Uncalled bet ($25.00) returned to TIKITAKA11
+TIKITAKA11 collected $50.00 from pot
+TIKITAKA11: doesn't show hand
+*** SUMMARY ***
+Total pot $50.00 | Rake $0.00
+Seat 2: TIKITAKA11 (big blind) collected ($50.00)
+Seat 4: Meek Bill (button) (small blind) folded before Flop
+
+PokerStars Hand #1508392294:  Hold'em No Limit ($25.00/$50.00 USD) - 2023/01/03 21:48:31 ET
+Table 'WPN_Fairway' 6-max Seat #2 is the button
+Seat 2: TIKITAKA11 ($9012.65 in chips)
+Seat 4: Meek Bill ($12037.53 in chips)
+TIKITAKA11: posts small blind $25.00
+Meek Bill: posts big blind $50.00
+*** HOLE CARDS ***
+TIKITAKA11: raises $65.00 to $115.00
+Meek Bill: calls $65.00
+*** FLOP *** [2s 4h 6d]
+Meek Bill: checks
+TIKITAKA11: bets $163.30
+Meek Bill: calls $163.30
+*** TURN *** [2s 4h 6d] [Jc]
+Meek Bill: checks
+TIKITAKA11: bets $395.18
+Meek Bill: folds
+Uncalled bet ($395.18) returned to TIKITAKA11
+TIKITAKA11 collected $555.35 from pot
+TIKITAKA11: doesn't show hand
+*** SUMMARY ***
+Total pot $556.60 | Rake $1.25
+Board [2s 4h 6d Jc]
+Seat 2: TIKITAKA11 (button) (small blind) collected ($555.35)
+Seat 4: Meek Bill (big blind) folded on the Turn
+
+PokerStars Hand #1508393163:  Hold'em No Limit ($25.00/$50.00 USD) - 2023/01/03 21:49:13 ET
+Table 'WPN_Fairway' 6-max Seat #4 is the button
+Seat 2: TIKITAKA11 ($9289.70 in chips)
+Seat 4: Meek Bill ($11759.23 in chips)
+Meek Bill: posts small blind $25.00
+TIKITAKA11: posts big blind $50.00
+*** HOLE CARDS ***
+Meek Bill: folds
+Uncalled bet ($25.00) returned to TIKITAKA11
+TIKITAKA11 collected $50.00 from pot
+TIKITAKA11: doesn't show hand
+*** SUMMARY ***
+Total pot $50.00 | Rake $0.00
+Seat 2: TIKITAKA11 (big blind) collected ($50.00)
+Seat 4: Meek Bill (button) (small blind) folded before Flop
+
+PokerStars Hand #1508393398:  Hold'em No Limit ($25.00/$50.00 USD) - 2023/01/03 21:49:23 ET
+Table 'WPN_Fairway' 6-max Seat #2 is the button
+Seat 2: TIKITAKA11 ($9314.70 in chips)
+Seat 4: Meek Bill ($11734.23 in chips)
+TIKITAKA11: posts small blind $25.00
+Meek Bill: posts big blind $50.00
+*** HOLE CARDS ***
+TIKITAKA11: folds
+Uncalled bet ($25.00) returned to Meek Bill
+Meek Bill collected $50.00 from pot
+Meek Bill: doesn't show hand
+*** SUMMARY ***
+Total pot $50.00 | Rake $0.00
+Seat 2: TIKITAKA11 (button) (small blind) folded before Flop
+Seat 4: Meek Bill (big blind) collected ($50.00)
+
+PokerStars Hand #1508393769:  Hold'em No Limit ($25.00/$50.00 USD) - 2023/01/03 21:49:38 ET
+Table 'WPN_Fairway' 6-max Seat #4 is the button
+Seat 2: TIKITAKA11 ($9289.70 in chips)
+Seat 4: Meek Bill ($11759.23 in chips)
+Meek Bill: posts small blind $25.00
+TIKITAKA11: posts big blind $50.00
+*** HOLE CARDS ***
+Meek Bill: raises $75.00 to $125.00
+TIKITAKA11: calls $75.00
+*** FLOP *** [Ts Kc 8d]
+TIKITAKA11: checks
+Meek Bill: bets $62.50
+TIKITAKA11: raises $266.25 to $328.75
+Meek Bill: calls $266.25
+*** TURN *** [Ts Kc 8d] [3h]
+TIKITAKA11: bets $1361.25
+Meek Bill: calls $1361.25
+*** RIVER *** [Ts Kc 8d 3h] [Th]
+TIKITAKA11: checks
+Meek Bill: checks
+*** SHOW DOWN ***
+Meek Bill: shows [Ks 4c]
+TIKITAKA11: mucks hand
+Meek Bill collected $3628.75 from pot
+*** SUMMARY ***
+Total pot $3630.00 | Rake $1.25
+Board [Ts Kc 8d 3h Th]
+Seat 2: TIKITAKA11 (big blind) mucked
+Seat 4: Meek Bill (button) (small blind) showed [Ks 4c] and won ($3628.75)
+
+PokerStars Hand #1508395372:  Hold'em No Limit ($25.00/$50.00 USD) - 2023/01/03 21:50:57 ET
+Table 'WPN_Fairway' 6-max Seat #2 is the button
+Seat 2: TIKITAKA11 ($7474.70 in chips)
+Seat 4: Meek Bill ($13572.98 in chips)
+TIKITAKA11: posts small blind $25.00
+Meek Bill: posts big blind $50.00
+*** HOLE CARDS ***
+TIKITAKA11: raises $65.00 to $115.00
+Meek Bill: raises $405.00 to $520.00
+TIKITAKA11: folds
+Uncalled bet ($405.00) returned to Meek Bill
+Meek Bill collected $230.00 from pot
+Meek Bill: doesn't show hand
+*** SUMMARY ***
+Total pot $230.00 | Rake $0.00
+Seat 2: TIKITAKA11 (button) (small blind) folded before Flop
+Seat 4: Meek Bill (big blind) collected ($230.00)
+
+PokerStars Hand #1508395792:  Hold'em No Limit ($25.00/$50.00 USD) - 2023/01/03 21:51:16 ET
+Table 'WPN_Fairway' 6-max Seat #4 is the button
+Seat 2: TIKITAKA11 ($7359.70 in chips)
+Seat 4: Meek Bill ($13687.98 in chips)
+Meek Bill: posts small blind $25.00
+TIKITAKA11: posts big blind $50.00
+*** HOLE CARDS ***
+Meek Bill: folds
+Uncalled bet ($25.00) returned to TIKITAKA11
+TIKITAKA11 collected $50.00 from pot
+TIKITAKA11: doesn't show hand
+*** SUMMARY ***
+Total pot $50.00 | Rake $0.00
+Seat 2: TIKITAKA11 (big blind) collected ($50.00)
+Seat 4: Meek Bill (button) (small blind) folded before Flop
+
+PokerStars Hand #1508396039:  Hold'em No Limit ($25.00/$50.00 USD) - 2023/01/03 21:51:27 ET
+Table 'WPN_Fairway' 6-max Seat #2 is the button
+Seat 2: TIKITAKA11 ($7384.70 in chips)
+Seat 4: Meek Bill ($13662.98 in chips)
+TIKITAKA11: posts small blind $25.00
+Meek Bill: posts big blind $50.00
+*** HOLE CARDS ***
+TIKITAKA11: folds
+Uncalled bet ($25.00) returned to Meek Bill
+Meek Bill collected $50.00 from pot
+Meek Bill: doesn't show hand
+*** SUMMARY ***
+Total pot $50.00 | Rake $0.00
+Seat 2: TIKITAKA11 (button) (small blind) folded before Flop
+Seat 4: Meek Bill (big blind) collected ($50.00)
+
+PokerStars Hand #1508396272:  Hold'em No Limit ($25.00/$50.00 USD) - 2023/01/03 21:51:37 ET
+Table 'WPN_Fairway' 6-max Seat #4 is the button
+Seat 2: TIKITAKA11 ($7359.70 in chips)
+Seat 4: Meek Bill ($13687.98 in chips)
+Meek Bill: posts small blind $25.00
+TIKITAKA11: posts big blind $50.00
+*** HOLE CARDS ***
+Meek Bill: raises $75.00 to $125.00
+TIKITAKA11: calls $75.00
+*** FLOP *** [3h 3d 4h]
+TIKITAKA11: checks
+Meek Bill: bets $62.50
+TIKITAKA11: raises $266.25 to $328.75
+Meek Bill: calls $266.25
+*** TURN *** [3h 3d 4h] [Qd]
+TIKITAKA11: bets $1361.25
+Meek Bill: folds
+Uncalled bet ($1361.25) returned to TIKITAKA11
+TIKITAKA11 collected $906.25 from pot
+TIKITAKA11: doesn't show hand
+*** SUMMARY ***
+Total pot $907.50 | Rake $1.25
+Board [3h 3d 4h Qd]
+Seat 2: TIKITAKA11 (big blind) collected ($906.25)
+Seat 4: Meek Bill (button) (small blind) folded on the Turn
+
+PokerStars Hand #1508397418:  Hold'em No Limit ($25.00/$50.00 USD) - 2023/01/03 21:52:32 ET
+Table 'WPN_Fairway' 6-max Seat #2 is the button
+Seat 2: TIKITAKA11 ($7812.20 in chips)
+Seat 4: Meek Bill ($13234.23 in chips)
+TIKITAKA11: posts small blind $25.00
+Meek Bill: posts big blind $50.00
+*** HOLE CARDS ***
+TIKITAKA11: raises $65.00 to $115.00
+Meek Bill: calls $65.00
+*** FLOP *** [Kd 6c 5c]
+Meek Bill: checks
+TIKITAKA11: checks
+*** TURN *** [Kd 6c 5c] [2s]
+Meek Bill: checks
+TIKITAKA11: bets $163.30
+Meek Bill: folds
+Uncalled bet ($163.30) returned to TIKITAKA11
+TIKITAKA11 collected $228.75 from pot
+TIKITAKA11: doesn't show hand
+*** SUMMARY ***
+Total pot $230.00 | Rake $1.25
+Board [Kd 6c 5c 2s]
+Seat 2: TIKITAKA11 (button) (small blind) collected ($228.75)
+Seat 4: Meek Bill (big blind) folded on the Turn
+
+PokerStars Hand #1508398100:  Hold'em No Limit ($25.00/$50.00 USD) - 2023/01/03 21:53:05 ET
+Table 'WPN_Fairway' 6-max Seat #4 is the button
+Seat 2: TIKITAKA11 ($7925.95 in chips)
+Seat 4: Meek Bill ($13119.23 in chips)
+Meek Bill: posts small blind $25.00
+TIKITAKA11: posts big blind $50.00
+*** HOLE CARDS ***
+Meek Bill: raises $75.00 to $125.00
+TIKITAKA11: raises $340.00 to $465.00
+Meek Bill: folds
+Uncalled bet ($340.00) returned to TIKITAKA11
+TIKITAKA11 collected $250.00 from pot
+TIKITAKA11: doesn't show hand
+*** SUMMARY ***
+Total pot $250.00 | Rake $0.00
+Seat 2: TIKITAKA11 (big blind) collected ($250.00)
+Seat 4: Meek Bill (button) (small blind) folded before Flop
+
+PokerStars Hand #1508398452:  Hold'em No Limit ($25.00/$50.00 USD) - 2023/01/03 21:53:22 ET
+Table 'WPN_Fairway' 6-max Seat #2 is the button
+Seat 2: TIKITAKA11 ($8050.95 in chips)
+Seat 4: Meek Bill ($12994.23 in chips)
+TIKITAKA11: posts small blind $25.00
+Meek Bill: posts big blind $50.00
+*** HOLE CARDS ***
+TIKITAKA11: raises $65.00 to $115.00
+Meek Bill: raises $405.00 to $520.00
+TIKITAKA11: calls $405.00
+*** FLOP *** [9s 7d 3h]
+Meek Bill: bets $260.00
+TIKITAKA11: raises $780.00 to $1040.00
+Meek Bill: calls $780.00
+*** TURN *** [9s 7d 3h] [2s]
+Meek Bill: checks
+TIKITAKA11: bets $2215.20
+Meek Bill: folds
+Uncalled bet ($2215.20) returned to TIKITAKA11
+TIKITAKA11 collected $3118.75 from pot
+TIKITAKA11: doesn't show hand
+*** SUMMARY ***
+Total pot $3120.00 | Rake $1.25
+Board [9s 7d 3h 2s]
+Seat 2: TIKITAKA11 (button) (small blind) collected ($3118.75)
+Seat 4: Meek Bill (big blind) folded on the Turn
+
+PokerStars Hand #1508399981:  Hold'em No Limit ($25.00/$50.00 USD) - 2023/01/03 21:54:34 ET
+Table 'WPN_Fairway' 6-max Seat #4 is the button
+Seat 2: TIKITAKA11 ($9609.70 in chips)
+Seat 4: Meek Bill ($11434.23 in chips)
+Meek Bill: posts small blind $25.00
+TIKITAKA11: posts big blind $50.00
+*** HOLE CARDS ***
+Meek Bill: raises $75.00 to $125.00
+TIKITAKA11: calls $75.00
+*** FLOP *** [Td 4c Ad]
+TIKITAKA11: checks
+Meek Bill: bets $82.50
+TIKITAKA11: calls $82.50
+*** TURN *** [Td 4c Ad] [8s]
+TIKITAKA11: checks
+Meek Bill: checks
+*** RIVER *** [Td 4c Ad 8s] [9h]
+TIKITAKA11: bets $622.50
+Meek Bill: folds
+Uncalled bet ($622.50) returned to TIKITAKA11
+TIKITAKA11 collected $413.75 from pot
+TIKITAKA11: doesn't show hand
+*** SUMMARY ***
+Total pot $415.00 | Rake $1.25
+Board [Td 4c Ad 8s 9h]
+Seat 2: TIKITAKA11 (big blind) collected ($413.75)
+Seat 4: Meek Bill (button) (small blind) folded on the River
+
+PokerStars Hand #1508400726:  Hold'em No Limit ($25.00/$50.00 USD) - 2023/01/03 21:55:18 ET
+Table 'WPN_Fairway' 6-max Seat #2 is the button
+Seat 2: TIKITAKA11 ($9815.95 in chips)
+Seat 4: Meek Bill ($11226.73 in chips)
+TIKITAKA11: posts small blind $25.00
+Meek Bill: posts big blind $50.00
+*** HOLE CARDS ***
+TIKITAKA11: raises $65.00 to $115.00
+Meek Bill: folds
+Uncalled bet ($65.00) returned to TIKITAKA11
+TIKITAKA11 collected $100.00 from pot
+TIKITAKA11: doesn't show hand
+*** SUMMARY ***
+Total pot $100.00 | Rake $0.00
+Seat 2: TIKITAKA11 (button) (small blind) collected ($100.00)
+Seat 4: Meek Bill (big blind) folded before Flop
+
+PokerStars Hand #1508402307:  Hold'em No Limit ($25.00/$50.00 USD) - 2023/01/03 21:58:10 ET
+Table 'WPN_Fairway' 6-max Seat #2 is the button
+Seat 2: TIKITAKA11 ($9865.95 in chips)
+Seat 4: Meek Bill ($11176.73 in chips)
+Seat 6: RealEnough ($5000.00 in chips)
+TIKITAKA11: posts the ante $250.00
+Meek Bill: posts the ante $250.00
+*** HOLE CARDS ***
+*** FLOP *** [Js Kd 9d]
+Meek Bill: checks
+TIKITAKA11: checks
+*** TURN *** [Js Kd 9d] [7d]
+Meek Bill: checks
+TIKITAKA11: checks
+*** RIVER *** [Js Kd 9d 7d] [Jh]
+Meek Bill: bets $375.00
+TIKITAKA11: calls $375.00
+*** SHOW DOWN ***
+TIKITAKA11: shows [6d 9c]
+Meek Bill: mucks hand
+TIKITAKA11 collected $1248.75 from pot
+*** SUMMARY ***
+Total pot $1250.00 | Rake $1.25
+Board [Js Kd 9d 7d Jh]
+Seat 2: TIKITAKA11 (button) showed [6d 9c] and won ($1248.75)
+Seat 4: Meek Bill mucked
+
+PokerStars Hand #1508402914:  Hold'em No Limit ($25.00/$50.00 USD) - 2023/01/03 21:58:53 ET
+Table 'WPN_Fairway' 6-max Seat #2 is the button
+Seat 2: TIKITAKA11 ($10489.70 in chips)
+Seat 3: DoublelegTD ($2000.00 in chips)
+Seat 4: Meek Bill ($10551.73 in chips)
+Seat 5: elmatador6969 ($5000.00 in chips)
+Seat 6: RealEnough ($5000.00 in chips)
+Meek Bill: posts small blind $25.00
+elmatador6969: posts big blind $50.00
+*** HOLE CARDS ***
+TIKITAKA11: folds
+Meek Bill: folds
+Uncalled bet ($25.00) returned to elmatador6969
+elmatador6969 collected $50.00 from pot
+elmatador6969: doesn't show hand
+*** SUMMARY ***
+Total pot $50.00 | Rake $0.00
+Seat 2: TIKITAKA11 (button) folded before Flop (didn't bet)
+Seat 4: Meek Bill (small blind) folded before Flop
+Seat 5: elmatador6969 (big blind) collected ($50.00)
+
+PokerStars Hand #1508404039:  Hold'em No Limit ($25.00/$50.00 USD) - 2023/01/03 22:00:40 ET
+Table 'WPN_Fairway' 6-max Seat #5 is the button
+Seat 1: GrimLaden ($5000.00 in chips)
+Seat 2: TIKITAKA11 ($10489.70 in chips)
+Seat 3: DoublelegTD ($2000.00 in chips)
+Seat 4: Meek Bill ($10526.73 in chips)
+Seat 5: elmatador6969 ($5374.25 in chips)
+Seat 6: RealEnough ($4648.50 in chips)
+RealEnough: posts small blind $25.00
+GrimLaden: posts big blind $50.00
+*** HOLE CARDS ***
+TIKITAKA11: folds
+Meek Bill: folds
+elmatador6969: raises $57.00 to $107.00
+RealEnough: raises $418.00 to $525.00
+GrimLaden: folds
+elmatador6969: folds
+Uncalled bet ($418.00) returned to RealEnough
+RealEnough collected $264.00 from pot
+RealEnough: doesn't show hand
+*** SUMMARY ***
+Total pot $264.00 | Rake $0.00
+Seat 1: GrimLaden (big blind) folded before Flop
+Seat 2: TIKITAKA11 folded before Flop (didn't bet)
+Seat 4: Meek Bill folded before Flop (didn't bet)
+Seat 5: elmatador6969 (button) folded before Flop
+Seat 6: RealEnough (small blind) collected ($264.00)
+
+PokerStars Hand #1508404552:  Hold'em No Limit ($25.00/$50.00 USD) - 2023/01/03 22:01:10 ET
+Table 'WPN_Fairway' 6-max Seat #6 is the button
+Seat 1: GrimLaden ($5000.00 in chips)
+Seat 2: TIKITAKA11 ($10489.70 in chips)
+Seat 3: DoublelegTD ($2000.00 in chips)
+Seat 4: Meek Bill ($10526.73 in chips)
+Seat 5: elmatador6969 ($5267.25 in chips)
+Seat 6: RealEnough ($5157.00 in chips)
+GrimLaden: posts small blind $25.00
+TIKITAKA11: posts big blind $50.00
+*** HOLE CARDS ***
+Meek Bill: raises $75.00 to $125.00
+elmatador6969: folds
+RealEnough: folds
+GrimLaden: folds
+TIKITAKA11: folds
+Uncalled bet ($75.00) returned to Meek Bill
+Meek Bill collected $125.00 from pot
+Meek Bill: doesn't show hand
+*** SUMMARY ***
+Total pot $125.00 | Rake $0.00
+Seat 1: GrimLaden (small blind) folded before Flop
+Seat 2: TIKITAKA11 (big blind) folded before Flop
+Seat 4: Meek Bill collected ($125.00)
+Seat 5: elmatador6969 folded before Flop (didn't bet)
+Seat 6: RealEnough (button) folded before Flop (didn't bet)
+
+PokerStars Hand #1508404955:  Hold'em No Limit ($25.00/$50.00 USD) - 2023/01/03 22:01:31 ET
+Table 'WPN_Fairway' 6-max Seat #1 is the button
+Seat 1: GrimLaden ($5000.00 in chips)
+Seat 2: TIKITAKA11 ($10439.70 in chips)
+Seat 3: DoublelegTD ($2000.00 in chips)
+Seat 4: Meek Bill ($10601.73 in chips)
+Seat 5: elmatador6969 ($5267.25 in chips)
+Seat 6: RealEnough ($5157.00 in chips)
+TIKITAKA11: posts small blind $25.00
+DoublelegTD: posts big blind $50.00
+*** HOLE CARDS ***
+Meek Bill: folds
+elmatador6969: folds
+RealEnough: folds
+GrimLaden: folds
+TIKITAKA11: folds
+Uncalled bet ($25.00) returned to DoublelegTD
+DoublelegTD collected $50.00 from pot
+DoublelegTD: doesn't show hand
+*** SUMMARY ***
+Total pot $50.00 | Rake $0.00
+Seat 1: GrimLaden (button) folded before Flop (didn't bet)
+Seat 2: TIKITAKA11 (small blind) folded before Flop
+Seat 3: DoublelegTD (big blind) collected ($50.00)
+Seat 4: Meek Bill folded before Flop (didn't bet)
+Seat 5: elmatador6969 folded before Flop (didn't bet)
+Seat 6: RealEnough folded before Flop (didn't bet)
+
+PokerStars Hand #1508405346:  Hold'em No Limit ($25.00/$50.00 USD) - 2023/01/03 22:01:55 ET
+Table 'WPN_Fairway' 6-max Seat #2 is the button
+Seat 1: GrimLaden ($5000.00 in chips)
+Seat 2: TIKITAKA11 ($10414.70 in chips)
+Seat 3: DoublelegTD ($2025.00 in chips)
+Seat 4: Meek Bill ($10601.73 in chips)
+Seat 5: elmatador6969 ($5267.25 in chips)
+Seat 6: RealEnough ($5157.00 in chips)
+DoublelegTD: posts small blind $25.00
+Meek Bill: posts big blind $50.00
+*** HOLE CARDS ***
+elmatador6969: folds
+RealEnough: folds
+GrimLaden: raises $75.00 to $125.00
+TIKITAKA11: folds
+DoublelegTD: folds
+Meek Bill: calls $75.00
+*** FLOP *** [Kc Qd 2s]
+Meek Bill: checks
+GrimLaden: bets $90.75
+Meek Bill: folds
+Uncalled bet ($90.75) returned to GrimLaden
+GrimLaden collected $272.00 from pot
+GrimLaden: doesn't show hand
+*** SUMMARY ***
+Total pot $275.00 | Rake $3.00
+Board [Kc Qd 2s]
+Seat 1: GrimLaden collected ($272.00)
+Seat 2: TIKITAKA11 (button) folded before Flop (didn't bet)
+Seat 3: DoublelegTD (small blind) folded before Flop
+Seat 4: Meek Bill (big blind) folded on the Flop
+Seat 5: elmatador6969 folded before Flop (didn't bet)
+Seat 6: RealEnough folded before Flop (didn't bet)
+
+PokerStars Hand #1508406383:  Hold'em No Limit ($25.00/$50.00 USD) - 2023/01/03 22:02:51 ET
+Table 'WPN_Fairway' 6-max Seat #3 is the button
+Seat 1: GrimLaden ($5147.00 in chips)
+Seat 2: TIKITAKA11 ($10414.70 in chips)
+Seat 3: DoublelegTD ($5000.00 in chips)
+Seat 4: Meek Bill ($10476.73 in chips)
+Seat 6: RealEnough ($5157.00 in chips)
+Meek Bill: posts small blind $25.00
+TIKITAKA11: posts big blind $50.00
+*** HOLE CARDS ***
+DoublelegTD: folds
+Meek Bill: folds
+Uncalled bet ($25.00) returned to TIKITAKA11
+TIKITAKA11 collected $50.00 from pot
+TIKITAKA11: doesn't show hand
+*** SUMMARY ***
+Total pot $50.00 | Rake $0.00
+Seat 2: TIKITAKA11 (big blind) collected ($50.00)
+Seat 3: DoublelegTD (button) folded before Flop (didn't bet)
+Seat 4: Meek Bill (small blind) folded before Flop
+
+PokerStars Hand #1508406623:  Hold'em No Limit ($25.00/$50.00 USD) - 2023/01/03 22:03:04 ET
+Table 'WPN_Fairway' 6-max Seat #2 is the button
+Seat 2: TIKITAKA11 ($10439.70 in chips)
+Seat 4: Meek Bill ($10451.73 in chips)
+TIKITAKA11: posts small blind $25.00
+Meek Bill: posts big blind $50.00
+*** HOLE CARDS ***
+TIKITAKA11: raises $65.00 to $115.00
+Meek Bill: folds
+Uncalled bet ($65.00) returned to TIKITAKA11
+TIKITAKA11 collected $100.00 from pot
+TIKITAKA11: doesn't show hand
+*** SUMMARY ***
+Total pot $100.00 | Rake $0.00
+Seat 2: TIKITAKA11 (button) (small blind) collected ($100.00)
+Seat 4: Meek Bill (big blind) folded before Flop
+
+PokerStars Hand #1508406987:  Hold'em No Limit ($25.00/$50.00 USD) - 2023/01/03 22:03:23 ET
+Table 'WPN_Fairway' 6-max Seat #4 is the button
+Seat 2: TIKITAKA11 ($10489.70 in chips)
+Seat 4: Meek Bill ($10401.73 in chips)
+Meek Bill: posts small blind $25.00
+TIKITAKA11: posts big blind $50.00
+*** HOLE CARDS ***
+Meek Bill: raises $75.00 to $125.00
+TIKITAKA11: calls $75.00
+*** FLOP *** [Jd Jc 8d]
+TIKITAKA11: checks
+Meek Bill: bets $62.50
+TIKITAKA11: calls $62.50
+*** TURN *** [Jd Jc 8d] [Qc]
+TIKITAKA11: checks
+Meek Bill: bets $281.25
+TIKITAKA11: folds
+Uncalled bet ($281.25) returned to Meek Bill
+Meek Bill collected $373.75 from pot
+Meek Bill: doesn't show hand
+*** SUMMARY ***
+Total pot $375.00 | Rake $1.25
+Board [Jd Jc 8d Qc]
+Seat 2: TIKITAKA11 (big blind) folded on the Turn
+Seat 4: Meek Bill (button) (small blind) collected ($373.75)
+
+PokerStars Hand #1508407897:  Hold'em No Limit ($25.00/$50.00 USD) - 2023/01/03 22:04:09 ET
+Table 'WPN_Fairway' 6-max Seat #2 is the button
+Seat 2: TIKITAKA11 ($10302.20 in chips)
+Seat 4: Meek Bill ($10587.98 in chips)
+TIKITAKA11: posts small blind $25.00
+Meek Bill: posts big blind $50.00
+*** HOLE CARDS ***
+TIKITAKA11: raises $65.00 to $115.00
+Meek Bill: folds
+Uncalled bet ($65.00) returned to TIKITAKA11
+TIKITAKA11 collected $100.00 from pot
+TIKITAKA11: doesn't show hand
+*** SUMMARY ***
+Total pot $100.00 | Rake $0.00
+Seat 2: TIKITAKA11 (button) (small blind) collected ($100.00)
+Seat 4: Meek Bill (big blind) folded before Flop
+

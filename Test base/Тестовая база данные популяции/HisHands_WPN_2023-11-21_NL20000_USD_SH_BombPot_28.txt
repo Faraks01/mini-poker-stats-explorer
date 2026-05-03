@@ -1,0 +1,935 @@
+
+Hand #1938535280 - Holdem(No Limit) - $100/$200 - 2023/11/20 22:19:31 UTC
+Woodland 6-max Seat #3 is the button
+Seat 1: HornyOldMan ($20000)
+Seat 3: SeaLlama ($20000)
+Seat 5: vesnapisarovic ($20000)
+Seat 6: HuntersNR1 ($20000)
+SeaLlama posts ante $1000
+vesnapisarovic posts ante $1000
+*** HOLE CARDS *** 
+*** FLOP *** [Qh 5d 3c]
+Main pot $1998.75 | Rake $1.25
+vesnapisarovic checks
+SeaLlama checks
+*** TURN *** [Qh 5d 3c] [4h]
+Main pot $1998.75 | Rake $1.25
+vesnapisarovic checks
+SeaLlama bets $1000
+vesnapisarovic calls $1000
+*** RIVER *** [Qh 5d 3c 4h] [2h]
+Main pot $3998.75 | Rake $1.25
+vesnapisarovic checks
+SeaLlama checks
+*** SHOW DOWN ***
+Main pot $3998.75 | Rake $1.25
+SeaLlama shows [Qs 9d]
+SeaLlama collected $3998.75 from main pot
+*** SUMMARY ***
+BombPot
+Total pot $3998.75 | Rake $1.25
+Seat 3: SeaLlama (button) showed [Qs 9d] and won $3998.75 with OnePair [Qs Qh 9d 5d 4h]
+Seat 5: vesnapisarovic did not showed and lost
+
+
+Hand #1938536690 - Holdem(No Limit) - $100/$200 - 2023/11/20 22:20:31 UTC
+Woodland 6-max Seat #3 is the button
+Seat 3: SeaLlama ($21998.75)
+Seat 5: vesnapisarovic ($20000)
+Seat 6: HuntersNR1 ($20000)
+SeaLlama posts ante $1000
+vesnapisarovic posts ante $1000
+*** HOLE CARDS *** 
+*** FLOP *** [2s 4s 6h]
+Main pot $1998.75 | Rake $1.25
+vesnapisarovic checks
+SeaLlama bets $200
+vesnapisarovic calls $200
+*** TURN *** [2s 4s 6h] [Ts]
+Main pot $2398.75 | Rake $1.25
+vesnapisarovic checks
+SeaLlama checks
+*** RIVER *** [2s 4s 6h Ts] [6c]
+Main pot $2398.75 | Rake $1.25
+vesnapisarovic bets $300
+SeaLlama folds
+Uncalled bet ($300) returned to vesnapisarovic
+vesnapisarovic does not show
+*** SUMMARY ***
+BombPot
+Total pot $2398.75 | Rake $1.25
+Seat 3: SeaLlama (button) folded on the River
+Seat 5: vesnapisarovic did not showed and won $2398.75
+
+
+Hand #1938565077 - Holdem(No Limit) - $100/$200 - 2023/11/20 22:45:26 UTC
+Woodland 6-max Seat #3 is the button
+Seat 3: SeaLlama ($20000)
+Seat 5: vesnapisarovic ($26089.05)
+SeaLlama posts ante $1000
+vesnapisarovic posts ante $1000
+*** HOLE CARDS *** 
+*** FLOP *** [8c 6h Kd]
+Main pot $1998.75 | Rake $1.25
+vesnapisarovic checks
+SeaLlama checks
+*** TURN *** [8c 6h Kd] [Ad]
+Main pot $1998.75 | Rake $1.25
+vesnapisarovic checks
+SeaLlama checks
+*** RIVER *** [8c 6h Kd Ad] [7h]
+Main pot $1998.75 | Rake $1.25
+vesnapisarovic checks
+SeaLlama bets $2398
+vesnapisarovic folds
+Uncalled bet ($2398) returned to SeaLlama
+SeaLlama does not show
+*** SUMMARY ***
+BombPot
+Total pot $1998.75 | Rake $1.25
+Seat 3: SeaLlama (button) did not showed and won $1998.75
+Seat 5: vesnapisarovic folded on the River
+
+
+Hand #1938567289 - Holdem(No Limit) - $100/$200 - 2023/11/20 22:47:45 UTC
+Woodland 6-max Seat #3 is the button
+Seat 3: SeaLlama ($21627.50)
+Seat 5: vesnapisarovic ($24459.05)
+SeaLlama posts ante $1000
+vesnapisarovic posts ante $1000
+*** HOLE CARDS *** 
+*** FLOP *** [Kd 4c 6d]
+Main pot $1998.75 | Rake $1.25
+vesnapisarovic bets $580
+SeaLlama calls $580
+*** TURN *** [Kd 4c 6d] [3d]
+Main pot $3158.75 | Rake $1.25
+vesnapisarovic bets $916.40
+SeaLlama calls $916.40
+*** RIVER *** [Kd 4c 6d 3d] [Qd]
+Main pot $4991.55 | Rake $1.25
+vesnapisarovic bets $1447.91
+SeaLlama calls $1447.91
+*** SHOW DOWN ***
+Main pot $4991.55 | Rake $1.25
+SeaLlama shows [7d Qc]
+SeaLlama collected $7887.37 from main pot
+*** SUMMARY ***
+BombPot
+Total pot $7887.37 | Rake $1.25
+Seat 3: SeaLlama (button) showed [7d Qc] and won $7887.37 with Flush [Kd Qd 7d 6d 3d]
+Seat 5: vesnapisarovic did not showed and lost
+
+
+Hand #1938588593 - Holdem(No Limit) - $100/$200 - 2023/11/20 23:09:40 UTC
+Woodland 6-max Seat #5 is the button
+Seat 1: PR0DIGY ($28331.64)
+Seat 3: SeaLlama ($41538.25)
+Seat 5: vesnapisarovic ($20000)
+PR0DIGY posts ante $1000
+SeaLlama posts ante $1000
+vesnapisarovic posts ante $1000
+*** HOLE CARDS *** 
+*** FLOP *** [4c 4d 5h]
+Main pot $2998.25 | Rake $1.75
+PR0DIGY checks
+SeaLlama checks
+vesnapisarovic checks
+*** TURN *** [4c 4d 5h] [2c]
+Main pot $2998.25 | Rake $1.75
+PR0DIGY bets $869.49
+SeaLlama calls $869.49
+vesnapisarovic raises $3073.72 to $3073.72
+PR0DIGY folds
+SeaLlama folds
+Uncalled bet ($2204.23) returned to vesnapisarovic
+vesnapisarovic does not show
+*** SUMMARY ***
+BombPot
+Total pot $5606.72 | Rake $1.75
+Seat 1: PR0DIGY folded on the Turn
+Seat 3: SeaLlama folded on the Turn
+Seat 5: vesnapisarovic (button) did not showed and won $5606.72
+
+
+Hand #1938604169 - Holdem(No Limit) - $100/$200 - 2023/11/20 23:22:18 UTC
+Woodland 6-max Seat #3 is the button
+Seat 1: PR0DIGY ($28454.36)
+Seat 3: SeaLlama ($38275.26)
+Seat 5: vesnapisarovic ($23122.02)
+PR0DIGY posts ante $1000
+SeaLlama posts ante $1000
+vesnapisarovic posts ante $1000
+*** HOLE CARDS *** 
+*** FLOP *** [6s Qh 7d]
+Main pot $2998.25 | Rake $1.75
+vesnapisarovic checks
+PR0DIGY checks
+SeaLlama bets $750
+vesnapisarovic calls $750
+PR0DIGY folds
+*** TURN *** [6s Qh 7d] [5c]
+Main pot $4498.25 | Rake $1.75
+vesnapisarovic checks
+SeaLlama checks
+*** RIVER *** [6s Qh 7d 5c] [Ac]
+Main pot $4498.25 | Rake $1.75
+vesnapisarovic bets $2875
+SeaLlama folds
+Uncalled bet ($2875) returned to vesnapisarovic
+vesnapisarovic does not show
+*** SUMMARY ***
+BombPot
+Total pot $4498.25 | Rake $1.75
+Seat 1: PR0DIGY folded on the Flop
+Seat 3: SeaLlama (button) folded on the River
+Seat 5: vesnapisarovic did not showed and won $4498.25
+
+
+Hand #1938620842 - Holdem(No Limit) - $100/$200 - 2023/11/20 23:36:11 UTC
+Woodland 6-max Seat #1 is the button
+Seat 1: PR0DIGY ($33382.12)
+Seat 2: OhHiMark18 ($17084.50)
+Seat 3: SeaLlama ($32583.14)
+Seat 5: vesnapisarovic ($27657.13)
+PR0DIGY posts ante $1000
+OhHiMark18 posts ante $1000
+SeaLlama posts ante $1000
+vesnapisarovic posts ante $1000
+*** HOLE CARDS *** 
+*** FLOP *** [5c 3s 4d]
+Main pot $3997.75 | Rake $2.25
+OhHiMark18 checks
+SeaLlama checks
+vesnapisarovic checks
+PR0DIGY bets $1159.34
+OhHiMark18 raises $4318.68 to $4318.68
+SeaLlama folds
+vesnapisarovic folds
+PR0DIGY folds
+Uncalled bet ($3159.34) returned to OhHiMark18
+OhHiMark18 does not show
+*** SUMMARY ***
+BombPot
+Total pot $6316.43 | Rake $2.25
+Seat 1: PR0DIGY (button) folded on the Flop
+Seat 2: OhHiMark18 did not showed and won $6316.43
+Seat 3: SeaLlama folded on the Flop
+Seat 5: vesnapisarovic folded on the Flop
+
+
+Hand #1938645771 - Holdem(No Limit) - $100/$200 - 2023/11/21 00:02:07 UTC
+Woodland 6-max Seat #6 is the button
+Seat 1: PR0DIGY ($24647.53)
+Seat 2: OhHiMark18 ($27443.84)
+Seat 3: SeaLlama ($37314.64)
+Seat 4: HornyOldMan ($20000)
+Seat 5: vesnapisarovic ($28768.75)
+Seat 6: Simulacra ($8000)
+PR0DIGY posts ante $1000
+OhHiMark18 posts ante $1000
+SeaLlama posts ante $1000
+vesnapisarovic posts ante $1000
+Simulacra posts ante $1000
+*** HOLE CARDS *** 
+*** FLOP *** [4h Qs Js]
+Main pot $4997 | Rake $3
+PR0DIGY bets $500
+OhHiMark18 calls $500
+SeaLlama raises $2124 to $2124
+vesnapisarovic folds
+Simulacra folds
+PR0DIGY folds
+OhHiMark18 raises $8935 to $9435
+SeaLlama folds
+Uncalled bet ($7311) returned to OhHiMark18
+OhHiMark18 does not show
+*** SUMMARY ***
+BombPot
+Total pot $9745 | Rake $3
+Seat 1: PR0DIGY folded on the Flop
+Seat 2: OhHiMark18 did not showed and won $9745
+Seat 3: SeaLlama folded on the Flop
+Seat 5: vesnapisarovic folded on the Flop
+Seat 6: Simulacra (button) folded on the Flop
+
+
+Hand #1938654716 - Holdem(No Limit) - $100/$200 - 2023/11/21 00:10:25 UTC
+Woodland 6-max Seat #1 is the button
+Seat 1: PR0DIGY ($23495.28)
+Seat 2: OhHiMark18 ($33137.59)
+Seat 3: SeaLlama ($38225.64)
+Seat 4: HornyOldMan ($20597.75)
+PR0DIGY posts ante $1000
+OhHiMark18 posts ante $1000
+SeaLlama posts ante $1000
+HornyOldMan posts ante $1000
+*** HOLE CARDS *** 
+*** FLOP *** [3s 9h 6h]
+Main pot $3997.75 | Rake $2.25
+OhHiMark18 checks
+SeaLlama bets $400
+HornyOldMan calls $400
+PR0DIGY raises $4298.31 to $4298.31
+OhHiMark18 folds
+SeaLlama folds
+HornyOldMan folds
+Uncalled bet ($3898.31) returned to PR0DIGY
+PR0DIGY does not show
+*** SUMMARY ***
+BombPot
+Total pot $5197.75 | Rake $2.25
+Seat 1: PR0DIGY (button) did not showed and won $5197.75
+Seat 2: OhHiMark18 folded on the Flop
+Seat 3: SeaLlama folded on the Flop
+Seat 4: HornyOldMan folded on the Flop
+
+
+Hand #1938672172 - Holdem(No Limit) - $100/$200 - 2023/11/21 00:25:04 UTC
+Woodland 6-max Seat #2 is the button
+Seat 1: PR0DIGY ($40233.46)
+Seat 2: OhHiMark18 ($23920.84)
+Seat 3: SeaLlama ($37751.52)
+PR0DIGY posts ante $1000
+OhHiMark18 posts ante $1000
+SeaLlama posts ante $1000
+*** HOLE CARDS *** 
+*** FLOP *** [5h 7h Kc]
+Main pot $2998.25 | Rake $1.75
+SeaLlama checks
+PR0DIGY bets $300
+OhHiMark18 folds
+SeaLlama folds
+Uncalled bet ($300) returned to PR0DIGY
+PR0DIGY does not show
+*** SUMMARY ***
+BombPot
+Total pot $2998.25 | Rake $1.75
+Seat 1: PR0DIGY did not showed and won $2998.25
+Seat 2: OhHiMark18 (button) folded on the Flop
+Seat 3: SeaLlama folded on the Flop
+
+
+Hand #1938687185 - Holdem(No Limit) - $100/$200 - 2023/11/21 00:39:02 UTC
+Woodland 6-max Seat #2 is the button
+Seat 1: PR0DIGY ($50720.56)
+Seat 2: OhHiMark18 ($17568.22)
+Seat 3: SeaLlama ($33604.79)
+Seat 4: 7SkyAroundMe ($20000)
+PR0DIGY posts ante $1000
+OhHiMark18 posts ante $1000
+SeaLlama posts ante $1000
+*** HOLE CARDS *** 
+*** FLOP *** [9h Qd Kh]
+Main pot $2998.25 | Rake $1.75
+SeaLlama checks
+PR0DIGY checks
+OhHiMark18 bets $990
+SeaLlama folds
+PR0DIGY folds
+Uncalled bet ($990) returned to OhHiMark18
+OhHiMark18 does not show
+*** SUMMARY ***
+BombPot
+Total pot $2998.25 | Rake $1.75
+Seat 1: PR0DIGY folded on the Flop
+Seat 2: OhHiMark18 (button) did not showed and won $2998.25
+Seat 3: SeaLlama folded on the Flop
+
+
+Hand #1938705059 - Holdem(No Limit) - $100/$200 - 2023/11/21 00:56:15 UTC
+Woodland 6-max Seat #1 is the button
+Seat 1: PR0DIGY ($57394.81)
+Seat 2: OhHiMark18 ($29405.47)
+Seat 3: SeaLlama ($22875.91)
+Seat 4: 7SkyAroundMe ($21096.38)
+Seat 5: Joral ($20000)
+PR0DIGY posts ante $1000
+OhHiMark18 posts ante $1000
+SeaLlama posts ante $1000
+7SkyAroundMe posts ante $1000
+*** HOLE CARDS *** 
+*** FLOP *** [2s Jd Ts]
+Main pot $3997.75 | Rake $2.25
+OhHiMark18 checks
+SeaLlama checks
+7SkyAroundMe checks
+PR0DIGY bets $400
+OhHiMark18 calls $400
+SeaLlama folds
+7SkyAroundMe folds
+*** TURN *** [2s Jd Ts] [8d]
+Main pot $4797.75 | Rake $2.25
+OhHiMark18 checks
+PR0DIGY bets $2398.87
+OhHiMark18 raises $11996.61 to $11996.61
+PR0DIGY raises $53595.94 to $55994.81 and is all-in
+OhHiMark18 calls $16008.86 and is all-in
+Uncalled bet ($27989.34) returned to PR0DIGY
+PR0DIGY does not show
+*** RUN IT TWICE ***
+*** RIVER 1 *** [2s Jd Ts 8d] [Ac]
+Main pot 1 $30404.34 | Rake $1.13
+*** SHOW DOWN 1 ***
+Main pot 1 $30404.34 | Rake $1.13
+OhHiMark18 shows [8h Js]
+PR0DIGY shows [9d Td]
+OhHiMark18 collected $30404.35 from main pot 1
+*** RIVER 2 *** [2s Jd Ts 8d] [6s]
+Main pot 2 $30404.35 | Rake $1.12
+*** SHOW DOWN 2 ***
+Main pot 2 $30404.35 | Rake $1.12
+PR0DIGY shows [9d Td]
+OhHiMark18 collected $30404.34 from main pot 2
+*** SUMMARY ***
+BombPot
+Total pot $60808.69 | Rake $2.25
+Board 1 [2s Jd Ts 8d Ac]
+Seat 1: PR0DIGY (button) showed [9d Td] and lost
+Seat 2: OhHiMark18 showed [8h Js] and won $30404.35 with TwoPair [Js Jd 8h 8d Ac]
+Seat 3: SeaLlama folded on the Flop
+Seat 4: 7SkyAroundMe folded on the Flop
+Board 2 [2s Jd Ts 8d 6s]
+Seat 1: PR0DIGY (button) showed [9d Td] and lost
+Seat 2: OhHiMark18 showed [8h Js] and won $30404.35 with TwoPair [Js Jd 8h 8d Ac]
+Seat 3: SeaLlama folded on the Flop
+Seat 4: 7SkyAroundMe folded on the Flop
+
+
+Hand #1938714823 - Holdem(No Limit) - $100/$200 - 2023/11/21 01:09:04 UTC
+Woodland 6-max Seat #1 is the button
+Seat 1: PR0DIGY ($27369.34)
+Seat 2: OhHiMark18 ($61404.19)
+Seat 3: SeaLlama ($20000)
+Seat 4: 7SkyAroundMe ($24996.38)
+PR0DIGY posts ante $1000
+OhHiMark18 posts ante $1000
+SeaLlama posts ante $1000
+7SkyAroundMe posts ante $1000
+*** HOLE CARDS *** 
+*** FLOP *** [3c 4d 9c]
+Main pot $3997.75 | Rake $2.25
+OhHiMark18 checks
+SeaLlama checks
+7SkyAroundMe checks
+PR0DIGY bets $400
+OhHiMark18 folds
+SeaLlama calls $400
+7SkyAroundMe folds
+*** TURN *** [3c 4d 9c] [4c]
+Main pot $4797.75 | Rake $2.25
+SeaLlama checks
+PR0DIGY bets $1391.34
+SeaLlama calls $1391.34
+*** RIVER *** [3c 4d 9c 4c] [4h]
+Main pot $7580.43 | Rake $2.25
+SeaLlama checks
+PR0DIGY bets $3790.21
+SeaLlama calls $3790.21
+*** SHOW DOWN ***
+Main pot $7580.43 | Rake $2.25
+PR0DIGY shows [Qd 9h]
+PR0DIGY collected $15160.85 from main pot
+*** SUMMARY ***
+BombPot
+Total pot $15160.85 | Rake $2.25
+Seat 1: PR0DIGY (button) showed [Qd 9h] and won $15160.85 with FullHouse [4h 4d 4c 9h 9c]
+Seat 2: OhHiMark18 folded on the Flop
+Seat 3: SeaLlama did not showed and lost
+Seat 4: 7SkyAroundMe folded on the Flop
+
+
+Hand #1938727685 - Holdem(No Limit) - $100/$200 - 2023/11/21 01:19:54 UTC
+Woodland 6-max Seat #1 is the button
+Seat 1: PR0DIGY ($34537.64)
+Seat 2: FabioEmanuel ($20000)
+Seat 3: SeaLlama ($26475.75)
+Seat 4: 7SkyAroundMe ($20000)
+PR0DIGY posts ante $1000
+SeaLlama posts ante $1000
+7SkyAroundMe posts ante $1000
+*** HOLE CARDS *** 
+*** FLOP *** [9h 4c Qd]
+Main pot $2998.25 | Rake $1.75
+SeaLlama checks
+7SkyAroundMe bets $300
+PR0DIGY raises $2099.12 to $2099.12
+SeaLlama folds
+7SkyAroundMe calls $1799.12
+*** TURN *** [9h 4c Qd] [7h]
+Main pot $7196.49 | Rake $1.75
+7SkyAroundMe checks
+PR0DIGY bets $4990
+7SkyAroundMe raises $16900.88 to $16900.88 and is all-in
+PR0DIGY calls $11910.88
+*** RUN IT TWICE ***
+*** RIVER 1 *** [9h 4c Qd 7h] [Js]
+Main pot 1 $20499.12 | Rake $0.88
+*** SHOW DOWN 1 ***
+Main pot 1 $20499.12 | Rake $0.88
+7SkyAroundMe shows [4d Qc]
+PR0DIGY shows [As Qh]
+7SkyAroundMe collected $20499.13 from main pot 1
+*** RIVER 2 *** [9h 4c Qd 7h] [2s]
+Main pot 2 $20499.13 | Rake $0.87
+*** SHOW DOWN 2 ***
+Main pot 2 $20499.13 | Rake $0.87
+PR0DIGY shows [As Qh]
+7SkyAroundMe collected $20499.12 from main pot 2
+*** SUMMARY ***
+BombPot
+Total pot $40998.25 | Rake $1.75
+Board 1 [9h 4c Qd 7h Js]
+Seat 1: PR0DIGY (button) showed [As Qh] and lost
+Seat 3: SeaLlama folded on the Flop
+Seat 4: 7SkyAroundMe showed [4d Qc] and won $20499.13 with TwoPair [Qd Qc 4d 4c Js]
+Board 2 [9h 4c Qd 7h 2s]
+Seat 1: PR0DIGY (button) showed [As Qh] and lost
+Seat 3: SeaLlama folded on the Flop
+Seat 4: 7SkyAroundMe showed [4d Qc] and won $20499.13 with TwoPair [Qd Qc 4d 4c Js]
+
+
+Hand #1938750756 - Holdem(No Limit) - $100/$200 - 2023/11/21 01:40:35 UTC
+Woodland 6-max Seat #1 is the button
+Seat 1: PR0DIGY ($20000)
+Seat 3: SeaLlama ($33510.05)
+Seat 4: 7SkyAroundMe ($35331.75)
+PR0DIGY posts ante $1000
+SeaLlama posts ante $1000
+7SkyAroundMe posts ante $1000
+*** HOLE CARDS *** 
+*** FLOP *** [6c Kh Ks]
+Main pot $2998.25 | Rake $1.75
+SeaLlama bets $300
+7SkyAroundMe calls $300
+PR0DIGY calls $300
+*** TURN *** [6c Kh Ks] [Ac]
+Main pot $3898.25 | Rake $1.75
+SeaLlama checks
+7SkyAroundMe checks
+PR0DIGY checks
+*** RIVER *** [6c Kh Ks Ac] [5h]
+Main pot $3898.25 | Rake $1.75
+SeaLlama bets $2925
+7SkyAroundMe folds
+PR0DIGY folds
+Uncalled bet ($2925) returned to SeaLlama
+SeaLlama does not show
+*** SUMMARY ***
+BombPot
+Total pot $3898.25 | Rake $1.75
+Seat 1: PR0DIGY (button) folded on the River
+Seat 3: SeaLlama did not showed and won $3898.25
+Seat 4: 7SkyAroundMe folded on the River
+
+
+Hand #1938765612 - Holdem(No Limit) - $100/$200 - 2023/11/21 01:52:44 UTC
+Woodland 6-max Seat #4 is the button
+Seat 1: PR0DIGY ($20000)
+Seat 3: SeaLlama ($63585.78)
+Seat 4: 7SkyAroundMe ($1845.65)
+SeaLlama posts ante $1000
+7SkyAroundMe posts ante $1000
+*** HOLE CARDS *** 
+*** FLOP *** [6s 7d Ac]
+Main pot $1998.75 | Rake $1.25
+SeaLlama bets $1000
+7SkyAroundMe calls $845.65 and is all-in
+Uncalled bet ($154.35) returned to SeaLlama
+SeaLlama does not show
+*** TURN *** [6s 7d Ac] [2h]
+Main pot $3690.05 | Rake $1.25
+*** RIVER *** [6s 7d Ac 2h] [9s]
+Main pot $3690.05 | Rake $1.25
+*** SHOW DOWN ***
+Main pot $3690.05 | Rake $1.25
+SeaLlama shows [Kh Jd]
+7SkyAroundMe shows [3h Jh]
+SeaLlama collected $3690.05 from main pot
+*** SUMMARY ***
+BombPot
+Total pot $3690.05 | Rake $1.25
+Seat 3: SeaLlama showed [Kh Jd] and won $3690.05 with HighCard [Ac Kh Jd 9s 7d]
+Seat 4: 7SkyAroundMe (button) showed [3h Jh] and lost
+
+
+Hand #1938812366 - Holdem(No Limit) - $100/$200 - 2023/11/21 02:35:25 UTC
+Woodland 6-max Seat #2 is the button
+Seat 2: alanwatts15 ($20000)
+Seat 5: 7SkyAroundMe ($8000)
+alanwatts15 posts ante $1000
+7SkyAroundMe posts ante $1000
+*** HOLE CARDS *** 
+*** FLOP *** [3c 9s 2h]
+Main pot $1998.75 | Rake $1.25
+7SkyAroundMe checks
+alanwatts15 bets $1000
+7SkyAroundMe raises $7000 to $7000 and is all-in
+alanwatts15 folds
+Uncalled bet ($6000) returned to 7SkyAroundMe
+7SkyAroundMe does not show
+*** SUMMARY ***
+BombPot
+Total pot $3998.75 | Rake $1.25
+Seat 2: alanwatts15 (button) folded on the Flop
+Seat 5: 7SkyAroundMe did not showed and won $3998.75
+
+
+Hand #1939111210 - Holdem(No Limit) - $100/$200 - 2023/11/21 09:11:32 UTC
+Woodland 6-max Seat #2 is the button
+Seat 1: HornyOldMan ($20000)
+Seat 2: 7SkyAroundMe ($7560)
+Seat 3: SigadiSogadi ($20000)
+Seat 5: vesnapisarovic ($20438.75)
+Seat 6: lukabrate ($20000)
+HornyOldMan posts ante $1000
+7SkyAroundMe posts ante $1000
+SigadiSogadi posts ante $1000
+vesnapisarovic posts ante $1000
+*** HOLE CARDS *** 
+*** FLOP *** [3h Ks 2d]
+Main pot $3997.75 | Rake $2.25
+SigadiSogadi checks
+vesnapisarovic checks
+HornyOldMan checks
+7SkyAroundMe bets $6560 and is all-in
+SigadiSogadi folds
+vesnapisarovic folds
+HornyOldMan calls $6560
+*** RUN IT TWICE ***
+*** TURN 1 *** [3h Ks 2d] [Ts]
+Main pot 1 $8558.87 | Rake $1.13
+*** RIVER 1 *** [3h Ks 2d Ts] [3c]
+Main pot 1 $8558.87 | Rake $1.13
+*** SHOW DOWN 1 ***
+Main pot 1 $8558.87 | Rake $1.13
+HornyOldMan shows [6h 2h]
+7SkyAroundMe shows [4c Ad]
+HornyOldMan collected $8558.88 from main pot 1
+*** TURN 2 *** [3h Ks 2d] [Ac]
+Main pot 2 $8558.88 | Rake $1.12
+*** RIVER 2 *** [3h Ks 2d Ac] [4d]
+Main pot 2 $8558.88 | Rake $1.12
+*** SHOW DOWN 2 ***
+Main pot 2 $8558.88 | Rake $1.12
+HornyOldMan shows [6h 2h]
+7SkyAroundMe collected $8558.87 from main pot 2
+*** SUMMARY ***
+BombPot
+Total pot $17117.75 | Rake $2.25
+Board 1 [3h Ks 2d Ts 3c]
+Seat 1: HornyOldMan showed [6h 2h] and won $8558.88 with TwoPair [3h 3c 2h 2d Ks]
+Seat 2: 7SkyAroundMe (button) showed [4c Ad] and lost
+Seat 3: SigadiSogadi folded on the Flop
+Seat 5: vesnapisarovic folded on the Flop
+Board 2 [3h Ks 2d Ac 4d]
+Seat 1: HornyOldMan showed [6h 2h] and lost
+Seat 2: 7SkyAroundMe (button) showed [4c Ad] and won $0 with TwoPair [3h 3c 2h 2d Ks]
+Seat 3: SigadiSogadi folded on the Flop
+Seat 5: vesnapisarovic folded on the Flop
+
+
+Hand #1939118436 - Holdem(No Limit) - $100/$200 - 2023/11/21 09:29:47 UTC
+Woodland 6-max Seat #5 is the button
+Seat 2: borntotilt ($20000)
+Seat 5: vesnapisarovic ($20000)
+borntotilt posts ante $1000
+vesnapisarovic posts ante $1000
+*** HOLE CARDS *** 
+*** FLOP *** [Kh 9d 3s]
+Main pot $1998.75 | Rake $1.25
+borntotilt checks
+vesnapisarovic checks
+*** TURN *** [Kh 9d 3s] [5c]
+Main pot $1998.75 | Rake $1.25
+borntotilt checks
+vesnapisarovic checks
+*** RIVER *** [Kh 9d 3s 5c] [Th]
+Main pot $1998.75 | Rake $1.25
+borntotilt bets $620
+vesnapisarovic calls $620
+*** SHOW DOWN ***
+Main pot $1998.75 | Rake $1.25
+borntotilt shows [8d 8h]
+borntotilt collected $3238.75 from main pot
+*** SUMMARY ***
+BombPot
+Total pot $3238.75 | Rake $1.25
+Seat 2: borntotilt showed [8d 8h] and won $3238.75 with OnePair [8h 8d Kh Th 9d]
+Seat 5: vesnapisarovic (button) did not showed and lost
+
+
+Hand #1939173333 - Holdem(No Limit) - $100/$200 - 2023/11/21 12:26:04 UTC
+Woodland 6-max Seat #2 is the button
+Seat 2: borntotilt ($20779.77)
+Seat 4: TIKITAKA11 ($30811.23)
+borntotilt posts ante $1000
+TIKITAKA11 posts ante $1000
+*** HOLE CARDS *** 
+*** FLOP *** [Qd Kh 6c]
+Main pot $1998.75 | Rake $1.25
+TIKITAKA11 checks
+borntotilt checks
+*** TURN *** [Qd Kh 6c] [4h]
+Main pot $1998.75 | Rake $1.25
+TIKITAKA11 bets $1500
+borntotilt folds
+Uncalled bet ($1500) returned to TIKITAKA11
+TIKITAKA11 does not show
+*** SUMMARY ***
+BombPot
+Total pot $1998.75 | Rake $1.25
+Seat 2: borntotilt (button) folded on the Turn
+Seat 4: TIKITAKA11 did not showed and won $1998.75
+
+
+Hand #1939179762 - Holdem(No Limit) - $100/$200 - 2023/11/21 12:45:14 UTC
+Woodland 6-max Seat #4 is the button
+Seat 2: borntotilt ($41985.50)
+Seat 4: TIKITAKA11 ($28380.48)
+Seat 6: vesnapisarovic ($30194.75)
+borntotilt posts ante $1000
+TIKITAKA11 posts ante $1000
+vesnapisarovic posts ante $1000
+*** HOLE CARDS *** 
+*** FLOP *** [Qd 5d Jc]
+Main pot $2998.25 | Rake $1.75
+vesnapisarovic checks
+borntotilt checks
+TIKITAKA11 bets $400
+vesnapisarovic calls $400
+borntotilt folds
+*** TURN *** [Qd 5d Jc] [2c]
+Main pot $3798.25 | Rake $1.75
+vesnapisarovic checks
+TIKITAKA11 checks
+*** RIVER *** [Qd 5d Jc 2c] [3c]
+Main pot $3798.25 | Rake $1.75
+vesnapisarovic bets $1002
+TIKITAKA11 raises $11708 to $11708
+vesnapisarovic folds
+Uncalled bet ($10706) returned to TIKITAKA11
+TIKITAKA11 does not show
+*** SUMMARY ***
+BombPot
+Total pot $5802.25 | Rake $1.75
+Seat 2: borntotilt folded on the Flop
+Seat 4: TIKITAKA11 (button) did not showed and won $5802.25
+Seat 6: vesnapisarovic folded on the River
+
+
+Hand #1939184287 - Holdem(No Limit) - $100/$200 - 2023/11/21 12:57:49 UTC
+Woodland 6-max Seat #6 is the button
+Seat 2: borntotilt ($37125.50)
+Seat 4: TIKITAKA11 ($32198.73)
+Seat 6: vesnapisarovic ($31219)
+borntotilt posts ante $1000
+TIKITAKA11 posts ante $1000
+vesnapisarovic posts ante $1000
+*** HOLE CARDS *** 
+*** FLOP *** [8h Ac Tc]
+Main pot $2998.25 | Rake $1.75
+borntotilt checks
+TIKITAKA11 checks
+vesnapisarovic bets $870
+borntotilt raises $3240 to $3240
+TIKITAKA11 folds
+vesnapisarovic folds
+Uncalled bet ($2370) returned to borntotilt
+borntotilt does not show
+*** SUMMARY ***
+BombPot
+Total pot $4738.25 | Rake $1.75
+Seat 2: borntotilt did not showed and won $4738.25
+Seat 4: TIKITAKA11 folded on the Flop
+Seat 6: vesnapisarovic (button) folded on the Flop
+
+
+Hand #1939259324 - Holdem(No Limit) - $100/$200 - 2023/11/21 15:33:13 UTC
+Woodland 6-max Seat #2 is the button
+Seat 2: vesnapisarovic ($20000)
+Seat 5: borntotilt ($20000)
+vesnapisarovic posts ante $1000
+borntotilt posts ante $1000
+*** HOLE CARDS *** 
+*** FLOP *** [5s Ad Jc]
+Main pot $1998.75 | Rake $1.25
+borntotilt checks
+vesnapisarovic bets $580
+borntotilt calls $580
+*** TURN *** [5s Ad Jc] [8h]
+Main pot $3158.75 | Rake $1.25
+borntotilt checks
+vesnapisarovic checks
+*** RIVER *** [5s Ad Jc 8h] [Ks]
+Main pot $3158.75 | Rake $1.25
+borntotilt checks
+vesnapisarovic bets $2370
+borntotilt folds
+Uncalled bet ($2370) returned to vesnapisarovic
+vesnapisarovic does not show
+*** SUMMARY ***
+BombPot
+Total pot $3158.75 | Rake $1.25
+Seat 2: vesnapisarovic (button) did not showed and won $3158.75
+Seat 5: borntotilt folded on the River
+
+
+Hand #1939482943 - Holdem(No Limit) - $100/$200 - 2023/11/21 19:24:01 UTC
+Woodland 6-max Seat #3 is the button
+Seat 1: KeepReloading ($20000)
+Seat 2: iWasOnly17 ($38473.05)
+Seat 3: Stefan11222 ($14997.75)
+Seat 4: vesnapisarovic ($20597.75)
+Seat 5: borntotilt ($45533.08)
+Seat 6: ib3tyoug4y ($20000)
+iWasOnly17 posts ante $1000
+Stefan11222 posts ante $1000
+vesnapisarovic posts ante $1000
+borntotilt posts ante $1000
+*** HOLE CARDS *** 
+*** FLOP *** [9s Jd 2d]
+Main pot $3997.75 | Rake $2.25
+vesnapisarovic checks
+borntotilt checks
+iWasOnly17 checks
+Stefan11222 checks
+*** TURN *** [9s Jd 2d] [2h]
+Main pot $3997.75 | Rake $2.25
+vesnapisarovic checks
+borntotilt checks
+iWasOnly17 checks
+Stefan11222 checks
+*** RIVER *** [9s Jd 2d 2h] [5s]
+Main pot $3997.75 | Rake $2.25
+vesnapisarovic checks
+borntotilt checks
+iWasOnly17 checks
+Stefan11222 checks
+*** SHOW DOWN ***
+Main pot $3997.75 | Rake $2.25
+iWasOnly17 shows [Ac 4c]
+iWasOnly17 collected $3997.75 from main pot
+*** SUMMARY ***
+BombPot
+Total pot $3997.75 | Rake $2.25
+Seat 2: iWasOnly17 showed [Ac 4c] and won $3997.75 with OnePair [2h 2d Ac Jd 9s]
+Seat 3: Stefan11222 (button) did not showed and lost
+Seat 4: vesnapisarovic did not showed and lost
+Seat 5: borntotilt did not showed and lost
+
+
+Hand #1939501489 - Holdem(No Limit) - $100/$200 - 2023/11/21 19:38:29 UTC
+Woodland 6-max Seat #5 is the button
+Seat 2: iWasOnly17 ($42473.15)
+Seat 4: vesnapisarovic ($23987.25)
+Seat 5: borntotilt ($39527.73)
+iWasOnly17 posts ante $1000
+vesnapisarovic posts ante $1000
+borntotilt posts ante $1000
+*** HOLE CARDS *** 
+*** FLOP *** [7d 9s Ac]
+Main pot $2998.25 | Rake $1.75
+iWasOnly17 bets $900
+vesnapisarovic folds
+borntotilt folds
+Uncalled bet ($900) returned to iWasOnly17
+iWasOnly17 does not show
+*** SUMMARY ***
+BombPot
+Total pot $2998.25 | Rake $1.75
+Seat 2: iWasOnly17 did not showed and won $2998.25
+Seat 4: vesnapisarovic folded on the Flop
+Seat 5: borntotilt (button) folded on the Flop
+
+
+Hand #1939522752 - Holdem(No Limit) - $100/$200 - 2023/11/21 19:57:30 UTC
+Woodland 6-max Seat #5 is the button
+Seat 2: iWasOnly17 ($82581.33)
+Seat 4: vesnapisarovic ($26886.30)
+Seat 5: borntotilt ($20000)
+iWasOnly17 posts ante $1000
+vesnapisarovic posts ante $1000
+borntotilt posts ante $1000
+*** HOLE CARDS *** 
+*** FLOP *** [Qh 2h Td]
+Main pot $2998.25 | Rake $1.75
+iWasOnly17 bets $900
+vesnapisarovic folds
+borntotilt calls $900
+*** TURN *** [Qh 2h Td] [8s]
+Main pot $4798.25 | Rake $1.75
+iWasOnly17 checks
+borntotilt checks
+*** RIVER *** [Qh 2h Td 8s] [As]
+Main pot $4798.25 | Rake $1.75
+iWasOnly17 checks
+borntotilt checks
+*** SHOW DOWN ***
+Main pot $4798.25 | Rake $1.75
+iWasOnly17 shows [Tc 6s]
+iWasOnly17 collected $4798.25 from main pot
+*** SUMMARY ***
+BombPot
+Total pot $4798.25 | Rake $1.75
+Seat 2: iWasOnly17 showed [Tc 6s] and won $4798.25 with OnePair [Td Tc As Qh 8s]
+Seat 4: vesnapisarovic folded on the Flop
+Seat 5: borntotilt (button) did not showed and lost
+
+
+Hand #1939530660 - Holdem(No Limit) - $100/$200 - 2023/11/21 20:07:42 UTC
+Woodland 6-max Seat #5 is the button
+Seat 2: iWasOnly17 ($63359.58)
+Seat 4: vesnapisarovic ($36342.80)
+Seat 5: borntotilt ($31856.50)
+iWasOnly17 posts ante $1000
+vesnapisarovic posts ante $1000
+borntotilt posts ante $1000
+*** HOLE CARDS *** 
+*** FLOP *** [8h 7d 3h]
+Main pot $2998.25 | Rake $1.75
+iWasOnly17 checks
+vesnapisarovic checks
+borntotilt bets $930
+iWasOnly17 folds
+vesnapisarovic raises $3060 to $3060
+borntotilt raises $4957.20 to $5887.20
+vesnapisarovic calls $2827.20
+*** TURN *** [8h 7d 3h] [4d]
+Main pot $14772.65 | Rake $1.75
+vesnapisarovic checks
+borntotilt checks
+*** RIVER *** [8h 7d 3h 4d] [5h]
+Main pot $14772.65 | Rake $1.75
+vesnapisarovic bets $29455.60 and is all-in
+borntotilt folds
+Uncalled bet ($29455.60) returned to vesnapisarovic
+vesnapisarovic does not show
+*** SUMMARY ***
+BombPot
+Total pot $14772.65 | Rake $1.75
+Seat 2: iWasOnly17 folded on the Flop
+Seat 4: vesnapisarovic did not showed and won $14772.65
+Seat 5: borntotilt (button) folded on the River
+
+
+Hand #1939567171 - Holdem(No Limit) - $100/$200 - 2023/11/21 20:33:08 UTC
+Woodland 6-max Seat #5 is the button
+Seat 2: HuntersNR1 ($20000)
+Seat 5: vesnapisarovic ($45976.50)
+HuntersNR1 posts ante $1000
+vesnapisarovic posts ante $1000
+*** HOLE CARDS *** 
+*** FLOP *** [2h 5d 9c]
+Main pot $1998.75 | Rake $1.25
+HuntersNR1 checks
+vesnapisarovic bets $1500
+HuntersNR1 folds
+Uncalled bet ($1500) returned to vesnapisarovic
+vesnapisarovic does not show
+*** SUMMARY ***
+BombPot
+Total pot $1998.75 | Rake $1.25
+Seat 2: HuntersNR1 folded on the Flop
+Seat 5: vesnapisarovic (button) did not showed and won $1998.75
+

@@ -1,0 +1,2704 @@
+PokerStars Hand #1482560117:  Hold'em No Limit ($75.00/$150.00 USD) - 2022/12/12 19:20:58 ET
+Table 'WPN_7 Day No Rathole 75/150 NLH' 9-max Seat #2 is the button
+Seat 2: Sabazius ($7410.88 in chips)
+Seat 7: DoublelegTD ($3222.00 in chips)
+Sabazius: posts small blind $75.00
+DoublelegTD: posts big blind $150.00
+*** HOLE CARDS ***
+Sabazius: calls $75.00
+DoublelegTD: checks
+*** FLOP *** [4s Kd 4c]
+DoublelegTD: checks
+Sabazius: checks
+*** TURN *** [4s Kd 4c] [3d]
+DoublelegTD: checks
+Sabazius: checks
+*** RIVER *** [4s Kd 4c 3d] [Qd]
+DoublelegTD: checks
+Sabazius: checks
+*** SHOW DOWN ***
+Sabazius: shows [6s Ah]
+DoublelegTD: mucks hand
+Sabazius collected $298.75 from pot
+*** SUMMARY ***
+Total pot $300.00 | Rake $1.25
+Board [4s Kd 4c 3d Qd]
+Seat 2: Sabazius (button) (small blind) showed [6s Ah] and won ($298.75)
+Seat 7: DoublelegTD (big blind) mucked
+
+PokerStars Hand #1482561085:  Hold'em No Limit ($75.00/$150.00 USD) - 2022/12/12 19:21:48 ET
+Table 'WPN_7 Day No Rathole 75/150 NLH' 9-max Seat #7 is the button
+Seat 2: Sabazius ($7559.63 in chips)
+Seat 3: Gizineni ($2058.00 in chips)
+Seat 7: DoublelegTD ($3072.00 in chips)
+DoublelegTD: posts small blind $75.00
+Sabazius: posts big blind $150.00
+*** HOLE CARDS ***
+DoublelegTD: raises $150.00 to $300.00
+Sabazius: raises $7259.63 to $7559.63 and is all-in
+DoublelegTD: calls $2772.00 and is all-in
+Uncalled bet ($4487.63) returned to Sabazius
+*** FIRST FLOP *** [2c 8h 7h]
+*** FIRST TURN *** [2c 8h 7h] [9s]
+*** FIRST RIVER *** [2c 8h 7h 9s] [Ac]
+*** SECOND FLOP *** [Ks 5c Jh]
+*** SECOND TURN *** [Ks 5c Jh] [Th]
+*** SECOND RIVER *** [Ks 5c Jh Th] [4d]
+*** FIRST SHOW DOWN ***
+Sabazius: shows [Ah Ts]
+DoublelegTD: shows [9c 9d]
+DoublelegTD collected $3071.38 from pot
+*** SECOND SHOW DOWN ***
+Sabazius: shows [Ah Ts]
+DoublelegTD: shows [9c 9d]
+Sabazius collected $3071.37 from pot
+*** SUMMARY ***
+Total pot $6144.00 | Rake $1.25
+Hand was run twice
+FIRST Board [2c 8h 7h 9s Ac]
+SECOND Board [Ks 5c Jh Th 4d]
+Seat 2: Sabazius (big blind) showed [Ah Ts] and lost, and won ($3071.37)
+Seat 3: Gizineni and lost, and lost
+Seat 7: DoublelegTD (button) (small blind) showed [9c 9d] and won ($3071.38), and lost
+
+PokerStars Hand #1482561745:  Hold'em No Limit ($75.00/$150.00 USD) - 2022/12/12 19:22:21 ET
+Table 'WPN_7 Day No Rathole 75/150 NLH' 9-max Seat #7 is the button
+Seat 2: Sabazius ($7559.00 in chips)
+Seat 3: Gizineni ($2058.00 in chips)
+Seat 7: DoublelegTD ($3071.38 in chips)
+Seat 8: jrSuited18 ($1875.00 in chips)
+Sabazius: posts small blind $75.00
+Gizineni: posts big blind $150.00
+*** HOLE CARDS ***
+DoublelegTD: folds
+Sabazius: raises $7409.00 to $7559.00 and is all-in
+Gizineni: folds
+Uncalled bet ($7409.00) returned to Sabazius
+Sabazius collected $300.00 from pot
+Sabazius: doesn't show hand
+*** SUMMARY ***
+Total pot $300.00 | Rake $0.00
+Seat 2: Sabazius (small blind) collected ($300.00)
+Seat 3: Gizineni (big blind) folded before Flop
+Seat 7: DoublelegTD (button) folded before Flop (didn't bet)
+
+PokerStars Hand #1482562135:  Hold'em No Limit ($75.00/$150.00 USD) - 2022/12/12 19:22:40 ET
+Table 'WPN_7 Day No Rathole 75/150 NLH' 9-max Seat #2 is the button
+Seat 2: Sabazius ($7709.00 in chips)
+Seat 3: Gizineni ($1908.00 in chips)
+Seat 5: b00ma ($9765.00 in chips)
+Seat 7: DoublelegTD ($3071.38 in chips)
+Seat 8: jrSuited18 ($1875.00 in chips)
+Gizineni: posts small blind $75.00
+b00ma: posts big blind $150.00
+*** HOLE CARDS ***
+DoublelegTD: raises $150.00 to $300.00
+Sabazius: folds
+Gizineni: folds
+b00ma: calls $150.00
+*** FLOP *** [9d 5d 7s]
+b00ma: checks
+DoublelegTD: checks
+*** TURN *** [9d 5d 7s] [Ac]
+b00ma: checks
+DoublelegTD: bets $506.25
+b00ma: folds
+Uncalled bet ($506.25) returned to DoublelegTD
+DoublelegTD collected $672.75 from pot
+DoublelegTD: doesn't show hand
+*** SUMMARY ***
+Total pot $675.00 | Rake $2.25
+Board [9d 5d 7s Ac]
+Seat 2: Sabazius (button) folded before Flop (didn't bet)
+Seat 3: Gizineni (small blind) folded before Flop
+Seat 5: b00ma (big blind) folded on the Turn
+Seat 7: DoublelegTD collected ($672.75)
+
+PokerStars Hand #1482563397:  Hold'em No Limit ($75.00/$150.00 USD) - 2022/12/12 19:23:45 ET
+Table 'WPN_7 Day No Rathole 75/150 NLH' 9-max Seat #3 is the button
+Seat 2: Sabazius ($7709.00 in chips)
+Seat 3: Gizineni ($1833.00 in chips)
+Seat 5: b00ma ($9465.00 in chips)
+Seat 7: DoublelegTD ($3444.13 in chips)
+Seat 8: jrSuited18 ($1875.00 in chips)
+b00ma: posts small blind $75.00
+jrSuited18: posts big blind $150.00
+*** HOLE CARDS ***
+Sabazius: folds
+Gizineni: folds
+b00ma: raises $9315.00 to $9465.00 and is all-in
+jrSuited18: folds
+Uncalled bet ($9315.00) returned to b00ma
+b00ma collected $300.00 from pot
+b00ma: doesn't show hand
+*** SUMMARY ***
+Total pot $300.00 | Rake $0.00
+Seat 2: Sabazius folded before Flop (didn't bet)
+Seat 3: Gizineni (button) folded before Flop (didn't bet)
+Seat 5: b00ma (small blind) collected ($300.00)
+Seat 8: jrSuited18 (big blind) folded before Flop
+
+PokerStars Hand #1482171018:  Hold'em No Limit ($75.00/$150.00 USD) - 2022/12/12 07:41:14 ET
+Table 'WPN_7 Day No Rathole 75/150 NLH' 9-max Seat #1 is the button
+Seat 1: AuMind ($1500.00 in chips)
+Seat 2: SigadiSogadi ($2998.75 in chips)
+AuMind: posts small blind $75.00
+SigadiSogadi: posts big blind $150.00
+*** HOLE CARDS ***
+AuMind: raises $1350.00 to $1500.00 and is all-in
+SigadiSogadi: folds
+Uncalled bet ($1350.00) returned to AuMind
+AuMind collected $300.00 from pot
+AuMind: doesn't show hand
+*** SUMMARY ***
+Total pot $300.00 | Rake $0.00
+Seat 1: AuMind (button) (small blind) collected ($300.00)
+Seat 2: SigadiSogadi (big blind) folded before Flop
+
+PokerStars Hand #1482171113:  Hold'em No Limit ($75.00/$150.00 USD) - 2022/12/12 07:41:25 ET
+Table 'WPN_7 Day No Rathole 75/150 NLH' 9-max Seat #2 is the button
+Seat 1: AuMind ($1650.00 in chips)
+Seat 2: SigadiSogadi ($2848.75 in chips)
+SigadiSogadi: posts small blind $75.00
+AuMind: posts big blind $150.00
+*** HOLE CARDS ***
+SigadiSogadi: folds
+Uncalled bet ($75.00) returned to AuMind
+AuMind collected $150.00 from pot
+AuMind: doesn't show hand
+*** SUMMARY ***
+Total pot $150.00 | Rake $0.00
+Seat 1: AuMind (big blind) collected ($150.00)
+Seat 2: SigadiSogadi (button) (small blind) folded before Flop
+
+PokerStars Hand #1482171186:  Hold'em No Limit ($75.00/$150.00 USD) - 2022/12/12 07:41:34 ET
+Table 'WPN_7 Day No Rathole 75/150 NLH' 9-max Seat #1 is the button
+Seat 1: AuMind ($1725.00 in chips)
+Seat 2: SigadiSogadi ($2773.75 in chips)
+AuMind: posts small blind $75.00
+SigadiSogadi: posts big blind $150.00
+*** HOLE CARDS ***
+AuMind: folds
+Uncalled bet ($75.00) returned to SigadiSogadi
+SigadiSogadi collected $150.00 from pot
+SigadiSogadi: doesn't show hand
+*** SUMMARY ***
+Total pot $150.00 | Rake $0.00
+Seat 1: AuMind (button) (small blind) folded before Flop
+Seat 2: SigadiSogadi (big blind) collected ($150.00)
+
+PokerStars Hand #1482171294:  Hold'em No Limit ($75.00/$150.00 USD) - 2022/12/12 07:41:45 ET
+Table 'WPN_7 Day No Rathole 75/150 NLH' 9-max Seat #2 is the button
+Seat 1: AuMind ($1650.00 in chips)
+Seat 2: SigadiSogadi ($2848.75 in chips)
+SigadiSogadi: posts small blind $75.00
+AuMind: posts big blind $150.00
+*** HOLE CARDS ***
+SigadiSogadi: raises $1704.39 to $1854.39
+AuMind: folds
+Uncalled bet ($1704.39) returned to SigadiSogadi
+SigadiSogadi collected $300.00 from pot
+SigadiSogadi: doesn't show hand
+*** SUMMARY ***
+Total pot $300.00 | Rake $0.00
+Seat 1: AuMind (big blind) folded before Flop
+Seat 2: SigadiSogadi (button) (small blind) collected ($300.00)
+
+PokerStars Hand #1482171452:  Hold'em No Limit ($75.00/$150.00 USD) - 2022/12/12 07:42:03 ET
+Table 'WPN_7 Day No Rathole 75/150 NLH' 9-max Seat #1 is the button
+Seat 1: AuMind ($1500.00 in chips)
+Seat 2: SigadiSogadi ($2998.75 in chips)
+AuMind: posts small blind $75.00
+SigadiSogadi: posts big blind $150.00
+*** HOLE CARDS ***
+AuMind: folds
+Uncalled bet ($75.00) returned to SigadiSogadi
+SigadiSogadi collected $150.00 from pot
+SigadiSogadi: doesn't show hand
+*** SUMMARY ***
+Total pot $150.00 | Rake $0.00
+Seat 1: AuMind (button) (small blind) folded before Flop
+Seat 2: SigadiSogadi (big blind) collected ($150.00)
+
+PokerStars Hand #1482171540:  Hold'em No Limit ($75.00/$150.00 USD) - 2022/12/12 07:42:12 ET
+Table 'WPN_7 Day No Rathole 75/150 NLH' 9-max Seat #2 is the button
+Seat 1: AuMind ($1425.00 in chips)
+Seat 2: SigadiSogadi ($3073.75 in chips)
+SigadiSogadi: posts small blind $75.00
+AuMind: posts big blind $150.00
+*** HOLE CARDS ***
+SigadiSogadi: raises $2025.00 to $2175.00
+AuMind: calls $1275.00 and is all-in
+Uncalled bet ($750.00) returned to SigadiSogadi
+*** FLOP *** [9s 4h 6c]
+*** TURN *** [9s 4h 6c] [4s]
+*** RIVER *** [9s 4h 6c 4s] [5h]
+*** SHOW DOWN ***
+AuMind: shows [Jc As]
+SigadiSogadi: shows [Kh Ts]
+AuMind collected $2848.75 from pot
+*** SUMMARY ***
+Total pot $2850.00 | Rake $1.25
+Board [9s 4h 6c 4s 5h]
+Seat 1: AuMind (big blind) showed [Jc As] and won ($2848.75)
+Seat 2: SigadiSogadi (button) (small blind) showed [Kh Ts] and lost
+
+PokerStars Hand #1482171751:  Hold'em No Limit ($75.00/$150.00 USD) - 2022/12/12 07:42:35 ET
+Table 'WPN_7 Day No Rathole 75/150 NLH' 9-max Seat #1 is the button
+Seat 1: AuMind ($2848.75 in chips)
+Seat 2: SigadiSogadi ($1648.75 in chips)
+AuMind: posts small blind $75.00
+SigadiSogadi: posts big blind $150.00
+*** HOLE CARDS ***
+AuMind: raises $2698.75 to $2848.75 and is all-in
+SigadiSogadi: folds
+Uncalled bet ($2698.75) returned to AuMind
+AuMind collected $300.00 from pot
+AuMind: doesn't show hand
+*** SUMMARY ***
+Total pot $300.00 | Rake $0.00
+Seat 1: AuMind (button) (small blind) collected ($300.00)
+Seat 2: SigadiSogadi (big blind) folded before Flop
+
+PokerStars Hand #1482171870:  Hold'em No Limit ($75.00/$150.00 USD) - 2022/12/12 07:42:48 ET
+Table 'WPN_7 Day No Rathole 75/150 NLH' 9-max Seat #2 is the button
+Seat 1: AuMind ($2998.75 in chips)
+Seat 2: SigadiSogadi ($1498.75 in chips)
+SigadiSogadi: posts small blind $75.00
+AuMind: posts big blind $150.00
+*** HOLE CARDS ***
+SigadiSogadi: raises $1350.00 to $1500.00 and is all-in
+AuMind: calls $1350.00
+*** FIRST FLOP *** [Jc 8c As]
+*** FIRST TURN *** [Jc 8c As] [8d]
+*** FIRST RIVER *** [Jc 8c As 8d] [Ts]
+*** SECOND FLOP *** [7s Ac 3c]
+*** SECOND TURN *** [7s Ac 3c] [Ah]
+*** SECOND RIVER *** [7s Ac 3c Ah] [Qh]
+*** FIRST SHOW DOWN ***
+AuMind: shows [Qs 9c]
+SigadiSogadi: shows [6s 5c]
+AuMind collected $1499.38 from pot
+*** SECOND SHOW DOWN ***
+AuMind: shows [Qs 9c]
+SigadiSogadi: shows [6s 5c]
+AuMind collected $1499.37 from pot
+*** SUMMARY ***
+Total pot $3000.00 | Rake $1.25
+Hand was run twice
+FIRST Board [Jc 8c As 8d Ts]
+SECOND Board [7s Ac 3c Ah Qh]
+Seat 1: AuMind (big blind) showed [Qs 9c] and won ($1499.38), and won ($1499.37)
+Seat 2: SigadiSogadi (button) (small blind) showed [6s 5c] and lost, and lost
+
+PokerStars Hand #1482172169:  Hold'em No Limit ($75.00/$150.00 USD) - 2022/12/12 07:43:23 ET
+Table 'WPN_7 Day No Rathole 75/150 NLH' 9-max Seat #1 is the button
+Seat 1: AuMind ($4497.50 in chips)
+Seat 2: SigadiSogadi ($1500.00 in chips)
+AuMind: posts small blind $75.00
+SigadiSogadi: posts big blind $150.00
+*** HOLE CARDS ***
+AuMind: raises $4347.50 to $4497.50 and is all-in
+SigadiSogadi: folds
+Uncalled bet ($4347.50) returned to AuMind
+AuMind collected $300.00 from pot
+AuMind: doesn't show hand
+*** SUMMARY ***
+Total pot $300.00 | Rake $0.00
+Seat 1: AuMind (button) (small blind) collected ($300.00)
+Seat 2: SigadiSogadi (big blind) folded before Flop
+
+PokerStars Hand #1482172337:  Hold'em No Limit ($75.00/$150.00 USD) - 2022/12/12 07:43:42 ET
+Table 'WPN_7 Day No Rathole 75/150 NLH' 9-max Seat #2 is the button
+Seat 1: AuMind ($4647.50 in chips)
+Seat 2: SigadiSogadi ($1350.00 in chips)
+SigadiSogadi: posts small blind $75.00
+AuMind: posts big blind $150.00
+*** HOLE CARDS ***
+SigadiSogadi: raises $1350.00 to $1500.00 and is all-in
+AuMind: folds
+Uncalled bet ($1350.00) returned to SigadiSogadi
+SigadiSogadi collected $300.00 from pot
+SigadiSogadi: doesn't show hand
+*** SUMMARY ***
+Total pot $300.00 | Rake $0.00
+Seat 1: AuMind (big blind) folded before Flop
+Seat 2: SigadiSogadi (button) (small blind) collected ($300.00)
+
+PokerStars Hand #1482172460:  Hold'em No Limit ($75.00/$150.00 USD) - 2022/12/12 07:43:56 ET
+Table 'WPN_7 Day No Rathole 75/150 NLH' 9-max Seat #1 is the button
+Seat 1: AuMind ($4497.50 in chips)
+Seat 2: SigadiSogadi ($1650.00 in chips)
+AuMind: posts small blind $75.00
+SigadiSogadi: posts big blind $150.00
+*** HOLE CARDS ***
+AuMind: calls $75.00
+SigadiSogadi: checks
+*** FLOP *** [2s 3c Th]
+SigadiSogadi: checks
+AuMind: bets $150.00
+SigadiSogadi: calls $150.00
+*** TURN *** [2s 3c Th] [Qc]
+SigadiSogadi: checks
+AuMind: bets $300.00
+SigadiSogadi: calls $300.00
+*** RIVER *** [2s 3c Th Qc] [Jh]
+SigadiSogadi: bets $300.00
+AuMind: raises $1800.00 to $2100.00
+SigadiSogadi: folds
+Uncalled bet ($1800.00) returned to AuMind
+AuMind collected $1798.75 from pot
+AuMind: doesn't show hand
+*** SUMMARY ***
+Total pot $1800.00 | Rake $1.25
+Board [2s 3c Th Qc Jh]
+Seat 1: AuMind (button) (small blind) collected ($1798.75)
+Seat 2: SigadiSogadi (big blind) folded on the River
+
+PokerStars Hand #1482173181:  Hold'em No Limit ($75.00/$150.00 USD) - 2022/12/12 07:45:19 ET
+Table 'WPN_7 Day No Rathole 75/150 NLH' 9-max Seat #2 is the button
+Seat 1: AuMind ($5396.25 in chips)
+Seat 2: SigadiSogadi ($750.00 in chips)
+SigadiSogadi: posts small blind $75.00
+AuMind: posts big blind $150.00
+*** HOLE CARDS ***
+SigadiSogadi: raises $150.00 to $300.00
+AuMind: calls $150.00
+*** FLOP *** [Js Ts Kd]
+AuMind: checks
+SigadiSogadi: checks
+*** TURN *** [Js Ts Kd] [Jc]
+AuMind: checks
+SigadiSogadi: checks
+*** RIVER *** [Js Ts Kd Jc] [4s]
+AuMind: checks
+SigadiSogadi: checks
+*** SHOW DOWN ***
+AuMind: shows [Tc 6c]
+SigadiSogadi: mucks hand
+AuMind collected $598.75 from pot
+*** SUMMARY ***
+Total pot $600.00 | Rake $1.25
+Board [Js Ts Kd Jc 4s]
+Seat 1: AuMind (big blind) showed [Tc 6c] and won ($598.75)
+Seat 2: SigadiSogadi (button) (small blind) mucked
+
+PokerStars Hand #1482173832:  Hold'em No Limit ($75.00/$150.00 USD) - 2022/12/12 07:46:37 ET
+Table 'WPN_7 Day No Rathole 75/150 NLH' 9-max Seat #1 is the button
+Seat 1: AuMind ($5695.00 in chips)
+Seat 2: SigadiSogadi ($1500.00 in chips)
+AuMind: posts small blind $75.00
+SigadiSogadi: posts big blind $150.00
+*** HOLE CARDS ***
+AuMind: folds
+Uncalled bet ($75.00) returned to SigadiSogadi
+SigadiSogadi collected $150.00 from pot
+SigadiSogadi: doesn't show hand
+*** SUMMARY ***
+Total pot $150.00 | Rake $0.00
+Seat 1: AuMind (button) (small blind) folded before Flop
+Seat 2: SigadiSogadi (big blind) collected ($150.00)
+
+PokerStars Hand #1482173980:  Hold'em No Limit ($75.00/$150.00 USD) - 2022/12/12 07:46:54 ET
+Table 'WPN_7 Day No Rathole 75/150 NLH' 9-max Seat #2 is the button
+Seat 1: AuMind ($5620.00 in chips)
+Seat 2: SigadiSogadi ($1575.00 in chips)
+SigadiSogadi: posts small blind $75.00
+AuMind: posts big blind $150.00
+*** HOLE CARDS ***
+SigadiSogadi: calls $75.00
+AuMind: checks
+*** FLOP *** [8h Td 7d]
+AuMind: checks
+SigadiSogadi: checks
+*** TURN *** [8h Td 7d] [Ks]
+AuMind: bets $150.00
+SigadiSogadi: calls $150.00
+*** RIVER *** [8h Td 7d Ks] [Ac]
+AuMind: checks
+SigadiSogadi: checks
+*** SHOW DOWN ***
+SigadiSogadi: shows [7c Jc]
+AuMind: mucks hand
+SigadiSogadi collected $598.75 from pot
+*** SUMMARY ***
+Total pot $600.00 | Rake $1.25
+Board [8h Td 7d Ks Ac]
+Seat 1: AuMind (big blind) mucked
+Seat 2: SigadiSogadi (button) (small blind) showed [7c Jc] and won ($598.75)
+
+PokerStars Hand #1482174392:  Hold'em No Limit ($75.00/$150.00 USD) - 2022/12/12 07:47:44 ET
+Table 'WPN_7 Day No Rathole 75/150 NLH' 9-max Seat #1 is the button
+Seat 1: AuMind ($5320.00 in chips)
+Seat 2: SigadiSogadi ($1873.75 in chips)
+AuMind: posts small blind $75.00
+SigadiSogadi: posts big blind $150.00
+*** HOLE CARDS ***
+AuMind: raises $5170.00 to $5320.00 and is all-in
+SigadiSogadi: folds
+Uncalled bet ($5170.00) returned to AuMind
+AuMind collected $300.00 from pot
+AuMind: doesn't show hand
+*** SUMMARY ***
+Total pot $300.00 | Rake $0.00
+Seat 1: AuMind (button) (small blind) collected ($300.00)
+Seat 2: SigadiSogadi (big blind) folded before Flop
+
+PokerStars Hand #1482174494:  Hold'em No Limit ($75.00/$150.00 USD) - 2022/12/12 07:47:56 ET
+Table 'WPN_7 Day No Rathole 75/150 NLH' 9-max Seat #2 is the button
+Seat 1: AuMind ($5470.00 in chips)
+Seat 2: SigadiSogadi ($1723.75 in chips)
+SigadiSogadi: posts small blind $75.00
+AuMind: posts big blind $150.00
+*** HOLE CARDS ***
+SigadiSogadi: raises $1573.75 to $1723.75 and is all-in
+AuMind: folds
+Uncalled bet ($1573.75) returned to SigadiSogadi
+SigadiSogadi collected $300.00 from pot
+SigadiSogadi: doesn't show hand
+*** SUMMARY ***
+Total pot $300.00 | Rake $0.00
+Seat 1: AuMind (big blind) folded before Flop
+Seat 2: SigadiSogadi (button) (small blind) collected ($300.00)
+
+PokerStars Hand #1482174611:  Hold'em No Limit ($75.00/$150.00 USD) - 2022/12/12 07:48:11 ET
+Table 'WPN_7 Day No Rathole 75/150 NLH' 9-max Seat #1 is the button
+Seat 1: AuMind ($5320.00 in chips)
+Seat 2: SigadiSogadi ($1873.75 in chips)
+AuMind: posts small blind $75.00
+SigadiSogadi: posts big blind $150.00
+*** HOLE CARDS ***
+AuMind: folds
+Uncalled bet ($75.00) returned to SigadiSogadi
+SigadiSogadi collected $150.00 from pot
+SigadiSogadi: doesn't show hand
+*** SUMMARY ***
+Total pot $150.00 | Rake $0.00
+Seat 1: AuMind (button) (small blind) folded before Flop
+Seat 2: SigadiSogadi (big blind) collected ($150.00)
+
+PokerStars Hand #1481917498:  Hold'em No Limit ($75.00/$150.00 USD) - 2022/12/12 02:54:47 ET
+Table 'WPN_7 Day No Rathole 75/150 NLH' 9-max Seat #2 is the button
+Seat 2: SigadiSogadi ($1851.31 in chips)
+Seat 7: DoublelegTD ($3747.00 in chips)
+SigadiSogadi: posts small blind $75.00
+DoublelegTD: posts big blind $150.00
+*** HOLE CARDS ***
+SigadiSogadi: calls $75.00
+DoublelegTD: checks
+*** FLOP *** [Jd 3c 7c]
+DoublelegTD: checks
+SigadiSogadi: bets $150.00
+DoublelegTD: calls $150.00
+*** TURN *** [Jd 3c 7c] [9h]
+DoublelegTD: checks
+SigadiSogadi: bets $450.00
+DoublelegTD: folds
+Uncalled bet ($450.00) returned to SigadiSogadi
+SigadiSogadi collected $598.75 from pot
+SigadiSogadi: doesn't show hand
+*** SUMMARY ***
+Total pot $600.00 | Rake $1.25
+Board [Jd 3c 7c 9h]
+Seat 2: SigadiSogadi (button) (small blind) collected ($598.75)
+Seat 7: DoublelegTD (big blind) folded on the Turn
+
+PokerStars Hand #1481918180:  Hold'em No Limit ($75.00/$150.00 USD) - 2022/12/12 02:55:37 ET
+Table 'WPN_7 Day No Rathole 75/150 NLH' 9-max Seat #7 is the button
+Seat 2: SigadiSogadi ($2150.06 in chips)
+Seat 7: DoublelegTD ($3447.00 in chips)
+DoublelegTD: posts small blind $75.00
+SigadiSogadi: posts big blind $150.00
+*** HOLE CARDS ***
+DoublelegTD: folds
+Uncalled bet ($75.00) returned to SigadiSogadi
+SigadiSogadi collected $150.00 from pot
+SigadiSogadi: doesn't show hand
+*** SUMMARY ***
+Total pot $150.00 | Rake $0.00
+Seat 2: SigadiSogadi (big blind) collected ($150.00)
+Seat 7: DoublelegTD (button) (small blind) folded before Flop
+
+PokerStars Hand #1481930827:  Hold'em No Limit ($75.00/$150.00 USD) - 2022/12/12 03:07:47 ET
+Table 'WPN_7 Day No Rathole 75/150 NLH' 9-max Seat #2 is the button
+Seat 2: SigadiSogadi ($2150.06 in chips)
+Seat 3: Thelittle200 ($4067.26 in chips)
+Seat 7: Burundos254 ($12103.69 in chips)
+Seat 8: DoublelegTD ($3372.00 in chips)
+Burundos254: posts small blind $75.00
+DoublelegTD: posts big blind $150.00
+*** HOLE CARDS ***
+SigadiSogadi: folds
+Burundos254: raises $225.00 to $375.00
+DoublelegTD: calls $225.00
+*** FLOP *** [5d Jc Ad]
+Burundos254: bets $187.50
+DoublelegTD: calls $187.50
+*** TURN *** [5d Jc Ad] [9d]
+Burundos254: checks
+DoublelegTD: checks
+*** RIVER *** [5d Jc Ad 9d] [7h]
+Burundos254: bets $561.62
+DoublelegTD: calls $561.62
+*** SHOW DOWN ***
+Burundos254: shows [As 3c]
+DoublelegTD: mucks hand
+Burundos254 collected $2246.49 from pot
+*** SUMMARY ***
+Total pot $2248.24 | Rake $1.75
+Board [5d Jc Ad 9d 7h]
+Seat 2: SigadiSogadi (button) folded before Flop (didn't bet)
+Seat 7: Burundos254 (small blind) showed [As 3c] and won ($2246.49)
+Seat 8: DoublelegTD (big blind) mucked
+
+PokerStars Hand #1481932647:  Hold'em No Limit ($75.00/$150.00 USD) - 2022/12/12 03:09:05 ET
+Table 'WPN_7 Day No Rathole 75/150 NLH' 9-max Seat #7 is the button
+Seat 2: SigadiSogadi ($2150.06 in chips)
+Seat 3: Thelittle200 ($4067.26 in chips)
+Seat 7: Burundos254 ($13226.06 in chips)
+Seat 8: DoublelegTD ($2247.88 in chips)
+Seat 9: Sabazius ($5241.00 in chips)
+DoublelegTD: posts small blind $75.00
+Sabazius: posts big blind $150.00
+*** HOLE CARDS ***
+SigadiSogadi: folds
+Burundos254: raises $150.00 to $300.00
+DoublelegTD: folds
+Sabazius: folds
+Uncalled bet ($150.00) returned to Burundos254
+Burundos254 collected $375.00 from pot
+Burundos254: doesn't show hand
+*** SUMMARY ***
+Total pot $375.00 | Rake $0.00
+Seat 2: SigadiSogadi folded before Flop (didn't bet)
+Seat 7: Burundos254 (button) collected ($375.00)
+Seat 8: DoublelegTD (small blind) folded before Flop
+Seat 9: Sabazius (big blind) folded before Flop
+
+PokerStars Hand #1481933008:  Hold'em No Limit ($75.00/$150.00 USD) - 2022/12/12 03:09:21 ET
+Table 'WPN_7 Day No Rathole 75/150 NLH' 9-max Seat #8 is the button
+Seat 2: SigadiSogadi ($2150.06 in chips)
+Seat 3: Thelittle200 ($4067.26 in chips)
+Seat 7: Burundos254 ($13451.06 in chips)
+Seat 8: DoublelegTD ($2172.88 in chips)
+Seat 9: Sabazius ($5091.00 in chips)
+Sabazius: posts small blind $75.00
+SigadiSogadi: posts big blind $150.00
+*** HOLE CARDS ***
+Burundos254: folds
+DoublelegTD: raises $150.00 to $300.00
+Sabazius: folds
+SigadiSogadi: folds
+Uncalled bet ($150.00) returned to DoublelegTD
+DoublelegTD collected $375.00 from pot
+DoublelegTD: doesn't show hand
+*** SUMMARY ***
+Total pot $375.00 | Rake $0.00
+Seat 2: SigadiSogadi (big blind) folded before Flop
+Seat 7: Burundos254 folded before Flop (didn't bet)
+Seat 8: DoublelegTD (button) collected ($375.00)
+Seat 9: Sabazius (small blind) folded before Flop
+
+PokerStars Hand #1481933488:  Hold'em No Limit ($75.00/$150.00 USD) - 2022/12/12 03:09:43 ET
+Table 'WPN_7 Day No Rathole 75/150 NLH' 9-max Seat #9 is the button
+Seat 2: SigadiSogadi ($2000.06 in chips)
+Seat 3: Thelittle200 ($4067.26 in chips)
+Seat 7: Burundos254 ($13451.06 in chips)
+Seat 8: DoublelegTD ($2397.88 in chips)
+Seat 9: Sabazius ($5016.00 in chips)
+SigadiSogadi: posts small blind $75.00
+Thelittle200: posts big blind $150.00
+*** HOLE CARDS ***
+Burundos254: folds
+DoublelegTD: folds
+Sabazius: folds
+SigadiSogadi: folds
+Uncalled bet ($75.00) returned to Thelittle200
+Thelittle200 collected $150.00 from pot
+Thelittle200: doesn't show hand
+*** SUMMARY ***
+Total pot $150.00 | Rake $0.00
+Seat 2: SigadiSogadi (small blind) folded before Flop
+Seat 3: Thelittle200 (big blind) collected ($150.00)
+Seat 7: Burundos254 folded before Flop (didn't bet)
+Seat 8: DoublelegTD folded before Flop (didn't bet)
+Seat 9: Sabazius (button) folded before Flop (didn't bet)
+
+PokerStars Hand #1481933841:  Hold'em No Limit ($75.00/$150.00 USD) - 2022/12/12 03:09:58 ET
+Table 'WPN_7 Day No Rathole 75/150 NLH' 9-max Seat #2 is the button
+Seat 2: SigadiSogadi ($1925.06 in chips)
+Seat 3: Thelittle200 ($4142.26 in chips)
+Seat 7: Burundos254 ($13451.06 in chips)
+Seat 8: DoublelegTD ($2397.88 in chips)
+Seat 9: Sabazius ($5016.00 in chips)
+Thelittle200: posts small blind $75.00
+Burundos254: posts big blind $150.00
+*** HOLE CARDS ***
+DoublelegTD: folds
+Sabazius: folds
+SigadiSogadi: folds
+Thelittle200: folds
+Uncalled bet ($75.00) returned to Burundos254
+Burundos254 collected $150.00 from pot
+Burundos254: doesn't show hand
+*** SUMMARY ***
+Total pot $150.00 | Rake $0.00
+Seat 2: SigadiSogadi (button) folded before Flop (didn't bet)
+Seat 3: Thelittle200 (small blind) folded before Flop
+Seat 7: Burundos254 (big blind) collected ($150.00)
+Seat 8: DoublelegTD folded before Flop (didn't bet)
+Seat 9: Sabazius folded before Flop (didn't bet)
+
+PokerStars Hand #1481934276:  Hold'em No Limit ($75.00/$150.00 USD) - 2022/12/12 03:10:16 ET
+Table 'WPN_7 Day No Rathole 75/150 NLH' 9-max Seat #3 is the button
+Seat 2: SigadiSogadi ($1925.06 in chips)
+Seat 3: Thelittle200 ($4067.26 in chips)
+Seat 7: Burundos254 ($13526.06 in chips)
+Seat 8: DoublelegTD ($2397.88 in chips)
+Seat 9: Sabazius ($5016.00 in chips)
+Burundos254: posts small blind $75.00
+SigadiSogadi: posts big blind $150.00
+*** HOLE CARDS ***
+Thelittle200: folds
+Burundos254: folds
+Uncalled bet ($75.00) returned to SigadiSogadi
+SigadiSogadi collected $150.00 from pot
+SigadiSogadi: doesn't show hand
+*** SUMMARY ***
+Total pot $150.00 | Rake $0.00
+Seat 2: SigadiSogadi (big blind) collected ($150.00)
+Seat 3: Thelittle200 (button) folded before Flop (didn't bet)
+Seat 7: Burundos254 (small blind) folded before Flop
+
+PokerStars Hand #1481934902:  Hold'em No Limit ($75.00/$150.00 USD) - 2022/12/12 03:10:44 ET
+Table 'WPN_7 Day No Rathole 75/150 NLH' 9-max Seat #2 is the button
+Seat 2: SigadiSogadi ($2000.06 in chips)
+Seat 7: Burundos254 ($13451.06 in chips)
+SigadiSogadi: posts small blind $75.00
+Burundos254: posts big blind $150.00
+*** HOLE CARDS ***
+SigadiSogadi: calls $75.00
+Burundos254: checks
+*** FLOP *** [7d 8s 8d]
+Burundos254: checks
+SigadiSogadi: bets $150.00
+Burundos254: folds
+Uncalled bet ($150.00) returned to SigadiSogadi
+SigadiSogadi collected $298.75 from pot
+SigadiSogadi: doesn't show hand
+*** SUMMARY ***
+Total pot $300.00 | Rake $1.25
+Board [7d 8s 8d]
+Seat 2: SigadiSogadi (button) (small blind) collected ($298.75)
+Seat 7: Burundos254 (big blind) folded on the Flop
+
+PokerStars Hand #1481935595:  Hold'em No Limit ($75.00/$150.00 USD) - 2022/12/12 03:11:15 ET
+Table 'WPN_7 Day No Rathole 75/150 NLH' 9-max Seat #7 is the button
+Seat 2: SigadiSogadi ($2148.81 in chips)
+Seat 7: Burundos254 ($13301.06 in chips)
+Burundos254: posts small blind $75.00
+SigadiSogadi: posts big blind $150.00
+*** HOLE CARDS ***
+Burundos254: calls $75.00
+SigadiSogadi: checks
+*** FLOP *** [Qh 5d Kd]
+SigadiSogadi: checks
+Burundos254: bets $150.00
+SigadiSogadi: calls $150.00
+*** TURN *** [Qh 5d Kd] [2c]
+SigadiSogadi: checks
+Burundos254: bets $449.06
+SigadiSogadi: calls $449.06
+*** RIVER *** [Qh 5d Kd 2c] [6c]
+SigadiSogadi: checks
+Burundos254: bets $12552.00 and is all-in
+SigadiSogadi: calls $1399.75 and is all-in
+Uncalled bet ($11152.25) returned to Burundos254
+*** SHOW DOWN ***
+SigadiSogadi: shows [6d Qd]
+Burundos254: shows [Ts 9c]
+SigadiSogadi collected $4296.37 from pot
+*** SUMMARY ***
+Total pot $4297.62 | Rake $1.25
+Board [Qh 5d Kd 2c 6c]
+Seat 2: SigadiSogadi (big blind) showed [6d Qd] and won ($4296.37)
+Seat 7: Burundos254 (button) (small blind) showed [Ts 9c] and lost
+
+PokerStars Hand #1481937902:  Hold'em No Limit ($75.00/$150.00 USD) - 2022/12/12 03:12:57 ET
+Table 'WPN_7 Day No Rathole 75/150 NLH' 9-max Seat #2 is the button
+Seat 2: SigadiSogadi ($4296.37 in chips)
+Seat 7: Burundos254 ($11152.25 in chips)
+SigadiSogadi: posts small blind $75.00
+Burundos254: posts big blind $150.00
+*** HOLE CARDS ***
+SigadiSogadi: raises $150.00 to $300.00
+Burundos254: calls $150.00
+*** FLOP *** [7d 7s 6c]
+Burundos254: checks
+SigadiSogadi: checks
+*** TURN *** [7d 7s 6c] [Qs]
+Burundos254: checks
+SigadiSogadi: bets $150.00
+Burundos254: calls $150.00
+*** RIVER *** [7d 7s 6c Qs] [3c]
+Burundos254: checks
+SigadiSogadi: bets $1215.00
+Burundos254: folds
+Uncalled bet ($1215.00) returned to SigadiSogadi
+SigadiSogadi collected $898.75 from pot
+SigadiSogadi: doesn't show hand
+*** SUMMARY ***
+Total pot $900.00 | Rake $1.25
+Board [7d 7s 6c Qs 3c]
+Seat 2: SigadiSogadi (button) (small blind) collected ($898.75)
+Seat 7: Burundos254 (big blind) folded on the River
+
+PokerStars Hand #1481939823:  Hold'em No Limit ($75.00/$150.00 USD) - 2022/12/12 03:14:20 ET
+Table 'WPN_7 Day No Rathole 75/150 NLH' 9-max Seat #7 is the button
+Seat 2: SigadiSogadi ($4745.12 in chips)
+Seat 7: Burundos254 ($10702.25 in chips)
+Burundos254: posts small blind $75.00
+SigadiSogadi: posts big blind $150.00
+*** HOLE CARDS ***
+Burundos254: folds
+Uncalled bet ($75.00) returned to SigadiSogadi
+SigadiSogadi collected $150.00 from pot
+SigadiSogadi: doesn't show hand
+*** SUMMARY ***
+Total pot $150.00 | Rake $0.00
+Seat 2: SigadiSogadi (big blind) collected ($150.00)
+Seat 7: Burundos254 (button) (small blind) folded before Flop
+
+PokerStars Hand #1481940053:  Hold'em No Limit ($75.00/$150.00 USD) - 2022/12/12 03:14:29 ET
+Table 'WPN_7 Day No Rathole 75/150 NLH' 9-max Seat #2 is the button
+Seat 2: SigadiSogadi ($4820.12 in chips)
+Seat 7: Burundos254 ($10627.25 in chips)
+SigadiSogadi: posts small blind $75.00
+Burundos254: posts big blind $150.00
+*** HOLE CARDS ***
+SigadiSogadi: raises $150.00 to $300.00
+Burundos254: calls $150.00
+*** FLOP *** [Qd 8h Ts]
+Burundos254: checks
+SigadiSogadi: bets $150.00
+Burundos254: calls $150.00
+*** TURN *** [Qd 8h Ts] [9d]
+Burundos254: checks
+SigadiSogadi: bets $450.00
+Burundos254: folds
+Uncalled bet ($450.00) returned to SigadiSogadi
+SigadiSogadi collected $898.75 from pot
+SigadiSogadi: doesn't show hand
+*** SUMMARY ***
+Total pot $900.00 | Rake $1.25
+Board [Qd 8h Ts 9d]
+Seat 2: SigadiSogadi (button) (small blind) collected ($898.75)
+Seat 7: Burundos254 (big blind) folded on the Turn
+
+PokerStars Hand #1481941543:  Hold'em No Limit ($75.00/$150.00 USD) - 2022/12/12 03:15:34 ET
+Table 'WPN_7 Day No Rathole 75/150 NLH' 9-max Seat #7 is the button
+Seat 2: SigadiSogadi ($5268.87 in chips)
+Seat 7: Burundos254 ($10177.25 in chips)
+Burundos254: posts small blind $75.00
+SigadiSogadi: posts big blind $150.00
+*** HOLE CARDS ***
+Burundos254: raises $150.00 to $300.00
+SigadiSogadi: calls $150.00
+*** FLOP *** [9d Qs 7h]
+SigadiSogadi: checks
+Burundos254: checks
+*** TURN *** [9d Qs 7h] [Ac]
+SigadiSogadi: checks
+Burundos254: bets $299.37
+SigadiSogadi: folds
+Uncalled bet ($299.37) returned to Burundos254
+Burundos254 collected $598.75 from pot
+Burundos254: doesn't show hand
+*** SUMMARY ***
+Total pot $600.00 | Rake $1.25
+Board [9d Qs 7h Ac]
+Seat 2: SigadiSogadi (big blind) folded on the Turn
+Seat 7: Burundos254 (button) (small blind) collected ($598.75)
+
+PokerStars Hand #1481943005:  Hold'em No Limit ($75.00/$150.00 USD) - 2022/12/12 03:16:40 ET
+Table 'WPN_7 Day No Rathole 75/150 NLH' 9-max Seat #2 is the button
+Seat 2: SigadiSogadi ($4968.87 in chips)
+Seat 7: Burundos254 ($10476.00 in chips)
+SigadiSogadi: posts small blind $75.00
+Burundos254: posts big blind $150.00
+*** HOLE CARDS ***
+SigadiSogadi: raises $150.00 to $300.00
+Burundos254: calls $150.00
+*** FLOP *** [Ah 3s 2h]
+Burundos254: checks
+SigadiSogadi: checks
+*** TURN *** [Ah 3s 2h] [4d]
+Burundos254: checks
+SigadiSogadi: checks
+*** RIVER *** [Ah 3s 2h 4d] [6h]
+Burundos254: bets $449.06
+SigadiSogadi: folds
+Uncalled bet ($449.06) returned to Burundos254
+Burundos254 collected $598.75 from pot
+Burundos254: doesn't show hand
+*** SUMMARY ***
+Total pot $600.00 | Rake $1.25
+Board [Ah 3s 2h 4d 6h]
+Seat 2: SigadiSogadi (button) (small blind) folded on the River
+Seat 7: Burundos254 (big blind) collected ($598.75)
+
+PokerStars Hand #1481944853:  Hold'em No Limit ($75.00/$150.00 USD) - 2022/12/12 03:18:01 ET
+Table 'WPN_7 Day No Rathole 75/150 NLH' 9-max Seat #7 is the button
+Seat 2: SigadiSogadi ($4668.87 in chips)
+Seat 7: Burundos254 ($10774.75 in chips)
+Burundos254: posts small blind $75.00
+SigadiSogadi: posts big blind $150.00
+*** HOLE CARDS ***
+Burundos254: calls $75.00
+SigadiSogadi: checks
+*** FLOP *** [8h Qd 6c]
+SigadiSogadi: checks
+Burundos254: bets $150.00
+SigadiSogadi: folds
+Uncalled bet ($150.00) returned to Burundos254
+Burundos254 collected $298.75 from pot
+Burundos254: doesn't show hand
+*** SUMMARY ***
+Total pot $300.00 | Rake $1.25
+Board [8h Qd 6c]
+Seat 2: SigadiSogadi (big blind) folded on the Flop
+Seat 7: Burundos254 (button) (small blind) collected ($298.75)
+
+PokerStars Hand #1481945479:  Hold'em No Limit ($75.00/$150.00 USD) - 2022/12/12 03:18:30 ET
+Table 'WPN_7 Day No Rathole 75/150 NLH' 9-max Seat #2 is the button
+Seat 2: SigadiSogadi ($4518.87 in chips)
+Seat 7: Burundos254 ($10923.50 in chips)
+SigadiSogadi: posts small blind $75.00
+Burundos254: posts big blind $150.00
+*** HOLE CARDS ***
+SigadiSogadi: raises $150.00 to $300.00
+Burundos254: calls $150.00
+*** FLOP *** [7d 9h Kh]
+Burundos254: checks
+SigadiSogadi: checks
+*** TURN *** [7d 9h Kh] [Td]
+Burundos254: bets $449.06
+SigadiSogadi: calls $449.06
+*** RIVER *** [7d 9h Kh Td] [3c]
+Burundos254: bets $2245.30
+SigadiSogadi: folds
+Uncalled bet ($2245.30) returned to Burundos254
+Burundos254 collected $1496.87 from pot
+Burundos254: doesn't show hand
+*** SUMMARY ***
+Total pot $1498.12 | Rake $1.25
+Board [7d 9h Kh Td 3c]
+Seat 2: SigadiSogadi (button) (small blind) folded on the River
+Seat 7: Burundos254 (big blind) collected ($1496.87)
+
+PokerStars Hand #1481947226:  Hold'em No Limit ($75.00/$150.00 USD) - 2022/12/12 03:19:50 ET
+Table 'WPN_7 Day No Rathole 75/150 NLH' 9-max Seat #7 is the button
+Seat 2: SigadiSogadi ($3769.81 in chips)
+Seat 7: Burundos254 ($11671.31 in chips)
+Burundos254: posts small blind $75.00
+SigadiSogadi: posts big blind $150.00
+*** HOLE CARDS ***
+Burundos254: raises $150.00 to $300.00
+SigadiSogadi: raises $3469.81 to $3769.81 and is all-in
+Burundos254: folds
+Uncalled bet ($3469.81) returned to SigadiSogadi
+SigadiSogadi collected $600.00 from pot
+SigadiSogadi: doesn't show hand
+*** SUMMARY ***
+Total pot $600.00 | Rake $0.00
+Seat 2: SigadiSogadi (big blind) collected ($600.00)
+Seat 7: Burundos254 (button) (small blind) folded before Flop
+
+PokerStars Hand #1481947799:  Hold'em No Limit ($75.00/$150.00 USD) - 2022/12/12 03:20:14 ET
+Table 'WPN_7 Day No Rathole 75/150 NLH' 9-max Seat #2 is the button
+Seat 2: SigadiSogadi ($4069.81 in chips)
+Seat 7: Burundos254 ($11371.31 in chips)
+SigadiSogadi: posts small blind $75.00
+Burundos254: posts big blind $150.00
+*** HOLE CARDS ***
+SigadiSogadi: raises $150.00 to $300.00
+Burundos254: calls $150.00
+*** FLOP *** [3d 4c 9c]
+Burundos254: checks
+SigadiSogadi: checks
+*** TURN *** [3d 4c 9c] [7h]
+Burundos254: bets $449.06
+SigadiSogadi: folds
+Uncalled bet ($449.06) returned to Burundos254
+Burundos254 collected $598.75 from pot
+Burundos254: doesn't show hand
+*** SUMMARY ***
+Total pot $600.00 | Rake $1.25
+Board [3d 4c 9c 7h]
+Seat 2: SigadiSogadi (button) (small blind) folded on the Turn
+Seat 7: Burundos254 (big blind) collected ($598.75)
+
+PokerStars Hand #1481948812:  Hold'em No Limit ($75.00/$150.00 USD) - 2022/12/12 03:20:58 ET
+Table 'WPN_7 Day No Rathole 75/150 NLH' 9-max Seat #7 is the button
+Seat 2: SigadiSogadi ($3769.81 in chips)
+Seat 7: Burundos254 ($11670.06 in chips)
+Burundos254: posts small blind $75.00
+SigadiSogadi: posts big blind $150.00
+*** HOLE CARDS ***
+Burundos254: raises $150.00 to $300.00
+SigadiSogadi: calls $150.00
+*** FLOP *** [Ah 8d 3c]
+SigadiSogadi: checks
+Burundos254: bets $150.00
+SigadiSogadi: folds
+Uncalled bet ($150.00) returned to Burundos254
+Burundos254 collected $598.75 from pot
+Burundos254: doesn't show hand
+*** SUMMARY ***
+Total pot $600.00 | Rake $1.25
+Board [Ah 8d 3c]
+Seat 2: SigadiSogadi (big blind) folded on the Flop
+Seat 7: Burundos254 (button) (small blind) collected ($598.75)
+
+PokerStars Hand #1481949624:  Hold'em No Limit ($75.00/$150.00 USD) - 2022/12/12 03:21:35 ET
+Table 'WPN_7 Day No Rathole 75/150 NLH' 9-max Seat #2 is the button
+Seat 2: SigadiSogadi ($3469.81 in chips)
+Seat 7: Burundos254 ($11968.81 in chips)
+SigadiSogadi: posts small blind $75.00
+Burundos254: posts big blind $150.00
+*** HOLE CARDS ***
+SigadiSogadi: folds
+Uncalled bet ($75.00) returned to Burundos254
+Burundos254 collected $150.00 from pot
+Burundos254: doesn't show hand
+*** SUMMARY ***
+Total pot $150.00 | Rake $0.00
+Seat 2: SigadiSogadi (button) (small blind) folded before Flop
+Seat 7: Burundos254 (big blind) collected ($150.00)
+
+PokerStars Hand #1481949836:  Hold'em No Limit ($75.00/$150.00 USD) - 2022/12/12 03:21:45 ET
+Table 'WPN_7 Day No Rathole 75/150 NLH' 9-max Seat #7 is the button
+Seat 2: SigadiSogadi ($3394.81 in chips)
+Seat 7: Burundos254 ($12043.81 in chips)
+Burundos254: posts small blind $75.00
+SigadiSogadi: posts big blind $150.00
+*** HOLE CARDS ***
+Burundos254: raises $150.00 to $300.00
+SigadiSogadi: calls $150.00
+*** FLOP *** [3d Kd 4c]
+SigadiSogadi: checks
+Burundos254: checks
+*** TURN *** [3d Kd 4c] [Td]
+SigadiSogadi: checks
+Burundos254: checks
+*** RIVER *** [3d Kd 4c Td] [4s]
+SigadiSogadi: bets $450.00
+Burundos254: folds
+Uncalled bet ($450.00) returned to SigadiSogadi
+SigadiSogadi collected $598.75 from pot
+SigadiSogadi: doesn't show hand
+*** SUMMARY ***
+Total pot $600.00 | Rake $1.25
+Board [3d Kd 4c Td 4s]
+Seat 2: SigadiSogadi (big blind) collected ($598.75)
+Seat 7: Burundos254 (button) (small blind) folded on the River
+
+PokerStars Hand #1481951895:  Hold'em No Limit ($75.00/$150.00 USD) - 2022/12/12 03:23:16 ET
+Table 'WPN_7 Day No Rathole 75/150 NLH' 9-max Seat #2 is the button
+Seat 2: SigadiSogadi ($3693.56 in chips)
+Seat 7: Burundos254 ($11743.81 in chips)
+SigadiSogadi: posts small blind $75.00
+Burundos254: posts big blind $150.00
+*** HOLE CARDS ***
+SigadiSogadi: calls $75.00
+Burundos254: checks
+*** FLOP *** [4d Jh 8d]
+Burundos254: checks
+SigadiSogadi: bets $150.00
+Burundos254: calls $150.00
+*** TURN *** [4d Jh 8d] [Ac]
+Burundos254: checks
+SigadiSogadi: bets $810.00
+Burundos254: calls $810.00
+*** RIVER *** [4d Jh 8d Ac] [2c]
+Burundos254: checks
+SigadiSogadi: bets $1665.00
+Burundos254: calls $1665.00
+*** SHOW DOWN ***
+SigadiSogadi: shows [9d Ah]
+Burundos254: mucks hand
+SigadiSogadi collected $5548.75 from pot
+*** SUMMARY ***
+Total pot $5550.00 | Rake $1.25
+Board [4d Jh 8d Ac 2c]
+Seat 2: SigadiSogadi (button) (small blind) showed [9d Ah] and won ($5548.75)
+Seat 7: Burundos254 (big blind) mucked
+
+PokerStars Hand #1481954046:  Hold'em No Limit ($75.00/$150.00 USD) - 2022/12/12 03:24:52 ET
+Table 'WPN_7 Day No Rathole 75/150 NLH' 9-max Seat #7 is the button
+Seat 2: SigadiSogadi ($6467.31 in chips)
+Seat 3: uhhhyesandno ($3222.00 in chips)
+Seat 4: Thelittle200 ($4067.26 in chips)
+Seat 7: Burundos254 ($8968.81 in chips)
+Burundos254: posts small blind $75.00
+SigadiSogadi: posts big blind $150.00
+*** HOLE CARDS ***
+Burundos254: raises $168.00 to $318.00
+SigadiSogadi: raises $807.00 to $1125.00
+Burundos254: calls $807.00
+*** FLOP *** [8d Td 4h]
+SigadiSogadi: bets $1687.50
+Burundos254: calls $1687.50
+*** TURN *** [8d Td 4h] [Qs]
+SigadiSogadi: bets $3654.81 and is all-in
+Burundos254: calls $3654.81
+*** FIRST RIVER *** [8d Td 4h Qs] [Qh]
+*** SECOND RIVER *** [8d Td 4h Qs] [6h]
+*** FIRST SHOW DOWN ***
+Burundos254: shows [As Ac]
+SigadiSogadi: shows [Jc Jh]
+Burundos254 collected $6466.69 from pot
+*** SECOND SHOW DOWN ***
+Burundos254: shows [As Ac]
+SigadiSogadi: shows [Jc Jh]
+Burundos254 collected $6466.68 from pot
+*** SUMMARY ***
+Total pot $12934.62 | Rake $1.25
+Hand was run twice
+FIRST Board [8d Td 4h Qs Qh]
+SECOND Board [8d Td 4h Qs 6h]
+Seat 2: SigadiSogadi (big blind) showed [Jc Jh] and lost, and lost
+Seat 3: uhhhyesandno and lost, and lost
+Seat 4: Thelittle200 and lost, and lost
+Seat 7: Burundos254 (button) (small blind) showed [As Ac] and won ($6466.69), and won ($6466.68)
+
+PokerStars Hand #1481955668:  Hold'em No Limit ($75.00/$150.00 USD) - 2022/12/12 03:26:07 ET
+Table 'WPN_7 Day No Rathole 75/150 NLH' 9-max Seat #7 is the button
+Seat 2: SigadiSogadi ($1500.00 in chips)
+Seat 3: uhhhyesandno ($3222.00 in chips)
+Seat 4: Thelittle200 ($4067.26 in chips)
+Seat 5: DoublelegTD ($2397.88 in chips)
+Seat 6: Sabazius ($5016.00 in chips)
+Seat 7: Burundos254 ($15434.87 in chips)
+SigadiSogadi: posts small blind $75.00
+uhhhyesandno: posts big blind $150.00
+*** HOLE CARDS ***
+Burundos254: folds
+SigadiSogadi: folds
+Uncalled bet ($75.00) returned to uhhhyesandno
+uhhhyesandno collected $150.00 from pot
+uhhhyesandno: doesn't show hand
+*** SUMMARY ***
+Total pot $150.00 | Rake $0.00
+Seat 2: SigadiSogadi (small blind) folded before Flop
+Seat 3: uhhhyesandno (big blind) collected ($150.00)
+Seat 7: Burundos254 (button) folded before Flop (didn't bet)
+
+PokerStars Hand #1481955964:  Hold'em No Limit ($75.00/$150.00 USD) - 2022/12/12 03:26:20 ET
+Table 'WPN_7 Day No Rathole 75/150 NLH' 9-max Seat #2 is the button
+Seat 2: SigadiSogadi ($1425.00 in chips)
+Seat 3: uhhhyesandno ($3297.00 in chips)
+Seat 4: Thelittle200 ($4067.26 in chips)
+Seat 5: DoublelegTD ($2397.88 in chips)
+Seat 6: Sabazius ($5016.00 in chips)
+Seat 7: Burundos254 ($15434.87 in chips)
+uhhhyesandno: posts small blind $75.00
+Thelittle200: posts big blind $150.00
+*** HOLE CARDS ***
+Burundos254: folds
+SigadiSogadi: folds
+uhhhyesandno: raises $225.00 to $375.00
+Thelittle200: calls $225.00
+*** FLOP *** [3c Qs 9s]
+uhhhyesandno: bets $187.50
+Thelittle200: calls $187.50
+*** TURN *** [3c Qs 9s] [7c]
+uhhhyesandno: checks
+Thelittle200: checks
+*** RIVER *** [3c Qs 9s 7c] [2s]
+uhhhyesandno: checks
+Thelittle200: checks
+*** SHOW DOWN ***
+Thelittle200: shows [Qd 6c]
+uhhhyesandno: mucks hand
+Thelittle200 collected $1122.75 from pot
+*** SUMMARY ***
+Total pot $1125.00 | Rake $2.25
+Board [3c Qs 9s 7c 2s]
+Seat 2: SigadiSogadi (button) folded before Flop (didn't bet)
+Seat 3: uhhhyesandno (small blind) mucked
+Seat 4: Thelittle200 (big blind) showed [Qd 6c] and won ($1122.75)
+Seat 7: Burundos254 folded before Flop (didn't bet)
+
+PokerStars Hand #1481959434:  Hold'em No Limit ($75.00/$150.00 USD) - 2022/12/12 03:29:00 ET
+Table 'WPN_7 Day No Rathole 75/150 NLH' 9-max Seat #3 is the button
+Seat 1: AnnuittCoeptis ($1500.00 in chips)
+Seat 2: SigadiSogadi ($1425.00 in chips)
+Seat 3: uhhhyesandno ($2734.50 in chips)
+Seat 4: Thelittle200 ($4627.51 in chips)
+Seat 5: DoublelegTD ($2397.88 in chips)
+Seat 6: Sabazius ($5016.00 in chips)
+Seat 7: Burundos254 ($15434.87 in chips)
+Thelittle200: posts small blind $75.00
+DoublelegTD: posts big blind $150.00
+*** HOLE CARDS ***
+Burundos254: folds
+SigadiSogadi: folds
+uhhhyesandno: folds
+Thelittle200: folds
+Uncalled bet ($75.00) returned to DoublelegTD
+DoublelegTD collected $150.00 from pot
+DoublelegTD: doesn't show hand
+*** SUMMARY ***
+Total pot $150.00 | Rake $0.00
+Seat 2: SigadiSogadi folded before Flop (didn't bet)
+Seat 3: uhhhyesandno (button) folded before Flop (didn't bet)
+Seat 4: Thelittle200 (small blind) folded before Flop
+Seat 5: DoublelegTD (big blind) collected ($150.00)
+Seat 7: Burundos254 folded before Flop (didn't bet)
+
+PokerStars Hand #1481959698:  Hold'em No Limit ($75.00/$150.00 USD) - 2022/12/12 03:29:12 ET
+Table 'WPN_7 Day No Rathole 75/150 NLH' 9-max Seat #4 is the button
+Seat 1: AnnuittCoeptis ($1500.00 in chips)
+Seat 2: SigadiSogadi ($1425.00 in chips)
+Seat 3: uhhhyesandno ($2734.50 in chips)
+Seat 4: Thelittle200 ($4552.51 in chips)
+Seat 5: DoublelegTD ($2472.88 in chips)
+Seat 6: Sabazius ($5016.00 in chips)
+Seat 7: Burundos254 ($15434.87 in chips)
+DoublelegTD: posts small blind $75.00
+Sabazius: posts big blind $150.00
+*** HOLE CARDS ***
+Burundos254: folds
+SigadiSogadi: folds
+uhhhyesandno: folds
+Thelittle200: folds
+DoublelegTD: raises $180.00 to $330.00
+Sabazius: calls $180.00
+*** FLOP *** [Jd 8s 5h]
+DoublelegTD: bets $150.00
+Sabazius: calls $150.00
+*** TURN *** [Jd 8s 5h] [5d]
+DoublelegTD: checks
+Sabazius: bets $480.00
+DoublelegTD: calls $480.00
+*** RIVER *** [Jd 8s 5h 5d] [Jc]
+DoublelegTD: checks
+Sabazius: bets $3981.00
+DoublelegTD: calls $1512.88 and is all-in
+Uncalled bet ($2468.12) returned to Sabazius
+*** SHOW DOWN ***
+Sabazius: shows [4s 5c]
+DoublelegTD: shows [Qs Qd]
+Sabazius collected $4942.76 from pot
+*** SUMMARY ***
+Total pot $4945.76 | Rake $3.00
+Board [Jd 8s 5h 5d Jc]
+Seat 2: SigadiSogadi folded before Flop (didn't bet)
+Seat 3: uhhhyesandno folded before Flop (didn't bet)
+Seat 4: Thelittle200 (button) folded before Flop (didn't bet)
+Seat 5: DoublelegTD (small blind) showed [Qs Qd] and lost
+Seat 6: Sabazius (big blind) showed [4s 5c] and won ($4942.76)
+Seat 7: Burundos254 folded before Flop (didn't bet)
+
+PokerStars Hand #1481961554:  Hold'em No Limit ($75.00/$150.00 USD) - 2022/12/12 03:30:37 ET
+Table 'WPN_7 Day No Rathole 75/150 NLH' 9-max Seat #5 is the button
+Seat 1: AnnuittCoeptis ($1500.00 in chips)
+Seat 2: SigadiSogadi ($1425.00 in chips)
+Seat 3: uhhhyesandno ($2734.50 in chips)
+Seat 4: Thelittle200 ($4552.51 in chips)
+Seat 5: DoublelegTD ($1500.00 in chips)
+Seat 6: Sabazius ($7485.88 in chips)
+Seat 7: Burundos254 ($15434.87 in chips)
+Sabazius: posts small blind $75.00
+AnnuittCoeptis: posts big blind $150.00
+*** HOLE CARDS ***
+SigadiSogadi: folds
+uhhhyesandno: folds
+Thelittle200: folds
+DoublelegTD: raises $1350.00 to $1500.00 and is all-in
+Sabazius: folds
+AnnuittCoeptis: calls $1350.00 and is all-in
+*** FLOP *** [8d Qh 4h]
+*** TURN *** [8d Qh 4h] [3c]
+*** RIVER *** [8d Qh 4h 3c] [3h]
+*** SHOW DOWN ***
+DoublelegTD: shows [Qs 8s]
+AnnuittCoeptis: shows [Js Kh]
+DoublelegTD collected $3072.00 from pot
+*** SUMMARY ***
+Total pot $3075.00 | Rake $3.00
+Board [8d Qh 4h 3c 3h]
+Seat 1: AnnuittCoeptis (big blind) showed [Js Kh] and lost
+Seat 2: SigadiSogadi folded before Flop (didn't bet)
+Seat 3: uhhhyesandno folded before Flop (didn't bet)
+Seat 4: Thelittle200 folded before Flop (didn't bet)
+Seat 5: DoublelegTD (button) showed [Qs 8s] and won ($3072.00)
+Seat 6: Sabazius (small blind) folded before Flop
+
+PokerStars Hand #1481962575:  Hold'em No Limit ($75.00/$150.00 USD) - 2022/12/12 03:31:25 ET
+Table 'WPN_7 Day No Rathole 75/150 NLH' 9-max Seat #6 is the button
+Seat 2: SigadiSogadi ($1425.00 in chips)
+Seat 3: uhhhyesandno ($2734.50 in chips)
+Seat 4: Thelittle200 ($4552.51 in chips)
+Seat 5: DoublelegTD ($3072.00 in chips)
+Seat 6: Sabazius ($7410.88 in chips)
+SigadiSogadi: posts big blind $150.00
+*** HOLE CARDS ***
+uhhhyesandno: folds
+Thelittle200: folds
+DoublelegTD: raises $150.00 to $300.00
+Sabazius: folds
+SigadiSogadi: folds
+Uncalled bet ($150.00) returned to DoublelegTD
+DoublelegTD collected $300.00 from pot
+DoublelegTD: doesn't show hand
+*** SUMMARY ***
+Total pot $300.00 | Rake $0.00
+Seat 2: SigadiSogadi (big blind) folded before Flop
+Seat 3: uhhhyesandno folded before Flop (didn't bet)
+Seat 4: Thelittle200 folded before Flop (didn't bet)
+Seat 5: DoublelegTD collected ($300.00)
+Seat 6: Sabazius (button) folded before Flop (didn't bet)
+
+PokerStars Hand #1481963118:  Hold'em No Limit ($75.00/$150.00 USD) - 2022/12/12 03:31:51 ET
+Table 'WPN_7 Day No Rathole 75/150 NLH' 9-max Seat #2 is the button
+Seat 1: AnnuittCoeptis ($1500.00 in chips)
+Seat 2: SigadiSogadi ($1425.00 in chips)
+SigadiSogadi: posts small blind $75.00
+AnnuittCoeptis: posts big blind $150.00
+*** HOLE CARDS ***
+SigadiSogadi: raises $1280.36 to $1430.36
+AnnuittCoeptis: folds
+Uncalled bet ($1280.36) returned to SigadiSogadi
+SigadiSogadi collected $300.00 from pot
+SigadiSogadi: doesn't show hand
+*** SUMMARY ***
+Total pot $300.00 | Rake $0.00
+Seat 1: AnnuittCoeptis (big blind) folded before Flop
+Seat 2: SigadiSogadi (button) (small blind) collected ($300.00)
+
+PokerStars Hand #1481963522:  Hold'em No Limit ($75.00/$150.00 USD) - 2022/12/12 03:32:10 ET
+Table 'WPN_7 Day No Rathole 75/150 NLH' 9-max Seat #1 is the button
+Seat 1: AnnuittCoeptis ($1350.00 in chips)
+Seat 2: SigadiSogadi ($1650.00 in chips)
+AnnuittCoeptis: posts small blind $75.00
+SigadiSogadi: posts big blind $150.00
+*** HOLE CARDS ***
+AnnuittCoeptis: folds
+Uncalled bet ($75.00) returned to SigadiSogadi
+SigadiSogadi collected $150.00 from pot
+SigadiSogadi: doesn't show hand
+*** SUMMARY ***
+Total pot $150.00 | Rake $0.00
+Seat 1: AnnuittCoeptis (button) (small blind) folded before Flop
+Seat 2: SigadiSogadi (big blind) collected ($150.00)
+
+PokerStars Hand #1481963812:  Hold'em No Limit ($75.00/$150.00 USD) - 2022/12/12 03:32:24 ET
+Table 'WPN_7 Day No Rathole 75/150 NLH' 9-max Seat #2 is the button
+Seat 1: AnnuittCoeptis ($1275.00 in chips)
+Seat 2: SigadiSogadi ($1725.00 in chips)
+SigadiSogadi: posts small blind $75.00
+AnnuittCoeptis: posts big blind $150.00
+*** HOLE CARDS ***
+SigadiSogadi: folds
+Uncalled bet ($75.00) returned to AnnuittCoeptis
+AnnuittCoeptis collected $150.00 from pot
+AnnuittCoeptis: doesn't show hand
+*** SUMMARY ***
+Total pot $150.00 | Rake $0.00
+Seat 1: AnnuittCoeptis (big blind) collected ($150.00)
+Seat 2: SigadiSogadi (button) (small blind) folded before Flop
+
+PokerStars Hand #1481964075:  Hold'em No Limit ($75.00/$150.00 USD) - 2022/12/12 03:32:37 ET
+Table 'WPN_7 Day No Rathole 75/150 NLH' 9-max Seat #1 is the button
+Seat 1: AnnuittCoeptis ($1350.00 in chips)
+Seat 2: SigadiSogadi ($1650.00 in chips)
+AnnuittCoeptis: posts small blind $75.00
+SigadiSogadi: posts big blind $150.00
+*** HOLE CARDS ***
+AnnuittCoeptis: raises $1200.00 to $1350.00 and is all-in
+SigadiSogadi: folds
+Uncalled bet ($1200.00) returned to AnnuittCoeptis
+AnnuittCoeptis collected $300.00 from pot
+AnnuittCoeptis: doesn't show hand
+*** SUMMARY ***
+Total pot $300.00 | Rake $0.00
+Seat 1: AnnuittCoeptis (button) (small blind) collected ($300.00)
+Seat 2: SigadiSogadi (big blind) folded before Flop
+
+PokerStars Hand #1481964555:  Hold'em No Limit ($75.00/$150.00 USD) - 2022/12/12 03:32:58 ET
+Table 'WPN_7 Day No Rathole 75/150 NLH' 9-max Seat #2 is the button
+Seat 1: AnnuittCoeptis ($1500.00 in chips)
+Seat 2: SigadiSogadi ($1500.00 in chips)
+SigadiSogadi: posts small blind $75.00
+AnnuittCoeptis: posts big blind $150.00
+*** HOLE CARDS ***
+SigadiSogadi: calls $75.00
+AnnuittCoeptis: checks
+*** FLOP *** [Jd Kc 7c]
+AnnuittCoeptis: checks
+SigadiSogadi: checks
+*** TURN *** [Jd Kc 7c] [9c]
+AnnuittCoeptis: bets $348.00
+SigadiSogadi: calls $348.00
+*** RIVER *** [Jd Kc 7c 9c] [Ks]
+AnnuittCoeptis: checks
+SigadiSogadi: bets $1002.00 and is all-in
+AnnuittCoeptis: folds
+Uncalled bet ($1002.00) returned to SigadiSogadi
+SigadiSogadi collected $994.75 from pot
+SigadiSogadi: doesn't show hand
+*** SUMMARY ***
+Total pot $996.00 | Rake $1.25
+Board [Jd Kc 7c 9c Ks]
+Seat 1: AnnuittCoeptis (big blind) folded on the River
+Seat 2: SigadiSogadi (button) (small blind) collected ($994.75)
+
+PokerStars Hand #1481966026:  Hold'em No Limit ($75.00/$150.00 USD) - 2022/12/12 03:34:07 ET
+Table 'WPN_7 Day No Rathole 75/150 NLH' 9-max Seat #1 is the button
+Seat 1: AnnuittCoeptis ($1002.00 in chips)
+Seat 2: SigadiSogadi ($1996.75 in chips)
+AnnuittCoeptis: posts small blind $75.00
+SigadiSogadi: posts big blind $150.00
+*** HOLE CARDS ***
+AnnuittCoeptis: folds
+Uncalled bet ($75.00) returned to SigadiSogadi
+SigadiSogadi collected $150.00 from pot
+SigadiSogadi: doesn't show hand
+*** SUMMARY ***
+Total pot $150.00 | Rake $0.00
+Seat 1: AnnuittCoeptis (button) (small blind) folded before Flop
+Seat 2: SigadiSogadi (big blind) collected ($150.00)
+
+PokerStars Hand #1481966237:  Hold'em No Limit ($75.00/$150.00 USD) - 2022/12/12 03:34:17 ET
+Table 'WPN_7 Day No Rathole 75/150 NLH' 9-max Seat #2 is the button
+Seat 1: AnnuittCoeptis ($1500.00 in chips)
+Seat 2: SigadiSogadi ($2071.75 in chips)
+SigadiSogadi: posts small blind $75.00
+AnnuittCoeptis: posts big blind $150.00
+*** HOLE CARDS ***
+SigadiSogadi: raises $1921.75 to $2071.75 and is all-in
+AnnuittCoeptis: calls $1350.00 and is all-in
+Uncalled bet ($571.75) returned to SigadiSogadi
+*** FLOP *** [4h 7s Ah]
+*** TURN *** [4h 7s Ah] [8d]
+*** RIVER *** [4h 7s Ah 8d] [8c]
+*** SHOW DOWN ***
+AnnuittCoeptis: shows [Ad 9s]
+SigadiSogadi: shows [2h 2c]
+AnnuittCoeptis collected $2998.75 from pot
+*** SUMMARY ***
+Total pot $3000.00 | Rake $1.25
+Board [4h 7s Ah 8d 8c]
+Seat 1: AnnuittCoeptis (big blind) showed [Ad 9s] and won ($2998.75)
+Seat 2: SigadiSogadi (button) (small blind) showed [2h 2c] and lost
+
+PokerStars Hand #1481966718:  Hold'em No Limit ($75.00/$150.00 USD) - 2022/12/12 03:34:40 ET
+Table 'WPN_7 Day No Rathole 75/150 NLH' 9-max Seat #1 is the button
+Seat 1: AnnuittCoeptis ($2998.75 in chips)
+Seat 2: SigadiSogadi ($1500.00 in chips)
+AnnuittCoeptis: posts small blind $75.00
+SigadiSogadi: posts big blind $150.00
+*** HOLE CARDS ***
+AnnuittCoeptis: folds
+Uncalled bet ($75.00) returned to SigadiSogadi
+SigadiSogadi collected $150.00 from pot
+SigadiSogadi: doesn't show hand
+*** SUMMARY ***
+Total pot $150.00 | Rake $0.00
+Seat 1: AnnuittCoeptis (button) (small blind) folded before Flop
+Seat 2: SigadiSogadi (big blind) collected ($150.00)
+
+PokerStars Hand #1481966884:  Hold'em No Limit ($75.00/$150.00 USD) - 2022/12/12 03:34:48 ET
+Table 'WPN_7 Day No Rathole 75/150 NLH' 9-max Seat #2 is the button
+Seat 1: AnnuittCoeptis ($2923.75 in chips)
+Seat 2: SigadiSogadi ($1575.00 in chips)
+SigadiSogadi: posts small blind $75.00
+AnnuittCoeptis: posts big blind $150.00
+*** HOLE CARDS ***
+SigadiSogadi: calls $75.00
+AnnuittCoeptis: checks
+*** FLOP *** [9s Qh 8d]
+AnnuittCoeptis: checks
+SigadiSogadi: checks
+*** TURN *** [9s Qh 8d] [Ah]
+AnnuittCoeptis: checks
+SigadiSogadi: bets $150.00
+AnnuittCoeptis: calls $150.00
+*** RIVER *** [9s Qh 8d Ah] [Jc]
+AnnuittCoeptis: checks
+SigadiSogadi: checks
+*** SHOW DOWN ***
+AnnuittCoeptis: shows [9d 2d]
+SigadiSogadi: mucks hand
+AnnuittCoeptis collected $598.75 from pot
+*** SUMMARY ***
+Total pot $600.00 | Rake $1.25
+Board [9s Qh 8d Ah Jc]
+Seat 1: AnnuittCoeptis (big blind) showed [9d 2d] and won ($598.75)
+Seat 2: SigadiSogadi (button) (small blind) mucked
+
+PokerStars Hand #1481968468:  Hold'em No Limit ($75.00/$150.00 USD) - 2022/12/12 03:36:01 ET
+Table 'WPN_7 Day No Rathole 75/150 NLH' 9-max Seat #1 is the button
+Seat 1: AnnuittCoeptis ($3222.50 in chips)
+Seat 2: SigadiSogadi ($1500.00 in chips)
+AnnuittCoeptis: posts small blind $75.00
+SigadiSogadi: posts big blind $150.00
+*** HOLE CARDS ***
+AnnuittCoeptis: raises $3072.50 to $3222.50 and is all-in
+SigadiSogadi: folds
+Uncalled bet ($3072.50) returned to AnnuittCoeptis
+AnnuittCoeptis collected $300.00 from pot
+AnnuittCoeptis: doesn't show hand
+*** SUMMARY ***
+Total pot $300.00 | Rake $0.00
+Seat 1: AnnuittCoeptis (button) (small blind) collected ($300.00)
+Seat 2: SigadiSogadi (big blind) folded before Flop
+
+PokerStars Hand #1482092944:  Hold'em No Limit ($75.00/$150.00 USD) - 2022/12/12 05:42:10 ET
+Table 'WPN_7 Day No Rathole 75/150 NLH' 9-max Seat #7 is the button
+Seat 2: SigadiSogadi ($1500.00 in chips)
+Seat 3: Thelittle200 ($4552.51 in chips)
+Seat 7: Burundos254 ($15434.25 in chips)
+Burundos254: posts small blind $75.00
+SigadiSogadi: posts big blind $150.00
+*** HOLE CARDS ***
+Burundos254: folds
+Uncalled bet ($75.00) returned to SigadiSogadi
+SigadiSogadi collected $150.00 from pot
+SigadiSogadi: doesn't show hand
+*** SUMMARY ***
+Total pot $150.00 | Rake $0.00
+Seat 2: SigadiSogadi (big blind) collected ($150.00)
+Seat 7: Burundos254 (button) (small blind) folded before Flop
+
+PokerStars Hand #1482093150:  Hold'em No Limit ($75.00/$150.00 USD) - 2022/12/12 05:42:24 ET
+Table 'WPN_7 Day No Rathole 75/150 NLH' 9-max Seat #2 is the button
+Seat 2: SigadiSogadi ($1575.00 in chips)
+Seat 3: Thelittle200 ($4552.51 in chips)
+SigadiSogadi: posts small blind $75.00
+Thelittle200: posts big blind $150.00
+*** HOLE CARDS ***
+SigadiSogadi: calls $75.00
+Thelittle200: checks
+*** FLOP *** [Qh 2c Kh]
+Thelittle200: checks
+SigadiSogadi: bets $150.00
+Thelittle200: calls $150.00
+*** TURN *** [Qh 2c Kh] [3s]
+Thelittle200: checks
+SigadiSogadi: checks
+*** RIVER *** [Qh 2c Kh 3s] [Jd]
+Thelittle200: bets $150.00
+SigadiSogadi: folds
+Uncalled bet ($150.00) returned to Thelittle200
+Thelittle200 collected $598.75 from pot
+Thelittle200: doesn't show hand
+*** SUMMARY ***
+Total pot $600.00 | Rake $1.25
+Board [Qh 2c Kh 3s Jd]
+Seat 2: SigadiSogadi (button) (small blind) folded on the River
+Seat 3: Thelittle200 (big blind) collected ($598.75)
+
+PokerStars Hand #1482094154:  Hold'em No Limit ($75.00/$150.00 USD) - 2022/12/12 05:43:33 ET
+Table 'WPN_7 Day No Rathole 75/150 NLH' 9-max Seat #3 is the button
+Seat 2: SigadiSogadi ($1275.00 in chips)
+Seat 3: Thelittle200 ($4851.26 in chips)
+Thelittle200: posts small blind $75.00
+SigadiSogadi: posts big blind $150.00
+*** HOLE CARDS ***
+Thelittle200: raises $4701.26 to $4851.26 and is all-in
+SigadiSogadi: folds
+Uncalled bet ($4701.26) returned to Thelittle200
+Thelittle200 collected $300.00 from pot
+Thelittle200: doesn't show hand
+*** SUMMARY ***
+Total pot $300.00 | Rake $0.00
+Seat 2: SigadiSogadi (big blind) folded before Flop
+Seat 3: Thelittle200 (button) (small blind) collected ($300.00)
+
+PokerStars Hand #1481596629:  Hold'em No Limit ($75.00/$150.00 USD) - 2022/12/11 23:39:22 ET
+Table 'WPN_7 Day No Rathole 75/150 NLH' 9-max Seat #2 is the button
+Seat 1: PSYCHOLOGIST12 ($1500.00 in chips)
+Seat 2: Sabazius ($1500.00 in chips)
+Sabazius: posts small blind $75.00
+PSYCHOLOGIST12: posts big blind $150.00
+*** HOLE CARDS ***
+Sabazius: folds
+Uncalled bet ($75.00) returned to PSYCHOLOGIST12
+PSYCHOLOGIST12 collected $150.00 from pot
+PSYCHOLOGIST12: doesn't show hand
+*** SUMMARY ***
+Total pot $150.00 | Rake $0.00
+Seat 1: PSYCHOLOGIST12 (big blind) collected ($150.00)
+Seat 2: Sabazius (button) (small blind) folded before Flop
+
+PokerStars Hand #1481597463:  Hold'em No Limit ($75.00/$150.00 USD) - 2022/12/11 23:39:45 ET
+Table 'WPN_7 Day No Rathole 75/150 NLH' 9-max Seat #1 is the button
+Seat 1: PSYCHOLOGIST12 ($1575.00 in chips)
+Seat 2: Sabazius ($1425.00 in chips)
+Seat 3: elmatador6969 ($1650.00 in chips)
+Seat 4: SigadiSogadi ($4554.31 in chips)
+Seat 5: uhhhyesandno ($1500.00 in chips)
+PSYCHOLOGIST12: posts small blind $75.00
+Sabazius: posts big blind $150.00
+*** HOLE CARDS ***
+PSYCHOLOGIST12: calls $75.00
+Sabazius: checks
+*** FLOP *** [Ts 8h 8c]
+Sabazius: checks
+PSYCHOLOGIST12: checks
+*** TURN *** [Ts 8h 8c] [4h]
+Sabazius: checks
+PSYCHOLOGIST12: bets $225.00
+Sabazius: folds
+Uncalled bet ($225.00) returned to PSYCHOLOGIST12
+PSYCHOLOGIST12 collected $298.75 from pot
+PSYCHOLOGIST12: doesn't show hand
+*** SUMMARY ***
+Total pot $300.00 | Rake $1.25
+Board [Ts 8h 8c 4h]
+Seat 1: PSYCHOLOGIST12 (button) (small blind) collected ($298.75)
+Seat 2: Sabazius (big blind) folded on the Turn
+
+PokerStars Hand #1481599237:  Hold'em No Limit ($75.00/$150.00 USD) - 2022/12/11 23:40:37 ET
+Table 'WPN_7 Day No Rathole 75/150 NLH' 9-max Seat #1 is the button
+Seat 1: PSYCHOLOGIST12 ($1723.75 in chips)
+Seat 2: Sabazius ($1350.00 in chips)
+Seat 3: elmatador6969 ($1650.00 in chips)
+Seat 4: SigadiSogadi ($4554.31 in chips)
+Seat 5: uhhhyesandno ($1500.00 in chips)
+Seat 6: jrSuited18 ($1500.00 in chips)
+Seat 7: Gizineni ($1950.00 in chips)
+Sabazius: posts small blind $75.00
+elmatador6969: posts big blind $150.00
+*** HOLE CARDS ***
+PSYCHOLOGIST12: raises $1573.75 to $1723.75 and is all-in
+Sabazius: folds
+elmatador6969: folds
+Uncalled bet ($1573.75) returned to PSYCHOLOGIST12
+PSYCHOLOGIST12 collected $375.00 from pot
+PSYCHOLOGIST12: doesn't show hand
+*** SUMMARY ***
+Total pot $375.00 | Rake $0.00
+Seat 1: PSYCHOLOGIST12 (button) collected ($375.00)
+Seat 2: Sabazius (small blind) folded before Flop
+Seat 3: elmatador6969 (big blind) folded before Flop
+
+PokerStars Hand #1481599948:  Hold'em No Limit ($75.00/$150.00 USD) - 2022/12/11 23:40:57 ET
+Table 'WPN_7 Day No Rathole 75/150 NLH' 9-max Seat #2 is the button
+Seat 1: PSYCHOLOGIST12 ($1948.75 in chips)
+Seat 2: Sabazius ($1500.00 in chips)
+Seat 3: elmatador6969 ($1500.00 in chips)
+Seat 4: SigadiSogadi ($4554.31 in chips)
+Seat 5: uhhhyesandno ($1500.00 in chips)
+Seat 6: jrSuited18 ($1500.00 in chips)
+Seat 7: Gizineni ($1950.00 in chips)
+elmatador6969: posts small blind $75.00
+SigadiSogadi: posts big blind $150.00
+*** HOLE CARDS ***
+PSYCHOLOGIST12: folds
+Sabazius: folds
+elmatador6969: raises $1350.00 to $1500.00 and is all-in
+SigadiSogadi: calls $1350.00
+*** FLOP *** [7h 4h Tc]
+*** TURN *** [7h 4h Tc] [8h]
+*** RIVER *** [7h 4h Tc 8h] [4s]
+*** SHOW DOWN ***
+elmatador6969: shows [7s Jc]
+SigadiSogadi: shows [3c 3s]
+elmatador6969 collected $2997.75 from pot
+*** SUMMARY ***
+Total pot $3000.00 | Rake $2.25
+Board [7h 4h Tc 8h 4s]
+Seat 1: PSYCHOLOGIST12 folded before Flop (didn't bet)
+Seat 2: Sabazius (button) folded before Flop (didn't bet)
+Seat 3: elmatador6969 (small blind) showed [7s Jc] and won ($2997.75)
+Seat 4: SigadiSogadi (big blind) showed [3c 3s] and lost
+
+PokerStars Hand #1481601091:  Hold'em No Limit ($75.00/$150.00 USD) - 2022/12/11 23:41:30 ET
+Table 'WPN_7 Day No Rathole 75/150 NLH' 9-max Seat #3 is the button
+Seat 1: PSYCHOLOGIST12 ($1948.75 in chips)
+Seat 2: Sabazius ($1500.00 in chips)
+Seat 3: elmatador6969 ($2997.75 in chips)
+Seat 4: SigadiSogadi ($3054.31 in chips)
+Seat 5: uhhhyesandno ($1500.00 in chips)
+Seat 6: jrSuited18 ($1500.00 in chips)
+Seat 7: Gizineni ($1950.00 in chips)
+Seat 8: Meek Bill ($1500.00 in chips)
+Seat 9: chop-ch0p ($6396.00 in chips)
+SigadiSogadi: posts small blind $75.00
+uhhhyesandno: posts big blind $150.00
+*** HOLE CARDS ***
+PSYCHOLOGIST12: folds
+Sabazius: folds
+elmatador6969: raises $2847.75 to $2997.75 and is all-in
+SigadiSogadi: folds
+uhhhyesandno: folds
+Uncalled bet ($2847.75) returned to elmatador6969
+elmatador6969 collected $375.00 from pot
+elmatador6969: doesn't show hand
+*** SUMMARY ***
+Total pot $375.00 | Rake $0.00
+Seat 1: PSYCHOLOGIST12 folded before Flop (didn't bet)
+Seat 2: Sabazius folded before Flop (didn't bet)
+Seat 3: elmatador6969 (button) collected ($375.00)
+Seat 4: SigadiSogadi (small blind) folded before Flop
+Seat 5: uhhhyesandno (big blind) folded before Flop
+
+PokerStars Hand #1481601853:  Hold'em No Limit ($75.00/$150.00 USD) - 2022/12/11 23:41:52 ET
+Table 'WPN_7 Day No Rathole 75/150 NLH' 9-max Seat #4 is the button
+Seat 1: PSYCHOLOGIST12 ($1948.75 in chips)
+Seat 2: Sabazius ($1500.00 in chips)
+Seat 3: elmatador6969 ($3222.75 in chips)
+Seat 4: SigadiSogadi ($2979.31 in chips)
+Seat 5: uhhhyesandno ($1350.00 in chips)
+Seat 6: jrSuited18 ($1500.00 in chips)
+Seat 7: Gizineni ($1950.00 in chips)
+Seat 8: Meek Bill ($1500.00 in chips)
+Seat 9: chop-ch0p ($6396.00 in chips)
+uhhhyesandno: posts small blind $75.00
+jrSuited18: posts big blind $150.00
+*** HOLE CARDS ***
+PSYCHOLOGIST12: folds
+Sabazius: raises $1350.00 to $1500.00 and is all-in
+elmatador6969: folds
+SigadiSogadi: folds
+uhhhyesandno: folds
+jrSuited18: calls $1350.00 and is all-in
+*** FIRST FLOP *** [Th 2d 9d]
+*** FIRST TURN *** [Th 2d 9d] [2s]
+*** FIRST RIVER *** [Th 2d 9d 2s] [3d]
+*** SECOND FLOP *** [3c Js 6h]
+*** SECOND TURN *** [3c Js 6h] [4s]
+*** SECOND RIVER *** [3c Js 6h 4s] [5d]
+*** FIRST SHOW DOWN ***
+Sabazius: shows [Td Jd]
+jrSuited18: shows [As Tc]
+Sabazius collected $1536.00 from pot
+*** SECOND SHOW DOWN ***
+Sabazius: shows [Td Jd]
+jrSuited18: shows [As Tc]
+Sabazius collected $1536.00 from pot
+*** SUMMARY ***
+Total pot $3075.00 | Rake $3.00
+Hand was run twice
+FIRST Board [Th 2d 9d 2s 3d]
+SECOND Board [3c Js 6h 4s 5d]
+Seat 1: PSYCHOLOGIST12 folded before Flop (didn't bet)
+Seat 2: Sabazius showed [Td Jd] and won ($1536.00), and won ($1536.00)
+Seat 3: elmatador6969 folded before Flop (didn't bet)
+Seat 4: SigadiSogadi (button) folded before Flop (didn't bet)
+Seat 5: uhhhyesandno (small blind) folded before Flop
+Seat 6: jrSuited18 (big blind) showed [As Tc] and lost, and lost
+Seat 7: Gizineni and lost, and lost
+Seat 8: Meek Bill and lost, and lost
+Seat 9: chop-ch0p and lost, and lost
+
+PokerStars Hand #1481603130:  Hold'em No Limit ($75.00/$150.00 USD) - 2022/12/11 23:42:29 ET
+Table 'WPN_7 Day No Rathole 75/150 NLH' 9-max Seat #5 is the button
+Seat 1: PSYCHOLOGIST12 ($1948.75 in chips)
+Seat 2: Sabazius ($3072.00 in chips)
+Seat 3: elmatador6969 ($3222.75 in chips)
+Seat 4: SigadiSogadi ($2979.31 in chips)
+Seat 5: uhhhyesandno ($1500.00 in chips)
+Seat 6: jrSuited18 ($1500.00 in chips)
+Seat 7: Gizineni ($1950.00 in chips)
+Seat 8: Meek Bill ($1500.00 in chips)
+Seat 9: chop-ch0p ($6396.00 in chips)
+jrSuited18: posts small blind $75.00
+Gizineni: posts big blind $150.00
+*** HOLE CARDS ***
+PSYCHOLOGIST12: folds
+Sabazius: raises $150.00 to $300.00
+elmatador6969: folds
+SigadiSogadi: folds
+uhhhyesandno: folds
+jrSuited18: folds
+Gizineni: folds
+Uncalled bet ($150.00) returned to Sabazius
+Sabazius collected $375.00 from pot
+Sabazius: doesn't show hand
+*** SUMMARY ***
+Total pot $375.00 | Rake $0.00
+Seat 1: PSYCHOLOGIST12 folded before Flop (didn't bet)
+Seat 2: Sabazius collected ($375.00)
+Seat 3: elmatador6969 folded before Flop (didn't bet)
+Seat 4: SigadiSogadi folded before Flop (didn't bet)
+Seat 5: uhhhyesandno (button) folded before Flop (didn't bet)
+Seat 6: jrSuited18 (small blind) folded before Flop
+Seat 7: Gizineni (big blind) folded before Flop
+
+PokerStars Hand #1481604135:  Hold'em No Limit ($75.00/$150.00 USD) - 2022/12/11 23:42:57 ET
+Table 'WPN_7 Day No Rathole 75/150 NLH' 9-max Seat #6 is the button
+Seat 1: PSYCHOLOGIST12 ($1948.75 in chips)
+Seat 2: Sabazius ($3297.00 in chips)
+Seat 3: elmatador6969 ($3222.75 in chips)
+Seat 4: SigadiSogadi ($2979.31 in chips)
+Seat 5: uhhhyesandno ($1500.00 in chips)
+Seat 6: jrSuited18 ($1500.00 in chips)
+Seat 7: Gizineni ($1800.00 in chips)
+Seat 8: Meek Bill ($1500.00 in chips)
+Seat 9: chop-ch0p ($6396.00 in chips)
+Gizineni: posts small blind $75.00
+Meek Bill: posts big blind $150.00
+*** HOLE CARDS ***
+PSYCHOLOGIST12: folds
+Sabazius: raises $150.00 to $300.00
+elmatador6969: folds
+SigadiSogadi: folds
+uhhhyesandno: folds
+jrSuited18: folds
+Gizineni: folds
+Meek Bill: raises $1200.00 to $1500.00 and is all-in
+Sabazius: calls $1200.00
+*** FIRST FLOP *** [8c Ts 8d]
+*** FIRST TURN *** [8c Ts 8d] [9s]
+*** FIRST RIVER *** [8c Ts 8d 9s] [4c]
+*** SECOND FLOP *** [2s 7h 6c]
+*** SECOND TURN *** [2s 7h 6c] [Th]
+*** SECOND RIVER *** [2s 7h 6c Th] [2d]
+*** FIRST SHOW DOWN ***
+Sabazius: shows [Qh Qd]
+Meek Bill: shows [As Kh]
+Sabazius collected $1536.00 from pot
+*** SECOND SHOW DOWN ***
+Sabazius: shows [Qh Qd]
+Meek Bill: shows [As Kh]
+Sabazius collected $1536.00 from pot
+*** SUMMARY ***
+Total pot $3075.00 | Rake $3.00
+Hand was run twice
+FIRST Board [8c Ts 8d 9s 4c]
+SECOND Board [2s 7h 6c Th 2d]
+Seat 1: PSYCHOLOGIST12 folded before Flop (didn't bet)
+Seat 2: Sabazius showed [Qh Qd] and won ($1536.00), and won ($1536.00)
+Seat 3: elmatador6969 folded before Flop (didn't bet)
+Seat 4: SigadiSogadi folded before Flop (didn't bet)
+Seat 5: uhhhyesandno folded before Flop (didn't bet)
+Seat 6: jrSuited18 (button) folded before Flop (didn't bet)
+Seat 7: Gizineni (small blind) folded before Flop
+Seat 8: Meek Bill (big blind) showed [As Kh] and lost, and lost
+Seat 9: chop-ch0p and lost, and lost
+
+PokerStars Hand #1481605552:  Hold'em No Limit ($75.00/$150.00 USD) - 2022/12/11 23:43:41 ET
+Table 'WPN_7 Day No Rathole 75/150 NLH' 9-max Seat #7 is the button
+Seat 1: PSYCHOLOGIST12 ($1948.75 in chips)
+Seat 2: Sabazius ($4869.00 in chips)
+Seat 3: elmatador6969 ($3222.75 in chips)
+Seat 4: SigadiSogadi ($2979.31 in chips)
+Seat 5: uhhhyesandno ($1500.00 in chips)
+Seat 6: jrSuited18 ($1500.00 in chips)
+Seat 7: Gizineni ($1725.00 in chips)
+Seat 8: Meek Bill ($1500.00 in chips)
+Seat 9: chop-ch0p ($6396.00 in chips)
+Meek Bill: posts small blind $75.00
+chop-ch0p: posts big blind $150.00
+*** HOLE CARDS ***
+PSYCHOLOGIST12: folds
+Sabazius: raises $150.00 to $300.00
+elmatador6969: folds
+SigadiSogadi: folds
+uhhhyesandno: folds
+jrSuited18: folds
+Gizineni: folds
+Meek Bill: folds
+chop-ch0p: folds
+Uncalled bet ($150.00) returned to Sabazius
+Sabazius collected $375.00 from pot
+Sabazius: doesn't show hand
+*** SUMMARY ***
+Total pot $375.00 | Rake $0.00
+Seat 1: PSYCHOLOGIST12 folded before Flop (didn't bet)
+Seat 2: Sabazius collected ($375.00)
+Seat 3: elmatador6969 folded before Flop (didn't bet)
+Seat 4: SigadiSogadi folded before Flop (didn't bet)
+Seat 5: uhhhyesandno folded before Flop (didn't bet)
+Seat 6: jrSuited18 folded before Flop (didn't bet)
+Seat 7: Gizineni (button) folded before Flop (didn't bet)
+Seat 8: Meek Bill (small blind) folded before Flop
+Seat 9: chop-ch0p (big blind) folded before Flop
+
+PokerStars Hand #1481606579:  Hold'em No Limit ($75.00/$150.00 USD) - 2022/12/11 23:44:11 ET
+Table 'WPN_7 Day No Rathole 75/150 NLH' 9-max Seat #8 is the button
+Seat 1: PSYCHOLOGIST12 ($1948.75 in chips)
+Seat 2: Sabazius ($5094.00 in chips)
+Seat 3: elmatador6969 ($3222.75 in chips)
+Seat 4: SigadiSogadi ($2979.31 in chips)
+Seat 5: uhhhyesandno ($1500.00 in chips)
+Seat 6: jrSuited18 ($1500.00 in chips)
+Seat 7: Gizineni ($1725.00 in chips)
+Seat 8: Meek Bill ($1500.00 in chips)
+Seat 9: chop-ch0p ($6246.00 in chips)
+chop-ch0p: posts small blind $75.00
+PSYCHOLOGIST12: posts big blind $150.00
+*** HOLE CARDS ***
+Sabazius: folds
+elmatador6969: folds
+SigadiSogadi: folds
+uhhhyesandno: folds
+jrSuited18: folds
+Gizineni: raises $150.00 to $300.00
+Meek Bill: folds
+chop-ch0p: folds
+PSYCHOLOGIST12: calls $150.00
+*** FLOP *** [8c 7s Qd]
+PSYCHOLOGIST12: checks
+Gizineni: bets $222.75
+PSYCHOLOGIST12: folds
+Uncalled bet ($222.75) returned to Gizineni
+Gizineni collected $672.00 from pot
+Gizineni: doesn't show hand
+*** SUMMARY ***
+Total pot $675.00 | Rake $3.00
+Board [8c 7s Qd]
+Seat 1: PSYCHOLOGIST12 (big blind) folded on the Flop
+Seat 2: Sabazius folded before Flop (didn't bet)
+Seat 3: elmatador6969 folded before Flop (didn't bet)
+Seat 4: SigadiSogadi folded before Flop (didn't bet)
+Seat 5: uhhhyesandno folded before Flop (didn't bet)
+Seat 6: jrSuited18 folded before Flop (didn't bet)
+Seat 7: Gizineni collected ($672.00)
+Seat 8: Meek Bill (button) folded before Flop (didn't bet)
+Seat 9: chop-ch0p (small blind) folded before Flop
+
+PokerStars Hand #1481608422:  Hold'em No Limit ($75.00/$150.00 USD) - 2022/12/11 23:45:03 ET
+Table 'WPN_7 Day No Rathole 75/150 NLH' 9-max Seat #9 is the button
+Seat 1: PSYCHOLOGIST12 ($1648.75 in chips)
+Seat 2: Sabazius ($5094.00 in chips)
+Seat 3: elmatador6969 ($3222.75 in chips)
+Seat 4: SigadiSogadi ($2979.31 in chips)
+Seat 5: uhhhyesandno ($1500.00 in chips)
+Seat 6: jrSuited18 ($1500.00 in chips)
+Seat 7: Gizineni ($2097.00 in chips)
+Seat 8: Meek Bill ($1500.00 in chips)
+Seat 9: chop-ch0p ($6171.00 in chips)
+PSYCHOLOGIST12: posts small blind $75.00
+Sabazius: posts big blind $150.00
+*** HOLE CARDS ***
+elmatador6969: folds
+SigadiSogadi: folds
+uhhhyesandno: folds
+jrSuited18: folds
+Gizineni: folds
+Meek Bill: raises $1350.00 to $1500.00 and is all-in
+chop-ch0p: folds
+PSYCHOLOGIST12: folds
+Sabazius: folds
+Uncalled bet ($1350.00) returned to Meek Bill
+Meek Bill collected $375.00 from pot
+Meek Bill: doesn't show hand
+*** SUMMARY ***
+Total pot $375.00 | Rake $0.00
+Seat 1: PSYCHOLOGIST12 (small blind) folded before Flop
+Seat 2: Sabazius (big blind) folded before Flop
+Seat 3: elmatador6969 folded before Flop (didn't bet)
+Seat 4: SigadiSogadi folded before Flop (didn't bet)
+Seat 5: uhhhyesandno folded before Flop (didn't bet)
+Seat 6: jrSuited18 folded before Flop (didn't bet)
+Seat 7: Gizineni folded before Flop (didn't bet)
+Seat 8: Meek Bill collected ($375.00)
+Seat 9: chop-ch0p (button) folded before Flop (didn't bet)
+
+PokerStars Hand #1481609752:  Hold'em No Limit ($75.00/$150.00 USD) - 2022/12/11 23:45:43 ET
+Table 'WPN_7 Day No Rathole 75/150 NLH' 9-max Seat #1 is the button
+Seat 1: PSYCHOLOGIST12 ($1573.75 in chips)
+Seat 2: Sabazius ($4944.00 in chips)
+Seat 3: elmatador6969 ($3222.75 in chips)
+Seat 4: SigadiSogadi ($2979.31 in chips)
+Seat 5: uhhhyesandno ($1500.00 in chips)
+Seat 6: jrSuited18 ($1500.00 in chips)
+Seat 7: Gizineni ($2097.00 in chips)
+Seat 8: Meek Bill ($1725.00 in chips)
+Seat 9: chop-ch0p ($6171.00 in chips)
+Sabazius: posts small blind $75.00
+SigadiSogadi: posts big blind $150.00
+*** HOLE CARDS ***
+uhhhyesandno: folds
+jrSuited18: raises $1350.00 to $1500.00 and is all-in
+Gizineni: raises $597.00 to $2097.00 and is all-in
+Meek Bill: folds
+chop-ch0p: folds
+PSYCHOLOGIST12: folds
+Sabazius: folds
+SigadiSogadi: folds
+Uncalled bet ($597.00) returned to Gizineni
+*** FIRST FLOP *** [Td 4h Js]
+*** FIRST TURN *** [Td 4h Js] [Qd]
+*** FIRST RIVER *** [Td 4h Js Qd] [4s]
+*** SECOND FLOP *** [2s Jd 7c]
+*** SECOND TURN *** [2s Jd 7c] [Qs]
+*** SECOND RIVER *** [2s Jd 7c Qs] [Qc]
+*** FIRST SHOW DOWN ***
+jrSuited18: shows [Jc Ac]
+Gizineni: shows [Ad Kc]
+Gizineni collected $1611.00 from pot
+*** SECOND SHOW DOWN ***
+jrSuited18: shows [Jc Ac]
+Gizineni: shows [Ad Kc]
+jrSuited18 collected $1611.00 from pot
+*** SUMMARY ***
+Total pot $3225.00 | Rake $3.00
+Hand was run twice
+FIRST Board [Td 4h Js Qd 4s]
+SECOND Board [2s Jd 7c Qs Qc]
+Seat 1: PSYCHOLOGIST12 (button) folded before Flop (didn't bet)
+Seat 2: Sabazius (small blind) folded before Flop
+Seat 3: elmatador6969 and lost, and lost
+Seat 4: SigadiSogadi (big blind) folded before Flop
+Seat 5: uhhhyesandno folded before Flop (didn't bet)
+Seat 6: jrSuited18 showed [Jc Ac] and lost, and won ($1611.00)
+Seat 7: Gizineni showed [Ad Kc] and won ($1611.00), and lost
+Seat 8: Meek Bill folded before Flop (didn't bet)
+Seat 9: chop-ch0p folded before Flop (didn't bet)
+
+PokerStars Hand #1481611452:  Hold'em No Limit ($75.00/$150.00 USD) - 2022/12/11 23:46:32 ET
+Table 'WPN_7 Day No Rathole 75/150 NLH' 9-max Seat #2 is the button
+Seat 1: PSYCHOLOGIST12 ($1573.75 in chips)
+Seat 2: Sabazius ($4869.00 in chips)
+Seat 3: HornyOldMan ($8703.51 in chips)
+Seat 4: SigadiSogadi ($2829.31 in chips)
+Seat 5: uhhhyesandno ($1500.00 in chips)
+Seat 6: jrSuited18 ($1611.00 in chips)
+Seat 7: Gizineni ($2208.00 in chips)
+Seat 8: Meek Bill ($1725.00 in chips)
+Seat 9: chop-ch0p ($6171.00 in chips)
+SigadiSogadi: posts small blind $75.00
+uhhhyesandno: posts big blind $150.00
+*** HOLE CARDS ***
+jrSuited18: folds
+Gizineni: folds
+Meek Bill: folds
+chop-ch0p: folds
+PSYCHOLOGIST12: raises $1423.75 to $1573.75 and is all-in
+Sabazius: folds
+SigadiSogadi: folds
+uhhhyesandno: folds
+Uncalled bet ($1423.75) returned to PSYCHOLOGIST12
+PSYCHOLOGIST12 collected $375.00 from pot
+PSYCHOLOGIST12: doesn't show hand
+*** SUMMARY ***
+Total pot $375.00 | Rake $0.00
+Seat 1: PSYCHOLOGIST12 collected ($375.00)
+Seat 2: Sabazius (button) folded before Flop (didn't bet)
+Seat 4: SigadiSogadi (small blind) folded before Flop
+Seat 5: uhhhyesandno (big blind) folded before Flop
+Seat 6: jrSuited18 folded before Flop (didn't bet)
+Seat 7: Gizineni folded before Flop (didn't bet)
+Seat 8: Meek Bill folded before Flop (didn't bet)
+Seat 9: chop-ch0p folded before Flop (didn't bet)
+
+PokerStars Hand #1481612879:  Hold'em No Limit ($75.00/$150.00 USD) - 2022/12/11 23:47:13 ET
+Table 'WPN_7 Day No Rathole 75/150 NLH' 9-max Seat #4 is the button
+Seat 1: PSYCHOLOGIST12 ($1798.75 in chips)
+Seat 2: Sabazius ($4869.00 in chips)
+Seat 3: HornyOldMan ($8703.51 in chips)
+Seat 4: SigadiSogadi ($2754.31 in chips)
+Seat 5: uhhhyesandno ($1350.00 in chips)
+Seat 6: jrSuited18 ($1611.00 in chips)
+Seat 7: Gizineni ($2208.00 in chips)
+Seat 8: Meek Bill ($1725.00 in chips)
+Seat 9: chop-ch0p ($6171.00 in chips)
+uhhhyesandno: posts small blind $75.00
+jrSuited18: posts big blind $150.00
+*** HOLE CARDS ***
+Gizineni: folds
+Meek Bill: folds
+chop-ch0p: folds
+PSYCHOLOGIST12: folds
+Sabazius: folds
+SigadiSogadi: raises $150.00 to $300.00
+uhhhyesandno: folds
+jrSuited18: calls $150.00
+*** FLOP *** [Ts 7s 6c]
+jrSuited18: checks
+SigadiSogadi: checks
+*** TURN *** [Ts 7s 6c] [As]
+jrSuited18: checks
+SigadiSogadi: bets $337.50
+jrSuited18: folds
+Uncalled bet ($337.50) returned to SigadiSogadi
+SigadiSogadi collected $672.00 from pot
+SigadiSogadi: doesn't show hand
+*** SUMMARY ***
+Total pot $675.00 | Rake $3.00
+Board [Ts 7s 6c As]
+Seat 1: PSYCHOLOGIST12 folded before Flop (didn't bet)
+Seat 2: Sabazius folded before Flop (didn't bet)
+Seat 4: SigadiSogadi (button) collected ($672.00)
+Seat 5: uhhhyesandno (small blind) folded before Flop
+Seat 6: jrSuited18 (big blind) folded on the Turn
+Seat 7: Gizineni folded before Flop (didn't bet)
+Seat 8: Meek Bill folded before Flop (didn't bet)
+Seat 9: chop-ch0p folded before Flop (didn't bet)
+
+PokerStars Hand #1481615591:  Hold'em No Limit ($75.00/$150.00 USD) - 2022/12/11 23:48:31 ET
+Table 'WPN_7 Day No Rathole 75/150 NLH' 9-max Seat #5 is the button
+Seat 1: PSYCHOLOGIST12 ($1798.75 in chips)
+Seat 2: Sabazius ($4869.00 in chips)
+Seat 3: HornyOldMan ($8703.51 in chips)
+Seat 4: SigadiSogadi ($3126.31 in chips)
+Seat 5: uhhhyesandno ($1500.00 in chips)
+Seat 6: jrSuited18 ($1311.00 in chips)
+Seat 7: Gizineni ($2208.00 in chips)
+Seat 8: Meek Bill ($1725.00 in chips)
+Seat 9: chop-ch0p ($6171.00 in chips)
+jrSuited18: posts small blind $75.00
+Gizineni: posts big blind $150.00
+*** HOLE CARDS ***
+Meek Bill: folds
+chop-ch0p: folds
+PSYCHOLOGIST12: folds
+Sabazius: raises $150.00 to $300.00
+SigadiSogadi: folds
+uhhhyesandno: folds
+jrSuited18: folds
+Gizineni: calls $150.00
+*** FLOP *** [9d 7c 2d]
+Gizineni: checks
+Sabazius: bets $300.00
+Gizineni: folds
+Uncalled bet ($300.00) returned to Sabazius
+Sabazius collected $672.00 from pot
+Sabazius: doesn't show hand
+*** SUMMARY ***
+Total pot $675.00 | Rake $3.00
+Board [9d 7c 2d]
+Seat 1: PSYCHOLOGIST12 folded before Flop (didn't bet)
+Seat 2: Sabazius collected ($672.00)
+Seat 4: SigadiSogadi folded before Flop (didn't bet)
+Seat 5: uhhhyesandno (button) folded before Flop (didn't bet)
+Seat 6: jrSuited18 (small blind) folded before Flop
+Seat 7: Gizineni (big blind) folded on the Flop
+Seat 8: Meek Bill folded before Flop (didn't bet)
+Seat 9: chop-ch0p folded before Flop (didn't bet)
+
+PokerStars Hand #1481617428:  Hold'em No Limit ($75.00/$150.00 USD) - 2022/12/11 23:49:25 ET
+Table 'WPN_7 Day No Rathole 75/150 NLH' 9-max Seat #6 is the button
+Seat 1: PSYCHOLOGIST12 ($1798.75 in chips)
+Seat 2: Sabazius ($5241.00 in chips)
+Seat 3: HornyOldMan ($8703.51 in chips)
+Seat 4: SigadiSogadi ($3126.31 in chips)
+Seat 5: uhhhyesandno ($1500.00 in chips)
+Seat 6: jrSuited18 ($1500.00 in chips)
+Seat 7: Gizineni ($1908.00 in chips)
+Seat 8: Meek Bill ($1725.00 in chips)
+Seat 9: chop-ch0p ($6171.00 in chips)
+Gizineni: posts small blind $75.00
+Meek Bill: posts big blind $150.00
+*** HOLE CARDS ***
+chop-ch0p: folds
+PSYCHOLOGIST12: folds
+Sabazius: folds
+SigadiSogadi: raises $150.00 to $300.00
+uhhhyesandno: raises $1200.00 to $1500.00 and is all-in
+jrSuited18: folds
+Gizineni: folds
+Meek Bill: folds
+SigadiSogadi: calls $1200.00
+*** FIRST FLOP *** [Ks 2s 3c]
+*** FIRST TURN *** [Ks 2s 3c] [Qh]
+*** FIRST RIVER *** [Ks 2s 3c Qh] [4c]
+*** SECOND FLOP *** [9h 5s 4h]
+*** SECOND TURN *** [9h 5s 4h] [Qc]
+*** SECOND RIVER *** [9h 5s 4h Qc] [As]
+*** FIRST SHOW DOWN ***
+uhhhyesandno: shows [Ad Kd]
+SigadiSogadi: shows [6c 6s]
+uhhhyesandno collected $1611.00 from pot
+*** SECOND SHOW DOWN ***
+uhhhyesandno: shows [Ad Kd]
+SigadiSogadi: shows [6c 6s]
+uhhhyesandno collected $1611.00 from pot
+*** SUMMARY ***
+Total pot $3225.00 | Rake $3.00
+Hand was run twice
+FIRST Board [Ks 2s 3c Qh 4c]
+SECOND Board [9h 5s 4h Qc As]
+Seat 1: PSYCHOLOGIST12 folded before Flop (didn't bet)
+Seat 2: Sabazius folded before Flop (didn't bet)
+Seat 3: HornyOldMan and lost, and lost
+Seat 4: SigadiSogadi showed [6c 6s] and lost, and lost
+Seat 5: uhhhyesandno showed [Ad Kd] and won ($1611.00), and won ($1611.00)
+Seat 6: jrSuited18 (button) folded before Flop (didn't bet)
+Seat 7: Gizineni (small blind) folded before Flop
+Seat 8: Meek Bill (big blind) folded before Flop
+Seat 9: chop-ch0p folded before Flop (didn't bet)
+
+PokerStars Hand #1481618692:  Hold'em No Limit ($75.00/$150.00 USD) - 2022/12/11 23:50:02 ET
+Table 'WPN_7 Day No Rathole 75/150 NLH' 9-max Seat #7 is the button
+Seat 1: PSYCHOLOGIST12 ($1798.75 in chips)
+Seat 2: Sabazius ($5241.00 in chips)
+Seat 3: HornyOldMan ($8703.51 in chips)
+Seat 4: SigadiSogadi ($1626.31 in chips)
+Seat 5: uhhhyesandno ($3222.00 in chips)
+Seat 6: jrSuited18 ($1500.00 in chips)
+Seat 7: Gizineni ($1833.00 in chips)
+Seat 8: Meek Bill ($1575.00 in chips)
+Seat 9: chop-ch0p ($6171.00 in chips)
+Meek Bill: posts small blind $75.00
+chop-ch0p: posts big blind $150.00
+*** HOLE CARDS ***
+PSYCHOLOGIST12: folds
+Sabazius: folds
+SigadiSogadi: folds
+uhhhyesandno: folds
+jrSuited18: folds
+Gizineni: folds
+Meek Bill: raises $1425.00 to $1575.00 and is all-in
+chop-ch0p: calls $1425.00
+*** FIRST FLOP *** [6s Jd As]
+*** FIRST TURN *** [6s Jd As] [Qc]
+*** FIRST RIVER *** [6s Jd As Qc] [6h]
+*** SECOND FLOP *** [Qs 7h 4h]
+*** SECOND TURN *** [Qs 7h 4h] [Jh]
+*** SECOND RIVER *** [Qs 7h 4h Jh] [Tc]
+*** FIRST SHOW DOWN ***
+Meek Bill: shows [6d Kh]
+chop-ch0p: shows [Ad 7c]
+Meek Bill collected $1573.50 from pot
+*** SECOND SHOW DOWN ***
+Meek Bill: shows [6d Kh]
+chop-ch0p: shows [Ad 7c]
+chop-ch0p collected $1573.50 from pot
+*** SUMMARY ***
+Total pot $3150.00 | Rake $3.00
+Hand was run twice
+FIRST Board [6s Jd As Qc 6h]
+SECOND Board [Qs 7h 4h Jh Tc]
+Seat 1: PSYCHOLOGIST12 folded before Flop (didn't bet)
+Seat 2: Sabazius folded before Flop (didn't bet)
+Seat 3: HornyOldMan and lost, and lost
+Seat 4: SigadiSogadi folded before Flop (didn't bet)
+Seat 5: uhhhyesandno folded before Flop (didn't bet)
+Seat 6: jrSuited18 folded before Flop (didn't bet)
+Seat 7: Gizineni (button) folded before Flop (didn't bet)
+Seat 8: Meek Bill (small blind) showed [6d Kh] and won ($1573.50), and lost
+Seat 9: chop-ch0p (big blind) showed [Ad 7c] and lost, and won ($1573.50)
+
+PokerStars Hand #1481620410:  Hold'em No Limit ($75.00/$150.00 USD) - 2022/12/11 23:50:53 ET
+Table 'WPN_7 Day No Rathole 75/150 NLH' 9-max Seat #8 is the button
+Seat 1: PSYCHOLOGIST12 ($1798.75 in chips)
+Seat 2: Sabazius ($5241.00 in chips)
+Seat 3: HornyOldMan ($8703.51 in chips)
+Seat 4: SigadiSogadi ($1626.31 in chips)
+Seat 5: uhhhyesandno ($3222.00 in chips)
+Seat 6: jrSuited18 ($1500.00 in chips)
+Seat 7: Gizineni ($1833.00 in chips)
+Seat 8: Meek Bill ($1573.50 in chips)
+Seat 9: chop-ch0p ($6169.50 in chips)
+chop-ch0p: posts small blind $75.00
+PSYCHOLOGIST12: posts big blind $150.00
+*** HOLE CARDS ***
+Sabazius: folds
+SigadiSogadi: folds
+uhhhyesandno: folds
+jrSuited18: raises $1350.00 to $1500.00 and is all-in
+Gizineni: folds
+Meek Bill: folds
+chop-ch0p: folds
+PSYCHOLOGIST12: folds
+Uncalled bet ($1350.00) returned to jrSuited18
+jrSuited18 collected $375.00 from pot
+jrSuited18: doesn't show hand
+*** SUMMARY ***
+Total pot $375.00 | Rake $0.00
+Seat 1: PSYCHOLOGIST12 (big blind) folded before Flop
+Seat 2: Sabazius folded before Flop (didn't bet)
+Seat 4: SigadiSogadi folded before Flop (didn't bet)
+Seat 5: uhhhyesandno folded before Flop (didn't bet)
+Seat 6: jrSuited18 collected ($375.00)
+Seat 7: Gizineni folded before Flop (didn't bet)
+Seat 8: Meek Bill (button) folded before Flop (didn't bet)
+Seat 9: chop-ch0p (small blind) folded before Flop
+
+PokerStars Hand #1481621648:  Hold'em No Limit ($75.00/$150.00 USD) - 2022/12/11 23:51:31 ET
+Table 'WPN_7 Day No Rathole 75/150 NLH' 9-max Seat #9 is the button
+Seat 1: PSYCHOLOGIST12 ($1648.75 in chips)
+Seat 2: Sabazius ($5241.00 in chips)
+Seat 3: HornyOldMan ($8703.51 in chips)
+Seat 4: SigadiSogadi ($1626.31 in chips)
+Seat 5: uhhhyesandno ($3222.00 in chips)
+Seat 6: jrSuited18 ($1725.00 in chips)
+Seat 7: Gizineni ($1833.00 in chips)
+Seat 8: Meek Bill ($1573.50 in chips)
+Seat 9: chop-ch0p ($6094.50 in chips)
+PSYCHOLOGIST12: posts small blind $75.00
+HornyOldMan: posts big blind $150.00
+*** HOLE CARDS ***
+SigadiSogadi: raises $150.00 to $300.00
+uhhhyesandno: folds
+jrSuited18: folds
+Gizineni: folds
+Meek Bill: folds
+chop-ch0p: folds
+PSYCHOLOGIST12: folds
+HornyOldMan: folds
+Uncalled bet ($150.00) returned to SigadiSogadi
+SigadiSogadi collected $375.00 from pot
+SigadiSogadi: doesn't show hand
+*** SUMMARY ***
+Total pot $375.00 | Rake $0.00
+Seat 1: PSYCHOLOGIST12 (small blind) folded before Flop
+Seat 3: HornyOldMan (big blind) folded before Flop
+Seat 4: SigadiSogadi collected ($375.00)
+Seat 5: uhhhyesandno folded before Flop (didn't bet)
+Seat 6: jrSuited18 folded before Flop (didn't bet)
+Seat 7: Gizineni folded before Flop (didn't bet)
+Seat 8: Meek Bill folded before Flop (didn't bet)
+Seat 9: chop-ch0p (button) folded before Flop (didn't bet)
+
+PokerStars Hand #1481622455:  Hold'em No Limit ($75.00/$150.00 USD) - 2022/12/11 23:51:56 ET
+Table 'WPN_7 Day No Rathole 75/150 NLH' 9-max Seat #1 is the button
+Seat 1: PSYCHOLOGIST12 ($1573.75 in chips)
+Seat 3: HornyOldMan ($8553.51 in chips)
+Seat 4: SigadiSogadi ($1851.31 in chips)
+Seat 5: uhhhyesandno ($3222.00 in chips)
+Seat 6: jrSuited18 ($1725.00 in chips)
+Seat 7: Gizineni ($1833.00 in chips)
+Seat 8: Meek Bill ($1573.50 in chips)
+Seat 9: chop-ch0p ($6094.50 in chips)
+HornyOldMan: posts small blind $75.00
+uhhhyesandno: posts big blind $150.00
+*** HOLE CARDS ***
+jrSuited18: folds
+Gizineni: folds
+Meek Bill: folds
+chop-ch0p: raises $150.00 to $300.00
+PSYCHOLOGIST12: folds
+HornyOldMan: raises $825.00 to $1125.00
+uhhhyesandno: folds
+chop-ch0p: calls $825.00
+*** FLOP *** [Th 5c Kh]
+HornyOldMan: bets $599.25
+chop-ch0p: calls $599.25
+*** TURN *** [Th 5c Kh] [7h]
+HornyOldMan: bets $898.87
+chop-ch0p: folds
+Uncalled bet ($898.87) returned to HornyOldMan
+HornyOldMan collected $3595.50 from pot
+HornyOldMan: doesn't show hand
+*** SUMMARY ***
+Total pot $3598.50 | Rake $3.00
+Board [Th 5c Kh 7h]
+Seat 1: PSYCHOLOGIST12 (button) folded before Flop (didn't bet)
+Seat 3: HornyOldMan (small blind) collected ($3595.50)
+Seat 5: uhhhyesandno (big blind) folded before Flop
+Seat 6: jrSuited18 folded before Flop (didn't bet)
+Seat 7: Gizineni folded before Flop (didn't bet)
+Seat 8: Meek Bill folded before Flop (didn't bet)
+Seat 9: chop-ch0p folded on the Turn
+
+PokerStars Hand #1481626402:  Hold'em No Limit ($75.00/$150.00 USD) - 2022/12/11 23:53:53 ET
+Table 'WPN_7 Day No Rathole 75/150 NLH' 9-max Seat #3 is the button
+Seat 1: PSYCHOLOGIST12 ($1573.75 in chips)
+Seat 2: Sabazius ($5241.00 in chips)
+Seat 3: HornyOldMan ($10424.76 in chips)
+Seat 5: uhhhyesandno ($3072.00 in chips)
+Seat 6: jrSuited18 ($1725.00 in chips)
+Seat 7: Gizineni ($1833.00 in chips)
+Seat 8: Meek Bill ($1573.50 in chips)
+Seat 9: chop-ch0p ($4370.25 in chips)
+uhhhyesandno: posts small blind $75.00
+Gizineni: posts big blind $150.00
+*** HOLE CARDS ***
+Meek Bill: folds
+chop-ch0p: folds
+PSYCHOLOGIST12: folds
+HornyOldMan: folds
+uhhhyesandno: folds
+Uncalled bet ($75.00) returned to Gizineni
+Gizineni collected $150.00 from pot
+Gizineni: doesn't show hand
+*** SUMMARY ***
+Total pot $150.00 | Rake $0.00
+Seat 1: PSYCHOLOGIST12 folded before Flop (didn't bet)
+Seat 3: HornyOldMan (button) folded before Flop (didn't bet)
+Seat 5: uhhhyesandno (small blind) folded before Flop
+Seat 7: Gizineni (big blind) collected ($150.00)
+Seat 8: Meek Bill folded before Flop (didn't bet)
+Seat 9: chop-ch0p folded before Flop (didn't bet)
+
+PokerStars Hand #1481627600:  Hold'em No Limit ($75.00/$150.00 USD) - 2022/12/11 23:54:27 ET
+Table 'WPN_7 Day No Rathole 75/150 NLH' 9-max Seat #5 is the button
+Seat 1: PSYCHOLOGIST12 ($1573.75 in chips)
+Seat 2: Sabazius ($5241.00 in chips)
+Seat 3: HornyOldMan ($10424.76 in chips)
+Seat 4: J0hnMcclean ($4419.75 in chips)
+Seat 5: uhhhyesandno ($2997.00 in chips)
+Seat 7: Gizineni ($1908.00 in chips)
+Seat 8: Meek Bill ($1573.50 in chips)
+Seat 9: chop-ch0p ($4370.25 in chips)
+Gizineni: posts small blind $75.00
+Meek Bill: posts big blind $150.00
+*** HOLE CARDS ***
+chop-ch0p: folds
+PSYCHOLOGIST12: folds
+HornyOldMan: folds
+uhhhyesandno: folds
+Gizineni: raises $1500.00 to $1650.00
+Meek Bill: folds
+Uncalled bet ($1500.00) returned to Gizineni
+Gizineni collected $300.00 from pot
+Gizineni: doesn't show hand
+*** SUMMARY ***
+Total pot $300.00 | Rake $0.00
+Seat 1: PSYCHOLOGIST12 folded before Flop (didn't bet)
+Seat 3: HornyOldMan folded before Flop (didn't bet)
+Seat 5: uhhhyesandno (button) folded before Flop (didn't bet)
+Seat 7: Gizineni (small blind) collected ($300.00)
+Seat 8: Meek Bill (big blind) folded before Flop
+Seat 9: chop-ch0p folded before Flop (didn't bet)
+
+PokerStars Hand #1481628637:  Hold'em No Limit ($75.00/$150.00 USD) - 2022/12/11 23:54:57 ET
+Table 'WPN_7 Day No Rathole 75/150 NLH' 9-max Seat #7 is the button
+Seat 1: PSYCHOLOGIST12 ($1573.75 in chips)
+Seat 2: Sabazius ($5241.00 in chips)
+Seat 3: HornyOldMan ($10424.76 in chips)
+Seat 4: J0hnMcclean ($4419.75 in chips)
+Seat 5: uhhhyesandno ($2997.00 in chips)
+Seat 7: Gizineni ($2058.00 in chips)
+Seat 8: Meek Bill ($1423.50 in chips)
+Seat 9: chop-ch0p ($4370.25 in chips)
+Meek Bill: posts small blind $75.00
+chop-ch0p: posts big blind $150.00
+*** HOLE CARDS ***
+PSYCHOLOGIST12: folds
+HornyOldMan: folds
+uhhhyesandno: folds
+Gizineni: folds
+Meek Bill: raises $1350.00 to $1500.00 and is all-in
+chop-ch0p: folds
+Uncalled bet ($1350.00) returned to Meek Bill
+Meek Bill collected $300.00 from pot
+Meek Bill: doesn't show hand
+*** SUMMARY ***
+Total pot $300.00 | Rake $0.00
+Seat 1: PSYCHOLOGIST12 folded before Flop (didn't bet)
+Seat 3: HornyOldMan folded before Flop (didn't bet)
+Seat 5: uhhhyesandno folded before Flop (didn't bet)
+Seat 7: Gizineni (button) folded before Flop (didn't bet)
+Seat 8: Meek Bill (small blind) collected ($300.00)
+Seat 9: chop-ch0p (big blind) folded before Flop
+
+PokerStars Hand #1481628964:  Hold'em No Limit ($75.00/$150.00 USD) - 2022/12/11 23:55:26 ET
+Table 'WPN_7 Day No Rathole 75/150 NLH' 9-max Seat #8 is the button
+Seat 1: PSYCHOLOGIST12 ($1573.75 in chips)
+Seat 2: Sabazius ($5241.00 in chips)
+Seat 3: HornyOldMan ($10424.76 in chips)
+Seat 4: J0hnMcclean ($4419.75 in chips)
+Seat 5: uhhhyesandno ($2997.00 in chips)
+Seat 7: Gizineni ($2058.00 in chips)
+Seat 8: Meek Bill ($1650.00 in chips)
+Seat 9: chop-ch0p ($4220.25 in chips)
+chop-ch0p: posts small blind $75.00
+PSYCHOLOGIST12: posts big blind $150.00
+*** HOLE CARDS ***
+HornyOldMan: folds
+uhhhyesandno: raises $150.00 to $300.00
+Gizineni: folds
+Meek Bill: folds
+chop-ch0p: folds
+PSYCHOLOGIST12: folds
+Uncalled bet ($150.00) returned to uhhhyesandno
+uhhhyesandno collected $375.00 from pot
+uhhhyesandno: doesn't show hand
+*** SUMMARY ***
+Total pot $375.00 | Rake $0.00
+Seat 1: PSYCHOLOGIST12 (big blind) folded before Flop
+Seat 3: HornyOldMan folded before Flop (didn't bet)
+Seat 5: uhhhyesandno collected ($375.00)
+Seat 7: Gizineni folded before Flop (didn't bet)
+Seat 8: Meek Bill (button) folded before Flop (didn't bet)
+Seat 9: chop-ch0p (small blind) folded before Flop
+
+PokerStars Hand #1481629231:  Hold'em No Limit ($75.00/$150.00 USD) - 2022/12/11 23:55:55 ET
+Table 'WPN_7 Day No Rathole 75/150 NLH' 9-max Seat #9 is the button
+Seat 2: Sabazius ($5241.00 in chips)
+Seat 3: HornyOldMan ($10424.76 in chips)
+Seat 4: J0hnMcclean ($4419.75 in chips)
+Seat 5: uhhhyesandno ($3222.00 in chips)
+Seat 7: Gizineni ($2058.00 in chips)
+Seat 8: Meek Bill ($1650.00 in chips)
+Seat 9: chop-ch0p ($4145.25 in chips)
+HornyOldMan: posts big blind $150.00
+*** HOLE CARDS ***
+uhhhyesandno: folds
+Gizineni: raises $1908.00 to $2058.00 and is all-in
+Meek Bill: folds
+chop-ch0p: folds
+HornyOldMan: folds
+Uncalled bet ($1908.00) returned to Gizineni
+Gizineni collected $300.00 from pot
+Gizineni: doesn't show hand
+*** SUMMARY ***
+Total pot $300.00 | Rake $0.00
+Seat 3: HornyOldMan (big blind) folded before Flop
+Seat 5: uhhhyesandno folded before Flop (didn't bet)
+Seat 7: Gizineni collected ($300.00)
+Seat 8: Meek Bill folded before Flop (didn't bet)
+Seat 9: chop-ch0p (button) folded before Flop (didn't bet)
+
+PokerStars Hand #1481629428:  Hold'em No Limit ($75.00/$150.00 USD) - 2022/12/11 23:56:18 ET
+Table 'WPN_7 Day No Rathole 75/150 NLH' 9-max Seat #1 is the button
+Seat 3: HornyOldMan ($10274.76 in chips)
+Seat 4: J0hnMcclean ($4419.75 in chips)
+Seat 7: Gizineni ($2208.00 in chips)
+Seat 8: Meek Bill ($1650.00 in chips)
+Seat 9: chop-ch0p ($4145.25 in chips)
+HornyOldMan: posts small blind $75.00
+J0hnMcclean: posts big blind $150.00
+*** HOLE CARDS ***
+Gizineni: folds
+Meek Bill: folds
+chop-ch0p: folds
+HornyOldMan: raises $255.00 to $405.00
+J0hnMcclean: folds
+Uncalled bet ($255.00) returned to HornyOldMan
+HornyOldMan collected $300.00 from pot
+HornyOldMan: doesn't show hand
+*** SUMMARY ***
+Total pot $300.00 | Rake $0.00
+Seat 3: HornyOldMan (small blind) collected ($300.00)
+Seat 4: J0hnMcclean (big blind) folded before Flop
+Seat 7: Gizineni folded before Flop (didn't bet)
+Seat 8: Meek Bill folded before Flop (didn't bet)
+Seat 9: chop-ch0p folded before Flop (didn't bet)
+
+PokerStars Hand #1481645018:  Hold'em No Limit ($75.00/$150.00 USD) - 2022/12/12 00:08:04 ET
+Table 'WPN_7 Day No Rathole 75/150 NLH' 9-max Seat #4 is the button
+Seat 4: J0hnMcclean ($4269.75 in chips)
+Seat 5: bigsoowoop ($3776.19 in chips)
+J0hnMcclean: posts small blind $75.00
+bigsoowoop: posts big blind $150.00
+*** HOLE CARDS ***
+J0hnMcclean: raises $150.00 to $300.00
+bigsoowoop: raises $3476.19 to $3776.19 and is all-in
+J0hnMcclean: folds
+Uncalled bet ($3476.19) returned to bigsoowoop
+bigsoowoop collected $600.00 from pot
+bigsoowoop: doesn't show hand
+*** SUMMARY ***
+Total pot $600.00 | Rake $0.00
+Seat 4: J0hnMcclean (button) (small blind) folded before Flop
+Seat 5: bigsoowoop (big blind) collected ($600.00)
+
+PokerStars Hand #1481645516:  Hold'em No Limit ($75.00/$150.00 USD) - 2022/12/12 00:08:19 ET
+Table 'WPN_7 Day No Rathole 75/150 NLH' 9-max Seat #5 is the button
+Seat 4: J0hnMcclean ($3969.75 in chips)
+Seat 5: bigsoowoop ($4076.19 in chips)
+bigsoowoop: posts small blind $75.00
+J0hnMcclean: posts big blind $150.00
+*** HOLE CARDS ***
+bigsoowoop: calls $75.00
+J0hnMcclean: checks
+*** FLOP *** [3d 3c 4d]
+J0hnMcclean: checks
+bigsoowoop: bets $150.00
+J0hnMcclean: raises $330.00 to $480.00
+bigsoowoop: folds
+Uncalled bet ($330.00) returned to J0hnMcclean
+J0hnMcclean collected $598.75 from pot
+J0hnMcclean: doesn't show hand
+*** SUMMARY ***
+Total pot $600.00 | Rake $1.25
+Board [3d 3c 4d]
+Seat 4: J0hnMcclean (big blind) collected ($598.75)
+Seat 5: bigsoowoop (button) (small blind) folded on the Flop
+
+PokerStars Hand #1481646821:  Hold'em No Limit ($75.00/$150.00 USD) - 2022/12/12 00:08:59 ET
+Table 'WPN_7 Day No Rathole 75/150 NLH' 9-max Seat #5 is the button
+Seat 5: bigsoowoop ($3776.19 in chips)
+Seat 6: Gizineni ($2208.00 in chips)
+bigsoowoop: posts small blind $75.00
+Gizineni: posts big blind $150.00
+*** HOLE CARDS ***
+bigsoowoop: folds
+Uncalled bet ($75.00) returned to Gizineni
+Gizineni collected $150.00 from pot
+Gizineni: doesn't show hand
+*** SUMMARY ***
+Total pot $150.00 | Rake $0.00
+Seat 5: bigsoowoop (button) (small blind) folded before Flop
+Seat 6: Gizineni (big blind) collected ($150.00)
+
+PokerStars Hand #1481647160:  Hold'em No Limit ($75.00/$150.00 USD) - 2022/12/12 00:09:10 ET
+Table 'WPN_7 Day No Rathole 75/150 NLH' 9-max Seat #6 is the button
+Seat 5: bigsoowoop ($3701.19 in chips)
+Seat 6: Gizineni ($2283.00 in chips)
+Gizineni: posts small blind $75.00
+bigsoowoop: posts big blind $150.00
+*** HOLE CARDS ***
+Gizineni: folds
+Uncalled bet ($75.00) returned to bigsoowoop
+bigsoowoop collected $150.00 from pot
+bigsoowoop: doesn't show hand
+*** SUMMARY ***
+Total pot $150.00 | Rake $0.00
+Seat 5: bigsoowoop (big blind) collected ($150.00)
+Seat 6: Gizineni (button) (small blind) folded before Flop
+
+PokerStars Hand #1481720948:  Hold'em No Limit ($75.00/$150.00 USD) - 2022/12/12 00:47:04 ET
+Table 'WPN_7 Day No Rathole 75/150 NLH' 9-max Seat #5 is the button
+Seat 1: uhhhyesandno ($3222.00 in chips)
+Seat 5: elmatador6969 ($3222.13 in chips)
+Seat 6: bigsoowoop ($3775.56 in chips)
+Seat 7: Thelittle200 ($4067.26 in chips)
+Seat 8: Gizineni ($2208.00 in chips)
+Seat 9: HornyOldMan ($10424.76 in chips)
+bigsoowoop: posts small blind $75.00
+Thelittle200: posts big blind $150.00
+*** HOLE CARDS ***
+elmatador6969: folds
+bigsoowoop: raises $225.00 to $375.00
+Thelittle200: folds
+Uncalled bet ($225.00) returned to bigsoowoop
+bigsoowoop collected $300.00 from pot
+bigsoowoop: doesn't show hand
+*** SUMMARY ***
+Total pot $300.00 | Rake $0.00
+Seat 5: elmatador6969 (button) folded before Flop (didn't bet)
+Seat 6: bigsoowoop (small blind) collected ($300.00)
+Seat 7: Thelittle200 (big blind) folded before Flop
+
+PokerStars Hand #1481721489:  Hold'em No Limit ($75.00/$150.00 USD) - 2022/12/12 00:47:21 ET
+Table 'WPN_7 Day No Rathole 75/150 NLH' 9-max Seat #6 is the button
+Seat 1: uhhhyesandno ($3222.00 in chips)
+Seat 2: Meek Bill ($1650.00 in chips)
+Seat 5: elmatador6969 ($3222.13 in chips)
+Seat 6: bigsoowoop ($3925.56 in chips)
+Seat 7: Thelittle200 ($3917.26 in chips)
+Seat 8: Gizineni ($2208.00 in chips)
+Seat 9: HornyOldMan ($10424.76 in chips)
+Thelittle200: posts small blind $75.00
+Gizineni: posts big blind $150.00
+*** HOLE CARDS ***
+elmatador6969: folds
+bigsoowoop: folds
+Thelittle200: folds
+Uncalled bet ($75.00) returned to Gizineni
+Gizineni collected $150.00 from pot
+Gizineni: doesn't show hand
+*** SUMMARY ***
+Total pot $150.00 | Rake $0.00
+Seat 5: elmatador6969 folded before Flop (didn't bet)
+Seat 6: bigsoowoop (button) folded before Flop (didn't bet)
+Seat 7: Thelittle200 (small blind) folded before Flop
+Seat 8: Gizineni (big blind) collected ($150.00)
+
+PokerStars Hand #1481721916:  Hold'em No Limit ($75.00/$150.00 USD) - 2022/12/12 00:47:34 ET
+Table 'WPN_7 Day No Rathole 75/150 NLH' 9-max Seat #7 is the button
+Seat 1: uhhhyesandno ($3222.00 in chips)
+Seat 2: Meek Bill ($1650.00 in chips)
+Seat 5: elmatador6969 ($3222.13 in chips)
+Seat 6: bigsoowoop ($3925.56 in chips)
+Seat 7: Thelittle200 ($3842.26 in chips)
+Seat 8: Gizineni ($2283.00 in chips)
+Seat 9: HornyOldMan ($10424.76 in chips)
+Gizineni: posts small blind $75.00
+HornyOldMan: posts big blind $150.00
+*** HOLE CARDS ***
+elmatador6969: folds
+bigsoowoop: folds
+Thelittle200: raises $150.00 to $300.00
+Gizineni: folds
+HornyOldMan: folds
+Uncalled bet ($150.00) returned to Thelittle200
+Thelittle200 collected $375.00 from pot
+Thelittle200: doesn't show hand
+*** SUMMARY ***
+Total pot $375.00 | Rake $0.00
+Seat 5: elmatador6969 folded before Flop (didn't bet)
+Seat 6: bigsoowoop folded before Flop (didn't bet)
+Seat 7: Thelittle200 (button) collected ($375.00)
+Seat 8: Gizineni (small blind) folded before Flop
+Seat 9: HornyOldMan (big blind) folded before Flop
+
+PokerStars Hand #1481722807:  Hold'em No Limit ($75.00/$150.00 USD) - 2022/12/12 00:48:04 ET
+Table 'WPN_7 Day No Rathole 75/150 NLH' 9-max Seat #8 is the button
+Seat 2: Meek Bill ($1650.00 in chips)
+Seat 3: TIKITAKA11 ($1500.00 in chips)
+Seat 5: elmatador6969 ($3222.13 in chips)
+Seat 6: bigsoowoop ($3925.56 in chips)
+Seat 7: Thelittle200 ($4067.26 in chips)
+Seat 8: Gizineni ($2208.00 in chips)
+Seat 9: HornyOldMan ($10274.76 in chips)
+HornyOldMan: posts small blind $75.00
+Meek Bill: posts big blind $150.00
+*** HOLE CARDS ***
+elmatador6969: folds
+bigsoowoop: folds
+Thelittle200: folds
+Gizineni: folds
+HornyOldMan: raises $10124.76 to $10274.76 and is all-in
+Meek Bill: folds
+Uncalled bet ($10124.76) returned to HornyOldMan
+HornyOldMan collected $300.00 from pot
+HornyOldMan: doesn't show hand
+*** SUMMARY ***
+Total pot $300.00 | Rake $0.00
+Seat 2: Meek Bill (big blind) folded before Flop
+Seat 5: elmatador6969 folded before Flop (didn't bet)
+Seat 6: bigsoowoop folded before Flop (didn't bet)
+Seat 7: Thelittle200 folded before Flop (didn't bet)
+Seat 8: Gizineni (button) folded before Flop (didn't bet)
+Seat 9: HornyOldMan (small blind) collected ($300.00)
+
+PokerStars Hand #1481723494:  Hold'em No Limit ($75.00/$150.00 USD) - 2022/12/12 00:48:26 ET
+Table 'WPN_7 Day No Rathole 75/150 NLH' 9-max Seat #9 is the button
+Seat 2: Meek Bill ($1500.00 in chips)
+Seat 3: TIKITAKA11 ($1500.00 in chips)
+Seat 5: elmatador6969 ($3222.13 in chips)
+Seat 6: bigsoowoop ($3925.56 in chips)
+Seat 7: Thelittle200 ($4067.26 in chips)
+Seat 8: Gizineni ($2208.00 in chips)
+Seat 9: HornyOldMan ($10424.76 in chips)
+Meek Bill: posts small blind $75.00
+TIKITAKA11: posts big blind $150.00
+*** HOLE CARDS ***
+elmatador6969: folds
+bigsoowoop: raises $150.00 to $300.00
+Thelittle200: folds
+Gizineni: folds
+HornyOldMan: folds
+Meek Bill: folds
+TIKITAKA11: folds
+Uncalled bet ($150.00) returned to bigsoowoop
+bigsoowoop collected $375.00 from pot
+bigsoowoop: doesn't show hand
+*** SUMMARY ***
+Total pot $375.00 | Rake $0.00
+Seat 2: Meek Bill (small blind) folded before Flop
+Seat 3: TIKITAKA11 (big blind) folded before Flop
+Seat 5: elmatador6969 folded before Flop (didn't bet)
+Seat 6: bigsoowoop collected ($375.00)
+Seat 7: Thelittle200 folded before Flop (didn't bet)
+Seat 8: Gizineni folded before Flop (didn't bet)
+Seat 9: HornyOldMan (button) folded before Flop (didn't bet)
+
+PokerStars Hand #1481724196:  Hold'em No Limit ($75.00/$150.00 USD) - 2022/12/12 00:48:49 ET
+Table 'WPN_7 Day No Rathole 75/150 NLH' 9-max Seat #2 is the button
+Seat 2: Meek Bill ($1500.00 in chips)
+Seat 3: TIKITAKA11 ($1350.00 in chips)
+Seat 6: bigsoowoop ($4150.56 in chips)
+Seat 7: Thelittle200 ($4067.26 in chips)
+Seat 8: Gizineni ($2208.00 in chips)
+Seat 9: HornyOldMan ($10424.76 in chips)
+TIKITAKA11: posts small blind $75.00
+Gizineni: posts big blind $150.00
+*** HOLE CARDS ***
+HornyOldMan: raises $150.00 to $300.00
+Meek Bill: folds
+TIKITAKA11: folds
+Gizineni: folds
+Uncalled bet ($150.00) returned to HornyOldMan
+HornyOldMan collected $375.00 from pot
+HornyOldMan: doesn't show hand
+*** SUMMARY ***
+Total pot $375.00 | Rake $0.00
+Seat 2: Meek Bill (button) folded before Flop (didn't bet)
+Seat 3: TIKITAKA11 (small blind) folded before Flop
+Seat 8: Gizineni (big blind) folded before Flop
+Seat 9: HornyOldMan collected ($375.00)
+

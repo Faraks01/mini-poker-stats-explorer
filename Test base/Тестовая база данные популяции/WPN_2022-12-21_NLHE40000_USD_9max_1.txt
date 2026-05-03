@@ -1,0 +1,2534 @@
+PokerStars Hand #1492927319:  Hold'em No Limit ($200.00/$400.00 USD) - 2022/12/21 03:23:22 ET
+Table 'WPN_7 Day No Rathole 200/400 NLH - Limited Time' 9-max Seat #5 is the button
+Seat 2: Sabazius ($6997.37 in chips)
+Seat 5: PLO_fish ($9488.75 in chips)
+PLO_fish: posts small blind $200.00
+Sabazius: posts big blind $400.00
+*** HOLE CARDS ***
+PLO_fish: raises $400.00 to $800.00
+Sabazius: folds
+Uncalled bet ($400.00) returned to PLO_fish
+PLO_fish collected $800.00 from pot
+PLO_fish: doesn't show hand
+*** SUMMARY ***
+Total pot $800.00 | Rake $0.00
+Seat 2: Sabazius (big blind) folded before Flop
+Seat 5: PLO_fish (button) (small blind) collected ($800.00)
+
+PokerStars Hand #1492927705:  Hold'em No Limit ($200.00/$400.00 USD) - 2022/12/21 03:23:41 ET
+Table 'WPN_7 Day No Rathole 200/400 NLH - Limited Time' 9-max Seat #2 is the button
+Seat 2: Sabazius ($6597.37 in chips)
+Seat 5: PLO_fish ($9888.75 in chips)
+Sabazius: posts small blind $200.00
+PLO_fish: posts big blind $400.00
+*** HOLE CARDS ***
+Sabazius: calls $200.00
+PLO_fish: checks
+*** FLOP *** [Qc 2s 8d]
+PLO_fish: checks
+Sabazius: bets $400.00
+PLO_fish: calls $400.00
+*** TURN *** [Qc 2s 8d] [9c]
+PLO_fish: checks
+Sabazius: checks
+*** RIVER *** [Qc 2s 8d 9c] [Kh]
+PLO_fish: bets $800.00
+Sabazius: folds
+Uncalled bet ($800.00) returned to PLO_fish
+PLO_fish collected $1598.75 from pot
+PLO_fish: doesn't show hand
+*** SUMMARY ***
+Total pot $1600.00 | Rake $1.25
+Board [Qc 2s 8d 9c Kh]
+Seat 2: Sabazius (button) (small blind) folded on the River
+Seat 5: PLO_fish (big blind) collected ($1598.75)
+
+PokerStars Hand #1492928776:  Hold'em No Limit ($200.00/$400.00 USD) - 2022/12/21 03:24:34 ET
+Table 'WPN_7 Day No Rathole 200/400 NLH - Limited Time' 9-max Seat #5 is the button
+Seat 5: PLO_fish ($10687.50 in chips)
+Seat 6: Sabazius ($5797.37 in chips)
+PLO_fish: posts small blind $200.00
+Sabazius: posts big blind $400.00
+*** HOLE CARDS ***
+PLO_fish: calls $200.00
+Sabazius: raises $1400.00 to $1800.00
+PLO_fish: folds
+Uncalled bet ($1400.00) returned to Sabazius
+Sabazius collected $800.00 from pot
+Sabazius: doesn't show hand
+*** SUMMARY ***
+Total pot $800.00 | Rake $0.00
+Seat 5: PLO_fish (button) (small blind) folded before Flop
+Seat 6: Sabazius (big blind) collected ($800.00)
+
+PokerStars Hand #1492929233:  Hold'em No Limit ($200.00/$400.00 USD) - 2022/12/21 03:24:57 ET
+Table 'WPN_7 Day No Rathole 200/400 NLH - Limited Time' 9-max Seat #6 is the button
+Seat 5: PLO_fish ($10287.50 in chips)
+Seat 6: Sabazius ($6197.37 in chips)
+Sabazius: posts small blind $200.00
+PLO_fish: posts big blind $400.00
+*** HOLE CARDS ***
+Sabazius: calls $200.00
+PLO_fish: checks
+*** FLOP *** [Ah 6h 5h]
+PLO_fish: checks
+Sabazius: bets $400.00
+PLO_fish: calls $400.00
+*** TURN *** [Ah 6h 5h] [Td]
+PLO_fish: checks
+Sabazius: bets $1200.00
+PLO_fish: calls $1200.00
+*** RIVER *** [Ah 6h 5h Td] [4c]
+PLO_fish: checks
+Sabazius: checks
+*** SHOW DOWN ***
+Sabazius: shows [Ts 8s]
+PLO_fish: mucks hand
+Sabazius collected $3998.75 from pot
+*** SUMMARY ***
+Total pot $4000.00 | Rake $1.25
+Board [Ah 6h 5h Td 4c]
+Seat 5: PLO_fish (big blind) mucked
+Seat 6: Sabazius (button) (small blind) showed [Ts 8s] and won ($3998.75)
+
+PokerStars Hand #1492929925:  Hold'em No Limit ($200.00/$400.00 USD) - 2022/12/21 03:25:31 ET
+Table 'WPN_7 Day No Rathole 200/400 NLH - Limited Time' 9-max Seat #5 is the button
+Seat 5: PLO_fish ($8287.50 in chips)
+Seat 6: Sabazius ($8196.12 in chips)
+PLO_fish: posts small blind $200.00
+Sabazius: posts big blind $400.00
+*** HOLE CARDS ***
+PLO_fish: folds
+Uncalled bet ($200.00) returned to Sabazius
+Sabazius collected $400.00 from pot
+Sabazius: doesn't show hand
+*** SUMMARY ***
+Total pot $400.00 | Rake $0.00
+Seat 5: PLO_fish (button) (small blind) folded before Flop
+Seat 6: Sabazius (big blind) collected ($400.00)
+
+PokerStars Hand #1492930108:  Hold'em No Limit ($200.00/$400.00 USD) - 2022/12/21 03:25:40 ET
+Table 'WPN_7 Day No Rathole 200/400 NLH - Limited Time' 9-max Seat #6 is the button
+Seat 5: PLO_fish ($8087.50 in chips)
+Seat 6: Sabazius ($8396.12 in chips)
+Sabazius: posts small blind $200.00
+PLO_fish: posts big blind $400.00
+*** HOLE CARDS ***
+Sabazius: calls $200.00
+PLO_fish: raises $800.00 to $1200.00
+Sabazius: calls $800.00
+*** FLOP *** [7h 7c 2d]
+PLO_fish: bets $800.00
+Sabazius: folds
+Uncalled bet ($800.00) returned to PLO_fish
+PLO_fish collected $2398.75 from pot
+PLO_fish: doesn't show hand
+*** SUMMARY ***
+Total pot $2400.00 | Rake $1.25
+Board [7h 7c 2d]
+Seat 5: PLO_fish (big blind) collected ($2398.75)
+Seat 6: Sabazius (button) (small blind) folded on the Flop
+
+PokerStars Hand #1492930486:  Hold'em No Limit ($200.00/$400.00 USD) - 2022/12/21 03:26:00 ET
+Table 'WPN_7 Day No Rathole 200/400 NLH - Limited Time' 9-max Seat #5 is the button
+Seat 5: PLO_fish ($9286.25 in chips)
+Seat 6: Sabazius ($7196.12 in chips)
+PLO_fish: posts small blind $200.00
+Sabazius: posts big blind $400.00
+*** HOLE CARDS ***
+PLO_fish: calls $200.00
+Sabazius: raises $6796.12 to $7196.12 and is all-in
+PLO_fish: folds
+Uncalled bet ($6796.12) returned to Sabazius
+Sabazius collected $800.00 from pot
+Sabazius: doesn't show hand
+*** SUMMARY ***
+Total pot $800.00 | Rake $0.00
+Seat 5: PLO_fish (button) (small blind) folded before Flop
+Seat 6: Sabazius (big blind) collected ($800.00)
+
+PokerStars Hand #1492930762:  Hold'em No Limit ($200.00/$400.00 USD) - 2022/12/21 03:26:14 ET
+Table 'WPN_7 Day No Rathole 200/400 NLH - Limited Time' 9-max Seat #6 is the button
+Seat 5: PLO_fish ($8886.25 in chips)
+Seat 6: Sabazius ($7596.12 in chips)
+Sabazius: posts small blind $200.00
+PLO_fish: posts big blind $400.00
+*** HOLE CARDS ***
+Sabazius: raises $400.00 to $800.00
+PLO_fish: calls $400.00
+*** FLOP *** [9h 6h 4d]
+PLO_fish: checks
+Sabazius: bets $800.00
+PLO_fish: calls $800.00
+*** TURN *** [9h 6h 4d] [4c]
+PLO_fish: checks
+Sabazius: bets $600.00
+PLO_fish: raises $6686.25 to $7286.25 and is all-in
+Sabazius: folds
+Uncalled bet ($6686.25) returned to PLO_fish
+PLO_fish collected $4398.75 from pot
+PLO_fish: doesn't show hand
+*** SUMMARY ***
+Total pot $4400.00 | Rake $1.25
+Board [9h 6h 4d 4c]
+Seat 5: PLO_fish (big blind) collected ($4398.75)
+Seat 6: Sabazius (button) (small blind) folded on the Turn
+
+PokerStars Hand #1492931521:  Hold'em No Limit ($200.00/$400.00 USD) - 2022/12/21 03:26:52 ET
+Table 'WPN_7 Day No Rathole 200/400 NLH - Limited Time' 9-max Seat #5 is the button
+Seat 5: PLO_fish ($11085.00 in chips)
+Seat 6: Sabazius ($5396.12 in chips)
+PLO_fish: posts small blind $200.00
+Sabazius: posts big blind $400.00
+*** HOLE CARDS ***
+PLO_fish: calls $200.00
+Sabazius: checks
+*** FLOP *** [2d Qs 7c]
+Sabazius: checks
+PLO_fish: checks
+*** TURN *** [2d Qs 7c] [4h]
+Sabazius: checks
+PLO_fish: bets $400.00
+Sabazius: folds
+Uncalled bet ($400.00) returned to PLO_fish
+PLO_fish collected $798.75 from pot
+PLO_fish: doesn't show hand
+*** SUMMARY ***
+Total pot $800.00 | Rake $1.25
+Board [2d Qs 7c 4h]
+Seat 5: PLO_fish (button) (small blind) collected ($798.75)
+Seat 6: Sabazius (big blind) folded on the Turn
+
+PokerStars Hand #1492931938:  Hold'em No Limit ($200.00/$400.00 USD) - 2022/12/21 03:27:14 ET
+Table 'WPN_7 Day No Rathole 200/400 NLH - Limited Time' 9-max Seat #6 is the button
+Seat 5: PLO_fish ($11483.75 in chips)
+Seat 6: Sabazius ($4996.12 in chips)
+Sabazius: posts small blind $200.00
+PLO_fish: posts big blind $400.00
+*** HOLE CARDS ***
+Sabazius: calls $200.00
+PLO_fish: checks
+*** FLOP *** [Qd 8c 5h]
+PLO_fish: checks
+Sabazius: bets $400.00
+PLO_fish: folds
+Uncalled bet ($400.00) returned to Sabazius
+Sabazius collected $798.75 from pot
+Sabazius: doesn't show hand
+*** SUMMARY ***
+Total pot $800.00 | Rake $1.25
+Board [Qd 8c 5h]
+Seat 5: PLO_fish (big blind) folded on the Flop
+Seat 6: Sabazius (button) (small blind) collected ($798.75)
+
+PokerStars Hand #1492932323:  Hold'em No Limit ($200.00/$400.00 USD) - 2022/12/21 03:27:33 ET
+Table 'WPN_7 Day No Rathole 200/400 NLH - Limited Time' 9-max Seat #5 is the button
+Seat 5: PLO_fish ($11083.75 in chips)
+Seat 6: Sabazius ($5394.87 in chips)
+PLO_fish: posts small blind $200.00
+Sabazius: posts big blind $400.00
+*** HOLE CARDS ***
+PLO_fish: raises $400.00 to $800.00
+Sabazius: calls $400.00
+*** FLOP *** [3d 9h 7s]
+Sabazius: checks
+PLO_fish: checks
+*** TURN *** [3d 9h 7s] [6s]
+Sabazius: checks
+PLO_fish: checks
+*** RIVER *** [3d 9h 7s 6s] [3h]
+Sabazius: checks
+PLO_fish: bets $400.00
+Sabazius: folds
+Uncalled bet ($400.00) returned to PLO_fish
+PLO_fish collected $1598.75 from pot
+PLO_fish: doesn't show hand
+*** SUMMARY ***
+Total pot $1600.00 | Rake $1.25
+Board [3d 9h 7s 6s 3h]
+Seat 5: PLO_fish (button) (small blind) collected ($1598.75)
+Seat 6: Sabazius (big blind) folded on the River
+
+PokerStars Hand #1492932944:  Hold'em No Limit ($200.00/$400.00 USD) - 2022/12/21 03:28:05 ET
+Table 'WPN_7 Day No Rathole 200/400 NLH - Limited Time' 9-max Seat #6 is the button
+Seat 5: PLO_fish ($11882.50 in chips)
+Seat 6: Sabazius ($4594.87 in chips)
+Sabazius: posts small blind $200.00
+PLO_fish: posts big blind $400.00
+*** HOLE CARDS ***
+Sabazius: raises $4194.87 to $4594.87 and is all-in
+PLO_fish: folds
+Uncalled bet ($4194.87) returned to Sabazius
+Sabazius collected $800.00 from pot
+Sabazius: doesn't show hand
+*** SUMMARY ***
+Total pot $800.00 | Rake $0.00
+Seat 5: PLO_fish (big blind) folded before Flop
+Seat 6: Sabazius (button) (small blind) collected ($800.00)
+
+PokerStars Hand #1492933183:  Hold'em No Limit ($200.00/$400.00 USD) - 2022/12/21 03:28:17 ET
+Table 'WPN_7 Day No Rathole 200/400 NLH - Limited Time' 9-max Seat #5 is the button
+Seat 5: PLO_fish ($11482.50 in chips)
+Seat 6: Sabazius ($4994.87 in chips)
+PLO_fish: posts small blind $200.00
+Sabazius: posts big blind $400.00
+*** HOLE CARDS ***
+PLO_fish: folds
+Uncalled bet ($200.00) returned to Sabazius
+Sabazius collected $400.00 from pot
+Sabazius: doesn't show hand
+*** SUMMARY ***
+Total pot $400.00 | Rake $0.00
+Seat 5: PLO_fish (button) (small blind) folded before Flop
+Seat 6: Sabazius (big blind) collected ($400.00)
+
+PokerStars Hand #1492933355:  Hold'em No Limit ($200.00/$400.00 USD) - 2022/12/21 03:28:26 ET
+Table 'WPN_7 Day No Rathole 200/400 NLH - Limited Time' 9-max Seat #6 is the button
+Seat 5: PLO_fish ($11282.50 in chips)
+Seat 6: Sabazius ($5194.87 in chips)
+Sabazius: posts small blind $200.00
+PLO_fish: posts big blind $400.00
+*** HOLE CARDS ***
+Sabazius: calls $200.00
+PLO_fish: checks
+*** FLOP *** [5h Jc Ks]
+PLO_fish: checks
+Sabazius: bets $400.00
+PLO_fish: folds
+Uncalled bet ($400.00) returned to Sabazius
+Sabazius collected $798.75 from pot
+Sabazius: doesn't show hand
+*** SUMMARY ***
+Total pot $800.00 | Rake $1.25
+Board [5h Jc Ks]
+Seat 5: PLO_fish (big blind) folded on the Flop
+Seat 6: Sabazius (button) (small blind) collected ($798.75)
+
+PokerStars Hand #1492933916:  Hold'em No Limit ($200.00/$400.00 USD) - 2022/12/21 03:28:55 ET
+Table 'WPN_7 Day No Rathole 200/400 NLH - Limited Time' 9-max Seat #5 is the button
+Seat 5: PLO_fish ($10882.50 in chips)
+Seat 6: Sabazius ($5593.62 in chips)
+PLO_fish: posts small blind $200.00
+Sabazius: posts big blind $400.00
+*** HOLE CARDS ***
+PLO_fish: raises $400.00 to $800.00
+Sabazius: calls $400.00
+*** FLOP *** [5d 4s Ah]
+Sabazius: checks
+PLO_fish: bets $400.00
+Sabazius: calls $400.00
+*** TURN *** [5d 4s Ah] [Kc]
+Sabazius: checks
+PLO_fish: bets $1200.00
+Sabazius: folds
+Uncalled bet ($1200.00) returned to PLO_fish
+PLO_fish collected $2398.75 from pot
+PLO_fish: doesn't show hand
+*** SUMMARY ***
+Total pot $2400.00 | Rake $1.25
+Board [5d 4s Ah Kc]
+Seat 5: PLO_fish (button) (small blind) collected ($2398.75)
+Seat 6: Sabazius (big blind) folded on the Turn
+
+PokerStars Hand #1492934452:  Hold'em No Limit ($200.00/$400.00 USD) - 2022/12/21 03:29:22 ET
+Table 'WPN_7 Day No Rathole 200/400 NLH - Limited Time' 9-max Seat #6 is the button
+Seat 5: PLO_fish ($12081.25 in chips)
+Seat 6: Sabazius ($4393.62 in chips)
+Sabazius: posts small blind $200.00
+PLO_fish: posts big blind $400.00
+*** HOLE CARDS ***
+Sabazius: folds
+Uncalled bet ($200.00) returned to PLO_fish
+PLO_fish collected $400.00 from pot
+PLO_fish: doesn't show hand
+*** SUMMARY ***
+Total pot $400.00 | Rake $0.00
+Seat 5: PLO_fish (big blind) collected ($400.00)
+Seat 6: Sabazius (button) (small blind) folded before Flop
+
+PokerStars Hand #1492934621:  Hold'em No Limit ($200.00/$400.00 USD) - 2022/12/21 03:29:30 ET
+Table 'WPN_7 Day No Rathole 200/400 NLH - Limited Time' 9-max Seat #5 is the button
+Seat 5: PLO_fish ($12281.25 in chips)
+Seat 6: Sabazius ($4193.62 in chips)
+PLO_fish: posts small blind $200.00
+Sabazius: posts big blind $400.00
+*** HOLE CARDS ***
+PLO_fish: folds
+Uncalled bet ($200.00) returned to Sabazius
+Sabazius collected $400.00 from pot
+Sabazius: doesn't show hand
+*** SUMMARY ***
+Total pot $400.00 | Rake $0.00
+Seat 5: PLO_fish (button) (small blind) folded before Flop
+Seat 6: Sabazius (big blind) collected ($400.00)
+
+PokerStars Hand #1492934818:  Hold'em No Limit ($200.00/$400.00 USD) - 2022/12/21 03:29:39 ET
+Table 'WPN_7 Day No Rathole 200/400 NLH - Limited Time' 9-max Seat #6 is the button
+Seat 5: PLO_fish ($12081.25 in chips)
+Seat 6: Sabazius ($4393.62 in chips)
+Sabazius: posts small blind $200.00
+PLO_fish: posts big blind $400.00
+*** HOLE CARDS ***
+Sabazius: folds
+Uncalled bet ($200.00) returned to PLO_fish
+PLO_fish collected $400.00 from pot
+PLO_fish: doesn't show hand
+*** SUMMARY ***
+Total pot $400.00 | Rake $0.00
+Seat 5: PLO_fish (big blind) collected ($400.00)
+Seat 6: Sabazius (button) (small blind) folded before Flop
+
+PokerStars Hand #1492934971:  Hold'em No Limit ($200.00/$400.00 USD) - 2022/12/21 03:29:47 ET
+Table 'WPN_7 Day No Rathole 200/400 NLH - Limited Time' 9-max Seat #5 is the button
+Seat 5: PLO_fish ($12281.25 in chips)
+Seat 6: Sabazius ($4193.62 in chips)
+PLO_fish: posts small blind $200.00
+Sabazius: posts big blind $400.00
+*** HOLE CARDS ***
+PLO_fish: calls $200.00
+Sabazius: checks
+*** FLOP *** [Qc Td Kd]
+Sabazius: checks
+PLO_fish: bets $600.00
+Sabazius: calls $600.00
+*** TURN *** [Qc Td Kd] [5c]
+Sabazius: checks
+PLO_fish: checks
+*** RIVER *** [Qc Td Kd 5c] [5d]
+Sabazius: checks
+PLO_fish: bets $1500.00
+Sabazius: calls $1500.00
+*** SHOW DOWN ***
+Sabazius: shows [2h Qs]
+PLO_fish: mucks hand
+Sabazius collected $4998.75 from pot
+*** SUMMARY ***
+Total pot $5000.00 | Rake $1.25
+Board [Qc Td Kd 5c 5d]
+Seat 5: PLO_fish (button) (small blind) mucked
+Seat 6: Sabazius (big blind) showed [2h Qs] and won ($4998.75)
+
+PokerStars Hand #1492935783:  Hold'em No Limit ($200.00/$400.00 USD) - 2022/12/21 03:30:28 ET
+Table 'WPN_7 Day No Rathole 200/400 NLH - Limited Time' 9-max Seat #6 is the button
+Seat 5: PLO_fish ($9781.25 in chips)
+Seat 6: Sabazius ($6692.37 in chips)
+Sabazius: posts small blind $200.00
+PLO_fish: posts big blind $400.00
+*** HOLE CARDS ***
+Sabazius: calls $200.00
+PLO_fish: checks
+*** FLOP *** [4d 7d Qd]
+PLO_fish: checks
+Sabazius: checks
+*** TURN *** [4d 7d Qd] [2c]
+PLO_fish: checks
+Sabazius: checks
+*** RIVER *** [4d 7d Qd 2c] [3d]
+PLO_fish: checks
+Sabazius: bets $400.00
+PLO_fish: calls $400.00
+*** SHOW DOWN ***
+PLO_fish: shows [Th 8d]
+Sabazius: mucks hand
+PLO_fish collected $1598.75 from pot
+*** SUMMARY ***
+Total pot $1600.00 | Rake $1.25
+Board [4d 7d Qd 2c 3d]
+Seat 5: PLO_fish (big blind) showed [Th 8d] and won ($1598.75)
+Seat 6: Sabazius (button) (small blind) mucked
+
+PokerStars Hand #1492936655:  Hold'em No Limit ($200.00/$400.00 USD) - 2022/12/21 03:31:10 ET
+Table 'WPN_7 Day No Rathole 200/400 NLH - Limited Time' 9-max Seat #5 is the button
+Seat 5: PLO_fish ($10580.00 in chips)
+Seat 6: Sabazius ($5892.37 in chips)
+PLO_fish: posts small blind $200.00
+Sabazius: posts big blind $400.00
+*** HOLE CARDS ***
+PLO_fish: folds
+Uncalled bet ($200.00) returned to Sabazius
+Sabazius collected $400.00 from pot
+Sabazius: doesn't show hand
+*** SUMMARY ***
+Total pot $400.00 | Rake $0.00
+Seat 5: PLO_fish (button) (small blind) folded before Flop
+Seat 6: Sabazius (big blind) collected ($400.00)
+
+PokerStars Hand #1492936826:  Hold'em No Limit ($200.00/$400.00 USD) - 2022/12/21 03:31:19 ET
+Table 'WPN_7 Day No Rathole 200/400 NLH - Limited Time' 9-max Seat #6 is the button
+Seat 5: PLO_fish ($10380.00 in chips)
+Seat 6: Sabazius ($6092.37 in chips)
+Sabazius: posts small blind $200.00
+PLO_fish: posts big blind $400.00
+*** HOLE CARDS ***
+Sabazius: calls $200.00
+PLO_fish: checks
+*** FLOP *** [2h Ah 3s]
+PLO_fish: checks
+Sabazius: checks
+*** TURN *** [2h Ah 3s] [4h]
+PLO_fish: checks
+Sabazius: checks
+*** RIVER *** [2h Ah 3s 4h] [3c]
+PLO_fish: bets $600.00
+Sabazius: folds
+Uncalled bet ($600.00) returned to PLO_fish
+PLO_fish collected $798.75 from pot
+PLO_fish: doesn't show hand
+*** SUMMARY ***
+Total pot $800.00 | Rake $1.25
+Board [2h Ah 3s 4h 3c]
+Seat 5: PLO_fish (big blind) collected ($798.75)
+Seat 6: Sabazius (button) (small blind) folded on the River
+
+PokerStars Hand #1492937586:  Hold'em No Limit ($200.00/$400.00 USD) - 2022/12/21 03:31:58 ET
+Table 'WPN_7 Day No Rathole 200/400 NLH - Limited Time' 9-max Seat #5 is the button
+Seat 5: PLO_fish ($10778.75 in chips)
+Seat 6: Sabazius ($5692.37 in chips)
+PLO_fish: posts small blind $200.00
+Sabazius: posts big blind $400.00
+*** HOLE CARDS ***
+PLO_fish: calls $200.00
+Sabazius: checks
+*** FLOP *** [Kd As 2c]
+Sabazius: checks
+PLO_fish: checks
+*** TURN *** [Kd As 2c] [8d]
+Sabazius: checks
+PLO_fish: checks
+*** RIVER *** [Kd As 2c 8d] [Tc]
+Sabazius: checks
+PLO_fish: bets $600.00
+Sabazius: folds
+Uncalled bet ($600.00) returned to PLO_fish
+PLO_fish collected $798.75 from pot
+PLO_fish: doesn't show hand
+*** SUMMARY ***
+Total pot $800.00 | Rake $1.25
+Board [Kd As 2c 8d Tc]
+Seat 5: PLO_fish (button) (small blind) collected ($798.75)
+Seat 6: Sabazius (big blind) folded on the River
+
+PokerStars Hand #1492938405:  Hold'em No Limit ($200.00/$400.00 USD) - 2022/12/21 03:32:40 ET
+Table 'WPN_7 Day No Rathole 200/400 NLH - Limited Time' 9-max Seat #6 is the button
+Seat 5: PLO_fish ($11177.50 in chips)
+Seat 6: Sabazius ($5292.37 in chips)
+Sabazius: posts small blind $200.00
+PLO_fish: posts big blind $400.00
+*** HOLE CARDS ***
+Sabazius: folds
+Uncalled bet ($200.00) returned to PLO_fish
+PLO_fish collected $400.00 from pot
+PLO_fish: doesn't show hand
+*** SUMMARY ***
+Total pot $400.00 | Rake $0.00
+Seat 5: PLO_fish (big blind) collected ($400.00)
+Seat 6: Sabazius (button) (small blind) folded before Flop
+
+PokerStars Hand #1492938605:  Hold'em No Limit ($200.00/$400.00 USD) - 2022/12/21 03:32:51 ET
+Table 'WPN_7 Day No Rathole 200/400 NLH - Limited Time' 9-max Seat #5 is the button
+Seat 5: PLO_fish ($11377.50 in chips)
+Seat 6: Sabazius ($5092.37 in chips)
+PLO_fish: posts small blind $200.00
+Sabazius: posts big blind $400.00
+*** HOLE CARDS ***
+PLO_fish: folds
+Uncalled bet ($200.00) returned to Sabazius
+Sabazius collected $400.00 from pot
+Sabazius: doesn't show hand
+*** SUMMARY ***
+Total pot $400.00 | Rake $0.00
+Seat 5: PLO_fish (button) (small blind) folded before Flop
+Seat 6: Sabazius (big blind) collected ($400.00)
+
+PokerStars Hand #1492938812:  Hold'em No Limit ($200.00/$400.00 USD) - 2022/12/21 03:33:02 ET
+Table 'WPN_7 Day No Rathole 200/400 NLH - Limited Time' 9-max Seat #6 is the button
+Seat 5: PLO_fish ($11177.50 in chips)
+Seat 6: Sabazius ($5292.37 in chips)
+Sabazius: posts small blind $200.00
+PLO_fish: posts big blind $400.00
+*** HOLE CARDS ***
+Sabazius: folds
+Uncalled bet ($200.00) returned to PLO_fish
+PLO_fish collected $400.00 from pot
+PLO_fish: doesn't show hand
+*** SUMMARY ***
+Total pot $400.00 | Rake $0.00
+Seat 5: PLO_fish (big blind) collected ($400.00)
+Seat 6: Sabazius (button) (small blind) folded before Flop
+
+PokerStars Hand #1492939120:  Hold'em No Limit ($200.00/$400.00 USD) - 2022/12/21 03:33:17 ET
+Table 'WPN_7 Day No Rathole 200/400 NLH - Limited Time' 9-max Seat #5 is the button
+Seat 5: PLO_fish ($11377.50 in chips)
+Seat 6: Sabazius ($5092.37 in chips)
+PLO_fish: posts small blind $200.00
+Sabazius: posts big blind $400.00
+*** HOLE CARDS ***
+PLO_fish: calls $200.00
+Sabazius: checks
+*** FLOP *** [Th 6d 3s]
+Sabazius: checks
+PLO_fish: checks
+*** TURN *** [Th 6d 3s] [4s]
+Sabazius: checks
+PLO_fish: checks
+*** RIVER *** [Th 6d 3s 4s] [6c]
+Sabazius: checks
+PLO_fish: checks
+*** SHOW DOWN ***
+PLO_fish: shows [8s Kc]
+Sabazius: mucks hand
+PLO_fish collected $798.75 from pot
+*** SUMMARY ***
+Total pot $800.00 | Rake $1.25
+Board [Th 6d 3s 4s 6c]
+Seat 5: PLO_fish (button) (small blind) showed [8s Kc] and won ($798.75)
+Seat 6: Sabazius (big blind) mucked
+
+PokerStars Hand #1492939723:  Hold'em No Limit ($200.00/$400.00 USD) - 2022/12/21 03:33:47 ET
+Table 'WPN_7 Day No Rathole 200/400 NLH - Limited Time' 9-max Seat #6 is the button
+Seat 5: PLO_fish ($11776.25 in chips)
+Seat 6: Sabazius ($4692.37 in chips)
+Sabazius: posts small blind $200.00
+PLO_fish: posts big blind $400.00
+*** HOLE CARDS ***
+Sabazius: calls $200.00
+PLO_fish: checks
+*** FLOP *** [Js 3s 3h]
+PLO_fish: checks
+Sabazius: bets $400.00
+PLO_fish: folds
+Uncalled bet ($400.00) returned to Sabazius
+Sabazius collected $798.75 from pot
+Sabazius: doesn't show hand
+*** SUMMARY ***
+Total pot $800.00 | Rake $1.25
+Board [Js 3s 3h]
+Seat 5: PLO_fish (big blind) folded on the Flop
+Seat 6: Sabazius (button) (small blind) collected ($798.75)
+
+PokerStars Hand #1492940262:  Hold'em No Limit ($200.00/$400.00 USD) - 2022/12/21 03:34:15 ET
+Table 'WPN_7 Day No Rathole 200/400 NLH - Limited Time' 9-max Seat #5 is the button
+Seat 5: PLO_fish ($11376.25 in chips)
+Seat 6: Sabazius ($5091.12 in chips)
+PLO_fish: posts small blind $200.00
+Sabazius: posts big blind $400.00
+*** HOLE CARDS ***
+PLO_fish: folds
+Uncalled bet ($200.00) returned to Sabazius
+Sabazius collected $400.00 from pot
+Sabazius: doesn't show hand
+*** SUMMARY ***
+Total pot $400.00 | Rake $0.00
+Seat 5: PLO_fish (button) (small blind) folded before Flop
+Seat 6: Sabazius (big blind) collected ($400.00)
+
+PokerStars Hand #1492940454:  Hold'em No Limit ($200.00/$400.00 USD) - 2022/12/21 03:34:26 ET
+Table 'WPN_7 Day No Rathole 200/400 NLH - Limited Time' 9-max Seat #6 is the button
+Seat 5: PLO_fish ($11176.25 in chips)
+Seat 6: Sabazius ($5291.12 in chips)
+Sabazius: posts small blind $200.00
+PLO_fish: posts big blind $400.00
+*** HOLE CARDS ***
+Sabazius: calls $200.00
+PLO_fish: checks
+*** FLOP *** [9h 7d 3s]
+PLO_fish: checks
+Sabazius: checks
+*** TURN *** [9h 7d 3s] [Js]
+PLO_fish: checks
+Sabazius: checks
+*** RIVER *** [9h 7d 3s Js] [8h]
+PLO_fish: checks
+Sabazius: checks
+*** SHOW DOWN ***
+Sabazius: shows [3h Qh]
+PLO_fish: mucks hand
+Sabazius collected $798.75 from pot
+*** SUMMARY ***
+Total pot $800.00 | Rake $1.25
+Board [9h 7d 3s Js 8h]
+Seat 5: PLO_fish (big blind) mucked
+Seat 6: Sabazius (button) (small blind) showed [3h Qh] and won ($798.75)
+
+PokerStars Hand #1492941082:  Hold'em No Limit ($200.00/$400.00 USD) - 2022/12/21 03:34:57 ET
+Table 'WPN_7 Day No Rathole 200/400 NLH - Limited Time' 9-max Seat #5 is the button
+Seat 5: PLO_fish ($10776.25 in chips)
+Seat 6: Sabazius ($5689.87 in chips)
+PLO_fish: posts small blind $200.00
+Sabazius: posts big blind $400.00
+*** HOLE CARDS ***
+PLO_fish: raises $400.00 to $800.00
+Sabazius: raises $4889.87 to $5689.87 and is all-in
+PLO_fish: folds
+Uncalled bet ($4889.87) returned to Sabazius
+Sabazius collected $1600.00 from pot
+Sabazius: doesn't show hand
+*** SUMMARY ***
+Total pot $1600.00 | Rake $0.00
+Seat 5: PLO_fish (button) (small blind) folded before Flop
+Seat 6: Sabazius (big blind) collected ($1600.00)
+
+PokerStars Hand #1492941896:  Hold'em No Limit ($200.00/$400.00 USD) - 2022/12/21 03:35:38 ET
+Table 'WPN_7 Day No Rathole 200/400 NLH - Limited Time' 9-max Seat #6 is the button
+Seat 5: PLO_fish ($9976.25 in chips)
+Seat 6: Sabazius ($6489.87 in chips)
+Sabazius: posts small blind $200.00
+PLO_fish: posts big blind $400.00
+*** HOLE CARDS ***
+Sabazius: calls $200.00
+PLO_fish: checks
+*** FLOP *** [7h Td Js]
+PLO_fish: checks
+Sabazius: checks
+*** TURN *** [7h Td Js] [3h]
+PLO_fish: bets $600.00
+Sabazius: folds
+Uncalled bet ($600.00) returned to PLO_fish
+PLO_fish collected $798.75 from pot
+PLO_fish: doesn't show hand
+*** SUMMARY ***
+Total pot $800.00 | Rake $1.25
+Board [7h Td Js 3h]
+Seat 5: PLO_fish (big blind) collected ($798.75)
+Seat 6: Sabazius (button) (small blind) folded on the Turn
+
+PokerStars Hand #1492942332:  Hold'em No Limit ($200.00/$400.00 USD) - 2022/12/21 03:36:01 ET
+Table 'WPN_7 Day No Rathole 200/400 NLH - Limited Time' 9-max Seat #5 is the button
+Seat 5: PLO_fish ($10375.00 in chips)
+Seat 6: Sabazius ($6089.87 in chips)
+PLO_fish: posts small blind $200.00
+Sabazius: posts big blind $400.00
+*** HOLE CARDS ***
+PLO_fish: raises $400.00 to $800.00
+Sabazius: calls $400.00
+*** FLOP *** [3d 9s Kc]
+Sabazius: checks
+PLO_fish: bets $800.00
+Sabazius: calls $800.00
+*** TURN *** [3d 9s Kc] [5s]
+Sabazius: bets $1056.00
+PLO_fish: raises $7719.00 to $8775.00 and is all-in
+Sabazius: calls $3433.87 and is all-in
+Uncalled bet ($4285.13) returned to PLO_fish
+*** RIVER *** [3d 9s Kc 5s] [3c]
+*** SHOW DOWN ***
+Sabazius: shows [9h Kh]
+PLO_fish: shows [Kd Jh]
+Sabazius collected $12178.49 from pot
+*** SUMMARY ***
+Total pot $12179.74 | Rake $1.25
+Board [3d 9s Kc 5s 3c]
+Seat 5: PLO_fish (button) (small blind) showed [Kd Jh] and lost
+Seat 6: Sabazius (big blind) showed [9h Kh] and won ($12178.49)
+
+PokerStars Hand #1492942918:  Hold'em No Limit ($200.00/$400.00 USD) - 2022/12/21 03:36:31 ET
+Table 'WPN_7 Day No Rathole 200/400 NLH - Limited Time' 9-max Seat #6 is the button
+Seat 5: PLO_fish ($4285.13 in chips)
+Seat 6: Sabazius ($12178.49 in chips)
+Sabazius: posts small blind $200.00
+PLO_fish: posts big blind $400.00
+*** HOLE CARDS ***
+Sabazius: calls $200.00
+PLO_fish: raises $3885.13 to $4285.13 and is all-in
+Sabazius: calls $3885.13
+*** FLOP *** [5h 3c Th]
+*** TURN *** [5h 3c Th] [2s]
+*** RIVER *** [5h 3c Th 2s] [9c]
+*** SHOW DOWN ***
+PLO_fish: shows [9h 9s]
+Sabazius: shows [Qh Kh]
+PLO_fish collected $8569.01 from pot
+*** SUMMARY ***
+Total pot $8570.26 | Rake $1.25
+Board [5h 3c Th 2s 9c]
+Seat 5: PLO_fish (big blind) showed [9h 9s] and won ($8569.01)
+Seat 6: Sabazius (button) (small blind) showed [Qh Kh] and lost
+
+PokerStars Hand #1492943380:  Hold'em No Limit ($200.00/$400.00 USD) - 2022/12/21 03:36:55 ET
+Table 'WPN_7 Day No Rathole 200/400 NLH - Limited Time' 9-max Seat #5 is the button
+Seat 5: PLO_fish ($8569.01 in chips)
+Seat 6: Sabazius ($7893.36 in chips)
+PLO_fish: posts small blind $200.00
+Sabazius: posts big blind $400.00
+*** HOLE CARDS ***
+PLO_fish: folds
+Uncalled bet ($200.00) returned to Sabazius
+Sabazius collected $400.00 from pot
+Sabazius: doesn't show hand
+*** SUMMARY ***
+Total pot $400.00 | Rake $0.00
+Seat 5: PLO_fish (button) (small blind) folded before Flop
+Seat 6: Sabazius (big blind) collected ($400.00)
+
+PokerStars Hand #1492943609:  Hold'em No Limit ($200.00/$400.00 USD) - 2022/12/21 03:37:06 ET
+Table 'WPN_7 Day No Rathole 200/400 NLH - Limited Time' 9-max Seat #6 is the button
+Seat 5: PLO_fish ($8369.01 in chips)
+Seat 6: Sabazius ($8093.36 in chips)
+Sabazius: posts small blind $200.00
+PLO_fish: posts big blind $400.00
+*** HOLE CARDS ***
+Sabazius: calls $200.00
+PLO_fish: checks
+*** FLOP *** [As Ad Ks]
+PLO_fish: checks
+Sabazius: bets $400.00
+PLO_fish: folds
+Uncalled bet ($400.00) returned to Sabazius
+Sabazius collected $798.75 from pot
+Sabazius: doesn't show hand
+*** SUMMARY ***
+Total pot $800.00 | Rake $1.25
+Board [As Ad Ks]
+Seat 5: PLO_fish (big blind) folded on the Flop
+Seat 6: Sabazius (button) (small blind) collected ($798.75)
+
+PokerStars Hand #1492944101:  Hold'em No Limit ($200.00/$400.00 USD) - 2022/12/21 03:37:32 ET
+Table 'WPN_7 Day No Rathole 200/400 NLH - Limited Time' 9-max Seat #5 is the button
+Seat 5: PLO_fish ($7969.01 in chips)
+Seat 6: Sabazius ($8492.11 in chips)
+PLO_fish: posts small blind $200.00
+Sabazius: posts big blind $400.00
+*** HOLE CARDS ***
+PLO_fish: folds
+Uncalled bet ($200.00) returned to Sabazius
+Sabazius collected $400.00 from pot
+Sabazius: doesn't show hand
+*** SUMMARY ***
+Total pot $400.00 | Rake $0.00
+Seat 5: PLO_fish (button) (small blind) folded before Flop
+Seat 6: Sabazius (big blind) collected ($400.00)
+
+PokerStars Hand #1492944290:  Hold'em No Limit ($200.00/$400.00 USD) - 2022/12/21 03:37:42 ET
+Table 'WPN_7 Day No Rathole 200/400 NLH - Limited Time' 9-max Seat #6 is the button
+Seat 5: PLO_fish ($7769.01 in chips)
+Seat 6: Sabazius ($8692.11 in chips)
+Sabazius: posts small blind $200.00
+PLO_fish: posts big blind $400.00
+*** HOLE CARDS ***
+Sabazius: calls $200.00
+PLO_fish: raises $800.00 to $1200.00
+Sabazius: folds
+Uncalled bet ($800.00) returned to PLO_fish
+PLO_fish collected $800.00 from pot
+PLO_fish: doesn't show hand
+*** SUMMARY ***
+Total pot $800.00 | Rake $0.00
+Seat 5: PLO_fish (big blind) collected ($800.00)
+Seat 6: Sabazius (button) (small blind) folded before Flop
+
+PokerStars Hand #1492944561:  Hold'em No Limit ($200.00/$400.00 USD) - 2022/12/21 03:37:55 ET
+Table 'WPN_7 Day No Rathole 200/400 NLH - Limited Time' 9-max Seat #5 is the button
+Seat 5: PLO_fish ($8169.01 in chips)
+Seat 6: Sabazius ($8292.11 in chips)
+PLO_fish: posts small blind $200.00
+Sabazius: posts big blind $400.00
+*** HOLE CARDS ***
+PLO_fish: calls $200.00
+Sabazius: raises $800.00 to $1200.00
+PLO_fish: calls $800.00
+*** FLOP *** [2c Kc 9d]
+Sabazius: bets $1200.00
+PLO_fish: folds
+Uncalled bet ($1200.00) returned to Sabazius
+Sabazius collected $2398.75 from pot
+Sabazius: doesn't show hand
+*** SUMMARY ***
+Total pot $2400.00 | Rake $1.25
+Board [2c Kc 9d]
+Seat 5: PLO_fish (button) (small blind) folded on the Flop
+Seat 6: Sabazius (big blind) collected ($2398.75)
+
+PokerStars Hand #1492945149:  Hold'em No Limit ($200.00/$400.00 USD) - 2022/12/21 03:38:24 ET
+Table 'WPN_7 Day No Rathole 200/400 NLH - Limited Time' 9-max Seat #6 is the button
+Seat 5: PLO_fish ($6969.01 in chips)
+Seat 6: Sabazius ($9490.86 in chips)
+Sabazius: posts small blind $200.00
+PLO_fish: posts big blind $400.00
+*** HOLE CARDS ***
+Sabazius: raises $400.00 to $800.00
+PLO_fish: calls $400.00
+*** FLOP *** [4c 8d 4s]
+PLO_fish: checks
+Sabazius: bets $400.00
+PLO_fish: calls $400.00
+*** TURN *** [4c 8d 4s] [5s]
+PLO_fish: checks
+Sabazius: bets $1200.00
+PLO_fish: raises $4569.01 to $5769.01 and is all-in
+Sabazius: calls $4569.01
+*** RIVER *** [4c 8d 4s 5s] [8c]
+*** SHOW DOWN ***
+Sabazius: shows [Jd Js]
+PLO_fish: shows [6s 3s]
+Sabazius collected $13936.77 from pot
+*** SUMMARY ***
+Total pot $13938.02 | Rake $1.25
+Board [4c 8d 4s 5s 8c]
+Seat 5: PLO_fish (big blind) showed [6s 3s] and lost
+Seat 6: Sabazius (button) (small blind) showed [Jd Js] and won ($13936.77)
+
+PokerStars Hand #1492954988:  Hold'em No Limit ($200.00/$400.00 USD) - 2022/12/21 03:46:48 ET
+Table 'WPN_7 Day No Rathole 200/400 NLH - Limited Time' 9-max Seat #6 is the button
+Seat 6: Sabazius ($16458.62 in chips)
+Seat 7: PLO_fish ($4000.00 in chips)
+Sabazius: posts small blind $200.00
+PLO_fish: posts big blind $400.00
+*** HOLE CARDS ***
+Sabazius: raises $15858.62 to $16258.62
+PLO_fish: folds
+Uncalled bet ($15858.62) returned to Sabazius
+Sabazius collected $800.00 from pot
+Sabazius: doesn't show hand
+*** SUMMARY ***
+Total pot $800.00 | Rake $0.00
+Seat 6: Sabazius (button) (small blind) collected ($800.00)
+Seat 7: PLO_fish (big blind) folded before Flop
+
+PokerStars Hand #1492955251:  Hold'em No Limit ($200.00/$400.00 USD) - 2022/12/21 03:47:02 ET
+Table 'WPN_7 Day No Rathole 200/400 NLH - Limited Time' 9-max Seat #7 is the button
+Seat 6: Sabazius ($16858.62 in chips)
+Seat 7: PLO_fish ($3600.00 in chips)
+PLO_fish: posts small blind $200.00
+Sabazius: posts big blind $400.00
+*** HOLE CARDS ***
+PLO_fish: calls $200.00
+Sabazius: raises $16258.62 to $16658.62
+PLO_fish: calls $3200.00 and is all-in
+Uncalled bet ($13058.62) returned to Sabazius
+*** FLOP *** [7h Kd 6h]
+*** TURN *** [7h Kd 6h] [6s]
+*** RIVER *** [7h Kd 6h 6s] [6d]
+*** SHOW DOWN ***
+PLO_fish: shows [Kc 5h]
+Sabazius: shows [2c Ad]
+PLO_fish collected $7198.75 from pot
+*** SUMMARY ***
+Total pot $7200.00 | Rake $1.25
+Board [7h Kd 6h 6s 6d]
+Seat 6: Sabazius (big blind) showed [2c Ad] and lost
+Seat 7: PLO_fish (button) (small blind) showed [Kc 5h] and won ($7198.75)
+
+PokerStars Hand #1492955813:  Hold'em No Limit ($200.00/$400.00 USD) - 2022/12/21 03:47:30 ET
+Table 'WPN_7 Day No Rathole 200/400 NLH - Limited Time' 9-max Seat #6 is the button
+Seat 6: Sabazius ($13258.62 in chips)
+Seat 7: PLO_fish ($7198.75 in chips)
+Sabazius: posts small blind $200.00
+PLO_fish: posts big blind $400.00
+*** HOLE CARDS ***
+Sabazius: raises $12658.62 to $13058.62
+PLO_fish: folds
+Uncalled bet ($12658.62) returned to Sabazius
+Sabazius collected $800.00 from pot
+Sabazius: doesn't show hand
+*** SUMMARY ***
+Total pot $800.00 | Rake $0.00
+Seat 6: Sabazius (button) (small blind) collected ($800.00)
+Seat 7: PLO_fish (big blind) folded before Flop
+
+PokerStars Hand #1492956022:  Hold'em No Limit ($200.00/$400.00 USD) - 2022/12/21 03:47:42 ET
+Table 'WPN_7 Day No Rathole 200/400 NLH - Limited Time' 9-max Seat #7 is the button
+Seat 6: Sabazius ($13658.62 in chips)
+Seat 7: PLO_fish ($6798.75 in chips)
+PLO_fish: posts small blind $200.00
+Sabazius: posts big blind $400.00
+*** HOLE CARDS ***
+PLO_fish: folds
+Uncalled bet ($200.00) returned to Sabazius
+Sabazius collected $400.00 from pot
+Sabazius: doesn't show hand
+*** SUMMARY ***
+Total pot $400.00 | Rake $0.00
+Seat 6: Sabazius (big blind) collected ($400.00)
+Seat 7: PLO_fish (button) (small blind) folded before Flop
+
+PokerStars Hand #1492956228:  Hold'em No Limit ($200.00/$400.00 USD) - 2022/12/21 03:47:52 ET
+Table 'WPN_7 Day No Rathole 200/400 NLH - Limited Time' 9-max Seat #6 is the button
+Seat 6: Sabazius ($13858.62 in chips)
+Seat 7: PLO_fish ($6598.75 in chips)
+Sabazius: posts small blind $200.00
+PLO_fish: posts big blind $400.00
+*** HOLE CARDS ***
+Sabazius: calls $200.00
+PLO_fish: raises $6198.75 to $6598.75 and is all-in
+Sabazius: folds
+Uncalled bet ($6198.75) returned to PLO_fish
+PLO_fish collected $800.00 from pot
+PLO_fish: doesn't show hand
+*** SUMMARY ***
+Total pot $800.00 | Rake $0.00
+Seat 6: Sabazius (button) (small blind) folded before Flop
+Seat 7: PLO_fish (big blind) collected ($800.00)
+
+PokerStars Hand #1492956512:  Hold'em No Limit ($200.00/$400.00 USD) - 2022/12/21 03:48:06 ET
+Table 'WPN_7 Day No Rathole 200/400 NLH - Limited Time' 9-max Seat #7 is the button
+Seat 6: Sabazius ($13458.62 in chips)
+Seat 7: PLO_fish ($6998.75 in chips)
+PLO_fish: posts small blind $200.00
+Sabazius: posts big blind $400.00
+*** HOLE CARDS ***
+PLO_fish: calls $200.00
+Sabazius: checks
+*** FLOP *** [Tc 3c 2d]
+Sabazius: checks
+PLO_fish: checks
+*** TURN *** [Tc 3c 2d] [2h]
+Sabazius: checks
+PLO_fish: bets $400.00
+Sabazius: folds
+Uncalled bet ($400.00) returned to PLO_fish
+PLO_fish collected $798.75 from pot
+PLO_fish: doesn't show hand
+*** SUMMARY ***
+Total pot $800.00 | Rake $1.25
+Board [Tc 3c 2d 2h]
+Seat 6: Sabazius (big blind) folded on the Turn
+Seat 7: PLO_fish (button) (small blind) collected ($798.75)
+
+PokerStars Hand #1492956917:  Hold'em No Limit ($200.00/$400.00 USD) - 2022/12/21 03:48:27 ET
+Table 'WPN_7 Day No Rathole 200/400 NLH - Limited Time' 9-max Seat #6 is the button
+Seat 6: Sabazius ($13058.62 in chips)
+Seat 7: PLO_fish ($7397.50 in chips)
+Sabazius: posts small blind $200.00
+PLO_fish: posts big blind $400.00
+*** HOLE CARDS ***
+Sabazius: raises $400.00 to $800.00
+PLO_fish: calls $400.00
+*** FLOP *** [4h Ac Js]
+PLO_fish: checks
+Sabazius: bets $400.00
+PLO_fish: folds
+Uncalled bet ($400.00) returned to Sabazius
+Sabazius collected $1598.75 from pot
+Sabazius: doesn't show hand
+*** SUMMARY ***
+Total pot $1600.00 | Rake $1.25
+Board [4h Ac Js]
+Seat 6: Sabazius (button) (small blind) collected ($1598.75)
+Seat 7: PLO_fish (big blind) folded on the Flop
+
+PokerStars Hand #1492957351:  Hold'em No Limit ($200.00/$400.00 USD) - 2022/12/21 03:48:49 ET
+Table 'WPN_7 Day No Rathole 200/400 NLH - Limited Time' 9-max Seat #7 is the button
+Seat 6: Sabazius ($13857.37 in chips)
+Seat 7: PLO_fish ($6597.50 in chips)
+PLO_fish: posts small blind $200.00
+Sabazius: posts big blind $400.00
+*** HOLE CARDS ***
+PLO_fish: folds
+Uncalled bet ($200.00) returned to Sabazius
+Sabazius collected $400.00 from pot
+Sabazius: doesn't show hand
+*** SUMMARY ***
+Total pot $400.00 | Rake $0.00
+Seat 6: Sabazius (big blind) collected ($400.00)
+Seat 7: PLO_fish (button) (small blind) folded before Flop
+
+PokerStars Hand #1492957518:  Hold'em No Limit ($200.00/$400.00 USD) - 2022/12/21 03:48:58 ET
+Table 'WPN_7 Day No Rathole 200/400 NLH - Limited Time' 9-max Seat #6 is the button
+Seat 3: orgi69 ($4000.00 in chips)
+Seat 6: Sabazius ($14057.37 in chips)
+Seat 7: PLO_fish ($6397.50 in chips)
+Sabazius: posts small blind $200.00
+PLO_fish: posts big blind $400.00
+*** HOLE CARDS ***
+Sabazius: calls $200.00
+PLO_fish: checks
+*** FLOP *** [Ks 2s 7h]
+PLO_fish: checks
+Sabazius: bets $400.00
+PLO_fish: folds
+Uncalled bet ($400.00) returned to Sabazius
+Sabazius collected $798.75 from pot
+Sabazius: doesn't show hand
+*** SUMMARY ***
+Total pot $800.00 | Rake $1.25
+Board [Ks 2s 7h]
+Seat 6: Sabazius (button) (small blind) collected ($798.75)
+Seat 7: PLO_fish (big blind) folded on the Flop
+
+PokerStars Hand #1492957954:  Hold'em No Limit ($200.00/$400.00 USD) - 2022/12/21 03:49:20 ET
+Table 'WPN_7 Day No Rathole 200/400 NLH - Limited Time' 9-max Seat #6 is the button
+Seat 3: orgi69 ($4000.00 in chips)
+Seat 6: Sabazius ($14456.12 in chips)
+Seat 7: PLO_fish ($5997.50 in chips)
+Seat 8: HornyOldMan ($18592.25 in chips)
+PLO_fish: posts small blind $200.00
+HornyOldMan: posts big blind $400.00
+*** HOLE CARDS ***
+Sabazius: folds
+PLO_fish: folds
+Uncalled bet ($200.00) returned to HornyOldMan
+HornyOldMan collected $400.00 from pot
+HornyOldMan: doesn't show hand
+*** SUMMARY ***
+Total pot $400.00 | Rake $0.00
+Seat 6: Sabazius (button) folded before Flop (didn't bet)
+Seat 7: PLO_fish (small blind) folded before Flop
+Seat 8: HornyOldMan (big blind) collected ($400.00)
+
+PokerStars Hand #1492958229:  Hold'em No Limit ($200.00/$400.00 USD) - 2022/12/21 03:49:35 ET
+Table 'WPN_7 Day No Rathole 200/400 NLH - Limited Time' 9-max Seat #7 is the button
+Seat 3: orgi69 ($4000.00 in chips)
+Seat 6: Sabazius ($14456.12 in chips)
+Seat 7: PLO_fish ($5797.50 in chips)
+Seat 8: HornyOldMan ($18792.25 in chips)
+HornyOldMan: posts small blind $200.00
+orgi69: posts big blind $400.00
+*** HOLE CARDS ***
+Sabazius: folds
+PLO_fish: folds
+HornyOldMan: folds
+Uncalled bet ($200.00) returned to orgi69
+orgi69 collected $400.00 from pot
+orgi69: doesn't show hand
+*** SUMMARY ***
+Total pot $400.00 | Rake $0.00
+Seat 3: orgi69 (big blind) collected ($400.00)
+Seat 6: Sabazius folded before Flop (didn't bet)
+Seat 7: PLO_fish (button) folded before Flop (didn't bet)
+Seat 8: HornyOldMan (small blind) folded before Flop
+
+PokerStars Hand #1492958383:  Hold'em No Limit ($200.00/$400.00 USD) - 2022/12/21 03:49:43 ET
+Table 'WPN_7 Day No Rathole 200/400 NLH - Limited Time' 9-max Seat #8 is the button
+Seat 3: orgi69 ($4200.00 in chips)
+Seat 6: Sabazius ($14456.12 in chips)
+Seat 7: PLO_fish ($5797.50 in chips)
+Seat 8: HornyOldMan ($18592.25 in chips)
+orgi69: posts small blind $200.00
+Sabazius: posts big blind $400.00
+*** HOLE CARDS ***
+PLO_fish: raises $400.00 to $800.00
+HornyOldMan: folds
+orgi69: folds
+Sabazius: calls $400.00
+*** FLOP *** [4s 9c 6s]
+Sabazius: checks
+PLO_fish: checks
+*** TURN *** [4s 9c 6s] [3d]
+Sabazius: checks
+PLO_fish: checks
+*** RIVER *** [4s 9c 6s 3d] [Jd]
+Sabazius: checks
+PLO_fish: checks
+*** SHOW DOWN ***
+PLO_fish: shows [5s Ac]
+Sabazius: mucks hand
+PLO_fish collected $1797.75 from pot
+*** SUMMARY ***
+Total pot $1800.00 | Rake $2.25
+Board [4s 9c 6s 3d Jd]
+Seat 3: orgi69 (small blind) folded before Flop
+Seat 6: Sabazius (big blind) mucked
+Seat 7: PLO_fish showed [5s Ac] and won ($1797.75)
+Seat 8: HornyOldMan (button) folded before Flop (didn't bet)
+
+PokerStars Hand #1492959031:  Hold'em No Limit ($200.00/$400.00 USD) - 2022/12/21 03:50:15 ET
+Table 'WPN_7 Day No Rathole 200/400 NLH - Limited Time' 9-max Seat #3 is the button
+Seat 3: orgi69 ($4000.00 in chips)
+Seat 6: Sabazius ($13656.12 in chips)
+Seat 7: PLO_fish ($6795.25 in chips)
+Seat 8: HornyOldMan ($18592.25 in chips)
+Sabazius: posts small blind $200.00
+PLO_fish: posts big blind $400.00
+*** HOLE CARDS ***
+HornyOldMan: folds
+orgi69: folds
+Sabazius: folds
+Uncalled bet ($200.00) returned to PLO_fish
+PLO_fish collected $400.00 from pot
+PLO_fish: doesn't show hand
+*** SUMMARY ***
+Total pot $400.00 | Rake $0.00
+Seat 3: orgi69 (button) folded before Flop (didn't bet)
+Seat 6: Sabazius (small blind) folded before Flop
+Seat 7: PLO_fish (big blind) collected ($400.00)
+Seat 8: HornyOldMan folded before Flop (didn't bet)
+
+PokerStars Hand #1492959275:  Hold'em No Limit ($200.00/$400.00 USD) - 2022/12/21 03:50:28 ET
+Table 'WPN_7 Day No Rathole 200/400 NLH - Limited Time' 9-max Seat #6 is the button
+Seat 3: orgi69 ($4000.00 in chips)
+Seat 6: Sabazius ($13456.12 in chips)
+Seat 7: PLO_fish ($6995.25 in chips)
+Seat 8: HornyOldMan ($18592.25 in chips)
+PLO_fish: posts small blind $200.00
+HornyOldMan: posts big blind $400.00
+*** HOLE CARDS ***
+orgi69: folds
+Sabazius: folds
+PLO_fish: calls $200.00
+HornyOldMan: raises $18192.25 to $18592.25 and is all-in
+PLO_fish: folds
+Uncalled bet ($18192.25) returned to HornyOldMan
+HornyOldMan collected $800.00 from pot
+HornyOldMan: doesn't show hand
+*** SUMMARY ***
+Total pot $800.00 | Rake $0.00
+Seat 3: orgi69 folded before Flop (didn't bet)
+Seat 6: Sabazius (button) folded before Flop (didn't bet)
+Seat 7: PLO_fish (small blind) folded before Flop
+Seat 8: HornyOldMan (big blind) collected ($800.00)
+
+PokerStars Hand #1492959753:  Hold'em No Limit ($200.00/$400.00 USD) - 2022/12/21 03:50:51 ET
+Table 'WPN_7 Day No Rathole 200/400 NLH - Limited Time' 9-max Seat #7 is the button
+Seat 3: orgi69 ($4000.00 in chips)
+Seat 6: Sabazius ($13456.12 in chips)
+Seat 7: PLO_fish ($6595.25 in chips)
+Seat 8: HornyOldMan ($18992.25 in chips)
+HornyOldMan: posts small blind $200.00
+orgi69: posts big blind $400.00
+*** HOLE CARDS ***
+Sabazius: folds
+PLO_fish: folds
+HornyOldMan: calls $200.00
+orgi69: checks
+*** FLOP *** [Jc 7c 2c]
+HornyOldMan: checks
+orgi69: checks
+*** TURN *** [Jc 7c 2c] [5d]
+HornyOldMan: bets $400.00
+orgi69: calls $400.00
+*** RIVER *** [Jc 7c 2c 5d] [8s]
+HornyOldMan: bets $479.32
+orgi69: folds
+Uncalled bet ($479.32) returned to HornyOldMan
+HornyOldMan collected $1597.75 from pot
+HornyOldMan: doesn't show hand
+*** SUMMARY ***
+Total pot $1600.00 | Rake $2.25
+Board [Jc 7c 2c 5d 8s]
+Seat 3: orgi69 (big blind) folded on the River
+Seat 6: Sabazius folded before Flop (didn't bet)
+Seat 7: PLO_fish (button) folded before Flop (didn't bet)
+Seat 8: HornyOldMan (small blind) collected ($1597.75)
+
+PokerStars Hand #1492961116:  Hold'em No Limit ($200.00/$400.00 USD) - 2022/12/21 03:52:03 ET
+Table 'WPN_7 Day No Rathole 200/400 NLH - Limited Time' 9-max Seat #8 is the button
+Seat 3: orgi69 ($3200.00 in chips)
+Seat 4: alanwatts15 ($37025.83 in chips)
+Seat 6: Sabazius ($13456.12 in chips)
+Seat 7: PLO_fish ($6595.25 in chips)
+Seat 8: HornyOldMan ($19790.00 in chips)
+orgi69: posts small blind $200.00
+alanwatts15: posts big blind $400.00
+*** HOLE CARDS ***
+Sabazius: folds
+PLO_fish: folds
+HornyOldMan: folds
+orgi69: folds
+Uncalled bet ($200.00) returned to alanwatts15
+alanwatts15 collected $400.00 from pot
+alanwatts15: doesn't show hand
+*** SUMMARY ***
+Total pot $400.00 | Rake $0.00
+Seat 3: orgi69 (small blind) folded before Flop
+Seat 4: alanwatts15 (big blind) collected ($400.00)
+Seat 6: Sabazius folded before Flop (didn't bet)
+Seat 7: PLO_fish folded before Flop (didn't bet)
+Seat 8: HornyOldMan (button) folded before Flop (didn't bet)
+
+PokerStars Hand #1492961347:  Hold'em No Limit ($200.00/$400.00 USD) - 2022/12/21 03:52:15 ET
+Table 'WPN_7 Day No Rathole 200/400 NLH - Limited Time' 9-max Seat #3 is the button
+Seat 3: orgi69 ($3000.00 in chips)
+Seat 4: alanwatts15 ($37225.83 in chips)
+Seat 6: Sabazius ($13456.12 in chips)
+Seat 7: PLO_fish ($6595.25 in chips)
+Seat 8: HornyOldMan ($19790.00 in chips)
+alanwatts15: posts small blind $200.00
+Sabazius: posts big blind $400.00
+*** HOLE CARDS ***
+PLO_fish: folds
+HornyOldMan: folds
+orgi69: folds
+alanwatts15: raises $800.00 to $1200.00
+Sabazius: calls $800.00
+*** FLOP *** [4s 8d 8c]
+alanwatts15: checks
+Sabazius: bets $600.00
+alanwatts15: raises $1600.00 to $2200.00
+Sabazius: folds
+Uncalled bet ($1600.00) returned to alanwatts15
+alanwatts15 collected $3597.00 from pot
+alanwatts15: doesn't show hand
+*** SUMMARY ***
+Total pot $3600.00 | Rake $3.00
+Board [4s 8d 8c]
+Seat 3: orgi69 (button) folded before Flop (didn't bet)
+Seat 4: alanwatts15 (small blind) collected ($3597.00)
+Seat 6: Sabazius (big blind) folded on the Flop
+Seat 7: PLO_fish folded before Flop (didn't bet)
+Seat 8: HornyOldMan folded before Flop (didn't bet)
+
+PokerStars Hand #1492962365:  Hold'em No Limit ($200.00/$400.00 USD) - 2022/12/21 03:53:10 ET
+Table 'WPN_7 Day No Rathole 200/400 NLH - Limited Time' 9-max Seat #4 is the button
+Seat 3: orgi69 ($4000.00 in chips)
+Seat 4: alanwatts15 ($39022.83 in chips)
+Seat 6: Sabazius ($11656.12 in chips)
+Seat 7: PLO_fish ($6595.25 in chips)
+Seat 8: HornyOldMan ($19790.00 in chips)
+Sabazius: posts small blind $200.00
+PLO_fish: posts big blind $400.00
+*** HOLE CARDS ***
+HornyOldMan: folds
+orgi69: raises $3600.00 to $4000.00 and is all-in
+alanwatts15: folds
+Sabazius: folds
+PLO_fish: folds
+Uncalled bet ($3600.00) returned to orgi69
+orgi69 collected $1000.00 from pot
+orgi69: doesn't show hand
+*** SUMMARY ***
+Total pot $1000.00 | Rake $0.00
+Seat 3: orgi69 collected ($1000.00)
+Seat 4: alanwatts15 (button) folded before Flop (didn't bet)
+Seat 6: Sabazius (small blind) folded before Flop
+Seat 7: PLO_fish (big blind) folded before Flop
+Seat 8: HornyOldMan folded before Flop (didn't bet)
+
+PokerStars Hand #1492962694:  Hold'em No Limit ($200.00/$400.00 USD) - 2022/12/21 03:53:25 ET
+Table 'WPN_7 Day No Rathole 200/400 NLH - Limited Time' 9-max Seat #6 is the button
+Seat 3: orgi69 ($4600.00 in chips)
+Seat 4: alanwatts15 ($39022.83 in chips)
+Seat 6: Sabazius ($11456.12 in chips)
+Seat 7: PLO_fish ($6195.25 in chips)
+Seat 8: HornyOldMan ($19790.00 in chips)
+PLO_fish: posts small blind $200.00
+HornyOldMan: posts big blind $400.00
+*** HOLE CARDS ***
+orgi69: folds
+alanwatts15: raises $400.00 to $800.00
+Sabazius: folds
+PLO_fish: folds
+HornyOldMan: folds
+Uncalled bet ($400.00) returned to alanwatts15
+alanwatts15 collected $1000.00 from pot
+alanwatts15: doesn't show hand
+*** SUMMARY ***
+Total pot $1000.00 | Rake $0.00
+Seat 3: orgi69 folded before Flop (didn't bet)
+Seat 4: alanwatts15 collected ($1000.00)
+Seat 6: Sabazius (button) folded before Flop (didn't bet)
+Seat 7: PLO_fish (small blind) folded before Flop
+Seat 8: HornyOldMan (big blind) folded before Flop
+
+PokerStars Hand #1492963003:  Hold'em No Limit ($200.00/$400.00 USD) - 2022/12/21 03:53:44 ET
+Table 'WPN_7 Day No Rathole 200/400 NLH - Limited Time' 9-max Seat #7 is the button
+Seat 3: orgi69 ($4600.00 in chips)
+Seat 4: alanwatts15 ($39622.83 in chips)
+Seat 6: Sabazius ($11456.12 in chips)
+Seat 7: PLO_fish ($5995.25 in chips)
+Seat 8: HornyOldMan ($19390.00 in chips)
+HornyOldMan: posts small blind $200.00
+orgi69: posts big blind $400.00
+*** HOLE CARDS ***
+alanwatts15: folds
+Sabazius: folds
+PLO_fish: folds
+HornyOldMan: raises $18990.00 to $19390.00 and is all-in
+orgi69: calls $4200.00 and is all-in
+Uncalled bet ($14790.00) returned to HornyOldMan
+*** FIRST FLOP *** [Kc Kh Jc]
+*** FIRST TURN *** [Kc Kh Jc] [6c]
+*** FIRST RIVER *** [Kc Kh Jc 6c] [Qc]
+*** SECOND FLOP *** [6d 3c Ks]
+*** SECOND TURN *** [6d 3c Ks] [Qd]
+*** SECOND RIVER *** [6d 3c Ks Qd] [8c]
+*** FIRST SHOW DOWN ***
+orgi69: shows [2c Ah]
+HornyOldMan: shows [5d 4d]
+orgi69 collected $4598.50 from pot
+*** SECOND SHOW DOWN ***
+orgi69: shows [2c Ah]
+HornyOldMan: shows [5d 4d]
+orgi69 collected $4598.50 from pot
+*** SUMMARY ***
+Total pot $9200.00 | Rake $3.00
+Hand was run twice
+FIRST Board [Kc Kh Jc 6c Qc]
+SECOND Board [6d 3c Ks Qd 8c]
+Seat 3: orgi69 (big blind) showed [2c Ah] and won ($4598.50), and won ($4598.50)
+Seat 4: alanwatts15 folded before Flop (didn't bet)
+Seat 6: Sabazius folded before Flop (didn't bet)
+Seat 7: PLO_fish (button) folded before Flop (didn't bet)
+Seat 8: HornyOldMan (small blind) showed [5d 4d] and lost, and lost
+
+PokerStars Hand #1492963659:  Hold'em No Limit ($200.00/$400.00 USD) - 2022/12/21 03:54:17 ET
+Table 'WPN_7 Day No Rathole 200/400 NLH - Limited Time' 9-max Seat #8 is the button
+Seat 3: orgi69 ($9197.00 in chips)
+Seat 4: alanwatts15 ($39622.83 in chips)
+Seat 6: Sabazius ($11456.12 in chips)
+Seat 7: PLO_fish ($5995.25 in chips)
+Seat 8: HornyOldMan ($14790.00 in chips)
+orgi69: posts small blind $200.00
+alanwatts15: posts big blind $400.00
+*** HOLE CARDS ***
+Sabazius: raises $400.00 to $800.00
+PLO_fish: folds
+HornyOldMan: folds
+orgi69: folds
+alanwatts15: calls $400.00
+*** FLOP *** [Qs Ah 6s]
+alanwatts15: checks
+Sabazius: checks
+*** TURN *** [Qs Ah 6s] [Kh]
+alanwatts15: checks
+Sabazius: checks
+*** RIVER *** [Qs Ah 6s Kh] [8s]
+alanwatts15: bets $600.00
+Sabazius: folds
+Uncalled bet ($600.00) returned to alanwatts15
+alanwatts15 collected $1797.00 from pot
+alanwatts15: doesn't show hand
+*** SUMMARY ***
+Total pot $1800.00 | Rake $3.00
+Board [Qs Ah 6s Kh 8s]
+Seat 3: orgi69 (small blind) folded before Flop
+Seat 4: alanwatts15 (big blind) collected ($1797.00)
+Seat 6: Sabazius folded on the River
+Seat 7: PLO_fish folded before Flop (didn't bet)
+Seat 8: HornyOldMan (button) folded before Flop (didn't bet)
+
+PokerStars Hand #1492964984:  Hold'em No Limit ($200.00/$400.00 USD) - 2022/12/21 03:55:43 ET
+Table 'WPN_7 Day No Rathole 200/400 NLH - Limited Time' 9-max Seat #3 is the button
+Seat 3: orgi69 ($8997.00 in chips)
+Seat 4: alanwatts15 ($40619.83 in chips)
+Seat 6: Sabazius ($10656.12 in chips)
+Seat 7: PLO_fish ($5995.25 in chips)
+Seat 8: HornyOldMan ($14790.00 in chips)
+alanwatts15: posts small blind $200.00
+Sabazius: posts big blind $400.00
+*** HOLE CARDS ***
+PLO_fish: folds
+HornyOldMan: folds
+orgi69: folds
+alanwatts15: folds
+Uncalled bet ($200.00) returned to Sabazius
+Sabazius collected $400.00 from pot
+Sabazius: doesn't show hand
+*** SUMMARY ***
+Total pot $400.00 | Rake $0.00
+Seat 3: orgi69 (button) folded before Flop (didn't bet)
+Seat 4: alanwatts15 (small blind) folded before Flop
+Seat 6: Sabazius (big blind) collected ($400.00)
+Seat 7: PLO_fish folded before Flop (didn't bet)
+Seat 8: HornyOldMan folded before Flop (didn't bet)
+
+PokerStars Hand #1492965119:  Hold'em No Limit ($200.00/$400.00 USD) - 2022/12/21 03:55:55 ET
+Table 'WPN_7 Day No Rathole 200/400 NLH - Limited Time' 9-max Seat #4 is the button
+Seat 3: orgi69 ($8997.00 in chips)
+Seat 4: alanwatts15 ($40419.83 in chips)
+Seat 6: Sabazius ($10856.12 in chips)
+Seat 7: PLO_fish ($5995.25 in chips)
+Seat 8: HornyOldMan ($14790.00 in chips)
+Sabazius: posts small blind $200.00
+PLO_fish: posts big blind $400.00
+*** HOLE CARDS ***
+HornyOldMan: folds
+orgi69: folds
+alanwatts15: folds
+Sabazius: raises $400.00 to $800.00
+PLO_fish: calls $400.00
+*** FLOP *** [Td 7s 2h]
+Sabazius: bets $400.00
+PLO_fish: calls $400.00
+*** TURN *** [Td 7s 2h] [Ts]
+Sabazius: checks
+PLO_fish: bets $1200.00
+Sabazius: folds
+Uncalled bet ($1200.00) returned to PLO_fish
+PLO_fish collected $2397.00 from pot
+PLO_fish: doesn't show hand
+*** SUMMARY ***
+Total pot $2400.00 | Rake $3.00
+Board [Td 7s 2h Ts]
+Seat 3: orgi69 folded before Flop (didn't bet)
+Seat 4: alanwatts15 (button) folded before Flop (didn't bet)
+Seat 6: Sabazius (small blind) folded on the Turn
+Seat 7: PLO_fish (big blind) collected ($2397.00)
+Seat 8: HornyOldMan folded before Flop (didn't bet)
+
+PokerStars Hand #1492965609:  Hold'em No Limit ($200.00/$400.00 USD) - 2022/12/21 03:56:41 ET
+Table 'WPN_7 Day No Rathole 200/400 NLH - Limited Time' 9-max Seat #6 is the button
+Seat 3: orgi69 ($8997.00 in chips)
+Seat 4: alanwatts15 ($40419.83 in chips)
+Seat 6: Sabazius ($9656.12 in chips)
+Seat 7: PLO_fish ($7192.25 in chips)
+Seat 8: HornyOldMan ($14790.00 in chips)
+PLO_fish: posts small blind $200.00
+HornyOldMan: posts big blind $400.00
+*** HOLE CARDS ***
+orgi69: raises $400.00 to $800.00
+alanwatts15: folds
+Sabazius: folds
+PLO_fish: calls $600.00
+HornyOldMan: folds
+*** FLOP *** [Ah 7c 5c]
+PLO_fish: checks
+orgi69: bets $600.00
+PLO_fish: raises $2400.00 to $3000.00
+orgi69: folds
+Uncalled bet ($2400.00) returned to PLO_fish
+PLO_fish collected $3197.00 from pot
+PLO_fish: doesn't show hand
+*** SUMMARY ***
+Total pot $3200.00 | Rake $3.00
+Board [Ah 7c 5c]
+Seat 3: orgi69 folded on the Flop
+Seat 4: alanwatts15 folded before Flop (didn't bet)
+Seat 6: Sabazius (button) folded before Flop (didn't bet)
+Seat 7: PLO_fish (small blind) collected ($3197.00)
+Seat 8: HornyOldMan (big blind) folded before Flop
+
+PokerStars Hand #1492965943:  Hold'em No Limit ($200.00/$400.00 USD) - 2022/12/21 03:57:10 ET
+Table 'WPN_7 Day No Rathole 200/400 NLH - Limited Time' 9-max Seat #7 is the button
+Seat 3: orgi69 ($7597.00 in chips)
+Seat 4: alanwatts15 ($40419.83 in chips)
+Seat 6: Sabazius ($9656.12 in chips)
+Seat 7: PLO_fish ($8989.25 in chips)
+Seat 8: HornyOldMan ($14390.00 in chips)
+HornyOldMan: posts small blind $200.00
+orgi69: posts big blind $400.00
+*** HOLE CARDS ***
+alanwatts15: folds
+Sabazius: folds
+PLO_fish: raises $400.00 to $800.00
+HornyOldMan: folds
+orgi69: calls $400.00
+*** FLOP *** [7s 4h Ad]
+orgi69: checks
+PLO_fish: bets $450.00
+orgi69: raises $1050.00 to $1500.00
+PLO_fish: raises $6689.25 to $8189.25 and is all-in
+orgi69: folds
+Uncalled bet ($6689.25) returned to PLO_fish
+PLO_fish collected $4797.00 from pot
+PLO_fish: doesn't show hand
+*** SUMMARY ***
+Total pot $4800.00 | Rake $3.00
+Board [7s 4h Ad]
+Seat 3: orgi69 (big blind) folded on the Flop
+Seat 4: alanwatts15 folded before Flop (didn't bet)
+Seat 6: Sabazius folded before Flop (didn't bet)
+Seat 7: PLO_fish (button) collected ($4797.00)
+Seat 8: HornyOldMan (small blind) folded before Flop
+
+PokerStars Hand #1492966587:  Hold'em No Limit ($200.00/$400.00 USD) - 2022/12/21 03:58:11 ET
+Table 'WPN_7 Day No Rathole 200/400 NLH - Limited Time' 9-max Seat #8 is the button
+Seat 3: orgi69 ($5297.00 in chips)
+Seat 6: Sabazius ($9656.12 in chips)
+Seat 7: PLO_fish ($11486.25 in chips)
+Seat 8: HornyOldMan ($14190.00 in chips)
+orgi69: posts small blind $200.00
+Sabazius: posts big blind $400.00
+*** HOLE CARDS ***
+PLO_fish: folds
+HornyOldMan: folds
+orgi69: folds
+Uncalled bet ($200.00) returned to Sabazius
+Sabazius collected $400.00 from pot
+Sabazius: doesn't show hand
+*** SUMMARY ***
+Total pot $400.00 | Rake $0.00
+Seat 3: orgi69 (small blind) folded before Flop
+Seat 6: Sabazius (big blind) collected ($400.00)
+Seat 7: PLO_fish folded before Flop (didn't bet)
+Seat 8: HornyOldMan (button) folded before Flop (didn't bet)
+
+PokerStars Hand #1492966679:  Hold'em No Limit ($200.00/$400.00 USD) - 2022/12/21 03:58:19 ET
+Table 'WPN_7 Day No Rathole 200/400 NLH - Limited Time' 9-max Seat #3 is the button
+Seat 3: orgi69 ($5097.00 in chips)
+Seat 6: Sabazius ($9856.12 in chips)
+Seat 7: PLO_fish ($11486.25 in chips)
+Seat 8: HornyOldMan ($14190.00 in chips)
+Sabazius: posts small blind $200.00
+PLO_fish: posts big blind $400.00
+*** HOLE CARDS ***
+HornyOldMan: raises $440.00 to $840.00
+orgi69: folds
+Sabazius: raises $1560.00 to $2400.00
+PLO_fish: folds
+HornyOldMan: folds
+Uncalled bet ($1560.00) returned to Sabazius
+Sabazius collected $2080.00 from pot
+Sabazius: doesn't show hand
+*** SUMMARY ***
+Total pot $2080.00 | Rake $0.00
+Seat 3: orgi69 (button) folded before Flop (didn't bet)
+Seat 6: Sabazius (small blind) collected ($2080.00)
+Seat 7: PLO_fish (big blind) folded before Flop
+Seat 8: HornyOldMan folded before Flop
+
+PokerStars Hand #1492967016:  Hold'em No Limit ($200.00/$400.00 USD) - 2022/12/21 03:58:50 ET
+Table 'WPN_7 Day No Rathole 200/400 NLH - Limited Time' 9-max Seat #6 is the button
+Seat 3: orgi69 ($5097.00 in chips)
+Seat 4: alanwatts15 ($40419.83 in chips)
+Seat 6: Sabazius ($11096.12 in chips)
+Seat 7: PLO_fish ($11086.25 in chips)
+Seat 8: HornyOldMan ($13350.00 in chips)
+PLO_fish: posts small blind $200.00
+HornyOldMan: posts big blind $400.00
+*** HOLE CARDS ***
+orgi69: raises $4697.00 to $5097.00 and is all-in
+Sabazius: folds
+PLO_fish: folds
+HornyOldMan: folds
+Uncalled bet ($4697.00) returned to orgi69
+orgi69 collected $1000.00 from pot
+orgi69: doesn't show hand
+*** SUMMARY ***
+Total pot $1000.00 | Rake $0.00
+Seat 3: orgi69 collected ($1000.00)
+Seat 6: Sabazius (button) folded before Flop (didn't bet)
+Seat 7: PLO_fish (small blind) folded before Flop
+Seat 8: HornyOldMan (big blind) folded before Flop
+
+PokerStars Hand #1492967211:  Hold'em No Limit ($200.00/$400.00 USD) - 2022/12/21 03:59:08 ET
+Table 'WPN_7 Day No Rathole 200/400 NLH - Limited Time' 9-max Seat #7 is the button
+Seat 3: orgi69 ($5697.00 in chips)
+Seat 4: alanwatts15 ($40419.83 in chips)
+Seat 6: Sabazius ($11096.12 in chips)
+Seat 7: PLO_fish ($10886.25 in chips)
+Seat 8: HornyOldMan ($12950.00 in chips)
+HornyOldMan: posts small blind $200.00
+orgi69: posts big blind $400.00
+*** HOLE CARDS ***
+Sabazius: raises $400.00 to $800.00
+PLO_fish: calls $800.00
+HornyOldMan: folds
+orgi69: folds
+*** FLOP *** [Kc 7c 4s]
+Sabazius: checks
+PLO_fish: bets $1100.00
+Sabazius: folds
+Uncalled bet ($1100.00) returned to PLO_fish
+PLO_fish collected $2197.75 from pot
+PLO_fish: doesn't show hand
+*** SUMMARY ***
+Total pot $2200.00 | Rake $2.25
+Board [Kc 7c 4s]
+Seat 3: orgi69 (big blind) folded before Flop
+Seat 6: Sabazius folded on the Flop
+Seat 7: PLO_fish (button) collected ($2197.75)
+Seat 8: HornyOldMan (small blind) folded before Flop
+
+PokerStars Hand #1492968374:  Hold'em No Limit ($200.00/$400.00 USD) - 2022/12/21 04:00:47 ET
+Table 'WPN_7 Day No Rathole 200/400 NLH - Limited Time' 9-max Seat #3 is the button
+Seat 3: orgi69 ($5097.00 in chips)
+Seat 4: alanwatts15 ($39219.83 in chips)
+Seat 6: Sabazius ($11693.12 in chips)
+Seat 7: PLO_fish ($12284.00 in chips)
+Seat 8: HornyOldMan ($12750.00 in chips)
+alanwatts15: posts small blind $200.00
+Sabazius: posts big blind $400.00
+*** HOLE CARDS ***
+PLO_fish: folds
+HornyOldMan: folds
+orgi69: folds
+alanwatts15: folds
+Uncalled bet ($200.00) returned to Sabazius
+Sabazius collected $400.00 from pot
+Sabazius: doesn't show hand
+*** SUMMARY ***
+Total pot $400.00 | Rake $0.00
+Seat 3: orgi69 (button) folded before Flop (didn't bet)
+Seat 4: alanwatts15 (small blind) folded before Flop
+Seat 6: Sabazius (big blind) collected ($400.00)
+Seat 7: PLO_fish folded before Flop (didn't bet)
+Seat 8: HornyOldMan folded before Flop (didn't bet)
+
+PokerStars Hand #1492968570:  Hold'em No Limit ($200.00/$400.00 USD) - 2022/12/21 04:00:58 ET
+Table 'WPN_7 Day No Rathole 200/400 NLH - Limited Time' 9-max Seat #4 is the button
+Seat 3: orgi69 ($5097.00 in chips)
+Seat 4: alanwatts15 ($39019.83 in chips)
+Seat 6: Sabazius ($11893.12 in chips)
+Seat 7: PLO_fish ($12284.00 in chips)
+Seat 8: HornyOldMan ($12750.00 in chips)
+Sabazius: posts small blind $200.00
+PLO_fish: posts big blind $400.00
+*** HOLE CARDS ***
+HornyOldMan: folds
+orgi69: folds
+alanwatts15: folds
+Sabazius: raises $600.00 to $1000.00
+PLO_fish: calls $600.00
+*** FLOP *** [Qc 6c Jh]
+Sabazius: bets $400.00
+PLO_fish: calls $400.00
+*** TURN *** [Qc 6c Jh] [Ts]
+Sabazius: bets $2320.00
+PLO_fish: folds
+Uncalled bet ($2320.00) returned to Sabazius
+Sabazius collected $2797.00 from pot
+Sabazius: doesn't show hand
+*** SUMMARY ***
+Total pot $2800.00 | Rake $3.00
+Board [Qc 6c Jh Ts]
+Seat 3: orgi69 folded before Flop (didn't bet)
+Seat 4: alanwatts15 (button) folded before Flop (didn't bet)
+Seat 6: Sabazius (small blind) collected ($2797.00)
+Seat 7: PLO_fish (big blind) folded on the Turn
+Seat 8: HornyOldMan folded before Flop (didn't bet)
+
+PokerStars Hand #1492969353:  Hold'em No Limit ($200.00/$400.00 USD) - 2022/12/21 04:01:45 ET
+Table 'WPN_7 Day No Rathole 200/400 NLH - Limited Time' 9-max Seat #6 is the button
+Seat 3: orgi69 ($5097.00 in chips)
+Seat 4: alanwatts15 ($39019.83 in chips)
+Seat 6: Sabazius ($13290.12 in chips)
+Seat 7: PLO_fish ($10884.00 in chips)
+Seat 8: HornyOldMan ($12750.00 in chips)
+PLO_fish: posts small blind $200.00
+HornyOldMan: posts big blind $400.00
+*** HOLE CARDS ***
+orgi69: folds
+alanwatts15: raises $400.00 to $800.00
+Sabazius: folds
+PLO_fish: calls $600.00
+HornyOldMan: folds
+*** FLOP *** [5c 8d 2s]
+PLO_fish: checks
+alanwatts15: bets $600.00
+PLO_fish: calls $600.00
+*** TURN *** [5c 8d 2s] [5d]
+PLO_fish: checks
+alanwatts15: checks
+*** RIVER *** [5c 8d 2s 5d] [3d]
+PLO_fish: checks
+alanwatts15: bets $2400.00
+PLO_fish: calls $2400.00
+*** SHOW DOWN ***
+alanwatts15: shows [Ad 6d]
+PLO_fish: mucks hand
+alanwatts15 collected $7997.00 from pot
+*** SUMMARY ***
+Total pot $8000.00 | Rake $3.00
+Board [5c 8d 2s 5d 3d]
+Seat 3: orgi69 folded before Flop (didn't bet)
+Seat 4: alanwatts15 showed [Ad 6d] and won ($7997.00)
+Seat 6: Sabazius (button) folded before Flop (didn't bet)
+Seat 7: PLO_fish (small blind) mucked
+Seat 8: HornyOldMan (big blind) folded before Flop
+
+PokerStars Hand #1492970824:  Hold'em No Limit ($200.00/$400.00 USD) - 2022/12/21 04:03:06 ET
+Table 'WPN_7 Day No Rathole 200/400 NLH - Limited Time' 9-max Seat #7 is the button
+Seat 3: orgi69 ($5097.00 in chips)
+Seat 4: alanwatts15 ($43216.83 in chips)
+Seat 6: Sabazius ($13290.12 in chips)
+Seat 7: PLO_fish ($7084.00 in chips)
+Seat 8: HornyOldMan ($12350.00 in chips)
+HornyOldMan: posts small blind $200.00
+orgi69: posts big blind $400.00
+*** HOLE CARDS ***
+alanwatts15: raises $400.00 to $800.00
+Sabazius: raises $1200.00 to $2000.00
+PLO_fish: folds
+HornyOldMan: folds
+orgi69: folds
+alanwatts15: calls $1200.00
+*** FLOP *** [3c Qc 5d]
+alanwatts15: checks
+Sabazius: bets $1150.00
+alanwatts15: calls $1150.00
+*** TURN *** [3c Qc 5d] [As]
+alanwatts15: checks
+Sabazius: bets $3450.00
+alanwatts15: raises $36616.83 to $40066.83 and is all-in
+Sabazius: folds
+Uncalled bet ($36616.83) returned to alanwatts15
+alanwatts15 collected $13797.00 from pot
+alanwatts15: doesn't show hand
+*** SUMMARY ***
+Total pot $13800.00 | Rake $3.00
+Board [3c Qc 5d As]
+Seat 3: orgi69 (big blind) folded before Flop
+Seat 4: alanwatts15 collected ($13797.00)
+Seat 6: Sabazius folded on the Turn
+Seat 7: PLO_fish (button) folded before Flop (didn't bet)
+Seat 8: HornyOldMan (small blind) folded before Flop
+
+PokerStars Hand #1492972681:  Hold'em No Limit ($200.00/$400.00 USD) - 2022/12/21 04:04:45 ET
+Table 'WPN_7 Day No Rathole 200/400 NLH - Limited Time' 9-max Seat #8 is the button
+Seat 3: orgi69 ($4697.00 in chips)
+Seat 4: alanwatts15 ($50413.83 in chips)
+Seat 5: oneplusone ($183963.81 in chips)
+Seat 6: Sabazius ($6690.12 in chips)
+Seat 7: PLO_fish ($7084.00 in chips)
+Seat 8: HornyOldMan ($12150.00 in chips)
+orgi69: posts small blind $200.00
+alanwatts15: posts big blind $400.00
+*** HOLE CARDS ***
+Sabazius: raises $400.00 to $800.00
+PLO_fish: folds
+HornyOldMan: folds
+orgi69: folds
+alanwatts15: calls $400.00
+*** FLOP *** [6s 7c 4c]
+alanwatts15: bets $540.00
+Sabazius: folds
+Uncalled bet ($540.00) returned to alanwatts15
+alanwatts15 collected $1797.00 from pot
+alanwatts15: doesn't show hand
+*** SUMMARY ***
+Total pot $1800.00 | Rake $3.00
+Board [6s 7c 4c]
+Seat 3: orgi69 (small blind) folded before Flop
+Seat 4: alanwatts15 (big blind) collected ($1797.00)
+Seat 6: Sabazius folded on the Flop
+Seat 7: PLO_fish folded before Flop (didn't bet)
+Seat 8: HornyOldMan (button) folded before Flop (didn't bet)
+
+PokerStars Hand #1492973255:  Hold'em No Limit ($200.00/$400.00 USD) - 2022/12/21 04:05:17 ET
+Table 'WPN_7 Day No Rathole 200/400 NLH - Limited Time' 9-max Seat #3 is the button
+Seat 3: orgi69 ($4497.00 in chips)
+Seat 4: alanwatts15 ($51410.83 in chips)
+Seat 5: oneplusone ($183963.81 in chips)
+Seat 6: Sabazius ($5890.12 in chips)
+Seat 7: PLO_fish ($7084.00 in chips)
+Seat 8: HornyOldMan ($12150.00 in chips)
+Seat 9: ExpansiveMan ($7798.25 in chips)
+alanwatts15: posts small blind $200.00
+oneplusone: posts big blind $400.00
+*** HOLE CARDS ***
+Sabazius: folds
+PLO_fish: raises $500.00 to $900.00
+HornyOldMan: folds
+orgi69: folds
+alanwatts15: folds
+oneplusone: calls $500.00
+*** FLOP *** [8d Jc 8c]
+oneplusone: checks
+PLO_fish: checks
+*** TURN *** [8d Jc 8c] [8h]
+oneplusone: bets $1320.00
+PLO_fish: calls $1320.00
+*** RIVER *** [8d Jc 8c 8h] [Ac]
+oneplusone: checks
+PLO_fish: bets $3480.00
+oneplusone: raises $178263.81 to $181743.81 and is all-in
+PLO_fish: calls $1384.00 and is all-in
+Uncalled bet ($176879.81) returned to oneplusone
+*** SHOW DOWN ***
+oneplusone: shows [7d 8s]
+PLO_fish: shows [Ad Qs]
+oneplusone collected $14365.00 from pot
+*** SUMMARY ***
+Total pot $14368.00 | Rake $3.00
+Board [8d Jc 8c 8h Ac]
+Seat 3: orgi69 (button) folded before Flop (didn't bet)
+Seat 4: alanwatts15 (small blind) folded before Flop
+Seat 5: oneplusone (big blind) showed [7d 8s] and won ($14365.00)
+Seat 6: Sabazius folded before Flop (didn't bet)
+Seat 7: PLO_fish showed [Ad Qs] and lost
+Seat 8: HornyOldMan folded before Flop (didn't bet)
+
+PokerStars Hand #1492974565:  Hold'em No Limit ($200.00/$400.00 USD) - 2022/12/21 04:06:26 ET
+Table 'WPN_7 Day No Rathole 200/400 NLH - Limited Time' 9-max Seat #4 is the button
+Seat 3: orgi69 ($4497.00 in chips)
+Seat 4: alanwatts15 ($51210.83 in chips)
+Seat 5: oneplusone ($191244.81 in chips)
+Seat 6: Sabazius ($5890.12 in chips)
+Seat 8: HornyOldMan ($12150.00 in chips)
+Seat 9: ExpansiveMan ($7798.25 in chips)
+oneplusone: posts small blind $200.00
+HornyOldMan: posts big blind $400.00
+*** HOLE CARDS ***
+orgi69: raises $4097.00 to $4497.00 and is all-in
+alanwatts15: calls $4497.00
+oneplusone: folds
+HornyOldMan: folds
+*** FIRST FLOP *** [3c 4c 6d]
+*** FIRST TURN *** [3c 4c 6d] [9h]
+*** FIRST RIVER *** [3c 4c 6d 9h] [3d]
+*** SECOND FLOP *** [6c 9s Ac]
+*** SECOND TURN *** [6c 9s Ac] [5s]
+*** SECOND RIVER *** [6c 9s Ac 5s] [8d]
+*** FIRST SHOW DOWN ***
+orgi69: shows [Jc Js]
+alanwatts15: shows [Ad Qs]
+orgi69 collected $4795.88 from pot
+*** SECOND SHOW DOWN ***
+orgi69: shows [Jc Js]
+alanwatts15: shows [Ad Qs]
+alanwatts15 collected $4795.87 from pot
+*** SUMMARY ***
+Total pot $9594.00 | Rake $2.25
+Hand was run twice
+FIRST Board [3c 4c 6d 9h 3d]
+SECOND Board [6c 9s Ac 5s 8d]
+Seat 3: orgi69 showed [Jc Js] and won ($4795.88), and lost
+Seat 4: alanwatts15 (button) showed [Ad Qs] and lost, and won ($4795.87)
+Seat 5: oneplusone (small blind) folded before Flop
+Seat 6: Sabazius and lost, and lost
+Seat 8: HornyOldMan (big blind) folded before Flop
+Seat 9: ExpansiveMan and lost, and lost
+
+PokerStars Hand #1492975228:  Hold'em No Limit ($200.00/$400.00 USD) - 2022/12/21 04:06:59 ET
+Table 'WPN_7 Day No Rathole 200/400 NLH - Limited Time' 9-max Seat #5 is the button
+Seat 3: orgi69 ($4795.88 in chips)
+Seat 4: alanwatts15 ($51509.70 in chips)
+Seat 5: oneplusone ($191044.81 in chips)
+Seat 8: HornyOldMan ($11750.00 in chips)
+HornyOldMan: posts small blind $200.00
+orgi69: posts big blind $400.00
+*** HOLE CARDS ***
+alanwatts15: raises $400.00 to $800.00
+oneplusone: folds
+HornyOldMan: folds
+orgi69: raises $3995.88 to $4795.88 and is all-in
+alanwatts15: folds
+Uncalled bet ($3995.88) returned to orgi69
+orgi69 collected $1800.00 from pot
+orgi69: doesn't show hand
+*** SUMMARY ***
+Total pot $1800.00 | Rake $0.00
+Seat 3: orgi69 (big blind) collected ($1800.00)
+Seat 4: alanwatts15 folded before Flop
+Seat 5: oneplusone (button) folded before Flop (didn't bet)
+Seat 8: HornyOldMan (small blind) folded before Flop
+
+PokerStars Hand #1492979179:  Hold'em No Limit ($200.00/$400.00 USD) - 2022/12/21 04:10:26 ET
+Table 'WPN_7 Day No Rathole 200/400 NLH - Limited Time' 9-max Seat #8 is the button
+Seat 8: HornyOldMan ($11550.00 in chips)
+Seat 9: PLO_fish ($4000.00 in chips)
+HornyOldMan: posts small blind $200.00
+PLO_fish: posts big blind $400.00
+*** HOLE CARDS ***
+HornyOldMan: calls $200.00
+PLO_fish: checks
+*** FLOP *** [Ah 6c 4s]
+PLO_fish: checks
+HornyOldMan: bets $400.00
+PLO_fish: calls $400.00
+*** TURN *** [Ah 6c 4s] [Kd]
+PLO_fish: checks
+HornyOldMan: checks
+*** RIVER *** [Ah 6c 4s Kd] [8c]
+PLO_fish: checks
+HornyOldMan: checks
+*** SHOW DOWN ***
+HornyOldMan: shows [6h Td]
+PLO_fish: mucks hand
+HornyOldMan collected $1598.75 from pot
+*** SUMMARY ***
+Total pot $1600.00 | Rake $1.25
+Board [Ah 6c 4s Kd 8c]
+Seat 8: HornyOldMan (button) (small blind) showed [6h Td] and won ($1598.75)
+Seat 9: PLO_fish (big blind) mucked
+
+PokerStars Hand #1492979929:  Hold'em No Limit ($200.00/$400.00 USD) - 2022/12/21 04:11:07 ET
+Table 'WPN_7 Day No Rathole 200/400 NLH - Limited Time' 9-max Seat #8 is the button
+Seat 1: Sabazius ($5890.12 in chips)
+Seat 8: HornyOldMan ($12348.75 in chips)
+Seat 9: PLO_fish ($3200.00 in chips)
+PLO_fish: posts small blind $200.00
+Sabazius: posts big blind $400.00
+*** HOLE CARDS ***
+HornyOldMan: folds
+PLO_fish: folds
+Uncalled bet ($200.00) returned to Sabazius
+Sabazius collected $400.00 from pot
+Sabazius: doesn't show hand
+*** SUMMARY ***
+Total pot $400.00 | Rake $0.00
+Seat 1: Sabazius (big blind) collected ($400.00)
+Seat 8: HornyOldMan (button) folded before Flop (didn't bet)
+Seat 9: PLO_fish (small blind) folded before Flop
+
+PokerStars Hand #1492980123:  Hold'em No Limit ($200.00/$400.00 USD) - 2022/12/21 04:11:18 ET
+Table 'WPN_7 Day No Rathole 200/400 NLH - Limited Time' 9-max Seat #9 is the button
+Seat 1: Sabazius ($6090.12 in chips)
+Seat 2: orgi69 ($5795.88 in chips)
+Seat 8: HornyOldMan ($12348.75 in chips)
+Seat 9: PLO_fish ($3000.00 in chips)
+Sabazius: posts small blind $200.00
+orgi69: posts big blind $400.00
+*** HOLE CARDS ***
+HornyOldMan: folds
+PLO_fish: folds
+Sabazius: raises $400.00 to $800.00
+orgi69: folds
+Uncalled bet ($400.00) returned to Sabazius
+Sabazius collected $800.00 from pot
+Sabazius: doesn't show hand
+*** SUMMARY ***
+Total pot $800.00 | Rake $0.00
+Seat 1: Sabazius (small blind) collected ($800.00)
+Seat 2: orgi69 (big blind) folded before Flop
+Seat 8: HornyOldMan folded before Flop (didn't bet)
+Seat 9: PLO_fish (button) folded before Flop (didn't bet)
+
+PokerStars Hand #1492980405:  Hold'em No Limit ($200.00/$400.00 USD) - 2022/12/21 04:11:33 ET
+Table 'WPN_7 Day No Rathole 200/400 NLH - Limited Time' 9-max Seat #1 is the button
+Seat 1: Sabazius ($6490.12 in chips)
+Seat 2: orgi69 ($5395.88 in chips)
+Seat 8: HornyOldMan ($12348.75 in chips)
+Seat 9: PLO_fish ($3000.00 in chips)
+orgi69: posts small blind $200.00
+HornyOldMan: posts big blind $400.00
+*** HOLE CARDS ***
+PLO_fish: folds
+Sabazius: raises $6090.12 to $6490.12 and is all-in
+orgi69: folds
+HornyOldMan: folds
+Uncalled bet ($6090.12) returned to Sabazius
+Sabazius collected $1000.00 from pot
+Sabazius: doesn't show hand
+*** SUMMARY ***
+Total pot $1000.00 | Rake $0.00
+Seat 1: Sabazius (button) collected ($1000.00)
+Seat 2: orgi69 (small blind) folded before Flop
+Seat 8: HornyOldMan (big blind) folded before Flop
+Seat 9: PLO_fish folded before Flop (didn't bet)
+
+PokerStars Hand #1492980664:  Hold'em No Limit ($200.00/$400.00 USD) - 2022/12/21 04:11:47 ET
+Table 'WPN_7 Day No Rathole 200/400 NLH - Limited Time' 9-max Seat #2 is the button
+Seat 1: Sabazius ($7090.12 in chips)
+Seat 2: orgi69 ($5195.88 in chips)
+Seat 3: oneplusone ($191044.81 in chips)
+Seat 8: HornyOldMan ($11948.75 in chips)
+Seat 9: PLO_fish ($3000.00 in chips)
+HornyOldMan: posts small blind $200.00
+PLO_fish: posts big blind $400.00
+*** HOLE CARDS ***
+Sabazius: folds
+orgi69: folds
+HornyOldMan: raises $11548.75 to $11948.75 and is all-in
+PLO_fish: folds
+Uncalled bet ($11548.75) returned to HornyOldMan
+HornyOldMan collected $800.00 from pot
+HornyOldMan: doesn't show hand
+*** SUMMARY ***
+Total pot $800.00 | Rake $0.00
+Seat 1: Sabazius folded before Flop (didn't bet)
+Seat 2: orgi69 (button) folded before Flop (didn't bet)
+Seat 8: HornyOldMan (small blind) collected ($800.00)
+Seat 9: PLO_fish (big blind) folded before Flop
+
+PokerStars Hand #1492980977:  Hold'em No Limit ($200.00/$400.00 USD) - 2022/12/21 04:12:04 ET
+Table 'WPN_7 Day No Rathole 200/400 NLH - Limited Time' 9-max Seat #8 is the button
+Seat 1: Sabazius ($7090.12 in chips)
+Seat 2: orgi69 ($5195.88 in chips)
+Seat 3: oneplusone ($191044.81 in chips)
+Seat 8: HornyOldMan ($12348.75 in chips)
+Seat 9: PLO_fish ($2600.00 in chips)
+PLO_fish: posts small blind $200.00
+Sabazius: posts big blind $400.00
+*** HOLE CARDS ***
+orgi69: raises $4795.88 to $5195.88 and is all-in
+HornyOldMan: folds
+PLO_fish: folds
+Sabazius: folds
+Uncalled bet ($4795.88) returned to orgi69
+orgi69 collected $1000.00 from pot
+orgi69: doesn't show hand
+*** SUMMARY ***
+Total pot $1000.00 | Rake $0.00
+Seat 1: Sabazius (big blind) folded before Flop
+Seat 2: orgi69 collected ($1000.00)
+Seat 8: HornyOldMan (button) folded before Flop (didn't bet)
+Seat 9: PLO_fish (small blind) folded before Flop
+
+PokerStars Hand #1492981202:  Hold'em No Limit ($200.00/$400.00 USD) - 2022/12/21 04:12:16 ET
+Table 'WPN_7 Day No Rathole 200/400 NLH - Limited Time' 9-max Seat #9 is the button
+Seat 1: Sabazius ($6690.12 in chips)
+Seat 2: orgi69 ($5795.88 in chips)
+Seat 3: oneplusone ($191044.81 in chips)
+Seat 8: HornyOldMan ($12348.75 in chips)
+Seat 9: PLO_fish ($2400.00 in chips)
+Sabazius: posts small blind $200.00
+orgi69: posts big blind $400.00
+*** HOLE CARDS ***
+HornyOldMan: raises $400.00 to $800.00
+PLO_fish: folds
+Sabazius: folds
+orgi69: folds
+Uncalled bet ($400.00) returned to HornyOldMan
+HornyOldMan collected $1000.00 from pot
+HornyOldMan: doesn't show hand
+*** SUMMARY ***
+Total pot $1000.00 | Rake $0.00
+Seat 1: Sabazius (small blind) folded before Flop
+Seat 2: orgi69 (big blind) folded before Flop
+Seat 8: HornyOldMan collected ($1000.00)
+Seat 9: PLO_fish (button) folded before Flop (didn't bet)
+
+PokerStars Hand #1492981677:  Hold'em No Limit ($200.00/$400.00 USD) - 2022/12/21 04:12:40 ET
+Table 'WPN_7 Day No Rathole 200/400 NLH - Limited Time' 9-max Seat #1 is the button
+Seat 1: Sabazius ($6490.12 in chips)
+Seat 2: orgi69 ($5395.88 in chips)
+Seat 3: oneplusone ($191044.81 in chips)
+Seat 8: HornyOldMan ($12948.75 in chips)
+Seat 9: PLO_fish ($2400.00 in chips)
+orgi69: posts small blind $200.00
+oneplusone: posts big blind $400.00
+*** HOLE CARDS ***
+HornyOldMan: raises $440.00 to $840.00
+PLO_fish: folds
+Sabazius: folds
+orgi69: folds
+oneplusone: calls $440.00
+*** FLOP *** [3d 6d Ad]
+oneplusone: checks
+HornyOldMan: checks
+*** TURN *** [3d 6d Ad] [9h]
+oneplusone: checks
+HornyOldMan: checks
+*** RIVER *** [3d 6d Ad 9h] [4c]
+oneplusone: bets $1240.80
+HornyOldMan: calls $1240.80
+*** SHOW DOWN ***
+oneplusone: shows [6h 4h]
+HornyOldMan: mucks hand
+oneplusone collected $4358.60 from pot
+*** SUMMARY ***
+Total pot $4361.60 | Rake $3.00
+Board [3d 6d Ad 9h 4c]
+Seat 1: Sabazius (button) folded before Flop (didn't bet)
+Seat 2: orgi69 (small blind) folded before Flop
+Seat 3: oneplusone (big blind) showed [6h 4h] and won ($4358.60)
+Seat 8: HornyOldMan mucked
+Seat 9: PLO_fish folded before Flop (didn't bet)
+
+PokerStars Hand #1492983171:  Hold'em No Limit ($200.00/$400.00 USD) - 2022/12/21 04:13:58 ET
+Table 'WPN_7 Day No Rathole 200/400 NLH - Limited Time' 9-max Seat #2 is the button
+Seat 1: Sabazius ($6490.12 in chips)
+Seat 2: orgi69 ($5195.88 in chips)
+Seat 3: oneplusone ($193322.61 in chips)
+Seat 8: HornyOldMan ($10867.95 in chips)
+Seat 9: PLO_fish ($2400.00 in chips)
+oneplusone: posts small blind $200.00
+HornyOldMan: posts big blind $400.00
+*** HOLE CARDS ***
+PLO_fish: folds
+Sabazius: raises $400.00 to $800.00
+orgi69: folds
+oneplusone: folds
+HornyOldMan: folds
+Uncalled bet ($400.00) returned to Sabazius
+Sabazius collected $1000.00 from pot
+Sabazius: doesn't show hand
+*** SUMMARY ***
+Total pot $1000.00 | Rake $0.00
+Seat 1: Sabazius collected ($1000.00)
+Seat 2: orgi69 (button) folded before Flop (didn't bet)
+Seat 3: oneplusone (small blind) folded before Flop
+Seat 8: HornyOldMan (big blind) folded before Flop
+Seat 9: PLO_fish folded before Flop (didn't bet)
+
+PokerStars Hand #1492983426:  Hold'em No Limit ($200.00/$400.00 USD) - 2022/12/21 04:14:11 ET
+Table 'WPN_7 Day No Rathole 200/400 NLH - Limited Time' 9-max Seat #3 is the button
+Seat 1: Sabazius ($7090.12 in chips)
+Seat 2: orgi69 ($5195.88 in chips)
+Seat 3: oneplusone ($193122.61 in chips)
+Seat 8: HornyOldMan ($10467.95 in chips)
+Seat 9: PLO_fish ($2400.00 in chips)
+HornyOldMan: posts small blind $200.00
+PLO_fish: posts big blind $400.00
+*** HOLE CARDS ***
+Sabazius: folds
+orgi69: raises $400.00 to $800.00
+oneplusone: folds
+HornyOldMan: folds
+PLO_fish: calls $400.00
+*** FLOP *** [9s Jd 7s]
+PLO_fish: checks
+orgi69: bets $1797.00
+PLO_fish: calls $1600.00 and is all-in
+Uncalled bet ($197.00) returned to orgi69
+*** TURN *** [9s Jd 7s] [7c]
+*** RIVER *** [9s Jd 7s 7c] [8c]
+*** SHOW DOWN ***
+PLO_fish: shows [5c 8h]
+orgi69: shows [Ac Kh]
+PLO_fish collected $4997.00 from pot
+*** SUMMARY ***
+Total pot $5000.00 | Rake $3.00
+Board [9s Jd 7s 7c 8c]
+Seat 1: Sabazius folded before Flop (didn't bet)
+Seat 2: orgi69 showed [Ac Kh] and lost
+Seat 3: oneplusone (button) folded before Flop (didn't bet)
+Seat 8: HornyOldMan (small blind) folded before Flop
+Seat 9: PLO_fish (big blind) showed [5c 8h] and won ($4997.00)
+
+PokerStars Hand #1492984158:  Hold'em No Limit ($200.00/$400.00 USD) - 2022/12/21 04:14:51 ET
+Table 'WPN_7 Day No Rathole 200/400 NLH - Limited Time' 9-max Seat #8 is the button
+Seat 1: Sabazius ($7090.12 in chips)
+Seat 2: orgi69 ($2795.88 in chips)
+Seat 3: oneplusone ($193122.61 in chips)
+Seat 4: ExpansiveMan ($7798.25 in chips)
+Seat 8: HornyOldMan ($10267.95 in chips)
+Seat 9: PLO_fish ($4997.00 in chips)
+PLO_fish: posts small blind $200.00
+Sabazius: posts big blind $400.00
+*** HOLE CARDS ***
+orgi69: raises $2395.88 to $2795.88 and is all-in
+oneplusone: folds
+HornyOldMan: folds
+PLO_fish: folds
+Sabazius: folds
+Uncalled bet ($2395.88) returned to orgi69
+orgi69 collected $1000.00 from pot
+orgi69: doesn't show hand
+*** SUMMARY ***
+Total pot $1000.00 | Rake $0.00
+Seat 1: Sabazius (big blind) folded before Flop
+Seat 2: orgi69 collected ($1000.00)
+Seat 3: oneplusone folded before Flop (didn't bet)
+Seat 8: HornyOldMan (button) folded before Flop (didn't bet)
+Seat 9: PLO_fish (small blind) folded before Flop
+
+PokerStars Hand #1492984504:  Hold'em No Limit ($200.00/$400.00 USD) - 2022/12/21 04:15:09 ET
+Table 'WPN_7 Day No Rathole 200/400 NLH - Limited Time' 9-max Seat #9 is the button
+Seat 1: Sabazius ($6690.12 in chips)
+Seat 2: orgi69 ($4000.00 in chips)
+Seat 3: oneplusone ($193122.61 in chips)
+Seat 4: ExpansiveMan ($7798.25 in chips)
+Seat 8: HornyOldMan ($10267.95 in chips)
+Seat 9: PLO_fish ($4797.00 in chips)
+Sabazius: posts small blind $200.00
+orgi69: posts big blind $400.00
+*** HOLE CARDS ***
+oneplusone: folds
+HornyOldMan: folds
+PLO_fish: folds
+Sabazius: folds
+Uncalled bet ($200.00) returned to orgi69
+orgi69 collected $400.00 from pot
+orgi69: doesn't show hand
+*** SUMMARY ***
+Total pot $400.00 | Rake $0.00
+Seat 1: Sabazius (small blind) folded before Flop
+Seat 2: orgi69 (big blind) collected ($400.00)
+Seat 3: oneplusone folded before Flop (didn't bet)
+Seat 8: HornyOldMan folded before Flop (didn't bet)
+Seat 9: PLO_fish (button) folded before Flop (didn't bet)
+
+PokerStars Hand #1492984670:  Hold'em No Limit ($200.00/$400.00 USD) - 2022/12/21 04:15:17 ET
+Table 'WPN_7 Day No Rathole 200/400 NLH - Limited Time' 9-max Seat #1 is the button
+Seat 1: Sabazius ($6490.12 in chips)
+Seat 2: orgi69 ($4200.00 in chips)
+Seat 3: oneplusone ($193122.61 in chips)
+Seat 4: ExpansiveMan ($7798.25 in chips)
+Seat 8: HornyOldMan ($10267.95 in chips)
+Seat 9: PLO_fish ($4797.00 in chips)
+orgi69: posts small blind $200.00
+oneplusone: posts big blind $400.00
+*** HOLE CARDS ***
+HornyOldMan: raises $440.00 to $840.00
+PLO_fish: folds
+Sabazius: folds
+orgi69: folds
+oneplusone: folds
+Uncalled bet ($440.00) returned to HornyOldMan
+HornyOldMan collected $1000.00 from pot
+HornyOldMan: doesn't show hand
+*** SUMMARY ***
+Total pot $1000.00 | Rake $0.00
+Seat 1: Sabazius (button) folded before Flop (didn't bet)
+Seat 2: orgi69 (small blind) folded before Flop
+Seat 3: oneplusone (big blind) folded before Flop
+Seat 8: HornyOldMan collected ($1000.00)
+Seat 9: PLO_fish folded before Flop (didn't bet)
+
+PokerStars Hand #1492985253:  Hold'em No Limit ($200.00/$400.00 USD) - 2022/12/21 04:15:47 ET
+Table 'WPN_7 Day No Rathole 200/400 NLH - Limited Time' 9-max Seat #2 is the button
+Seat 1: Sabazius ($6490.12 in chips)
+Seat 2: orgi69 ($4000.00 in chips)
+Seat 3: oneplusone ($192722.61 in chips)
+Seat 4: ExpansiveMan ($7798.25 in chips)
+Seat 8: HornyOldMan ($10867.95 in chips)
+Seat 9: PLO_fish ($4797.00 in chips)
+oneplusone: posts small blind $200.00
+ExpansiveMan: posts big blind $400.00
+*** HOLE CARDS ***
+HornyOldMan: raises $400.00 to $800.00
+PLO_fish: folds
+Sabazius: folds
+orgi69: raises $3200.00 to $4000.00 and is all-in
+oneplusone: folds
+ExpansiveMan: folds
+HornyOldMan: calls $3200.00
+*** FLOP *** [Ks 9c 9s]
+*** TURN *** [Ks 9c 9s] [4d]
+*** RIVER *** [Ks 9c 9s 4d] [2d]
+*** SHOW DOWN ***
+orgi69: shows [Kh Qh]
+HornyOldMan: shows [As Qd]
+orgi69 collected $8597.00 from pot
+*** SUMMARY ***
+Total pot $8600.00 | Rake $3.00
+Board [Ks 9c 9s 4d 2d]
+Seat 1: Sabazius folded before Flop (didn't bet)
+Seat 2: orgi69 (button) showed [Kh Qh] and won ($8597.00)
+Seat 3: oneplusone (small blind) folded before Flop
+Seat 4: ExpansiveMan (big blind) folded before Flop
+Seat 8: HornyOldMan showed [As Qd] and lost
+Seat 9: PLO_fish folded before Flop (didn't bet)
+
+PokerStars Hand #1492985878:  Hold'em No Limit ($200.00/$400.00 USD) - 2022/12/21 04:16:21 ET
+Table 'WPN_7 Day No Rathole 200/400 NLH - Limited Time' 9-max Seat #3 is the button
+Seat 1: Sabazius ($6490.12 in chips)
+Seat 2: orgi69 ($8597.00 in chips)
+Seat 3: oneplusone ($192522.61 in chips)
+Seat 4: ExpansiveMan ($7398.25 in chips)
+Seat 8: HornyOldMan ($6867.95 in chips)
+Seat 9: PLO_fish ($4797.00 in chips)
+ExpansiveMan: posts small blind $200.00
+HornyOldMan: posts big blind $400.00
+*** HOLE CARDS ***
+PLO_fish: folds
+Sabazius: raises $400.00 to $800.00
+orgi69: folds
+oneplusone: folds
+ExpansiveMan: folds
+HornyOldMan: raises $6067.95 to $6867.95 and is all-in
+Sabazius: folds
+Uncalled bet ($6067.95) returned to HornyOldMan
+HornyOldMan collected $1800.00 from pot
+HornyOldMan: doesn't show hand
+*** SUMMARY ***
+Total pot $1800.00 | Rake $0.00
+Seat 1: Sabazius folded before Flop
+Seat 2: orgi69 folded before Flop (didn't bet)
+Seat 3: oneplusone (button) folded before Flop (didn't bet)
+Seat 4: ExpansiveMan (small blind) folded before Flop
+Seat 8: HornyOldMan (big blind) collected ($1800.00)
+Seat 9: PLO_fish folded before Flop (didn't bet)
+
+PokerStars Hand #1492986769:  Hold'em No Limit ($200.00/$400.00 USD) - 2022/12/21 04:17:24 ET
+Table 'WPN_7 Day No Rathole 200/400 NLH - Limited Time' 9-max Seat #4 is the button
+Seat 1: Sabazius ($5690.12 in chips)
+Seat 2: orgi69 ($8597.00 in chips)
+Seat 3: oneplusone ($192522.61 in chips)
+Seat 4: ExpansiveMan ($7198.25 in chips)
+Seat 8: HornyOldMan ($7867.95 in chips)
+Seat 9: PLO_fish ($4797.00 in chips)
+HornyOldMan: posts small blind $200.00
+PLO_fish: posts big blind $400.00
+*** HOLE CARDS ***
+Sabazius: raises $400.00 to $800.00
+orgi69: folds
+oneplusone: folds
+ExpansiveMan: folds
+HornyOldMan: folds
+PLO_fish: folds
+Uncalled bet ($400.00) returned to Sabazius
+Sabazius collected $1000.00 from pot
+Sabazius: doesn't show hand
+*** SUMMARY ***
+Total pot $1000.00 | Rake $0.00
+Seat 1: Sabazius collected ($1000.00)
+Seat 2: orgi69 folded before Flop (didn't bet)
+Seat 3: oneplusone folded before Flop (didn't bet)
+Seat 4: ExpansiveMan (button) folded before Flop (didn't bet)
+Seat 8: HornyOldMan (small blind) folded before Flop
+Seat 9: PLO_fish (big blind) folded before Flop
+
+PokerStars Hand #1492987143:  Hold'em No Limit ($200.00/$400.00 USD) - 2022/12/21 04:17:45 ET
+Table 'WPN_7 Day No Rathole 200/400 NLH - Limited Time' 9-max Seat #8 is the button
+Seat 1: Sabazius ($6290.12 in chips)
+Seat 2: orgi69 ($8597.00 in chips)
+Seat 3: oneplusone ($192522.61 in chips)
+Seat 4: ExpansiveMan ($7198.25 in chips)
+Seat 8: HornyOldMan ($7667.95 in chips)
+Seat 9: PLO_fish ($4397.00 in chips)
+PLO_fish: posts small blind $200.00
+Sabazius: posts big blind $400.00
+*** HOLE CARDS ***
+orgi69: raises $400.00 to $800.00
+oneplusone: folds
+ExpansiveMan: folds
+HornyOldMan: folds
+PLO_fish: folds
+Sabazius: folds
+Uncalled bet ($400.00) returned to orgi69
+orgi69 collected $1000.00 from pot
+orgi69: doesn't show hand
+*** SUMMARY ***
+Total pot $1000.00 | Rake $0.00
+Seat 1: Sabazius (big blind) folded before Flop
+Seat 2: orgi69 collected ($1000.00)
+Seat 3: oneplusone folded before Flop (didn't bet)
+Seat 4: ExpansiveMan folded before Flop (didn't bet)
+Seat 8: HornyOldMan (button) folded before Flop (didn't bet)
+Seat 9: PLO_fish (small blind) folded before Flop
+
+PokerStars Hand #1492987363:  Hold'em No Limit ($200.00/$400.00 USD) - 2022/12/21 04:17:56 ET
+Table 'WPN_7 Day No Rathole 200/400 NLH - Limited Time' 9-max Seat #9 is the button
+Seat 1: Sabazius ($5890.12 in chips)
+Seat 2: orgi69 ($9197.00 in chips)
+Seat 3: oneplusone ($192522.61 in chips)
+Seat 4: ExpansiveMan ($7198.25 in chips)
+Seat 8: HornyOldMan ($7667.95 in chips)
+Seat 9: PLO_fish ($4197.00 in chips)
+Sabazius: posts small blind $200.00
+orgi69: posts big blind $400.00
+*** HOLE CARDS ***
+oneplusone: folds
+ExpansiveMan: folds
+HornyOldMan: folds
+PLO_fish: folds
+Sabazius: raises $400.00 to $800.00
+orgi69: folds
+Uncalled bet ($400.00) returned to Sabazius
+Sabazius collected $800.00 from pot
+Sabazius: doesn't show hand
+*** SUMMARY ***
+Total pot $800.00 | Rake $0.00
+Seat 1: Sabazius (small blind) collected ($800.00)
+Seat 2: orgi69 (big blind) folded before Flop
+Seat 3: oneplusone folded before Flop (didn't bet)
+Seat 4: ExpansiveMan folded before Flop (didn't bet)
+Seat 8: HornyOldMan folded before Flop (didn't bet)
+Seat 9: PLO_fish (button) folded before Flop (didn't bet)
+
+PokerStars Hand #1492987854:  Hold'em No Limit ($200.00/$400.00 USD) - 2022/12/21 04:18:24 ET
+Table 'WPN_7 Day No Rathole 200/400 NLH - Limited Time' 9-max Seat #1 is the button
+Seat 1: Sabazius ($6290.12 in chips)
+Seat 2: orgi69 ($8797.00 in chips)
+Seat 3: oneplusone ($192522.61 in chips)
+Seat 4: ExpansiveMan ($7198.25 in chips)
+Seat 8: HornyOldMan ($7667.95 in chips)
+Seat 9: PLO_fish ($4197.00 in chips)
+orgi69: posts small blind $200.00
+oneplusone: posts big blind $400.00
+*** HOLE CARDS ***
+ExpansiveMan: folds
+HornyOldMan: folds
+PLO_fish: folds
+Sabazius: folds
+orgi69: folds
+Uncalled bet ($200.00) returned to oneplusone
+oneplusone collected $400.00 from pot
+oneplusone: doesn't show hand
+*** SUMMARY ***
+Total pot $400.00 | Rake $0.00
+Seat 1: Sabazius (button) folded before Flop (didn't bet)
+Seat 2: orgi69 (small blind) folded before Flop
+Seat 3: oneplusone (big blind) collected ($400.00)
+Seat 4: ExpansiveMan folded before Flop (didn't bet)
+Seat 8: HornyOldMan folded before Flop (didn't bet)
+Seat 9: PLO_fish folded before Flop (didn't bet)
+
+PokerStars Hand #1492988218:  Hold'em No Limit ($200.00/$400.00 USD) - 2022/12/21 04:18:44 ET
+Table 'WPN_7 Day No Rathole 200/400 NLH - Limited Time' 9-max Seat #2 is the button
+Seat 1: Sabazius ($6290.12 in chips)
+Seat 2: orgi69 ($8597.00 in chips)
+Seat 3: oneplusone ($192722.61 in chips)
+Seat 4: ExpansiveMan ($7198.25 in chips)
+Seat 8: HornyOldMan ($7667.95 in chips)
+Seat 9: PLO_fish ($4197.00 in chips)
+oneplusone: posts small blind $200.00
+ExpansiveMan: posts big blind $400.00
+*** HOLE CARDS ***
+HornyOldMan: folds
+PLO_fish: folds
+Sabazius: folds
+orgi69: folds
+oneplusone: folds
+Uncalled bet ($200.00) returned to ExpansiveMan
+ExpansiveMan collected $400.00 from pot
+ExpansiveMan: doesn't show hand
+*** SUMMARY ***
+Total pot $400.00 | Rake $0.00
+Seat 1: Sabazius folded before Flop (didn't bet)
+Seat 2: orgi69 (button) folded before Flop (didn't bet)
+Seat 3: oneplusone (small blind) folded before Flop
+Seat 4: ExpansiveMan (big blind) collected ($400.00)
+Seat 8: HornyOldMan folded before Flop (didn't bet)
+Seat 9: PLO_fish folded before Flop (didn't bet)
+
+PokerStars Hand #1492988625:  Hold'em No Limit ($200.00/$400.00 USD) - 2022/12/21 04:19:06 ET
+Table 'WPN_7 Day No Rathole 200/400 NLH - Limited Time' 9-max Seat #3 is the button
+Seat 1: Sabazius ($6290.12 in chips)
+Seat 2: orgi69 ($8597.00 in chips)
+Seat 3: oneplusone ($192522.61 in chips)
+Seat 4: ExpansiveMan ($7398.25 in chips)
+Seat 8: HornyOldMan ($7667.95 in chips)
+Seat 9: PLO_fish ($4197.00 in chips)
+ExpansiveMan: posts small blind $200.00
+HornyOldMan: posts big blind $400.00
+*** HOLE CARDS ***
+PLO_fish: calls $400.00
+Sabazius: folds
+orgi69: folds
+oneplusone: raises $192122.61 to $192522.61 and is all-in
+ExpansiveMan: folds
+HornyOldMan: folds
+PLO_fish: calls $3797.00 and is all-in
+Uncalled bet ($188325.61) returned to oneplusone
+*** FLOP *** [8s Th 8d]
+*** TURN *** [8s Th 8d] [Jc]
+*** RIVER *** [8s Th 8d Jc] [Kh]
+*** SHOW DOWN ***
+oneplusone: shows [Ad Kc]
+PLO_fish: shows [9h 9s]
+oneplusone collected $8991.00 from pot
+*** SUMMARY ***
+Total pot $8994.00 | Rake $3.00
+Board [8s Th 8d Jc Kh]
+Seat 1: Sabazius folded before Flop (didn't bet)
+Seat 2: orgi69 folded before Flop (didn't bet)
+Seat 3: oneplusone (button) showed [Ad Kc] and won ($8991.00)
+Seat 4: ExpansiveMan (small blind) folded before Flop
+Seat 8: HornyOldMan (big blind) folded before Flop
+Seat 9: PLO_fish showed [9h 9s] and lost
+
+PokerStars Hand #1492989510:  Hold'em No Limit ($200.00/$400.00 USD) - 2022/12/21 04:19:56 ET
+Table 'WPN_7 Day No Rathole 200/400 NLH - Limited Time' 9-max Seat #4 is the button
+Seat 1: Sabazius ($6290.12 in chips)
+Seat 2: orgi69 ($8597.00 in chips)
+Seat 3: oneplusone ($197316.61 in chips)
+Seat 4: ExpansiveMan ($7198.25 in chips)
+Seat 8: HornyOldMan ($7267.95 in chips)
+HornyOldMan: posts small blind $200.00
+orgi69: posts big blind $400.00
+*** HOLE CARDS ***
+oneplusone: folds
+ExpansiveMan: folds
+HornyOldMan: folds
+Uncalled bet ($200.00) returned to orgi69
+orgi69 collected $400.00 from pot
+orgi69: doesn't show hand
+*** SUMMARY ***
+Total pot $400.00 | Rake $0.00
+Seat 2: orgi69 (big blind) collected ($400.00)
+Seat 3: oneplusone folded before Flop (didn't bet)
+Seat 4: ExpansiveMan (button) folded before Flop (didn't bet)
+Seat 8: HornyOldMan (small blind) folded before Flop
+
+PokerStars Hand #1492990151:  Hold'em No Limit ($200.00/$400.00 USD) - 2022/12/21 04:20:30 ET
+Table 'WPN_7 Day No Rathole 200/400 NLH - Limited Time' 9-max Seat #8 is the button
+Seat 2: orgi69 ($8797.00 in chips)
+Seat 3: oneplusone ($197316.61 in chips)
+Seat 4: ExpansiveMan ($7198.25 in chips)
+Seat 8: HornyOldMan ($7067.95 in chips)
+orgi69: posts small blind $200.00
+ExpansiveMan: posts big blind $400.00
+*** HOLE CARDS ***
+HornyOldMan: raises $400.00 to $800.00
+orgi69: raises $7997.00 to $8797.00 and is all-in
+ExpansiveMan: calls $6798.25 and is all-in
+HornyOldMan: folds
+Uncalled bet ($1598.75) returned to orgi69
+*** FIRST FLOP *** [Jh 9d Ts]
+*** FIRST TURN *** [Jh 9d Ts] [Qs]
+*** FIRST RIVER *** [Jh 9d Ts Qs] [3c]
+*** SECOND FLOP *** [Kc 4c Ks]
+*** SECOND TURN *** [Kc 4c Ks] [4s]
+*** SECOND RIVER *** [Kc 4c Ks 4s] [8h]
+*** FIRST SHOW DOWN ***
+ExpansiveMan: shows [7s 7h]
+orgi69: shows [6h 6d]
+ExpansiveMan collected $7597.38 from pot
+*** SECOND SHOW DOWN ***
+ExpansiveMan: shows [7s 7h]
+orgi69: shows [6h 6d]
+ExpansiveMan collected $7597.37 from pot
+*** SUMMARY ***
+Total pot $15196.50 | Rake $1.75
+Hand was run twice
+FIRST Board [Jh 9d Ts Qs 3c]
+SECOND Board [Kc 4c Ks 4s 8h]
+Seat 2: orgi69 (small blind) showed [6h 6d] and lost, and lost
+Seat 3: oneplusone and lost, and lost
+Seat 4: ExpansiveMan (big blind) showed [7s 7h] and won ($7597.38), and won ($7597.37)
+Seat 8: HornyOldMan (button) folded before Flop
+

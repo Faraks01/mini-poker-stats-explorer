@@ -1,0 +1,548 @@
+
+Hand #1888173060 - Holdem(No Limit) - $50/$100 - 2023/10/08 07:32:43 UTC
+Jeff Davis 6-max Seat #3 is the button
+Seat 1: bonieumiesz ($10000)
+Seat 3: RealMenRathole ($4000)
+Seat 6: jackstack99999 ($10000)
+RealMenRathole posts the small blind $50
+jackstack99999 posts the big blind $100
+*** HOLE CARDS *** 
+RealMenRathole folds
+*** SUMMARY ***
+Total pot $150
+Seat 3: RealMenRathole (small blind) folded on the Pre-Flop
+Seat 6: jackstack99999 (big blind) did not showed and won $150
+
+
+Hand #1888173114 - Holdem(No Limit) - $50/$100 - 2023/10/08 07:34:00 UTC
+Jeff Davis 6-max Seat #3 is the button
+Seat 1: bonieumiesz ($10000)
+Seat 2: lol voidaments ($10000)
+Seat 3: RealMenRathole ($10000)
+Seat 4: ILuvAvrilLavigne91 ($10000)
+Seat 5: orgi69 ($10000)
+Seat 6: jackstack99999 ($10050)
+jackstack99999 posts the small blind $50
+bonieumiesz posts the big blind $100
+*** HOLE CARDS *** 
+RealMenRathole raises $225 to $225
+jackstack99999 folds
+bonieumiesz calls $125
+*** FLOP *** [3s Jc Tc]
+Main pot $498.25 | Rake $1.75
+bonieumiesz checks
+RealMenRathole bets $149
+bonieumiesz calls $149
+*** TURN *** [3s Jc Tc] [Ah]
+Main pot $796.25 | Rake $1.75
+bonieumiesz checks
+RealMenRathole checks
+*** RIVER *** [3s Jc Tc Ah] [Qd]
+Main pot $796.25 | Rake $1.75
+bonieumiesz bets $239.40
+RealMenRathole raises $877.80 to $877.80
+bonieumiesz calls $638.40
+*** SHOW DOWN ***
+Main pot $796.25 | Rake $1.75
+RealMenRathole shows [Kh Kc]
+RealMenRathole collected $2551.85 from main pot
+*** SUMMARY ***
+Total pot $2551.85 | Rake $1.75
+Seat 1: bonieumiesz (big blind) did not showed and lost
+Seat 3: RealMenRathole (button) showed [Kh Kc] and won $2551.85 with Straight [Ah Kh Qd Jc Tc]
+Seat 6: jackstack99999 (small blind) folded on the Pre-Flop
+
+
+Hand #1888173703 - Holdem(No Limit) - $50/$100 - 2023/10/08 07:35:52 UTC
+Jeff Davis 6-max Seat #6 is the button
+Seat 1: bonieumiesz ($10000)
+Seat 2: lol voidaments ($10000)
+Seat 3: RealMenRathole ($11300.05)
+Seat 4: ILuvAvrilLavigne91 ($10000)
+Seat 5: orgi69 ($10000)
+Seat 6: jackstack99999 ($10000)
+bonieumiesz posts the small blind $50
+lol voidaments posts the big blind $100
+*** HOLE CARDS *** 
+RealMenRathole raises $225 to $225
+jackstack99999 folds
+bonieumiesz folds
+lol voidaments calls $125
+*** FLOP *** [6c Ac Js]
+Main pot $497.75 | Rake $2.25
+lol voidaments checks
+RealMenRathole checks
+*** TURN *** [6c Ac Js] [8s]
+Main pot $497.75 | Rake $2.25
+lol voidaments bets $360
+RealMenRathole calls $360
+*** RIVER *** [6c Ac Js 8s] [8c]
+Main pot $1217.75 | Rake $2.25
+lol voidaments checks
+RealMenRathole bets $1217
+lol voidaments folds
+Uncalled bet ($1217) returned to RealMenRathole
+RealMenRathole does not show
+*** SUMMARY ***
+Total pot $1217.75 | Rake $2.25
+Seat 1: bonieumiesz (small blind) folded on the Pre-Flop
+Seat 2: lol voidaments (big blind) folded on the River
+Seat 3: RealMenRathole did not showed and won $1217.75
+Seat 6: jackstack99999 (button) folded on the Pre-Flop and did not bet
+
+
+Hand #1888174476 - Holdem(No Limit) - $50/$100 - 2023/10/08 07:36:01 UTC
+Jeff Davis 6-max Seat #1 is the button
+Seat 1: bonieumiesz ($10000)
+Seat 2: lol voidaments ($10000)
+Seat 3: RealMenRathole ($10000)
+Seat 4: ILuvAvrilLavigne91 ($10000)
+Seat 5: orgi69 ($10000)
+Seat 6: jackstack99999 ($10000)
+lol voidaments posts the small blind $50
+ILuvAvrilLavigne91 posts the big blind $100
+*** HOLE CARDS *** 
+jackstack99999 folds
+bonieumiesz folds
+lol voidaments folds
+*** SUMMARY ***
+Total pot $150
+Seat 1: bonieumiesz (button) folded on the Pre-Flop and did not bet
+Seat 2: lol voidaments (small blind) folded on the Pre-Flop
+Seat 4: ILuvAvrilLavigne91 (big blind) did not showed and won $150
+Seat 6: jackstack99999 folded on the Pre-Flop and did not bet
+
+
+Hand #1888174534 - Holdem(No Limit) - $50/$100 - 2023/10/08 07:36:22 UTC
+Jeff Davis 6-max Seat #2 is the button
+Seat 1: bonieumiesz ($10000)
+Seat 2: lol voidaments ($10000)
+Seat 3: RealMenRathole ($10000)
+Seat 4: ILuvAvrilLavigne91 ($10050)
+Seat 5: orgi69 ($10000)
+Seat 6: jackstack99999 ($10000)
+ILuvAvrilLavigne91 posts the small blind $50
+orgi69 posts the big blind $100
+*** HOLE CARDS *** 
+jackstack99999 folds
+bonieumiesz folds
+lol voidaments raises $250 to $250
+ILuvAvrilLavigne91 folds
+orgi69 folds
+Uncalled bet ($150) returned to lol voidaments
+lol voidaments does not show
+*** SUMMARY ***
+Total pot $250
+Seat 1: bonieumiesz folded on the Pre-Flop and did not bet
+Seat 2: lol voidaments (button) did not showed and won $250
+Seat 4: ILuvAvrilLavigne91 (small blind) folded on the Pre-Flop
+Seat 5: orgi69 (big blind) folded on the Pre-Flop
+Seat 6: jackstack99999 folded on the Pre-Flop and did not bet
+
+
+Hand #1888174751 - Holdem(No Limit) - $50/$100 - 2023/10/08 07:37:06 UTC
+Jeff Davis 6-max Seat #5 is the button
+Seat 1: bonieumiesz ($10000)
+Seat 2: lol voidaments ($10000)
+Seat 4: ILuvAvrilLavigne91 ($10000)
+Seat 5: orgi69 ($9900)
+Seat 6: jackstack99999 ($10000)
+orgi69 posts the small blind $50
+jackstack99999 posts the big blind $100
+*** HOLE CARDS *** 
+orgi69 raises $200 to $250
+jackstack99999 raises $900 to $1000
+orgi69 calls $750
+*** FLOP *** [6s Qh Kc]
+Main pot $1998.75 | Rake $1.25
+jackstack99999 bets $660
+orgi69 folds
+Uncalled bet ($660) returned to jackstack99999
+jackstack99999 does not show
+*** SUMMARY ***
+Total pot $1998.75 | Rake $1.25
+Seat 5: orgi69 (small blind) folded on the Flop
+Seat 6: jackstack99999 (big blind) did not showed and won $1998.75
+
+
+Hand #1888175011 - Holdem(No Limit) - $50/$100 - 2023/10/08 07:37:47 UTC
+Jeff Davis 6-max Seat #6 is the button
+Seat 5: orgi69 ($8900)
+Seat 6: jackstack99999 ($10998.75)
+jackstack99999 posts the small blind $50
+orgi69 posts the big blind $100
+*** HOLE CARDS *** 
+jackstack99999 raises $200 to $250
+orgi69 calls $150
+*** FLOP *** [8s Kd Js]
+Main pot $498.75 | Rake $1.25
+orgi69 checks
+jackstack99999 checks
+*** TURN *** [8s Kd Js] [3c]
+Main pot $498.75 | Rake $1.25
+orgi69 checks
+jackstack99999 checks
+*** RIVER *** [8s Kd Js 3c] [5h]
+Main pot $498.75 | Rake $1.25
+orgi69 checks
+jackstack99999 bets $250
+orgi69 calls $250
+*** SHOW DOWN ***
+Main pot $498.75 | Rake $1.25
+orgi69 shows [4d 5s]
+orgi69 collected $998.75 from main pot
+*** SUMMARY ***
+Total pot $998.75 | Rake $1.25
+Seat 5: orgi69 (big blind) showed [4d 5s] and won $998.75 with OnePair [5s 5h Kd Js 8s]
+Seat 6: jackstack99999 (small blind) did not showed and lost
+
+
+Hand #1888175346 - Holdem(No Limit) - $50/$100 - 2023/10/08 07:38:46 UTC
+Jeff Davis 6-max Seat #5 is the button
+Seat 5: orgi69 ($9398.75)
+Seat 6: jackstack99999 ($10498.75)
+orgi69 posts the small blind $50
+jackstack99999 posts the big blind $100
+*** HOLE CARDS *** 
+orgi69 raises $180 to $230
+jackstack99999 calls $130
+*** FLOP *** [2h 8h Qd]
+Main pot $458.75 | Rake $1.25
+jackstack99999 checks
+orgi69 bets $101.38
+jackstack99999 calls $101.38
+*** TURN *** [2h 8h Qd] [Kc]
+Main pot $661.51 | Rake $1.25
+jackstack99999 checks
+orgi69 bets $496.13
+jackstack99999 folds
+Uncalled bet ($496.13) returned to orgi69
+orgi69 does not show
+*** SUMMARY ***
+Total pot $661.51 | Rake $1.25
+Seat 5: orgi69 (small blind) did not showed and won $661.51
+Seat 6: jackstack99999 (big blind) folded on the Turn
+
+
+Hand #1888175762 - Holdem(No Limit) - $50/$100 - 2023/10/08 07:38:59 UTC
+Jeff Davis 6-max Seat #6 is the button
+Seat 5: orgi69 ($9728.88)
+Seat 6: jackstack99999 ($10167.37)
+jackstack99999 posts the small blind $50
+orgi69 posts the big blind $100
+*** HOLE CARDS *** 
+jackstack99999 raises $200 to $250
+orgi69 folds
+Uncalled bet ($150) returned to jackstack99999
+jackstack99999 does not show
+*** SUMMARY ***
+Total pot $200
+Seat 5: orgi69 (big blind) folded on the Pre-Flop
+Seat 6: jackstack99999 (small blind) did not showed and won $200
+
+
+Hand #1888175862 - Holdem(No Limit) - $50/$100 - 2023/10/08 07:39:17 UTC
+Jeff Davis 6-max Seat #5 is the button
+Seat 5: orgi69 ($9628.88)
+Seat 6: jackstack99999 ($10267.37)
+orgi69 posts the small blind $50
+jackstack99999 posts the big blind $100
+*** HOLE CARDS *** 
+orgi69 raises $180 to $230
+jackstack99999 folds
+Uncalled bet ($130) returned to orgi69
+orgi69 does not show
+*** SUMMARY ***
+Total pot $200
+Seat 5: orgi69 (small blind) did not showed and won $200
+Seat 6: jackstack99999 (big blind) folded on the Pre-Flop
+
+
+Hand #1888176003 - Holdem(No Limit) - $50/$100 - 2023/10/08 07:39:50 UTC
+Jeff Davis 6-max Seat #6 is the button
+Seat 5: orgi69 ($9728.88)
+Seat 6: jackstack99999 ($10167.37)
+jackstack99999 posts the small blind $50
+orgi69 posts the big blind $100
+*** HOLE CARDS *** 
+jackstack99999 raises $200 to $250
+orgi69 raises $950 to $1050
+jackstack99999 folds
+Uncalled bet ($800) returned to orgi69
+orgi69 does not show
+*** SUMMARY ***
+Total pot $500
+Seat 5: orgi69 (big blind) did not showed and won $500
+Seat 6: jackstack99999 (small blind) folded on the Pre-Flop
+
+
+Hand #1888176250 - Holdem(No Limit) - $50/$100 - 2023/10/08 07:39:59 UTC
+Jeff Davis 6-max Seat #5 is the button
+Seat 5: orgi69 ($9978.88)
+Seat 6: jackstack99999 ($10000)
+orgi69 posts the small blind $50
+jackstack99999 posts the big blind $100
+*** HOLE CARDS *** 
+orgi69 folds
+*** SUMMARY ***
+Total pot $150
+Seat 5: orgi69 (small blind) folded on the Pre-Flop
+Seat 6: jackstack99999 (big blind) did not showed and won $150
+
+
+Hand #1888176323 - Holdem(No Limit) - $50/$100 - 2023/10/08 07:41:54 UTC
+Jeff Davis 6-max Seat #6 is the button
+Seat 5: orgi69 ($9928.88)
+Seat 6: jackstack99999 ($10050)
+jackstack99999 posts the small blind $50
+orgi69 posts the big blind $100
+*** HOLE CARDS *** 
+jackstack99999 raises $200 to $250
+orgi69 raises $950 to $1050
+jackstack99999 calls $800
+*** FLOP *** [9h 7h 8h]
+Main pot $2098.75 | Rake $1.25
+orgi69 checks
+jackstack99999 bets $693
+orgi69 calls $693
+*** TURN *** [9h 7h 8h] [Kc]
+Main pot $3484.75 | Rake $1.25
+orgi69 bets $1149.96
+jackstack99999 calls $1149.96
+*** RIVER *** [9h 7h 8h Kc] [4d]
+Main pot $5784.67 | Rake $1.25
+orgi69 checks
+jackstack99999 checks
+*** SHOW DOWN ***
+Main pot $5784.67 | Rake $1.25
+orgi69 shows [9c 7c]
+orgi69 collected $5784.67 from main pot
+*** SUMMARY ***
+Total pot $5784.67 | Rake $1.25
+Seat 5: orgi69 (big blind) showed [9c 7c] and won $5784.67 with TwoPair [9h 9c 7h 7c Kc]
+Seat 6: jackstack99999 (small blind) did not showed and lost
+
+
+Hand #1888177193 - Holdem(No Limit) - $50/$100 - 2023/10/08 07:42:05 UTC
+Jeff Davis 6-max Seat #5 is the button
+Seat 5: orgi69 ($12820.59)
+Seat 6: jackstack99999 ($10000)
+orgi69 posts the small blind $50
+jackstack99999 posts the big blind $100
+*** HOLE CARDS *** 
+orgi69 folds
+*** SUMMARY ***
+Total pot $150
+Seat 5: orgi69 (small blind) folded on the Pre-Flop
+Seat 6: jackstack99999 (big blind) did not showed and won $150
+
+
+Hand #1888177255 - Holdem(No Limit) - $50/$100 - 2023/10/08 07:42:11 UTC
+Jeff Davis 6-max Seat #6 is the button
+Seat 5: orgi69 ($12770.59)
+Seat 6: jackstack99999 ($10050)
+jackstack99999 posts the small blind $50
+orgi69 posts the big blind $100
+*** HOLE CARDS *** 
+jackstack99999 folds
+*** SUMMARY ***
+Total pot $150
+Seat 5: orgi69 (big blind) did not showed and won $150
+Seat 6: jackstack99999 (small blind) folded on the Pre-Flop
+
+
+Hand #1888177296 - Holdem(No Limit) - $50/$100 - 2023/10/08 07:42:19 UTC
+Jeff Davis 6-max Seat #5 is the button
+Seat 5: orgi69 ($12820.59)
+Seat 6: jackstack99999 ($10000)
+orgi69 posts the small blind $50
+jackstack99999 posts the big blind $100
+*** HOLE CARDS *** 
+orgi69 raises $180 to $230
+jackstack99999 folds
+Uncalled bet ($130) returned to orgi69
+orgi69 does not show
+*** SUMMARY ***
+Total pot $200
+Seat 5: orgi69 (small blind) did not showed and won $200
+Seat 6: jackstack99999 (big blind) folded on the Pre-Flop
+
+
+Hand #1888177355 - Holdem(No Limit) - $50/$100 - 2023/10/08 07:43:08 UTC
+Jeff Davis 6-max Seat #6 is the button
+Seat 5: orgi69 ($12920.59)
+Seat 6: jackstack99999 ($10000)
+jackstack99999 posts the small blind $50
+orgi69 posts the big blind $100
+*** HOLE CARDS *** 
+jackstack99999 raises $200 to $250
+orgi69 calls $150
+*** FLOP *** [Jc 8d 3d]
+Main pot $498.75 | Rake $1.25
+orgi69 checks
+jackstack99999 checks
+*** TURN *** [Jc 8d 3d] [9s]
+Main pot $498.75 | Rake $1.25
+orgi69 checks
+jackstack99999 bets $425
+orgi69 folds
+Uncalled bet ($425) returned to jackstack99999
+jackstack99999 does not show
+*** SUMMARY ***
+Total pot $498.75 | Rake $1.25
+Seat 5: orgi69 (big blind) folded on the Turn
+Seat 6: jackstack99999 (small blind) did not showed and won $498.75
+
+
+Hand #1888177721 - Holdem(No Limit) - $50/$100 - 2023/10/08 07:43:15 UTC
+Jeff Davis 6-max Seat #5 is the button
+Seat 5: orgi69 ($12670.59)
+Seat 6: jackstack99999 ($10248.75)
+orgi69 posts the small blind $50
+jackstack99999 posts the big blind $100
+*** HOLE CARDS *** 
+orgi69 folds
+*** SUMMARY ***
+Total pot $150
+Seat 5: orgi69 (small blind) folded on the Pre-Flop
+Seat 6: jackstack99999 (big blind) did not showed and won $150
+
+
+Hand #1888177779 - Holdem(No Limit) - $50/$100 - 2023/10/08 07:44:00 UTC
+Jeff Davis 6-max Seat #6 is the button
+Seat 5: orgi69 ($12620.59)
+Seat 6: jackstack99999 ($10298.75)
+jackstack99999 posts the small blind $50
+orgi69 posts the big blind $100
+*** HOLE CARDS *** 
+jackstack99999 raises $200 to $250
+orgi69 calls $150
+*** FLOP *** [5c Kd 6h]
+Main pot $498.75 | Rake $1.25
+orgi69 checks
+jackstack99999 checks
+*** TURN *** [5c Kd 6h] [3c]
+Main pot $498.75 | Rake $1.25
+orgi69 checks
+jackstack99999 checks
+*** RIVER *** [5c Kd 6h 3c] [4h]
+Main pot $498.75 | Rake $1.25
+orgi69 bets $374.06
+jackstack99999 folds
+Uncalled bet ($374.06) returned to orgi69
+orgi69 does not show
+*** SUMMARY ***
+Total pot $498.75 | Rake $1.25
+Seat 5: orgi69 (big blind) did not showed and won $498.75
+Seat 6: jackstack99999 (small blind) folded on the River
+
+
+Hand #1888178096 - Holdem(No Limit) - $50/$100 - 2023/10/08 07:44:11 UTC
+Jeff Davis 6-max Seat #5 is the button
+Seat 5: orgi69 ($12869.34)
+Seat 6: jackstack99999 ($10048.75)
+orgi69 posts the small blind $50
+jackstack99999 posts the big blind $100
+*** HOLE CARDS *** 
+orgi69 folds
+*** SUMMARY ***
+Total pot $150
+Seat 5: orgi69 (small blind) folded on the Pre-Flop
+Seat 6: jackstack99999 (big blind) did not showed and won $150
+
+
+Hand #1888203359 - Holdem(No Limit) - $50/$100 - 2023/10/08 08:47:05 UTC
+Jeff Davis 6-max Seat #6 is the button
+Seat 5: SeaLlama ($10000)
+Seat 6: jackstack99999 ($10098.75)
+jackstack99999 posts the small blind $50
+SeaLlama posts the big blind $100
+*** HOLE CARDS *** 
+jackstack99999 folds
+*** SUMMARY ***
+Total pot $150
+Seat 5: SeaLlama (big blind) did not showed and won $150
+Seat 6: jackstack99999 (small blind) folded on the Pre-Flop
+
+
+Hand #1888203414 - Holdem(No Limit) - $50/$100 - 2023/10/08 08:48:18 UTC
+Jeff Davis 6-max Seat #5 is the button
+Seat 1: lol voidaments ($10000)
+Seat 2: ILuvAvrilLavigne91 ($10000)
+Seat 5: SeaLlama ($10050)
+Seat 6: jackstack99999 ($10048.75)
+SeaLlama posts the small blind $50
+jackstack99999 posts the big blind $100
+*** HOLE CARDS *** 
+SeaLlama raises $200 to $250
+jackstack99999 calls $150
+*** FLOP *** [4h Qs 5d]
+Main pot $498.75 | Rake $1.25
+jackstack99999 checks
+SeaLlama bets $164
+jackstack99999 calls $164
+*** TURN *** [4h Qs 5d] [3c]
+Main pot $826.75 | Rake $1.25
+jackstack99999 checks
+SeaLlama checks
+*** RIVER *** [4h Qs 5d 3c] [5h]
+Main pot $826.75 | Rake $1.25
+jackstack99999 bets $703.80
+SeaLlama folds
+Uncalled bet ($703.80) returned to jackstack99999
+jackstack99999 does not show
+*** SUMMARY ***
+Total pot $826.75 | Rake $1.25
+Seat 5: SeaLlama (small blind) folded on the River
+Seat 6: jackstack99999 (big blind) did not showed and won $826.75
+
+
+Hand #1888203776 - Holdem(No Limit) - $50/$100 - 2023/10/08 08:48:45 UTC
+Woodland 6-max Seat #6 is the button
+Seat 3: SeaLlama ($10000)
+Seat 6: jackstack99999 ($13257.25)
+jackstack99999 posts the small blind $50
+SeaLlama posts the big blind $100
+*** HOLE CARDS *** 
+jackstack99999 raises $200 to $250
+SeaLlama raises $900 to $1000
+jackstack99999 folds
+Uncalled bet ($750) returned to SeaLlama
+SeaLlama does not show
+*** SUMMARY ***
+Total pot $500
+Seat 3: SeaLlama (big blind) did not showed and won $500
+Seat 6: jackstack99999 (small blind) folded on the Pre-Flop
+
+
+Hand #1888203885 - Holdem(No Limit) - $50/$100 - 2023/10/08 08:49:24 UTC
+Jeff Davis 6-max Seat #6 is the button
+Seat 1: lol voidaments ($10000)
+Seat 2: ILuvAvrilLavigne91 ($10000)
+Seat 3: RealMenRathole ($10000)
+Seat 5: SeaLlama ($10000)
+Seat 6: jackstack99999 ($10461.50)
+jackstack99999 posts the small blind $50
+SeaLlama posts the big blind $100
+*** HOLE CARDS *** 
+jackstack99999 raises $200 to $250
+SeaLlama raises $900 to $1000
+jackstack99999 calls $750
+*** FLOP *** [Jc Th Kc]
+Main pot $1998.75 | Rake $1.25
+SeaLlama checks
+jackstack99999 checks
+*** TURN *** [Jc Th Kc] [7s]
+Main pot $1998.75 | Rake $1.25
+SeaLlama bets $2000
+jackstack99999 folds
+Uncalled bet ($2000) returned to SeaLlama
+SeaLlama does not show
+*** SUMMARY ***
+Total pot $1998.75 | Rake $1.25
+Seat 5: SeaLlama (big blind) did not showed and won $1998.75
+Seat 6: jackstack99999 (small blind) folded on the Turn
+
+
+
+

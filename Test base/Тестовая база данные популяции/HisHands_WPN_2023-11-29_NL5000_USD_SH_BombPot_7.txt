@@ -1,0 +1,282 @@
+
+Hand #1948457934 - Holdem(No Limit) - $25/$50 - 2023/11/29 02:54:02 UTC
+Tiskilwa 6-max Seat #2 is the button
+Seat 1: Pookie1 ($5000)
+Seat 2: Beato85 ($5000)
+Seat 3: Doblou ($5000)
+Seat 4: alanwatts15 ($5000)
+Seat 6: 7SkyAroundMe ($5050)
+Beato85 posts ante $250
+7SkyAroundMe posts ante $250
+*** HOLE CARDS *** 
+*** FLOP *** [Ks 9c 5s]
+Main pot $498.75 | Rake $1.25
+7SkyAroundMe checks
+Beato85 bets $500
+7SkyAroundMe calls $500
+*** TURN *** [Ks 9c 5s] [3d]
+Main pot $1498.75 | Rake $1.25
+7SkyAroundMe checks
+Beato85 checks
+*** RIVER *** [Ks 9c 5s 3d] [6d]
+Main pot $1498.75 | Rake $1.25
+7SkyAroundMe bets $1125
+Beato85 folds
+Uncalled bet ($1125) returned to 7SkyAroundMe
+7SkyAroundMe does not show
+*** SUMMARY ***
+BombPot
+Total pot $1498.75 | Rake $1.25
+Seat 2: Beato85 (button) folded on the River
+Seat 6: 7SkyAroundMe did not showed and won $1498.75
+
+
+Hand #1948467692 - Holdem(No Limit) - $25/$50 - 2023/11/29 03:06:42 UTC
+Tiskilwa 6-max Seat #4 is the button
+Seat 1: ShemaleHunter ($4975)
+Seat 2: Beato85 ($4000.25)
+Seat 3: Doblou ($8455.31)
+Seat 4: alanwatts15 ($5000)
+Seat 5: mlchelangelo ($5000)
+Seat 6: 7SkyAroundMe ($6801.50)
+ShemaleHunter posts ante $250
+Beato85 posts ante $250
+Doblou posts ante $250
+alanwatts15 posts ante $250
+7SkyAroundMe posts ante $250
+*** HOLE CARDS *** 
+*** FLOP *** [8d 8c 8h]
+Main pot $1247 | Rake $3
+7SkyAroundMe checks
+ShemaleHunter checks
+Beato85 bets $625
+Doblou folds
+alanwatts15 folds
+7SkyAroundMe folds
+ShemaleHunter calls $625
+*** TURN *** [8d 8c 8h] [3s]
+Main pot $2497 | Rake $3
+ShemaleHunter checks
+Beato85 checks
+*** RIVER *** [8d 8c 8h 3s] [9s]
+Main pot $2497 | Rake $3
+ShemaleHunter checks
+Beato85 bets $2500
+ShemaleHunter folds
+Uncalled bet ($2500) returned to Beato85
+Beato85 does not show
+*** SUMMARY ***
+BombPot
+Total pot $2497 | Rake $3
+Seat 1: ShemaleHunter folded on the River
+Seat 2: Beato85 did not showed and won $2497
+Seat 3: Doblou folded on the Flop
+Seat 4: alanwatts15 (button) folded on the Flop
+Seat 6: 7SkyAroundMe folded on the Flop
+
+
+Hand #1948580577 - Holdem(No Limit) - $25/$50 - 2023/11/29 05:09:20 UTC
+Tiskilwa 6-max Seat #5 is the button
+Seat 1: maybach1 ($5000)
+Seat 2: ShemaleHunter ($5000)
+Seat 5: stark246 ($2025)
+Seat 6: 7SkyAroundMe ($6601.50)
+stark246 posts ante $250
+7SkyAroundMe posts ante $250
+*** HOLE CARDS *** 
+*** FLOP *** [4c 7s 7h]
+Main pot $498.75 | Rake $1.25
+7SkyAroundMe checks
+stark246 checks
+*** TURN *** [4c 7s 7h] [9d]
+Main pot $498.75 | Rake $1.25
+7SkyAroundMe bets $375
+stark246 raises $1775 to $1775 and is all-in
+7SkyAroundMe folds
+Uncalled bet ($1400) returned to stark246
+stark246 does not show
+*** SUMMARY ***
+BombPot
+Total pot $1248.75 | Rake $1.25
+Seat 5: stark246 (button) did not showed and won $1248.75
+Seat 6: 7SkyAroundMe folded on the Turn
+
+
+Hand #1948598395 - Holdem(No Limit) - $25/$50 - 2023/11/29 05:28:46 UTC
+Tiskilwa 6-max Seat #4 is the button
+Seat 1: maybach1 ($6912.75)
+Seat 2: ShemaleHunter ($5785.40)
+Seat 3: BenaBadBeat ($6535.19)
+Seat 4: alanwatts15 ($5000)
+Seat 5: stark246 ($3558.60)
+Seat 6: 7SkyAroundMe ($5132)
+maybach1 posts ante $250
+ShemaleHunter posts ante $250
+BenaBadBeat posts ante $250
+alanwatts15 posts ante $250
+stark246 posts ante $250
+7SkyAroundMe posts ante $250
+*** HOLE CARDS *** 
+*** FLOP *** [7d 8c 9h]
+Main pot $1497 | Rake $3
+stark246 bets $425
+7SkyAroundMe raises $925 to $925
+maybach1 folds
+ShemaleHunter folds
+BenaBadBeat calls $925
+alanwatts15 folds
+stark246 raises $2883.60 to $3308.60 and is all-in
+7SkyAroundMe raises $3957 to $4882 and is all-in
+BenaBadBeat calls $3957
+*** TURN *** [7d 8c 9h] [Th]
+Main pot $11423.44 | Rake $2.36
+Side pot (1) $3146.16 | Rake $0.64
+*** RIVER *** [7d 8c 9h Th] [5d]
+Main pot $11423.44 | Rake $2.36
+Side pot (1) $3146.16 | Rake $0.64
+*** SHOW DOWN ***
+Main pot $11423.44 | Rake $2.36
+Side pot (1) $3146.16 | Rake $0.64
+7SkyAroundMe shows [6d 5c]
+BenaBadBeat shows [Tc 9c]
+stark246 shows [8d 9s]
+7SkyAroundMe collected $11423.44 from main pot
+7SkyAroundMe collected $3146.16 from side pot-1
+*** SUMMARY ***
+BombPot
+Total pot $14569.60 | Rake $3
+Seat 1: maybach1 folded on the Flop
+Seat 2: ShemaleHunter folded on the Flop
+Seat 3: BenaBadBeat showed [Tc 9c] and lost
+Seat 4: alanwatts15 (button) folded on the Flop
+Seat 5: stark246 showed [8d 9s] and lost
+Seat 6: 7SkyAroundMe showed [6d 5c] and won $14569.60 with a
+
+
+Hand #1948601519 - Holdem(No Limit) - $25/$50 - 2023/11/29 05:32:31 UTC
+Tiskilwa 6-max Seat #1 is the button
+Seat 1: maybach1 ($6662.75)
+Seat 2: greendogshin ($5000)
+Seat 3: BenaBadBeat ($5180.99)
+Seat 4: alanwatts15 ($5000)
+Seat 5: Doblou ($5000)
+Seat 6: 7SkyAroundMe ($14385.61)
+maybach1 posts ante $250
+BenaBadBeat posts ante $250
+alanwatts15 posts ante $250
+7SkyAroundMe posts ante $250
+*** HOLE CARDS *** 
+*** FLOP *** [9h 7c Ks]
+Main pot $997.75 | Rake $2.25
+BenaBadBeat checks
+alanwatts15 checks
+7SkyAroundMe checks
+maybach1 checks
+*** TURN *** [9h 7c Ks] [As]
+Main pot $997.75 | Rake $2.25
+BenaBadBeat checks
+alanwatts15 checks
+7SkyAroundMe checks
+maybach1 checks
+*** RIVER *** [9h 7c Ks As] [Jh]
+Main pot $997.75 | Rake $2.25
+BenaBadBeat checks
+alanwatts15 bets $1500
+7SkyAroundMe folds
+maybach1 folds
+BenaBadBeat folds
+Uncalled bet ($1500) returned to alanwatts15
+alanwatts15 does not show
+*** SUMMARY ***
+BombPot
+Total pot $997.75 | Rake $2.25
+Seat 1: maybach1 (button) folded on the River
+Seat 3: BenaBadBeat folded on the River
+Seat 4: alanwatts15 did not showed and won $997.75
+Seat 6: 7SkyAroundMe folded on the River
+
+
+Hand #1948620898 - Holdem(No Limit) - $25/$50 - 2023/11/29 05:55:02 UTC
+Tiskilwa 6-max Seat #6 is the button
+Seat 1: Shkipan ($2669.25)
+Seat 2: ILuvAvrilLavigne91 ($5000)
+Seat 3: maybach1 ($6187.75)
+Seat 4: uhhhyesandno ($5329)
+Seat 5: stark246 ($6318.20)
+Seat 6: 7SkyAroundMe ($11600.13)
+Shkipan posts ante $250
+ILuvAvrilLavigne91 posts ante $250
+maybach1 posts ante $250
+uhhhyesandno posts ante $250
+stark246 posts ante $250
+7SkyAroundMe posts ante $250
+*** HOLE CARDS *** 
+*** FLOP *** [Jd Ts 9d]
+Main pot $1497 | Rake $3
+Shkipan checks
+ILuvAvrilLavigne91 checks
+maybach1 checks
+uhhhyesandno checks
+stark246 checks
+7SkyAroundMe checks
+*** TURN *** [Jd Ts 9d] [8d]
+Main pot $1497 | Rake $3
+Shkipan checks
+ILuvAvrilLavigne91 checks
+maybach1 checks
+uhhhyesandno checks
+stark246 checks
+7SkyAroundMe checks
+*** RIVER *** [Jd Ts 9d 8d] [8s]
+Main pot $1497 | Rake $3
+Shkipan checks
+ILuvAvrilLavigne91 checks
+maybach1 checks
+uhhhyesandno checks
+stark246 checks
+7SkyAroundMe checks
+*** SHOW DOWN ***
+Main pot $1497 | Rake $3
+maybach1 shows [7c 3s]
+maybach1 collected $1497 from main pot
+*** SUMMARY ***
+BombPot
+Total pot $1497 | Rake $3
+Seat 1: Shkipan did not showed and lost
+Seat 2: ILuvAvrilLavigne91 did not showed and lost
+Seat 3: maybach1 showed [7c 3s] and won $1497 with Straight [Jd Ts 9d 8s 7c]
+Seat 4: uhhhyesandno did not showed and lost
+Seat 5: stark246 did not showed and lost
+Seat 6: 7SkyAroundMe (button) did not showed and lost
+
+
+Hand #1948718366 - Holdem(No Limit) - $25/$50 - 2023/11/29 08:34:26 UTC
+Tiskilwa 6-max Seat #2 is the button
+Seat 2: SeaLlama ($5000)
+Seat 3: mlchelangelo ($5000)
+Seat 5: 7SkyAroundMe ($5000)
+Seat 6: TheMestresis ($5000)
+SeaLlama posts ante $250
+7SkyAroundMe posts ante $250
+*** HOLE CARDS *** 
+*** FLOP *** [6h Jc 7c]
+Main pot $498.75 | Rake $1.25
+7SkyAroundMe checks
+SeaLlama checks
+*** TURN *** [6h Jc 7c] [Th]
+Main pot $498.75 | Rake $1.25
+7SkyAroundMe checks
+SeaLlama checks
+*** RIVER *** [6h Jc 7c Th] [Kh]
+Main pot $498.75 | Rake $1.25
+7SkyAroundMe checks
+SeaLlama bets $250
+7SkyAroundMe folds
+Uncalled bet ($250) returned to SeaLlama
+SeaLlama does not show
+*** SUMMARY ***
+BombPot
+Total pot $498.75 | Rake $1.25
+Seat 2: SeaLlama (button) did not showed and won $498.75
+Seat 5: 7SkyAroundMe folded on the River
+
