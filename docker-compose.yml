@@ -1,0 +1,10 @@
+services:
+  app:
+    build: .
+    ports:
+      - "8000:8000"
+    volumes:
+      - "./Test base:/app/Test base:ro"
+    environment:
+      - TEST_BASE_PATH=/app/Test base
+    restart: unless-stopped
