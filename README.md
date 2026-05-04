@@ -99,15 +99,6 @@ mini-poker-stats-explorer/
 | Документ | Описание |
 |----------|----------|
 | [diagnosis.md](./diagnosis.md) | **Отчёт** — что построил, как, почему |
-| [POKER_EXPLAINED.md](./docs/POKER_EXPLAINED.md) | Покер и прототип для новичков |
-| [MANUAL_TEST.md](./docs/MANUAL_TEST.md) | Пошаговая инструкция проверки |
-| [DECISIONS.md](./docs/DECISIONS.md) | Принятые решения и roadmap |
-| [ARCHITECTURE.md](./docs/ARCHITECTURE.md) | Гексагональная архитектура |
-| [DATA_FLOW.md](./docs/DATA_FLOW.md) | Путь данных от файла до UI |
-| [API.md](./docs/API.md) | REST API endpoints |
-| [DEVELOPMENT.md](./docs/DEVELOPMENT.md) | Разработка и отладка |
-| [ASSUMPTIONS.md](./docs/ASSUMPTIONS.md) | Допущения и ограничения |
-| [COMPLIANCE.md](./docs/COMPLIANCE.md) | Проверка соответствия требованиям |
 
 ## Стек
 
